@@ -429,11 +429,42 @@ class LingXMApp {
     }
   }
 
-  toggleSaveWord() {
+  async toggleSaveWord() {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const word = this.wordData[lang.code][this.currentWordIndex];
     const key = `${this.profileKey}-${lang.code}-${this.currentWordIndex}`;
 
+    // Update database if available
+    if (this.progressTracker?.useDatabase && this.progressTracker?.userId) {
+      try {
+        const { dbManager } = await import('./utils/database.js');
+        const isSaved = dbManager.isWordSaved(
+          this.progressTracker.userId,
+          lang.code,
+          this.currentWordIndex
+        );
+
+        if (isSaved) {
+          dbManager.unsaveWord(
+            this.progressTracker.userId,
+            lang.code,
+            this.currentWordIndex
+          );
+        } else {
+          dbManager.saveWord(
+            this.progressTracker.userId,
+            lang.code,
+            word.word,
+            this.currentWordIndex,
+            ''
+          );
+        }
+      } catch (error) {
+        console.error('[SavedWords] Database operation failed:', error);
+      }
+    }
+
+    // Always update localStorage as backup
     if (this.savedWords.has(key)) {
       this.savedWords.delete(key);
     } else {
@@ -444,12 +475,29 @@ class LingXMApp {
     this.updateSaveButton();
   }
 
-  updateSaveButton() {
+  async updateSaveButton() {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const key = `${this.profileKey}-${lang.code}-${this.currentWordIndex}`;
     const btn = document.getElementById('save-word-btn');
 
-    btn.textContent = this.savedWords.has(key) ? '★' : '☆';
+    let isSaved = this.savedWords.has(key);
+
+    // Check database if available (takes priority)
+    if (this.progressTracker?.useDatabase && this.progressTracker?.userId) {
+      try {
+        const { dbManager } = await import('./utils/database.js');
+        isSaved = dbManager.isWordSaved(
+          this.progressTracker.userId,
+          lang.code,
+          this.currentWordIndex
+        );
+      } catch (error) {
+        // Fallback to localStorage
+        console.error('[SavedWords] Failed to check database:', error);
+      }
+    }
+
+    btn.textContent = isSaved ? '★' : '☆';
   }
 
   loadSavedWords() {
