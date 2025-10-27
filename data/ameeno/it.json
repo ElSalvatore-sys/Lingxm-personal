@@ -1,0 +1,3016 @@
+[
+  {
+    "word": "ciao",
+    "translations": {
+      "fa": "سلام، خداحافظ",
+      "en": "hello, bye"
+    },
+    "explanation": {
+      "fa": "کلمهٔ غیررسمی برای سلام کردن یا خداحافظی.",
+      "en": "Informal word for greeting or saying goodbye."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ciao! Come stai?",
+        "سلام! حالت چطوره؟"
+      ],
+      "en": [
+        "Ciao a tutti!",
+        "Hello everyone!"
+      ]
+    }
+  },
+  {
+    "word": "buongiorno",
+    "translations": {
+      "fa": "روز بخیر",
+      "en": "good morning, good day"
+    },
+    "explanation": {
+      "fa": "احوالپرسی رسمی برای صبح و روز.",
+      "en": "Formal greeting for morning and daytime."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Buongiorno, signora!",
+        "روز بخیر، خانم!"
+      ],
+      "en": [
+        "Buongiorno a tutti!",
+        "Good morning everyone!"
+      ]
+    }
+  },
+  {
+    "word": "buonasera",
+    "translations": {
+      "fa": "عصر بخیر",
+      "en": "good evening"
+    },
+    "explanation": {
+      "fa": "احوالپرسی رسمی برای عصر و شب.",
+      "en": "Formal greeting for evening."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Buonasera, signore!",
+        "عصر بخیر، آقا!"
+      ],
+      "en": [
+        "Buonasera!",
+        "Good evening!"
+      ]
+    }
+  },
+  {
+    "word": "grazie",
+    "translations": {
+      "fa": "متشکرم",
+      "en": "thank you"
+    },
+    "explanation": {
+      "fa": "کلمه برای ابراز قدردانی.",
+      "en": "Word to express gratitude."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Grazie mille!",
+        "خیلی ممنون!"
+      ],
+      "en": [
+        "Grazie per tutto.",
+        "Thank you for everything."
+      ]
+    }
+  },
+  {
+    "word": "prego",
+    "translations": {
+      "fa": "خواهش می‌کنم",
+      "en": "you're welcome, please"
+    },
+    "explanation": {
+      "fa": "پاسخ به تشکر یا دعوت مؤدبانه.",
+      "en": "Response to thanks or polite invitation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Grazie! - Prego!",
+        "ممنون! - خواهش می‌کنم!"
+      ],
+      "en": [
+        "Prego, si accomodi.",
+        "Please, have a seat."
+      ]
+    }
+  },
+  {
+    "word": "scusa",
+    "translations": {
+      "fa": "ببخش",
+      "en": "sorry, excuse me (informal)"
+    },
+    "explanation": {
+      "fa": "عذرخواهی غیررسمی.",
+      "en": "Informal apology."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Scusa, non ti ho visto.",
+        "ببخش، تو را ندیدم."
+      ],
+      "en": [
+        "Scusa il ritardo.",
+        "Sorry for being late."
+      ]
+    }
+  },
+  {
+    "word": "scusi",
+    "translations": {
+      "fa": "ببخشید",
+      "en": "sorry, excuse me (formal)"
+    },
+    "explanation": {
+      "fa": "عذرخواهی رسمی.",
+      "en": "Formal apology."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Scusi, dov'è la stazione?",
+        "ببخشید، ایستگاه کجاست؟"
+      ],
+      "en": [
+        "Mi scusi!",
+        "Excuse me!"
+      ]
+    }
+  },
+  {
+    "word": "sì",
+    "translations": {
+      "fa": "بله",
+      "en": "yes"
+    },
+    "explanation": {
+      "fa": "کلمهٔ تأیید.",
+      "en": "Word of affirmation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sì, va bene.",
+        "بله، خوب است."
+      ],
+      "en": [
+        "Sì, grazie.",
+        "Yes, thank you."
+      ]
+    }
+  },
+  {
+    "word": "no",
+    "translations": {
+      "fa": "نه",
+      "en": "no"
+    },
+    "explanation": {
+      "fa": "کلمهٔ نفی.",
+      "en": "Word of negation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "No, grazie.",
+        "نه، ممنون."
+      ],
+      "en": [
+        "No, non posso.",
+        "No, I can't."
+      ]
+    }
+  },
+  {
+    "word": "io",
+    "translations": {
+      "fa": "من",
+      "en": "I"
+    },
+    "explanation": {
+      "fa": "ضمیر اول شخص مفرد.",
+      "en": "First person singular pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Io sono Maria.",
+        "من ماریا هستم."
+      ],
+      "en": [
+        "Io parlo italiano.",
+        "I speak Italian."
+      ]
+    }
+  },
+  {
+    "word": "tu",
+    "translations": {
+      "fa": "تو",
+      "en": "you (informal)"
+    },
+    "explanation": {
+      "fa": "ضمیر دوم شخص مفرد غیررسمی.",
+      "en": "Second person singular informal pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Tu sei italiano?",
+        "تو ایتالیایی هستی؟"
+      ],
+      "en": [
+        "Come ti chiami?",
+        "What's your name?"
+      ]
+    }
+  },
+  {
+    "word": "lui",
+    "translations": {
+      "fa": "او (مرد)",
+      "en": "he"
+    },
+    "explanation": {
+      "fa": "ضمیر سوم شخص مفرد مذکر.",
+      "en": "Third person singular masculine pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Lui è mio fratello.",
+        "او برادر من است."
+      ],
+      "en": [
+        "Lui studia italiano.",
+        "He studies Italian."
+      ]
+    }
+  },
+  {
+    "word": "lei",
+    "translations": {
+      "fa": "او (زن)",
+      "en": "she"
+    },
+    "explanation": {
+      "fa": "ضمیر سوم شخص مفرد مؤنث.",
+      "en": "Third person singular feminine pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Lei è mia sorella.",
+        "او خواهر من است."
+      ],
+      "en": [
+        "Lei lavora qui.",
+        "She works here."
+      ]
+    }
+  },
+  {
+    "word": "noi",
+    "translations": {
+      "fa": "ما",
+      "en": "we"
+    },
+    "explanation": {
+      "fa": "ضمیر اول شخص جمع.",
+      "en": "First person plural pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Noi siamo studenti.",
+        "ما دانشجو هستیم."
+      ],
+      "en": [
+        "Noi andiamo a casa.",
+        "We are going home."
+      ]
+    }
+  },
+  {
+    "word": "voi",
+    "translations": {
+      "fa": "شما",
+      "en": "you (plural)"
+    },
+    "explanation": {
+      "fa": "ضمیر دوم شخص جمع.",
+      "en": "Second person plural pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Voi siete italiani?",
+        "شما ایتالیایی هستید؟"
+      ],
+      "en": [
+        "Dove andate voi?",
+        "Where are you going?"
+      ]
+    }
+  },
+  {
+    "word": "loro",
+    "translations": {
+      "fa": "آنها",
+      "en": "they"
+    },
+    "explanation": {
+      "fa": "ضمیر سوم شخص جمع.",
+      "en": "Third person plural pronoun."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Loro sono amici.",
+        "آنها دوست هستند."
+      ],
+      "en": [
+        "Loro parlano italiano.",
+        "They speak Italian."
+      ]
+    }
+  },
+  {
+    "word": "essere",
+    "translations": {
+      "fa": "بودن",
+      "en": "to be"
+    },
+    "explanation": {
+      "fa": "فعل کمکی بودن.",
+      "en": "The auxiliary verb to be."
+    },
+    "conjugations": ["essere", "è", "era", "è stato"],
+    "examples": {
+      "fa": [
+        "Io sono felice.",
+        "من خوشحال هستم."
+      ],
+      "en": [
+        "Lei è italiana.",
+        "She is Italian."
+      ]
+    }
+  },
+  {
+    "word": "avere",
+    "translations": {
+      "fa": "داشتن",
+      "en": "to have"
+    },
+    "explanation": {
+      "fa": "فعل داشتن.",
+      "en": "The verb to have."
+    },
+    "conjugations": ["avere", "ha", "aveva", "ha avuto"],
+    "examples": {
+      "fa": [
+        "Io ho una macchina.",
+        "من یک ماشین دارم."
+      ],
+      "en": [
+        "Lui ha due fratelli.",
+        "He has two brothers."
+      ]
+    }
+  },
+  {
+    "word": "fare",
+    "translations": {
+      "fa": "انجام دادن",
+      "en": "to do, to make"
+    },
+    "explanation": {
+      "fa": "کردن یا ساختن.",
+      "en": "To do or to make something."
+    },
+    "conjugations": ["fare", "fa", "faceva", "ha fatto"],
+    "examples": {
+      "fa": [
+        "Cosa fai?",
+        "چه کار می‌کنی؟"
+      ],
+      "en": [
+        "Faccio i compiti.",
+        "I'm doing homework."
+      ]
+    }
+  },
+  {
+    "word": "andare",
+    "translations": {
+      "fa": "رفتن",
+      "en": "to go"
+    },
+    "explanation": {
+      "fa": "حرکت کردن به جایی.",
+      "en": "To move to a place."
+    },
+    "conjugations": ["andare", "va", "andava", "è andato"],
+    "examples": {
+      "fa": [
+        "Vado a scuola.",
+        "من به مدرسه می‌روم."
+      ],
+      "en": [
+        "Andiamo al cinema?",
+        "Shall we go to the cinema?"
+      ]
+    }
+  },
+  {
+    "word": "venire",
+    "translations": {
+      "fa": "آمدن",
+      "en": "to come"
+    },
+    "explanation": {
+      "fa": "حرکت کردن به سمت اینجا.",
+      "en": "To move toward here."
+    },
+    "conjugations": ["venire", "viene", "veniva", "è venuto"],
+    "examples": {
+      "fa": [
+        "Vieni con me?",
+        "با من می‌آیی؟"
+      ],
+      "en": [
+        "Vengo subito!",
+        "I'm coming right away!"
+      ]
+    }
+  },
+  {
+    "word": "parlare",
+    "translations": {
+      "fa": "صحبت کردن",
+      "en": "to speak"
+    },
+    "explanation": {
+      "fa": "حرف زدن.",
+      "en": "To talk or speak."
+    },
+    "conjugations": ["parlare", "parla", "parlava", "ha parlato"],
+    "examples": {
+      "fa": [
+        "Parlo italiano.",
+        "من ایتالیایی صحبت می‌کنم."
+      ],
+      "en": [
+        "Parli inglese?",
+        "Do you speak English?"
+      ]
+    }
+  },
+  {
+    "word": "mangiare",
+    "translations": {
+      "fa": "خوردن",
+      "en": "to eat"
+    },
+    "explanation": {
+      "fa": "غذا خوردن.",
+      "en": "To consume food."
+    },
+    "conjugations": ["mangiare", "mangia", "mangiava", "ha mangiato"],
+    "examples": {
+      "fa": [
+        "Mangio la pizza.",
+        "من پیتزا می‌خورم."
+      ],
+      "en": [
+        "Cosa mangi?",
+        "What are you eating?"
+      ]
+    }
+  },
+  {
+    "word": "bere",
+    "translations": {
+      "fa": "نوشیدن",
+      "en": "to drink"
+    },
+    "explanation": {
+      "fa": "مایعات نوشیدن.",
+      "en": "To consume liquids."
+    },
+    "conjugations": ["bere", "beve", "beveva", "ha bevuto"],
+    "examples": {
+      "fa": [
+        "Bevo un caffè.",
+        "من یک قهوه می‌نوشم."
+      ],
+      "en": [
+        "Cosa bevi?",
+        "What are you drinking?"
+      ]
+    }
+  },
+  {
+    "word": "dormire",
+    "translations": {
+      "fa": "خوابیدن",
+      "en": "to sleep"
+    },
+    "explanation": {
+      "fa": "استراحت شبانه.",
+      "en": "To rest at night."
+    },
+    "conjugations": ["dormire", "dorme", "dormiva", "ha dormito"],
+    "examples": {
+      "fa": [
+        "Dormo 8 ore.",
+        "من ۸ ساعت می‌خوابم."
+      ],
+      "en": [
+        "Dormi bene!",
+        "Sleep well!"
+      ]
+    }
+  },
+  {
+    "word": "lavorare",
+    "translations": {
+      "fa": "کار کردن",
+      "en": "to work"
+    },
+    "explanation": {
+      "fa": "شغل داشتن یا کار انجام دادن.",
+      "en": "To have a job or do work."
+    },
+    "conjugations": ["lavorare", "lavora", "lavorava", "ha lavorato"],
+    "examples": {
+      "fa": [
+        "Lavoro in un ufficio.",
+        "من در یک دفتر کار می‌کنم."
+      ],
+      "en": [
+        "Dove lavori?",
+        "Where do you work?"
+      ]
+    }
+  },
+  {
+    "word": "studiare",
+    "translations": {
+      "fa": "درس خواندن",
+      "en": "to study"
+    },
+    "explanation": {
+      "fa": "یادگیری در مدرسه یا دانشگاه.",
+      "en": "To learn at school or university."
+    },
+    "conjugations": ["studiare", "studia", "studiava", "ha studiato"],
+    "examples": {
+      "fa": [
+        "Studio italiano.",
+        "من ایتالیایی درس می‌خوانم."
+      ],
+      "en": [
+        "Cosa studi?",
+        "What are you studying?"
+      ]
+    }
+  },
+  {
+    "word": "capire",
+    "translations": {
+      "fa": "فهمیدن",
+      "en": "to understand"
+    },
+    "explanation": {
+      "fa": "معنی چیزی را درک کردن.",
+      "en": "To comprehend the meaning of something."
+    },
+    "conjugations": ["capire", "capisce", "capiva", "ha capito"],
+    "examples": {
+      "fa": [
+        "Capisci l'italiano?",
+        "ایتالیایی را می‌فهمی؟"
+      ],
+      "en": [
+        "Non capisco.",
+        "I don't understand."
+      ]
+    }
+  },
+  {
+    "word": "amare",
+    "translations": {
+      "fa": "دوست داشتن، عاشق بودن",
+      "en": "to love"
+    },
+    "explanation": {
+      "fa": "عشق ورزیدن.",
+      "en": "To feel love."
+    },
+    "conjugations": ["amare", "ama", "amava", "ha amato"],
+    "examples": {
+      "fa": [
+        "Amo la musica.",
+        "من موسیقی را دوست دارم."
+      ],
+      "en": [
+        "Ti amo.",
+        "I love you."
+      ]
+    }
+  },
+  {
+    "word": "chiamarsi",
+    "translations": {
+      "fa": "نام داشتن",
+      "en": "to be called"
+    },
+    "explanation": {
+      "fa": "نام داشتن.",
+      "en": "To have a name."
+    },
+    "conjugations": ["chiamarsi", "si chiama", "si chiamava", "si è chiamato"],
+    "examples": {
+      "fa": [
+        "Mi chiamo Marco.",
+        "نام من مارکو است."
+      ],
+      "en": [
+        "Come ti chiami?",
+        "What's your name?"
+      ]
+    }
+  },
+  {
+    "word": "nome",
+    "translations": {
+      "fa": "نام",
+      "en": "name"
+    },
+    "explanation": {
+      "fa": "آنچه کسی یا چیزی نامیده می‌شود.",
+      "en": "What someone or something is called."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Qual è il tuo nome?",
+        "نام تو چیست؟"
+      ],
+      "en": [
+        "Il mio nome è Anna.",
+        "My name is Anna."
+      ]
+    }
+  },
+  {
+    "word": "cognome",
+    "translations": {
+      "fa": "نام خانوادگی",
+      "en": "surname, last name"
+    },
+    "explanation": {
+      "fa": "نام خانواده.",
+      "en": "Family name."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il mio cognome è Rossi.",
+        "نام خانوادگی من روسی است."
+      ],
+      "en": [
+        "Qual è il tuo cognome?",
+        "What's your surname?"
+      ]
+    }
+  },
+  {
+    "word": "famiglia",
+    "translations": {
+      "fa": "خانواده",
+      "en": "family"
+    },
+    "explanation": {
+      "fa": "والدین و فرزندان.",
+      "en": "Parents and children."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La mia famiglia è grande.",
+        "خانوادهٔ من بزرگ است."
+      ],
+      "en": [
+        "Amo la mia famiglia.",
+        "I love my family."
+      ]
+    }
+  },
+  {
+    "word": "padre",
+    "translations": {
+      "fa": "پدر",
+      "en": "father"
+    },
+    "explanation": {
+      "fa": "پدر.",
+      "en": "Male parent."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Mio padre lavora.",
+        "پدرم کار می‌کند."
+      ],
+      "en": [
+        "Il padre di Marco è dottore.",
+        "Marco's father is a doctor."
+      ]
+    }
+  },
+  {
+    "word": "madre",
+    "translations": {
+      "fa": "مادر",
+      "en": "mother"
+    },
+    "explanation": {
+      "fa": "مادر.",
+      "en": "Female parent."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Mia madre cucina bene.",
+        "مادرم خوب غذا می‌پزد."
+      ],
+      "en": [
+        "La madre di Anna è insegnante.",
+        "Anna's mother is a teacher."
+      ]
+    }
+  },
+  {
+    "word": "fratello",
+    "translations": {
+      "fa": "برادر",
+      "en": "brother"
+    },
+    "explanation": {
+      "fa": "پسر هم‌خانواده.",
+      "en": "Male sibling."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho un fratello.",
+        "من یک برادر دارم."
+      ],
+      "en": [
+        "Mio fratello ha 20 anni.",
+        "My brother is 20 years old."
+      ]
+    }
+  },
+  {
+    "word": "sorella",
+    "translations": {
+      "fa": "خواهر",
+      "en": "sister"
+    },
+    "explanation": {
+      "fa": "دختر هم‌خانواده.",
+      "en": "Female sibling."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho due sorelle.",
+        "من دو خواهر دارم."
+      ],
+      "en": [
+        "Mia sorella studia medicina.",
+        "My sister studies medicine."
+      ]
+    }
+  },
+  {
+    "word": "nonno",
+    "translations": {
+      "fa": "پدربزرگ",
+      "en": "grandfather"
+    },
+    "explanation": {
+      "fa": "پدر پدر یا مادر.",
+      "en": "Father's or mother's father."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Mio nonno ha 80 anni.",
+        "پدربزرگم ۸۰ سال دارد."
+      ],
+      "en": [
+        "Il nonno racconta storie.",
+        "Grandfather tells stories."
+      ]
+    }
+  },
+  {
+    "word": "nonna",
+    "translations": {
+      "fa": "مادربزرگ",
+      "en": "grandmother"
+    },
+    "explanation": {
+      "fa": "مادر پدر یا مادر.",
+      "en": "Father's or mother's mother."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Mia nonna cucina molto bene.",
+        "مادربزرگم خیلی خوب غذا می‌پزد."
+      ],
+      "en": [
+        "La nonna fa i biscotti.",
+        "Grandmother makes cookies."
+      ]
+    }
+  },
+  {
+    "word": "figlio",
+    "translations": {
+      "fa": "پسر",
+      "en": "son"
+    },
+    "explanation": {
+      "fa": "فرزند پسر.",
+      "en": "Male child."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho un figlio.",
+        "من یک پسر دارم."
+      ],
+      "en": [
+        "Mio figlio va a scuola.",
+        "My son goes to school."
+      ]
+    }
+  },
+  {
+    "word": "figlia",
+    "translations": {
+      "fa": "دختر",
+      "en": "daughter"
+    },
+    "explanation": {
+      "fa": "فرزند دختر.",
+      "en": "Female child."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho una figlia.",
+        "من یک دختر دارم."
+      ],
+      "en": [
+        "Mia figlia studia arte.",
+        "My daughter studies art."
+      ]
+    }
+  },
+  {
+    "word": "amico",
+    "translations": {
+      "fa": "دوست (مرد)",
+      "en": "friend (male)"
+    },
+    "explanation": {
+      "fa": "دوست مرد.",
+      "en": "Male friend."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Marco è il mio amico.",
+        "مارکو دوست من است."
+      ],
+      "en": [
+        "Ho molti amici.",
+        "I have many friends."
+      ]
+    }
+  },
+  {
+    "word": "amica",
+    "translations": {
+      "fa": "دوست (زن)",
+      "en": "friend (female)"
+    },
+    "explanation": {
+      "fa": "دوست زن.",
+      "en": "Female friend."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Anna è la mia amica.",
+        "آنا دوست من است."
+      ],
+      "en": [
+        "Le mie amiche sono simpatiche.",
+        "My friends are nice."
+      ]
+    }
+  },
+  {
+    "word": "casa",
+    "translations": {
+      "fa": "خانه",
+      "en": "house, home"
+    },
+    "explanation": {
+      "fa": "محل زندگی.",
+      "en": "Place where you live."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado a casa.",
+        "من به خانه می‌روم."
+      ],
+      "en": [
+        "La mia casa è grande.",
+        "My house is big."
+      ]
+    }
+  },
+  {
+    "word": "scuola",
+    "translations": {
+      "fa": "مدرسه",
+      "en": "school"
+    },
+    "explanation": {
+      "fa": "محل آموزش.",
+      "en": "Place of education."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado a scuola ogni giorno.",
+        "من هر روز به مدرسه می‌روم."
+      ],
+      "en": [
+        "La scuola inizia alle 8.",
+        "School starts at 8."
+      ]
+    }
+  },
+  {
+    "word": "università",
+    "translations": {
+      "fa": "دانشگاه",
+      "en": "university"
+    },
+    "explanation": {
+      "fa": "مؤسسهٔ آموزش عالی.",
+      "en": "Higher education institution."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Studio all'università.",
+        "من در دانشگاه درس می‌خوانم."
+      ],
+      "en": [
+        "L'università è vicina.",
+        "The university is nearby."
+      ]
+    }
+  },
+  {
+    "word": "città",
+    "translations": {
+      "fa": "شهر",
+      "en": "city"
+    },
+    "explanation": {
+      "fa": "محل بزرگ با ساختمان‌های زیاد.",
+      "en": "Large place with many buildings."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Roma è una bella città.",
+        "رم یک شهر زیبا است."
+      ],
+      "en": [
+        "Vivo in città.",
+        "I live in the city."
+      ]
+    }
+  },
+  {
+    "word": "paese",
+    "translations": {
+      "fa": "کشور، روستا",
+      "en": "country, village"
+    },
+    "explanation": {
+      "fa": "کشور یا روستای کوچک.",
+      "en": "A country or small village."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "L'Italia è un bel paese.",
+        "ایتالیا کشور زیبایی است."
+      ],
+      "en": [
+        "Vengo da un piccolo paese.",
+        "I come from a small village."
+      ]
+    }
+  },
+  {
+    "word": "strada",
+    "translations": {
+      "fa": "خیابان",
+      "en": "street, road"
+    },
+    "explanation": {
+      "fa": "راه برای رفتن.",
+      "en": "Path for walking or driving."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Abito in questa strada.",
+        "من در این خیابان زندگی می‌کنم."
+      ],
+      "en": [
+        "La strada è lunga.",
+        "The road is long."
+      ]
+    }
+  },
+  {
+    "word": "piazza",
+    "translations": {
+      "fa": "میدان",
+      "en": "square, plaza"
+    },
+    "explanation": {
+      "fa": "فضای باز در شهر.",
+      "en": "Open space in a city."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ci vediamo in piazza.",
+        "در میدان همدیگر را می‌بینیم."
+      ],
+      "en": [
+        "La piazza è bella.",
+        "The square is beautiful."
+      ]
+    }
+  },
+  {
+    "word": "negozio",
+    "translations": {
+      "fa": "فروشگاه",
+      "en": "shop, store"
+    },
+    "explanation": {
+      "fa": "محل خرید.",
+      "en": "Place to buy things."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado al negozio.",
+        "من به فروشگاه می‌روم."
+      ],
+      "en": [
+        "Il negozio è chiuso.",
+        "The shop is closed."
+      ]
+    }
+  },
+  {
+    "word": "supermercato",
+    "translations": {
+      "fa": "سوپرمارکت",
+      "en": "supermarket"
+    },
+    "explanation": {
+      "fa": "فروشگاه بزرگ برای مواد غذایی.",
+      "en": "Large store for groceries."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Faccio la spesa al supermercato.",
+        "من در سوپرمارکت خرید می‌کنم."
+      ],
+      "en": [
+        "Il supermercato è aperto.",
+        "The supermarket is open."
+      ]
+    }
+  },
+  {
+    "word": "ristorante",
+    "translations": {
+      "fa": "رستوران",
+      "en": "restaurant"
+    },
+    "explanation": {
+      "fa": "محلی برای خوردن غذا.",
+      "en": "Place to eat food."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Andiamo al ristorante?",
+        "به رستوران برویم؟"
+      ],
+      "en": [
+        "Il ristorante è buono.",
+        "The restaurant is good."
+      ]
+    }
+  },
+  {
+    "word": "bar",
+    "translations": {
+      "fa": "کافه",
+      "en": "café, bar"
+    },
+    "explanation": {
+      "fa": "محل نوشیدن قهوه.",
+      "en": "Place to drink coffee."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prendo un caffè al bar.",
+        "من در کافه قهوه می‌خورم."
+      ],
+      "en": [
+        "Il bar è vicino.",
+        "The café is nearby."
+      ]
+    }
+  },
+  {
+    "word": "pane",
+    "translations": {
+      "fa": "نان",
+      "en": "bread"
+    },
+    "explanation": {
+      "fa": "غذای پخته شده از آرد.",
+      "en": "Food baked from flour."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Compro il pane.",
+        "من نان می‌خرم."
+      ],
+      "en": [
+        "Il pane è fresco.",
+        "The bread is fresh."
+      ]
+    }
+  },
+  {
+    "word": "acqua",
+    "translations": {
+      "fa": "آب",
+      "en": "water"
+    },
+    "explanation": {
+      "fa": "مایع بی‌رنگ برای نوشیدن.",
+      "en": "Colorless liquid to drink."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Bevo acqua.",
+        "من آب می‌نوشم."
+      ],
+      "en": [
+        "L'acqua è fresca.",
+        "The water is cool."
+      ]
+    }
+  },
+  {
+    "word": "caffè",
+    "translations": {
+      "fa": "قهوه",
+      "en": "coffee"
+    },
+    "explanation": {
+      "fa": "نوشیدنی گرم از دانهٔ قهوه.",
+      "en": "Hot drink from coffee beans."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prendo un caffè.",
+        "من یک قهوه می‌خورم."
+      ],
+      "en": [
+        "Il caffè è buono.",
+        "The coffee is good."
+      ]
+    }
+  },
+  {
+    "word": "tè",
+    "translations": {
+      "fa": "چای",
+      "en": "tea"
+    },
+    "explanation": {
+      "fa": "نوشیدنی گرم از برگ چای.",
+      "en": "Hot drink from tea leaves."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Bevo il tè.",
+        "من چای می‌نوشم."
+      ],
+      "en": [
+        "Il tè è caldo.",
+        "The tea is hot."
+      ]
+    }
+  },
+  {
+    "word": "latte",
+    "translations": {
+      "fa": "شیر",
+      "en": "milk"
+    },
+    "explanation": {
+      "fa": "مایع سفید از گاو.",
+      "en": "White liquid from cows."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Bevo il latte ogni mattina.",
+        "من هر صبح شیر می‌نوشم."
+      ],
+      "en": [
+        "Il latte è freddo.",
+        "The milk is cold."
+      ]
+    }
+  },
+  {
+    "word": "vino",
+    "translations": {
+      "fa": "شراب",
+      "en": "wine"
+    },
+    "explanation": {
+      "fa": "نوشیدنی الکلی از انگور.",
+      "en": "Alcoholic drink from grapes."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il vino rosso è buono.",
+        "شراب قرمز خوب است."
+      ],
+      "en": [
+        "Bevo un bicchiere di vino.",
+        "I drink a glass of wine."
+      ]
+    }
+  },
+  {
+    "word": "pizza",
+    "translations": {
+      "fa": "پیتزا",
+      "en": "pizza"
+    },
+    "explanation": {
+      "fa": "غذای ایتالیایی با نان و پنیر.",
+      "en": "Italian food with bread and cheese."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La pizza è deliziosa.",
+        "پیتزا خوشمزه است."
+      ],
+      "en": [
+        "Mangio la pizza.",
+        "I eat pizza."
+      ]
+    }
+  },
+  {
+    "word": "pasta",
+    "translations": {
+      "fa": "پاستا، ماکارونی",
+      "en": "pasta"
+    },
+    "explanation": {
+      "fa": "غذای ایتالیایی از آرد.",
+      "en": "Italian food made from flour."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La pasta è buona.",
+        "پاستا خوب است."
+      ],
+      "en": [
+        "Mangio la pasta ogni giorno.",
+        "I eat pasta every day."
+      ]
+    }
+  },
+  {
+    "word": "carne",
+    "translations": {
+      "fa": "گوشت",
+      "en": "meat"
+    },
+    "explanation": {
+      "fa": "غذا از حیوانات.",
+      "en": "Food from animals."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Non mangio carne.",
+        "من گوشت نمی‌خورم."
+      ],
+      "en": [
+        "La carne è costosa.",
+        "Meat is expensive."
+      ]
+    }
+  },
+  {
+    "word": "pesce",
+    "translations": {
+      "fa": "ماهی",
+      "en": "fish"
+    },
+    "explanation": {
+      "fa": "حیوان دریایی که می‌خوریم.",
+      "en": "Sea animal we eat."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il pesce è fresco.",
+        "ماهی تازه است."
+      ],
+      "en": [
+        "Mangio il pesce.",
+        "I eat fish."
+      ]
+    }
+  },
+  {
+    "word": "verdura",
+    "translations": {
+      "fa": "سبزیجات",
+      "en": "vegetables"
+    },
+    "explanation": {
+      "fa": "غذای سبز از گیاهان.",
+      "en": "Green food from plants."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La verdura è sana.",
+        "سبزیجات سالم است."
+      ],
+      "en": [
+        "Mangio molta verdura.",
+        "I eat a lot of vegetables."
+      ]
+    }
+  },
+  {
+    "word": "frutta",
+    "translations": {
+      "fa": "میوه",
+      "en": "fruit"
+    },
+    "explanation": {
+      "fa": "غذای شیرین از درختان.",
+      "en": "Sweet food from trees."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La frutta è dolce.",
+        "میوه شیرین است."
+      ],
+      "en": [
+        "Mi piace la frutta.",
+        "I like fruit."
+      ]
+    }
+  },
+  {
+    "word": "mela",
+    "translations": {
+      "fa": "سیب",
+      "en": "apple"
+    },
+    "explanation": {
+      "fa": "میوهٔ قرمز یا سبز.",
+      "en": "Red or green fruit."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Mangio una mela.",
+        "من یک سیب می‌خورم."
+      ],
+      "en": [
+        "La mela è rossa.",
+        "The apple is red."
+      ]
+    }
+  },
+  {
+    "word": "arancia",
+    "translations": {
+      "fa": "پرتقال",
+      "en": "orange"
+    },
+    "explanation": {
+      "fa": "میوهٔ نارنجی.",
+      "en": "Orange colored fruit."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "L'arancia è dolce.",
+        "پرتقال شیرین است."
+      ],
+      "en": [
+        "Bevo succo d'arancia.",
+        "I drink orange juice."
+      ]
+    }
+  },
+  {
+    "word": "giorno",
+    "translations": {
+      "fa": "روز",
+      "en": "day"
+    },
+    "explanation": {
+      "fa": "۲۴ ساعت.",
+      "en": "24 hours."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Buon giorno!",
+        "روز بخیر!"
+      ],
+      "en": [
+        "Oggi è un bel giorno.",
+        "Today is a beautiful day."
+      ]
+    }
+  },
+  {
+    "word": "settimana",
+    "translations": {
+      "fa": "هفته",
+      "en": "week"
+    },
+    "explanation": {
+      "fa": "هفت روز.",
+      "en": "Seven days."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Questa settimana lavoro molto.",
+        "این هفته خیلی کار می‌کنم."
+      ],
+      "en": [
+        "Ci vediamo la prossima settimana.",
+        "See you next week."
+      ]
+    }
+  },
+  {
+    "word": "mese",
+    "translations": {
+      "fa": "ماه",
+      "en": "month"
+    },
+    "explanation": {
+      "fa": "حدود سی روز.",
+      "en": "About 30 days."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il mese prossimo vado in vacanza.",
+        "ماه آینده به تعطیلات می‌روم."
+      ],
+      "en": [
+        "Gennaio è il primo mese.",
+        "January is the first month."
+      ]
+    }
+  },
+  {
+    "word": "anno",
+    "translations": {
+      "fa": "سال",
+      "en": "year"
+    },
+    "explanation": {
+      "fa": "دوازده ماه.",
+      "en": "Twelve months."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho 25 anni.",
+        "من ۲۵ سال دارم."
+      ],
+      "en": [
+        "Buon anno!",
+        "Happy New Year!"
+      ]
+    }
+  },
+  {
+    "word": "oggi",
+    "translations": {
+      "fa": "امروز",
+      "en": "today"
+    },
+    "explanation": {
+      "fa": "این روز.",
+      "en": "This day."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Oggi fa bel tempo.",
+        "امروز هوا خوب است."
+      ],
+      "en": [
+        "Cosa fai oggi?",
+        "What are you doing today?"
+      ]
+    }
+  },
+  {
+    "word": "domani",
+    "translations": {
+      "fa": "فردا",
+      "en": "tomorrow"
+    },
+    "explanation": {
+      "fa": "روز بعد.",
+      "en": "The next day."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "A domani!",
+        "تا فردا!"
+      ],
+      "en": [
+        "Domani vado al mare.",
+        "Tomorrow I'm going to the beach."
+      ]
+    }
+  },
+  {
+    "word": "ieri",
+    "translations": {
+      "fa": "دیروز",
+      "en": "yesterday"
+    },
+    "explanation": {
+      "fa": "روز قبل.",
+      "en": "The previous day."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ieri sono andato al cinema.",
+        "دیروز به سینما رفتم."
+      ],
+      "en": [
+        "Ieri pioveva.",
+        "Yesterday it was raining."
+      ]
+    }
+  },
+  {
+    "word": "ora",
+    "translations": {
+      "fa": "ساعت، الان",
+      "en": "hour, now"
+    },
+    "explanation": {
+      "fa": "شصت دقیقه یا اکنون.",
+      "en": "Sixty minutes or at present."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Che ora è?",
+        "ساعت چند است؟"
+      ],
+      "en": [
+        "Devo andare ora.",
+        "I have to go now."
+      ]
+    }
+  },
+  {
+    "word": "minuto",
+    "translations": {
+      "fa": "دقیقه",
+      "en": "minute"
+    },
+    "explanation": {
+      "fa": "شصت ثانیه.",
+      "en": "Sixty seconds."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Aspetta un minuto!",
+        "یک دقیقه صبر کن!"
+      ],
+      "en": [
+        "Arrivo tra cinque minuti.",
+        "I'll arrive in five minutes."
+      ]
+    }
+  },
+  {
+    "word": "mattina",
+    "translations": {
+      "fa": "صبح",
+      "en": "morning"
+    },
+    "explanation": {
+      "fa": "اول روز.",
+      "en": "Beginning of the day."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La mattina bevo caffè.",
+        "صبح قهوه می‌نوشم."
+      ],
+      "en": [
+        "Buona mattina!",
+        "Good morning!"
+      ]
+    }
+  },
+  {
+    "word": "pomeriggio",
+    "translations": {
+      "fa": "بعدازظهر",
+      "en": "afternoon"
+    },
+    "explanation": {
+      "fa": "بعد از ظهر.",
+      "en": "After noon."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Nel pomeriggio studio.",
+        "بعدازظهر درس می‌خوانم."
+      ],
+      "en": [
+        "Buon pomeriggio!",
+        "Good afternoon!"
+      ]
+    }
+  },
+  {
+    "word": "sera",
+    "translations": {
+      "fa": "عصر، شب",
+      "en": "evening"
+    },
+    "explanation": {
+      "fa": "پایان روز.",
+      "en": "End of the day."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Buona sera!",
+        "عصر بخیر!"
+      ],
+      "en": [
+        "La sera guardo la TV.",
+        "In the evening I watch TV."
+      ]
+    }
+  },
+  {
+    "word": "notte",
+    "translations": {
+      "fa": "شب",
+      "en": "night"
+    },
+    "explanation": {
+      "fa": "زمانی که تاریک است.",
+      "en": "When it's dark."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Buona notte!",
+        "شب بخیر!"
+      ],
+      "en": [
+        "La notte dormo.",
+        "At night I sleep."
+      ]
+    }
+  },
+  {
+    "word": "uno",
+    "translations": {
+      "fa": "یک",
+      "en": "one"
+    },
+    "explanation": {
+      "fa": "عدد ۱.",
+      "en": "Number 1."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho un fratello.",
+        "من یک برادر دارم."
+      ],
+      "en": [
+        "Uno più uno fa due.",
+        "One plus one makes two."
+      ]
+    }
+  },
+  {
+    "word": "due",
+    "translations": {
+      "fa": "دو",
+      "en": "two"
+    },
+    "explanation": {
+      "fa": "عدد ۲.",
+      "en": "Number 2."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho due sorelle.",
+        "من دو خواهر دارم."
+      ],
+      "en": [
+        "Sono le due.",
+        "It's two o'clock."
+      ]
+    }
+  },
+  {
+    "word": "tre",
+    "translations": {
+      "fa": "سه",
+      "en": "three"
+    },
+    "explanation": {
+      "fa": "عدد ۳.",
+      "en": "Number 3."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Tre più tre fa sei.",
+        "سه به‌علاوهٔ سه می‌شود شش."
+      ],
+      "en": [
+        "Ho tre amici.",
+        "I have three friends."
+      ]
+    }
+  },
+  {
+    "word": "quattro",
+    "translations": {
+      "fa": "چهار",
+      "en": "four"
+    },
+    "explanation": {
+      "fa": "عدد ۴.",
+      "en": "Number 4."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono le quattro.",
+        "ساعت چهار است."
+      ],
+      "en": [
+        "Ho quattro libri.",
+        "I have four books."
+      ]
+    }
+  },
+  {
+    "word": "cinque",
+    "translations": {
+      "fa": "پنج",
+      "en": "five"
+    },
+    "explanation": {
+      "fa": "عدد ۵.",
+      "en": "Number 5."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Cinque euro, per favore.",
+        "پنج یورو، لطفاً."
+      ],
+      "en": [
+        "Ho cinque dita.",
+        "I have five fingers."
+      ]
+    }
+  },
+  {
+    "word": "rosso",
+    "translations": {
+      "fa": "قرمز",
+      "en": "red"
+    },
+    "explanation": {
+      "fa": "رنگ قرمز.",
+      "en": "The color red."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La mela è rossa.",
+        "سیب قرمز است."
+      ],
+      "en": [
+        "Mi piace il rosso.",
+        "I like red."
+      ]
+    }
+  },
+  {
+    "word": "blu",
+    "translations": {
+      "fa": "آبی",
+      "en": "blue"
+    },
+    "explanation": {
+      "fa": "رنگ آبی.",
+      "en": "The color blue."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il cielo è blu.",
+        "آسمان آبی است."
+      ],
+      "en": [
+        "La mia macchina è blu.",
+        "My car is blue."
+      ]
+    }
+  },
+  {
+    "word": "verde",
+    "translations": {
+      "fa": "سبز",
+      "en": "green"
+    },
+    "explanation": {
+      "fa": "رنگ سبز.",
+      "en": "The color green."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "L'erba è verde.",
+        "چمن سبز است."
+      ],
+      "en": [
+        "Mi piace il verde.",
+        "I like green."
+      ]
+    }
+  },
+  {
+    "word": "giallo",
+    "translations": {
+      "fa": "زرد",
+      "en": "yellow"
+    },
+    "explanation": {
+      "fa": "رنگ زرد.",
+      "en": "The color yellow."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il sole è giallo.",
+        "خورشید زرد است."
+      ],
+      "en": [
+        "La banana è gialla.",
+        "The banana is yellow."
+      ]
+    }
+  },
+  {
+    "word": "bianco",
+    "translations": {
+      "fa": "سفید",
+      "en": "white"
+    },
+    "explanation": {
+      "fa": "رنگ سفید.",
+      "en": "The color white."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La neve è bianca.",
+        "برف سفید است."
+      ],
+      "en": [
+        "Ho una camicia bianca.",
+        "I have a white shirt."
+      ]
+    }
+  },
+  {
+    "word": "nero",
+    "translations": {
+      "fa": "سیاه",
+      "en": "black"
+    },
+    "explanation": {
+      "fa": "رنگ سیاه.",
+      "en": "The color black."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il caffè è nero.",
+        "قهوه سیاه است."
+      ],
+      "en": [
+        "Ho i capelli neri.",
+        "I have black hair."
+      ]
+    }
+  },
+  {
+    "word": "grande",
+    "translations": {
+      "fa": "بزرگ",
+      "en": "big, large"
+    },
+    "explanation": {
+      "fa": "بزرگ.",
+      "en": "Of large size."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La casa è grande.",
+        "خانه بزرگ است."
+      ],
+      "en": [
+        "Roma è una città grande.",
+        "Rome is a big city."
+      ]
+    }
+  },
+  {
+    "word": "piccolo",
+    "translations": {
+      "fa": "کوچک",
+      "en": "small, little"
+    },
+    "explanation": {
+      "fa": "کوچک.",
+      "en": "Of small size."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il gatto è piccolo.",
+        "گربه کوچک است."
+      ],
+      "en": [
+        "Ho un piccolo problema.",
+        "I have a small problem."
+      ]
+    }
+  },
+  {
+    "word": "bello",
+    "translations": {
+      "fa": "زیبا، قشنگ",
+      "en": "beautiful, nice"
+    },
+    "explanation": {
+      "fa": "زیبا.",
+      "en": "Pleasing to look at."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Che bel panorama!",
+        "چه منظرهٔ زیبایی!"
+      ],
+      "en": [
+        "È una bella giornata.",
+        "It's a beautiful day."
+      ]
+    }
+  },
+  {
+    "word": "brutto",
+    "translations": {
+      "fa": "زشت",
+      "en": "ugly, bad"
+    },
+    "explanation": {
+      "fa": "زشت یا بد.",
+      "en": "Unpleasant to look at or bad."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Oggi fa brutto tempo.",
+        "امروز هوا بد است."
+      ],
+      "en": [
+        "È un brutto film.",
+        "It's a bad movie."
+      ]
+    }
+  },
+  {
+    "word": "buono",
+    "translations": {
+      "fa": "خوب",
+      "en": "good"
+    },
+    "explanation": {
+      "fa": "خوب.",
+      "en": "Of good quality."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il cibo è buono.",
+        "غذا خوب است."
+      ],
+      "en": [
+        "Buona fortuna!",
+        "Good luck!"
+      ]
+    }
+  },
+  {
+    "word": "cattivo",
+    "translations": {
+      "fa": "بد",
+      "en": "bad"
+    },
+    "explanation": {
+      "fa": "بد.",
+      "en": "Of poor quality."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "È un cattivo esempio.",
+        "این یک مثال بد است."
+      ],
+      "en": [
+        "Che cattivo odore!",
+        "What a bad smell!"
+      ]
+    }
+  },
+  {
+    "word": "nuovo",
+    "translations": {
+      "fa": "جدید",
+      "en": "new"
+    },
+    "explanation": {
+      "fa": "تازه، جدید.",
+      "en": "Recently made or obtained."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho una macchina nuova.",
+        "من یک ماشین جدید دارم."
+      ],
+      "en": [
+        "Buon anno nuovo!",
+        "Happy New Year!"
+      ]
+    }
+  },
+  {
+    "word": "vecchio",
+    "translations": {
+      "fa": "قدیمی، پیر",
+      "en": "old"
+    },
+    "explanation": {
+      "fa": "کهنه یا مسن.",
+      "en": "Having existed for a long time."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "È un libro vecchio.",
+        "این یک کتاب قدیمی است."
+      ],
+      "en": [
+        "Mio nonno è vecchio.",
+        "My grandfather is old."
+      ]
+    }
+  },
+  {
+    "word": "caldo",
+    "translations": {
+      "fa": "گرم",
+      "en": "hot, warm"
+    },
+    "explanation": {
+      "fa": "گرم.",
+      "en": "Having high temperature."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Oggi fa caldo.",
+        "امروز گرم است."
+      ],
+      "en": [
+        "Il caffè è caldo.",
+        "The coffee is hot."
+      ]
+    }
+  },
+  {
+    "word": "freddo",
+    "translations": {
+      "fa": "سرد",
+      "en": "cold"
+    },
+    "explanation": {
+      "fa": "سرد.",
+      "en": "Having low temperature."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Oggi fa freddo.",
+        "امروز سرد است."
+      ],
+      "en": [
+        "L'acqua è fredda.",
+        "The water is cold."
+      ]
+    }
+  },
+  {
+    "word": "felice",
+    "translations": {
+      "fa": "خوشحال",
+      "en": "happy"
+    },
+    "explanation": {
+      "fa": "شاد.",
+      "en": "Feeling joy."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono molto felice.",
+        "من خیلی خوشحالم."
+      ],
+      "en": [
+        "Buon compleanno felice!",
+        "Happy birthday!"
+      ]
+    }
+  },
+  {
+    "word": "triste",
+    "translations": {
+      "fa": "غمگین",
+      "en": "sad"
+    },
+    "explanation": {
+      "fa": "ناراحت.",
+      "en": "Feeling unhappy."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Perché sei triste?",
+        "چرا غمگینی؟"
+      ],
+      "en": [
+        "È una storia triste.",
+        "It's a sad story."
+      ]
+    }
+  },
+  {
+    "word": "stanco",
+    "translations": {
+      "fa": "خسته",
+      "en": "tired"
+    },
+    "explanation": {
+      "fa": "خسته.",
+      "en": "Needing rest."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono stanco.",
+        "من خسته‌ام."
+      ],
+      "en": [
+        "Sei stanco?",
+        "Are you tired?"
+      ]
+    }
+  },
+  {
+    "word": "facile",
+    "translations": {
+      "fa": "آسان",
+      "en": "easy"
+    },
+    "explanation": {
+      "fa": "ساده.",
+      "en": "Not difficult."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "L'italiano è facile.",
+        "ایتالیایی آسان است."
+      ],
+      "en": [
+        "È facile!",
+        "It's easy!"
+      ]
+    }
+  },
+  {
+    "word": "difficile",
+    "translations": {
+      "fa": "سخت",
+      "en": "difficult"
+    },
+    "explanation": {
+      "fa": "مشکل.",
+      "en": "Hard to do."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Questo esercizio è difficile.",
+        "این تمرین سخت است."
+      ],
+      "en": [
+        "È difficile capire.",
+        "It's difficult to understand."
+      ]
+    }
+  },
+  {
+    "word": "molto",
+    "translations": {
+      "fa": "خیلی، زیاد",
+      "en": "much, very"
+    },
+    "explanation": {
+      "fa": "زیاد یا بسیار.",
+      "en": "A large amount or very."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Grazie molto!",
+        "خیلی ممنون!"
+      ],
+      "en": [
+        "Sono molto felice.",
+        "I am very happy."
+      ]
+    }
+  },
+  {
+    "word": "poco",
+    "translations": {
+      "fa": "کم",
+      "en": "little, few"
+    },
+    "explanation": {
+      "fa": "اندک.",
+      "en": "A small amount."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ho poco tempo.",
+        "من وقت کم دارم."
+      ],
+      "en": [
+        "Un po' di zucchero.",
+        "A little sugar."
+      ]
+    }
+  },
+  {
+    "word": "sempre",
+    "translations": {
+      "fa": "همیشه",
+      "en": "always"
+    },
+    "explanation": {
+      "fa": "در تمام مواقع.",
+      "en": "At all times."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono sempre puntuale.",
+        "من همیشه سر وقت هستم."
+      ],
+      "en": [
+        "Ti amerò sempre.",
+        "I will always love you."
+      ]
+    }
+  },
+  {
+    "word": "mai",
+    "translations": {
+      "fa": "هرگز",
+      "en": "never"
+    },
+    "explanation": {
+      "fa": "هیچ وقت.",
+      "en": "Not ever."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Non fumo mai.",
+        "من هرگز سیگار نمی‌کشم."
+      ],
+      "en": [
+        "Mai dire mai.",
+        "Never say never."
+      ]
+    }
+  },
+  {
+    "word": "qui",
+    "translations": {
+      "fa": "اینجا",
+      "en": "here"
+    },
+    "explanation": {
+      "fa": "در این مکان.",
+      "en": "In this place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vieni qui!",
+        "بیا اینجا!"
+      ],
+      "en": [
+        "Abito qui.",
+        "I live here."
+      ]
+    }
+  },
+  {
+    "word": "là",
+    "translations": {
+      "fa": "آنجا",
+      "en": "there"
+    },
+    "explanation": {
+      "fa": "در آن مکان.",
+      "en": "In that place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Guarda là!",
+        "نگاه کن آنجا!"
+      ],
+      "en": [
+        "Vado là.",
+        "I'm going there."
+      ]
+    }
+  },
+  {
+    "word": "dove",
+    "translations": {
+      "fa": "کجا",
+      "en": "where"
+    },
+    "explanation": {
+      "fa": "در کدام مکان.",
+      "en": "In what place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Dove abiti?",
+        "کجا زندگی می‌کنی؟"
+      ],
+      "en": [
+        "Dove vai?",
+        "Where are you going?"
+      ]
+    }
+  },
+  {
+    "word": "quando",
+    "translations": {
+      "fa": "کی",
+      "en": "when"
+    },
+    "explanation": {
+      "fa": "در چه زمانی.",
+      "en": "At what time."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Quando arrivi?",
+        "کی می‌رسی؟"
+      ],
+      "en": [
+        "Quando partiamo?",
+        "When are we leaving?"
+      ]
+    }
+  },
+  {
+    "word": "perché",
+    "translations": {
+      "fa": "چرا",
+      "en": "why, because"
+    },
+    "explanation": {
+      "fa": "به چه دلیل.",
+      "en": "For what reason."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Perché piangi?",
+        "چرا گریه می‌کنی؟"
+      ],
+      "en": [
+        "Perché sono felice.",
+        "Because I am happy."
+      ]
+    }
+  },
+  {
+    "word": "come",
+    "translations": {
+      "fa": "چطور",
+      "en": "how"
+    },
+    "explanation": {
+      "fa": "به چه شکل.",
+      "en": "In what way."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Come stai?",
+        "حالت چطوره؟"
+      ],
+      "en": [
+        "Come ti chiami?",
+        "What's your name?"
+      ]
+    }
+  },
+  {
+    "word": "cosa",
+    "translations": {
+      "fa": "چه چیز",
+      "en": "what, thing"
+    },
+    "explanation": {
+      "fa": "چه شیء یا موضوع.",
+      "en": "What object or matter."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Cosa fai?",
+        "چه کار می‌کنی؟"
+      ],
+      "en": [
+        "Che cosa è questo?",
+        "What is this?"
+      ]
+    }
+  },
+  {
+    "word": "chi",
+    "translations": {
+      "fa": "چه کسی",
+      "en": "who"
+    },
+    "explanation": {
+      "fa": "کدام شخص.",
+      "en": "What person."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Chi sei?",
+        "تو کی هستی؟"
+      ],
+      "en": [
+        "Chi è lui?",
+        "Who is he?"
+      ]
+    }
+  },
+  {
+    "word": "quanto",
+    "translations": {
+      "fa": "چقدر",
+      "en": "how much"
+    },
+    "explanation": {
+      "fa": "چه مقدار.",
+      "en": "What amount."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Quanto costa?",
+        "چقدر قیمت دارد؟"
+      ],
+      "en": [
+        "Quanto tempo hai?",
+        "How much time do you have?"
+      ]
+    }
+  },
+  {
+    "word": "quale",
+    "translations": {
+      "fa": "کدام",
+      "en": "which"
+    },
+    "explanation": {
+      "fa": "کدام یک.",
+      "en": "Which one."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Quale preferisci?",
+        "کدام را ترجیح می‌دهی؟"
+      ],
+      "en": [
+        "Qual è il tuo nome?",
+        "What is your name?"
+      ]
+    }
+  },
+  {
+    "word": "con",
+    "translations": {
+      "fa": "با",
+      "en": "with"
+    },
+    "explanation": {
+      "fa": "همراه با.",
+      "en": "Together with."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado con te.",
+        "من با تو می‌روم."
+      ],
+      "en": [
+        "Caffè con latte.",
+        "Coffee with milk."
+      ]
+    }
+  },
+  {
+    "word": "senza",
+    "translations": {
+      "fa": "بدون",
+      "en": "without"
+    },
+    "explanation": {
+      "fa": "بدون داشتن.",
+      "en": "Not having."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Caffè senza zucchero.",
+        "قهوه بدون شکر."
+      ],
+      "en": [
+        "Senza di te.",
+        "Without you."
+      ]
+    }
+  },
+  {
+    "word": "per",
+    "translations": {
+      "fa": "برای",
+      "en": "for"
+    },
+    "explanation": {
+      "fa": "به منظور.",
+      "en": "With the purpose of."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Un regalo per te.",
+        "یک هدیه برای تو."
+      ],
+      "en": [
+        "Grazie per tutto.",
+        "Thank you for everything."
+      ]
+    }
+  },
+  {
+    "word": "a",
+    "translations": {
+      "fa": "به",
+      "en": "to, at"
+    },
+    "explanation": {
+      "fa": "به سمت یا در.",
+      "en": "Toward or at."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado a Roma.",
+        "من به رم می‌روم."
+      ],
+      "en": [
+        "A domani!",
+        "See you tomorrow!"
+      ]
+    }
+  },
+  {
+    "word": "di",
+    "translations": {
+      "fa": "از",
+      "en": "of, from"
+    },
+    "explanation": {
+      "fa": "متعلق به یا از.",
+      "en": "Belonging to or from."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il libro di Marco.",
+        "کتاب مارکو."
+      ],
+      "en": [
+        "Sono di Roma.",
+        "I'm from Rome."
+      ]
+    }
+  },
+  {
+    "word": "in",
+    "translations": {
+      "fa": "در",
+      "en": "in"
+    },
+    "explanation": {
+      "fa": "داخل.",
+      "en": "Inside."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono in casa.",
+        "من در خانه هستم."
+      ],
+      "en": [
+        "Vivo in Italia.",
+        "I live in Italy."
+      ]
+    }
+  },
+  {
+    "word": "su",
+    "translations": {
+      "fa": "روی",
+      "en": "on, up"
+    },
+    "explanation": {
+      "fa": "بالای.",
+      "en": "On top of."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il libro è sul tavolo.",
+        "کتاب روی میز است."
+      ],
+      "en": [
+        "Vai su!",
+        "Go up!"
+      ]
+    }
+  },
+  {
+    "word": "e",
+    "translations": {
+      "fa": "و",
+      "en": "and"
+    },
+    "explanation": {
+      "fa": "حرف ربط.",
+      "en": "Conjunction."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Tu e io.",
+        "تو و من."
+      ],
+      "en": [
+        "Caffè e latte.",
+        "Coffee and milk."
+      ]
+    }
+  },
+  {
+    "word": "ma",
+    "translations": {
+      "fa": "اما",
+      "en": "but"
+    },
+    "explanation": {
+      "fa": "ولی.",
+      "en": "However."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Voglio, ma non posso.",
+        "می‌خواهم، اما نمی‌توانم."
+      ],
+      "en": [
+        "È bello ma caro.",
+        "It's beautiful but expensive."
+      ]
+    }
+  },
+  {
+    "word": "o",
+    "translations": {
+      "fa": "یا",
+      "en": "or"
+    },
+    "explanation": {
+      "fa": "گزینه.",
+      "en": "Alternative."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Caffè o tè?",
+        "قهوه یا چای؟"
+      ],
+      "en": [
+        "Sì o no?",
+        "Yes or no?"
+      ]
+    }
+  },
+  {
+    "word": "anche",
+    "translations": {
+      "fa": "هم، همچنین",
+      "en": "also, too"
+    },
+    "explanation": {
+      "fa": "به علاوه.",
+      "en": "In addition."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Anch'io!",
+        "من هم!"
+      ],
+      "en": [
+        "Voglio anche questo.",
+        "I also want this."
+      ]
+    }
+  },
+  {
+    "word": "ancora",
+    "translations": {
+      "fa": "هنوز، باز هم",
+      "en": "still, yet, again"
+    },
+    "explanation": {
+      "fa": "همچنان یا دوباره.",
+      "en": "Continuing or once more."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sei ancora qui?",
+        "هنوز اینجایی؟"
+      ],
+      "en": [
+        "Ancora una volta.",
+        "One more time."
+      ]
+    }
+  },
+  {
+    "word": "già",
+    "translations": {
+      "fa": "قبلاً",
+      "en": "already"
+    },
+    "explanation": {
+      "fa": "پیش از این.",
+      "en": "Before now."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "L'ho già fatto.",
+        "قبلاً انجامش داده‌ام."
+      ],
+      "en": [
+        "Sei già qui?",
+        "Are you already here?"
+      ]
+    }
+  },
+  {
+    "word": "poi",
+    "translations": {
+      "fa": "بعد، سپس",
+      "en": "then, later"
+    },
+    "explanation": {
+      "fa": "بعد از آن.",
+      "en": "After that."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prima lavoro, poi riposo.",
+        "اول کار می‌کنم، بعد استراحت."
+      ],
+      "en": [
+        "A dopo, poi!",
+        "See you later!"
+      ]
+    }
+  },
+  {
+    "word": "prima",
+    "translations": {
+      "fa": "قبل، اول",
+      "en": "before, first"
+    },
+    "explanation": {
+      "fa": "پیش از این.",
+      "en": "Earlier than."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prima di tutto...",
+        "اول از همه..."
+      ],
+      "en": [
+        "Prima mangio, poi studio.",
+        "First I eat, then I study."
+      ]
+    }
+  },
+  {
+    "word": "dopo",
+    "translations": {
+      "fa": "بعد",
+      "en": "after"
+    },
+    "explanation": {
+      "fa": "پس از.",
+      "en": "Following."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Dopo pranzo dormo.",
+        "بعد از ناهار می‌خوابم."
+      ],
+      "en": [
+        "A dopo!",
+        "See you later!"
+      ]
+    }
+  }
+]

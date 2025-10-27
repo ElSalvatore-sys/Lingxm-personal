@@ -1,0 +1,2554 @@
+[
+  {
+    "word": "achieve",
+    "translations": {
+      "fa": "به دست آوردن، موفق شدن",
+      "en": "to successfully reach a goal"
+    },
+    "explanation": {
+      "fa": "با تلاش به هدف یا موفقیت رسیدن.",
+      "en": "To reach a goal or success through effort."
+    },
+    "conjugations": ["achieve", "achieves", "achieved", "has achieved"],
+    "examples": {
+      "fa": [
+        "She achieved her dreams.",
+        "او به رؤیاهایش رسید."
+      ],
+      "en": [
+        "I want to achieve my goals.",
+        "I want to achieve my goals."
+      ]
+    }
+  },
+  {
+    "word": "discover",
+    "translations": {
+      "fa": "کشف کردن",
+      "en": "to find something new"
+    },
+    "explanation": {
+      "fa": "چیزی جدید یا ناشناخته را پیدا کردن.",
+      "en": "To find something new or unknown."
+    },
+    "conjugations": ["discover", "discovers", "discovered", "has discovered"],
+    "examples": {
+      "fa": [
+        "Scientists discovered a new planet.",
+        "دانشمندان یک سیاره جدید کشف کردند."
+      ],
+      "en": [
+        "I discovered a great restaurant.",
+        "I discovered a great restaurant."
+      ]
+    }
+  },
+  {
+    "word": "improve",
+    "translations": {
+      "fa": "بهبود دادن",
+      "en": "to make better"
+    },
+    "explanation": {
+      "fa": "چیزی را بهتر کردن.",
+      "en": "To make something better."
+    },
+    "conjugations": ["improve", "improves", "improved", "has improved"],
+    "examples": {
+      "fa": [
+        "I want to improve my English.",
+        "من می‌خواهم انگلیسی‌ام را بهبود بدهم."
+      ],
+      "en": [
+        "His health has improved.",
+        "His health has improved."
+      ]
+    }
+  },
+  {
+    "word": "develop",
+    "translations": {
+      "fa": "توسعه دادن",
+      "en": "to grow or create"
+    },
+    "explanation": {
+      "fa": "رشد کردن یا چیزی را ایجاد کردن.",
+      "en": "To grow or create something."
+    },
+    "conjugations": ["develop", "develops", "developed", "has developed"],
+    "examples": {
+      "fa": [
+        "We need to develop new skills.",
+        "ما باید مهارت‌های جدیدی توسعه دهیم."
+      ],
+      "en": [
+        "The company is developing a new product.",
+        "The company is developing a new product."
+      ]
+    }
+  },
+  {
+    "word": "create",
+    "translations": {
+      "fa": "خلق کردن، ایجاد کردن",
+      "en": "to make something new"
+    },
+    "explanation": {
+      "fa": "چیز جدیدی ساختن یا پدید آوردن.",
+      "en": "To make or bring into existence something new."
+    },
+    "conjugations": ["create", "creates", "created", "has created"],
+    "examples": {
+      "fa": [
+        "Artists create beautiful works.",
+        "هنرمندان آثار زیبایی خلق می‌کنند."
+      ],
+      "en": [
+        "Let's create something together.",
+        "Let's create something together."
+      ]
+    }
+  },
+  {
+    "word": "opportunity",
+    "translations": {
+      "fa": "فرصت",
+      "en": "a chance to do something"
+    },
+    "explanation": {
+      "fa": "شانس یا موقعیت مناسب برای انجام کاری.",
+      "en": "A favorable time or chance to do something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This is a great opportunity.",
+        "این یک فرصت عالی است."
+      ],
+      "en": [
+        "Don't miss this opportunity!",
+        "Don't miss this opportunity!"
+      ]
+    }
+  },
+  {
+    "word": "challenge",
+    "translations": {
+      "fa": "چالش",
+      "en": "a difficult task"
+    },
+    "explanation": {
+      "fa": "کار یا وظیفهٔ دشوار.",
+      "en": "A difficult task or situation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Life is full of challenges.",
+        "زندگی پر از چالش است."
+      ],
+      "en": [
+        "I love a good challenge.",
+        "I love a good challenge."
+      ]
+    }
+  },
+  {
+    "word": "experience",
+    "translations": {
+      "fa": "تجربه",
+      "en": "knowledge from doing"
+    },
+    "explanation": {
+      "fa": "دانش یا مهارت به‌دست‌آمده از انجام کارها.",
+      "en": "Knowledge or skill gained from doing things."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I have five years of experience.",
+        "من پنج سال تجربه دارم."
+      ],
+      "en": [
+        "That was an amazing experience.",
+        "That was an amazing experience."
+      ]
+    }
+  },
+  {
+    "word": "knowledge",
+    "translations": {
+      "fa": "دانش",
+      "en": "information and understanding"
+    },
+    "explanation": {
+      "fa": "اطلاعات و درک درباره چیزی.",
+      "en": "Information and understanding about something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Knowledge is power.",
+        "دانش قدرت است."
+      ],
+      "en": [
+        "She has great knowledge of history.",
+        "She has great knowledge of history."
+      ]
+    }
+  },
+  {
+    "word": "skill",
+    "translations": {
+      "fa": "مهارت",
+      "en": "ability to do something well"
+    },
+    "explanation": {
+      "fa": "توانایی انجام خوب کاری.",
+      "en": "The ability to do something well."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Communication is an important skill.",
+        "ارتباط یک مهارت مهم است."
+      ],
+      "en": [
+        "I want to develop new skills.",
+        "I want to develop new skills."
+      ]
+    }
+  },
+  {
+    "word": "ability",
+    "translations": {
+      "fa": "توانایی",
+      "en": "power to do something"
+    },
+    "explanation": {
+      "fa": "قدرت یا ظرفیت انجام کاری.",
+      "en": "The power or capacity to do something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "He has the ability to learn quickly.",
+        "او توانایی یادگیری سریع را دارد."
+      ],
+      "en": [
+        "Everyone has different abilities.",
+        "Everyone has different abilities."
+      ]
+    }
+  },
+  {
+    "word": "effort",
+    "translations": {
+      "fa": "تلاش",
+      "en": "hard work"
+    },
+    "explanation": {
+      "fa": "کار سخت و کوشش.",
+      "en": "Hard work and trying."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Success requires effort.",
+        "موفقیت نیاز به تلاش دارد."
+      ],
+      "en": [
+        "Put more effort into your work.",
+        "Put more effort into your work."
+      ]
+    }
+  },
+  {
+    "word": "success",
+    "translations": {
+      "fa": "موفقیت",
+      "en": "achieving what you want"
+    },
+    "explanation": {
+      "fa": "رسیدن به آنچه می‌خواهید.",
+      "en": "Achieving what you wanted."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I wish you success!",
+        "برایت موفقیت آرزو می‌کنم!"
+      ],
+      "en": [
+        "Hard work leads to success.",
+        "Hard work leads to success."
+      ]
+    }
+  },
+  {
+    "word": "failure",
+    "translations": {
+      "fa": "شکست",
+      "en": "not succeeding"
+    },
+    "explanation": {
+      "fa": "موفق نشدن در کاری.",
+      "en": "Not succeeding in something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Don't be afraid of failure.",
+        "از شکست نترس."
+      ],
+      "en": [
+        "Failure is part of learning.",
+        "Failure is part of learning."
+      ]
+    }
+  },
+  {
+    "word": "decision",
+    "translations": {
+      "fa": "تصمیم",
+      "en": "a choice you make"
+    },
+    "explanation": {
+      "fa": "انتخابی که می‌کنید.",
+      "en": "A choice you make about something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I made an important decision.",
+        "من یک تصمیم مهم گرفتم."
+      ],
+      "en": [
+        "It's your decision.",
+        "It's your decision."
+      ]
+    }
+  },
+  {
+    "word": "decide",
+    "translations": {
+      "fa": "تصمیم گرفتن",
+      "en": "to make a choice"
+    },
+    "explanation": {
+      "fa": "انتخاب کردن بین گزینه‌ها.",
+      "en": "To make a choice between options."
+    },
+    "conjugations": ["decide", "decides", "decided", "has decided"],
+    "examples": {
+      "fa": [
+        "I can't decide what to eat.",
+        "نمی‌توانم تصمیم بگیرم چه بخورم."
+      ],
+      "en": [
+        "You need to decide now.",
+        "You need to decide now."
+      ]
+    }
+  },
+  {
+    "word": "choose",
+    "translations": {
+      "fa": "انتخاب کردن",
+      "en": "to pick one thing"
+    },
+    "explanation": {
+      "fa": "یکی از چیزها را برگزیدن.",
+      "en": "To pick one thing from several."
+    },
+    "conjugations": ["choose", "chooses", "chose", "has chosen"],
+    "examples": {
+      "fa": [
+        "Choose your favorite color.",
+        "رنگ مورد علاقه‌ات را انتخاب کن."
+      ],
+      "en": [
+        "I chose the blue one.",
+        "I chose the blue one."
+      ]
+    }
+  },
+  {
+    "word": "option",
+    "translations": {
+      "fa": "گزینه",
+      "en": "a choice available"
+    },
+    "explanation": {
+      "fa": "انتخابی که در دسترس است.",
+      "en": "A choice that is available."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "You have three options.",
+        "تو سه گزینه داری."
+      ],
+      "en": [
+        "What are my options?",
+        "What are my options?"
+      ]
+    }
+  },
+  {
+    "word": "suggest",
+    "translations": {
+      "fa": "پیشنهاد دادن",
+      "en": "to propose an idea"
+    },
+    "explanation": {
+      "fa": "ایدهٔ خود را مطرح کردن.",
+      "en": "To propose your idea."
+    },
+    "conjugations": ["suggest", "suggests", "suggested", "has suggested"],
+    "examples": {
+      "fa": [
+        "I suggest we meet tomorrow.",
+        "پیشنهاد می‌کنم فردا همدیگر را ببینیم."
+      ],
+      "en": [
+        "Can you suggest a good restaurant?",
+        "Can you suggest a good restaurant?"
+      ]
+    }
+  },
+  {
+    "word": "recommend",
+    "translations": {
+      "fa": "توصیه کردن",
+      "en": "to advise someone"
+    },
+    "explanation": {
+      "fa": "به کسی مشورت یا نصیحت دادن.",
+      "en": "To give advice or counsel to someone."
+    },
+    "conjugations": ["recommend", "recommends", "recommended", "has recommended"],
+    "examples": {
+      "fa": [
+        "I recommend this book.",
+        "من این کتاب را توصیه می‌کنم."
+      ],
+      "en": [
+        "The doctor recommended rest.",
+        "The doctor recommended rest."
+      ]
+    }
+  },
+  {
+    "word": "advice",
+    "translations": {
+      "fa": "نصیحت، مشاوره",
+      "en": "helpful suggestion"
+    },
+    "explanation": {
+      "fa": "پیشنهاد مفید برای کمک.",
+      "en": "A helpful suggestion."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Can I give you some advice?",
+        "می‌توانم کمی نصیحتت کنم؟"
+      ],
+      "en": [
+        "That's good advice.",
+        "That's good advice."
+      ]
+    }
+  },
+  {
+    "word": "opinion",
+    "translations": {
+      "fa": "نظر",
+      "en": "what you think"
+    },
+    "explanation": {
+      "fa": "آنچه شما فکر می‌کنید.",
+      "en": "What you think about something."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What's your opinion?",
+        "نظر تو چیست؟"
+      ],
+      "en": [
+        "In my opinion, this is wrong.",
+        "In my opinion, this is wrong."
+      ]
+    }
+  },
+  {
+    "word": "agree",
+    "translations": {
+      "fa": "موافق بودن",
+      "en": "to have the same opinion"
+    },
+    "explanation": {
+      "fa": "نظر یکسانی داشتن.",
+      "en": "To have the same opinion as someone."
+    },
+    "conjugations": ["agree", "agrees", "agreed", "has agreed"],
+    "examples": {
+      "fa": [
+        "I agree with you.",
+        "من با تو موافقم."
+      ],
+      "en": [
+        "We all agreed on the plan.",
+        "We all agreed on the plan."
+      ]
+    }
+  },
+  {
+    "word": "disagree",
+    "translations": {
+      "fa": "مخالف بودن",
+      "en": "to have different opinion"
+    },
+    "explanation": {
+      "fa": "نظر متفاوتی داشتن.",
+      "en": "To have a different opinion."
+    },
+    "conjugations": ["disagree", "disagrees", "disagreed", "has disagreed"],
+    "examples": {
+      "fa": [
+        "I disagree with that idea.",
+        "من با آن ایده مخالفم."
+      ],
+      "en": [
+        "They disagreed about the solution.",
+        "They disagreed about the solution."
+      ]
+    }
+  },
+  {
+    "word": "discuss",
+    "translations": {
+      "fa": "بحث کردن",
+      "en": "to talk about"
+    },
+    "explanation": {
+      "fa": "دربارهٔ چیزی صحبت کردن.",
+      "en": "To talk about something."
+    },
+    "conjugations": ["discuss", "discusses", "discussed", "has discussed"],
+    "examples": {
+      "fa": [
+        "Let's discuss this problem.",
+        "بیایید دربارهٔ این مشکل بحث کنیم."
+      ],
+      "en": [
+        "We discussed the plan yesterday.",
+        "We discussed the plan yesterday."
+      ]
+    }
+  },
+  {
+    "word": "conversation",
+    "translations": {
+      "fa": "گفتگو، مکالمه",
+      "en": "a talk between people"
+    },
+    "explanation": {
+      "fa": "صحبت بین افراد.",
+      "en": "A talk between people."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "We had a long conversation.",
+        "ما یک گفتگوی طولانی داشتیم."
+      ],
+      "en": [
+        "I enjoyed our conversation.",
+        "I enjoyed our conversation."
+      ]
+    }
+  },
+  {
+    "word": "communicate",
+    "translations": {
+      "fa": "ارتباط برقرار کردن",
+      "en": "to share information"
+    },
+    "explanation": {
+      "fa": "اطلاعات را به اشتراک گذاشتن.",
+      "en": "To share information with others."
+    },
+    "conjugations": ["communicate", "communicates", "communicated", "has communicated"],
+    "examples": {
+      "fa": [
+        "We communicate by email.",
+        "ما از طریق ایمیل ارتباط برقرار می‌کنیم."
+      ],
+      "en": [
+        "Good leaders communicate well.",
+        "Good leaders communicate well."
+      ]
+    }
+  },
+  {
+    "word": "express",
+    "translations": {
+      "fa": "بیان کردن",
+      "en": "to show your feelings"
+    },
+    "explanation": {
+      "fa": "احساسات یا افکار خود را نشان دادن.",
+      "en": "To show your feelings or thoughts."
+    },
+    "conjugations": ["express", "expresses", "expressed", "has expressed"],
+    "examples": {
+      "fa": [
+        "Express your opinion freely.",
+        "نظر خود را آزادانه بیان کنید."
+      ],
+      "en": [
+        "He expressed his gratitude.",
+        "He expressed his gratitude."
+      ]
+    }
+  },
+  {
+    "word": "mention",
+    "translations": {
+      "fa": "ذکر کردن",
+      "en": "to refer to briefly"
+    },
+    "explanation": {
+      "fa": "به طور مختصر به چیزی اشاره کردن.",
+      "en": "To refer to something briefly."
+    },
+    "conjugations": ["mention", "mentions", "mentioned", "has mentioned"],
+    "examples": {
+      "fa": [
+        "She mentioned your name.",
+        "او نام تو را ذکر کرد."
+      ],
+      "en": [
+        "Don't mention it!",
+        "Don't mention it!"
+      ]
+    }
+  },
+  {
+    "word": "describe",
+    "translations": {
+      "fa": "توصیف کردن",
+      "en": "to say what something is like"
+    },
+    "explanation": {
+      "fa": "گفتن چیزی چگونه است.",
+      "en": "To say what something is like."
+    },
+    "conjugations": ["describe", "describes", "described", "has described"],
+    "examples": {
+      "fa": [
+        "Describe your house.",
+        "خانه‌ات را توصیف کن."
+      ],
+      "en": [
+        "Can you describe the person?",
+        "Can you describe the person?"
+      ]
+    }
+  },
+  {
+    "word": "compare",
+    "translations": {
+      "fa": "مقایسه کردن",
+      "en": "to see similarities and differences"
+    },
+    "explanation": {
+      "fa": "شباهت‌ها و تفاوت‌ها را دیدن.",
+      "en": "To see similarities and differences."
+    },
+    "conjugations": ["compare", "compares", "compared", "has compared"],
+    "examples": {
+      "fa": [
+        "Compare these two options.",
+        "این دو گزینه را مقایسه کن."
+      ],
+      "en": [
+        "Let's compare the prices.",
+        "Let's compare the prices."
+      ]
+    }
+  },
+  {
+    "word": "similar",
+    "translations": {
+      "fa": "مشابه",
+      "en": "almost the same"
+    },
+    "explanation": {
+      "fa": "تقریباً یکسان.",
+      "en": "Almost the same."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "These books are similar.",
+        "این کتاب‌ها مشابه هستند."
+      ],
+      "en": [
+        "We have similar interests.",
+        "We have similar interests."
+      ]
+    }
+  },
+  {
+    "word": "different",
+    "translations": {
+      "fa": "متفاوت",
+      "en": "not the same"
+    },
+    "explanation": {
+      "fa": "یکسان نبودن.",
+      "en": "Not being the same."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "We are very different.",
+        "ما خیلی متفاوت هستیم."
+      ],
+      "en": [
+        "This is completely different.",
+        "This is completely different."
+      ]
+    }
+  },
+  {
+    "word": "difference",
+    "translations": {
+      "fa": "تفاوت",
+      "en": "what makes things not the same"
+    },
+    "explanation": {
+      "fa": "آنچه چیزها را متفاوت می‌کند.",
+      "en": "What makes things not the same."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What's the difference?",
+        "تفاوت چیست؟"
+      ],
+      "en": [
+        "There's a big difference.",
+        "There's a big difference."
+      ]
+    }
+  },
+  {
+    "word": "advantage",
+    "translations": {
+      "fa": "مزیت",
+      "en": "a benefit or positive"
+    },
+    "explanation": {
+      "fa": "فایده یا جنبهٔ مثبت.",
+      "en": "A benefit or positive aspect."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What are the advantages?",
+        "مزیت‌ها چه هستند؟"
+      ],
+      "en": [
+        "Living here has many advantages.",
+        "Living here has many advantages."
+      ]
+    }
+  },
+  {
+    "word": "disadvantage",
+    "translations": {
+      "fa": "معایب",
+      "en": "a negative aspect"
+    },
+    "explanation": {
+      "fa": "جنبهٔ منفی.",
+      "en": "A negative aspect."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Every choice has disadvantages.",
+        "هر انتخابی معایب دارد."
+      ],
+      "en": [
+        "What are the disadvantages?",
+        "What are the disadvantages?"
+      ]
+    }
+  },
+  {
+    "word": "benefit",
+    "translations": {
+      "fa": "فایده، منفعت",
+      "en": "something that helps"
+    },
+    "explanation": {
+      "fa": "چیزی که کمک می‌کند.",
+      "en": "Something that helps or is good."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Exercise has many benefits.",
+        "ورزش فواید زیادی دارد."
+      ],
+      "en": [
+        "What are the benefits?",
+        "What are the benefits?"
+      ]
+    }
+  },
+  {
+    "word": "improve",
+    "translations": {
+      "fa": "بهبود بخشیدن",
+      "en": "to make better"
+    },
+    "explanation": {
+      "fa": "بهتر کردن.",
+      "en": "To make something better."
+    },
+    "conjugations": ["improve", "improves", "improved", "has improved"],
+    "examples": {
+      "fa": [
+        "Let's improve our skills.",
+        "بیایید مهارت‌هایمان را بهبود بخشیم."
+      ],
+      "en": [
+        "The weather is improving.",
+        "The weather is improving."
+      ]
+    }
+  },
+  {
+    "word": "increase",
+    "translations": {
+      "fa": "افزایش دادن",
+      "en": "to make more or bigger"
+    },
+    "explanation": {
+      "fa": "بیشتر یا بزرگتر کردن.",
+      "en": "To make more or bigger."
+    },
+    "conjugations": ["increase", "increases", "increased", "has increased"],
+    "examples": {
+      "fa": [
+        "Prices are increasing.",
+        "قیمت‌ها در حال افزایش هستند."
+      ],
+      "en": [
+        "We need to increase production.",
+        "We need to increase production."
+      ]
+    }
+  },
+  {
+    "word": "decrease",
+    "translations": {
+      "fa": "کاهش دادن",
+      "en": "to make less or smaller"
+    },
+    "explanation": {
+      "fa": "کمتر یا کوچکتر کردن.",
+      "en": "To make less or smaller."
+    },
+    "conjugations": ["decrease", "decreases", "decreased", "has decreased"],
+    "examples": {
+      "fa": [
+        "Sales have decreased.",
+        "فروش کاهش یافته است."
+      ],
+      "en": [
+        "We must decrease costs.",
+        "We must decrease costs."
+      ]
+    }
+  },
+  {
+    "word": "reduce",
+    "translations": {
+      "fa": "کم کردن",
+      "en": "to make smaller"
+    },
+    "explanation": {
+      "fa": "کوچکتر یا کمتر کردن.",
+      "en": "To make smaller or less."
+    },
+    "conjugations": ["reduce", "reduces", "reduced", "has reduced"],
+    "examples": {
+      "fa": [
+        "Reduce your stress.",
+        "استرس خود را کم کنید."
+      ],
+      "en": [
+        "They reduced the price.",
+        "They reduced the price."
+      ]
+    }
+  },
+  {
+    "word": "prevent",
+    "translations": {
+      "fa": "جلوگیری کردن",
+      "en": "to stop from happening"
+    },
+    "explanation": {
+      "fa": "مانع اتفاق افتادن چیزی شدن.",
+      "en": "To stop something from happening."
+    },
+    "conjugations": ["prevent", "prevents", "prevented", "has prevented"],
+    "examples": {
+      "fa": [
+        "We can prevent this problem.",
+        "ما می‌توانیم از این مشکل جلوگیری کنیم."
+      ],
+      "en": [
+        "Prevention is better than cure.",
+        "Prevention is better than cure."
+      ]
+    }
+  },
+  {
+    "word": "allow",
+    "translations": {
+      "fa": "اجازه دادن",
+      "en": "to permit"
+    },
+    "explanation": {
+      "fa": "مجاز کردن.",
+      "en": "To give permission."
+    },
+    "conjugations": ["allow", "allows", "allowed", "has allowed"],
+    "examples": {
+      "fa": [
+        "Please allow me to explain.",
+        "لطفاً به من اجازه دهید توضیح دهم."
+      ],
+      "en": [
+        "Smoking is not allowed here.",
+        "Smoking is not allowed here."
+      ]
+    }
+  },
+  {
+    "word": "require",
+    "translations": {
+      "fa": "نیاز داشتن",
+      "en": "to need"
+    },
+    "explanation": {
+      "fa": "به چیزی نیاز داشتن.",
+      "en": "To need something."
+    },
+    "conjugations": ["require", "requires", "required", "has required"],
+    "examples": {
+      "fa": [
+        "This job requires experience.",
+        "این شغل نیاز به تجربه دارد."
+      ],
+      "en": [
+        "What do you require?",
+        "What do you require?"
+      ]
+    }
+  },
+  {
+    "word": "provide",
+    "translations": {
+      "fa": "فراهم کردن",
+      "en": "to supply or give"
+    },
+    "explanation": {
+      "fa": "تأمین یا دادن.",
+      "en": "To supply or give something."
+    },
+    "conjugations": ["provide", "provides", "provided", "has provided"],
+    "examples": {
+      "fa": [
+        "They provide free meals.",
+        "آنها غذای رایگان فراهم می‌کنند."
+      ],
+      "en": [
+        "Can you provide more information?",
+        "Can you provide more information?"
+      ]
+    }
+  },
+  {
+    "word": "support",
+    "translations": {
+      "fa": "حمایت کردن",
+      "en": "to help or assist"
+    },
+    "explanation": {
+      "fa": "کمک یا پشتیبانی کردن.",
+      "en": "To help or give assistance."
+    },
+    "conjugations": ["support", "supports", "supported", "has supported"],
+    "examples": {
+      "fa": [
+        "Thank you for your support.",
+        "از حمایتتان متشکرم."
+      ],
+      "en": [
+        "I support your decision.",
+        "I support your decision."
+      ]
+    }
+  },
+  {
+    "word": "encourage",
+    "translations": {
+      "fa": "تشویق کردن",
+      "en": "to give confidence"
+    },
+    "explanation": {
+      "fa": "اعتماد به نفس دادن.",
+      "en": "To give someone confidence."
+    },
+    "conjugations": ["encourage", "encourages", "encouraged", "has encouraged"],
+    "examples": {
+      "fa": [
+        "Teachers encourage students.",
+        "معلمان دانش‌آموزان را تشویق می‌کنند."
+      ],
+      "en": [
+        "I encourage you to try.",
+        "I encourage you to try."
+      ]
+    }
+  },
+  {
+    "word": "motivate",
+    "translations": {
+      "fa": "انگیزه دادن",
+      "en": "to inspire to act"
+    },
+    "explanation": {
+      "fa": "الهام بخشیدن برای عمل کردن.",
+      "en": "To inspire someone to act."
+    },
+    "conjugations": ["motivate", "motivates", "motivated", "has motivated"],
+    "examples": {
+      "fa": [
+        "Music motivates me.",
+        "موسیقی به من انگیزه می‌دهد."
+      ],
+      "en": [
+        "What motivates you?",
+        "What motivates you?"
+      ]
+    }
+  },
+  {
+    "word": "inspire",
+    "translations": {
+      "fa": "الهام بخشیدن",
+      "en": "to fill with creativity"
+    },
+    "explanation": {
+      "fa": "پر کردن از خلاقیت و انگیزه.",
+      "en": "To fill with creativity and motivation."
+    },
+    "conjugations": ["inspire", "inspires", "inspired", "has inspired"],
+    "examples": {
+      "fa": [
+        "Her story inspired me.",
+        "داستان او به من الهام بخشید."
+      ],
+      "en": [
+        "Art inspires people.",
+        "Art inspires people."
+      ]
+    }
+  },
+  {
+    "word": "influence",
+    "translations": {
+      "fa": "تأثیر گذاشتن",
+      "en": "to affect or change"
+    },
+    "explanation": {
+      "fa": "بر چیزی تأثیر گذاشتن یا تغییر دادن.",
+      "en": "To affect or change something."
+    },
+    "conjugations": ["influence", "influences", "influenced", "has influenced"],
+    "examples": {
+      "fa": [
+        "Friends influence our decisions.",
+        "دوستان بر تصمیمات ما تأثیر می‌گذارند."
+      ],
+      "en": [
+        "She influenced my thinking.",
+        "She influenced my thinking."
+      ]
+    }
+  },
+  {
+    "word": "affect",
+    "translations": {
+      "fa": "تحت تأثیر قرار دادن",
+      "en": "to have an effect on"
+    },
+    "explanation": {
+      "fa": "روی چیزی اثر گذاشتن.",
+      "en": "To have an effect on something."
+    },
+    "conjugations": ["affect", "affects", "affected", "has affected"],
+    "examples": {
+      "fa": [
+        "Weather affects our mood.",
+        "آب و هوا روی حال ما اثر می‌گذارد."
+      ],
+      "en": [
+        "How does this affect you?",
+        "How does this affect you?"
+      ]
+    }
+  },
+  {
+    "word": "impact",
+    "translations": {
+      "fa": "تأثیر",
+      "en": "a strong effect"
+    },
+    "explanation": {
+      "fa": "اثر قوی.",
+      "en": "A strong effect."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Education has a big impact.",
+        "آموزش تأثیر بزرگی دارد."
+      ],
+      "en": [
+        "What's the impact of this decision?",
+        "What's the impact of this decision?"
+      ]
+    }
+  },
+  {
+    "word": "result",
+    "translations": {
+      "fa": "نتیجه",
+      "en": "outcome or consequence"
+    },
+    "explanation": {
+      "fa": "برآیند یا عاقبت.",
+      "en": "The outcome or consequence."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What's the result?",
+        "نتیجه چیست؟"
+      ],
+      "en": [
+        "Hard work brings good results.",
+        "Hard work brings good results."
+      ]
+    }
+  },
+  {
+    "word": "consequence",
+    "translations": {
+      "fa": "عواقب",
+      "en": "result of an action"
+    },
+    "explanation": {
+      "fa": "نتیجهٔ یک عمل.",
+      "en": "The result of an action."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Every action has consequences.",
+        "هر عملی عواقبی دارد."
+      ],
+      "en": [
+        "Think about the consequences.",
+        "Think about the consequences."
+      ]
+    }
+  },
+  {
+    "word": "cause",
+    "translations": {
+      "fa": "باعث شدن",
+      "en": "to make happen"
+    },
+    "explanation": {
+      "fa": "موجب اتفاق افتادن چیزی شدن.",
+      "en": "To make something happen."
+    },
+    "conjugations": ["cause", "causes", "caused", "has caused"],
+    "examples": {
+      "fa": [
+        "What caused the problem?",
+        "چه چیزی باعث مشکل شد؟"
+      ],
+      "en": [
+        "Stress can cause health issues.",
+        "Stress can cause health issues."
+      ]
+    }
+  },
+  {
+    "word": "solve",
+    "translations": {
+      "fa": "حل کردن",
+      "en": "to find an answer"
+    },
+    "explanation": {
+      "fa": "پاسخ یا راه‌حل پیدا کردن.",
+      "en": "To find an answer or solution."
+    },
+    "conjugations": ["solve", "solves", "solved", "has solved"],
+    "examples": {
+      "fa": [
+        "We need to solve this problem.",
+        "ما باید این مشکل را حل کنیم."
+      ],
+      "en": [
+        "Can you solve this puzzle?",
+        "Can you solve this puzzle?"
+      ]
+    }
+  },
+  {
+    "word": "solution",
+    "translations": {
+      "fa": "راه‌حل",
+      "en": "answer to a problem"
+    },
+    "explanation": {
+      "fa": "پاسخ به یک مشکل.",
+      "en": "The answer to a problem."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I found a solution.",
+        "من یک راه‌حل پیدا کردم."
+      ],
+      "en": [
+        "What's your solution?",
+        "What's your solution?"
+      ]
+    }
+  },
+  {
+    "word": "problem",
+    "translations": {
+      "fa": "مشکل",
+      "en": "a difficulty"
+    },
+    "explanation": {
+      "fa": "دشواری یا مسئله.",
+      "en": "A difficulty or issue."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "We have a problem.",
+        "ما یک مشکل داریم."
+      ],
+      "en": [
+        "No problem!",
+        "No problem!"
+      ]
+    }
+  },
+  {
+    "word": "issue",
+    "translations": {
+      "fa": "موضوع، مسئله",
+      "en": "an important topic"
+    },
+    "explanation": {
+      "fa": "موضوع یا مسئلهٔ مهم.",
+      "en": "An important topic or problem."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This is an important issue.",
+        "این یک موضوع مهم است."
+      ],
+      "en": [
+        "Let's discuss this issue.",
+        "Let's discuss this issue."
+      ]
+    }
+  },
+  {
+    "word": "situation",
+    "translations": {
+      "fa": "وضعیت، موقعیت",
+      "en": "circumstances"
+    },
+    "explanation": {
+      "fa": "شرایط یا اوضاع.",
+      "en": "The circumstances or conditions."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I understand your situation.",
+        "من وضعیت شما را می‌فهمم."
+      ],
+      "en": [
+        "It's a difficult situation.",
+        "It's a difficult situation."
+      ]
+    }
+  },
+  {
+    "word": "condition",
+    "translations": {
+      "fa": "شرایط، وضعیت",
+      "en": "state of being"
+    },
+    "explanation": {
+      "fa": "حالت یا وضعیت چیزی.",
+      "en": "The state something is in."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "The car is in good condition.",
+        "ماشین در وضعیت خوبی است."
+      ],
+      "en": [
+        "What are the conditions?",
+        "What are the conditions?"
+      ]
+    }
+  },
+  {
+    "word": "circumstance",
+    "translations": {
+      "fa": "شرایط",
+      "en": "a fact or condition"
+    },
+    "explanation": {
+      "fa": "واقعیت یا شرایط.",
+      "en": "A fact or condition."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Under these circumstances...",
+        "در این شرایط..."
+      ],
+      "en": [
+        "It depends on the circumstances.",
+        "It depends on the circumstances."
+      ]
+    }
+  },
+  {
+    "word": "environment",
+    "translations": {
+      "fa": "محیط",
+      "en": "surroundings"
+    },
+    "explanation": {
+      "fa": "اطراف و محیط پیرامون.",
+      "en": "The surroundings or conditions."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Protect the environment.",
+        "از محیط زیست محافظت کنید."
+      ],
+      "en": [
+        "I like a quiet environment.",
+        "I like a quiet environment."
+      ]
+    }
+  },
+  {
+    "word": "atmosphere",
+    "translations": {
+      "fa": "جو، فضا",
+      "en": "mood or feeling"
+    },
+    "explanation": {
+      "fa": "حال و هوا یا احساس.",
+      "en": "The mood or feeling of a place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "The atmosphere is relaxed.",
+        "فضا آرام است."
+      ],
+      "en": [
+        "I love the atmosphere here.",
+        "I love the atmosphere here."
+      ]
+    }
+  },
+  {
+    "word": "society",
+    "translations": {
+      "fa": "جامعه",
+      "en": "community of people"
+    },
+    "explanation": {
+      "fa": "گروهی از مردم که با هم زندگی می‌کنند.",
+      "en": "A community of people living together."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "We live in a multicultural society.",
+        "ما در یک جامعهٔ چندفرهنگی زندگی می‌کنیم."
+      ],
+      "en": [
+        "Society is changing.",
+        "Society is changing."
+      ]
+    }
+  },
+  {
+    "word": "culture",
+    "translations": {
+      "fa": "فرهنگ",
+      "en": "way of life"
+    },
+    "explanation": {
+      "fa": "شیوهٔ زندگی و سنت‌ها.",
+      "en": "The way of life and traditions."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I'm interested in different cultures.",
+        "من به فرهنگ‌های مختلف علاقه‌مندم."
+      ],
+      "en": [
+        "Every culture is unique.",
+        "Every culture is unique."
+      ]
+    }
+  },
+  {
+    "word": "tradition",
+    "translations": {
+      "fa": "سنت",
+      "en": "custom passed down"
+    },
+    "explanation": {
+      "fa": "رسمی که از نسلی به نسل دیگر منتقل می‌شود.",
+      "en": "A custom passed from generation to generation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "It's a family tradition.",
+        "این یک سنت خانوادگی است."
+      ],
+      "en": [
+        "We follow old traditions.",
+        "We follow old traditions."
+      ]
+    }
+  },
+  {
+    "word": "custom",
+    "translations": {
+      "fa": "عرف، رسم",
+      "en": "usual practice"
+    },
+    "explanation": {
+      "fa": "شیوهٔ معمول انجام کارها.",
+      "en": "The usual way of doing things."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That's an interesting custom.",
+        "این یک رسم جالب است."
+      ],
+      "en": [
+        "Local customs vary.",
+        "Local customs vary."
+      ]
+    }
+  },
+  {
+    "word": "habit",
+    "translations": {
+      "fa": "عادت",
+      "en": "regular behavior"
+    },
+    "explanation": {
+      "fa": "رفتاری که مرتباً انجام می‌دهید.",
+      "en": "A behavior you do regularly."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Reading is a good habit.",
+        "خواندن یک عادت خوب است."
+      ],
+      "en": [
+        "I have a bad habit.",
+        "I have a bad habit."
+      ]
+    }
+  },
+  {
+    "word": "behavior",
+    "translations": {
+      "fa": "رفتار",
+      "en": "way of acting"
+    },
+    "explanation": {
+      "fa": "شیوهٔ عمل کردن.",
+      "en": "The way someone acts."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "His behavior is strange.",
+        "رفتار او عجیب است."
+      ],
+      "en": [
+        "Good behavior is important.",
+        "Good behavior is important."
+      ]
+    }
+  },
+  {
+    "word": "attitude",
+    "translations": {
+      "fa": "نگرش، طرز فکر",
+      "en": "way of thinking"
+    },
+    "explanation": {
+      "fa": "شیوهٔ فکر کردن دربارهٔ چیزها.",
+      "en": "The way of thinking about things."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She has a positive attitude.",
+        "او نگرش مثبتی دارد."
+      ],
+      "en": [
+        "Change your attitude!",
+        "Change your attitude!"
+      ]
+    }
+  },
+  {
+    "word": "personality",
+    "translations": {
+      "fa": "شخصیت",
+      "en": "character traits"
+    },
+    "explanation": {
+      "fa": "ویژگی‌های شخصیتی.",
+      "en": "The characteristics that make someone unique."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "He has a friendly personality.",
+        "او شخصیت دوستانه‌ای دارد."
+      ],
+      "en": [
+        "Everyone has a different personality.",
+        "Everyone has a different personality."
+      ]
+    }
+  },
+  {
+    "word": "character",
+    "translations": {
+      "fa": "خصوصیت، شخصیت",
+      "en": "moral qualities"
+    },
+    "explanation": {
+      "fa": "ویژگی‌های اخلاقی.",
+      "en": "The moral qualities of a person."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She has a strong character.",
+        "او شخصیت قوی دارد."
+      ],
+      "en": [
+        "Character is important.",
+        "Character is important."
+      ]
+    }
+  },
+  {
+    "word": "responsible",
+    "translations": {
+      "fa": "مسئول",
+      "en": "having duties"
+    },
+    "explanation": {
+      "fa": "دارای وظایف و تعهدات.",
+      "en": "Having duties and obligations."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Who is responsible for this?",
+        "چه کسی مسئول این است؟"
+      ],
+      "en": [
+        "Be responsible!",
+        "Be responsible!"
+      ]
+    }
+  },
+  {
+    "word": "responsibility",
+    "translations": {
+      "fa": "مسئولیت",
+      "en": "duty or obligation"
+    },
+    "explanation": {
+      "fa": "وظیفه یا تعهد.",
+      "en": "A duty or obligation."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "It's my responsibility.",
+        "این مسئولیت من است."
+      ],
+      "en": [
+        "Take responsibility for your actions.",
+        "Take responsibility for your actions."
+      ]
+    }
+  },
+  {
+    "word": "independent",
+    "translations": {
+      "fa": "مستقل",
+      "en": "not relying on others"
+    },
+    "explanation": {
+      "fa": "به دیگران وابسته نبودن.",
+      "en": "Not relying on others."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She's very independent.",
+        "او خیلی مستقل است."
+      ],
+      "en": [
+        "I want to be independent.",
+        "I want to be independent."
+      ]
+    }
+  },
+  {
+    "word": "depend",
+    "translations": {
+      "fa": "بستگی داشتن",
+      "en": "to rely on"
+    },
+    "explanation": {
+      "fa": "تکیه کردن یا وابسته بودن.",
+      "en": "To rely or be contingent on."
+    },
+    "conjugations": ["depend", "depends", "depended", "has depended"],
+    "examples": {
+      "fa": [
+        "It depends on the weather.",
+        "به آب و هوا بستگی دارد."
+      ],
+      "en": [
+        "I depend on you.",
+        "I depend on you."
+      ]
+    }
+  },
+  {
+    "word": "reliable",
+    "translations": {
+      "fa": "قابل اعتماد",
+      "en": "can be trusted"
+    },
+    "explanation": {
+      "fa": "قابل اطمینان بودن.",
+      "en": "Able to be trusted."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "He's a reliable friend.",
+        "او دوست قابل اعتمادی است."
+      ],
+      "en": [
+        "This car is very reliable.",
+        "This car is very reliable."
+      ]
+    }
+  },
+  {
+    "word": "honest",
+    "translations": {
+      "fa": "صادق",
+      "en": "truthful"
+    },
+    "explanation": {
+      "fa": "راستگو.",
+      "en": "Telling the truth."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Be honest with me.",
+        "با من صادق باش."
+      ],
+      "en": [
+        "He's an honest person.",
+        "He's an honest person."
+      ]
+    }
+  },
+  {
+    "word": "patient",
+    "translations": {
+      "fa": "صبور",
+      "en": "able to wait calmly"
+    },
+    "explanation": {
+      "fa": "توانایی منتظر ماندن با آرامش.",
+      "en": "Able to wait calmly."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Please be patient.",
+        "لطفاً صبور باشید."
+      ],
+      "en": [
+        "She's very patient with children.",
+        "She's very patient with children."
+      ]
+    }
+  },
+  {
+    "word": "confident",
+    "translations": {
+      "fa": "با اعتماد به نفس",
+      "en": "sure of yourself"
+    },
+    "explanation": {
+      "fa": "مطمئن به خودتان.",
+      "en": "Sure of yourself and abilities."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She feels confident.",
+        "او احساس اعتماد به نفس می‌کند."
+      ],
+      "en": [
+        "Be more confident!",
+        "Be more confident!"
+      ]
+    }
+  },
+  {
+    "word": "confidence",
+    "translations": {
+      "fa": "اعتماد به نفس",
+      "en": "belief in yourself"
+    },
+    "explanation": {
+      "fa": "اعتقاد به خودتان.",
+      "en": "Belief in yourself and abilities."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Build your confidence.",
+        "اعتماد به نفس خود را بسازید."
+      ],
+      "en": [
+        "She has great confidence.",
+        "She has great confidence."
+      ]
+    }
+  },
+  {
+    "word": "brave",
+    "translations": {
+      "fa": "شجاع",
+      "en": "courageous"
+    },
+    "explanation": {
+      "fa": "دلیر و شجاع.",
+      "en": "Showing courage."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That was very brave.",
+        "آن خیلی شجاعانه بود."
+      ],
+      "en": [
+        "Be brave!",
+        "Be brave!"
+      ]
+    }
+  },
+  {
+    "word": "courage",
+    "translations": {
+      "fa": "شجاعت",
+      "en": "bravery"
+    },
+    "explanation": {
+      "fa": "جسارت و دلیری.",
+      "en": "The quality of being brave."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "It takes courage.",
+        "نیاز به شجاعت دارد."
+      ],
+      "en": [
+        "Have courage!",
+        "Have courage!"
+      ]
+    }
+  },
+  {
+    "word": "careful",
+    "translations": {
+      "fa": "مراقب، دقیق",
+      "en": "paying attention"
+    },
+    "explanation": {
+      "fa": "توجه و دقت داشتن.",
+      "en": "Giving attention and thought."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Be careful!",
+        "مراقب باش!"
+      ],
+      "en": [
+        "She's very careful with money.",
+        "She's very careful with money."
+      ]
+    }
+  },
+  {
+    "word": "careless",
+    "translations": {
+      "fa": "بی‌دقت",
+      "en": "not paying attention"
+    },
+    "explanation": {
+      "fa": "توجه نکردن.",
+      "en": "Not giving proper attention."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That was careless.",
+        "آن بی‌دقتی بود."
+      ],
+      "en": [
+        "Don't be so careless!",
+        "Don't be so careless!"
+      ]
+    }
+  },
+  {
+    "word": "creative",
+    "translations": {
+      "fa": "خلاق",
+      "en": "imaginative"
+    },
+    "explanation": {
+      "fa": "دارای تخیل و نوآوری.",
+      "en": "Having imagination and originality."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She's very creative.",
+        "او خیلی خلاق است."
+      ],
+      "en": [
+        "That's a creative solution!",
+        "That's a creative solution!"
+      ]
+    }
+  },
+  {
+    "word": "curious",
+    "translations": {
+      "fa": "کنجکاو",
+      "en": "wanting to know"
+    },
+    "explanation": {
+      "fa": "علاقه‌مند به دانستن.",
+      "en": "Eager to know or learn."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I'm curious about science.",
+        "من دربارهٔ علم کنجکاوم."
+      ],
+      "en": [
+        "Children are naturally curious.",
+        "Children are naturally curious."
+      ]
+    }
+  },
+  {
+    "word": "generous",
+    "translations": {
+      "fa": "بخشنده، سخاوتمند",
+      "en": "willing to give"
+    },
+    "explanation": {
+      "fa": "مایل به دادن و کمک.",
+      "en": "Willing to give and help."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "He's very generous.",
+        "او خیلی سخاوتمند است."
+      ],
+      "en": [
+        "That was generous of you.",
+        "That was generous of you."
+      ]
+    }
+  },
+  {
+    "word": "polite",
+    "translations": {
+      "fa": "مؤدب",
+      "en": "having good manners"
+    },
+    "explanation": {
+      "fa": "دارای رفتار خوب.",
+      "en": "Having good manners."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Be polite!",
+        "مؤدب باش!"
+      ],
+      "en": [
+        "He's always polite.",
+        "He's always polite."
+      ]
+    }
+  },
+  {
+    "word": "rude",
+    "translations": {
+      "fa": "بی‌ادب",
+      "en": "not polite"
+    },
+    "explanation": {
+      "fa": "مؤدب نبودن.",
+      "en": "Not having good manners."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Don't be rude!",
+        "بی‌ادب نباش!"
+      ],
+      "en": [
+        "That was rude of him.",
+        "That was rude of him."
+      ]
+    }
+  },
+  {
+    "word": "shy",
+    "translations": {
+      "fa": "خجالتی",
+      "en": "nervous with people"
+    },
+    "explanation": {
+      "fa": "عصبی بودن در حضور مردم.",
+      "en": "Nervous around people."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "She's a bit shy.",
+        "او کمی خجالتی است."
+      ],
+      "en": [
+        "Don't be shy!",
+        "Don't be shy!"
+      ]
+    }
+  },
+  {
+    "word": "outgoing",
+    "translations": {
+      "fa": "اجتماعی",
+      "en": "friendly and social"
+    },
+    "explanation": {
+      "fa": "دوستانه و اجتماعی.",
+      "en": "Friendly and enjoys being with people."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "He's very outgoing.",
+        "او خیلی اجتماعی است."
+      ],
+      "en": [
+        "I wish I was more outgoing.",
+        "I wish I was more outgoing."
+      ]
+    }
+  },
+  {
+    "word": "serious",
+    "translations": {
+      "fa": "جدی",
+      "en": "not joking"
+    },
+    "explanation": {
+      "fa": "شوخی نکردن.",
+      "en": "Not joking or playful."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This is serious.",
+        "این جدی است."
+      ],
+      "en": [
+        "Be serious!",
+        "Be serious!"
+      ]
+    }
+  },
+  {
+    "word": "funny",
+    "translations": {
+      "fa": "بامزه، خنده‌دار",
+      "en": "making you laugh"
+    },
+    "explanation": {
+      "fa": "باعث خنده شدن.",
+      "en": "Causing laughter."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That's funny!",
+        "این خنده‌دار است!"
+      ],
+      "en": [
+        "He's a funny person.",
+        "He's a funny person."
+      ]
+    }
+  },
+  {
+    "word": "boring",
+    "translations": {
+      "fa": "خسته‌کننده",
+      "en": "not interesting"
+    },
+    "explanation": {
+      "fa": "جالب نبودن.",
+      "en": "Not interesting or exciting."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This movie is boring.",
+        "این فیلم خسته‌کننده است."
+      ],
+      "en": [
+        "Don't be boring!",
+        "Don't be boring!"
+      ]
+    }
+  },
+  {
+    "word": "interesting",
+    "translations": {
+      "fa": "جالب",
+      "en": "holding attention"
+    },
+    "explanation": {
+      "fa": "توجه را جلب کردن.",
+      "en": "Holding your attention."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That's interesting!",
+        "این جالب است!"
+      ],
+      "en": [
+        "She's an interesting person.",
+        "She's an interesting person."
+      ]
+    }
+  },
+  {
+    "word": "exciting",
+    "translations": {
+      "fa": "هیجان‌انگیز",
+      "en": "causing excitement"
+    },
+    "explanation": {
+      "fa": "باعث هیجان شدن.",
+      "en": "Causing feelings of enthusiasm."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This is exciting!",
+        "این هیجان‌انگیز است!"
+      ],
+      "en": [
+        "We had an exciting adventure.",
+        "We had an exciting adventure."
+      ]
+    }
+  },
+  {
+    "word": "amazing",
+    "translations": {
+      "fa": "شگفت‌انگیز",
+      "en": "very surprising"
+    },
+    "explanation": {
+      "fa": "خیلی تعجب‌آور.",
+      "en": "Very surprising or impressive."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That's amazing!",
+        "این شگفت‌انگیز است!"
+      ],
+      "en": [
+        "You did an amazing job.",
+        "You did an amazing job."
+      ]
+    }
+  },
+  {
+    "word": "wonderful",
+    "translations": {
+      "fa": "عالی، فوق‌العاده",
+      "en": "extremely good"
+    },
+    "explanation": {
+      "fa": "بسیار خوب.",
+      "en": "Extremely good or pleasant."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What a wonderful day!",
+        "چه روز عالی‌ای!"
+      ],
+      "en": [
+        "That's wonderful news!",
+        "That's wonderful news!"
+      ]
+    }
+  },
+  {
+    "word": "terrible",
+    "translations": {
+      "fa": "وحشتناک",
+      "en": "very bad"
+    },
+    "explanation": {
+      "fa": "خیلی بد.",
+      "en": "Very bad or unpleasant."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That's terrible!",
+        "این وحشتناک است!"
+      ],
+      "en": [
+        "I feel terrible.",
+        "I feel terrible."
+      ]
+    }
+  },
+  {
+    "word": "awful",
+    "translations": {
+      "fa": "افتضاح",
+      "en": "extremely bad"
+    },
+    "explanation": {
+      "fa": "بسیار بد.",
+      "en": "Extremely bad or unpleasant."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "The weather is awful.",
+        "هوا افتضاح است."
+      ],
+      "en": [
+        "That tastes awful!",
+        "That tastes awful!"
+      ]
+    }
+  },
+  {
+    "word": "pleasant",
+    "translations": {
+      "fa": "دلپذیر",
+      "en": "enjoyable"
+    },
+    "explanation": {
+      "fa": "لذت‌بخش.",
+      "en": "Giving enjoyment or satisfaction."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Have a pleasant day!",
+        "روز خوبی داشته باشید!"
+      ],
+      "en": [
+        "That was a pleasant surprise.",
+        "That was a pleasant surprise."
+      ]
+    }
+  },
+  {
+    "word": "unpleasant",
+    "translations": {
+      "fa": "ناخوشایند",
+      "en": "not enjoyable"
+    },
+    "explanation": {
+      "fa": "لذت‌بخش نبودن.",
+      "en": "Not giving pleasure or satisfaction."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "That was unpleasant.",
+        "آن ناخوشایند بود."
+      ],
+      "en": [
+        "An unpleasant experience.",
+        "An unpleasant experience."
+      ]
+    }
+  },
+  {
+    "word": "comfortable",
+    "translations": {
+      "fa": "راحت",
+      "en": "physically at ease"
+    },
+    "explanation": {
+      "fa": "از نظر فیزیکی آسوده.",
+      "en": "Physically relaxed and at ease."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This chair is comfortable.",
+        "این صندلی راحت است."
+      ],
+      "en": [
+        "Make yourself comfortable.",
+        "Make yourself comfortable."
+      ]
+    }
+  },
+  {
+    "word": "uncomfortable",
+    "translations": {
+      "fa": "ناراحت",
+      "en": "not at ease"
+    },
+    "explanation": {
+      "fa": "آسوده نبودن.",
+      "en": "Not relaxed or at ease."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "I feel uncomfortable.",
+        "من احساس ناراحتی می‌کنم."
+      ],
+      "en": [
+        "These shoes are uncomfortable.",
+        "These shoes are uncomfortable."
+      ]
+    }
+  },
+  {
+    "word": "convenient",
+    "translations": {
+      "fa": "مناسب، راحت",
+      "en": "fitting well"
+    },
+    "explanation": {
+      "fa": "مناسب و در دسترس.",
+      "en": "Fitting well with needs or plans."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Is this time convenient?",
+        "این زمان مناسب است؟"
+      ],
+      "en": [
+        "It's very convenient.",
+        "It's very convenient."
+      ]
+    }
+  },
+  {
+    "word": "modern",
+    "translations": {
+      "fa": "مدرن، نوین",
+      "en": "of present time"
+    },
+    "explanation": {
+      "fa": "مربوط به زمان حاضر.",
+      "en": "Of the present or recent times."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "It's a modern building.",
+        "این یک ساختمان مدرن است."
+      ],
+      "en": [
+        "I prefer modern design.",
+        "I prefer modern design."
+      ]
+    }
+  },
+  {
+    "word": "traditional",
+    "translations": {
+      "fa": "سنتی",
+      "en": "following old ways"
+    },
+    "explanation": {
+      "fa": "پیروی از روش‌های قدیمی.",
+      "en": "Following customs from the past."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Traditional food is delicious.",
+        "غذای سنتی خوشمزه است."
+      ],
+      "en": [
+        "I like traditional music.",
+        "I like traditional music."
+      ]
+    }
+  },
+  {
+    "word": "ancient",
+    "translations": {
+      "fa": "باستانی",
+      "en": "very old"
+    },
+    "explanation": {
+      "fa": "خیلی قدیمی.",
+      "en": "Belonging to distant past."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Ancient civilizations fascinate me.",
+        "تمدن‌های باستانی من را مجذوب می‌کنند."
+      ],
+      "en": [
+        "This is an ancient building.",
+        "This is an ancient building."
+      ]
+    }
+  },
+  {
+    "word": "recent",
+    "translations": {
+      "fa": "اخیر",
+      "en": "happening lately"
+    },
+    "explanation": {
+      "fa": "اخیراً اتفاق افتادن.",
+      "en": "Happening not long ago."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "In recent years...",
+        "در سال‌های اخیر..."
+      ],
+      "en": [
+        "This is a recent development.",
+        "This is a recent development."
+      ]
+    }
+  },
+  {
+    "word": "current",
+    "translations": {
+      "fa": "جاری، فعلی",
+      "en": "happening now"
+    },
+    "explanation": {
+      "fa": "در حال حاضر رخ دادن.",
+      "en": "Happening or existing now."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "What's the current situation?",
+        "وضعیت فعلی چیست؟"
+      ],
+      "en": [
+        "My current job is interesting.",
+        "My current job is interesting."
+      ]
+    }
+  },
+  {
+    "word": "previous",
+    "translations": {
+      "fa": "قبلی",
+      "en": "before this one"
+    },
+    "explanation": {
+      "fa": "پیش از این.",
+      "en": "Existing or happening before this."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "My previous job was different.",
+        "شغل قبلی من متفاوت بود."
+      ],
+      "en": [
+        "The previous owner sold it.",
+        "The previous owner sold it."
+      ]
+    }
+  },
+  {
+    "word": "next",
+    "translations": {
+      "fa": "بعدی",
+      "en": "coming after"
+    },
+    "explanation": {
+      "fa": "بعد از این.",
+      "en": "Coming immediately after."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "See you next week!",
+        "هفتهٔ بعد می‌بینمت!"
+      ],
+      "en": [
+        "What's next?",
+        "What's next?"
+      ]
+    }
+  },
+  {
+    "word": "last",
+    "translations": {
+      "fa": "آخرین، گذشته",
+      "en": "most recent past"
+    },
+    "explanation": {
+      "fa": "اخیرترین گذشته.",
+      "en": "The most recent in the past."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Last week was busy.",
+        "هفتهٔ گذشته شلوغ بود."
+      ],
+      "en": [
+        "This is my last chance.",
+        "This is my last chance."
+      ]
+    }
+  },
+  {
+    "word": "final",
+    "translations": {
+      "fa": "نهایی",
+      "en": "coming at the end"
+    },
+    "explanation": {
+      "fa": "در پایان آمدن.",
+      "en": "Coming at the end; conclusive."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "This is my final decision.",
+        "این تصمیم نهایی من است."
+      ],
+      "en": [
+        "The final result surprised everyone.",
+        "The final result surprised everyone."
+      ]
+    }
+  }
+]

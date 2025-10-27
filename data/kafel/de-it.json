@@ -1,0 +1,2868 @@
+[
+  {
+    "word": "die Anwendung",
+    "translations": {
+      "en": "application, software",
+      "de": "Software, Programm"
+    },
+    "explanation": {
+      "en": "A software program designed to perform specific tasks for users. In IT, refers to applications developed for various platforms.",
+      "de": "Ein Softwareprogramm, das entwickelt wurde, um bestimmte Aufgaben für Benutzer auszuführen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir entwickeln eine neue Webanwendung.",
+        "We are developing a new web application."
+      ],
+      "de": [
+        "Die Anwendung läuft auf mehreren Plattformen.",
+        "The application runs on multiple platforms."
+      ]
+    }
+  },
+  {
+    "word": "die Entwicklung",
+    "translations": {
+      "en": "development",
+      "de": "Development, Programmierung"
+    },
+    "explanation": {
+      "en": "The process of creating software. Software development includes design, coding, testing, and deployment.",
+      "de": "Der Prozess der Softwareentwicklung, einschließlich Design, Programmierung, Testen und Bereitstellung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Softwareentwicklung dauert sechs Monate.",
+        "The software development takes six months."
+      ],
+      "de": [
+        "In der Entwicklung arbeiten zehn Programmierer.",
+        "Ten programmers work in development."
+      ]
+    }
+  },
+  {
+    "word": "der Entwickler",
+    "translations": {
+      "en": "developer",
+      "de": "Programmierer"
+    },
+    "explanation": {
+      "en": "A person who develops software applications. Can be a front-end, back-end, or full-stack developer.",
+      "de": "Eine Person, die Softwareanwendungen entwickelt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich arbeite als Webentwickler.",
+        "I work as a web developer."
+      ],
+      "de": [
+        "Die Entwickler haben einen Bug gefunden.",
+        "The developers found a bug."
+      ]
+    }
+  },
+  {
+    "word": "programmieren",
+    "translations": {
+      "en": "to program, to code",
+      "de": "coden, schreiben (Code)"
+    },
+    "explanation": {
+      "en": "To write computer programs using programming languages. The core activity of software development.",
+      "de": "Computerprogramme mit Programmiersprachen schreiben."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "programmieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "programmiere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "programmiert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "programmierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat programmiert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Ich programmiere in Python und JavaScript.",
+        "I program in Python and JavaScript."
+      ],
+      "de": [
+        "Er programmiert seit zehn Jahren.",
+        "He has been programming for ten years."
+      ]
+    }
+  },
+  {
+    "word": "die Programmierung",
+    "translations": {
+      "en": "programming",
+      "de": "Coding"
+    },
+    "explanation": {
+      "en": "The act or process of programming. Writing instructions for computers to execute.",
+      "de": "Das Schreiben von Anweisungen für Computer."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die objektorientierte Programmierung ist wichtig.",
+        "Object-oriented programming is important."
+      ],
+      "de": [
+        "In der Programmierung braucht man logisches Denken.",
+        "Programming requires logical thinking."
+      ]
+    }
+  },
+  {
+    "word": "die Programmiersprache",
+    "translations": {
+      "en": "programming language",
+      "de": "Programming Language"
+    },
+    "explanation": {
+      "en": "A formal language used to write computer programs. Examples include Java, Python, C++, and JavaScript.",
+      "de": "Eine formale Sprache zum Schreiben von Computerprogrammen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Welche Programmiersprachen beherrschst du?",
+        "Which programming languages do you know?"
+      ],
+      "de": [
+        "Java ist eine populäre Programmiersprache.",
+        "Java is a popular programming language."
+      ]
+    }
+  },
+  {
+    "word": "der Code",
+    "translations": {
+      "en": "code",
+      "de": "Quellcode, Programmcode"
+    },
+    "explanation": {
+      "en": "The instructions written in a programming language. Can be source code, machine code, or compiled code.",
+      "de": "Die in einer Programmiersprache geschriebenen Anweisungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Code muss überprüft werden.",
+        "The code needs to be reviewed."
+      ],
+      "de": [
+        "Ich habe den Code auf GitHub hochgeladen.",
+        "I uploaded the code to GitHub."
+      ]
+    }
+  },
+  {
+    "word": "die Datenbank",
+    "translations": {
+      "en": "database",
+      "de": "Database"
+    },
+    "explanation": {
+      "en": "An organized collection of data stored electronically. Used to store and manage information in applications.",
+      "de": "Eine organisierte Sammlung von elektronisch gespeicherten Daten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Datenbank enthält alle Kundendaten.",
+        "The database contains all customer data."
+      ],
+      "de": [
+        "Wir verwenden eine SQL-Datenbank.",
+        "We use an SQL database."
+      ]
+    }
+  },
+  {
+    "word": "das Framework",
+    "translations": {
+      "en": "framework",
+      "de": "Rahmenwerk"
+    },
+    "explanation": {
+      "en": "A reusable software platform that provides a foundation for developing applications. Examples: React, Angular, Spring.",
+      "de": "Eine wiederverwendbare Softwareplattform als Grundlage für die Anwendungsentwicklung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir nutzen das Spring Framework.",
+        "We use the Spring Framework."
+      ],
+      "de": [
+        "Dieses Framework erleichtert die Entwicklung.",
+        "This framework simplifies development."
+      ]
+    }
+  },
+  {
+    "word": "die Schnittstelle",
+    "translations": {
+      "en": "interface, API",
+      "de": "Interface, Verbindungspunkt"
+    },
+    "explanation": {
+      "en": "A point where two systems meet and interact. In IT, often refers to APIs (Application Programming Interfaces).",
+      "de": "Ein Punkt, an dem zwei Systeme sich treffen und interagieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die API-Schnittstelle ist gut dokumentiert.",
+        "The API interface is well documented."
+      ],
+      "de": [
+        "Wir entwickeln eine REST-Schnittstelle.",
+        "We're developing a REST interface."
+      ]
+    }
+  },
+  {
+    "word": "die Software",
+    "translations": {
+      "en": "software",
+      "de": "Programme, Anwendungen"
+    },
+    "explanation": {
+      "en": "Programs and operating information used by computers. Includes applications, operating systems, and utilities.",
+      "de": "Programme und Betriebsinformationen für Computer."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Software muss aktualisiert werden.",
+        "The software needs to be updated."
+      ],
+      "de": [
+        "Wir entwickeln maßgeschneiderte Software.",
+        "We develop custom software."
+      ]
+    }
+  },
+  {
+    "word": "die Hardware",
+    "translations": {
+      "en": "hardware",
+      "de": "physische Computerkomponenten"
+    },
+    "explanation": {
+      "en": "The physical components of a computer system. Includes processors, memory, storage devices, and peripherals.",
+      "de": "Die physischen Komponenten eines Computersystems."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Hardware ist veraltet.",
+        "The hardware is outdated."
+      ],
+      "de": [
+        "Für diese Software braucht man leistungsstarke Hardware.",
+        "You need powerful hardware for this software."
+      ]
+    }
+  },
+  {
+    "word": "der Server",
+    "translations": {
+      "en": "server",
+      "de": "Serversystem"
+    },
+    "explanation": {
+      "en": "A computer or system that provides services to other computers on a network. Can be web servers, database servers, etc.",
+      "de": "Ein Computer oder System, das Dienste für andere Computer im Netzwerk bereitstellt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Server ist ausgefallen.",
+        "The server has crashed."
+      ],
+      "de": [
+        "Wir hosten die Anwendung auf einem Cloud-Server.",
+        "We host the application on a cloud server."
+      ]
+    }
+  },
+  {
+    "word": "der Client",
+    "translations": {
+      "en": "client",
+      "de": "Klient, Kundenrechner"
+    },
+    "explanation": {
+      "en": "A computer or application that accesses services from a server. In client-server architecture, the requesting side.",
+      "de": "Ein Computer oder eine Anwendung, die Dienste von einem Server abruft."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Client sendet eine Anfrage an den Server.",
+        "The client sends a request to the server."
+      ],
+      "de": [
+        "Die Client-Anwendung läuft im Browser.",
+        "The client application runs in the browser."
+      ]
+    }
+  },
+  {
+    "word": "das Netzwerk",
+    "translations": {
+      "en": "network",
+      "de": "Netz"
+    },
+    "explanation": {
+      "en": "A system of interconnected computers and devices. Includes LANs, WANs, and the internet.",
+      "de": "Ein System miteinander verbundener Computer und Geräte."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Netzwerk ist langsam.",
+        "The network is slow."
+      ],
+      "de": [
+        "Alle Computer sind im gleichen Netzwerk.",
+        "All computers are on the same network."
+      ]
+    }
+  },
+  {
+    "word": "das Internet",
+    "translations": {
+      "en": "internet",
+      "de": "weltweites Netzwerk"
+    },
+    "explanation": {
+      "en": "The global system of interconnected computer networks. The foundation of modern web applications and services.",
+      "de": "Das weltweite System miteinander verbundener Computernetzwerke."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anwendung benötigt eine Internetverbindung.",
+        "The application requires an internet connection."
+      ],
+      "de": [
+        "Über das Internet können Daten ausgetauscht werden.",
+        "Data can be exchanged over the internet."
+      ]
+    }
+  },
+  {
+    "word": "die Website",
+    "translations": {
+      "en": "website",
+      "de": "Webseite, Internetseite"
+    },
+    "explanation": {
+      "en": "A collection of web pages accessed through a domain name. The front-end of web applications.",
+      "de": "Eine Sammlung von Webseiten, die über einen Domainnamen aufgerufen werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir entwickeln eine neue Website.",
+        "We're developing a new website."
+      ],
+      "de": [
+        "Die Website muss responsiv sein.",
+        "The website must be responsive."
+      ]
+    }
+  },
+  {
+    "word": "der Browser",
+    "translations": {
+      "en": "browser",
+      "de": "Webbrowser"
+    },
+    "explanation": {
+      "en": "A software application for accessing websites. Examples include Chrome, Firefox, Safari, and Edge.",
+      "de": "Eine Softwareanwendung zum Aufrufen von Websites."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Welchen Browser verwendest du?",
+        "Which browser do you use?"
+      ],
+      "de": [
+        "Die Anwendung funktioniert in allen modernen Browsern.",
+        "The application works in all modern browsers."
+      ]
+    }
+  },
+  {
+    "word": "die Benutzeroberfläche",
+    "translations": {
+      "en": "user interface, UI",
+      "de": "User Interface"
+    },
+    "explanation": {
+      "en": "The visual part of an application that users interact with. Includes buttons, menus, forms, and other elements.",
+      "de": "Der visuelle Teil einer Anwendung, mit dem Benutzer interagieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Benutzeroberfläche ist intuitiv gestaltet.",
+        "The user interface is intuitively designed."
+      ],
+      "de": [
+        "Wir verbessern die Benutzeroberfläche.",
+        "We're improving the user interface."
+      ]
+    }
+  },
+  {
+    "word": "der Benutzer",
+    "translations": {
+      "en": "user",
+      "de": "Anwender, Nutzer"
+    },
+    "explanation": {
+      "en": "A person who uses an application or system. The end user is the target audience for software applications.",
+      "de": "Eine Person, die eine Anwendung oder ein System nutzt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anwendung hat über 10.000 Benutzer.",
+        "The application has over 10,000 users."
+      ],
+      "de": [
+        "Benutzer können sich registrieren und anmelden.",
+        "Users can register and log in."
+      ]
+    }
+  },
+  {
+    "word": "das Konto",
+    "translations": {
+      "en": "account",
+      "de": "Account, Benutzerkonto"
+    },
+    "explanation": {
+      "en": "A user account in a system. Contains user credentials and personal information for accessing services.",
+      "de": "Ein Benutzerkonto in einem System mit Anmeldedaten und persönlichen Informationen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Du musst ein Konto erstellen.",
+        "You need to create an account."
+      ],
+      "de": [
+        "Mein Konto wurde gesperrt.",
+        "My account was locked."
+      ]
+    }
+  },
+  {
+    "word": "das Passwort",
+    "translations": {
+      "en": "password",
+      "de": "Kennwort"
+    },
+    "explanation": {
+      "en": "A secret string of characters used for authentication. Essential for account security in applications.",
+      "de": "Eine geheime Zeichenfolge zur Authentifizierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Passwort muss mindestens 8 Zeichen lang sein.",
+        "The password must be at least 8 characters long."
+      ],
+      "de": [
+        "Ich habe mein Passwort vergessen.",
+        "I forgot my password."
+      ]
+    }
+  },
+  {
+    "word": "die Sicherheit",
+    "translations": {
+      "en": "security, safety",
+      "de": "Schutz, Absicherung"
+    },
+    "explanation": {
+      "en": "Protection against threats and vulnerabilities. In IT, includes data security, network security, and application security.",
+      "de": "Schutz vor Bedrohungen und Schwachstellen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Sicherheit der Daten ist sehr wichtig.",
+        "Data security is very important."
+      ],
+      "de": [
+        "Wir implementieren zusätzliche Sicherheitsmaßnahmen.",
+        "We're implementing additional security measures."
+      ]
+    }
+  },
+  {
+    "word": "verschlüsseln",
+    "translations": {
+      "en": "to encrypt",
+      "de": "kodieren, chiffrieren"
+    },
+    "explanation": {
+      "en": "To convert data into a coded format for security. Essential for protecting sensitive information in applications.",
+      "de": "Daten in ein kodiertes Format umwandeln zum Schutz."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "verschlüsseln"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "verschlüssele"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "verschlüsselt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "verschlüsselte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat verschlüsselt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Alle Passwörter werden verschlüsselt gespeichert.",
+        "All passwords are stored encrypted."
+      ],
+      "de": [
+        "Die Kommunikation ist verschlüsselt.",
+        "The communication is encrypted."
+      ]
+    }
+  },
+  {
+    "word": "der Fehler",
+    "translations": {
+      "en": "error, bug, mistake",
+      "de": "Bug, Irrtum"
+    },
+    "explanation": {
+      "en": "An error or bug in software. Can be syntax errors, runtime errors, or logical errors.",
+      "de": "Ein Fehler oder Bug in Software."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Im Code gibt es noch einige Fehler.",
+        "There are still some errors in the code."
+      ],
+      "de": [
+        "Dieser Fehler muss behoben werden.",
+        "This bug needs to be fixed."
+      ]
+    }
+  },
+  {
+    "word": "der Bug",
+    "translations": {
+      "en": "bug, defect",
+      "de": "Programmfehler, Defekt"
+    },
+    "explanation": {
+      "en": "A defect or flaw in software that causes incorrect results. Bugs need to be identified and fixed during testing.",
+      "de": "Ein Defekt oder Fehler in Software, der falsche Ergebnisse verursacht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir haben einen kritischen Bug gefunden.",
+        "We found a critical bug."
+      ],
+      "de": [
+        "Der Bug wurde im letzten Update behoben.",
+        "The bug was fixed in the last update."
+      ]
+    }
+  },
+  {
+    "word": "debuggen",
+    "translations": {
+      "en": "to debug",
+      "de": "Fehler beheben"
+    },
+    "explanation": {
+      "en": "The process of finding and fixing bugs in software. Uses debugging tools and techniques to identify issues.",
+      "de": "Der Prozess, Fehler in Software zu finden und zu beheben."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "debuggen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "debugge"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "debuggt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "debuggte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat gedebuggt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Ich muss den Code noch debuggen.",
+        "I still need to debug the code."
+      ],
+      "de": [
+        "Das Debuggen dauert manchmal lange.",
+        "Debugging sometimes takes a long time."
+      ]
+    }
+  },
+  {
+    "word": "testen",
+    "translations": {
+      "en": "to test",
+      "de": "prüfen"
+    },
+    "explanation": {
+      "en": "To test software for errors and functionality. Includes unit testing, integration testing, and user acceptance testing.",
+      "de": "Software auf Fehler und Funktionalität testen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "testen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "teste"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "testet"
+      },
+      {
+        "form": "Präteritum",
+        "value": "testete"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat getestet"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir müssen die neue Funktion testen.",
+        "We need to test the new feature."
+      ],
+      "de": [
+        "Die Software wurde gründlich getestet.",
+        "The software was thoroughly tested."
+      ]
+    }
+  },
+  {
+    "word": "der Test",
+    "translations": {
+      "en": "test",
+      "de": "Prüfung, Testfall"
+    },
+    "explanation": {
+      "en": "A procedure to verify software functionality. Can be automated tests or manual tests.",
+      "de": "Ein Verfahren zur Überprüfung der Softwarefunktionalität."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Alle Tests sind erfolgreich durchgelaufen.",
+        "All tests passed successfully."
+      ],
+      "de": [
+        "Wir schreiben Unit-Tests für den Code.",
+        "We're writing unit tests for the code."
+      ]
+    }
+  },
+  {
+    "word": "die Funktion",
+    "translations": {
+      "en": "function, feature",
+      "de": "Methode, Feature"
+    },
+    "explanation": {
+      "en": "A block of code that performs a specific task. Also refers to features or capabilities of software.",
+      "de": "Ein Codeblock, der eine bestimmte Aufgabe ausführt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Diese Funktion berechnet die Summe.",
+        "This function calculates the sum."
+      ],
+      "de": [
+        "Die neue Funktion ist sehr nützlich.",
+        "The new feature is very useful."
+      ]
+    }
+  },
+  {
+    "word": "die Methode",
+    "translations": {
+      "en": "method",
+      "de": "Funktion, Verfahren"
+    },
+    "explanation": {
+      "en": "A function associated with a class or object in object-oriented programming. Defines behavior of objects.",
+      "de": "Eine Funktion, die mit einer Klasse oder einem Objekt verbunden ist."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Diese Methode gibt einen String zurück.",
+        "This method returns a string."
+      ],
+      "de": [
+        "Wir rufen die Methode auf dem Objekt auf.",
+        "We call the method on the object."
+      ]
+    }
+  },
+  {
+    "word": "die Klasse",
+    "translations": {
+      "en": "class",
+      "de": "Objektklasse"
+    },
+    "explanation": {
+      "en": "A blueprint for creating objects in object-oriented programming. Defines properties and methods.",
+      "de": "Ein Bauplan für die Erstellung von Objekten in der objektorientierten Programmierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir erstellen eine neue Klasse für Benutzer.",
+        "We're creating a new class for users."
+      ],
+      "de": [
+        "Die Klasse hat mehrere Attribute.",
+        "The class has multiple attributes."
+      ]
+    }
+  },
+  {
+    "word": "das Objekt",
+    "translations": {
+      "en": "object",
+      "de": "Instanz"
+    },
+    "explanation": {
+      "en": "An instance of a class in object-oriented programming. Contains data and methods defined by its class.",
+      "de": "Eine Instanz einer Klasse in der objektorientierten Programmierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir erzeugen ein neues Objekt.",
+        "We're creating a new object."
+      ],
+      "de": [
+        "Jedes Objekt hat seinen eigenen Zustand.",
+        "Each object has its own state."
+      ]
+    }
+  },
+  {
+    "word": "die Variable",
+    "translations": {
+      "en": "variable",
+      "de": "Veränderliche"
+    },
+    "explanation": {
+      "en": "A named storage location for data in programming. Can hold different types of values.",
+      "de": "Ein benannter Speicherort für Daten in der Programmierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich deklariere eine Variable für den Namen.",
+        "I'm declaring a variable for the name."
+      ],
+      "de": [
+        "Der Wert der Variable kann sich ändern.",
+        "The value of the variable can change."
+      ]
+    }
+  },
+  {
+    "word": "die Konstante",
+    "translations": {
+      "en": "constant",
+      "de": "fester Wert"
+    },
+    "explanation": {
+      "en": "A value that cannot be changed during program execution. Used for fixed values like configuration settings.",
+      "de": "Ein Wert, der während der Programmausführung nicht geändert werden kann."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "PI ist als Konstante definiert.",
+        "PI is defined as a constant."
+      ],
+      "de": [
+        "Konstanten werden in Großbuchstaben geschrieben.",
+        "Constants are written in capital letters."
+      ]
+    }
+  },
+  {
+    "word": "der Parameter",
+    "translations": {
+      "en": "parameter",
+      "de": "Übergabewert"
+    },
+    "explanation": {
+      "en": "A value passed to a function or method. Allows functions to work with different data.",
+      "de": "Ein Wert, der an eine Funktion übergeben wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Funktion erwartet zwei Parameter.",
+        "The function expects two parameters."
+      ],
+      "de": [
+        "Wir übergeben den Namen als Parameter.",
+        "We pass the name as a parameter."
+      ]
+    }
+  },
+  {
+    "word": "das Argument",
+    "translations": {
+      "en": "argument",
+      "de": "Übergabewert, Parameter"
+    },
+    "explanation": {
+      "en": "The actual value passed to a function when calling it. Often used interchangeably with parameter.",
+      "de": "Der tatsächliche Wert, der beim Aufruf einer Funktion übergeben wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir übergeben drei Argumente an die Funktion.",
+        "We pass three arguments to the function."
+      ],
+      "de": [
+        "Das erste Argument ist ein String.",
+        "The first argument is a string."
+      ]
+    }
+  },
+  {
+    "word": "der Rückgabewert",
+    "translations": {
+      "en": "return value",
+      "de": "Ergebnis einer Funktion"
+    },
+    "explanation": {
+      "en": "The value returned by a function after execution. Functions can return data to the caller.",
+      "de": "Der Wert, den eine Funktion nach der Ausführung zurückgibt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Rückgabewert ist ein Boolean.",
+        "The return value is a boolean."
+      ],
+      "de": [
+        "Diese Funktion hat keinen Rückgabewert.",
+        "This function has no return value."
+      ]
+    }
+  },
+  {
+    "word": "die Schleife",
+    "translations": {
+      "en": "loop",
+      "de": "Loop, Iteration"
+    },
+    "explanation": {
+      "en": "A programming construct that repeats code multiple times. Includes for loops, while loops, and do-while loops.",
+      "de": "Ein Programmkonstrukt, das Code mehrfach wiederholt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden eine For-Schleife.",
+        "We're using a for loop."
+      ],
+      "de": [
+        "Die Schleife läuft zehnmal durch.",
+        "The loop runs ten times."
+      ]
+    }
+  },
+  {
+    "word": "die Bedingung",
+    "translations": {
+      "en": "condition",
+      "de": "Voraussetzung, Kriterium"
+    },
+    "explanation": {
+      "en": "A logical expression that evaluates to true or false. Used in if statements and loops.",
+      "de": "Ein logischer Ausdruck, der wahr oder falsch ergibt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Bedingung prüft, ob die Zahl positiv ist.",
+        "The condition checks if the number is positive."
+      ],
+      "de": [
+        "Wenn die Bedingung wahr ist, wird der Code ausgeführt.",
+        "If the condition is true, the code is executed."
+      ]
+    }
+  },
+  {
+    "word": "die Verzweigung",
+    "translations": {
+      "en": "branching, conditional",
+      "de": "Fallunterscheidung"
+    },
+    "explanation": {
+      "en": "A control structure that allows different code paths based on conditions. Includes if-else and switch statements.",
+      "de": "Eine Kontrollstruktur, die verschiedene Codepfade basierend auf Bedingungen ermöglicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Verzweigung prüft mehrere Fälle.",
+        "The branching checks multiple cases."
+      ],
+      "de": [
+        "Eine if-else-Verzweigung ist hier sinnvoll.",
+        "An if-else branch makes sense here."
+      ]
+    }
+  },
+  {
+    "word": "der Algorithmus",
+    "translations": {
+      "en": "algorithm",
+      "de": "Rechenvorschrift"
+    },
+    "explanation": {
+      "en": "A step-by-step procedure for solving a problem. Fundamental concept in computer science and programming.",
+      "de": "Eine schrittweise Vorgehensweise zur Lösung eines Problems."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Dieser Algorithmus sortiert die Daten effizient.",
+        "This algorithm sorts the data efficiently."
+      ],
+      "de": [
+        "Wir implementieren einen Such-Algorithmus.",
+        "We're implementing a search algorithm."
+      ]
+    }
+  },
+  {
+    "word": "die Datenstruktur",
+    "translations": {
+      "en": "data structure",
+      "de": "Datenorganisation"
+    },
+    "explanation": {
+      "en": "A way of organizing and storing data. Includes arrays, lists, stacks, queues, trees, and graphs.",
+      "de": "Eine Art, Daten zu organisieren und zu speichern."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die richtige Datenstruktur ist wichtig für die Performance.",
+        "The right data structure is important for performance."
+      ],
+      "de": [
+        "Wir verwenden eine verkettete Liste als Datenstruktur.",
+        "We use a linked list as the data structure."
+      ]
+    }
+  },
+  {
+    "word": "das Array",
+    "translations": {
+      "en": "array",
+      "de": "Datenfeld, Reihung"
+    },
+    "explanation": {
+      "en": "A data structure that stores multiple values of the same type. Accessed using indices.",
+      "de": "Eine Datenstruktur, die mehrere Werte des gleichen Typs speichert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Array enthält zehn Elemente.",
+        "The array contains ten elements."
+      ],
+      "de": [
+        "Wir greifen auf das erste Array-Element zu.",
+        "We access the first array element."
+      ]
+    }
+  },
+  {
+    "word": "die Liste",
+    "translations": {
+      "en": "list",
+      "de": "Auflistung"
+    },
+    "explanation": {
+      "en": "A data structure for storing ordered collections. Can be dynamic (growing/shrinking) unlike fixed arrays.",
+      "de": "Eine Datenstruktur zum Speichern geordneter Sammlungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir fügen ein Element zur Liste hinzu.",
+        "We're adding an element to the list."
+      ],
+      "de": [
+        "Die Liste kann beliebig wachsen.",
+        "The list can grow arbitrarily."
+      ]
+    }
+  },
+  {
+    "word": "das Element",
+    "translations": {
+      "en": "element",
+      "de": "Bestandteil, Item"
+    },
+    "explanation": {
+      "en": "A single item in a data structure like an array or list. Can also refer to HTML elements.",
+      "de": "Ein einzelnes Item in einer Datenstruktur."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir durchlaufen jedes Element der Liste.",
+        "We iterate through each element of the list."
+      ],
+      "de": [
+        "Das erste Element hat den Index 0.",
+        "The first element has index 0."
+      ]
+    }
+  },
+  {
+    "word": "der Index",
+    "translations": {
+      "en": "index",
+      "de": "Position, Zeiger"
+    },
+    "explanation": {
+      "en": "A numeric position in a data structure. Used to access specific elements in arrays and lists.",
+      "de": "Eine numerische Position in einer Datenstruktur."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Index beginnt bei 0.",
+        "The index starts at 0."
+      ],
+      "de": [
+        "Wir greifen über den Index auf das Element zu.",
+        "We access the element via the index."
+      ]
+    }
+  },
+  {
+    "word": "die Eigenschaft",
+    "translations": {
+      "en": "property, attribute",
+      "de": "Attribut, Merkmal"
+    },
+    "explanation": {
+      "en": "A characteristic of an object in programming. Objects have properties that hold data.",
+      "de": "Eine Eigenschaft eines Objekts in der Programmierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Objekt hat mehrere Eigenschaften.",
+        "The object has multiple properties."
+      ],
+      "de": [
+        "Wir setzen die Eigenschaft 'name' auf 'Max'.",
+        "We set the property 'name' to 'Max'."
+      ]
+    }
+  },
+  {
+    "word": "das Attribut",
+    "translations": {
+      "en": "attribute",
+      "de": "Eigenschaft, Merkmal"
+    },
+    "explanation": {
+      "en": "A data field in a class or object. Similar to property, defines the state of an object.",
+      "de": "Ein Datenfeld in einer Klasse oder einem Objekt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Klasse hat fünf Attribute.",
+        "The class has five attributes."
+      ],
+      "de": [
+        "Das Attribut 'alter' ist vom Typ Integer.",
+        "The attribute 'age' is of type integer."
+      ]
+    }
+  },
+  {
+    "word": "der Datentyp",
+    "translations": {
+      "en": "data type",
+      "de": "Type"
+    },
+    "explanation": {
+      "en": "The classification of data in programming. Includes primitive types (int, string, boolean) and complex types.",
+      "de": "Die Klassifizierung von Daten in der Programmierung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "String ist ein Datentyp für Text.",
+        "String is a data type for text."
+      ],
+      "de": [
+        "Welcher Datentyp wird hier benötigt?",
+        "Which data type is needed here?"
+      ]
+    }
+  },
+  {
+    "word": "die Zeichenkette",
+    "translations": {
+      "en": "string",
+      "de": "String, Textfolge"
+    },
+    "explanation": {
+      "en": "A sequence of characters representing text. One of the most common data types in programming.",
+      "de": "Eine Folge von Zeichen, die Text darstellt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Zeichenkette enthält den Namen.",
+        "The string contains the name."
+      ],
+      "de": [
+        "Wir verketten zwei Zeichenketten.",
+        "We concatenate two strings."
+      ]
+    }
+  },
+  {
+    "word": "die Zahl",
+    "translations": {
+      "en": "number",
+      "de": "Nummer, Ziffer"
+    },
+    "explanation": {
+      "en": "A numeric value. Can be integers (whole numbers) or floating-point numbers (decimals).",
+      "de": "Ein numerischer Wert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Variable speichert eine Zahl.",
+        "The variable stores a number."
+      ],
+      "de": [
+        "Wir rechnen mit ganzen Zahlen.",
+        "We calculate with whole numbers."
+      ]
+    }
+  },
+  {
+    "word": "das Zeichen",
+    "translations": {
+      "en": "character",
+      "de": "Buchstabe, Symbol"
+    },
+    "explanation": {
+      "en": "A single character in a string or text. Can be letters, digits, or symbols.",
+      "de": "Ein einzelnes Zeichen in einem String oder Text."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Jedes Zeichen wird einzeln verarbeitet.",
+        "Each character is processed individually."
+      ],
+      "de": [
+        "Das erste Zeichen ist ein Großbuchstabe.",
+        "The first character is an uppercase letter."
+      ]
+    }
+  },
+  {
+    "word": "der Boolean",
+    "translations": {
+      "en": "boolean",
+      "de": "Wahrheitswert"
+    },
+    "explanation": {
+      "en": "A data type with only two possible values: true or false. Used for logical operations and conditions.",
+      "de": "Ein Datentyp mit nur zwei möglichen Werten: wahr oder falsch."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Boolean-Wert ist true.",
+        "The boolean value is true."
+      ],
+      "de": [
+        "Wir speichern das Ergebnis in einem Boolean.",
+        "We store the result in a boolean."
+      ]
+    }
+  },
+  {
+    "word": "kompilieren",
+    "translations": {
+      "en": "to compile",
+      "de": "übersetzen (Code)"
+    },
+    "explanation": {
+      "en": "To translate source code into machine-readable format. Required for compiled languages like Java and C++.",
+      "de": "Quellcode in maschinenlesbares Format übersetzen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "kompilieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "kompiliere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "kompiliert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "kompilierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat kompiliert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Der Code muss erst kompiliert werden.",
+        "The code must be compiled first."
+      ],
+      "de": [
+        "Das Programm kompiliert ohne Fehler.",
+        "The program compiles without errors."
+      ]
+    }
+  },
+  {
+    "word": "der Compiler",
+    "translations": {
+      "en": "compiler",
+      "de": "Übersetzer"
+    },
+    "explanation": {
+      "en": "A program that translates source code into executable code. Essential tool for compiled programming languages.",
+      "de": "Ein Programm, das Quellcode in ausführbaren Code übersetzt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Compiler zeigt Fehler an.",
+        "The compiler shows errors."
+      ],
+      "de": [
+        "Wir verwenden den Java-Compiler.",
+        "We use the Java compiler."
+      ]
+    }
+  },
+  {
+    "word": "ausführen",
+    "translations": {
+      "en": "to execute, to run",
+      "de": "laufen lassen, starten"
+    },
+    "explanation": {
+      "en": "To run or execute a program or code. Making the computer perform the programmed instructions.",
+      "de": "Ein Programm oder Code ausführen oder starten."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "ausführen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "führe aus"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "führt aus"
+      },
+      {
+        "form": "Präteritum",
+        "value": "führte aus"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat ausgeführt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir führen das Programm aus.",
+        "We're executing the program."
+      ],
+      "de": [
+        "Der Code wird auf dem Server ausgeführt.",
+        "The code is executed on the server."
+      ]
+    }
+  },
+  {
+    "word": "die Laufzeit",
+    "translations": {
+      "en": "runtime, execution time",
+      "de": "Ausführungszeit"
+    },
+    "explanation": {
+      "en": "The time during which a program executes. Also refers to runtime environment like Java Runtime.",
+      "de": "Die Zeit, während der ein Programm ausgeführt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Fehler tritt zur Laufzeit auf.",
+        "The error occurs at runtime."
+      ],
+      "de": [
+        "Die Laufzeit des Algorithmus ist optimal.",
+        "The runtime of the algorithm is optimal."
+      ]
+    }
+  },
+  {
+    "word": "die Performance",
+    "translations": {
+      "en": "performance",
+      "de": "Leistung, Geschwindigkeit"
+    },
+    "explanation": {
+      "en": "The speed and efficiency of software execution. Important consideration in software development.",
+      "de": "Die Geschwindigkeit und Effizienz der Softwareausführung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Performance muss optimiert werden.",
+        "The performance needs to be optimized."
+      ],
+      "de": [
+        "Dieser Code hat eine schlechte Performance.",
+        "This code has poor performance."
+      ]
+    }
+  },
+  {
+    "word": "optimieren",
+    "translations": {
+      "en": "to optimize",
+      "de": "verbessern, effizienter machen"
+    },
+    "explanation": {
+      "en": "To improve software performance or efficiency. Can involve code optimization, database optimization, etc.",
+      "de": "Die Leistung oder Effizienz von Software verbessern."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "optimieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "optimiere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "optimiert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "optimierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat optimiert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir müssen die Datenbankabfragen optimieren.",
+        "We need to optimize the database queries."
+      ],
+      "de": [
+        "Der Code wurde für Geschwindigkeit optimiert.",
+        "The code was optimized for speed."
+      ]
+    }
+  },
+  {
+    "word": "die Abfrage",
+    "translations": {
+      "en": "query, request",
+      "de": "Query, Anfrage"
+    },
+    "explanation": {
+      "en": "A request for data from a database. Written in query languages like SQL.",
+      "de": "Eine Anfrage nach Daten aus einer Datenbank."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die SQL-Abfrage liefert alle Benutzer.",
+        "The SQL query returns all users."
+      ],
+      "de": [
+        "Wir optimieren die Abfrage.",
+        "We're optimizing the query."
+      ]
+    }
+  },
+  {
+    "word": "die Anfrage",
+    "translations": {
+      "en": "request",
+      "de": "Request, Aufruf"
+    },
+    "explanation": {
+      "en": "A request sent to a server or API. HTTP requests are fundamental to web applications.",
+      "de": "Eine Anfrage, die an einen Server oder eine API gesendet wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Client sendet eine HTTP-Anfrage.",
+        "The client sends an HTTP request."
+      ],
+      "de": [
+        "Die Anfrage wurde erfolgreich bearbeitet.",
+        "The request was processed successfully."
+      ]
+    }
+  },
+  {
+    "word": "die Antwort",
+    "translations": {
+      "en": "response",
+      "de": "Response, Rückmeldung"
+    },
+    "explanation": {
+      "en": "A response from a server to a client request. Contains data and status information.",
+      "de": "Eine Antwort vom Server auf eine Client-Anfrage."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Server sendet eine Antwort zurück.",
+        "The server sends back a response."
+      ],
+      "de": [
+        "Die Antwort enthält die angeforderten Daten.",
+        "The response contains the requested data."
+      ]
+    }
+  },
+  {
+    "word": "das Protokoll",
+    "translations": {
+      "en": "protocol",
+      "de": "Kommunikationsprotokoll"
+    },
+    "explanation": {
+      "en": "A set of rules for communication between systems. Examples: HTTP, HTTPS, FTP, TCP/IP.",
+      "de": "Ein Regelwerk für die Kommunikation zwischen Systemen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "HTTP ist ein wichtiges Internet-Protokoll.",
+        "HTTP is an important internet protocol."
+      ],
+      "de": [
+        "Die Kommunikation läuft über das HTTPS-Protokoll.",
+        "Communication runs over the HTTPS protocol."
+      ]
+    }
+  },
+  {
+    "word": "die API",
+    "translations": {
+      "en": "API (Application Programming Interface)",
+      "de": "Programmierschnittstelle"
+    },
+    "explanation": {
+      "en": "An interface that allows different software applications to communicate. Defines how components should interact.",
+      "de": "Eine Schnittstelle, die verschiedenen Softwareanwendungen die Kommunikation ermöglicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir entwickeln eine REST-API.",
+        "We're developing a REST API."
+      ],
+      "de": [
+        "Die API ist gut dokumentiert.",
+        "The API is well documented."
+      ]
+    }
+  },
+  {
+    "word": "das Backend",
+    "translations": {
+      "en": "backend",
+      "de": "Server-Seite"
+    },
+    "explanation": {
+      "en": "The server-side of an application. Handles data processing, business logic, and database operations.",
+      "de": "Die Server-Seite einer Anwendung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Backend verarbeitet die Anfragen.",
+        "The backend processes the requests."
+      ],
+      "de": [
+        "Ich entwickle das Backend mit Java.",
+        "I'm developing the backend with Java."
+      ]
+    }
+  },
+  {
+    "word": "das Frontend",
+    "translations": {
+      "en": "frontend",
+      "de": "Client-Seite, Benutzeroberfläche"
+    },
+    "explanation": {
+      "en": "The client-side of an application. The user interface that users interact with directly.",
+      "de": "Die Client-Seite einer Anwendung, die der Benutzer sieht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Frontend ist mit React entwickelt.",
+        "The frontend is developed with React."
+      ],
+      "de": [
+        "Frontend-Entwickler arbeiten an der Benutzeroberfläche.",
+        "Frontend developers work on the user interface."
+      ]
+    }
+  },
+  {
+    "word": "die Versionsverwaltung",
+    "translations": {
+      "en": "version control",
+      "de": "Versionskontrolle"
+    },
+    "explanation": {
+      "en": "A system for tracking changes to code over time. Git is the most popular version control system.",
+      "de": "Ein System zur Verfolgung von Änderungen am Code über die Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir nutzen Git zur Versionsverwaltung.",
+        "We use Git for version control."
+      ],
+      "de": [
+        "Die Versionsverwaltung ist essentiell für Teamarbeit.",
+        "Version control is essential for teamwork."
+      ]
+    }
+  },
+  {
+    "word": "das Repository",
+    "translations": {
+      "en": "repository",
+      "de": "Code-Speicher, Repo"
+    },
+    "explanation": {
+      "en": "A storage location for code and project files. Often hosted on platforms like GitHub or GitLab.",
+      "de": "Ein Speicherort für Code und Projektdateien."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Repository ist auf GitHub gehostet.",
+        "The repository is hosted on GitHub."
+      ],
+      "de": [
+        "Ich habe das Repository geklont.",
+        "I cloned the repository."
+      ]
+    }
+  },
+  {
+    "word": "der Branch",
+    "translations": {
+      "en": "branch",
+      "de": "Zweig, Entwicklungszweig"
+    },
+    "explanation": {
+      "en": "A separate line of development in version control. Allows parallel work on different features.",
+      "de": "Eine separate Entwicklungslinie in der Versionsverwaltung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich erstelle einen neuen Branch für das Feature.",
+        "I'm creating a new branch for the feature."
+      ],
+      "de": [
+        "Der Main-Branch enthält den produktiven Code.",
+        "The main branch contains the production code."
+      ]
+    }
+  },
+  {
+    "word": "der Commit",
+    "translations": {
+      "en": "commit",
+      "de": "Änderungspaket"
+    },
+    "explanation": {
+      "en": "A snapshot of changes in version control. Records modifications to the codebase with a message.",
+      "de": "Ein Schnappschuss von Änderungen in der Versionsverwaltung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich mache einen Commit mit einer beschreibenden Nachricht.",
+        "I make a commit with a descriptive message."
+      ],
+      "de": [
+        "Der letzte Commit hat einen Fehler behoben.",
+        "The last commit fixed a bug."
+      ]
+    }
+  },
+  {
+    "word": "mergen",
+    "translations": {
+      "en": "to merge",
+      "de": "zusammenführen, vereinen"
+    },
+    "explanation": {
+      "en": "To combine changes from different branches. Essential operation in collaborative software development.",
+      "de": "Änderungen aus verschiedenen Branches zusammenführen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "mergen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "merge"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "mergt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "mergte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat gemergt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir mergen den Feature-Branch in den Main-Branch.",
+        "We're merging the feature branch into the main branch."
+      ],
+      "de": [
+        "Der Code wurde erfolgreich gemergt.",
+        "The code was successfully merged."
+      ]
+    }
+  },
+  {
+    "word": "der Konflikt",
+    "translations": {
+      "en": "conflict",
+      "de": "Zusammenführungskonflikt"
+    },
+    "explanation": {
+      "en": "A merge conflict that occurs when changes in different branches clash. Must be resolved manually.",
+      "de": "Ein Konflikt beim Zusammenführen, wenn Änderungen sich widersprechen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es gibt einen Merge-Konflikt, den wir lösen müssen.",
+        "There's a merge conflict we need to resolve."
+      ],
+      "de": [
+        "Die Konflikte wurden manuell behoben.",
+        "The conflicts were resolved manually."
+      ]
+    }
+  },
+  {
+    "word": "deployen",
+    "translations": {
+      "en": "to deploy",
+      "de": "bereitstellen, ausrollen"
+    },
+    "explanation": {
+      "en": "To release software to a production environment. Making the application available to users.",
+      "de": "Software in eine Produktivumgebung bringen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "deployen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "deploye"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "deployed"
+      },
+      {
+        "form": "Präteritum",
+        "value": "deployete"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat gedeployed"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir deployen die neue Version morgen.",
+        "We're deploying the new version tomorrow."
+      ],
+      "de": [
+        "Die Anwendung wurde erfolgreich deployed.",
+        "The application was successfully deployed."
+      ]
+    }
+  },
+  {
+    "word": "das Deployment",
+    "translations": {
+      "en": "deployment",
+      "de": "Bereitstellung, Auslieferung"
+    },
+    "explanation": {
+      "en": "The process of releasing software to production. Includes building, testing, and deploying the application.",
+      "de": "Der Prozess der Softwarebereitstellung in Produktion."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Deployment läuft automatisch ab.",
+        "The deployment runs automatically."
+      ],
+      "de": [
+        "Nach dem Deployment testen wir die Anwendung.",
+        "After deployment, we test the application."
+      ]
+    }
+  },
+  {
+    "word": "die Umgebung",
+    "translations": {
+      "en": "environment",
+      "de": "Environment, System"
+    },
+    "explanation": {
+      "en": "A computing environment where software runs. Includes development, testing, and production environments.",
+      "de": "Eine Computerumgebung, in der Software läuft."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Entwicklungsumgebung ist eingerichtet.",
+        "The development environment is set up."
+      ],
+      "de": [
+        "In der Produktivumgebung läuft die finale Version.",
+        "The final version runs in the production environment."
+      ]
+    }
+  },
+  {
+    "word": "die Integration",
+    "translations": {
+      "en": "integration",
+      "de": "Zusammenführung, Einbindung"
+    },
+    "explanation": {
+      "en": "The process of combining different systems or components. Continuous Integration (CI) automates code integration.",
+      "de": "Der Prozess der Zusammenführung verschiedener Systeme oder Komponenten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Integration der Module ist abgeschlossen.",
+        "The integration of the modules is complete."
+      ],
+      "de": [
+        "Wir nutzen Continuous Integration.",
+        "We use continuous integration."
+      ]
+    }
+  },
+  {
+    "word": "die Automatisierung",
+    "translations": {
+      "en": "automation",
+      "de": "Selbstablauf"
+    },
+    "explanation": {
+      "en": "Making processes run automatically without manual intervention. Common in testing, deployment, and builds.",
+      "de": "Prozesse automatisch ohne manuelles Eingreifen ablaufen lassen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Automatisierung spart viel Zeit.",
+        "Automation saves a lot of time."
+      ],
+      "de": [
+        "Tests laufen durch Automatisierung schneller.",
+        "Tests run faster through automation."
+      ]
+    }
+  },
+  {
+    "word": "die Wartung",
+    "translations": {
+      "en": "maintenance",
+      "de": "Instandhaltung, Pflege"
+    },
+    "explanation": {
+      "en": "Ongoing support and updates for software. Includes bug fixes, updates, and improvements.",
+      "de": "Fortlaufende Unterstützung und Updates für Software."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Software benötigt regelmäßige Wartung.",
+        "The software requires regular maintenance."
+      ],
+      "de": [
+        "Wartungsarbeiten werden am Wochenende durchgeführt.",
+        "Maintenance work is performed on weekends."
+      ]
+    }
+  },
+  {
+    "word": "das Update",
+    "translations": {
+      "en": "update",
+      "de": "Aktualisierung"
+    },
+    "explanation": {
+      "en": "A new version of software with improvements or fixes. Can be minor updates or major releases.",
+      "de": "Eine neue Version von Software mit Verbesserungen oder Fehlerbehebungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ein neues Update ist verfügbar.",
+        "A new update is available."
+      ],
+      "de": [
+        "Das Update behebt mehrere Sicherheitslücken.",
+        "The update fixes several security vulnerabilities."
+      ]
+    }
+  },
+  {
+    "word": "die Version",
+    "translations": {
+      "en": "version",
+      "de": "Ausgabe, Release"
+    },
+    "explanation": {
+      "en": "A specific iteration of software. Typically numbered (e.g., version 1.0, 2.3) to track changes.",
+      "de": "Eine bestimmte Iteration von Software."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir arbeiten an Version 2.0.",
+        "We're working on version 2.0."
+      ],
+      "de": [
+        "Die neueste Version hat viele neue Features.",
+        "The latest version has many new features."
+      ]
+    }
+  },
+  {
+    "word": "das Release",
+    "translations": {
+      "en": "release",
+      "de": "Veröffentlichung, Version"
+    },
+    "explanation": {
+      "en": "The publication of a new software version. Can be major releases, minor releases, or patches.",
+      "de": "Die Veröffentlichung einer neuen Softwareversion."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das nächste Release ist für Juni geplant.",
+        "The next release is planned for June."
+      ],
+      "de": [
+        "Nach dem Release sammeln wir Feedback.",
+        "After the release, we collect feedback."
+      ]
+    }
+  },
+  {
+    "word": "die Dokumentation",
+    "translations": {
+      "en": "documentation",
+      "de": "Doku, Handbuch"
+    },
+    "explanation": {
+      "en": "Written material explaining how software works. Includes code comments, API docs, and user manuals.",
+      "de": "Schriftliches Material, das erklärt, wie Software funktioniert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Dokumentation ist sehr hilfreich.",
+        "The documentation is very helpful."
+      ],
+      "de": [
+        "Gute Dokumentation ist wichtig für die Wartung.",
+        "Good documentation is important for maintenance."
+      ]
+    }
+  },
+  {
+    "word": "der Kommentar",
+    "translations": {
+      "en": "comment",
+      "de": "Code-Kommentar, Anmerkung"
+    },
+    "explanation": {
+      "en": "Explanatory text in code that is not executed. Helps other developers understand the code.",
+      "de": "Erläuternder Text im Code, der nicht ausgeführt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich füge einen Kommentar hinzu, um den Code zu erklären.",
+        "I'm adding a comment to explain the code."
+      ],
+      "de": [
+        "Kommentare machen den Code verständlicher.",
+        "Comments make the code more understandable."
+      ]
+    }
+  },
+  {
+    "word": "die Bibliothek",
+    "translations": {
+      "en": "library",
+      "de": "Code-Bibliothek"
+    },
+    "explanation": {
+      "en": "A collection of reusable code modules. Libraries provide pre-written functionality for developers.",
+      "de": "Eine Sammlung wiederverwendbarer Code-Module."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden mehrere JavaScript-Bibliotheken.",
+        "We use several JavaScript libraries."
+      ],
+      "de": [
+        "Diese Bibliothek vereinfacht die Datenverarbeitung.",
+        "This library simplifies data processing."
+      ]
+    }
+  },
+  {
+    "word": "das Modul",
+    "translations": {
+      "en": "module",
+      "de": "Baustein, Komponente"
+    },
+    "explanation": {
+      "en": "A self-contained unit of code. Modules organize code into logical, reusable pieces.",
+      "de": "Eine eigenständige Code-Einheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Modul ist für die Authentifizierung zuständig.",
+        "The module is responsible for authentication."
+      ],
+      "de": [
+        "Wir importieren das benötigte Modul.",
+        "We import the required module."
+      ]
+    }
+  },
+  {
+    "word": "die Komponente",
+    "translations": {
+      "en": "component",
+      "de": "Baustein, Teil"
+    },
+    "explanation": {
+      "en": "A modular part of a system. In UI frameworks, components are reusable interface elements.",
+      "de": "Ein modularer Teil eines Systems."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "React verwendet wiederverwendbare Komponenten.",
+        "React uses reusable components."
+      ],
+      "de": [
+        "Jede Komponente hat ihre eigene Funktion.",
+        "Each component has its own function."
+      ]
+    }
+  },
+  {
+    "word": "die Architektur",
+    "translations": {
+      "en": "architecture",
+      "de": "Systemarchitektur, Aufbau"
+    },
+    "explanation": {
+      "en": "The overall structure and design of a software system. Defines how components interact and are organized.",
+      "de": "Die Gesamtstruktur und das Design eines Softwaresystems."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Architektur basiert auf Microservices.",
+        "The architecture is based on microservices."
+      ],
+      "de": [
+        "Eine gute Architektur ist wichtig für Skalierbarkeit.",
+        "Good architecture is important for scalability."
+      ]
+    }
+  },
+  {
+    "word": "das Design",
+    "translations": {
+      "en": "design",
+      "de": "Entwurf, Gestaltung"
+    },
+    "explanation": {
+      "en": "The planning and creation of software structure or user interface. Includes UX/UI design and system design.",
+      "de": "Die Planung und Erstellung von Softwarestruktur oder Benutzeroberfläche."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Design der Anwendung ist modern.",
+        "The design of the application is modern."
+      ],
+      "de": [
+        "Wir arbeiten am UI-Design.",
+        "We're working on the UI design."
+      ]
+    }
+  },
+  {
+    "word": "das Muster",
+    "translations": {
+      "en": "pattern",
+      "de": "Design Pattern, Vorlage"
+    },
+    "explanation": {
+      "en": "A reusable solution to common problems. Design patterns provide proven approaches to software design.",
+      "de": "Eine wiederverwendbare Lösung für häufige Probleme."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden das Singleton-Muster.",
+        "We use the Singleton pattern."
+      ],
+      "de": [
+        "Design-Muster helfen bei der Strukturierung.",
+        "Design patterns help with structuring."
+      ]
+    }
+  },
+  {
+    "word": "die Anforderung",
+    "translations": {
+      "en": "requirement",
+      "de": "Voraussetzung, Spezifikation"
+    },
+    "explanation": {
+      "en": "A specification of what software should do. Requirements define functionality, performance, and constraints.",
+      "de": "Eine Spezifikation dessen, was Software tun soll."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anforderungen wurden genau definiert.",
+        "The requirements were precisely defined."
+      ],
+      "de": [
+        "Welche Anforderungen hat der Kunde?",
+        "What requirements does the customer have?"
+      ]
+    }
+  },
+  {
+    "word": "die Spezifikation",
+    "translations": {
+      "en": "specification",
+      "de": "Spezifikation, Beschreibung"
+    },
+    "explanation": {
+      "en": "A detailed description of software requirements and design. Serves as a blueprint for development.",
+      "de": "Eine detaillierte Beschreibung von Softwareanforderungen und -design."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die technische Spezifikation ist fertig.",
+        "The technical specification is complete."
+      ],
+      "de": [
+        "Wir arbeiten nach der Spezifikation.",
+        "We work according to the specification."
+      ]
+    }
+  },
+  {
+    "word": "die Implementierung",
+    "translations": {
+      "en": "implementation",
+      "de": "Umsetzung, Realisierung"
+    },
+    "explanation": {
+      "en": "The actual coding of software based on design and requirements. Turning plans into working code.",
+      "de": "Die tatsächliche Programmierung von Software basierend auf Design und Anforderungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Implementierung beginnt nächste Woche.",
+        "The implementation starts next week."
+      ],
+      "de": [
+        "Diese Implementierung ist sehr effizient.",
+        "This implementation is very efficient."
+      ]
+    }
+  },
+  {
+    "word": "implementieren",
+    "translations": {
+      "en": "to implement",
+      "de": "umsetzen, realisieren"
+    },
+    "explanation": {
+      "en": "To put a design or plan into action by writing code. The process of creating working software.",
+      "de": "Einen Entwurf durch Programmierung umsetzen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "implementieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "implementiere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "implementiert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "implementierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat implementiert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir implementieren die neue Funktion.",
+        "We're implementing the new function."
+      ],
+      "de": [
+        "Das Feature wurde erfolgreich implementiert.",
+        "The feature was successfully implemented."
+      ]
+    }
+  },
+  {
+    "word": "refaktorieren",
+    "translations": {
+      "en": "to refactor",
+      "de": "umstrukturieren, überarbeiten"
+    },
+    "explanation": {
+      "en": "To restructure code without changing its behavior. Improves code quality, readability, and maintainability.",
+      "de": "Code umstrukturieren ohne sein Verhalten zu ändern."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "refaktorieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "refaktoriere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "refaktoriert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "refaktorierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat refaktoriert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir müssen diesen Code refaktorieren.",
+        "We need to refactor this code."
+      ],
+      "de": [
+        "Nach dem Refaktorieren ist der Code viel lesbarer.",
+        "After refactoring, the code is much more readable."
+      ]
+    }
+  },
+  {
+    "word": "die Skalierbarkeit",
+    "translations": {
+      "en": "scalability",
+      "de": "Erweiterbarkeit"
+    },
+    "explanation": {
+      "en": "The ability of software to handle growing amounts of work. Important for systems that need to grow.",
+      "de": "Die Fähigkeit von Software, wachsende Arbeitslasten zu bewältigen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Skalierbarkeit des Systems ist ausgezeichnet.",
+        "The scalability of the system is excellent."
+      ],
+      "de": [
+        "Cloud-Lösungen bieten bessere Skalierbarkeit.",
+        "Cloud solutions offer better scalability."
+      ]
+    }
+  },
+  {
+    "word": "die Zuverlässigkeit",
+    "translations": {
+      "en": "reliability",
+      "de": "Verlässlichkeit, Stabilität"
+    },
+    "explanation": {
+      "en": "The ability of software to function correctly and consistently. Critical for production systems.",
+      "de": "Die Fähigkeit von Software, korrekt und konsistent zu funktionieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Zuverlässigkeit der Anwendung ist hoch.",
+        "The reliability of the application is high."
+      ],
+      "de": [
+        "Tests verbessern die Zuverlässigkeit.",
+        "Tests improve reliability."
+      ]
+    }
+  },
+  {
+    "word": "die Verfügbarkeit",
+    "translations": {
+      "en": "availability",
+      "de": "Erreichbarkeit"
+    },
+    "explanation": {
+      "en": "The degree to which a system is operational. Often measured as uptime percentage (e.g., 99.9%).",
+      "de": "Der Grad, zu dem ein System betriebsbereit ist."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Verfügbarkeit beträgt 99,9%.",
+        "The availability is 99.9%."
+      ],
+      "de": [
+        "Hohe Verfügbarkeit ist für Produktivsysteme wichtig.",
+        "High availability is important for production systems."
+      ]
+    }
+  },
+  {
+    "word": "die Daten",
+    "translations": {
+      "en": "data",
+      "de": "Informationen"
+    },
+    "explanation": {
+      "en": "Information stored and processed by computer systems. The foundation of all applications.",
+      "de": "Informationen, die von Computersystemen gespeichert und verarbeitet werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Daten werden in der Datenbank gespeichert.",
+        "The data is stored in the database."
+      ],
+      "de": [
+        "Persönliche Daten müssen geschützt werden.",
+        "Personal data must be protected."
+      ]
+    }
+  },
+  {
+    "word": "speichern",
+    "translations": {
+      "en": "to save, to store",
+      "de": "sichern, ablegen"
+    },
+    "explanation": {
+      "en": "To save data permanently to storage. Essential operation in data management.",
+      "de": "Daten dauerhaft im Speicher ablegen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "speichern"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "speichere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "speichert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "speicherte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat gespeichert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir speichern die Benutzerdaten sicher.",
+        "We store user data securely."
+      ],
+      "de": [
+        "Die Datei wurde erfolgreich gespeichert.",
+        "The file was saved successfully."
+      ]
+    }
+  },
+  {
+    "word": "laden",
+    "translations": {
+      "en": "to load",
+      "de": "aufrufen, öffnen"
+    },
+    "explanation": {
+      "en": "To load data into memory or retrieve it from storage. Opposite of saving.",
+      "de": "Daten in den Speicher laden oder aus dem Speicher abrufen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "laden"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "lade"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "lädt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "lud"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat geladen"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Die Anwendung lädt die Daten aus der Cloud.",
+        "The application loads the data from the cloud."
+      ],
+      "de": [
+        "Die Seite lädt sehr langsam.",
+        "The page loads very slowly."
+      ]
+    }
+  },
+  {
+    "word": "löschen",
+    "translations": {
+      "en": "to delete",
+      "de": "entfernen, tilgen"
+    },
+    "explanation": {
+      "en": "To remove data permanently. An important operation in data management that should be handled carefully.",
+      "de": "Daten dauerhaft entfernen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "löschen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "lösche"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "löscht"
+      },
+      {
+        "form": "Präteritum",
+        "value": "löschte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat gelöscht"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir löschen alte Datensätze regelmäßig.",
+        "We delete old records regularly."
+      ],
+      "de": [
+        "Die Datei wurde versehentlich gelöscht.",
+        "The file was accidentally deleted."
+      ]
+    }
+  },
+  {
+    "word": "aktualisieren",
+    "translations": {
+      "en": "to update, to refresh",
+      "de": "erneuern, updaten"
+    },
+    "explanation": {
+      "en": "To update data or refresh information. Keeping data current and accurate.",
+      "de": "Daten aktualisieren oder Informationen erneuern."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "aktualisieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "aktualisiere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "aktualisiert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "aktualisierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat aktualisiert"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir aktualisieren die Benutzerdaten.",
+        "We're updating the user data."
+      ],
+      "de": [
+        "Die Seite wird automatisch aktualisiert.",
+        "The page is automatically refreshed."
+      ]
+    }
+  },
+  {
+    "word": "die Datei",
+    "translations": {
+      "en": "file",
+      "de": "File"
+    },
+    "explanation": {
+      "en": "A collection of data stored as a unit. Can be documents, images, programs, or any digital content.",
+      "de": "Eine Sammlung von Daten, die als Einheit gespeichert wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Datei hat eine Größe von 5 MB.",
+        "The file has a size of 5 MB."
+      ],
+      "de": [
+        "Ich kann die Datei nicht öffnen.",
+        "I can't open the file."
+      ]
+    }
+  },
+  {
+    "word": "der Ordner",
+    "translations": {
+      "en": "folder, directory",
+      "de": "Verzeichnis"
+    },
+    "explanation": {
+      "en": "A container for organizing files and other folders. Helps structure data hierarchically.",
+      "de": "Ein Container zur Organisation von Dateien und anderen Ordnern."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Alle Projektdateien sind in diesem Ordner.",
+        "All project files are in this folder."
+      ],
+      "de": [
+        "Ich erstelle einen neuen Ordner.",
+        "I'm creating a new folder."
+      ]
+    }
+  },
+  {
+    "word": "der Pfad",
+    "translations": {
+      "en": "path",
+      "de": "Dateipfad, Weg"
+    },
+    "explanation": {
+      "en": "The location of a file or folder in the file system. Can be absolute or relative paths.",
+      "de": "Der Speicherort einer Datei oder eines Ordners im Dateisystem."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Pfad zur Datei ist /home/user/documents/file.txt.",
+        "The path to the file is /home/user/documents/file.txt."
+      ],
+      "de": [
+        "Wir verwenden relative Pfade.",
+        "We use relative paths."
+      ]
+    }
+  },
+  {
+    "word": "der Speicher",
+    "translations": {
+      "en": "memory, storage",
+      "de": "RAM, Festplatte"
+    },
+    "explanation": {
+      "en": "Computer memory for storing data. Can be RAM (temporary) or storage (permanent like hard drives).",
+      "de": "Computerspeicher zum Speichern von Daten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Arbeitsspeicher ist voll.",
+        "The RAM is full."
+      ],
+      "de": [
+        "Wir brauchen mehr Speicherplatz.",
+        "We need more storage space."
+      ]
+    }
+  },
+  {
+    "word": "die Cloud",
+    "translations": {
+      "en": "cloud",
+      "de": "Cloud-Computing"
+    },
+    "explanation": {
+      "en": "Internet-based computing resources and storage. Allows access to data and applications from anywhere.",
+      "de": "Internetbasierte Computerressourcen und Speicher."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir hosten die Anwendung in der Cloud.",
+        "We host the application in the cloud."
+      ],
+      "de": [
+        "Die Daten werden in der Cloud gesichert.",
+        "The data is backed up in the cloud."
+      ]
+    }
+  },
+  {
+    "word": "die Sicherung",
+    "translations": {
+      "en": "backup",
+      "de": "Backup, Datensicherung"
+    },
+    "explanation": {
+      "en": "A copy of data for protection against loss. Regular backups are essential for data safety.",
+      "de": "Eine Kopie von Daten zum Schutz vor Verlust."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Sicherung läuft täglich automatisch.",
+        "The backup runs automatically daily."
+      ],
+      "de": [
+        "Wir können die Daten aus der Sicherung wiederherstellen.",
+        "We can restore the data from the backup."
+      ]
+    }
+  },
+  {
+    "word": "wiederherstellen",
+    "translations": {
+      "en": "to restore, to recover",
+      "de": "zurückbringen, reparieren"
+    },
+    "explanation": {
+      "en": "To restore data from a backup or recover lost data. Important for disaster recovery.",
+      "de": "Daten aus einer Sicherung wiederherstellen oder verlorene Daten retten."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "wiederherstellen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "stelle wieder her"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "stellt wieder her"
+      },
+      {
+        "form": "Präteritum",
+        "value": "stellte wieder her"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat wiederhergestellt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir konnten alle Daten wiederherstellen.",
+        "We were able to restore all data."
+      ],
+      "de": [
+        "Die gelöschte Datei wurde wiederhergestellt.",
+        "The deleted file was recovered."
+      ]
+    }
+  },
+  {
+    "word": "die Anforderungsanalyse",
+    "translations": {
+      "en": "requirements analysis",
+      "de": "Anforderungsermittlung"
+    },
+    "explanation": {
+      "en": "The process of determining what software should do. First step in the development lifecycle.",
+      "de": "Der Prozess der Ermittlung, was Software tun soll."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anforderungsanalyse ist abgeschlossen.",
+        "The requirements analysis is complete."
+      ],
+      "de": [
+        "In der Anforderungsanalyse sprechen wir mit den Kunden.",
+        "In requirements analysis, we talk with customers."
+      ]
+    }
+  },
+  {
+    "word": "das Projektmanagement",
+    "translations": {
+      "en": "project management",
+      "de": "Projektleitung"
+    },
+    "explanation": {
+      "en": "The practice of organizing and managing software projects. Includes planning, execution, and monitoring.",
+      "de": "Die Praxis der Organisation und Verwaltung von Softwareprojekten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Gutes Projektmanagement ist entscheidend für den Erfolg.",
+        "Good project management is crucial for success."
+      ],
+      "de": [
+        "Wir nutzen agiles Projektmanagement.",
+        "We use agile project management."
+      ]
+    }
+  },
+  {
+    "word": "agil",
+    "translations": {
+      "en": "agile",
+      "de": "flexibel, anpassungsfähig"
+    },
+    "explanation": {
+      "en": "A flexible, iterative approach to software development. Agile methods emphasize collaboration and adaptability.",
+      "de": "Ein flexibler, iterativer Ansatz zur Softwareentwicklung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir arbeiten nach agilen Methoden.",
+        "We work according to agile methods."
+      ],
+      "de": [
+        "Agile Entwicklung ermöglicht schnelle Anpassungen.",
+        "Agile development enables quick adjustments."
+      ]
+    }
+  },
+  {
+    "word": "der Sprint",
+    "translations": {
+      "en": "sprint",
+      "de": "Arbeitsphase, Iteration"
+    },
+    "explanation": {
+      "en": "A time-boxed period (usually 1-4 weeks) in Scrum where work is completed. Part of agile methodology.",
+      "de": "Eine zeitlich begrenzte Periode in Scrum, in der Arbeit erledigt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der aktuelle Sprint dauert zwei Wochen.",
+        "The current sprint lasts two weeks."
+      ],
+      "de": [
+        "Am Ende des Sprints präsentieren wir die Ergebnisse.",
+        "At the end of the sprint, we present the results."
+      ]
+    }
+  },
+  {
+    "word": "das Scrum",
+    "translations": {
+      "en": "Scrum",
+      "de": "Scrum-Framework"
+    },
+    "explanation": {
+      "en": "An agile framework for managing software projects. Includes roles like Scrum Master and Product Owner.",
+      "de": "Ein agiles Framework zur Verwaltung von Softwareprojekten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Unser Team arbeitet mit Scrum.",
+        "Our team works with Scrum."
+      ],
+      "de": [
+        "Scrum hat feste Rollen und Meetings.",
+        "Scrum has fixed roles and meetings."
+      ]
+    }
+  }
+]

@@ -88,6 +88,103 @@ export const PROFILES = {
       }
     ],
     totalDailyWords: 40
+  },
+  kafel: {
+    name: 'Kafel',
+    emoji: '👨‍💻',
+    interfaceLanguages: ['en', 'de'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'de-it',
+        name: 'German (IT)',
+        level: 'B2',
+        specialty: 'IT Umschulung - Anwendungsentwicklung',
+        dailyWords: 10,
+        flag: '🇩🇪💻'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'B2-C1',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      }
+    ],
+    totalDailyWords: 30
+  },
+  jawad: {
+    name: 'Jawad',
+    emoji: '👨‍🍳',
+    interfaceLanguages: ['ar', 'de'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'de-gastro',
+        name: 'German (Gastronomy)',
+        level: 'B1-B2',
+        specialty: 'Hotel Reception',
+        dailyWords: 10,
+        flag: '🇩🇪🍽️'
+      },
+      {
+        code: 'fr',
+        name: 'French (Gastronomy)',
+        level: 'B1-B2',
+        specialty: 'Gastronomy',
+        dailyWords: 10,
+        flag: '🇫🇷🍽️'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'A2-B1',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      }
+    ],
+    totalDailyWords: 40
+  },
+  ameeno: {
+    name: 'Ameeno',
+    emoji: '🧑‍🎓',
+    interfaceLanguages: ['fa', 'en'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      },
+      {
+        code: 'it',
+        name: 'Italian',
+        level: 'A1',
+        dailyWords: 10,
+        flag: '🇮🇹'
+      }
+    ],
+    totalDailyWords: 30
   }
 };
 
@@ -96,5 +193,7 @@ export const LANGUAGE_NAMES = {
   de: { native: 'Deutsch', local: 'German' },
   ar: { native: 'العربية', local: 'Arabic' },
   pl: { native: 'Polski', local: 'Polish' },
-  fr: { native: 'Français', local: 'French' }
+  fr: { native: 'Français', local: 'French' },
+  fa: { native: 'فارسی', local: 'Persian/Farsi' },
+  it: { native: 'Italiano', local: 'Italian' }
 };
