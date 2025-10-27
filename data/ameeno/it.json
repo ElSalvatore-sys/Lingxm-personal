@@ -361,7 +361,12 @@
       "fa": "فعل کمکی بودن.",
       "en": "The auxiliary verb to be."
     },
-    "conjugations": ["essere", "è", "era", "è stato"],
+    "conjugations": [
+      "essere",
+      "è",
+      "era",
+      "è stato"
+    ],
     "examples": {
       "fa": [
         "Io sono felice.",
@@ -383,7 +388,12 @@
       "fa": "فعل داشتن.",
       "en": "The verb to have."
     },
-    "conjugations": ["avere", "ha", "aveva", "ha avuto"],
+    "conjugations": [
+      "avere",
+      "ha",
+      "aveva",
+      "ha avuto"
+    ],
     "examples": {
       "fa": [
         "Io ho una macchina.",
@@ -405,7 +415,12 @@
       "fa": "کردن یا ساختن.",
       "en": "To do or to make something."
     },
-    "conjugations": ["fare", "fa", "faceva", "ha fatto"],
+    "conjugations": [
+      "fare",
+      "fa",
+      "faceva",
+      "ha fatto"
+    ],
     "examples": {
       "fa": [
         "Cosa fai?",
@@ -427,7 +442,12 @@
       "fa": "حرکت کردن به جایی.",
       "en": "To move to a place."
     },
-    "conjugations": ["andare", "va", "andava", "è andato"],
+    "conjugations": [
+      "andare",
+      "va",
+      "andava",
+      "è andato"
+    ],
     "examples": {
       "fa": [
         "Vado a scuola.",
@@ -449,7 +469,12 @@
       "fa": "حرکت کردن به سمت اینجا.",
       "en": "To move toward here."
     },
-    "conjugations": ["venire", "viene", "veniva", "è venuto"],
+    "conjugations": [
+      "venire",
+      "viene",
+      "veniva",
+      "è venuto"
+    ],
     "examples": {
       "fa": [
         "Vieni con me?",
@@ -471,7 +496,12 @@
       "fa": "حرف زدن.",
       "en": "To talk or speak."
     },
-    "conjugations": ["parlare", "parla", "parlava", "ha parlato"],
+    "conjugations": [
+      "parlare",
+      "parla",
+      "parlava",
+      "ha parlato"
+    ],
     "examples": {
       "fa": [
         "Parlo italiano.",
@@ -493,7 +523,12 @@
       "fa": "غذا خوردن.",
       "en": "To consume food."
     },
-    "conjugations": ["mangiare", "mangia", "mangiava", "ha mangiato"],
+    "conjugations": [
+      "mangiare",
+      "mangia",
+      "mangiava",
+      "ha mangiato"
+    ],
     "examples": {
       "fa": [
         "Mangio la pizza.",
@@ -515,7 +550,12 @@
       "fa": "مایعات نوشیدن.",
       "en": "To consume liquids."
     },
-    "conjugations": ["bere", "beve", "beveva", "ha bevuto"],
+    "conjugations": [
+      "bere",
+      "beve",
+      "beveva",
+      "ha bevuto"
+    ],
     "examples": {
       "fa": [
         "Bevo un caffè.",
@@ -537,7 +577,12 @@
       "fa": "استراحت شبانه.",
       "en": "To rest at night."
     },
-    "conjugations": ["dormire", "dorme", "dormiva", "ha dormito"],
+    "conjugations": [
+      "dormire",
+      "dorme",
+      "dormiva",
+      "ha dormito"
+    ],
     "examples": {
       "fa": [
         "Dormo 8 ore.",
@@ -559,7 +604,12 @@
       "fa": "شغل داشتن یا کار انجام دادن.",
       "en": "To have a job or do work."
     },
-    "conjugations": ["lavorare", "lavora", "lavorava", "ha lavorato"],
+    "conjugations": [
+      "lavorare",
+      "lavora",
+      "lavorava",
+      "ha lavorato"
+    ],
     "examples": {
       "fa": [
         "Lavoro in un ufficio.",
@@ -581,7 +631,12 @@
       "fa": "یادگیری در مدرسه یا دانشگاه.",
       "en": "To learn at school or university."
     },
-    "conjugations": ["studiare", "studia", "studiava", "ha studiato"],
+    "conjugations": [
+      "studiare",
+      "studia",
+      "studiava",
+      "ha studiato"
+    ],
     "examples": {
       "fa": [
         "Studio italiano.",
@@ -603,7 +658,12 @@
       "fa": "معنی چیزی را درک کردن.",
       "en": "To comprehend the meaning of something."
     },
-    "conjugations": ["capire", "capisce", "capiva", "ha capito"],
+    "conjugations": [
+      "capire",
+      "capisce",
+      "capiva",
+      "ha capito"
+    ],
     "examples": {
       "fa": [
         "Capisci l'italiano?",
@@ -625,7 +685,12 @@
       "fa": "عشق ورزیدن.",
       "en": "To feel love."
     },
-    "conjugations": ["amare", "ama", "amava", "ha amato"],
+    "conjugations": [
+      "amare",
+      "ama",
+      "amava",
+      "ha amato"
+    ],
     "examples": {
       "fa": [
         "Amo la musica.",
@@ -647,7 +712,12 @@
       "fa": "نام داشتن.",
       "en": "To have a name."
     },
-    "conjugations": ["chiamarsi", "si chiama", "si chiamava", "si è chiamato"],
+    "conjugations": [
+      "chiamarsi",
+      "si chiama",
+      "si chiamava",
+      "si è chiamato"
+    ],
     "examples": {
       "fa": [
         "Mi chiamo Marco.",
@@ -3010,6 +3080,1022 @@
       "en": [
         "A dopo!",
         "See you later!"
+      ]
+    }
+  },
+  {
+    "word": "volere",
+    "translations": {
+      "fa": "خواستن",
+      "en": "to want"
+    },
+    "explanation": {
+      "fa": "میل داشتن به چیزی.",
+      "en": "To desire something."
+    },
+    "conjugations": [
+      "volere",
+      "vuole",
+      "voleva",
+      "ha voluto"
+    ],
+    "examples": {
+      "fa": [
+        "Voglio un caffè.",
+        "من یک قهوه می‌خواهم."
+      ],
+      "en": [
+        "Cosa vuoi?",
+        "What do you want?"
+      ]
+    }
+  },
+  {
+    "word": "potere",
+    "translations": {
+      "fa": "توانستن",
+      "en": "to be able to, can"
+    },
+    "explanation": {
+      "fa": "قادر بودن به انجام کاری.",
+      "en": "To have the ability to do something."
+    },
+    "conjugations": [
+      "potere",
+      "può",
+      "poteva",
+      "ha potuto"
+    ],
+    "examples": {
+      "fa": [
+        "Posso parlare italiano.",
+        "من می‌توانم ایتالیایی صحبت کنم."
+      ],
+      "en": [
+        "Non posso venire.",
+        "I can't come."
+      ]
+    }
+  },
+  {
+    "word": "dovere",
+    "translations": {
+      "fa": "باید",
+      "en": "must, to have to"
+    },
+    "explanation": {
+      "fa": "وظیفه داشتن.",
+      "en": "To be obligated to."
+    },
+    "conjugations": [
+      "dovere",
+      "deve",
+      "doveva",
+      "ha dovuto"
+    ],
+    "examples": {
+      "fa": [
+        "Devo studiare.",
+        "من باید درس بخوانم."
+      ],
+      "en": [
+        "Devi andare.",
+        "You must go."
+      ]
+    }
+  },
+  {
+    "word": "sapere",
+    "translations": {
+      "fa": "دانستن",
+      "en": "to know"
+    },
+    "explanation": {
+      "fa": "اطلاع داشتن.",
+      "en": "To have knowledge."
+    },
+    "conjugations": [
+      "sapere",
+      "sa",
+      "sapeva",
+      "ha saputo"
+    ],
+    "examples": {
+      "fa": [
+        "Lo so.",
+        "من می‌دانم."
+      ],
+      "en": [
+        "Non lo so.",
+        "I don't know."
+      ]
+    }
+  },
+  {
+    "word": "vedere",
+    "translations": {
+      "fa": "دیدن",
+      "en": "to see"
+    },
+    "explanation": {
+      "fa": "با چشم مشاهده کردن.",
+      "en": "To perceive with the eyes."
+    },
+    "conjugations": [
+      "vedere",
+      "vede",
+      "vedeva",
+      "ha visto"
+    ],
+    "examples": {
+      "fa": [
+        "Vedo il mare.",
+        "من دریا را می‌بینم."
+      ],
+      "en": [
+        "Ci vediamo!",
+        "See you!"
+      ]
+    }
+  },
+  {
+    "word": "sentire",
+    "translations": {
+      "fa": "شنیدن، احساس کردن",
+      "en": "to hear, to feel"
+    },
+    "explanation": {
+      "fa": "با گوش شنیدن یا احساس کردن.",
+      "en": "To perceive with ears or feel."
+    },
+    "conjugations": [
+      "sentire",
+      "sente",
+      "sentiva",
+      "ha sentito"
+    ],
+    "examples": {
+      "fa": [
+        "Sento la musica.",
+        "من موسیقی را می‌شنوم."
+      ],
+      "en": [
+        "Come ti senti?",
+        "How do you feel?"
+      ]
+    }
+  },
+  {
+    "word": "trovare",
+    "translations": {
+      "fa": "پیدا کردن",
+      "en": "to find"
+    },
+    "explanation": {
+      "fa": "کشف کردن یا به دست آوردن.",
+      "en": "To discover or obtain."
+    },
+    "conjugations": [
+      "trovare",
+      "trova",
+      "trovava",
+      "ha trovato"
+    ],
+    "examples": {
+      "fa": [
+        "Non trovo le chiavi.",
+        "کلیدها را پیدا نمی‌کنم."
+      ],
+      "en": [
+        "Dove trovo il bar?",
+        "Where do I find the café?"
+      ]
+    }
+  },
+  {
+    "word": "cercare",
+    "translations": {
+      "fa": "جستجو کردن",
+      "en": "to look for, to search"
+    },
+    "explanation": {
+      "fa": "دنبال چیزی گشتن.",
+      "en": "To search for something."
+    },
+    "conjugations": [
+      "cercare",
+      "cerca",
+      "cercava",
+      "ha cercato"
+    ],
+    "examples": {
+      "fa": [
+        "Cerco lavoro.",
+        "من دنبال کار می‌گردم."
+      ],
+      "en": [
+        "Cosa cerchi?",
+        "What are you looking for?"
+      ]
+    }
+  },
+  {
+    "word": "comprare",
+    "translations": {
+      "fa": "خریدن",
+      "en": "to buy"
+    },
+    "explanation": {
+      "fa": "چیزی را با پول به دست آوردن.",
+      "en": "To obtain something with money."
+    },
+    "conjugations": [
+      "comprare",
+      "compra",
+      "comprava",
+      "ha comprato"
+    ],
+    "examples": {
+      "fa": [
+        "Compro il pane.",
+        "من نان می‌خرم."
+      ],
+      "en": [
+        "Cosa compri?",
+        "What are you buying?"
+      ]
+    }
+  },
+  {
+    "word": "prendere",
+    "translations": {
+      "fa": "گرفتن",
+      "en": "to take"
+    },
+    "explanation": {
+      "fa": "چیزی را برداشتن.",
+      "en": "To take or grab something."
+    },
+    "conjugations": [
+      "prendere",
+      "prende",
+      "prendeva",
+      "ha preso"
+    ],
+    "examples": {
+      "fa": [
+        "Prendo l'autobus.",
+        "من اتوبوس می‌گیرم."
+      ],
+      "en": [
+        "Prendi il libro.",
+        "Take the book."
+      ]
+    }
+  },
+  {
+    "word": "dare",
+    "translations": {
+      "fa": "دادن",
+      "en": "to give"
+    },
+    "explanation": {
+      "fa": "چیزی را به کسی واگذار کردن.",
+      "en": "To hand over something to someone."
+    },
+    "conjugations": [
+      "dare",
+      "dà",
+      "dava",
+      "ha dato"
+    ],
+    "examples": {
+      "fa": [
+        "Do un regalo.",
+        "من یک هدیه می‌دهم."
+      ],
+      "en": [
+        "Mi dai il libro?",
+        "Can you give me the book?"
+      ]
+    }
+  },
+  {
+    "word": "leggere",
+    "translations": {
+      "fa": "خواندن",
+      "en": "to read"
+    },
+    "explanation": {
+      "fa": "نوشته را خواندن.",
+      "en": "To read written text."
+    },
+    "conjugations": [
+      "leggere",
+      "legge",
+      "leggeva",
+      "ha letto"
+    ],
+    "examples": {
+      "fa": [
+        "Leggo un libro.",
+        "من یک کتاب می‌خوانم."
+      ],
+      "en": [
+        "Mi piace leggere.",
+        "I like to read."
+      ]
+    }
+  },
+  {
+    "word": "scrivere",
+    "translations": {
+      "fa": "نوشتن",
+      "en": "to write"
+    },
+    "explanation": {
+      "fa": "حروف یا کلمات نوشتن.",
+      "en": "To write letters or words."
+    },
+    "conjugations": [
+      "scrivere",
+      "scrive",
+      "scriveva",
+      "ha scritto"
+    ],
+    "examples": {
+      "fa": [
+        "Scrivo una lettera.",
+        "من یک نامه می‌نویسم."
+      ],
+      "en": [
+        "Scrivi il tuo nome.",
+        "Write your name."
+      ]
+    }
+  },
+  {
+    "word": "ascoltare",
+    "translations": {
+      "fa": "گوش دادن",
+      "en": "to listen"
+    },
+    "explanation": {
+      "fa": "با دقت شنیدن.",
+      "en": "To hear with attention."
+    },
+    "conjugations": [
+      "ascoltare",
+      "ascolta",
+      "ascoltava",
+      "ha ascoltato"
+    ],
+    "examples": {
+      "fa": [
+        "Ascolto la musica.",
+        "من به موسیقی گوش می‌دهم."
+      ],
+      "en": [
+        "Ascolta!",
+        "Listen!"
+      ]
+    }
+  },
+  {
+    "word": "libro",
+    "translations": {
+      "fa": "کتاب",
+      "en": "book"
+    },
+    "explanation": {
+      "fa": "مجموعهٔ صفحات برای خواندن.",
+      "en": "Collection of pages for reading."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Leggo un libro.",
+        "من یک کتاب می‌خوانم."
+      ],
+      "en": [
+        "Questo è il mio libro.",
+        "This is my book."
+      ]
+    }
+  },
+  {
+    "word": "tempo",
+    "translations": {
+      "fa": "زمان، هوا",
+      "en": "time, weather"
+    },
+    "explanation": {
+      "fa": "وقت یا وضعیت آب و هوا.",
+      "en": "Time or weather condition."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Non ho tempo.",
+        "من وقت ندارم."
+      ],
+      "en": [
+        "Che bel tempo!",
+        "What nice weather!"
+      ]
+    }
+  },
+  {
+    "word": "soldi",
+    "translations": {
+      "fa": "پول",
+      "en": "money"
+    },
+    "explanation": {
+      "fa": "پول.",
+      "en": "Currency."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Non ho soldi.",
+        "من پول ندارم."
+      ],
+      "en": [
+        "Quanto soldi hai?",
+        "How much money do you have?"
+      ]
+    }
+  },
+  {
+    "word": "uomo",
+    "translations": {
+      "fa": "مرد",
+      "en": "man"
+    },
+    "explanation": {
+      "fa": "شخص بالغ مذکر.",
+      "en": "Adult male person."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Quell'uomo è alto.",
+        "آن مرد قد بلند است."
+      ],
+      "en": [
+        "È un uomo gentile.",
+        "He is a kind man."
+      ]
+    }
+  },
+  {
+    "word": "donna",
+    "translations": {
+      "fa": "زن",
+      "en": "woman"
+    },
+    "explanation": {
+      "fa": "شخص بالغ مؤنث.",
+      "en": "Adult female person."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Quella donna è bella.",
+        "آن زن زیباست."
+      ],
+      "en": [
+        "È una donna intelligente.",
+        "She is an intelligent woman."
+      ]
+    }
+  },
+  {
+    "word": "ragazzo",
+    "translations": {
+      "fa": "پسر",
+      "en": "boy"
+    },
+    "explanation": {
+      "fa": "جوان مذکر.",
+      "en": "Young male."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il ragazzo studia.",
+        "پسر درس می‌خواند."
+      ],
+      "en": [
+        "È un bravo ragazzo.",
+        "He's a good boy."
+      ]
+    }
+  },
+  {
+    "word": "ragazza",
+    "translations": {
+      "fa": "دختر",
+      "en": "girl"
+    },
+    "explanation": {
+      "fa": "جوان مؤنث.",
+      "en": "Young female."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "La ragazza è simpatica.",
+        "دختر خوش‌برخورد است."
+      ],
+      "en": [
+        "È una bella ragazza.",
+        "She's a beautiful girl."
+      ]
+    }
+  },
+  {
+    "word": "bambino",
+    "translations": {
+      "fa": "بچه",
+      "en": "child, baby"
+    },
+    "explanation": {
+      "fa": "کودک.",
+      "en": "Young child."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il bambino gioca.",
+        "بچه بازی می‌کند."
+      ],
+      "en": [
+        "Ho due bambini.",
+        "I have two children."
+      ]
+    }
+  },
+  {
+    "word": "persona",
+    "translations": {
+      "fa": "شخص",
+      "en": "person"
+    },
+    "explanation": {
+      "fa": "فرد انسان.",
+      "en": "Human being."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "È una brava persona.",
+        "او شخص خوبی است."
+      ],
+      "en": [
+        "Quante persone ci sono?",
+        "How many people are there?"
+      ]
+    }
+  },
+  {
+    "word": "mare",
+    "translations": {
+      "fa": "دریا",
+      "en": "sea"
+    },
+    "explanation": {
+      "fa": "آب شور بزرگ.",
+      "en": "Large body of saltwater."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Vado al mare.",
+        "من به دریا می‌روم."
+      ],
+      "en": [
+        "Mi piace il mare.",
+        "I like the sea."
+      ]
+    }
+  },
+  {
+    "word": "stazione",
+    "translations": {
+      "fa": "ایستگاه",
+      "en": "station"
+    },
+    "explanation": {
+      "fa": "محل توقف قطار یا اتوبوس.",
+      "en": "Place where trains or buses stop."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Dov'è la stazione?",
+        "ایستگاه کجاست؟"
+      ],
+      "en": [
+        "Vado alla stazione.",
+        "I'm going to the station."
+      ]
+    }
+  },
+  {
+    "word": "treno",
+    "translations": {
+      "fa": "قطار",
+      "en": "train"
+    },
+    "explanation": {
+      "fa": "وسیلهٔ نقلیه روی ریل.",
+      "en": "Vehicle on rails."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prendo il treno.",
+        "من قطار می‌گیرم."
+      ],
+      "en": [
+        "Il treno parte alle 8.",
+        "The train leaves at 8."
+      ]
+    }
+  },
+  {
+    "word": "autobus",
+    "translations": {
+      "fa": "اتوبوس",
+      "en": "bus"
+    },
+    "explanation": {
+      "fa": "وسیلهٔ نقلیه عمومی بزرگ.",
+      "en": "Large public transport vehicle."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Prendo l'autobus.",
+        "من اتوبوس می‌گیرم."
+      ],
+      "en": [
+        "L'autobus è in ritardo.",
+        "The bus is late."
+      ]
+    }
+  },
+  {
+    "word": "porta",
+    "translations": {
+      "fa": "در",
+      "en": "door"
+    },
+    "explanation": {
+      "fa": "درگاه ورودی.",
+      "en": "Entrance way."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Chiudi la porta.",
+        "در را ببند."
+      ],
+      "en": [
+        "La porta è aperta.",
+        "The door is open."
+      ]
+    }
+  },
+  {
+    "word": "finestra",
+    "translations": {
+      "fa": "پنجره",
+      "en": "window"
+    },
+    "explanation": {
+      "fa": "بازشو در دیوار.",
+      "en": "Opening in a wall."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Apri la finestra.",
+        "پنجره را باز کن."
+      ],
+      "en": [
+        "La finestra è chiusa.",
+        "The window is closed."
+      ]
+    }
+  },
+  {
+    "word": "tavolo",
+    "translations": {
+      "fa": "میز",
+      "en": "table"
+    },
+    "explanation": {
+      "fa": "سطح برای گذاشتن اشیا.",
+      "en": "Surface for placing objects."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Il libro è sul tavolo.",
+        "کتاب روی میز است."
+      ],
+      "en": [
+        "Siedi al tavolo.",
+        "Sit at the table."
+      ]
+    }
+  },
+  {
+    "word": "sedia",
+    "translations": {
+      "fa": "صندلی",
+      "en": "chair"
+    },
+    "explanation": {
+      "fa": "برای نشستن.",
+      "en": "For sitting."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Questa sedia è comoda.",
+        "این صندلی راحت است."
+      ],
+      "en": [
+        "Siedi sulla sedia.",
+        "Sit on the chair."
+      ]
+    }
+  },
+  {
+    "word": "altro",
+    "translations": {
+      "fa": "دیگر",
+      "en": "other, another"
+    },
+    "explanation": {
+      "fa": "یکی دیگر.",
+      "en": "One more or different."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Un altro caffè, per favore.",
+        "یک قهوهٔ دیگر، لطفاً."
+      ],
+      "en": [
+        "L'altro giorno.",
+        "The other day."
+      ]
+    }
+  },
+  {
+    "word": "tutto",
+    "translations": {
+      "fa": "همه",
+      "en": "all, everything"
+    },
+    "explanation": {
+      "fa": "تمام چیزها.",
+      "en": "All things."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Tutto bene?",
+        "همه چیز خوب است؟"
+      ],
+      "en": [
+        "Mangio tutto.",
+        "I eat everything."
+      ]
+    }
+  },
+  {
+    "word": "tanto",
+    "translations": {
+      "fa": "خیلی زیاد",
+      "en": "so much, a lot"
+    },
+    "explanation": {
+      "fa": "مقدار بسیار.",
+      "en": "Very much."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Grazie tante!",
+        "خیلی ممنون!"
+      ],
+      "en": [
+        "Ho tanto lavoro.",
+        "I have so much work."
+      ]
+    }
+  },
+  {
+    "word": "caro",
+    "translations": {
+      "fa": "گران، عزیز",
+      "en": "expensive, dear"
+    },
+    "explanation": {
+      "fa": "گران‌قیمت یا محبوب.",
+      "en": "Expensive or beloved."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "È troppo caro.",
+        "خیلی گران است."
+      ],
+      "en": [
+        "Caro amico.",
+        "Dear friend."
+      ]
+    }
+  },
+  {
+    "word": "vicino",
+    "translations": {
+      "fa": "نزدیک",
+      "en": "near, close"
+    },
+    "explanation": {
+      "fa": "به مکانی نزدیک.",
+      "en": "Close to a place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Abito qui vicino.",
+        "من اینجا نزدیک زندگی می‌کنم."
+      ],
+      "en": [
+        "La stazione è vicina.",
+        "The station is near."
+      ]
+    }
+  },
+  {
+    "word": "lontano",
+    "translations": {
+      "fa": "دور",
+      "en": "far, distant"
+    },
+    "explanation": {
+      "fa": "از مکانی دور.",
+      "en": "Distant from a place."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "È molto lontano.",
+        "خیلی دور است."
+      ],
+      "en": [
+        "Abito lontano.",
+        "I live far away."
+      ]
+    }
+  },
+  {
+    "word": "giovane",
+    "translations": {
+      "fa": "جوان",
+      "en": "young"
+    },
+    "explanation": {
+      "fa": "کم سن.",
+      "en": "Of young age."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono giovane.",
+        "من جوان هستم."
+      ],
+      "en": [
+        "È una persona giovane.",
+        "He/She is a young person."
+      ]
+    }
+  },
+  {
+    "word": "sei",
+    "translations": {
+      "fa": "شش",
+      "en": "six"
+    },
+    "explanation": {
+      "fa": "عدد ۶.",
+      "en": "Number 6."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sono le sei.",
+        "ساعت شش است."
+      ],
+      "en": [
+        "Ho sei anni.",
+        "I am six years old."
+      ]
+    }
+  },
+  {
+    "word": "sette",
+    "translations": {
+      "fa": "هفت",
+      "en": "seven"
+    },
+    "explanation": {
+      "fa": "عدد ۷.",
+      "en": "Number 7."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Sette giorni.",
+        "هفت روز."
+      ],
+      "en": [
+        "Sono le sette.",
+        "It's seven o'clock."
+      ]
+    }
+  },
+  {
+    "word": "otto",
+    "translations": {
+      "fa": "هشت",
+      "en": "eight"
+    },
+    "explanation": {
+      "fa": "عدد ۸.",
+      "en": "Number 8."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Otto ore.",
+        "هشت ساعت."
+      ],
+      "en": [
+        "Sono le otto.",
+        "It's eight o'clock."
+      ]
+    }
+  },
+  {
+    "word": "nove",
+    "translations": {
+      "fa": "نه",
+      "en": "nine"
+    },
+    "explanation": {
+      "fa": "عدد ۹.",
+      "en": "Number 9."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Nove persone.",
+        "نه نفر."
+      ],
+      "en": [
+        "Sono le nove.",
+        "It's nine o'clock."
+      ]
+    }
+  },
+  {
+    "word": "dieci",
+    "translations": {
+      "fa": "ده",
+      "en": "ten"
+    },
+    "explanation": {
+      "fa": "عدد ۱۰.",
+      "en": "Number 10."
+    },
+    "conjugations": null,
+    "examples": {
+      "fa": [
+        "Dieci euro.",
+        "ده یورو."
+      ],
+      "en": [
+        "Sono le dieci.",
+        "It's ten o'clock."
       ]
     }
   }
