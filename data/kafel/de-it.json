@@ -2864,5 +2864,1477 @@
         "Scrum has fixed roles and meetings."
       ]
     }
+  },
+  {
+    "word": "der Microservice",
+    "translations": {
+      "en": "microservice",
+      "de": "Mikrodienst"
+    },
+    "explanation": {
+      "en": "A small, independent service in a distributed architecture. Microservices communicate via APIs and can be deployed independently.",
+      "de": "Ein kleiner, unabhängiger Dienst in einer verteilten Architektur."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir entwickeln die Anwendung mit Microservices.",
+        "We're developing the application with microservices."
+      ],
+      "de": [
+        "Jeder Microservice hat seine eigene Datenbank.",
+        "Each microservice has its own database."
+      ]
+    }
+  },
+  {
+    "word": "der Container",
+    "translations": {
+      "en": "container",
+      "de": "Docker-Container"
+    },
+    "explanation": {
+      "en": "A lightweight, portable unit that packages application code with dependencies. Docker is the most popular container platform.",
+      "de": "Eine leichte, portable Einheit, die Anwendungscode mit Abhängigkeiten verpackt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anwendung läuft in einem Docker-Container.",
+        "The application runs in a Docker container."
+      ],
+      "de": [
+        "Container erleichtern das Deployment.",
+        "Containers simplify deployment."
+      ]
+    }
+  },
+  {
+    "word": "die Pipeline",
+    "translations": {
+      "en": "pipeline",
+      "de": "Build-Pipeline, CI/CD-Pipeline"
+    },
+    "explanation": {
+      "en": "An automated workflow for building, testing, and deploying code. Core component of CI/CD practices.",
+      "de": "Ein automatisierter Workflow zum Erstellen, Testen und Bereitstellen von Code."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Pipeline läuft bei jedem Commit automatisch.",
+        "The pipeline runs automatically with every commit."
+      ],
+      "de": [
+        "Unsere CI/CD-Pipeline umfasst alle Tests.",
+        "Our CI/CD pipeline includes all tests."
+      ]
+    }
+  },
+  {
+    "word": "der Hook",
+    "translations": {
+      "en": "hook",
+      "de": "React-Hook, Webhook"
+    },
+    "explanation": {
+      "en": "A function that hooks into framework functionality. In React, hooks manage state and side effects in functional components.",
+      "de": "Eine Funktion, die sich in Framework-Funktionalität einklinkt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden den useState-Hook für den Zustand.",
+        "We use the useState hook for the state."
+      ],
+      "de": [
+        "React-Hooks haben die Entwicklung vereinfacht.",
+        "React hooks have simplified development."
+      ]
+    }
+  },
+  {
+    "word": "die Props",
+    "translations": {
+      "en": "props (properties)",
+      "de": "Eigenschaften, Komponenten-Parameter"
+    },
+    "explanation": {
+      "en": "Data passed from parent to child components in React. Props are read-only and enable component communication.",
+      "de": "Daten, die von Eltern- an Kind-Komponenten in React übergeben werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Komponente empfängt Daten über Props.",
+        "The component receives data via props."
+      ],
+      "de": [
+        "Props können nicht von der Kind-Komponente geändert werden.",
+        "Props cannot be changed by the child component."
+      ]
+    }
+  },
+  {
+    "word": "der State",
+    "translations": {
+      "en": "state",
+      "de": "Zustand, Komponentenzustand"
+    },
+    "explanation": {
+      "en": "Internal data that a component manages. When state changes, the component re-renders.",
+      "de": "Interne Daten, die eine Komponente verwaltet."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der State wird mit useState verwaltet.",
+        "The state is managed with useState."
+      ],
+      "de": [
+        "Jede Änderung am State löst ein Re-Rendering aus.",
+        "Every change to the state triggers a re-render."
+      ]
+    }
+  },
+  {
+    "word": "das Rendering",
+    "translations": {
+      "en": "rendering",
+      "de": "Darstellung, Anzeige"
+    },
+    "explanation": {
+      "en": "The process of displaying UI components on screen. Can be client-side or server-side rendering.",
+      "de": "Der Prozess der Anzeige von UI-Komponenten auf dem Bildschirm."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Rendering dauert zu lange.",
+        "The rendering takes too long."
+      ],
+      "de": [
+        "Server-Side-Rendering verbessert die Performance.",
+        "Server-side rendering improves performance."
+      ]
+    }
+  },
+  {
+    "word": "die Abhängigkeit",
+    "translations": {
+      "en": "dependency",
+      "de": "Dependency"
+    },
+    "explanation": {
+      "en": "External code or libraries that a project requires. Managed by package managers like npm or Maven.",
+      "de": "Externer Code oder Bibliotheken, die ein Projekt benötigt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir müssen die Abhängigkeiten aktualisieren.",
+        "We need to update the dependencies."
+      ],
+      "de": [
+        "Zu viele Abhängigkeiten können problematisch sein.",
+        "Too many dependencies can be problematic."
+      ]
+    }
+  },
+  {
+    "word": "der Unit-Test",
+    "translations": {
+      "en": "unit test",
+      "de": "Komponententest"
+    },
+    "explanation": {
+      "en": "A test that verifies the functionality of a single unit of code. Usually tests individual functions or methods.",
+      "de": "Ein Test, der die Funktionalität einer einzelnen Code-Einheit überprüft."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Für jede Funktion schreiben wir einen Unit-Test.",
+        "We write a unit test for each function."
+      ],
+      "de": [
+        "Unit-Tests laufen sehr schnell.",
+        "Unit tests run very quickly."
+      ]
+    }
+  },
+  {
+    "word": "der Integrationstest",
+    "translations": {
+      "en": "integration test",
+      "de": "Integrationstest"
+    },
+    "explanation": {
+      "en": "A test that verifies how different modules work together. Tests the interaction between components.",
+      "de": "Ein Test, der überprüft, wie verschiedene Module zusammenarbeiten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Integrationstest prüft die API-Anbindung.",
+        "The integration test checks the API connection."
+      ],
+      "de": [
+        "Integrationstests sind komplexer als Unit-Tests.",
+        "Integration tests are more complex than unit tests."
+      ]
+    }
+  },
+  {
+    "word": "die Testabdeckung",
+    "translations": {
+      "en": "test coverage, code coverage",
+      "de": "Code-Coverage"
+    },
+    "explanation": {
+      "en": "The percentage of code that is executed by tests. High coverage indicates thorough testing.",
+      "de": "Der Prozentsatz des Codes, der von Tests ausgeführt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Unsere Testabdeckung beträgt 85 Prozent.",
+        "Our test coverage is 85 percent."
+      ],
+      "de": [
+        "Wir streben eine Testabdeckung von mindestens 80% an.",
+        "We aim for a test coverage of at least 80%."
+      ]
+    }
+  },
+  {
+    "word": "das Mocking",
+    "translations": {
+      "en": "mocking",
+      "de": "Simulieren von Abhängigkeiten"
+    },
+    "explanation": {
+      "en": "Creating fake objects that simulate real dependencies in tests. Allows testing in isolation.",
+      "de": "Das Erstellen von Fake-Objekten, die echte Abhängigkeiten in Tests simulieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden Mocking für die Datenbankzugriffe.",
+        "We use mocking for the database accesses."
+      ],
+      "de": [
+        "Mocking ermöglicht schnellere Tests.",
+        "Mocking enables faster tests."
+      ]
+    }
+  },
+  {
+    "word": "der Pull Request",
+    "translations": {
+      "en": "pull request",
+      "de": "Merge-Anfrage"
+    },
+    "explanation": {
+      "en": "A request to merge code changes into a repository. Enables code review before integration.",
+      "de": "Eine Anfrage, Code-Änderungen in ein Repository zu mergen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich habe einen Pull Request erstellt.",
+        "I created a pull request."
+      ],
+      "de": [
+        "Der Pull Request muss noch reviewt werden.",
+        "The pull request still needs to be reviewed."
+      ]
+    }
+  },
+  {
+    "word": "das Code-Review",
+    "translations": {
+      "en": "code review",
+      "de": "Code-Überprüfung"
+    },
+    "explanation": {
+      "en": "The process of examining code changes by other developers. Improves code quality and knowledge sharing.",
+      "de": "Der Prozess der Überprüfung von Code-Änderungen durch andere Entwickler."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Code-Review hat mehrere Probleme aufgedeckt.",
+        "The code review uncovered several problems."
+      ],
+      "de": [
+        "Vor dem Merge führen wir immer ein Code-Review durch.",
+        "We always conduct a code review before merging."
+      ]
+    }
+  },
+  {
+    "word": "der Fork",
+    "translations": {
+      "en": "fork",
+      "de": "Kopie eines Repositories"
+    },
+    "explanation": {
+      "en": "A copy of a repository that allows independent development. Common in open-source contributions.",
+      "de": "Eine Kopie eines Repositories, die unabhängige Entwicklung ermöglicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich habe das Repository geforkt.",
+        "I forked the repository."
+      ],
+      "de": [
+        "Der Fork enthält meine experimentellen Änderungen.",
+        "The fork contains my experimental changes."
+      ]
+    }
+  },
+  {
+    "word": "rebasen",
+    "translations": {
+      "en": "to rebase",
+      "de": "Commits neu aufbauen"
+    },
+    "explanation": {
+      "en": "To move or combine commits to a new base. Keeps git history clean and linear.",
+      "de": "Commits auf eine neue Basis verschieben oder kombinieren."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "rebasen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "rebase"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "rebaset"
+      },
+      {
+        "form": "Präteritum",
+        "value": "rebaste"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat rebast"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Ich muss meinen Branch auf main rebasen.",
+        "I need to rebase my branch onto main."
+      ],
+      "de": [
+        "Nach dem Rebase ist die History sauberer.",
+        "After rebasing, the history is cleaner."
+      ]
+    }
+  },
+  {
+    "word": "cherry-picken",
+    "translations": {
+      "en": "to cherry-pick",
+      "de": "einzelne Commits übernehmen"
+    },
+    "explanation": {
+      "en": "To apply specific commits from one branch to another. Useful for selective code integration.",
+      "de": "Spezifische Commits von einem Branch in einen anderen übernehmen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "cherry-picken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "cherry-picke"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "cherry-pickt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "cherry-pickte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "hat cherry-gepickt"
+      }
+    ],
+    "examples": {
+      "en": [
+        "Wir cherry-picken nur den Bugfix-Commit.",
+        "We're cherry-picking only the bugfix commit."
+      ],
+      "de": [
+        "Der Commit wurde erfolgreich cherry-gepickt.",
+        "The commit was successfully cherry-picked."
+      ]
+    }
+  },
+  {
+    "word": "der Stash",
+    "translations": {
+      "en": "stash",
+      "de": "Zwischenspeicher für Änderungen"
+    },
+    "explanation": {
+      "en": "Temporarily stored changes in Git. Allows switching branches without committing incomplete work.",
+      "de": "Temporär gespeicherte Änderungen in Git."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich speichere die Änderungen im Stash.",
+        "I'm saving the changes in the stash."
+      ],
+      "de": [
+        "Der Stash enthält meine unvollendete Arbeit.",
+        "The stash contains my incomplete work."
+      ]
+    }
+  },
+  {
+    "word": "das Kubernetes",
+    "translations": {
+      "en": "Kubernetes",
+      "de": "Container-Orchestrierung"
+    },
+    "explanation": {
+      "en": "A platform for automating deployment, scaling, and management of containerized applications.",
+      "de": "Eine Plattform zur Automatisierung von Deployment, Skalierung und Verwaltung containerisierter Anwendungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir deployen die Container mit Kubernetes.",
+        "We deploy the containers with Kubernetes."
+      ],
+      "de": [
+        "Kubernetes orchestriert unsere Microservices.",
+        "Kubernetes orchestrates our microservices."
+      ]
+    }
+  },
+  {
+    "word": "das Monitoring",
+    "translations": {
+      "en": "monitoring",
+      "de": "Überwachung"
+    },
+    "explanation": {
+      "en": "Continuous observation of system performance and health. Essential for production systems.",
+      "de": "Kontinuierliche Beobachtung von System-Performance und -Zustand."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Monitoring zeigt eine hohe CPU-Auslastung.",
+        "The monitoring shows high CPU utilization."
+      ],
+      "de": [
+        "Wir nutzen mehrere Monitoring-Tools.",
+        "We use multiple monitoring tools."
+      ]
+    }
+  },
+  {
+    "word": "das Logging",
+    "translations": {
+      "en": "logging",
+      "de": "Protokollierung"
+    },
+    "explanation": {
+      "en": "Recording events and errors in an application. Logs help with debugging and monitoring.",
+      "de": "Das Aufzeichnen von Ereignissen und Fehlern in einer Anwendung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir implementieren strukturiertes Logging.",
+        "We're implementing structured logging."
+      ],
+      "de": [
+        "Die Logs helfen bei der Fehleranalyse.",
+        "The logs help with error analysis."
+      ]
+    }
+  },
+  {
+    "word": "die REST-API",
+    "translations": {
+      "en": "REST API",
+      "de": "REST-Schnittstelle"
+    },
+    "explanation": {
+      "en": "An API that follows REST architectural principles. Uses HTTP methods like GET, POST, PUT, DELETE.",
+      "de": "Eine API, die REST-Architekturprinzipien folgt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die REST-API verwendet JSON für den Datenaustausch.",
+        "The REST API uses JSON for data exchange."
+      ],
+      "de": [
+        "Wir entwickeln eine RESTful API.",
+        "We're developing a RESTful API."
+      ]
+    }
+  },
+  {
+    "word": "das GraphQL",
+    "translations": {
+      "en": "GraphQL",
+      "de": "GraphQL-Abfragesprache"
+    },
+    "explanation": {
+      "en": "A query language for APIs that allows clients to request exactly the data they need.",
+      "de": "Eine Abfragesprache für APIs, die es Clients erlaubt, genau die benötigten Daten anzufordern."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "GraphQL vermeidet Over-Fetching von Daten.",
+        "GraphQL avoids over-fetching of data."
+      ],
+      "de": [
+        "Die GraphQL-API ist sehr flexibel.",
+        "The GraphQL API is very flexible."
+      ]
+    }
+  },
+  {
+    "word": "der Endpoint",
+    "translations": {
+      "en": "endpoint",
+      "de": "API-Endpunkt"
+    },
+    "explanation": {
+      "en": "A specific URL in an API where a resource can be accessed. Each endpoint serves a specific purpose.",
+      "de": "Eine spezifische URL in einer API, über die eine Ressource zugegriffen werden kann."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Endpoint /users liefert alle Benutzer.",
+        "The endpoint /users returns all users."
+      ],
+      "de": [
+        "Wir haben einen neuen Endpoint implementiert.",
+        "We implemented a new endpoint."
+      ]
+    }
+  },
+  {
+    "word": "das JSON",
+    "translations": {
+      "en": "JSON (JavaScript Object Notation)",
+      "de": "JSON-Format"
+    },
+    "explanation": {
+      "en": "A lightweight data format for exchanging information. Widely used in web APIs and configurations.",
+      "de": "Ein leichtgewichtiges Datenformat zum Informationsaustausch."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die API gibt Daten im JSON-Format zurück.",
+        "The API returns data in JSON format."
+      ],
+      "de": [
+        "JSON ist einfach zu lesen und zu schreiben.",
+        "JSON is easy to read and write."
+      ]
+    }
+  },
+  {
+    "word": "das XML",
+    "translations": {
+      "en": "XML (Extensible Markup Language)",
+      "de": "XML-Format"
+    },
+    "explanation": {
+      "en": "A markup language for encoding documents. More verbose than JSON but supports complex structures.",
+      "de": "Eine Auszeichnungssprache zum Kodieren von Dokumenten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Konfiguration ist in XML gespeichert.",
+        "The configuration is stored in XML."
+      ],
+      "de": [
+        "XML wird oft in Enterprise-Anwendungen verwendet.",
+        "XML is often used in enterprise applications."
+      ]
+    }
+  },
+  {
+    "word": "asynchron",
+    "translations": {
+      "en": "asynchronous",
+      "de": "nicht-blockierend"
+    },
+    "explanation": {
+      "en": "Operations that don't block program execution. Allows multiple tasks to run concurrently.",
+      "de": "Operationen, die die Programmausführung nicht blockieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die API-Aufrufe laufen asynchron.",
+        "The API calls run asynchronously."
+      ],
+      "de": [
+        "Asynchrone Programmierung verbessert die Performance.",
+        "Asynchronous programming improves performance."
+      ]
+    }
+  },
+  {
+    "word": "synchron",
+    "translations": {
+      "en": "synchronous",
+      "de": "blockierend"
+    },
+    "explanation": {
+      "en": "Operations that block execution until completed. Code waits for the operation to finish.",
+      "de": "Operationen, die die Ausführung blockieren, bis sie abgeschlossen sind."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Synchrone Aufrufe sind einfacher zu verstehen.",
+        "Synchronous calls are easier to understand."
+      ],
+      "de": [
+        "Der Code läuft synchron, Zeile für Zeile.",
+        "The code runs synchronously, line by line."
+      ]
+    }
+  },
+  {
+    "word": "das Promise",
+    "translations": {
+      "en": "promise",
+      "de": "Versprechen, Future"
+    },
+    "explanation": {
+      "en": "An object representing the eventual completion or failure of an async operation in JavaScript.",
+      "de": "Ein Objekt, das die zukünftige Fertigstellung oder den Fehler einer asynchronen Operation repräsentiert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Promise wird mit then() behandelt.",
+        "The promise is handled with then()."
+      ],
+      "de": [
+        "Promises vereinfachen asynchronen Code.",
+        "Promises simplify asynchronous code."
+      ]
+    }
+  },
+  {
+    "word": "async/await",
+    "translations": {
+      "en": "async/await",
+      "de": "asynchrone Syntax"
+    },
+    "explanation": {
+      "en": "Syntax for writing asynchronous code that looks synchronous. Makes async code more readable.",
+      "de": "Syntax zum Schreiben von asynchronem Code, der synchron aussieht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Mit async/await ist der Code lesbarer.",
+        "With async/await, the code is more readable."
+      ],
+      "de": [
+        "Ich verwende await, um auf das Promise zu warten.",
+        "I use await to wait for the promise."
+      ]
+    }
+  },
+  {
+    "word": "der Callback",
+    "translations": {
+      "en": "callback",
+      "de": "Rückruffunktion"
+    },
+    "explanation": {
+      "en": "A function passed as an argument to be executed later. Common pattern for async operations.",
+      "de": "Eine Funktion, die als Argument übergeben wird, um später ausgeführt zu werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Funktion nimmt einen Callback als Parameter.",
+        "The function takes a callback as a parameter."
+      ],
+      "de": [
+        "Zu viele Callbacks führen zu Callback-Hell.",
+        "Too many callbacks lead to callback hell."
+      ]
+    }
+  },
+  {
+    "word": "die NoSQL-Datenbank",
+    "translations": {
+      "en": "NoSQL database",
+      "de": "nicht-relationale Datenbank"
+    },
+    "explanation": {
+      "en": "A database that doesn't use traditional table structures. Includes document, key-value, and graph databases.",
+      "de": "Eine Datenbank, die keine traditionellen Tabellenstrukturen verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "MongoDB ist eine populäre NoSQL-Datenbank.",
+        "MongoDB is a popular NoSQL database."
+      ],
+      "de": [
+        "NoSQL-Datenbanken skalieren horizontal.",
+        "NoSQL databases scale horizontally."
+      ]
+    }
+  },
+  {
+    "word": "das MongoDB",
+    "translations": {
+      "en": "MongoDB",
+      "de": "MongoDB-Datenbank"
+    },
+    "explanation": {
+      "en": "A document-oriented NoSQL database. Stores data in flexible JSON-like documents.",
+      "de": "Eine dokumentenorientierte NoSQL-Datenbank."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir speichern die Daten in MongoDB.",
+        "We store the data in MongoDB."
+      ],
+      "de": [
+        "MongoDB ist ideal für unstrukturierte Daten.",
+        "MongoDB is ideal for unstructured data."
+      ]
+    }
+  },
+  {
+    "word": "das PostgreSQL",
+    "translations": {
+      "en": "PostgreSQL",
+      "de": "PostgreSQL-Datenbank"
+    },
+    "explanation": {
+      "en": "An advanced open-source relational database. Known for reliability and feature richness.",
+      "de": "Eine fortgeschrittene Open-Source relationale Datenbank."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "PostgreSQL unterstützt komplexe Abfragen.",
+        "PostgreSQL supports complex queries."
+      ],
+      "de": [
+        "Wir migrieren von MySQL zu PostgreSQL.",
+        "We're migrating from MySQL to PostgreSQL."
+      ]
+    }
+  },
+  {
+    "word": "die Transaktion",
+    "translations": {
+      "en": "transaction",
+      "de": "Datenbanktransaktion"
+    },
+    "explanation": {
+      "en": "A sequence of database operations that must all succeed or all fail. Ensures data consistency.",
+      "de": "Eine Sequenz von Datenbankoperationen, die alle erfolgreich sein oder alle fehlschlagen müssen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Transaktion wird bei einem Fehler zurückgerollt.",
+        "The transaction is rolled back on error."
+      ],
+      "de": [
+        "Transaktionen gewährleisten Datenkonsistenz.",
+        "Transactions ensure data consistency."
+      ]
+    }
+  },
+  {
+    "word": "das Rollback",
+    "translations": {
+      "en": "rollback",
+      "de": "Rückgängigmachen"
+    },
+    "explanation": {
+      "en": "Undoing database changes in a transaction. Returns the database to its previous state.",
+      "de": "Das Rückgängigmachen von Datenbankänderungen in einer Transaktion."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Bei einem Fehler erfolgt ein Rollback.",
+        "A rollback occurs on error."
+      ],
+      "de": [
+        "Das Rollback hat die Änderungen rückgängig gemacht.",
+        "The rollback undid the changes."
+      ]
+    }
+  },
+  {
+    "word": "der Datenbank-Index",
+    "translations": {
+      "en": "database index",
+      "de": "Datenbankindex"
+    },
+    "explanation": {
+      "en": "A data structure that improves query performance. Like an index in a book for faster lookups.",
+      "de": "Eine Datenstruktur, die die Abfrageleistung verbessert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir erstellen einen Index auf der E-Mail-Spalte.",
+        "We're creating an index on the email column."
+      ],
+      "de": [
+        "Indizes beschleunigen Datenbankabfragen.",
+        "Indexes speed up database queries."
+      ]
+    }
+  },
+  {
+    "word": "die Migration",
+    "translations": {
+      "en": "migration",
+      "de": "Datenmigration, Schema-Änderung"
+    },
+    "explanation": {
+      "en": "Changes to database schema over time. Migrations track and apply database structure changes.",
+      "de": "Änderungen am Datenbankschema über die Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir führen die Datenbank-Migration aus.",
+        "We're running the database migration."
+      ],
+      "de": [
+        "Die Migration fügt eine neue Spalte hinzu.",
+        "The migration adds a new column."
+      ]
+    }
+  },
+  {
+    "word": "die Normalisierung",
+    "translations": {
+      "en": "normalization",
+      "de": "Datenbanknormalisierung"
+    },
+    "explanation": {
+      "en": "Organizing database tables to reduce redundancy. Improves data integrity and consistency.",
+      "de": "Das Organisieren von Datenbanktabellen zur Reduzierung von Redundanz."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Normalisierung vermeidet Datenredundanz.",
+        "Normalization avoids data redundancy."
+      ],
+      "de": [
+        "Wir normalisieren die Datenbank auf die dritte Normalform.",
+        "We're normalizing the database to third normal form."
+      ]
+    }
+  },
+  {
+    "word": "das ORM",
+    "translations": {
+      "en": "ORM (Object-Relational Mapping)",
+      "de": "Objekt-Relationales Mapping"
+    },
+    "explanation": {
+      "en": "A technique for converting data between incompatible type systems. Maps database tables to objects.",
+      "de": "Eine Technik zur Konvertierung von Daten zwischen inkompatiblen Typsystemen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden Hibernate als ORM-Framework.",
+        "We use Hibernate as the ORM framework."
+      ],
+      "de": [
+        "Das ORM vereinfacht Datenbankzugriffe.",
+        "The ORM simplifies database access."
+      ]
+    }
+  },
+  {
+    "word": "das Agile",
+    "translations": {
+      "en": "Agile",
+      "de": "Agile Methodik"
+    },
+    "explanation": {
+      "en": "A set of principles for software development emphasizing flexibility and collaboration.",
+      "de": "Ein Satz von Prinzipien für Softwareentwicklung mit Schwerpunkt auf Flexibilität und Zusammenarbeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Agile hat die Softwareentwicklung revolutioniert.",
+        "Agile has revolutionized software development."
+      ],
+      "de": [
+        "Wir leben die agilen Werte.",
+        "We live the agile values."
+      ]
+    }
+  },
+  {
+    "word": "das Kanban",
+    "translations": {
+      "en": "Kanban",
+      "de": "Kanban-Methode"
+    },
+    "explanation": {
+      "en": "A visual system for managing work. Uses boards with columns like To Do, In Progress, Done.",
+      "de": "Ein visuelles System zur Arbeitsverwaltung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Unser Team nutzt ein Kanban-Board.",
+        "Our team uses a Kanban board."
+      ],
+      "de": [
+        "Kanban hilft, den Workflow zu visualisieren.",
+        "Kanban helps visualize the workflow."
+      ]
+    }
+  },
+  {
+    "word": "das Backlog",
+    "translations": {
+      "en": "backlog",
+      "de": "Aufgabenliste, Rückstand"
+    },
+    "explanation": {
+      "en": "A prioritized list of work items. Contains features, bugs, and tasks to be completed.",
+      "de": "Eine priorisierte Liste von Arbeitsaufgaben."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Backlog enthält 50 offene Tickets.",
+        "The backlog contains 50 open tickets."
+      ],
+      "de": [
+        "Wir priorisieren das Product Backlog regelmäßig.",
+        "We prioritize the product backlog regularly."
+      ]
+    }
+  },
+  {
+    "word": "die User Story",
+    "translations": {
+      "en": "user story",
+      "de": "Nutzeranforderung"
+    },
+    "explanation": {
+      "en": "A short description of a feature from the user's perspective. Format: As a [user], I want [goal].",
+      "de": "Eine kurze Beschreibung einer Funktion aus Nutzersicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir schreiben User Stories für jedes Feature.",
+        "We write user stories for each feature."
+      ],
+      "de": [
+        "Die User Story beschreibt den Nutzen für den Anwender.",
+        "The user story describes the benefit for the user."
+      ]
+    }
+  },
+  {
+    "word": "die Story Points",
+    "translations": {
+      "en": "story points",
+      "de": "Aufwandspunkte"
+    },
+    "explanation": {
+      "en": "A unit for estimating effort in agile. Relative measure of complexity, not time.",
+      "de": "Eine Einheit zur Aufwandsschätzung in Agile."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Diese User Story hat fünf Story Points.",
+        "This user story has five story points."
+      ],
+      "de": [
+        "Wir schätzen die Komplexität in Story Points.",
+        "We estimate complexity in story points."
+      ]
+    }
+  },
+  {
+    "word": "die Retrospektive",
+    "translations": {
+      "en": "retrospective",
+      "de": "Rückblick"
+    },
+    "explanation": {
+      "en": "A meeting where teams reflect on their process. Identifies what went well and what to improve.",
+      "de": "Ein Meeting, in dem Teams über ihren Prozess reflektieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "In der Retrospektive besprechen wir Verbesserungen.",
+        "In the retrospective, we discuss improvements."
+      ],
+      "de": [
+        "Die Retrospektive findet am Ende jedes Sprints statt.",
+        "The retrospective takes place at the end of each sprint."
+      ]
+    }
+  },
+  {
+    "word": "das Standup",
+    "translations": {
+      "en": "standup, daily standup",
+      "de": "tägliches Meeting"
+    },
+    "explanation": {
+      "en": "A short daily meeting where team members share progress. Typically 15 minutes or less.",
+      "de": "Ein kurzes tägliches Meeting, in dem Teammitglieder Fortschritte teilen."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Standup beginnt um 9 Uhr.",
+        "The standup starts at 9 o'clock."
+      ],
+      "de": [
+        "Im Standup berichte ich, woran ich arbeite.",
+        "In the standup, I report what I'm working on."
+      ]
+    }
+  },
+  {
+    "word": "der Scrum Master",
+    "translations": {
+      "en": "Scrum Master",
+      "de": "Scrum-Coach"
+    },
+    "explanation": {
+      "en": "The person who facilitates Scrum processes. Removes impediments and helps the team improve.",
+      "de": "Die Person, die Scrum-Prozesse erleichtert."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Scrum Master moderiert die Meetings.",
+        "The Scrum Master facilitates the meetings."
+      ],
+      "de": [
+        "Unser Scrum Master hilft bei Hindernissen.",
+        "Our Scrum Master helps with impediments."
+      ]
+    }
+  },
+  {
+    "word": "der Product Owner",
+    "translations": {
+      "en": "Product Owner",
+      "de": "Produktverantwortlicher"
+    },
+    "explanation": {
+      "en": "The person responsible for the product vision and backlog. Prioritizes features and requirements.",
+      "de": "Die Person, die für die Produktvision und das Backlog verantwortlich ist."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Product Owner priorisiert die Features.",
+        "The Product Owner prioritizes the features."
+      ],
+      "de": [
+        "Wir diskutieren Anforderungen mit dem Product Owner.",
+        "We discuss requirements with the Product Owner."
+      ]
+    }
+  },
+  {
+    "word": "die Velocity",
+    "translations": {
+      "en": "velocity",
+      "de": "Durchsatzgeschwindigkeit"
+    },
+    "explanation": {
+      "en": "The amount of work a team completes in a sprint. Measured in story points.",
+      "de": "Die Menge an Arbeit, die ein Team in einem Sprint erledigt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Unsere Velocity beträgt 40 Story Points pro Sprint.",
+        "Our velocity is 40 story points per sprint."
+      ],
+      "de": [
+        "Die Velocity hilft bei der Sprint-Planung.",
+        "The velocity helps with sprint planning."
+      ]
+    }
+  },
+  {
+    "word": "das JWT",
+    "translations": {
+      "en": "JWT (JSON Web Token)",
+      "de": "JSON-Web-Token"
+    },
+    "explanation": {
+      "en": "A compact token format for securely transmitting information. Commonly used for authentication.",
+      "de": "Ein kompaktes Token-Format zur sicheren Informationsübertragung."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir verwenden JWT für die Authentifizierung.",
+        "We use JWT for authentication."
+      ],
+      "de": [
+        "Das JWT enthält die Benutzerinformationen.",
+        "The JWT contains the user information."
+      ]
+    }
+  },
+  {
+    "word": "die Authentifizierung",
+    "translations": {
+      "en": "authentication",
+      "de": "Benutzeridentifizierung"
+    },
+    "explanation": {
+      "en": "Verifying the identity of a user. Ensures that users are who they claim to be.",
+      "de": "Das Überprüfen der Identität eines Benutzers."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Authentifizierung erfolgt über OAuth.",
+        "Authentication is done via OAuth."
+      ],
+      "de": [
+        "Nach der Authentifizierung erhält der Benutzer ein Token.",
+        "After authentication, the user receives a token."
+      ]
+    }
+  },
+  {
+    "word": "die Autorisierung",
+    "translations": {
+      "en": "authorization",
+      "de": "Berechtigungsprüfung"
+    },
+    "explanation": {
+      "en": "Determining what an authenticated user is allowed to do. Controls access to resources.",
+      "de": "Das Bestimmen, was ein authentifizierter Benutzer tun darf."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Autorisierung prüft die Benutzerrechte.",
+        "Authorization checks user permissions."
+      ],
+      "de": [
+        "Autorisierung erfolgt nach der Authentifizierung.",
+        "Authorization happens after authentication."
+      ]
+    }
+  },
+  {
+    "word": "das OAuth",
+    "translations": {
+      "en": "OAuth",
+      "de": "OAuth-Protokoll"
+    },
+    "explanation": {
+      "en": "An open standard for access delegation. Allows users to grant access without sharing passwords.",
+      "de": "Ein offener Standard für Zugriffsdelegation."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Anwendung nutzt OAuth 2.0.",
+        "The application uses OAuth 2.0."
+      ],
+      "de": [
+        "Mit OAuth kann man sich über Google anmelden.",
+        "With OAuth, you can log in via Google."
+      ]
+    }
+  },
+  {
+    "word": "die Middleware",
+    "translations": {
+      "en": "middleware",
+      "de": "Zwischenschicht"
+    },
+    "explanation": {
+      "en": "Software that sits between applications or layers. Handles requests and responses in the pipeline.",
+      "de": "Software, die zwischen Anwendungen oder Schichten sitzt."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Middleware prüft die Authentifizierung.",
+        "The middleware checks authentication."
+      ],
+      "de": [
+        "Wir verwenden mehrere Middleware-Komponenten.",
+        "We use multiple middleware components."
+      ]
+    }
+  },
+  {
+    "word": "der Load Balancer",
+    "translations": {
+      "en": "load balancer",
+      "de": "Lastverteiler"
+    },
+    "explanation": {
+      "en": "Distributes incoming network traffic across multiple servers. Ensures high availability and reliability.",
+      "de": "Verteilt eingehenden Netzwerkverkehr auf mehrere Server."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Load Balancer verteilt Anfragen auf drei Server.",
+        "The load balancer distributes requests to three servers."
+      ],
+      "de": [
+        "Ein Load Balancer verbessert die Verfügbarkeit.",
+        "A load balancer improves availability."
+      ]
+    }
+  },
+  {
+    "word": "die Skalierung",
+    "translations": {
+      "en": "scaling",
+      "de": "Ressourcenerweiterung"
+    },
+    "explanation": {
+      "en": "Increasing capacity to handle more load. Can be vertical (more powerful) or horizontal (more instances).",
+      "de": "Kapazitätserweiterung zur Bewältigung höherer Last."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir planen eine horizontale Skalierung.",
+        "We're planning horizontal scaling."
+      ],
+      "de": [
+        "Die Skalierung erfolgt automatisch bei Bedarf.",
+        "Scaling happens automatically when needed."
+      ]
+    }
+  },
+  {
+    "word": "das Caching",
+    "translations": {
+      "en": "caching",
+      "de": "Zwischenspeicherung"
+    },
+    "explanation": {
+      "en": "Storing frequently accessed data for faster retrieval. Improves performance by reducing database calls.",
+      "de": "Das Speichern häufig genutzter Daten für schnelleren Zugriff."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Caching reduziert die Ladezeit erheblich.",
+        "Caching significantly reduces load time."
+      ],
+      "de": [
+        "Wir implementieren Redis für das Caching.",
+        "We're implementing Redis for caching."
+      ]
+    }
+  },
+  {
+    "word": "das Redis",
+    "translations": {
+      "en": "Redis",
+      "de": "Redis-Datenbank"
+    },
+    "explanation": {
+      "en": "An in-memory data store used for caching and message brokering. Extremely fast for read/write operations.",
+      "de": "Ein In-Memory-Datenspeicher für Caching und Message-Brokering."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Redis speichert die Session-Daten.",
+        "Redis stores the session data."
+      ],
+      "de": [
+        "Wir nutzen Redis als Cache-Layer.",
+        "We use Redis as a cache layer."
+      ]
+    }
+  },
+  {
+    "word": "die Queue",
+    "translations": {
+      "en": "queue",
+      "de": "Warteschlange"
+    },
+    "explanation": {
+      "en": "A data structure for managing tasks or messages. Follows First-In-First-Out (FIFO) principle.",
+      "de": "Eine Datenstruktur zur Verwaltung von Aufgaben oder Nachrichten."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Jobs werden in eine Queue eingereiht.",
+        "Jobs are queued in a queue."
+      ],
+      "de": [
+        "Die Message-Queue verarbeitet Anfragen asynchron.",
+        "The message queue processes requests asynchronously."
+      ]
+    }
+  },
+  {
+    "word": "der Message Broker",
+    "translations": {
+      "en": "message broker",
+      "de": "Nachrichtenvermittler"
+    },
+    "explanation": {
+      "en": "Software that enables applications to communicate via messages. Examples: RabbitMQ, Kafka.",
+      "de": "Software, die es Anwendungen ermöglicht, über Nachrichten zu kommunizieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Message Broker entkoppelt die Services.",
+        "The message broker decouples the services."
+      ],
+      "de": [
+        "Wir verwenden RabbitMQ als Message Broker.",
+        "We use RabbitMQ as a message broker."
+      ]
+    }
+  },
+  {
+    "word": "das Event",
+    "translations": {
+      "en": "event",
+      "de": "Ereignis"
+    },
+    "explanation": {
+      "en": "An occurrence that triggers actions in software. In event-driven architecture, events drive the flow.",
+      "de": "Ein Vorfall, der Aktionen in Software auslöst."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Event löst mehrere Handler aus.",
+        "The event triggers multiple handlers."
+      ],
+      "de": [
+        "Wir bauen eine Event-getriebene Architektur.",
+        "We're building an event-driven architecture."
+      ]
+    }
+  },
+  {
+    "word": "der Webhook",
+    "translations": {
+      "en": "webhook",
+      "de": "Web-Callback"
+    },
+    "explanation": {
+      "en": "A callback triggered by an event. Allows real-time notifications between systems.",
+      "de": "Ein Callback, der durch ein Ereignis ausgelöst wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Webhook benachrichtigt uns bei Änderungen.",
+        "The webhook notifies us of changes."
+      ],
+      "de": [
+        "GitHub sendet einen Webhook bei jedem Push.",
+        "GitHub sends a webhook on every push."
+      ]
+    }
+  },
+  {
+    "word": "die Latenz",
+    "translations": {
+      "en": "latency",
+      "de": "Verzögerung"
+    },
+    "explanation": {
+      "en": "The delay between a request and response. Low latency is critical for good user experience.",
+      "de": "Die Verzögerung zwischen Anfrage und Antwort."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Latenz beträgt nur 50 Millisekunden.",
+        "The latency is only 50 milliseconds."
+      ],
+      "de": [
+        "Hohe Latenz führt zu schlechter Performance.",
+        "High latency leads to poor performance."
+      ]
+    }
+  },
+  {
+    "word": "der Throughput",
+    "translations": {
+      "en": "throughput",
+      "de": "Durchsatz"
+    },
+    "explanation": {
+      "en": "The amount of data processed in a given time. Measures system capacity and performance.",
+      "de": "Die Menge an Daten, die in einer bestimmten Zeit verarbeitet werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Throughput liegt bei 1000 Anfragen pro Sekunde.",
+        "The throughput is 1000 requests per second."
+      ],
+      "de": [
+        "Wir müssen den Throughput erhöhen.",
+        "We need to increase the throughput."
+      ]
+    }
   }
 ]
