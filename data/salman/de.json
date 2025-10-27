@@ -3456,5 +3456,727 @@
         "The train is slow."
       ]
     }
+  },
+  {
+    "word": "vergessen",
+    "translations": {
+      "ar": "نسي",
+      "de": "to forget"
+    },
+    "explanation": {
+      "ar": "عدم تذكر شيء ما؛ فقدان الذاكرة عن معلومة أو حدث.",
+      "de": "To not remember something; to lose memory of information or an event."
+    },
+    "conjugations": [
+      "vergessen",
+      "vergisst",
+      "vergaß",
+      "hat vergessen"
+    ],
+    "examples": {
+      "ar": [
+        "Ich habe meinen Schlüssel vergessen.",
+        "نسيت مفتاحي."
+      ],
+      "de": [
+        "Vergiss nicht die Hausaufgaben!",
+        "Don't forget the homework!"
+      ]
+    }
+  },
+  {
+    "word": "der Schlüssel",
+    "translations": {
+      "ar": "المفتاح",
+      "de": "key"
+    },
+    "explanation": {
+      "ar": "أداة معدنية لفتح وإغلاق الأبواب والأقفال.",
+      "de": "A metal tool for opening and closing doors and locks."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wo ist mein Schlüssel?",
+        "أين مفتاحي؟"
+      ],
+      "de": [
+        "Der Schlüssel liegt auf dem Tisch.",
+        "The key is on the table."
+      ]
+    }
+  },
+  {
+    "word": "die Tasche",
+    "translations": {
+      "ar": "الحقيبة",
+      "de": "bag, pocket"
+    },
+    "explanation": {
+      "ar": "حقيبة لحمل الأشياء؛ أو جيب في الملابس.",
+      "de": "A bag for carrying things; or a pocket in clothing."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Meine Tasche ist schwer.",
+        "حقيبتي ثقيلة."
+      ],
+      "de": [
+        "Ich habe Geld in der Tasche.",
+        "I have money in my pocket."
+      ]
+    }
+  },
+  {
+    "word": "die Uhr",
+    "translations": {
+      "ar": "الساعة (الجهاز)",
+      "de": "clock, watch"
+    },
+    "explanation": {
+      "ar": "جهاز لمعرفة الوقت؛ ساعة حائط أو ساعة يد.",
+      "de": "A device for telling time; a wall clock or wristwatch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Uhr zeigt 3 Uhr.",
+        "تُظهر الساعة الثالثة."
+      ],
+      "de": [
+        "Meine Uhr ist kaputt.",
+        "My watch is broken."
+      ]
+    }
+  },
+  {
+    "word": "die Zeit",
+    "translations": {
+      "ar": "الوقت، الزمن",
+      "de": "time"
+    },
+    "explanation": {
+      "ar": "مرور اللحظات والساعات والأيام؛ فترة زمنية.",
+      "de": "The passing of moments, hours, and days; a period."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe keine Zeit.",
+        "ليس لدي وقت."
+      ],
+      "de": [
+        "Die Zeit vergeht schnell.",
+        "Time passes quickly."
+      ]
+    }
+  },
+  {
+    "word": "der Baum",
+    "translations": {
+      "ar": "الشجرة",
+      "de": "tree"
+    },
+    "explanation": {
+      "ar": "نبات خشبي كبير بجذع وفروع وأوراق.",
+      "de": "A large woody plant with a trunk, branches, and leaves."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Baum ist sehr hoch.",
+        "الشجرة عالية جداً."
+      ],
+      "de": [
+        "Im Park gibt es viele Bäume.",
+        "There are many trees in the park."
+      ]
+    }
+  },
+  {
+    "word": "der Wald",
+    "translations": {
+      "ar": "الغابة",
+      "de": "forest"
+    },
+    "explanation": {
+      "ar": "منطقة كبيرة مغطاة بالأشجار.",
+      "de": "A large area covered with trees."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir gehen im Wald spazieren.",
+        "نمشي في الغابة."
+      ],
+      "de": [
+        "Der Wald ist grün und schön.",
+        "The forest is green and beautiful."
+      ]
+    }
+  },
+  {
+    "word": "der Berg",
+    "translations": {
+      "ar": "الجبل",
+      "de": "mountain"
+    },
+    "explanation": {
+      "ar": "ارتفاع طبيعي عالٍ جداً من الأرض.",
+      "de": "A very high natural elevation of land."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Berg ist hoch.",
+        "الجبل عالٍ."
+      ],
+      "de": [
+        "Wir wandern auf den Berg.",
+        "We hike up the mountain."
+      ]
+    }
+  },
+  {
+    "word": "das Meer",
+    "translations": {
+      "ar": "البحر",
+      "de": "sea"
+    },
+    "explanation": {
+      "ar": "مساحة كبيرة من المياه المالحة.",
+      "de": "A large area of salt water."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich liebe das Meer.",
+        "أحب البحر."
+      ],
+      "de": [
+        "Das Meer ist blau.",
+        "The sea is blue."
+      ]
+    }
+  },
+  {
+    "word": "der Fluss",
+    "translations": {
+      "ar": "النهر",
+      "de": "river"
+    },
+    "explanation": {
+      "ar": "مجرى مائي كبير يتدفق إلى البحر.",
+      "de": "A large flow of water that runs to the sea."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Fluss ist breit.",
+        "النهر عريض."
+      ],
+      "de": [
+        "Wir schwimmen im Fluss.",
+        "We swim in the river."
+      ]
+    }
+  },
+  {
+    "word": "glücklich",
+    "translations": {
+      "ar": "سعيد",
+      "de": "happy"
+    },
+    "explanation": {
+      "ar": "الشعور بالفرح والرضا.",
+      "de": "Feeling joy and contentment."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich bin sehr glücklich.",
+        "أنا سعيد جداً."
+      ],
+      "de": [
+        "Sie ist glücklich mit ihrem Leben.",
+        "She is happy with her life."
+      ]
+    }
+  },
+  {
+    "word": "traurig",
+    "translations": {
+      "ar": "حزين",
+      "de": "sad"
+    },
+    "explanation": {
+      "ar": "الشعور بالحزن أو عدم السعادة.",
+      "de": "Feeling unhappy or sorrowful."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Warum bist du traurig?",
+        "لماذا أنت حزين؟"
+      ],
+      "de": [
+        "Sie ist traurig wegen der Nachricht.",
+        "She is sad because of the news."
+      ]
+    }
+  },
+  {
+    "word": "müde",
+    "translations": {
+      "ar": "متعب",
+      "de": "tired"
+    },
+    "explanation": {
+      "ar": "الشعور بالحاجة إلى الراحة أو النوم.",
+      "de": "Feeling the need for rest or sleep."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich bin sehr müde.",
+        "أنا متعب جداً."
+      ],
+      "de": [
+        "Nach der Arbeit bin ich müde.",
+        "After work I am tired."
+      ]
+    }
+  },
+  {
+    "word": "zeigen",
+    "translations": {
+      "ar": "أظهر، أرى",
+      "de": "to show"
+    },
+    "explanation": {
+      "ar": "جعل شيء مرئياً؛ عرض شيء لشخص ما.",
+      "de": "To make something visible; to display something to someone."
+    },
+    "conjugations": [
+      "zeigen",
+      "zeigt",
+      "zeigte",
+      "hat gezeigt"
+    ],
+    "examples": {
+      "ar": [
+        "Kannst du mir den Weg zeigen?",
+        "هل يمكنك أن تريني الطريق؟"
+      ],
+      "de": [
+        "Ich zeige dir mein Foto.",
+        "I'll show you my photo."
+      ]
+    }
+  },
+  {
+    "word": "finden",
+    "translations": {
+      "ar": "وجد",
+      "de": "to find"
+    },
+    "explanation": {
+      "ar": "اكتشاف شيء؛ العثور على شيء بعد البحث.",
+      "de": "To discover something; to locate something after searching."
+    },
+    "conjugations": [
+      "finden",
+      "findet",
+      "fand",
+      "hat gefunden"
+    ],
+    "examples": {
+      "ar": [
+        "Ich kann meinen Schlüssel nicht finden.",
+        "لا أستطيع أن أجد مفتاحي."
+      ],
+      "de": [
+        "Hast du dein Handy gefunden?",
+        "Did you find your phone?"
+      ]
+    }
+  },
+  {
+    "word": "suchen",
+    "translations": {
+      "ar": "بحث عن",
+      "de": "to search, to look for"
+    },
+    "explanation": {
+      "ar": "محاولة العثور على شيء؛ البحث عن شيء.",
+      "de": "To try to find something; to search for something."
+    },
+    "conjugations": [
+      "suchen",
+      "sucht",
+      "suchte",
+      "hat gesucht"
+    ],
+    "examples": {
+      "ar": [
+        "Ich suche meine Brille.",
+        "أبحث عن نظارتي."
+      ],
+      "de": [
+        "Was suchst du?",
+        "What are you looking for?"
+      ]
+    }
+  },
+  {
+    "word": "erklären",
+    "translations": {
+      "ar": "شرح، فسّر",
+      "de": "to explain"
+    },
+    "explanation": {
+      "ar": "توضيح شيء؛ جعل شيء مفهوماً.",
+      "de": "To clarify something; to make something understood."
+    },
+    "conjugations": [
+      "erklären",
+      "erklärt",
+      "erklärte",
+      "hat erklärt"
+    ],
+    "examples": {
+      "ar": [
+        "Kannst du das bitte erklären?",
+        "هل يمكنك شرح ذلك من فضلك؟"
+      ],
+      "de": [
+        "Der Lehrer erklärt die Grammatik.",
+        "The teacher explains the grammar."
+      ]
+    }
+  },
+  {
+    "word": "verstehen",
+    "translations": {
+      "ar": "فهم",
+      "de": "to understand"
+    },
+    "explanation": {
+      "ar": "إدراك معنى شيء؛ الفهم.",
+      "de": "To grasp the meaning of something; to comprehend."
+    },
+    "conjugations": [
+      "verstehen",
+      "versteht",
+      "verstand",
+      "hat verstanden"
+    ],
+    "examples": {
+      "ar": [
+        "Ich verstehe dich nicht.",
+        "أنا لا أفهمك."
+      ],
+      "de": [
+        "Verstehst du die Frage?",
+        "Do you understand the question?"
+      ]
+    }
+  },
+  {
+    "word": "die Idee",
+    "translations": {
+      "ar": "الفكرة",
+      "de": "idea"
+    },
+    "explanation": {
+      "ar": "فكرة أو مفهوم؛ خطة أو اقتراح.",
+      "de": "A thought or concept; a plan or suggestion."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das ist eine gute Idee!",
+        "هذه فكرة جيدة!"
+      ],
+      "de": [
+        "Ich habe eine Idee.",
+        "I have an idea."
+      ]
+    }
+  },
+  {
+    "word": "die Meinung",
+    "translations": {
+      "ar": "الرأي",
+      "de": "opinion"
+    },
+    "explanation": {
+      "ar": "رأي أو وجهة نظر شخصية عن شيء ما.",
+      "de": "A personal view or judgment about something."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Was ist deine Meinung?",
+        "ما رأيك؟"
+      ],
+      "de": [
+        "Meiner Meinung nach ist das richtig.",
+        "In my opinion, that is correct."
+      ]
+    }
+  },
+  {
+    "word": "der Gedanke",
+    "translations": {
+      "ar": "الفكرة، الخاطرة",
+      "de": "thought"
+    },
+    "explanation": {
+      "ar": "فكرة في العقل؛ عملية التفكير.",
+      "de": "An idea in the mind; the process of thinking."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe einen Gedanken.",
+        "لدي فكرة."
+      ],
+      "de": [
+        "Das ist ein guter Gedanke.",
+        "That is a good thought."
+      ]
+    }
+  },
+  {
+    "word": "das Problem",
+    "translations": {
+      "ar": "المشكلة",
+      "de": "problem"
+    },
+    "explanation": {
+      "ar": "صعوبة أو مسألة تحتاج إلى حل.",
+      "de": "A difficulty or matter requiring a solution."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe ein Problem.",
+        "لدي مشكلة."
+      ],
+      "de": [
+        "Kein Problem!",
+        "No problem!"
+      ]
+    }
+  },
+  {
+    "word": "die Lösung",
+    "translations": {
+      "ar": "الحل",
+      "de": "solution"
+    },
+    "explanation": {
+      "ar": "إجابة أو حل لمشكلة.",
+      "de": "An answer or resolution to a problem."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir suchen eine Lösung.",
+        "نحن نبحث عن حل."
+      ],
+      "de": [
+        "Das ist die beste Lösung.",
+        "That is the best solution."
+      ]
+    }
+  },
+  {
+    "word": "der Fehler",
+    "translations": {
+      "ar": "الخطأ",
+      "de": "mistake, error"
+    },
+    "explanation": {
+      "ar": "خطأ أو شيء غير صحيح.",
+      "de": "A mistake or something incorrect."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe einen Fehler gemacht.",
+        "لقد ارتكبت خطأ."
+      ],
+      "de": [
+        "Das ist kein Fehler.",
+        "That is not a mistake."
+      ]
+    }
+  },
+  {
+    "word": "helfen",
+    "translations": {
+      "ar": "ساعد",
+      "de": "to help"
+    },
+    "explanation": {
+      "ar": "تقديم المساعدة أو الدعم لشخص ما.",
+      "de": "To provide assistance or support to someone."
+    },
+    "conjugations": [
+      "helfen",
+      "hilft",
+      "half",
+      "hat geholfen"
+    ],
+    "examples": {
+      "ar": [
+        "Kannst du mir helfen?",
+        "هل يمكنك مساعدتي؟"
+      ],
+      "de": [
+        "Ich helfe dir gerne.",
+        "I'm happy to help you."
+      ]
+    }
+  },
+  {
+    "word": "brauchen",
+    "translations": {
+      "ar": "احتاج",
+      "de": "to need"
+    },
+    "explanation": {
+      "ar": "الحاجة إلى شيء؛ طلب شيء ضروري.",
+      "de": "To need something; to require something necessary."
+    },
+    "conjugations": [
+      "brauchen",
+      "braucht",
+      "brauchte",
+      "hat gebraucht"
+    ],
+    "examples": {
+      "ar": [
+        "Ich brauche Hilfe.",
+        "أحتاج إلى مساعدة."
+      ],
+      "de": [
+        "Was brauchst du?",
+        "What do you need?"
+      ]
+    }
+  },
+  {
+    "word": "das Geld",
+    "translations": {
+      "ar": "المال، النقود",
+      "de": "money"
+    },
+    "explanation": {
+      "ar": "النقود أو العملة المستخدمة للشراء.",
+      "de": "Cash or currency used for purchasing."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe kein Geld.",
+        "ليس لدي نقود."
+      ],
+      "de": [
+        "Geld ist wichtig.",
+        "Money is important."
+      ]
+    }
+  },
+  {
+    "word": "die Sprache",
+    "translations": {
+      "ar": "اللغة",
+      "de": "language"
+    },
+    "explanation": {
+      "ar": "نظام الاتصال المستخدم من قبل مجموعة من الناس.",
+      "de": "A system of communication used by a group of people."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Welche Sprache sprichst du?",
+        "أي لغة تتحدث؟"
+      ],
+      "de": [
+        "Deutsch ist eine schwierige Sprache.",
+        "German is a difficult language."
+      ]
+    }
+  },
+  {
+    "word": "das Land",
+    "translations": {
+      "ar": "البلد، الدولة",
+      "de": "country"
+    },
+    "explanation": {
+      "ar": "دولة أو أمة؛ منطقة جغرافية.",
+      "de": "A nation or state; a geographical area."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Aus welchem Land kommst du?",
+        "من أي بلد أنت؟"
+      ],
+      "de": [
+        "Deutschland ist ein schönes Land.",
+        "Germany is a beautiful country."
+      ]
+    }
+  },
+  {
+    "word": "die Stadt",
+    "translations": {
+      "ar": "المدينة",
+      "de": "city"
+    },
+    "explanation": {
+      "ar": "منطقة حضرية كبيرة بها العديد من الناس والمباني.",
+      "de": "A large urban area with many people and buildings."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich wohne in der Stadt.",
+        "أنا أعيش في المدينة."
+      ],
+      "de": [
+        "Die Stadt ist groß.",
+        "The city is big."
+      ]
+    }
+  },
+  {
+    "word": "das Dorf",
+    "translations": {
+      "ar": "القرية",
+      "de": "village"
+    },
+    "explanation": {
+      "ar": "مستوطنة صغيرة في الريف.",
+      "de": "A small settlement in the countryside."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Meine Oma wohnt im Dorf.",
+        "جدتي تعيش في القرية."
+      ],
+      "de": [
+        "Das Dorf ist ruhig.",
+        "The village is quiet."
+      ]
+    }
   }
 ]
