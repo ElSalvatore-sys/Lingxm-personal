@@ -97,7 +97,7 @@ export const PROFILES = {
       {
         code: 'de',
         name: 'German',
-        level: 'B2',
+        level: 'B2-C1',
         dailyWords: 10,
         flag: '🇩🇪'
       },
@@ -127,7 +127,7 @@ export const PROFILES = {
       {
         code: 'de',
         name: 'German',
-        level: 'B1-B2',
+        level: 'C1',
         dailyWords: 10,
         flag: '🇩🇪'
       },
@@ -150,7 +150,7 @@ export const PROFILES = {
       {
         code: 'en',
         name: 'English',
-        level: 'A2-B1',
+        level: 'B2-C1',
         dailyWords: 10,
         flag: '🇬🇧'
       }
