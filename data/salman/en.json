@@ -1,0 +1,4018 @@
+[
+  {
+    "word": "hello",
+    "translations": {
+      "ar": "مرحباً",
+      "de": "Hallo"
+    },
+    "explanation": {
+      "ar": "تحية عامة للقاء شخص. التحية الأكثر شيوعاً.",
+      "de": "Allgemeine Begrüßung. Die häufigste Begrüßung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hello, how are you?",
+        "مرحباً، كيف حالك؟"
+      ],
+      "de": [
+        "Hello, nice to meet you.",
+        "Hallo, schön dich kennenzulernen."
+      ]
+    }
+  },
+  {
+    "word": "goodbye",
+    "translations": {
+      "ar": "وداعاً",
+      "de": "Auf Wiedersehen, Tschüss"
+    },
+    "explanation": {
+      "ar": "وداع عند المغادرة. تعبير شائع.",
+      "de": "Abschiedsgruß. Üblicher Ausdruck."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Goodbye, see you tomorrow.",
+        "وداعاً، أراك غداً."
+      ],
+      "de": [
+        "Goodbye, have a nice day.",
+        "Tschüss, schönen Tag noch."
+      ]
+    }
+  },
+  {
+    "word": "please",
+    "translations": {
+      "ar": "من فضلك",
+      "de": "bitte"
+    },
+    "explanation": {
+      "ar": "كلمة أدب عند الطلب. أساسية في التواصل المهذب.",
+      "de": "Höflichkeitswort beim Bitten. Grundlegend für höfliche Kommunikation."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Can I have a coffee, please?",
+        "هل يمكنني الحصول على قهوة من فضلك؟"
+      ],
+      "de": [
+        "Please help me.",
+        "Bitte hilf mir."
+      ]
+    }
+  },
+  {
+    "word": "thank you",
+    "translations": {
+      "ar": "شكراً لك",
+      "de": "Danke"
+    },
+    "explanation": {
+      "ar": "تعبير عن الشكر. ضروري في التفاعلات اليومية.",
+      "de": "Ausdruck des Dankes. Notwendig in täglichen Interaktionen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Thank you very much for your help.",
+        "شكراً جزيلاً على مساعدتك."
+      ],
+      "de": [
+        "Thank you for coming.",
+        "Danke fürs Kommen."
+      ]
+    }
+  },
+  {
+    "word": "sorry",
+    "translations": {
+      "ar": "آسف، معذرة",
+      "de": "Entschuldigung, tut mir leid"
+    },
+    "explanation": {
+      "ar": "اعتذار عن خطأ أو لطلب الانتباه. مهم في التواصل.",
+      "de": "Entschuldigung für einen Fehler oder um Aufmerksamkeit zu erbitten. Wichtig in der Kommunikation."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm sorry, I don't understand.",
+        "آسف، أنا لا أفهم."
+      ],
+      "de": [
+        "Sorry for being late.",
+        "Entschuldigung für die Verspätung."
+      ]
+    }
+  },
+  {
+    "word": "yes",
+    "translations": {
+      "ar": "نعم",
+      "de": "ja"
+    },
+    "explanation": {
+      "ar": "كلمة للإيجاب والموافقة. أساسية جداً.",
+      "de": "Wort für Zustimmung. Sehr grundlegend."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Yes, I agree.",
+        "نعم، أنا أوافق."
+      ],
+      "de": [
+        "Yes, that's correct.",
+        "Ja, das ist richtig."
+      ]
+    }
+  },
+  {
+    "word": "no",
+    "translations": {
+      "ar": "لا",
+      "de": "nein"
+    },
+    "explanation": {
+      "ar": "كلمة للنفي والرفض. أساسية جداً.",
+      "de": "Wort für Ablehnung. Sehr grundlegend."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "No, I can't come today.",
+        "لا، لا أستطيع الحضور اليوم."
+      ],
+      "de": [
+        "No, thank you.",
+        "Nein, danke."
+      ]
+    }
+  },
+  {
+    "word": "excuse me",
+    "translations": {
+      "ar": "عفواً، لو سمحت",
+      "de": "Entschuldigung, darf ich"
+    },
+    "explanation": {
+      "ar": "تعبير لطلب الانتباه أو المرور. مهذب وضروري.",
+      "de": "Ausdruck, um Aufmerksamkeit zu erbitten oder zu passieren. Höflich und notwendig."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Excuse me, where is the bathroom?",
+        "عفواً، أين الحمام؟"
+      ],
+      "de": [
+        "Excuse me, can I ask a question?",
+        "Entschuldigung, darf ich eine Frage stellen?"
+      ]
+    }
+  },
+  {
+    "word": "help",
+    "translations": {
+      "ar": "مساعدة، يساعد",
+      "de": "Hilfe, helfen"
+    },
+    "explanation": {
+      "ar": "مساعدة شخص أو طلب المساعدة. كلمة مهمة في الحياة اليومية.",
+      "de": "Jemandem helfen oder um Hilfe bitten. Wichtiges Wort im Alltag."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitive",
+        "value": "help"
+      },
+      {
+        "form": "Past",
+        "value": "helped"
+      },
+      {
+        "form": "Past Participle",
+        "value": "helped"
+      },
+      {
+        "form": "-ing form",
+        "value": "helping"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Can you help me, please?",
+        "هل يمكنك مساعدتي من فضلك؟"
+      ],
+      "de": [
+        "I need help with this.",
+        "Ich brauche Hilfe damit."
+      ]
+    }
+  },
+  {
+    "word": "work",
+    "translations": {
+      "ar": "عمل، يعمل",
+      "de": "Arbeit, arbeiten"
+    },
+    "explanation": {
+      "ar": "الوظيفة أو النشاط المهني. فعل مهم للحياة اليومية.",
+      "de": "Beruf oder berufliche Tätigkeit. Wichtiges Verb für den Alltag."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitive",
+        "value": "work"
+      },
+      {
+        "form": "Past",
+        "value": "worked"
+      },
+      {
+        "form": "Past Participle",
+        "value": "worked"
+      },
+      {
+        "form": "-ing form",
+        "value": "working"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "I work in a restaurant.",
+        "أعمل في مطعم."
+      ],
+      "de": [
+        "She works from Monday to Friday.",
+        "Sie arbeitet von Montag bis Freitag."
+      ]
+    }
+  },
+  {
+    "word": "job",
+    "translations": {
+      "ar": "وظيفة",
+      "de": "Job, Stelle"
+    },
+    "explanation": {
+      "ar": "عمل منتظم للحصول على دخل. كلمة أساسية.",
+      "de": "Regelmäßige Arbeit für Einkommen. Grundlegendes Wort."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have a new job.",
+        "لدي وظيفة جديدة."
+      ],
+      "de": [
+        "I'm looking for a job.",
+        "Ich suche eine Stelle."
+      ]
+    }
+  },
+  {
+    "word": "time",
+    "translations": {
+      "ar": "الوقت، الزمن",
+      "de": "Zeit"
+    },
+    "explanation": {
+      "ar": "الوقت أو الساعة. مفهوم أساسي.",
+      "de": "Zeit oder Uhrzeit. Grundlegendes Konzept."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "What time is it?",
+        "كم الساعة؟"
+      ],
+      "de": [
+        "I don't have time today.",
+        "Ich habe heute keine Zeit."
+      ]
+    }
+  },
+  {
+    "word": "day",
+    "translations": {
+      "ar": "يوم",
+      "de": "Tag"
+    },
+    "explanation": {
+      "ar": "فترة 24 ساعة. وحدة زمنية أساسية.",
+      "de": "24-Stunden-Zeitraum. Grundlegende Zeiteinheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Have a nice day!",
+        "يوم سعيد!"
+      ],
+      "de": [
+        "I work every day.",
+        "Ich arbeite jeden Tag."
+      ]
+    }
+  },
+  {
+    "word": "week",
+    "translations": {
+      "ar": "أسبوع",
+      "de": "Woche"
+    },
+    "explanation": {
+      "ar": "سبعة أيام. وحدة زمنية.",
+      "de": "Sieben Tage. Zeiteinheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I work five days a week.",
+        "أعمل خمسة أيام في الأسبوع."
+      ],
+      "de": [
+        "Next week I have a holiday.",
+        "Nächste Woche habe ich Urlaub."
+      ]
+    }
+  },
+  {
+    "word": "month",
+    "translations": {
+      "ar": "شهر",
+      "de": "Monat"
+    },
+    "explanation": {
+      "ar": "فترة حوالي 30 يوماً. وحدة زمنية.",
+      "de": "Zeitraum von etwa 30 Tagen. Zeiteinheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I started last month.",
+        "بدأت الشهر الماضي."
+      ],
+      "de": [
+        "January is the first month.",
+        "Januar ist der erste Monat."
+      ]
+    }
+  },
+  {
+    "word": "year",
+    "translations": {
+      "ar": "سنة، عام",
+      "de": "Jahr"
+    },
+    "explanation": {
+      "ar": "فترة 12 شهراً أو 365 يوماً. وحدة زمنية.",
+      "de": "12 Monate oder 365 Tage. Zeiteinheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Happy New Year!",
+        "سنة سعيدة!"
+      ],
+      "de": [
+        "I've been working here for two years.",
+        "Ich arbeite hier seit zwei Jahren."
+      ]
+    }
+  },
+  {
+    "word": "today",
+    "translations": {
+      "ar": "اليوم",
+      "de": "heute"
+    },
+    "explanation": {
+      "ar": "هذا اليوم، الآن. ظرف زمان مهم.",
+      "de": "Dieser Tag, jetzt. Wichtiges Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Today is Monday.",
+        "اليوم هو الإثنين."
+      ],
+      "de": [
+        "I'm working today.",
+        "Ich arbeite heute."
+      ]
+    }
+  },
+  {
+    "word": "tomorrow",
+    "translations": {
+      "ar": "غداً",
+      "de": "morgen"
+    },
+    "explanation": {
+      "ar": "اليوم الذي يلي اليوم. ظرف زمان.",
+      "de": "Der Tag nach heute. Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "See you tomorrow!",
+        "أراك غداً!"
+      ],
+      "de": [
+        "Tomorrow I have a meeting.",
+        "Morgen habe ich ein Treffen."
+      ]
+    }
+  },
+  {
+    "word": "yesterday",
+    "translations": {
+      "ar": "أمس",
+      "de": "gestern"
+    },
+    "explanation": {
+      "ar": "اليوم الذي قبل اليوم. ظرف زمان.",
+      "de": "Der Tag vor heute. Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I worked yesterday.",
+        "عملت أمس."
+      ],
+      "de": [
+        "Yesterday was Sunday.",
+        "Gestern war Sonntag."
+      ]
+    }
+  },
+  {
+    "word": "now",
+    "translations": {
+      "ar": "الآن",
+      "de": "jetzt"
+    },
+    "explanation": {
+      "ar": "في هذه اللحظة، حالياً. ظرف زمان مهم.",
+      "de": "In diesem Moment, gerade. Wichtiges Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm busy now.",
+        "أنا مشغول الآن."
+      ],
+      "de": [
+        "We need to go now.",
+        "Wir müssen jetzt gehen."
+      ]
+    }
+  },
+  {
+    "word": "later",
+    "translations": {
+      "ar": "لاحقاً، فيما بعد",
+      "de": "später"
+    },
+    "explanation": {
+      "ar": "في وقت لاحق، ليس الآن. ظرف زمان.",
+      "de": "Zu einem späteren Zeitpunkt, nicht jetzt. Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'll call you later.",
+        "سأتصل بك لاحقاً."
+      ],
+      "de": [
+        "See you later!",
+        "Bis später!"
+      ]
+    }
+  },
+  {
+    "word": "soon",
+    "translations": {
+      "ar": "قريباً",
+      "de": "bald"
+    },
+    "explanation": {
+      "ar": "في المستقبل القريب. ظرف زمان.",
+      "de": "In naher Zukunft. Zeitadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Dinner will be ready soon.",
+        "العشاء سيكون جاهزاً قريباً."
+      ],
+      "de": [
+        "I'll be there soon.",
+        "Ich werde bald da sein."
+      ]
+    }
+  },
+  {
+    "word": "always",
+    "translations": {
+      "ar": "دائماً",
+      "de": "immer"
+    },
+    "explanation": {
+      "ar": "في كل الأوقات، بشكل مستمر. ظرف تكرار.",
+      "de": "Zu allen Zeiten, ständig. Häufigkeitsadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "She always arrives on time.",
+        "هي تصل دائماً في الوقت المحدد."
+      ],
+      "de": [
+        "I always drink coffee in the morning.",
+        "Ich trinke immer Kaffee am Morgen."
+      ]
+    }
+  },
+  {
+    "word": "never",
+    "translations": {
+      "ar": "أبداً",
+      "de": "nie, niemals"
+    },
+    "explanation": {
+      "ar": "في لا وقت، ليس أبداً. نفي كامل.",
+      "de": "Zu keiner Zeit. Vollständige Verneinung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I never eat meat.",
+        "أنا لا آكل اللحم أبداً."
+      ],
+      "de": [
+        "She never forgets.",
+        "Sie vergisst nie."
+      ]
+    }
+  },
+  {
+    "word": "sometimes",
+    "translations": {
+      "ar": "أحياناً",
+      "de": "manchmal"
+    },
+    "explanation": {
+      "ar": "في بعض الأوقات، ليس دائماً. ظرف تكرار.",
+      "de": "Zu manchen Zeiten, nicht immer. Häufigkeitsadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Sometimes I work late.",
+        "أحياناً أعمل متأخراً."
+      ],
+      "de": [
+        "I sometimes go to the gym.",
+        "Ich gehe manchmal ins Fitnessstudio."
+      ]
+    }
+  },
+  {
+    "word": "often",
+    "translations": {
+      "ar": "غالباً، كثيراً",
+      "de": "oft"
+    },
+    "explanation": {
+      "ar": "بشكل متكرر. ظرف تكرار.",
+      "de": "Häufig. Häufigkeitsadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I often eat at this restaurant.",
+        "أنا آكل غالباً في هذا المطعم."
+      ],
+      "de": [
+        "He often travels for work.",
+        "Er reist oft beruflich."
+      ]
+    }
+  },
+  {
+    "word": "here",
+    "translations": {
+      "ar": "هنا",
+      "de": "hier"
+    },
+    "explanation": {
+      "ar": "في هذا المكان. ظرف مكان أساسي.",
+      "de": "An diesem Ort. Grundlegendes Ortsadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Come here, please.",
+        "تعال هنا من فضلك."
+      ],
+      "de": [
+        "I live here.",
+        "Ich wohne hier."
+      ]
+    }
+  },
+  {
+    "word": "there",
+    "translations": {
+      "ar": "هناك",
+      "de": "dort, da"
+    },
+    "explanation": {
+      "ar": "في ذلك المكان. ظرف مكان أساسي.",
+      "de": "An jenem Ort. Grundlegendes Ortsadverb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "The restaurant is over there.",
+        "المطعم هناك."
+      ],
+      "de": [
+        "Put it there, please.",
+        "Leg es dort hin, bitte."
+      ]
+    }
+  },
+  {
+    "word": "where",
+    "translations": {
+      "ar": "أين",
+      "de": "wo"
+    },
+    "explanation": {
+      "ar": "سؤال عن المكان. أداة استفهام مهمة.",
+      "de": "Frage nach dem Ort. Wichtiges Fragewort."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Where is the bathroom?",
+        "أين الحمام؟"
+      ],
+      "de": [
+        "Where do you live?",
+        "Wo wohnst du?"
+      ]
+    }
+  },
+  {
+    "word": "when",
+    "translations": {
+      "ar": "متى",
+      "de": "wann"
+    },
+    "explanation": {
+      "ar": "سؤال عن الوقت. أداة استفهام مهمة.",
+      "de": "Frage nach der Zeit. Wichtiges Fragewort."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "When do you start work?",
+        "متى تبدأ العمل؟"
+      ],
+      "de": [
+        "When is the meeting?",
+        "Wann ist das Treffen?"
+      ]
+    }
+  },
+  {
+    "word": "why",
+    "translations": {
+      "ar": "لماذا",
+      "de": "warum"
+    },
+    "explanation": {
+      "ar": "سؤال عن السبب. أداة استفهام.",
+      "de": "Frage nach dem Grund. Fragewort."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Why are you late?",
+        "لماذا تأخرت؟"
+      ],
+      "de": [
+        "Why not?",
+        "Warum nicht?"
+      ]
+    }
+  },
+  {
+    "word": "what",
+    "translations": {
+      "ar": "ما، ماذا",
+      "de": "was"
+    },
+    "explanation": {
+      "ar": "سؤال عن الشيء أو المعلومات.",
+      "de": "Frage nach Dingen oder Informationen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "What is your name?",
+        "ما اسمك؟"
+      ],
+      "de": [
+        "What time is it?",
+        "Wie spät ist es?"
+      ]
+    }
+  },
+  {
+    "word": "who",
+    "translations": {
+      "ar": "من",
+      "de": "wer"
+    },
+    "explanation": {
+      "ar": "سؤال عن الشخص.",
+      "de": "Frage nach der Person."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Who is that?",
+        "من ذاك؟"
+      ],
+      "de": [
+        "Who are you?",
+        "Wer bist du?"
+      ]
+    }
+  },
+  {
+    "word": "how",
+    "translations": {
+      "ar": "كيف",
+      "de": "wie"
+    },
+    "explanation": {
+      "ar": "سؤال عن الطريقة أو الحال.",
+      "de": "Frage nach der Art oder dem Zustand."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "How are you?",
+        "كيف حالك؟"
+      ],
+      "de": [
+        "How do you spell that?",
+        "Wie buchstabiert man das?"
+      ]
+    }
+  },
+  {
+    "word": "work",
+    "translations": {
+      "ar": "عمل، يعمل",
+      "de": "Arbeit, arbeiten"
+    },
+    "explanation": {
+      "ar": "الوظيفة أو النشاط المهني.",
+      "de": "Beruf oder berufliche Tätigkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I work in a restaurant.",
+        "أعمل في مطعم."
+      ],
+      "de": [
+        "She works every day.",
+        "Sie arbeitet jeden Tag."
+      ]
+    }
+  },
+  {
+    "word": "job",
+    "translations": {
+      "ar": "وظيفة",
+      "de": "Job, Stelle"
+    },
+    "explanation": {
+      "ar": "عمل منتظم للحصول على دخل.",
+      "de": "Regelmäßige Arbeit für Einkommen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have a new job.",
+        "لدي وظيفة جديدة."
+      ],
+      "de": [
+        "I'm looking for a job.",
+        "Ich suche eine Stelle."
+      ]
+    }
+  },
+  {
+    "word": "time",
+    "translations": {
+      "ar": "الوقت",
+      "de": "Zeit"
+    },
+    "explanation": {
+      "ar": "الوقت أو الساعة.",
+      "de": "Zeit oder Uhrzeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "What time is it?",
+        "كم الساعة؟"
+      ],
+      "de": [
+        "I don't have time.",
+        "Ich habe keine Zeit."
+      ]
+    }
+  },
+  {
+    "word": "day",
+    "translations": {
+      "ar": "يوم",
+      "de": "Tag"
+    },
+    "explanation": {
+      "ar": "فترة 24 ساعة.",
+      "de": "24-Stunden-Zeitraum."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Have a nice day!",
+        "يوم سعيد!"
+      ],
+      "de": [
+        "I work every day.",
+        "Ich arbeite jeden Tag."
+      ]
+    }
+  },
+  {
+    "word": "today",
+    "translations": {
+      "ar": "اليوم",
+      "de": "heute"
+    },
+    "explanation": {
+      "ar": "هذا اليوم.",
+      "de": "Dieser Tag."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Today is Monday.",
+        "اليوم هو الإثنين."
+      ],
+      "de": [
+        "I'm working today.",
+        "Ich arbeite heute."
+      ]
+    }
+  },
+  {
+    "word": "tomorrow",
+    "translations": {
+      "ar": "غداً",
+      "de": "morgen"
+    },
+    "explanation": {
+      "ar": "اليوم الذي يلي اليوم.",
+      "de": "Der Tag nach heute."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "See you tomorrow!",
+        "أراك غداً!"
+      ],
+      "de": [
+        "Tomorrow I have a meeting.",
+        "Morgen habe ich ein Treffen."
+      ]
+    }
+  },
+  {
+    "word": "yesterday",
+    "translations": {
+      "ar": "أمس",
+      "de": "gestern"
+    },
+    "explanation": {
+      "ar": "اليوم الذي قبل اليوم.",
+      "de": "Der Tag vor heute."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I worked yesterday.",
+        "عملت أمس."
+      ],
+      "de": [
+        "Yesterday was Sunday.",
+        "Gestern war Sonntag."
+      ]
+    }
+  },
+  {
+    "word": "family",
+    "translations": {
+      "ar": "عائلة",
+      "de": "Familie"
+    },
+    "explanation": {
+      "ar": "الآباء والأبناء والأقارب.",
+      "de": "Eltern, Kinder und Verwandte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My family lives in Berlin.",
+        "عائلتي تعيش في برلين."
+      ],
+      "de": [
+        "I have a big family.",
+        "Ich habe eine große Familie."
+      ]
+    }
+  },
+  {
+    "word": "mother",
+    "translations": {
+      "ar": "أم",
+      "de": "Mutter"
+    },
+    "explanation": {
+      "ar": "الوالدة.",
+      "de": "Die Mutter."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My mother cooks well.",
+        "أمي تطبخ جيداً."
+      ],
+      "de": [
+        "I call my mother every week.",
+        "Ich rufe meine Mutter jede Woche an."
+      ]
+    }
+  },
+  {
+    "word": "father",
+    "translations": {
+      "ar": "أب",
+      "de": "Vater"
+    },
+    "explanation": {
+      "ar": "الوالد.",
+      "de": "Der Vater."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My father works in a bank.",
+        "أبي يعمل في بنك."
+      ],
+      "de": [
+        "I help my father.",
+        "Ich helfe meinem Vater."
+      ]
+    }
+  },
+  {
+    "word": "child",
+    "translations": {
+      "ar": "طفل",
+      "de": "Kind"
+    },
+    "explanation": {
+      "ar": "ولد أو بنت صغير.",
+      "de": "Junge oder Mädchen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have two children.",
+        "لدي طفلان."
+      ],
+      "de": [
+        "The child is sleeping.",
+        "Das Kind schläft."
+      ]
+    }
+  },
+  {
+    "word": "friend",
+    "translations": {
+      "ar": "صديق",
+      "de": "Freund"
+    },
+    "explanation": {
+      "ar": "شخص تحبه وتستمتع بوقتك معه.",
+      "de": "Person, die man mag."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "She is my best friend.",
+        "هي أفضل صديقة لي."
+      ],
+      "de": [
+        "I meet my friends on weekends.",
+        "Ich treffe meine Freunde am Wochenende."
+      ]
+    }
+  },
+  {
+    "word": "man",
+    "translations": {
+      "ar": "رجل",
+      "de": "Mann"
+    },
+    "explanation": {
+      "ar": "شخص بالغ ذكر.",
+      "de": "Erwachsene männliche Person."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "That man is my teacher.",
+        "ذلك الرجل هو معلمي."
+      ],
+      "de": [
+        "Two men are working.",
+        "رجلان يعملان."
+      ]
+    }
+  },
+  {
+    "word": "woman",
+    "translations": {
+      "ar": "امرأة",
+      "de": "Frau"
+    },
+    "explanation": {
+      "ar": "شخص بالغ أنثى.",
+      "de": "Erwachsene weibliche Person."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "That woman is my boss.",
+        "تلك المرأة هي مديرتي."
+      ],
+      "de": [
+        "The woman is reading.",
+        "المرأة تقرأ."
+      ]
+    }
+  },
+  {
+    "word": "eat",
+    "translations": {
+      "ar": "يأكل",
+      "de": "essen"
+    },
+    "explanation": {
+      "ar": "تناول الطعام.",
+      "de": "Nahrung zu sich nehmen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I eat breakfast at 7.",
+        "آكل الفطور في السابعة."
+      ],
+      "de": [
+        "Let's eat!",
+        "Lass uns essen!"
+      ]
+    }
+  },
+  {
+    "word": "drink",
+    "translations": {
+      "ar": "يشرب",
+      "de": "trinken"
+    },
+    "explanation": {
+      "ar": "شرب السوائل.",
+      "de": "Flüssigkeiten trinken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I drink water every day.",
+        "أشرب ماء كل يوم."
+      ],
+      "de": [
+        "What would you like to drink?",
+        "Was möchtest du trinken?"
+      ]
+    }
+  },
+  {
+    "word": "food",
+    "translations": {
+      "ar": "طعام",
+      "de": "Essen, Lebensmittel"
+    },
+    "explanation": {
+      "ar": "الطعام الذي نأكله.",
+      "de": "Das Essen, das wir essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "German food is delicious.",
+        "الطعام الألماني لذيذ."
+      ],
+      "de": [
+        "I love Italian food.",
+        "Ich liebe italienisches Essen."
+      ]
+    }
+  },
+  {
+    "word": "water",
+    "translations": {
+      "ar": "ماء",
+      "de": "Wasser"
+    },
+    "explanation": {
+      "ar": "سائل نشربه للحياة.",
+      "de": "Flüssigkeit, die wir zum Leben trinken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Can I have some water?",
+        "هل يمكنني الحصول على ماء؟"
+      ],
+      "de": [
+        "I drink water every day.",
+        "Ich trinke jeden Tag Wasser."
+      ]
+    }
+  },
+  {
+    "word": "coffee",
+    "translations": {
+      "ar": "قهوة",
+      "de": "Kaffee"
+    },
+    "explanation": {
+      "ar": "مشروب ساخن شائع.",
+      "de": "Beliebtes heißes Getränk."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I drink coffee in the morning.",
+        "أشرب القهوة في الصباح."
+      ],
+      "de": [
+        "A cup of coffee, please.",
+        "Eine Tasse Kaffee, bitte."
+      ]
+    }
+  },
+  {
+    "word": "tea",
+    "translations": {
+      "ar": "شاي",
+      "de": "Tee"
+    },
+    "explanation": {
+      "ar": "مشروب ساخن من أوراق الشاي.",
+      "de": "Heißgetränk aus Teeblättern."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I prefer tea to coffee.",
+        "أفضل الشاي على القهوة."
+      ],
+      "de": [
+        "Would you like some tea?",
+        "Möchtest du etwas Tee?"
+      ]
+    }
+  },
+  {
+    "word": "bread",
+    "translations": {
+      "ar": "خبز",
+      "de": "Brot"
+    },
+    "explanation": {
+      "ar": "طعام أساسي من الدقيق.",
+      "de": "Grundnahrungsmittel aus Mehl."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I eat bread for breakfast.",
+        "آكل الخبز على الفطور."
+      ],
+      "de": [
+        "Fresh bread is delicious.",
+        "Frisches Brot ist lecker."
+      ]
+    }
+  },
+  {
+    "word": "money",
+    "translations": {
+      "ar": "نقود، مال",
+      "de": "Geld"
+    },
+    "explanation": {
+      "ar": "ما نستخدمه للشراء.",
+      "de": "Was wir zum Kaufen benutzen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I don't have much money.",
+        "ليس لدي مال كثير."
+      ],
+      "de": [
+        "Money is important.",
+        "Geld ist wichtig."
+      ]
+    }
+  },
+  {
+    "word": "house",
+    "translations": {
+      "ar": "بيت، منزل",
+      "de": "Haus"
+    },
+    "explanation": {
+      "ar": "المكان الذي نعيش فيه.",
+      "de": "Der Ort, wo wir leben."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I live in a small house.",
+        "أعيش في بيت صغير."
+      ],
+      "de": [
+        "My house is near the city.",
+        "Mein Haus ist nahe der Stadt."
+      ]
+    }
+  },
+  {
+    "word": "home",
+    "translations": {
+      "ar": "البيت، الوطن",
+      "de": "Zuhause, Heim"
+    },
+    "explanation": {
+      "ar": "المكان الذي تعيش فيه، له معنى عاطفي.",
+      "de": "Der Ort, wo man lebt, mit emotionaler Bedeutung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm going home.",
+        "أنا ذاهب إلى البيت."
+      ],
+      "de": [
+        "Welcome home!",
+        "Willkommen zuhause!"
+      ]
+    }
+  },
+  {
+    "word": "room",
+    "translations": {
+      "ar": "غرفة",
+      "de": "Zimmer, Raum"
+    },
+    "explanation": {
+      "ar": "مساحة داخل المنزل.",
+      "de": "Raum innerhalb des Hauses."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "This is my room.",
+        "هذه غرفتي."
+      ],
+      "de": [
+        "The room is clean.",
+        "Das Zimmer ist sauber."
+      ]
+    }
+  },
+  {
+    "word": "kitchen",
+    "translations": {
+      "ar": "مطبخ",
+      "de": "Küche"
+    },
+    "explanation": {
+      "ar": "الغرفة حيث نطبخ.",
+      "de": "Der Raum, wo wir kochen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I cook in the kitchen.",
+        "أطبخ في المطبخ."
+      ],
+      "de": [
+        "The kitchen is big.",
+        "Die Küche ist groß."
+      ]
+    }
+  },
+  {
+    "word": "bathroom",
+    "translations": {
+      "ar": "حمام",
+      "de": "Badezimmer"
+    },
+    "explanation": {
+      "ar": "الغرفة للاستحمام والمرحاض.",
+      "de": "Der Raum zum Duschen und für die Toilette."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Where is the bathroom?",
+        "أين الحمام؟"
+      ],
+      "de": [
+        "The bathroom is upstairs.",
+        "Das Badezimmer ist oben."
+      ]
+    }
+  },
+  {
+    "word": "bedroom",
+    "translations": {
+      "ar": "غرفة نوم",
+      "de": "Schlafzimmer"
+    },
+    "explanation": {
+      "ar": "الغرفة للنوم.",
+      "de": "Der Raum zum Schlafen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I sleep in my bedroom.",
+        "أنام في غرفة نومي."
+      ],
+      "de": [
+        "The bedroom is quiet.",
+        "Das Schlafzimmer ist ruhig."
+      ]
+    }
+  },
+  {
+    "word": "door",
+    "translations": {
+      "ar": "باب",
+      "de": "Tür"
+    },
+    "explanation": {
+      "ar": "المدخل إلى الغرفة أو المنزل.",
+      "de": "Eingang zu Raum oder Haus."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Please close the door.",
+        "من فضلك أغلق الباب."
+      ],
+      "de": [
+        "The door is open.",
+        "Die Tür ist offen."
+      ]
+    }
+  },
+  {
+    "word": "window",
+    "translations": {
+      "ar": "نافذة",
+      "de": "Fenster"
+    },
+    "explanation": {
+      "ar": "فتحة في الجدار للضوء والهواء.",
+      "de": "Öffnung in der Wand für Licht und Luft."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Open the window, please.",
+        "افتح النافذة من فضلك."
+      ],
+      "de": [
+        "I look out the window.",
+        "Ich schaue aus dem Fenster."
+      ]
+    }
+  },
+  {
+    "word": "street",
+    "translations": {
+      "ar": "شارع",
+      "de": "Straße"
+    },
+    "explanation": {
+      "ar": "طريق في المدينة.",
+      "de": "Weg in der Stadt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I live on this street.",
+        "أعيش في هذا الشارع."
+      ],
+      "de": [
+        "The street is busy.",
+        "Die Straße ist belebt."
+      ]
+    }
+  },
+  {
+    "word": "city",
+    "translations": {
+      "ar": "مدينة",
+      "de": "Stadt"
+    },
+    "explanation": {
+      "ar": "مكان كبير بكثير من الناس والمباني.",
+      "de": "Großer Ort mit vielen Menschen und Gebäuden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Berlin is a big city.",
+        "برلين مدينة كبيرة."
+      ],
+      "de": [
+        "I live in the city.",
+        "Ich wohne in der Stadt."
+      ]
+    }
+  },
+  {
+    "word": "country",
+    "translations": {
+      "ar": "بلد، دولة",
+      "de": "Land"
+    },
+    "explanation": {
+      "ar": "دولة أو أمة.",
+      "de": "Staat oder Nation."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Germany is a beautiful country.",
+        "ألمانيا بلد جميل."
+      ],
+      "de": [
+        "Which country are you from?",
+        "Aus welchem Land kommst du?"
+      ]
+    }
+  },
+  {
+    "word": "school",
+    "translations": {
+      "ar": "مدرسة",
+      "de": "Schule"
+    },
+    "explanation": {
+      "ar": "مكان للتعلم.",
+      "de": "Ort zum Lernen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My children go to school.",
+        "أطفالي يذهبون إلى المدرسة."
+      ],
+      "de": [
+        "School starts at 8.",
+        "Die Schule beginnt um 8."
+      ]
+    }
+  },
+  {
+    "word": "hospital",
+    "translations": {
+      "ar": "مستشفى",
+      "de": "Krankenhaus"
+    },
+    "explanation": {
+      "ar": "مكان لعلاج المرضى.",
+      "de": "Ort zur Behandlung von Kranken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "She works in a hospital.",
+        "هي تعمل في مستشفى."
+      ],
+      "de": [
+        "The hospital is nearby.",
+        "Das Krankenhaus ist in der Nähe."
+      ]
+    }
+  },
+  {
+    "word": "shop",
+    "translations": {
+      "ar": "متجر، محل",
+      "de": "Geschäft, Laden"
+    },
+    "explanation": {
+      "ar": "مكان لشراء الأشياء.",
+      "de": "Ort zum Kaufen von Dingen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I go to the shop.",
+        "أذهب إلى المتجر."
+      ],
+      "de": [
+        "The shop is closed.",
+        "Das Geschäft ist geschlossen."
+      ]
+    }
+  },
+  {
+    "word": "restaurant",
+    "translations": {
+      "ar": "مطعم",
+      "de": "Restaurant"
+    },
+    "explanation": {
+      "ar": "مكان لتناول الطعام.",
+      "de": "Ort zum Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I work in a restaurant.",
+        "أعمل في مطعم."
+      ],
+      "de": [
+        "This restaurant is good.",
+        "Dieses Restaurant ist gut."
+      ]
+    }
+  },
+  {
+    "word": "bank",
+    "translations": {
+      "ar": "بنك",
+      "de": "Bank"
+    },
+    "explanation": {
+      "ar": "مكان لحفظ النقود.",
+      "de": "Ort zum Aufbewahren von Geld."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I go to the bank.",
+        "أذهب إلى البنك."
+      ],
+      "de": [
+        "The bank is open.",
+        "Die Bank ist geöffnet."
+      ]
+    }
+  },
+  {
+    "word": "office",
+    "translations": {
+      "ar": "مكتب",
+      "de": "Büro"
+    },
+    "explanation": {
+      "ar": "مكان للعمل.",
+      "de": "Ort zum Arbeiten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I work in an office.",
+        "أعمل في مكتب."
+      ],
+      "de": [
+        "My office is in the city.",
+        "Mein Büro ist in der Stadt."
+      ]
+    }
+  },
+  {
+    "word": "station",
+    "translations": {
+      "ar": "محطة",
+      "de": "Bahnhof, Station"
+    },
+    "explanation": {
+      "ar": "مكان للقطارات أو الحافلات.",
+      "de": "Ort für Züge oder Busse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "The train station is near.",
+        "محطة القطار قريبة."
+      ],
+      "de": [
+        "I wait at the station.",
+        "Ich warte am Bahnhof."
+      ]
+    }
+  },
+  {
+    "word": "bus",
+    "translations": {
+      "ar": "حافلة، أوتوبيس",
+      "de": "Bus"
+    },
+    "explanation": {
+      "ar": "وسيلة نقل عامة كبيرة.",
+      "de": "Großes öffentliches Verkehrsmittel."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I take the bus to work.",
+        "آخذ الحافلة إلى العمل."
+      ],
+      "de": [
+        "The bus is late.",
+        "Der Bus ist spät."
+      ]
+    }
+  },
+  {
+    "word": "train",
+    "translations": {
+      "ar": "قطار",
+      "de": "Zug"
+    },
+    "explanation": {
+      "ar": "وسيلة نقل على سكة حديد.",
+      "de": "Verkehrsmittel auf Schienen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I travel by train.",
+        "أسافر بالقطار."
+      ],
+      "de": [
+        "The train is fast.",
+        "Der Zug ist schnell."
+      ]
+    }
+  },
+  {
+    "word": "car",
+    "translations": {
+      "ar": "سيارة",
+      "de": "Auto"
+    },
+    "explanation": {
+      "ar": "وسيلة نقل خاصة.",
+      "de": "Privates Verkehrsmittel."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have a car.",
+        "لدي سيارة."
+      ],
+      "de": [
+        "My car is new.",
+        "Mein Auto ist neu."
+      ]
+    }
+  },
+  {
+    "word": "phone",
+    "translations": {
+      "ar": "هاتف",
+      "de": "Telefon"
+    },
+    "explanation": {
+      "ar": "جهاز للاتصال.",
+      "de": "Gerät zum Anrufen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Can I use your phone?",
+        "هل يمكنني استخدام هاتفك؟"
+      ],
+      "de": [
+        "My phone is ringing.",
+        "Mein Telefon klingelt."
+      ]
+    }
+  },
+  {
+    "word": "computer",
+    "translations": {
+      "ar": "حاسوب، كمبيوتر",
+      "de": "Computer"
+    },
+    "explanation": {
+      "ar": "جهاز إلكتروني للعمل.",
+      "de": "Elektronisches Gerät für Arbeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I use a computer at work.",
+        "أستخدم حاسوباً في العمل."
+      ],
+      "de": [
+        "My computer is slow.",
+        "Mein Computer ist langsam."
+      ]
+    }
+  },
+  {
+    "word": "book",
+    "translations": {
+      "ar": "كتاب",
+      "de": "Buch"
+    },
+    "explanation": {
+      "ar": "مجموعة من الصفحات للقراءة.",
+      "de": "Sammlung von Seiten zum Lesen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I read a book.",
+        "أقرأ كتاباً."
+      ],
+      "de": [
+        "This is a good book.",
+        "Dies ist ein gutes Buch."
+      ]
+    }
+  },
+  {
+    "word": "table",
+    "translations": {
+      "ar": "طاولة",
+      "de": "Tisch"
+    },
+    "explanation": {
+      "ar": "أثاث للأكل أو العمل.",
+      "de": "Möbel zum Essen oder Arbeiten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "The food is on the table.",
+        "الطعام على الطاولة."
+      ],
+      "de": [
+        "Sit at the table.",
+        "Setz dich an den Tisch."
+      ]
+    }
+  },
+  {
+    "word": "chair",
+    "translations": {
+      "ar": "كرسي",
+      "de": "Stuhl"
+    },
+    "explanation": {
+      "ar": "أثاث للجلوس.",
+      "de": "Möbel zum Sitzen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Sit on the chair.",
+        "اجلس على الكرسي."
+      ],
+      "de": [
+        "I need a chair.",
+        "Ich brauche einen Stuhl."
+      ]
+    }
+  },
+  {
+    "word": "bed",
+    "translations": {
+      "ar": "سرير",
+      "de": "Bett"
+    },
+    "explanation": {
+      "ar": "أثاث للنوم.",
+      "de": "Möbel zum Schlafen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I go to bed at 10.",
+        "أذهب إلى السرير في العاشرة."
+      ],
+      "de": [
+        "The bed is comfortable.",
+        "Das Bett ist bequem."
+      ]
+    }
+  },
+  {
+    "word": "clothes",
+    "translations": {
+      "ar": "ملابس",
+      "de": "Kleidung"
+    },
+    "explanation": {
+      "ar": "ما نرتديه.",
+      "de": "Was wir tragen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I need new clothes.",
+        "أحتاج ملابس جديدة."
+      ],
+      "de": [
+        "These clothes are clean.",
+        "Diese Kleidung ist sauber."
+      ]
+    }
+  },
+  {
+    "word": "shirt",
+    "translations": {
+      "ar": "قميص",
+      "de": "Hemd"
+    },
+    "explanation": {
+      "ar": "ملابس للجزء العلوي.",
+      "de": "Kleidung für den Oberkörper."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I wear a white shirt.",
+        "أرتدي قميصاً أبيض."
+      ],
+      "de": [
+        "This shirt is nice.",
+        "Dieses Hemd ist schön."
+      ]
+    }
+  },
+  {
+    "word": "shoes",
+    "translations": {
+      "ar": "أحذية",
+      "de": "Schuhe"
+    },
+    "explanation": {
+      "ar": "ما نرتديه للقدمين.",
+      "de": "Was wir an den Füßen tragen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My shoes are old.",
+        "أحذيتي قديمة."
+      ],
+      "de": [
+        "I need new shoes.",
+        "Ich brauche neue Schuhe."
+      ]
+    }
+  },
+  {
+    "word": "color",
+    "translations": {
+      "ar": "لون",
+      "de": "Farbe"
+    },
+    "explanation": {
+      "ar": "اللون مثل أحمر أو أزرق.",
+      "de": "Farbe wie rot oder blau."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "What color do you like?",
+        "أي لون تحب؟"
+      ],
+      "de": [
+        "My favorite color is blue.",
+        "Meine Lieblingsfarbe ist blau."
+      ]
+    }
+  },
+  {
+    "word": "red",
+    "translations": {
+      "ar": "أحمر",
+      "de": "rot"
+    },
+    "explanation": {
+      "ar": "لون الدم.",
+      "de": "Farbe des Blutes."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have a red car.",
+        "لدي سيارة حمراء."
+      ],
+      "de": [
+        "The apple is red.",
+        "Der Apfel ist rot."
+      ]
+    }
+  },
+  {
+    "word": "blue",
+    "translations": {
+      "ar": "أزرق",
+      "de": "blau"
+    },
+    "explanation": {
+      "ar": "لون السماء.",
+      "de": "Farbe des Himmels."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "The sky is blue.",
+        "السماء زرقاء."
+      ],
+      "de": [
+        "I like blue.",
+        "Ich mag blau."
+      ]
+    }
+  },
+  {
+    "word": "white",
+    "translations": {
+      "ar": "أبيض",
+      "de": "weiß"
+    },
+    "explanation": {
+      "ar": "لون الثلج.",
+      "de": "Farbe des Schnees."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "White shirt.",
+        "قميص أبيض."
+      ],
+      "de": [
+        "The wall is white.",
+        "Die Wand ist weiß."
+      ]
+    }
+  },
+  {
+    "word": "black",
+    "translations": {
+      "ar": "أسود",
+      "de": "schwarz"
+    },
+    "explanation": {
+      "ar": "لون الليل.",
+      "de": "Farbe der Nacht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Black shoes.",
+        "أحذية سوداء."
+      ],
+      "de": [
+        "I wear black.",
+        "Ich trage Schwarz."
+      ]
+    }
+  },
+  {
+    "word": "green",
+    "translations": {
+      "ar": "أخضر",
+      "de": "grün"
+    },
+    "explanation": {
+      "ar": "لون الأشجار.",
+      "de": "Farbe der Bäume."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Green vegetables.",
+        "خضروات خضراء."
+      ],
+      "de": [
+        "The grass is green.",
+        "Das Gras ist grün."
+      ]
+    }
+  },
+  {
+    "word": "big",
+    "translations": {
+      "ar": "كبير",
+      "de": "groß"
+    },
+    "explanation": {
+      "ar": "حجم كبير.",
+      "de": "Große Größe."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A big house.",
+        "بيت كبير."
+      ],
+      "de": [
+        "Berlin is big.",
+        "Berlin ist groß."
+      ]
+    }
+  },
+  {
+    "word": "small",
+    "translations": {
+      "ar": "صغير",
+      "de": "klein"
+    },
+    "explanation": {
+      "ar": "حجم صغير.",
+      "de": "Kleine Größe."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A small car.",
+        "سيارة صغيرة."
+      ],
+      "de": [
+        "The room is small.",
+        "Das Zimmer ist klein."
+      ]
+    }
+  },
+  {
+    "word": "good",
+    "translations": {
+      "ar": "جيد",
+      "de": "gut"
+    },
+    "explanation": {
+      "ar": "شيء إيجابي أو ممتاز.",
+      "de": "Etwas Positives oder Ausgezeichnetes."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good food.",
+        "طعام جيد."
+      ],
+      "de": [
+        "This is good.",
+        "Das ist gut."
+      ]
+    }
+  },
+  {
+    "word": "bad",
+    "translations": {
+      "ar": "سيء",
+      "de": "schlecht"
+    },
+    "explanation": {
+      "ar": "شيء سلبي.",
+      "de": "Etwas Negatives."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bad weather.",
+        "طقس سيء."
+      ],
+      "de": [
+        "This is bad.",
+        "Das ist schlecht."
+      ]
+    }
+  },
+  {
+    "word": "new",
+    "translations": {
+      "ar": "جديد",
+      "de": "neu"
+    },
+    "explanation": {
+      "ar": "ليس قديماً.",
+      "de": "Nicht alt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "New shoes.",
+        "أحذية جديدة."
+      ],
+      "de": [
+        "I have a new job.",
+        "Ich habe einen neuen Job."
+      ]
+    }
+  },
+  {
+    "word": "old",
+    "translations": {
+      "ar": "قديم",
+      "de": "alt"
+    },
+    "explanation": {
+      "ar": "ليس جديداً.",
+      "de": "Nicht neu."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Old house.",
+        "بيت قديم."
+      ],
+      "de": [
+        "My car is old.",
+        "Mein Auto ist alt."
+      ]
+    }
+  },
+  {
+    "word": "hot",
+    "translations": {
+      "ar": "ساخن، حار",
+      "de": "heiß"
+    },
+    "explanation": {
+      "ar": "درجة حرارة عالية.",
+      "de": "Hohe Temperatur."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hot coffee.",
+        "قهوة ساخنة."
+      ],
+      "de": [
+        "It's hot today.",
+        "Es ist heiß heute."
+      ]
+    }
+  },
+  {
+    "word": "cold",
+    "translations": {
+      "ar": "بارد",
+      "de": "kalt"
+    },
+    "explanation": {
+      "ar": "درجة حرارة منخفضة.",
+      "de": "Niedrige Temperatur."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Cold water.",
+        "ماء بارد."
+      ],
+      "de": [
+        "It's cold outside.",
+        "Es ist kalt draußen."
+      ]
+    }
+  },
+  {
+    "word": "nice",
+    "translations": {
+      "ar": "لطيف، جميل",
+      "de": "schön, nett"
+    },
+    "explanation": {
+      "ar": "شيء ممتع أو جميل.",
+      "de": "Etwas Angenehmes oder Schönes."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Nice weather.",
+        "طقس جميل."
+      ],
+      "de": [
+        "Have a nice day!",
+        "Schönen Tag!"
+      ]
+    }
+  },
+  {
+    "word": "happy",
+    "translations": {
+      "ar": "سعيد",
+      "de": "glücklich"
+    },
+    "explanation": {
+      "ar": "شعور بالسعادة.",
+      "de": "Gefühl des Glücks."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm happy.",
+        "أنا سعيد."
+      ],
+      "de": [
+        "She looks happy.",
+        "Sie sieht glücklich aus."
+      ]
+    }
+  },
+  {
+    "word": "sad",
+    "translations": {
+      "ar": "حزين",
+      "de": "traurig"
+    },
+    "explanation": {
+      "ar": "شعور بالحزن.",
+      "de": "Gefühl der Traurigkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm sad.",
+        "أنا حزين."
+      ],
+      "de": [
+        "He looks sad.",
+        "Er sieht traurig aus."
+      ]
+    }
+  },
+  {
+    "word": "tired",
+    "translations": {
+      "ar": "متعب",
+      "de": "müde"
+    },
+    "explanation": {
+      "ar": "يحتاج إلى راحة.",
+      "de": "Braucht Ruhe."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm tired.",
+        "أنا متعب."
+      ],
+      "de": [
+        "She is tired.",
+        "Sie ist müde."
+      ]
+    }
+  },
+  {
+    "word": "easy",
+    "translations": {
+      "ar": "سهل",
+      "de": "einfach, leicht"
+    },
+    "explanation": {
+      "ar": "ليس صعباً.",
+      "de": "Nicht schwierig."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "It's easy.",
+        "إنه سهل."
+      ],
+      "de": [
+        "This is easy.",
+        "Das ist einfach."
+      ]
+    }
+  },
+  {
+    "word": "hard / difficult",
+    "translations": {
+      "ar": "صعب",
+      "de": "schwer, schwierig"
+    },
+    "explanation": {
+      "ar": "ليس سهلاً.",
+      "de": "Nicht einfach."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "It's difficult.",
+        "إنه صعب."
+      ],
+      "de": [
+        "This is hard.",
+        "Das ist schwer."
+      ]
+    }
+  },
+  {
+    "word": "fast",
+    "translations": {
+      "ar": "سريع",
+      "de": "schnell"
+    },
+    "explanation": {
+      "ar": "بسرعة عالية.",
+      "de": "Mit hoher Geschwindigkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Fast car.",
+        "سيارة سريعة."
+      ],
+      "de": [
+        "The train is fast.",
+        "Der Zug ist schnell."
+      ]
+    }
+  },
+  {
+    "word": "slow",
+    "translations": {
+      "ar": "بطيء",
+      "de": "langsam"
+    },
+    "explanation": {
+      "ar": "بسرعة منخفضة.",
+      "de": "Mit niedriger Geschwindigkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Slow bus.",
+        "حافلة بطيئة."
+      ],
+      "de": [
+        "The car is slow.",
+        "Das Auto ist langsam."
+      ]
+    }
+  },
+  {
+    "word": "long",
+    "translations": {
+      "ar": "طويل",
+      "de": "lang"
+    },
+    "explanation": {
+      "ar": "مسافة أو وقت طويل.",
+      "de": "Lange Distanz oder Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Long street.",
+        "شارع طويل."
+      ],
+      "de": [
+        "It's a long day.",
+        "Es ist ein langer Tag."
+      ]
+    }
+  },
+  {
+    "word": "short",
+    "translations": {
+      "ar": "قصير",
+      "de": "kurz"
+    },
+    "explanation": {
+      "ar": "مسافة أو وقت قصير.",
+      "de": "Kurze Distanz oder Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Short break.",
+        "استراحة قصيرة."
+      ],
+      "de": [
+        "A short walk.",
+        "Ein kurzer Spaziergang."
+      ]
+    }
+  },
+  {
+    "word": "young",
+    "translations": {
+      "ar": "شاب، صغير السن",
+      "de": "jung"
+    },
+    "explanation": {
+      "ar": "عمر قليل.",
+      "de": "Geringes Alter."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Young person.",
+        "شخص شاب."
+      ],
+      "de": [
+        "I'm still young.",
+        "Ich bin noch jung."
+      ]
+    }
+  },
+  {
+    "word": "expensive",
+    "translations": {
+      "ar": "غالي، مكلف",
+      "de": "teuer"
+    },
+    "explanation": {
+      "ar": "سعره عالٍ.",
+      "de": "Hoher Preis."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Expensive car.",
+        "سيارة غالية."
+      ],
+      "de": [
+        "This is expensive.",
+        "Das ist teuer."
+      ]
+    }
+  },
+  {
+    "word": "cheap",
+    "translations": {
+      "ar": "رخيص",
+      "de": "billig, günstig"
+    },
+    "explanation": {
+      "ar": "سعره منخفض.",
+      "de": "Niedriger Preis."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Cheap food.",
+        "طعام رخيص."
+      ],
+      "de": [
+        "This is cheap.",
+        "Das ist billig."
+      ]
+    }
+  },
+  {
+    "word": "one",
+    "translations": {
+      "ar": "واحد",
+      "de": "eins"
+    },
+    "explanation": {
+      "ar": "الرقم 1.",
+      "de": "Die Zahl 1."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have one brother.",
+        "لدي أخ واحد."
+      ],
+      "de": [
+        "One coffee, please.",
+        "Ein Kaffee, bitte."
+      ]
+    }
+  },
+  {
+    "word": "two",
+    "translations": {
+      "ar": "اثنان",
+      "de": "zwei"
+    },
+    "explanation": {
+      "ar": "الرقم 2.",
+      "de": "Die Zahl 2."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Two children.",
+        "طفلان."
+      ],
+      "de": [
+        "I need two chairs.",
+        "Ich brauche zwei Stühle."
+      ]
+    }
+  },
+  {
+    "word": "three",
+    "translations": {
+      "ar": "ثلاثة",
+      "de": "drei"
+    },
+    "explanation": {
+      "ar": "الرقم 3.",
+      "de": "Die Zahl 3."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Three days.",
+        "ثلاثة أيام."
+      ],
+      "de": [
+        "I have three sisters.",
+        "Ich habe drei Schwestern."
+      ]
+    }
+  },
+  {
+    "word": "make",
+    "translations": {
+      "ar": "يصنع",
+      "de": "machen"
+    },
+    "explanation": {
+      "ar": "صنع شيء.",
+      "de": "Etwas herstellen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I make dinner.",
+        "أصنع العشاء."
+      ],
+      "de": [
+        "She makes cakes.",
+        "Sie macht Kuchen."
+      ]
+    }
+  },
+  {
+    "word": "take",
+    "translations": {
+      "ar": "يأخذ",
+      "de": "nehmen"
+    },
+    "explanation": {
+      "ar": "أخذ شيء.",
+      "de": "Etwas nehmen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Take this.",
+        "خذ هذا."
+      ],
+      "de": [
+        "I take the bus.",
+        "Ich nehme den Bus."
+      ]
+    }
+  },
+  {
+    "word": "give",
+    "translations": {
+      "ar": "يعطي",
+      "de": "geben"
+    },
+    "explanation": {
+      "ar": "إعطاء شيء.",
+      "de": "Etwas geben."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Give me water.",
+        "أعطني ماء."
+      ],
+      "de": [
+        "I give her a gift.",
+        "Ich gebe ihr ein Geschenk."
+      ]
+    }
+  },
+  {
+    "word": "find",
+    "translations": {
+      "ar": "يجد",
+      "de": "finden"
+    },
+    "explanation": {
+      "ar": "إيجاد شيء.",
+      "de": "Etwas finden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I can't find my keys.",
+        "لا أستطيع إيجاد مفاتيحي."
+      ],
+      "de": [
+        "Did you find it?",
+        "Hast du es gefunden?"
+      ]
+    }
+  },
+  {
+    "word": "tell",
+    "translations": {
+      "ar": "يخبر، يقول",
+      "de": "sagen, erzählen"
+    },
+    "explanation": {
+      "ar": "إخبار شخص بشيء.",
+      "de": "Jemandem etwas sagen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Tell me the truth.",
+        "أخبرني الحقيقة."
+      ],
+      "de": [
+        "Can you tell me?",
+        "Kannst du mir sagen?"
+      ]
+    }
+  },
+  {
+    "word": "ask",
+    "translations": {
+      "ar": "يسأل",
+      "de": "fragen"
+    },
+    "explanation": {
+      "ar": "طرح سؤال.",
+      "de": "Eine Frage stellen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Can I ask a question?",
+        "هل يمكنني طرح سؤال؟"
+      ],
+      "de": [
+        "Ask the teacher.",
+        "Frag den Lehrer."
+      ]
+    }
+  },
+  {
+    "word": "call",
+    "translations": {
+      "ar": "يتصل، ينادي",
+      "de": "anrufen, rufen"
+    },
+    "explanation": {
+      "ar": "الاتصال بالهاتف أو النداء.",
+      "de": "Telefonieren oder rufen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Call me tomorrow.",
+        "اتصل بي غداً."
+      ],
+      "de": [
+        "I'll call you.",
+        "Ich rufe dich an."
+      ]
+    }
+  },
+  {
+    "word": "wait",
+    "translations": {
+      "ar": "ينتظر",
+      "de": "warten"
+    },
+    "explanation": {
+      "ar": "الانتظار.",
+      "de": "Warten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wait here, please.",
+        "انتظر هنا من فضلك."
+      ],
+      "de": [
+        "I wait for the bus.",
+        "Ich warte auf den Bus."
+      ]
+    }
+  },
+  {
+    "word": "start",
+    "translations": {
+      "ar": "يبدأ",
+      "de": "anfangen, beginnen"
+    },
+    "explanation": {
+      "ar": "البدء بشيء.",
+      "de": "Mit etwas beginnen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Let's start.",
+        "لنبدأ."
+      ],
+      "de": [
+        "Work starts at 9.",
+        "Die Arbeit beginnt um 9."
+      ]
+    }
+  },
+  {
+    "word": "stop",
+    "translations": {
+      "ar": "يتوقف",
+      "de": "aufhören, stoppen"
+    },
+    "explanation": {
+      "ar": "التوقف عن شيء.",
+      "de": "Mit etwas aufhören."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Stop here.",
+        "توقف هنا."
+      ],
+      "de": [
+        "The bus stops.",
+        "Der Bus hält."
+      ]
+    }
+  },
+  {
+    "word": "try",
+    "translations": {
+      "ar": "يحاول",
+      "de": "versuchen"
+    },
+    "explanation": {
+      "ar": "المحاولة.",
+      "de": "Versuchen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Try this.",
+        "جرب هذا."
+      ],
+      "de": [
+        "I try my best.",
+        "Ich versuche mein Bestes."
+      ]
+    }
+  },
+  {
+    "word": "buy",
+    "translations": {
+      "ar": "يشتري",
+      "de": "kaufen"
+    },
+    "explanation": {
+      "ar": "الشراء.",
+      "de": "Kaufen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I buy food.",
+        "أشتري طعاماً."
+      ],
+      "de": [
+        "She buys clothes.",
+        "Sie kauft Kleidung."
+      ]
+    }
+  },
+  {
+    "word": "pay",
+    "translations": {
+      "ar": "يدفع",
+      "de": "bezahlen"
+    },
+    "explanation": {
+      "ar": "الدفع.",
+      "de": "Bezahlen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Can I pay by card?",
+        "هل يمكنني الدفع بالبطاقة؟"
+      ],
+      "de": [
+        "I pay the bill.",
+        "Ich bezahle die Rechnung."
+      ]
+    }
+  },
+  {
+    "word": "open",
+    "translations": {
+      "ar": "يفتح، مفتوح",
+      "de": "öffnen, offen"
+    },
+    "explanation": {
+      "ar": "فتح شيء أو مفتوح.",
+      "de": "Etwas öffnen oder offen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Open the door.",
+        "افتح الباب."
+      ],
+      "de": [
+        "The shop is open.",
+        "Das Geschäft ist offen."
+      ]
+    }
+  },
+  {
+    "word": "close",
+    "translations": {
+      "ar": "يغلق، مغلق",
+      "de": "schließen, geschlossen"
+    },
+    "explanation": {
+      "ar": "إغلاق شيء أو مغلق.",
+      "de": "Etwas schließen oder geschlossen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Close the window.",
+        "أغلق النافذة."
+      ],
+      "de": [
+        "The bank is closed.",
+        "Die Bank ist geschlossen."
+      ]
+    }
+  },
+  {
+    "word": "live",
+    "translations": {
+      "ar": "يعيش",
+      "de": "wohnen, leben"
+    },
+    "explanation": {
+      "ar": "العيش في مكان.",
+      "de": "An einem Ort wohnen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I live in Berlin.",
+        "أعيش في برلين."
+      ],
+      "de": [
+        "Where do you live?",
+        "Wo wohnst du?"
+      ]
+    }
+  },
+  {
+    "word": "stay",
+    "translations": {
+      "ar": "يبقى، يمكث",
+      "de": "bleiben"
+    },
+    "explanation": {
+      "ar": "البقاء في مكان.",
+      "de": "An einem Ort bleiben."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Stay here.",
+        "ابقَ هنا."
+      ],
+      "de": [
+        "I stay at home.",
+        "Ich bleibe zuhause."
+      ]
+    }
+  },
+  {
+    "word": "leave",
+    "translations": {
+      "ar": "يغادر، يترك",
+      "de": "verlassen, gehen"
+    },
+    "explanation": {
+      "ar": "المغادرة.",
+      "de": "Weggehen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I leave at 5.",
+        "أغادر في الخامسة."
+      ],
+      "de": [
+        "Don't leave!",
+        "Geh nicht!"
+      ]
+    }
+  },
+  {
+    "word": "arrive",
+    "translations": {
+      "ar": "يصل",
+      "de": "ankommen"
+    },
+    "explanation": {
+      "ar": "الوصول.",
+      "de": "Ankommen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I arrive at 8.",
+        "أصل في الثامنة."
+      ],
+      "de": [
+        "The train arrives soon.",
+        "Der Zug kommt bald an."
+      ]
+    }
+  },
+  {
+    "word": "walk",
+    "translations": {
+      "ar": "يمشي",
+      "de": "gehen, laufen"
+    },
+    "explanation": {
+      "ar": "المشي.",
+      "de": "Zu Fuß gehen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I walk to work.",
+        "أمشي إلى العمل."
+      ],
+      "de": [
+        "Let's walk.",
+        "Lass uns gehen."
+      ]
+    }
+  },
+  {
+    "word": "run",
+    "translations": {
+      "ar": "يركض، يجري",
+      "de": "laufen, rennen"
+    },
+    "explanation": {
+      "ar": "الركض.",
+      "de": "Rennen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I run every morning.",
+        "أركض كل صباح."
+      ],
+      "de": [
+        "Run fast!",
+        "Lauf schnell!"
+      ]
+    }
+  },
+  {
+    "word": "sit",
+    "translations": {
+      "ar": "يجلس",
+      "de": "sitzen"
+    },
+    "explanation": {
+      "ar": "الجلوس.",
+      "de": "Sitzen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Sit down, please.",
+        "اجلس من فضلك."
+      ],
+      "de": [
+        "I sit on the chair.",
+        "Ich sitze auf dem Stuhl."
+      ]
+    }
+  },
+  {
+    "word": "stand",
+    "translations": {
+      "ar": "يقف",
+      "de": "stehen"
+    },
+    "explanation": {
+      "ar": "الوقوف.",
+      "de": "Stehen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Stand up.",
+        "قف."
+      ],
+      "de": [
+        "I stand here.",
+        "Ich stehe hier."
+      ]
+    }
+  },
+  {
+    "word": "sleep",
+    "translations": {
+      "ar": "ينام",
+      "de": "schlafen"
+    },
+    "explanation": {
+      "ar": "النوم.",
+      "de": "Schlafen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I sleep at 10.",
+        "أنام في العاشرة."
+      ],
+      "de": [
+        "Good sleep!",
+        "Schlaf gut!"
+      ]
+    }
+  },
+  {
+    "word": "wake up",
+    "translations": {
+      "ar": "يستيقظ",
+      "de": "aufwachen"
+    },
+    "explanation": {
+      "ar": "الاستيقاظ من النوم.",
+      "de": "Vom Schlaf aufwachen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I wake up at 7.",
+        "أستيقظ في السابعة."
+      ],
+      "de": [
+        "Wake up!",
+        "Wach auf!"
+      ]
+    }
+  },
+  {
+    "word": "get up",
+    "translations": {
+      "ar": "ينهض، يقوم",
+      "de": "aufstehen"
+    },
+    "explanation": {
+      "ar": "النهوض من السرير.",
+      "de": "Aus dem Bett aufstehen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I get up early.",
+        "أنهض مبكراً."
+      ],
+      "de": [
+        "Get up!",
+        "Steh auf!"
+      ]
+    }
+  },
+  {
+    "word": "morning",
+    "translations": {
+      "ar": "صباح",
+      "de": "Morgen"
+    },
+    "explanation": {
+      "ar": "الفترة الأولى من اليوم.",
+      "de": "Erster Teil des Tages."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good morning!",
+        "صباح الخير!"
+      ],
+      "de": [
+        "I work in the morning.",
+        "Ich arbeite am Morgen."
+      ]
+    }
+  },
+  {
+    "word": "afternoon",
+    "translations": {
+      "ar": "بعد الظهر",
+      "de": "Nachmittag"
+    },
+    "explanation": {
+      "ar": "الفترة بعد الظهر.",
+      "de": "Zeit nach Mittag."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good afternoon!",
+        "مساء الخير!"
+      ],
+      "de": [
+        "I'm free this afternoon.",
+        "Ich bin heute Nachmittag frei."
+      ]
+    }
+  },
+  {
+    "word": "evening",
+    "translations": {
+      "ar": "مساء",
+      "de": "Abend"
+    },
+    "explanation": {
+      "ar": "الفترة المسائية.",
+      "de": "Abendzeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good evening!",
+        "مساء الخير!"
+      ],
+      "de": [
+        "See you this evening.",
+        "Bis heute Abend."
+      ]
+    }
+  },
+  {
+    "word": "night",
+    "translations": {
+      "ar": "ليل",
+      "de": "Nacht"
+    },
+    "explanation": {
+      "ar": "الوقت المظلم.",
+      "de": "Dunkle Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good night!",
+        "تصبح على خير!"
+      ],
+      "de": [
+        "I work at night.",
+        "Ich arbeite nachts."
+      ]
+    }
+  },
+  {
+    "word": "hour",
+    "translations": {
+      "ar": "ساعة (زمن)",
+      "de": "Stunde"
+    },
+    "explanation": {
+      "ar": "60 دقيقة.",
+      "de": "60 Minuten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "One hour.",
+        "ساعة واحدة."
+      ],
+      "de": [
+        "I work 8 hours.",
+        "Ich arbeite 8 Stunden."
+      ]
+    }
+  },
+  {
+    "word": "minute",
+    "translations": {
+      "ar": "دقيقة",
+      "de": "Minute"
+    },
+    "explanation": {
+      "ar": "60 ثانية.",
+      "de": "60 Sekunden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wait a minute.",
+        "انتظر دقيقة."
+      ],
+      "de": [
+        "Five minutes.",
+        "Fünf Minuten."
+      ]
+    }
+  },
+  {
+    "word": "early",
+    "translations": {
+      "ar": "مبكر",
+      "de": "früh"
+    },
+    "explanation": {
+      "ar": "قبل الوقت المعتاد.",
+      "de": "Vor der üblichen Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm early.",
+        "أنا مبكر."
+      ],
+      "de": [
+        "Come early.",
+        "Komm früh."
+      ]
+    }
+  },
+  {
+    "word": "late",
+    "translations": {
+      "ar": "متأخر",
+      "de": "spät"
+    },
+    "explanation": {
+      "ar": "بعد الوقت المحدد.",
+      "de": "Nach der geplanten Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I'm late.",
+        "أنا متأخر."
+      ],
+      "de": [
+        "Don't be late.",
+        "Komm nicht zu spät."
+      ]
+    }
+  },
+  {
+    "word": "same",
+    "translations": {
+      "ar": "نفس، مماثل",
+      "de": "gleich, derselbe"
+    },
+    "explanation": {
+      "ar": "متطابق.",
+      "de": "Identisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "The same size.",
+        "نفس الحجم."
+      ],
+      "de": [
+        "Same time tomorrow.",
+        "Gleiche Zeit morgen."
+      ]
+    }
+  },
+  {
+    "word": "different",
+    "translations": {
+      "ar": "مختلف",
+      "de": "anders, verschieden"
+    },
+    "explanation": {
+      "ar": "غير متطابق.",
+      "de": "Nicht gleich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Different color.",
+        "لون مختلف."
+      ],
+      "de": [
+        "We are different.",
+        "Wir sind verschieden."
+      ]
+    }
+  },
+  {
+    "word": "right",
+    "translations": {
+      "ar": "صحيح، يمين",
+      "de": "richtig, rechts"
+    },
+    "explanation": {
+      "ar": "صحيح أو الجهة اليمنى.",
+      "de": "Richtig oder rechte Seite."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "That's right.",
+        "هذا صحيح."
+      ],
+      "de": [
+        "Turn right.",
+        "Biege rechts ab."
+      ]
+    }
+  },
+  {
+    "word": "wrong",
+    "translations": {
+      "ar": "خطأ، خاطئ",
+      "de": "falsch"
+    },
+    "explanation": {
+      "ar": "غير صحيح.",
+      "de": "Nicht richtig."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "That's wrong.",
+        "هذا خطأ."
+      ],
+      "de": [
+        "Wrong answer.",
+        "Falsche Antwort."
+      ]
+    }
+  },
+  {
+    "word": "left",
+    "translations": {
+      "ar": "يسار",
+      "de": "links"
+    },
+    "explanation": {
+      "ar": "الجهة اليسرى.",
+      "de": "Linke Seite."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Turn left.",
+        "انعطف يساراً."
+      ],
+      "de": [
+        "On the left.",
+        "Auf der linken Seite."
+      ]
+    }
+  },
+  {
+    "word": "next",
+    "translations": {
+      "ar": "التالي، القادم",
+      "de": "nächster"
+    },
+    "explanation": {
+      "ar": "الذي يأتي بعد.",
+      "de": "Der, der danach kommt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Next week.",
+        "الأسبوع القادم."
+      ],
+      "de": [
+        "The next bus.",
+        "Der nächste Bus."
+      ]
+    }
+  },
+  {
+    "word": "last",
+    "translations": {
+      "ar": "الأخير، الماضي",
+      "de": "letzter, vorig"
+    },
+    "explanation": {
+      "ar": "الذي قبل الآن.",
+      "de": "Der vor dem Jetzigen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Last week.",
+        "الأسبوع الماضي."
+      ],
+      "de": [
+        "The last bus.",
+        "Der letzte Bus."
+      ]
+    }
+  },
+  {
+    "word": "important",
+    "translations": {
+      "ar": "مهم",
+      "de": "wichtig"
+    },
+    "explanation": {
+      "ar": "له أهمية كبيرة.",
+      "de": "Von großer Bedeutung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Very important.",
+        "مهم جداً."
+      ],
+      "de": [
+        "This is important.",
+        "Das ist wichtig."
+      ]
+    }
+  },
+  {
+    "word": "problem",
+    "translations": {
+      "ar": "مشكلة",
+      "de": "Problem"
+    },
+    "explanation": {
+      "ar": "شيء صعب يحتاج حلاً.",
+      "de": "Etwas Schwieriges, das gelöst werden muss."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "No problem.",
+        "لا مشكلة."
+      ],
+      "de": [
+        "I have a problem.",
+        "Ich habe ein Problem."
+      ]
+    }
+  },
+  {
+    "word": "question",
+    "translations": {
+      "ar": "سؤال",
+      "de": "Frage"
+    },
+    "explanation": {
+      "ar": "شيء نسأله.",
+      "de": "Etwas, das wir fragen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I have a question.",
+        "لدي سؤال."
+      ],
+      "de": [
+        "Good question.",
+        "Gute Frage."
+      ]
+    }
+  },
+  {
+    "word": "answer",
+    "translations": {
+      "ar": "جواب، يجيب",
+      "de": "Antwort, antworten"
+    },
+    "explanation": {
+      "ar": "الرد على سؤال.",
+      "de": "Reaktion auf eine Frage."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "What's the answer?",
+        "ما الجواب؟"
+      ],
+      "de": [
+        "Please answer.",
+        "Bitte antworten."
+      ]
+    }
+  },
+  {
+    "word": "name",
+    "translations": {
+      "ar": "اسم",
+      "de": "Name"
+    },
+    "explanation": {
+      "ar": "ما نسمي به الشخص.",
+      "de": "Wie wir eine Person nennen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "My name is Sara.",
+        "اسمي سارة."
+      ],
+      "de": [
+        "What's your name?",
+        "Wie heißt du?"
+      ]
+    }
+  },
+  {
+    "word": "number",
+    "translations": {
+      "ar": "رقم",
+      "de": "Nummer, Zahl"
+    },
+    "explanation": {
+      "ar": "رقم مثل 1، 2، 3.",
+      "de": "Zahl wie 1, 2, 3."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Phone number.",
+        "رقم الهاتف."
+      ],
+      "de": [
+        "What number?",
+        "Welche Nummer?"
+      ]
+    }
+  },
+  {
+    "word": "word",
+    "translations": {
+      "ar": "كلمة",
+      "de": "Wort"
+    },
+    "explanation": {
+      "ar": "وحدة من اللغة.",
+      "de": "Einheit der Sprache."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A new word.",
+        "كلمة جديدة."
+      ],
+      "de": [
+        "I know this word.",
+        "Ich kenne dieses Wort."
+      ]
+    }
+  },
+  {
+    "word": "language",
+    "translations": {
+      "ar": "لغة",
+      "de": "Sprache"
+    },
+    "explanation": {
+      "ar": "نظام التواصل.",
+      "de": "Kommunikationssystem."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I learn a new language.",
+        "أتعلم لغة جديدة."
+      ],
+      "de": [
+        "German language.",
+        "Deutsche Sprache."
+      ]
+    }
+  },
+  {
+    "word": "place",
+    "translations": {
+      "ar": "مكان",
+      "de": "Ort, Platz"
+    },
+    "explanation": {
+      "ar": "موقع.",
+      "de": "Standort."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A nice place.",
+        "مكان جميل."
+      ],
+      "de": [
+        "This is my place.",
+        "Das ist mein Platz."
+      ]
+    }
+  },
+  {
+    "word": "thing",
+    "translations": {
+      "ar": "شيء",
+      "de": "Ding, Sache"
+    },
+    "explanation": {
+      "ar": "عنصر أو كائن.",
+      "de": "Gegenstand oder Objekt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Many things.",
+        "أشياء كثيرة."
+      ],
+      "de": [
+        "What's that thing?",
+        "Was ist das für ein Ding?"
+      ]
+    }
+  },
+  {
+    "word": "way",
+    "translations": {
+      "ar": "طريقة، طريق",
+      "de": "Weg, Art"
+    },
+    "explanation": {
+      "ar": "كيفية القيام بشيء أو طريق.",
+      "de": "Wie man etwas macht oder Pfad."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "This way.",
+        "من هنا."
+      ],
+      "de": [
+        "The best way.",
+        "Der beste Weg."
+      ]
+    }
+  },
+  {
+    "word": "part",
+    "translations": {
+      "ar": "جزء",
+      "de": "Teil"
+    },
+    "explanation": {
+      "ar": "قطعة من شيء أكبر.",
+      "de": "Stück von etwas Größerem."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A part of it.",
+        "جزء منه."
+      ],
+      "de": [
+        "The first part.",
+        "Der erste Teil."
+      ]
+    }
+  },
+  {
+    "word": "all",
+    "translations": {
+      "ar": "كل، جميع",
+      "de": "alle, alles"
+    },
+    "explanation": {
+      "ar": "كل شيء أو الجميع.",
+      "de": "Alles oder jeder."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "All people.",
+        "كل الناس."
+      ],
+      "de": [
+        "All together.",
+        "Alle zusammen."
+      ]
+    }
+  },
+  {
+    "word": "some",
+    "translations": {
+      "ar": "بعض",
+      "de": "einige, etwas"
+    },
+    "explanation": {
+      "ar": "كمية غير محددة.",
+      "de": "Unbestimmte Menge."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Some water.",
+        "بعض الماء."
+      ],
+      "de": [
+        "Some people.",
+        "Einige Leute."
+      ]
+    }
+  },
+  {
+    "word": "many",
+    "translations": {
+      "ar": "كثير، عديد",
+      "de": "viele"
+    },
+    "explanation": {
+      "ar": "عدد كبير.",
+      "de": "Große Anzahl."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Many people.",
+        "كثير من الناس."
+      ],
+      "de": [
+        "Many books.",
+        "Viele Bücher."
+      ]
+    }
+  },
+  {
+    "word": "little",
+    "translations": {
+      "ar": "قليل، صغير",
+      "de": "wenig, klein"
+    },
+    "explanation": {
+      "ar": "كمية صغيرة.",
+      "de": "Kleine Menge."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "A little water.",
+        "قليل من الماء."
+      ],
+      "de": [
+        "A little time.",
+        "Ein bisschen Zeit."
+      ]
+    }
+  },
+  {
+    "word": "much",
+    "translations": {
+      "ar": "كثير",
+      "de": "viel"
+    },
+    "explanation": {
+      "ar": "كمية كبيرة.",
+      "de": "Große Menge."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Too much.",
+        "كثير جداً."
+      ],
+      "de": [
+        "How much?",
+        "Wie viel?"
+      ]
+    }
+  },
+  {
+    "word": "very",
+    "translations": {
+      "ar": "جداً",
+      "de": "sehr"
+    },
+    "explanation": {
+      "ar": "بدرجة عالية.",
+      "de": "Zu hohem Grad."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Very good.",
+        "جيد جداً."
+      ],
+      "de": [
+        "Very nice.",
+        "Sehr schön."
+      ]
+    }
+  },
+  {
+    "word": "well",
+    "translations": {
+      "ar": "جيداً، بشكل جيد",
+      "de": "gut, wohl"
+    },
+    "explanation": {
+      "ar": "بطريقة جيدة.",
+      "de": "Auf gute Weise."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I speak well.",
+        "أتكلم جيداً."
+      ],
+      "de": [
+        "She cooks well.",
+        "Sie kocht gut."
+      ]
+    }
+  },
+  {
+    "word": "also",
+    "translations": {
+      "ar": "أيضاً",
+      "de": "auch"
+    },
+    "explanation": {
+      "ar": "بالإضافة.",
+      "de": "Zusätzlich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "I also work.",
+        "أنا أيضاً أعمل."
+      ],
+      "de": [
+        "She also speaks German.",
+        "Sie spricht auch Deutsch."
+      ]
+    }
+  },
+  {
+    "word": "because",
+    "translations": {
+      "ar": "لأن",
+      "de": "weil"
+    },
+    "explanation": {
+      "ar": "يعطي السبب.",
+      "de": "Gibt den Grund."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Because I'm tired.",
+        "لأنني متعب."
+      ],
+      "de": [
+        "Because it's late.",
+        "Weil es spät ist."
+      ]
+    }
+  },
+  {
+    "word": "but",
+    "translations": {
+      "ar": "لكن",
+      "de": "aber"
+    },
+    "explanation": {
+      "ar": "يعبر عن التناقض.",
+      "de": "Drückt Widerspruch aus."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Good but expensive.",
+        "جيد لكن غالٍ."
+      ],
+      "de": [
+        "I want to, but I can't.",
+        "Ich will, aber ich kann nicht."
+      ]
+    }
+  },
+  {
+    "word": "and",
+    "translations": {
+      "ar": "و",
+      "de": "und"
+    },
+    "explanation": {
+      "ar": "يربط الأشياء.",
+      "de": "Verbindet Dinge."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bread and water.",
+        "خبز وماء."
+      ],
+      "de": [
+        "You and I.",
+        "Du und ich."
+      ]
+    }
+  },
+  {
+    "word": "or",
+    "translations": {
+      "ar": "أو",
+      "de": "oder"
+    },
+    "explanation": {
+      "ar": "يعطي خيارات.",
+      "de": "Gibt Optionen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Tea or coffee?",
+        "شاي أو قهوة؟"
+      ],
+      "de": [
+        "Today or tomorrow?",
+        "Heute oder morgen?"
+      ]
+    }
+  }
+]

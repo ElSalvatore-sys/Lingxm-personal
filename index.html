@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>LingXM Personal - Daily Words</title>
+    <link rel="stylesheet" href="/src/styles/main.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Profile Selection Screen -->
+        <div id="profile-selection" class="screen active">
+            <div class="profile-container">
+                <h1 class="app-title">LingXM Personal</h1>
+                <div class="profile-buttons">
+                    <button class="profile-btn" data-profile="vahiko">
+                        <span class="profile-emoji">👩‍💼</span>
+                        <span class="profile-name">Vahiko</span>
+                        <span class="profile-langs">🇩🇪 Deutsch C1 • 🇬🇧 English B1-B2</span>
+                    </button>
+                    <button class="profile-btn" data-profile="hassan">
+                        <span class="profile-emoji">👨‍💻</span>
+                        <span class="profile-name">Hassan</span>
+                        <span class="profile-langs">🇸🇦 العربية B2-C1 • 🇬🇧 English B2-C2 • 🇩🇪 Deutsch B1-B2</span>
+                    </button>
+                    <button class="profile-btn" data-profile="salman">
+                        <span class="profile-emoji">👩‍🍳</span>
+                        <span class="profile-name">Frau Salman</span>
+                        <span class="profile-langs">🇩🇪 Deutsch B1-B2 • 🇩🇪🍽️ Gastro • 🇫🇷 Français • 🇬🇧 English A2-B1</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Learning Screen -->
+        <div id="learning-screen" class="screen">
+            <div class="header">
+                <button id="back-btn" class="icon-btn">←</button>
+                <div class="progress-info">
+                    <span id="current-lang">Deutsch</span>
+                    <span id="word-counter">1/10</span>
+                </div>
+                <div class="header-actions">
+                    <button id="settings-btn" class="icon-btn">⚙️</button>
+                    <button id="save-word-btn" class="icon-btn">⭐</button>
+                </div>
+            </div>
+
+            <div class="word-card" id="word-card">
+                <div class="swipe-hint">← السابق | التالي →</div>
+                
+                <div class="word-main">
+                    <h2 id="word-text" class="word-text">جاري التحميل...</h2>
+                    <p id="word-translation" class="word-translation"></p>
+                </div>
+
+                <div class="word-details">
+                    <div class="section">
+                        <h3>شرح / Erklärung</h3>
+                        <p id="word-explanation"></p>
+                    </div>
+
+                    <div class="section" id="conjugation-section">
+                        <h3>تصريف / Konjugation</h3>
+                        <div id="word-conjugations"></div>
+                    </div>
+
+                    <div class="section">
+                        <h3>مثال ١ / Beispiel 1</h3>
+                        <p id="example-1"></p>
+                    </div>
+
+                    <div class="section">
+                        <h3>مثال ٢ / Beispiel 2</h3>
+                        <p id="example-2"></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="language-switcher">
+                <button class="lang-btn" data-lang="0">Lang 1</button>
+                <button class="lang-btn" data-lang="1">Lang 2</button>
+                <button class="lang-btn" data-lang="2">Lang 3</button>
+                <button class="lang-btn" data-lang="3">Lang 4</button>
+            </div>
+
+            <!-- Settings Modal -->
+            <div id="settings-modal" class="settings-modal">
+                <div class="settings-content">
+                    <div class="settings-header">
+                        <h2>⚙️ إعدادات / Einstellungen</h2>
+                        <button id="close-settings" class="icon-btn">✕</button>
+                    </div>
+
+                    <div class="settings-section">
+                        <div class="setting-item">
+                            <div class="setting-label">
+                                <span>تشغيل تلقائي / Auto-Play</span>
+                                <p class="setting-description">Play word pronunciation automatically</p>
+                            </div>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="autoplay-toggle">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+
+                        <div class="setting-item">
+                            <div class="setting-label">
+                                <span>سرعة النطق / Speech Speed</span>
+                                <p class="setting-description">Choose pronunciation speed</p>
+                            </div>
+                            <div class="speed-selector">
+                                <button class="speed-btn" data-speed="slow">
+                                    🐢 بطيء<br>Langsam
+                                </button>
+                                <button class="speed-btn active" data-speed="normal">
+                                    ▶️ عادي<br>Normal
+                                </button>
+                                <button class="speed-btn" data-speed="fast">
+                                    🐰 سريع<br>Schnell
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="/src/app.js"></script>
+</body>
+</html>

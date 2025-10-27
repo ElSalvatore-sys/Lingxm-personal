@@ -1,0 +1,4568 @@
+[
+  {
+    "word": "braten",
+    "translations": {
+      "ar": "يقلي، يشوي",
+      "de": "in Fett bei hoher Temperatur garen"
+    },
+    "explanation": {
+      "ar": "طريقة طهي تستخدم الدهون وحرارة عالية لطهي اللحوم والخضروات. طريقة أساسية في المطبخ الألماني.",
+      "de": "Eine grundlegende Garmethode in der Küche, bei der Lebensmittel in Fett bei hoher Hitze gegart werden."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "braten"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "brate"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "brät"
+      },
+      {
+        "form": "Präteritum",
+        "value": "briet"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gebraten"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Ich brate das Fleisch bei mittlerer Hitze.",
+        "أقلي اللحم على حرارة متوسطة."
+      ],
+      "de": [
+        "Das Schnitzel muss goldbraun gebraten werden.",
+        "يجب قلي الشنيتزل حتى يصبح ذهبي اللون."
+      ]
+    }
+  },
+  {
+    "word": "kochen",
+    "translations": {
+      "ar": "يطبخ، يغلي",
+      "de": "in kochender Flüssigkeit garen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام في سائل مغلي عند 100 درجة. يُستخدم للمعكرونة والخضروات والبيض وغيرها.",
+      "de": "Lebensmittel in siedender Flüssigkeit bei 100°C garen. Verwendet für Nudeln, Gemüse, Eier usw."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "kochen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "koche"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "kocht"
+      },
+      {
+        "form": "Präteritum",
+        "value": "kochte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gekocht"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Die Kartoffeln müssen 20 Minuten kochen.",
+        "يجب أن تُطهى البطاطا لمدة 20 دقيقة."
+      ],
+      "de": [
+        "Ich koche jeden Tag frisch.",
+        "أطبخ طازجاً كل يوم."
+      ]
+    }
+  },
+  {
+    "word": "dünsten",
+    "translations": {
+      "ar": "يطهو على البخار بقليل من السائل",
+      "de": "mit wenig Flüssigkeit bei mittlerer Hitze garen"
+    },
+    "explanation": {
+      "ar": "طريقة طهي صحية باستخدام كمية قليلة من السائل والبخار عند حرارة متوسطة. تحافظ على الفيتامينات.",
+      "de": "Schonende Garmethode mit wenig Flüssigkeit und Dampf bei mittlerer Temperatur. Erhält Vitamine und Nährstoffe."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "dünsten"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "dünste"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "dünstet"
+      },
+      {
+        "form": "Präteritum",
+        "value": "dünstete"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gedünstet"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Dünsten Sie das Gemüse für 10 Minuten.",
+        "اطهِ الخضروات على البخار لمدة 10 دقائق."
+      ],
+      "de": [
+        "Gedünsteter Fisch ist besonders zart.",
+        "السمك المطهو على البخار طري جداً."
+      ]
+    }
+  },
+  {
+    "word": "schmoren",
+    "translations": {
+      "ar": "يطهو ببطء في سائل",
+      "de": "langsam in Flüssigkeit bei niedriger Temperatur garen"
+    },
+    "explanation": {
+      "ar": "طهي بطيء لقطع اللحم الكبيرة في سائل عند حرارة منخفضة. يجعل اللحم طرياً جداً.",
+      "de": "Langsames Garen von großen Fleischstücken in Flüssigkeit bei niedriger Hitze. Macht das Fleisch sehr zart."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "schmoren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schmore"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "schmort"
+      },
+      {
+        "form": "Präteritum",
+        "value": "schmorte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe geschmort"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Der Rinderbraten muss drei Stunden schmoren.",
+        "يجب أن يُطهى لحم البقر ببطء لمدة ثلاث ساعات."
+      ],
+      "de": [
+        "Geschmortes Fleisch ist sehr saftig.",
+        "اللحم المطهو ببطء عصاري جداً."
+      ]
+    }
+  },
+  {
+    "word": "grillen",
+    "translations": {
+      "ar": "يشوي على الشواية",
+      "de": "auf dem Rost über offener Flamme oder Glut garen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام على شواية فوق نار مفتوحة أو جمر. يعطي نكهة مدخنة مميزة.",
+      "de": "Garen von Speisen auf einem Rost über offener Flamme oder Glut. Gibt einen besonderen rauchigen Geschmack."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "grillen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "grille"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "grillt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "grillte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gegrillt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Im Sommer grillen wir oft im Biergarten.",
+        "في الصيف نشوي غالباً في حديقة البيرة."
+      ],
+      "de": [
+        "Gegrilltes Gemüse ist sehr gesund.",
+        "الخضروات المشوية صحية جداً."
+      ]
+    }
+  },
+  {
+    "word": "backen",
+    "translations": {
+      "ar": "يخبز",
+      "de": "im Ofen mit trockener Hitze garen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام في الفرن بحرارة جافة. يُستخدم للخبز والكيك واللحوم.",
+      "de": "Garen von Speisen im Ofen mit trockener Hitze. Verwendet für Brot, Kuchen, Fleisch usw."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "backen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "backe"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "backt/bäckt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "backte/buk"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gebacken"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Ich backe Brot jeden Morgen frisch.",
+        "أخبز الخبز طازجاً كل صباح."
+      ],
+      "de": [
+        "Der Kuchen muss bei 180 Grad backen.",
+        "يجب أن تُخبز الكعكة على 180 درجة."
+      ]
+    }
+  },
+  {
+    "word": "frittieren",
+    "translations": {
+      "ar": "يقلي في زيت غزير",
+      "de": "in viel heißem Fett schwimmend garen"
+    },
+    "explanation": {
+      "ar": "قلي الطعام في كمية كبيرة من الزيت الساخن. يستخدم للبطاطا المقلية والدونات.",
+      "de": "Garen von Speisen in viel heißem Fett. Verwendet für Pommes frites, Krapfen usw."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "frittieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "frittiere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "frittiert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "frittierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe frittiert"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Die Pommes werden bei 180 Grad frittiert.",
+        "تُقلى البطاطا المقلية على 180 درجة."
+      ],
+      "de": [
+        "Frittierte Speisen sind sehr knusprig.",
+        "الأطعمة المقلية مقرمشة جداً."
+      ]
+    }
+  },
+  {
+    "word": "dämpfen",
+    "translations": {
+      "ar": "يطهو على البخار",
+      "de": "über Wasserdampf garen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام بالبخار دون ملامسة الماء. طريقة صحية تحافظ على القيمة الغذائية.",
+      "de": "Garen von Speisen über Wasserdampf ohne direkten Wasserkontakt. Sehr gesunde und schonende Garmethode."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "dämpfen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "dämpfe"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "dämpft"
+      },
+      {
+        "form": "Präteritum",
+        "value": "dämpfte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gedämpft"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Gedämpftes Gemüse behält seine Vitamine.",
+        "الخضروات المطهوة بالبخار تحتفظ بفيتاميناتها."
+      ],
+      "de": [
+        "Fisch wird am besten gedämpft.",
+        "يُطهى السمك بأفضل طريقة على البخار."
+      ]
+    }
+  },
+  {
+    "word": "anbraten",
+    "translations": {
+      "ar": "يحمّر سطح الطعام",
+      "de": "kurz bei hoher Hitze von außen bräunen"
+    },
+    "explanation": {
+      "ar": "تحمير سطح الطعام بسرعة على حرارة عالية قبل إكمال الطهي. يحفظ العصائر داخل اللحم.",
+      "de": "Kurzes Bräunen der Oberfläche bei hoher Hitze vor dem weiteren Garen. Verschließt die Poren und hält Saft im Fleisch."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "anbraten"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "brate an"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "brät an"
+      },
+      {
+        "form": "Präteritum",
+        "value": "briet an"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe angebraten"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Braten Sie das Fleisch scharf an.",
+        "حمّر اللحم على حرارة عالية."
+      ],
+      "de": [
+        "Das Steak wird erst angebraten, dann im Ofen fertig gegart.",
+        "يُحمّر الستيك أولاً، ثم يُكمل طهيه في الفرن."
+      ]
+    }
+  },
+  {
+    "word": "würzen",
+    "translations": {
+      "ar": "يتبّل، يبهّر",
+      "de": "Geschmack mit Gewürzen verbessern"
+    },
+    "explanation": {
+      "ar": "إضافة التوابل والبهارات لتحسين طعم الأكل. مهارة أساسية في الطبخ.",
+      "de": "Zugabe von Gewürzen und Kräutern zur Geschmacksverbesserung. Grundlegende Fähigkeit in der Küche."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "würzen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "würze"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "würzt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "würzte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gewürzt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Würzen Sie die Suppe mit Salz und Pfeffer.",
+        "تبّل الحساء بالملح والفلفل."
+      ],
+      "de": [
+        "Gut gewürztes Essen schmeckt besser.",
+        "الطعام المتبّل جيداً طعمه أفضل."
+      ]
+    }
+  },
+  {
+    "word": "der Herd",
+    "translations": {
+      "ar": "الموقد، الفرن",
+      "de": "Kochstelle in der Küche"
+    },
+    "explanation": {
+      "ar": "جهاز الطبخ الرئيسي في المطبخ. يمكن أن يكون كهربائياً أو غازياً.",
+      "de": "Hauptkochgerät in der Küche. Kann elektrisch oder mit Gas betrieben werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Schalten Sie den Herd aus, wenn Sie fertig sind.",
+        "أطفئ الموقد عندما تنتهي."
+      ],
+      "de": [
+        "Der Herd ist noch heiß.",
+        "الموقد لا يزال ساخناً."
+      ]
+    }
+  },
+  {
+    "word": "die Pfanne",
+    "translations": {
+      "ar": "المقلاة",
+      "de": "flaches Kochgeschirr zum Braten"
+    },
+    "explanation": {
+      "ar": "إناء طبخ مسطح يُستخدم للقلي والتحمير. أداة أساسية في كل مطبخ.",
+      "de": "Flaches Kochgeschirr zum Braten und Anbraten. Unverzichtbares Werkzeug in jeder Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Pfanne muss sehr heiß sein.",
+        "يجب أن تكون المقلاة ساخنة جداً."
+      ],
+      "de": [
+        "Erhitzen Sie die Pfanne mit etwas Öl.",
+        "سخّن المقلاة بقليل من الزيت."
+      ]
+    }
+  },
+  {
+    "word": "der Topf",
+    "translations": {
+      "ar": "القدر، الطنجرة",
+      "de": "tiefes Kochgeschirr mit Deckel"
+    },
+    "explanation": {
+      "ar": "إناء طبخ عميق مع غطاء. يُستخدم للطبخ والغلي والسلق.",
+      "de": "Tiefes Kochgeschirr mit Deckel zum Kochen, Sieden und Schmoren."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Geben Sie das Gemüse in den Topf.",
+        "ضع الخضروات في القدر."
+      ],
+      "de": [
+        "Der Topf ist zu klein für die Suppe.",
+        "القدر صغير جداً للحساء."
+      ]
+    }
+  },
+  {
+    "word": "das Messer",
+    "translations": {
+      "ar": "السكين",
+      "de": "Schneidwerkzeug in der Küche"
+    },
+    "explanation": {
+      "ar": "أداة حادة للتقطيع. توجد أنواع مختلفة: سكين الشيف، سكين الخبز، سكين التقشير.",
+      "de": "Scharfes Schneidwerkzeug. Es gibt verschiedene Arten: Kochmesser, Brotmesser, Schälmesser."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Messer muss scharf sein.",
+        "يجب أن تكون السكين حادة."
+      ],
+      "de": [
+        "Benutzen Sie ein scharfes Messer zum Schneiden.",
+        "استخدم سكيناً حادة للتقطيع."
+      ]
+    }
+  },
+  {
+    "word": "das Schneidebrett",
+    "translations": {
+      "ar": "لوح التقطيع",
+      "de": "Unterlage zum Schneiden von Lebensmitteln"
+    },
+    "explanation": {
+      "ar": "لوح خشبي أو بلاستيكي يُستخدم لتقطيع الطعام. مهم للنظافة والسلامة.",
+      "de": "Holz- oder Kunststoffunterlage zum Schneiden von Lebensmitteln. Wichtig für Hygiene und Sicherheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Verwenden Sie unterschiedliche Schneidebretter für Fleisch und Gemüse.",
+        "استخدم ألواح تقطيع مختلفة للحم والخضروات."
+      ],
+      "de": [
+        "Das Schneidebrett muss nach jedem Gebrauch gereinigt werden.",
+        "يجب تنظيف لوح التقطيع بعد كل استخدام."
+      ]
+    }
+  },
+  {
+    "word": "der Schneebesen",
+    "translations": {
+      "ar": "المضرب السلكي، الخفاقة",
+      "de": "Küchengerät zum Schlagen und Mischen"
+    },
+    "explanation": {
+      "ar": "أداة سلكية لخفق البيض والكريمة وخلط المكونات. ضرورية في المعجنات.",
+      "de": "Drahtgerät zum Schlagen von Eiern, Sahne und zum Mischen. Unverzichtbar in der Patisserie."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Schlagen Sie die Sahne mit dem Schneebesen steif.",
+        "اخفق الكريمة بالخفاقة حتى تتماسك."
+      ],
+      "de": [
+        "Ein guter Schneebesen ist wichtig für Soßen.",
+        "الخفاقة الجيدة مهمة للصلصات."
+      ]
+    }
+  },
+  {
+    "word": "der Kochlöffel",
+    "translations": {
+      "ar": "ملعقة الطبخ",
+      "de": "großer Löffel zum Kochen und Umrühren"
+    },
+    "explanation": {
+      "ar": "ملعقة كبيرة خشبية أو معدنية للتقليب والطهي. أداة أساسية.",
+      "de": "Großer Holz- oder Metalllöffel zum Umrühren und Kochen. Grundlegendes Werkzeug."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Rühren Sie mit dem Kochlöffel um.",
+        "قلّب بملعقة الطبخ."
+      ],
+      "de": [
+        "Holzlöffel sind am besten für beschichtete Pfannen.",
+        "الملاعق الخشبية أفضل للمقالي المطلية."
+      ]
+    }
+  },
+  {
+    "word": "die Schüssel",
+    "translations": {
+      "ar": "الوعاء، الزبدية",
+      "de": "rundes Gefäß zum Mischen und Aufbewahren"
+    },
+    "explanation": {
+      "ar": "وعاء دائري لخلط وحفظ المكونات. تأتي بأحجام مختلفة.",
+      "de": "Rundes Gefäß zum Mischen und Lagern von Zutaten. Gibt es in verschiedenen Größen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Geben Sie alle Zutaten in eine große Schüssel.",
+        "ضع جميع المكونات في وعاء كبير."
+      ],
+      "de": [
+        "Die Schüssel ist zu klein für den Teig.",
+        "الوعاء صغير جداً للعجين."
+      ]
+    }
+  },
+  {
+    "word": "der Mixer",
+    "translations": {
+      "ar": "الخلاط الكهربائي",
+      "de": "elektrisches Gerät zum Mixen und Pürieren"
+    },
+    "explanation": {
+      "ar": "جهاز كهربائي لخلط وهرس الطعام. يستخدم للحساء والعصائر.",
+      "de": "Elektrisches Gerät zum Mixen und Pürieren von Speisen. Verwendet für Suppen und Smoothies."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Pürieren Sie die Suppe mit dem Mixer.",
+        "اهرس الحساء بالخلاط."
+      ],
+      "de": [
+        "Der Mixer ist kaputt, wir brauchen einen neuen.",
+        "الخلاط معطل، نحتاج واحداً جديداً."
+      ]
+    }
+  },
+  {
+    "word": "das Sieb",
+    "translations": {
+      "ar": "المصفاة",
+      "de": "Küchengerät zum Abtropfen und Sieben"
+    },
+    "explanation": {
+      "ar": "أداة ذات ثقوب لتصفية السوائل من الطعام. تُستخدم للمعكرونة والخضروات.",
+      "de": "Gelochtes Gerät zum Abtropfen von Flüssigkeiten. Verwendet für Nudeln und Gemüse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Gießen Sie die Nudeln durch das Sieb.",
+        "صفِّ المعكرونة من خلال المصفاة."
+      ],
+      "de": [
+        "Das Sieb hängt über der Spüle.",
+        "المصفاة معلقة فوق الحوض."
+      ]
+    }
+  },
+  {
+    "word": "schälen",
+    "translations": {
+      "ar": "يقشّر",
+      "de": "die Schale entfernen"
+    },
+    "explanation": {
+      "ar": "إزالة القشرة الخارجية من الخضروات والفواكه. خطوة تحضيرية مهمة.",
+      "de": "Entfernen der äußeren Schale von Gemüse und Obst. Wichtiger Vorbereitungsschritt."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "schälen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schäle"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "schält"
+      },
+      {
+        "form": "Präteritum",
+        "value": "schälte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe geschält"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Schälen Sie die Kartoffeln vor dem Kochen.",
+        "قشّر البطاطا قبل الطهي."
+      ],
+      "de": [
+        "Die Äpfel müssen nicht geschält werden.",
+        "لا يجب تقشير التفاح."
+      ]
+    }
+  },
+  {
+    "word": "schneiden",
+    "translations": {
+      "ar": "يقطّع",
+      "de": "mit einem Messer zerteilen"
+    },
+    "explanation": {
+      "ar": "تقطيع الطعام بالسكين إلى قطع أصغر. مهارة أساسية في المطبخ.",
+      "de": "Zerteilen von Lebensmitteln mit einem Messer in kleinere Stücke. Grundlegende Küchenfertigkeit."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "schneiden"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schneide"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "schneidet"
+      },
+      {
+        "form": "Präteritum",
+        "value": "schnitt"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe geschnitten"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Schneiden Sie die Zwiebeln in kleine Würfel.",
+        "قطّع البصل إلى مكعبات صغيرة."
+      ],
+      "de": [
+        "Vorsichtig schneiden, das Messer ist sehr scharf!",
+        "قطّع بحذر، السكين حادة جداً!"
+      ]
+    }
+  },
+  {
+    "word": "hacken",
+    "translations": {
+      "ar": "يفرم",
+      "de": "in sehr kleine Stücke schneiden"
+    },
+    "explanation": {
+      "ar": "تقطيع الطعام إلى قطع صغيرة جداً. يُستخدم للثوم والأعشاب.",
+      "de": "Schneiden von Lebensmitteln in sehr kleine Stücke. Verwendet für Knoblauch und Kräuter."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "hacken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "hacke"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "hackt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "hackte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gehackt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Hacken Sie den Knoblauch fein.",
+        "افرم الثوم ناعماً."
+      ],
+      "de": [
+        "Gehackte Petersilie schmeckt frisch.",
+        "البقدونس المفروم طعمه طازج."
+      ]
+    }
+  },
+  {
+    "word": "rühren",
+    "translations": {
+      "ar": "يقلّب، يخلط",
+      "de": "kreisförmig bewegen und mischen"
+    },
+    "explanation": {
+      "ar": "تحريك المكونات بحركة دائرية للخلط. مهم لمنع الاحتراق.",
+      "de": "Kreisförmiges Bewegen von Zutaten zum Mischen. Wichtig zum Verhindern von Anbrennen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "rühren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "rühre"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "rührt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "rührte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gerührt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Rühren Sie die Soße ständig um.",
+        "قلّب الصلصة باستمرار."
+      ],
+      "de": [
+        "Nicht rühren, sonst wird es zäh.",
+        "لا تقلّب، وإلا سيصبح قاسياً."
+      ]
+    }
+  },
+  {
+    "word": "mischen",
+    "translations": {
+      "ar": "يخلط",
+      "de": "verschiedene Zutaten zusammenfügen"
+    },
+    "explanation": {
+      "ar": "دمج مكونات مختلفة معاً. خطوة أساسية في العديد من الوصفات.",
+      "de": "Zusammenfügen verschiedener Zutaten. Grundlegender Schritt in vielen Rezepten."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "mischen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "mische"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "mischt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "mischte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gemischt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Mischen Sie alle trockenen Zutaten.",
+        "اخلط جميع المكونات الجافة."
+      ],
+      "de": [
+        "Gut mischen, bis keine Klumpen mehr da sind.",
+        "اخلط جيداً حتى لا توجد كتل."
+      ]
+    }
+  },
+  {
+    "word": "abschmecken",
+    "translations": {
+      "ar": "يتذوق ويعدّل التوابل",
+      "de": "probieren und nachwürzen"
+    },
+    "explanation": {
+      "ar": "تذوق الطعام وإضافة التوابل حسب الحاجة. خطوة نهائية مهمة.",
+      "de": "Probieren und bei Bedarf nachwürzen. Wichtiger letzter Schritt beim Kochen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "abschmecken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schmecke ab"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "schmeckt ab"
+      },
+      {
+        "form": "Präteritum",
+        "value": "schmeckte ab"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe abgeschmeckt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Schmecken Sie die Suppe ab, bevor Sie servieren.",
+        "تذوق الحساء قبل التقديم."
+      ],
+      "de": [
+        "Mit Salz und Pfeffer abschmecken.",
+        "تذوق وعدّل بالملح والفلفل."
+      ]
+    }
+  },
+  {
+    "word": "garnieren",
+    "translations": {
+      "ar": "يزيّن الطبق",
+      "de": "Speisen dekorativ verzieren"
+    },
+    "explanation": {
+      "ar": "تزيين الطبق قبل التقديم. يجعل الطعام أكثر جاذبية.",
+      "de": "Dekoratives Verzieren von Speisen vor dem Servieren. Macht das Essen ansprechender."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "garnieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "garniere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "garniert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "garnierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe garniert"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Garnieren Sie den Teller mit frischen Kräutern.",
+        "زيّن الطبق بالأعشاب الطازجة."
+      ],
+      "de": [
+        "Ein gut garnierter Teller sieht professionell aus.",
+        "الطبق المزيّن جيداً يبدو احترافياً."
+      ]
+    }
+  },
+  {
+    "word": "anrichten",
+    "translations": {
+      "ar": "يحضّر الطبق للتقديم",
+      "de": "Speisen auf dem Teller arrangieren"
+    },
+    "explanation": {
+      "ar": "ترتيب الطعام على الطبق بطريقة جميلة. مهارة مهمة في المطاعم الراقية.",
+      "de": "Arrangieren von Speisen auf dem Teller in ansprechender Form. Wichtige Fähigkeit in der gehobenen Gastronomie."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "anrichten"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "richte an"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "richtet an"
+      },
+      {
+        "form": "Präteritum",
+        "value": "richtete an"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe angerichtet"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Richten Sie die Vorspeise schön an.",
+        "حضّر المقبلات بشكل جميل."
+      ],
+      "de": [
+        "Das Fleisch wird in der Mitte angerichtet.",
+        "يُحضّر اللحم في المنتصف."
+      ]
+    }
+  },
+  {
+    "word": "servieren",
+    "translations": {
+      "ar": "يقدّم الطعام",
+      "de": "Speisen und Getränke zum Gast bringen"
+    },
+    "explanation": {
+      "ar": "إحضار الطعام والشراب للضيوف. وظيفة أساسية في المطعم.",
+      "de": "Bringen von Speisen und Getränken zu den Gästen. Kernaufgabe im Restaurant."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "servieren"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "serviere"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "serviert"
+      },
+      {
+        "form": "Präteritum",
+        "value": "servierte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe serviert"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Servieren Sie das Essen von links.",
+        "قدّم الطعام من اليسار."
+      ],
+      "de": [
+        "Wir servieren ab 18 Uhr warme Küche.",
+        "نقدم الطعام الساخن من الساعة 6 مساءً."
+      ]
+    }
+  },
+  {
+    "word": "der Gast",
+    "translations": {
+      "ar": "الضيف، الزبون",
+      "de": "Person, die ein Restaurant besucht"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يزور المطعم أو الفندق. يجب معاملته باحترام ولطف.",
+      "de": "Person, die ein Restaurant oder Hotel besucht. Muss mit Respekt und Freundlichkeit behandelt werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Gast wartet schon lange.",
+        "الضيف ينتظر منذ وقت طويل."
+      ],
+      "de": [
+        "Unsere Gäste sind sehr zufrieden.",
+        "ضيوفنا راضون جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Speisekarte",
+    "translations": {
+      "ar": "قائمة الطعام",
+      "de": "Liste mit allen Gerichten im Restaurant"
+    },
+    "explanation": {
+      "ar": "قائمة تحتوي على جميع الأطباق المتوفرة في المطعم مع الأسعار.",
+      "de": "Liste mit allen verfügbaren Gerichten im Restaurant mit Preisen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kann ich bitte die Speisekarte haben?",
+        "هل يمكنني الحصول على قائمة الطعام من فضلك؟"
+      ],
+      "de": [
+        "Die Speisekarte wird täglich aktualisiert.",
+        "تُحدّث قائمة الطعام يومياً."
+      ]
+    }
+  },
+  {
+    "word": "die Vorspeise",
+    "translations": {
+      "ar": "المقبلات",
+      "de": "erster Gang eines Menüs"
+    },
+    "explanation": {
+      "ar": "الطبق الأول في الوجبة، يُقدّم قبل الطبق الرئيسي.",
+      "de": "Erster Gang einer Mahlzeit, wird vor dem Hauptgericht serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Als Vorspeise empfehle ich die Suppe.",
+        "كمقبلات أنصح بالحساء."
+      ],
+      "de": [
+        "Die Vorspeisen sind sehr beliebt.",
+        "المقبلات محبوبة جداً."
+      ]
+    }
+  },
+  {
+    "word": "das Hauptgericht",
+    "translations": {
+      "ar": "الطبق الرئيسي",
+      "de": "wichtigster Gang eines Menüs"
+    },
+    "explanation": {
+      "ar": "الطبق الأهم في الوجبة، عادة يحتوي على لحم أو سمك مع مرافقات.",
+      "de": "Wichtigster Gang einer Mahlzeit, meist mit Fleisch oder Fisch und Beilagen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Welches Hauptgericht können Sie empfehlen?",
+        "ما الطبق الرئيسي الذي تنصح به؟"
+      ],
+      "de": [
+        "Das Hauptgericht kommt in 15 Minuten.",
+        "الطبق الرئيسي سيأتي في 15 دقيقة."
+      ]
+    }
+  },
+  {
+    "word": "die Nachspeise",
+    "translations": {
+      "ar": "الحلوى، التحلية",
+      "de": "süßer Gang am Ende des Menüs"
+    },
+    "explanation": {
+      "ar": "الطبق الحلو في نهاية الوجبة. يُسمى أيضاً 'Dessert'.",
+      "de": "Süßer Gang am Ende der Mahlzeit. Auch 'Dessert' genannt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie eine Nachspeise?",
+        "هل تريد حلوى؟"
+      ],
+      "de": [
+        "Die Nachspeise ist im Menü inbegriffen.",
+        "الحلوى مشمولة في القائمة."
+      ]
+    }
+  },
+  {
+    "word": "die Beilage",
+    "translations": {
+      "ar": "المرافقات",
+      "de": "Zusatz zum Hauptgericht"
+    },
+    "explanation": {
+      "ar": "الأطباق الجانبية التي تُقدم مع الطبق الرئيسي مثل البطاطا والأرز والخضروات.",
+      "de": "Zusätzliche Speisen zum Hauptgericht wie Kartoffeln, Reis oder Gemüse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Welche Beilage möchten Sie?",
+        "أي مرافقات تريد؟"
+      ],
+      "de": [
+        "Das Steak kommt mit zwei Beilagen.",
+        "الستيك يأتي مع مرافقتين."
+      ]
+    }
+  },
+  {
+    "word": "die Portion",
+    "translations": {
+      "ar": "الحصة، الوجبة",
+      "de": "Menge für eine Person"
+    },
+    "explanation": {
+      "ar": "كمية الطعام المخصصة لشخص واحد. يمكن أن تكون كبيرة أو صغيرة.",
+      "de": "Essensmenge für eine Person. Kann groß oder klein sein."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Portionen sind hier sehr groß.",
+        "الحصص هنا كبيرة جداً."
+      ],
+      "de": [
+        "Kann ich eine halbe Portion bekommen?",
+        "هل يمكنني الحصول على نصف حصة؟"
+      ]
+    }
+  },
+  {
+    "word": "bestellen",
+    "translations": {
+      "ar": "يطلب الطعام",
+      "de": "Essen oder Getränke auswählen"
+    },
+    "explanation": {
+      "ar": "اختيار الطعام أو الشراب من القائمة وإخبار النادل.",
+      "de": "Speisen oder Getränke von der Karte auswählen und dem Kellner mitteilen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "bestellen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "bestelle"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "bestellt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "bestellte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe bestellt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Haben Sie schon bestellt?",
+        "هل طلبت بالفعل؟"
+      ],
+      "de": [
+        "Ich möchte gerne bestellen.",
+        "أود أن أطلب من فضلك."
+      ]
+    }
+  },
+  {
+    "word": "empfehlen",
+    "translations": {
+      "ar": "ينصح، يوصي",
+      "de": "einen guten Rat geben"
+    },
+    "explanation": {
+      "ar": "إعطاء نصيحة للضيف حول أفضل الأطباق. مهارة مهمة في الخدمة.",
+      "de": "Dem Gast einen guten Rat zu den besten Gerichten geben. Wichtige Servicefähigkeit."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "empfehlen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "empfehle"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "empfiehlt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "empfahl"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe empfohlen"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Was können Sie uns empfehlen?",
+        "بماذا تنصحنا؟"
+      ],
+      "de": [
+        "Ich empfehle Ihnen den Fisch, der ist heute besonders frisch.",
+        "أنصحك بالسمك، إنه طازج جداً اليوم."
+      ]
+    }
+  },
+  {
+    "word": "die Reservierung",
+    "translations": {
+      "ar": "الحجز",
+      "de": "Tischbuchung im Voraus"
+    },
+    "explanation": {
+      "ar": "حجز طاولة في المطعم مسبقاً. ضروري للمطاعم المزدحمة.",
+      "de": "Tischbuchung im Restaurant im Voraus. Notwendig bei vollen Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie eine Reservierung?",
+        "هل لديك حجز؟"
+      ],
+      "de": [
+        "Ich möchte eine Reservierung für vier Personen machen.",
+        "أود عمل حجز لأربعة أشخاص."
+      ]
+    }
+  },
+  {
+    "word": "die Rechnung",
+    "translations": {
+      "ar": "الفاتورة، الحساب",
+      "de": "Zahlungsbeleg für konsumierte Speisen"
+    },
+    "explanation": {
+      "ar": "الورقة التي تحتوي على سعر جميع الأطباق والمشروبات المطلوبة.",
+      "de": "Beleg mit den Preisen aller bestellten Speisen und Getränke."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Rechnung, bitte!",
+        "الحساب من فضلك!"
+      ],
+      "de": [
+        "Können wir getrennt zahlen?",
+        "هل يمكننا الدفع بشكل منفصل؟"
+      ]
+    }
+  },
+  {
+    "word": "das Trinkgeld",
+    "translations": {
+      "ar": "البقشيش، الإكرامية",
+      "de": "freiwillige Zusatzzahlung für guten Service"
+    },
+    "explanation": {
+      "ar": "مبلغ إضافي يُعطى للنادل كمكافأة على الخدمة الجيدة. عادة 5-10%.",
+      "de": "Zusätzlicher Betrag für den Kellner als Dank für guten Service. Üblich 5-10%."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Trinkgeld ist nicht im Preis enthalten.",
+        "البقشيش غير مشمول في السعر."
+      ],
+      "de": [
+        "Der Service war ausgezeichnet, ich gebe 15% Trinkgeld.",
+        "الخدمة كانت ممتازة، سأعطي 15% بقشيشاً."
+      ]
+    }
+  },
+  {
+    "word": "zahlen",
+    "translations": {
+      "ar": "يدفع",
+      "de": "Geld für eine Leistung geben"
+    },
+    "explanation": {
+      "ar": "إعطاء المال مقابل الطعام والشراب في المطعم.",
+      "de": "Geld für Speisen und Getränke im Restaurant geben."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "zahlen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "zahle"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "zahlt"
+      },
+      {
+        "form": "Präteritum",
+        "value": "zahlte"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe gezahlt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Ich möchte zahlen, bitte.",
+        "أود أن أدفع من فضلك."
+      ],
+      "de": [
+        "Kann ich mit Karte zahlen?",
+        "هل يمكنني الدفع بالبطاقة؟"
+      ]
+    }
+  },
+  {
+    "word": "die Weinkarte",
+    "translations": {
+      "ar": "قائمة النبيذ",
+      "de": "Liste mit allen Weinen im Restaurant"
+    },
+    "explanation": {
+      "ar": "قائمة خاصة تحتوي على جميع أنواع النبيذ المتوفرة في المطعم.",
+      "de": "Spezielle Karte mit allen verfügbaren Weinen im Restaurant."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Darf ich Ihnen die Weinkarte bringen?",
+        "هل يمكنني إحضار قائمة النبيذ؟"
+      ],
+      "de": [
+        "Haben Sie deutsche Weine auf der Weinkarte?",
+        "هل لديكم نبيذ ألماني في القائمة؟"
+      ]
+    }
+  },
+  {
+    "word": "einschenken",
+    "translations": {
+      "ar": "يصب المشروب",
+      "de": "Flüssigkeit in ein Glas gießen"
+    },
+    "explanation": {
+      "ar": "صب النبيذ أو الماء أو أي مشروب في كأس الضيف. يجب أن يتم باحترافية.",
+      "de": "Wein, Wasser oder andere Getränke in das Glas des Gastes gießen. Muss professionell erfolgen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "einschenken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schenke ein"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "schenkt ein"
+      },
+      {
+        "form": "Präteritum",
+        "value": "schenkte ein"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe eingeschenkt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Darf ich Ihnen Wein einschenken?",
+        "هل يمكنني أن أصب لك النبيذ؟"
+      ],
+      "de": [
+        "Schenken Sie von rechts ein.",
+        "اصب من اليمين."
+      ]
+    }
+  },
+  {
+    "word": "die Tischdecke",
+    "translations": {
+      "ar": "مفرش الطاولة",
+      "de": "Stoff zum Bedecken des Tisches"
+    },
+    "explanation": {
+      "ar": "قماش يُوضع على الطاولة لتغطيتها. يجب أن يكون نظيفاً ومكوياً.",
+      "de": "Stoff zur Abdeckung des Tisches. Muss sauber und gebügelt sein."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Tischdecke muss gewechselt werden.",
+        "يجب تغيير مفرش الطاولة."
+      ],
+      "de": [
+        "Weiße Tischdecken wirken elegant.",
+        "مفارش الطاولة البيضاء تبدو أنيقة."
+      ]
+    }
+  },
+  {
+    "word": "das Besteck",
+    "translations": {
+      "ar": "أدوات المائدة",
+      "de": "Messer, Gabel und Löffel"
+    },
+    "explanation": {
+      "ar": "الأدوات المستخدمة للأكل: السكين، الشوكة، والملعقة.",
+      "de": "Essgeschirr: Messer, Gabel und Löffel zum Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Besteck muss poliert werden.",
+        "يجب تلميع أدوات المائدة."
+      ],
+      "de": [
+        "Können Sie mir bitte neues Besteck bringen?",
+        "هل يمكنك إحضار أدوات مائدة جديدة من فضلك؟"
+      ]
+    }
+  },
+  {
+    "word": "das Geschirr",
+    "translations": {
+      "ar": "الأطباق والأواني",
+      "de": "Teller, Tassen und Schüsseln"
+    },
+    "explanation": {
+      "ar": "جميع الأطباق والأكواب والأواني المستخدمة لتقديم الطعام.",
+      "de": "Alle Teller, Tassen und Schüsseln zum Servieren von Speisen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Geschirr muss gespült werden.",
+        "يجب غسل الأطباق."
+      ],
+      "de": [
+        "Wir verwenden nur hochwertiges Geschirr.",
+        "نستخدم فقط أطباقاً عالية الجودة."
+      ]
+    }
+  },
+  {
+    "word": "der Teller",
+    "translations": {
+      "ar": "الطبق",
+      "de": "flaches Geschirrstück zum Essen"
+    },
+    "explanation": {
+      "ar": "قطعة دائرية مسطحة يُوضع عليها الطعام. توجد أحجام مختلفة.",
+      "de": "Rundes, flaches Geschirr für Speisen. Gibt es in verschiedenen Größen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Räumen Sie die Teller ab.",
+        "أزل الأطباق."
+      ],
+      "de": [
+        "Die Teller sind heiß, Vorsicht!",
+        "الأطباق ساخنة، احذر!"
+      ]
+    }
+  },
+  {
+    "word": "das Glas",
+    "translations": {
+      "ar": "الكأس، الزجاج",
+      "de": "Trinkgefäß"
+    },
+    "explanation": {
+      "ar": "إناء للشرب مصنوع من الزجاج. توجد أنواع مختلفة للماء والنبيذ والبيرة.",
+      "de": "Trinkgefäß aus Glas. Es gibt verschiedene Arten für Wasser, Wein und Bier."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bringen Sie mir bitte ein Glas Wasser.",
+        "أحضر لي كأس ماء من فضلك."
+      ],
+      "de": [
+        "Das Glas ist schmutzig.",
+        "الكأس متسخ."
+      ]
+    }
+  },
+  {
+    "word": "die Serviette",
+    "translations": {
+      "ar": "المنديل",
+      "de": "Stofftuch zum Abwischen beim Essen"
+    },
+    "explanation": {
+      "ar": "منديل قماشي يستخدمه الضيف أثناء تناول الطعام لمسح الفم واليدين.",
+      "de": "Stofftuch, das der Gast beim Essen zum Abwischen von Mund und Händen benutzt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Serviette liegt auf dem Teller.",
+        "المنديل موضوع على الطبق."
+      ],
+      "de": [
+        "Falten Sie die Servietten schön.",
+        "اطوِ المناديل بشكل جميل."
+      ]
+    }
+  },
+  {
+    "word": "der Salzstreuer",
+    "translations": {
+      "ar": "مملحة",
+      "de": "Behälter für Salz"
+    },
+    "explanation": {
+      "ar": "إناء صغير يحتوي على الملح، يُوضع على الطاولة.",
+      "de": "Kleiner Behälter mit Salz, steht auf dem Tisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Können Sie mir den Salzstreuer reichen?",
+        "هل يمكنك أن تناولني المملحة؟"
+      ],
+      "de": [
+        "Der Salzstreuer ist leer.",
+        "المملحة فارغة."
+      ]
+    }
+  },
+  {
+    "word": "der Pfefferstreuer",
+    "translations": {
+      "ar": "مطحنة الفلفل",
+      "de": "Behälter für Pfeffer"
+    },
+    "explanation": {
+      "ar": "إناء صغير يحتوي على الفلفل، يُوضع على الطاولة.",
+      "de": "Kleiner Behälter mit Pfeffer, steht auf dem Tisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie frisch gemahlenen Pfeffer?",
+        "هل تريد فلفلاً مطحوناً طازجاً؟"
+      ],
+      "de": [
+        "Der Pfefferstreuer gehört zum Salzstreuer.",
+        "مطحنة الفلفل تنتمي للمملحة."
+      ]
+    }
+  },
+  {
+    "word": "abräumen",
+    "translations": {
+      "ar": "يرفع الأطباق من الطاولة",
+      "de": "Geschirr vom Tisch nehmen"
+    },
+    "explanation": {
+      "ar": "إزالة الأطباق الفارغة من طاولة الضيوف. يجب أن يتم من اليمين.",
+      "de": "Leeres Geschirr vom Gästetisch nehmen. Sollte von rechts erfolgen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "abräumen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "räume ab"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "räumt ab"
+      },
+      {
+        "form": "Präteritum",
+        "value": "räumte ab"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe abgeräumt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Kann ich schon abräumen?",
+        "هل يمكنني رفع الأطباق؟"
+      ],
+      "de": [
+        "Räumen Sie Tisch 5 ab.",
+        "ارفع الأطباق من الطاولة 5."
+      ]
+    }
+  },
+  {
+    "word": "eindecken",
+    "translations": {
+      "ar": "يُجهز الطاولة",
+      "de": "Tisch zum Essen vorbereiten"
+    },
+    "explanation": {
+      "ar": "تحضير الطاولة بوضع الأطباق والأدوات والأكواب. يجب أن يتم بدقة واهتمام.",
+      "de": "Tisch mit Geschirr, Besteck und Gläsern vorbereiten. Muss sorgfältig und präzise erfolgen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "eindecken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "decke ein"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "deckt ein"
+      },
+      {
+        "form": "Präteritum",
+        "value": "deckte ein"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe eingedeckt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Decken Sie die Tische für das Abendessen ein.",
+        "جهّز الطاولات لوجبة العشاء."
+      ],
+      "de": [
+        "Die Tische sind schon eingedeckt.",
+        "الطاولات مجهزة بالفعل."
+      ]
+    }
+  },
+  {
+    "word": "der Empfang",
+    "translations": {
+      "ar": "الاستقبال",
+      "de": "Rezeption im Hotel"
+    },
+    "explanation": {
+      "ar": "مكتب الاستقبال في الفندق حيث يتم تسجيل الوصول والمغادرة.",
+      "de": "Rezeptionsbereich im Hotel, wo Check-in und Check-out erfolgen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bitte melden Sie sich am Empfang.",
+        "من فضلك سجّل في الاستقبال."
+      ],
+      "de": [
+        "Der Empfang ist 24 Stunden besetzt.",
+        "الاستقبال مفتوح 24 ساعة."
+      ]
+    }
+  },
+  {
+    "word": "einchecken",
+    "translations": {
+      "ar": "يسجّل الوصول",
+      "de": "sich im Hotel anmelden"
+    },
+    "explanation": {
+      "ar": "إجراء تسجيل الدخول في الفندق عند الوصول. يتضمن تسليم المفتاح وملء الاستمارات.",
+      "de": "Anmeldeprozedur bei Ankunft im Hotel. Beinhaltet Schlüsselübergabe und Formularausfüllung."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "einchecken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "checke ein"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "checkt ein"
+      },
+      {
+        "form": "Präteritum",
+        "value": "checkte ein"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe eingecheckt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Wann möchten Sie einchecken?",
+        "متى تريد أن تسجّل الوصول؟"
+      ],
+      "de": [
+        "Check-in ist ab 15 Uhr möglich.",
+        "تسجيل الوصول ممكن من الساعة 3 مساءً."
+      ]
+    }
+  },
+  {
+    "word": "auschecken",
+    "translations": {
+      "ar": "يسجّل المغادرة",
+      "de": "sich im Hotel abmelden"
+    },
+    "explanation": {
+      "ar": "إجراء تسجيل المغادرة من الفندق. يتضمن دفع الفاتورة وإرجاع المفتاح.",
+      "de": "Abmeldeprozedur beim Verlassen des Hotels. Beinhaltet Rechnungsbegleichung und Schlüsselrückgabe."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "auschecken"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "checke aus"
+      },
+      {
+        "form": "Präsens er/sie/es",
+        "value": "checkt aus"
+      },
+      {
+        "form": "Präteritum",
+        "value": "checkte aus"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe ausgecheckt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Bis wann muss ich auschecken?",
+        "حتى متى يجب أن أسجّل المغادرة؟"
+      ],
+      "de": [
+        "Check-out ist bis 11 Uhr.",
+        "تسجيل المغادرة حتى الساعة 11."
+      ]
+    }
+  },
+  {
+    "word": "das Einzelzimmer",
+    "translations": {
+      "ar": "غرفة فردية",
+      "de": "Zimmer für eine Person"
+    },
+    "explanation": {
+      "ar": "غرفة فندقية مخصصة لشخص واحد مع سرير واحد.",
+      "de": "Hotelzimmer für eine Person mit einem Bett."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich hätte gern ein Einzelzimmer für zwei Nächte.",
+        "أريد غرفة فردية لليلتين."
+      ],
+      "de": [
+        "Das Einzelzimmer kostet 80 Euro pro Nacht.",
+        "الغرفة الفردية تكلف 80 يورو في الليلة."
+      ]
+    }
+  },
+  {
+    "word": "das Doppelzimmer",
+    "translations": {
+      "ar": "غرفة مزدوجة",
+      "de": "Zimmer für zwei Personen"
+    },
+    "explanation": {
+      "ar": "غرفة فندقية لشخصين، يمكن أن يكون بها سرير مزدوج أو سريرين منفصلين.",
+      "de": "Hotelzimmer für zwei Personen, entweder mit Doppelbett oder zwei Einzelbetten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie noch ein Doppelzimmer frei?",
+        "هل لديكم غرفة مزدوجة متاحة؟"
+      ],
+      "de": [
+        "Das Doppelzimmer hat einen Balkon.",
+        "الغرفة المزدوجة لها شرفة."
+      ]
+    }
+  },
+  {
+    "word": "die Suite",
+    "translations": {
+      "ar": "جناح فندقي",
+      "de": "luxuriöse Zimmerkombination"
+    },
+    "explanation": {
+      "ar": "مجموعة غرف فاخرة في الفندق تتكون من غرفة نوم وصالة. الأغلى سعراً.",
+      "de": "Luxuriöse Zimmerkombination im Hotel mit Schlafzimmer und Wohnbereich. Am teuersten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Honeymoon-Suite ist wunderschön.",
+        "جناح شهر العسل جميل جداً."
+      ],
+      "de": [
+        "Unsere Suiten bieten einen Meerblick.",
+        "أجنحتنا توفر إطلالة على البحر."
+      ]
+    }
+  },
+  {
+    "word": "das Frühstück",
+    "translations": {
+      "ar": "وجبة الإفطار",
+      "de": "erste Mahlzeit des Tages"
+    },
+    "explanation": {
+      "ar": "الوجبة الأولى في اليوم، تُقدّم صباحاً في الفندق أو المطعم.",
+      "de": "Erste Mahlzeit des Tages, morgens im Hotel oder Restaurant serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ist das Frühstück im Preis inbegriffen?",
+        "هل الإفطار مشمول في السعر؟"
+      ],
+      "de": [
+        "Das Frühstücksbuffet ist von 7 bis 10 Uhr geöffnet.",
+        "بوفيه الإفطار مفتوح من 7 إلى 10."
+      ]
+    }
+  },
+  {
+    "word": "die Allergie",
+    "translations": {
+      "ar": "الحساسية",
+      "de": "Unverträglichkeit gegen bestimmte Stoffe"
+    },
+    "explanation": {
+      "ar": "عدم تحمل أطعمة أو مواد معينة. مهم السؤال عنها في المطعم.",
+      "de": "Unverträglichkeit bestimmter Lebensmittel oder Stoffe. Wichtig im Restaurant nachzufragen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie Allergien?",
+        "هل لديك حساسية؟"
+      ],
+      "de": [
+        "Ich habe eine Nussallergie.",
+        "لدي حساسية من المكسرات."
+      ]
+    }
+  },
+  {
+    "word": "vegetarisch",
+    "translations": {
+      "ar": "نباتي",
+      "de": "ohne Fleisch und Fisch"
+    },
+    "explanation": {
+      "ar": "طعام بدون لحم أو سمك. يحتوي على خضروات ومنتجات ألبان وبيض.",
+      "de": "Essen ohne Fleisch und Fisch. Enthält Gemüse, Milchprodukte und Eier."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie vegetarische Gerichte?",
+        "هل لديكم أطباق نباتية؟"
+      ],
+      "de": [
+        "Ich esse nur vegetarisch.",
+        "آكل فقط طعاماً نباتياً."
+      ]
+    }
+  },
+  {
+    "word": "vegan",
+    "translations": {
+      "ar": "نباتي صرف",
+      "de": "ohne tierische Produkte"
+    },
+    "explanation": {
+      "ar": "طعام بدون أي منتجات حيوانية. لا لحم ولا سمك ولا بيض ولا ألبان.",
+      "de": "Essen ohne jegliche tierische Produkte. Kein Fleisch, Fisch, Eier oder Milchprodukte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ist dieses Gericht vegan?",
+        "هل هذا الطبق نباتي صرف؟"
+      ],
+      "de": [
+        "Wir bieten auch vegane Optionen an.",
+        "نقدم أيضاً خيارات نباتية صرفة."
+      ]
+    }
+  },
+  {
+    "word": "glutenfrei",
+    "translations": {
+      "ar": "خالٍ من الغلوتين",
+      "de": "ohne Gluten"
+    },
+    "explanation": {
+      "ar": "طعام لا يحتوي على غلوتين. مهم للأشخاص الذين يعانون من حساسية القمح.",
+      "de": "Essen ohne Gluten. Wichtig für Menschen mit Glutenunverträglichkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie glutenfreies Brot?",
+        "هل لديكم خبز خالٍ من الغلوتين؟"
+      ],
+      "de": [
+        "Alle unsere Salate sind glutenfrei.",
+        "جميع سلطاتنا خالية من الغلوتين."
+      ]
+    }
+  },
+  {
+    "word": "scharf",
+    "translations": {
+      "ar": "حار، حريف",
+      "de": "mit viel Pfeffer oder Chili"
+    },
+    "explanation": {
+      "ar": "طعام يحتوي على كثير من الفلفل أو الشطة. يسبب إحساساً بالحرارة في الفم.",
+      "de": "Essen mit viel Pfeffer oder Chili. Verursacht ein brennendes Gefühl im Mund."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ist das Curry scharf?",
+        "هل الكاري حار؟"
+      ],
+      "de": [
+        "Ich mag es nicht zu scharf.",
+        "لا أحب الطعام الحار جداً."
+      ]
+    }
+  },
+  {
+    "word": "mild",
+    "translations": {
+      "ar": "خفيف، غير حار",
+      "de": "nicht scharf"
+    },
+    "explanation": {
+      "ar": "طعام غير حار، بدون كثير من التوابل القوية.",
+      "de": "Nicht scharfes Essen, ohne starke Gewürze."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Können Sie das Gericht mild machen?",
+        "هل يمكنك جعل الطبق خفيفاً؟"
+      ],
+      "de": [
+        "Diese Soße ist sehr mild.",
+        "هذه الصلصة خفيفة جداً."
+      ]
+    }
+  },
+  {
+    "word": "frisch",
+    "translations": {
+      "ar": "طازج",
+      "de": "nicht alt, gerade zubereitet"
+    },
+    "explanation": {
+      "ar": "طعام جديد وليس قديماً، تم تحضيره حديثاً. مهم جداً في الطهي الجيد.",
+      "de": "Neu und nicht alt, gerade zubereitet. Sehr wichtig für gutes Kochen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Fisch ist heute ganz frisch.",
+        "السمك طازج جداً اليوم."
+      ],
+      "de": [
+        "Wir verwenden nur frische Zutaten.",
+        "نستخدم فقط مكونات طازجة."
+      ]
+    }
+  },
+  {
+    "word": "tiefgekühlt",
+    "translations": {
+      "ar": "مجمّد",
+      "de": "durch Einfrieren konserviert"
+    },
+    "explanation": {
+      "ar": "طعام محفوظ بالتجميد. يدوم أطول لكن قد يفقد بعض الجودة.",
+      "de": "Durch Einfrieren konservierte Lebensmittel. Hält länger, kann aber an Qualität verlieren."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Verwenden Sie tiefgefrorenes oder frisches Gemüse?",
+        "هل تستخدمون خضروات مجمدة أم طازجة؟"
+      ],
+      "de": [
+        "Tiefgekühlte Produkte sind in Ordnung für manche Gerichte.",
+        "المنتجات المجمدة مقبولة لبعض الأطباق."
+      ]
+    }
+  },
+  {
+    "word": "die Zutat",
+    "translations": {
+      "ar": "المكوّن",
+      "de": "Bestandteil eines Gerichts"
+    },
+    "explanation": {
+      "ar": "أحد العناصر المستخدمة في تحضير طبق. مثل الطماطم أو البصل أو اللحم.",
+      "de": "Einzelner Bestandteil zur Zubereitung eines Gerichts. Wie Tomaten, Zwiebeln oder Fleisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Welche Zutaten sind in diesem Gericht?",
+        "ما هي المكونات في هذا الطبق؟"
+      ],
+      "de": [
+        "Alle Zutaten sind bio.",
+        "جميع المكونات عضوية."
+      ]
+    }
+  },
+  {
+    "word": "das Rezept",
+    "translations": {
+      "ar": "الوصفة",
+      "de": "Anleitung zum Kochen"
+    },
+    "explanation": {
+      "ar": "تعليمات مكتوبة لتحضير طبق معين. تتضمن المكونات والخطوات.",
+      "de": "Schriftliche Anleitung zur Zubereitung eines Gerichts. Enthält Zutaten und Schritte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie das Rezept für diese Soße?",
+        "هل لديك وصفة هذه الصلصة؟"
+      ],
+      "de": [
+        "Das ist ein altes Familienrezept.",
+        "هذه وصفة عائلية قديمة."
+      ]
+    }
+  },
+  {
+    "word": "die Hygiene",
+    "translations": {
+      "ar": "النظافة الصحية",
+      "de": "Sauberkeit und Gesundheitsschutz"
+    },
+    "explanation": {
+      "ar": "النظافة والإجراءات الصحية في المطبخ. مهمة جداً لمنع الأمراض.",
+      "de": "Sauberkeit und Gesundheitsmaßnahmen in der Küche. Sehr wichtig zur Krankheitsverhütung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hygiene ist in der Küche am wichtigsten.",
+        "النظافة الصحية هي الأهم في المطبخ."
+      ],
+      "de": [
+        "Alle Mitarbeiter müssen die Hygienevorschriften beachten.",
+        "يجب على جميع الموظفين مراعاة لوائح النظافة."
+      ]
+    }
+  },
+  {
+    "word": "die Schürze",
+    "translations": {
+      "ar": "المريلة",
+      "de": "Schutzkleidung für die Kleidung"
+    },
+    "explanation": {
+      "ar": "قطعة قماش تُلبس فوق الملابس للحماية من الأوساخ. إلزامية في المطبخ.",
+      "de": "Stoffstück über der Kleidung zum Schutz vor Schmutz. Pflicht in der Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ziehen Sie die Schürze an, bevor Sie kochen.",
+        "ارتدِ المريلة قبل أن تطبخ."
+      ],
+      "de": [
+        "Die Schürze muss täglich gewechselt werden.",
+        "يجب تغيير المريلة يومياً."
+      ]
+    }
+  },
+  {
+    "word": "die Haube",
+    "translations": {
+      "ar": "قبعة المطبخ",
+      "de": "Kopfbedeckung in der Küche"
+    },
+    "explanation": {
+      "ar": "غطاء للرأس يُلبس في المطبخ لمنع سقوط الشعر في الطعام.",
+      "de": "Kopfbedeckung in der Küche, verhindert Haarausfall ins Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Alle Köche müssen eine Haube tragen.",
+        "يجب على جميع الطهاة ارتداء قبعة."
+      ],
+      "de": [
+        "Die Haube ist Teil der Arbeitskleidung.",
+        "القبعة جزء من ملابس العمل."
+      ]
+    }
+  },
+  {
+    "word": "der Handschuh",
+    "translations": {
+      "ar": "القفاز",
+      "de": "Schutz für die Hände"
+    },
+    "explanation": {
+      "ar": "قفازات تُلبس لحماية اليدين أو للنظافة عند تحضير الطعام.",
+      "de": "Handschutz oder für Hygiene beim Zubereiten von Speisen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Tragen Sie Handschuhe beim Schneiden von rohem Fleisch.",
+        "ارتدِ قفازات عند تقطيع اللحم النيء."
+      ],
+      "de": [
+        "Die Handschuhe müssen oft gewechselt werden.",
+        "يجب تغيير القفازات بشكل متكرر."
+      ]
+    }
+  },
+  {
+    "word": "der Kühlschrank",
+    "translations": {
+      "ar": "الثلاجة",
+      "de": "Gerät zum Kühlen von Lebensmitteln"
+    },
+    "explanation": {
+      "ar": "جهاز للحفاظ على الطعام بارداً. ضروري في كل مطبخ.",
+      "de": "Gerät zur kalten Lagerung von Lebensmitteln. Unverzichtbar in jeder Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Stellen Sie das Fleisch in den Kühlschrank.",
+        "ضع اللحم في الثلاجة."
+      ],
+      "de": [
+        "Der Kühlschrank ist zu warm.",
+        "الثلاجة دافئة جداً."
+      ]
+    }
+  },
+  {
+    "word": "der Gefrierschrank",
+    "translations": {
+      "ar": "الفريزر، المجمّد",
+      "de": "Gerät zum Einfrieren"
+    },
+    "explanation": {
+      "ar": "جهاز للحفاظ على الطعام مجمداً تحت الصفر.",
+      "de": "Gerät zur Tiefkühlung von Lebensmitteln unter null Grad."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Eiscreme ist im Gefrierschrank.",
+        "الآيس كريم في المجمد."
+      ],
+      "de": [
+        "Der Gefrierschrank muss abtauen.",
+        "المجمد يحتاج لإزالة الثلج."
+      ]
+    }
+  },
+  {
+    "word": "die Spülmaschine",
+    "translations": {
+      "ar": "غسالة الأطباق",
+      "de": "Maschine zum Geschirrspülen"
+    },
+    "explanation": {
+      "ar": "آلة لغسل الأطباق والأواني أوتوماتيكياً.",
+      "de": "Maschine zum automatischen Spülen von Geschirr und Besteck."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Räumen Sie die Spülmaschine aus.",
+        "أفرغ غسالة الأطباق."
+      ],
+      "de": [
+        "Die Spülmaschine ist voll.",
+        "غسالة الأطباق ممتلئة."
+      ]
+    }
+  },
+  {
+    "word": "die Mikrowelle",
+    "translations": {
+      "ar": "الميكروويف",
+      "de": "Gerät zum schnellen Erwärmen"
+    },
+    "explanation": {
+      "ar": "جهاز لتسخين الطعام بسرعة باستخدام موجات كهرومغناطيسية.",
+      "de": "Gerät zum schnellen Erhitzen mit elektromagnetischen Wellen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Erwärmen Sie die Suppe in der Mikrowelle.",
+        "سخّن الحساء في الميكروويف."
+      ],
+      "de": [
+        "Die Mikrowelle ist praktisch für Reste.",
+        "الميكروويف عملي للبقايا."
+      ]
+    }
+  },
+  {
+    "word": "der Wasserkocher",
+    "translations": {
+      "ar": "غلاية الماء الكهربائية",
+      "de": "elektrisches Gerät zum Wasserkochen"
+    },
+    "explanation": {
+      "ar": "جهاز كهربائي لغلي الماء بسرعة. يُستخدم للشاي والقهوة.",
+      "de": "Elektrisches Gerät zum schnellen Wasserkochen. Für Tee und Kaffee."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Wasserkocher kocht schnell.",
+        "الغلاية تغلي بسرعة."
+      ],
+      "de": [
+        "Schalten Sie den Wasserkocher ein.",
+        "شغّل غلاية الماء."
+      ]
+    }
+  },
+  {
+    "word": "die Kaffeemaschine",
+    "translations": {
+      "ar": "ماكينة القهوة",
+      "de": "Gerät zur Kaffeezubereitung"
+    },
+    "explanation": {
+      "ar": "آلة لتحضير القهوة. ضرورية في كل مطعم.",
+      "de": "Maschine zur Kaffeezubereitung. Unverzichtbar in jedem Restaurant."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Kaffeemaschine braucht Wartung.",
+        "ماكينة القهوة تحتاج صيانة."
+      ],
+      "de": [
+        "Reinigen Sie die Kaffeemaschine täglich.",
+        "نظّف ماكينة القهوة يومياً."
+      ]
+    }
+  },
+  {
+    "word": "schäumen",
+    "translations": {
+      "ar": "يُكوّن رغوة",
+      "de": "Schaum erzeugen"
+    },
+    "explanation": {
+      "ar": "إنتاج رغوة، خاصة في الحليب للقهوة. مهارة للباريستا.",
+      "de": "Schaum produzieren, besonders bei Milch für Kaffee. Barista-Fähigkeit."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "schäumen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "schäume"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe geschäumt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Schäumen Sie die Milch für den Cappuccino.",
+        "كوّن رغوة الحليب للكابتشينو."
+      ],
+      "de": [
+        "Gut geschäumte Milch ist cremig.",
+        "الحليب المرغي جيداً كريمي."
+      ]
+    }
+  },
+  {
+    "word": "der Espresso",
+    "translations": {
+      "ar": "إسبريسو",
+      "de": "starker italienischer Kaffee"
+    },
+    "explanation": {
+      "ar": "قهوة إيطالية قوية مركزة تُقدم في فنجان صغير.",
+      "de": "Starker, konzentrierter italienischer Kaffee in kleiner Tasse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Einen Espresso, bitte.",
+        "إسبريسو واحد من فضلك."
+      ],
+      "de": [
+        "Der Espresso ist zu bitter.",
+        "الإسبريسو مر جداً."
+      ]
+    }
+  },
+  {
+    "word": "der Cappuccino",
+    "translations": {
+      "ar": "كابتشينو",
+      "de": "Espresso mit aufgeschäumter Milch"
+    },
+    "explanation": {
+      "ar": "قهوة إسبريسو مع حليب مرغي. شراب إيطالي شهير.",
+      "de": "Espresso mit aufgeschäumter Milch. Beliebtes italienisches Getränk."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich hätte gern einen Cappuccino.",
+        "أريد كابتشينو."
+      ],
+      "de": [
+        "Der Cappuccino hat zu wenig Schaum.",
+        "الكابتشينو ليس به رغوة كافية."
+      ]
+    }
+  },
+  {
+    "word": "der Latte Macchiato",
+    "translations": {
+      "ar": "لاتيه ماكياتو",
+      "de": "Milchkaffee mit Schichten"
+    },
+    "explanation": {
+      "ar": "قهوة بالحليب مع طبقات مرئية. تُقدم في كأس طويل.",
+      "de": "Milchkaffee mit sichtbaren Schichten. Wird im hohen Glas serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ein Latte Macchiato mit Vanille.",
+        "لاتيه ماكياتو مع فانيليا."
+      ],
+      "de": [
+        "Latte Macchiato ist bei uns sehr beliebt.",
+        "اللاتيه ماكياتو شعبي جداً عندنا."
+      ]
+    }
+  },
+  {
+    "word": "das Tablett",
+    "translations": {
+      "ar": "الصينية",
+      "de": "flache Platte zum Tragen"
+    },
+    "explanation": {
+      "ar": "صينية مسطحة لحمل الأطباق والأكواب. ضرورية للنوادل.",
+      "de": "Flache Platte zum Tragen von Geschirr und Gläsern. Unverzichtbar für Kellner."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Tragen Sie das Tablett mit beiden Händen.",
+        "احمل الصينية بكلتا يديك."
+      ],
+      "de": [
+        "Das Tablett ist zu schwer.",
+        "الصينية ثقيلة جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Beschwerde",
+    "translations": {
+      "ar": "الشكوى",
+      "de": "Reklamation des Gastes"
+    },
+    "explanation": {
+      "ar": "شكوى الضيف عن الطعام أو الخدمة. يجب التعامل معها بمهنية.",
+      "de": "Reklamation des Gastes über Essen oder Service. Muss professionell behandelt werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wie kann ich Ihnen bei Ihrer Beschwerde helfen?",
+        "كيف يمكنني مساعدتك بشكواك؟"
+      ],
+      "de": [
+        "Nehmen Sie Beschwerden ernst.",
+        "خذ الشكاوى بجدية."
+      ]
+    }
+  },
+  {
+    "word": "die Reklamation",
+    "translations": {
+      "ar": "المطالبة بالحقوق",
+      "de": "formelle Beschwerde"
+    },
+    "explanation": {
+      "ar": "شكوى رسمية. عادة مكتوبة أو موثقة.",
+      "de": "Formelle Beschwerde. Meist schriftlich oder dokumentiert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Reklamation wird bearbeitet.",
+        "تتم معالجة الشكوى."
+      ],
+      "de": [
+        "Wir haben eine Reklamation erhalten.",
+        "تلقينا شكوى."
+      ]
+    }
+  },
+  {
+    "word": "das Missverständnis",
+    "translations": {
+      "ar": "سوء الفهم",
+      "de": "falsches Verstehen"
+    },
+    "explanation": {
+      "ar": "عدم فهم صحيح بين النادل والضيف. يجب توضيحه بسرعة.",
+      "de": "Falsches Verstehen zwischen Kellner und Gast. Muss schnell geklärt werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Es gab ein Missverständnis mit der Bestellung.",
+        "كان هناك سوء فهم في الطلب."
+      ],
+      "de": [
+        "Entschuldigen Sie das Missverständnis.",
+        "عذراً على سوء الفهم."
+      ]
+    }
+  },
+  {
+    "word": "die Entschuldigung",
+    "translations": {
+      "ar": "الاعتذار",
+      "de": "Ausdruck des Bedauerns"
+    },
+    "explanation": {
+      "ar": "الاعتراف بالخطأ والاعتذار. مهم جداً في خدمة الضيوف.",
+      "de": "Eingeständnis eines Fehlers und Ausdruck des Bedauerns. Sehr wichtig im Service."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bitte entschuldigen Sie die Verzögerung.",
+        "من فضلك اعذرنا على التأخير."
+      ],
+      "de": [
+        "Eine aufrichtige Entschuldigung ist wichtig.",
+        "الاعتذار الصادق مهم."
+      ]
+    }
+  },
+  {
+    "word": "der Stammgast",
+    "translations": {
+      "ar": "الزبون الدائم",
+      "de": "regelmäßiger Kunde"
+    },
+    "explanation": {
+      "ar": "ضيف يأتي بانتظام إلى المطعم. يجب معاملته بشكل خاص.",
+      "de": "Gast, der regelmäßig ins Restaurant kommt. Sollte besonders behandelt werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Herr Müller ist unser Stammgast.",
+        "السيد مولر زبوننا الدائم."
+      ],
+      "de": [
+        "Stammgäste sind sehr wichtig für uns.",
+        "الزبائن الدائمون مهمون جداً لنا."
+      ]
+    }
+  },
+  {
+    "word": "die Schicht",
+    "translations": {
+      "ar": "الوردية",
+      "de": "Arbeitsperiode"
+    },
+    "explanation": {
+      "ar": "فترة العمل المحددة. في المطاعم عادة صباحية أو مسائية.",
+      "de": "Festgelegte Arbeitsperiode. In Restaurants meist Früh- oder Spätschicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Meine Schicht beginnt um 17 Uhr.",
+        "ورديتي تبدأ الساعة 5 مساءً."
+      ],
+      "de": [
+        "Die Abendschicht ist immer voll.",
+        "وردية المساء دائماً مزدحمة."
+      ]
+    }
+  },
+  {
+    "word": "der Feierabend",
+    "translations": {
+      "ar": "نهاية يوم العمل",
+      "de": "Ende der Arbeitszeit"
+    },
+    "explanation": {
+      "ar": "نهاية وقت العمل. الوقت للذهاب للمنزل.",
+      "de": "Ende der Arbeitszeit. Zeit, nach Hause zu gehen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich habe um 22 Uhr Feierabend.",
+        "أنهي عملي الساعة 10 مساءً."
+      ],
+      "de": [
+        "Schönen Feierabend!",
+        "يوم عمل جميل!"
+      ]
+    }
+  },
+  {
+    "word": "die Überstunde",
+    "translations": {
+      "ar": "ساعة عمل إضافية",
+      "de": "zusätzliche Arbeitsstunde"
+    },
+    "explanation": {
+      "ar": "ساعة عمل أكثر من الوقت العادي. تُدفع عادة بسعر أعلى.",
+      "de": "Arbeitsstunde über die normale Zeit hinaus. Wird meist höher bezahlt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Müssen Sie Überstunden machen?",
+        "هل يجب أن تعمل ساعات إضافية؟"
+      ],
+      "de": [
+        "Überstunden werden extra bezahlt.",
+        "الساعات الإضافية تُدفع إضافياً."
+      ]
+    }
+  },
+  {
+    "word": "der Urlaub",
+    "translations": {
+      "ar": "الإجازة",
+      "de": "freie Tage von der Arbeit"
+    },
+    "explanation": {
+      "ar": "أيام راحة من العمل. حق لكل موظف.",
+      "de": "Freie Tage von der Arbeit. Recht jedes Mitarbeiters."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich nehme nächste Woche Urlaub.",
+        "سآخذ إجازة الأسبوع القادم."
+      ],
+      "de": [
+        "Wann haben Sie Urlaub?",
+        "متى لديك إجازة؟"
+      ]
+    }
+  },
+  {
+    "word": "der Krankheitsfall",
+    "translations": {
+      "ar": "حالة مرض",
+      "de": "Abwesenheit wegen Krankheit"
+    },
+    "explanation": {
+      "ar": "الغياب عن العمل بسبب المرض. يجب إبلاغ المدير.",
+      "de": "Abwesenheit von der Arbeit wegen Krankheit. Muss dem Chef gemeldet werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Im Krankheitsfall müssen Sie anrufen.",
+        "في حالة المرض يجب أن تتصل."
+      ],
+      "de": [
+        "Es gibt drei Krankheitsfälle heute.",
+        "يوجد ثلاث حالات مرض اليوم."
+      ]
+    }
+  },
+  {
+    "word": "das Gehalt",
+    "translations": {
+      "ar": "الراتب",
+      "de": "monatliche Bezahlung"
+    },
+    "explanation": {
+      "ar": "المال الذي يُدفع شهرياً للموظف مقابل عمله.",
+      "de": "Geld, das monatlich an den Mitarbeiter für seine Arbeit gezahlt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Gehalt wird am Monatsende überwiesen.",
+        "يُحوّل الراتب في نهاية الشهر."
+      ],
+      "de": [
+        "Ist das Gehalt verhandelbar?",
+        "هل الراتب قابل للتفاوض؟"
+      ]
+    }
+  },
+  {
+    "word": "der Lohn",
+    "translations": {
+      "ar": "الأجر",
+      "de": "Bezahlung nach Stunden"
+    },
+    "explanation": {
+      "ar": "المال المدفوع على أساس الساعة أو اليوم. مختلف عن الراتب الشهري.",
+      "de": "Geld, das auf Stunden- oder Tagesbasis bezahlt wird. Anders als Monatsgehalt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Lohn beträgt 12 Euro pro Stunde.",
+        "الأجر 12 يورو في الساعة."
+      ],
+      "de": [
+        "Aushilfen bekommen einen Stundenlohn.",
+        "العمال المؤقتون يحصلون على أجر ساعة."
+      ]
+    }
+  },
+  {
+    "word": "das Trinkgeldkonto",
+    "translations": {
+      "ar": "حساب البقشيش",
+      "de": "gemeinsame Trinkgeldkasse"
+    },
+    "explanation": {
+      "ar": "حساب مشترك حيث يُجمع البقشيش ويُوزع بين الموظفين.",
+      "de": "Gemeinsame Kasse, wo Trinkgeld gesammelt und unter Mitarbeitern verteilt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Trinkgeld kommt ins Trinkgeldkonto.",
+        "البقشيش يذهب إلى حساب البقشيش."
+      ],
+      "de": [
+        "Am Monatsende wird das Trinkgeldkonto aufgeteilt.",
+        "في نهاية الشهر يُوزع حساب البقشيش."
+      ]
+    }
+  },
+  {
+    "word": "das Buffet",
+    "translations": {
+      "ar": "البوفيه المفتوح",
+      "de": "Selbstbedienungs-Essenspräsentation"
+    },
+    "explanation": {
+      "ar": "طريقة تقديم طعام حيث يأخذ الضيوف بأنفسهم ما يريدون. شائع في الإفطار.",
+      "de": "Essensdarreichung, wo Gäste sich selbst bedienen. Üblich beim Frühstück."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Buffet ist bis 10 Uhr geöffnet.",
+        "البوفيه مفتوح حتى الساعة 10."
+      ],
+      "de": [
+        "Am Buffet gibt es eine große Auswahl.",
+        "يوجد اختيار كبير في البوفيه."
+      ]
+    }
+  },
+  {
+    "word": "à la carte",
+    "translations": {
+      "ar": "حسب القائمة",
+      "de": "nach der Karte bestellen"
+    },
+    "explanation": {
+      "ar": "طلب أطباق منفصلة من القائمة بدلاً من قائمة ثابتة.",
+      "de": "Einzelne Gerichte von der Karte bestellen statt Festmenü."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir essen à la carte.",
+        "نأكل حسب القائمة."
+      ],
+      "de": [
+        "À la carte ist teurer als das Menü.",
+        "حسب القائمة أغلى من القائمة الثابتة."
+      ]
+    }
+  },
+  {
+    "word": "das Menü",
+    "translations": {
+      "ar": "القائمة الثابتة",
+      "de": "festgelegte Speisenfolge"
+    },
+    "explanation": {
+      "ar": "مجموعة أطباق ثابتة بسعر واحد. عادة مقبلات وطبق رئيسي وحلوى.",
+      "de": "Festgelegte Gerichte zu einem Preis. Meist Vorspeise, Hauptgang und Dessert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir haben ein 3-Gänge-Menü.",
+        "لدينا قائمة من 3 أطباق."
+      ],
+      "de": [
+        "Das Menü des Tages kostet 25 Euro.",
+        "قائمة اليوم تكلف 25 يورو."
+      ]
+    }
+  },
+  {
+    "word": "die Tagessuppe",
+    "translations": {
+      "ar": "حساء اليوم",
+      "de": "täglich wechselnde Suppe"
+    },
+    "explanation": {
+      "ar": "حساء يتغير يومياً حسب المكونات المتوفرة.",
+      "de": "Täglich wechselnde Suppe je nach verfügbaren Zutaten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Was ist die Tagessuppe heute?",
+        "ما حساء اليوم؟"
+      ],
+      "de": [
+        "Die Tagessuppe ist Kürbissuppe.",
+        "حساء اليوم هو حساء القرع."
+      ]
+    }
+  },
+  {
+    "word": "das Tagesgericht",
+    "translations": {
+      "ar": "طبق اليوم",
+      "de": "täglich wechselndes Hauptgericht"
+    },
+    "explanation": {
+      "ar": "طبق رئيسي خاص يتغير يومياً. عادة أرخص من القائمة العادية.",
+      "de": "Spezielles Hauptgericht, das täglich wechselt. Meist günstiger als normale Karte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Empfehlen Sie das Tagesgericht?",
+        "هل تنصح بطبق اليوم؟"
+      ],
+      "de": [
+        "Das Tagesgericht ist heute Schnitzel.",
+        "طبق اليوم هو شنيتسل."
+      ]
+    }
+  },
+  {
+    "word": "die Beilage wechseln",
+    "translations": {
+      "ar": "يُغيّر المرافقات",
+      "de": "andere Beilage nehmen"
+    },
+    "explanation": {
+      "ar": "اختيار مرافقة مختلفة بدلاً من المرافقة القياسية.",
+      "de": "Andere Beilage als die Standardbeilage wählen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kann ich die Beilage wechseln?",
+        "هل يمكنني تغيير المرافقات؟"
+      ],
+      "de": [
+        "Sie können die Beilage gegen Aufpreis wechseln.",
+        "يمكنك تغيير المرافقات مقابل رسوم إضافية."
+      ]
+    }
+  },
+  {
+    "word": "die Sonderwünsche",
+    "translations": {
+      "ar": "الطلبات الخاصة",
+      "de": "besondere Gästewünsche"
+    },
+    "explanation": {
+      "ar": "طلبات خاصة من الضيف مثل تغيير المكونات أو طريقة الطهي.",
+      "de": "Spezielle Wünsche des Gastes wie Zutatenänderung oder Garmethode."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie Sonderwünsche?",
+        "هل لديك طلبات خاصة؟"
+      ],
+      "de": [
+        "Wir erfüllen gerne Sonderwünsche.",
+        "نحن نحقق الطلبات الخاصة بكل سرور."
+      ]
+    }
+  },
+  {
+    "word": "ohne Zwiebeln",
+    "translations": {
+      "ar": "بدون بصل",
+      "de": "Gericht ohne Zwiebeln"
+    },
+    "explanation": {
+      "ar": "طلب الطبق بدون بصل. طلب خاص شائع.",
+      "de": "Gericht ohne Zwiebeln bestellen. Häufiger Sonderwunsch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich möchte den Salat ohne Zwiebeln.",
+        "أريد السلطة بدون بصل."
+      ],
+      "de": [
+        "Ohne Zwiebeln, bitte.",
+        "بدون بصل من فضلك."
+      ]
+    }
+  },
+  {
+    "word": "extra Soße",
+    "translations": {
+      "ar": "صلصة إضافية",
+      "de": "zusätzliche Soße"
+    },
+    "explanation": {
+      "ar": "طلب كمية إضافية من الصلصة. قد تكون مجانية أو بمقابل.",
+      "de": "Zusätzliche Soßenmenge bestellen. Kann kostenlos oder kostenpflichtig sein."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kann ich extra Soße bekommen?",
+        "هل يمكنني الحصول على صلصة إضافية؟"
+      ],
+      "de": [
+        "Extra Soße kostet 2 Euro.",
+        "الصلصة الإضافية تكلف 2 يورو."
+      ]
+    }
+  },
+  {
+    "word": "gut durch",
+    "translations": {
+      "ar": "مطهو جيداً",
+      "de": "vollständig durchgegart"
+    },
+    "explanation": {
+      "ar": "درجة نضج اللحم: مطهو تماماً بدون لون وردي. للستيك.",
+      "de": "Fleischgarstufe: komplett durchgegart ohne Rosa. Für Steak."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich möchte mein Steak gut durch.",
+        "أريد ستيكي مطهواً جيداً."
+      ],
+      "de": [
+        "Gut durch bedeutet keine rosa Stellen.",
+        "مطهو جيداً يعني لا توجد أماكن وردية."
+      ]
+    }
+  },
+  {
+    "word": "medium",
+    "translations": {
+      "ar": "متوسط النضج",
+      "de": "halb durchgebraten"
+    },
+    "explanation": {
+      "ar": "درجة نضج اللحم: متوسط، وردي في الوسط. الأكثر شيوعاً.",
+      "de": "Fleischgarstufe: mittel, rosa in der Mitte. Am häufigsten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Medium ist die beliebteste Garstufe.",
+        "متوسط هي درجة النضج الأكثر شعبية."
+      ],
+      "de": [
+        "Ich nehme das Steak medium.",
+        "سآخذ الستيك متوسط النضج."
+      ]
+    }
+  },
+  {
+    "word": "rare / blutig",
+    "translations": {
+      "ar": "نيء تقريباً، قليل النضج",
+      "de": "nur kurz angebraten"
+    },
+    "explanation": {
+      "ar": "درجة نضج اللحم: محمّر فقط من الخارج، أحمر من الداخل.",
+      "de": "Fleischgarstufe: nur außen angebraten, innen rot."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Rare ist sehr roh.",
+        "قليل النضج نيء جداً."
+      ],
+      "de": [
+        "Möchten Sie es rare?",
+        "هل تريده قليل النضج؟"
+      ]
+    }
+  },
+  {
+    "word": "die Soße",
+    "translations": {
+      "ar": "الصلصة",
+      "de": "flüssige Beilage zum Gericht"
+    },
+    "explanation": {
+      "ar": "سائل لذيذ يُقدم مع الطبق لإضافة نكهة ورطوبة.",
+      "de": "Geschmackvolle Flüssigkeit zum Gericht für Geschmack und Saftigkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Soße ist zu salzig.",
+        "الصلصة مالحة جداً."
+      ],
+      "de": [
+        "Welche Soße empfehlen Sie?",
+        "أي صلصة تنصح بها؟"
+      ]
+    }
+  },
+  {
+    "word": "die Bratensoße",
+    "translations": {
+      "ar": "صلصة اللحم",
+      "de": "Soße aus Bratensaft"
+    },
+    "explanation": {
+      "ar": "صلصة مصنوعة من عصارة اللحم المشوي. تقليدية في المطبخ الألماني.",
+      "de": "Soße aus dem Saft von gebratenem Fleisch. Traditionell in deutscher Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Bratensoße schmeckt hervorragend.",
+        "صلصة اللحم طعمها ممتاز."
+      ],
+      "de": [
+        "Geben Sie mehr Bratensoße auf die Knödel.",
+        "ضع المزيد من الصلصة على الكنودل."
+      ]
+    }
+  },
+  {
+    "word": "die Kartoffeln",
+    "translations": {
+      "ar": "البطاطا",
+      "de": "wichtige Beilage in Deutschland"
+    },
+    "explanation": {
+      "ar": "خضروات نشوية أساسية في المطبخ الألماني. تُحضّر بطرق عديدة.",
+      "de": "Wichtiges Grundnahrungsmittel in deutscher Küche. Viele Zubereitungsarten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie Salzkartoffeln oder Bratkartoffeln?",
+        "هل تريد بطاطا مسلوقة أم مقلية؟"
+      ],
+      "de": [
+        "Kartoffeln sind sehr vielseitig.",
+        "البطاطا متعددة الاستخدامات."
+      ]
+    }
+  },
+  {
+    "word": "die Pommes frites",
+    "translations": {
+      "ar": "البطاطا المقلية",
+      "de": "frittierte Kartoffelstäbchen"
+    },
+    "explanation": {
+      "ar": "بطاطا مقطعة على شكل أصابع ومقلية. شهيرة جداً.",
+      "de": "In Öl frittierte Kartoffelstäbchen. Sehr beliebt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Pommes sind knusprig.",
+        "البطاطا المقلية مقرمشة."
+      ],
+      "de": [
+        "Pommes frites passen zu vielen Gerichten.",
+        "البطاطا المقلية تناسب أطباقاً كثيرة."
+      ]
+    }
+  },
+  {
+    "word": "der Reis",
+    "translations": {
+      "ar": "الأرز",
+      "de": "Getreidekorn als Beilage"
+    },
+    "explanation": {
+      "ar": "حبوب تُقدم كمرافقة. أساسي في المطبخ الآسيوي.",
+      "de": "Getreidekorn als Beilage. Grundnahrungsmittel in asiatischer Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Reis ist zu klebrig.",
+        "الأرز لزج جداً."
+      ],
+      "de": [
+        "Möchten Sie Reis oder Kartoffeln?",
+        "هل تريد أرزاً أم بطاطا؟"
+      ]
+    }
+  },
+  {
+    "word": "die Nudeln",
+    "translations": {
+      "ar": "المعكرونة",
+      "de": "Teigwaren als Hauptspeise oder Beilage"
+    },
+    "explanation": {
+      "ar": "معجنات إيطالية. توجد أشكال وأحجام عديدة.",
+      "de": "Italienische Teigwaren. Viele verschiedene Formen und Größen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Nudeln sind al dente.",
+        "المعكرونة المطبوخة لدرجة مناسبة."
+      ],
+      "de": [
+        "Welche Nudeln empfehlen Sie zu dieser Soße?",
+        "أي معكرونة تنصح بها مع هذه الصلصة؟"
+      ]
+    }
+  },
+  {
+    "word": "das Fleisch",
+    "translations": {
+      "ar": "اللحم",
+      "de": "tierisches Protein"
+    },
+    "explanation": {
+      "ar": "لحم الحيوانات المستخدم في الطبخ. أنواع مختلفة.",
+      "de": "Tierisches Eiweiß zum Kochen. Verschiedene Arten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ist das Fleisch frisch?",
+        "هل اللحم طازج؟"
+      ],
+      "de": [
+        "Welches Fleisch verwenden Sie?",
+        "أي لحم تستخدم؟"
+      ]
+    }
+  },
+  {
+    "word": "das Rindfleisch",
+    "translations": {
+      "ar": "لحم البقر",
+      "de": "Fleisch vom Rind"
+    },
+    "explanation": {
+      "ar": "لحم من البقر. يُستخدم للستيك والبرجر.",
+      "de": "Fleisch von Kühen oder Ochsen. Für Steaks und Burger."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Rindfleisch ist teurer als Schweinefleisch.",
+        "لحم البقر أغلى من لحم الخنزير."
+      ],
+      "de": [
+        "Das Rindfleisch ist zart.",
+        "لحم البقر طري."
+      ]
+    }
+  },
+  {
+    "word": "das Schweinefleisch",
+    "translations": {
+      "ar": "لحم الخنزير",
+      "de": "Fleisch vom Schwein"
+    },
+    "explanation": {
+      "ar": "لحم من الخنزير. شائع جداً في ألمانيا ولكن محرّم في الإسلام.",
+      "de": "Fleisch vom Schwein. Sehr verbreitet in Deutschland, aber im Islam verboten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich esse kein Schweinefleisch.",
+        "لا آكل لحم الخنزير."
+      ],
+      "de": [
+        "Schweinefleisch ist in Deutschland sehr beliebt.",
+        "لحم الخنزير محبوب جداً في ألمانيا."
+      ]
+    }
+  },
+  {
+    "word": "das Hähnchen",
+    "translations": {
+      "ar": "الدجاج",
+      "de": "Fleisch vom Huhn"
+    },
+    "explanation": {
+      "ar": "لحم الدجاج. حلال وصحي ومحبوب.",
+      "de": "Geflügelfleisch vom Huhn. Halal, gesund und beliebt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie gegrilltes Hähnchen?",
+        "هل لديكم دجاج مشوي؟"
+      ],
+      "de": [
+        "Hähnchen ist fettarm.",
+        "الدجاج قليل الدهون."
+      ]
+    }
+  },
+  {
+    "word": "der Fisch",
+    "translations": {
+      "ar": "السمك",
+      "de": "Wassertier als Speise"
+    },
+    "explanation": {
+      "ar": "حيوان بحري أو نهري يُستخدم كطعام. صحي ولذيذ.",
+      "de": "Wasser lebendes Tier als Nahrung. Gesund und schmackhaft."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Welchen Fisch empfehlen Sie?",
+        "أي سمك تنصح به؟"
+      ],
+      "de": [
+        "Der Fisch sollte frisch sein.",
+        "يجب أن يكون السمك طازجاً."
+      ]
+    }
+  },
+  {
+    "word": "die Meeresfrüchte",
+    "translations": {
+      "ar": "ثمار البحر",
+      "de": "essbare Tiere aus dem Meer"
+    },
+    "explanation": {
+      "ar": "حيوانات بحرية صالحة للأكل مثل الجمبري والمحار.",
+      "de": "Essbare Meerestiere wie Garnelen und Muscheln."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich mag Meeresfrüchte.",
+        "أحب ثمار البحر."
+      ],
+      "de": [
+        "Sind die Meeresfrüchte frisch?",
+        "هل ثمار البحر طازجة؟"
+      ]
+    }
+  },
+  {
+    "word": "der Salat",
+    "translations": {
+      "ar": "السلطة",
+      "de": "rohes Gemüse als Beilage"
+    },
+    "explanation": {
+      "ar": "خضروات نيئة عادة مع صلصة. طبق جانبي صحي.",
+      "de": "Rohes Gemüse, meist mit Dressing. Gesunde Beilage."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Salat ist sehr frisch.",
+        "السلطة طازجة جداً."
+      ],
+      "de": [
+        "Welches Dressing möchten Sie zum Salat?",
+        "أي صلصة تريد للسلطة؟"
+      ]
+    }
+  },
+  {
+    "word": "die Suppe",
+    "translations": {
+      "ar": "الحساء",
+      "de": "flüssige Speise"
+    },
+    "explanation": {
+      "ar": "طعام سائل ساخن. يُقدم كمقبلات أو طبق رئيسي.",
+      "de": "Flüssige, heiße Speise. Als Vorspeise oder Hauptgericht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Suppe ist zu heiß.",
+        "الحساء ساخن جداً."
+      ],
+      "de": [
+        "Möchten Sie eine Suppe vorweg?",
+        "هل تريد حساءً أولاً؟"
+      ]
+    }
+  },
+  {
+    "word": "der Nachtisch",
+    "translations": {
+      "ar": "الحلوى",
+      "de": "süße Speise am Ende"
+    },
+    "explanation": {
+      "ar": "طبق حلو في نهاية الوجبة. مثل 'Nachspeise' أو 'Dessert'.",
+      "de": "Süße Speise am Mahlzeitende. Synonym zu 'Nachspeise' oder 'Dessert'."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie noch Platz für einen Nachtisch?",
+        "هل لديك مساحة للحلوى؟"
+      ],
+      "de": [
+        "Der Nachtisch ist inklusive.",
+        "الحلوى مشمولة."
+      ]
+    }
+  },
+  {
+    "word": "das Eis",
+    "translations": {
+      "ar": "البوظة، الآيس كريم",
+      "de": "gefrorene Süßspeise"
+    },
+    "explanation": {
+      "ar": "حلوى مجمدة مصنوعة من الحليب أو الكريمة. محبوبة في الصيف.",
+      "de": "Gefrorene Süßspeise aus Milch oder Sahne. Beliebt im Sommer."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Drei Kugeln Eis, bitte.",
+        "ثلاث كرات آيس كريم من فضلك."
+      ],
+      "de": [
+        "Welche Eissorten haben Sie?",
+        "ما نكهات الآيس كريم لديكم؟"
+      ]
+    }
+  },
+  {
+    "word": "der Kuchen",
+    "translations": {
+      "ar": "الكعك",
+      "de": "gebackene Süßspeise"
+    },
+    "explanation": {
+      "ar": "حلوى مخبوزة. يُقدم مع القهوة في ألمانيا.",
+      "de": "Gebackene Süßspeise. Wird mit Kaffee in Deutschland serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Kuchen ist hausgemacht.",
+        "الكعك محلي الصنع."
+      ],
+      "de": [
+        "Möchten Sie ein Stück Kuchen?",
+        "هل تريد قطعة كعك؟"
+      ]
+    }
+  },
+  {
+    "word": "das Bier",
+    "translations": {
+      "ar": "البيرة",
+      "de": "alkoholisches Getränk aus Hopfen"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي مصنوع من الحبوب. تقليد ألماني قوي.",
+      "de": "Alkoholisches Getränk aus Getreide. Starke deutsche Tradition."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ein Bier vom Fass, bitte.",
+        "بيرة من البرميل من فضلك."
+      ],
+      "de": [
+        "Deutsches Bier ist weltbekannt.",
+        "البيرة الألمانية معروفة عالمياً."
+      ]
+    }
+  },
+  {
+    "word": "der Wein",
+    "translations": {
+      "ar": "النبيذ",
+      "de": "alkoholisches Getränk aus Trauben"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي مصنوع من العنب. أحمر أو أبيض.",
+      "de": "Alkoholisches Getränk aus Weintrauben. Rot oder weiß."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ein Glas Rotwein, bitte.",
+        "كأس نبيذ أحمر من فضلك."
+      ],
+      "de": [
+        "Dieser Wein passt gut zum Fisch.",
+        "هذا النبيذ مناسب جيداً للسمك."
+      ]
+    }
+  },
+  {
+    "word": "das Mineralwasser",
+    "translations": {
+      "ar": "الماء المعدني",
+      "de": "Wasser aus natürlicher Quelle"
+    },
+    "explanation": {
+      "ar": "ماء طبيعي من مصدر معدني. مع أو بدون فقاعات.",
+      "de": "Natürliches Wasser aus Mineralquelle. Mit oder ohne Kohlensäure."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mineralwasser mit oder ohne Kohlensäure?",
+        "ماء معدني مع أو بدون فقاعات؟"
+      ],
+      "de": [
+        "Ein stilles Mineralwasser, bitte.",
+        "ماء معدني بدون فقاعات من فضلك."
+      ]
+    }
+  },
+  {
+    "word": "der Saft",
+    "translations": {
+      "ar": "العصير",
+      "de": "Getränk aus Früchten"
+    },
+    "explanation": {
+      "ar": "مشروب مصنوع من الفواكه. يمكن أن يكون طازجاً أو معلباً.",
+      "de": "Getränk aus Früchten. Kann frisch oder aus der Flasche sein."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ein Glas Orangensaft, bitte.",
+        "كأس عصير برتقال من فضلك."
+      ],
+      "de": [
+        "Ist der Saft frisch gepresst?",
+        "هل العصير معصور طازجاً؟"
+      ]
+    }
+  },
+  {
+    "word": "die Kasse",
+    "translations": {
+      "ar": "الصندوق",
+      "de": "Ort der Bezahlung"
+    },
+    "explanation": {
+      "ar": "المكان أو الجهاز حيث يتم الدفع في المطعم.",
+      "de": "Ort oder Gerät, wo im Restaurant bezahlt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Zahlen Sie bitte an der Kasse.",
+        "ادفع عند الصندوق من فضلك."
+      ],
+      "de": [
+        "Die Kasse ist vorne.",
+        "الصندوق في الأمام."
+      ]
+    }
+  },
+  {
+    "word": "die Quittung",
+    "translations": {
+      "ar": "إيصال الدفع",
+      "de": "Zahlungsbeleg"
+    },
+    "explanation": {
+      "ar": "ورقة صغيرة تثبت الدفع. مهمة للسجلات.",
+      "de": "Kleiner Beleg als Zahlungsnachweis. Wichtig für Aufzeichnungen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie eine Quittung?",
+        "هل تريد إيصالاً؟"
+      ],
+      "de": [
+        "Bitte bewahren Sie die Quittung auf.",
+        "من فضلك احتفظ بالإيصال."
+      ]
+    }
+  },
+  {
+    "word": "bar zahlen",
+    "translations": {
+      "ar": "يدفع نقداً",
+      "de": "mit Bargeld bezahlen"
+    },
+    "explanation": {
+      "ar": "الدفع بالمال النقدي بدلاً من البطاقة.",
+      "de": "Mit Bargeld statt Karte bezahlen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich zahle bar.",
+        "سأدفع نقداً."
+      ],
+      "de": [
+        "Können Sie auch bar zahlen?",
+        "هل يمكنك أيضاً الدفع نقداً؟"
+      ]
+    }
+  },
+  {
+    "word": "mit Karte zahlen",
+    "translations": {
+      "ar": "يدفع بالبطاقة",
+      "de": "elektronisch bezahlen"
+    },
+    "explanation": {
+      "ar": "الدفع باستخدام بطاقة ائتمان أو خصم.",
+      "de": "Mit Kredit- oder Debitkarte bezahlen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kann ich mit Karte zahlen?",
+        "هل يمكنني الدفع بالبطاقة؟"
+      ],
+      "de": [
+        "Kartenzahlung ist ab 10 Euro möglich.",
+        "الدفع بالبطاقة ممكن من 10 يورو."
+      ]
+    }
+  },
+  {
+    "word": "das Wechselgeld",
+    "translations": {
+      "ar": "الباقي، الصرف",
+      "de": "Rückgeld beim Bezahlen"
+    },
+    "explanation": {
+      "ar": "المبلغ المرتجع عند الدفع بمبلغ أكبر من السعر.",
+      "de": "Zurückgegebener Betrag bei Überzahlung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hier ist Ihr Wechselgeld.",
+        "ها هو باقيك."
+      ],
+      "de": [
+        "Stimmt das Wechselgeld?",
+        "هل الباقي صحيح؟"
+      ]
+    }
+  },
+  {
+    "word": "getrennt zahlen",
+    "translations": {
+      "ar": "يدفع كل على حدة",
+      "de": "jeder zahlt für sich"
+    },
+    "explanation": {
+      "ar": "كل شخص يدفع لنفسه بدلاً من شخص واحد يدفع للجميع.",
+      "de": "Jede Person zahlt für sich statt einer Person für alle."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie getrennt zahlen?",
+        "هل تريدون الدفع منفصلين؟"
+      ],
+      "de": [
+        "Wir zahlen getrennt.",
+        "ندفع منفصلين."
+      ]
+    }
+  },
+  {
+    "word": "zusammen zahlen",
+    "translations": {
+      "ar": "يدفع معاً",
+      "de": "gemeinsam eine Rechnung bezahlen"
+    },
+    "explanation": {
+      "ar": "شخص واحد يدفع فاتورة المجموعة كلها.",
+      "de": "Eine Person zahlt für die ganze Gruppe."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir zahlen zusammen.",
+        "ندفع معاً."
+      ],
+      "de": [
+        "Zusammen zahlen ist einfacher.",
+        "الدفع معاً أسهل."
+      ]
+    }
+  },
+  {
+    "word": "die Allergenkennzeichnung",
+    "translations": {
+      "ar": "بطاقة تحديد المواد المسببة للحساسية",
+      "de": "Hinweis auf Allergene"
+    },
+    "explanation": {
+      "ar": "معلومات إلزامية عن المواد المسببة للحساسية في الطعام.",
+      "de": "Pflichtinformation über Allergene in Speisen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Allergenkennzeichnung ist gesetzlich vorgeschrieben.",
+        "بطاقة المواد المسببة للحساسية مطلوبة قانونياً."
+      ],
+      "de": [
+        "Beachten Sie die Allergenkennzeichnung in der Karte.",
+        "انتبه لبطاقة الحساسية في القائمة."
+      ]
+    }
+  },
+  {
+    "word": "der Notausgang",
+    "translations": {
+      "ar": "مخرج الطوارئ",
+      "de": "Ausgang für Notfälle"
+    },
+    "explanation": {
+      "ar": "باب خاص يُستخدم في حالات الطوارئ كالحريق.",
+      "de": "Spezieller Ausgang für Notfälle wie Feuer."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wo ist der Notausgang?",
+        "أين مخرج الطوارئ؟"
+      ],
+      "de": [
+        "Der Notausgang darf nicht blockiert werden.",
+        "يجب عدم سد مخرج الطوارئ."
+      ]
+    }
+  },
+  {
+    "word": "der Feuerlöscher",
+    "translations": {
+      "ar": "طفاية الحريق",
+      "de": "Gerät zum Löschen von Feuer"
+    },
+    "explanation": {
+      "ar": "جهاز لإطفاء الحرائق الصغيرة. إلزامي في المطاعم.",
+      "de": "Gerät zum Löschen kleiner Brände. Pflicht in Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wissen Sie, wie man den Feuerlöscher benutzt?",
+        "هل تعرف كيف تستخدم طفاية الحريق؟"
+      ],
+      "de": [
+        "Der Feuerlöscher hängt an der Wand.",
+        "طفاية الحريق معلقة على الحائط."
+      ]
+    }
+  },
+  {
+    "word": "die Erste Hilfe",
+    "translations": {
+      "ar": "الإسعافات الأولية",
+      "de": "medizinische Notfallversorgung"
+    },
+    "explanation": {
+      "ar": "مساعدة طبية أولية في حالات الطوارئ قبل وصول الإسعاف.",
+      "de": "Erste medizinische Hilfe im Notfall vor Eintreffen des Krankenwagens."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wo ist der Erste-Hilfe-Kasten?",
+        "أين صندوق الإسعافات الأولية؟"
+      ],
+      "de": [
+        "Alle Mitarbeiter sollten Erste Hilfe können.",
+        "يجب أن يعرف جميع الموظفين الإسعافات الأولية."
+      ]
+    }
+  },
+  {
+    "word": "die Sauberkeit",
+    "translations": {
+      "ar": "النظافة",
+      "de": "Zustand ohne Schmutz"
+    },
+    "explanation": {
+      "ar": "حالة كون المكان نظيفاً وخالياً من الأوساخ. حاسمة في المطاعم.",
+      "de": "Zustand von Sauberkeit und Schmutzfreiheit. Entscheidend in Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Sauberkeit ist oberstes Gebot.",
+        "النظافة هي القاعدة الأولى."
+      ],
+      "de": [
+        "Die Sauberkeit wird täglich kontrolliert.",
+        "تُفحص النظافة يومياً."
+      ]
+    }
+  },
+  {
+    "word": "aufräumen",
+    "translations": {
+      "ar": "يرتب، ينظّف",
+      "de": "Ordnung schaffen"
+    },
+    "explanation": {
+      "ar": "ترتيب وتنظيف المكان. واجب يومي في المطعم.",
+      "de": "Ordnung und Sauberkeit herstellen. Tägliche Pflicht im Restaurant."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "aufräumen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "räume auf"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe aufgeräumt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Räumen Sie die Küche auf.",
+        "رتّب المطبخ."
+      ],
+      "de": [
+        "Nach dem Service muss aufgeräumt werden.",
+        "بعد الخدمة يجب الترتيب."
+      ]
+    }
+  },
+  {
+    "word": "putzen",
+    "translations": {
+      "ar": "ينظّف",
+      "de": "säubern, reinigen"
+    },
+    "explanation": {
+      "ar": "تنظيف الأسطح والأرضيات. ضروري للنظافة الصحية.",
+      "de": "Flächen und Böden reinigen. Notwendig für Hygiene."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitiv",
+        "value": "putzen"
+      },
+      {
+        "form": "Präsens ich",
+        "value": "putze"
+      },
+      {
+        "form": "Perfekt",
+        "value": "habe geputzt"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Putzen Sie die Tische.",
+        "نظّف الطاولات."
+      ],
+      "de": [
+        "Die Toiletten müssen stündlich geputzt werden.",
+        "يجب تنظيف الحمامات كل ساعة."
+      ]
+    }
+  },
+  {
+    "word": "der Müll",
+    "translations": {
+      "ar": "القمامة",
+      "de": "Abfall, Abfälle"
+    },
+    "explanation": {
+      "ar": "النفايات والأوساخ التي يجب التخلص منها. يجب فصلها.",
+      "de": "Abfälle und Schmutz, die entsorgt werden müssen. Sollte getrennt werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bringen Sie den Müll raus.",
+        "أخرج القمامة."
+      ],
+      "de": [
+        "Der Müll wird täglich abgeholt.",
+        "تُجمع القمامة يومياً."
+      ]
+    }
+  },
+  {
+    "word": "die Mülltrennung",
+    "translations": {
+      "ar": "فصل القمامة",
+      "de": "Abfall nach Arten sortieren"
+    },
+    "explanation": {
+      "ar": "فصل القمامة إلى فئات: بلاستيك، ورق، عضوي. إلزامي في ألمانيا.",
+      "de": "Abfall in Kategorien trennen: Plastik, Papier, Bio. Pflicht in Deutschland."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mülltrennung ist wichtig für die Umwelt.",
+        "فصل القمامة مهم للبيئة."
+      ],
+      "de": [
+        "Achten Sie auf korrekte Mülltrennung.",
+        "انتبه لفصل القمامة الصحيح."
+      ]
+    }
+  },
+  {
+    "word": "das Mindesthaltbarkeitsdatum",
+    "translations": {
+      "ar": "تاريخ انتهاء الصلاحية",
+      "de": "MHD, bis wann ein Produkt gut ist"
+    },
+    "explanation": {
+      "ar": "التاريخ حتى يكون المنتج جيداً للاستهلاك. يجب فحصه دائماً.",
+      "de": "Datum, bis wann ein Produkt gut zum Verzehr ist. Muss immer überprüft werden."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kontrollieren Sie das Mindesthaltbarkeitsdatum.",
+        "افحص تاريخ انتهاء الصلاحية."
+      ],
+      "de": [
+        "Das Mindesthaltbarkeitsdatum ist abgelaufen.",
+        "تاريخ الصلاحية منتهٍ."
+      ]
+    }
+  },
+  {
+    "word": "verdorben",
+    "translations": {
+      "ar": "فاسد",
+      "de": "nicht mehr genießbar"
+    },
+    "explanation": {
+      "ar": "طعام غير صالح للأكل بسبب التلف. خطر على الصحة.",
+      "de": "Lebensmittel nicht mehr essbar wegen Verderb. Gesundheitsgefahr."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Das Fleisch ist verdorben.",
+        "اللحم فاسد."
+      ],
+      "de": [
+        "Verdorbene Lebensmittel sofort entsorgen.",
+        "تخلص من الطعام الفاسد فوراً."
+      ]
+    }
+  },
+  {
+    "word": "die Lagerung",
+    "translations": {
+      "ar": "التخزين",
+      "de": "Aufbewahrung von Lebensmitteln"
+    },
+    "explanation": {
+      "ar": "طريقة حفظ وتخزين المواد الغذائية. مهمة للسلامة.",
+      "de": "Art und Weise der Lebensmittelaufbewahrung. Wichtig für Sicherheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die richtige Lagerung ist wichtig.",
+        "التخزين الصحيح مهم."
+      ],
+      "de": [
+        "Fleisch muss kühl gelagert werden.",
+        "يجب تخزين اللحم بارداً."
+      ]
+    }
+  },
+  {
+    "word": "Guten Appetit!",
+    "translations": {
+      "ar": "بالهناء والشفاء!",
+      "de": "Wunsch vor dem Essen"
+    },
+    "explanation": {
+      "ar": "تعبير يُقال للضيوف قبل أن يبدأوا الأكل. علامة على اللياقة.",
+      "de": "Ausdruck, der Gästen vor dem Essen gesagt wird. Zeichen von Höflichkeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Guten Appetit und genießen Sie Ihr Essen!",
+        "بالهناء واستمتع بطعامك!"
+      ],
+      "de": [
+        "Guten Appetit! wird beim Servieren gesagt.",
+        "بالهناء يُقال عند التقديم."
+      ]
+    }
+  },
+  {
+    "word": "Zum Wohl!",
+    "translations": {
+      "ar": "في صحتك!",
+      "de": "Trinkspruch"
+    },
+    "explanation": {
+      "ar": "تعبير يُقال عند رفع الأكواب للشرب معاً. تقليد اجتماعي.",
+      "de": "Ausdruck beim Anstoßen mit Gläsern. Soziale Tradition."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Zum Wohl! Auf Ihre Gesundheit!",
+        "في صحتك! على صحتك!"
+      ],
+      "de": [
+        "Wir sagen Zum Wohl! und stoßen an.",
+        "نقول في صحتك ونرفع الأكواب."
+      ]
+    }
+  },
+  {
+    "word": "Herzlich willkommen!",
+    "translations": {
+      "ar": "أهلاً وسهلاً!",
+      "de": "freundliche Begrüßung"
+    },
+    "explanation": {
+      "ar": "ترحيب ودود بالضيوف عند دخولهم المطعم. أول انطباع مهم.",
+      "de": "Freundliche Begrüßung der Gäste beim Betreten. Erster Eindruck wichtig."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Herzlich willkommen in unserem Restaurant!",
+        "أهلاً وسهلاً في مطعمنا!"
+      ],
+      "de": [
+        "Mit Herzlich willkommen! begrüßen wir jeden Gast.",
+        "نرحب بكل ضيف بـ أهلاً وسهلاً!"
+      ]
+    }
+  },
+  {
+    "word": "Auf Wiedersehen!",
+    "translations": {
+      "ar": "مع السلامة!",
+      "de": "Verabschiedung"
+    },
+    "explanation": {
+      "ar": "وداع مهذب عندما يغادر الضيوف. يترك انطباعاً جيداً.",
+      "de": "Höfliche Verabschiedung, wenn Gäste gehen. Hinterlässt guten Eindruck."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Auf Wiedersehen und vielen Dank für Ihren Besuch!",
+        "مع السلامة وشكراً لزيارتك!"
+      ],
+      "de": [
+        "Sagen Sie immer Auf Wiedersehen! zu den Gästen.",
+        "قل دائماً مع السلامة للضيوف."
+      ]
+    }
+  },
+  {
+    "word": "der Sommelier",
+    "translations": {
+      "ar": "خبير النبيذ",
+      "de": "Weinexperte"
+    },
+    "explanation": {
+      "ar": "خبير متخصص في النبيذ يساعد الضيوف في اختيار النبيذ المناسب.",
+      "de": "Spezialisierter Weinkenner, der Gästen bei der Weinauswahl hilft."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Sommelier empfiehlt einen Rotwein.",
+        "خبير النبيذ ينصح بنبيذ أحمر."
+      ],
+      "de": [
+        "Fragen Sie den Sommelier.",
+        "اسأل خبير النبيذ."
+      ]
+    }
+  },
+  {
+    "word": "der Koch / die Köchin",
+    "translations": {
+      "ar": "الطاهي، الطاهية",
+      "de": "Person, die beruflich kocht"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يطبخ في المطعم بشكل محترف.",
+      "de": "Person, die professionell in einem Restaurant kocht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Koch bereitet das Essen zu.",
+        "الطاهي يحضّر الطعام."
+      ],
+      "de": [
+        "Unsere Köchin ist sehr erfahren.",
+        "طاهيتنا ذات خبرة كبيرة."
+      ]
+    }
+  },
+  {
+    "word": "der Küchenchef",
+    "translations": {
+      "ar": "رئيس الطهاة",
+      "de": "Leiter der Küche"
+    },
+    "explanation": {
+      "ar": "المسؤول الرئيسي عن المطبخ. يقود فريق الطهاة.",
+      "de": "Hauptverantwortlicher für die Küche. Leitet das Küchenteam."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Küchenchef plant das Menü.",
+        "رئيس الطهاة يخطط القائمة."
+      ],
+      "de": [
+        "Sprechen Sie mit dem Küchenchef.",
+        "تحدث مع رئيس الطهاة."
+      ]
+    }
+  },
+  {
+    "word": "der Kellner / die Kellnerin",
+    "translations": {
+      "ar": "النادل، النادلة",
+      "de": "Servicekraft im Restaurant"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يقدم الطعام والشراب للضيوف في المطعم.",
+      "de": "Person, die Speisen und Getränke an Gäste serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Kellner ist sehr freundlich.",
+        "النادل ودود جداً."
+      ],
+      "de": [
+        "Rufen Sie die Kellnerin.",
+        "نادِ النادلة."
+      ]
+    }
+  },
+  {
+    "word": "der Restaurantleiter",
+    "translations": {
+      "ar": "مدير المطعم",
+      "de": "Manager des Restaurants"
+    },
+    "explanation": {
+      "ar": "المسؤول عن إدارة المطعم بأكمله. يشرف على الموظفين والعمليات.",
+      "de": "Verantwortlich für die gesamte Restaurantleitung. Überwacht Personal und Betrieb."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Restaurantleiter löst Probleme.",
+        "مدير المطعم يحل المشاكل."
+      ],
+      "de": [
+        "Ich bin der Restaurantleiter.",
+        "أنا مدير المطعم."
+      ]
+    }
+  },
+  {
+    "word": "der Barkeeper / die Barkeeperin",
+    "translations": {
+      "ar": "الساقي، خبير المشروبات",
+      "de": "Getränkespezialist an der Bar"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يحضر المشروبات والكوكتيلات في البار.",
+      "de": "Person, die Getränke und Cocktails an der Bar zubereitet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Der Barkeeper mixt Cocktails.",
+        "الساقي يخلط الكوكتيلات."
+      ],
+      "de": [
+        "Die Barkeeperin kennt viele Rezepte.",
+        "الساقية تعرف وصفات كثيرة."
+      ]
+    }
+  },
+  {
+    "word": "der Spülküche",
+    "translations": {
+      "ar": "قسم غسل الأطباق",
+      "de": "Bereich zum Geschirrspülen"
+    },
+    "explanation": {
+      "ar": "المنطقة في المطبخ حيث يتم غسل الأطباق والأواني.",
+      "de": "Bereich in der Küche, wo Geschirr und Besteck gespült wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Spülküche ist immer beschäftigt.",
+        "قسم غسل الأطباق دائماً مشغول."
+      ],
+      "de": [
+        "Bringen Sie das Geschirr in die Spülküche.",
+        "أحضر الأطباق إلى قسم الغسل."
+      ]
+    }
+  },
+  {
+    "word": "die Kühlkette",
+    "translations": {
+      "ar": "سلسلة التبريد",
+      "de": "ununterbrochene Kühlung"
+    },
+    "explanation": {
+      "ar": "عملية الحفاظ على الطعام بارداً من التخزين حتى التقديم. مهم للسلامة.",
+      "de": "Durchgehende Kühlung von Lebensmitteln von Lagerung bis Service. Wichtig für Sicherheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Kühlkette darf nicht unterbrochen werden.",
+        "لا يجب قطع سلسلة التبريد."
+      ],
+      "de": [
+        "Eine intakte Kühlkette ist Pflicht.",
+        "سلسلة تبريد سليمة واجبة."
+      ]
+    }
+  },
+  {
+    "word": "das Lagersystem",
+    "translations": {
+      "ar": "نظام التخزين",
+      "de": "Organisationssystem für Vorräte"
+    },
+    "explanation": {
+      "ar": "طريقة تنظيم وتخزين المواد الغذائية في المخزن.",
+      "de": "Art der Organisation und Lagerung von Lebensmitteln im Lager."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ein gutes Lagersystem spart Zeit.",
+        "نظام تخزين جيد يوفر الوقت."
+      ],
+      "de": [
+        "Das Lagersystem ist nach Datum sortiert.",
+        "نظام التخزين مرتب حسب التاريخ."
+      ]
+    }
+  },
+  {
+    "word": "die Inventur",
+    "translations": {
+      "ar": "الجرد",
+      "de": "Bestandsaufnahme"
+    },
+    "explanation": {
+      "ar": "عملية عد وتسجيل جميع المواد الموجودة في المخزن. تُجرى بانتظام.",
+      "de": "Prozess des Zählens und Erfassens aller Lagerbestände. Erfolgt regelmäßig."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir machen heute Inventur.",
+        "نقوم بالجرد اليوم."
+      ],
+      "de": [
+        "Die Inventur findet monatlich statt.",
+        "الجرد يُجرى شهرياً."
+      ]
+    }
+  },
+  {
+    "word": "die Bestellung (Waren)",
+    "translations": {
+      "ar": "طلب البضائع",
+      "de": "Warenorder beim Lieferanten"
+    },
+    "explanation": {
+      "ar": "طلب شراء مواد غذائية من الموردين لتجديد المخزون.",
+      "de": "Bestellung von Lebensmitteln bei Lieferanten zur Bestandsauffüllung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Bestellung kommt morgen.",
+        "طلب البضائع يأتي غداً."
+      ],
+      "de": [
+        "Wir müssen eine neue Bestellung aufgeben.",
+        "يجب أن نضع طلباً جديداً."
+      ]
+    }
+  },
+  {
+    "word": "der Lieferant",
+    "translations": {
+      "ar": "المورّد",
+      "de": "Firmen, die Waren liefern"
+    },
+    "explanation": {
+      "ar": "الشركة التي توفر المواد الغذائية والمنتجات للمطعم.",
+      "de": "Firma, die Lebensmittel und Produkte an Restaurant liefert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Unser Lieferant ist zuverlässig.",
+        "موردنا موثوق."
+      ],
+      "de": [
+        "Der Lieferant kommt zweimal pro Woche.",
+        "المورد يأتي مرتين في الأسبوع."
+      ]
+    }
+  },
+  {
+    "word": "die Lieferung",
+    "translations": {
+      "ar": "التوصيل",
+      "de": "Ankunft der bestellten Waren"
+    },
+    "explanation": {
+      "ar": "وصول البضائع المطلوبة من الموردين.",
+      "de": "Ankunft der bestellten Waren von Lieferanten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Die Lieferung ist angekommen.",
+        "التوصيل وصل."
+      ],
+      "de": [
+        "Prüfen Sie die Lieferung genau.",
+        "افحص التوصيل جيداً."
+      ]
+    }
+  },
+  {
+    "word": "das Verfallsdatum",
+    "translations": {
+      "ar": "تاريخ انتهاء الصلاحية",
+      "de": "letzter Tag der Verwendbarkeit"
+    },
+    "explanation": {
+      "ar": "اليوم الأخير الذي يمكن استخدام المنتج فيه بأمان.",
+      "de": "Letzter Tag, an dem das Produkt sicher verwendet werden kann."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Kontrollieren Sie das Verfallsdatum.",
+        "افحص تاريخ انتهاء الصلاحية."
+      ],
+      "de": [
+        "Das Verfallsdatum ist überschritten.",
+        "تاريخ الصلاحية تجاوز."
+      ]
+    }
+  },
+  {
+    "word": "bio / ökologisch",
+    "translations": {
+      "ar": "عضوي، بيولوجي",
+      "de": "ohne chemische Zusätze produziert"
+    },
+    "explanation": {
+      "ar": "منتجات مزروعة بدون مواد كيميائية. صحية وطبيعية.",
+      "de": "Produkte ohne chemische Zusatzstoffe angebaut. Gesund und natürlich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir verwenden bio Gemüse.",
+        "نستخدم خضروات عضوية."
+      ],
+      "de": [
+        "Bio-Produkte sind teurer.",
+        "المنتجات العضوية أغلى."
+      ]
+    }
+  },
+  {
+    "word": "regional",
+    "translations": {
+      "ar": "محلي، إقليمي",
+      "de": "aus der Umgebung"
+    },
+    "explanation": {
+      "ar": "منتجات من المنطقة المحلية. طازجة وتدعم المزارعين المحليين.",
+      "de": "Produkte aus der lokalen Region. Frisch und unterstützt lokale Bauern."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir kaufen regional ein.",
+        "نشتري محلياً."
+      ],
+      "de": [
+        "Regionale Produkte sind nachhaltiger.",
+        "المنتجات المحلية أكثر استدامة."
+      ]
+    }
+  },
+  {
+    "word": "saisonal",
+    "translations": {
+      "ar": "موسمي",
+      "de": "der Jahreszeit entsprechend"
+    },
+    "explanation": {
+      "ar": "منتجات متوفرة في موسم معين من السنة. أفضل جودة وسعر.",
+      "de": "Produkte, die in bestimmter Jahreszeit verfügbar sind. Beste Qualität und Preis."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir kochen saisonal.",
+        "نطبخ موسمياً."
+      ],
+      "de": [
+        "Saisonale Produkte schmecken besser.",
+        "المنتجات الموسمية طعمها أفضل."
+      ]
+    }
+  },
+  {
+    "word": "die Nachhaltigkeit",
+    "translations": {
+      "ar": "الاستدامة",
+      "de": "umweltbewusstes Handeln"
+    },
+    "explanation": {
+      "ar": "التصرف بطريقة تحافظ على البيئة والموارد. مهم في المطاعم الحديثة.",
+      "de": "Handeln, das Umwelt und Ressourcen schont. Wichtig in modernen Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Nachhaltigkeit ist uns wichtig.",
+        "الاستدامة مهمة لنا."
+      ],
+      "de": [
+        "Wir achten auf Nachhaltigkeit.",
+        "ننتبه للاستدامة."
+      ]
+    }
+  },
+  {
+    "word": "die Portion anpassen",
+    "translations": {
+      "ar": "يعدّل حجم الحصة",
+      "de": "Größe der Portion ändern"
+    },
+    "explanation": {
+      "ar": "تغيير كمية الطعام حسب طلب الضيف. خدمة مرنة.",
+      "de": "Essensmenge nach Gastwunsch ändern. Flexibler Service."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Können Sie die Portion anpassen?",
+        "هل يمكنك تعديل حجم الحصة؟"
+      ],
+      "de": [
+        "Wir passen die Portion gerne an.",
+        "نعدل الحصة بكل سرور."
+      ]
+    }
+  },
+  {
+    "word": "die Kinderportion",
+    "translations": {
+      "ar": "حصة الأطفال",
+      "de": "kleinere Portion für Kinder"
+    },
+    "explanation": {
+      "ar": "حصة أصغر مخصصة للأطفال. عادة أرخص سعراً.",
+      "de": "Kleinere Essensmenge für Kinder. Meist günstiger."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Haben Sie Kinderportionen?",
+        "هل لديكم حصص أطفال؟"
+      ],
+      "de": [
+        "Die Kinderportion kostet die Hälfte.",
+        "حصة الأطفال تكلف النصف."
+      ]
+    }
+  },
+  {
+    "word": "zum Mitnehmen",
+    "translations": {
+      "ar": "للأخذ معك",
+      "de": "Essen zum Mitnehmen"
+    },
+    "explanation": {
+      "ar": "طعام يُحضّر ليأخذه الضيف معه بدلاً من الأكل في المطعم.",
+      "de": "Essen, das Gast mitnimmt statt im Restaurant zu essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ich möchte das zum Mitnehmen.",
+        "أريد هذا للأخذ معي."
+      ],
+      "de": [
+        "Zum Mitnehmen oder hier essen?",
+        "للأخذ معك أم تأكل هنا؟"
+      ]
+    }
+  },
+  {
+    "word": "die Verpackung",
+    "translations": {
+      "ar": "التغليف",
+      "de": "Behälter für Essen"
+    },
+    "explanation": {
+      "ar": "الحاوية التي يُوضع فيها الطعام للأخذ معك.",
+      "de": "Behälter, in dem Essen zum Mitnehmen verpackt wird."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir verwenden umweltfreundliche Verpackungen.",
+        "نستخدم تغليفاً صديقاً للبيئة."
+      ],
+      "de": [
+        "Die Verpackung ist recyclebar.",
+        "التغليف قابل لإعادة التدوير."
+      ]
+    }
+  },
+  {
+    "word": "die Reservierungsliste",
+    "translations": {
+      "ar": "قائمة الحجوزات",
+      "de": "Liste aller Buchungen"
+    },
+    "explanation": {
+      "ar": "القائمة التي تحتوي على جميع حجوزات الطاولات للمطعم.",
+      "de": "Liste mit allen Tischbuchungen für das Restaurant."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Prüfen Sie die Reservierungsliste.",
+        "افحص قائمة الحجوزات."
+      ],
+      "de": [
+        "Ihr Name steht auf der Reservierungsliste.",
+        "اسمك موجود في قائمة الحجوزات."
+      ]
+    }
+  },
+  {
+    "word": "ausgebucht",
+    "translations": {
+      "ar": "محجوز بالكامل",
+      "de": "alle Plätze reserviert"
+    },
+    "explanation": {
+      "ar": "لا توجد طاولات متاحة، كل شيء محجوز.",
+      "de": "Keine Tische verfügbar, alles reserviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Wir sind heute Abend ausgebucht.",
+        "نحن محجوزون بالكامل هذا المساء."
+      ],
+      "de": [
+        "Leider sind wir ausgebucht.",
+        "للأسف نحن محجوزون بالكامل."
+      ]
+    }
+  },
+  {
+    "word": "die Warteliste",
+    "translations": {
+      "ar": "قائمة الانتظار",
+      "de": "Liste für Wartende"
+    },
+    "explanation": {
+      "ar": "قائمة للضيوف الذين ينتظرون طاولة عندما يكون المطعم ممتلئاً.",
+      "de": "Liste für Gäste, die auf einen Tisch warten, wenn Restaurant voll ist."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Möchten Sie auf die Warteliste?",
+        "هل تريد أن تكون في قائمة الانتظار؟"
+      ],
+      "de": [
+        "Die Wartezeit beträgt 30 Minuten.",
+        "وقت الانتظار 30 دقيقة."
+      ]
+    }
+  }
+]

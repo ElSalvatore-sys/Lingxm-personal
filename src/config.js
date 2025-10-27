@@ -1,0 +1,100 @@
+export const PROFILES = {
+  vahiko: {
+    name: 'Vahiko',
+    emoji: '👩‍💼',
+    interfaceLanguages: ['pl', 'de'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'C1',
+        specialty: 'Stadtplanung/Stadtverwaltung',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      }
+    ],
+    totalDailyWords: 20
+  },
+  hassan: {
+    name: 'Hassan',
+    emoji: '👨‍💻',
+    interfaceLanguages: ['en', 'ar'],
+    learningLanguages: [
+      {
+        code: 'ar',
+        name: 'Arabic',
+        level: 'B2-C1',
+        dailyWords: 10,
+        flag: '🇸🇦'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'B2-C2',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      },
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      }
+    ],
+    totalDailyWords: 30
+  },
+  salman: {
+    name: 'Frau Salman',
+    emoji: '👩‍🍳',
+    interfaceLanguages: ['ar', 'de'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'de-gastro',
+        name: 'German (Gastronomy)',
+        level: 'B1-B2',
+        specialty: 'Gastronomy & Hotel',
+        dailyWords: 10,
+        flag: '🇩🇪🍽️'
+      },
+      {
+        code: 'fr',
+        name: 'French (Gastronomy)',
+        level: 'B1-B2',
+        specialty: 'Gastronomy',
+        dailyWords: 10,
+        flag: '🇫🇷🍽️'
+      },
+      {
+        code: 'en',
+        name: 'English',
+        level: 'A2-B1',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      }
+    ],
+    totalDailyWords: 40
+  }
+};
+
+export const LANGUAGE_NAMES = {
+  en: { native: 'English', local: 'English' },
+  de: { native: 'Deutsch', local: 'German' },
+  ar: { native: 'العربية', local: 'Arabic' },
+  pl: { native: 'Polski', local: 'Polish' },
+  fr: { native: 'Français', local: 'French' }
+};

@@ -1,0 +1,3280 @@
+[
+  {
+    "word": "die Arbeit",
+    "translations": {
+      "en": "work, job",
+      "ar": "العمل، الوظيفة"
+    },
+    "explanation": {
+      "en": "Work or a job; employment or professional activity. Can also mean effort or labor.",
+      "ar": "العمل أو الوظيفة؛ التوظيف أو النشاط المهني. يمكن أن يعني أيضاً الجهد أو العمل الشاق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich gehe zur Arbeit.",
+        "I go to work."
+      ],
+      "ar": [
+        "Meine Arbeit macht mir Spaß.",
+        "أستمتع بعملي."
+      ]
+    }
+  },
+  {
+    "word": "der Beruf",
+    "translations": {
+      "en": "profession, occupation",
+      "ar": "المهنة، الحرفة"
+    },
+    "explanation": {
+      "en": "A profession or occupation; one's career or trade. The type of work someone does for a living.",
+      "ar": "مهنة أو حرفة؛ مهنة الفرد أو تجارته. نوع العمل الذي يقوم به شخص ما للعيش."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Was sind Sie von Beruf?",
+        "What is your profession?"
+      ],
+      "ar": [
+        "Mein Beruf ist Lehrer.",
+        "مهنتي معلم."
+      ]
+    }
+  },
+  {
+    "word": "der Kollege / die Kollegin",
+    "translations": {
+      "en": "colleague, coworker",
+      "ar": "الزميل، زميل العمل"
+    },
+    "explanation": {
+      "en": "A colleague or coworker; someone you work with. Kollege is masculine, Kollegin is feminine.",
+      "ar": "زميل أو زميل عمل؛ شخص تعمل معه. Kollege مذكر، Kollegin مؤنث."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Meine Kollegen sind sehr nett.",
+        "My colleagues are very nice."
+      ],
+      "ar": [
+        "Ich arbeite gern mit meinen Kolleginnen.",
+        "أحب العمل مع زميلاتي."
+      ]
+    }
+  },
+  {
+    "word": "der Termin",
+    "translations": {
+      "en": "appointment, deadline",
+      "ar": "موعد، موعد نهائي"
+    },
+    "explanation": {
+      "en": "An appointment or scheduled meeting. Can also mean a deadline or due date.",
+      "ar": "موعد أو اجتماع مجدول. يمكن أن يعني أيضاً موعداً نهائياً أو تاريخ استحقاق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich habe einen Termin beim Arzt.",
+        "I have an appointment with the doctor."
+      ],
+      "ar": [
+        "Der Termin ist am Montag.",
+        "الموعد يوم الاثنين."
+      ]
+    }
+  },
+  {
+    "word": "die Besprechung",
+    "translations": {
+      "en": "meeting, discussion",
+      "ar": "اجتماع، مناقشة"
+    },
+    "explanation": {
+      "en": "A meeting or discussion, especially in a professional context. A formal gathering to discuss business matters.",
+      "ar": "اجتماع أو مناقشة، خاصة في سياق مهني. تجمع رسمي لمناقشة مسائل عمل."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Besprechung dauert zwei Stunden.",
+        "The meeting lasts two hours."
+      ],
+      "ar": [
+        "Wir haben morgen eine wichtige Besprechung.",
+        "لدينا اجتماع مهم غداً."
+      ]
+    }
+  },
+  {
+    "word": "die Reise",
+    "translations": {
+      "en": "trip, journey",
+      "ar": "رحلة، سفر"
+    },
+    "explanation": {
+      "en": "A trip or journey; travel from one place to another. Can be for business or pleasure.",
+      "ar": "رحلة أو سفر؛ السفر من مكان إلى آخر. يمكن أن تكون للعمل أو للمتعة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich mache eine Reise nach Berlin.",
+        "I'm taking a trip to Berlin."
+      ],
+      "ar": [
+        "Gute Reise!",
+        "رحلة سعيدة!"
+      ]
+    }
+  },
+  {
+    "word": "der Urlaub",
+    "translations": {
+      "en": "vacation, holiday",
+      "ar": "إجازة، عطلة"
+    },
+    "explanation": {
+      "en": "A vacation or holiday; time off from work. Paid or unpaid leave for rest and recreation.",
+      "ar": "إجازة أو عطلة؛ وقت راحة من العمل. إجازة مدفوعة أو غير مدفوعة للراحة والترفيه."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin im Urlaub.",
+        "I'm on vacation."
+      ],
+      "ar": [
+        "Wann haben Sie Urlaub?",
+        "متى لديك إجازة؟"
+      ]
+    }
+  },
+  {
+    "word": "das Flugzeug",
+    "translations": {
+      "en": "airplane, plane",
+      "ar": "طائرة"
+    },
+    "explanation": {
+      "en": "An airplane or aircraft. A powered flying vehicle with wings.",
+      "ar": "طائرة. مركبة طيران مزودة بمحرك ولها أجنحة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Flugzeug fliegt nach London.",
+        "The plane is flying to London."
+      ],
+      "ar": [
+        "Ich reise mit dem Flugzeug.",
+        "أسافر بالطائرة."
+      ]
+    }
+  },
+  {
+    "word": "der Flughafen",
+    "translations": {
+      "en": "airport",
+      "ar": "مطار"
+    },
+    "explanation": {
+      "en": "An airport; a place where airplanes take off and land. A facility for air travel.",
+      "ar": "مطار؛ مكان تقلع وتهبط فيه الطائرات. منشأة للسفر الجوي."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir fahren zum Flughafen.",
+        "We're driving to the airport."
+      ],
+      "ar": [
+        "Der Flughafen ist weit weg.",
+        "المطار بعيد."
+      ]
+    }
+  },
+  {
+    "word": "der Bahnhof",
+    "translations": {
+      "en": "train station",
+      "ar": "محطة قطار"
+    },
+    "explanation": {
+      "en": "A train station or railway station. A place where trains stop to pick up and drop off passengers.",
+      "ar": "محطة قطار أو محطة سكة حديد. مكان تتوقف فيه القطارات لالتقاط الركاب وإنزالهم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich hole dich am Bahnhof ab.",
+        "I'll pick you up at the train station."
+      ],
+      "ar": [
+        "Wo ist der Bahnhof?",
+        "أين محطة القطار؟"
+      ]
+    }
+  },
+  {
+    "word": "die Fahrkarte",
+    "translations": {
+      "en": "ticket (for transport)",
+      "ar": "تذكرة (للنقل)"
+    },
+    "explanation": {
+      "en": "A ticket for public transportation (train, bus, etc.). Proof of payment for a journey.",
+      "ar": "تذكرة لوسائل النقل العام (قطار، حافلة، إلخ). دليل الدفع للرحلة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich kaufe eine Fahrkarte.",
+        "I'm buying a ticket."
+      ],
+      "ar": [
+        "Die Fahrkarte kostet 10 Euro.",
+        "التذكرة تكلف 10 يورو."
+      ]
+    }
+  },
+  {
+    "word": "das Restaurant",
+    "translations": {
+      "en": "restaurant",
+      "ar": "مطعم"
+    },
+    "explanation": {
+      "en": "A restaurant; a place where meals are prepared and served to customers.",
+      "ar": "مطعم؛ مكان يتم فيه إعداد الوجبات وتقديمها للعملاء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir gehen ins Restaurant.",
+        "We're going to the restaurant."
+      ],
+      "ar": [
+        "Das Restaurant ist sehr gut.",
+        "المطعم جيد جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Speisekarte",
+    "translations": {
+      "en": "menu",
+      "ar": "قائمة الطعام"
+    },
+    "explanation": {
+      "en": "A menu; a list of dishes available in a restaurant. The card showing food and drink options.",
+      "ar": "قائمة طعام؛ قائمة بالأطباق المتوفرة في مطعم. البطاقة التي تظهر خيارات الطعام والشراب."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Können Sie mir bitte die Speisekarte geben?",
+        "Can you please give me the menu?"
+      ],
+      "ar": [
+        "Die Speisekarte ist auf Deutsch.",
+        "قائمة الطعام بالألمانية."
+      ]
+    }
+  },
+  {
+    "word": "bestellen",
+    "translations": {
+      "en": "to order",
+      "ar": "يطلب"
+    },
+    "explanation": {
+      "en": "To order food or goods. To request something to be brought or delivered.",
+      "ar": "طلب طعام أو بضائع. طلب إحضار أو تسليم شيء ما."
+    },
+    "conjugations": ["bestellen", "bestellt", "bestellte", "hat bestellt"],
+    "examples": {
+      "en": [
+        "Ich bestelle einen Kaffee.",
+        "I'm ordering a coffee."
+      ],
+      "ar": [
+        "Was möchten Sie bestellen?",
+        "ماذا تريد أن تطلب؟"
+      ]
+    }
+  },
+  {
+    "word": "bezahlen",
+    "translations": {
+      "en": "to pay",
+      "ar": "يدفع"
+    },
+    "explanation": {
+      "en": "To pay for something. To give money in exchange for goods or services.",
+      "ar": "دفع ثمن شيء ما. إعطاء المال مقابل سلع أو خدمات."
+    },
+    "conjugations": ["bezahlen", "bezahlt", "bezahlte", "hat bezahlt"],
+    "examples": {
+      "en": [
+        "Kann ich bitte bezahlen?",
+        "Can I pay, please?"
+      ],
+      "ar": [
+        "Ich bezahle mit Karte.",
+        "أدفع بالبطاقة."
+      ]
+    }
+  },
+  {
+    "word": "die Rechnung",
+    "translations": {
+      "en": "bill, invoice",
+      "ar": "فاتورة، حساب"
+    },
+    "explanation": {
+      "en": "A bill or invoice; a statement of money owed for goods or services.",
+      "ar": "فاتورة أو حساب؛ بيان بالمال المستحق مقابل سلع أو خدمات."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Rechnung, bitte.",
+        "The bill, please."
+      ],
+      "ar": [
+        "Die Rechnung ist falsch.",
+        "الفاتورة خاطئة."
+      ]
+    }
+  },
+  {
+    "word": "das Trinkgeld",
+    "translations": {
+      "en": "tip, gratuity",
+      "ar": "بقشيش، إكرامية"
+    },
+    "explanation": {
+      "en": "A tip or gratuity; extra money given for good service. Additional payment beyond the bill.",
+      "ar": "بقشيش أو إكرامية؛ أموال إضافية تُعطى مقابل خدمة جيدة. دفعة إضافية بعد الفاتورة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich gebe 10% Trinkgeld.",
+        "I give a 10% tip."
+      ],
+      "ar": [
+        "Das Trinkgeld ist im Preis enthalten.",
+        "البقشيش مشمول في السعر."
+      ]
+    }
+  },
+  {
+    "word": "der Arzt / die Ärztin",
+    "translations": {
+      "en": "doctor, physician",
+      "ar": "طبيب، طبيبة"
+    },
+    "explanation": {
+      "en": "A doctor or physician; a medical professional. Arzt is masculine, Ärztin is feminine.",
+      "ar": "طبيب؛ متخصص طبي. Arzt مذكر، Ärztin مؤنث."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich muss zum Arzt gehen.",
+        "I need to go to the doctor."
+      ],
+      "ar": [
+        "Die Ärztin untersucht mich.",
+        "تفحصني الطبيبة."
+      ]
+    }
+  },
+  {
+    "word": "das Krankenhaus",
+    "translations": {
+      "en": "hospital",
+      "ar": "مستشفى"
+    },
+    "explanation": {
+      "en": "A hospital; a medical facility for treating sick or injured people.",
+      "ar": "مستشفى؛ منشأة طبية لعلاج المرضى أو المصابين."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Er liegt im Krankenhaus.",
+        "He's in the hospital."
+      ],
+      "ar": [
+        "Welches Krankenhaus ist das nächste?",
+        "ما هو أقرب مستشفى؟"
+      ]
+    }
+  },
+  {
+    "word": "die Apotheke",
+    "translations": {
+      "en": "pharmacy, drugstore",
+      "ar": "صيدلية"
+    },
+    "explanation": {
+      "en": "A pharmacy or drugstore; a place where medicines are sold.",
+      "ar": "صيدلية؛ مكان يتم فيه بيع الأدوية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich hole Medikamente in der Apotheke.",
+        "I'm getting medicine from the pharmacy."
+      ],
+      "ar": [
+        "Die Apotheke ist um die Ecke.",
+        "الصيدلية حول الزاوية."
+      ]
+    }
+  },
+  {
+    "word": "das Medikament",
+    "translations": {
+      "en": "medication, medicine",
+      "ar": "دواء، علاج"
+    },
+    "explanation": {
+      "en": "Medication or medicine; a drug used to treat illness or pain.",
+      "ar": "دواء أو علاج؛ عقار يُستخدم لعلاج المرض أو الألم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich nehme meine Medikamente täglich.",
+        "I take my medication daily."
+      ],
+      "ar": [
+        "Dieses Medikament hilft gegen Kopfschmerzen.",
+        "هذا الدواء يساعد ضد الصداع."
+      ]
+    }
+  },
+  {
+    "word": "krank",
+    "translations": {
+      "en": "sick, ill",
+      "ar": "مريض"
+    },
+    "explanation": {
+      "en": "Sick or ill; not in good health. Suffering from disease or ailment.",
+      "ar": "مريض؛ ليس في صحة جيدة. يعاني من مرض أو علة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin krank.",
+        "I'm sick."
+      ],
+      "ar": [
+        "Sie ist schon lange krank.",
+        "هي مريضة منذ وقت طويل."
+      ]
+    }
+  },
+  {
+    "word": "gesund",
+    "translations": {
+      "en": "healthy, well",
+      "ar": "صحي، بصحة جيدة"
+    },
+    "explanation": {
+      "en": "Healthy or well; in good physical condition. Free from illness or injury.",
+      "ar": "صحي أو بصحة جيدة؛ في حالة بدنية جيدة. خالٍ من المرض أو الإصابة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin wieder gesund.",
+        "I'm healthy again."
+      ],
+      "ar": [
+        "Gesunde Ernährung ist wichtig.",
+        "التغذية الصحية مهمة."
+      ]
+    }
+  },
+  {
+    "word": "der Schmerz",
+    "translations": {
+      "en": "pain, ache",
+      "ar": "ألم، وجع"
+    },
+    "explanation": {
+      "en": "Pain or ache; physical discomfort or suffering. An unpleasant sensation.",
+      "ar": "ألم أو وجع؛ انزعاج جسدي أو معاناة. إحساس غير سار."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich habe Schmerzen im Rücken.",
+        "I have pain in my back."
+      ],
+      "ar": [
+        "Der Schmerz ist sehr stark.",
+        "الألم قوي جداً."
+      ]
+    }
+  },
+  {
+    "word": "das Geschäft",
+    "translations": {
+      "en": "shop, store",
+      "ar": "متجر، محل"
+    },
+    "explanation": {
+      "en": "A shop or store; a place where goods are sold. Can also mean business.",
+      "ar": "متجر أو محل؛ مكان تُباع فيه البضائع. يمكن أن يعني أيضاً عمل تجاري."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Geschäft ist geschlossen.",
+        "The shop is closed."
+      ],
+      "ar": [
+        "Ich gehe ins Geschäft.",
+        "أذهب إلى المتجر."
+      ]
+    }
+  },
+  {
+    "word": "der Supermarkt",
+    "translations": {
+      "en": "supermarket",
+      "ar": "سوبر ماركت"
+    },
+    "explanation": {
+      "en": "A supermarket; a large self-service store selling food and household goods.",
+      "ar": "سوبر ماركت؛ متجر كبير للخدمة الذاتية يبيع الطعام والسلع المنزلية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich kaufe im Supermarkt ein.",
+        "I shop at the supermarket."
+      ],
+      "ar": [
+        "Der Supermarkt ist um die Ecke.",
+        "السوبر ماركت حول الزاوية."
+      ]
+    }
+  },
+  {
+    "word": "einkaufen",
+    "translations": {
+      "en": "to shop, to go shopping",
+      "ar": "يتسوق"
+    },
+    "explanation": {
+      "en": "To shop or go shopping; to buy goods. A separable verb (kaufen ein).",
+      "ar": "التسوق أو الذهاب للتسوق؛ شراء البضائع. فعل قابل للفصل (kaufen ein)."
+    },
+    "conjugations": ["einkaufen", "kauft ein", "kaufte ein", "hat eingekauft"],
+    "examples": {
+      "en": [
+        "Ich kaufe heute Abend ein.",
+        "I'm shopping this evening."
+      ],
+      "ar": [
+        "Wir kaufen zusammen ein.",
+        "نحن نتسوق معاً."
+      ]
+    }
+  },
+  {
+    "word": "verkaufen",
+    "translations": {
+      "en": "to sell",
+      "ar": "يبيع"
+    },
+    "explanation": {
+      "en": "To sell something; to exchange goods for money.",
+      "ar": "بيع شيء ما؛ تبادل البضائع بالمال."
+    },
+    "conjugations": ["verkaufen", "verkauft", "verkaufte", "hat verkauft"],
+    "examples": {
+      "en": [
+        "Sie verkaufen frisches Obst.",
+        "They sell fresh fruit."
+      ],
+      "ar": [
+        "Ich verkaufe mein Auto.",
+        "أبيع سيارتي."
+      ]
+    }
+  },
+  {
+    "word": "der Preis",
+    "translations": {
+      "en": "price, prize",
+      "ar": "سعر، جائزة"
+    },
+    "explanation": {
+      "en": "The price or cost of something. Can also mean a prize or award.",
+      "ar": "سعر أو تكلفة شيء ما. يمكن أن يعني أيضاً جائزة أو مكافأة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Was ist der Preis?",
+        "What is the price?"
+      ],
+      "ar": [
+        "Der Preis ist zu hoch.",
+        "السعر مرتفع جداً."
+      ]
+    }
+  },
+  {
+    "word": "teuer",
+    "translations": {
+      "en": "expensive",
+      "ar": "غالي، مكلف"
+    },
+    "explanation": {
+      "en": "Expensive; costing a lot of money. High-priced.",
+      "ar": "غالي؛ يكلف الكثير من المال. مرتفع السعر."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Auto ist sehr teuer.",
+        "The car is very expensive."
+      ],
+      "ar": [
+        "Diese Schuhe sind zu teuer.",
+        "هذه الأحذية غالية جداً."
+      ]
+    }
+  },
+  {
+    "word": "billig",
+    "translations": {
+      "en": "cheap, inexpensive",
+      "ar": "رخيص"
+    },
+    "explanation": {
+      "en": "Cheap or inexpensive; not costing much money. Low-priced.",
+      "ar": "رخيص؛ لا يكلف الكثير من المال. منخفض السعر."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Essen ist billig.",
+        "The food is cheap."
+      ],
+      "ar": [
+        "Ich suche etwas Billiges.",
+        "أبحث عن شيء رخيص."
+      ]
+    }
+  },
+  {
+    "word": "die Familie",
+    "translations": {
+      "en": "family",
+      "ar": "عائلة"
+    },
+    "explanation": {
+      "en": "Family; a group of people related by blood or marriage. Parents and children living together.",
+      "ar": "عائلة؛ مجموعة من الناس مرتبطين بالدم أو الزواج. الوالدان والأطفال يعيشون معاً."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Meine Familie ist groß.",
+        "My family is big."
+      ],
+      "ar": [
+        "Ich liebe meine Familie.",
+        "أحب عائلتي."
+      ]
+    }
+  },
+  {
+    "word": "die Eltern",
+    "translations": {
+      "en": "parents",
+      "ar": "والدان"
+    },
+    "explanation": {
+      "en": "Parents; mother and father. Always used in plural form in German.",
+      "ar": "والدان؛ أم وأب. تُستخدم دائماً بصيغة الجمع في الألمانية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Meine Eltern wohnen in Berlin.",
+        "My parents live in Berlin."
+      ],
+      "ar": [
+        "Ich besuche meine Eltern am Wochenende.",
+        "أزور والديّ في عطلة نهاية الأسبوع."
+      ]
+    }
+  },
+  {
+    "word": "das Kind",
+    "translations": {
+      "en": "child",
+      "ar": "طفل"
+    },
+    "explanation": {
+      "en": "A child; a young person. Plural is 'Kinder'.",
+      "ar": "طفل؛ شخص صغير السن. الجمع 'Kinder'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Sie hat zwei Kinder.",
+        "She has two children."
+      ],
+      "ar": [
+        "Das Kind spielt im Park.",
+        "الطفل يلعب في الحديقة."
+      ]
+    }
+  },
+  {
+    "word": "der Bruder",
+    "translations": {
+      "en": "brother",
+      "ar": "أخ"
+    },
+    "explanation": {
+      "en": "A brother; a male sibling. Plural is 'Brüder'.",
+      "ar": "أخ؛ شقيق ذكر. الجمع 'Brüder'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Mein Bruder ist älter als ich.",
+        "My brother is older than me."
+      ],
+      "ar": [
+        "Ich habe einen Bruder.",
+        "لدي أخ."
+      ]
+    }
+  },
+  {
+    "word": "die Schwester",
+    "translations": {
+      "en": "sister",
+      "ar": "أخت"
+    },
+    "explanation": {
+      "en": "A sister; a female sibling. Plural is 'Schwestern'.",
+      "ar": "أخت؛ شقيقة. الجمع 'Schwestern'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Meine Schwester studiert Medizin.",
+        "My sister studies medicine."
+      ],
+      "ar": [
+        "Ich habe zwei Schwestern.",
+        "لدي أختان."
+      ]
+    }
+  },
+  {
+    "word": "der Freund / die Freundin",
+    "translations": {
+      "en": "friend, boyfriend/girlfriend",
+      "ar": "صديق، صديقة"
+    },
+    "explanation": {
+      "en": "Friend or romantic partner. Freund is masculine, Freundin is feminine. Can mean both friend and boyfriend/girlfriend depending on context.",
+      "ar": "صديق أو شريك عاطفي. Freund مذكر، Freundin مؤنث. يمكن أن يعني صديق أو حبيب حسب السياق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das ist mein bester Freund.",
+        "This is my best friend."
+      ],
+      "ar": [
+        "Meine Freundin kommt aus Spanien.",
+        "صديقتي من إسبانيا."
+      ]
+    }
+  },
+  {
+    "word": "verheiratet",
+    "translations": {
+      "en": "married",
+      "ar": "متزوج"
+    },
+    "explanation": {
+      "en": "Married; in a legal union with another person.",
+      "ar": "متزوج؛ في اتحاد قانوني مع شخص آخر."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin verheiratet.",
+        "I am married."
+      ],
+      "ar": [
+        "Sie ist seit fünf Jahren verheiratet.",
+        "هي متزوجة منذ خمس سنوات."
+      ]
+    }
+  },
+  {
+    "word": "ledig",
+    "translations": {
+      "en": "single, unmarried",
+      "ar": "أعزب، غير متزوج"
+    },
+    "explanation": {
+      "en": "Single or unmarried; not in a marital union.",
+      "ar": "أعزب أو غير متزوج؛ ليس في اتحاد زواج."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Er ist noch ledig.",
+        "He is still single."
+      ],
+      "ar": [
+        "Ich bin ledig.",
+        "أنا أعزب."
+      ]
+    }
+  },
+  {
+    "word": "das Hobby",
+    "translations": {
+      "en": "hobby",
+      "ar": "هواية"
+    },
+    "explanation": {
+      "en": "A hobby; an activity done regularly in one's free time for pleasure.",
+      "ar": "هواية؛ نشاط يُمارس بانتظام في وقت الفراغ للمتعة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Was ist dein Hobby?",
+        "What is your hobby?"
+      ],
+      "ar": [
+        "Mein Hobby ist Lesen.",
+        "هوايتي القراءة."
+      ]
+    }
+  },
+  {
+    "word": "der Sport",
+    "translations": {
+      "en": "sport, exercise",
+      "ar": "رياضة"
+    },
+    "explanation": {
+      "en": "Sport or exercise; physical activities for fitness or competition.",
+      "ar": "رياضة أو تمرين؛ أنشطة بدنية للياقة أو المنافسة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich treibe gerne Sport.",
+        "I like to do sports."
+      ],
+      "ar": [
+        "Sport ist gesund.",
+        "الرياضة صحية."
+      ]
+    }
+  },
+  {
+    "word": "spielen",
+    "translations": {
+      "en": "to play",
+      "ar": "يلعب"
+    },
+    "explanation": {
+      "en": "To play; to engage in games, sports, or musical instruments.",
+      "ar": "اللعب؛ المشاركة في الألعاب أو الرياضة أو العزف على الآلات الموسيقية."
+    },
+    "conjugations": ["spielen", "spielt", "spielte", "hat gespielt"],
+    "examples": {
+      "en": [
+        "Ich spiele Fußball.",
+        "I play football."
+      ],
+      "ar": [
+        "Sie spielt Klavier.",
+        "هي تعزف البيانو."
+      ]
+    }
+  },
+  {
+    "word": "schwimmen",
+    "translations": {
+      "en": "to swim",
+      "ar": "يسبح"
+    },
+    "explanation": {
+      "en": "To swim; to move through water using limbs.",
+      "ar": "السباحة؛ التحرك في الماء باستخدام الأطراف."
+    },
+    "conjugations": ["schwimmen", "schwimmt", "schwamm", "ist geschwommen"],
+    "examples": {
+      "en": [
+        "Ich schwimme jeden Morgen.",
+        "I swim every morning."
+      ],
+      "ar": [
+        "Kannst du schwimmen?",
+        "هل تستطيع السباحة؟"
+      ]
+    }
+  },
+  {
+    "word": "lesen",
+    "translations": {
+      "en": "to read",
+      "ar": "يقرأ"
+    },
+    "explanation": {
+      "en": "To read; to interpret written text. An irregular verb.",
+      "ar": "القراءة؛ تفسير النص المكتوب. فعل شاذ."
+    },
+    "conjugations": ["lesen", "liest", "las", "hat gelesen"],
+    "examples": {
+      "en": [
+        "Ich lese gerne Romane.",
+        "I like to read novels."
+      ],
+      "ar": [
+        "Er liest die Zeitung.",
+        "هو يقرأ الجريدة."
+      ]
+    }
+  },
+  {
+    "word": "das Buch",
+    "translations": {
+      "en": "book",
+      "ar": "كتاب"
+    },
+    "explanation": {
+      "en": "A book; a written or printed work consisting of pages. Plural is 'Bücher'.",
+      "ar": "كتاب؛ عمل مكتوب أو مطبوع يتكون من صفحات. الجمع 'Bücher'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich kaufe ein neues Buch.",
+        "I'm buying a new book."
+      ],
+      "ar": [
+        "Das Buch ist sehr interessant.",
+        "الكتاب مثير جداً للاهتمام."
+      ]
+    }
+  },
+  {
+    "word": "der Film",
+    "translations": {
+      "en": "film, movie",
+      "ar": "فيلم"
+    },
+    "explanation": {
+      "en": "A film or movie; a motion picture shown in cinemas or on TV.",
+      "ar": "فيلم؛ صورة متحركة تُعرض في دور السينما أو التلفزيون."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich sehe einen Film.",
+        "I'm watching a film."
+      ],
+      "ar": [
+        "Der Film war sehr gut.",
+        "الفيلم كان جيداً جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Musik",
+    "translations": {
+      "en": "music",
+      "ar": "موسيقى"
+    },
+    "explanation": {
+      "en": "Music; vocal or instrumental sounds combined to produce harmony and expression.",
+      "ar": "موسيقى؛ أصوات غنائية أو آلية مدمجة لإنتاج الانسجام والتعبير."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich höre gerne Musik.",
+        "I like to listen to music."
+      ],
+      "ar": [
+        "Welche Musik magst du?",
+        "ما الموسيقى التي تحبها؟"
+      ]
+    }
+  },
+  {
+    "word": "das Wetter",
+    "translations": {
+      "en": "weather",
+      "ar": "طقس"
+    },
+    "explanation": {
+      "en": "The weather; atmospheric conditions at a particular time and place.",
+      "ar": "الطقس؛ الظروف الجوية في وقت ومكان معينين."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wie ist das Wetter?",
+        "How is the weather?"
+      ],
+      "ar": [
+        "Das Wetter ist schön heute.",
+        "الطقس جميل اليوم."
+      ]
+    }
+  },
+  {
+    "word": "die Sonne",
+    "translations": {
+      "en": "sun",
+      "ar": "شمس"
+    },
+    "explanation": {
+      "en": "The sun; the star at the center of our solar system. Also means sunshine.",
+      "ar": "الشمس؛ النجم في مركز نظامنا الشمسي. يعني أيضاً ضوء الشمس."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Sonne scheint.",
+        "The sun is shining."
+      ],
+      "ar": [
+        "Heute gibt es viel Sonne.",
+        "اليوم يوجد الكثير من الشمس."
+      ]
+    }
+  },
+  {
+    "word": "der Regen",
+    "translations": {
+      "en": "rain",
+      "ar": "مطر"
+    },
+    "explanation": {
+      "en": "Rain; water falling from clouds in droplets.",
+      "ar": "مطر؛ ماء يسقط من الغيوم على شكل قطرات."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es gibt viel Regen heute.",
+        "There's a lot of rain today."
+      ],
+      "ar": [
+        "Der Regen kommt.",
+        "المطر قادم."
+      ]
+    }
+  },
+  {
+    "word": "der Schnee",
+    "translations": {
+      "en": "snow",
+      "ar": "ثلج"
+    },
+    "explanation": {
+      "en": "Snow; frozen water vapor falling from the sky as white flakes.",
+      "ar": "ثلج؛ بخار ماء متجمد يسقط من السماء على شكل رقائق بيضاء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es schneit.",
+        "It's snowing."
+      ],
+      "ar": [
+        "Der Schnee ist weiß.",
+        "الثلج أبيض."
+      ]
+    }
+  },
+  {
+    "word": "warm",
+    "translations": {
+      "en": "warm",
+      "ar": "دافئ"
+    },
+    "explanation": {
+      "en": "Warm; having a moderate degree of heat. Not cold or hot.",
+      "ar": "دافئ؛ يمتلك درجة معتدلة من الحرارة. ليس بارداً ولا ساخناً."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es ist warm heute.",
+        "It's warm today."
+      ],
+      "ar": [
+        "Das Wasser ist warm.",
+        "الماء دافئ."
+      ]
+    }
+  },
+  {
+    "word": "kalt",
+    "translations": {
+      "en": "cold",
+      "ar": "بارد"
+    },
+    "explanation": {
+      "en": "Cold; having a low temperature. Opposite of warm or hot.",
+      "ar": "بارد؛ يمتلك درجة حرارة منخفضة. عكس دافئ أو ساخن."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es ist sehr kalt.",
+        "It's very cold."
+      ],
+      "ar": [
+        "Der Winter ist kalt.",
+        "الشتاء بارد."
+      ]
+    }
+  },
+  {
+    "word": "der Frühling",
+    "translations": {
+      "en": "spring",
+      "ar": "ربيع"
+    },
+    "explanation": {
+      "en": "Spring; the season between winter and summer when plants begin to grow.",
+      "ar": "الربيع؛ الموسم بين الشتاء والصيف عندما تبدأ النباتات بالنمو."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Frühling ist meine Lieblingsjahreszeit.",
+        "Spring is my favorite season."
+      ],
+      "ar": [
+        "Im Frühling blühen die Blumen.",
+        "في الربيع تتفتح الزهور."
+      ]
+    }
+  },
+  {
+    "word": "der Sommer",
+    "translations": {
+      "en": "summer",
+      "ar": "صيف"
+    },
+    "explanation": {
+      "en": "Summer; the warmest season of the year, between spring and autumn.",
+      "ar": "الصيف؛ الموسم الأدفأ من السنة، بين الربيع والخريف."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Im Sommer fahre ich ans Meer.",
+        "In summer I go to the sea."
+      ],
+      "ar": [
+        "Der Sommer ist heiß.",
+        "الصيف حار."
+      ]
+    }
+  },
+  {
+    "word": "der Herbst",
+    "translations": {
+      "en": "autumn, fall",
+      "ar": "خريف"
+    },
+    "explanation": {
+      "en": "Autumn or fall; the season between summer and winter when leaves fall.",
+      "ar": "الخريف؛ الموسم بين الصيف والشتاء عندما تتساقط الأوراق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Im Herbst fallen die Blätter.",
+        "In autumn the leaves fall."
+      ],
+      "ar": [
+        "Der Herbst ist bunt.",
+        "الخريف ملون."
+      ]
+    }
+  },
+  {
+    "word": "der Winter",
+    "translations": {
+      "en": "winter",
+      "ar": "شتاء"
+    },
+    "explanation": {
+      "en": "Winter; the coldest season of the year, between autumn and spring.",
+      "ar": "الشتاء؛ الموسم الأبرد من السنة، بين الخريف والربيع."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Im Winter schneit es oft.",
+        "In winter it often snows."
+      ],
+      "ar": [
+        "Der Winter ist lang.",
+        "الشتاء طويل."
+      ]
+    }
+  },
+  {
+    "word": "links",
+    "translations": {
+      "en": "left, on the left",
+      "ar": "يسار، على اليسار"
+    },
+    "explanation": {
+      "en": "Left or on the left; the direction or side opposite to right.",
+      "ar": "يسار أو على اليسار؛ الاتجاه أو الجانب المقابل لليمين."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Biegen Sie links ab.",
+        "Turn left."
+      ],
+      "ar": [
+        "Das Geschäft ist links.",
+        "المتجر على اليسار."
+      ]
+    }
+  },
+  {
+    "word": "rechts",
+    "translations": {
+      "en": "right, on the right",
+      "ar": "يمين، على اليمين"
+    },
+    "explanation": {
+      "en": "Right or on the right; the direction or side opposite to left.",
+      "ar": "يمين أو على اليمين؛ الاتجاه أو الجانب المقابل لليسار."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Gehen Sie rechts.",
+        "Go right."
+      ],
+      "ar": [
+        "Das Restaurant ist rechts.",
+        "المطعم على اليمين."
+      ]
+    }
+  },
+  {
+    "word": "geradeaus",
+    "translations": {
+      "en": "straight ahead",
+      "ar": "مباشرة، على نفس الخط"
+    },
+    "explanation": {
+      "en": "Straight ahead; continuing in the same direction without turning.",
+      "ar": "مباشرة؛ الاستمرار في نفس الاتجاه دون انعطاف."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Fahren Sie geradeaus.",
+        "Drive straight ahead."
+      ],
+      "ar": [
+        "Gehen Sie geradeaus bis zur Ampel.",
+        "اذهب مباشرة حتى إشارة المرور."
+      ]
+    }
+  },
+  {
+    "word": "die Straße",
+    "translations": {
+      "en": "street, road",
+      "ar": "شارع، طريق"
+    },
+    "explanation": {
+      "en": "A street or road; a public way in a city or town.",
+      "ar": "شارع أو طريق؛ طريق عام في مدينة أو بلدة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich wohne in dieser Straße.",
+        "I live on this street."
+      ],
+      "ar": [
+        "Die Straße ist lang.",
+        "الشارع طويل."
+      ]
+    }
+  },
+  {
+    "word": "die Ecke",
+    "translations": {
+      "en": "corner",
+      "ar": "زاوية، ناصية"
+    },
+    "explanation": {
+      "en": "A corner; the place where two streets or surfaces meet.",
+      "ar": "زاوية أو ناصية؛ المكان الذي يلتقي فيه شارعان أو سطحان."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Café ist an der Ecke.",
+        "The café is on the corner."
+      ],
+      "ar": [
+        "Biegen Sie an der Ecke ab.",
+        "انعطف عند الزاوية."
+      ]
+    }
+  },
+  {
+    "word": "die Ampel",
+    "translations": {
+      "en": "traffic light",
+      "ar": "إشارة مرور"
+    },
+    "explanation": {
+      "en": "A traffic light; a signal controlling vehicle and pedestrian traffic.",
+      "ar": "إشارة مرور؛ إشارة تتحكم في حركة المركبات والمشاة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Ampel ist rot.",
+        "The traffic light is red."
+      ],
+      "ar": [
+        "Warten Sie an der Ampel.",
+        "انتظر عند إشارة المرور."
+      ]
+    }
+  },
+  {
+    "word": "die Brücke",
+    "translations": {
+      "en": "bridge",
+      "ar": "جسر"
+    },
+    "explanation": {
+      "en": "A bridge; a structure carrying a road or path over an obstacle.",
+      "ar": "جسر؛ بناء يحمل طريقاً أو ممراً فوق عائق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wir überqueren die Brücke.",
+        "We're crossing the bridge."
+      ],
+      "ar": [
+        "Die Brücke ist sehr alt.",
+        "الجسر قديم جداً."
+      ]
+    }
+  },
+  {
+    "word": "nah",
+    "translations": {
+      "en": "near, close",
+      "ar": "قريب"
+    },
+    "explanation": {
+      "en": "Near or close; at a short distance. Opposite of far.",
+      "ar": "قريب؛ على مسافة قصيرة. عكس بعيد."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Bahnhof ist nah.",
+        "The train station is near."
+      ],
+      "ar": [
+        "Ist es weit? Nein, es ist ganz nah.",
+        "هل هو بعيد؟ لا، إنه قريب جداً."
+      ]
+    }
+  },
+  {
+    "word": "weit",
+    "translations": {
+      "en": "far, distant",
+      "ar": "بعيد"
+    },
+    "explanation": {
+      "en": "Far or distant; at a great distance. Opposite of near.",
+      "ar": "بعيد؛ على مسافة كبيرة. عكس قريب."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ist es weit von hier?",
+        "Is it far from here?"
+      ],
+      "ar": [
+        "Der Weg ist sehr weit.",
+        "الطريق بعيد جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Kleidung",
+    "translations": {
+      "en": "clothing, clothes",
+      "ar": "ملابس"
+    },
+    "explanation": {
+      "en": "Clothing or clothes; garments worn on the body.",
+      "ar": "ملابس؛ ثياب تُلبس على الجسم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich kaufe neue Kleidung.",
+        "I'm buying new clothes."
+      ],
+      "ar": [
+        "Die Kleidung ist teuer.",
+        "الملابس غالية."
+      ]
+    }
+  },
+  {
+    "word": "das Hemd",
+    "translations": {
+      "en": "shirt",
+      "ar": "قميص"
+    },
+    "explanation": {
+      "en": "A shirt; a garment for the upper body with sleeves.",
+      "ar": "قميص؛ ثوب للجسم العلوي بأكمام."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Er trägt ein weißes Hemd.",
+        "He's wearing a white shirt."
+      ],
+      "ar": [
+        "Das Hemd ist zu groß.",
+        "القميص كبير جداً."
+      ]
+    }
+  },
+  {
+    "word": "die Hose",
+    "translations": {
+      "en": "pants, trousers",
+      "ar": "بنطال"
+    },
+    "explanation": {
+      "en": "Pants or trousers; a garment covering the legs. Usually used in singular in German.",
+      "ar": "بنطال؛ ثوب يغطي الساقين. يُستخدم عادة بصيغة المفرد في الألمانية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich brauche eine neue Hose.",
+        "I need new pants."
+      ],
+      "ar": [
+        "Die Hose ist schwarz.",
+        "البنطال أسود."
+      ]
+    }
+  },
+  {
+    "word": "der Schuh",
+    "translations": {
+      "en": "shoe",
+      "ar": "حذاء"
+    },
+    "explanation": {
+      "en": "A shoe; footwear covering the foot. Plural is 'Schuhe'.",
+      "ar": "حذاء؛ غطاء للقدم. الجمع 'Schuhe'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Diese Schuhe sind bequem.",
+        "These shoes are comfortable."
+      ],
+      "ar": [
+        "Wo sind meine Schuhe?",
+        "أين حذائي؟"
+      ]
+    }
+  },
+  {
+    "word": "der Mantel",
+    "translations": {
+      "en": "coat, overcoat",
+      "ar": "معطف"
+    },
+    "explanation": {
+      "en": "A coat or overcoat; an outer garment worn for warmth. Plural is 'Mäntel'.",
+      "ar": "معطف؛ ثوب خارجي يُلبس للدفء. الجمع 'Mäntel'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Im Winter trage ich einen Mantel.",
+        "In winter I wear a coat."
+      ],
+      "ar": [
+        "Der Mantel ist warm.",
+        "المعطف دافئ."
+      ]
+    }
+  },
+  {
+    "word": "tragen",
+    "translations": {
+      "en": "to wear, to carry",
+      "ar": "يرتدي، يحمل"
+    },
+    "explanation": {
+      "en": "To wear or carry; to have clothing on one's body or to transport something. An irregular verb.",
+      "ar": "ارتداء أو حمل؛ ارتداء ملابس على الجسم أو نقل شيء. فعل شاذ."
+    },
+    "conjugations": ["tragen", "trägt", "trug", "hat getragen"],
+    "examples": {
+      "en": [
+        "Ich trage eine Brille.",
+        "I wear glasses."
+      ],
+      "ar": [
+        "Sie trägt ein rotes Kleid.",
+        "هي ترتدي فستاناً أحمر."
+      ]
+    }
+  },
+  {
+    "word": "schön",
+    "translations": {
+      "en": "beautiful, nice",
+      "ar": "جميل، لطيف"
+    },
+    "explanation": {
+      "en": "Beautiful or nice; pleasing to the senses or mind. An important adjective.",
+      "ar": "جميل أو لطيف؛ ممتع للحواس أو العقل. صفة مهمة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Wetter ist schön.",
+        "The weather is beautiful."
+      ],
+      "ar": [
+        "Sie ist sehr schön.",
+        "هي جميلة جداً."
+      ]
+    }
+  },
+  {
+    "word": "hässlich",
+    "translations": {
+      "en": "ugly",
+      "ar": "قبيح"
+    },
+    "explanation": {
+      "en": "Ugly; unpleasant to look at. Opposite of beautiful.",
+      "ar": "قبيح؛ غير سار للنظر إليه. عكس جميل."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Gebäude ist hässlich.",
+        "The building is ugly."
+      ],
+      "ar": [
+        "Ich finde das hässlich.",
+        "أجد ذلك قبيحاً."
+      ]
+    }
+  },
+  {
+    "word": "das Handy",
+    "translations": {
+      "en": "mobile phone, cell phone",
+      "ar": "هاتف محمول"
+    },
+    "explanation": {
+      "en": "A mobile or cell phone. Note: 'Handy' is a German word, not used in English.",
+      "ar": "هاتف محمول. ملاحظة: 'Handy' كلمة ألمانية، لا تُستخدم في الإنجليزية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Wo ist mein Handy?",
+        "Where is my mobile phone?"
+      ],
+      "ar": [
+        "Ich brauche ein neues Handy.",
+        "أحتاج إلى هاتف محمول جديد."
+      ]
+    }
+  },
+  {
+    "word": "der Computer",
+    "translations": {
+      "en": "computer",
+      "ar": "كمبيوتر، حاسوب"
+    },
+    "explanation": {
+      "en": "A computer; an electronic device for processing data.",
+      "ar": "كمبيوتر؛ جهاز إلكتروني لمعالجة البيانات."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich arbeite am Computer.",
+        "I work on the computer."
+      ],
+      "ar": [
+        "Mein Computer ist kaputt.",
+        "كمبيوتري معطل."
+      ]
+    }
+  },
+  {
+    "word": "das Internet",
+    "translations": {
+      "en": "internet",
+      "ar": "إنترنت"
+    },
+    "explanation": {
+      "en": "The internet; the global computer network.",
+      "ar": "الإنترنت؛ شبكة الكمبيوتر العالمية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich surfe im Internet.",
+        "I'm surfing the internet."
+      ],
+      "ar": [
+        "Das Internet funktioniert nicht.",
+        "الإنترنت لا يعمل."
+      ]
+    }
+  },
+  {
+    "word": "die E-Mail",
+    "translations": {
+      "en": "email",
+      "ar": "بريد إلكتروني"
+    },
+    "explanation": {
+      "en": "An email; electronic mail sent via the internet.",
+      "ar": "بريد إلكتروني؛ بريد يُرسل عبر الإنترنت."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich schreibe eine E-Mail.",
+        "I'm writing an email."
+      ],
+      "ar": [
+        "Hast du meine E-Mail bekommen?",
+        "هل استلمت بريدي الإلكتروني؟"
+      ]
+    }
+  },
+  {
+    "word": "schreiben",
+    "translations": {
+      "en": "to write",
+      "ar": "يكتب"
+    },
+    "explanation": {
+      "en": "To write; to form letters or words on paper or screen.",
+      "ar": "الكتابة؛ تشكيل الحروف أو الكلمات على الورق أو الشاشة."
+    },
+    "conjugations": ["schreiben", "schreibt", "schrieb", "hat geschrieben"],
+    "examples": {
+      "en": [
+        "Ich schreibe einen Brief.",
+        "I'm writing a letter."
+      ],
+      "ar": [
+        "Sie schreibt jeden Tag.",
+        "هي تكتب كل يوم."
+      ]
+    }
+  },
+  {
+    "word": "anrufen",
+    "translations": {
+      "en": "to call, to phone",
+      "ar": "يتصل، يهاتف"
+    },
+    "explanation": {
+      "en": "To call or phone someone; to make a telephone call. A separable verb (rufen an).",
+      "ar": "الاتصال أو مهاتفة شخص؛ إجراء مكالمة هاتفية. فعل قابل للفصل (rufen an)."
+    },
+    "conjugations": ["anrufen", "ruft an", "rief an", "hat angerufen"],
+    "examples": {
+      "en": [
+        "Ich rufe dich morgen an.",
+        "I'll call you tomorrow."
+      ],
+      "ar": [
+        "Ruf mich bitte an!",
+        "اتصل بي من فضلك!"
+      ]
+    }
+  },
+  {
+    "word": "die Schule",
+    "translations": {
+      "en": "school",
+      "ar": "مدرسة"
+    },
+    "explanation": {
+      "en": "A school; an institution for education.",
+      "ar": "مدرسة؛ مؤسسة للتعليم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Kinder gehen zur Schule.",
+        "The children go to school."
+      ],
+      "ar": [
+        "Die Schule beginnt um 8 Uhr.",
+        "المدرسة تبدأ في الساعة 8."
+      ]
+    }
+  },
+  {
+    "word": "die Universität",
+    "translations": {
+      "en": "university",
+      "ar": "جامعة"
+    },
+    "explanation": {
+      "en": "A university; an institution of higher education and research.",
+      "ar": "جامعة؛ مؤسسة للتعليم العالي والبحث."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich studiere an der Universität.",
+        "I study at the university."
+      ],
+      "ar": [
+        "Die Universität ist groß.",
+        "الجامعة كبيرة."
+      ]
+    }
+  },
+  {
+    "word": "studieren",
+    "translations": {
+      "en": "to study (at university)",
+      "ar": "يدرس (في الجامعة)"
+    },
+    "explanation": {
+      "en": "To study at university; to pursue higher education. Different from 'lernen'.",
+      "ar": "الدراسة في الجامعة؛ متابعة التعليم العالي. مختلف عن 'lernen'."
+    },
+    "conjugations": ["studieren", "studiert", "studierte", "hat studiert"],
+    "examples": {
+      "en": [
+        "Ich studiere Medizin.",
+        "I study medicine."
+      ],
+      "ar": [
+        "Was studierst du?",
+        "ماذا تدرس؟"
+      ]
+    }
+  },
+  {
+    "word": "lernen",
+    "translations": {
+      "en": "to learn, to study",
+      "ar": "يتعلم، يدرس"
+    },
+    "explanation": {
+      "en": "To learn or study; to acquire knowledge or skills. Used for general learning.",
+      "ar": "التعلم أو الدراسة؛ اكتساب المعرفة أو المهارات. يُستخدم للتعلم العام."
+    },
+    "conjugations": ["lernen", "lernt", "lernte", "hat gelernt"],
+    "examples": {
+      "en": [
+        "Ich lerne Deutsch.",
+        "I'm learning German."
+      ],
+      "ar": [
+        "Sie lernt für die Prüfung.",
+        "هي تدرس للامتحان."
+      ]
+    }
+  },
+  {
+    "word": "gehen",
+    "translations": {
+      "en": "to go, to walk",
+      "ar": "يذهب، يمشي"
+    },
+    "explanation": {
+      "en": "To go or walk; to move from one place to another. One of the most important German verbs.",
+      "ar": "الذهاب أو المشي؛ الانتقال من مكان إلى آخر. أحد أهم الأفعال الألمانية."
+    },
+    "conjugations": ["gehen", "geht", "ging", "ist gegangen"],
+    "examples": {
+      "en": [
+        "Ich gehe nach Hause.",
+        "I'm going home."
+      ],
+      "ar": [
+        "Wir gehen spazieren.",
+        "نذهب للتنزه."
+      ]
+    }
+  },
+  {
+    "word": "kommen",
+    "translations": {
+      "en": "to come",
+      "ar": "يأتي"
+    },
+    "explanation": {
+      "en": "To come; to move toward or arrive at a place. Irregular verb.",
+      "ar": "المجيء؛ التحرك نحو أو الوصول إلى مكان. فعل شاذ."
+    },
+    "conjugations": ["kommen", "kommt", "kam", "ist gekommen"],
+    "examples": {
+      "en": [
+        "Ich komme morgen.",
+        "I'm coming tomorrow."
+      ],
+      "ar": [
+        "Kommst du mit?",
+        "هل تأتي معي؟"
+      ]
+    }
+  },
+  {
+    "word": "fahren",
+    "translations": {
+      "en": "to drive, to go (by vehicle)",
+      "ar": "يقود، يسافر (بمركبة)"
+    },
+    "explanation": {
+      "en": "To drive or travel by vehicle. Can also mean to ride a bike. Irregular verb.",
+      "ar": "القيادة أو السفر بمركبة. يمكن أن يعني أيضاً ركوب الدراجة. فعل شاذ."
+    },
+    "conjugations": ["fahren", "fährt", "fuhr", "ist gefahren"],
+    "examples": {
+      "en": [
+        "Ich fahre mit dem Auto.",
+        "I'm driving by car."
+      ],
+      "ar": [
+        "Er fährt Fahrrad.",
+        "هو يركب الدراجة."
+      ]
+    }
+  },
+  {
+    "word": "essen",
+    "translations": {
+      "en": "to eat",
+      "ar": "يأكل"
+    },
+    "explanation": {
+      "en": "To eat; to consume food. Irregular verb.",
+      "ar": "الأكل؛ استهلاك الطعام. فعل شاذ."
+    },
+    "conjugations": ["essen", "isst", "aß", "hat gegessen"],
+    "examples": {
+      "en": [
+        "Ich esse gerne Pizza.",
+        "I like to eat pizza."
+      ],
+      "ar": [
+        "Was essen wir heute?",
+        "ماذا نأكل اليوم؟"
+      ]
+    }
+  },
+  {
+    "word": "trinken",
+    "translations": {
+      "en": "to drink",
+      "ar": "يشرب"
+    },
+    "explanation": {
+      "en": "To drink; to consume liquid. Irregular verb.",
+      "ar": "الشرب؛ استهلاك السوائل. فعل شاذ."
+    },
+    "conjugations": ["trinken", "trinkt", "trank", "hat getrunken"],
+    "examples": {
+      "en": [
+        "Ich trinke Kaffee.",
+        "I'm drinking coffee."
+      ],
+      "ar": [
+        "Was möchten Sie trinken?",
+        "ماذا تريد أن تشرب؟"
+      ]
+    }
+  },
+  {
+    "word": "sehen",
+    "translations": {
+      "en": "to see, to watch",
+      "ar": "يرى، يشاهد"
+    },
+    "explanation": {
+      "en": "To see or watch; to perceive with the eyes. Irregular verb.",
+      "ar": "الرؤية أو المشاهدة؛ الإدراك بالعينين. فعل شاذ."
+    },
+    "conjugations": ["sehen", "sieht", "sah", "hat gesehen"],
+    "examples": {
+      "en": [
+        "Ich sehe einen Film.",
+        "I'm watching a film."
+      ],
+      "ar": [
+        "Siehst du das?",
+        "هل ترى ذلك؟"
+      ]
+    }
+  },
+  {
+    "word": "hören",
+    "translations": {
+      "en": "to hear, to listen",
+      "ar": "يسمع، يستمع"
+    },
+    "explanation": {
+      "en": "To hear or listen; to perceive sound with the ears.",
+      "ar": "السماع أو الاستماع؛ إدراك الصوت بالأذنين."
+    },
+    "conjugations": ["hören", "hört", "hörte", "hat gehört"],
+    "examples": {
+      "en": [
+        "Ich höre Musik.",
+        "I'm listening to music."
+      ],
+      "ar": [
+        "Hörst du mich?",
+        "هل تسمعني؟"
+      ]
+    }
+  },
+  {
+    "word": "sprechen",
+    "translations": {
+      "en": "to speak, to talk",
+      "ar": "يتكلم، يتحدث"
+    },
+    "explanation": {
+      "en": "To speak or talk; to communicate verbally. Irregular verb.",
+      "ar": "التحدث أو الكلام؛ التواصل شفهياً. فعل شاذ."
+    },
+    "conjugations": ["sprechen", "spricht", "sprach", "hat gesprochen"],
+    "examples": {
+      "en": [
+        "Ich spreche Deutsch.",
+        "I speak German."
+      ],
+      "ar": [
+        "Sie spricht drei Sprachen.",
+        "هي تتحدث ثلاث لغات."
+      ]
+    }
+  },
+  {
+    "word": "sagen",
+    "translations": {
+      "en": "to say, to tell",
+      "ar": "يقول"
+    },
+    "explanation": {
+      "en": "To say or tell; to express something in words.",
+      "ar": "القول؛ التعبير عن شيء بالكلمات."
+    },
+    "conjugations": ["sagen", "sagt", "sagte", "hat gesagt"],
+    "examples": {
+      "en": [
+        "Was sagst du?",
+        "What are you saying?"
+      ],
+      "ar": [
+        "Er sagt die Wahrheit.",
+        "هو يقول الحقيقة."
+      ]
+    }
+  },
+  {
+    "word": "fragen",
+    "translations": {
+      "en": "to ask",
+      "ar": "يسأل"
+    },
+    "explanation": {
+      "en": "To ask; to request information or pose a question.",
+      "ar": "السؤال؛ طلب معلومات أو طرح سؤال."
+    },
+    "conjugations": ["fragen", "fragt", "fragte", "hat gefragt"],
+    "examples": {
+      "en": [
+        "Ich frage den Lehrer.",
+        "I'm asking the teacher."
+      ],
+      "ar": [
+        "Darf ich etwas fragen?",
+        "هل يمكنني أن أسأل شيئاً؟"
+      ]
+    }
+  },
+  {
+    "word": "geben",
+    "translations": {
+      "en": "to give",
+      "ar": "يعطي"
+    },
+    "explanation": {
+      "en": "To give; to hand over or provide something. Irregular verb.",
+      "ar": "العطاء؛ تسليم أو توفير شيء. فعل شاذ."
+    },
+    "conjugations": ["geben", "gibt", "gab", "hat gegeben"],
+    "examples": {
+      "en": [
+        "Ich gebe dir das Buch.",
+        "I'm giving you the book."
+      ],
+      "ar": [
+        "Gibt es hier einen Supermarkt?",
+        "هل يوجد هنا سوبر ماركت؟"
+      ]
+    }
+  },
+  {
+    "word": "nehmen",
+    "translations": {
+      "en": "to take",
+      "ar": "يأخذ"
+    },
+    "explanation": {
+      "en": "To take; to grab or receive something. Irregular verb.",
+      "ar": "الأخذ؛ الإمساك أو استقبال شيء. فعل شاذ."
+    },
+    "conjugations": ["nehmen", "nimmt", "nahm", "hat genommen"],
+    "examples": {
+      "en": [
+        "Ich nehme den Bus.",
+        "I'm taking the bus."
+      ],
+      "ar": [
+        "Nehmen Sie bitte Platz.",
+        "تفضل بالجلوس من فضلك."
+      ]
+    }
+  },
+  {
+    "word": "machen",
+    "translations": {
+      "en": "to do, to make",
+      "ar": "يفعل، يصنع"
+    },
+    "explanation": {
+      "en": "To do or make; to perform an action or create something. Very common verb.",
+      "ar": "الفعل أو الصنع؛ أداء عمل أو إنشاء شيء. فعل شائع جداً."
+    },
+    "conjugations": ["machen", "macht", "machte", "hat gemacht"],
+    "examples": {
+      "en": [
+        "Was machst du?",
+        "What are you doing?"
+      ],
+      "ar": [
+        "Ich mache Hausaufgaben.",
+        "أقوم بالواجبات المنزلية."
+      ]
+    }
+  },
+  {
+    "word": "wohnen",
+    "translations": {
+      "en": "to live, to reside",
+      "ar": "يسكن، يقيم"
+    },
+    "explanation": {
+      "en": "To live or reside; to have one's home in a place.",
+      "ar": "السكن أو الإقامة؛ امتلاك منزل في مكان."
+    },
+    "conjugations": ["wohnen", "wohnt", "wohnte", "hat gewohnt"],
+    "examples": {
+      "en": [
+        "Ich wohne in Berlin.",
+        "I live in Berlin."
+      ],
+      "ar": [
+        "Wo wohnen Sie?",
+        "أين تسكن؟"
+      ]
+    }
+  },
+  {
+    "word": "leben",
+    "translations": {
+      "en": "to live, to be alive",
+      "ar": "يعيش، يكون حياً"
+    },
+    "explanation": {
+      "en": "To live or be alive; to exist. Different from 'wohnen' (to reside).",
+      "ar": "العيش أو الحياة؛ الوجود. مختلف عن 'wohnen' (السكن)."
+    },
+    "conjugations": ["leben", "lebt", "lebte", "hat gelebt"],
+    "examples": {
+      "en": [
+        "Ich lebe gesund.",
+        "I live healthy."
+      ],
+      "ar": [
+        "Er lebt in Deutschland.",
+        "هو يعيش في ألمانيا."
+      ]
+    }
+  },
+  {
+    "word": "arbeiten",
+    "translations": {
+      "en": "to work",
+      "ar": "يعمل"
+    },
+    "explanation": {
+      "en": "To work; to be employed or perform labor.",
+      "ar": "العمل؛ أن تكون موظفاً أو تؤدي العمل."
+    },
+    "conjugations": ["arbeiten", "arbeitet", "arbeitete", "hat gearbeitet"],
+    "examples": {
+      "en": [
+        "Ich arbeite bei einer Firma.",
+        "I work at a company."
+      ],
+      "ar": [
+        "Sie arbeitet hart.",
+        "هي تعمل بجد."
+      ]
+    }
+  },
+  {
+    "word": "schlafen",
+    "translations": {
+      "en": "to sleep",
+      "ar": "ينام"
+    },
+    "explanation": {
+      "en": "To sleep; to rest in a state of unconsciousness. Irregular verb.",
+      "ar": "النوم؛ الراحة في حالة من اللاوعي. فعل شاذ."
+    },
+    "conjugations": ["schlafen", "schläft", "schlief", "hat geschlafen"],
+    "examples": {
+      "en": [
+        "Ich schlafe acht Stunden.",
+        "I sleep eight hours."
+      ],
+      "ar": [
+        "Das Baby schläft.",
+        "الطفل ينام."
+      ]
+    }
+  },
+  {
+    "word": "aufstehen",
+    "translations": {
+      "en": "to get up, to stand up",
+      "ar": "يستيقظ، يقف"
+    },
+    "explanation": {
+      "en": "To get up or stand up; to rise from bed or a seated position. Separable verb (stehen auf).",
+      "ar": "الاستيقاظ أو الوقوف؛ النهوض من السرير أو من وضعية الجلوس. فعل قابل للفصل (stehen auf)."
+    },
+    "conjugations": ["aufstehen", "steht auf", "stand auf", "ist aufgestanden"],
+    "examples": {
+      "en": [
+        "Ich stehe um 7 Uhr auf.",
+        "I get up at 7 o'clock."
+      ],
+      "ar": [
+        "Wann stehst du auf?",
+        "متى تستيقظ؟"
+      ]
+    }
+  },
+  {
+    "word": "heute",
+    "translations": {
+      "en": "today",
+      "ar": "اليوم"
+    },
+    "explanation": {
+      "en": "Today; on this day, the current day.",
+      "ar": "اليوم؛ في هذا اليوم، اليوم الحالي."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Heute ist Montag.",
+        "Today is Monday."
+      ],
+      "ar": [
+        "Was machst du heute?",
+        "ماذا تفعل اليوم؟"
+      ]
+    }
+  },
+  {
+    "word": "morgen",
+    "translations": {
+      "en": "tomorrow",
+      "ar": "غداً"
+    },
+    "explanation": {
+      "en": "Tomorrow; the day after today. Note: 'der Morgen' means 'the morning'.",
+      "ar": "غداً؛ اليوم التالي. ملاحظة: 'der Morgen' يعني 'الصباح'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Morgen habe ich frei.",
+        "Tomorrow I have off."
+      ],
+      "ar": [
+        "Bis morgen!",
+        "إلى الغد!"
+      ]
+    }
+  },
+  {
+    "word": "gestern",
+    "translations": {
+      "en": "yesterday",
+      "ar": "أمس"
+    },
+    "explanation": {
+      "en": "Yesterday; the day before today.",
+      "ar": "أمس؛ اليوم السابق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Gestern war ich krank.",
+        "Yesterday I was sick."
+      ],
+      "ar": [
+        "Was hast du gestern gemacht?",
+        "ماذا فعلت أمس؟"
+      ]
+    }
+  },
+  {
+    "word": "jetzt",
+    "translations": {
+      "en": "now",
+      "ar": "الآن"
+    },
+    "explanation": {
+      "en": "Now; at the present time or moment.",
+      "ar": "الآن؛ في الوقت أو اللحظة الحالية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich muss jetzt gehen.",
+        "I have to go now."
+      ],
+      "ar": [
+        "Was machst du jetzt?",
+        "ماذا تفعل الآن؟"
+      ]
+    }
+  },
+  {
+    "word": "später",
+    "translations": {
+      "en": "later",
+      "ar": "لاحقاً"
+    },
+    "explanation": {
+      "en": "Later; at a time in the future, after the present.",
+      "ar": "لاحقاً؛ في وقت في المستقبل، بعد الحاضر."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich rufe später an.",
+        "I'll call later."
+      ],
+      "ar": [
+        "Bis später!",
+        "إلى اللقاء!"
+      ]
+    }
+  },
+  {
+    "word": "früh",
+    "translations": {
+      "en": "early",
+      "ar": "مبكراً"
+    },
+    "explanation": {
+      "en": "Early; near the beginning of a period of time. Opposite of late.",
+      "ar": "مبكراً؛ قرب بداية فترة زمنية. عكس متأخر."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich stehe früh auf.",
+        "I get up early."
+      ],
+      "ar": [
+        "Es ist noch früh.",
+        "لا يزال الوقت مبكراً."
+      ]
+    }
+  },
+  {
+    "word": "spät",
+    "translations": {
+      "en": "late",
+      "ar": "متأخر"
+    },
+    "explanation": {
+      "en": "Late; near the end of a period of time or after the expected time.",
+      "ar": "متأخر؛ قرب نهاية فترة زمنية أو بعد الوقت المتوقع."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Es ist schon spät.",
+        "It's already late."
+      ],
+      "ar": [
+        "Ich komme zu spät.",
+        "سأتأخر."
+      ]
+    }
+  },
+  {
+    "word": "immer",
+    "translations": {
+      "en": "always",
+      "ar": "دائماً"
+    },
+    "explanation": {
+      "en": "Always; at all times, on every occasion.",
+      "ar": "دائماً؛ في كل الأوقات، في كل مناسبة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin immer pünktlich.",
+        "I'm always on time."
+      ],
+      "ar": [
+        "Sie kommt immer zu spät.",
+        "هي تتأخر دائماً."
+      ]
+    }
+  },
+  {
+    "word": "manchmal",
+    "translations": {
+      "en": "sometimes",
+      "ar": "أحياناً"
+    },
+    "explanation": {
+      "en": "Sometimes; occasionally, at times but not always.",
+      "ar": "أحياناً؛ في بعض الأحيان، من وقت لآخر ولكن ليس دائماً."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Manchmal esse ich Pizza.",
+        "Sometimes I eat pizza."
+      ],
+      "ar": [
+        "Ich gehe manchmal schwimmen.",
+        "أذهب للسباحة أحياناً."
+      ]
+    }
+  },
+  {
+    "word": "nie",
+    "translations": {
+      "en": "never",
+      "ar": "أبداً"
+    },
+    "explanation": {
+      "en": "Never; not at any time, not ever. Opposite of always.",
+      "ar": "أبداً؛ ليس في أي وقت. عكس دائماً."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich bin nie zu spät.",
+        "I'm never late."
+      ],
+      "ar": [
+        "Das habe ich nie gesagt.",
+        "لم أقل ذلك أبداً."
+      ]
+    }
+  },
+  {
+    "word": "oft",
+    "translations": {
+      "en": "often",
+      "ar": "غالباً، كثيراً"
+    },
+    "explanation": {
+      "en": "Often; frequently, many times.",
+      "ar": "غالباً أو كثيراً؛ بشكل متكرر، مرات عديدة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich gehe oft ins Kino.",
+        "I often go to the cinema."
+      ],
+      "ar": [
+        "Wie oft Sport treibst du?",
+        "كم مرة تمارس الرياضة؟"
+      ]
+    }
+  },
+  {
+    "word": "können",
+    "translations": {
+      "en": "can, to be able to",
+      "ar": "يستطيع، يمكن"
+    },
+    "explanation": {
+      "en": "Can or to be able to; to have the ability or permission. Modal verb.",
+      "ar": "الاستطاعة أو القدرة؛ امتلاك القدرة أو الإذن. فعل ناقص."
+    },
+    "conjugations": ["können", "kann", "konnte", "hat gekonnt"],
+    "examples": {
+      "en": [
+        "Ich kann schwimmen.",
+        "I can swim."
+      ],
+      "ar": [
+        "Kannst du mir helfen?",
+        "هل يمكنك مساعدتي؟"
+      ]
+    }
+  },
+  {
+    "word": "müssen",
+    "translations": {
+      "en": "must, to have to",
+      "ar": "يجب"
+    },
+    "explanation": {
+      "en": "Must or to have to; to be obligated or required. Modal verb.",
+      "ar": "الوجوب؛ أن تكون ملزماً أو مطلوباً. فعل ناقص."
+    },
+    "conjugations": ["müssen", "muss", "musste", "hat gemusst"],
+    "examples": {
+      "en": [
+        "Ich muss arbeiten.",
+        "I have to work."
+      ],
+      "ar": [
+        "Du musst lernen.",
+        "يجب عليك أن تتعلم."
+      ]
+    }
+  },
+  {
+    "word": "wollen",
+    "translations": {
+      "en": "to want to",
+      "ar": "يريد"
+    },
+    "explanation": {
+      "en": "To want to; to desire or intend. Modal verb.",
+      "ar": "الرغبة؛ الرغبة أو النية. فعل ناقص."
+    },
+    "conjugations": ["wollen", "will", "wollte", "hat gewollt"],
+    "examples": {
+      "en": [
+        "Ich will nach Hause.",
+        "I want to go home."
+      ],
+      "ar": [
+        "Was willst du essen?",
+        "ماذا تريد أن تأكل؟"
+      ]
+    }
+  },
+  {
+    "word": "mögen",
+    "translations": {
+      "en": "to like",
+      "ar": "يحب، يعجب"
+    },
+    "explanation": {
+      "en": "To like; to have a preference for. Modal verb. Often used as 'möchten' (would like).",
+      "ar": "الإعجاب؛ امتلاك تفضيل لـ. فعل ناقص. غالباً يُستخدم كـ 'möchten' (أود)."
+    },
+    "conjugations": ["mögen", "mag", "mochte", "hat gemocht"],
+    "examples": {
+      "en": [
+        "Ich mag Pizza.",
+        "I like pizza."
+      ],
+      "ar": [
+        "Was möchten Sie trinken?",
+        "ماذا تود أن تشرب؟"
+      ]
+    }
+  },
+  {
+    "word": "dürfen",
+    "translations": {
+      "en": "may, to be allowed to",
+      "ar": "يُسمح له"
+    },
+    "explanation": {
+      "en": "May or to be allowed to; to have permission. Modal verb.",
+      "ar": "السماح؛ امتلاك الإذن. فعل ناقص."
+    },
+    "conjugations": ["dürfen", "darf", "durfte", "hat gedurft"],
+    "examples": {
+      "en": [
+        "Darf ich reinkommen?",
+        "May I come in?"
+      ],
+      "ar": [
+        "Hier darf man nicht rauchen.",
+        "لا يُسمح بالتدخين هنا."
+      ]
+    }
+  },
+  {
+    "word": "sollen",
+    "translations": {
+      "en": "should, to be supposed to",
+      "ar": "ينبغي، من المفترض"
+    },
+    "explanation": {
+      "en": "Should or to be supposed to; to have an obligation or expectation. Modal verb.",
+      "ar": "الواجب؛ امتلاك التزام أو توقع. فعل ناقص."
+    },
+    "conjugations": ["sollen", "soll", "sollte", "hat gesollt"],
+    "examples": {
+      "en": [
+        "Ich soll um 9 Uhr da sein.",
+        "I'm supposed to be there at 9."
+      ],
+      "ar": [
+        "Was soll ich machen?",
+        "ماذا ينبغي علي أن أفعل؟"
+      ]
+    }
+  },
+  {
+    "word": "das Haus",
+    "translations": {
+      "en": "house",
+      "ar": "منزل، بيت"
+    },
+    "explanation": {
+      "en": "A house; a building for people to live in. Plural is 'Häuser'.",
+      "ar": "منزل أو بيت؛ مبنى للناس للعيش فيه. الجمع 'Häuser'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich wohne in einem Haus.",
+        "I live in a house."
+      ],
+      "ar": [
+        "Das Haus ist groß.",
+        "المنزل كبير."
+      ]
+    }
+  },
+  {
+    "word": "die Wohnung",
+    "translations": {
+      "en": "apartment, flat",
+      "ar": "شقة"
+    },
+    "explanation": {
+      "en": "An apartment or flat; a set of rooms for living in, usually on one floor.",
+      "ar": "شقة؛ مجموعة من الغرف للعيش فيها، عادة في طابق واحد."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich suche eine Wohnung.",
+        "I'm looking for an apartment."
+      ],
+      "ar": [
+        "Die Wohnung hat drei Zimmer.",
+        "الشقة بها ثلاث غرف."
+      ]
+    }
+  },
+  {
+    "word": "das Zimmer",
+    "translations": {
+      "en": "room",
+      "ar": "غرفة"
+    },
+    "explanation": {
+      "en": "A room; a part of a building enclosed by walls.",
+      "ar": "غرفة؛ جزء من مبنى محاط بالجدران."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Mein Zimmer ist klein.",
+        "My room is small."
+      ],
+      "ar": [
+        "Das Hotel hat 50 Zimmer.",
+        "الفندق به 50 غرفة."
+      ]
+    }
+  },
+  {
+    "word": "die Küche",
+    "translations": {
+      "en": "kitchen",
+      "ar": "مطبخ"
+    },
+    "explanation": {
+      "en": "A kitchen; a room where food is prepared and cooked.",
+      "ar": "مطبخ؛ غرفة يتم فيها إعداد الطعام وطهيه."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Küche ist modern.",
+        "The kitchen is modern."
+      ],
+      "ar": [
+        "Ich koche in der Küche.",
+        "أطبخ في المطبخ."
+      ]
+    }
+  },
+  {
+    "word": "das Bad",
+    "translations": {
+      "en": "bathroom",
+      "ar": "حمام"
+    },
+    "explanation": {
+      "en": "A bathroom; a room with a bath or shower. Plural is 'Bäder'.",
+      "ar": "حمام؛ غرفة بها حوض استحمام أو دش. الجمع 'Bäder'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Bad ist sauber.",
+        "The bathroom is clean."
+      ],
+      "ar": [
+        "Die Wohnung hat zwei Bäder.",
+        "الشقة بها حمامان."
+      ]
+    }
+  },
+  {
+    "word": "der Tisch",
+    "translations": {
+      "en": "table",
+      "ar": "طاولة"
+    },
+    "explanation": {
+      "en": "A table; a piece of furniture with a flat top and legs.",
+      "ar": "طاولة؛ قطعة أثاث ذات سطح مسطح وأرجل."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Tisch ist rund.",
+        "The table is round."
+      ],
+      "ar": [
+        "Wir essen am Tisch.",
+        "نأكل على الطاولة."
+      ]
+    }
+  },
+  {
+    "word": "der Stuhl",
+    "translations": {
+      "en": "chair",
+      "ar": "كرسي"
+    },
+    "explanation": {
+      "en": "A chair; a seat for one person with a back and legs. Plural is 'Stühle'.",
+      "ar": "كرسي؛ مقعد لشخص واحد بظهر وأرجل. الجمع 'Stühle'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich sitze auf einem Stuhl.",
+        "I'm sitting on a chair."
+      ],
+      "ar": [
+        "Der Stuhl ist bequem.",
+        "الكرسي مريح."
+      ]
+    }
+  },
+  {
+    "word": "das Bett",
+    "translations": {
+      "en": "bed",
+      "ar": "سرير"
+    },
+    "explanation": {
+      "en": "A bed; a piece of furniture for sleeping on. Plural is 'Betten'.",
+      "ar": "سرير؛ قطعة أثاث للنوم عليها. الجمع 'Betten'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich gehe ins Bett.",
+        "I'm going to bed."
+      ],
+      "ar": [
+        "Das Bett ist groß.",
+        "السرير كبير."
+      ]
+    }
+  },
+  {
+    "word": "das Fenster",
+    "translations": {
+      "en": "window",
+      "ar": "نافذة"
+    },
+    "explanation": {
+      "en": "A window; an opening in a wall with glass to let in light.",
+      "ar": "نافذة؛ فتحة في جدار بها زجاج للسماح بدخول الضوء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich öffne das Fenster.",
+        "I'm opening the window."
+      ],
+      "ar": [
+        "Das Fenster ist groß.",
+        "النافذة كبيرة."
+      ]
+    }
+  },
+  {
+    "word": "die Tür",
+    "translations": {
+      "en": "door",
+      "ar": "باب"
+    },
+    "explanation": {
+      "en": "A door; a hinged barrier for closing an entrance.",
+      "ar": "باب؛ حاجز مفصلي لإغلاق مدخل."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Tür ist offen.",
+        "The door is open."
+      ],
+      "ar": [
+        "Schließ bitte die Tür!",
+        "أغلق الباب من فضلك!"
+      ]
+    }
+  },
+  {
+    "word": "das Wasser",
+    "translations": {
+      "en": "water",
+      "ar": "ماء"
+    },
+    "explanation": {
+      "en": "Water; the clear liquid essential for life, H2O.",
+      "ar": "ماء؛ السائل الشفاف الضروري للحياة، H2O."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich trinke Wasser.",
+        "I drink water."
+      ],
+      "ar": [
+        "Das Wasser ist kalt.",
+        "الماء بارد."
+      ]
+    }
+  },
+  {
+    "word": "der Kaffee",
+    "translations": {
+      "en": "coffee",
+      "ar": "قهوة"
+    },
+    "explanation": {
+      "en": "Coffee; a hot drink made from roasted beans.",
+      "ar": "قهوة؛ مشروب ساخن مصنوع من حبوب محمصة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich trinke jeden Morgen Kaffee.",
+        "I drink coffee every morning."
+      ],
+      "ar": [
+        "Der Kaffee ist heiß.",
+        "القهوة ساخنة."
+      ]
+    }
+  },
+  {
+    "word": "der Tee",
+    "translations": {
+      "en": "tea",
+      "ar": "شاي"
+    },
+    "explanation": {
+      "en": "Tea; a hot drink made by infusing dried leaves in water.",
+      "ar": "شاي؛ مشروب ساخن يُصنع بنقع الأوراق المجففة في الماء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich trinke gerne Tee.",
+        "I like to drink tea."
+      ],
+      "ar": [
+        "Der Tee ist zu heiß.",
+        "الشاي ساخن جداً."
+      ]
+    }
+  },
+  {
+    "word": "das Brot",
+    "translations": {
+      "en": "bread",
+      "ar": "خبز"
+    },
+    "explanation": {
+      "en": "Bread; a baked food made from flour and water.",
+      "ar": "خبز؛ طعام مخبوز مصنوع من الدقيق والماء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich esse Brot zum Frühstück.",
+        "I eat bread for breakfast."
+      ],
+      "ar": [
+        "Das Brot ist frisch.",
+        "الخبز طازج."
+      ]
+    }
+  },
+  {
+    "word": "der Käse",
+    "translations": {
+      "en": "cheese",
+      "ar": "جبن"
+    },
+    "explanation": {
+      "en": "Cheese; a dairy product made from milk.",
+      "ar": "جبن؛ منتج ألبان مصنوع من الحليب."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich esse gerne Käse.",
+        "I like to eat cheese."
+      ],
+      "ar": [
+        "Der Käse schmeckt gut.",
+        "الجبن طعمه جيد."
+      ]
+    }
+  },
+  {
+    "word": "das Fleisch",
+    "translations": {
+      "en": "meat",
+      "ar": "لحم"
+    },
+    "explanation": {
+      "en": "Meat; the flesh of animals used as food.",
+      "ar": "لحم؛ لحم الحيوانات المستخدم كغذاء."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich esse kein Fleisch.",
+        "I don't eat meat."
+      ],
+      "ar": [
+        "Das Fleisch ist zart.",
+        "اللحم طري."
+      ]
+    }
+  },
+  {
+    "word": "das Gemüse",
+    "translations": {
+      "en": "vegetables",
+      "ar": "خضروات"
+    },
+    "explanation": {
+      "en": "Vegetables; plants or parts of plants used as food. Used in singular in German.",
+      "ar": "خضروات؛ نباتات أو أجزاء من نباتات تُستخدم كغذاء. تُستخدم بصيغة المفرد في الألمانية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Gemüse ist gesund.",
+        "Vegetables are healthy."
+      ],
+      "ar": [
+        "Ich esse viel Gemüse.",
+        "آكل الكثير من الخضروات."
+      ]
+    }
+  },
+  {
+    "word": "das Obst",
+    "translations": {
+      "en": "fruit",
+      "ar": "فاكهة"
+    },
+    "explanation": {
+      "en": "Fruit; the sweet product of a plant containing seeds. Used in singular in German.",
+      "ar": "فاكهة؛ المنتج الحلو لنبات يحتوي على بذور. تُستخدم بصيغة المفرد في الألمانية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich esse gerne Obst.",
+        "I like to eat fruit."
+      ],
+      "ar": [
+        "Obst ist lecker.",
+        "الفاكهة لذيذة."
+      ]
+    }
+  },
+  {
+    "word": "der Apfel",
+    "translations": {
+      "en": "apple",
+      "ar": "تفاحة"
+    },
+    "explanation": {
+      "en": "An apple; a round fruit with red, green, or yellow skin. Plural is 'Äpfel'.",
+      "ar": "تفاحة؛ فاكهة مستديرة بقشرة حمراء أو خضراء أو صفراء. الجمع 'Äpfel'."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich esse einen Apfel.",
+        "I'm eating an apple."
+      ],
+      "ar": [
+        "Der Apfel ist rot.",
+        "التفاحة حمراء."
+      ]
+    }
+  },
+  {
+    "word": "gut",
+    "translations": {
+      "en": "good, well",
+      "ar": "جيد"
+    },
+    "explanation": {
+      "en": "Good or well; of high quality or in a satisfactory way.",
+      "ar": "جيد؛ ذو جودة عالية أو بطريقة مرضية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Essen ist gut.",
+        "The food is good."
+      ],
+      "ar": [
+        "Mir geht es gut.",
+        "أنا بخير."
+      ]
+    }
+  },
+  {
+    "word": "schlecht",
+    "translations": {
+      "en": "bad, poorly",
+      "ar": "سيء"
+    },
+    "explanation": {
+      "en": "Bad or poorly; of low quality or in an unsatisfactory way. Opposite of good.",
+      "ar": "سيء؛ ذو جودة منخفضة أو بطريقة غير مرضية. عكس جيد."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Wetter ist schlecht.",
+        "The weather is bad."
+      ],
+      "ar": [
+        "Mir geht es schlecht.",
+        "أنا بحال سيئة."
+      ]
+    }
+  },
+  {
+    "word": "groß",
+    "translations": {
+      "en": "big, large, tall",
+      "ar": "كبير"
+    },
+    "explanation": {
+      "en": "Big, large, or tall; having considerable size or height.",
+      "ar": "كبير؛ ذو حجم أو ارتفاع كبير."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Stadt ist groß.",
+        "The city is big."
+      ],
+      "ar": [
+        "Er ist sehr groß.",
+        "هو طويل جداً."
+      ]
+    }
+  },
+  {
+    "word": "klein",
+    "translations": {
+      "en": "small, little",
+      "ar": "صغير"
+    },
+    "explanation": {
+      "en": "Small or little; having limited size. Opposite of big.",
+      "ar": "صغير؛ ذو حجم محدود. عكس كبير."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Zimmer ist klein.",
+        "The room is small."
+      ],
+      "ar": [
+        "Ich habe eine kleine Wohnung.",
+        "لدي شقة صغيرة."
+      ]
+    }
+  },
+  {
+    "word": "neu",
+    "translations": {
+      "en": "new",
+      "ar": "جديد"
+    },
+    "explanation": {
+      "en": "New; recently made, invented, or introduced. Opposite of old.",
+      "ar": "جديد؛ صُنع أو اخترع أو قُدّم حديثاً. عكس قديم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Ich habe ein neues Auto.",
+        "I have a new car."
+      ],
+      "ar": [
+        "Das ist neu.",
+        "هذا جديد."
+      ]
+    }
+  },
+  {
+    "word": "alt",
+    "translations": {
+      "en": "old",
+      "ar": "قديم، عجوز"
+    },
+    "explanation": {
+      "en": "Old; having existed for a long time. Can refer to age or antiquity.",
+      "ar": "قديم أو عجوز؛ موجود منذ زمن طويل. يمكن أن يشير إلى العمر أو القدم."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Haus ist alt.",
+        "The house is old."
+      ],
+      "ar": [
+        "Wie alt bist du?",
+        "كم عمرك؟"
+      ]
+    }
+  },
+  {
+    "word": "wichtig",
+    "translations": {
+      "en": "important",
+      "ar": "مهم"
+    },
+    "explanation": {
+      "en": "Important; of great significance or value.",
+      "ar": "مهم؛ ذو أهمية أو قيمة كبيرة."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das ist sehr wichtig.",
+        "This is very important."
+      ],
+      "ar": [
+        "Die Besprechung ist wichtig.",
+        "الاجتماع مهم."
+      ]
+    }
+  },
+  {
+    "word": "richtig",
+    "translations": {
+      "en": "correct, right",
+      "ar": "صحيح"
+    },
+    "explanation": {
+      "en": "Correct or right; free from error, accurate.",
+      "ar": "صحيح؛ خالٍ من الخطأ، دقيق."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Antwort ist richtig.",
+        "The answer is correct."
+      ],
+      "ar": [
+        "Das ist richtig.",
+        "هذا صحيح."
+      ]
+    }
+  },
+  {
+    "word": "falsch",
+    "translations": {
+      "en": "wrong, false",
+      "ar": "خاطئ"
+    },
+    "explanation": {
+      "en": "Wrong or false; not correct or accurate. Opposite of right.",
+      "ar": "خاطئ؛ غير صحيح أو دقيق. عكس صحيح."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Die Antwort ist falsch.",
+        "The answer is wrong."
+      ],
+      "ar": [
+        "Das ist falsch.",
+        "هذا خاطئ."
+      ]
+    }
+  },
+  {
+    "word": "schnell",
+    "translations": {
+      "en": "fast, quick",
+      "ar": "سريع"
+    },
+    "explanation": {
+      "en": "Fast or quick; moving or happening at high speed.",
+      "ar": "سريع؛ يتحرك أو يحدث بسرعة عالية."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Das Auto ist schnell.",
+        "The car is fast."
+      ],
+      "ar": [
+        "Geh schnell!",
+        "اذهب بسرعة!"
+      ]
+    }
+  },
+  {
+    "word": "langsam",
+    "translations": {
+      "en": "slow",
+      "ar": "بطيء"
+    },
+    "explanation": {
+      "en": "Slow; moving or happening at low speed. Opposite of fast.",
+      "ar": "بطيء؛ يتحرك أو يحدث ببطء. عكس سريع."
+    },
+    "conjugations": null,
+    "examples": {
+      "en": [
+        "Der Zug ist langsam.",
+        "The train is slow."
+      ],
+      "ar": [
+        "Sprich bitte langsam!",
+        "تكلم ببطء من فضلك!"
+      ]
+    }
+  }
+]
