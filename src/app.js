@@ -2,6 +2,7 @@ import { PROFILES, LANGUAGE_NAMES, SECTION_LABELS } from './config.js';
 import { ProgressTracker } from './utils/progress.js';
 import { SpeechManager } from './utils/speech.js';
 import { AchievementManager, ACHIEVEMENTS } from './utils/achievements.js';
+import { AnalyticsManager } from './utils/analytics.js';
 
 class LingXMApp {
   constructor() {
@@ -12,7 +13,9 @@ class LingXMApp {
     this.savedWords = this.loadSavedWords();
     this.progressTracker = null;
     this.achievementManager = null;
+    this.analyticsManager = new AnalyticsManager();
     this.speechManager = new SpeechManager();
+    this.currentWelcomeSlide = 0;
     this.autoPlayEnabled = this.loadAutoPlaySetting();
     this.currentTheme = this.loadThemeSetting();
 
@@ -24,7 +27,16 @@ class LingXMApp {
     this.updateProfileLockIcons();
     this.updateProfileProgressRings();
     this.setupEventListeners();
-    this.showScreen('profile-selection');
+
+    // Check for first-time visit - show welcome screen
+    const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
+    if (!welcomeShown) {
+      this.showScreen('welcome-screen');
+      this.analyticsManager.trackEvent('app_opened', { firstTime: true });
+    } else {
+      this.showScreen('profile-selection');
+      this.analyticsManager.trackEvent('app_opened', { firstTime: false });
+    }
   }
 
   setupEventListeners() {
@@ -44,6 +56,9 @@ class LingXMApp {
 
     // Back button
     document.getElementById('back-btn').addEventListener('click', () => {
+      // End analytics session
+      this.analyticsManager.endSession();
+
       if (this.progressTracker) {
         this.showProgressStats();
       }
@@ -150,6 +165,78 @@ class LingXMApp {
     // Settings - change PIN button
     document.getElementById('change-pin-btn')?.addEventListener('click', () => {
       this.handleChangePinClick();
+    });
+
+    // Welcome screen - next button
+    document.getElementById('welcome-next-btn')?.addEventListener('click', () => {
+      this.nextWelcomeSlide();
+    });
+
+    // Welcome screen - back button
+    document.getElementById('welcome-back-btn')?.addEventListener('click', () => {
+      this.previousWelcomeSlide();
+    });
+
+    // Welcome screen - skip button
+    document.getElementById('welcome-skip-btn')?.addEventListener('click', () => {
+      this.skipWelcome();
+    });
+
+    // Welcome screen - get started button
+    document.getElementById('welcome-get-started-btn')?.addEventListener('click', () => {
+      this.completeWelcome();
+    });
+
+    // Welcome screen - dot indicators
+    document.querySelectorAll('.welcome-dot').forEach(dot => {
+      dot.addEventListener('click', (e) => {
+        const slideIndex = parseInt(e.currentTarget.dataset.slide);
+        this.goToWelcomeSlide(slideIndex);
+      });
+    });
+
+    // Swipe tutorial - dismiss button
+    document.getElementById('swipe-tutorial-dismiss')?.addEventListener('click', () => {
+      this.dismissSwipeTutorial();
+    });
+
+    // Analytics modal - close button
+    document.getElementById('close-analytics')?.addEventListener('click', () => {
+      this.toggleAnalytics();
+    });
+
+    // Analytics - export button
+    document.getElementById('analytics-export-btn')?.addEventListener('click', () => {
+      this.exportAnalyticsData();
+    });
+
+    // Analytics - clear button
+    document.getElementById('analytics-clear-btn')?.addEventListener('click', () => {
+      this.clearAnalyticsData();
+    });
+
+    // Settings button - long press for analytics
+    let settingsPressTimer;
+    const settingsBtn = document.getElementById('settings-btn');
+    settingsBtn?.addEventListener('mousedown', () => {
+      settingsPressTimer = setTimeout(() => {
+        this.showAnalytics();
+      }, 3000);
+    });
+    settingsBtn?.addEventListener('mouseup', () => {
+      clearTimeout(settingsPressTimer);
+    });
+    settingsBtn?.addEventListener('mouseleave', () => {
+      clearTimeout(settingsPressTimer);
+    });
+    // Touch events for mobile
+    settingsBtn?.addEventListener('touchstart', () => {
+      settingsPressTimer = setTimeout(() => {
+        this.showAnalytics();
+      }, 3000);
+    });
+    settingsBtn?.addEventListener('touchend', () => {
+      clearTimeout(settingsPressTimer);
     });
 
     // Swipe navigation (touch)
@@ -262,6 +349,9 @@ class LingXMApp {
     this.progressTracker = new ProgressTracker(profileKey);
     this.achievementManager = new AchievementManager(profileKey);
 
+    // Start analytics session
+    this.analyticsManager.startSession(profileKey);
+
     // Load word data for this profile
     await this.loadWordData();
 
@@ -275,6 +365,9 @@ class LingXMApp {
     this.showScreen('learning-screen');
     this.displayCurrentWord();
     this.showProgressBar();
+
+    // Show swipe tutorial on first visit
+    this.showSwipeTutorial(profileKey);
 
     // Check for new achievements and update badge
     this.checkNewAchievements();
@@ -370,6 +463,8 @@ class LingXMApp {
   switchLanguage(langIndex) {
     if (langIndex >= this.currentProfile.learningLanguages.length) return;
 
+    const lang = this.currentProfile.learningLanguages[langIndex];
+
     this.currentLanguageIndex = langIndex;
     this.currentWordIndex = 0;
 
@@ -380,6 +475,12 @@ class LingXMApp {
 
     this.displayCurrentWord();
     this.showProgressBar();
+
+    // Track analytics
+    this.analyticsManager.trackEvent('language_switched', {
+      language: lang.code,
+      languageName: lang.name
+    });
   }
 
   displayCurrentWord() {
@@ -394,6 +495,13 @@ class LingXMApp {
     const word = words[this.currentWordIndex];
     const primaryLang = this.currentProfile.interfaceLanguages[0];
     const secondaryLang = this.currentProfile.interfaceLanguages[1];
+
+    // Track word viewed in analytics
+    this.analyticsManager.trackEvent('word_viewed', {
+      language: lang.code,
+      wordIndex: this.currentWordIndex,
+      word: word.word
+    });
 
     // Update section headers based on profile interface languages
     this.updateSectionHeaders(primaryLang, secondaryLang);
@@ -564,6 +672,8 @@ class LingXMApp {
     const word = this.wordData[lang.code][this.currentWordIndex];
     const key = `${this.profileKey}-${lang.code}-${this.currentWordIndex}`;
 
+    const wasSaved = this.savedWords.has(key);
+
     // Update database if available
     if (this.progressTracker?.useDatabase && this.progressTracker?.userId) {
       try {
@@ -603,6 +713,14 @@ class LingXMApp {
 
     this.saveSavedWords();
     this.updateSaveButton();
+
+    // Track analytics
+    this.analyticsManager.trackEvent(wasSaved ? 'word_unsaved' : 'word_saved', {
+      language: lang.code,
+      wordIndex: this.currentWordIndex,
+      word: word.word
+    });
+    this.analyticsManager.trackEvent('feature_used', { feature: 'saved_words' });
   }
 
   async updateSaveButton() {
@@ -674,7 +792,13 @@ class LingXMApp {
   toggleSettings() {
     const modal = document.getElementById('settings-modal');
     if (modal) {
+      const isOpening = !modal.classList.contains('active');
       modal.classList.toggle('active');
+
+      // Track analytics when opening
+      if (isOpening) {
+        this.analyticsManager.trackEvent('feature_used', { feature: 'settings' });
+      }
 
       // Update UI with current settings
       const themeToggle = document.getElementById('theme-toggle');
@@ -1227,7 +1351,9 @@ class LingXMApp {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const result = await this.progressTracker.incrementWordReview(lang.code, this.currentWordIndex);
 
-    if (result && result.leveledUp) {
+    // Only show popup for meaningful milestones (level 2+)
+    // Skip New → Seen (0→1) transition to avoid annoying frequent popups
+    if (result && result.leveledUp && result.newLevel >= 2) {
       this.showMasteryLevelUp(result.newLevel);
     }
   }
@@ -1270,6 +1396,8 @@ class LingXMApp {
     } else {
       modal.classList.add('active');
       this.populateAchievements();
+      // Track analytics when opening
+      this.analyticsManager.trackEvent('feature_used', { feature: 'achievements' });
     }
   }
 
@@ -1332,6 +1460,15 @@ class LingXMApp {
     const newAchievements = this.achievementManager.checkAchievements(stats);
 
     if (newAchievements.length > 0) {
+      // Track each new achievement
+      newAchievements.forEach(achievement => {
+        this.analyticsManager.trackEvent('achievement_unlocked', {
+          achievementId: achievement.id,
+          achievementName: achievement.name,
+          category: achievement.category
+        });
+      });
+
       // Show celebration for the first new achievement
       this.showAchievementCelebration(newAchievements[0]);
       this.updateAchievementBadge();
@@ -1371,6 +1508,200 @@ class LingXMApp {
       badge.style.display = 'flex';
     } else {
       badge.style.display = 'none';
+    }
+  }
+
+  // ============================================
+  // Welcome Screen
+  // ============================================
+
+  nextWelcomeSlide() {
+    if (this.currentWelcomeSlide < 2) {
+      this.currentWelcomeSlide++;
+      this.updateWelcomeSlides();
+      this.analyticsManager.trackEvent('welcome_slide_next', { slide: this.currentWelcomeSlide });
+    }
+  }
+
+  previousWelcomeSlide() {
+    if (this.currentWelcomeSlide > 0) {
+      this.currentWelcomeSlide--;
+      this.updateWelcomeSlides();
+      this.analyticsManager.trackEvent('welcome_slide_back', { slide: this.currentWelcomeSlide });
+    }
+  }
+
+  goToWelcomeSlide(slideIndex) {
+    this.currentWelcomeSlide = slideIndex;
+    this.updateWelcomeSlides();
+  }
+
+  updateWelcomeSlides() {
+    // Update slide visibility
+    document.querySelectorAll('.welcome-slide').forEach((slide, index) => {
+      if (index === this.currentWelcomeSlide) {
+        slide.classList.add('active');
+        slide.classList.remove('prev');
+      } else if (index < this.currentWelcomeSlide) {
+        slide.classList.remove('active');
+        slide.classList.add('prev');
+      } else {
+        slide.classList.remove('active', 'prev');
+      }
+    });
+
+    // Update dots
+    document.querySelectorAll('.welcome-dot').forEach((dot, index) => {
+      if (index === this.currentWelcomeSlide) {
+        dot.classList.add('active');
+      } else {
+        dot.classList.remove('active');
+      }
+    });
+
+    // Update buttons
+    const backBtn = document.getElementById('welcome-back-btn');
+    const nextBtn = document.getElementById('welcome-next-btn');
+    const getStartedBtn = document.getElementById('welcome-get-started-btn');
+
+    if (this.currentWelcomeSlide === 0) {
+      backBtn.style.display = 'none';
+      nextBtn.style.display = 'block';
+      getStartedBtn.style.display = 'none';
+    } else if (this.currentWelcomeSlide === 2) {
+      backBtn.style.display = 'block';
+      nextBtn.style.display = 'none';
+      getStartedBtn.style.display = 'block';
+    } else {
+      backBtn.style.display = 'block';
+      nextBtn.style.display = 'block';
+      getStartedBtn.style.display = 'none';
+    }
+  }
+
+  skipWelcome() {
+    localStorage.setItem('lingxm-welcome-shown', 'true');
+    this.showScreen('profile-selection');
+    this.analyticsManager.trackEvent('welcome_skipped', { atSlide: this.currentWelcomeSlide });
+  }
+
+  completeWelcome() {
+    localStorage.setItem('lingxm-welcome-shown', 'true');
+    this.showScreen('profile-selection');
+    this.analyticsManager.trackEvent('welcome_completed', {});
+  }
+
+  // ============================================
+  // Swipe Tutorial
+  // ============================================
+
+  showSwipeTutorial(profileKey) {
+    const tutorialShown = localStorage.getItem(`lingxm-tutorial-shown-${profileKey}`);
+    if (tutorialShown) return;
+
+    const tutorial = document.getElementById('swipe-tutorial');
+    tutorial.classList.add('active');
+
+    this.analyticsManager.trackEvent('tutorial_shown', { profile: profileKey });
+
+    // Auto-dismiss after 10 seconds
+    setTimeout(() => {
+      if (tutorial.classList.contains('active')) {
+        this.dismissSwipeTutorial();
+      }
+    }, 10000);
+  }
+
+  dismissSwipeTutorial() {
+    const tutorial = document.getElementById('swipe-tutorial');
+    tutorial.classList.remove('active');
+
+    if (this.profileKey) {
+      localStorage.setItem(`lingxm-tutorial-shown-${this.profileKey}`, 'true');
+      this.analyticsManager.trackEvent('tutorial_dismissed', { profile: this.profileKey });
+    }
+  }
+
+  // ============================================
+  // Analytics System
+  // ============================================
+
+  showAnalytics() {
+    const modal = document.getElementById('analytics-modal');
+    modal.classList.add('active');
+    this.populateAnalyticsData();
+    this.analyticsManager.trackEvent('analytics_viewed', {});
+  }
+
+  toggleAnalytics() {
+    const modal = document.getElementById('analytics-modal');
+    modal.classList.toggle('active');
+  }
+
+  populateAnalyticsData() {
+    const stats = this.analyticsManager.getUsageStats();
+
+    // Update summary stats
+    document.getElementById('stat-total-sessions').textContent = stats.summary.totalSessions;
+    document.getElementById('stat-total-words').textContent = stats.summary.totalWords.toLocaleString();
+    const avgMinutes = Math.floor(stats.summary.averageSessionTime / 60);
+    document.getElementById('stat-avg-session').textContent = `${avgMinutes} min`;
+    document.getElementById('stat-total-events').textContent = stats.summary.totalEvents;
+
+    // Update feature stats
+    document.getElementById('stat-achievements').textContent = stats.achievements;
+    document.getElementById('stat-saved-words').textContent = stats.savedWords;
+    document.getElementById('stat-avg-streak').textContent = `${stats.averageStreak} days`;
+
+    // Populate profile usage
+    const profilesDiv = document.getElementById('analytics-profiles');
+    profilesDiv.innerHTML = '';
+    const sortedProfiles = Object.entries(stats.profiles).sort((a, b) => b[1].percentage - a[1].percentage);
+    sortedProfiles.forEach(([profile, data]) => {
+      const item = document.createElement('div');
+      item.className = 'analytics-list-item';
+      item.innerHTML = `
+        <span>${PROFILES[profile]?.name || profile}</span>
+        <span><strong>${data.percentage}%</strong> (${data.sessions} sessions)</span>
+      `;
+      profilesDiv.appendChild(item);
+    });
+
+    // Populate recent sessions
+    const recentDiv = document.getElementById('analytics-recent');
+    recentDiv.innerHTML = '';
+    stats.recentSessions.slice(0, 5).forEach(session => {
+      const item = document.createElement('div');
+      item.className = 'analytics-recent-item';
+      const duration = Math.floor(session.duration / 60);
+      item.innerHTML = `
+        <strong>${PROFILES[session.profile]?.name || session.profile}</strong> •
+        ${session.words} words • ${duration} min • ${session.date}
+      `;
+      recentDiv.appendChild(item);
+    });
+  }
+
+  exportAnalyticsData() {
+    const jsonData = this.analyticsManager.exportData();
+    const blob = new Blob([jsonData], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `lingxm-analytics-${new Date().toISOString().split('T')[0]}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    this.analyticsManager.trackEvent('analytics_exported', {});
+  }
+
+  clearAnalyticsData() {
+    if (confirm('Are you sure you want to clear all analytics data? This cannot be undone.')) {
+      this.analyticsManager.clearData();
+      this.populateAnalyticsData();
+      alert('Analytics data cleared successfully.');
+      this.analyticsManager.trackEvent('analytics_cleared', {});
     }
   }
 }
