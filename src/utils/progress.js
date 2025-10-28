@@ -108,12 +108,25 @@ export class ProgressTracker {
     const saved = localStorage.getItem(this.storageKey);
     if (saved) {
       try {
-        return JSON.parse(saved);
+        const data = JSON.parse(saved);
+
+        // Convert completedWords arrays back to Sets
+        if (data.languageProgress) {
+          for (const lang in data.languageProgress) {
+            if (data.languageProgress[lang].completedWords) {
+              if (Array.isArray(data.languageProgress[lang].completedWords)) {
+                data.languageProgress[lang].completedWords =
+                  new Set(data.languageProgress[lang].completedWords);
+              }
+            }
+          }
+        }
+
+        return data;
       } catch (error) {
         console.error('[Progress] Failed to parse localStorage:', error);
       }
     }
-
     // Initialize new progress data
     return {
       currentStreak: 0,
