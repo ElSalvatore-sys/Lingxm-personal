@@ -142,7 +142,7 @@ export class ProgressTracker {
 
   saveProgress() {
     // Always save to localStorage as backup
-    localStorage.setItem(this.storageKey, JSON.stringify(this.data));
+    localStorage.setItem(this.storageKey, JSON.stringify(this.toJSON()));
   }
 
   // Mark today as studied
@@ -252,7 +252,7 @@ export class ProgressTracker {
       };
     }
 
-    if (!this.data.languageProgress[languageCode].completedWords) {
+    if (!(this.data.languageProgress[languageCode].completedWords instanceof Set)) {
       this.data.languageProgress[languageCode].completedWords = new Set();
     }
 
