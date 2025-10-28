@@ -12,11 +12,13 @@ class LingXMApp {
     this.progressTracker = null;
     this.speechManager = new SpeechManager();
     this.autoPlayEnabled = this.loadAutoPlaySetting();
+    this.currentTheme = this.loadThemeSetting();
 
     this.init();
   }
 
   init() {
+    this.applyTheme();
     this.setupEventListeners();
     this.showScreen('profile-selection');
   }
@@ -57,6 +59,13 @@ class LingXMApp {
       this.toggleSettings();
     });
 
+    // Theme toggle
+    document.getElementById('theme-toggle')?.addEventListener('change', (e) => {
+      this.currentTheme = e.target.checked ? 'light' : 'dark';
+      this.applyTheme();
+      this.saveThemeSetting();
+    });
+
     // Auto-play toggle
     document.getElementById('autoplay-toggle')?.addEventListener('change', (e) => {
       this.autoPlayEnabled = e.target.checked;
@@ -85,20 +94,56 @@ class LingXMApp {
 
   setupSwipeNavigation() {
     const card = document.getElementById('word-card');
+    const wordMain = document.querySelector('.word-main');
     let touchStartX = 0;
     let touchEndX = 0;
+    let currentX = 0;
+    let isSwiping = false;
 
     card.addEventListener('touchstart', (e) => {
       touchStartX = e.changedTouches[0].screenX;
+      currentX = 0;
+      isSwiping = false;
+      wordMain.style.transition = 'none';
+    });
+
+    card.addEventListener('touchmove', (e) => {
+      if (!touchStartX) return;
+
+      currentX = e.changedTouches[0].screenX - touchStartX;
+      isSwiping = Math.abs(currentX) > 10;
+
+      if (isSwiping) {
+        const progress = Math.min(Math.abs(currentX) / 200, 1);
+        const opacity = 1 - (progress * 0.3);
+
+        wordMain.style.transform = `translateX(${currentX}px)`;
+        wordMain.style.opacity = opacity;
+      }
     });
 
     card.addEventListener('touchend', (e) => {
       touchEndX = e.changedTouches[0].screenX;
-      this.handleSwipe(touchStartX, touchEndX);
+
+      // Reset transform
+      wordMain.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
+      wordMain.style.transform = '';
+      wordMain.style.opacity = '';
+
+      if (isSwiping) {
+        this.handleSwipe(touchStartX, touchEndX);
+      }
+
+      touchStartX = 0;
+      touchEndX = 0;
+      currentX = 0;
+      isSwiping = false;
     });
 
     // Also support click on left/right sides
     card.addEventListener('click', (e) => {
+      if (isSwiping) return;
+
       const cardWidth = card.offsetWidth;
       const clickX = e.clientX;
 
@@ -117,12 +162,34 @@ class LingXMApp {
     if (Math.abs(diff) > swipeThreshold) {
       if (diff > 0) {
         // Swipe left - next word
-        this.nextWord();
+        this.animateWordTransition('left', () => this.nextWord());
       } else {
         // Swipe right - previous word
-        this.previousWord();
+        this.animateWordTransition('right', () => this.previousWord());
       }
     }
+  }
+
+  animateWordTransition(direction, callback) {
+    const wordMain = document.querySelector('.word-main');
+
+    // Animate out
+    wordMain.classList.add(`swipe-out-${direction}`);
+
+    setTimeout(() => {
+      // Execute word change
+      callback();
+
+      // Remove old animation class
+      wordMain.classList.remove(`swipe-out-${direction}`);
+
+      // Animate in
+      wordMain.classList.add('swipe-in');
+
+      setTimeout(() => {
+        wordMain.classList.remove('swipe-in');
+      }, 400);
+    }, 400);
   }
 
   async selectProfile(profileKey) {
@@ -370,12 +437,9 @@ class LingXMApp {
   showProgressBar() {
     if (!this.progressTracker) return;
 
-    const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
-    const words = this.wordData[lang.code];
-    const percentage = this.progressTracker.getCompletionPercentage(lang.code, words.length);
     const stats = this.progressTracker.getStats();
 
-    // Update progress info in header
+    // Update progress info in header - only show streak badge
     const progressInfo = document.querySelector('.progress-info');
     const streakBadge = progressInfo.querySelector('.streak-badge') || document.createElement('div');
     streakBadge.className = 'streak-badge';
@@ -385,18 +449,7 @@ class LingXMApp {
       progressInfo.appendChild(streakBadge);
     }
 
-    // Add progress bar under language name
-    let progressBar = document.querySelector('.progress-bar');
-    if (!progressBar) {
-      progressBar = document.createElement('div');
-      progressBar.className = 'progress-bar';
-      progressInfo.appendChild(progressBar);
-    }
-
-    progressBar.innerHTML = `
-      <div class="progress-fill" style="width: ${percentage}%"></div>
-      <span class="progress-text">${percentage}%</span>
-    `;
+    // Progress bar removed - word counter is sufficient
   }
 
   showProgressStats() {
@@ -547,6 +600,11 @@ class LingXMApp {
       modal.classList.toggle('active');
 
       // Update UI with current settings
+      const themeToggle = document.getElementById('theme-toggle');
+      if (themeToggle) {
+        themeToggle.checked = this.currentTheme === 'light';
+      }
+
       const autoPlayToggle = document.getElementById('autoplay-toggle');
       if (autoPlayToggle) {
         autoPlayToggle.checked = this.autoPlayEnabled;
@@ -579,6 +637,19 @@ class LingXMApp {
 
   saveAutoPlaySetting() {
     localStorage.setItem('lingxm-autoplay', this.autoPlayEnabled.toString());
+  }
+
+  loadThemeSetting() {
+    const saved = localStorage.getItem('lingxm-theme');
+    return saved || 'dark';
+  }
+
+  saveThemeSetting() {
+    localStorage.setItem('lingxm-theme', this.currentTheme);
+  }
+
+  applyTheme() {
+    document.documentElement.dataset.theme = this.currentTheme;
   }
 }
 

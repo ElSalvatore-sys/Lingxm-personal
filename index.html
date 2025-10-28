@@ -106,14 +106,25 @@
             <div id="settings-modal" class="settings-modal">
                 <div class="settings-content">
                     <div class="settings-header">
-                        <h2>⚙️ إعدادات / Einstellungen</h2>
+                        <h2>⚙️ Settings / Einstellungen</h2>
                         <button id="close-settings" class="icon-btn">✕</button>
                     </div>
 
                     <div class="settings-section">
                         <div class="setting-item">
                             <div class="setting-label">
-                                <span>تشغيل تلقائي / Auto-Play</span>
+                                <span>🌓 Theme / Motiv</span>
+                                <p class="setting-description">Switch between dark and light mode</p>
+                            </div>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="theme-toggle">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+
+                        <div class="setting-item">
+                            <div class="setting-label">
+                                <span>Auto-Play / Automatisch</span>
                                 <p class="setting-description">Play word pronunciation automatically</p>
                             </div>
                             <label class="toggle-switch">
@@ -124,18 +135,18 @@
 
                         <div class="setting-item">
                             <div class="setting-label">
-                                <span>سرعة النطق / Speech Speed</span>
+                                <span>Speech Speed / Sprechgeschwindigkeit</span>
                                 <p class="setting-description">Choose pronunciation speed</p>
                             </div>
                             <div class="speed-selector">
                                 <button class="speed-btn" data-speed="slow">
-                                    🐢 بطيء<br>Langsam
+                                    🐢 Slow<br>Langsam
                                 </button>
                                 <button class="speed-btn active" data-speed="normal">
-                                    ▶️ عادي<br>Normal
+                                    ▶️ Normal
                                 </button>
                                 <button class="speed-btn" data-speed="fast">
-                                    🐰 سريع<br>Schnell
+                                    🐰 Fast<br>Schnell
                                 </button>
                             </div>
                         </div>
