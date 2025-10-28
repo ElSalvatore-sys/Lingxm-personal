@@ -1,4 +1,4 @@
-import { PROFILES, LANGUAGE_NAMES } from './config.js';
+import { PROFILES, LANGUAGE_NAMES, SECTION_LABELS } from './config.js';
 import { ProgressTracker } from './utils/progress.js';
 import { SpeechManager } from './utils/speech.js';
 
@@ -19,6 +19,7 @@ class LingXMApp {
 
   init() {
     this.applyTheme();
+    this.updateProfileLockIcons();
     this.setupEventListeners();
     this.showScreen('profile-selection');
   }
@@ -27,8 +28,14 @@ class LingXMApp {
     // Profile selection
     document.querySelectorAll('.profile-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
-        const profile = e.currentTarget.dataset.profile;
-        this.selectProfile(profile);
+        const profileKey = e.currentTarget.dataset.profile;
+
+        // Check if PIN is enabled for this profile
+        if (this.isPinEnabled(profileKey)) {
+          this.showPinModal(profileKey, 'verify');
+        } else {
+          this.showFirstTimePinPrompt(profileKey);
+        }
       });
     });
 
@@ -86,6 +93,49 @@ class LingXMApp {
         const langIndex = parseInt(e.currentTarget.dataset.lang);
         this.switchLanguage(langIndex);
       });
+    });
+
+    // PIN keypad - digit buttons
+    document.querySelectorAll('.pin-key[data-digit]').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const digit = e.currentTarget.dataset.digit;
+        this.handlePinDigit(digit);
+      });
+    });
+
+    // PIN keypad - backspace button
+    document.querySelector('.pin-key-backspace')?.addEventListener('click', () => {
+      this.handlePinBackspace();
+    });
+
+    // PIN keypad - submit button (optional manual submit)
+    document.querySelector('.pin-key-submit')?.addEventListener('click', () => {
+      this.submitPin();
+    });
+
+    // PIN modal - cancel button
+    document.getElementById('pin-cancel-btn')?.addEventListener('click', () => {
+      this.closePinModal();
+    });
+
+    // PIN modal - forgot PIN button
+    document.getElementById('pin-forgot-btn')?.addEventListener('click', () => {
+      this.showForgotPinDialog();
+    });
+
+    // PIN setup modal - skip button
+    document.getElementById('pin-setup-skip-btn')?.addEventListener('click', () => {
+      this.handleSetupSkip();
+    });
+
+    // PIN setup modal - create PIN button
+    document.getElementById('pin-setup-create-btn')?.addEventListener('click', () => {
+      this.handleSetupCreate();
+    });
+
+    // Settings - change PIN button
+    document.getElementById('change-pin-btn')?.addEventListener('click', () => {
+      this.handleChangePinClick();
     });
 
     // Swipe navigation (touch)
@@ -326,17 +376,21 @@ class LingXMApp {
     const primaryLang = this.currentProfile.interfaceLanguages[0];
     const secondaryLang = this.currentProfile.interfaceLanguages[1];
 
+    // Update section headers based on profile interface languages
+    this.updateSectionHeaders(primaryLang, secondaryLang);
+
     // Record study session
     if (this.progressTracker) {
       this.progressTracker.recordStudySession(lang.code, 1);
       this.progressTracker.markWordCompleted(lang.code, this.currentWordIndex);
     }
 
+    // Check for halfway achievement (50% completion)
+    this.checkHalfwayAchievement(lang.code, words.length);
+
     // Update header
     const levelText = lang.specialty ? `${lang.level} - ${lang.specialty}` : lang.level;
     document.getElementById('current-lang').textContent = `${this.currentProfile.emoji} ${this.currentProfile.name} • ${lang.flag} ${lang.name} ${levelText}`;
-    document.getElementById('word-counter').textContent =
-      `${this.currentWordIndex + 1}/${words.length}`;
 
     // Update word display with speaker button
     document.getElementById('word-text').innerHTML = `
@@ -614,6 +668,21 @@ class LingXMApp {
       speedButtons.forEach(btn => {
         btn.classList.toggle('active', btn.dataset.speed === this.speechManager.currentSpeed);
       });
+
+      // Show PIN setting only when logged into a profile
+      const pinSettingItem = document.getElementById('pin-setting-item');
+      if (pinSettingItem) {
+        if (this.currentProfile && this.profileKey) {
+          pinSettingItem.style.display = 'flex';
+          // Update button text based on whether PIN is enabled
+          const changePinBtn = document.getElementById('change-pin-btn');
+          if (changePinBtn) {
+            changePinBtn.textContent = this.isPinEnabled(this.profileKey) ? 'Change PIN' : 'Set PIN';
+          }
+        } else {
+          pinSettingItem.style.display = 'none';
+        }
+      }
     }
   }
 
@@ -650,6 +719,335 @@ class LingXMApp {
 
   applyTheme() {
     document.documentElement.dataset.theme = this.currentTheme;
+  }
+
+  updateSectionHeaders(primaryLang, secondaryLang) {
+    // Update section headers based on profile interface languages
+    document.getElementById('explanation-header').textContent =
+      `${SECTION_LABELS.explanation[primaryLang]} / ${SECTION_LABELS.explanation[secondaryLang]}`;
+    document.getElementById('conjugation-header').textContent =
+      `${SECTION_LABELS.conjugation[primaryLang]} / ${SECTION_LABELS.conjugation[secondaryLang]}`;
+    document.getElementById('example1-header').textContent =
+      `${SECTION_LABELS.example1[primaryLang]} / ${SECTION_LABELS.example1[secondaryLang]}`;
+    document.getElementById('example2-header').textContent =
+      `${SECTION_LABELS.example2[primaryLang]} / ${SECTION_LABELS.example2[secondaryLang]}`;
+  }
+
+  checkHalfwayAchievement(langCode, totalWords) {
+    if (!this.progressTracker) return;
+
+    const completedCount = this.progressTracker.getCompletedCount(langCode);
+    const halfwayPoint = Math.floor(totalWords / 2);
+
+    // Check if user just reached exactly 50% (halfway point)
+    // Use localStorage to track if we've already shown this achievement
+    const achievementKey = `lingxm-halfway-${this.profileKey}-${langCode}`;
+    const hasShownAchievement = localStorage.getItem(achievementKey);
+
+    if (completedCount === halfwayPoint && !hasShownAchievement) {
+      this.showHalfwayPopup();
+      localStorage.setItem(achievementKey, 'true');
+    }
+  }
+
+  showHalfwayPopup() {
+    // Create popup overlay
+    const popup = document.createElement('div');
+    popup.className = 'achievement-popup';
+    popup.innerHTML = `
+      <div class="achievement-content">
+        <div class="achievement-icon">🎉</div>
+        <h2>Congratulations!</h2>
+        <p>You've completed half the vocabulary!</p>
+        <p class="achievement-contact">Contact Herr Hassan to generate more words.</p>
+        <button class="achievement-btn" id="close-achievement">Continue</button>
+      </div>
+    `;
+
+    document.body.appendChild(popup);
+
+    // Close popup on button click
+    document.getElementById('close-achievement').addEventListener('click', () => {
+      popup.remove();
+    });
+
+    // Auto-remove after animation
+    setTimeout(() => {
+      popup.classList.add('show');
+    }, 100);
+  }
+
+  // ============================================
+  // PIN Authentication System
+  // ============================================
+
+  async hashPin(pin) {
+    // Use Web Crypto API to hash PIN with SHA-256
+    const encoder = new TextEncoder();
+    const data = encoder.encode(pin);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  isPinEnabled(profileKey) {
+    return localStorage.getItem(`lingxm-pin-enabled-${profileKey}`) === 'true';
+  }
+
+  async getPinHash(profileKey) {
+    return localStorage.getItem(`lingxm-pin-${profileKey}`);
+  }
+
+  async setPinForProfile(profileKey, pin) {
+    const hash = await this.hashPin(pin);
+    localStorage.setItem(`lingxm-pin-${profileKey}`, hash);
+    localStorage.setItem(`lingxm-pin-enabled-${profileKey}`, 'true');
+    this.updateProfileLockIcons();
+  }
+
+  async disablePinForProfile(profileKey) {
+    localStorage.removeItem(`lingxm-pin-${profileKey}`);
+    localStorage.removeItem(`lingxm-pin-enabled-${profileKey}`);
+    localStorage.removeItem(`lingxm-pin-attempts-${profileKey}`);
+    this.updateProfileLockIcons();
+  }
+
+  async verifyPin(profileKey, pin) {
+    const storedHash = await this.getPinHash(profileKey);
+    const enteredHash = await this.hashPin(pin);
+    return storedHash === enteredHash;
+  }
+
+  resetPinAttempts(profileKey) {
+    localStorage.removeItem(`lingxm-pin-attempts-${profileKey}`);
+  }
+
+  updateProfileLockIcons() {
+    document.querySelectorAll('.profile-btn').forEach(btn => {
+      const profileKey = btn.dataset.profile;
+      if (this.isPinEnabled(profileKey)) {
+        btn.classList.add('pin-protected');
+      } else {
+        btn.classList.remove('pin-protected');
+      }
+    });
+  }
+
+  showPinModal(profileKey, mode = 'verify') {
+    this.currentPinProfile = profileKey;
+    this.pinMode = mode;
+    this.currentPin = '';
+    this.pinAttempts = parseInt(localStorage.getItem(`lingxm-pin-attempts-${profileKey}`) || '0');
+
+    const modal = document.getElementById('pin-modal');
+    const profile = PROFILES[profileKey];
+
+    // Update UI
+    document.getElementById('pin-profile-emoji').textContent = profile.emoji;
+    document.getElementById('pin-profile-name').textContent = profile.name;
+
+    if (mode === 'verify') {
+      document.getElementById('pin-modal-title').textContent = '🔒 Enter PIN';
+      document.getElementById('pin-message').textContent = '';
+      document.getElementById('pin-message').style.color = '';
+    } else if (mode === 'create') {
+      document.getElementById('pin-modal-title').textContent = '🔐 Create PIN';
+      document.getElementById('pin-message').textContent = 'Enter a 4-digit PIN';
+      document.getElementById('pin-message').style.color = '';
+    }
+
+    // Show forgot PIN after 3 attempts
+    if (this.pinAttempts >= 3) {
+      document.getElementById('pin-forgot-btn').style.display = 'block';
+    } else {
+      document.getElementById('pin-forgot-btn').style.display = 'none';
+    }
+
+    modal.classList.add('active');
+    this.clearPinDots();
+  }
+
+  closePinModal() {
+    const modal = document.getElementById('pin-modal');
+    modal.classList.remove('active');
+    this.currentPin = '';
+    this.clearPinDots();
+  }
+
+  clearPinDots() {
+    document.querySelectorAll('.pin-dot').forEach(dot => {
+      dot.classList.remove('filled');
+    });
+  }
+
+  updatePinDots() {
+    const dots = document.querySelectorAll('.pin-dot');
+    dots.forEach((dot, index) => {
+      if (index < this.currentPin.length) {
+        dot.classList.add('filled');
+      } else {
+        dot.classList.remove('filled');
+      }
+    });
+  }
+
+  handlePinDigit(digit) {
+    if (this.currentPin.length < 4) {
+      this.currentPin += digit;
+      this.updatePinDots();
+
+      // Auto-submit when 4 digits entered
+      if (this.currentPin.length === 4) {
+        setTimeout(() => this.submitPin(), 300);
+      }
+    }
+  }
+
+  handlePinBackspace() {
+    if (this.currentPin.length > 0) {
+      this.currentPin = this.currentPin.slice(0, -1);
+      this.updatePinDots();
+    }
+  }
+
+  async submitPin() {
+    if (this.currentPin.length !== 4) return;
+
+    if (this.pinMode === 'verify') {
+      const isValid = await this.verifyPin(this.currentPinProfile, this.currentPin);
+
+      if (isValid) {
+        // Success animation
+        const pinContent = document.querySelector('.pin-content');
+        pinContent.classList.add('success');
+        this.resetPinAttempts(this.currentPinProfile);
+
+        setTimeout(() => {
+          this.closePinModal();
+          pinContent.classList.remove('success');
+          this.selectProfile(this.currentPinProfile);
+        }, 500);
+      } else {
+        // Wrong PIN
+        this.pinAttempts++;
+        localStorage.setItem(`lingxm-pin-attempts-${this.currentPinProfile}`, this.pinAttempts.toString());
+
+        const pinContent = document.querySelector('.pin-content');
+        pinContent.classList.add('shake');
+        document.getElementById('pin-message').textContent = '❌ Wrong PIN, try again';
+        document.getElementById('pin-message').style.color = 'var(--color-danger)';
+
+        setTimeout(() => {
+          pinContent.classList.remove('shake');
+          this.currentPin = '';
+          this.clearPinDots();
+        }, 500);
+
+        if (this.pinAttempts >= 3) {
+          document.getElementById('pin-forgot-btn').style.display = 'block';
+        }
+      }
+    } else if (this.pinMode === 'create') {
+      // First entry - ask for confirmation
+      this.tempPin = this.currentPin;
+      this.pinMode = 'confirm';
+      document.getElementById('pin-modal-title').textContent = 'Confirm PIN';
+      document.getElementById('pin-message').textContent = 'Enter PIN again to confirm';
+      this.currentPin = '';
+      this.clearPinDots();
+    } else if (this.pinMode === 'confirm') {
+      if (this.currentPin === this.tempPin) {
+        // PINs match - save
+        await this.setPinForProfile(this.currentPinProfile, this.currentPin);
+        const pinContent = document.querySelector('.pin-content');
+        pinContent.classList.add('success');
+        document.getElementById('pin-message').textContent = '✓ PIN created successfully!';
+        document.getElementById('pin-message').style.color = 'var(--color-success)';
+
+        setTimeout(() => {
+          this.closePinModal();
+          pinContent.classList.remove('success');
+          this.selectProfile(this.currentPinProfile);
+        }, 600);
+      } else {
+        // PINs don't match
+        const pinContent = document.querySelector('.pin-content');
+        pinContent.classList.add('shake');
+        document.getElementById('pin-message').textContent = '❌ PINs don\'t match, try again';
+        document.getElementById('pin-message').style.color = 'var(--color-danger)';
+
+        setTimeout(() => {
+          pinContent.classList.remove('shake');
+          this.pinMode = 'create';
+          this.currentPin = '';
+          this.clearPinDots();
+          document.getElementById('pin-modal-title').textContent = 'Create PIN';
+          document.getElementById('pin-message').textContent = 'Enter a 4-digit PIN';
+          document.getElementById('pin-message').style.color = '';
+        }, 500);
+      }
+    }
+  }
+
+  showFirstTimePinPrompt(profileKey) {
+    // Check if user has been prompted before
+    const hasBeenPrompted = localStorage.getItem(`lingxm-pin-prompted-${profileKey}`);
+
+    if (hasBeenPrompted) {
+      // User previously skipped - just login
+      this.selectProfile(profileKey);
+    } else {
+      // First time - show setup prompt
+      this.showSetupPinPrompt(profileKey);
+    }
+  }
+
+  showSetupPinPrompt(profileKey) {
+    const modal = document.getElementById('pin-setup-modal');
+    const profile = PROFILES[profileKey];
+    this.currentPinProfile = profileKey;
+
+    // Update UI
+    document.getElementById('pin-setup-emoji').textContent = profile.emoji;
+    document.getElementById('pin-setup-name').textContent = profile.name;
+
+    modal.classList.add('active');
+  }
+
+  closeSetupPinModal() {
+    const modal = document.getElementById('pin-setup-modal');
+    modal.classList.remove('active');
+  }
+
+  handleSetupSkip() {
+    // Mark as prompted and login
+    localStorage.setItem(`lingxm-pin-prompted-${this.currentPinProfile}`, 'true');
+    this.closeSetupPinModal();
+    this.selectProfile(this.currentPinProfile);
+  }
+
+  handleSetupCreate() {
+    // Close setup modal and show PIN creation modal
+    this.closeSetupPinModal();
+    localStorage.setItem(`lingxm-pin-prompted-${this.currentPinProfile}`, 'true');
+    this.showPinModal(this.currentPinProfile, 'create');
+  }
+
+  showForgotPinDialog() {
+    if (confirm('Reset PIN? This will remove PIN protection for this profile.\n\nYou can set a new PIN later from Settings.')) {
+      this.disablePinForProfile(this.currentPinProfile);
+      this.closePinModal();
+      this.selectProfile(this.currentPinProfile);
+    }
+  }
+
+  handleChangePinClick() {
+    if (this.currentProfile && this.profileKey) {
+      this.toggleSettings();
+      setTimeout(() => {
+        this.showPinModal(this.profileKey, 'create');
+      }, 300);
+    }
   }
 }
 

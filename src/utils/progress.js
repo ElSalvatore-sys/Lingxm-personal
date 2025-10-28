@@ -260,25 +260,27 @@ export class ProgressTracker {
     this.saveProgress();
   }
 
-  getCompletionPercentage(languageCode, totalWords) {
+  getCompletedCount(languageCode) {
     // Try database first
     if (this.useDatabase && this.userId) {
       try {
         const progress = dbManager.getLanguageProgress(this.userId, languageCode);
-        const completed = progress?.learned_count || 0;
-        return Math.round((completed / totalWords) * 100);
+        return progress?.learned_count || 0;
       } catch (error) {
-        console.error('[Progress] Failed to get completion from database:', error);
+        console.error('[Progress] Failed to get completed count from database:', error);
       }
     }
 
     // Fallback to localStorage
     if (!this.data.languageProgress[languageCode]) return 0;
 
-    const completed = this.data.languageProgress[languageCode].completedWords
+    return this.data.languageProgress[languageCode].completedWords
       ? this.data.languageProgress[languageCode].completedWords.size
       : 0;
+  }
 
+  getCompletionPercentage(languageCode, totalWords) {
+    const completed = this.getCompletedCount(languageCode);
     return Math.round((completed / totalWords) * 100);
   }
 

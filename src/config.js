@@ -197,3 +197,42 @@ export const LANGUAGE_NAMES = {
   fa: { native: 'فارسی', local: 'Persian/Farsi' },
   it: { native: 'Italiano', local: 'Italian' }
 };
+
+export const SECTION_LABELS = {
+  explanation: {
+    ar: 'شرح',
+    de: 'Erklärung',
+    en: 'Explanation',
+    pl: 'Wyjaśnienie',
+    fr: 'Explication',
+    fa: 'توضیح',
+    it: 'Spiegazione'
+  },
+  conjugation: {
+    ar: 'تصريف',
+    de: 'Konjugation',
+    en: 'Conjugation',
+    pl: 'Odmiana',
+    fr: 'Conjugaison',
+    fa: 'صرف',
+    it: 'Coniugazione'
+  },
+  example1: {
+    ar: 'مثال ١',
+    de: 'Beispiel 1',
+    en: 'Example 1',
+    pl: 'Przykład 1',
+    fr: 'Exemple 1',
+    fa: 'مثال ۱',
+    it: 'Esempio 1'
+  },
+  example2: {
+    ar: 'مثال ٢',
+    de: 'Beispiel 2',
+    en: 'Example 2',
+    pl: 'Przykład 2',
+    fr: 'Exemple 2',
+    fa: 'مثال ۲',
+    it: 'Esempio 2'
+  }
+};

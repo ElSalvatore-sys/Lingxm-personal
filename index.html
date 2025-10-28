@@ -56,7 +56,6 @@
                 <button id="back-btn" class="icon-btn">←</button>
                 <div class="progress-info">
                     <span id="current-lang">Deutsch</span>
-                    <span id="word-counter">1/10</span>
                 </div>
                 <div class="header-actions">
                     <button id="settings-btn" class="icon-btn">⚙️</button>
@@ -74,22 +73,22 @@
 
                 <div class="word-details">
                     <div class="section">
-                        <h3>شرح / Erklärung</h3>
+                        <h3 id="explanation-header">شرح / Erklärung</h3>
                         <p id="word-explanation"></p>
                     </div>
 
                     <div class="section" id="conjugation-section">
-                        <h3>تصريف / Konjugation</h3>
+                        <h3 id="conjugation-header">تصريف / Konjugation</h3>
                         <div id="word-conjugations"></div>
                     </div>
 
                     <div class="section">
-                        <h3>مثال ١ / Beispiel 1</h3>
+                        <h3 id="example1-header">مثال ١ / Beispiel 1</h3>
                         <p id="example-1"></p>
                     </div>
 
                     <div class="section">
-                        <h3>مثال ٢ / Beispiel 2</h3>
+                        <h3 id="example2-header">مثال ٢ / Beispiel 2</h3>
                         <p id="example-2"></p>
                     </div>
                 </div>
@@ -133,6 +132,16 @@
                             </label>
                         </div>
 
+                        <div class="setting-item" id="pin-setting-item" style="display:none;">
+                            <div class="setting-label">
+                                <span>🔐 PIN Security / PIN-Sicherheit</span>
+                                <p class="setting-description">Protect your profile with a 4-digit PIN</p>
+                            </div>
+                            <button id="change-pin-btn" class="setting-action-btn">
+                                Change PIN
+                            </button>
+                        </div>
+
                         <div class="setting-item">
                             <div class="setting-label">
                                 <span>Speech Speed / Sprechgeschwindigkeit</span>
@@ -151,6 +160,63 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- PIN Authentication Modal -->
+        <div id="pin-modal" class="pin-modal">
+            <div class="pin-content">
+                <div class="pin-profile-header">
+                    <span id="pin-profile-emoji" class="pin-profile-emoji"></span>
+                    <h2 id="pin-modal-title">🔒 Enter PIN</h2>
+                    <p id="pin-profile-name" class="pin-profile-name"></p>
+                </div>
+
+                <div class="pin-dots">
+                    <div class="pin-dot"></div>
+                    <div class="pin-dot"></div>
+                    <div class="pin-dot"></div>
+                    <div class="pin-dot"></div>
+                </div>
+
+                <p id="pin-message" class="pin-message"></p>
+
+                <div class="pin-keypad">
+                    <button class="pin-key" data-digit="1">1</button>
+                    <button class="pin-key" data-digit="2">2</button>
+                    <button class="pin-key" data-digit="3">3</button>
+                    <button class="pin-key" data-digit="4">4</button>
+                    <button class="pin-key" data-digit="5">5</button>
+                    <button class="pin-key" data-digit="6">6</button>
+                    <button class="pin-key" data-digit="7">7</button>
+                    <button class="pin-key" data-digit="8">8</button>
+                    <button class="pin-key" data-digit="9">9</button>
+                    <button class="pin-key pin-key-backspace" aria-label="Delete">←</button>
+                    <button class="pin-key" data-digit="0">0</button>
+                    <button class="pin-key pin-key-submit" aria-label="Submit">✓</button>
+                </div>
+
+                <div class="pin-actions">
+                    <button id="pin-cancel-btn" class="pin-btn-secondary">Cancel</button>
+                    <button id="pin-forgot-btn" class="pin-btn-link" style="display:none;">Forgot PIN?</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- First-Time PIN Setup Modal -->
+        <div id="pin-setup-modal" class="pin-modal">
+            <div class="pin-content pin-setup-content">
+                <div class="pin-setup-header">
+                    <span id="pin-setup-emoji" class="pin-profile-emoji"></span>
+                    <h2>🔐 Protect Your Profile</h2>
+                    <p id="pin-setup-name" class="pin-setup-profile-name"></p>
+                    <p class="pin-setup-description">Would you like to protect this profile with a 4-digit PIN?</p>
+                </div>
+
+                <div class="pin-setup-actions">
+                    <button id="pin-setup-skip-btn" class="pin-btn-secondary">Skip for Now</button>
+                    <button id="pin-setup-create-btn" class="pin-btn-primary">Create PIN</button>
                 </div>
             </div>
         </div>
