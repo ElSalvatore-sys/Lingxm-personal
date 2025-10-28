@@ -17,34 +17,46 @@
                 <h1 class="app-title">LingXM Personal</h1>
                 <div class="profile-buttons">
                     <button class="profile-btn" data-profile="vahiko">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">👩‍💼</span>
                         <span class="profile-name">Vahiko</span>
                         <span class="profile-langs">🇩🇪 Deutsch C1 • 🇬🇧 English B1-B2</span>
+                        <div class="profile-streak"></div>
                     </button>
                     <button class="profile-btn" data-profile="hassan">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">👨‍💻</span>
                         <span class="profile-name">Hassan</span>
                         <span class="profile-langs">🇸🇦 العربية B2-C1 • 🇬🇧 English B2-C2 • 🇩🇪 Deutsch B1-B2</span>
+                        <div class="profile-streak"></div>
                     </button>
                     <button class="profile-btn" data-profile="salman">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">👩‍🍳</span>
                         <span class="profile-name">Frau Salman</span>
                         <span class="profile-langs">🇩🇪 Deutsch B1-B2 • 🇩🇪🍽️ Gastro • 🇫🇷 Français • 🇬🇧 English A2-B1</span>
+                        <div class="profile-streak"></div>
                     </button>
                     <button class="profile-btn" data-profile="kafel">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">👨‍💻</span>
                         <span class="profile-name">Kafel</span>
                         <span class="profile-langs">🇩🇪 Deutsch B2 • 🇩🇪💻 IT B2 • 🇬🇧 English B2-C1</span>
+                        <div class="profile-streak"></div>
                     </button>
                     <button class="profile-btn" data-profile="jawad">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">👨‍🍳</span>
                         <span class="profile-name">Jawad</span>
                         <span class="profile-langs">🇩🇪 Deutsch B1-B2 • 🇩🇪🍽️ Gastro • 🇫🇷 Français • 🇬🇧 English A2-B1</span>
+                        <div class="profile-streak"></div>
                     </button>
                     <button class="profile-btn" data-profile="ameeno">
+                        <div class="profile-progress-rings"></div>
                         <span class="profile-emoji">🧑‍🎓</span>
                         <span class="profile-name">Ameeno</span>
                         <span class="profile-langs">🇩🇪 Deutsch B1-B2 • 🇬🇧 English B1-B2 • 🇮🇹 Italiano A1</span>
+                        <div class="profile-streak"></div>
                     </button>
                 </div>
             </div>
@@ -58,6 +70,10 @@
                     <span id="current-lang">Deutsch</span>
                 </div>
                 <div class="header-actions">
+                    <button id="achievements-btn" class="icon-btn">
+                        🏆
+                        <span class="notification-badge" id="achievement-badge" style="display:none;"></span>
+                    </button>
                     <button id="settings-btn" class="icon-btn">⚙️</button>
                     <button id="save-word-btn" class="icon-btn">⭐</button>
                 </div>
@@ -67,6 +83,16 @@
                 <div class="swipe-hint">← Previous | Next →</div>
                 
                 <div class="word-main">
+                    <div class="mastery-indicator" id="mastery-indicator">
+                        <div class="mastery-stars" id="mastery-stars">
+                            <span class="star">⭐</span>
+                            <span class="star">⭐</span>
+                            <span class="star">⭐</span>
+                            <span class="star">⭐</span>
+                            <span class="star">⭐</span>
+                        </div>
+                        <span class="mastery-label" id="mastery-label">New</span>
+                    </div>
                     <h2 id="word-text" class="word-text">جاري التحميل...</h2>
                     <p id="word-translation" class="word-translation"></p>
                 </div>
@@ -157,6 +183,50 @@
                                 <button class="speed-btn" data-speed="fast">
                                     🐰 Fast<br>Schnell
                                 </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Achievements Modal -->
+            <div id="achievements-modal" class="achievements-modal">
+                <div class="achievements-content">
+                    <div class="achievements-header">
+                        <h2>🏆 Achievements</h2>
+                        <button id="close-achievements" class="icon-btn">✕</button>
+                    </div>
+
+                    <!-- Progress to Next Badge -->
+                    <div class="next-badge-progress">
+                        <div class="next-badge-info">
+                            <span class="next-badge-icon">🎯</span>
+                            <div class="next-badge-text">
+                                <p class="next-badge-title">Next Badge</p>
+                                <p class="next-badge-name">Beginner</p>
+                            </div>
+                        </div>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" style="width: 0%;"></div>
+                            <span class="progress-bar-text">0 / 10</span>
+                        </div>
+                    </div>
+
+                    <!-- Achievements Grid -->
+                    <div class="achievements-grid">
+                        <!-- Word Milestones -->
+                        <div class="achievement-category">
+                            <h3 class="category-title">📚 Word Milestones</h3>
+                            <div class="badges-grid" id="word-badges-grid">
+                                <!-- Badges will be inserted here via JS -->
+                            </div>
+                        </div>
+
+                        <!-- Streak Milestones -->
+                        <div class="achievement-category">
+                            <h3 class="category-title">🔥 Streak Milestones</h3>
+                            <div class="badges-grid" id="streak-badges-grid">
+                                <!-- Badges will be inserted here via JS -->
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,7 @@
 import { PROFILES, LANGUAGE_NAMES, SECTION_LABELS } from './config.js';
 import { ProgressTracker } from './utils/progress.js';
 import { SpeechManager } from './utils/speech.js';
+import { AchievementManager, ACHIEVEMENTS } from './utils/achievements.js';
 
 class LingXMApp {
   constructor() {
@@ -10,6 +11,7 @@ class LingXMApp {
     this.wordData = {};
     this.savedWords = this.loadSavedWords();
     this.progressTracker = null;
+    this.achievementManager = null;
     this.speechManager = new SpeechManager();
     this.autoPlayEnabled = this.loadAutoPlaySetting();
     this.currentTheme = this.loadThemeSetting();
@@ -20,6 +22,7 @@ class LingXMApp {
   init() {
     this.applyTheme();
     this.updateProfileLockIcons();
+    this.updateProfileProgressRings();
     this.setupEventListeners();
     this.showScreen('profile-selection');
   }
@@ -46,6 +49,7 @@ class LingXMApp {
       }
       setTimeout(() => {
         this.showScreen('profile-selection');
+        this.updateProfileProgressRings();
         this.currentProfile = null;
         this.progressTracker = null;
       }, 2000);
@@ -54,6 +58,16 @@ class LingXMApp {
     // Save word button
     document.getElementById('save-word-btn').addEventListener('click', () => {
       this.toggleSaveWord();
+    });
+
+    // Achievements button
+    document.getElementById('achievements-btn')?.addEventListener('click', () => {
+      this.toggleAchievements();
+    });
+
+    // Close achievements
+    document.getElementById('close-achievements')?.addEventListener('click', () => {
+      this.toggleAchievements();
     });
 
     // Settings button
@@ -246,6 +260,7 @@ class LingXMApp {
     this.currentProfile = PROFILES[profileKey];
     this.profileKey = profileKey;
     this.progressTracker = new ProgressTracker(profileKey);
+    this.achievementManager = new AchievementManager(profileKey);
 
     // Load word data for this profile
     await this.loadWordData();
@@ -260,6 +275,10 @@ class LingXMApp {
     this.showScreen('learning-screen');
     this.displayCurrentWord();
     this.showProgressBar();
+
+    // Check for new achievements and update badge
+    this.checkNewAchievements();
+    this.updateAchievementBadge();
   }
 
   async loadWordData() {
@@ -486,6 +505,10 @@ class LingXMApp {
     // Update save button
     this.updateSaveButton();
     this.showProgressBar();
+
+    // Update mastery display and increment review count
+    this.updateMasteryDisplay();
+    this.incrementMastery();
   }
 
   showProgressBar() {
@@ -833,6 +856,122 @@ class LingXMApp {
     });
   }
 
+  updateProfileProgressRings() {
+    document.querySelectorAll('.profile-btn').forEach(btn => {
+      const profileKey = btn.dataset.profile;
+      const profile = PROFILES[profileKey];
+
+      if (!profile) return;
+
+      // Create temporary progress tracker to get stats
+      const tempTracker = new ProgressTracker(profileKey);
+      const stats = tempTracker.getStats();
+
+      // Get the progress rings container
+      const ringsContainer = btn.querySelector('.profile-progress-rings');
+      if (!ringsContainer) return;
+
+      // Clear existing content
+      ringsContainer.innerHTML = '';
+
+      // Create SVG defs for gradient (only once)
+      if (!document.getElementById('progressGradient')) {
+        const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        svg.style.position = 'absolute';
+        svg.style.width = '0';
+        svg.style.height = '0';
+        const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
+        const gradient = document.createElementNS('http://www.w3.org/2000/svg', 'linearGradient');
+        gradient.setAttribute('id', 'progressGradient');
+        const stop1 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
+        stop1.setAttribute('offset', '0%');
+        stop1.setAttribute('stop-color', '#10b981');
+        const stop2 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
+        stop2.setAttribute('offset', '100%');
+        stop2.setAttribute('stop-color', '#059669');
+        gradient.appendChild(stop1);
+        gradient.appendChild(stop2);
+        defs.appendChild(gradient);
+        svg.appendChild(defs);
+        document.body.appendChild(svg);
+      }
+
+      // Calculate aggregate progress
+      let totalWords = 0;
+      let completedWords = 0;
+      profile.learningLanguages.forEach(lang => {
+        totalWords += 180;
+        completedWords += tempTracker.getCompletedCount(lang.code);
+      });
+      const aggregatePercentage = Math.round((completedWords / totalWords) * 100);
+
+      // Decide layout based on number of languages
+      const langCount = profile.learningLanguages.length;
+
+      if (langCount <= 3) {
+        // Show compact individual rings for 2-3 languages
+        profile.learningLanguages.forEach(lang => {
+          const percentage = tempTracker.getCompletionPercentage(lang.code, 180);
+
+          const container = document.createElement('div');
+          container.className = 'progress-ring-container';
+          container.title = `${lang.flag} ${lang.name}: ${percentage}%`;
+
+          // Create smaller SVG (32px)
+          const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+          svg.classList.add('progress-ring');
+          svg.setAttribute('viewBox', '0 0 32 32');
+
+          const bgCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+          bgCircle.classList.add('progress-ring-circle', 'progress-ring-background');
+          bgCircle.setAttribute('cx', '16');
+          bgCircle.setAttribute('cy', '16');
+          bgCircle.setAttribute('r', '14');
+
+          const progressCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+          progressCircle.classList.add('progress-ring-circle', 'progress-ring-progress');
+          progressCircle.setAttribute('cx', '16');
+          progressCircle.setAttribute('cy', '16');
+          progressCircle.setAttribute('r', '14');
+
+          const circumference = 2 * Math.PI * 14; // 87.96
+          const offset = circumference - (percentage / 100) * circumference;
+          progressCircle.style.strokeDashoffset = offset;
+
+          svg.appendChild(bgCircle);
+          svg.appendChild(progressCircle);
+
+          const text = document.createElement('div');
+          text.className = 'progress-ring-text';
+          text.textContent = `${percentage}%`;
+
+          container.appendChild(svg);
+          container.appendChild(text);
+          ringsContainer.appendChild(container);
+        });
+      } else {
+        // Show aggregate progress summary for 4+ languages
+        const summary = document.createElement('div');
+        summary.className = 'profile-progress-summary';
+        summary.innerHTML = `
+          <div class="progress-indicator" style="--progress: ${aggregatePercentage}"></div>
+          <span class="progress-text">${aggregatePercentage}% Complete</span>
+        `;
+        summary.title = `${completedWords} of ${totalWords} words completed`;
+        ringsContainer.appendChild(summary);
+      }
+
+      // Update streak badge
+      const streakBadge = btn.querySelector('.profile-streak');
+      if (streakBadge && stats.currentStreak > 0) {
+        streakBadge.innerHTML = `🔥 ${stats.currentStreak} days`;
+        streakBadge.classList.add('active');
+      } else if (streakBadge) {
+        streakBadge.classList.remove('active');
+      }
+    });
+  }
+
   showPinModal(profileKey, mode = 'verify') {
     this.currentPinProfile = profileKey;
     this.pinMode = mode;
@@ -1047,6 +1186,191 @@ class LingXMApp {
       setTimeout(() => {
         this.showPinModal(this.profileKey, 'create');
       }, 300);
+    }
+  }
+
+  // ============================================
+  // Mastery System
+  // ============================================
+
+  async updateMasteryDisplay() {
+    if (!this.progressTracker || !this.currentProfile) return;
+
+    const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+    const masteryData = await this.progressTracker.getWordMastery(lang.code, this.currentWordIndex);
+
+    if (!masteryData) return;
+
+    const level = masteryData.level;
+    const indicator = document.getElementById('mastery-indicator');
+    const stars = document.querySelectorAll('.mastery-stars .star');
+    const label = document.getElementById('mastery-label');
+
+    // Update stars
+    stars.forEach((star, index) => {
+      if (index < level) {
+        star.classList.add('filled');
+      } else {
+        star.classList.remove('filled');
+      }
+    });
+
+    // Update label and level class
+    indicator.className = `mastery-indicator level-${level}`;
+    const labels = ['New', 'Seen', 'Learning', 'Familiar', 'Strong', 'Mastered'];
+    label.textContent = labels[level] || 'New';
+  }
+
+  async incrementMastery() {
+    if (!this.progressTracker || !this.currentProfile) return;
+
+    const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+    const result = await this.progressTracker.incrementWordReview(lang.code, this.currentWordIndex);
+
+    if (result && result.leveledUp) {
+      this.showMasteryLevelUp(result.newLevel);
+    }
+  }
+
+  showMasteryLevelUp(newLevel) {
+    const labels = ['New', 'Seen', 'Learning', 'Familiar', 'Strong', 'Mastered'];
+    const emojis = ['🌱', '👀', '📚', '✨', '💪', '🏆'];
+
+    const popup = document.createElement('div');
+    popup.className = 'achievement-popup show';
+    popup.innerHTML = `
+      <div class="achievement-content">
+        <div class="achievement-icon">${emojis[newLevel] || '⭐'}</div>
+        <h2>Level Up!</h2>
+        <p>${labels[newLevel] || 'Progress'}  Level</p>
+        <p class="achievement-contact">Keep practicing to master this word!</p>
+        <button class="achievement-btn" onclick="this.closest('.achievement-popup').remove()">
+          Continue
+        </button>
+      </div>
+    `;
+    document.body.appendChild(popup);
+
+    // Auto-remove after 4 seconds
+    setTimeout(() => {
+      popup.remove();
+    }, 4000);
+  }
+
+  // ============================================
+  // Achievement System
+  // ============================================
+
+  toggleAchievements() {
+    const modal = document.getElementById('achievements-modal');
+    const isActive = modal.classList.contains('active');
+
+    if (isActive) {
+      modal.classList.remove('active');
+    } else {
+      modal.classList.add('active');
+      this.populateAchievements();
+    }
+  }
+
+  populateAchievements() {
+    if (!this.achievementManager) return;
+
+    const stats = this.progressTracker.getStats();
+
+    // Update progress to next badge
+    const progress = this.achievementManager.getProgress(stats);
+    if (progress) {
+      document.querySelector('.next-badge-icon').textContent = progress.nextBadge.icon;
+      document.querySelector('.next-badge-name').textContent = progress.nextBadge.name;
+      document.querySelector('.progress-bar-fill').style.width = `${progress.percentage}%`;
+      document.querySelector('.progress-bar-text').textContent = `${progress.current} / ${progress.target}`;
+    }
+
+    // Populate word badges
+    const wordBadgesGrid = document.getElementById('word-badges-grid');
+    wordBadgesGrid.innerHTML = '';
+    const wordBadges = this.achievementManager.getByCategory('words');
+    wordBadges.forEach(badge => {
+      const isEarned = this.achievementManager.data.earned.includes(badge.id);
+      const badgeEl = this.createBadgeElement(badge, isEarned);
+      wordBadgesGrid.appendChild(badgeEl);
+    });
+
+    // Populate streak badges
+    const streakBadgesGrid = document.getElementById('streak-badges-grid');
+    streakBadgesGrid.innerHTML = '';
+    const streakBadges = this.achievementManager.getByCategory('streaks');
+    streakBadges.forEach(badge => {
+      const isEarned = this.achievementManager.data.earned.includes(badge.id);
+      const badgeEl = this.createBadgeElement(badge, isEarned);
+      streakBadgesGrid.appendChild(badgeEl);
+    });
+
+    // Mark all unread as seen
+    this.achievementManager.getUnread().forEach(id => {
+      this.achievementManager.markAsSeen(id);
+    });
+    this.updateAchievementBadge();
+  }
+
+  createBadgeElement(badge, isEarned) {
+    const div = document.createElement('div');
+    div.className = `badge-item ${isEarned ? 'earned' : 'locked'}`;
+    div.innerHTML = `
+      <span class="badge-icon">${badge.icon}</span>
+      <p class="badge-name">${badge.name}</p>
+      <p class="badge-description">${badge.description}</p>
+    `;
+    return div;
+  }
+
+  checkNewAchievements() {
+    if (!this.achievementManager || !this.progressTracker) return;
+
+    const stats = this.progressTracker.getStats();
+    const newAchievements = this.achievementManager.checkAchievements(stats);
+
+    if (newAchievements.length > 0) {
+      // Show celebration for the first new achievement
+      this.showAchievementCelebration(newAchievements[0]);
+      this.updateAchievementBadge();
+    }
+  }
+
+  showAchievementCelebration(achievement) {
+    const popup = document.createElement('div');
+    popup.className = 'achievement-popup show';
+    popup.innerHTML = `
+      <div class="achievement-content">
+        <div class="achievement-icon">${achievement.icon}</div>
+        <h2>Achievement Unlocked!</h2>
+        <p>${achievement.name}</p>
+        <p class="achievement-contact">${achievement.description}</p>
+        <button class="achievement-btn" onclick="this.closest('.achievement-popup').remove()">
+          Awesome!
+        </button>
+      </div>
+    `;
+    document.body.appendChild(popup);
+
+    // Auto-remove after 5 seconds
+    setTimeout(() => {
+      popup.remove();
+    }, 5000);
+  }
+
+  updateAchievementBadge() {
+    if (!this.achievementManager) return;
+
+    const unreadCount = this.achievementManager.getUnread().length;
+    const badge = document.getElementById('achievement-badge');
+
+    if (unreadCount > 0) {
+      badge.textContent = unreadCount;
+      badge.style.display = 'flex';
+    } else {
+      badge.style.display = 'none';
     }
   }
 }
