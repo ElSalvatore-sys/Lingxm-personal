@@ -262,6 +262,44 @@ export class DatabaseManager {
     return [];
   }
 
+  /**
+   * Update mastery level for a word
+   */
+  updateMasteryLevel(userId, language, word, masteryLevel) {
+    if (!this.db) throw new Error('Database not initialized');
+
+    this.db.run(`
+      UPDATE progress
+      SET mastery_level = ?, review_count = review_count + 1, last_reviewed = ?
+      WHERE user_id = ? AND language = ? AND word = ?
+    `, [masteryLevel, new Date().toISOString(), userId, language, word]);
+  }
+
+  /**
+   * Get word mastery data (review count, dates, mastery level)
+   */
+  getWordMasteryData(userId, language, word) {
+    if (!this.db) throw new Error('Database not initialized');
+
+    const result = this.db.exec(`
+      SELECT review_count, learned_at, last_reviewed, mastery_level
+      FROM progress
+      WHERE user_id = ? AND language = ? AND word = ?
+    `, [userId, language, word]);
+
+    if (result.length > 0 && result[0].values.length > 0) {
+      const row = result[0].values[0];
+      return {
+        review_count: row[0],
+        learned_at: row[1],
+        last_reviewed: row[2],
+        mastery_level: row[3]
+      };
+    }
+
+    return null;
+  }
+
   // ============================================================================
   // SAVED WORDS METHODS
   // ============================================================================

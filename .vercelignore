@@ -1,0 +1,37 @@
+# Vercel Ignore File
+# Files and directories to exclude from deployment
+
+# Dependencies
+node_modules
+
+# Source files (only dist is needed)
+src
+
+# Development files
+.git
+.gitignore
+.vscode
+.idea
+
+# Scripts (not needed in production)
+scripts
+
+# Documentation
+README.md
+DEPLOYMENT.md
+
+# Backups
+*.backup
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

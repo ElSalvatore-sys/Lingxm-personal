@@ -323,12 +323,77 @@ export class ProgressTracker {
     };
   }
 
+  // Calculate mastery level based on review count
+  calculateMasteryLevel(reviewCount) {
+    if (reviewCount === 0) return 0;
+    if (reviewCount <= 2) return 1;
+    if (reviewCount <= 5) return 2;
+    if (reviewCount <= 10) return 3;
+    if (reviewCount <= 20) return 4;
+    return 5; // Mastered
+  }
+
+  // Get word mastery data (level, review count, last reviewed)
+  async getWordMastery(languageCode, wordIndex) {
+    const wordKey = `${languageCode}-${wordIndex}`;
+
+    if (this.useDatabase && this.userId) {
+      try {
+        const data = dbManager.getWordMasteryData(this.userId, languageCode, `word_${wordKey}`);
+        if (data) {
+          const mastery = this.calculateMasteryLevel(data.review_count || 0);
+          return {
+            level: mastery,
+            reviewCount: data.review_count || 0,
+            lastReviewed: data.last_reviewed
+          };
+        }
+      } catch (error) {
+        console.error('[Progress] Failed to get mastery:', error);
+      }
+    }
+
+    // Fallback: Check if word is completed in localStorage
+    const completed = this.data.languageProgress[languageCode]?.completedWords?.has(wordKey);
+    return {
+      level: completed ? 1 : 0,
+      reviewCount: completed ? 1 : 0,
+      lastReviewed: null
+    };
+  }
+
+  // Increment word review count and update mastery level
+  async incrementWordReview(languageCode, wordIndex) {
+    const wordKey = `${languageCode}-${wordIndex}`;
+
+    if (this.useDatabase && this.userId) {
+      try {
+        const data = dbManager.getWordMasteryData(this.userId, languageCode, `word_${wordKey}`);
+        const currentReviewCount = (data?.review_count || 0);
+        const newReviewCount = currentReviewCount + 1;
+        const newMastery = this.calculateMasteryLevel(newReviewCount);
+        const oldMastery = this.calculateMasteryLevel(currentReviewCount);
+
+        dbManager.updateMasteryLevel(this.userId, languageCode, `word_${wordKey}`, newMastery);
+
+        return {
+          newLevel: newMastery,
+          oldLevel: oldMastery,
+          leveledUp: newMastery > oldMastery
+        };
+      } catch (error) {
+        console.error('[Progress] Failed to increment review:', error);
+      }
+    }
+    return null;
+  }
+
   // Convert Set to Array for JSON serialization
   toJSON() {
     const data = { ...this.data };
     Object.keys(data.languageProgress).forEach(lang => {
       if (data.languageProgress[lang].completedWords instanceof Set) {
-        data.languageProgress[lang].completedWords = 
+        data.languageProgress[lang].completedWords =
           Array.from(data.languageProgress[lang].completedWords);
       }
     });

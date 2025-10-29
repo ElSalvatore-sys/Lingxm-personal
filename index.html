@@ -7,10 +7,108 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>LingXM Personal - Daily Words</title>
+
+    <!-- PWA Configuration -->
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" type="image/svg+xml" href="/logo.svg">
+    <meta name="theme-color" content="#667eea">
+
+    <!-- iOS-specific meta tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="LingXM">
+    <link rel="apple-touch-icon" href="/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/icons/icon-192x192.png">
+
+    <!-- Service Worker Registration -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/service-worker.js')
+            .then(reg => console.log('[PWA] Service Worker registered:', reg.scope))
+            .catch(err => console.error('[PWA] Service Worker registration failed:', err));
+        });
+      }
+    </script>
+
     <link rel="stylesheet" href="/src/styles/main.css">
 </head>
 <body>
     <div id="app">
+        <!-- Welcome Screen (First-Time Only) -->
+        <div id="welcome-screen" class="screen">
+            <div class="welcome-container">
+                <div class="welcome-slides">
+                    <!-- Slide 1: Welcome -->
+                    <div class="welcome-slide active" data-slide="0">
+                        <div class="welcome-content">
+                            <div class="welcome-icon">🎓</div>
+                            <h1 class="welcome-title">Welcome to LingXM</h1>
+                            <p class="welcome-subtitle">Your personal language learning companion</p>
+                            <p class="welcome-description">
+                                Learn at your own pace with smart vocabulary tracking,
+                                achievement badges, and personalized progress insights.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Slide 2: How to Use -->
+                    <div class="welcome-slide" data-slide="1">
+                        <div class="welcome-content">
+                            <div class="welcome-icon">👆</div>
+                            <h1 class="welcome-title">How to Use</h1>
+                            <ul class="welcome-features">
+                                <li><strong>Swipe left/right</strong> to navigate between words</li>
+                                <li><strong>Tap 🔊</strong> to hear pronunciation</li>
+                                <li><strong>Save words</strong> with ⭐ for later review</li>
+                                <li><strong>Track progress</strong> with 🏆 achievements</li>
+                                <li><strong>Practice daily</strong> to build your streak 🔥</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Slide 3: Security -->
+                    <div class="welcome-slide" data-slide="2">
+                        <div class="welcome-content">
+                            <div class="welcome-icon">🔐</div>
+                            <h1 class="welcome-title">Secure Your Profile</h1>
+                            <p class="welcome-description">
+                                Set a 4-digit PIN to protect your learning progress
+                                and keep your data private.
+                            </p>
+                            <p class="welcome-description" style="opacity: 0.7; font-size: 0.9rem;">
+                                You can skip this and add it later in settings.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Navigation -->
+                <div class="welcome-nav">
+                    <button id="welcome-back-btn" class="welcome-btn welcome-btn-secondary" style="display: none;">
+                        ← Back
+                    </button>
+                    <button id="welcome-next-btn" class="welcome-btn welcome-btn-primary">
+                        Next →
+                    </button>
+                    <button id="welcome-get-started-btn" class="welcome-btn welcome-btn-primary" style="display: none;">
+                        Get Started!
+                    </button>
+                </div>
+
+                <!-- Indicators -->
+                <div class="welcome-indicators">
+                    <div class="welcome-dot active" data-slide="0"></div>
+                    <div class="welcome-dot" data-slide="1"></div>
+                    <div class="welcome-dot" data-slide="2"></div>
+                </div>
+
+                <!-- Skip -->
+                <button id="welcome-skip-btn" class="welcome-skip">Skip →</button>
+            </div>
+        </div>
+
         <!-- Profile Selection Screen -->
         <div id="profile-selection" class="screen active">
             <div class="profile-container">
@@ -189,6 +287,37 @@
                 </div>
             </div>
 
+            <!-- Swipe Tutorial Overlay (First-Time Per Profile) -->
+            <div id="swipe-tutorial" class="swipe-tutorial">
+                <div class="swipe-tutorial-content">
+                    <div class="swipe-tutorial-header">
+                        <h2>👆 Quick Tutorial</h2>
+                    </div>
+
+                    <div class="swipe-tutorial-body">
+                        <div class="swipe-gesture-demo">
+                            <div class="swipe-arrow swipe-left">
+                                <span class="arrow-icon">👈</span>
+                                <span class="arrow-label">Swipe left<br>for next word</span>
+                            </div>
+                            <div class="swipe-arrow swipe-right">
+                                <span class="arrow-icon">👉</span>
+                                <span class="arrow-label">Swipe right<br>for previous</span>
+                            </div>
+                        </div>
+
+                        <div class="swipe-tutorial-tips">
+                            <p><strong>Tip:</strong> Tap 🔊 to hear pronunciation</p>
+                            <p><strong>Tip:</strong> Save words with ⭐ for later</p>
+                        </div>
+                    </div>
+
+                    <button id="swipe-tutorial-dismiss" class="swipe-tutorial-btn">
+                        Got it!
+                    </button>
+                </div>
+            </div>
+
             <!-- Achievements Modal -->
             <div id="achievements-modal" class="achievements-modal">
                 <div class="achievements-content">
@@ -287,6 +416,91 @@
                 <div class="pin-setup-actions">
                     <button id="pin-setup-skip-btn" class="pin-btn-secondary">Skip for Now</button>
                     <button id="pin-setup-create-btn" class="pin-btn-primary">Create PIN</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Analytics Stats Modal (Admin View) -->
+        <div id="analytics-modal" class="analytics-modal">
+            <div class="analytics-content">
+                <div class="analytics-header">
+                    <h2>📊 Usage Statistics</h2>
+                    <button id="close-analytics" class="icon-btn">✕</button>
+                </div>
+
+                <div class="analytics-body">
+                    <!-- Summary Stats -->
+                    <div class="analytics-section">
+                        <h3>Summary</h3>
+                        <div class="analytics-stats-grid">
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-total-sessions">0</span>
+                                <span class="stat-label">Total Sessions</span>
+                            </div>
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-total-words">0</span>
+                                <span class="stat-label">Total Words</span>
+                            </div>
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-avg-session">0 min</span>
+                                <span class="stat-label">Avg Session</span>
+                            </div>
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-total-events">0</span>
+                                <span class="stat-label">Total Events</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Profile Usage -->
+                    <div class="analytics-section">
+                        <h3>Most Used Profiles</h3>
+                        <div id="analytics-profiles" class="analytics-list">
+                            <!-- Will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <!-- Features -->
+                    <div class="analytics-section">
+                        <h3>Feature Usage</h3>
+                        <div class="analytics-stats-grid">
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-achievements">0</span>
+                                <span class="stat-label">Achievements</span>
+                            </div>
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-saved-words">0</span>
+                                <span class="stat-label">Saved Words</span>
+                            </div>
+                            <div class="analytics-stat">
+                                <span class="stat-value" id="stat-avg-streak">0</span>
+                                <span class="stat-label">Avg Streak</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Recent Activity -->
+                    <div class="analytics-section">
+                        <h3>Recent Sessions</h3>
+                        <div id="analytics-recent" class="analytics-recent-list">
+                            <!-- Will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <!-- Actions -->
+                    <div class="analytics-actions">
+                        <button id="analytics-export-btn" class="analytics-btn analytics-btn-secondary">
+                            Export Data
+                        </button>
+                        <button id="analytics-clear-btn" class="analytics-btn analytics-btn-danger">
+                            Clear All Data
+                        </button>
+                    </div>
+
+                    <!-- Privacy Notice -->
+                    <div class="analytics-privacy-notice">
+                        <p>🔒 All data is stored locally on your device. No external tracking.</p>
+                    </div>
                 </div>
             </div>
         </div>
