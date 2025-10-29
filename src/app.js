@@ -29,19 +29,14 @@ class LingXMApp {
     this.setupEventListeners();
 
     // Check for first-time visit - show welcome screen
-    // DISABLED: Welcome screen popup removed
-    // const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
-    // if (!welcomeShown) {
-    //   this.showScreen('welcome-screen');
-    //   this.analyticsManager.trackEvent('app_opened', { firstTime: true });
-    // } else {
-    //   this.showScreen('profile-selection');
-    //   this.analyticsManager.trackEvent('app_opened', { firstTime: false });
-    // }
-
-    // Always go directly to profile selection
-    this.showScreen('profile-selection');
-    this.analyticsManager.trackEvent('app_opened', { firstTime: false });
+    const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
+    if (!welcomeShown) {
+      this.showScreen('welcome-screen');
+      this.analyticsManager.trackEvent('app_opened', { firstTime: true });
+    } else {
+      this.showScreen('profile-selection');
+      this.analyticsManager.trackEvent('app_opened', { firstTime: false });
+    }
   }
 
   setupEventListeners() {
@@ -388,11 +383,10 @@ class LingXMApp {
     this.showProgressBar();
 
     // Show swipe tutorial on first visit
-    // DISABLED: Swipe tutorial popup removed
-    // this.showSwipeTutorial(profileKey);
+    this.showSwipeTutorial(profileKey);
 
     // Check for new achievements and update badge
-    // DISABLED: Achievement celebration popup removed
+    // DISABLED: Achievement celebration popup removed (too frequent)
     // this.checkNewAchievements();
     this.updateAchievementBadge();
   }
