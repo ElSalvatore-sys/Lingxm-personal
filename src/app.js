@@ -1357,9 +1357,9 @@ class LingXMApp {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const result = await this.progressTracker.incrementWordReview(lang.code, this.currentWordIndex);
 
-    // Only show popup for meaningful milestones (level 2+)
-    // Skip New → Seen (0→1) transition to avoid annoying frequent popups
-    if (result && result.leveledUp && result.newLevel >= 2) {
+    // Only show popup for MASTERED words (level 5 = 20+ reviews)
+    // All other level-ups are silent (only star animations shown)
+    if (result && result.leveledUp && result.newLevel === 5) {
       this.showMasteryLevelUp(result.newLevel);
     }
   }
