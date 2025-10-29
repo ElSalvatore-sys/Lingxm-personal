@@ -375,19 +375,32 @@ class LingXMApp {
   }
 
   async loadWordData() {
-    // For now, we'll use placeholder data
-    // In next steps, we'll generate real data
+    console.log('[VOCAB] Starting vocabulary load for profile:', this.profileKey);
     this.wordData = {};
 
     for (const lang of this.currentProfile.learningLanguages) {
+      const path = `/data/${this.profileKey}/${lang.code}.json`;
+      console.log(`[VOCAB] Fetching: ${path}`);
+
       try {
-        const response = await fetch(`/data/${this.profileKey}/${lang.code}.json`);
+        const response = await fetch(path);
+        console.log(`[VOCAB] Response status: ${response.status} for ${path}`);
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+
         this.wordData[lang.code] = await response.json();
+        console.log(`[VOCAB] ✓ Loaded ${this.wordData[lang.code].length} words for ${lang.code}`);
+
       } catch (error) {
-        console.log(`Creating placeholder for ${lang.code}`);
+        console.error(`[VOCAB] ✗ FAILED to load ${path}:`, error);
+        console.log(`[VOCAB] Using placeholder data for ${lang.code}`);
         this.wordData[lang.code] = this.createPlaceholderData(lang);
       }
     }
+
+    console.log('[VOCAB] Total languages loaded:', Object.keys(this.wordData));
   }
 
   createPlaceholderData(lang) {

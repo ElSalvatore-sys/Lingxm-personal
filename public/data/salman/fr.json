@@ -1,0 +1,4487 @@
+[
+  {
+    "word": "la cuisine",
+    "translations": {
+      "ar": "المطبخ، فن الطبخ",
+      "de": "Küche, Kochkunst"
+    },
+    "explanation": {
+      "ar": "المطبخ أو فن الطهي. الكلمة تعني المكان والفن معاً في الفرنسية.",
+      "de": "Küche oder Kochkunst. Das Wort bedeutet im Französischen beides - den Raum und die Kunst."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La cuisine française est célèbre dans le monde entier.",
+        "المطبخ الفرنسي مشهور في جميع أنحاء العالم."
+      ],
+      "de": [
+        "J'aime la cuisine française.",
+        "Ich liebe die französische Küche."
+      ]
+    }
+  },
+  {
+    "word": "le chef",
+    "translations": {
+      "ar": "الشيف، رئيس الطهاة",
+      "de": "Küchenchef, Chefkoch"
+    },
+    "explanation": {
+      "ar": "رئيس المطبخ المسؤول عن جميع جوانب الطهي والفريق. المنصب الأعلى في المطبخ الفرنسي.",
+      "de": "Leiter der Küche, verantwortlich für alle Aspekte des Kochens und des Teams. Die höchste Position in der französischen Küchenbrigade."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le chef dirige toute l'équipe de cuisine.",
+        "الشيف يدير فريق المطبخ بأكمله."
+      ],
+      "de": [
+        "Le chef crée le nouveau menu.",
+        "Der Küchenchef erstellt die neue Speisekarte."
+      ]
+    }
+  },
+  {
+    "word": "le sous-chef",
+    "translations": {
+      "ar": "نائب الشيف",
+      "de": "stellvertretender Küchenchef"
+    },
+    "explanation": {
+      "ar": "النائب الثاني للشيف الرئيسي. يساعد في إدارة المطبخ ويحل محل الشيف في غيابه.",
+      "de": "Der zweite in der Küchenleitung. Unterstützt den Chef und vertritt ihn bei Abwesenheit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le sous-chef supervise la préparation des plats.",
+        "نائب الشيف يشرف على إعداد الأطباق."
+      ],
+      "de": [
+        "Le sous-chef remplace le chef aujourd'hui.",
+        "Der Sous-Chef vertritt heute den Küchenchef."
+      ]
+    }
+  },
+  {
+    "word": "le commis",
+    "translations": {
+      "ar": "مساعد طباخ، متدرب",
+      "de": "Jungkoch, Kochgehilfe"
+    },
+    "explanation": {
+      "ar": "مساعد في المطبخ، عادة في بداية مسيرته المهنية. يتعلم من الطهاة الأكثر خبرة.",
+      "de": "Hilfskoch in der Küche, meist am Anfang der Karriere. Lernt von erfahreneren Köchen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le commis prépare les légumes.",
+        "مساعد الطباخ يحضر الخضروات."
+      ],
+      "de": [
+        "Le commis apprend les techniques de base.",
+        "Der Jungkoch lernt die Grundtechniken."
+      ]
+    }
+  },
+  {
+    "word": "le pâtissier",
+    "translations": {
+      "ar": "صانع الحلويات، طباخ المعجنات",
+      "de": "Konditor, Patissier"
+    },
+    "explanation": {
+      "ar": "الطباخ المتخصص في صنع الحلويات والمعجنات والخبز. منصب متخصص في المطبخ الفرنسي.",
+      "de": "Spezialisierter Koch für Desserts, Gebäck und Backwaren. Eine spezialisierte Position in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le pâtissier prépare les desserts.",
+        "صانع الحلويات يحضر الحلويات."
+      ],
+      "de": [
+        "Le pâtissier fait des gâteaux délicieux.",
+        "Der Konditor macht köstliche Kuchen."
+      ]
+    }
+  },
+  {
+    "word": "le sommelier",
+    "translations": {
+      "ar": "خبير النبيذ",
+      "de": "Weinspezialist, Sommelier"
+    },
+    "explanation": {
+      "ar": "الخبير المسؤول عن اختيار وتقديم النبيذ في المطعم. يساعد الضيوف في اختيار النبيذ المناسب.",
+      "de": "Weinexperte, der für die Auswahl und den Service von Wein verantwortlich ist. Berät Gäste bei der Weinauswahl."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le sommelier recommande un vin rouge.",
+        "خبير النبيذ يوصي بنبيذ أحمر."
+      ],
+      "de": [
+        "Le sommelier connaît tous les vins de la carte.",
+        "Der Sommelier kennt alle Weine auf der Karte."
+      ]
+    }
+  },
+  {
+    "word": "la carte",
+    "translations": {
+      "ar": "قائمة الطعام",
+      "de": "Speisekarte"
+    },
+    "explanation": {
+      "ar": "قائمة الأطباق والمشروبات المتوفرة في المطعم. يمكن للضيوف الاختيار منها.",
+      "de": "Liste der verfügbaren Speisen und Getränke im Restaurant. Gäste wählen daraus."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Puis-je voir la carte, s'il vous plaît?",
+        "هل يمكنني رؤية قائمة الطعام من فضلك؟"
+      ],
+      "de": [
+        "La carte change chaque saison.",
+        "Die Speisekarte ändert sich jede Saison."
+      ]
+    }
+  },
+  {
+    "word": "le menu",
+    "translations": {
+      "ar": "القائمة الثابتة، منيو اليوم",
+      "de": "Menü, Tagesmenü"
+    },
+    "explanation": {
+      "ar": "مجموعة من الأطباق بسعر ثابت، عادة تتضمن مقبلات وطبق رئيسي وحلوى.",
+      "de": "Eine Reihe von Gerichten zu einem festen Preis, meist mit Vorspeise, Hauptgang und Dessert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le menu du jour coûte 25 euros.",
+        "منيو اليوم يكلف 25 يورو."
+      ],
+      "de": [
+        "Je prends le menu à trois plats.",
+        "Ich nehme das Drei-Gänge-Menü."
+      ]
+    }
+  },
+  {
+    "word": "l'entrée",
+    "translations": {
+      "ar": "المقبلات",
+      "de": "Vorspeise"
+    },
+    "explanation": {
+      "ar": "الطبق الأول في الوجبة. يقدم قبل الطبق الرئيسي.",
+      "de": "Der erste Gang einer Mahlzeit. Wird vor dem Hauptgang serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Comme entrée, je prends une salade.",
+        "كمقبلات، سآخذ سلطة."
+      ],
+      "de": [
+        "L'entrée est délicieuse.",
+        "Die Vorspeise ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "le plat principal",
+    "translations": {
+      "ar": "الطبق الرئيسي",
+      "de": "Hauptgericht, Hauptgang"
+    },
+    "explanation": {
+      "ar": "الطبق الأساسي في الوجبة، عادة يحتوي على اللحم أو السمك مع الخضار.",
+      "de": "Das Hauptgericht einer Mahlzeit, meist mit Fleisch oder Fisch und Beilagen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le plat principal est du bœuf bourguignon.",
+        "الطبق الرئيسي هو بوف بورغينيون."
+      ],
+      "de": [
+        "Quel est le plat principal aujourd'hui?",
+        "Was ist heute das Hauptgericht?"
+      ]
+    }
+  },
+  {
+    "word": "le dessert",
+    "translations": {
+      "ar": "الحلوى",
+      "de": "Nachtisch, Dessert"
+    },
+    "explanation": {
+      "ar": "الطبق الأخير في الوجبة، عادة حلو. جزء مهم من الوجبة الفرنسية.",
+      "de": "Der letzte Gang einer Mahlzeit, meist süß. Wichtiger Teil des französischen Menüs."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le dessert est une tarte aux pommes.",
+        "الحلوى هي تارت التفاح."
+      ],
+      "de": [
+        "Voulez-vous un dessert?",
+        "Möchten Sie einen Nachtisch?"
+      ]
+    }
+  },
+  {
+    "word": "la crème brûlée",
+    "translations": {
+      "ar": "كريم بروليه",
+      "de": "Crème brûlée (karamellisierter Pudding)"
+    },
+    "explanation": {
+      "ar": "حلوى فرنسية كلاسيكية من الكريمة والبيض مع طبقة سكر محروقة على السطح.",
+      "de": "Klassisches französisches Dessert aus Sahne und Eiern mit karamellisierter Zuckerschicht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La crème brûlée est notre spécialité.",
+        "كريم بروليه هو تخصصنا."
+      ],
+      "de": [
+        "J'adore la crème brûlée.",
+        "Ich liebe Crème brûlée."
+      ]
+    }
+  },
+  {
+    "word": "la tarte tatin",
+    "translations": {
+      "ar": "تارت تاتان",
+      "de": "Tarte Tatin (gestürzter Apfelkuchen)"
+    },
+    "explanation": {
+      "ar": "تارت التفاح الفرنسي المقلوب، يطهى رأساً على عقب مع الكراميل.",
+      "de": "Umgekehrter französischer Apfelkuchen, verkehrt herum mit Karamell gebacken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La tarte tatin se sert chaude.",
+        "تقدم تارت تاتان ساخنة."
+      ],
+      "de": [
+        "La tarte tatin est délicieuse avec de la crème.",
+        "Tarte Tatin ist köstlich mit Sahne."
+      ]
+    }
+  },
+  {
+    "word": "les macarons",
+    "translations": {
+      "ar": "الماكارون",
+      "de": "Macarons (französisches Baisergebäck)"
+    },
+    "explanation": {
+      "ar": "حلوى فرنسية ملونة من اللوز والسكر، عادة مع حشوة كريمة في الوسط.",
+      "de": "Buntes französisches Mandelgebäck mit Cremefüllung in der Mitte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les macarons sont une spécialité parisienne.",
+        "الماكارون تخصص باريسي."
+      ],
+      "de": [
+        "J'achète des macarons pour le dessert.",
+        "Ich kaufe Macarons zum Nachtisch."
+      ]
+    }
+  },
+  {
+    "word": "l'éclair",
+    "translations": {
+      "ar": "الإكلير",
+      "de": "Eclair (Liebesknochen)"
+    },
+    "explanation": {
+      "ar": "معجنات فرنسية طويلة من عجينة الشو محشوة بالكريمة ومغطاة بالشوكولاتة.",
+      "de": "Längliches französisches Gebäck aus Brandteig mit Cremefüllung und Schokoladenglasur."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un éclair au chocolat, s'il vous plaît.",
+        "إكلير بالشوكولاتة من فضلك."
+      ],
+      "de": [
+        "Les éclairs sont frais du jour.",
+        "Die Eclairs sind frisch vom Tag."
+      ]
+    }
+  },
+  {
+    "word": "le millefeuille",
+    "translations": {
+      "ar": "ميلفيي، ألف ورقة",
+      "de": "Millefeuille, Blätterteiggebäck"
+    },
+    "explanation": {
+      "ar": "حلوى من طبقات عجين الباف باستري مع كريمة الباتيسيير. الاسم يعني 'ألف ورقة'.",
+      "de": "Dessert aus Blätterteigschichten mit Konditorcreme. Der Name bedeutet 'tausend Blätter'."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le millefeuille est très crémeux.",
+        "الميلفيي كريمي جداً."
+      ],
+      "de": [
+        "Un millefeuille à la vanille.",
+        "Ein Millefeuille mit Vanille."
+      ]
+    }
+  },
+  {
+    "word": "le soufflé",
+    "translations": {
+      "ar": "السوفليه",
+      "de": "Soufflé (Auflauf)"
+    },
+    "explanation": {
+      "ar": "طبق فرنسي خفيف ومنفوخ، يمكن أن يكون حلواً أو مالحاً. يحتاج إلى مهارة في التحضير.",
+      "de": "Leichtes, luftiges französisches Gericht, kann süß oder herzhaft sein. Erfordert Geschick in der Zubereitung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le soufflé au fromage est prêt.",
+        "سوفليه الجبن جاهز."
+      ],
+      "de": [
+        "Le soufflé au chocolat est notre spécialité.",
+        "Das Schokoladensoufflé ist unsere Spezialität."
+      ]
+    }
+  },
+  {
+    "word": "la béchamel",
+    "translations": {
+      "ar": "البشاميل",
+      "de": "Béchamelsauce (weiße Sauce)"
+    },
+    "explanation": {
+      "ar": "صلصة بيضاء أساسية في المطبخ الفرنسي من الزبدة والدقيق والحليب. واحدة من الصلصات الأم الخمس.",
+      "de": "Grundlegende weiße Sauce der französischen Küche aus Butter, Mehl und Milch. Eine der fünf Grundsaucen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je prépare une béchamel pour les lasagnes.",
+        "أحضر بشاميل للازانيا."
+      ],
+      "de": [
+        "La béchamel doit être bien lisse.",
+        "Die Béchamel muss schön glatt sein."
+      ]
+    }
+  },
+  {
+    "word": "la hollandaise",
+    "translations": {
+      "ar": "الهولنديز",
+      "de": "Sauce Hollandaise (Holländische Sauce)"
+    },
+    "explanation": {
+      "ar": "صلصة فرنسية غنية من صفار البيض والزبدة والليمون. تقدم مع الأسماك والخضروات.",
+      "de": "Reichhaltige französische Sauce aus Eigelb, Butter und Zitrone. Wird zu Fisch und Gemüse serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les asperges avec sauce hollandaise.",
+        "الهليون مع صلصة هولنديز."
+      ],
+      "de": [
+        "La hollandaise accompagne parfaitement le saumon.",
+        "Die Hollandaise passt perfekt zu Lachs."
+      ]
+    }
+  },
+  {
+    "word": "la vinaigrette",
+    "translations": {
+      "ar": "الفينيغريت، صلصة الخل",
+      "de": "Vinaigrette (Salatdressing)"
+    },
+    "explanation": {
+      "ar": "صلصة سلطة فرنسية بسيطة من الخل والزيت والخردل. أساسية للسلطات الفرنسية.",
+      "de": "Einfaches französisches Salatdressing aus Essig, Öl und Senf. Grundlegend für französische Salate."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je fais une vinaigrette maison.",
+        "أحضر فينيغريت منزلية."
+      ],
+      "de": [
+        "La vinaigrette à la moutarde est délicieuse.",
+        "Das Senf-Dressing ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "le roux",
+    "translations": {
+      "ar": "الرو (خليط الزبدة والدقيق)",
+      "de": "Roux (Mehlschwitze)"
+    },
+    "explanation": {
+      "ar": "خليط من الزبدة والدقيق المطبوخ معاً، يستخدم لتكثيف الصلصات. أساس العديد من الصلصات الفرنسية.",
+      "de": "Mischung aus Butter und Mehl, die zusammen gekocht wird. Basis für viele französische Saucen zum Andicken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je commence par faire un roux.",
+        "أبدأ بصنع رو."
+      ],
+      "de": [
+        "Le roux doit cuire doucement.",
+        "Die Mehlschwitze muss langsam kochen."
+      ]
+    }
+  },
+  {
+    "word": "le foie gras",
+    "translations": {
+      "ar": "كبد الإوز",
+      "de": "Gänsestopfleber"
+    },
+    "explanation": {
+      "ar": "كبد إوز أو بط مسمن، يعتبر من الأطعمة الفاخرة في المطبخ الفرنسي. يقدم كمقبلات راقية.",
+      "de": "Fettleber von Gans oder Ente, gilt als Delikatesse in der französischen Küche. Wird als edle Vorspeise serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le foie gras est servi avec du pain grillé.",
+        "يقدم كبد الإوز مع الخبز المحمص."
+      ],
+      "de": [
+        "Le foie gras est une spécialité de Noël.",
+        "Foie gras ist eine Weihnachtsspezialität."
+      ]
+    }
+  },
+  {
+    "word": "les escargots",
+    "translations": {
+      "ar": "الحلزون",
+      "de": "Schnecken"
+    },
+    "explanation": {
+      "ar": "حلزون مطبوخ بالزبدة والثوم والبقدونس. طبق فرنسي تقليدي شهير.",
+      "de": "Mit Butter, Knoblauch und Petersilie zubereitete Schnecken. Berühmtes traditionelles französisches Gericht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les escargots sont servis dans leur coquille.",
+        "يقدم الحلزون في قوقعته."
+      ],
+      "de": [
+        "J'aime les escargots à l'ail.",
+        "Ich mag Schnecken mit Knoblauch."
+      ]
+    }
+  },
+  {
+    "word": "la blanquette",
+    "translations": {
+      "ar": "بلانكيت (يخنة بيضاء)",
+      "de": "Blanquette (helles Ragout)"
+    },
+    "explanation": {
+      "ar": "يخنة فرنسية بيضاء تقليدية، عادة من لحم العجل مع صلصة كريمية بيضاء.",
+      "de": "Traditionelles französisches helles Ragout, meist aus Kalbfleisch mit weißer Sahnesauce."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La blanquette de veau est un plat classique.",
+        "بلانكيت العجل طبق كلاسيكي."
+      ],
+      "de": [
+        "Je prépare une blanquette pour dimanche.",
+        "Ich bereite ein Blanquette für Sonntag vor."
+      ]
+    }
+  },
+  {
+    "word": "le coq au vin",
+    "translations": {
+      "ar": "ديك بالنبيذ",
+      "de": "Coq au vin (Huhn in Wein)"
+    },
+    "explanation": {
+      "ar": "دجاج مطبوخ في النبيذ الأحمر مع البصل والفطر والأعشاب. طبق فرنسي تقليدي من منطقة بورغوني.",
+      "de": "Hähnchen in Rotwein geschmort mit Zwiebeln, Pilzen und Kräutern. Traditionelles französisches Gericht aus Burgund."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le coq au vin mijote pendant deux heures.",
+        "يطبخ الديك بالنبيذ على نار هادئة لمدة ساعتين."
+      ],
+      "de": [
+        "Le coq au vin est parfait pour l'hiver.",
+        "Coq au vin ist perfekt für den Winter."
+      ]
+    }
+  },
+  {
+    "word": "la ratatouille",
+    "translations": {
+      "ar": "راتاتوي",
+      "de": "Ratatouille (Gemüseeintopf)"
+    },
+    "explanation": {
+      "ar": "طبق خضار بروفنسالي من الباذنجان والكوسا والفلفل والطماطم. طبق صيفي نباتي.",
+      "de": "Provenzalisches Gemüsegericht aus Auberginen, Zucchini, Paprika und Tomaten. Vegetarisches Sommergericht."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La ratatouille est délicieuse chaude ou froide.",
+        "الراتاتوي لذيذ ساخناً أو بارداً."
+      ],
+      "de": [
+        "Je prépare une ratatouille avec des légumes frais.",
+        "Ich bereite ein Ratatouille mit frischem Gemüse zu."
+      ]
+    }
+  },
+  {
+    "word": "la bouillabaisse",
+    "translations": {
+      "ar": "بويابيس (شوربة السمك)",
+      "de": "Bouillabaisse (Fischsuppe)"
+    },
+    "explanation": {
+      "ar": "شوربة سمك تقليدية من مرسيليا مع أنواع مختلفة من الأسماك والمحار والزعفران.",
+      "de": "Traditionelle Fischsuppe aus Marseille mit verschiedenen Fischsorten, Meeresfrüchten und Safran."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La bouillabaisse est une spécialité marseillaise.",
+        "البويابيس تخصص مرسيليا."
+      ],
+      "de": [
+        "La bouillabaisse contient au moins cinq sortes de poissons.",
+        "Die Bouillabaisse enthält mindestens fünf Fischsorten."
+      ]
+    }
+  },
+  {
+    "word": "le croissant",
+    "translations": {
+      "ar": "الكرواسون",
+      "de": "Croissant (Hörnchen)"
+    },
+    "explanation": {
+      "ar": "معجنات فرنسية على شكل هلال من عجين الزبدة المطوي. رمز الفطور الفرنسي.",
+      "de": "Halbmondförmiges französisches Gebäck aus Butterblätterteig. Symbol des französischen Frühstücks."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je mange un croissant au petit-déjeuner.",
+        "آكل كرواسون على الفطور."
+      ],
+      "de": [
+        "Les croissants sont tout juste sortis du four.",
+        "Die Croissants sind gerade aus dem Ofen."
+      ]
+    }
+  },
+  {
+    "word": "la baguette",
+    "translations": {
+      "ar": "الباغيت، الخبز الفرنسي",
+      "de": "Baguette (französisches Weißbrot)"
+    },
+    "explanation": {
+      "ar": "خبز فرنسي طويل ورفيع بقشرة مقرمشة. رمز المخبز الفرنسي والثقافة الفرنسية.",
+      "de": "Langes, dünnes französisches Brot mit knuspriger Kruste. Symbol der französischen Bäckerei und Kultur."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "J'achète une baguette fraîche chaque matin.",
+        "أشتري باغيت طازج كل صباح."
+      ],
+      "de": [
+        "La baguette doit être croustillante.",
+        "Das Baguette muss knusprig sein."
+      ]
+    }
+  },
+  {
+    "word": "le fromage",
+    "translations": {
+      "ar": "الجبن",
+      "de": "Käse"
+    },
+    "explanation": {
+      "ar": "منتج ألبان، تشتهر فرنسا بأكثر من 400 نوع من الجبن. يقدم قبل الحلوى في الوجبات الفرنسية.",
+      "de": "Milchprodukt, Frankreich ist berühmt für über 400 Käsesorten. Wird vor dem Dessert in französischen Mahlzeiten serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le fromage est servi après le plat principal.",
+        "يقدم الجبن بعد الطبق الرئيسي."
+      ],
+      "de": [
+        "Nous avons un plateau de fromages variés.",
+        "Wir haben eine Käseplatte mit verschiedenen Sorten."
+      ]
+    }
+  },
+  {
+    "word": "le camembert",
+    "translations": {
+      "ar": "كامامبير",
+      "de": "Camembert (Weichkäse)"
+    },
+    "explanation": {
+      "ar": "جبن فرنسي طري من منطقة نورماندي، طعمه غني وقشرة بيضاء. من أشهر أنواع الجبن الفرنسي.",
+      "de": "Französischer Weichkäse aus der Normandie mit reichem Geschmack und weißer Rinde. Einer der berühmtesten französischen Käse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le camembert doit être à température ambiante.",
+        "يجب أن يكون الكامامبير في درجة حرارة الغرفة."
+      ],
+      "de": [
+        "Le camembert normand est délicieux.",
+        "Der Camembert aus der Normandie ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "le brie",
+    "translations": {
+      "ar": "بري",
+      "de": "Brie (Weichkäse)"
+    },
+    "explanation": {
+      "ar": "جبن فرنسي طري من منطقة بري، طعمه معتدل وكريمي. يلقب بـ'ملك الأجبان'.",
+      "de": "Französischer Weichkäse aus der Brie-Region mit mildem, cremigem Geschmack. Wird 'König der Käse' genannt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le brie se marie bien avec des fruits.",
+        "يتناسب البري جيداً مع الفواكه."
+      ],
+      "de": [
+        "Le brie de Meaux est protégé par une appellation.",
+        "Der Brie de Meaux ist durch eine Herkunftsbezeichnung geschützt."
+      ]
+    }
+  },
+  {
+    "word": "le roquefort",
+    "translations": {
+      "ar": "روكفور",
+      "de": "Roquefort (Blauschimmelkäse)"
+    },
+    "explanation": {
+      "ar": "جبن أزرق فرنسي من حليب الغنم، طعمه قوي ومالح. ينضج في كهوف طبيعية.",
+      "de": "Französischer Blauschimmelkäse aus Schafsmilch mit kräftigem, salzigem Geschmack. Reift in natürlichen Höhlen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le roquefort a un goût très prononcé.",
+        "للروكفور طعم قوي جداً."
+      ],
+      "de": [
+        "Le roquefort est parfait avec des noix.",
+        "Roquefort passt perfekt zu Walnüssen."
+      ]
+    }
+  },
+  {
+    "word": "le comté",
+    "translations": {
+      "ar": "كونتيه",
+      "de": "Comté (Hartkäse)"
+    },
+    "explanation": {
+      "ar": "جبن صلب فرنسي من منطقة الجورا، طعمه معقد وجوزي. من أكثر أنواع الجبن استهلاكاً في فرنسا.",
+      "de": "Französischer Hartkäse aus dem Jura mit komplex em, nussigem Geschmack. Einer der meistkonsumierten Käse in Frankreich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le comté vieillit pendant au moins quatre mois.",
+        "ينضج الكونتيه لمدة أربعة أشهر على الأقل."
+      ],
+      "de": [
+        "Le comté est excellent dans une salade.",
+        "Comté ist ausgezeichnet im Salat."
+      ]
+    }
+  },
+  {
+    "word": "le chèvre",
+    "translations": {
+      "ar": "جبن الماعز",
+      "de": "Ziegenkäse"
+    },
+    "explanation": {
+      "ar": "جبن مصنوع من حليب الماعز، يأتي بأشكال وقوام متنوع. شائع جداً في المطبخ الفرنسي.",
+      "de": "Käse aus Ziegenmilch, kommt in verschiedenen Formen und Konsistenzen. Sehr verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le chèvre chaud est délicieux sur une salade.",
+        "جبن الماعز الدافئ لذيذ على السلطة."
+      ],
+      "de": [
+        "Le chèvre frais est doux et crémeux.",
+        "Frischer Ziegenkäse ist mild und cremig."
+      ]
+    }
+  },
+  {
+    "word": "le vin",
+    "translations": {
+      "ar": "النبيذ",
+      "de": "Wein"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي من العنب المخمر. فرنسا من أشهر دول إنتاج النبيذ في العالم.",
+      "de": "Alkoholisches Getränk aus fermentierten Trauben. Frankreich ist eines der berühmtesten Weinländer der Welt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Quel vin recommandez-vous avec le poisson?",
+        "أي نبيذ توصي به مع السمك؟"
+      ],
+      "de": [
+        "Le vin rouge accompagne bien la viande.",
+        "Rotwein passt gut zu Fleisch."
+      ]
+    }
+  },
+  {
+    "word": "le vin rouge",
+    "translations": {
+      "ar": "النبيذ الأحمر",
+      "de": "Rotwein"
+    },
+    "explanation": {
+      "ar": "نبيذ من عنب أحمر، يقدم مع اللحوم الحمراء والأجبان القوية.",
+      "de": "Wein aus roten Trauben, wird zu rotem Fleisch und kräftigen Käsen serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un verre de vin rouge, s'il vous plaît.",
+        "كأس من النبيذ الأحمر من فضلك."
+      ],
+      "de": [
+        "Le vin rouge doit être servi à température ambiante.",
+        "Rotwein sollte bei Zimmertemperatur serviert werden."
+      ]
+    }
+  },
+  {
+    "word": "le vin blanc",
+    "translations": {
+      "ar": "النبيذ الأبيض",
+      "de": "Weißwein"
+    },
+    "explanation": {
+      "ar": "نبيذ من عنب أبيض، يقدم بارداً مع السمك والمأكولات البحرية.",
+      "de": "Wein aus weißen Trauben, wird gekühlt zu Fisch und Meeresfrüchten serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le vin blanc est parfait avec les fruits de mer.",
+        "النبيذ الأبيض مثالي مع المأكولات البحرية."
+      ],
+      "de": [
+        "Le vin blanc doit être frais.",
+        "Weißwein muss kühl sein."
+      ]
+    }
+  },
+  {
+    "word": "le champagne",
+    "translations": {
+      "ar": "الشامبانيا",
+      "de": "Champagner"
+    },
+    "explanation": {
+      "ar": "نبيذ فوار من منطقة الشامبانيا، يستخدم للاحتفالات. مشروب فاخر فرنسي.",
+      "de": "Schaumwein aus der Champagne-Region, wird für Feiern verwendet. Luxuriöses französisches Getränk."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Nous ouvrons le champagne pour célébrer.",
+        "نفتح الشامبانيا للاحتفال."
+      ],
+      "de": [
+        "Le champagne doit être bien frais.",
+        "Champagner muss gut gekühlt sein."
+      ]
+    }
+  },
+  {
+    "word": "l'apéritif",
+    "translations": {
+      "ar": "فاتح الشهية، المشروب قبل الطعام",
+      "de": "Aperitif (Getränk vor dem Essen)"
+    },
+    "explanation": {
+      "ar": "مشروب يقدم قبل الوجبة لفتح الشهية. جزء من الثقافة الاجتماعية الفرنسية.",
+      "de": "Getränk vor der Mahlzeit zur Anregung des Appetits. Teil der französischen Gesellschaftskultur."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Voulez-vous un apéritif avant le dîner?",
+        "هل تريد فاتح شهية قبل العشاء؟"
+      ],
+      "de": [
+        "L'apéritif est servi au salon.",
+        "Der Aperitif wird im Salon serviert."
+      ]
+    }
+  },
+  {
+    "word": "le digestif",
+    "translations": {
+      "ar": "مشروب بعد الطعام، الديجستيف",
+      "de": "Digestif (Verdauungsschnaps)"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي يقدم بعد الوجبة للمساعدة على الهضم، مثل الكونياك أو الأرمانياك.",
+      "de": "Alkoholisches Getränk nach der Mahlzeit zur Verdauung, wie Cognac oder Armagnac."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un digestif pour terminer le repas?",
+        "ديجستيف لإنهاء الوجبة؟"
+      ],
+      "de": [
+        "Le cognac est un digestif classique.",
+        "Cognac ist ein klassischer Digestif."
+      ]
+    }
+  },
+  {
+    "word": "le cognac",
+    "translations": {
+      "ar": "الكونياك",
+      "de": "Cognac (französischer Weinbrand)"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي فرنسي فاخر مقطر من النبيذ، من منطقة كونياك. يقدم كديجستيف.",
+      "de": "Luxuriöser französischer Weinbrand aus der Cognac-Region. Wird als Digestif serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le cognac se déguste lentement.",
+        "يتذوق الكونياك ببطء."
+      ],
+      "de": [
+        "Un vieux cognac, s'il vous plaît.",
+        "Einen alten Cognac, bitte."
+      ]
+    }
+  },
+  {
+    "word": "le calvados",
+    "translations": {
+      "ar": "الكالفادوس",
+      "de": "Calvados (Apfelbrand)"
+    },
+    "explanation": {
+      "ar": "مشروب كحولي من التفاح المقطر من منطقة نورماندي. تخصص نورماندي.",
+      "de": "Apfelbrand aus der Normandie. Spezialität der Normandie."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le calvados est une spécialité normande.",
+        "الكالفادوس تخصص نورماندي."
+      ],
+      "de": [
+        "Le calvados se boit après un repas copieux.",
+        "Calvados wird nach einer reichlichen Mahlzeit getrunken."
+      ]
+    }
+  },
+  {
+    "word": "le café",
+    "translations": {
+      "ar": "القهوة",
+      "de": "Kaffee"
+    },
+    "explanation": {
+      "ar": "مشروب ساخن من حبوب البن، جزء أساسي من الثقافة الفرنسية. يقدم بعد الوجبة.",
+      "de": "Heißgetränk aus Kaffeebohnen, wesentlicher Teil der französischen Kultur. Wird nach dem Essen serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un café, s'il vous plaît.",
+        "قهوة من فضلك."
+      ],
+      "de": [
+        "Le café est servi avec le dessert.",
+        "Kaffee wird mit dem Dessert serviert."
+      ]
+    }
+  },
+  {
+    "word": "l'espresso",
+    "translations": {
+      "ar": "الإسبرسو",
+      "de": "Espresso"
+    },
+    "explanation": {
+      "ar": "قهوة قوية مركزة، تقدم في فنجان صغير. الأكثر شيوعاً في المقاهي الفرنسية.",
+      "de": "Starker, konzentrierter Kaffee in einer kleinen Tasse. Am häufigsten in französischen Cafés."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je prends un espresso après le déjeuner.",
+        "آخذ إسبرسو بعد الغداء."
+      ],
+      "de": [
+        "L'espresso doit être bien chaud.",
+        "Der Espresso muss sehr heiß sein."
+      ]
+    }
+  },
+  {
+    "word": "le café au lait",
+    "translations": {
+      "ar": "قهوة بالحليب",
+      "de": "Milchkaffee"
+    },
+    "explanation": {
+      "ar": "قهوة مع حليب ساخن بنسب متساوية تقريباً. شائع في وجبة الإفطار الفرنسية.",
+      "de": "Kaffee mit heißer Milch in etwa gleichen Anteilen. Üblich beim französischen Frühstück."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je bois un café au lait au petit-déjeuner.",
+        "أشرب قهوة بالحليب على الفطور."
+      ],
+      "de": [
+        "Le café au lait est servi dans un bol.",
+        "Milchkaffee wird in einer Schale serviert."
+      ]
+    }
+  },
+  {
+    "word": "le thé",
+    "translations": {
+      "ar": "الشاي",
+      "de": "Tee"
+    },
+    "explanation": {
+      "ar": "مشروب ساخن من أوراق الشاي. شائع في فترة بعد الظهر الفرنسية.",
+      "de": "Heißgetränk aus Teeblättern. Beliebt zur französischen Nachmittagszeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un thé vert, s'il vous plaît.",
+        "شاي أخضر من فضلك."
+      ],
+      "de": [
+        "Le thé est servi avec des pâtisseries.",
+        "Tee wird mit Gebäck serviert."
+      ]
+    }
+  },
+  {
+    "word": "l'infusion",
+    "translations": {
+      "ar": "شاي أعشاب، منقوع",
+      "de": "Kräutertee, Aufguss"
+    },
+    "explanation": {
+      "ar": "مشروب ساخن من الأعشاب أو الفواكه، بدون كافيين. شائع في المساء.",
+      "de": "Heißgetränk aus Kräutern oder Früchten ohne Koffein. Beliebt am Abend."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une infusion à la camomille pour dormir.",
+        "منقوع البابونج للنوم."
+      ],
+      "de": [
+        "L'infusion de menthe aide la digestion.",
+        "Pfefferminztee hilft der Verdauung."
+      ]
+    }
+  },
+  {
+    "word": "l'eau minérale",
+    "translations": {
+      "ar": "المياه المعدنية",
+      "de": "Mineralwasser"
+    },
+    "explanation": {
+      "ar": "ماء من مصادر طبيعية، يمكن أن يكون فوار أو بدون فوران. شائع جداً في فرنسا.",
+      "de": "Wasser aus natürlichen Quellen, kann sprudelnd oder still sein. Sehr verbreitet in Frankreich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "De l'eau minérale, gazeuse ou plate?",
+        "ماء معدني، فوار أم عادي؟"
+      ],
+      "de": [
+        "Une bouteille d'eau minérale, s'il vous plaît.",
+        "Eine Flasche Mineralwasser, bitte."
+      ]
+    }
+  },
+  {
+    "word": "le jus",
+    "translations": {
+      "ar": "العصير",
+      "de": "Saft"
+    },
+    "explanation": {
+      "ar": "مشروب من الفواكه أو الخضروات المعصورة. شائع في وجبة الإفطار.",
+      "de": "Getränk aus gepressten Früchten oder Gemüse. Üblich beim Frühstück."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un jus d'orange frais, s'il vous plaît.",
+        "عصير برتقال طازج من فضلك."
+      ],
+      "de": [
+        "Le jus de pomme est maison.",
+        "Der Apfelsaft ist hausgemacht."
+      ]
+    }
+  },
+  {
+    "word": "cuire",
+    "translations": {
+      "ar": "يطبخ، يطهو",
+      "de": "kochen, garen"
+    },
+    "explanation": {
+      "ar": "تحضير الطعام بالحرارة. فعل أساسي في الطبخ.",
+      "de": "Essen mit Hitze zubereiten. Grundlegendes Kochverb."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "cuire"
+      },
+      {
+        "form": "Présent je",
+        "value": "cuis"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "cuit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai cuit"
+      },
+      {
+        "form": "Futur",
+        "value": "cuirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je fais cuire les pâtes pendant 10 minutes.",
+        "أطبخ المعكرونة لمدة 10 دقائق."
+      ],
+      "de": [
+        "La viande cuit à feu doux.",
+        "Das Fleisch gart bei niedriger Hitze."
+      ]
+    }
+  },
+  {
+    "word": "faire",
+    "translations": {
+      "ar": "يصنع، يحضر",
+      "de": "machen, zubereiten"
+    },
+    "explanation": {
+      "ar": "صنع أو تحضير شيء. فعل متعدد الاستخدامات في الطبخ.",
+      "de": "Etwas herstellen oder zubereiten. Vielseitiges Verb beim Kochen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "faire"
+      },
+      {
+        "form": "Présent je",
+        "value": "fais"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "fait"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai fait"
+      },
+      {
+        "form": "Futur",
+        "value": "ferai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je fais un gâteau au chocolat.",
+        "أحضر كيك بالشوكولاتة."
+      ],
+      "de": [
+        "Elle fait la cuisine tous les jours.",
+        "Sie kocht jeden Tag."
+      ]
+    }
+  },
+  {
+    "word": "préparer",
+    "translations": {
+      "ar": "يحضّر",
+      "de": "vorbereiten, zubereiten"
+    },
+    "explanation": {
+      "ar": "تجهيز الطعام قبل الطبخ. خطوة مهمة في المطبخ.",
+      "de": "Essen vor dem Kochen vorbereiten. Wichtiger Schritt in der Küche."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "préparer"
+      },
+      {
+        "form": "Présent je",
+        "value": "prépare"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "prépare"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai préparé"
+      },
+      {
+        "form": "Futur",
+        "value": "préparerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je prépare les légumes pour le dîner.",
+        "أحضر الخضروات للعشاء."
+      ],
+      "de": [
+        "Le chef prépare le menu du jour.",
+        "Der Koch bereitet das Tagesmenü vor."
+      ]
+    }
+  },
+  {
+    "word": "couper",
+    "translations": {
+      "ar": "يقطع",
+      "de": "schneiden"
+    },
+    "explanation": {
+      "ar": "قطع المكونات بالسكين. تقنية أساسية في تحضير الطعام.",
+      "de": "Zutaten mit einem Messer schneiden. Grundlegende Zubereitungstechnik."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "couper"
+      },
+      {
+        "form": "Présent je",
+        "value": "coupe"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "coupe"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai coupé"
+      },
+      {
+        "form": "Futur",
+        "value": "couperai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je coupe les tomates en dés.",
+        "أقطع الطماطم إلى مكعبات."
+      ],
+      "de": [
+        "Il faut couper les légumes finement.",
+        "Man muss das Gemüse fein schneiden."
+      ]
+    }
+  },
+  {
+    "word": "hacher",
+    "translations": {
+      "ar": "يفرم",
+      "de": "hacken"
+    },
+    "explanation": {
+      "ar": "تقطيع الطعام إلى قطع صغيرة جداً. تقنية مهمة للثوم والأعشاب.",
+      "de": "Essen in sehr kleine Stücke schneiden. Wichtige Technik für Knoblauch und Kräuter."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "hacher"
+      },
+      {
+        "form": "Présent je",
+        "value": "hache"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "hache"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai haché"
+      },
+      {
+        "form": "Futur",
+        "value": "hacherai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je hache l'ail et le persil.",
+        "أفرم الثوم والبقدونس."
+      ],
+      "de": [
+        "Il faut hacher finement les oignons.",
+        "Man muss die Zwiebeln fein hacken."
+      ]
+    }
+  },
+  {
+    "word": "émincer",
+    "translations": {
+      "ar": "يقطع إلى شرائح رقيقة",
+      "de": "in dünne Scheiben schneiden"
+    },
+    "explanation": {
+      "ar": "تقطيع الطعام إلى شرائح رقيقة جداً. تقنية مهمة للخضروات.",
+      "de": "Essen in sehr dünne Scheiben schneiden. Wichtige Technik für Gemüse."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "émincer"
+      },
+      {
+        "form": "Présent je",
+        "value": "émince"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "émince"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai émincé"
+      },
+      {
+        "form": "Futur",
+        "value": "émincerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "J'émince les champignons.",
+        "أقطع الفطر إلى شرائح رقيقة."
+      ],
+      "de": [
+        "Émincez les oignons très finement.",
+        "Schneiden Sie die Zwiebeln sehr dünn."
+      ]
+    }
+  },
+  {
+    "word": "mélanger",
+    "translations": {
+      "ar": "يخلط، يمزج",
+      "de": "mischen, vermischen"
+    },
+    "explanation": {
+      "ar": "دمج مكونات مختلفة معاً. خطوة أساسية في معظم الوصفات.",
+      "de": "Verschiedene Zutaten zusammenmischen. Grundlegender Schritt in den meisten Rezepten."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "mélanger"
+      },
+      {
+        "form": "Présent je",
+        "value": "mélange"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "mélange"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai mélangé"
+      },
+      {
+        "form": "Futur",
+        "value": "mélangerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je mélange tous les ingrédients.",
+        "أخلط جميع المكونات."
+      ],
+      "de": [
+        "Mélangez bien la pâte.",
+        "Vermischen Sie den Teig gut."
+      ]
+    }
+  },
+  {
+    "word": "remuer",
+    "translations": {
+      "ar": "يحرك",
+      "de": "umrühren"
+    },
+    "explanation": {
+      "ar": "تحريك الطعام أثناء الطهي. مهم لمنع الالتصاق والحرق.",
+      "de": "Essen während des Kochens bewegen. Wichtig, um Ankleben und Anbrennen zu verhindern."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "remuer"
+      },
+      {
+        "form": "Présent je",
+        "value": "remue"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "remue"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai remué"
+      },
+      {
+        "form": "Futur",
+        "value": "remuerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Remuez constamment la sauce.",
+        "حرك الصلصة باستمرار."
+      ],
+      "de": [
+        "Je remue la soupe pour qu'elle n'attache pas.",
+        "Ich rühre die Suppe um, damit sie nicht anbrennt."
+      ]
+    }
+  },
+  {
+    "word": "fouetter",
+    "translations": {
+      "ar": "يخفق",
+      "de": "schlagen, aufschlagen"
+    },
+    "explanation": {
+      "ar": "خفق المكونات بقوة لإدخال الهواء. مهم للكريمة والبيض.",
+      "de": "Zutaten kräftig schlagen, um Luft einzuarbeiten. Wichtig für Sahne und Eier."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "fouetter"
+      },
+      {
+        "form": "Présent je",
+        "value": "fouette"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "fouette"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai fouetté"
+      },
+      {
+        "form": "Futur",
+        "value": "fouetterai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je fouette la crème fraîche.",
+        "أخفق الكريمة الطازجة."
+      ],
+      "de": [
+        "Fouettez les œufs en neige.",
+        "Schlagen Sie die Eier zu Schnee."
+      ]
+    }
+  },
+  {
+    "word": "pétrir",
+    "translations": {
+      "ar": "يعجن",
+      "de": "kneten"
+    },
+    "explanation": {
+      "ar": "عجن العجين بالأيدي. أساسي لصنع الخبز والمعجنات.",
+      "de": "Teig mit den Händen bearbeiten. Grundlegend für Brot und Gebäck."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "pétrir"
+      },
+      {
+        "form": "Présent je",
+        "value": "pétris"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "pétrit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai pétri"
+      },
+      {
+        "form": "Futur",
+        "value": "pétrirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je pétris la pâte à pain.",
+        "أعجن عجين الخبز."
+      ],
+      "de": [
+        "Il faut pétrir la pâte pendant 10 minutes.",
+        "Man muss den Teig 10 Minuten kneten."
+      ]
+    }
+  },
+  {
+    "word": "rôtir",
+    "translations": {
+      "ar": "يشوي في الفرن",
+      "de": "braten, rösten (im Ofen)"
+    },
+    "explanation": {
+      "ar": "طهي الطعام في الفرن بحرارة جافة. طريقة شائعة للحوم.",
+      "de": "Essen im Ofen mit trockener Hitze garen. Übliche Methode für Fleisch."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "rôtir"
+      },
+      {
+        "form": "Présent je",
+        "value": "rôtis"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "rôtit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai rôti"
+      },
+      {
+        "form": "Futur",
+        "value": "rôtirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je fais rôtir le poulet au four.",
+        "أشوي الدجاج في الفرن."
+      ],
+      "de": [
+        "Le rôti de bœuf cuit pendant deux heures.",
+        "Der Rinderbraten brät zwei Stunden."
+      ]
+    }
+  },
+  {
+    "word": "griller",
+    "translations": {
+      "ar": "يشوي على الشواية",
+      "de": "grillen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام على شواية أو على نار مباشرة. طريقة صحية للطهي.",
+      "de": "Essen auf einem Grill oder über direkter Hitze garen. Gesunde Kochmethode."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "griller"
+      },
+      {
+        "form": "Présent je",
+        "value": "grille"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "grille"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai grillé"
+      },
+      {
+        "form": "Futur",
+        "value": "grillerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je grille les légumes.",
+        "أشوي الخضروات على الشواية."
+      ],
+      "de": [
+        "La viande grillée est savoureuse.",
+        "Gegrilltes Fleisch ist schmackhaft."
+      ]
+    }
+  },
+  {
+    "word": "frire",
+    "translations": {
+      "ar": "يقلي",
+      "de": "frittieren, braten"
+    },
+    "explanation": {
+      "ar": "طهي الطعام في زيت ساخن. طريقة تعطي قواماً مقرمشاً.",
+      "de": "Essen in heißem Öl garen. Methode, die eine knusprige Textur ergibt."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "frire"
+      },
+      {
+        "form": "Présent je",
+        "value": "fris"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "frit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai frit"
+      },
+      {
+        "form": "Futur",
+        "value": "frirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je fais frire les pommes de terre.",
+        "أقلي البطاطس."
+      ],
+      "de": [
+        "Les frites sont frites dans l'huile.",
+        "Die Pommes werden im Öl frittiert."
+      ]
+    }
+  },
+  {
+    "word": "mijoter",
+    "translations": {
+      "ar": "يطهو على نار هادئة",
+      "de": "schmoren, köcheln lassen"
+    },
+    "explanation": {
+      "ar": "طهي الطعام ببطء على نار هادئة. طريقة تعطي نكهة عميقة.",
+      "de": "Essen langsam bei niedriger Hitze garen. Methode, die tiefen Geschmack ergibt."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "mijoter"
+      },
+      {
+        "form": "Présent je",
+        "value": "mijote"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "mijote"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai mijoté"
+      },
+      {
+        "form": "Futur",
+        "value": "mijoterai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Le ragoût mijote pendant trois heures.",
+        "اليخنة تطهو على نار هادئة لثلاث ساعات."
+      ],
+      "de": [
+        "Je laisse mijoter la sauce.",
+        "Ich lasse die Sauce köcheln."
+      ]
+    }
+  },
+  {
+    "word": "bouillir",
+    "translations": {
+      "ar": "يغلي",
+      "de": "kochen, sieden"
+    },
+    "explanation": {
+      "ar": "تسخين السائل حتى درجة الغليان (100 درجة). طريقة أساسية للمعكرونة والبيض.",
+      "de": "Flüssigkeit bis zum Siedepunkt (100 Grad) erhitzen. Grundlegende Methode für Nudeln und Eier."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "bouillir"
+      },
+      {
+        "form": "Présent je",
+        "value": "bous"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "bout"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai bouilli"
+      },
+      {
+        "form": "Futur",
+        "value": "bouillirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "L'eau bout à 100 degrés.",
+        "الماء يغلي عند 100 درجة."
+      ],
+      "de": [
+        "Je fais bouillir de l'eau pour les pâtes.",
+        "Ich koche Wasser für die Nudeln."
+      ]
+    }
+  },
+  {
+    "word": "poêler",
+    "translations": {
+      "ar": "يقلي في المقلاة",
+      "de": "in der Pfanne braten"
+    },
+    "explanation": {
+      "ar": "طهي الطعام في مقلاة بقليل من الدهن. طريقة سريعة ومتعددة الاستخدامات.",
+      "de": "Essen in einer Pfanne mit wenig Fett garen. Schnelle und vielseitige Methode."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "poêler"
+      },
+      {
+        "form": "Présent je",
+        "value": "poêle"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "poêle"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai poêlé"
+      },
+      {
+        "form": "Futur",
+        "value": "poêlerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je poêle le poisson à la poêle.",
+        "أقلي السمك في المقلاة."
+      ],
+      "de": [
+        "Poêlez les légumes à feu vif.",
+        "Braten Sie das Gemüse bei starker Hitze."
+      ]
+    }
+  },
+  {
+    "word": "faire sauter",
+    "translations": {
+      "ar": "يقلي بسرعة مع التحريك",
+      "de": "schwenken, sautieren"
+    },
+    "explanation": {
+      "ar": "قلي الطعام بسرعة على نار عالية مع التحريك المستمر. تقنية فرنسية كلاسيكية.",
+      "de": "Essen schnell bei starker Hitze unter ständigem Bewegen braten. Klassische französische Technik."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je fais sauter les champignons.",
+        "أقلي الفطر بسرعة مع التحريك."
+      ],
+      "de": [
+        "Faites sauter les légumes à feu vif.",
+        "Schwenken Sie das Gemüse bei starker Hitze."
+      ]
+    }
+  },
+  {
+    "word": "assaisonner",
+    "translations": {
+      "ar": "يتبّل",
+      "de": "würzen"
+    },
+    "explanation": {
+      "ar": "إضافة الملح والفلفل والتوابل للطعام. خطوة أساسية للنكهة.",
+      "de": "Salz, Pfeffer und Gewürze zum Essen hinzufügen. Grundlegender Schritt für den Geschmack."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "assaisonner"
+      },
+      {
+        "form": "Présent je",
+        "value": "assaisonne"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "assaisonne"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai assaisonné"
+      },
+      {
+        "form": "Futur",
+        "value": "assaisonnerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "J'assaisonne la salade avec du sel et du poivre.",
+        "أتبل السلطة بالملح والفلفل."
+      ],
+      "de": [
+        "Il faut bien assaisonner le plat.",
+        "Man muss das Gericht gut würzen."
+      ]
+    }
+  },
+  {
+    "word": "déglacer",
+    "translations": {
+      "ar": "يزيل رواسب القلي بسائل",
+      "de": "ablöschen"
+    },
+    "explanation": {
+      "ar": "إضافة سائل (نبيذ، مرق) إلى المقلاة الساخنة لإذابة القطع المحترقة وصنع صلصة.",
+      "de": "Flüssigkeit (Wein, Brühe) in die heiße Pfanne geben, um die Röststoffe zu lösen und eine Sauce zu machen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "déglacer"
+      },
+      {
+        "form": "Présent je",
+        "value": "déglace"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "déglace"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai déglacé"
+      },
+      {
+        "form": "Futur",
+        "value": "déglacerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je déglace la poêle avec du vin blanc.",
+        "أزيل رواسب المقلاة بنبيذ أبيض."
+      ],
+      "de": [
+        "Déglacez avec un peu de bouillon.",
+        "Löschen Sie mit etwas Brühe ab."
+      ]
+    }
+  },
+  {
+    "word": "réduire",
+    "translations": {
+      "ar": "يكثّف، يركّز",
+      "de": "einkochen, reduzieren"
+    },
+    "explanation": {
+      "ar": "تبخير السائل لتكثيف الصلصة وتركيز النكهة.",
+      "de": "Flüssigkeit verdampfen lassen, um die Sauce zu verdicken und den Geschmack zu konzentrieren."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "réduire"
+      },
+      {
+        "form": "Présent je",
+        "value": "réduis"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "réduit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai réduit"
+      },
+      {
+        "form": "Futur",
+        "value": "réduirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je réduis la sauce de moitié.",
+        "أكثف الصلصة إلى النصف."
+      ],
+      "de": [
+        "Laissez réduire la sauce pendant 10 minutes.",
+        "Lassen Sie die Sauce 10 Minuten einkochen."
+      ]
+    }
+  },
+  {
+    "word": "la viande",
+    "translations": {
+      "ar": "اللحم",
+      "de": "Fleisch"
+    },
+    "explanation": {
+      "ar": "لحم الحيوانات المستخدم في الطعام. جزء أساسي من المطبخ الفرنسي.",
+      "de": "Tierfleisch für die Ernährung. Wesentlicher Teil der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Quelle viande préférez-vous?",
+        "أي لحم تفضل؟"
+      ],
+      "de": [
+        "La viande est bien cuite.",
+        "Das Fleisch ist gut durchgebraten."
+      ]
+    }
+  },
+  {
+    "word": "le bœuf",
+    "translations": {
+      "ar": "لحم البقر",
+      "de": "Rindfleisch"
+    },
+    "explanation": {
+      "ar": "لحم من البقر، يستخدم في العديد من الأطباق الفرنسية الكلاسيكية.",
+      "de": "Fleisch vom Rind, verwendet in vielen klassischen französischen Gerichten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un steak de bœuf saignant, s'il vous plaît.",
+        "ستيك لحم بقر نيئ من فضلك."
+      ],
+      "de": [
+        "Le bœuf bourguignon est délicieux.",
+        "Bœuf Bourguignon ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "le veau",
+    "translations": {
+      "ar": "لحم العجل",
+      "de": "Kalbfleisch"
+    },
+    "explanation": {
+      "ar": "لحم من العجل الصغير، طعمه طري ورقيق. شائع في المطبخ الفرنسي.",
+      "de": "Fleisch vom jungen Kalb, zart und fein im Geschmack. Verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "L'escalope de veau est notre spécialité.",
+        "إسكالوب العجل هو تخصصنا."
+      ],
+      "de": [
+        "Le veau est une viande tendre.",
+        "Kalbfleisch ist zartes Fleisch."
+      ]
+    }
+  },
+  {
+    "word": "l'agneau",
+    "translations": {
+      "ar": "لحم الخروف",
+      "de": "Lammfleisch"
+    },
+    "explanation": {
+      "ar": "لحم من الخروف الصغير، له نكهة مميزة. شائع في المطبخ الفرنسي.",
+      "de": "Fleisch vom jungen Schaf mit charakteristischem Geschmack. Verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le gigot d'agneau est parfait pour Pâques.",
+        "فخذ الخروف مثالي لعيد الفصح."
+      ],
+      "de": [
+        "L'agneau grillé aux herbes.",
+        "Gegrilltes Lamm mit Kräutern."
+      ]
+    }
+  },
+  {
+    "word": "le porc",
+    "translations": {
+      "ar": "لحم الخنزير",
+      "de": "Schweinefleisch"
+    },
+    "explanation": {
+      "ar": "لحم من الخنزير، يستخدم في العديد من الأطباق ومنتجات اللحوم.",
+      "de": "Fleisch vom Schwein, verwendet in vielen Gerichten und Fleischprodukten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La côte de porc est grillée.",
+        "ضلع الخنزير مشوي."
+      ],
+      "de": [
+        "Le porc rôti aux pommes.",
+        "Schweinebraten mit Äpfeln."
+      ]
+    }
+  },
+  {
+    "word": "le poulet",
+    "translations": {
+      "ar": "الدجاج",
+      "de": "Hähnchen, Huhn"
+    },
+    "explanation": {
+      "ar": "دجاج، من أكثر اللحوم شيوعاً واستخداماً. متعدد الاستخدامات في المطبخ.",
+      "de": "Huhn, eines der häufigsten und am meisten verwendeten Fleischsorten. Vielseitig in der Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le poulet rôti est prêt.",
+        "الدجاج المشوي جاهز."
+      ],
+      "de": [
+        "Le poulet aux champignons.",
+        "Hähnchen mit Pilzen."
+      ]
+    }
+  },
+  {
+    "word": "le canard",
+    "translations": {
+      "ar": "البط",
+      "de": "Ente"
+    },
+    "explanation": {
+      "ar": "بط، له طعم غني ودهون أكثر من الدجاج. شائع في المطبخ الفرنسي الراقي.",
+      "de": "Ente mit reichem Geschmack und mehr Fett als Huhn. Verbreitet in der gehobenen französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le magret de canard est une spécialité.",
+        "صدر البط تخصص."
+      ],
+      "de": [
+        "Le canard à l'orange est un plat classique.",
+        "Ente mit Orange ist ein klassisches Gericht."
+      ]
+    }
+  },
+  {
+    "word": "le lapin",
+    "translations": {
+      "ar": "الأرنب",
+      "de": "Kaninchen"
+    },
+    "explanation": {
+      "ar": "لحم الأرنب، طعمه يشبه الدجاج. تقليدي في المطبخ الريفي الفرنسي.",
+      "de": "Kaninchenfleisch, geschmacklich ähnlich wie Huhn. Traditionell in der ländlichen französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le lapin à la moutarde est délicieux.",
+        "الأرنب بالخردل لذيذ."
+      ],
+      "de": [
+        "Le lapin rôti aux herbes.",
+        "Gebratenes Kaninchen mit Kräutern."
+      ]
+    }
+  },
+  {
+    "word": "le poisson",
+    "translations": {
+      "ar": "السمك",
+      "de": "Fisch"
+    },
+    "explanation": {
+      "ar": "سمك، جزء مهم من النظام الغذائي الفرنسي، خاصة في المناطق الساحلية.",
+      "de": "Fisch, wichtiger Teil der französischen Ernährung, besonders in Küstenregionen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le poisson du jour est le saumon.",
+        "سمك اليوم هو السلمون."
+      ],
+      "de": [
+        "Le poisson est très frais.",
+        "Der Fisch ist sehr frisch."
+      ]
+    }
+  },
+  {
+    "word": "le saumon",
+    "translations": {
+      "ar": "السلمون",
+      "de": "Lachs"
+    },
+    "explanation": {
+      "ar": "سمك السلمون، سمك دهني غني بالأوميغا 3. شائع جداً في المطبخ الفرنسي.",
+      "de": "Lachs, fettreicher Fisch reich an Omega-3. Sehr verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le saumon fumé en entrée.",
+        "السلمون المدخن كمقبلات."
+      ],
+      "de": [
+        "Le saumon grillé à l'aneth.",
+        "Gegrillter Lachs mit Dill."
+      ]
+    }
+  },
+  {
+    "word": "le thon",
+    "translations": {
+      "ar": "التونة",
+      "de": "Thunfisch"
+    },
+    "explanation": {
+      "ar": "سمك التونة، سمك كبير بلحم أحمر. يستخدم طازجاً أو معلباً.",
+      "de": "Thunfisch, großer Fisch mit rotem Fleisch. Wird frisch oder aus der Dose verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une salade niçoise avec du thon.",
+        "سلطة نيسواز مع التونة."
+      ],
+      "de": [
+        "Le thon mi-cuit est délicieux.",
+        "Halbroher Thunfisch ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "la truite",
+    "translations": {
+      "ar": "سمك السلمون المرقط",
+      "de": "Forelle"
+    },
+    "explanation": {
+      "ar": "سمك السلمون المرقط، سمك نهري طري. شائع في المطبخ الفرنسي.",
+      "de": "Forelle, zarter Süßwasserfisch. Verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La truite aux amandes est une spécialité.",
+        "السلمون المرقط باللوز تخصص."
+      ],
+      "de": [
+        "La truite meunière est délicieuse.",
+        "Forelle Müllerin Art ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "la sole",
+    "translations": {
+      "ar": "سمك موسى",
+      "de": "Seezunge"
+    },
+    "explanation": {
+      "ar": "سمك موسى، سمك مفلطح راقي بلحم أبيض طري.",
+      "de": "Seezunge, edler Plattfisch mit zartem weißem Fleisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La sole meunière est un plat classique.",
+        "سمك موسى مولنيير طبق كلاسيكي."
+      ],
+      "de": [
+        "La sole est un poisson délicat.",
+        "Seezunge ist ein delikater Fisch."
+      ]
+    }
+  },
+  {
+    "word": "le homard",
+    "translations": {
+      "ar": "جراد البحر، الكركند",
+      "de": "Hummer"
+    },
+    "explanation": {
+      "ar": "جراد البحر، قشريات فاخرة بلحم أبيض طري. يعتبر طعام راقي.",
+      "de": "Hummer, luxuriöse Krustentiere mit zartem weißem Fleisch. Gilt als Delikatesse."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le homard thermidor est très cher.",
+        "الكركند ترميدور غالي جداً."
+      ],
+      "de": [
+        "Le homard à l'américaine.",
+        "Hummer auf amerikanische Art."
+      ]
+    }
+  },
+  {
+    "word": "les huîtres",
+    "translations": {
+      "ar": "المحار",
+      "de": "Austern"
+    },
+    "explanation": {
+      "ar": "المحار، رخويات بحرية تؤكل نيئة أو مطبوخة. تخصص فرنسي، خاصة في عيد الميلاد.",
+      "de": "Austern, Meeresweichtiere roh oder gekocht gegessen. Französische Spezialität, besonders zu Weihnachten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les huîtres sont servies avec du citron.",
+        "يقدم المحار مع الليمون."
+      ],
+      "de": [
+        "Une douzaine d'huîtres, s'il vous plaît.",
+        "Ein Dutzend Austern, bitte."
+      ]
+    }
+  },
+  {
+    "word": "les moules",
+    "translations": {
+      "ar": "بلح البحر",
+      "de": "Muscheln"
+    },
+    "explanation": {
+      "ar": "بلح البحر، رخويات بحرية صغيرة. طبق شعبي خاصة مع البطاطس المقلية.",
+      "de": "Muscheln, kleine Meeresweichtiere. Beliebtes Gericht besonders mit Pommes frites."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les moules-frites sont une spécialité belge et française.",
+        "بلح البحر مع البطاطس المقلية تخصص بلجيكي وفرنسي."
+      ],
+      "de": [
+        "Les moules marinières sont délicieuses.",
+        "Muscheln Matrosenart sind köstlich."
+      ]
+    }
+  },
+  {
+    "word": "les crevettes",
+    "translations": {
+      "ar": "الجمبري، الروبيان",
+      "de": "Garnelen, Shrimps"
+    },
+    "explanation": {
+      "ar": "الجمبري، قشريات صغيرة شائعة جداً في المأكولات البحرية.",
+      "de": "Garnelen, kleine Krustentiere sehr verbreitet bei Meeresfrüchten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les crevettes grillées à l'ail.",
+        "الجمبري المشوي بالثوم."
+      ],
+      "de": [
+        "Une salade de crevettes.",
+        "Ein Garnelensalat."
+      ]
+    }
+  },
+  {
+    "word": "les légumes",
+    "translations": {
+      "ar": "الخضروات",
+      "de": "Gemüse"
+    },
+    "explanation": {
+      "ar": "الخضروات، جزء أساسي من الطبخ الفرنسي. تستخدم بكثرة في جميع الأطباق.",
+      "de": "Gemüse, wesentlicher Teil der französischen Küche. Wird reichlich in allen Gerichten verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les légumes sont frais du marché.",
+        "الخضروات طازجة من السوق."
+      ],
+      "de": [
+        "Les légumes de saison sont les meilleurs.",
+        "Saisonales Gemüse ist das Beste."
+      ]
+    }
+  },
+  {
+    "word": "la tomate",
+    "translations": {
+      "ar": "الطماطم",
+      "de": "Tomate"
+    },
+    "explanation": {
+      "ar": "الطماطم، خضار (تقنياً فاكهة) أساسي في الطبخ. يستخدم في الصلصات والسلطات.",
+      "de": "Tomate, grundlegendes Gemüse (technisch Frucht) beim Kochen. Wird in Saucen und Salaten verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une salade de tomates fraîches.",
+        "سلطة طماطم طازجة."
+      ],
+      "de": [
+        "Les tomates provençales sont délicieuses.",
+        "Provenzalische Tomaten sind köstlich."
+      ]
+    }
+  },
+  {
+    "word": "l'oignon",
+    "translations": {
+      "ar": "البصل",
+      "de": "Zwiebel"
+    },
+    "explanation": {
+      "ar": "البصل، خضار أساسي في معظم الطبخ. أساس العديد من الصلصات والأطباق.",
+      "de": "Zwiebel, grundlegendes Gemüse in den meisten Küchen. Basis vieler Saucen und Gerichte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La soupe à l'oignon est une spécialité française.",
+        "شوربة البصل تخصص فرنسي."
+      ],
+      "de": [
+        "Hachez finement l'oignon.",
+        "Hacken Sie die Zwiebel fein."
+      ]
+    }
+  },
+  {
+    "word": "l'ail",
+    "translations": {
+      "ar": "الثوم",
+      "de": "Knoblauch"
+    },
+    "explanation": {
+      "ar": "الثوم، يضيف نكهة قوية للأطباق. أساسي في المطبخ الفرنسي.",
+      "de": "Knoblauch, verleiht Gerichten kräftigen Geschmack. Grundlegend in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "L'ail donne beaucoup de saveur.",
+        "الثوم يعطي نكهة كثيرة."
+      ],
+      "de": [
+        "Une gousse d'ail émincée.",
+        "Eine gehackte Knoblauchzehe."
+      ]
+    }
+  },
+  {
+    "word": "la carotte",
+    "translations": {
+      "ar": "الجزر",
+      "de": "Karotte, Möhre"
+    },
+    "explanation": {
+      "ar": "الجزر، خضار برتقالي حلو. يستخدم في اليخنات والصلصات والسلطات.",
+      "de": "Karotte, süßes oranges Gemüse. Wird in Eintöpfen, Saucen und Salaten verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les carottes râpées en salade.",
+        "الجزر المبشور في سلطة."
+      ],
+      "de": [
+        "Une julienne de carottes.",
+        "Julienne-Karotten."
+      ]
+    }
+  },
+  {
+    "word": "la pomme de terre",
+    "translations": {
+      "ar": "البطاطس",
+      "de": "Kartoffel"
+    },
+    "explanation": {
+      "ar": "البطاطس، من أكثر الخضروات استخداماً. متعددة الاستخدامات في الطبخ الفرنسي.",
+      "de": "Kartoffel, eines der am häufigsten verwendeten Gemüse. Vielseitig in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les pommes de terre sautées.",
+        "البطاطس المقلية."
+      ],
+      "de": [
+        "Un gratin de pommes de terre.",
+        "Ein Kartoffelgratin."
+      ]
+    }
+  },
+  {
+    "word": "la courgette",
+    "translations": {
+      "ar": "الكوسا",
+      "de": "Zucchini"
+    },
+    "explanation": {
+      "ar": "الكوسا، خضار صيفي أخضر. شائع في المطبخ البروفنسالي.",
+      "de": "Zucchini, grünes Sommergemüse. Verbreitet in der provenzalischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les courgettes farcies sont délicieuses.",
+        "الكوسا المحشية لذيذة."
+      ],
+      "de": [
+        "Les courgettes grillées.",
+        "Gegrillte Zucchini."
+      ]
+    }
+  },
+  {
+    "word": "l'aubergine",
+    "translations": {
+      "ar": "الباذنجان",
+      "de": "Aubergine"
+    },
+    "explanation": {
+      "ar": "الباذنجان، خضار بنفسجي يستخدم في أطباق البحر المتوسط.",
+      "de": "Aubergine, violettes Gemüse verwendet in mediterranen Gerichten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les aubergines grillées à l'huile d'olive.",
+        "الباذنجان المشوي بزيت الزيتون."
+      ],
+      "de": [
+        "Les aubergines farcies.",
+        "Gefüllte Auberginen."
+      ]
+    }
+  },
+  {
+    "word": "le poivron",
+    "translations": {
+      "ar": "الفلفل الحلو",
+      "de": "Paprika"
+    },
+    "explanation": {
+      "ar": "الفلفل الحلو، يأتي بألوان مختلفة (أحمر، أصفر، أخضر). حلو وغير حار.",
+      "de": "Paprika, kommt in verschiedenen Farben (rot, gelb, grün). Süß und nicht scharf."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les poivrons grillés sont savoureux.",
+        "الفلفل الحلو المشوي لذيذ."
+      ],
+      "de": [
+        "Un poivron rouge farci.",
+        "Eine gefüllte rote Paprika."
+      ]
+    }
+  },
+  {
+    "word": "les champignons",
+    "translations": {
+      "ar": "الفطر، عيش الغراب",
+      "de": "Pilze"
+    },
+    "explanation": {
+      "ar": "الفطر، شائع جداً في الطبخ الفرنسي. أنواع كثيرة مثل فطر باريس والشانتريل.",
+      "de": "Pilze, sehr verbreitet in der französischen Küche. Viele Sorten wie Champignons und Pfifferlinge."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les champignons sautés à l'ail.",
+        "الفطر المقلي بالثوم."
+      ],
+      "de": [
+        "Une omelette aux champignons.",
+        "Ein Pilzomelett."
+      ]
+    }
+  },
+  {
+    "word": "les épinards",
+    "translations": {
+      "ar": "السبانخ",
+      "de": "Spinat"
+    },
+    "explanation": {
+      "ar": "السبانخ، خضار ورقي أخضر غني بالحديد. يستخدم في العديد من الأطباق.",
+      "de": "Spinat, grünes Blattgemüse reich an Eisen. Wird in vielen Gerichten verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les épinards à la crème.",
+        "السبانخ بالكريمة."
+      ],
+      "de": [
+        "Une quiche aux épinards.",
+        "Eine Spinatquiche."
+      ]
+    }
+  },
+  {
+    "word": "la salade",
+    "translations": {
+      "ar": "السلطة، الخس",
+      "de": "Salat"
+    },
+    "explanation": {
+      "ar": "السلطة أو الخس، خضار ورقي يؤكل نيئاً. جزء من كل وجبة فرنسية تقريباً.",
+      "de": "Salat, Blattgemüse roh gegessen. Teil fast jeder französischen Mahlzeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une salade verte avec vinaigrette.",
+        "سلطة خضراء مع فينيغريت."
+      ],
+      "de": [
+        "La salade est servie après le plat principal.",
+        "Der Salat wird nach dem Hauptgang serviert."
+      ]
+    }
+  },
+  {
+    "word": "les herbes",
+    "translations": {
+      "ar": "الأعشاب",
+      "de": "Kräuter"
+    },
+    "explanation": {
+      "ar": "الأعشاب العطرية مثل البقدونس والزعتر والريحان. أساسية للنكهة الفرنسية.",
+      "de": "Aromatische Kräuter wie Petersilie, Thymian und Basilikum. Grundlegend für französischen Geschmack."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les herbes de Provence sont un mélange classique.",
+        "أعشاب بروفانس خليط كلاسيكي."
+      ],
+      "de": [
+        "Ajoutez des herbes fraîches.",
+        "Fügen Sie frische Kräuter hinzu."
+      ]
+    }
+  },
+  {
+    "word": "le persil",
+    "translations": {
+      "ar": "البقدونس",
+      "de": "Petersilie"
+    },
+    "explanation": {
+      "ar": "البقدونس، عشب أخضر شائع جداً في المطبخ الفرنسي. يستخدم للتزيين والنكهة.",
+      "de": "Petersilie, sehr verbreitetes grünes Kraut in der französischen Küche. Wird zum Garnieren und für Geschmack verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hachez du persil frais.",
+        "افرم بقدونس طازج."
+      ],
+      "de": [
+        "Garnissez avec du persil.",
+        "Mit Petersilie garnieren."
+      ]
+    }
+  },
+  {
+    "word": "le restaurant",
+    "translations": {
+      "ar": "المطعم",
+      "de": "Restaurant"
+    },
+    "explanation": {
+      "ar": "مكان لتقديم الطعام للعملاء. فرنسا مشهورة بمطاعمها.",
+      "de": "Ort zum Servieren von Essen für Gäste. Frankreich ist berühmt für seine Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le restaurant est complet ce soir.",
+        "المطعم ممتلئ هذا المساء."
+      ],
+      "de": [
+        "Je travaille dans un restaurant français.",
+        "Ich arbeite in einem französischen Restaurant."
+      ]
+    }
+  },
+  {
+    "word": "le serveur / la serveuse",
+    "translations": {
+      "ar": "النادل / النادلة",
+      "de": "Kellner / Kellnerin"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يخدم العملاء في المطعم. يأخذ الطلبات ويقدم الطعام.",
+      "de": "Person, die Gäste im Restaurant bedient. Nimmt Bestellungen auf und serviert Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le serveur apporte les plats.",
+        "النادل يحضر الأطباق."
+      ],
+      "de": [
+        "La serveuse est très aimable.",
+        "Die Kellnerin ist sehr freundlich."
+      ]
+    }
+  },
+  {
+    "word": "le client / la cliente",
+    "translations": {
+      "ar": "الزبون / الزبونة",
+      "de": "Kunde / Kundin, Gast"
+    },
+    "explanation": {
+      "ar": "الشخص الذي يأتي للأكل في المطعم. يطلب الطعام ويدفع.",
+      "de": "Person, die zum Essen ins Restaurant kommt. Bestellt Essen und bezahlt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le client attend sa commande.",
+        "الزبون ينتظر طلبه."
+      ],
+      "de": [
+        "La cliente est satisfaite.",
+        "Die Kundin ist zufrieden."
+      ]
+    }
+  },
+  {
+    "word": "la table",
+    "translations": {
+      "ar": "الطاولة",
+      "de": "Tisch"
+    },
+    "explanation": {
+      "ar": "طاولة حيث يجلس العملاء لتناول الطعام.",
+      "de": "Tisch, an dem Gäste zum Essen sitzen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une table pour deux personnes, s'il vous plaît.",
+        "طاولة لشخصين من فضلك."
+      ],
+      "de": [
+        "La table est prête.",
+        "Der Tisch ist fertig."
+      ]
+    }
+  },
+  {
+    "word": "la réservation",
+    "translations": {
+      "ar": "الحجز",
+      "de": "Reservierung"
+    },
+    "explanation": {
+      "ar": "حجز مسبق لطاولة في المطعم. مهم للمطاعم المشهورة.",
+      "de": "Vorab-Buchung eines Tisches im Restaurant. Wichtig für beliebte Restaurants."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "J'ai une réservation au nom de Martin.",
+        "لدي حجز باسم مارتن."
+      ],
+      "de": [
+        "Je voudrais faire une réservation.",
+        "Ich möchte eine Reservierung machen."
+      ]
+    }
+  },
+  {
+    "word": "commander",
+    "translations": {
+      "ar": "يطلب (الطعام)",
+      "de": "bestellen"
+    },
+    "explanation": {
+      "ar": "طلب الطعام في المطعم. اختيار الأطباق من القائمة.",
+      "de": "Essen im Restaurant bestellen. Gerichte von der Karte wählen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "commander"
+      },
+      {
+        "form": "Présent je",
+        "value": "commande"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "commande"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai commandé"
+      },
+      {
+        "form": "Futur",
+        "value": "commanderai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Êtes-vous prêt à commander?",
+        "هل أنت مستعد للطلب؟"
+      ],
+      "de": [
+        "Je commande le menu du jour.",
+        "Ich bestelle das Tagesmenü."
+      ]
+    }
+  },
+  {
+    "word": "servir",
+    "translations": {
+      "ar": "يخدم، يقدم",
+      "de": "servieren, bedienen"
+    },
+    "explanation": {
+      "ar": "تقديم الطعام للعملاء. واجب رئيسي للنادل.",
+      "de": "Essen den Gästen bringen. Hauptaufgabe des Kellners."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "servir"
+      },
+      {
+        "form": "Présent je",
+        "value": "sers"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "sert"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai servi"
+      },
+      {
+        "form": "Futur",
+        "value": "servirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je sers les clients avec plaisir.",
+        "أخدم العملاء بسرور."
+      ],
+      "de": [
+        "Le dîner est servi.",
+        "Das Abendessen ist serviert."
+      ]
+    }
+  },
+  {
+    "word": "l'addition",
+    "translations": {
+      "ar": "الحساب، الفاتورة",
+      "de": "Rechnung"
+    },
+    "explanation": {
+      "ar": "الفاتورة التي تظهر المبلغ الإجمالي للدفع. يطلبها العميل في نهاية الوجبة.",
+      "de": "Rechnung, die den Gesamtbetrag zeigt. Wird vom Gast am Ende der Mahlzeit verlangt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "L'addition, s'il vous plaît.",
+        "الحساب من فضلك."
+      ],
+      "de": [
+        "Je peux avoir l'addition?",
+        "Kann ich die Rechnung haben?"
+      ]
+    }
+  },
+  {
+    "word": "le pourboire",
+    "translations": {
+      "ar": "البقشيش، الإكرامية",
+      "de": "Trinkgeld"
+    },
+    "explanation": {
+      "ar": "مال إضافي يعطى للنادل كشكر على الخدمة الجيدة.",
+      "de": "Zusätzliches Geld für den Kellner als Dank für guten Service."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je laisse un pourboire généreux.",
+        "أترك بقشيشاً سخياً."
+      ],
+      "de": [
+        "Le pourboire est apprécié.",
+        "Das Trinkgeld wird geschätzt."
+      ]
+    }
+  },
+  {
+    "word": "la cuisine",
+    "translations": {
+      "ar": "المطبخ (المكان)",
+      "de": "Küche (Raum)"
+    },
+    "explanation": {
+      "ar": "الغرفة حيث يتم تحضير الطعام في المطعم. مكان عمل الطهاة.",
+      "de": "Raum, in dem Essen im Restaurant zubereitet wird. Arbeitsplatz der Köche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le chef travaille en cuisine.",
+        "الشيف يعمل في المطبخ."
+      ],
+      "de": [
+        "La cuisine est très propre.",
+        "Die Küche ist sehr sauber."
+      ]
+    }
+  },
+  {
+    "word": "la salle",
+    "translations": {
+      "ar": "الصالة، قاعة الطعام",
+      "de": "Speisesaal, Gastraum"
+    },
+    "explanation": {
+      "ar": "المنطقة حيث يجلس العملاء ويأكلون. مسؤولية النوادل.",
+      "de": "Bereich, in dem Gäste sitzen und essen. Verantwortung der Kellner."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La salle est pleine ce soir.",
+        "الصالة ممتلئة هذا المساء."
+      ],
+      "de": [
+        "Je travaille en salle.",
+        "Ich arbeite im Service."
+      ]
+    }
+  },
+  {
+    "word": "le couteau",
+    "translations": {
+      "ar": "السكين",
+      "de": "Messer"
+    },
+    "explanation": {
+      "ar": "أداة حادة للقطع. الأداة الأكثر أهمية في المطبخ.",
+      "de": "Scharfes Werkzeug zum Schneiden. Wichtigstes Werkzeug in der Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un couteau bien aiguisé est essentiel.",
+        "السكين الحاد ضروري."
+      ],
+      "de": [
+        "Le couteau de chef est polyvalent.",
+        "Das Kochmesser ist vielseitig."
+      ]
+    }
+  },
+  {
+    "word": "la fourchette",
+    "translations": {
+      "ar": "الشوكة",
+      "de": "Gabel"
+    },
+    "explanation": {
+      "ar": "أداة مائدة بأسنان لتناول الطعام.",
+      "de": "Tafelbesteck mit Zinken zum Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Utilisez la fourchette à gauche.",
+        "استخدم الشوكة على اليسار."
+      ],
+      "de": [
+        "La fourchette et le couteau.",
+        "Gabel und Messer."
+      ]
+    }
+  },
+  {
+    "word": "la cuillère",
+    "translations": {
+      "ar": "الملعقة",
+      "de": "Löffel"
+    },
+    "explanation": {
+      "ar": "أداة مائدة لتناول الطعام السائل أو الحساء.",
+      "de": "Tafelbesteck zum Essen von Flüssigem oder Suppe."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une cuillère à soupe.",
+        "ملعقة الحساء."
+      ],
+      "de": [
+        "La petite cuillère pour le café.",
+        "Der kleine Löffel für den Kaffee."
+      ]
+    }
+  },
+  {
+    "word": "l'assiette",
+    "translations": {
+      "ar": "الطبق، الصحن",
+      "de": "Teller"
+    },
+    "explanation": {
+      "ar": "طبق دائري لتقديم الطعام عليه.",
+      "de": "Runder Teller zum Servieren von Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Dressez le plat sur l'assiette.",
+        "رتب الطبق على الصحن."
+      ],
+      "de": [
+        "L'assiette est chaude.",
+        "Der Teller ist warm."
+      ]
+    }
+  },
+  {
+    "word": "le verre",
+    "translations": {
+      "ar": "الكأس، الكوب",
+      "de": "Glas"
+    },
+    "explanation": {
+      "ar": "كأس للشرب، للماء أو النبيذ أو مشروبات أخرى.",
+      "de": "Glas zum Trinken, für Wasser, Wein oder andere Getränke."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un verre de vin rouge, s'il vous plaît.",
+        "كأس من النبيذ الأحمر من فضلك."
+      ],
+      "de": [
+        "Le verre à eau est à droite.",
+        "Das Wasserglas ist rechts."
+      ]
+    }
+  },
+  {
+    "word": "la serviette",
+    "translations": {
+      "ar": "المنديل",
+      "de": "Serviette"
+    },
+    "explanation": {
+      "ar": "قطعة قماش لتنظيف الفم والأيدي أثناء الأكل.",
+      "de": "Stoffstück zum Reinigen von Mund und Händen beim Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mettez la serviette sur vos genoux.",
+        "ضع المنديل على حضنك."
+      ],
+      "de": [
+        "La serviette en tissu est élégante.",
+        "Die Stoffserviette ist elegant."
+      ]
+    }
+  },
+  {
+    "word": "la casserole",
+    "translations": {
+      "ar": "القدر، الطنجرة",
+      "de": "Kochtopf"
+    },
+    "explanation": {
+      "ar": "قدر عميق للطبخ على الموقد. أساسي في كل مطبخ.",
+      "de": "Tiefer Topf zum Kochen auf dem Herd. Grundlegend in jeder Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je fais bouillir l'eau dans une casserole.",
+        "أغلي الماء في قدر."
+      ],
+      "de": [
+        "Mettez la casserole sur le feu.",
+        "Stellen Sie den Topf auf das Feuer."
+      ]
+    }
+  },
+  {
+    "word": "la poêle",
+    "translations": {
+      "ar": "المقلاة",
+      "de": "Pfanne"
+    },
+    "explanation": {
+      "ar": "مقلاة مسطحة للقلي. أداة أساسية للطبخ.",
+      "de": "Flache Pfanne zum Braten. Grundlegendes Kochwerkzeug."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je fais chauffer la poêle.",
+        "أسخن المقلاة."
+      ],
+      "de": [
+        "Une poêle antiadhésive.",
+        "Eine Antihaft-Pfanne."
+      ]
+    }
+  },
+  {
+    "word": "le four",
+    "translations": {
+      "ar": "الفرن",
+      "de": "Ofen, Backofen"
+    },
+    "explanation": {
+      "ar": "جهاز للخبز والتحميص بحرارة محاطة. ضروري للمعجنات والخبز.",
+      "de": "Gerät zum Backen und Braten mit umschließender Hitze. Notwendig für Gebäck und Brot."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Préchauffez le four à 180 degrés.",
+        "سخن الفرن إلى 180 درجة."
+      ],
+      "de": [
+        "Le gâteau est au four.",
+        "Der Kuchen ist im Ofen."
+      ]
+    }
+  },
+  {
+    "word": "le réfrigérateur / le frigo",
+    "translations": {
+      "ar": "الثلاجة",
+      "de": "Kühlschrank"
+    },
+    "explanation": {
+      "ar": "جهاز للحفاظ على الطعام بارداً. ضروري لحفظ المكونات الطازجة.",
+      "de": "Gerät zum Kalthalten von Lebensmitteln. Notwendig zur Aufbewahrung frischer Zutaten."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mettez le lait au frigo.",
+        "ضع الحليب في الثلاجة."
+      ],
+      "de": [
+        "Le réfrigérateur est plein.",
+        "Der Kühlschrank ist voll."
+      ]
+    }
+  },
+  {
+    "word": "le congélateur",
+    "translations": {
+      "ar": "الفريزر، المجمّد",
+      "de": "Gefrierschrank, Tiefkühler"
+    },
+    "explanation": {
+      "ar": "جهاز لتجميد الطعام. يحفظ الطعام لفترات طويلة.",
+      "de": "Gerät zum Einfrieren von Lebensmitteln. Bewahrt Essen für lange Zeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les glaces sont au congélateur.",
+        "الآيس كريم في الفريزر."
+      ],
+      "de": [
+        "Congelez la viande.",
+        "Frieren Sie das Fleisch ein."
+      ]
+    }
+  },
+  {
+    "word": "le mixeur",
+    "translations": {
+      "ar": "الخلاط",
+      "de": "Mixer"
+    },
+    "explanation": {
+      "ar": "جهاز كهربائي لخلط وهرس الطعام. مفيد للحساء والصلصات.",
+      "de": "Elektrisches Gerät zum Mischen und Pürieren. Nützlich für Suppen und Saucen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mixez la soupe jusqu'à consistance lisse.",
+        "اخلط الحساء حتى يصبح ناعماً."
+      ],
+      "de": [
+        "Utilisez le mixeur pour la sauce.",
+        "Verwenden Sie den Mixer für die Sauce."
+      ]
+    }
+  },
+  {
+    "word": "la planche à découper",
+    "translations": {
+      "ar": "لوح التقطيع",
+      "de": "Schneidebrett"
+    },
+    "explanation": {
+      "ar": "لوح لتقطيع المكونات عليه. يحمي سطح العمل والسكاكين.",
+      "de": "Brett zum Schneiden von Zutaten. Schützt Arbeitsfläche und Messer."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Utilisez une planche à découper propre.",
+        "استخدم لوح تقطيع نظيف."
+      ],
+      "de": [
+        "Une planche à découper en bois.",
+        "Ein Holzschneidebrett."
+      ]
+    }
+  },
+  {
+    "word": "le tablier",
+    "translations": {
+      "ar": "المريلة",
+      "de": "Schürze"
+    },
+    "explanation": {
+      "ar": "ملابس واقية تلبس أمام الجسم في المطبخ. تحمي الملابس من البقع.",
+      "de": "Schutzkleidung vor dem Körper in der Küche. Schützt Kleidung vor Flecken."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Mettez votre tablier avant de cuisiner.",
+        "ارتدِ مريلتك قبل الطبخ."
+      ],
+      "de": [
+        "Le tablier blanc du chef.",
+        "Die weiße Schürze des Kochs."
+      ]
+    }
+  },
+  {
+    "word": "la recette",
+    "translations": {
+      "ar": "الوصفة",
+      "de": "Rezept"
+    },
+    "explanation": {
+      "ar": "تعليمات لطبخ طبق معين. تحتوي على المكونات والخطوات.",
+      "de": "Anleitung zum Kochen eines bestimmten Gerichts. Enthält Zutaten und Schritte."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je suis la recette exactement.",
+        "أتبع الوصفة بالضبط."
+      ],
+      "de": [
+        "C'est une recette de famille.",
+        "Das ist ein Familienrezept."
+      ]
+    }
+  },
+  {
+    "word": "l'ingrédient",
+    "translations": {
+      "ar": "المكوّن",
+      "de": "Zutat"
+    },
+    "explanation": {
+      "ar": "عنصر يستخدم في تحضير طبق. جزء من الوصفة.",
+      "de": "Element, das bei der Zubereitung eines Gerichts verwendet wird. Teil des Rezepts."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Tous les ingrédients sont frais.",
+        "جميع المكونات طازجة."
+      ],
+      "de": [
+        "Quel est l'ingrédient principal?",
+        "Was ist die Hauptzutat?"
+      ]
+    }
+  },
+  {
+    "word": "frais / fraîche",
+    "translations": {
+      "ar": "طازج / طازجة",
+      "de": "frisch"
+    },
+    "explanation": {
+      "ar": "طعام جديد وليس قديماً أو مجمداً. جودة مهمة في المطبخ الفرنسي.",
+      "de": "Neues Essen, nicht alt oder gefroren. Wichtige Qualität in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Les légumes sont frais du marché.",
+        "الخضروات طازجة من السوق."
+      ],
+      "de": [
+        "Du pain frais tous les jours.",
+        "Frisches Brot jeden Tag."
+      ]
+    }
+  },
+  {
+    "word": "délicieux / délicieuse",
+    "translations": {
+      "ar": "لذيذ / لذيذة",
+      "de": "köstlich, lecker"
+    },
+    "explanation": {
+      "ar": "طعم ممتاز ولذيذ جداً. أعلى مجاملة للطعام.",
+      "de": "Ausgezeichneter und sehr leckerer Geschmack. Höchstes Kompliment für Essen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce plat est absolument délicieux!",
+        "هذا الطبق لذيذ جداً!"
+      ],
+      "de": [
+        "La tarte est délicieuse.",
+        "Die Torte ist köstlich."
+      ]
+    }
+  },
+  {
+    "word": "le sel",
+    "translations": {
+      "ar": "الملح",
+      "de": "Salz"
+    },
+    "explanation": {
+      "ar": "توابل بيضاء أساسية لإضافة النكهة. الأكثر أهمية في الطبخ.",
+      "de": "Grundlegendes weißes Gewürz zum Hinzufügen von Geschmack. Wichtigstes beim Kochen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ajoutez une pincée de sel.",
+        "أضف رشة ملح."
+      ],
+      "de": [
+        "Le sel de mer est meilleur.",
+        "Meersalz ist besser."
+      ]
+    }
+  },
+  {
+    "word": "le poivre",
+    "translations": {
+      "ar": "الفلفل الأسود",
+      "de": "Pfeffer"
+    },
+    "explanation": {
+      "ar": "توابل حارة من حبوب الفلفل. يستخدم دائماً مع الملح.",
+      "de": "Scharfes Gewürz aus Pfefferkörnern. Wird immer mit Salz verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Du sel et du poivre.",
+        "ملح وفلفل أسود."
+      ],
+      "de": [
+        "Poivrez généreusement.",
+        "Pfeffern Sie großzügig."
+      ]
+    }
+  },
+  {
+    "word": "l'huile",
+    "translations": {
+      "ar": "الزيت",
+      "de": "Öl"
+    },
+    "explanation": {
+      "ar": "سائل دهني للطبخ والسلطات. زيت الزيتون شائع جداً في فرنسا.",
+      "de": "Fette Flüssigkeit zum Kochen und für Salate. Olivenöl ist sehr verbreitet in Frankreich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "L'huile d'olive est saine.",
+        "زيت الزيتون صحي."
+      ],
+      "de": [
+        "Ajoutez un filet d'huile.",
+        "Fügen Sie einen Schuss Öl hinzu."
+      ]
+    }
+  },
+  {
+    "word": "le beurre",
+    "translations": {
+      "ar": "الزبدة",
+      "de": "Butter"
+    },
+    "explanation": {
+      "ar": "دهن من الحليب، أساسي في المطبخ الفرنسي. تستخدم في الطبخ والخبز.",
+      "de": "Fett aus Milch, grundlegend in der französischen Küche. Wird zum Kochen und Backen verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le beurre français est excellent.",
+        "الزبدة الفرنسية ممتازة."
+      ],
+      "de": [
+        "Faites fondre le beurre.",
+        "Lassen Sie die Butter schmelzen."
+      ]
+    }
+  },
+  {
+    "word": "la crème",
+    "translations": {
+      "ar": "الكريمة",
+      "de": "Sahne, Rahm"
+    },
+    "explanation": {
+      "ar": "الجزء الدهني من الحليب. تستخدم في الصلصات والحلويات.",
+      "de": "Fettiger Teil der Milch. Wird in Saucen und Desserts verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La crème fraîche épaissit la sauce.",
+        "الكريمة الطازجة تكثف الصلصة."
+      ],
+      "de": [
+        "Ajoutez de la crème.",
+        "Fügen Sie Sahne hinzu."
+      ]
+    }
+  },
+  {
+    "word": "le lait",
+    "translations": {
+      "ar": "الحليب",
+      "de": "Milch"
+    },
+    "explanation": {
+      "ar": "سائل أبيض من البقر. يستخدم في الطبخ والخبز والمشروبات.",
+      "de": "Weiße Flüssigkeit von Kühen. Wird zum Kochen, Backen und für Getränke verwendet."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Du lait entier pour la béchamel.",
+        "حليب كامل الدسم للبشاميل."
+      ],
+      "de": [
+        "Un verre de lait.",
+        "Ein Glas Milch."
+      ]
+    }
+  },
+  {
+    "word": "l'œuf / les œufs",
+    "translations": {
+      "ar": "البيض / البيضة",
+      "de": "Ei / Eier"
+    },
+    "explanation": {
+      "ar": "بيض الدجاج، مكون متعدد الاستخدامات. أساسي في الطبخ والخبز.",
+      "de": "Hühnereier, vielseitige Zutat. Grundlegend beim Kochen und Backen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je casse les œufs dans un bol.",
+        "أكسر البيض في وعاء."
+      ],
+      "de": [
+        "Des œufs frais de la ferme.",
+        "Frische Eier vom Bauernhof."
+      ]
+    }
+  },
+  {
+    "word": "la farine",
+    "translations": {
+      "ar": "الدقيق",
+      "de": "Mehl"
+    },
+    "explanation": {
+      "ar": "مسحوق من القمح المطحون. أساسي للخبز والمعجنات.",
+      "de": "Pulver aus gemahlenem Weizen. Grundlegend für Brot und Gebäck."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ajoutez la farine progressivement.",
+        "أضف الدقيق تدريجياً."
+      ],
+      "de": [
+        "De la farine de blé.",
+        "Weizenmehl."
+      ]
+    }
+  },
+  {
+    "word": "le sucre",
+    "translations": {
+      "ar": "السكر",
+      "de": "Zucker"
+    },
+    "explanation": {
+      "ar": "مادة حلوة بيضاء. أساسية للحلويات والمخبوزات.",
+      "de": "Weiße süße Substanz. Grundlegend für Desserts und Backwaren."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Du sucre en poudre pour la pâtisserie.",
+        "سكر بودرة للمعجنات."
+      ],
+      "de": [
+        "Ajoutez deux cuillères de sucre.",
+        "Fügen Sie zwei Löffel Zucker hinzu."
+      ]
+    }
+  },
+  {
+    "word": "le pain",
+    "translations": {
+      "ar": "الخبز",
+      "de": "Brot"
+    },
+    "explanation": {
+      "ar": "طعام أساسي من الدقيق والماء والخميرة. جزء من كل وجبة فرنسية.",
+      "de": "Grundnahrungsmittel aus Mehl, Wasser und Hefe. Teil jeder französischen Mahlzeit."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Du pain frais avec du beurre.",
+        "خبز طازج مع الزبدة."
+      ],
+      "de": [
+        "Le pain français est le meilleur.",
+        "Französisches Brot ist das Beste."
+      ]
+    }
+  },
+  {
+    "word": "le riz",
+    "translations": {
+      "ar": "الأرز",
+      "de": "Reis"
+    },
+    "explanation": {
+      "ar": "حبوب بيضاء تطبخ في الماء. طبق جانبي شائع.",
+      "de": "Weiße Körner in Wasser gekocht. Beliebte Beilage."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le riz basmati est parfumé.",
+        "أرز بسمتي عطري."
+      ],
+      "de": [
+        "Du riz comme accompagnement.",
+        "Reis als Beilage."
+      ]
+    }
+  },
+  {
+    "word": "les pâtes",
+    "translations": {
+      "ar": "المعكرونة",
+      "de": "Nudeln"
+    },
+    "explanation": {
+      "ar": "عجين من الدقيق والبيض بأشكال مختلفة. شائعة في المطبخ الفرنسي.",
+      "de": "Teig aus Mehl und Eiern in verschiedenen Formen. Verbreitet in der französischen Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Des pâtes fraîches maison.",
+        "معكرونة طازجة منزلية."
+      ],
+      "de": [
+        "Les pâtes al dente.",
+        "Nudeln al dente."
+      ]
+    }
+  },
+  {
+    "word": "Bon appétit!",
+    "translations": {
+      "ar": "بالهناء والشفاء!",
+      "de": "Guten Appetit!"
+    },
+    "explanation": {
+      "ar": "تحية تقال قبل الأكل. تعبير فرنسي تقليدي.",
+      "de": "Gruß vor dem Essen. Traditioneller französischer Ausdruck."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bon appétit à tous!",
+        "بالهناء والشفاء للجميع!"
+      ],
+      "de": [
+        "Je vous souhaite bon appétit.",
+        "Ich wünsche Ihnen guten Appetit."
+      ]
+    }
+  },
+  {
+    "word": "Bienvenue!",
+    "translations": {
+      "ar": "أهلاً وسهلاً!",
+      "de": "Willkommen!"
+    },
+    "explanation": {
+      "ar": "تحية للترحيب بالضيوف. أول ما يقال للعملاء.",
+      "de": "Begrüßung für Gäste. Erstes, was man zu Kunden sagt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Bienvenue dans notre restaurant!",
+        "أهلاً وسهلاً في مطعمنا!"
+      ],
+      "de": [
+        "Soyez les bienvenus!",
+        "Seien Sie willkommen!"
+      ]
+    }
+  },
+  {
+    "word": "Santé!",
+    "translations": {
+      "ar": "في صحتك! (نخب)",
+      "de": "Prost! Zum Wohl!"
+    },
+    "explanation": {
+      "ar": "نخب عند شرب النبيذ أو الشمبانيا. يعني حرفياً 'صحة'.",
+      "de": "Toast beim Trinken von Wein oder Champagner. Bedeutet wörtlich 'Gesundheit'."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Santé! À votre réussite!",
+        "في صحتك! لنجاحك!"
+      ],
+      "de": [
+        "Levons nos verres et disons santé!",
+        "Erheben wir unsere Gläser und sagen Prost!"
+      ]
+    }
+  },
+  {
+    "word": "Excusez-moi",
+    "translations": {
+      "ar": "عفواً، آسف",
+      "de": "Entschuldigung"
+    },
+    "explanation": {
+      "ar": "تعبير للاعتذار أو لطلب الانتباه بأدب. ضروري في الخدمة.",
+      "de": "Ausdruck zum Entschuldigen oder um höflich Aufmerksamkeit zu erbitten. Notwendig im Service."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Excusez-moi, votre table est prête.",
+        "عفواً، طاولتك جاهزة."
+      ],
+      "de": [
+        "Excusez-moi pour le retard.",
+        "Entschuldigung für die Verspätung."
+      ]
+    }
+  },
+  {
+    "word": "S'il vous plaît",
+    "translations": {
+      "ar": "من فضلك، لو سمحت",
+      "de": "Bitte (förmlich)"
+    },
+    "explanation": {
+      "ar": "تعبير أدب لطلب شيء. أساسي في التواصل المهني.",
+      "de": "Höflicher Ausdruck, um etwas zu bitten. Grundlegend in professioneller Kommunikation."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "L'addition, s'il vous plaît.",
+        "الحساب من فضلك."
+      ],
+      "de": [
+        "Un café, s'il vous plaît.",
+        "Einen Kaffee, bitte."
+      ]
+    }
+  },
+  {
+    "word": "Merci",
+    "translations": {
+      "ar": "شكراً",
+      "de": "Danke"
+    },
+    "explanation": {
+      "ar": "كلمة شكر. أساسية في التفاعلات اليومية.",
+      "de": "Dankesworte. Grundlegend in täglichen Interaktionen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Merci beaucoup!",
+        "شكراً جزيلاً!"
+      ],
+      "de": [
+        "Merci pour votre visite.",
+        "Danke für Ihren Besuch."
+      ]
+    }
+  },
+  {
+    "word": "De rien",
+    "translations": {
+      "ar": "على الرحب والسعة، لا شكر على واجب",
+      "de": "Gern geschehen, keine Ursache"
+    },
+    "explanation": {
+      "ar": "رد على الشكر. يعني حرفياً 'من لا شيء'.",
+      "de": "Antwort auf Danke. Bedeutet wörtlich 'von nichts'."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Merci! - De rien.",
+        "شكراً! - على الرحب."
+      ],
+      "de": [
+        "Je vous en prie. / De rien.",
+        "Bitte sehr. / Gern geschehen."
+      ]
+    }
+  },
+  {
+    "word": "Au revoir",
+    "translations": {
+      "ar": "وداعاً، مع السلامة",
+      "de": "Auf Wiedersehen"
+    },
+    "explanation": {
+      "ar": "وداع رسمي. يقال عند مغادرة المطعم.",
+      "de": "Förmlicher Abschied. Wird beim Verlassen des Restaurants gesagt."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Au revoir et à bientôt!",
+        "وداعاً وإلى اللقاء قريباً!"
+      ],
+      "de": [
+        "Au revoir, bonne journée!",
+        "Auf Wiedersehen, schönen Tag!"
+      ]
+    }
+  },
+  {
+    "word": "À bientôt",
+    "translations": {
+      "ar": "إلى اللقاء قريباً",
+      "de": "Bis bald"
+    },
+    "explanation": {
+      "ar": "وداع يعني 'نراك قريباً'. ودي أكثر من 'au revoir'.",
+      "de": "Abschied bedeutet 'sehen Sie bald'. Freundlicher als 'au revoir'."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "À bientôt dans notre restaurant!",
+        "إلى اللقاء قريباً في مطعمنا!"
+      ],
+      "de": [
+        "À bientôt, au plaisir de vous revoir.",
+        "Bis bald, freue mich Sie wiederzusehen."
+      ]
+    }
+  },
+  {
+    "word": "le déjeuner",
+    "translations": {
+      "ar": "الغداء",
+      "de": "Mittagessen"
+    },
+    "explanation": {
+      "ar": "وجبة منتصف النهار. وجبة رئيسية في فرنسا.",
+      "de": "Mahlzeit zur Mittagszeit. Hauptmahlzeit in Frankreich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le service du déjeuner est de 12h à 14h.",
+        "خدمة الغداء من الساعة 12 إلى 14."
+      ],
+      "de": [
+        "Qu'est-ce qu'on mange pour le déjeuner?",
+        "Was essen wir zum Mittagessen?"
+      ]
+    }
+  },
+  {
+    "word": "le dîner",
+    "translations": {
+      "ar": "العشاء",
+      "de": "Abendessen"
+    },
+    "explanation": {
+      "ar": "وجبة المساء. عادة بين 19:00 و 22:00 في فرنسا.",
+      "de": "Abendmahlzeit. Üblicherweise zwischen 19 und 22 Uhr in Frankreich."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le dîner est servi à partir de 19h.",
+        "يقدم العشاء ابتداءً من الساعة 19."
+      ],
+      "de": [
+        "Nous dînons à 20 heures.",
+        "Wir essen um 20 Uhr zu Abend."
+      ]
+    }
+  },
+  {
+    "word": "le petit-déjeuner",
+    "translations": {
+      "ar": "الفطور، الإفطار",
+      "de": "Frühstück"
+    },
+    "explanation": {
+      "ar": "وجبة الصباح. في فرنسا عادة خفيفة مع القهوة والكرواسون.",
+      "de": "Morgenmahlzeit. In Frankreich meist leicht mit Kaffee und Croissant."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le petit-déjeuner est inclus.",
+        "الفطور مشمول."
+      ],
+      "de": [
+        "Le petit-déjeuner continental.",
+        "Das kontinentale Frühstück."
+      ]
+    }
+  },
+  {
+    "word": "manger",
+    "translations": {
+      "ar": "يأكل",
+      "de": "essen"
+    },
+    "explanation": {
+      "ar": "تناول الطعام. فعل أساسي.",
+      "de": "Nahrung zu sich nehmen. Grundlegendes Verb."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "manger"
+      },
+      {
+        "form": "Présent je",
+        "value": "mange"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "mange"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai mangé"
+      },
+      {
+        "form": "Futur",
+        "value": "mangerai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je mange au restaurant.",
+        "آكل في المطعم."
+      ],
+      "de": [
+        "Nous mangeons bien ici.",
+        "Wir essen hier gut."
+      ]
+    }
+  },
+  {
+    "word": "boire",
+    "translations": {
+      "ar": "يشرب",
+      "de": "trinken"
+    },
+    "explanation": {
+      "ar": "شرب السوائل. فعل أساسي.",
+      "de": "Flüssigkeiten zu sich nehmen. Grundlegendes Verb."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "boire"
+      },
+      {
+        "form": "Présent je",
+        "value": "bois"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "boit"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai bu"
+      },
+      {
+        "form": "Futur",
+        "value": "boirai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Je bois un verre d'eau.",
+        "أشرب كأس ماء."
+      ],
+      "de": [
+        "Qu'est-ce que vous buvez?",
+        "Was trinken Sie?"
+      ]
+    }
+  },
+  {
+    "word": "goûter",
+    "translations": {
+      "ar": "يتذوق",
+      "de": "probieren, schmecken"
+    },
+    "explanation": {
+      "ar": "تذوق الطعام لتقييم النكهة. مهم في الطبخ.",
+      "de": "Essen probieren, um den Geschmack zu beurteilen. Wichtig beim Kochen."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "goûter"
+      },
+      {
+        "form": "Présent je",
+        "value": "goûte"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "goûte"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai goûté"
+      },
+      {
+        "form": "Futur",
+        "value": "goûterai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Goûtez la sauce.",
+        "تذوق الصلصة."
+      ],
+      "de": [
+        "Je goûte avant de servir.",
+        "Ich probiere vor dem Servieren."
+      ]
+    }
+  },
+  {
+    "word": "déguster",
+    "translations": {
+      "ar": "يتذوق بتمعن، يستمتع بالطعام",
+      "de": "genießen, verkosten"
+    },
+    "explanation": {
+      "ar": "تذوق وتقدير الطعام أو النبيذ بعناية. أكثر من مجرد تذوق.",
+      "de": "Essen oder Wein sorgfältig probieren und schätzen. Mehr als nur probieren."
+    },
+    "conjugations": [
+      {
+        "form": "Infinitif",
+        "value": "déguster"
+      },
+      {
+        "form": "Présent je",
+        "value": "déguste"
+      },
+      {
+        "form": "Présent il/elle",
+        "value": "déguste"
+      },
+      {
+        "form": "Passé composé",
+        "value": "ai dégusté"
+      },
+      {
+        "form": "Futur",
+        "value": "dégusterai"
+      }
+    ],
+    "examples": {
+      "ar": [
+        "Nous dégustons un grand vin.",
+        "نتذوق نبيذاً فاخراً."
+      ],
+      "de": [
+        "Dégustez lentement ce fromage.",
+        "Genießen Sie diesen Käse langsam."
+      ]
+    }
+  },
+  {
+    "word": "le goût",
+    "translations": {
+      "ar": "الطعم، المذاق",
+      "de": "Geschmack"
+    },
+    "explanation": {
+      "ar": "النكهة التي نشعر بها عند تناول الطعام. أحد الحواس الخمس.",
+      "de": "Geschmack, den wir beim Essen wahrnehmen. Einer der fünf Sinne."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce plat a un goût délicieux.",
+        "لهذا الطبق طعم لذيذ."
+      ],
+      "de": [
+        "Le goût est parfait.",
+        "Der Geschmack ist perfekt."
+      ]
+    }
+  },
+  {
+    "word": "sucré / sucrée",
+    "translations": {
+      "ar": "حلو / حلوة",
+      "de": "süß"
+    },
+    "explanation": {
+      "ar": "طعم حلو مثل السكر. أحد الأذواق الأساسية.",
+      "de": "Süßer Geschmack wie Zucker. Einer der Grundgeschmäcker."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce dessert est très sucré.",
+        "هذه الحلوى حلوة جداً."
+      ],
+      "de": [
+        "Les fruits sont naturellement sucrés.",
+        "Früchte sind natürlich süß."
+      ]
+    }
+  },
+  {
+    "word": "salé / salée",
+    "translations": {
+      "ar": "مالح / مالحة",
+      "de": "salzig"
+    },
+    "explanation": {
+      "ar": "طعم مالح مثل الملح. أحد الأذواق الأساسية.",
+      "de": "Salziger Geschmack wie Salz. Einer der Grundgeschmäcker."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce plat est trop salé.",
+        "هذا الطبق مالح جداً."
+      ],
+      "de": [
+        "Les plats salés avant les sucrés.",
+        "Salzige Gerichte vor den süßen."
+      ]
+    }
+  },
+  {
+    "word": "acide",
+    "translations": {
+      "ar": "حامض",
+      "de": "sauer"
+    },
+    "explanation": {
+      "ar": "طعم حامض مثل الليمون أو الخل. أحد الأذواق الأساسية.",
+      "de": "Saurer Geschmack wie Zitrone oder Essig. Einer der Grundgeschmäcker."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le citron est acide.",
+        "الليمون حامض."
+      ],
+      "de": [
+        "Une sauce légèrement acide.",
+        "Eine leicht saure Sauce."
+      ]
+    }
+  },
+  {
+    "word": "amer / amère",
+    "translations": {
+      "ar": "مر / مرة",
+      "de": "bitter"
+    },
+    "explanation": {
+      "ar": "طعم مر مثل القهوة السوداء. أحد الأذواق الأساسية.",
+      "de": "Bitterer Geschmack wie schwarzer Kaffee. Einer der Grundgeschmäcker."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le café noir est amer.",
+        "القهوة السوداء مرة."
+      ],
+      "de": [
+        "Les endives sont légèrement amères.",
+        "Endivien sind leicht bitter."
+      ]
+    }
+  },
+  {
+    "word": "épicé / épicée",
+    "translations": {
+      "ar": "حار، متبّل",
+      "de": "scharf, würzig"
+    },
+    "explanation": {
+      "ar": "طعم حار من التوابل مثل الفلفل الحار.",
+      "de": "Scharfer Geschmack von Gewürzen wie Chili."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce curry est très épicé.",
+        "هذا الكاري حار جداً."
+      ],
+      "de": [
+        "Vous aimez épicé?",
+        "Mögen Sie es scharf?"
+      ]
+    }
+  },
+  {
+    "word": "doux / douce",
+    "translations": {
+      "ar": "لطيف، معتدل",
+      "de": "mild, sanft"
+    },
+    "explanation": {
+      "ar": "طعم لطيف وليس قوياً. غير حار وغير حامض.",
+      "de": "Milder Geschmack, nicht stark. Nicht scharf und nicht sauer."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une sauce douce pour les enfants.",
+        "صلصة معتدلة للأطفال."
+      ],
+      "de": [
+        "Le fromage est doux.",
+        "Der Käse ist mild."
+      ]
+    }
+  },
+  {
+    "word": "chaud / chaude",
+    "translations": {
+      "ar": "ساخن / ساخنة",
+      "de": "heiß, warm"
+    },
+    "explanation": {
+      "ar": "درجة حرارة عالية. يقدم الطعام ساخناً عادة.",
+      "de": "Hohe Temperatur. Essen wird meist heiß serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La soupe est bien chaude.",
+        "الحساء ساخن جيداً."
+      ],
+      "de": [
+        "Attention, c'est très chaud!",
+        "Vorsicht, es ist sehr heiß!"
+      ]
+    }
+  },
+  {
+    "word": "froid / froide",
+    "translations": {
+      "ar": "بارد / باردة",
+      "de": "kalt"
+    },
+    "explanation": {
+      "ar": "درجة حرارة منخفضة. بعض الأطباق تقدم باردة.",
+      "de": "Niedrige Temperatur. Einige Gerichte werden kalt serviert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Une salade froide.",
+        "سلطة باردة."
+      ],
+      "de": [
+        "Le vin blanc doit être froid.",
+        "Weißwein muss kalt sein."
+      ]
+    }
+  },
+  {
+    "word": "tiède",
+    "translations": {
+      "ar": "فاتر، دافئ",
+      "de": "lauwarm"
+    },
+    "explanation": {
+      "ar": "درجة حرارة معتدلة، بين البارد والساخن.",
+      "de": "Mäßige Temperatur, zwischen kalt und heiß."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le café est tiède, réchauffez-le.",
+        "القهوة فاترة، أعد تسخينها."
+      ],
+      "de": [
+        "Servez à température tiède.",
+        "Bei lauwarmer Temperatur servieren."
+      ]
+    }
+  },
+  {
+    "word": "cru / crue",
+    "translations": {
+      "ar": "نيء / نيئة",
+      "de": "roh"
+    },
+    "explanation": {
+      "ar": "غير مطبوخ. بعض الأطعمة تؤكل نيئة مثل السوشي.",
+      "de": "Nicht gekocht. Einige Lebensmittel werden roh gegessen wie Sushi."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le poisson cru pour le sushi.",
+        "السمك النيء للسوشي."
+      ],
+      "de": [
+        "Les légumes crus en salade.",
+        "Rohes Gemüse im Salat."
+      ]
+    }
+  },
+  {
+    "word": "cuit / cuite",
+    "translations": {
+      "ar": "مطبوخ / مطبوخة",
+      "de": "gekocht, gegart"
+    },
+    "explanation": {
+      "ar": "مطبوخ بالحرارة. عكس نيء.",
+      "de": "Mit Hitze zubereitet. Gegenteil von roh."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La viande est bien cuite.",
+        "اللحم مطبوخ جيداً."
+      ],
+      "de": [
+        "Les légumes cuits à la vapeur.",
+        "Gedämpftes Gemüse."
+      ]
+    }
+  },
+  {
+    "word": "saignant",
+    "translations": {
+      "ar": "نيء (اللحم)",
+      "de": "blutig, rare (Fleisch)"
+    },
+    "explanation": {
+      "ar": "لحم مطبوخ قليلاً جداً، لا يزال أحمر في الداخل. درجة طهي اللحم.",
+      "de": "Sehr wenig gekochtes Fleisch, innen noch rot. Garstufe für Fleisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un steak saignant, s'il vous plaît.",
+        "ستيك نيء من فضلك."
+      ],
+      "de": [
+        "Vous le voulez saignant ou à point?",
+        "Möchten Sie es blutig oder medium?"
+      ]
+    }
+  },
+  {
+    "word": "à point",
+    "translations": {
+      "ar": "متوسط الطهي",
+      "de": "medium (Fleisch)"
+    },
+    "explanation": {
+      "ar": "لحم مطبوخ بشكل متوسط، وردي في الداخل. درجة طهي اللحم المفضلة.",
+      "de": "Medium gekochtes Fleisch, innen rosa. Bevorzugte Garstufe für Fleisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Je préfère mon steak à point.",
+        "أفضل الستيك متوسط الطهي."
+      ],
+      "de": [
+        "La cuisson à point est parfaite.",
+        "Medium ist perfekt."
+      ]
+    }
+  },
+  {
+    "word": "bien cuit",
+    "translations": {
+      "ar": "مطبوخ جيداً",
+      "de": "durchgebraten, well done"
+    },
+    "explanation": {
+      "ar": "لحم مطبوخ بالكامل، بني من الداخل. درجة طهي اللحم.",
+      "de": "Vollständig gekochtes Fleisch, innen braun. Garstufe für Fleisch."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Un steak bien cuit pour mon fils.",
+        "ستيك مطبوخ جيداً لابني."
+      ],
+      "de": [
+        "Je n'aime pas la viande bien cuite.",
+        "Ich mag kein durchgebratenes Fleisch."
+      ]
+    }
+  },
+  {
+    "word": "le métier",
+    "translations": {
+      "ar": "المهنة، الحرفة",
+      "de": "Beruf, Handwerk"
+    },
+    "explanation": {
+      "ar": "المهنة أو الحرفة. الطبخ مهنة تتطلب مهارة وتدريب.",
+      "de": "Beruf oder Handwerk. Kochen ist ein Beruf, der Können und Ausbildung erfordert."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Le métier de cuisinier est exigeant.",
+        "مهنة الطباخ متطلبة."
+      ],
+      "de": [
+        "J'apprends le métier dans ce restaurant.",
+        "Ich lerne den Beruf in diesem Restaurant."
+      ]
+    }
+  },
+  {
+    "word": "la passion",
+    "translations": {
+      "ar": "الشغف",
+      "de": "Leidenschaft"
+    },
+    "explanation": {
+      "ar": "حب قوي لشيء ما. الطهاة يحتاجون إلى شغف للطبخ.",
+      "de": "Starke Liebe für etwas. Köche brauchen Leidenschaft fürs Kochen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "La cuisine est ma passion.",
+        "الطبخ هو شغفي."
+      ],
+      "de": [
+        "Il travaille avec passion.",
+        "Er arbeitet mit Leidenschaft."
+      ]
+    }
+  },
+  {
+    "word": "le talent",
+    "translations": {
+      "ar": "الموهبة",
+      "de": "Talent, Begabung"
+    },
+    "explanation": {
+      "ar": "قدرة طبيعية أو مهارة. الطهاة الجيدون لديهم موهبة.",
+      "de": "Natürliche Fähigkeit oder Können. Gute Köche haben Talent."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce chef a un grand talent.",
+        "هذا الشيف لديه موهبة كبيرة."
+      ],
+      "de": [
+        "Il faut du talent pour réussir.",
+        "Man braucht Talent, um erfolgreich zu sein."
+      ]
+    }
+  },
+  {
+    "word": "l'expérience",
+    "translations": {
+      "ar": "الخبرة",
+      "de": "Erfahrung"
+    },
+    "explanation": {
+      "ar": "المعرفة والمهارة من العمل لفترة طويلة. مهمة في المطبخ.",
+      "de": "Wissen und Können durch lange Arbeit. Wichtig in der Küche."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "J'ai 10 ans d'expérience en cuisine.",
+        "لدي 10 سنوات من الخبرة في المطبخ."
+      ],
+      "de": [
+        "L'expérience est essentielle.",
+        "Erfahrung ist wesentlich."
+      ]
+    }
+  },
+  {
+    "word": "la qualité",
+    "translations": {
+      "ar": "الجودة",
+      "de": "Qualität"
+    },
+    "explanation": {
+      "ar": "مستوى الامتياز. المطبخ الفرنسي يركز على الجودة.",
+      "de": "Grad der Exzellenz. Die französische Küche konzentriert sich auf Qualität."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Nous utilisons des produits de qualité.",
+        "نستخدم منتجات عالية الجودة."
+      ],
+      "de": [
+        "La qualité avant tout.",
+        "Qualität vor allem."
+      ]
+    }
+  },
+  {
+    "word": "la tradition",
+    "translations": {
+      "ar": "التقليد",
+      "de": "Tradition"
+    },
+    "explanation": {
+      "ar": "العادات والممارسات الموروثة. المطبخ الفرنسي غني بالتقاليد.",
+      "de": "Überlieferte Bräuche und Praktiken. Die französische Küche ist reich an Traditionen."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Nous respectons la tradition française.",
+        "نحترم التقليد الفرنسي."
+      ],
+      "de": [
+        "Une recette de tradition familiale.",
+        "Ein Rezept aus Familientradition."
+      ]
+    }
+  },
+  {
+    "word": "l'innovation",
+    "translations": {
+      "ar": "الابتكار",
+      "de": "Innovation"
+    },
+    "explanation": {
+      "ar": "أفكار وطرق جديدة. المطبخ الحديث يجمع بين التقليد والابتكار.",
+      "de": "Neue Ideen und Methoden. Moderne Küche verbindet Tradition und Innovation."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Ce chef est connu pour son innovation.",
+        "هذا الشيف معروف بابتكاره."
+      ],
+      "de": [
+        "L'innovation dans la gastronomie.",
+        "Innovation in der Gastronomie."
+      ]
+    }
+  }
+]
