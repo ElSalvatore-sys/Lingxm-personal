@@ -1,7 +1,7 @@
 // LingXM Personal - Service Worker
 // Enables offline support and fast loading through caching
 
-const CACHE_NAME = 'lingxm-v3';  // Incremented to force cache refresh - simplified profiles update
+const CACHE_NAME = 'lingxm-v4';  // Force complete cache clear - iPhone fix
 const urlsToCache = [
   '/',
   '/index.html',

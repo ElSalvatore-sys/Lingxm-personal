@@ -21,6 +21,36 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png">
     <link rel="apple-touch-icon" sizes="167x167" href="/icons/icon-192x192.png">
 
+    <!-- Force Cache Clear on Version Mismatch -->
+    <script>
+      const APP_VERSION = '4.0';  // Increment this to force cache clear
+      const cachedVersion = localStorage.getItem('lingxm-app-version');
+
+      if (cachedVersion !== APP_VERSION) {
+        console.log('[Cache] Version mismatch detected, clearing caches...');
+        localStorage.setItem('lingxm-app-version', APP_VERSION);
+
+        // Unregister all service workers
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.getRegistrations().then(registrations => {
+            registrations.forEach(reg => reg.unregister());
+          });
+        }
+
+        // Clear all caches
+        if ('caches' in window) {
+          caches.keys().then(names => {
+            names.forEach(name => caches.delete(name));
+          });
+        }
+
+        // Force hard reload after a short delay
+        setTimeout(() => {
+          window.location.reload(true);
+        }, 100);
+      }
+    </script>
+
     <!-- Service Worker Registration -->
     <script>
       if ('serviceWorker' in navigator) {
