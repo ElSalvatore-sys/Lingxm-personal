@@ -2,6 +2,44 @@
    LingXM Personal - Modern Minimalist Design
    ============================================ */
 
+/* ============================================
+   CRITICAL MOBILE OPTIMIZATIONS FOR iOS
+   ============================================ */
+
+/* Fix height issues on mobile browsers (iOS Safari, Chrome) */
+html {
+  height: 100%;
+  height: -webkit-fill-available;
+}
+
+body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+
+/* Remove tap highlight on iOS */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* iOS momentum scrolling for modals and scrollable containers */
+.achievements-modal .achievements-content,
+.settings-modal .settings-content,
+.analytics-modal .analytics-body,
+.word-card,
+.modal-content {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Prevent overscroll bounce on main container */
+#app {
+  overscroll-behavior-y: none;
+}
+
+/* ============================================
+   END MOBILE OPTIMIZATIONS
+   ============================================ */
+
 /* Reset */
 * {
   margin: 0;
