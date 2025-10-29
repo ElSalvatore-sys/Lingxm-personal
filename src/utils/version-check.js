@@ -86,3 +86,10 @@ export class VersionChecker {
     }
   }
 }
+
+// Initialize and start version checking
+export function initVersionCheck() {
+  const checker = new VersionChecker();
+  checker.init();
+  return checker;
+}
