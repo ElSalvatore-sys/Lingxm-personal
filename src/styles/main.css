@@ -156,16 +156,28 @@ body {
   font-family: var(--font-sans);
   background: var(--bg-primary);
   color: var(--text-primary);
-  overflow: hidden;
+  overflow: hidden; /* Default: hidden for learning screens */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   touch-action: pan-y;
 }
 
+/* CRITICAL FIX: Allow scrolling when profile-selection is active */
+body:has(#profile-selection.active),
+body.profile-selection-active {
+  overflow: visible !important;
+}
+
 #app {
   height: 100vh;
   width: 100vw;
-  overflow: hidden;
+  overflow: hidden; /* Default: hidden for learning screens */
+}
+
+/* CRITICAL FIX: Allow scrolling when profile-selection is active */
+#app:has(#profile-selection.active),
+#app.profile-selection-active {
+  overflow: visible !important;
 }
 
 /* ============================================
@@ -183,6 +195,14 @@ body {
   flex-direction: column;
 }
 
+/* CRITICAL FIX: Profile selection needs flexible height to scroll */
+#profile-selection.screen {
+  height: auto;
+  min-height: 100vh;
+  overflow-y: scroll !important;
+  overflow-x: hidden;
+}
+
 /* ============================================
    Profile Selection - Glassmorphism
    ============================================ */
@@ -192,9 +212,12 @@ body {
   align-items: center;
   background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
   position: relative;
-  overflow-y: auto;
+  overflow-y: scroll !important;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  height: auto !important;
+  min-height: 100vh;
+  padding-bottom: 80px; /* Extra space at bottom for scrolling */
 }
 
 #profile-selection::before {

@@ -772,6 +772,15 @@ class LingXMApp {
       screen.classList.remove('active');
     });
     document.getElementById(screenId).classList.add('active');
+
+    // CRITICAL FIX: Add class to body for profile-selection scroll (fallback for :has())
+    if (screenId === 'profile-selection') {
+      document.body.classList.add('profile-selection-active');
+      document.getElementById('app').classList.add('profile-selection-active');
+    } else {
+      document.body.classList.remove('profile-selection-active');
+      document.getElementById('app').classList.remove('profile-selection-active');
+    }
   }
 
   showError(message) {
