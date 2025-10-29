@@ -1,7 +1,7 @@
 // LingXM Personal - Service Worker
 // Enables offline support and fast loading through caching
 
-const CACHE_NAME = 'lingxm-v4';  // Force complete cache clear - iPhone fix
+const CACHE_NAME = 'lingxm-v5';  // Network-first strategy for HTML
 const urlsToCache = [
   '/',
   '/index.html',
@@ -35,8 +35,34 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
 
-// Fetch event - serve from cache, fallback to network
+// Fetch event - network-first for HTML, cache-first for assets
 self.addEventListener('fetch', (event) => {
+  const url = new URL(event.request.url);
+
+  // Network-first strategy for HTML files (always get fresh HTML)
+  if (event.request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname === '/') {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          // If we got a valid response, cache it and return
+          if (response && response.status === 200) {
+            const responseToCache = response.clone();
+            caches.open(CACHE_NAME)
+              .then((cache) => {
+                cache.put(event.request, responseToCache);
+              });
+          }
+          return response;
+        })
+        .catch(() => {
+          // Network failed, fall back to cache
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
+
+  // Cache-first strategy for all other assets (CSS, JS, images, etc.)
   event.respondWith(
     caches.match(event.request)
       .then((response) => {
