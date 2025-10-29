@@ -40,19 +40,8 @@ class LingXMApp {
   }
 
   setupEventListeners() {
-    // Profile selection
-    document.querySelectorAll('.profile-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        const profileKey = e.currentTarget.dataset.profile;
-
-        // Check if PIN is enabled for this profile
-        if (this.isPinEnabled(profileKey)) {
-          this.showPinModal(profileKey, 'verify');
-        } else {
-          this.showFirstTimePinPrompt(profileKey);
-        }
-      });
-    });
+    // Profile selection - setup handlers
+    this.setupProfileClickHandlers();
 
     // Back button
     document.getElementById('back-btn').addEventListener('click', () => {
@@ -116,22 +105,26 @@ class LingXMApp {
       });
     });
 
-    // PIN keypad - digit buttons
-    document.querySelectorAll('.pin-key[data-digit]').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        const digit = e.currentTarget.dataset.digit;
+    // PIN keypad - use event delegation for better reliability
+    document.addEventListener('click', (e) => {
+      // PIN digit buttons
+      if (e.target.closest('.pin-key[data-digit]')) {
+        const digit = e.target.closest('.pin-key[data-digit]').dataset.digit;
+        console.log('[PIN] Digit clicked:', digit);
         this.handlePinDigit(digit);
-      });
-    });
+      }
 
-    // PIN keypad - backspace button
-    document.querySelector('.pin-key-backspace')?.addEventListener('click', () => {
-      this.handlePinBackspace();
-    });
+      // PIN backspace button
+      if (e.target.closest('.pin-key-backspace')) {
+        console.log('[PIN] Backspace clicked');
+        this.handlePinBackspace();
+      }
 
-    // PIN keypad - submit button (optional manual submit)
-    document.querySelector('.pin-key-submit')?.addEventListener('click', () => {
-      this.submitPin();
+      // PIN submit button
+      if (e.target.closest('.pin-key-submit')) {
+        console.log('[PIN] Submit clicked');
+        this.submitPin();
+      }
     });
 
     // PIN modal - cancel button
@@ -295,6 +288,34 @@ class LingXMApp {
       } else if (clickX > cardWidth * 0.7) {
         this.nextWord();
       }
+    });
+  }
+
+  setupProfileClickHandlers() {
+    // Re-attach profile click handlers (fixes production timing issues)
+    console.log('[PIN] Setting up profile click handlers');
+
+    document.querySelectorAll('.profile-btn').forEach(btn => {
+      // Clone and replace to remove old listeners
+      const newBtn = btn.cloneNode(true);
+      btn.parentNode.replaceChild(newBtn, btn);
+    });
+
+    // Re-query and attach fresh listeners
+    document.querySelectorAll('.profile-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const profileKey = e.currentTarget.dataset.profile;
+        console.log('[PIN] Profile clicked:', profileKey);
+
+        // Check if PIN is enabled for this profile
+        if (this.isPinEnabled(profileKey)) {
+          console.log('[PIN] Showing PIN modal for', profileKey);
+          this.showPinModal(profileKey, 'verify');
+        } else {
+          console.log('[PIN] Showing first-time prompt for', profileKey);
+          this.showFirstTimePinPrompt(profileKey);
+        }
+      });
     });
   }
 
@@ -777,6 +798,10 @@ class LingXMApp {
     if (screenId === 'profile-selection') {
       document.body.classList.add('profile-selection-active');
       document.getElementById('app').classList.add('profile-selection-active');
+
+      // Re-attach profile button handlers when showing profile selection screen
+      // This ensures handlers work reliably in production
+      this.setupProfileClickHandlers();
     } else {
       document.body.classList.remove('profile-selection-active');
       document.getElementById('app').classList.remove('profile-selection-active');
