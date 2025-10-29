@@ -108,14 +108,6 @@ class LingXMApp {
       this.saveAutoPlaySetting();
     });
 
-    // Speed buttons
-    document.querySelectorAll('.speed-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        const speed = e.currentTarget.dataset.speed;
-        this.setSpeed(speed);
-      });
-    });
-
     // Language switcher
     document.querySelectorAll('.lang-btn').forEach(btn => {
       btn.addEventListener('click', (e) => {
@@ -349,6 +341,9 @@ class LingXMApp {
     this.progressTracker = new ProgressTracker(profileKey);
     this.achievementManager = new AchievementManager(profileKey);
 
+    // Initialize database and load progress before starting session
+    await this.progressTracker.initDatabase();
+
     // Start analytics session
     this.analyticsManager.startSession(profileKey);
 
@@ -522,7 +517,8 @@ class LingXMApp {
     // Record study session
     if (this.progressTracker) {
       this.progressTracker.recordStudySession(lang.code, 1);
-      this.progressTracker.markWordCompleted(lang.code, this.currentWordIndex);
+      // Note: Word completion is tracked via mastery levels (incrementMastery)
+      // not by simple viewing. This prevents inflating the completed count.
     }
 
     // Check for halfway achievement (50% completion)
@@ -824,11 +820,6 @@ class LingXMApp {
         autoPlayToggle.checked = this.autoPlayEnabled;
       }
 
-      const speedButtons = document.querySelectorAll('.speed-btn');
-      speedButtons.forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.speed === this.speechManager.currentSpeed);
-      });
-
       // Show PIN setting only when logged into a profile
       const pinSettingItem = document.getElementById('pin-setting-item');
       if (pinSettingItem) {
@@ -850,13 +841,6 @@ class LingXMApp {
     this.autoPlayEnabled = !this.autoPlayEnabled;
     this.saveAutoPlaySetting();
     console.log(`Auto-play ${this.autoPlayEnabled ? 'enabled' : 'disabled'}`);
-  }
-
-  setSpeed(speed) {
-    this.speechManager.setSpeed(speed);
-    document.querySelectorAll('.speed-btn').forEach(btn => {
-      btn.classList.toggle('active', btn.dataset.speed === speed);
-    });
   }
 
   loadAutoPlaySetting() {

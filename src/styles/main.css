@@ -188,11 +188,13 @@ body {
    ============================================ */
 
 #profile-selection {
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
   position: relative;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
 }
 
 #profile-selection::before {
