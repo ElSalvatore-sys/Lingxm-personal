@@ -224,9 +224,13 @@ body.profile-selection-active {
   left: 0;
   right: 0;
   bottom: 0;
-  overflow-y: scroll;
+  overflow-y: scroll !important;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+  touch-action: pan-y; /* Allow only vertical scrolling */
+  transform: translateZ(0); /* Force GPU acceleration for iOS */
+  will-change: scroll-position; /* Hint browser about scrolling */
   z-index: 1;
   display: flex;
   justify-content: center;
@@ -292,15 +296,15 @@ body.profile-selection-active {
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: var(--radius-lg);
-  padding: var(--space-6);
+  padding: var(--space-4); /* Reduced from space-6 */
   cursor: pointer;
   transition: all var(--transition-base);
   box-shadow: var(--shadow-sm);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: var(--space-3);
-  min-height: 180px;
+  gap: var(--space-2); /* Reduced from space-3 */
+  min-height: 120px; /* Reduced from 180px - much more compact */
   justify-content: center;
   position: relative;
   overflow: hidden;
