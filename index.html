@@ -7,6 +7,12 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="format-detection" content="telephone=no">
+
+    <!-- Aggressive Cache Control -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, max-age=0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
     <title>LingXM Personal - Daily Words</title>
 
     <!-- PWA Configuration -->
@@ -21,11 +27,72 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png">
     <link rel="apple-touch-icon" sizes="167x167" href="/icons/icon-192x192.png">
 
+    <!-- Bootstrap Version Check (RUNS FIRST - Before Service Worker) -->
+    <script>
+      (async function() {
+        try {
+          // Fetch version.json with no caching
+          const response = await fetch('/version.json', {
+            cache: 'no-store',
+            headers: { 'Cache-Control': 'no-cache, no-store, must-revalidate' }
+          });
+
+          if (response.ok) {
+            const serverVersion = await response.json();
+            const cachedTimestamp = localStorage.getItem('lingxm-build-timestamp');
+
+            console.log('[Bootstrap] Server build:', serverVersion.timestamp);
+            console.log('[Bootstrap] Cached build:', cachedTimestamp || 'none');
+
+            // If we have a cached version and server version is newer
+            if (cachedTimestamp && serverVersion.timestamp > parseInt(cachedTimestamp)) {
+              console.log('[Bootstrap] ⚠️ STALE BUILD DETECTED! Clearing cache and reloading...');
+
+              // Unregister all service workers
+              if ('serviceWorker' in navigator) {
+                const registrations = await navigator.serviceWorker.getRegistrations();
+                for (const reg of registrations) {
+                  await reg.unregister();
+                  console.log('[Bootstrap] Unregistered service worker');
+                }
+              }
+
+              // Clear all caches
+              if ('caches' in window) {
+                const cacheNames = await caches.keys();
+                for (const name of cacheNames) {
+                  await caches.delete(name);
+                  console.log('[Bootstrap] Deleted cache:', name);
+                }
+              }
+
+              // Update cached timestamp
+              localStorage.setItem('lingxm-build-timestamp', serverVersion.timestamp.toString());
+
+              // Force reload
+              console.log('[Bootstrap] Reloading page...');
+              window.location.reload();
+
+              // Prevent further script execution
+              return;
+            }
+
+            // Update cached timestamp
+            localStorage.setItem('lingxm-build-timestamp', serverVersion.timestamp.toString());
+            console.log('[Bootstrap] ✅ Build is up to date');
+          }
+        } catch (error) {
+          console.warn('[Bootstrap] Failed to check version:', error);
+          // Continue anyway - don't block the app
+        }
+      })();
+    </script>
+
     <!-- Service Worker Registration -->
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/service-worker.js', {
+          navigator.serviceWorker.register('/service-worker.js?nocache=' + Date.now(), {
             updateViaCache: 'none'  // Critical: bypasses HTTP cache for SW updates
           })
             .then(reg => {
@@ -60,7 +127,76 @@
     </script>
 
     <link rel="stylesheet" href="./src/styles/main.css?v=5.0">
-</head>
+
+    <!-- AGGRESSIVE CACHE BUSTING - iPhone & all browsers -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="cache-control" content="no-cache, no-store, must-revalidate">
+    
+    <!-- Build Version (injected at build time) -->
+    <meta name="build-timestamp" content="0">
+    <meta name="build-version" content="dev">
+    
+    <!-- Version Check Script - LOADS BEFORE SERVICE WORKER -->
+    <script>
+      // Aggressive version check on every page load
+      (function() {
+        console.log('[Bootstrap] Version check running...');
+        
+        // Get current build timestamp from HTML
+        const htmlTimestamp = parseInt(document.querySelector('meta[name="build-timestamp"]')?.getAttribute('content') || '0', 10);
+        console.log('[Bootstrap] Current build timestamp:', htmlTimestamp);
+        
+        // Check for version.json immediately
+        fetch('/version.json?nocache=' + Date.now(), {
+          cache: 'no-store',
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache'
+          }
+        })
+          .then(r => r.json())
+          .then(data => {
+            console.log('[Bootstrap] Latest version:', data.timestamp);
+            
+            // If newer version exists, unregister SW and reload
+            if (data.timestamp > htmlTimestamp) {
+              console.error('[Bootstrap] STALE BUILD DETECTED! Current:', htmlTimestamp, 'Latest:', data.timestamp);
+              console.log('[Bootstrap] Unregistering service workers...');
+              
+              if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(regs => {
+                  regs.forEach(reg => {
+                    console.log('[Bootstrap] Unregistering:', reg.scope);
+                    reg.unregister();
+                  });
+                });
+              }
+              
+              // Clear all caches
+              if ('caches' in window) {
+                caches.keys().then(names => {
+                  names.forEach(name => {
+                    console.log('[Bootstrap] Clearing cache:', name);
+                    caches.delete(name);
+                  });
+                });
+              }
+              
+              // Force reload after brief delay
+              setTimeout(() => {
+                console.log('[Bootstrap] FORCING HARD RELOAD');
+                window.location.href = window.location.href;
+              }, 500);
+            }
+          })
+          .catch(e => {
+            console.warn('[Bootstrap] Could not check version:', e.message);
+            // Continue anyway - version check module will handle it
+          });
+      })();
+    </script></head>
 <body>
     <div id="app">
         <!-- Welcome Screen (First-Time Only) -->

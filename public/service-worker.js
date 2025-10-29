@@ -1,7 +1,11 @@
 // LingXM Personal - Service Worker
-// Enables offline support and fast loading through caching
+// Aggressive cache-busting strategy:
+// - HTML: Network-first with immediate version check
+// - Assets: Cache-first with versioning
+// - Version mismatch: Unregister SW and clear all caches
 
-const CACHE_NAME = 'lingxm-v5';  // Network-first strategy for HTML
+const CACHE_NAME = 'lingxm-v6';
+
 const urlsToCache = [
   '/',
   '/index.html',
@@ -13,6 +17,7 @@ const urlsToCache = [
   '/src/utils/progress.js',
   '/src/utils/speech.js',
   '/src/utils/database.js',
+  '/src/utils/version-check.js',
   '/manifest.json',
   '/logo.svg',
   '/sql-wasm.wasm'
@@ -39,25 +44,21 @@ self.addEventListener('install', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // Network-first strategy for HTML files (always get fresh HTML)
-  if (event.request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname === '/') {
+  // NEVER cache HTML or version.json - always fetch fresh
+  if (event.request.mode === 'navigate' ||
+      url.pathname.endsWith('.html') ||
+      url.pathname === '/' ||
+      url.pathname === '/version.json' ||
+      url.pathname.includes('version.json')) {
     event.respondWith(
-      fetch(event.request)
-        .then((response) => {
-          // If we got a valid response, cache it and return
-          if (response && response.status === 200) {
-            const responseToCache = response.clone();
-            caches.open(CACHE_NAME)
-              .then((cache) => {
-                cache.put(event.request, responseToCache);
-              });
-          }
-          return response;
-        })
-        .catch(() => {
-          // Network failed, fall back to cache
-          return caches.match(event.request);
-        })
+      fetch(event.request, {
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache',
+          'Expires': '0'
+        }
+      })
     );
     return;
   }
@@ -92,6 +93,10 @@ self.addEventListener('fetch', (event) => {
           return response;
         });
       })
+      .catch(() => {
+        // Return a fallback response if needed
+        return new Response('Service unavailable', { status: 503 });
+      })
   );
 });
 
@@ -112,4 +117,23 @@ self.addEventListener('activate', (event) => {
   );
   // Claim clients immediately
   return self.clients.claim();
+});
+
+// Message handler for manual cache clearing (called from app)
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    console.log('[Service Worker] Received SKIP_WAITING message');
+    self.skipWaiting();
+  }
+  if (event.data && event.data.type === 'CLEAR_CACHES') {
+    console.log('[Service Worker] Received CLEAR_CACHES message');
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cacheName) => {
+          console.log('[Service Worker] Clearing cache:', cacheName);
+          return caches.delete(cacheName);
+        })
+      );
+    });
+  }
 });

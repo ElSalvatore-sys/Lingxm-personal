@@ -1,3 +1,4 @@
+import { initVersionCheck } from './utils/version-check.js';
 import { PROFILES, LANGUAGE_NAMES, SECTION_LABELS } from './config.js';
 import { ProgressTracker } from './utils/progress.js';
 import { SpeechManager } from './utils/speech.js';
@@ -24,6 +25,8 @@ class LingXMApp {
 
   init() {
     this.applyTheme();
+    // Initialize aggressive version checking
+    initVersionCheck();
     this.updateProfileLockIcons();
     this.updateProfileProgressRings();
     this.setupEventListeners();
