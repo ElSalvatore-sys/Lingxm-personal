@@ -201,6 +201,8 @@ body.profile-selection-active {
   min-height: 100vh;
   overflow-y: scroll !important;
   overflow-x: hidden;
+  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+  overscroll-behavior-y: contain; /* Prevent scroll chaining */
 }
 
 /* ============================================
@@ -214,7 +216,8 @@ body.profile-selection-active {
   position: relative;
   overflow-y: scroll !important;
   overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
+  overscroll-behavior-y: contain; /* Prevent scroll chaining */
   height: auto !important;
   min-height: 100vh;
   padding-bottom: 80px; /* Extra space at bottom for scrolling */
