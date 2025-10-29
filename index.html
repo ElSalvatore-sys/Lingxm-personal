@@ -27,10 +27,21 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png">
     <link rel="apple-touch-icon" sizes="167x167" href="/icons/icon-192x192.png">
 
-    <!-- Bootstrap Version Check (RUNS FIRST - Before Service Worker) -->
+    <!-- Bootstrap Version Check (RUNS ONLY ONCE PER SESSION) -->
     <script>
       (async function() {
         try {
+          // Check if we've already checked this session
+          const sessionChecked = sessionStorage.getItem('lingxm-version-checked');
+
+          if (sessionChecked) {
+            console.log('[Bootstrap] ✅ Already checked this session, skipping');
+            return;
+          }
+
+          // Mark as checked for this session
+          sessionStorage.setItem('lingxm-version-checked', 'true');
+
           // Fetch version.json with no caching
           const response = await fetch('/version.json', {
             cache: 'no-store',
@@ -69,7 +80,10 @@
               // Update cached timestamp
               localStorage.setItem('lingxm-build-timestamp', serverVersion.timestamp.toString());
 
-              // Force reload
+              // Clear session flag so it checks again after reload
+              sessionStorage.removeItem('lingxm-version-checked');
+
+              // Force reload ONCE
               console.log('[Bootstrap] Reloading page...');
               window.location.reload();
 
