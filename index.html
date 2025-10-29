@@ -25,8 +25,35 @@
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/service-worker.js')
-            .then(reg => console.log('[PWA] Service Worker registered:', reg.scope))
+          navigator.serviceWorker.register('/service-worker.js', {
+            updateViaCache: 'none'  // Critical: bypasses HTTP cache for SW updates
+          })
+            .then(reg => {
+              console.log('[PWA] Service Worker registered:', reg.scope);
+
+              // Check for updates every time the page loads
+              reg.update();
+
+              // Listen for updates
+              reg.addEventListener('updatefound', () => {
+                const newWorker = reg.installing;
+                console.log('[PWA] New service worker found, installing...');
+
+                newWorker.addEventListener('statechange', () => {
+                  if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                    // New service worker installed, auto-reload to activate
+                    console.log('[PWA] New version available! Reloading...');
+                    window.location.reload();
+                  }
+                });
+              });
+
+              // Listen for controller change (when SW activates)
+              navigator.serviceWorker.addEventListener('controllerchange', () => {
+                console.log('[PWA] Controller changed, reloading...');
+                window.location.reload();
+              });
+            })
             .catch(err => console.error('[PWA] Service Worker registration failed:', err));
         });
       }
