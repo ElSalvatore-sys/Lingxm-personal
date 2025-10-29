@@ -1,7 +1,7 @@
 // LingXM Personal - Service Worker
 // Enables offline support and fast loading through caching
 
-const CACHE_NAME = 'lingxm-v2';  // Incremented to force cache refresh for vocabulary files
+const CACHE_NAME = 'lingxm-v3';  // Incremented to force cache refresh - simplified profiles update
 const urlsToCache = [
   '/',
   '/index.html',
