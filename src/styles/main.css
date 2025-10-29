@@ -195,14 +195,10 @@ body.profile-selection-active {
   flex-direction: column;
 }
 
-/* CRITICAL FIX: Profile selection needs flexible height to scroll */
+/* CRITICAL FIX: Profile selection needs fixed height for iOS */
 #profile-selection.screen {
-  height: auto;
-  min-height: 100vh;
-  overflow-y: scroll !important;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
-  overscroll-behavior-y: contain; /* Prevent scroll chaining */
+  height: 100vh;
+  overflow: hidden; /* Parent doesn't scroll - child does */
 }
 
 /* ============================================
@@ -214,13 +210,8 @@ body.profile-selection-active {
   align-items: center;
   background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
   position: relative;
-  overflow-y: scroll !important;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS */
-  overscroll-behavior-y: contain; /* Prevent scroll chaining */
-  height: auto !important;
-  min-height: 100vh;
-  padding-bottom: 80px; /* Extra space at bottom for scrolling */
+  overflow: hidden; /* Parent doesn't scroll */
+  height: 100vh;
 }
 
 #profile-selection::before {
@@ -242,11 +233,18 @@ body.profile-selection-active {
 .profile-container {
   text-align: center;
   padding: var(--space-8);
+  padding-bottom: 80px; /* Extra space at bottom for scrolling */
   width: 100%;
   max-width: 600px;
   position: relative;
   z-index: 1;
   animation: fadeIn 0.6s ease-out;
+  /* CRITICAL: This container scrolls on iOS */
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
 }
 
 .app-title {
