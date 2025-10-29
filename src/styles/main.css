@@ -197,11 +197,10 @@ body.profile-selection-active {
   flex-direction: column;
 }
 
-/* CRITICAL FIX: Profile selection uses natural scrolling (no 100vh) */
+/* CRITICAL FIX: Profile selection with dedicated scroll wrapper for iOS */
 #profile-selection.screen {
-  height: auto;
-  min-height: 100vh;
-  overflow: visible;
+  height: 100vh;
+  overflow: hidden;
 }
 
 /* ============================================
@@ -213,9 +212,25 @@ body.profile-selection-active {
   align-items: center;
   background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
   position: relative;
-  overflow: visible;
-  min-height: 100vh;
-  height: auto;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* Dedicated scroll wrapper - THIS scrolls on iOS */
+.profile-scroll-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 #profile-selection::before {
@@ -242,9 +257,8 @@ body.profile-selection-active {
   width: 100%;
   max-width: 600px;
   position: relative;
-  z-index: 1;
+  z-index: 2;
   animation: fadeIn 0.6s ease-out;
-  /* Natural scrolling - no overflow tricks */
 }
 
 .app-title {
