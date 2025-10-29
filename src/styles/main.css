@@ -165,7 +165,8 @@ body {
 /* CRITICAL FIX: Allow scrolling when profile-selection is active */
 body:has(#profile-selection.active),
 body.profile-selection-active {
-  overflow: visible !important;
+  overflow: auto !important;
+  height: auto !important;
 }
 
 #app {
@@ -177,7 +178,8 @@ body.profile-selection-active {
 /* CRITICAL FIX: Allow scrolling when profile-selection is active */
 #app:has(#profile-selection.active),
 #app.profile-selection-active {
-  overflow: visible !important;
+  overflow: auto !important;
+  height: auto !important;
 }
 
 /* ============================================
@@ -195,10 +197,11 @@ body.profile-selection-active {
   flex-direction: column;
 }
 
-/* CRITICAL FIX: Profile selection needs fixed height for iOS */
+/* CRITICAL FIX: Profile selection uses natural scrolling (no 100vh) */
 #profile-selection.screen {
-  height: 100vh;
-  overflow: hidden; /* Parent doesn't scroll - child does */
+  height: auto;
+  min-height: 100vh;
+  overflow: visible;
 }
 
 /* ============================================
@@ -210,8 +213,9 @@ body.profile-selection-active {
   align-items: center;
   background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
   position: relative;
-  overflow: hidden; /* Parent doesn't scroll */
-  height: 100vh;
+  overflow: visible;
+  min-height: 100vh;
+  height: auto;
 }
 
 #profile-selection::before {
@@ -233,18 +237,14 @@ body.profile-selection-active {
 .profile-container {
   text-align: center;
   padding: var(--space-8);
-  padding-bottom: 80px; /* Extra space at bottom for scrolling */
+  padding-top: var(--space-12);
+  padding-bottom: 100px; /* Extra space at bottom for scrolling */
   width: 100%;
   max-width: 600px;
   position: relative;
   z-index: 1;
   animation: fadeIn 0.6s ease-out;
-  /* CRITICAL: This container scrolls on iOS */
-  flex: 1;
-  overflow-y: auto;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior-y: contain;
+  /* Natural scrolling - no overflow tricks */
 }
 
 .app-title {
