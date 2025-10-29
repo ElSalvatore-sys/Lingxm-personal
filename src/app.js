@@ -29,14 +29,19 @@ class LingXMApp {
     this.setupEventListeners();
 
     // Check for first-time visit - show welcome screen
-    const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
-    if (!welcomeShown) {
-      this.showScreen('welcome-screen');
-      this.analyticsManager.trackEvent('app_opened', { firstTime: true });
-    } else {
-      this.showScreen('profile-selection');
-      this.analyticsManager.trackEvent('app_opened', { firstTime: false });
-    }
+    // DISABLED: Welcome screen popup removed
+    // const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
+    // if (!welcomeShown) {
+    //   this.showScreen('welcome-screen');
+    //   this.analyticsManager.trackEvent('app_opened', { firstTime: true });
+    // } else {
+    //   this.showScreen('profile-selection');
+    //   this.analyticsManager.trackEvent('app_opened', { firstTime: false });
+    // }
+
+    // Always go directly to profile selection
+    this.showScreen('profile-selection');
+    this.analyticsManager.trackEvent('app_opened', { firstTime: false });
   }
 
   setupEventListeners() {
@@ -383,10 +388,12 @@ class LingXMApp {
     this.showProgressBar();
 
     // Show swipe tutorial on first visit
-    this.showSwipeTutorial(profileKey);
+    // DISABLED: Swipe tutorial popup removed
+    // this.showSwipeTutorial(profileKey);
 
     // Check for new achievements and update badge
-    this.checkNewAchievements();
+    // DISABLED: Achievement celebration popup removed
+    // this.checkNewAchievements();
     this.updateAchievementBadge();
   }
 
@@ -543,7 +550,8 @@ class LingXMApp {
     }
 
     // Check for halfway achievement (50% completion)
-    this.checkHalfwayAchievement(lang.code, words.length);
+    // DISABLED: Halfway achievement popup removed
+    // this.checkHalfwayAchievement(lang.code, words.length);
 
     // Update header
     const levelText = lang.specialty ? `${lang.level} - ${lang.specialty}` : lang.level;
@@ -1384,9 +1392,10 @@ class LingXMApp {
 
     // Only show popup on exactly the 5th view of a word (reviewCount === 5)
     // This shows encouragement after 5 reviews, then never again for that word
-    if (result && result.reviewCount === 5) {
-      this.showMasteryLevelUp(result.newLevel);
-    }
+    // DISABLED: Mastery level-up popup removed
+    // if (result && result.reviewCount === 5) {
+    //   this.showMasteryLevelUp(result.newLevel);
+    // }
   }
 
   showMasteryLevelUp(newLevel) {
@@ -1501,7 +1510,8 @@ class LingXMApp {
       });
 
       // Show celebration for the first new achievement
-      this.showAchievementCelebration(newAchievements[0]);
+      // DISABLED: Achievement celebration popup removed
+      // this.showAchievementCelebration(newAchievements[0]);
       this.updateAchievementBadge();
     }
   }
