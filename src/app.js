@@ -26,7 +26,8 @@ class LingXMApp {
   init() {
     this.applyTheme();
     // Initialize aggressive version checking
-    initVersionCheck();
+    // DISABLED: Only use bootstrap check, not runtime checking
+    // initVersionCheck();
     this.updateProfileLockIcons();
     this.updateProfileProgressRings();
     this.setupEventListeners();
