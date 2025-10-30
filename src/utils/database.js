@@ -373,14 +373,22 @@ export class DatabaseManager {
    * Check if a word is saved
    */
   isWordSaved(userId, language, wordIndex) {
-    if (!this.db) throw new Error('Database not initialized');
+    if (!this.db) {
+      console.warn('[Database] Not initialized, returning false');
+      return false;
+    }
 
-    const result = this.db.exec(`
-      SELECT COUNT(*) FROM saved_words
-      WHERE user_id = ? AND language = ? AND word_index = ?
-    `, [userId, language, wordIndex]);
+    try {
+      const result = this.db.exec(`
+        SELECT COUNT(*) FROM saved_words
+        WHERE user_id = ? AND language = ? AND word_index = ?
+      `, [userId, language, wordIndex]);
 
-    return result.length > 0 && result[0].values[0][0] > 0;
+      return result.length > 0 && result[0].values[0][0] > 0;
+    } catch (error) {
+      console.error('[Database] Error checking saved word:', error);
+      return false;
+    }
   }
 
   // ============================================================================

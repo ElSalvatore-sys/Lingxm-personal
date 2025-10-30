@@ -6,7 +6,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vercel --prod"
+    "deploy": "vercel --prod",
+    "prepare-batches": "node scripts/prepare-batches.js",
+    "split-audio": "node scripts/split-audio.js",
+    "test-audio": "node scripts/test-audio-integration.js"
   },
   "devDependencies": {
     "vite": "^5.0.0"

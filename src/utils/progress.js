@@ -354,7 +354,23 @@ export class ProgressTracker {
     }
 
     // Fallback: Check if word is completed in localStorage
-    const completed = this.data.languageProgress[languageCode]?.completedWords?.has(wordKey);
+    // Ensure languageProgress exists and completedWords is a Set
+    if (!this.data.languageProgress[languageCode]) {
+      this.data.languageProgress[languageCode] = {
+        wordsStudied: 0,
+        lastStudied: null,
+        completedWords: new Set()
+      };
+    }
+
+    // Ensure completedWords is a Set (convert from Array if needed)
+    if (!(this.data.languageProgress[languageCode].completedWords instanceof Set)) {
+      const currentValue = this.data.languageProgress[languageCode].completedWords;
+      this.data.languageProgress[languageCode].completedWords =
+        Array.isArray(currentValue) ? new Set(currentValue) : new Set();
+    }
+
+    const completed = this.data.languageProgress[languageCode].completedWords.has(wordKey);
     return {
       level: completed ? 1 : 0,
       reviewCount: completed ? 1 : 0,

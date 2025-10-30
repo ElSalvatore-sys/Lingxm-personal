@@ -378,9 +378,33 @@ class LingXMApp {
     // Setup language buttons
     this.setupLanguageButtons();
 
-    // Show first language's first word
-    this.currentLanguageIndex = 0;
-    this.currentWordIndex = 0;
+    // Restore last position or start from beginning
+    const savedPosition = this.loadLastPosition(profileKey);
+    if (savedPosition) {
+      // Validate saved position
+      const savedLangIndex = savedPosition.lastLanguageIndex || 0;
+      const savedWordIndex = savedPosition.lastWordIndex || 0;
+
+      // Find the language index that matches saved language code
+      let langIndex = this.currentProfile.learningLanguages.findIndex(
+        lang => lang.code === savedPosition.lastLanguageCode
+      );
+
+      // Use saved language if found, otherwise default to first language
+      this.currentLanguageIndex = langIndex >= 0 ? langIndex : savedLangIndex;
+
+      // Validate word index doesn't exceed vocabulary length
+      const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+      const maxIndex = this.wordData[lang.code].length - 1;
+      this.currentWordIndex = Math.min(savedWordIndex, maxIndex);
+
+      console.log(`[Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${lang.code}`);
+    } else {
+      // No saved position, start from beginning
+      this.currentLanguageIndex = 0;
+      this.currentWordIndex = 0;
+      console.log('[Resume] Starting from first word');
+    }
 
     this.showScreen('learning-screen');
     this.displayCurrentWord();
@@ -509,6 +533,7 @@ class LingXMApp {
 
     this.displayCurrentWord();
     this.showProgressBar();
+    this.saveCurrentPosition();
 
     // Track analytics
     this.analyticsManager.trackEvent('language_switched', {
@@ -608,13 +633,10 @@ class LingXMApp {
       conjugationSection.style.display = 'none';
     }
 
-    // Show examples in BOTH languages with speaker buttons
+    // Show examples in BOTH languages (NO speaker buttons for sentences)
     document.getElementById('example-1').innerHTML = `
       <div>
         ${word.examples[primaryLang][0]}
-        <button class="speaker-btn" data-text="${word.examples[primaryLang][0]}" data-lang="${primaryLang}">
-          🔊
-        </button>
       </div>
       <div style="margin-top: 0.5rem; opacity: 0.8; font-size: 0.9rem;">
         ${word.examples[secondaryLang][0]}
@@ -624,9 +646,6 @@ class LingXMApp {
     document.getElementById('example-2').innerHTML = `
       <div>
         ${word.examples[primaryLang][1]}
-        <button class="speaker-btn" data-text="${word.examples[primaryLang][1]}" data-lang="${primaryLang}">
-          🔊
-        </button>
       </div>
       <div style="margin-top: 0.5rem; opacity: 0.8; font-size: 0.9rem;">
         ${word.examples[secondaryLang][1]}
@@ -636,18 +655,21 @@ class LingXMApp {
     // Add event listeners to all speaker buttons
     this.attachSpeakerListeners();
 
-    // Auto-play if enabled
-    if (this.autoPlayEnabled && this.speechManager.isAvailable()) {
+    // Auto-play if enabled (iOS needs longer delay for voice loading)
+    if (this.autoPlayEnabled) {
       setTimeout(() => {
-        const mainSpeaker = document.querySelector('.main-word-speaker');
-        if (mainSpeaker) {
-          this.speakText(mainSpeaker);
+        // Check if voices are loaded, retry if not
+        if (!this.speechManager.isAvailable()) {
+          console.log('Voices not ready, retrying in 1s...');
+          setTimeout(() => this.attemptAutoPlay(), 1000);
+        } else {
+          this.attemptAutoPlay();
         }
-      }, 300);
+      }, 1000);
     }
 
     // Update save button
-    this.updateSaveButton();
+    this.updateSaveButton().catch(err => console.error('[App] updateSaveButton failed:', err));
     this.showProgressBar();
 
     // Update mastery display and increment review count
@@ -693,6 +715,7 @@ class LingXMApp {
     if (this.currentWordIndex < words.length - 1) {
       this.currentWordIndex++;
       this.displayCurrentWord();
+      this.saveCurrentPosition();
     }
   }
 
@@ -700,7 +723,43 @@ class LingXMApp {
     if (this.currentWordIndex > 0) {
       this.currentWordIndex--;
       this.displayCurrentWord();
+      this.saveCurrentPosition();
     }
+  }
+
+  saveCurrentPosition() {
+    if (!this.profileKey || !this.currentProfile) return;
+
+    const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+    const position = {
+      lastWordIndex: this.currentWordIndex,
+      lastLanguageIndex: this.currentLanguageIndex,
+      lastLanguageCode: lang.code,
+      timestamp: new Date().toISOString()
+    };
+
+    const key = `lingxm-${this.profileKey}-last-position`;
+    localStorage.setItem(key, JSON.stringify(position));
+    console.debug(`[Resume] Saved position: word #${this.currentWordIndex}, language: ${lang.code}`);
+  }
+
+  loadLastPosition(profileKey) {
+    const key = `lingxm-${profileKey}-last-position`;
+    const saved = localStorage.getItem(key);
+
+    if (saved) {
+      try {
+        const position = JSON.parse(saved);
+        console.log(`[Resume] Found saved position: word #${position.lastWordIndex}, language: ${position.lastLanguageCode}`);
+        return position;
+      } catch (error) {
+        console.error('[Resume] Failed to parse saved position:', error);
+        return null;
+      }
+    }
+
+    console.log('[Resume] No saved position found, starting from beginning');
+    return null;
   }
 
   async toggleSaveWord() {
@@ -748,7 +807,7 @@ class LingXMApp {
     }
 
     this.saveSavedWords();
-    this.updateSaveButton();
+    this.updateSaveButton().catch(err => console.error('[App] updateSaveButton failed:', err));
 
     // Track analytics
     this.analyticsManager.trackEvent(wasSaved ? 'word_unsaved' : 'word_saved', {
@@ -829,12 +888,23 @@ class LingXMApp {
     });
   }
 
-  speakText(buttonElement) {
+  async speakText(buttonElement) {
     const text = buttonElement.dataset.text;
     const lang = buttonElement.dataset.lang;
 
     if (text && lang) {
-      this.speechManager.speakWithFeedback(text, lang, buttonElement);
+      await this.speechManager.speakWithFeedback(text, lang, buttonElement);
+    }
+  }
+
+  attemptAutoPlay() {
+    if (this.speechManager.isAvailable()) {
+      const mainSpeaker = document.querySelector('.main-word-speaker');
+      if (mainSpeaker) {
+        this.speakText(mainSpeaker);
+      }
+    } else {
+      console.warn('Auto-play failed: No voices available');
     }
   }
 
@@ -1748,4 +1818,10 @@ class LingXMApp {
 // Initialize app when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
   window.app = new LingXMApp();
+
+  // Expose speechManager globally for testing/debugging
+  window.speechManager = window.app.speechManager;
+
+  console.log('✅ LingXM initialized with hybrid audio system');
+  console.log('💡 Debug: window.speechManager.getAudioStats() to see cache stats');
 });
