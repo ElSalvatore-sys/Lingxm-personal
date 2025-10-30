@@ -123,10 +123,23 @@ export class DatabaseManager {
       );
     `);
 
+    // Create user_positions table (for resume feature)
+    this.db.run(`
+      CREATE TABLE IF NOT EXISTS user_positions (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        profile_key TEXT NOT NULL,
+        language TEXT NOT NULL,
+        word_index INTEGER NOT NULL,
+        updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        UNIQUE(profile_key, language)
+      );
+    `);
+
     // Create indexes for performance
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_progress_user_lang ON progress(user_id, language);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_saved_words_user ON saved_words(user_id);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_daily_stats_user_date ON daily_stats(user_id, date);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_user_positions_profile ON user_positions(profile_key, language);`);
   }
 
   // ============================================================================
@@ -388,6 +401,141 @@ export class DatabaseManager {
     } catch (error) {
       console.error('[Database] Error checking saved word:', error);
       return false;
+    }
+  }
+
+  // ============================================================================
+  // USER POSITION METHODS (Resume Feature)
+  // ============================================================================
+
+  /**
+   * Save user's current position for resume feature
+   * @param {string} profileKey - Profile identifier
+   * @param {string} language - Language code (ar, de, en, etc.)
+   * @param {number} wordIndex - Current word index
+   */
+  async savePosition(profileKey, language, wordIndex) {
+    if (!this.db) {
+      console.warn('[Database] Not initialized, position not saved to DB');
+      return;
+    }
+
+    try {
+      this.db.run(`
+        INSERT OR REPLACE INTO user_positions (profile_key, language, word_index, updated_at)
+        VALUES (?, ?, ?, ?)
+      `, [profileKey, language, wordIndex, new Date().toISOString()]);
+
+      this.saveToStorage(); // Persist changes
+
+      console.log('[Database] Position saved', {
+        profileKey,
+        language,
+        wordIndex
+      });
+    } catch (error) {
+      console.error('[Database] Error saving position:', error);
+      throw error;
+    }
+  }
+
+  /**
+   * Load user's saved position
+   * @param {string} profileKey - Profile identifier
+   * @param {string} language - Language code
+   * @returns {number|null} Word index or null if not found
+   */
+  async loadPosition(profileKey, language) {
+    if (!this.db) {
+      console.warn('[Database] Not initialized, cannot load position');
+      return null;
+    }
+
+    try {
+      const result = this.db.exec(`
+        SELECT word_index, updated_at
+        FROM user_positions
+        WHERE profile_key = ? AND language = ?
+      `, [profileKey, language]);
+
+      if (result.length > 0 && result[0].values.length > 0) {
+        const wordIndex = result[0].values[0][0];
+        const updatedAt = result[0].values[0][1];
+
+        console.log('[Database] Position loaded', {
+          profileKey,
+          language,
+          wordIndex,
+          updatedAt
+        });
+
+        return wordIndex;
+      }
+
+      console.log('[Database] No position found for', {
+        profileKey,
+        language
+      });
+
+      return null;
+    } catch (error) {
+      console.error('[Database] Error loading position:', error);
+      return null;
+    }
+  }
+
+  /**
+   * Clear position for a specific profile and language
+   * @param {string} profileKey - Profile identifier
+   * @param {string} language - Language code
+   */
+  clearPosition(profileKey, language) {
+    if (!this.db) return;
+
+    try {
+      this.db.run(`
+        DELETE FROM user_positions
+        WHERE profile_key = ? AND language = ?
+      `, [profileKey, language]);
+
+      this.saveToStorage();
+
+      console.log('[Database] Position cleared', {
+        profileKey,
+        language
+      });
+    } catch (error) {
+      console.error('[Database] Error clearing position:', error);
+    }
+  }
+
+  /**
+   * Get all positions for a profile
+   * @param {string} profileKey - Profile identifier
+   * @returns {Array} Array of position objects
+   */
+  getAllPositions(profileKey) {
+    if (!this.db) return [];
+
+    try {
+      const result = this.db.exec(`
+        SELECT language, word_index, updated_at
+        FROM user_positions
+        WHERE profile_key = ?
+      `, [profileKey]);
+
+      if (result.length > 0 && result[0].values.length > 0) {
+        return result[0].values.map(row => ({
+          language: row[0],
+          wordIndex: row[1],
+          updatedAt: row[2]
+        }));
+      }
+
+      return [];
+    } catch (error) {
+      console.error('[Database] Error getting positions:', error);
+      return [];
     }
   }
 

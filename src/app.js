@@ -4,6 +4,7 @@ import { ProgressTracker } from './utils/progress.js';
 import { SpeechManager } from './utils/speech.js';
 import { AchievementManager, ACHIEVEMENTS } from './utils/achievements.js';
 import { AnalyticsManager } from './utils/analytics.js';
+import { PositionManager } from './utils/positionManager.js';
 
 class LingXMApp {
   constructor() {
@@ -16,6 +17,7 @@ class LingXMApp {
     this.achievementManager = null;
     this.analyticsManager = new AnalyticsManager();
     this.speechManager = new SpeechManager();
+    this.positionManager = new PositionManager(); // Initialize without database first
     this.currentWelcomeSlide = 0;
     this.autoPlayEnabled = this.loadAutoPlaySetting();
     this.currentTheme = this.loadThemeSetting();
@@ -49,6 +51,17 @@ class LingXMApp {
 
     // Back button
     document.getElementById('back-btn').addEventListener('click', () => {
+      // CRITICAL: Save position BEFORE leaving
+      if (this.profileKey && this.currentProfile) {
+        const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+        this.positionManager.saveImmediately(
+          this.profileKey,
+          lang.code,
+          this.currentWordIndex
+        );
+        console.log('🚪 [Back Button] Position saved before navigation');
+      }
+
       // End analytics session
       this.analyticsManager.endSession();
 
@@ -369,6 +382,12 @@ class LingXMApp {
     // Initialize database and load progress before starting session
     await this.progressTracker.initDatabase();
 
+    // Pass database to PositionManager once it's initialized
+    if (this.progressTracker.useDatabase && this.progressTracker.database) {
+      this.positionManager.database = this.progressTracker.database;
+      console.log('🔗 [PositionManager] Database connected');
+    }
+
     // Start analytics session
     this.analyticsManager.startSession(profileKey);
 
@@ -378,32 +397,45 @@ class LingXMApp {
     // Setup language buttons
     this.setupLanguageButtons();
 
-    // Restore last position or start from beginning
-    const savedPosition = this.loadLastPosition(profileKey);
-    if (savedPosition) {
-      // Validate saved position
-      const savedLangIndex = savedPosition.lastLanguageIndex || 0;
-      const savedWordIndex = savedPosition.lastWordIndex || 0;
+    // Restore last position using PositionManager
+    console.log('🔎 [INIT RESUME]', {
+      profile: profileKey,
+      availableLanguages: this.currentProfile.learningLanguages.map(l => l.code)
+    });
 
-      // Find the language index that matches saved language code
-      let langIndex = this.currentProfile.learningLanguages.findIndex(
-        lang => lang.code === savedPosition.lastLanguageCode
+    // Get the last active language for this profile
+    const lastActiveLang = this.positionManager.getLastActiveLanguage(profileKey);
+
+    // Find the language index for the last active language
+    let langIndex = -1;
+    if (lastActiveLang) {
+      langIndex = this.currentProfile.learningLanguages.findIndex(
+        lang => lang.code === lastActiveLang
       );
+    }
 
-      // Use saved language if found, otherwise default to first language
-      this.currentLanguageIndex = langIndex >= 0 ? langIndex : savedLangIndex;
+    // If no last active language or language not found, default to first language
+    if (langIndex < 0) {
+      langIndex = 0;
+      console.log(`ℹ️ [INIT RESUME] No last active language, defaulting to first language: ${this.currentProfile.learningLanguages[0].code}`);
+    }
 
+    this.currentLanguageIndex = langIndex;
+    const currentLang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+
+    // Load the position for this specific language using PositionManager
+    const savedPosition = await this.positionManager.load(profileKey, currentLang.code);
+
+    if (savedPosition && savedPosition.lastWordIndex !== null) {
       // Validate word index doesn't exceed vocabulary length
-      const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
-      const maxIndex = this.wordData[lang.code].length - 1;
-      this.currentWordIndex = Math.min(savedWordIndex, maxIndex);
+      const maxIndex = this.wordData[currentLang.code].length - 1;
+      this.currentWordIndex = Math.min(savedPosition.lastWordIndex, maxIndex);
 
-      console.log(`[Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${lang.code}`);
+      console.log(`✅ [Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${currentLang.code} (from ${savedPosition.source})`);
     } else {
-      // No saved position, start from beginning
-      this.currentLanguageIndex = 0;
+      // No saved position for this language, start from beginning
       this.currentWordIndex = 0;
-      console.log('[Resume] Starting from first word');
+      console.log(`ℹ️ [Resume] No saved position for ${currentLang.code}, starting from word #1`);
     }
 
     this.showScreen('learning-screen');
@@ -526,6 +558,14 @@ class LingXMApp {
     this.currentLanguageIndex = langIndex;
     this.currentWordIndex = 0;
 
+    // CRITICAL: Save position IMMEDIATELY when switching languages
+    this.positionManager.saveImmediately(
+      this.profileKey,
+      lang.code,
+      this.currentWordIndex
+    );
+    console.log('🌐 [Language Switch] Position saved for', lang.code);
+
     // Update active button
     document.querySelectorAll('.lang-btn').forEach((btn, idx) => {
       btn.classList.toggle('active', idx === langIndex);
@@ -533,7 +573,6 @@ class LingXMApp {
 
     this.displayCurrentWord();
     this.showProgressBar();
-    this.saveCurrentPosition();
 
     // Track analytics
     this.analyticsManager.trackEvent('language_switched', {
@@ -714,53 +753,36 @@ class LingXMApp {
 
     if (this.currentWordIndex < words.length - 1) {
       this.currentWordIndex++;
+
+      // SAVE POSITION (debounced for rapid navigation)
+      this.positionManager.saveDebounced(
+        this.profileKey,
+        lang.code,
+        this.currentWordIndex
+      );
+
       this.displayCurrentWord();
-      this.saveCurrentPosition();
     }
   }
 
   previousWord() {
     if (this.currentWordIndex > 0) {
       this.currentWordIndex--;
+
+      // SAVE POSITION (debounced for rapid navigation)
+      const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+      this.positionManager.saveDebounced(
+        this.profileKey,
+        lang.code,
+        this.currentWordIndex
+      );
+
       this.displayCurrentWord();
-      this.saveCurrentPosition();
     }
   }
 
-  saveCurrentPosition() {
-    if (!this.profileKey || !this.currentProfile) return;
-
-    const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
-    const position = {
-      lastWordIndex: this.currentWordIndex,
-      lastLanguageIndex: this.currentLanguageIndex,
-      lastLanguageCode: lang.code,
-      timestamp: new Date().toISOString()
-    };
-
-    const key = `lingxm-${this.profileKey}-last-position`;
-    localStorage.setItem(key, JSON.stringify(position));
-    console.debug(`[Resume] Saved position: word #${this.currentWordIndex}, language: ${lang.code}`);
-  }
-
-  loadLastPosition(profileKey) {
-    const key = `lingxm-${profileKey}-last-position`;
-    const saved = localStorage.getItem(key);
-
-    if (saved) {
-      try {
-        const position = JSON.parse(saved);
-        console.log(`[Resume] Found saved position: word #${position.lastWordIndex}, language: ${position.lastLanguageCode}`);
-        return position;
-      } catch (error) {
-        console.error('[Resume] Failed to parse saved position:', error);
-        return null;
-      }
-    }
-
-    console.log('[Resume] No saved position found, starting from beginning');
-    return null;
-  }
+  // NOTE: saveCurrentPosition() and loadLastPosition() have been replaced by PositionManager
+  // All position management is now handled by src/utils/positionManager.js
 
   async toggleSaveWord() {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
