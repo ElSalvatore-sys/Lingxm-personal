@@ -22,6 +22,62 @@ export class AudioManager {
     // Preload popular words on idle
     this.preloadQueue = [];
     this.isPreloading = false;
+
+    // iOS Detection
+    this.isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    this.userHasInteracted = false;
+
+    // iOS-specific setup
+    if (this.isIOS) {
+      console.log('📱 [Audio] iOS device detected, setting up audio unlock');
+      this.setupIOSAudioUnlock();
+    }
+  }
+
+  /**
+   * Setup iOS-specific audio unlock
+   * iOS requires user interaction before playing audio
+   */
+  setupIOSAudioUnlock() {
+    const unlock = () => {
+      this.userHasInteracted = true;
+
+      // Create AudioContext for iOS
+      const AudioContext = window.AudioContext || window.webkitAudioContext;
+      if (AudioContext && !this.audioContext) {
+        try {
+          this.audioContext = new AudioContext();
+
+          // Play silent sound to unlock iOS audio
+          const buffer = this.audioContext.createBuffer(1, 1, 22050);
+          const source = this.audioContext.createBufferSource();
+          source.buffer = buffer;
+          source.connect(this.audioContext.destination);
+
+          if (source.start) {
+            source.start(0);
+          } else if (source.play) {
+            source.play(0);
+          } else if (source.noteOn) {
+            source.noteOn(0);
+          }
+
+          console.log('✅ [Audio] iOS audio unlocked via user interaction');
+        } catch (error) {
+          console.warn('⚠️ [Audio] Failed to unlock iOS audio:', error);
+        }
+      }
+
+      // Remove listeners after unlock
+      document.removeEventListener('touchstart', unlock);
+      document.removeEventListener('touchend', unlock);
+      document.removeEventListener('click', unlock);
+    };
+
+    // Listen for first user interaction
+    document.addEventListener('touchstart', unlock, { once: true, passive: true });
+    document.addEventListener('touchend', unlock, { once: true, passive: true });
+    document.addEventListener('click', unlock, { once: true });
   }
 
   /**
@@ -107,6 +163,12 @@ export class AudioManager {
     try {
       const audio = new Audio(audioPath);
 
+      // iOS SPECIFIC: Set preload attribute for better performance
+      if (this.isIOS) {
+        audio.setAttribute('preload', 'auto');
+        audio.setAttribute('playsinline', '');
+      }
+
       // Test if file exists by attempting to load metadata
       await new Promise((resolve, reject) => {
         audio.addEventListener('canplaythrough', resolve, { once: true });
@@ -191,6 +253,13 @@ export class AudioManager {
       // Clone audio to allow multiple simultaneous plays
       const audioClone = audio.cloneNode();
 
+      // iOS SPECIFIC: Add attributes required for iOS Safari
+      if (this.isIOS) {
+        audioClone.setAttribute('playsinline', '');
+        audioClone.setAttribute('webkit-playsinline', '');
+        audioClone.muted = false; // Ensure not muted
+      }
+
       // Add visual feedback
       buttonElement.classList.add('speaking');
 
@@ -202,11 +271,26 @@ export class AudioManager {
 
       audioClone.addEventListener('error', (error) => {
         buttonElement.classList.remove('speaking');
+        console.error('❌ [Audio] Playback error:', error);
         reject(error);
       }, { once: true });
 
-      // Start playback
-      audioClone.play().catch(reject);
+      // Start playback with iOS-specific error handling
+      audioClone.play()
+        .then(() => {
+          console.log('▶️ [Audio] Playback started successfully');
+        })
+        .catch(error => {
+          console.error('❌ [Audio] Play failed:', error.name, error.message);
+
+          // iOS specific: If autoplay fails, provide helpful message
+          if (this.isIOS && (error.name === 'NotAllowedError' || error.name === 'NotSupportedError')) {
+            console.warn('📱 [Audio] iOS autoplay blocked. This is normal on first load. User has tapped, so next attempt should work.');
+          }
+
+          buttonElement.classList.remove('speaking');
+          reject(error);
+        });
     });
   }
 
