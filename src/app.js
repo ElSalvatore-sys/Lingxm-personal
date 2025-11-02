@@ -5,6 +5,22 @@ import { SpeechManager } from './utils/speech.js';
 import { AchievementManager, ACHIEVEMENTS } from './utils/achievements.js';
 import { AnalyticsManager } from './utils/analytics.js';
 import { PositionManager } from './utils/positionManager.js';
+import { dbManager } from './utils/database.js';
+
+// ============================================
+// Global Database Initialization
+// ============================================
+let databaseReady = null;
+
+async function ensureDatabaseReady() {
+  if (!databaseReady) {
+    console.log('🔄 [DB] Initializing database...');
+    databaseReady = dbManager.init();
+  }
+  await databaseReady;
+  console.log('✅ [DB] Database ready');
+  return databaseReady;
+}
 
 class LingXMApp {
   constructor() {
@@ -21,18 +37,49 @@ class LingXMApp {
     this.currentWelcomeSlide = 0;
     this.autoPlayEnabled = this.loadAutoPlaySetting();
     this.currentTheme = this.loadThemeSetting();
+    this.isNavigating = false; // Guard flag to prevent multiple simultaneous navigations
 
-    this.init();
+    // NOTE: init() is now called from DOMContentLoaded handler with await
   }
 
-  init() {
+  async init() {
     this.applyTheme();
+
+    // Initialize database before any operations
+    try {
+      await ensureDatabaseReady();
+      console.log('✅ [INIT] Database initialization complete');
+    } catch (error) {
+      console.error('❌ [INIT] Database initialization failed:', error);
+    }
+
     // Initialize aggressive version checking
     // DISABLED: Only use bootstrap check, not runtime checking
     // initVersionCheck();
     this.updateProfileLockIcons();
-    this.updateProfileProgressRings();
+    await this.updateProfileProgressRings();
     this.setupEventListeners();
+
+    // Check for saved profile and restore it (enables persistence across refreshes)
+    const savedProfile = localStorage.getItem('lingxm-current-profile');
+
+    if (savedProfile && PROFILES[savedProfile]) {
+      console.log('🔄 [INIT] Restoring saved profile:', savedProfile);
+
+      try {
+        // Restore profile (this will load vocabulary and show home screen)
+        await this.selectProfile(savedProfile);
+        console.log('✅ [INIT] Profile restored successfully');
+        this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: true });
+        return; // Exit early - selectProfile() already showed home screen
+      } catch (error) {
+        console.error('❌ [INIT] Failed to restore profile:', error);
+        // Fall through to show profile selection
+      }
+    }
+
+    // No saved profile or restoration failed - show profile selection
+    console.log('ℹ️ [INIT] No saved profile, showing profile selection');
 
     // Check for first-time visit - show welcome screen
     const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
@@ -41,7 +88,7 @@ class LingXMApp {
       this.analyticsManager.trackEvent('app_opened', { firstTime: true });
     } else {
       this.showScreen('profile-selection');
-      this.analyticsManager.trackEvent('app_opened', { firstTime: false });
+      this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: false });
     }
   }
 
@@ -62,18 +109,8 @@ class LingXMApp {
         console.log('🚪 [Back Button] Position saved before navigation');
       }
 
-      // End analytics session
-      this.analyticsManager.endSession();
-
-      if (this.progressTracker) {
-        this.showProgressStats();
-      }
-      setTimeout(() => {
-        this.showScreen('profile-selection');
-        this.updateProfileProgressRings();
-        this.currentProfile = null;
-        this.progressTracker = null;
-      }, 2000);
+      // Go back to home screen instead of profile selection
+      this.renderHomeScreen();
     });
 
     // Save word button
@@ -294,16 +331,16 @@ class LingXMApp {
     });
 
     // Also support click on left/right sides
-    card.addEventListener('click', (e) => {
+    card.addEventListener('click', async (e) => {
       if (isSwiping) return;
 
       const cardWidth = card.offsetWidth;
       const clickX = e.clientX;
 
       if (clickX < cardWidth * 0.3) {
-        this.previousWord();
+        await this.previousWord();
       } else if (clickX > cardWidth * 0.7) {
-        this.nextWord();
+        await this.nextWord();
       }
     });
   }
@@ -312,15 +349,15 @@ class LingXMApp {
     // Re-attach profile click handlers (fixes production timing issues)
     console.log('[PIN] Setting up profile click handlers');
 
-    document.querySelectorAll('.profile-btn').forEach(btn => {
+    document.querySelectorAll('.profile-card').forEach(card => {
       // Clone and replace to remove old listeners
-      const newBtn = btn.cloneNode(true);
-      btn.parentNode.replaceChild(newBtn, btn);
+      const newCard = card.cloneNode(true);
+      card.parentNode.replaceChild(newCard, card);
     });
 
     // Re-query and attach fresh listeners
-    document.querySelectorAll('.profile-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
+    document.querySelectorAll('.profile-card').forEach(card => {
+      card.addEventListener('click', (e) => {
         const profileKey = e.currentTarget.dataset.profile;
         console.log('[PIN] Profile clicked:', profileKey);
 
@@ -336,30 +373,30 @@ class LingXMApp {
     });
   }
 
-  handleSwipe(startX, endX) {
+  async handleSwipe(startX, endX) {
     const swipeThreshold = 50;
     const diff = startX - endX;
 
     if (Math.abs(diff) > swipeThreshold) {
       if (diff > 0) {
         // Swipe left - next word
-        this.animateWordTransition('left', () => this.nextWord());
+        await this.animateWordTransition('left', async () => await this.nextWord());
       } else {
         // Swipe right - previous word
-        this.animateWordTransition('right', () => this.previousWord());
+        await this.animateWordTransition('right', async () => await this.previousWord());
       }
     }
   }
 
-  animateWordTransition(direction, callback) {
+  async animateWordTransition(direction, callback) {
     const wordMain = document.querySelector('.word-main');
 
     // Animate out
     wordMain.classList.add(`swipe-out-${direction}`);
 
-    setTimeout(() => {
+    setTimeout(async () => {
       // Execute word change
-      callback();
+      await callback();
 
       // Remove old animation class
       wordMain.classList.remove(`swipe-out-${direction}`);
@@ -374,6 +411,10 @@ class LingXMApp {
   }
 
   async selectProfile(profileKey) {
+    // Ensure database is ready before any profile operations
+    await ensureDatabaseReady();
+    console.log('✅ [SELECT_PROFILE] Database ready for profile:', profileKey);
+
     this.currentProfile = PROFILES[profileKey];
     this.profileKey = profileKey;
     this.progressTracker = new ProgressTracker(profileKey);
@@ -394,61 +435,13 @@ class LingXMApp {
     // Load word data for this profile
     await this.loadWordData();
 
-    // Setup language buttons
-    this.setupLanguageButtons();
+    // Persist profile selection to localStorage for page refresh
+    localStorage.setItem('lingxm-current-profile', profileKey);
+    localStorage.setItem('lingxm-profile-timestamp', Date.now().toString());
+    console.log('💾 [PERSIST] Profile saved to localStorage:', profileKey);
 
-    // Restore last position using PositionManager
-    console.log('🔎 [INIT RESUME]', {
-      profile: profileKey,
-      availableLanguages: this.currentProfile.learningLanguages.map(l => l.code)
-    });
-
-    // Get the last active language for this profile
-    const lastActiveLang = this.positionManager.getLastActiveLanguage(profileKey);
-
-    // Find the language index for the last active language
-    let langIndex = -1;
-    if (lastActiveLang) {
-      langIndex = this.currentProfile.learningLanguages.findIndex(
-        lang => lang.code === lastActiveLang
-      );
-    }
-
-    // If no last active language or language not found, default to first language
-    if (langIndex < 0) {
-      langIndex = 0;
-      console.log(`ℹ️ [INIT RESUME] No last active language, defaulting to first language: ${this.currentProfile.learningLanguages[0].code}`);
-    }
-
-    this.currentLanguageIndex = langIndex;
-    const currentLang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
-
-    // Load the position for this specific language using PositionManager
-    const savedPosition = await this.positionManager.load(profileKey, currentLang.code);
-
-    if (savedPosition && savedPosition.lastWordIndex !== null) {
-      // Validate word index doesn't exceed vocabulary length
-      const maxIndex = this.wordData[currentLang.code].length - 1;
-      this.currentWordIndex = Math.min(savedPosition.lastWordIndex, maxIndex);
-
-      console.log(`✅ [Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${currentLang.code} (from ${savedPosition.source})`);
-    } else {
-      // No saved position for this language, start from beginning
-      this.currentWordIndex = 0;
-      console.log(`ℹ️ [Resume] No saved position for ${currentLang.code}, starting from word #1`);
-    }
-
-    this.showScreen('learning-screen');
-    this.displayCurrentWord();
-    this.showProgressBar();
-
-    // Show swipe tutorial on first visit
-    this.showSwipeTutorial(profileKey);
-
-    // Check for new achievements and update badge
-    // DISABLED: Achievement celebration popup removed (too frequent)
-    // this.checkNewAchievements();
-    this.updateAchievementBadge();
+    // Show home screen with navigation cards
+    this.renderHomeScreen();
   }
 
   async loadWordData() {
@@ -550,7 +543,7 @@ class LingXMApp {
     buttons[0]?.classList.add('active');
   }
 
-  switchLanguage(langIndex) {
+  async switchLanguage(langIndex) {
     if (langIndex >= this.currentProfile.learningLanguages.length) return;
 
     const lang = this.currentProfile.learningLanguages[langIndex];
@@ -571,7 +564,7 @@ class LingXMApp {
       btn.classList.toggle('active', idx === langIndex);
     });
 
-    this.displayCurrentWord();
+    await this.displayCurrentWord();
     this.showProgressBar();
 
     // Track analytics
@@ -581,7 +574,7 @@ class LingXMApp {
     });
   }
 
-  displayCurrentWord() {
+  async displayCurrentWord() {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const words = this.wordData[lang.code];
 
@@ -708,7 +701,7 @@ class LingXMApp {
     }
 
     // Update save button
-    this.updateSaveButton().catch(err => console.error('[App] updateSaveButton failed:', err));
+    await this.updateSaveButton();
     this.showProgressBar();
 
     // Update mastery display and increment review count
@@ -747,7 +740,7 @@ class LingXMApp {
     `);
   }
 
-  nextWord() {
+  async nextWord() {
     const lang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
     const words = this.wordData[lang.code];
 
@@ -761,11 +754,11 @@ class LingXMApp {
         this.currentWordIndex
       );
 
-      this.displayCurrentWord();
+      await this.displayCurrentWord();
     }
   }
 
-  previousWord() {
+  async previousWord() {
     if (this.currentWordIndex > 0) {
       this.currentWordIndex--;
 
@@ -777,7 +770,7 @@ class LingXMApp {
         this.currentWordIndex
       );
 
-      this.displayCurrentWord();
+      await this.displayCurrentWord();
     }
   }
 
@@ -847,11 +840,15 @@ class LingXMApp {
 
     let isSaved = this.savedWords.has(key);
 
+    // Ensure database is ready before checking
+    await ensureDatabaseReady();
+
     // Check database if available (takes priority)
     if (this.progressTracker?.useDatabase && this.progressTracker?.userId) {
       try {
         const { dbManager } = await import('./utils/database.js');
-        isSaved = dbManager.isWordSaved(
+        // CRITICAL FIX: Await the database call
+        isSaved = await dbManager.isWordSaved(
           this.progressTracker.userId,
           lang.code,
           this.currentWordIndex
@@ -876,10 +873,20 @@ class LingXMApp {
   }
 
   showScreen(screenId) {
+    // Remove active from all screens
     document.querySelectorAll('.screen').forEach(screen => {
       screen.classList.remove('active');
     });
-    document.getElementById(screenId).classList.add('active');
+
+    // Add active to target screen with error handling
+    const targetScreen = document.getElementById(screenId);
+    if (targetScreen) {
+      targetScreen.classList.add('active');
+      console.log(`✅ [SCREEN] Showing: ${screenId}`);
+    } else {
+      console.error(`❌ [SCREEN] Element not found: ${screenId}`);
+      return;
+    }
 
     // CRITICAL FIX: Add class to body for profile-selection scroll (fallback for :has())
     if (screenId === 'profile-selection') {
@@ -1099,130 +1106,180 @@ class LingXMApp {
   }
 
   updateProfileLockIcons() {
-    document.querySelectorAll('.profile-btn').forEach(btn => {
-      const profileKey = btn.dataset.profile;
+    document.querySelectorAll('.profile-card').forEach(card => {
+      const profileKey = card.dataset.profile;
       if (this.isPinEnabled(profileKey)) {
-        btn.classList.add('pin-protected');
+        card.classList.add('pin-protected');
       } else {
-        btn.classList.remove('pin-protected');
+        card.classList.remove('pin-protected');
       }
     });
   }
 
-  updateProfileProgressRings() {
-    document.querySelectorAll('.profile-btn').forEach(btn => {
-      const profileKey = btn.dataset.profile;
+  async updateProfileProgressRings() {
+    // Ensure database is ready before calculating progress
+    await ensureDatabaseReady();
+    console.log('[PROFILE] Updating progress rings for all profiles');
+
+    const cards = document.querySelectorAll('.profile-card');
+
+    for (let i = 0; i < cards.length; i++) {
+      const card = cards[i];
+      const profileKey = card.dataset.profile;
       const profile = PROFILES[profileKey];
 
-      if (!profile) return;
+      if (!profile) continue;
 
       // Create temporary progress tracker to get stats
       const tempTracker = new ProgressTracker(profileKey);
+      await tempTracker.initDatabase();
       const stats = tempTracker.getStats();
 
-      // Get the progress rings container
-      const ringsContainer = btn.querySelector('.profile-progress-rings');
-      if (!ringsContainer) return;
-
-      // Clear existing content
-      ringsContainer.innerHTML = '';
-
-      // Create SVG defs for gradient (only once)
-      if (!document.getElementById('progressGradient')) {
-        const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-        svg.style.position = 'absolute';
-        svg.style.width = '0';
-        svg.style.height = '0';
-        const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
-        const gradient = document.createElementNS('http://www.w3.org/2000/svg', 'linearGradient');
-        gradient.setAttribute('id', 'progressGradient');
-        const stop1 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
-        stop1.setAttribute('offset', '0%');
-        stop1.setAttribute('stop-color', '#10b981');
-        const stop2 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
-        stop2.setAttribute('offset', '100%');
-        stop2.setAttribute('stop-color', '#059669');
-        gradient.appendChild(stop1);
-        gradient.appendChild(stop2);
-        defs.appendChild(gradient);
-        svg.appendChild(defs);
-        document.body.appendChild(svg);
-      }
-
-      // Calculate aggregate progress
+      // Calculate aggregate progress across all languages
       let totalWords = 0;
-      let completedWords = 0;
-      profile.learningLanguages.forEach(lang => {
-        totalWords += 180;
-        completedWords += tempTracker.getCompletedCount(lang.code);
-      });
-      const aggregatePercentage = Math.round((completedWords / totalWords) * 100);
+      let masteredWords = 0;
 
-      // Decide layout based on number of languages
-      const langCount = profile.learningLanguages.length;
-
-      if (langCount <= 3) {
-        // Show compact individual rings for 2-3 languages
-        profile.learningLanguages.forEach(lang => {
-          const percentage = tempTracker.getCompletionPercentage(lang.code, 180);
-
-          const container = document.createElement('div');
-          container.className = 'progress-ring-container';
-          container.title = `${lang.flag} ${lang.name}: ${percentage}%`;
-
-          // Create smaller SVG (32px)
-          const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-          svg.classList.add('progress-ring');
-          svg.setAttribute('viewBox', '0 0 32 32');
-
-          const bgCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-          bgCircle.classList.add('progress-ring-circle', 'progress-ring-background');
-          bgCircle.setAttribute('cx', '16');
-          bgCircle.setAttribute('cy', '16');
-          bgCircle.setAttribute('r', '14');
-
-          const progressCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-          progressCircle.classList.add('progress-ring-circle', 'progress-ring-progress');
-          progressCircle.setAttribute('cx', '16');
-          progressCircle.setAttribute('cy', '16');
-          progressCircle.setAttribute('r', '14');
-
-          const circumference = 2 * Math.PI * 14; // 87.96
-          const offset = circumference - (percentage / 100) * circumference;
-          progressCircle.style.strokeDashoffset = offset;
-
-          svg.appendChild(bgCircle);
-          svg.appendChild(progressCircle);
-
-          const text = document.createElement('div');
-          text.className = 'progress-ring-text';
-          text.textContent = `${percentage}%`;
-
-          container.appendChild(svg);
-          container.appendChild(text);
-          ringsContainer.appendChild(container);
-        });
-      } else {
-        // Show aggregate progress summary for 4+ languages
-        const summary = document.createElement('div');
-        summary.className = 'profile-progress-summary';
-        summary.innerHTML = `
-          <div class="progress-indicator" style="--progress: ${aggregatePercentage}"></div>
-          <span class="progress-text">${aggregatePercentage}% Complete</span>
-        `;
-        summary.title = `${completedWords} of ${totalWords} words completed`;
-        ringsContainer.appendChild(summary);
+      for (const lang of profile.learningLanguages) {
+        // Estimate: assume each language has roughly equal words
+        // In production, you'd load actual word counts
+        totalWords += lang.dailyWords * 18; // Rough estimate
+        masteredWords += tempTracker.getCompletedCount(lang.code);
       }
+
+      const percentage = totalWords > 0 ? Math.round((masteredWords / totalWords) * 100) : 0;
+      console.log(`[PROFILE] ${profileKey}: ${percentage}% (${masteredWords}/${totalWords} words)`);
+
+      // Animate progress ring
+      this.animateProgressRing(card, percentage, i * 100);
+
+      // Render language flags
+      this.renderLanguageFlags(card, profile.learningLanguages);
 
       // Update streak badge
-      const streakBadge = btn.querySelector('.profile-streak');
-      if (streakBadge && stats.currentStreak > 0) {
-        streakBadge.innerHTML = `🔥 ${stats.currentStreak} days`;
-        streakBadge.classList.add('active');
-      } else if (streakBadge) {
-        streakBadge.classList.remove('active');
-      }
-    });
+      this.updateStreakBadge(card, stats.currentStreak);
+    }
+  }
+
+  animateProgressRing(card, percentage, delay = 0) {
+    const profileKey = card.dataset.profile;
+    console.log(`[ANIM] ⚠️ Starting animation for ${profileKey}, ${percentage}%`);
+
+    const circle = card.querySelector('.progress-ring-circle');
+    const wrapper = card.querySelector('.profile-progress-wrapper');
+    const svg = card.querySelector('.progress-ring');
+
+    if (!circle) {
+      console.error(`[ANIM] ❌ Circle not found for ${profileKey}`);
+      return;
+    }
+    if (!wrapper) {
+      console.error(`[ANIM] ❌ Wrapper not found for ${profileKey}`);
+      return;
+    }
+    if (!svg) {
+      console.error(`[ANIM] ❌ SVG not found for ${profileKey}`);
+      return;
+    }
+
+    console.log(`[ANIM] ✅ All elements found for ${profileKey}`);
+
+    // Force visibility with inline styles
+    wrapper.style.display = 'flex';
+    wrapper.style.visibility = 'visible';
+    wrapper.style.opacity = '1';
+    svg.style.display = 'block';
+    svg.style.visibility = 'visible';
+    console.log(`[ANIM] ✅ Forced visibility for ${profileKey} wrapper and SVG`);
+
+    // Set CSS variable for percentage
+    card.style.setProperty('--progress-percentage', percentage);
+
+    // Set data attribute for reference
+    circle.setAttribute('data-percentage', percentage);
+
+    // Trigger animation after delay
+    setTimeout(() => {
+      card.classList.add('visible');
+      console.log(`[ANIM] ✅ Progress ring animated for ${profileKey}: ${percentage}%`);
+    }, delay);
+  }
+
+  renderLanguageFlags(card, languages) {
+    const profileKey = card.dataset.profile;
+    console.log(`[FLAGS] ⚠️ Starting render for ${profileKey}, languages:`, languages);
+
+    const container = card.querySelector('.language-indicators');
+    if (!container) {
+      console.error(`[FLAGS] ❌ Container not found for ${profileKey}`);
+      return;
+    }
+    console.log(`[FLAGS] ✅ Container found for ${profileKey}`);
+    console.log(`[FLAGS] Container innerHTML BEFORE:`, container.innerHTML);
+
+    const flagMap = {
+      'de': '🇩🇪',
+      'en': '🇬🇧',
+      'ar': '🇸🇦',
+      'fr': '🇫🇷',
+      'it': '🇮🇹',
+      'pl': '🇵🇱',
+      'fa': '🇮🇷'
+    };
+
+    const maxVisible = 3;
+    const visibleLangs = languages.slice(0, maxVisible);
+    const remainingCount = languages.length - maxVisible;
+
+    let html = visibleLangs
+      .map(lang => {
+        const flag = flagMap[lang.code] || '🌐';
+        const title = `${lang.name} ${lang.level}`;
+        return `<span class="lang-flag" title="${title}">${flag}</span>`;
+      })
+      .join('');
+
+    if (remainingCount > 0) {
+      html += `<span class="lang-more" title="${remainingCount} more language${remainingCount > 1 ? 's' : ''}">+${remainingCount}</span>`;
+    }
+
+    console.log(`[FLAGS] Generated HTML:`, html);
+    container.innerHTML = html;
+    console.log(`[FLAGS] Container innerHTML AFTER:`, container.innerHTML);
+
+    // Force visibility with inline styles
+    container.style.display = 'flex';
+    container.style.visibility = 'visible';
+    container.style.opacity = '1';
+    console.log(`[FLAGS] ✅ Forced container visible for ${profileKey}`);
+    console.log(`[FLAGS] ✅ Rendered ${visibleLangs.length} flags for ${profileKey}`);
+  }
+
+  updateStreakBadge(card, streakDays) {
+    const profileKey = card.dataset.profile;
+    console.log(`[STREAK] ⚠️ Updating badge for ${profileKey}, streak: ${streakDays} days`);
+
+    const badge = card.querySelector('.profile-streak');
+    if (!badge) {
+      console.error(`[STREAK] ❌ Badge not found for ${profileKey}`);
+      return;
+    }
+    console.log(`[STREAK] ✅ Badge found for ${profileKey}`);
+
+    // Always show badge (for debugging visibility)
+    if (streakDays > 0) {
+      badge.textContent = `🔥 ${streakDays} day${streakDays !== 1 ? 's' : ''}`;
+      badge.classList.add('active');
+    } else {
+      badge.textContent = `🔥 Just started!`;
+      badge.classList.remove('active');
+    }
+
+    // Force visibility with inline styles
+    badge.style.display = 'inline-block';
+    badge.style.visibility = 'visible';
+    badge.style.opacity = '1';
+
+    console.log(`[STREAK] ✅ Badge visible for ${profileKey}: "${badge.textContent}"`);
   }
 
   showPinModal(profileKey, mode = 'verify') {
@@ -1835,11 +1892,754 @@ class LingXMApp {
       this.analyticsManager.trackEvent('analytics_cleared', {});
     }
   }
+
+  // ============================================
+  // HOME SCREEN - CARD-BASED NAVIGATION
+  // ============================================
+
+  renderHomeScreen() {
+    console.log('[HOME] Rendering home screen for profile:', this.profileKey);
+
+    // Update header with profile info
+    const profile = this.currentProfile;
+    document.getElementById('home-user-avatar').textContent = profile.emoji;
+    document.getElementById('home-user-name').textContent = profile.name;
+
+    // Update language badge (show current/first language)
+    const currentLang = profile.learningLanguages[this.currentLanguageIndex || 0];
+    document.getElementById('home-language-badge').textContent =
+      `${currentLang.flag} ${currentLang.name} ${currentLang.level}`;
+
+    // Update streak badge
+    const streak = this.progressTracker ? this.progressTracker.getStats().currentStreak : 0;
+    document.getElementById('home-streak-badge').textContent =
+      `🔥 ${streak} day${streak !== 1 ? 's' : ''}`;
+
+    // Calculate and display dynamic counts
+    this.updateHomeCardCounts();
+
+    // Setup card click handlers
+    this.setupHomeCardHandlers();
+
+    // Setup header button handlers
+    this.setupHomeHeaderHandlers();
+
+    // Show home screen
+    this.showScreen('home-screen');
+
+    this.analyticsManager.trackEvent('home_screen_viewed', { profile: this.profileKey });
+  }
+
+  updateHomeCardCounts() {
+    // Vocabulary count - total words for all languages
+    let totalWords = 0;
+    for (const lang of this.currentProfile.learningLanguages) {
+      if (this.wordData[lang.code]) {
+        totalWords += this.wordData[lang.code].length;
+      }
+    }
+    document.getElementById('vocab-count').textContent = `${totalWords} words`;
+
+    // Progress percentage - calculate completed words
+    if (this.progressTracker) {
+      let completedWords = 0;
+      let totalVocab = 0;
+
+      for (const lang of this.currentProfile.learningLanguages) {
+        if (this.wordData[lang.code]) {
+          totalVocab += this.wordData[lang.code].length;
+          completedWords += this.progressTracker.getCompletedCount(lang.code);
+        }
+      }
+
+      const progressPercent = totalVocab > 0 ? Math.round((completedWords / totalVocab) * 100) : 0;
+      document.getElementById('progress-count').textContent = `${progressPercent}%`;
+    } else {
+      document.getElementById('progress-count').textContent = '0%';
+    }
+
+    // Saved words count
+    const savedCount = this.savedWords ? Object.keys(this.savedWords).length : 0;
+    document.getElementById('saved-count').textContent = `${savedCount} saved`;
+  }
+
+  setupHomeCardHandlers() {
+    console.log('[HOME] Setting up card handlers (event delegation)');
+
+    const container = document.querySelector('.home-cards-grid');
+    if (!container) {
+      console.error('[HOME] Cards container not found');
+      return;
+    }
+
+    // Remove old handler if exists
+    if (container._cardClickHandler) {
+      container.removeEventListener('click', container._cardClickHandler);
+      console.log('[HOME] Removed old card handler');
+    }
+
+    // Create new handler with event delegation
+    const clickHandler = (e) => {
+      // Find the clicked card (handles clicks on children too)
+      const card = e.target.closest('.home-card');
+      if (!card) return;
+
+      e.preventDefault();
+      e.stopPropagation();
+
+      const section = card.dataset.section;
+      console.log('[HOME] Card clicked:', section);
+
+      if (section) {
+        this.navigateToSection(section);
+      }
+    };
+
+    // Attach single delegated listener to container
+    container.addEventListener('click', clickHandler);
+
+    // Save reference for future removal
+    container._cardClickHandler = clickHandler;
+
+    console.log('[HOME] Card handlers attached via delegation');
+  }
+
+  setupHomeHeaderHandlers() {
+    // Home settings button
+    document.getElementById('home-settings-btn')?.addEventListener('click', () => {
+      this.toggleSettings();
+    });
+
+    // Home achievements button
+    document.getElementById('home-achievements-btn')?.addEventListener('click', () => {
+      this.toggleAchievements();
+    });
+
+    // Home streak badge click - show progress
+    document.getElementById('home-streak-badge')?.addEventListener('click', () => {
+      this.toggleAchievements();
+    });
+  }
+
+  navigateToSection(section) {
+    // Guard against multiple simultaneous calls
+    if (this.isNavigating) {
+      console.warn('[HOME] Navigation in progress, ignoring duplicate');
+      return;
+    }
+
+    this.isNavigating = true;
+    console.log('[HOME] Navigating to section:', section);
+    this.analyticsManager.trackEvent('home_card_clicked', { section, profile: this.profileKey });
+
+    try {
+      switch(section) {
+        case 'vocabulary':
+          this.startVocabularyPractice();
+          break;
+
+        case 'sentences':
+          this.showComingSoonModal('Sentence Builder');
+          break;
+
+        case 'progress':
+          // Show progress dashboard
+          this.showScreen('progress-screen');
+          this.renderProgressDashboard();
+          break;
+
+        case 'saved':
+          // TODO: Implement saved words view
+          this.showComingSoonModal('Saved Words Review');
+          break;
+
+        default:
+          console.warn('[HOME] Unknown section:', section);
+      }
+    } finally {
+      // Reset flag after a short delay to allow navigation to complete
+      setTimeout(() => {
+        this.isNavigating = false;
+        console.log('[HOME] Navigation complete, ready for next action');
+      }, 300);
+    }
+  }
+
+  async startVocabularyPractice() {
+    try {
+      console.log('[VOCAB] Starting vocabulary practice');
+
+      // Ensure database is ready before vocabulary operations
+      await ensureDatabaseReady();
+      console.log('✅ [VOCAB] Database ready for vocabulary practice');
+
+      // Setup language buttons
+      this.setupLanguageButtons();
+
+      // Restore last position using PositionManager
+      console.log('🔎 [INIT RESUME]', {
+        profile: this.profileKey,
+        availableLanguages: this.currentProfile.learningLanguages.map(l => l.code)
+      });
+
+      // Get the last active language for this profile
+      const lastActiveLang = this.positionManager.getLastActiveLanguage(this.profileKey);
+
+      // Find the language index for the last active language
+      let langIndex = -1;
+      if (lastActiveLang) {
+        langIndex = this.currentProfile.learningLanguages.findIndex(
+          lang => lang.code === lastActiveLang
+        );
+      }
+
+      // If no last active language or language not found, default to first language
+      if (langIndex < 0) {
+        langIndex = 0;
+        console.log(`ℹ️ [INIT RESUME] No last active language, defaulting to first language: ${this.currentProfile.learningLanguages[0].code}`);
+      }
+
+      this.currentLanguageIndex = langIndex;
+      const currentLang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+
+      // Load the position for this specific language using PositionManager
+      const savedPosition = await this.positionManager.load(this.profileKey, currentLang.code);
+
+      if (savedPosition && savedPosition.lastWordIndex !== null) {
+        // Validate word index doesn't exceed vocabulary length
+        const maxIndex = this.wordData[currentLang.code].length - 1;
+        this.currentWordIndex = Math.min(savedPosition.lastWordIndex, maxIndex);
+
+        console.log(`✅ [Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${currentLang.code} (from ${savedPosition.source})`);
+      } else {
+        // No saved position for this language, start from beginning
+        this.currentWordIndex = 0;
+        console.log(`ℹ️ [Resume] No saved position for ${currentLang.code}, starting from word #1`);
+      }
+
+      // Show learning screen with explicit style forcing for robustness
+      console.log('[VOCAB] ⚠️ About to call showScreen');
+      this.showScreen('learning-screen');
+      console.log('[VOCAB] ⚠️ showScreen returned');
+
+      // Add explicit style forcing to ensure visibility (overrides any conflicting CSS)
+      const homeScreen = document.getElementById('home-screen');
+      const learningScreen = document.getElementById('learning-screen');
+
+      if (homeScreen) {
+        homeScreen.style.display = 'none';
+        homeScreen.classList.remove('active');
+        console.log('[VOCAB] ✅ Forced home-screen hidden (inline style)');
+      } else {
+        console.error('[VOCAB] ❌ home-screen element not found');
+      }
+
+      if (learningScreen) {
+        learningScreen.style.display = 'flex';
+        learningScreen.style.flexDirection = 'column';
+        learningScreen.classList.add('active');
+        console.log('[VOCAB] ✅ Forced learning-screen visible (inline style)');
+      } else {
+        console.error('[VOCAB] ❌ learning-screen element not found');
+      }
+
+      await this.displayCurrentWord();
+      this.showProgressBar();
+
+      // Show swipe tutorial on first visit
+      this.showSwipeTutorial(this.profileKey);
+
+      // Check for new achievements and update badge
+      this.updateAchievementBadge();
+
+      this.analyticsManager.trackEvent('vocabulary_practice_started', {
+        profile: this.profileKey,
+        language: currentLang.code
+      });
+
+      console.log('[VOCAB] ✅✅✅ METHOD COMPLETED SUCCESSFULLY ✅✅✅');
+
+    } catch (error) {
+      console.error('[VOCAB] ❌❌❌ CRITICAL ERROR IN startVocabularyPractice:', error);
+      console.error('[VOCAB] Error name:', error.name);
+      console.error('[VOCAB] Error message:', error.message);
+      console.error('[VOCAB] Error stack:', error.stack);
+
+      // Show error to user
+      alert(`Failed to start vocabulary practice!\n\nError: ${error.message}\n\nPlease check the console for details.`);
+
+      // Attempt recovery: show home screen again
+      try {
+        console.log('[VOCAB] Attempting to recover by showing home screen...');
+        const homeScreen = document.getElementById('home-screen');
+        if (homeScreen) {
+          homeScreen.style.display = 'flex';
+          homeScreen.classList.add('active');
+          console.log('[VOCAB] ✅ Recovered: home screen shown');
+        }
+      } catch (recoveryError) {
+        console.error('[VOCAB] ❌ Recovery also failed:', recoveryError);
+      }
+    }
+  }
+
+  // ========================================
+  // PROGRESS DASHBOARD METHODS
+  // ========================================
+
+  async renderProgressDashboard() {
+    console.log('[PROGRESS] Rendering progress dashboard');
+    await ensureDatabaseReady();
+
+    try {
+      // Fetch all progress data
+      const overallProgress = await this.getOverallProgress();
+      const languageProgress = await this.getLanguageProgress();
+      const masteryBreakdown = await this.getMasteryBreakdown();
+      const recentActivity = await this.getRecentActivity();
+      const streakStats = await this.getStreakStats();
+
+      // Render each section with staggered animations
+      this.renderOverallProgress(overallProgress);
+      this.renderQuickStats(streakStats);
+      this.renderLanguageProgress(languageProgress);
+      this.renderMasteryDistribution(masteryBreakdown);
+      this.renderActivityCalendar(recentActivity);
+
+      // Setup event handlers
+      this.setupProgressScreenHandlers();
+
+      console.log('[PROGRESS] Dashboard rendered successfully');
+    } catch (error) {
+      console.error('[PROGRESS] Error rendering dashboard:', error);
+    }
+  }
+
+  async getOverallProgress() {
+    console.log('[PROGRESS] Getting overall progress');
+
+    const { dbManager } = await import('./utils/database.js');
+    const userId = this.progressTracker?.userId;
+
+    let totalWords = 0;
+    let masteredWords = 0;
+
+    try {
+      // Iterate through each learning language for this profile
+      for (const langObj of this.currentProfile.learningLanguages) {
+        const lang = langObj.code;
+        const vocabulary = this.wordData[lang] || [];
+
+        console.log(`[PROGRESS] Processing ${lang}: ${vocabulary.length} words`);
+
+        totalWords += vocabulary.length;
+
+        if (userId) {
+          // Get progress from database for this language
+          const progressData = dbManager.getLearnedWords(userId, lang);
+          console.log(`[PROGRESS] Got ${progressData.length} progress records for ${lang}`);
+
+          // Count words at mastery level 4 or higher as mastered
+          const mastered = progressData.filter(p => p.mastery_level >= 4).length;
+          masteredWords += mastered;
+
+          console.log(`[PROGRESS] ${lang}: ${mastered} mastered out of ${vocabulary.length}`);
+        }
+      }
+
+      const percentage = totalWords > 0 ? Math.round((masteredWords / totalWords) * 100) : 0;
+
+      console.log(`[PROGRESS] Overall: ${masteredWords}/${totalWords} = ${percentage}%`);
+
+      return {
+        total: totalWords,
+        mastered: masteredWords,
+        percentage: percentage
+      };
+    } catch (error) {
+      console.error('[PROGRESS] Error in getOverallProgress:', error);
+      return {
+        total: 0,
+        mastered: 0,
+        percentage: 0
+      };
+    }
+  }
+
+  async getLanguageProgress() {
+    console.log('[PROGRESS] Getting language progress');
+
+    const { dbManager } = await import('./utils/database.js');
+    const userId = this.progressTracker?.userId;
+    const results = [];
+
+    try {
+      for (const langObj of this.currentProfile.learningLanguages) {
+        const lang = langObj.code;
+        const vocabulary = this.wordData[lang] || [];
+
+        let mastered = 0;
+
+        if (userId) {
+          const progressData = dbManager.getLearnedWords(userId, lang);
+          mastered = progressData.filter(p => p.mastery_level >= 4).length;
+        }
+
+        const percentage = vocabulary.length > 0 ? Math.round((mastered / vocabulary.length) * 100) : 0;
+
+        results.push({
+          code: lang,
+          name: langObj.name,
+          flag: langObj.flag,
+          total: vocabulary.length,
+          mastered: mastered,
+          percentage: percentage
+        });
+
+        console.log(`[PROGRESS] Language ${lang}: ${percentage}% (${mastered}/${vocabulary.length})`);
+      }
+
+      return results.sort((a, b) => b.percentage - a.percentage);
+    } catch (error) {
+      console.error('[PROGRESS] Error in getLanguageProgress:', error);
+      return [];
+    }
+  }
+
+  async getMasteryBreakdown() {
+    console.log('[PROGRESS] Getting mastery breakdown');
+
+    const { dbManager } = await import('./utils/database.js');
+    const userId = this.progressTracker?.userId;
+
+    const levelCounts = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0};
+    let totalWords = 0;
+
+    try {
+      for (const langObj of this.currentProfile.learningLanguages) {
+        const lang = langObj.code;
+        const vocabulary = this.wordData[lang] || [];
+
+        if (userId) {
+          const progressData = dbManager.getLearnedWords(userId, lang);
+
+          // Create a map of word → mastery level
+          const progressMap = {};
+          progressData.forEach(p => {
+            progressMap[p.word] = p.mastery_level;
+          });
+
+          // Count each word's mastery level
+          vocabulary.forEach(wordObj => {
+            const level = progressMap[wordObj.word] || 0;
+            levelCounts[level]++;
+            totalWords++;
+          });
+        } else {
+          // If no database, all words are level 0
+          totalWords += vocabulary.length;
+          levelCounts[0] += vocabulary.length;
+        }
+      }
+
+      console.log('[PROGRESS] Mastery breakdown:', levelCounts, 'Total:', totalWords);
+
+      return {
+        levels: levelCounts,
+        total: totalWords
+      };
+    } catch (error) {
+      console.error('[PROGRESS] Error in getMasteryBreakdown:', error);
+      return {
+        levels: {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0},
+        total: 0
+      };
+    }
+  }
+
+  async getRecentActivity() {
+    console.log('[PROGRESS] Getting recent activity');
+
+    const { dbManager } = await import('./utils/database.js');
+    const userId = this.progressTracker?.userId;
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const last7Days = [];
+
+    try {
+      for (let i = 6; i >= 0; i--) {
+        const date = new Date(today);
+        date.setDate(date.getDate() - i);
+        const dateStr = date.toISOString().split('T')[0];
+
+        let wordsReviewed = 0;
+
+        if (userId) {
+          const dayStats = dbManager.getDailyStats(userId, dateStr);
+          wordsReviewed = dayStats ? (dayStats.words_learned || 0) : 0;
+        }
+
+        last7Days.push({
+          date: dateStr,
+          dayName: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][date.getDay()],
+          wordsReviewed: wordsReviewed
+        });
+      }
+
+      console.log('[PROGRESS] Last 7 days activity:', last7Days);
+
+      return last7Days;
+    } catch (error) {
+      console.error('[PROGRESS] Error in getRecentActivity:', error);
+      return Array(7).fill(null).map((_, i) => {
+        const date = new Date(today);
+        date.setDate(date.getDate() - (6 - i));
+        return {
+          date: date.toISOString().split('T')[0],
+          dayName: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][date.getDay()],
+          wordsReviewed: 0
+        };
+      });
+    }
+  }
+
+  async getStreakStats() {
+    console.log('[PROGRESS] Getting streak stats');
+
+    const { dbManager } = await import('./utils/database.js');
+    const userId = this.progressTracker?.userId;
+
+    try {
+      let currentStreak = 0;
+      let longestStreak = 0;
+      let totalDaysActive = 0;
+
+      if (userId) {
+        currentStreak = dbManager.getCurrentStreak(userId) || 0;
+      }
+
+      // Fall back to localStorage for longest streak and total days
+      if (this.progressTracker?.data) {
+        longestStreak = this.progressTracker.data.longestStreak || 0;
+        totalDaysActive = this.progressTracker.data.studyHistory?.length || 0;
+      }
+
+      console.log('[PROGRESS] Streak stats:', {currentStreak, longestStreak, totalDaysActive});
+
+      return {
+        currentStreak,
+        longestStreak,
+        totalDaysActive
+      };
+    } catch (error) {
+      console.error('[PROGRESS] Error in getStreakStats:', error);
+      return {
+        currentStreak: 0,
+        longestStreak: 0,
+        totalDaysActive: 0
+      };
+    }
+  }
+
+  getLanguageFlag(languageCode) {
+    const flagMap = {
+      'es': '🇪🇸', 'fr': '🇫🇷', 'de': '🇩🇪', 'it': '🇮🇹',
+      'pt': '🇵🇹', 'ru': '🇷🇺', 'ja': '🇯🇵', 'ko': '🇰🇷',
+      'zh': '🇨🇳', 'ar': '🇸🇦', 'hi': '🇮🇳', 'nl': '🇳🇱'
+    };
+    return flagMap[languageCode] || '🌍';
+  }
+
+  renderOverallProgress(data) {
+    const circle = document.querySelector('#progress-screen .overall-progress-circle');
+    const percentageEl = document.querySelector('#progress-screen .overall-percentage');
+    const wordsCountEl = document.querySelector('#progress-screen .overall-words-count');
+
+    if (circle && percentageEl && wordsCountEl) {
+      const radius = 75;
+      const circumference = 2 * Math.PI * radius;
+      const offset = circumference - (data.percentage / 100) * circumference;
+
+      // Animate the circle
+      setTimeout(() => {
+        circle.style.strokeDashoffset = offset;
+      }, 300);
+
+      // Update text with animation
+      let currentPercentage = 0;
+      const step = data.percentage / 60;
+      const interval = setInterval(() => {
+        currentPercentage += step;
+        if (currentPercentage >= data.percentage) {
+          currentPercentage = data.percentage;
+          clearInterval(interval);
+        }
+        percentageEl.textContent = `${Math.round(currentPercentage)}%`;
+      }, 16);
+
+      wordsCountEl.textContent = `${data.mastered} of ${data.total} words mastered`;
+    }
+  }
+
+  renderQuickStats(stats) {
+    const streakValue = document.querySelector('#progress-screen .streak-stat .stat-value');
+    const activityValue = document.querySelector('#progress-screen .activity-stat .stat-value');
+
+    if (streakValue) {
+      streakValue.textContent = `${stats.currentStreak} day${stats.currentStreak !== 1 ? 's' : ''}`;
+    }
+    if (activityValue) {
+      activityValue.textContent = `${stats.totalDaysActive} day${stats.totalDaysActive !== 1 ? 's' : ''}`;
+    }
+  }
+
+  renderLanguageProgress(languages) {
+    const container = document.querySelector('#progress-screen .language-progress-list');
+    if (!container) return;
+
+    if (languages.length === 0) {
+      container.innerHTML = '<div class="empty-state">No language data yet. Start learning to see your progress!</div>';
+      return;
+    }
+
+    const html = languages.map((lang, index) => `
+      <div class="lang-progress-item" style="animation-delay: ${index * 100}ms">
+        <div class="lang-progress-header">
+          <span class="lang-flag">${lang.flag}</span>
+          <span class="lang-name">${lang.name.toUpperCase()}</span>
+          <span class="lang-percentage">${lang.percentage}%</span>
+        </div>
+        <div class="lang-progress-track">
+          <div class="lang-progress-bar" style="--progress: ${lang.percentage}%; animation-delay: ${index * 100 + 200}ms"></div>
+        </div>
+        <div class="lang-progress-stats">${lang.mastered} / ${lang.total} words mastered</div>
+      </div>
+    `).join('');
+
+    container.innerHTML = html;
+
+    // Trigger animations
+    setTimeout(() => {
+      const bars = container.querySelectorAll('.lang-progress-bar');
+      bars.forEach(bar => {
+        const progress = parseInt(bar.style.getPropertyValue('--progress'));
+        bar.style.width = `${progress}%`;
+      });
+    }, 100);
+  }
+
+  renderMasteryDistribution(breakdown) {
+    const container = document.querySelector('#progress-screen .mastery-levels-list');
+    if (!container) return;
+
+    const masteryLevels = [
+      { level: 5, label: 'Mastered', color: 'var(--success)' },
+      { level: 4, label: 'Proficient', color: '#3b82f6' },
+      { level: 3, label: 'Familiar', color: '#8b5cf6' },
+      { level: 2, label: 'Learning', color: '#f59e0b' },
+      { level: 1, label: 'Introduced', color: '#ef4444' },
+      { level: 0, label: 'New', color: '#6b7280' }
+    ];
+
+    const totalWords = breakdown.total || 1; // Avoid division by zero
+
+    const html = masteryLevels.map((item, index) => {
+      const count = breakdown.levels[item.level] || 0;
+      const percentage = Math.round((count / totalWords) * 100);
+
+      return `
+        <div class="mastery-level-item" style="animation-delay: ${index * 80}ms">
+          <div class="mastery-level-header">
+            <span class="mastery-level-label">${item.label}</span>
+            <span class="mastery-level-count">${count} (${percentage}%)</span>
+          </div>
+          <div class="mastery-level-track">
+            <div class="mastery-level-bar level-${item.level}"
+                 style="--progress: ${percentage}%; background: ${item.color}; animation-delay: ${index * 80 + 200}ms"></div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = html;
+
+    // Trigger animations
+    setTimeout(() => {
+      const bars = container.querySelectorAll('.mastery-level-bar');
+      bars.forEach(bar => {
+        const progress = parseInt(bar.style.getPropertyValue('--progress'));
+        bar.style.width = `${progress}%`;
+      });
+    }, 100);
+  }
+
+  renderActivityCalendar(activityData) {
+    const container = document.querySelector('#progress-screen .activity-calendar');
+    if (!container) return;
+
+    const maxWords = Math.max(...activityData.map(d => d.wordsReviewed), 1);
+
+    const html = activityData.map((day, index) => {
+      const heightPercent = maxWords > 0 ? (day.wordsReviewed / maxWords) * 100 : 0;
+      return `
+        <div class="activity-day" style="animation-delay: ${index * 60}ms">
+          <div class="activity-day-bar">
+            <div class="activity-day-fill" style="--height: ${heightPercent}%; animation-delay: ${index * 60 + 200}ms"></div>
+          </div>
+          <div class="activity-day-label">${day.dayName}</div>
+          <div class="activity-day-count">${day.wordsReviewed}</div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = html;
+
+    // Trigger animations
+    setTimeout(() => {
+      const fills = container.querySelectorAll('.activity-day-fill');
+      fills.forEach(fill => {
+        const height = parseInt(fill.style.getPropertyValue('--height'));
+        fill.style.height = `${height}%`;
+      });
+    }, 100);
+  }
+
+  setupProgressScreenHandlers() {
+    // Back button
+    const backBtn = document.getElementById('progress-back-btn');
+    if (backBtn) {
+      backBtn.replaceWith(backBtn.cloneNode(true));
+      const newBackBtn = document.getElementById('progress-back-btn');
+      newBackBtn.addEventListener('click', () => {
+        this.showScreen('home-screen');
+      });
+    }
+
+    // View achievements button
+    const achievementsBtn = document.getElementById('view-achievements-btn');
+    if (achievementsBtn) {
+      achievementsBtn.replaceWith(achievementsBtn.cloneNode(true));
+      const newAchievementsBtn = document.getElementById('view-achievements-btn');
+      newAchievementsBtn.addEventListener('click', () => {
+        this.showScreen('achievements-screen');
+      });
+    }
+  }
+
+  showComingSoonModal(featureName) {
+    alert(`${featureName} is coming soon! 🚀\n\nThis feature is currently in development and will be available in a future update.`);
+    this.analyticsManager.trackEvent('coming_soon_viewed', { feature: featureName });
+  }
 }
 
 // Initialize app when DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   window.app = new LingXMApp();
+
+  // Wait for app initialization to complete
+  await window.app.init();
 
   // Expose speechManager globally for testing/debugging
   window.speechManager = window.app.speechManager;

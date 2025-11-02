@@ -117,7 +117,7 @@
       }
     </script>
 
-    <link rel="stylesheet" href="./src/styles/main.css?v=5.0">
+    <link rel="stylesheet" href="./src/styles/main.css?v=7.0">
 
     <!-- AGGRESSIVE CACHE BUSTING - iPhone & all browsers -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -268,44 +268,222 @@
             <div class="profile-scroll-wrapper">
                 <div class="profile-container">
                     <h1 class="app-title">LingXM Personal</h1>
-                    <div class="profile-buttons">
-                    <button class="profile-btn" data-profile="vahiko">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">👩‍💼</span>
-                        <span class="profile-name">Vahiko</span>
-                        <div class="profile-streak"></div>
+                    <div class="profiles-grid">
+                    <!-- Vahiko Profile -->
+                    <button class="profile-card" data-profile="vahiko">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-vahiko" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-vahiko)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👩‍💼</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="vahiko"></div>
+                        <h3 class="profile-name">Vahiko</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
-                    <button class="profile-btn" data-profile="hassan">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">👨‍💻</span>
-                        <span class="profile-name">Hassan</span>
-                        <div class="profile-streak"></div>
+
+                    <!-- Hassan Profile -->
+                    <button class="profile-card" data-profile="hassan">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-hassan" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-hassan)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👨‍💻</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="hassan"></div>
+                        <h3 class="profile-name">Hassan</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
-                    <button class="profile-btn" data-profile="salman">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">👩‍🍳</span>
-                        <span class="profile-name">Frau Salman</span>
-                        <div class="profile-streak"></div>
+
+                    <!-- Salman Profile -->
+                    <button class="profile-card" data-profile="salman">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-salman" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-salman)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👩‍🍳</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="salman"></div>
+                        <h3 class="profile-name">Frau Salman</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
-                    <button class="profile-btn" data-profile="kafel">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">👨‍💻</span>
-                        <span class="profile-name">Kafel</span>
-                        <div class="profile-streak"></div>
+
+                    <!-- Kafel Profile -->
+                    <button class="profile-card" data-profile="kafel">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-kafel" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-kafel)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👨‍💻</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="kafel"></div>
+                        <h3 class="profile-name">Kafel</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
-                    <button class="profile-btn" data-profile="jawad">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">👨‍🍳</span>
-                        <span class="profile-name">Jawad</span>
-                        <div class="profile-streak"></div>
+
+                    <!-- Jawad Profile -->
+                    <button class="profile-card" data-profile="jawad">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-jawad" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-jawad)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👨‍🍳</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="jawad"></div>
+                        <h3 class="profile-name">Jawad</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
-                    <button class="profile-btn" data-profile="ameeno">
-                        <div class="profile-progress-rings"></div>
-                        <span class="profile-emoji">🧑‍🎓</span>
-                        <span class="profile-name">Ameeno</span>
-                        <div class="profile-streak"></div>
+
+                    <!-- Ameeno Profile -->
+                    <button class="profile-card" data-profile="ameeno">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-ameeno" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-ameeno)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">🧑‍🎓</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="ameeno"></div>
+                        <h3 class="profile-name">Ameeno</h3>
+                        <div class="profile-streak">🔥 0 days</div>
                     </button>
                 </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Home Screen - Card-Based Navigation -->
+        <div id="home-screen" class="screen">
+            <header class="app-header">
+                <div class="user-info">
+                    <span class="user-avatar" id="home-user-avatar">👤</span>
+                    <span class="user-name" id="home-user-name">User</span>
+                    <span class="separator">•</span>
+                    <span class="language-badge" id="home-language-badge">🇩🇪 German B1</span>
+                </div>
+                <div class="header-actions">
+                    <button class="streak-badge" id="home-streak-badge">🔥 0 days</button>
+                    <button id="home-achievements-btn" class="icon-btn">🏆</button>
+                    <button id="home-settings-btn" class="icon-btn">⚙️</button>
+                </div>
+            </header>
+
+            <div class="home-container">
+                <div class="home-cards-grid">
+                    <!-- Vocabulary Practice Card -->
+                    <button class="home-card" data-section="vocabulary">
+                        <div class="card-accent card-accent-primary"></div>
+                        <div class="card-icon">📚</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Vocabulary Practice</h3>
+                            <p class="card-description">Learn new words</p>
+                        </div>
+                        <div class="card-meta">
+                            <span class="card-count" id="vocab-count">... words</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                    </button>
+
+                    <!-- Sentence Builder Card -->
+                    <button class="home-card" data-section="sentences">
+                        <div class="card-accent card-accent-info"></div>
+                        <div class="card-icon">📝</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Sentence Builder</h3>
+                            <p class="card-description">Practice in context (i+1)</p>
+                        </div>
+                        <div class="card-meta">
+                            <span class="card-status">Coming soon</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                    </button>
+
+                    <!-- Progress Review Card -->
+                    <button class="home-card" data-section="progress">
+                        <div class="card-accent card-accent-success"></div>
+                        <div class="card-icon">📊</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Progress Review</h3>
+                            <p class="card-description">See your stats</p>
+                        </div>
+                        <div class="card-meta">
+                            <span class="card-count" id="progress-count">...%</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                    </button>
+
+                    <!-- Saved Words Card -->
+                    <button class="home-card" data-section="saved">
+                        <div class="card-accent card-accent-warning"></div>
+                        <div class="card-icon">⭐</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Saved Words</h3>
+                            <p class="card-description">Review bookmarks</p>
+                        </div>
+                        <div class="card-meta">
+                            <span class="card-count" id="saved-count">... saved</span>
+                            <span class="card-arrow">→</span>
+                        </div>
+                    </button>
                 </div>
             </div>
         </div>
@@ -495,6 +673,92 @@
             </div>
         </div>
 
+        <!-- Progress Dashboard Screen -->
+        <div id="progress-screen" class="screen">
+            <header class="app-header">
+                <button class="header-btn" id="progress-back-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M19 12H5M12 19l-7-7 7-7" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </button>
+                <h1 class="header-title">Progress Stats</h1>
+                <div class="header-spacer"></div>
+            </header>
+
+            <div class="progress-dashboard">
+                <!-- Overall Progress Card -->
+                <div class="dashboard-card overall-progress-card">
+                    <h3 class="card-title">Overall Progress</h3>
+                    <div class="overall-progress-content">
+                        <svg class="overall-progress-ring" width="180" height="180">
+                            <defs>
+                                <linearGradient id="overall-progress-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                    <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                </linearGradient>
+                            </defs>
+                            <circle class="overall-progress-bg" cx="90" cy="90" r="75" 
+                                    stroke="rgba(255,255,255,0.1)" stroke-width="12" fill="none" />
+                            <circle class="overall-progress-circle" cx="90" cy="90" r="75"
+                                    stroke="url(#overall-progress-gradient)" stroke-width="12" fill="none"
+                                    stroke-dasharray="471.24" stroke-dashoffset="471.24"
+                                    transform="rotate(-90 90 90)" stroke-linecap="round" />
+                        </svg>
+                        <div class="overall-progress-text">
+                            <div class="overall-percentage">0%</div>
+                            <div class="overall-words-count">0 of 0 words mastered</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Stats Row -->
+                <div class="quick-stats-row">
+                    <div class="stat-card streak-stat">
+                        <div class="stat-icon">🔥</div>
+                        <div class="stat-label">Streak</div>
+                        <div class="stat-value">0 days</div>
+                    </div>
+                    <div class="stat-card activity-stat">
+                        <div class="stat-icon">📅</div>
+                        <div class="stat-label">Days Active</div>
+                        <div class="stat-value">0 days</div>
+                    </div>
+                </div>
+
+                <!-- Progress by Language -->
+                <div class="dashboard-card language-progress-card">
+                    <h3 class="card-title">Progress by Language</h3>
+                    <div class="language-progress-list">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Mastery Distribution -->
+                <div class="dashboard-card mastery-distribution-card">
+                    <h3 class="card-title">Mastery Distribution</h3>
+                    <div class="mastery-levels-list">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Activity Calendar -->
+                <div class="dashboard-card activity-calendar-card">
+                    <h3 class="card-title">Activity (Last 7 Days)</h3>
+                    <div class="activity-calendar">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Achievements Button -->
+                <button class="view-achievements-btn" id="view-achievements-btn">
+                    <span>🏆 View Achievements</span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M5 12h14M12 5l7 7-7 7" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
         <!-- PIN Authentication Modal -->
         <div id="pin-modal" class="pin-modal">
             <div class="pin-content">
@@ -638,6 +902,6 @@
         </div>
     </div>
 
-    <script type="module" src="./src/app.js?v=5.0"></script>
+    <script type="module" src="./src/app.js?v=7.2"></script>
 </body>
 </html>
