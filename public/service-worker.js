@@ -4,7 +4,7 @@
 // - Assets: Cache-first with versioning
 // - Version mismatch: Unregister SW and clear all caches
 
-const CACHE_NAME = 'lingxm-v15';
+const CACHE_NAME = 'lingxm-v16';
 
 const urlsToCache = [
   '/',

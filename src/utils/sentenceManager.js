@@ -23,10 +23,29 @@ class SentenceManager {
     }
 
     try {
-      const response = await fetch(`/data/sentences/${language}-sentences.json`);
+      // Try new organized structure first: /data/sentences/{language}/{language}-{level}-sentences.json
+      // For now, try common patterns for the language
+      const patterns = [
+        `/data/sentences/${language}/${language}-c1c2-sentences.json`,
+        `/data/sentences/${language}/${language}-b1b2-sentences.json`,
+        `/data/sentences/${language}/${language}-a1a2-sentences.json`,
+        `/data/sentences/${language}-sentences.json` // Legacy fallback
+      ];
 
-      if (!response.ok) {
-        console.warn(`[SENTENCES] No sentences found for ${language} (${response.status})`);
+      let response = null;
+      let foundPattern = null;
+
+      for (const pattern of patterns) {
+        response = await fetch(pattern);
+        if (response.ok) {
+          foundPattern = pattern;
+          console.log(`[SENTENCES] Found sentences at: ${pattern}`);
+          break;
+        }
+      }
+
+      if (!response || !response.ok) {
+        console.warn(`[SENTENCES] No sentences found for ${language}`);
         return null;
       }
 

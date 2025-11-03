@@ -30,14 +30,14 @@ export const PROFILES = {
       {
         code: 'ar',
         name: 'Arabic',
-        level: 'B2-C1',
+        level: 'C1-C2',
         dailyWords: 10,
         flag: '🇸🇦'
       },
       {
         code: 'en',
         name: 'English',
-        level: 'B2-C2',
+        level: 'C1-C2',
         dailyWords: 10,
         flag: '🇬🇧'
       },
@@ -82,7 +82,7 @@ export const PROFILES = {
       {
         code: 'en',
         name: 'English',
-        level: 'A2-B1',
+        level: 'A1-A2',
         dailyWords: 10,
         flag: '🇬🇧'
       }
@@ -112,7 +112,7 @@ export const PROFILES = {
       {
         code: 'en',
         name: 'English',
-        level: 'B2-C1',
+        level: 'C1-C2',
         dailyWords: 10,
         flag: '🇬🇧'
       }
@@ -150,7 +150,7 @@ export const PROFILES = {
       {
         code: 'en',
         name: 'English',
-        level: 'B2-C1',
+        level: 'C1-C2',
         dailyWords: 10,
         flag: '🇬🇧'
       }
