@@ -135,11 +135,30 @@ export class DatabaseManager {
       );
     `);
 
+    // Create sentence_progress table (Phase 2: i+1 Sentence Practice)
+    this.db.run(`
+      CREATE TABLE IF NOT EXISTS sentence_progress (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        user_id INTEGER NOT NULL,
+        language TEXT NOT NULL,
+        sentence_id TEXT NOT NULL,
+        correct_attempts INTEGER DEFAULT 0,
+        incorrect_attempts INTEGER DEFAULT 0,
+        last_practiced TEXT,
+        created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        FOREIGN KEY (user_id) REFERENCES users(id),
+        UNIQUE(user_id, language, sentence_id)
+      );
+    `);
+
+    console.log('[DB] ✅ sentence_progress table ready');
+
     // Create indexes for performance
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_progress_user_lang ON progress(user_id, language);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_saved_words_user ON saved_words(user_id);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_daily_stats_user_date ON daily_stats(user_id, date);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_user_positions_profile ON user_positions(profile_key, language);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_sentence_progress_user_lang ON sentence_progress(user_id, language);`);
   }
 
   // ============================================================================
@@ -792,6 +811,85 @@ export class DatabaseManager {
       saved_words: savedWordsCount,
       isInitialized: this.isInitialized
     };
+  }
+
+  // ============================================================================
+  // SENTENCE PROGRESS METHODS (Phase 2: i+1 Sentence Practice)
+  // ============================================================================
+
+  /**
+   * Get sentence progress for a user and language
+   * @param {number} userId - User ID
+   * @param {string} language - Language code
+   * @returns {Array} - Array of sentence progress records
+   */
+  getSentenceProgress(userId, language) {
+    if (!this.db) {
+      console.error('[DB] Database not initialized');
+      return [];
+    }
+
+    try {
+      const results = this.db.exec(`
+        SELECT sentence_id, correct_attempts, incorrect_attempts, last_practiced
+        FROM sentence_progress
+        WHERE user_id = ? AND language = ?
+        ORDER BY last_practiced DESC
+      `, [userId, language]);
+
+      if (results.length === 0) return [];
+
+      const rows = results[0].values.map(row => ({
+        sentence_id: row[0],
+        correct_attempts: row[1],
+        incorrect_attempts: row[2],
+        last_practiced: row[3]
+      }));
+
+      console.log(`[DB] Retrieved ${rows.length} sentence progress records for ${language}`);
+      return rows;
+    } catch (error) {
+      console.error('[DB] Error getting sentence progress:', error);
+      return [];
+    }
+  }
+
+  /**
+   * Update sentence progress (increment correct/incorrect count)
+   * @param {number} userId - User ID
+   * @param {string} language - Language code
+   * @param {string} sentenceId - Sentence ID
+   * @param {boolean} correct - Whether answer was correct
+   * @returns {boolean} - Success status
+   */
+  updateSentenceProgress(userId, language, sentenceId, correct) {
+    if (!this.db) {
+      console.error('[DB] Database not initialized');
+      return false;
+    }
+
+    try {
+      const field = correct ? 'correct_attempts' : 'incorrect_attempts';
+      const now = new Date().toISOString();
+
+      this.db.run(`
+        INSERT INTO sentence_progress (user_id, language, sentence_id, ${field}, last_practiced)
+        VALUES (?, ?, ?, 1, ?)
+        ON CONFLICT(user_id, language, sentence_id)
+        DO UPDATE SET
+          ${field} = ${field} + 1,
+          last_practiced = ?
+      `, [userId, language, sentenceId, now, now]);
+
+      console.log(`[DB] Updated sentence progress: ${sentenceId} - ${correct ? 'correct' : 'incorrect'}`);
+
+      // Save to storage
+      this.saveToStorage();
+      return true;
+    } catch (error) {
+      console.error('[DB] Error updating sentence progress:', error);
+      return false;
+    }
   }
 
   /**

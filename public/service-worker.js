@@ -4,7 +4,7 @@
 // - Assets: Cache-first with versioning
 // - Version mismatch: Unregister SW and clear all caches
 
-const CACHE_NAME = 'lingxm-v13';
+const CACHE_NAME = 'lingxm-v15';
 
 const urlsToCache = [
   '/',
@@ -17,6 +17,7 @@ const urlsToCache = [
   '/src/utils/progress.js',
   '/src/utils/speech.js',
   '/src/utils/database.js',
+  '/src/utils/sentenceManager.js',
   '/src/utils/version-check.js',
   '/manifest.json',
   '/logo.svg',

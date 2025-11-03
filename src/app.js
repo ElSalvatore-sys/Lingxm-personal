@@ -6,6 +6,7 @@ import { AchievementManager, ACHIEVEMENTS } from './utils/achievements.js';
 import { AnalyticsManager } from './utils/analytics.js';
 import { PositionManager } from './utils/positionManager.js';
 import { dbManager } from './utils/database.js';
+import { sentenceManager } from './utils/sentenceManager.js';
 
 // ============================================
 // Global Database Initialization
@@ -1918,16 +1919,73 @@ class LingXMApp {
     // Calculate and display dynamic counts
     this.updateHomeCardCounts();
 
+    // Render language selector widget
+    this.renderLanguageSelector();
+
     // Setup card click handlers
     this.setupHomeCardHandlers();
 
     // Setup header button handlers
     this.setupHomeHeaderHandlers();
 
+    // Setup language selector handlers
+    this.setupLanguageSelectorHandlers();
+
     // Show home screen
     this.showScreen('home-screen');
 
     this.analyticsManager.trackEvent('home_screen_viewed', { profile: this.profileKey });
+  }
+
+  /**
+   * Render language selector widget on home screen
+   */
+  renderLanguageSelector() {
+    console.log('[HOME] Rendering language selector');
+
+    const container = document.getElementById('language-selector-widget');
+    if (!container) {
+      console.warn('[HOME] Language selector container not found');
+      return;
+    }
+
+    const languages = this.currentProfile.learningLanguages;
+    const currentIndex = this.currentLanguageIndex;
+
+    // Build language cards HTML
+    const cardsHTML = languages.map((lang, index) => {
+      const isActive = index === currentIndex;
+      const progress = this.getLanguageProgressSync(lang.code);
+
+      return `
+        <div class="language-option ${isActive ? 'active' : ''}" data-lang-index="${index}">
+          <div class="language-option-check">✓</div>
+          <div class="language-option-flag">${lang.flag}</div>
+          <div class="language-option-name">${lang.name}</div>
+          <div class="language-option-level">${lang.level}</div>
+          <div class="language-option-divider"></div>
+          <div class="language-option-stats">
+            <div class="language-option-stat">
+              <span class="language-stat-value">${progress.total}</span>
+              <span class="language-stat-label">Words</span>
+            </div>
+            <div class="language-option-stat">
+              <span class="language-stat-value">${progress.percentage}%</span>
+              <span class="language-stat-label">Mastered</span>
+            </div>
+          </div>
+          <div class="language-option-progress" style="width: ${progress.percentage}%;"></div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = `
+      <div class="language-selector-cards">
+        ${cardsHTML}
+      </div>
+    `;
+
+    console.log('[HOME] Language selector rendered with', languages.length, 'languages');
   }
 
   updateHomeCardCounts() {
@@ -2021,6 +2079,76 @@ class LingXMApp {
     });
   }
 
+  /**
+   * Setup click handlers for language selector widget
+   */
+  setupLanguageSelectorHandlers() {
+    const container = document.getElementById('language-selector-widget');
+    if (!container) return;
+
+    // Add click handlers to all language option cards
+    const languageOptions = container.querySelectorAll('.language-option');
+    languageOptions.forEach(option => {
+      option.addEventListener('click', () => {
+        const langIndex = parseInt(option.getAttribute('data-lang-index'));
+        this.switchLanguageFromHome(langIndex);
+      });
+    });
+
+    console.log('[HOME] Language selector handlers setup for', languageOptions.length, 'languages');
+  }
+
+  /**
+   * Switch language from home screen
+   * Updates widget and home card counts
+   */
+  async switchLanguageFromHome(newIndex) {
+    if (newIndex === this.currentLanguageIndex) {
+      console.log('[HOME] Already on this language');
+      return;
+    }
+
+    console.log(`[HOME] Switching language from ${this.currentLanguageIndex} to ${newIndex}`);
+
+    const oldLang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+    const newLang = this.currentProfile.learningLanguages[newIndex];
+
+    // Update index
+    this.currentLanguageIndex = newIndex;
+    this.currentWordIndex = 0;
+
+    // Save position immediately
+    if (this.positionManager) {
+      this.positionManager.saveImmediately(
+        this.profileKey,
+        newLang.code,
+        this.currentWordIndex
+      );
+    }
+
+    // Update language badge in header
+    document.getElementById('home-language-badge').textContent =
+      `${newLang.flag} ${newLang.name} ${newLang.level}`;
+
+    // Re-render language selector to show new active state
+    this.renderLanguageSelector();
+
+    // Re-setup handlers (since we just re-rendered)
+    this.setupLanguageSelectorHandlers();
+
+    // Update home card counts
+    this.updateHomeCardCounts();
+
+    // Track analytics
+    this.analyticsManager.trackEvent('language_switched', {
+      from: oldLang.code,
+      to: newLang.code,
+      location: 'home_screen'
+    });
+
+    console.log(`[HOME] ✅ Switched to ${newLang.name}`);
+  }
+
   navigateToSection(section) {
     // Guard against multiple simultaneous calls
     if (this.isNavigating) {
@@ -2039,7 +2167,7 @@ class LingXMApp {
           break;
 
         case 'sentences':
-          this.showComingSoonModal('Sentence Builder');
+          this.startSentencePractice();
           break;
 
         case 'progress':
@@ -2304,6 +2432,28 @@ class LingXMApp {
       console.error('[PROGRESS] Error in getLanguageProgress:', error);
       return [];
     }
+  }
+
+  /**
+   * Get language progress synchronously (for home screen widget)
+   * Uses cached progress data without database async calls
+   */
+  getLanguageProgressSync(languageCode) {
+    const vocabulary = this.wordData[languageCode] || [];
+    const total = vocabulary.length;
+
+    let mastered = 0;
+    if (this.progressTracker) {
+      mastered = this.progressTracker.getCompletedCount(languageCode);
+    }
+
+    const percentage = total > 0 ? Math.round((mastered / total) * 100) : 0;
+
+    return {
+      total,
+      mastered,
+      percentage
+    };
   }
 
   async getMasteryBreakdown() {
@@ -2626,6 +2776,442 @@ class LingXMApp {
         this.showScreen('achievements-screen');
       });
     }
+  }
+
+  // ==================== Sentence Practice Methods ====================
+
+  /**
+   * Start sentence practice session
+   */
+  async startSentencePractice() {
+    console.log('[SENTENCES] Starting sentence practice');
+
+    // Ensure database ready
+    await ensureDatabaseReady();
+
+    // SIMPLIFIED USER CHECK
+    if (!this.currentUser || !this.currentUser.id) {
+      console.log('[SENTENCES] No current user, initializing...');
+
+      // Get profile key
+      const profileKey = this.currentProfile?.key ||
+                         this.profileKey ||
+                         localStorage.getItem('lingxm-selected-profile') ||
+                         'hassan';
+
+      // Create or get user (returns user object with id property)
+      try {
+        const user = dbManager.getOrCreateUser(profileKey);
+
+        this.currentUser = {
+          id: user.id,  // Extract id from user object
+          profile_key: profileKey
+        };
+
+        console.log('[SENTENCES] ✅ User initialized:', user.id);
+      } catch (error) {
+        console.error('[SENTENCES] Error creating user:', error);
+
+        // Fallback: use default ID
+        this.currentUser = {
+          id: 1,
+          profile_key: profileKey
+        };
+
+        console.log('[SENTENCES] Using fallback user ID: 1');
+      }
+    } else {
+      console.log('[SENTENCES] Using existing user:', this.currentUser.id);
+    }
+
+    // Verify we have user ID
+    const userId = this.currentUser?.id;
+    if (!userId) {
+      alert('Unable to initialize user. Please refresh and try again.');
+      return;
+    }
+
+    console.log('[SENTENCES] User ID:', userId);
+
+    // Get current language
+    const currentLang = this.currentProfile.learningLanguages[this.currentLanguageIndex];
+    let langCode = currentLang.code;
+    let langName = currentLang.name;
+
+    console.log(`[SENTENCES] Language: ${langName} (${langCode})`);
+
+    // Load sentences for this language
+    let sentenceData = await sentenceManager.loadSentences(langCode);
+
+    // SMART FALLBACK: If current language has no sentences, try English
+    if (!sentenceData && langCode !== 'en') {
+      console.log(`[SENTENCES] No sentences for ${langCode}, trying English fallback`);
+
+      // Find English in user's languages
+      const englishLang = this.currentProfile.learningLanguages.find(l => l.code === 'en');
+
+      if (englishLang) {
+        sentenceData = await sentenceManager.loadSentences('en');
+
+        if (sentenceData) {
+          console.log(`[SENTENCES] ✅ Using English sentences as fallback`);
+          // Show user-friendly message
+          const userConfirmed = confirm(
+            `Sentence practice not yet available for ${currentLang.name}.\n\n` +
+            `Would you like to practice English sentences instead?`
+          );
+
+          if (!userConfirmed) {
+            return; // User declined
+          }
+
+          // Update to use English
+          langCode = 'en';
+          langName = 'English';
+        }
+      }
+    }
+
+    // If still no sentences available
+    if (!sentenceData) {
+      alert(`Sentence practice not available yet. Coming soon!`);
+      return;
+    }
+
+    // Get user's mastered words (TESTING MODE: All words treated as mastered)
+    // userId already declared at line 2828
+    console.log(`[SENTENCES] Using userId:`, userId, `(type: ${typeof userId})`);
+
+    // TESTING MODE: Treat ALL vocabulary as mastered (bypasses database)
+    const masteredWords = this.wordData[langCode]?.map(w => w.word) || [];
+    console.log(`[SENTENCES] 🧪 TESTING MODE: Using all ${masteredWords.length} vocabulary words as mastered`);
+
+    // Production mode would be:
+    // const progress = dbManager.getLearnedWords(userId, langCode);
+    // const masteredWords = progress.filter(p => p.mastery_level === 5).map(p => p.word);
+
+    // Find i+1 sentences
+    const i1Sentences = await sentenceManager.findI1Sentences(
+      this.currentUser.id,
+      langCode,
+      masteredWords
+    );
+
+    console.log(`[SENTENCES] Found ${i1Sentences.length} i+1 sentences`);
+
+    // Check if user has enough mastered words
+    if (i1Sentences.length === 0) {
+      this.showScreen('sentence-screen');
+      document.getElementById('no-sentences-available').classList.remove('hidden');
+      document.getElementById('btn-no-sentences-back').onclick = () => {
+        this.showScreen('home-screen');
+      };
+      return;
+    }
+
+    // Initialize sentence session
+    this.sentenceSession = {
+      language: langCode,
+      languageName: langName,
+      sentences: i1Sentences.slice(0, 10), // Practice 10 sentences per session
+      currentIndex: 0,
+      selectedWord: null,
+      correctCount: 0,
+      incorrectCount: 0,
+      masteredWords: masteredWords
+    };
+
+    // Show sentence screen
+    this.showScreen('sentence-screen');
+    this.renderSentenceScreen();
+    this.loadNextSentence();
+
+    // Track analytics
+    this.analyticsManager.trackEvent('sentence_practice_start', {
+      language: langCode,
+      available_sentences: i1Sentences.length,
+      mastered_words: masteredWords.length
+    });
+  }
+
+  /**
+   * Render sentence practice screen UI
+   */
+  renderSentenceScreen() {
+    const session = this.sentenceSession;
+
+    // Hide no-sentences screen if visible
+    document.getElementById('no-sentences-available').classList.add('hidden');
+
+    // Update session info
+    document.getElementById('sentence-language').textContent = session.languageName;
+    document.getElementById('sentence-known-count').textContent = session.masteredWords.length;
+    document.getElementById('sentence-available').textContent = session.sentences.length;
+
+    // Setup event handlers
+    this.setupSentenceEventHandlers();
+  }
+
+  /**
+   * Load and display next sentence
+   */
+  loadNextSentence() {
+    const session = this.sentenceSession;
+
+    if (session.currentIndex >= session.sentences.length) {
+      this.showSessionComplete();
+      return;
+    }
+
+    const sentence = session.sentences[session.currentIndex];
+    session.selectedWord = null;
+    session.answered = false; // Reset answered flag for new sentence
+
+    console.log(`[SENTENCES] Loading sentence ${session.currentIndex + 1}/${session.sentences.length}`);
+    console.log(`[SENTENCES] Target: ${sentence.target_word}, Known: ${sentence.known_percentage}%`);
+
+    // Update progress indicator
+    document.getElementById('sentence-current').textContent = session.currentIndex + 1;
+    document.getElementById('sentence-total').textContent = session.sentences.length;
+
+    // Update difficulty badge
+    const difficultyBadge = document.getElementById('sentence-difficulty');
+    difficultyBadge.textContent = sentence.difficulty;
+
+    // Display sentence with blank
+    const sentenceText = document.getElementById('sentence-text');
+    sentenceText.innerHTML = sentence.blank.replace('_____', '<span class="blank">_____</span>');
+
+    // Generate word bank (1 correct + 3 distractors)
+    const allWords = this.wordData[session.language].map(w => w.word);
+    const wordBank = sentenceManager.generateWordBank(sentence, allWords);
+
+    // Render word options
+    const wordBankEl = document.getElementById('word-bank');
+    wordBankEl.innerHTML = wordBank.map(word => `
+      <button class="word-option" data-word="${word}">
+        ${word}
+      </button>
+    `).join('');
+
+    // Hide feedback, show check button
+    document.getElementById('sentence-feedback').classList.add('hidden');
+    document.getElementById('btn-check-answer').classList.remove('hidden');
+    document.getElementById('btn-check-answer').disabled = true;
+    document.getElementById('btn-next-sentence').classList.add('hidden');
+  }
+
+  /**
+   * Setup event handlers for sentence screen
+   */
+  setupSentenceEventHandlers() {
+    // Back button
+    const backBtn = document.getElementById('sentence-back-btn');
+    backBtn.replaceWith(backBtn.cloneNode(true));
+    const newBackBtn = document.getElementById('sentence-back-btn');
+    newBackBtn.addEventListener('click', () => {
+      if (confirm('Exit sentence practice? Your progress will be saved.')) {
+        this.showScreen('home-screen');
+      }
+    });
+
+    // Word selection
+    const wordBank = document.getElementById('word-bank');
+    const wordBankHandler = (e) => {
+      if (e.target.classList.contains('word-option')) {
+        // Ignore if already answered
+        if (this.sentenceSession.answered) {
+          return;
+        }
+
+        // Remove previous selection
+        document.querySelectorAll('.word-option').forEach(btn => {
+          btn.classList.remove('selected');
+        });
+
+        // Select this word
+        e.target.classList.add('selected');
+        this.sentenceSession.selectedWord = e.target.getAttribute('data-word');
+
+        // Auto-check immediately (no button needed!)
+        this.checkSentenceAnswer();
+      }
+    };
+    wordBank.replaceWith(wordBank.cloneNode(true));
+    document.getElementById('word-bank').addEventListener('click', wordBankHandler);
+
+    // Check answer button
+    const checkBtn = document.getElementById('btn-check-answer');
+    checkBtn.replaceWith(checkBtn.cloneNode(true));
+    document.getElementById('btn-check-answer').addEventListener('click', () => this.checkSentenceAnswer());
+
+    // Next sentence button
+    const nextBtn = document.getElementById('btn-next-sentence');
+    nextBtn.replaceWith(nextBtn.cloneNode(true));
+    document.getElementById('btn-next-sentence').addEventListener('click', () => {
+      this.sentenceSession.currentIndex++;
+      this.loadNextSentence();
+    });
+
+    // Practice again button
+    const practiceAgainBtn = document.getElementById('btn-practice-again');
+    practiceAgainBtn.replaceWith(practiceAgainBtn.cloneNode(true));
+    document.getElementById('btn-practice-again').addEventListener('click', () => {
+      this.startSentencePractice();
+    });
+
+    // Back to home buttons
+    document.querySelectorAll('.btn-back-home').forEach(btn => {
+      const newBtn = btn.cloneNode(true);
+      newBtn.addEventListener('click', () => {
+        this.showScreen('home-screen');
+      });
+      btn.replaceWith(newBtn);
+    });
+  }
+
+  /**
+   * Check if selected answer is correct
+   */
+  async checkSentenceAnswer() {
+    const session = this.sentenceSession;
+    const sentence = session.sentences[session.currentIndex];
+    const selectedWord = session.selectedWord;
+    const correctWord = sentence.target_word;
+    const isCorrect = selectedWord === correctWord;
+
+    // Mark as answered to prevent double-clicking
+    session.answered = true;
+
+    console.log(`[SENTENCES] Answer: ${selectedWord}, Correct: ${correctWord}, Result: ${isCorrect}`);
+
+    // Update session stats
+    if (isCorrect) {
+      session.correctCount++;
+    } else {
+      session.incorrectCount++;
+    }
+
+    // Update database
+    await dbManager.updateSentenceProgress(
+      this.currentUser.id,
+      session.language,
+      sentence.id,
+      isCorrect
+    );
+
+    // Visual feedback on word options
+    document.querySelectorAll('.word-option').forEach(btn => {
+      const word = btn.getAttribute('data-word');
+      if (word === correctWord) {
+        btn.classList.add('correct');
+      } else if (word === selectedWord && !isCorrect) {
+        btn.classList.add('incorrect');
+      }
+      btn.disabled = true;
+    });
+
+    // Show feedback
+    const feedbackEl = document.getElementById('sentence-feedback');
+    const feedbackIcon = document.getElementById('feedback-icon');
+    const feedbackMessage = document.getElementById('feedback-message');
+    const feedbackSentence = document.getElementById('feedback-full-sentence');
+
+    feedbackEl.classList.remove('hidden');
+
+    if (isCorrect) {
+      feedbackIcon.textContent = '✓';
+      feedbackMessage.textContent = 'Correct!';
+      feedbackMessage.className = 'feedback-message correct';
+    } else {
+      feedbackIcon.textContent = '✗';
+      feedbackMessage.textContent = `Incorrect. The answer was "${correctWord}"`;
+      feedbackMessage.className = 'feedback-message incorrect';
+    }
+
+    feedbackSentence.textContent = sentence.full;
+
+    // Hide check button, show next button
+    document.getElementById('btn-check-answer').classList.add('hidden');
+    document.getElementById('btn-next-sentence').classList.remove('hidden');
+
+    // Track analytics
+    this.analyticsManager.trackEvent('sentence_answer', {
+      language: session.language,
+      correct: isCorrect,
+      difficulty: sentence.difficulty
+    });
+  }
+
+  /**
+   * Show session complete screen
+   */
+  showSessionComplete() {
+    const session = this.sentenceSession;
+
+    console.log('[SENTENCES] Session complete');
+    console.log(`[SENTENCES] Correct: ${session.correctCount}, Incorrect: ${session.incorrectCount}`);
+
+    // Hide practice UI, show complete screen
+    document.querySelector('.sentence-info-card').classList.add('hidden');
+    document.querySelector('.sentence-card').classList.add('hidden');
+    document.querySelector('.word-bank-container').classList.add('hidden');
+    document.querySelector('.sentence-actions').classList.add('hidden');
+
+    const completeScreen = document.getElementById('session-complete');
+    completeScreen.classList.remove('hidden');
+
+    // Calculate accuracy
+    const total = session.correctCount + session.incorrectCount;
+    const accuracy = total > 0 ? Math.round((session.correctCount / total) * 100) : 0;
+
+    // Update stats
+    document.getElementById('session-correct').textContent = session.correctCount;
+    document.getElementById('session-incorrect').textContent = session.incorrectCount;
+    document.getElementById('session-accuracy').textContent = accuracy + '%';
+
+    // Track analytics
+    this.analyticsManager.trackEvent('sentence_session_complete', {
+      language: session.language,
+      correct: session.correctCount,
+      incorrect: session.incorrectCount,
+      accuracy: accuracy
+    });
+  }
+
+  /**
+   * Add test progress for development/testing
+   * Sets 50 random words to mastery level 5
+   */
+  async addTestProgress() {
+    console.log('[TEST] Adding test progress data...');
+
+    if (!this.currentUser) {
+      console.error('[TEST] No current user');
+      return;
+    }
+
+    const langCode = 'en';
+    const words = this.wordData[langCode];
+
+    if (!words || words.length === 0) {
+      console.error('[TEST] No vocabulary loaded');
+      return;
+    }
+
+    // Set first 50 words to mastery level 5
+    for (let i = 0; i < Math.min(50, words.length); i++) {
+      await dbManager.updateProgress(
+        this.currentUser.id,
+        langCode,
+        words[i].word,
+        5,  // Mastery level 5
+        0   // Review count
+      );
+    }
+
+    console.log('[TEST] ✅ Added mastery progress for 50 words');
+    alert('Test progress added! Refresh the page and try Sentence Builder again.');
   }
 
   showComingSoonModal(featureName) {

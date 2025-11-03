@@ -428,6 +428,11 @@
             </header>
 
             <div class="home-container">
+                <!-- Language Selector Widget -->
+                <div class="language-selector-widget" id="language-selector-widget">
+                    <!-- Populated by JavaScript -->
+                </div>
+
                 <div class="home-cards-grid">
                     <!-- Vocabulary Practice Card -->
                     <button class="home-card" data-section="vocabulary">
@@ -756,6 +761,123 @@
                         <path d="M5 12h14M12 5l7 7-7 7" stroke-width="2" stroke-linecap="round"/>
                     </svg>
                 </button>
+            </div>
+        </div>
+
+        <!-- Sentence Practice Screen -->
+        <div id="sentence-screen" class="screen">
+            <header class="app-header">
+                <button class="header-btn" id="sentence-back-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M19 12H5M12 19l-7-7 7-7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <h1 class="header-title">Sentence Practice</h1>
+                <div class="sentence-progress-indicator">
+                    <span id="sentence-current">0</span>/<span id="sentence-total">0</span>
+                </div>
+            </header>
+
+            <div class="sentence-practice-container">
+                <!-- Session Info Card -->
+                <div class="sentence-info-card">
+                    <div class="info-item">
+                        <span class="info-label">Language</span>
+                        <span class="info-value" id="sentence-language">English</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Known Words</span>
+                        <span class="info-value" id="sentence-known-count">0</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">Available</span>
+                        <span class="info-value" id="sentence-available">0</span>
+                    </div>
+                </div>
+
+                <!-- Sentence Card -->
+                <div class="sentence-card" id="sentence-card">
+                    <div class="sentence-difficulty-badge" id="sentence-difficulty">
+                        Intermediate
+                    </div>
+
+                    <div class="sentence-text" id="sentence-text">
+                        <!-- Sentence with blank will appear here -->
+                    </div>
+
+                    <div class="sentence-hint" id="sentence-hint">
+                        Fill in the blank with the correct word
+                    </div>
+                </div>
+
+                <!-- Word Bank -->
+                <div class="word-bank-container">
+                    <h3 class="word-bank-title">Select the correct word:</h3>
+                    <div class="word-bank" id="word-bank">
+                        <!-- 4 word options will appear here -->
+                    </div>
+                </div>
+
+                <!-- Feedback Section (hidden by default) -->
+                <div class="sentence-feedback hidden" id="sentence-feedback">
+                    <div class="feedback-icon" id="feedback-icon">✓</div>
+                    <div class="feedback-message" id="feedback-message">Correct!</div>
+                    <div class="feedback-full-sentence" id="feedback-full-sentence">
+                        <!-- Full sentence shown here -->
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="sentence-actions">
+                    <button class="btn-check-answer" id="btn-check-answer" disabled>
+                        Check Answer
+                    </button>
+                    <button class="btn-next-sentence hidden" id="btn-next-sentence">
+                        Next Sentence →
+                    </button>
+                </div>
+
+                <!-- Session Complete Screen (hidden by default) -->
+                <div class="session-complete hidden" id="session-complete">
+                    <div class="complete-icon">🎉</div>
+                    <h2 class="complete-title">Great Work!</h2>
+                    <div class="complete-stats">
+                        <div class="stat-item">
+                            <span class="stat-value" id="session-correct">0</span>
+                            <span class="stat-label">Correct</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="session-incorrect">0</span>
+                            <span class="stat-label">Incorrect</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="session-accuracy">0%</span>
+                            <span class="stat-label">Accuracy</span>
+                        </div>
+                    </div>
+                    <div class="complete-actions">
+                        <button class="btn-practice-again" id="btn-practice-again">
+                            Practice Again
+                        </button>
+                        <button class="btn-back-home" id="btn-back-home">
+                            Back to Home
+                        </button>
+                    </div>
+                </div>
+
+                <!-- No Sentences Available Screen -->
+                <div class="no-sentences-available hidden" id="no-sentences-available">
+                    <div class="no-sentences-icon">📚</div>
+                    <h2 class="no-sentences-title">Not Ready Yet</h2>
+                    <p class="no-sentences-message">
+                        You need to master more vocabulary words before starting sentence practice.
+                        <br><br>
+                        <strong>Tip:</strong> Practice vocabulary until you reach mastery level 5 on at least 20 words.
+                    </p>
+                    <button class="btn-back-home" id="btn-no-sentences-back">
+                        Back to Home
+                    </button>
+                </div>
             </div>
         </div>
 
