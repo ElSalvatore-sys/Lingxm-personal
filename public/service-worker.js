@@ -4,7 +4,7 @@
 // - Assets: Cache-first with versioning
 // - Version mismatch: Unregister SW and clear all caches
 
-const CACHE_NAME = 'lingxm-v18';  // Phase 1: English sentences added
+const CACHE_NAME = 'lingxm-v19';  // Phase 2: German general sentences added
 
 const urlsToCache = [
   '/',
