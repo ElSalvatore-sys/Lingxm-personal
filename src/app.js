@@ -2893,17 +2893,34 @@ class LingXMApp {
     // const progress = await dbManager.getProgress(userId, langCode);
     // const masteredWords = progress.filter(p => p.mastery_level >= 5).map(p => p.word);
 
-    // Get user's proficiency level for this language (using existing currentLang from above)
-    const userLevel = currentLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2'; // e.g., "C1-C2" → "c1c2"
+    // ============================================================
+    // GET USER'S PROFICIENCY LEVEL AND SPECIALIZATION
+    // ============================================================
+    let userLevel = currentLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2'; // e.g., "C1-C2" → "c1c2"
+    let specialization = currentLang?.specialization?.toLowerCase() || null;
 
     console.log(`[SENTENCES] User level for ${langCode}: ${userLevel}`);
+    if (specialization) {
+      console.log(`[SENTENCES] Specialization: ${specialization}`);
+    }
 
-    // Find i+1 sentences with user's level
+    // Build level key for file lookup (e.g., "b2c1" or "b2c1-gastro")
+    let levelKey = userLevel;
+    if (specialization) {
+      levelKey = `${userLevel}-${specialization}`;
+      console.log(`[SENTENCES] Combined level key: ${levelKey}`);
+    }
+
+    // ============================================================
+    // FIND i+1 SENTENCES WITH USER'S LEVEL
+    // ============================================================
+    console.log(`[SENTENCES] Requesting sentences for ${langCode} at level: ${levelKey}`);
+
     const i1Sentences = await sentenceManager.findI1Sentences(
       langCode,
       masteredWords,
       10,
-      userLevel  // PASS THE LEVEL!
+      levelKey  // PASS THE FULL LEVEL KEY (includes specialization if present)
     );
 
     console.log(`[SENTENCES] Found ${i1Sentences.length} i+1 sentences`);
