@@ -1,3 +1,33 @@
+// ============================================================
+// SENTENCE FILE MAPPING - EXACT PATHS
+// ============================================================
+const SENTENCE_FILE_MAP = {
+  // English
+  'en-a1a2': '/data/sentences/en/en-a1a2-sentences.json',
+  'en-b1b2': '/data/sentences/en/en-b1b2-sentences.json',
+  'en-c1c2': '/data/sentences/en/en-c1c2-sentences.json',
+
+  // German General
+  'de-b1b2': '/data/sentences/de/de-b1b2-sentences.json',
+  'de-b2c1': '/data/sentences/de/de-b2c1-sentences.json',
+  'de-c1': '/data/sentences/de/de-c1-sentences.json',
+
+  // German Specialized
+  'de-b1b2-gastro': '/data/sentences/de-specialized/de-b1b2-gastro-sentences.json',
+  'de-b2-gastro': '/data/sentences/de-specialized/de-b2-gastro-sentences.json',
+  'de-b2-it': '/data/sentences/de-specialized/de-b2-it-sentences.json',
+  'de-c1-stadtsverwaltung': '/data/sentences/de-specialized/de-c1-stadtsverwaltung-sentences.json',
+
+  // Arabic
+  'ar-c1c2': '/data/sentences/ar/ar-c1c2-sentences.json',
+
+  // French
+  'fr-b1b2-gastro': '/data/sentences/fr/fr-b1b2-gastro-sentences.json',
+
+  // Italian
+  'it-a1': '/data/sentences/it/it-a1-sentences.json'
+};
+
 /**
  * SentenceManager - Handles sentence loading and i+1 selection
  * Completely independent from vocabulary system
@@ -27,36 +57,58 @@ class SentenceManager {
     }
 
     try {
-      // Build patterns: If userLevel is specified, try it FIRST
-      let patterns = [];
-
-      if (userLevel) {
-        // User's level gets priority
-        patterns.push(`/data/sentences/${language}/${language}-${userLevel}-sentences.json`);
-      }
-
-      // Fallback patterns (only if user level didn't work)
-      patterns = patterns.concat([
-        `/data/sentences/${language}/${language}-c1c2-sentences.json`,
-        `/data/sentences/${language}/${language}-b1b2-sentences.json`,
-        `/data/sentences/${language}/${language}-a1a2-sentences.json`,
-        `/data/sentences/${language}-sentences.json` // Legacy fallback
-      ]);
-
       let response = null;
-      let foundPattern = null;
 
-      for (const pattern of patterns) {
-        response = await fetch(pattern);
+      // ============================================================
+      // PRIORITY 1: USE EXACT FILE MAP IF AVAILABLE
+      // ============================================================
+      if (userLevel && SENTENCE_FILE_MAP[cacheKey]) {
+        const exactPath = SENTENCE_FILE_MAP[cacheKey];
+        console.log(`[SENTENCES] Using mapped path: ${exactPath}`);
+        response = await fetch(exactPath);
+
         if (response.ok) {
-          foundPattern = pattern;
-          console.log(`[SENTENCES] Found sentences at: ${pattern}`);
-          break;
+          console.log(`[SENTENCES] ✅ Found sentences at: ${exactPath}`);
+        } else {
+          console.warn(`[SENTENCES] Mapped path failed: ${exactPath}`);
         }
       }
 
+      // ============================================================
+      // PRIORITY 2: TRY PATTERN-BASED PATHS (FALLBACK)
+      // ============================================================
       if (!response || !response.ok) {
-        console.warn(`[SENTENCES] No sentences found for ${language}`);
+        const patterns = [];
+
+        if (userLevel) {
+          // Try user's level
+          patterns.push(`/data/sentences/${language}/${language}-${userLevel}-sentences.json`);
+        }
+
+        // Fallback patterns
+        patterns.push(
+          `/data/sentences/${language}/${language}-c1c2-sentences.json`,
+          `/data/sentences/${language}/${language}-c1-sentences.json`,
+          `/data/sentences/${language}/${language}-b2c1-sentences.json`,
+          `/data/sentences/${language}/${language}-b1b2-sentences.json`,
+          `/data/sentences/${language}/${language}-a1a2-sentences.json`,
+          `/data/sentences/${language}-sentences.json` // Legacy fallback
+        );
+
+        for (const pattern of patterns) {
+          response = await fetch(pattern);
+          if (response.ok) {
+            console.log(`[SENTENCES] Found sentences at: ${pattern}`);
+            break;
+          }
+        }
+      }
+
+      // ============================================================
+      // NO VALID FILE FOUND
+      // ============================================================
+      if (!response || !response.ok) {
+        console.warn(`[SENTENCES] No sentences found for ${language}${userLevel ? ` (level: ${userLevel})` : ''}`);
         return null;
       }
 
