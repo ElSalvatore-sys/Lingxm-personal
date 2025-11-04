@@ -2838,10 +2838,21 @@ class LingXMApp {
     let langCode = currentLang.code;
     let langName = currentLang.name;
 
-    console.log(`[SENTENCES] Language: ${langName} (${langCode})`);
+    // ============================================================
+    // EXTRACT LEVEL AND SPECIALIZATION EARLY
+    // ============================================================
+    let userLevel = currentLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2';
+    let specialization = currentLang?.specialization?.toLowerCase() || null;
+    let levelKey = userLevel;
+    if (specialization) {
+      levelKey = `${userLevel}-${specialization}`;
+    }
 
-    // Load sentences for this language
-    let sentenceData = await sentenceManager.loadSentences(langCode);
+    console.log(`[SENTENCES] Language: ${langName} (${langCode})`);
+    console.log(`[SENTENCES] User level: ${userLevel}${specialization ? ` (${specialization})` : ''}`);
+
+    // Load sentences for this language WITH LEVEL
+    let sentenceData = await sentenceManager.loadSentences(langCode, levelKey);
 
     // SMART FALLBACK: If current language has no sentences, try English
     if (!sentenceData && langCode !== 'en') {
@@ -2851,7 +2862,9 @@ class LingXMApp {
       const englishLang = this.currentProfile.learningLanguages.find(l => l.code === 'en');
 
       if (englishLang) {
-        sentenceData = await sentenceManager.loadSentences('en');
+        // Extract English user's level
+        const englishLevel = englishLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2';
+        sentenceData = await sentenceManager.loadSentences('en', englishLevel);
 
         if (sentenceData) {
           console.log(`[SENTENCES] ✅ Using English sentences as fallback`);
@@ -2868,6 +2881,8 @@ class LingXMApp {
           // Update to use English
           langCode = 'en';
           langName = 'English';
+          userLevel = englishLevel;
+          levelKey = englishLevel;
         }
       }
     }
@@ -2892,24 +2907,6 @@ class LingXMApp {
     // Production mode would check mastery level:
     // const progress = await dbManager.getProgress(userId, langCode);
     // const masteredWords = progress.filter(p => p.mastery_level >= 5).map(p => p.word);
-
-    // ============================================================
-    // GET USER'S PROFICIENCY LEVEL AND SPECIALIZATION
-    // ============================================================
-    let userLevel = currentLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2'; // e.g., "C1-C2" → "c1c2"
-    let specialization = currentLang?.specialization?.toLowerCase() || null;
-
-    console.log(`[SENTENCES] User level for ${langCode}: ${userLevel}`);
-    if (specialization) {
-      console.log(`[SENTENCES] Specialization: ${specialization}`);
-    }
-
-    // Build level key for file lookup (e.g., "b2c1" or "b2c1-gastro")
-    let levelKey = userLevel;
-    if (specialization) {
-      levelKey = `${userLevel}-${specialization}`;
-      console.log(`[SENTENCES] Combined level key: ${levelKey}`);
-    }
 
     // ============================================================
     // FIND i+1 SENTENCES WITH USER'S LEVEL
