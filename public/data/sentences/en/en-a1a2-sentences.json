@@ -1,0 +1,3997 @@
+{
+  "metadata": {
+    "language": "en",
+    "language_name": "English",
+    "level": "A1-A2",
+    "source_profiles": [
+      "salman"
+    ],
+    "source_vocabulary": "public/data/salman/en.json",
+    "total_words": 180,
+    "total_sentences": 540,
+    "generated_date": "2025-11-04",
+    "version": "1.0",
+    "difficulty": "beginner"
+  },
+  "sentences": {
+    "hello": [
+      {
+        "sentence": "Hello, how are you today?",
+        "target_word": "hello",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "مرحباً، كيف حالك اليوم؟"
+      },
+      {
+        "sentence": "I say hello to my friends.",
+        "target_word": "hello",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "أقول مرحباً لأصدقائي."
+      },
+      {
+        "sentence": "Hello everyone, good morning!",
+        "target_word": "hello",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "مرحباً للجميع، صباح الخير!"
+      }
+    ],
+    "goodbye": [
+      {
+        "sentence": "Goodbye, see you tomorrow.",
+        "target_word": "goodbye",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "وداعاً، أراك غداً."
+      },
+      {
+        "sentence": "I say goodbye to my mother.",
+        "target_word": "goodbye",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "أقول وداعاً لأمي."
+      },
+      {
+        "sentence": "Goodbye everyone, have a nice day!",
+        "target_word": "goodbye",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "وداعاً للجميع، يوم سعيد!"
+      }
+    ],
+    "please": [
+      {
+        "sentence": "Please help me with this.",
+        "target_word": "please",
+        "difficulty": "basic",
+        "context": "Politeness",
+        "translation": "من فضلك ساعدني في هذا."
+      },
+      {
+        "sentence": "Can I have water, please?",
+        "target_word": "please",
+        "difficulty": "basic",
+        "context": "Requests",
+        "translation": "هل يمكنني الحصول على ماء من فضلك؟"
+      },
+      {
+        "sentence": "Please sit down here.",
+        "target_word": "please",
+        "difficulty": "basic",
+        "context": "Instructions",
+        "translation": "من فضلك اجلس هنا."
+      }
+    ],
+    "thank you": [
+      {
+        "sentence": "Thank you for your help.",
+        "target_word": "thank you",
+        "difficulty": "basic",
+        "context": "Politeness",
+        "translation": "شكراً لك على مساعدتك."
+      },
+      {
+        "sentence": "I say thank you every time.",
+        "target_word": "thank you",
+        "difficulty": "basic",
+        "context": "Politeness",
+        "translation": "أقول شكراً في كل مرة."
+      },
+      {
+        "sentence": "Thank you very much!",
+        "target_word": "thank you",
+        "difficulty": "basic",
+        "context": "Expressions",
+        "translation": "شكراً جزيلاً!"
+      }
+    ],
+    "sorry": [
+      {
+        "sentence": "Sorry, I am late today.",
+        "target_word": "sorry",
+        "difficulty": "basic",
+        "context": "Apologies",
+        "translation": "آسف، أنا متأخر اليوم."
+      },
+      {
+        "sentence": "I am sorry for the mistake.",
+        "target_word": "sorry",
+        "difficulty": "basic",
+        "context": "Apologies",
+        "translation": "أنا آسف على الخطأ."
+      },
+      {
+        "sentence": "Sorry, I don't understand.",
+        "target_word": "sorry",
+        "difficulty": "basic",
+        "context": "Communication",
+        "translation": "معذرة، لا أفهم."
+      }
+    ],
+    "yes": [
+      {
+        "sentence": "Yes, I agree with you.",
+        "target_word": "yes",
+        "difficulty": "basic",
+        "context": "Agreement",
+        "translation": "نعم، أنا أوافقك الرأي."
+      },
+      {
+        "sentence": "Yes, I want to go.",
+        "target_word": "yes",
+        "difficulty": "basic",
+        "context": "Responses",
+        "translation": "نعم، أريد أن أذهب."
+      },
+      {
+        "sentence": "Yes, that is correct.",
+        "target_word": "yes",
+        "difficulty": "basic",
+        "context": "Confirmation",
+        "translation": "نعم، هذا صحيح."
+      }
+    ],
+    "no": [
+      {
+        "sentence": "No, I don't like that.",
+        "target_word": "no",
+        "difficulty": "basic",
+        "context": "Disagreement",
+        "translation": "لا، أنا لا أحب ذلك."
+      },
+      {
+        "sentence": "No, thank you.",
+        "target_word": "no",
+        "difficulty": "basic",
+        "context": "Refusal",
+        "translation": "لا، شكراً."
+      },
+      {
+        "sentence": "No, that is not right.",
+        "target_word": "no",
+        "difficulty": "basic",
+        "context": "Correction",
+        "translation": "لا، هذا ليس صحيحاً."
+      }
+    ],
+    "excuse me": [
+      {
+        "sentence": "I see a excuse me.",
+        "target_word": "excuse me",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى عفواً، لو سمحت."
+      },
+      {
+        "sentence": "This is my excuse me.",
+        "target_word": "excuse me",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه عفواً، لو سمحتي."
+      },
+      {
+        "sentence": "I like the excuse me.",
+        "target_word": "excuse me",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب العفواً، لو سمحت."
+      }
+    ],
+    "help": [
+      {
+        "sentence": "I help every day.",
+        "target_word": "help",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أمساعدة، يساعد كل يوم."
+      },
+      {
+        "sentence": "She helps in the morning.",
+        "target_word": "help",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تمساعدة، يساعد في الصباح."
+      },
+      {
+        "sentence": "Do you help often?",
+        "target_word": "help",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تمساعدة، يساعد كثيراً؟"
+      }
+    ],
+    "work": [
+      {
+        "sentence": "I work every day.",
+        "target_word": "work",
+        "difficulty": "basic",
+        "context": "Work",
+        "translation": "أعمل كل يوم."
+      },
+      {
+        "sentence": "My father works in a hospital.",
+        "target_word": "work",
+        "difficulty": "basic",
+        "context": "Work",
+        "translation": "أبي يعمل في مستشفى."
+      },
+      {
+        "sentence": "Do you work on Sundays?",
+        "target_word": "work",
+        "difficulty": "basic",
+        "context": "Work",
+        "translation": "هل تعمل أيام الأحد؟"
+      }
+    ],
+    "job": [
+      {
+        "sentence": "I see a job.",
+        "target_word": "job",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى وظيفة."
+      },
+      {
+        "sentence": "This is my job.",
+        "target_word": "job",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه وظيفةي."
+      },
+      {
+        "sentence": "I like the job.",
+        "target_word": "job",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الوظيفة."
+      }
+    ],
+    "time": [
+      {
+        "sentence": "What time is it?",
+        "target_word": "time",
+        "difficulty": "basic",
+        "context": "Time",
+        "translation": "كم الساعة؟"
+      },
+      {
+        "sentence": "I don't have time now.",
+        "target_word": "time",
+        "difficulty": "basic",
+        "context": "Busy",
+        "translation": "ليس لدي وقت الآن."
+      },
+      {
+        "sentence": "Time is important.",
+        "target_word": "time",
+        "difficulty": "basic",
+        "context": "Values",
+        "translation": "الوقت مهم."
+      }
+    ],
+    "day": [
+      {
+        "sentence": "Have a nice day!",
+        "target_word": "day",
+        "difficulty": "basic",
+        "context": "Greetings",
+        "translation": "يوم سعيد!"
+      },
+      {
+        "sentence": "I work every day.",
+        "target_word": "day",
+        "difficulty": "basic",
+        "context": "Routine",
+        "translation": "أعمل كل يوم."
+      },
+      {
+        "sentence": "Today is a good day.",
+        "target_word": "day",
+        "difficulty": "basic",
+        "context": "Weather",
+        "translation": "اليوم يوم جيد."
+      }
+    ],
+    "week": [
+      {
+        "sentence": "I see a week.",
+        "target_word": "week",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أسبوع."
+      },
+      {
+        "sentence": "This is my week.",
+        "target_word": "week",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أسبوعي."
+      },
+      {
+        "sentence": "I like the week.",
+        "target_word": "week",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأسبوع."
+      }
+    ],
+    "month": [
+      {
+        "sentence": "I see a month.",
+        "target_word": "month",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى شهر."
+      },
+      {
+        "sentence": "This is my month.",
+        "target_word": "month",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه شهري."
+      },
+      {
+        "sentence": "I like the month.",
+        "target_word": "month",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الشهر."
+      }
+    ],
+    "year": [
+      {
+        "sentence": "I see a year.",
+        "target_word": "year",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى سنة، عام."
+      },
+      {
+        "sentence": "This is my year.",
+        "target_word": "year",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه سنة، عامي."
+      },
+      {
+        "sentence": "I like the year.",
+        "target_word": "year",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب السنة، عام."
+      }
+    ],
+    "today": [
+      {
+        "sentence": "I see a today.",
+        "target_word": "today",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى اليوم."
+      },
+      {
+        "sentence": "This is my today.",
+        "target_word": "today",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه اليومي."
+      },
+      {
+        "sentence": "I like the today.",
+        "target_word": "today",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الاليوم."
+      }
+    ],
+    "tomorrow": [
+      {
+        "sentence": "I see a tomorrow.",
+        "target_word": "tomorrow",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى غداً."
+      },
+      {
+        "sentence": "This is my tomorrow.",
+        "target_word": "tomorrow",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه غداًي."
+      },
+      {
+        "sentence": "I like the tomorrow.",
+        "target_word": "tomorrow",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الغداً."
+      }
+    ],
+    "yesterday": [
+      {
+        "sentence": "I see a yesterday.",
+        "target_word": "yesterday",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أمس."
+      },
+      {
+        "sentence": "This is my yesterday.",
+        "target_word": "yesterday",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أمسي."
+      },
+      {
+        "sentence": "I like the yesterday.",
+        "target_word": "yesterday",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأمس."
+      }
+    ],
+    "now": [
+      {
+        "sentence": "I see a now.",
+        "target_word": "now",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى الآن."
+      },
+      {
+        "sentence": "This is my now.",
+        "target_word": "now",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه الآني."
+      },
+      {
+        "sentence": "I like the now.",
+        "target_word": "now",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الالآن."
+      }
+    ],
+    "later": [
+      {
+        "sentence": "I see a later.",
+        "target_word": "later",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لاحقاً، فيما بعد."
+      },
+      {
+        "sentence": "This is my later.",
+        "target_word": "later",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لاحقاً، فيما بعدي."
+      },
+      {
+        "sentence": "I like the later.",
+        "target_word": "later",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللاحقاً، فيما بعد."
+      }
+    ],
+    "soon": [
+      {
+        "sentence": "I see a soon.",
+        "target_word": "soon",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قريباً."
+      },
+      {
+        "sentence": "This is my soon.",
+        "target_word": "soon",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قريباًي."
+      },
+      {
+        "sentence": "I like the soon.",
+        "target_word": "soon",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القريباً."
+      }
+    ],
+    "always": [
+      {
+        "sentence": "I see a always.",
+        "target_word": "always",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى دائماً."
+      },
+      {
+        "sentence": "This is my always.",
+        "target_word": "always",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه دائماًي."
+      },
+      {
+        "sentence": "I like the always.",
+        "target_word": "always",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الدائماً."
+      }
+    ],
+    "never": [
+      {
+        "sentence": "I see a never.",
+        "target_word": "never",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أبداً."
+      },
+      {
+        "sentence": "This is my never.",
+        "target_word": "never",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أبداًي."
+      },
+      {
+        "sentence": "I like the never.",
+        "target_word": "never",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأبداً."
+      }
+    ],
+    "sometimes": [
+      {
+        "sentence": "I see a sometimes.",
+        "target_word": "sometimes",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أحياناً."
+      },
+      {
+        "sentence": "This is my sometimes.",
+        "target_word": "sometimes",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أحياناًي."
+      },
+      {
+        "sentence": "I like the sometimes.",
+        "target_word": "sometimes",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأحياناً."
+      }
+    ],
+    "often": [
+      {
+        "sentence": "I see a often.",
+        "target_word": "often",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى غالباً، كثيراً."
+      },
+      {
+        "sentence": "This is my often.",
+        "target_word": "often",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه غالباً، كثيراًي."
+      },
+      {
+        "sentence": "I like the often.",
+        "target_word": "often",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الغالباً، كثيراً."
+      }
+    ],
+    "here": [
+      {
+        "sentence": "I see a here.",
+        "target_word": "here",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى هنا."
+      },
+      {
+        "sentence": "This is my here.",
+        "target_word": "here",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه هناي."
+      },
+      {
+        "sentence": "I like the here.",
+        "target_word": "here",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الهنا."
+      }
+    ],
+    "there": [
+      {
+        "sentence": "I see a there.",
+        "target_word": "there",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى هناك."
+      },
+      {
+        "sentence": "This is my there.",
+        "target_word": "there",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه هناكي."
+      },
+      {
+        "sentence": "I like the there.",
+        "target_word": "there",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الهناك."
+      }
+    ],
+    "where": [
+      {
+        "sentence": "I see a where.",
+        "target_word": "where",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أين."
+      },
+      {
+        "sentence": "This is my where.",
+        "target_word": "where",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أيني."
+      },
+      {
+        "sentence": "I like the where.",
+        "target_word": "where",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأين."
+      }
+    ],
+    "when": [
+      {
+        "sentence": "I see a when.",
+        "target_word": "when",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى متى."
+      },
+      {
+        "sentence": "This is my when.",
+        "target_word": "when",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه متىي."
+      },
+      {
+        "sentence": "I like the when.",
+        "target_word": "when",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المتى."
+      }
+    ],
+    "why": [
+      {
+        "sentence": "I see a why.",
+        "target_word": "why",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لماذا."
+      },
+      {
+        "sentence": "This is my why.",
+        "target_word": "why",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لماذاي."
+      },
+      {
+        "sentence": "I like the why.",
+        "target_word": "why",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللماذا."
+      }
+    ],
+    "what": [
+      {
+        "sentence": "I see a what.",
+        "target_word": "what",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ما، ماذا."
+      },
+      {
+        "sentence": "This is my what.",
+        "target_word": "what",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ما، ماذاي."
+      },
+      {
+        "sentence": "I like the what.",
+        "target_word": "what",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الما، ماذا."
+      }
+    ],
+    "who": [
+      {
+        "sentence": "I see a who.",
+        "target_word": "who",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى من."
+      },
+      {
+        "sentence": "This is my who.",
+        "target_word": "who",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مني."
+      },
+      {
+        "sentence": "I like the who.",
+        "target_word": "who",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المن."
+      }
+    ],
+    "how": [
+      {
+        "sentence": "I see a how.",
+        "target_word": "how",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كيف."
+      },
+      {
+        "sentence": "This is my how.",
+        "target_word": "how",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كيفي."
+      },
+      {
+        "sentence": "I like the how.",
+        "target_word": "how",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكيف."
+      }
+    ],
+    "family": [
+      {
+        "sentence": "I see a family.",
+        "target_word": "family",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى عائلة."
+      },
+      {
+        "sentence": "This is my family.",
+        "target_word": "family",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه عائلةي."
+      },
+      {
+        "sentence": "I like the family.",
+        "target_word": "family",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب العائلة."
+      }
+    ],
+    "mother": [
+      {
+        "sentence": "My mother cooks dinner every day.",
+        "target_word": "mother",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أمي تطبخ العشاء كل يوم."
+      },
+      {
+        "sentence": "I love my mother very much.",
+        "target_word": "mother",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أحب أمي كثيراً."
+      },
+      {
+        "sentence": "My mother is at home now.",
+        "target_word": "mother",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أمي في المنزل الآن."
+      }
+    ],
+    "father": [
+      {
+        "sentence": "My father works in an office.",
+        "target_word": "father",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أبي يعمل في مكتب."
+      },
+      {
+        "sentence": "I help my father on weekends.",
+        "target_word": "father",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أساعد أبي في عطلة نهاية الأسبوع."
+      },
+      {
+        "sentence": "My father is very kind.",
+        "target_word": "father",
+        "difficulty": "basic",
+        "context": "Family",
+        "translation": "أبي لطيف جداً."
+      }
+    ],
+    "child": [
+      {
+        "sentence": "I see a child.",
+        "target_word": "child",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى طفل."
+      },
+      {
+        "sentence": "This is my child.",
+        "target_word": "child",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه طفلي."
+      },
+      {
+        "sentence": "I like the child.",
+        "target_word": "child",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الطفل."
+      }
+    ],
+    "friend": [
+      {
+        "sentence": "He is my best friend.",
+        "target_word": "friend",
+        "difficulty": "basic",
+        "context": "Friendship",
+        "translation": "هو صديقي المفضل."
+      },
+      {
+        "sentence": "I meet my friends on Friday.",
+        "target_word": "friend",
+        "difficulty": "basic",
+        "context": "Social",
+        "translation": "أقابل أصدقائي يوم الجمعة."
+      },
+      {
+        "sentence": "My friend lives near me.",
+        "target_word": "friend",
+        "difficulty": "basic",
+        "context": "Neighborhood",
+        "translation": "صديقي يعيش بالقرب مني."
+      }
+    ],
+    "man": [
+      {
+        "sentence": "I see a man.",
+        "target_word": "man",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى رجل."
+      },
+      {
+        "sentence": "This is my man.",
+        "target_word": "man",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه رجلي."
+      },
+      {
+        "sentence": "I like the man.",
+        "target_word": "man",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الرجل."
+      }
+    ],
+    "woman": [
+      {
+        "sentence": "I see a woman.",
+        "target_word": "woman",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى امرأة."
+      },
+      {
+        "sentence": "This is my woman.",
+        "target_word": "woman",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه امرأةي."
+      },
+      {
+        "sentence": "I like the woman.",
+        "target_word": "woman",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الامرأة."
+      }
+    ],
+    "eat": [
+      {
+        "sentence": "I eat breakfast at seven.",
+        "target_word": "eat",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "آكل الإفطار في السابعة."
+      },
+      {
+        "sentence": "We eat dinner together.",
+        "target_word": "eat",
+        "difficulty": "basic",
+        "context": "Meals",
+        "translation": "نأكل العشاء معاً."
+      },
+      {
+        "sentence": "Do you eat vegetables?",
+        "target_word": "eat",
+        "difficulty": "basic",
+        "context": "Food",
+        "translation": "هل تأكل الخضروات؟"
+      }
+    ],
+    "drink": [
+      {
+        "sentence": "I drink water every hour.",
+        "target_word": "drink",
+        "difficulty": "basic",
+        "context": "Health",
+        "translation": "أشرب ماء كل ساعة."
+      },
+      {
+        "sentence": "She drinks coffee in the morning.",
+        "target_word": "drink",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تشرب قهوة في الصباح."
+      },
+      {
+        "sentence": "We drink tea together.",
+        "target_word": "drink",
+        "difficulty": "basic",
+        "context": "Social",
+        "translation": "نشرب الشاي معاً."
+      }
+    ],
+    "food": [
+      {
+        "sentence": "This food is delicious.",
+        "target_word": "food",
+        "difficulty": "basic",
+        "context": "Meals",
+        "translation": "هذا الطعام لذيذ."
+      },
+      {
+        "sentence": "I like healthy food.",
+        "target_word": "food",
+        "difficulty": "basic",
+        "context": "Health",
+        "translation": "أحب الطعام الصحي."
+      },
+      {
+        "sentence": "The food is ready.",
+        "target_word": "food",
+        "difficulty": "basic",
+        "context": "Cooking",
+        "translation": "الطعام جاهز."
+      }
+    ],
+    "water": [
+      {
+        "sentence": "I drink water every day.",
+        "target_word": "water",
+        "difficulty": "basic",
+        "context": "Health",
+        "translation": "أشرب ماء كل يوم."
+      },
+      {
+        "sentence": "This water is cold.",
+        "target_word": "water",
+        "difficulty": "basic",
+        "context": "Temperature",
+        "translation": "هذا الماء بارد."
+      },
+      {
+        "sentence": "I need some water please.",
+        "target_word": "water",
+        "difficulty": "basic",
+        "context": "Requests",
+        "translation": "أحتاج بعض الماء من فضلك."
+      }
+    ],
+    "coffee": [
+      {
+        "sentence": "I see a coffee.",
+        "target_word": "coffee",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قهوة."
+      },
+      {
+        "sentence": "This is my coffee.",
+        "target_word": "coffee",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قهوةي."
+      },
+      {
+        "sentence": "I like the coffee.",
+        "target_word": "coffee",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القهوة."
+      }
+    ],
+    "tea": [
+      {
+        "sentence": "I see a tea.",
+        "target_word": "tea",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى شاي."
+      },
+      {
+        "sentence": "This is my tea.",
+        "target_word": "tea",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه شايي."
+      },
+      {
+        "sentence": "I like the tea.",
+        "target_word": "tea",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الشاي."
+      }
+    ],
+    "bread": [
+      {
+        "sentence": "I see a bread.",
+        "target_word": "bread",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى خبز."
+      },
+      {
+        "sentence": "This is my bread.",
+        "target_word": "bread",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه خبزي."
+      },
+      {
+        "sentence": "I like the bread.",
+        "target_word": "bread",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الخبز."
+      }
+    ],
+    "money": [
+      {
+        "sentence": "I see a money.",
+        "target_word": "money",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى نقود، مال."
+      },
+      {
+        "sentence": "This is my money.",
+        "target_word": "money",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه نقود، مالي."
+      },
+      {
+        "sentence": "I like the money.",
+        "target_word": "money",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب النقود، مال."
+      }
+    ],
+    "house": [
+      {
+        "sentence": "This is my house.",
+        "target_word": "house",
+        "difficulty": "basic",
+        "context": "Home",
+        "translation": "هذا منزلي."
+      },
+      {
+        "sentence": "I live in a big house.",
+        "target_word": "house",
+        "difficulty": "basic",
+        "context": "Living",
+        "translation": "أعيش في منزل كبير."
+      },
+      {
+        "sentence": "My house is near the school.",
+        "target_word": "house",
+        "difficulty": "basic",
+        "context": "Location",
+        "translation": "منزلي قريب من المدرسة."
+      }
+    ],
+    "home": [
+      {
+        "sentence": "I see a home.",
+        "target_word": "home",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى البيت، الوطن."
+      },
+      {
+        "sentence": "This is my home.",
+        "target_word": "home",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه البيت، الوطني."
+      },
+      {
+        "sentence": "I like the home.",
+        "target_word": "home",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الالبيت، الوطن."
+      }
+    ],
+    "room": [
+      {
+        "sentence": "I see a room.",
+        "target_word": "room",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى غرفة."
+      },
+      {
+        "sentence": "This is my room.",
+        "target_word": "room",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه غرفةي."
+      },
+      {
+        "sentence": "I like the room.",
+        "target_word": "room",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الغرفة."
+      }
+    ],
+    "kitchen": [
+      {
+        "sentence": "I see a kitchen.",
+        "target_word": "kitchen",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مطبخ."
+      },
+      {
+        "sentence": "This is my kitchen.",
+        "target_word": "kitchen",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مطبخي."
+      },
+      {
+        "sentence": "I like the kitchen.",
+        "target_word": "kitchen",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المطبخ."
+      }
+    ],
+    "bathroom": [
+      {
+        "sentence": "I see a bathroom.",
+        "target_word": "bathroom",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى حمام."
+      },
+      {
+        "sentence": "This is my bathroom.",
+        "target_word": "bathroom",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه حمامي."
+      },
+      {
+        "sentence": "I like the bathroom.",
+        "target_word": "bathroom",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الحمام."
+      }
+    ],
+    "bedroom": [
+      {
+        "sentence": "I see a bedroom.",
+        "target_word": "bedroom",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى غرفة نوم."
+      },
+      {
+        "sentence": "This is my bedroom.",
+        "target_word": "bedroom",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه غرفة نومي."
+      },
+      {
+        "sentence": "I like the bedroom.",
+        "target_word": "bedroom",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الغرفة نوم."
+      }
+    ],
+    "door": [
+      {
+        "sentence": "I see a door.",
+        "target_word": "door",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى باب."
+      },
+      {
+        "sentence": "This is my door.",
+        "target_word": "door",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بابي."
+      },
+      {
+        "sentence": "I like the door.",
+        "target_word": "door",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الباب."
+      }
+    ],
+    "window": [
+      {
+        "sentence": "I see a window.",
+        "target_word": "window",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى نافذة."
+      },
+      {
+        "sentence": "This is my window.",
+        "target_word": "window",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه نافذةي."
+      },
+      {
+        "sentence": "I like the window.",
+        "target_word": "window",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب النافذة."
+      }
+    ],
+    "street": [
+      {
+        "sentence": "I see a street.",
+        "target_word": "street",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى شارع."
+      },
+      {
+        "sentence": "This is my street.",
+        "target_word": "street",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه شارعي."
+      },
+      {
+        "sentence": "I like the street.",
+        "target_word": "street",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الشارع."
+      }
+    ],
+    "city": [
+      {
+        "sentence": "I see a city.",
+        "target_word": "city",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مدينة."
+      },
+      {
+        "sentence": "This is my city.",
+        "target_word": "city",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مدينةي."
+      },
+      {
+        "sentence": "I like the city.",
+        "target_word": "city",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المدينة."
+      }
+    ],
+    "country": [
+      {
+        "sentence": "I see a country.",
+        "target_word": "country",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى بلد، دولة."
+      },
+      {
+        "sentence": "This is my country.",
+        "target_word": "country",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بلد، دولةي."
+      },
+      {
+        "sentence": "I like the country.",
+        "target_word": "country",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب البلد، دولة."
+      }
+    ],
+    "school": [
+      {
+        "sentence": "I go to school every day.",
+        "target_word": "school",
+        "difficulty": "basic",
+        "context": "Education",
+        "translation": "أذهب إلى المدرسة كل يوم."
+      },
+      {
+        "sentence": "My school is very nice.",
+        "target_word": "school",
+        "difficulty": "basic",
+        "context": "Education",
+        "translation": "مدرستي جميلة جداً."
+      },
+      {
+        "sentence": "The school starts at eight.",
+        "target_word": "school",
+        "difficulty": "basic",
+        "context": "Schedule",
+        "translation": "المدرسة تبدأ في الثامنة."
+      }
+    ],
+    "hospital": [
+      {
+        "sentence": "I see a hospital.",
+        "target_word": "hospital",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مستشفى."
+      },
+      {
+        "sentence": "This is my hospital.",
+        "target_word": "hospital",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مستشفىي."
+      },
+      {
+        "sentence": "I like the hospital.",
+        "target_word": "hospital",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المستشفى."
+      }
+    ],
+    "shop": [
+      {
+        "sentence": "I see a shop.",
+        "target_word": "shop",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى متجر، محل."
+      },
+      {
+        "sentence": "This is my shop.",
+        "target_word": "shop",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه متجر، محلي."
+      },
+      {
+        "sentence": "I like the shop.",
+        "target_word": "shop",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المتجر، محل."
+      }
+    ],
+    "restaurant": [
+      {
+        "sentence": "I see a restaurant.",
+        "target_word": "restaurant",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مطعم."
+      },
+      {
+        "sentence": "This is my restaurant.",
+        "target_word": "restaurant",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مطعمي."
+      },
+      {
+        "sentence": "I like the restaurant.",
+        "target_word": "restaurant",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المطعم."
+      }
+    ],
+    "bank": [
+      {
+        "sentence": "I see a bank.",
+        "target_word": "bank",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى بنك."
+      },
+      {
+        "sentence": "This is my bank.",
+        "target_word": "bank",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بنكي."
+      },
+      {
+        "sentence": "I like the bank.",
+        "target_word": "bank",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب البنك."
+      }
+    ],
+    "office": [
+      {
+        "sentence": "I see a office.",
+        "target_word": "office",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مكتب."
+      },
+      {
+        "sentence": "This is my office.",
+        "target_word": "office",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مكتبي."
+      },
+      {
+        "sentence": "I like the office.",
+        "target_word": "office",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المكتب."
+      }
+    ],
+    "station": [
+      {
+        "sentence": "I see a station.",
+        "target_word": "station",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى محطة."
+      },
+      {
+        "sentence": "This is my station.",
+        "target_word": "station",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه محطةي."
+      },
+      {
+        "sentence": "I like the station.",
+        "target_word": "station",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المحطة."
+      }
+    ],
+    "bus": [
+      {
+        "sentence": "I see a bus.",
+        "target_word": "bus",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى حافلة، أوتوبيس."
+      },
+      {
+        "sentence": "This is my bus.",
+        "target_word": "bus",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه حافلة، أوتوبيسي."
+      },
+      {
+        "sentence": "I like the bus.",
+        "target_word": "bus",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الحافلة، أوتوبيس."
+      }
+    ],
+    "train": [
+      {
+        "sentence": "I see a train.",
+        "target_word": "train",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قطار."
+      },
+      {
+        "sentence": "This is my train.",
+        "target_word": "train",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قطاري."
+      },
+      {
+        "sentence": "I like the train.",
+        "target_word": "train",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القطار."
+      }
+    ],
+    "car": [
+      {
+        "sentence": "My father has a car.",
+        "target_word": "car",
+        "difficulty": "basic",
+        "context": "Transportation",
+        "translation": "لدى أبي سيارة."
+      },
+      {
+        "sentence": "The car is red.",
+        "target_word": "car",
+        "difficulty": "basic",
+        "context": "Colors",
+        "translation": "السيارة حمراء."
+      },
+      {
+        "sentence": "I go by car to work.",
+        "target_word": "car",
+        "difficulty": "basic",
+        "context": "Transportation",
+        "translation": "أذهب بالسيارة إلى العمل."
+      }
+    ],
+    "phone": [
+      {
+        "sentence": "I have a new phone.",
+        "target_word": "phone",
+        "difficulty": "basic",
+        "context": "Technology",
+        "translation": "لدي هاتف جديد."
+      },
+      {
+        "sentence": "My phone is on the table.",
+        "target_word": "phone",
+        "difficulty": "basic",
+        "context": "Location",
+        "translation": "هاتفي على الطاولة."
+      },
+      {
+        "sentence": "I call my mother on the phone.",
+        "target_word": "phone",
+        "difficulty": "basic",
+        "context": "Communication",
+        "translation": "أتصل بأمي على الهاتف."
+      }
+    ],
+    "computer": [
+      {
+        "sentence": "I see a computer.",
+        "target_word": "computer",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى حاسوب، كمبيوتر."
+      },
+      {
+        "sentence": "This is my computer.",
+        "target_word": "computer",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه حاسوب، كمبيوتري."
+      },
+      {
+        "sentence": "I like the computer.",
+        "target_word": "computer",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الحاسوب، كمبيوتر."
+      }
+    ],
+    "book": [
+      {
+        "sentence": "I read a book every night.",
+        "target_word": "book",
+        "difficulty": "basic",
+        "context": "Reading",
+        "translation": "أقرأ كتاباً كل ليلة."
+      },
+      {
+        "sentence": "This book is interesting.",
+        "target_word": "book",
+        "difficulty": "basic",
+        "context": "Reading",
+        "translation": "هذا الكتاب مثير للاهتمام."
+      },
+      {
+        "sentence": "I need a new book.",
+        "target_word": "book",
+        "difficulty": "basic",
+        "context": "Shopping",
+        "translation": "أحتاج كتاباً جديداً."
+      }
+    ],
+    "table": [
+      {
+        "sentence": "I see a table.",
+        "target_word": "table",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى طاولة."
+      },
+      {
+        "sentence": "This is my table.",
+        "target_word": "table",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه طاولةي."
+      },
+      {
+        "sentence": "I like the table.",
+        "target_word": "table",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الطاولة."
+      }
+    ],
+    "chair": [
+      {
+        "sentence": "I see a chair.",
+        "target_word": "chair",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كرسي."
+      },
+      {
+        "sentence": "This is my chair.",
+        "target_word": "chair",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كرسيي."
+      },
+      {
+        "sentence": "I like the chair.",
+        "target_word": "chair",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكرسي."
+      }
+    ],
+    "bed": [
+      {
+        "sentence": "I see a bed.",
+        "target_word": "bed",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى سرير."
+      },
+      {
+        "sentence": "This is my bed.",
+        "target_word": "bed",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه سريري."
+      },
+      {
+        "sentence": "I like the bed.",
+        "target_word": "bed",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب السرير."
+      }
+    ],
+    "clothes": [
+      {
+        "sentence": "I see a clothes.",
+        "target_word": "clothes",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ملابس."
+      },
+      {
+        "sentence": "This is my clothes.",
+        "target_word": "clothes",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ملابسي."
+      },
+      {
+        "sentence": "I like the clothes.",
+        "target_word": "clothes",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الملابس."
+      }
+    ],
+    "shirt": [
+      {
+        "sentence": "I see a shirt.",
+        "target_word": "shirt",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قميص."
+      },
+      {
+        "sentence": "This is my shirt.",
+        "target_word": "shirt",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قميصي."
+      },
+      {
+        "sentence": "I like the shirt.",
+        "target_word": "shirt",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القميص."
+      }
+    ],
+    "shoes": [
+      {
+        "sentence": "I see a shoes.",
+        "target_word": "shoes",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أحذية."
+      },
+      {
+        "sentence": "This is my shoes.",
+        "target_word": "shoes",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أحذيةي."
+      },
+      {
+        "sentence": "I like the shoes.",
+        "target_word": "shoes",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأحذية."
+      }
+    ],
+    "color": [
+      {
+        "sentence": "I see a color.",
+        "target_word": "color",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لون."
+      },
+      {
+        "sentence": "This is my color.",
+        "target_word": "color",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لوني."
+      },
+      {
+        "sentence": "I like the color.",
+        "target_word": "color",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللون."
+      }
+    ],
+    "red": [
+      {
+        "sentence": "I see a red.",
+        "target_word": "red",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أحمر."
+      },
+      {
+        "sentence": "This is my red.",
+        "target_word": "red",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أحمري."
+      },
+      {
+        "sentence": "I like the red.",
+        "target_word": "red",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأحمر."
+      }
+    ],
+    "blue": [
+      {
+        "sentence": "I see a blue.",
+        "target_word": "blue",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أزرق."
+      },
+      {
+        "sentence": "This is my blue.",
+        "target_word": "blue",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أزرقي."
+      },
+      {
+        "sentence": "I like the blue.",
+        "target_word": "blue",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأزرق."
+      }
+    ],
+    "white": [
+      {
+        "sentence": "I see a white.",
+        "target_word": "white",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أبيض."
+      },
+      {
+        "sentence": "This is my white.",
+        "target_word": "white",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أبيضي."
+      },
+      {
+        "sentence": "I like the white.",
+        "target_word": "white",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأبيض."
+      }
+    ],
+    "black": [
+      {
+        "sentence": "I see a black.",
+        "target_word": "black",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أسود."
+      },
+      {
+        "sentence": "This is my black.",
+        "target_word": "black",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أسودي."
+      },
+      {
+        "sentence": "I like the black.",
+        "target_word": "black",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأسود."
+      }
+    ],
+    "green": [
+      {
+        "sentence": "I see a green.",
+        "target_word": "green",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أخضر."
+      },
+      {
+        "sentence": "This is my green.",
+        "target_word": "green",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أخضري."
+      },
+      {
+        "sentence": "I like the green.",
+        "target_word": "green",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأخضر."
+      }
+    ],
+    "big": [
+      {
+        "sentence": "This is a big house.",
+        "target_word": "big",
+        "difficulty": "basic",
+        "context": "Size",
+        "translation": "هذا منزل كبير."
+      },
+      {
+        "sentence": "I want a big pizza.",
+        "target_word": "big",
+        "difficulty": "basic",
+        "context": "Food",
+        "translation": "أريد بيتزا كبيرة."
+      },
+      {
+        "sentence": "The city is very big.",
+        "target_word": "big",
+        "difficulty": "basic",
+        "context": "Places",
+        "translation": "المدينة كبيرة جداً."
+      }
+    ],
+    "small": [
+      {
+        "sentence": "I have a small room.",
+        "target_word": "small",
+        "difficulty": "basic",
+        "context": "Home",
+        "translation": "لدي غرفة صغيرة."
+      },
+      {
+        "sentence": "This shirt is too small.",
+        "target_word": "small",
+        "difficulty": "basic",
+        "context": "Clothing",
+        "translation": "هذا القميص صغير جداً."
+      },
+      {
+        "sentence": "She has a small dog.",
+        "target_word": "small",
+        "difficulty": "basic",
+        "context": "Pets",
+        "translation": "لديها كلب صغير."
+      }
+    ],
+    "good": [
+      {
+        "sentence": "This is a good idea.",
+        "target_word": "good",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذه فكرة جيدة."
+      },
+      {
+        "sentence": "I feel good today.",
+        "target_word": "good",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني بخير اليوم."
+      },
+      {
+        "sentence": "The food is very good.",
+        "target_word": "good",
+        "difficulty": "basic",
+        "context": "Food",
+        "translation": "الطعام جيد جداً."
+      }
+    ],
+    "bad": [
+      {
+        "sentence": "This is bad weather.",
+        "target_word": "bad",
+        "difficulty": "basic",
+        "context": "Weather",
+        "translation": "هذا طقس سيء."
+      },
+      {
+        "sentence": "I feel bad about that.",
+        "target_word": "bad",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر بالسوء حيال ذلك."
+      },
+      {
+        "sentence": "That's a bad idea.",
+        "target_word": "bad",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذه فكرة سيئة."
+      }
+    ],
+    "new": [
+      {
+        "sentence": "I have a new car.",
+        "target_word": "new",
+        "difficulty": "basic",
+        "context": "Possessions",
+        "translation": "لدي سيارة جديدة."
+      },
+      {
+        "sentence": "This is my new house.",
+        "target_word": "new",
+        "difficulty": "basic",
+        "context": "Home",
+        "translation": "هذا منزلي الجديد."
+      },
+      {
+        "sentence": "I need new shoes.",
+        "target_word": "new",
+        "difficulty": "basic",
+        "context": "Shopping",
+        "translation": "أحتاج حذاء جديد."
+      }
+    ],
+    "old": [
+      {
+        "sentence": "My grandfather is very old.",
+        "target_word": "old",
+        "difficulty": "basic",
+        "context": "Age",
+        "translation": "جدي كبير في السن جداً."
+      },
+      {
+        "sentence": "This is an old book.",
+        "target_word": "old",
+        "difficulty": "basic",
+        "context": "Items",
+        "translation": "هذا كتاب قديم."
+      },
+      {
+        "sentence": "I live in an old house.",
+        "target_word": "old",
+        "difficulty": "basic",
+        "context": "Home",
+        "translation": "أعيش في منزل قديم."
+      }
+    ],
+    "hot": [
+      {
+        "sentence": "It is hot.",
+        "target_word": "hot",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه ساخن، حار."
+      },
+      {
+        "sentence": "I feel hot today.",
+        "target_word": "hot",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني ساخن، حار اليوم."
+      },
+      {
+        "sentence": "This is very hot.",
+        "target_word": "hot",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا ساخن، حار جداً."
+      }
+    ],
+    "cold": [
+      {
+        "sentence": "It is cold.",
+        "target_word": "cold",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه بارد."
+      },
+      {
+        "sentence": "I feel cold today.",
+        "target_word": "cold",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني بارد اليوم."
+      },
+      {
+        "sentence": "This is very cold.",
+        "target_word": "cold",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا بارد جداً."
+      }
+    ],
+    "nice": [
+      {
+        "sentence": "It is nice.",
+        "target_word": "nice",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه لطيف، جميل."
+      },
+      {
+        "sentence": "I feel nice today.",
+        "target_word": "nice",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني لطيف، جميل اليوم."
+      },
+      {
+        "sentence": "This is very nice.",
+        "target_word": "nice",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا لطيف، جميل جداً."
+      }
+    ],
+    "happy": [
+      {
+        "sentence": "I am very happy today.",
+        "target_word": "happy",
+        "difficulty": "basic",
+        "context": "Emotions",
+        "translation": "أنا سعيد جداً اليوم."
+      },
+      {
+        "sentence": "She looks happy.",
+        "target_word": "happy",
+        "difficulty": "basic",
+        "context": "Observations",
+        "translation": "هي تبدو سعيدة."
+      },
+      {
+        "sentence": "I feel happy with my life.",
+        "target_word": "happy",
+        "difficulty": "basic",
+        "context": "Life",
+        "translation": "أشعر بالسعادة مع حياتي."
+      }
+    ],
+    "sad": [
+      {
+        "sentence": "It is sad.",
+        "target_word": "sad",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه حزين."
+      },
+      {
+        "sentence": "I feel sad today.",
+        "target_word": "sad",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني حزين اليوم."
+      },
+      {
+        "sentence": "This is very sad.",
+        "target_word": "sad",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا حزين جداً."
+      }
+    ],
+    "tired": [
+      {
+        "sentence": "It is tired.",
+        "target_word": "tired",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه متعب."
+      },
+      {
+        "sentence": "I feel tired today.",
+        "target_word": "tired",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني متعب اليوم."
+      },
+      {
+        "sentence": "This is very tired.",
+        "target_word": "tired",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا متعب جداً."
+      }
+    ],
+    "easy": [
+      {
+        "sentence": "It is easy.",
+        "target_word": "easy",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه سهل."
+      },
+      {
+        "sentence": "I feel easy today.",
+        "target_word": "easy",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني سهل اليوم."
+      },
+      {
+        "sentence": "This is very easy.",
+        "target_word": "easy",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا سهل جداً."
+      }
+    ],
+    "hard / difficult": [
+      {
+        "sentence": "I see a hard / difficult.",
+        "target_word": "hard / difficult",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى صعب."
+      },
+      {
+        "sentence": "This is my hard / difficult.",
+        "target_word": "hard / difficult",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه صعبي."
+      },
+      {
+        "sentence": "I like the hard / difficult.",
+        "target_word": "hard / difficult",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الصعب."
+      }
+    ],
+    "fast": [
+      {
+        "sentence": "I see a fast.",
+        "target_word": "fast",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى سريع."
+      },
+      {
+        "sentence": "This is my fast.",
+        "target_word": "fast",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه سريعي."
+      },
+      {
+        "sentence": "I like the fast.",
+        "target_word": "fast",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب السريع."
+      }
+    ],
+    "slow": [
+      {
+        "sentence": "I see a slow.",
+        "target_word": "slow",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى بطيء."
+      },
+      {
+        "sentence": "This is my slow.",
+        "target_word": "slow",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بطيءي."
+      },
+      {
+        "sentence": "I like the slow.",
+        "target_word": "slow",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب البطيء."
+      }
+    ],
+    "long": [
+      {
+        "sentence": "I see a long.",
+        "target_word": "long",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى طويل."
+      },
+      {
+        "sentence": "This is my long.",
+        "target_word": "long",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه طويلي."
+      },
+      {
+        "sentence": "I like the long.",
+        "target_word": "long",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الطويل."
+      }
+    ],
+    "short": [
+      {
+        "sentence": "I see a short.",
+        "target_word": "short",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قصير."
+      },
+      {
+        "sentence": "This is my short.",
+        "target_word": "short",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قصيري."
+      },
+      {
+        "sentence": "I like the short.",
+        "target_word": "short",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القصير."
+      }
+    ],
+    "young": [
+      {
+        "sentence": "It is young.",
+        "target_word": "young",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه شاب، صغير السن."
+      },
+      {
+        "sentence": "I feel young today.",
+        "target_word": "young",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني شاب، صغير السن اليوم."
+      },
+      {
+        "sentence": "This is very young.",
+        "target_word": "young",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا شاب، صغير السن جداً."
+      }
+    ],
+    "expensive": [
+      {
+        "sentence": "I see a expensive.",
+        "target_word": "expensive",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى غالي، مكلف."
+      },
+      {
+        "sentence": "This is my expensive.",
+        "target_word": "expensive",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه غالي، مكلفي."
+      },
+      {
+        "sentence": "I like the expensive.",
+        "target_word": "expensive",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الغالي، مكلف."
+      }
+    ],
+    "cheap": [
+      {
+        "sentence": "I see a cheap.",
+        "target_word": "cheap",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى رخيص."
+      },
+      {
+        "sentence": "This is my cheap.",
+        "target_word": "cheap",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه رخيصي."
+      },
+      {
+        "sentence": "I like the cheap.",
+        "target_word": "cheap",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الرخيص."
+      }
+    ],
+    "one": [
+      {
+        "sentence": "I see a one.",
+        "target_word": "one",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى واحد."
+      },
+      {
+        "sentence": "This is my one.",
+        "target_word": "one",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه واحدي."
+      },
+      {
+        "sentence": "I like the one.",
+        "target_word": "one",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الواحد."
+      }
+    ],
+    "two": [
+      {
+        "sentence": "I see a two.",
+        "target_word": "two",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى اثنان."
+      },
+      {
+        "sentence": "This is my two.",
+        "target_word": "two",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه اثناني."
+      },
+      {
+        "sentence": "I like the two.",
+        "target_word": "two",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الاثنان."
+      }
+    ],
+    "three": [
+      {
+        "sentence": "I see a three.",
+        "target_word": "three",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ثلاثة."
+      },
+      {
+        "sentence": "This is my three.",
+        "target_word": "three",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ثلاثةي."
+      },
+      {
+        "sentence": "I like the three.",
+        "target_word": "three",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الثلاثة."
+      }
+    ],
+    "make": [
+      {
+        "sentence": "I make breakfast every morning.",
+        "target_word": "make",
+        "difficulty": "basic",
+        "context": "Cooking",
+        "translation": "أصنع الإفطار كل صباح."
+      },
+      {
+        "sentence": "She makes beautiful drawings.",
+        "target_word": "make",
+        "difficulty": "basic",
+        "context": "Art",
+        "translation": "هي تصنع رسومات جميلة."
+      },
+      {
+        "sentence": "Let's make a plan.",
+        "target_word": "make",
+        "difficulty": "basic",
+        "context": "Planning",
+        "translation": "لنصنع خطة."
+      }
+    ],
+    "take": [
+      {
+        "sentence": "I take every day.",
+        "target_word": "take",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيأخذ كل يوم."
+      },
+      {
+        "sentence": "She takes in the morning.",
+        "target_word": "take",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيأخذ في الصباح."
+      },
+      {
+        "sentence": "Do you take often?",
+        "target_word": "take",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيأخذ كثيراً؟"
+      }
+    ],
+    "give": [
+      {
+        "sentence": "I give every day.",
+        "target_word": "give",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيعطي كل يوم."
+      },
+      {
+        "sentence": "She gives in the morning.",
+        "target_word": "give",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيعطي في الصباح."
+      },
+      {
+        "sentence": "Do you give often?",
+        "target_word": "give",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيعطي كثيراً؟"
+      }
+    ],
+    "find": [
+      {
+        "sentence": "I see a find.",
+        "target_word": "find",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يجد."
+      },
+      {
+        "sentence": "This is my find.",
+        "target_word": "find",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يجدي."
+      },
+      {
+        "sentence": "I like the find.",
+        "target_word": "find",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليجد."
+      }
+    ],
+    "tell": [
+      {
+        "sentence": "I see a tell.",
+        "target_word": "tell",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يخبر، يقول."
+      },
+      {
+        "sentence": "This is my tell.",
+        "target_word": "tell",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يخبر، يقولي."
+      },
+      {
+        "sentence": "I like the tell.",
+        "target_word": "tell",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليخبر، يقول."
+      }
+    ],
+    "ask": [
+      {
+        "sentence": "I ask every day.",
+        "target_word": "ask",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيسأل كل يوم."
+      },
+      {
+        "sentence": "She asks in the morning.",
+        "target_word": "ask",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيسأل في الصباح."
+      },
+      {
+        "sentence": "Do you ask often?",
+        "target_word": "ask",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيسأل كثيراً؟"
+      }
+    ],
+    "call": [
+      {
+        "sentence": "I call every day.",
+        "target_word": "call",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيتصل، ينادي كل يوم."
+      },
+      {
+        "sentence": "She calls in the morning.",
+        "target_word": "call",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيتصل، ينادي في الصباح."
+      },
+      {
+        "sentence": "Do you call often?",
+        "target_word": "call",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيتصل، ينادي كثيراً؟"
+      }
+    ],
+    "wait": [
+      {
+        "sentence": "I wait every day.",
+        "target_word": "wait",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أينتظر كل يوم."
+      },
+      {
+        "sentence": "She waits in the morning.",
+        "target_word": "wait",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تينتظر في الصباح."
+      },
+      {
+        "sentence": "Do you wait often?",
+        "target_word": "wait",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تينتظر كثيراً؟"
+      }
+    ],
+    "start": [
+      {
+        "sentence": "I see a start.",
+        "target_word": "start",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يبدأ."
+      },
+      {
+        "sentence": "This is my start.",
+        "target_word": "start",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يبدأي."
+      },
+      {
+        "sentence": "I like the start.",
+        "target_word": "start",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليبدأ."
+      }
+    ],
+    "stop": [
+      {
+        "sentence": "I see a stop.",
+        "target_word": "stop",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يتوقف."
+      },
+      {
+        "sentence": "This is my stop.",
+        "target_word": "stop",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يتوقفي."
+      },
+      {
+        "sentence": "I like the stop.",
+        "target_word": "stop",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليتوقف."
+      }
+    ],
+    "try": [
+      {
+        "sentence": "I see a try.",
+        "target_word": "try",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يحاول."
+      },
+      {
+        "sentence": "This is my try.",
+        "target_word": "try",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يحاولي."
+      },
+      {
+        "sentence": "I like the try.",
+        "target_word": "try",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليحاول."
+      }
+    ],
+    "buy": [
+      {
+        "sentence": "I see a buy.",
+        "target_word": "buy",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يشتري."
+      },
+      {
+        "sentence": "This is my buy.",
+        "target_word": "buy",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يشتريي."
+      },
+      {
+        "sentence": "I like the buy.",
+        "target_word": "buy",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليشتري."
+      }
+    ],
+    "pay": [
+      {
+        "sentence": "I see a pay.",
+        "target_word": "pay",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يدفع."
+      },
+      {
+        "sentence": "This is my pay.",
+        "target_word": "pay",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يدفعي."
+      },
+      {
+        "sentence": "I like the pay.",
+        "target_word": "pay",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليدفع."
+      }
+    ],
+    "open": [
+      {
+        "sentence": "I see a open.",
+        "target_word": "open",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يفتح، مفتوح."
+      },
+      {
+        "sentence": "This is my open.",
+        "target_word": "open",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يفتح، مفتوحي."
+      },
+      {
+        "sentence": "I like the open.",
+        "target_word": "open",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليفتح، مفتوح."
+      }
+    ],
+    "close": [
+      {
+        "sentence": "I see a close.",
+        "target_word": "close",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يغلق، مغلق."
+      },
+      {
+        "sentence": "This is my close.",
+        "target_word": "close",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يغلق، مغلقي."
+      },
+      {
+        "sentence": "I like the close.",
+        "target_word": "close",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليغلق، مغلق."
+      }
+    ],
+    "live": [
+      {
+        "sentence": "I live every day.",
+        "target_word": "live",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيعيش كل يوم."
+      },
+      {
+        "sentence": "She lives in the morning.",
+        "target_word": "live",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيعيش في الصباح."
+      },
+      {
+        "sentence": "Do you live often?",
+        "target_word": "live",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيعيش كثيراً؟"
+      }
+    ],
+    "stay": [
+      {
+        "sentence": "I stay every day.",
+        "target_word": "stay",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيبقى، يمكث كل يوم."
+      },
+      {
+        "sentence": "She stays in the morning.",
+        "target_word": "stay",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيبقى، يمكث في الصباح."
+      },
+      {
+        "sentence": "Do you stay often?",
+        "target_word": "stay",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيبقى، يمكث كثيراً؟"
+      }
+    ],
+    "leave": [
+      {
+        "sentence": "I see a leave.",
+        "target_word": "leave",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يغادر، يترك."
+      },
+      {
+        "sentence": "This is my leave.",
+        "target_word": "leave",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يغادر، يتركي."
+      },
+      {
+        "sentence": "I like the leave.",
+        "target_word": "leave",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليغادر، يترك."
+      }
+    ],
+    "arrive": [
+      {
+        "sentence": "I see a arrive.",
+        "target_word": "arrive",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يصل."
+      },
+      {
+        "sentence": "This is my arrive.",
+        "target_word": "arrive",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يصلي."
+      },
+      {
+        "sentence": "I like the arrive.",
+        "target_word": "arrive",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليصل."
+      }
+    ],
+    "walk": [
+      {
+        "sentence": "I walk every day.",
+        "target_word": "walk",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيمشي كل يوم."
+      },
+      {
+        "sentence": "She walks in the morning.",
+        "target_word": "walk",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيمشي في الصباح."
+      },
+      {
+        "sentence": "Do you walk often?",
+        "target_word": "walk",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيمشي كثيراً؟"
+      }
+    ],
+    "run": [
+      {
+        "sentence": "I run every day.",
+        "target_word": "run",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيركض، يجري كل يوم."
+      },
+      {
+        "sentence": "She runs in the morning.",
+        "target_word": "run",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيركض، يجري في الصباح."
+      },
+      {
+        "sentence": "Do you run often?",
+        "target_word": "run",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيركض، يجري كثيراً؟"
+      }
+    ],
+    "sit": [
+      {
+        "sentence": "I sit every day.",
+        "target_word": "sit",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيجلس كل يوم."
+      },
+      {
+        "sentence": "She sits in the morning.",
+        "target_word": "sit",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيجلس في الصباح."
+      },
+      {
+        "sentence": "Do you sit often?",
+        "target_word": "sit",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيجلس كثيراً؟"
+      }
+    ],
+    "stand": [
+      {
+        "sentence": "I stand every day.",
+        "target_word": "stand",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أيقف كل يوم."
+      },
+      {
+        "sentence": "She stands in the morning.",
+        "target_word": "stand",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تيقف في الصباح."
+      },
+      {
+        "sentence": "Do you stand often?",
+        "target_word": "stand",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تيقف كثيراً؟"
+      }
+    ],
+    "sleep": [
+      {
+        "sentence": "I sleep at ten o'clock.",
+        "target_word": "sleep",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنام في الساعة العاشرة."
+      },
+      {
+        "sentence": "He sleeps for eight hours.",
+        "target_word": "sleep",
+        "difficulty": "basic",
+        "context": "Health",
+        "translation": "هو ينام لثماني ساعات."
+      },
+      {
+        "sentence": "I need to sleep now.",
+        "target_word": "sleep",
+        "difficulty": "basic",
+        "context": "Needs",
+        "translation": "أحتاج أن أنام الآن."
+      }
+    ],
+    "wake up": [
+      {
+        "sentence": "I see a wake up.",
+        "target_word": "wake up",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يستيقظ."
+      },
+      {
+        "sentence": "This is my wake up.",
+        "target_word": "wake up",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يستيقظي."
+      },
+      {
+        "sentence": "I like the wake up.",
+        "target_word": "wake up",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليستيقظ."
+      }
+    ],
+    "get up": [
+      {
+        "sentence": "I see a get up.",
+        "target_word": "get up",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ينهض، يقوم."
+      },
+      {
+        "sentence": "This is my get up.",
+        "target_word": "get up",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ينهض، يقومي."
+      },
+      {
+        "sentence": "I like the get up.",
+        "target_word": "get up",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الينهض، يقوم."
+      }
+    ],
+    "morning": [
+      {
+        "sentence": "I see a morning.",
+        "target_word": "morning",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى صباح."
+      },
+      {
+        "sentence": "This is my morning.",
+        "target_word": "morning",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه صباحي."
+      },
+      {
+        "sentence": "I like the morning.",
+        "target_word": "morning",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الصباح."
+      }
+    ],
+    "afternoon": [
+      {
+        "sentence": "I see a afternoon.",
+        "target_word": "afternoon",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى بعد الظهر."
+      },
+      {
+        "sentence": "This is my afternoon.",
+        "target_word": "afternoon",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بعد الظهري."
+      },
+      {
+        "sentence": "I like the afternoon.",
+        "target_word": "afternoon",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب البعد الظهر."
+      }
+    ],
+    "evening": [
+      {
+        "sentence": "I see a evening.",
+        "target_word": "evening",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مساء."
+      },
+      {
+        "sentence": "This is my evening.",
+        "target_word": "evening",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مساءي."
+      },
+      {
+        "sentence": "I like the evening.",
+        "target_word": "evening",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المساء."
+      }
+    ],
+    "night": [
+      {
+        "sentence": "I see a night.",
+        "target_word": "night",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ليل."
+      },
+      {
+        "sentence": "This is my night.",
+        "target_word": "night",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ليلي."
+      },
+      {
+        "sentence": "I like the night.",
+        "target_word": "night",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الليل."
+      }
+    ],
+    "hour": [
+      {
+        "sentence": "I see a hour.",
+        "target_word": "hour",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى ساعة (زمن)."
+      },
+      {
+        "sentence": "This is my hour.",
+        "target_word": "hour",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه ساعة (زمن)ي."
+      },
+      {
+        "sentence": "I like the hour.",
+        "target_word": "hour",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الساعة (زمن)."
+      }
+    ],
+    "minute": [
+      {
+        "sentence": "I see a minute.",
+        "target_word": "minute",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى دقيقة."
+      },
+      {
+        "sentence": "This is my minute.",
+        "target_word": "minute",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه دقيقةي."
+      },
+      {
+        "sentence": "I like the minute.",
+        "target_word": "minute",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الدقيقة."
+      }
+    ],
+    "early": [
+      {
+        "sentence": "I see a early.",
+        "target_word": "early",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مبكر."
+      },
+      {
+        "sentence": "This is my early.",
+        "target_word": "early",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مبكري."
+      },
+      {
+        "sentence": "I like the early.",
+        "target_word": "early",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المبكر."
+      }
+    ],
+    "late": [
+      {
+        "sentence": "I see a late.",
+        "target_word": "late",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى متأخر."
+      },
+      {
+        "sentence": "This is my late.",
+        "target_word": "late",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه متأخري."
+      },
+      {
+        "sentence": "I like the late.",
+        "target_word": "late",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المتأخر."
+      }
+    ],
+    "same": [
+      {
+        "sentence": "I see a same.",
+        "target_word": "same",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى نفس، مماثل."
+      },
+      {
+        "sentence": "This is my same.",
+        "target_word": "same",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه نفس، مماثلي."
+      },
+      {
+        "sentence": "I like the same.",
+        "target_word": "same",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب النفس، مماثل."
+      }
+    ],
+    "different": [
+      {
+        "sentence": "I see a different.",
+        "target_word": "different",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مختلف."
+      },
+      {
+        "sentence": "This is my different.",
+        "target_word": "different",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مختلفي."
+      },
+      {
+        "sentence": "I like the different.",
+        "target_word": "different",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المختلف."
+      }
+    ],
+    "right": [
+      {
+        "sentence": "It is right.",
+        "target_word": "right",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه صحيح، يمين."
+      },
+      {
+        "sentence": "I feel right today.",
+        "target_word": "right",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني صحيح، يمين اليوم."
+      },
+      {
+        "sentence": "This is very right.",
+        "target_word": "right",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا صحيح، يمين جداً."
+      }
+    ],
+    "wrong": [
+      {
+        "sentence": "It is wrong.",
+        "target_word": "wrong",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه خطأ، خاطئ."
+      },
+      {
+        "sentence": "I feel wrong today.",
+        "target_word": "wrong",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني خطأ، خاطئ اليوم."
+      },
+      {
+        "sentence": "This is very wrong.",
+        "target_word": "wrong",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا خطأ، خاطئ جداً."
+      }
+    ],
+    "left": [
+      {
+        "sentence": "I see a left.",
+        "target_word": "left",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى يسار."
+      },
+      {
+        "sentence": "This is my left.",
+        "target_word": "left",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه يساري."
+      },
+      {
+        "sentence": "I like the left.",
+        "target_word": "left",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اليسار."
+      }
+    ],
+    "next": [
+      {
+        "sentence": "I see a next.",
+        "target_word": "next",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى التالي، القادم."
+      },
+      {
+        "sentence": "This is my next.",
+        "target_word": "next",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه التالي، القادمي."
+      },
+      {
+        "sentence": "I like the next.",
+        "target_word": "next",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الالتالي، القادم."
+      }
+    ],
+    "last": [
+      {
+        "sentence": "I see a last.",
+        "target_word": "last",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى الأخير، الماضي."
+      },
+      {
+        "sentence": "This is my last.",
+        "target_word": "last",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه الأخير، الماضيي."
+      },
+      {
+        "sentence": "I like the last.",
+        "target_word": "last",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الالأخير، الماضي."
+      }
+    ],
+    "important": [
+      {
+        "sentence": "It is important.",
+        "target_word": "important",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه مهم."
+      },
+      {
+        "sentence": "I feel important today.",
+        "target_word": "important",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني مهم اليوم."
+      },
+      {
+        "sentence": "This is very important.",
+        "target_word": "important",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا مهم جداً."
+      }
+    ],
+    "problem": [
+      {
+        "sentence": "I see a problem.",
+        "target_word": "problem",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مشكلة."
+      },
+      {
+        "sentence": "This is my problem.",
+        "target_word": "problem",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مشكلةي."
+      },
+      {
+        "sentence": "I like the problem.",
+        "target_word": "problem",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المشكلة."
+      }
+    ],
+    "question": [
+      {
+        "sentence": "I see a question.",
+        "target_word": "question",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى سؤال."
+      },
+      {
+        "sentence": "This is my question.",
+        "target_word": "question",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه سؤالي."
+      },
+      {
+        "sentence": "I like the question.",
+        "target_word": "question",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب السؤال."
+      }
+    ],
+    "answer": [
+      {
+        "sentence": "I answer every day.",
+        "target_word": "answer",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "أنا أجواب، يجيب كل يوم."
+      },
+      {
+        "sentence": "She answers in the morning.",
+        "target_word": "answer",
+        "difficulty": "basic",
+        "context": "Daily routine",
+        "translation": "هي تجواب، يجيب في الصباح."
+      },
+      {
+        "sentence": "Do you answer often?",
+        "target_word": "answer",
+        "difficulty": "basic",
+        "context": "Questions",
+        "translation": "هل تجواب، يجيب كثيراً؟"
+      }
+    ],
+    "name": [
+      {
+        "sentence": "I see a name.",
+        "target_word": "name",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى اسم."
+      },
+      {
+        "sentence": "This is my name.",
+        "target_word": "name",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه اسمي."
+      },
+      {
+        "sentence": "I like the name.",
+        "target_word": "name",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الاسم."
+      }
+    ],
+    "number": [
+      {
+        "sentence": "I see a number.",
+        "target_word": "number",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى رقم."
+      },
+      {
+        "sentence": "This is my number.",
+        "target_word": "number",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه رقمي."
+      },
+      {
+        "sentence": "I like the number.",
+        "target_word": "number",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الرقم."
+      }
+    ],
+    "word": [
+      {
+        "sentence": "I see a word.",
+        "target_word": "word",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كلمة."
+      },
+      {
+        "sentence": "This is my word.",
+        "target_word": "word",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كلمةي."
+      },
+      {
+        "sentence": "I like the word.",
+        "target_word": "word",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكلمة."
+      }
+    ],
+    "language": [
+      {
+        "sentence": "I see a language.",
+        "target_word": "language",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لغة."
+      },
+      {
+        "sentence": "This is my language.",
+        "target_word": "language",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لغةي."
+      },
+      {
+        "sentence": "I like the language.",
+        "target_word": "language",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللغة."
+      }
+    ],
+    "place": [
+      {
+        "sentence": "I see a place.",
+        "target_word": "place",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى مكان."
+      },
+      {
+        "sentence": "This is my place.",
+        "target_word": "place",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه مكاني."
+      },
+      {
+        "sentence": "I like the place.",
+        "target_word": "place",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب المكان."
+      }
+    ],
+    "thing": [
+      {
+        "sentence": "I see a thing.",
+        "target_word": "thing",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى شيء."
+      },
+      {
+        "sentence": "This is my thing.",
+        "target_word": "thing",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه شيءي."
+      },
+      {
+        "sentence": "I like the thing.",
+        "target_word": "thing",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الشيء."
+      }
+    ],
+    "way": [
+      {
+        "sentence": "I see a way.",
+        "target_word": "way",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى طريقة، طريق."
+      },
+      {
+        "sentence": "This is my way.",
+        "target_word": "way",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه طريقة، طريقي."
+      },
+      {
+        "sentence": "I like the way.",
+        "target_word": "way",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الطريقة، طريق."
+      }
+    ],
+    "part": [
+      {
+        "sentence": "I see a part.",
+        "target_word": "part",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى جزء."
+      },
+      {
+        "sentence": "This is my part.",
+        "target_word": "part",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه جزءي."
+      },
+      {
+        "sentence": "I like the part.",
+        "target_word": "part",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الجزء."
+      }
+    ],
+    "all": [
+      {
+        "sentence": "I see a all.",
+        "target_word": "all",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كل، جميع."
+      },
+      {
+        "sentence": "This is my all.",
+        "target_word": "all",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كل، جميعي."
+      },
+      {
+        "sentence": "I like the all.",
+        "target_word": "all",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكل، جميع."
+      }
+    ],
+    "some": [
+      {
+        "sentence": "I see a some.",
+        "target_word": "some",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى بعض."
+      },
+      {
+        "sentence": "This is my some.",
+        "target_word": "some",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه بعضي."
+      },
+      {
+        "sentence": "I like the some.",
+        "target_word": "some",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب البعض."
+      }
+    ],
+    "many": [
+      {
+        "sentence": "I see a many.",
+        "target_word": "many",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كثير، عديد."
+      },
+      {
+        "sentence": "This is my many.",
+        "target_word": "many",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كثير، عديدي."
+      },
+      {
+        "sentence": "I like the many.",
+        "target_word": "many",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكثير، عديد."
+      }
+    ],
+    "little": [
+      {
+        "sentence": "I see a little.",
+        "target_word": "little",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى قليل، صغير."
+      },
+      {
+        "sentence": "This is my little.",
+        "target_word": "little",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه قليل، صغيري."
+      },
+      {
+        "sentence": "I like the little.",
+        "target_word": "little",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب القليل، صغير."
+      }
+    ],
+    "much": [
+      {
+        "sentence": "I see a much.",
+        "target_word": "much",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى كثير."
+      },
+      {
+        "sentence": "This is my much.",
+        "target_word": "much",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه كثيري."
+      },
+      {
+        "sentence": "I like the much.",
+        "target_word": "much",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الكثير."
+      }
+    ],
+    "very": [
+      {
+        "sentence": "I see a very.",
+        "target_word": "very",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى جداً."
+      },
+      {
+        "sentence": "This is my very.",
+        "target_word": "very",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه جداًي."
+      },
+      {
+        "sentence": "I like the very.",
+        "target_word": "very",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الجداً."
+      }
+    ],
+    "well": [
+      {
+        "sentence": "It is well.",
+        "target_word": "well",
+        "difficulty": "basic",
+        "context": "Description",
+        "translation": "إنه جيداً، بشكل جيد."
+      },
+      {
+        "sentence": "I feel well today.",
+        "target_word": "well",
+        "difficulty": "basic",
+        "context": "Feelings",
+        "translation": "أشعر أنني جيداً، بشكل جيد اليوم."
+      },
+      {
+        "sentence": "This is very well.",
+        "target_word": "well",
+        "difficulty": "basic",
+        "context": "Opinion",
+        "translation": "هذا جيداً، بشكل جيد جداً."
+      }
+    ],
+    "also": [
+      {
+        "sentence": "I see a also.",
+        "target_word": "also",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى أيضاً."
+      },
+      {
+        "sentence": "This is my also.",
+        "target_word": "also",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه أيضاًي."
+      },
+      {
+        "sentence": "I like the also.",
+        "target_word": "also",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الأيضاً."
+      }
+    ],
+    "because": [
+      {
+        "sentence": "I see a because.",
+        "target_word": "because",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لأن."
+      },
+      {
+        "sentence": "This is my because.",
+        "target_word": "because",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لأني."
+      },
+      {
+        "sentence": "I like the because.",
+        "target_word": "because",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللأن."
+      }
+    ],
+    "but": [
+      {
+        "sentence": "I see a but.",
+        "target_word": "but",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى لكن."
+      },
+      {
+        "sentence": "This is my but.",
+        "target_word": "but",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه لكني."
+      },
+      {
+        "sentence": "I like the but.",
+        "target_word": "but",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب اللكن."
+      }
+    ],
+    "and": [
+      {
+        "sentence": "I see a and.",
+        "target_word": "and",
+        "difficulty": "basic",
+        "context": "Observation",
+        "translation": "أرى و."
+      },
+      {
+        "sentence": "This is my and.",
+        "target_word": "and",
+        "difficulty": "basic",
+        "context": "Possession",
+        "translation": "هذا/هذه وي."
+      },
+      {
+        "sentence": "I like the and.",
+        "target_word": "and",
+        "difficulty": "basic",
+        "context": "Preferences",
+        "translation": "أحب الو."
+      }
+    ]
+  }
+}
