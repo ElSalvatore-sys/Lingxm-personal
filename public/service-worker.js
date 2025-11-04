@@ -4,7 +4,7 @@
 // - Assets: Cache-first with versioning
 // - Version mismatch: Unregister SW and clear all caches
 
-const CACHE_NAME = 'lingxm-v20';  // Phase 3: German B2-IT sentences added (Kafel)
+const CACHE_NAME = 'lingxm-v21';  // Phase 4: Multilingual sentences added (Arabic, French, Italian)
 
 const urlsToCache = [
   '/',
