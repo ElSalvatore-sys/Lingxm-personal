@@ -1,0 +1,4166 @@
+{
+  "metadata": {
+    "language": "de",
+    "language_name": "German",
+    "level": "B2",
+    "specialization": "Gastronomy",
+    "source_profiles": [
+      "salman"
+    ],
+    "source_vocabulary": "public/data/salman/de-gastro.json",
+    "total_words": 180,
+    "total_sentences": 540,
+    "generated_date": "2025-11-04",
+    "version": "1.0",
+    "difficulty": "upper-intermediate",
+    "topics": [
+      "cooking",
+      "restaurant service",
+      "menu terms",
+      "food preparation",
+      "hospitality"
+    ]
+  },
+  "sentences": {
+    "braten": [
+      {
+        "sentence": "Um das Rindfleisch richtig zu braten, sollte man es bei hoher Temperatur scharf anbraten und dann die Hitze reduzieren.",
+        "target_word": "braten",
+        "difficulty": "intermediate",
+        "context": "Food Preparation",
+        "translation": "لقلي لحم البقر بشكل صحيح، يجب قليه على حرارة عالية أولاً ثم تقليل الحرارة."
+      },
+      {
+        "sentence": "Der Koch brät die Entenbrust mit der Hautseite nach unten, damit sie schön knusprig wird.",
+        "target_word": "braten",
+        "difficulty": "intermediate",
+        "context": "Professional Cooking",
+        "translation": "يقلي الطاهي صدر البط بجانب الجلد للأسفل حتى يصبح مقرمشاً."
+      },
+      {
+        "sentence": "Beim Braten von Gemüse ist es wichtig, die Pfanne nicht zu überfüllen, sonst wird es gedünstet statt gebraten.",
+        "target_word": "braten",
+        "difficulty": "advanced",
+        "context": "Cooking Techniques",
+        "translation": "عند قلي الخضروات، من المهم عدم ملء المقلاة بشكل زائد، وإلا ستُطهى على البخار بدلاً من القلي."
+      }
+    ],
+    "kochen": [
+      {
+        "sentence": "Die Nudeln müssen in reichlich gesalzenem Wasser gekocht werden, damit sie den richtigen Geschmack bekommen.",
+        "target_word": "kochen",
+        "difficulty": "basic",
+        "context": "Basic Cooking",
+        "translation": "يجب طهي المعكرونة في ماء مملح بكثرة حتى تحصل على الطعم الصحيح."
+      },
+      {
+        "sentence": "Als Sous-Chef muss ich täglich für bis zu 200 Gäste kochen und dabei höchste Qualität garantieren.",
+        "target_word": "kochen",
+        "difficulty": "intermediate",
+        "context": "Professional Environment",
+        "translation": "كطاهٍ مساعد، يجب أن أطبخ يومياً لما يصل إلى 200 ضيف مع ضمان أعلى جودة."
+      },
+      {
+        "sentence": "Das Geheimnis dieser Suppe liegt darin, dass sie langsam über mehrere Stunden gekocht wird, um den vollen Geschmack zu entwickeln.",
+        "target_word": "kochen",
+        "difficulty": "advanced",
+        "context": "Advanced Techniques",
+        "translation": "سر هذا الحساء يكمن في طهيه ببطء على مدى عدة ساعات لتطوير النكهة الكاملة."
+      }
+    ],
+    "dünsten": [
+      {
+        "sentence": "Spinat sollte man nur kurz dünsten, damit er seine Nährstoffe und leuchtende Farbe behält.",
+        "target_word": "dünsten",
+        "difficulty": "intermediate",
+        "context": "Healthy Cooking",
+        "translation": "يجب سلق السبانخ لفترة قصيرة فقط حتى يحتفظ بالمواد المغذية ولونه الزاهي."
+      },
+      {
+        "sentence": "In unserem Restaurant dünsten wir das Gemüse immer mit etwas Gemüsebrühe, um den Geschmack zu intensivieren.",
+        "target_word": "dünsten",
+        "difficulty": "intermediate",
+        "context": "Restaurant Techniques",
+        "translation": "في مطعمنا نسلق الخضروات دائماً مع القليل من مرق الخضار لتكثيف النكهة."
+      },
+      {
+        "sentence": "Im Gegensatz zum Kochen werden beim Dünsten die Lebensmittel bei niedrigerer Temperatur in wenig Flüssigkeit schonend gegart.",
+        "target_word": "dünsten",
+        "difficulty": "advanced",
+        "context": "Culinary Theory",
+        "translation": "على عكس الطهي، يتم سلق الأطعمة على حرارة منخفضة في القليل من السائل بشكل لطيف."
+      }
+    ],
+    "schmoren": [
+      {
+        "sentence": "Rindergulasch muss mindestens zwei Stunden bei niedriger Hitze schmoren, damit das Fleisch zart wird.",
+        "target_word": "schmoren",
+        "difficulty": "intermediate",
+        "context": "Meat Preparation",
+        "translation": "يجب طهي جولاش اللحم على نار هادئة لمدة ساعتين على الأقل حتى يصبح اللحم طرياً."
+      },
+      {
+        "sentence": "Zum Schmoren eignen sich besonders gut kräftige Fleischstücke, die durch die lange Garzeit besonders saftig werden.",
+        "target_word": "schmoren",
+        "difficulty": "advanced",
+        "context": "Professional Knowledge",
+        "translation": "قطع اللحم القوية مناسبة بشكل خاص للطهي البطيء، والتي تصبح غنية بالعصارة من خلال وقت الطهي الطويل."
+      },
+      {
+        "sentence": "Der Schmorbraten wird zuerst scharf angebraten und dann mit Rotwein und Gewürzen langsam geschmort.",
+        "target_word": "schmoren",
+        "difficulty": "intermediate",
+        "context": "Traditional Dishes",
+        "translation": "يتم أولاً قلي اللحم المطهو على نار عالية ثم طهيه ببطء مع النبيذ الأحمر والتوابل."
+      }
+    ],
+    "grillen": [
+      {
+        "sentence": "Beim Grillen von Fisch sollte man darauf achten, dass der Rost gut geölt ist, damit der Fisch nicht anklebt.",
+        "target_word": "grillen",
+        "difficulty": "intermediate",
+        "context": "Grilling Techniques",
+        "translation": "عند شوي السمك، يجب التأكد من أن الشبكة مدهونة جيداً حتى لا يلتصق السمك."
+      },
+      {
+        "sentence": "Im Sommer bieten wir jeden Freitag ein spezielles Grillbuffet an, bei dem die Gäste direkt am Grill wählen können.",
+        "target_word": "grillen",
+        "difficulty": "basic",
+        "context": "Restaurant Service",
+        "translation": "في الصيف نقدم كل يوم جمعة بوفيه شواء خاص حيث يمكن للضيوف الاختيار مباشرة من الشواية."
+      },
+      {
+        "sentence": "Die richtige Grilltemperatur und die Grillzeit sind entscheidend, um Fleisch perfekt zu grillen und gleichzeitig saftig zu halten.",
+        "target_word": "grillen",
+        "difficulty": "advanced",
+        "context": "Professional Grilling",
+        "translation": "درجة حرارة الشواء الصحيحة ووقت الشوي حاسمان لشوي اللحم بشكل مثالي والحفاظ عليه طرياً."
+      }
+    ],
+    "backen": [
+      {
+        "sentence": "Um knuspriges Brot zu backen, braucht man einen heißen Ofen und ausreichend Dampf zu Beginn des Backvorgangs.",
+        "target_word": "backen",
+        "difficulty": "intermediate",
+        "context": "Baking",
+        "translation": "لخبز خبز مقرمش، تحتاج إلى فرن ساخن وبخار كافٍ في بداية عملية الخبز."
+      },
+      {
+        "sentence": "In unserer Patisserie backen wir täglich frische Croissants, die noch warm zum Frühstück serviert werden.",
+        "target_word": "backen",
+        "difficulty": "basic",
+        "context": "Bakery Work",
+        "translation": "في متجر الحلويات لدينا نخبز يومياً كرواسون طازج يقدم ساخناً على الإفطار."
+      },
+      {
+        "sentence": "Beim Backen von Soufflés ist Präzision gefordert, da selbst kleine Fehler bei der Temperatur das Ergebnis beeinflussen können.",
+        "target_word": "backen",
+        "difficulty": "advanced",
+        "context": "Advanced Pastry",
+        "translation": "عند خبز السوفليه، الدقة مطلوبة، حيث أن حتى الأخطاء الصغيرة في درجة الحرارة يمكن أن تؤثر على النتيجة."
+      }
+    ],
+    "frittieren": [
+      {
+        "sentence": "Pommes frites sollten zweimal frittiert werden: einmal bei niedriger Temperatur und dann nochmal bei hoher Temperatur für die Knusprigkeit.",
+        "target_word": "frittieren",
+        "difficulty": "advanced",
+        "context": "Professional Frying",
+        "translation": "يجب قلي البطاطس المقلية مرتين: مرة على حرارة منخفضة ثم مرة أخرى على حرارة عالية للحصول على القرمشة."
+      },
+      {
+        "sentence": "Beim Frittieren muss man besonders auf die Sicherheit achten, da heißes Öl sehr gefährlich sein kann.",
+        "target_word": "frittieren",
+        "difficulty": "basic",
+        "context": "Kitchen Safety",
+        "translation": "عند القلي العميق يجب الانتباه بشكل خاص للسلامة، حيث أن الزيت الساخن يمكن أن يكون خطيراً جداً."
+      },
+      {
+        "sentence": "Die Fritteusen müssen regelmäßig gereinigt und das Öl nach einer bestimmten Anzahl von Verwendungen ausgetauscht werden.",
+        "target_word": "frittieren",
+        "difficulty": "intermediate",
+        "context": "Kitchen Maintenance",
+        "translation": "يجب تنظيف المقالي العميقة بانتظام واستبدال الزيت بعد عدد معين من الاستخدامات."
+      }
+    ],
+    "dämpfen": [
+      {
+        "sentence": "Fisch wird am besten gedämpft, weil diese Methode besonders schonend ist und die zarte Textur erhält.",
+        "target_word": "dämpfen",
+        "difficulty": "intermediate",
+        "context": "Healthy Cooking",
+        "translation": "يُفضل طهي السمك بالبخار لأن هذه الطريقة لطيفة بشكل خاص وتحافظ على القوام الطري."
+      },
+      {
+        "sentence": "In der asiatischen Küche werden viele Gerichte gedämpft, was auch in europäischen Restaurants immer beliebter wird.",
+        "target_word": "dämpfen",
+        "difficulty": "basic",
+        "context": "Cooking Methods",
+        "translation": "في المطبخ الآسيوي يتم طهي العديد من الأطباق بالبخار، وهو ما أصبح أكثر شعبية في المطاعم الأوروبية."
+      },
+      {
+        "sentence": "Beim Dämpfen bleiben Vitamine und Mineralstoffe weitgehend erhalten, weshalb diese Garmethode besonders gesund ist.",
+        "target_word": "dämpfen",
+        "difficulty": "advanced",
+        "context": "Nutritional Knowledge",
+        "translation": "عند الطهي بالبخار تُحفظ الفيتامينات والمعادن إلى حد كبير، لذلك فإن طريقة الطهي هذه صحية بشكل خاص."
+      }
+    ],
+    "anbraten": [
+      {
+        "sentence": "Man sollte das Fleisch immer kurz scharf anbraten, bevor man es in die Sauce gibt, um Röstaromen zu entwickeln.",
+        "target_word": "anbraten",
+        "difficulty": "intermediate",
+        "context": "Cooking Technique",
+        "translation": "يجب دائماً قلي اللحم بسرعة على نار عالية قبل وضعه في الصلصة لتطوير نكهة التحميص."
+      },
+      {
+        "sentence": "Beim Anbraten ist es wichtig, dass die Pfanne richtig heiß ist und das Fleisch trocken getupft wurde.",
+        "target_word": "anbraten",
+        "difficulty": "advanced",
+        "context": "Professional Tips",
+        "translation": "عند القلي الأولي، من المهم أن تكون المقلاة ساخنة بشكل صحيح وأن يتم تجفيف اللحم."
+      },
+      {
+        "sentence": "Der Koch brät die Medaillons zunächst von beiden Seiten an und lässt sie dann im Ofen fertig garen.",
+        "target_word": "anbraten",
+        "difficulty": "intermediate",
+        "context": "Restaurant Kitchen",
+        "translation": "يقلي الطاهي الميداليات أولاً من كلا الجانبين ثم يتركها تنضج في الفرن."
+      }
+    ],
+    "würzen": [
+      {
+        "sentence": "Ein guter Koch weiß genau, wie er Gerichte richtig würzen muss, um den perfekten Geschmack zu erreichen.",
+        "target_word": "würzen",
+        "difficulty": "basic",
+        "context": "Cooking Skills",
+        "translation": "يعرف الطاهي الجيد بالضبط كيف يتبل الأطباق بشكل صحيح للوصول إلى الطعم المثالي."
+      },
+      {
+        "sentence": "Beim Würzen sollte man bedenken, dass man immer nachwürzen, aber nicht rückgängig machen kann.",
+        "target_word": "würzen",
+        "difficulty": "intermediate",
+        "context": "Cooking Wisdom",
+        "translation": "عند التتبيل يجب أن تضع في اعتبارك أنه يمكنك دائماً إضافة المزيد، لكن لا يمكنك التراجع."
+      },
+      {
+        "sentence": "In unserer Küche verwenden wir frische Kräuter zum Würzen, die wir täglich vom lokalen Markt beziehen.",
+        "target_word": "würzen",
+        "difficulty": "basic",
+        "context": "Restaurant Practice",
+        "translation": "في مطبخنا نستخدم أعشاباً طازجة للتتبيل نحصل عليها يومياً من السوق المحلي."
+      }
+    ],
+    "der Herd": [
+      {
+        "sentence": "Der Herd in unserer Profiküche hat acht Kochstellen und ermöglicht präzise Temperaturkontrolle.",
+        "target_word": "der Herd",
+        "difficulty": "basic",
+        "context": "Kitchen Equipment",
+        "translation": "الموقد في مطبخنا المحترف به ثماني مواقد ويتيح التحكم الدقيق في درجة الحرارة."
+      },
+      {
+        "sentence": "Am Herd zu arbeiten erfordert viel Konzentration, besonders während der Stoßzeiten im Restaurant.",
+        "target_word": "der Herd",
+        "difficulty": "intermediate",
+        "context": "Kitchen Work",
+        "translation": "العمل على الموقد يتطلب الكثير من التركيز، خاصة خلال أوقات الذروة في المطعم."
+      },
+      {
+        "sentence": "Ein Induktionsherd ist energieeffizient und sicherer als ein Gasherd, weil die Kochfläche selbst nicht heiß wird.",
+        "target_word": "der Herd",
+        "difficulty": "advanced",
+        "context": "Kitchen Technology",
+        "translation": "الموقد الكهربائي الحثي موفر للطاقة وأكثر أماناً من موقد الغاز لأن سطح الطهي نفسه لا يسخن."
+      }
+    ],
+    "die Pfanne": [
+      {
+        "sentence": "Eine gute Pfanne ist eine wichtige Investition für jeden Koch, da die Qualität das Ergebnis beeinflusst.",
+        "target_word": "die Pfanne",
+        "difficulty": "basic",
+        "context": "Kitchen Equipment",
+        "translation": "المقلاة الجيدة استثمار مهم لكل طاهٍ، حيث أن الجودة تؤثر على النتيجة."
+      },
+      {
+        "sentence": "In unserer Küche verwenden wir beschichtete Pfannen für empfindliche Speisen und Gusseisenpfannen für Steaks.",
+        "target_word": "die Pfanne",
+        "difficulty": "intermediate",
+        "context": "Professional Kitchen",
+        "translation": "في مطبخنا نستخدم المقالي المطلية للأطعمة الحساسة ومقالي الحديد الزهر للستيك."
+      },
+      {
+        "sentence": "Die Pfanne muss vor dem Braten richtig vorgeheizt werden, damit sich schöne Röstaromen entwickeln können.",
+        "target_word": "die Pfanne",
+        "difficulty": "intermediate",
+        "context": "Cooking Technique",
+        "translation": "يجب تسخين المقلاة بشكل صحيح قبل القلي حتى تتطور نكهات التحميص الجميلة."
+      }
+    ],
+    "der Topf": [
+      {
+        "sentence": "Für Suppen und Eintöpfe benötigt man einen großen Topf mit schwerem Boden für gleichmäßige Hitzeverteilung.",
+        "target_word": "der Topf",
+        "difficulty": "basic",
+        "context": "Cooking Equipment",
+        "translation": "للحساء واليخنات تحتاج إلى قدر كبير بقاع ثقيل لتوزيع الحرارة بشكل متساوٍ."
+      },
+      {
+        "sentence": "Der Topf sollte beim Kochen von Nudeln groß genug sein, damit die Nudeln genug Platz zum Bewegen haben.",
+        "target_word": "der Topf",
+        "difficulty": "basic",
+        "context": "Basic Cooking",
+        "translation": "يجب أن يكون القدر كبيراً بما يكفي عند طهي المعكرونة حتى يكون للمعكرونة مساحة كافية للتحرك."
+      },
+      {
+        "sentence": "In der Profiküche verwenden wir Töpfe aus Edelstahl mit Kupferboden, da diese optimale Wärmeleitung bieten.",
+        "target_word": "der Topf",
+        "difficulty": "advanced",
+        "context": "Professional Equipment",
+        "translation": "في المطبخ المحترف نستخدم أواني من الفولاذ المقاوم للصدأ بقاع نحاسي، حيث توفر توصيلاً مثالياً للحرارة."
+      }
+    ],
+    "das Messer": [
+      {
+        "sentence": "Ein scharfes Messer ist in der Küche essentiell und tatsächlich sicherer als ein stumpfes Messer.",
+        "target_word": "das Messer",
+        "difficulty": "basic",
+        "context": "Kitchen Safety",
+        "translation": "السكين الحادة ضرورية في المطبخ وهي في الواقع أكثر أماناً من السكين غير الحادة."
+      },
+      {
+        "sentence": "Jeder Koch hat sein eigenes Messerset, das er sorgfältig pflegt und regelmäßig schärft.",
+        "target_word": "das Messer",
+        "difficulty": "intermediate",
+        "context": "Professional Tools",
+        "translation": "كل طاهٍ لديه مجموعة سكاكينه الخاصة التي يعتني بها بعناية ويشحذها بانتظام."
+      },
+      {
+        "sentence": "Die richtige Messertechnik zu beherrschen ist grundlegend für effizientes und sicheres Arbeiten in der Küche.",
+        "target_word": "das Messer",
+        "difficulty": "advanced",
+        "context": "Professional Skills",
+        "translation": "إتقان تقنية السكين الصحيحة أساسي للعمل الفعال والآمن في المطبخ."
+      }
+    ],
+    "das Schneidebrett": [
+      {
+        "sentence": "In der Profiküche verwenden wir verschiedenfarbige Schneidebretter, um Kreuzkontamination zu vermeiden.",
+        "target_word": "das Schneidebrett",
+        "difficulty": "intermediate",
+        "context": "Hygiene Standards",
+        "translation": "في المطبخ المحترف نستخدم ألواح تقطيع بألوان مختلفة لتجنب التلوث المتبادل."
+      },
+      {
+        "sentence": "Das Schneidebrett muss nach jedem Gebrauch gründlich gereinigt und desinfiziert werden.",
+        "target_word": "das Schneidebrett",
+        "difficulty": "basic",
+        "context": "Kitchen Hygiene",
+        "translation": "يجب تنظيف لوح التقطيع جيداً وتعقيمه بعد كل استخدام."
+      },
+      {
+        "sentence": "Ein hochwertiges Holzschneidebrett schont die Messerklingen und hat natürliche antibakterielle Eigenschaften.",
+        "target_word": "das Schneidebrett",
+        "difficulty": "advanced",
+        "context": "Equipment Knowledge",
+        "translation": "لوح التقطيع الخشبي عالي الجودة يحافظ على شفرات السكين وله خصائص مضادة للبكتيريا طبيعية."
+      }
+    ],
+    "der Schneebesen": [
+      {
+        "sentence": "Mit einem Schneebesen kann man Eier perfekt aufschlagen und luftige Massen herstellen.",
+        "target_word": "der Schneebesen",
+        "difficulty": "basic",
+        "context": "Baking Tools",
+        "translation": "بالمضرب السلكي يمكنك خفق البيض بشكل مثالي وصنع خليط هوائي."
+      },
+      {
+        "sentence": "Der Schneebesen ist unverzichtbar für die Herstellung von Soßen, da er Klümpchenbildung verhindert.",
+        "target_word": "der Schneebesen",
+        "difficulty": "intermediate",
+        "context": "Sauce Making",
+        "translation": "المضرب السلكي لا غنى عنه لصنع الصلصات، حيث يمنع تكون الكتل."
+      },
+      {
+        "sentence": "In der Patisserie verwenden wir verschiedene Größen von Schneebesen für unterschiedliche Aufgaben und Mengen.",
+        "target_word": "der Schneebesen",
+        "difficulty": "intermediate",
+        "context": "Professional Pastry",
+        "translation": "في محل الحلويات نستخدم أحجاماً مختلفة من المضارب السلكية لمهام وكميات مختلفة."
+      }
+    ],
+    "der Kochlöffel": [
+      {
+        "sentence": "Ein Holzkochlöffel ist ideal zum Rühren, da er keine Kratzer in beschichteten Töpfen hinterlässt.",
+        "target_word": "der Kochlöffel",
+        "difficulty": "basic",
+        "context": "Kitchen Tools",
+        "translation": "ملعقة الطبخ الخشبية مثالية للتحريك، حيث لا تترك خدوشاً في الأواني المطلية."
+      },
+      {
+        "sentence": "Beim Zubereiten von Risotto ist der Kochlöffel mein wichtigstes Werkzeug, da ständiges Rühren nötig ist.",
+        "target_word": "der Kochlöffel",
+        "difficulty": "intermediate",
+        "context": "Cooking Technique",
+        "translation": "عند تحضير الريزوتو، ملعقة الطبخ هي أهم أداة لدي، حيث أن التحريك المستمر ضروري."
+      },
+      {
+        "sentence": "In jeder Profiküche findet man eine große Auswahl an Kochlöffeln in verschiedenen Größen und Materialien.",
+        "target_word": "der Kochlöffel",
+        "difficulty": "basic",
+        "context": "Professional Kitchen",
+        "translation": "في كل مطبخ محترف تجد مجموعة كبيرة من ملاعق الطبخ بأحجام ومواد مختلفة."
+      }
+    ],
+    "die Schüssel": [
+      {
+        "sentence": "Zum Vorbereiten der Zutaten benötigt man verschiedene Schüsseln in unterschiedlichen Größen.",
+        "target_word": "die Schüssel",
+        "difficulty": "basic",
+        "context": "Kitchen Preparation",
+        "translation": "لتحضير المكونات تحتاج إلى أوعية مختلفة بأحجام متنوعة."
+      },
+      {
+        "sentence": "In der Schüssel werden alle Zutaten für den Teig gemischt, bevor er weiterverarbeitet wird.",
+        "target_word": "die Schüssel",
+        "difficulty": "basic",
+        "context": "Baking",
+        "translation": "في الوعاء يتم خلط جميع مكونات العجين قبل معالجته أكثر."
+      },
+      {
+        "sentence": "Edelstahlschüsseln sind in der Gastronomie beliebt, da sie robust, hygienisch und leicht zu reinigen sind.",
+        "target_word": "die Schüssel",
+        "difficulty": "intermediate",
+        "context": "Professional Equipment",
+        "translation": "أوعية الفولاذ المقاوم للصدأ شائعة في المطاعم، حيث أنها متينة وصحية وسهلة التنظيف."
+      }
+    ],
+    "der Mixer": [
+      {
+        "sentence": "Mit einem leistungsstarken Mixer lassen sich im Handumdrehen cremige Suppen und Smoothies herstellen.",
+        "target_word": "der Mixer",
+        "difficulty": "basic",
+        "context": "Kitchen Appliances",
+        "translation": "بخلاط قوي يمكنك صنع شوربات كريمية وعصائر سموثي في لمح البصر."
+      },
+      {
+        "sentence": "Der Standmixer in unserer Küche wird täglich für die Zubereitung von Soßen und Pürees verwendet.",
+        "target_word": "der Mixer",
+        "difficulty": "intermediate",
+        "context": "Professional Kitchen",
+        "translation": "الخلاط الثابت في مطبخنا يُستخدم يومياً لتحضير الصلصات والمهروسات."
+      },
+      {
+        "sentence": "Beim Mixen von heißen Flüssigkeiten muss man vorsichtig sein und die Geschwindigkeit langsam erhöhen, um Spritzer zu vermeiden.",
+        "target_word": "der Mixer",
+        "difficulty": "advanced",
+        "context": "Safety Tips",
+        "translation": "عند خلط السوائل الساخنة يجب أن تكون حذراً وأن تزيد السرعة تدريجياً لتجنب الرذاذ."
+      }
+    ],
+    "das Sieb": [
+      {
+        "sentence": "Nach dem Kochen werden die Nudeln durch ein Sieb abgegossen, um das Wasser zu entfernen.",
+        "target_word": "das Sieb",
+        "difficulty": "basic",
+        "context": "Basic Cooking",
+        "translation": "بعد الطهي يتم تصفية المعكرونة من خلال مصفاة لإزالة الماء."
+      },
+      {
+        "sentence": "Ein feines Sieb ist unerlässlich, um Soßen zu passieren und eine perfekt glatte Konsistenz zu erreichen.",
+        "target_word": "das Sieb",
+        "difficulty": "intermediate",
+        "context": "Professional Technique",
+        "translation": "المصفاة الدقيقة لا غنى عنها لتمرير الصلصات والوصول إلى قوام ناعم تماماً."
+      },
+      {
+        "sentence": "In der Patisserie verwenden wir verschiedene Siebe, um Mehl und Puderzucker für eine luftige Textur zu sieben.",
+        "target_word": "das Sieb",
+        "difficulty": "intermediate",
+        "context": "Baking",
+        "translation": "في محل الحلويات نستخدم مصافٍ مختلفة لنخل الدقيق والسكر البودرة للحصول على قوام هوائي."
+      }
+    ],
+    "schälen": [
+      {
+        "sentence": "Kartoffeln muss man vor dem Kochen schälen, es sei denn, man möchte sie als Pellkartoffeln zubereiten.",
+        "target_word": "schälen",
+        "difficulty": "basic",
+        "context": "Food Preparation",
+        "translation": "يجب تقشير البطاطس قبل الطهي، إلا إذا كنت تريد تحضيرها كبطاطس مسلوقة بالقشر."
+      },
+      {
+        "sentence": "Beim Schälen von Gemüse sollte man darauf achten, möglichst wenig vom Fruchtfleisch zu entfernen.",
+        "target_word": "schälen",
+        "difficulty": "intermediate",
+        "context": "Kitchen Technique",
+        "translation": "عند تقشير الخضروات يجب الحرص على إزالة أقل قدر ممكن من اللب."
+      },
+      {
+        "sentence": "Ein Sparschäler ermöglicht es, Gemüse schnell und effizient zu schälen, ohne viel Abfall zu produzieren.",
+        "target_word": "schälen",
+        "difficulty": "intermediate",
+        "context": "Kitchen Tools",
+        "translation": "مقشرة الخضار الاقتصادية تتيح تقشير الخضروات بسرعة وكفاءة دون إنتاج الكثير من النفايات."
+      }
+    ],
+    "schneiden": [
+      {
+        "sentence": "Das Gemüse muss in gleichmäßige Stücke geschnitten werden, damit es gleichmäßig gart.",
+        "target_word": "schneiden",
+        "difficulty": "basic",
+        "context": "Food Preparation",
+        "translation": "يجب تقطيع الخضروات إلى قطع متساوية حتى تنضج بشكل متساوٍ."
+      },
+      {
+        "sentence": "In der Kochausbildung lernt man verschiedene Schneidetechniken wie Julienne, Brunoise und Chiffonade.",
+        "target_word": "schneiden",
+        "difficulty": "advanced",
+        "context": "Professional Training",
+        "translation": "في التدريب على الطهي تتعلم تقنيات تقطيع مختلفة مثل جوليان وبرونواز وشيفوناد."
+      },
+      {
+        "sentence": "Beim Schneiden von Zwiebeln hilft es, das Messer regelmäßig mit kaltem Wasser abzuspülen, um das Brennen der Augen zu reduzieren.",
+        "target_word": "schneiden",
+        "difficulty": "intermediate",
+        "context": "Kitchen Tips",
+        "translation": "عند تقطيع البصل، يساعد شطف السكين بانتظام بالماء البارد على تقليل حرقة العينين."
+      }
+    ],
+    "hacken": [
+      {
+        "sentence": "Knoblauch und Kräuter werden fein gehackt, damit sie ihr Aroma besser entfalten können.",
+        "target_word": "hacken",
+        "difficulty": "basic",
+        "context": "Herb Preparation",
+        "translation": "يتم فرم الثوم والأعشاب جيداً حتى تتمكن من إطلاق رائحتها بشكل أفضل."
+      },
+      {
+        "sentence": "Für die Bolognese-Sauce wird das Gemüse sehr fein gehackt, damit es fast in der Sauce verschwindet.",
+        "target_word": "hacken",
+        "difficulty": "intermediate",
+        "context": "Sauce Making",
+        "translation": "لصلصة البولونيز يتم فرم الخضروات بشكل ناعم جداً حتى تختفي تقريباً في الصلصة."
+      },
+      {
+        "sentence": "Mit einem scharfen Messer und der richtigen Technik kann man Kräuter hacken, ohne sie zu zerdrücken.",
+        "target_word": "hacken",
+        "difficulty": "advanced",
+        "context": "Professional Technique",
+        "translation": "بسكين حادة والتقنية الصحيحة يمكنك فرم الأعشاب دون سحقها."
+      }
+    ],
+    "rühren": [
+      {
+        "sentence": "Beim Kochen von Risotto muss man ständig rühren, damit der Reis cremig wird und nicht am Boden anklebt.",
+        "target_word": "rühren",
+        "difficulty": "intermediate",
+        "context": "Cooking Technique",
+        "translation": "عند طهي الريزوتو يجب التحريك باستمرار حتى يصبح الأرز كريمياً ولا يلتصق بالقاع."
+      },
+      {
+        "sentence": "Die Soße sollte während des Erhitzens regelmäßig gerührt werden, um eine gleichmäßige Konsistenz zu gewährleisten.",
+        "target_word": "rühren",
+        "difficulty": "basic",
+        "context": "Sauce Making",
+        "translation": "يجب تحريك الصلصة بانتظام أثناء التسخين لضمان قوام متساوٍ."
+      },
+      {
+        "sentence": "Beim Rühren von empfindlichen Teigen ist es wichtig, sanft vorzugehen, um die Luftigkeit nicht zu zerstören.",
+        "target_word": "rühren",
+        "difficulty": "advanced",
+        "context": "Baking Technique",
+        "translation": "عند خفق العجائن الحساسة، من المهم التعامل بلطف حتى لا تدمر القوام الهوائي."
+      }
+    ],
+    "mischen": [
+      {
+        "sentence": "Alle trockenen Zutaten sollten zuerst separat gemischt werden, bevor man sie mit den feuchten Zutaten kombiniert.",
+        "target_word": "mischen",
+        "difficulty": "intermediate",
+        "context": "Baking Technique",
+        "translation": "يجب خلط جميع المكونات الجافة بشكل منفصل أولاً قبل دمجها مع المكونات الرطبة."
+      },
+      {
+        "sentence": "In der Salatbar werden die Zutaten frisch gemischt, nachdem der Gast seine Auswahl getroffen hat.",
+        "target_word": "mischen",
+        "difficulty": "basic",
+        "context": "Restaurant Service",
+        "translation": "في بار السلطة يتم خلط المكونات طازجة بعد أن يقوم الضيف باختياره."
+      },
+      {
+        "sentence": "Das richtige Mischen von Gewürzen erfordert Erfahrung und ein gutes Gespür für Aromen und Geschmackskombinationen.",
+        "target_word": "mischen",
+        "difficulty": "advanced",
+        "context": "Spice Knowledge",
+        "translation": "خلط التوابل الصحيح يتطلب خبرة وحساً جيداً للنكهات ومزيج النكهات."
+      }
+    ],
+    "abschmecken": [
+      {
+        "sentence": "Vor dem Servieren muss man jedes Gericht abschmecken und gegebenenfalls nachwürzen.",
+        "target_word": "abschmecken",
+        "difficulty": "intermediate",
+        "context": "Quality Control",
+        "translation": "قبل التقديم يجب تذوق كل طبق وإضافة التوابل إذا لزم الأمر."
+      },
+      {
+        "sentence": "Das Abschmecken ist eine der wichtigsten Fähigkeiten eines Kochs und erfordert viel Übung.",
+        "target_word": "abschmecken",
+        "difficulty": "basic",
+        "context": "Cooking Skills",
+        "translation": "التذوق هو أحد أهم مهارات الطاهي ويتطلب الكثير من الممارسة."
+      },
+      {
+        "sentence": "Beim Abschmecken sollte man verschiedene Geschmacksrichtungen ausbalancieren: salzig, süß, sauer, bitter und umami.",
+        "target_word": "abschmecken",
+        "difficulty": "advanced",
+        "context": "Professional Skill",
+        "translation": "عند التذوق يجب موازنة نكهات مختلفة: مالح، حلو، حامض، مر، وأومامي."
+      }
+    ],
+    "garnieren": [
+      {
+        "sentence": "Die Desserts werden mit frischen Beeren und Minzblättern garniert, bevor sie zum Gast gebracht werden.",
+        "target_word": "garnieren",
+        "difficulty": "basic",
+        "context": "Dessert Presentation",
+        "translation": "يتم تزيين الحلويات بالتوت الطازج وأوراق النعناع قبل تقديمها للضيف."
+      },
+      {
+        "sentence": "Das Garnieren ist nicht nur dekorativ, sondern sollte auch den Geschmack des Gerichts ergänzen.",
+        "target_word": "garnieren",
+        "difficulty": "intermediate",
+        "context": "Plating Philosophy",
+        "translation": "التزيين ليس ديكورياً فقط، بل يجب أيضاً أن يكمل طعم الطبق."
+      },
+      {
+        "sentence": "In der gehobenen Gastronomie wird viel Wert auf kunstvolles Garnieren gelegt, um ein visuelles Erlebnis zu schaffen.",
+        "target_word": "garnieren",
+        "difficulty": "advanced",
+        "context": "Fine Dining",
+        "translation": "في المطاعم الراقية يتم إيلاء اهتمام كبير للتزيين الفني لخلق تجربة بصرية."
+      }
+    ],
+    "anrichten": [
+      {
+        "sentence": "Das Anrichten der Teller erfolgt nach einem festen Schema, damit alle Gerichte einheitlich aussehen.",
+        "target_word": "anrichten",
+        "difficulty": "intermediate",
+        "context": "Professional Plating",
+        "translation": "يتم تنسيق الأطباق وفقاً لنمط ثابت حتى تبدو جميع الأطباق موحدة."
+      },
+      {
+        "sentence": "Der Chef persönlich überwacht das Anrichten der Hauptgerichte, um höchste Qualität sicherzustellen.",
+        "target_word": "anrichten",
+        "difficulty": "intermediate",
+        "context": "Quality Control",
+        "translation": "يشرف الشيف شخصياً على تنسيق الأطباق الرئيسية لضمان أعلى جودة."
+      },
+      {
+        "sentence": "Beim Anrichten sollte man auf Symmetrie, Farbe und Höhe achten, um ein ansprechendes Gesamtbild zu schaffen.",
+        "target_word": "anrichten",
+        "difficulty": "advanced",
+        "context": "Plating Technique",
+        "translation": "عند تنسيق الطبق يجب الانتباه إلى التماثل واللون والارتفاع لخلق صورة جذابة بشكل عام."
+      }
+    ],
+    "servieren": [
+      {
+        "sentence": "Die Speisen müssen bei der richtigen Temperatur serviert werden, damit die Gäste das optimale Geschmackserlebnis haben.",
+        "target_word": "servieren",
+        "difficulty": "basic",
+        "context": "Restaurant Service",
+        "translation": "يجب تقديم الأطعمة في درجة الحرارة الصحيحة حتى يحصل الضيوف على التجربة المثلى للطعم."
+      },
+      {
+        "sentence": "In unserem Fine-Dining-Restaurant servieren wir alle Gerichte gleichzeitig an alle Gäste eines Tisches.",
+        "target_word": "servieren",
+        "difficulty": "intermediate",
+        "context": "Fine Dining Service",
+        "translation": "في مطعمنا الفاخر نقدم جميع الأطباق في نفس الوقت لجميع ضيوف الطاولة."
+      },
+      {
+        "sentence": "Das professionelle Servieren erfordert nicht nur technisches Können, sondern auch Aufmerksamkeit und Diskretion.",
+        "target_word": "servieren",
+        "difficulty": "advanced",
+        "context": "Service Excellence",
+        "translation": "التقديم الاحترافي يتطلب ليس فقط المهارة التقنية، بل أيضاً الانتباه والتكتم."
+      }
+    ],
+    "der Gast": [
+      {
+        "sentence": "Der Gast ist König - dieser Grundsatz gilt in der gesamten Gastronomie.",
+        "target_word": "der Gast",
+        "difficulty": "basic",
+        "context": "Service Philosophy",
+        "translation": "الضيف هو الملك - هذا المبدأ ساري في جميع مجالات الضيافة."
+      },
+      {
+        "sentence": "Wenn ein Gast eine Beschwerde hat, nehmen wir diese sehr ernst und versuchen, eine Lösung zu finden.",
+        "target_word": "der Gast",
+        "difficulty": "intermediate",
+        "context": "Customer Service",
+        "translation": "عندما يكون لدى الضيف شكوى، نأخذها على محمل الجد ونحاول إيجاد حل."
+      },
+      {
+        "sentence": "Die Zufriedenheit unserer Gäste steht an erster Stelle, deshalb schulen wir unser Personal regelmäßig im Bereich Service.",
+        "target_word": "der Gast",
+        "difficulty": "intermediate",
+        "context": "Quality Management",
+        "translation": "رضا ضيوفنا يأتي في المقام الأول، لذلك ندرب موظفينا بانتظام في مجال الخدمة."
+      }
+    ],
+    "die Speisekarte": [
+      {
+        "sentence": "Unsere Speisekarte wechselt saisonal, um immer frische und regionale Zutaten anbieten zu können.",
+        "target_word": "die Speisekarte",
+        "difficulty": "intermediate",
+        "context": "Menu Planning",
+        "translation": "قائمة طعامنا تتغير موسمياً لنتمكن دائماً من تقديم مكونات طازجة ومحلية."
+      },
+      {
+        "sentence": "Auf der Speisekarte sind alle Gerichte mit Allergenen und vegetarischen Optionen gekennzeichnet.",
+        "target_word": "die Speisekarte",
+        "difficulty": "basic",
+        "context": "Menu Information",
+        "translation": "في قائمة الطعام جميع الأطباق موضحة بالمواد المسببة للحساسية والخيارات النباتية."
+      },
+      {
+        "sentence": "Die Gestaltung der Speisekarte spiegelt die Philosophie des Restaurants wider und hilft, die Gäste durch das Angebot zu führen.",
+        "target_word": "die Speisekarte",
+        "difficulty": "advanced",
+        "context": "Restaurant Concept",
+        "translation": "تصميم قائمة الطعام يعكس فلسفة المطعم ويساعد على إرشاد الضيوف خلال العرض."
+      }
+    ],
+    "die Vorspeise": [
+      {
+        "sentence": "Als Vorspeise empfehle ich heute unseren hausgemachten Burrata mit Tomaten und Basilikum.",
+        "target_word": "die Vorspeise",
+        "difficulty": "basic",
+        "context": "Menu Recommendation",
+        "translation": "كمقبلات أوصي اليوم ببوراتا محلية الصنع مع الطماطم والريحان."
+      },
+      {
+        "sentence": "Die Vorspeise sollte den Appetit anregen, ohne zu sättigend zu sein, damit noch Platz für das Hauptgericht bleibt.",
+        "target_word": "die Vorspeise",
+        "difficulty": "intermediate",
+        "context": "Menu Planning",
+        "translation": "يجب أن تثير المقبلات الشهية دون أن تكون مشبعة، حتى يبقى مكان للطبق الرئيسي."
+      },
+      {
+        "sentence": "In der gehobenen Gastronomie werden oft mehrere kleine Vorspeisen als Amuse-Bouche serviert.",
+        "target_word": "die Vorspeise",
+        "difficulty": "advanced",
+        "context": "Fine Dining",
+        "translation": "في المطاعم الراقية غالباً ما يتم تقديم عدة مقبلات صغيرة كمقبلات ترحيبية."
+      }
+    ],
+    "das Hauptgericht": [
+      {
+        "sentence": "Unser beliebtestes Hauptgericht ist das Rinderfilet mit Rotweinsoße und selbstgemachten Spätzle.",
+        "target_word": "das Hauptgericht",
+        "difficulty": "basic",
+        "context": "Menu Description",
+        "translation": "طبقنا الرئيسي الأكثر شعبية هو فيليه لحم البقر مع صلصة النبيذ الأحمر وشبيتسله محلية الصنع."
+      },
+      {
+        "sentence": "Beim Hauptgericht achten wir auf ausgewogene Portionsgrößen und eine harmonische Zusammenstellung von Komponenten.",
+        "target_word": "das Hauptgericht",
+        "difficulty": "intermediate",
+        "context": "Menu Planning",
+        "translation": "في الطبق الرئيسي نهتم بأحجام الحصص المتوازنة والتكوين المتناسق للمكونات."
+      },
+      {
+        "sentence": "Das Hauptgericht sollte den Höhepunkt des Menüs darstellen und alle Geschmackssinne ansprechen.",
+        "target_word": "das Hauptgericht",
+        "difficulty": "advanced",
+        "context": "Culinary Philosophy",
+        "translation": "يجب أن يمثل الطبق الرئيسي ذروة القائمة ويخاطب جميع حواس التذوق."
+      }
+    ],
+    "die Nachspeise": [
+      {
+        "sentence": "Zur Nachspeise bieten wir hausgemachtes Tiramisu oder eine Auswahl an italienischem Eis an.",
+        "target_word": "die Nachspeise",
+        "difficulty": "basic",
+        "context": "Dessert Menu",
+        "translation": "كحلوى نقدم تيراميسو محلي الصنع أو مجموعة مختارة من الآيس كريم الإيطالي."
+      },
+      {
+        "sentence": "Die Nachspeise sollte das Menü perfekt abrunden, ohne zu schwer zu sein.",
+        "target_word": "die Nachspeise",
+        "difficulty": "intermediate",
+        "context": "Menu Balance",
+        "translation": "يجب أن تختتم الحلوى القائمة بشكل مثالي دون أن تكون ثقيلة جداً."
+      },
+      {
+        "sentence": "In unserer Patisserie kreieren wir täglich neue Nachspeisen, die saisonal und optisch ansprechend sind.",
+        "target_word": "die Nachspeise",
+        "difficulty": "intermediate",
+        "context": "Pastry Work",
+        "translation": "في محل الحلويات لدينا نبتكر يومياً حلويات جديدة موسمية وجذابة بصرياً."
+      }
+    ],
+    "die Beilage": [
+      {
+        "sentence": "Als Beilage können Sie zwischen Kartoffeln, Reis oder saisonalem Gemüse wählen.",
+        "target_word": "die Beilage",
+        "difficulty": "basic",
+        "context": "Menu Options",
+        "translation": "كأطباق جانبية يمكنك الاختيار بين البطاطس أو الأرز أو الخضروات الموسمية."
+      },
+      {
+        "sentence": "Die Beilage sollte das Hauptgericht ergänzen, nicht dominieren, und geschmacklich gut harmonieren.",
+        "target_word": "die Beilage",
+        "difficulty": "intermediate",
+        "context": "Menu Composition",
+        "translation": "يجب أن يكمل الطبق الجانبي الطبق الرئيسي، لا أن يهيمن عليه، وأن يتناغم جيداً في الطعم."
+      },
+      {
+        "sentence": "Viele Gäste möchten die Beilage wechseln, daher bieten wir flexible Optionen an.",
+        "target_word": "die Beilage",
+        "difficulty": "basic",
+        "context": "Customer Service",
+        "translation": "العديد من الضيوف يريدون تغيير الطبق الجانبي، لذلك نقدم خيارات مرنة."
+      }
+    ],
+    "die Portion": [
+      {
+        "sentence": "Die Portionen in unserem Restaurant sind großzügig bemessen, sodass niemand hungrig nach Hause geht.",
+        "target_word": "die Portion",
+        "difficulty": "basic",
+        "context": "Restaurant Policy",
+        "translation": "الحصص في مطعمنا سخية حتى لا يذهب أحد إلى المنزل جائعاً."
+      },
+      {
+        "sentence": "Für Kinder bieten wir kleinere Portionen zu reduzierten Preisen an.",
+        "target_word": "die Portion",
+        "difficulty": "basic",
+        "context": "Menu Options",
+        "translation": "للأطفال نقدم حصصاً أصغر بأسعار مخفضة."
+      },
+      {
+        "sentence": "Die Portionsgröße muss kalkuliert werden, um Lebensmittelverschwendung zu vermeiden und trotzdem die Gäste zufriedenzustellen.",
+        "target_word": "die Portion",
+        "difficulty": "advanced",
+        "context": "Kitchen Management",
+        "translation": "يجب حساب حجم الحصة لتجنب هدر الطعام ومع ذلك إرضاء الضيوف."
+      }
+    ],
+    "bestellen": [
+      {
+        "sentence": "Die Gäste können ihre Speisen an der Theke bestellen oder am Tisch von der Bedienung aufnehmen lassen.",
+        "target_word": "bestellen",
+        "difficulty": "basic",
+        "context": "Ordering Process",
+        "translation": "يمكن للضيوف طلب طعامهم عند المنضدة أو الطلب من النادل على الطاولة."
+      },
+      {
+        "sentence": "Wenn Sie bestellen möchten, gebe ich Ihnen gerne noch einen Moment Zeit, die Speisekarte zu studieren.",
+        "target_word": "bestellen",
+        "difficulty": "basic",
+        "context": "Service Communication",
+        "translation": "إذا كنت تريد الطلب، سأعطيك بسعادة لحظة لدراسة القائمة."
+      },
+      {
+        "sentence": "Beim Bestellen sollte das Servicepersonal aktiv zuhören und eventuelle Rückfragen zum Gericht beantworten können.",
+        "target_word": "bestellen",
+        "difficulty": "intermediate",
+        "context": "Service Skills",
+        "translation": "عند الطلب، يجب على موظفي الخدمة الاستماع بنشاط والتمكن من الإجابة على أي أسئلة حول الطبق."
+      }
+    ],
+    "empfehlen": [
+      {
+        "sentence": "Ich kann Ihnen heute unseren frischen Fisch empfehlen, der direkt vom Markt kommt.",
+        "target_word": "empfehlen",
+        "difficulty": "basic",
+        "context": "Service Recommendation",
+        "translation": "يمكنني أن أوصي اليوم بسمكنا الطازج الذي يأتي مباشرة من السوق."
+      },
+      {
+        "sentence": "Um gute Empfehlungen zu geben, muss das Personal alle Gerichte kennen und idealerweise selbst probiert haben.",
+        "target_word": "empfehlen",
+        "difficulty": "intermediate",
+        "context": "Service Training",
+        "translation": "لتقديم توصيات جيدة، يجب على الموظفين معرفة جميع الأطباق ومن الأفضل أن يكونوا قد جربوها بأنفسهم."
+      },
+      {
+        "sentence": "Eine authentische Empfehlung, die auf die Vorlieben des Gastes eingeht, kann das Esserlebnis deutlich verbessern.",
+        "target_word": "empfehlen",
+        "difficulty": "advanced",
+        "context": "Service Excellence",
+        "translation": "التوصية الأصلية التي تأخذ في الاعتبار تفضيلات الضيف يمكن أن تحسن تجربة الطعام بشكل كبير."
+      }
+    ],
+    "die Reservierung": [
+      {
+        "sentence": "Für das Wochenende empfehle ich dringend eine Reservierung, da wir meist ausgebucht sind.",
+        "target_word": "die Reservierung",
+        "difficulty": "basic",
+        "context": "Restaurant Booking",
+        "translation": "لعطلة نهاية الأسبوع أوصي بشدة بحجز، حيث نكون عادة ممتلئين بالكامل."
+      },
+      {
+        "sentence": "Die Reservierungen werden in unserem System verwaltet, um einen reibungslosen Ablauf zu gewährleisten.",
+        "target_word": "die Reservierung",
+        "difficulty": "intermediate",
+        "context": "Restaurant Management",
+        "translation": "تُدار الحجوزات في نظامنا لضمان سير العمل بسلاسة."
+      },
+      {
+        "sentence": "Bei einer Reservierung erfragen wir immer besondere Wünsche und Allergien, um optimal vorbereitet zu sein.",
+        "target_word": "die Reservierung",
+        "difficulty": "intermediate",
+        "context": "Service Excellence",
+        "translation": "عند الحجز نسأل دائماً عن الرغبات الخاصة والحساسية لنكون مستعدين بشكل مثالي."
+      }
+    ],
+    "die Rechnung": [
+      {
+        "sentence": "Wenn Sie fertig sind, bringe ich Ihnen gerne die Rechnung.",
+        "target_word": "die Rechnung",
+        "difficulty": "basic",
+        "context": "Service Communication",
+        "translation": "عندما تنتهي، سأحضر لك الحساب بسعادة."
+      },
+      {
+        "sentence": "Auf der Rechnung sind alle bestellten Speisen und Getränke einzeln aufgeführt.",
+        "target_word": "die Rechnung",
+        "difficulty": "basic",
+        "context": "Billing",
+        "translation": "في الحساب جميع الأطعمة والمشروبات المطلوبة مدرجة بشكل منفصل."
+      },
+      {
+        "sentence": "Die Rechnung muss korrekt und transparent sein, um Missverständnisse mit den Gästen zu vermeiden.",
+        "target_word": "die Rechnung",
+        "difficulty": "intermediate",
+        "context": "Customer Service",
+        "translation": "يجب أن يكون الحساب صحيحاً وشفافاً لتجنب سوء الفهم مع الضيوف."
+      }
+    ],
+    "das Trinkgeld": [
+      {
+        "sentence": "In Deutschland ist es üblich, etwa 10% Trinkgeld zu geben, wenn man mit dem Service zufrieden war.",
+        "target_word": "das Trinkgeld",
+        "difficulty": "basic",
+        "context": "Tipping Culture",
+        "translation": "في ألمانيا من المعتاد إعطاء حوالي 10٪ بقشيش إذا كنت راضياً عن الخدمة."
+      },
+      {
+        "sentence": "Das Trinkgeld wird unter allen Servicemitarbeitern fair aufgeteilt.",
+        "target_word": "das Trinkgeld",
+        "difficulty": "basic",
+        "context": "Service Policy",
+        "translation": "يتم توزيع البقشيش بشكل عادل بين جميع موظفي الخدمة."
+      },
+      {
+        "sentence": "Während das Trinkgeld in einigen Ländern obligatorisch ist, bleibt es in Deutschland eine freiwillige Anerkennung guter Leistung.",
+        "target_word": "das Trinkgeld",
+        "difficulty": "intermediate",
+        "context": "Cultural Differences",
+        "translation": "بينما البقشيش في بعض البلدان إلزامي، يبقى في ألمانيا تقديراً طوعياً للأداء الجيد."
+      }
+    ],
+    "zahlen": [
+      {
+        "sentence": "Möchten Sie bar zahlen oder mit Karte?",
+        "target_word": "zahlen",
+        "difficulty": "basic",
+        "context": "Payment Process",
+        "translation": "هل تريد الدفع نقداً أم بالبطاقة؟"
+      },
+      {
+        "sentence": "Wenn mehrere Gäste getrennt zahlen möchten, bereiten wir separate Rechnungen vor.",
+        "target_word": "zahlen",
+        "difficulty": "basic",
+        "context": "Payment Options",
+        "translation": "إذا أراد عدة ضيوف الدفع بشكل منفصل، نعد فواتير منفصلة."
+      },
+      {
+        "sentence": "Der Zahlungsvorgang sollte diskret und effizient ablaufen, um einen positiven letzten Eindruck zu hinterlassen.",
+        "target_word": "zahlen",
+        "difficulty": "intermediate",
+        "context": "Service Quality",
+        "translation": "يجب أن تتم عملية الدفع بشكل سري وفعال لترك انطباع أخير إيجابي."
+      }
+    ],
+    "die Weinkarte": [
+      {
+        "sentence": "Unsere Weinkarte umfasst über 150 verschiedene Weine aus aller Welt.",
+        "target_word": "die Weinkarte",
+        "difficulty": "basic",
+        "context": "Restaurant Offering",
+        "translation": "قائمة النبيذ لدينا تضم أكثر من 150 نوعاً مختلفاً من النبيذ من جميع أنحاء العالم."
+      },
+      {
+        "sentence": "Der Sommelier hilft Ihnen gerne bei der Auswahl eines passenden Weines zur Speise.",
+        "target_word": "die Weinkarte",
+        "difficulty": "intermediate",
+        "context": "Wine Service",
+        "translation": "السوملييه سيساعدك بسعادة في اختيار نبيذ مناسب للطبق."
+      },
+      {
+        "sentence": "Eine gut zusammengestellte Weinkarte bietet für jeden Geschmack und jedes Budget passende Optionen.",
+        "target_word": "die Weinkarte",
+        "difficulty": "advanced",
+        "context": "Restaurant Management",
+        "translation": "قائمة نبيذ مرتبة بشكل جيد تقدم خيارات مناسبة لكل ذوق ولكل ميزانية."
+      }
+    ],
+    "einschenken": [
+      {
+        "sentence": "Darf ich Ihnen noch etwas Wein einschenken?",
+        "target_word": "einschenken",
+        "difficulty": "basic",
+        "context": "Table Service",
+        "translation": "هل يمكنني أن أسكب لك المزيد من النبيذ؟"
+      },
+      {
+        "sentence": "Beim Einschenken von Wein sollte man das Glas nur zu etwa zwei Dritteln füllen.",
+        "target_word": "einschenken",
+        "difficulty": "intermediate",
+        "context": "Wine Service",
+        "translation": "عند سكب النبيذ يجب ملء الكأس فقط بحوالي ثلثيه."
+      },
+      {
+        "sentence": "Das professionelle Einschenken von Wein erfordert die richtige Technik, um Tropfen auf der Tischdecke zu vermeiden.",
+        "target_word": "einschenken",
+        "difficulty": "advanced",
+        "context": "Service Technique",
+        "translation": "سكب النبيذ الاحترافي يتطلب التقنية الصحيحة لتجنب القطرات على مفرش الطاولة."
+      }
+    ],
+    "die Tischdecke": [
+      {
+        "sentence": "Vor jedem Service werden alle Tischdecken frisch gewaschen und gebügelt.",
+        "target_word": "die Tischdecke",
+        "difficulty": "basic",
+        "context": "Restaurant Preparation",
+        "translation": "قبل كل خدمة يتم غسل وكي جميع أغطية الطاولات."
+      },
+      {
+        "sentence": "Wenn die Tischdecke während des Essens verschmutzt wird, bieten wir an, sie zu wechseln.",
+        "target_word": "die Tischdecke",
+        "difficulty": "basic",
+        "context": "Service Standards",
+        "translation": "إذا اتسخ غطاء الطاولة أثناء الطعام، نقدم استبداله."
+      },
+      {
+        "sentence": "In der gehobenen Gastronomie werden hochwertige Leinentischdecken verwendet, die ein elegantes Ambiente schaffen.",
+        "target_word": "die Tischdecke",
+        "difficulty": "intermediate",
+        "context": "Fine Dining",
+        "translation": "في المطاعم الراقية تُستخدم أغطية طاولات كتانية عالية الجودة تخلق أجواءً أنيقة."
+      }
+    ],
+    "das Besteck": [
+      {
+        "sentence": "Das Besteck wird nach einem festen Schema angeordnet, von außen nach innen je nach Gangfolge.",
+        "target_word": "das Besteck",
+        "difficulty": "intermediate",
+        "context": "Table Setting",
+        "translation": "يتم ترتيب أدوات المائدة وفقاً لنمط ثابت، من الخارج إلى الداخل حسب ترتيب الأطباق."
+      },
+      {
+        "sentence": "Unser Besteck ist aus hochwertigem Edelstahl und wird nach jedem Gebrauch gründlich gereinigt.",
+        "target_word": "das Besteck",
+        "difficulty": "basic",
+        "context": "Restaurant Standards",
+        "translation": "أدوات المائدة لدينا من الفولاذ المقاوم للصدأ عالي الجودة ويتم تنظيفها جيداً بعد كل استخدام."
+      },
+      {
+        "sentence": "Die Qualität des Bestecks trägt wesentlich zum Gesamteindruck des Restaurants bei und sollte nicht unterschätzt werden.",
+        "target_word": "das Besteck",
+        "difficulty": "advanced",
+        "context": "Quality Management",
+        "translation": "جودة أدوات المائدة تساهم بشكل كبير في الانطباع العام للمطعم ويجب عدم التقليل منها."
+      }
+    ],
+    "das Geschirr": [
+      {
+        "sentence": "Nach dem Service wird das gesamte Geschirr in der Spülmaschine gereinigt und desinfiziert.",
+        "target_word": "das Geschirr",
+        "difficulty": "basic",
+        "context": "Kitchen Operations",
+        "translation": "بعد الخدمة يتم تنظيف جميع الأطباق في غسالة الصحون وتعقيمها."
+      },
+      {
+        "sentence": "Unser Geschirr ist speziell für die Gastronomie konzipiert und besonders robust und langlebig.",
+        "target_word": "das Geschirr",
+        "difficulty": "intermediate",
+        "context": "Equipment Quality",
+        "translation": "أطباقنا مصممة خصيصاً للمطاعم وهي متينة ومعمرة بشكل خاص."
+      },
+      {
+        "sentence": "Das Design des Geschirrs sollte zum Konzept des Restaurants passen und die Präsentation der Speisen unterstützen.",
+        "target_word": "das Geschirr",
+        "difficulty": "advanced",
+        "context": "Restaurant Concept",
+        "translation": "يجب أن يتناسب تصميم الأطباق مع مفهوم المطعم ويدعم تقديم الأطعمة."
+      }
+    ],
+    "der Teller": [
+      {
+        "sentence": "Die Teller werden vor dem Anrichten vorgewärmt, damit die Speisen länger warm bleiben.",
+        "target_word": "der Teller",
+        "difficulty": "intermediate",
+        "context": "Service Technique",
+        "translation": "يتم تسخين الأطباق قبل التقديم حتى يبقى الطعام ساخناً لفترة أطول."
+      },
+      {
+        "sentence": "Ein großer weißer Teller bietet den perfekten Hintergrund für eine ansprechende Präsentation der Speisen.",
+        "target_word": "der Teller",
+        "difficulty": "intermediate",
+        "context": "Plating",
+        "translation": "الطبق الأبيض الكبير يوفر الخلفية المثالية لعرض جذاب للطعام."
+      },
+      {
+        "sentence": "Die richtige Tellergröße ist wichtig: zu groß lässt die Portion klein wirken, zu klein wirkt überladen.",
+        "target_word": "der Teller",
+        "difficulty": "advanced",
+        "context": "Plating Philosophy",
+        "translation": "حجم الطبق الصحيح مهم: الكبير جداً يجعل الحصة تبدو صغيرة، والصغير جداً يبدو محملاً بشكل زائد."
+      }
+    ],
+    "das Glas": [
+      {
+        "sentence": "Für jeden Gang wird ein anderes Glas verwendet: Wasserglas, Weißweinglas und Rotweinglas.",
+        "target_word": "das Glas",
+        "difficulty": "intermediate",
+        "context": "Table Setting",
+        "translation": "لكل طبق يُستخدم كأس مختلف: كأس الماء، كأس النبيذ الأبيض، وكأس النبيذ الأحمر."
+      },
+      {
+        "sentence": "Die Gläser müssen streifenfrei poliert sein, um einen professionellen Eindruck zu machen.",
+        "target_word": "das Glas",
+        "difficulty": "basic",
+        "context": "Service Standards",
+        "translation": "يجب تلميع الكؤوس بدون خطوط لإعطاء انطباع احترافي."
+      },
+      {
+        "sentence": "Hochwertige Kristallgläser verbessern das Geschmackserlebnis von Wein durch ihre dünnwandige Form.",
+        "target_word": "das Glas",
+        "difficulty": "advanced",
+        "context": "Wine Service",
+        "translation": "الكؤوس الكريستالية عالية الجودة تحسن تجربة تذوق النبيذ من خلال شكلها ذو الجدران الرقيقة."
+      }
+    ],
+    "die Serviette": [
+      {
+        "sentence": "Die Serviette wird kunstvoll gefaltet auf dem Teller oder neben dem Besteck platziert.",
+        "target_word": "die Serviette",
+        "difficulty": "basic",
+        "context": "Table Setting",
+        "translation": "يتم طي المنديل بشكل فني ووضعه على الطبق أو بجانب أدوات المائدة."
+      },
+      {
+        "sentence": "Stoffservietten gehören zum Standard in der gehobenen Gastronomie und werden nach jedem Gast gewaschen.",
+        "target_word": "die Serviette",
+        "difficulty": "intermediate",
+        "context": "Fine Dining Standards",
+        "translation": "مناديل القماش هي المعيار في المطاعم الراقية ويتم غسلها بعد كل ضيف."
+      },
+      {
+        "sentence": "Das Falten von Servietten ist eine Kunst für sich und trägt zur eleganten Tischdekoration bei.",
+        "target_word": "die Serviette",
+        "difficulty": "intermediate",
+        "context": "Service Excellence",
+        "translation": "طي المناديل فن في حد ذاته ويساهم في ديكور الطاولة الأنيق."
+      }
+    ],
+    "der Salzstreuer": [
+      {
+        "sentence": "Auf jedem Tisch stehen ein Salzstreuer und ein Pfefferstreuer bereit.",
+        "target_word": "der Salzstreuer",
+        "difficulty": "basic",
+        "context": "Table Setup",
+        "translation": "على كل طاولة يوجد مملحة ومطحنة فلفل جاهزة."
+      },
+      {
+        "sentence": "Die Salzstreuer müssen regelmäßig nachgefüllt und gereinigt werden, um Verklumpungen zu vermeiden.",
+        "target_word": "der Salzstreuer",
+        "difficulty": "basic",
+        "context": "Restaurant Maintenance",
+        "translation": "يجب إعادة ملء وتنظيف المملحات بانتظام لتجنب التكتل."
+      },
+      {
+        "sentence": "In gehobenen Restaurants werden oft hochwertige Salz- und Pfeffermühlen statt einfacher Streuer verwendet.",
+        "target_word": "der Salzstreuer",
+        "difficulty": "intermediate",
+        "context": "Fine Dining",
+        "translation": "في المطاعم الراقية غالباً ما تُستخدم مطاحن الملح والفلفل عالية الجودة بدلاً من الموزعات البسيطة."
+      }
+    ],
+    "der Pfefferstreuer": [
+      {
+        "sentence": "Der Pfefferstreuer sollte frisch gemahlenen Pfeffer enthalten für das beste Aroma.",
+        "target_word": "der Pfefferstreuer",
+        "difficulty": "basic",
+        "context": "Table Condiments",
+        "translation": "يجب أن تحتوي مطحنة الفلفل على فلفل مطحون طازج للحصول على أفضل رائحة."
+      },
+      {
+        "sentence": "Neben dem schwarzen Pfeffer bieten wir auch eine Auswahl an verschiedenen Pfeffersorten in der Mühle an.",
+        "target_word": "der Pfefferstreuer",
+        "difficulty": "intermediate",
+        "context": "Premium Service",
+        "translation": "بالإضافة إلى الفلفل الأسود نقدم أيضاً مجموعة مختارة من أنواع الفلفل المختلفة في المطحنة."
+      },
+      {
+        "sentence": "Eine hochwertige Pfeffermühle mit einstellbarem Mahlgrad gehört zur Ausstattung jedes guten Restaurants.",
+        "target_word": "der Pfefferstreuer",
+        "difficulty": "advanced",
+        "context": "Quality Standards",
+        "translation": "مطحنة فلفل عالية الجودة بدرجة طحن قابلة للتعديل جزء من تجهيزات كل مطعم جيد."
+      }
+    ],
+    "abräumen": [
+      {
+        "sentence": "Leere Teller werden diskret abgeräumt, sobald alle Gäste am Tisch fertig sind.",
+        "target_word": "abräumen",
+        "difficulty": "basic",
+        "context": "Table Service",
+        "translation": "يتم إزالة الأطباق الفارغة بشكل سري بمجرد انتهاء جميع الضيوف على الطاولة."
+      },
+      {
+        "sentence": "Beim Abräumen sollte man darauf achten, nicht zu viel Geschirr auf einmal zu tragen, um Unfälle zu vermeiden.",
+        "target_word": "abräumen",
+        "difficulty": "intermediate",
+        "context": "Service Safety",
+        "translation": "عند الإزالة يجب الحرص على عدم حمل الكثير من الأطباق مرة واحدة لتجنب الحوادث."
+      },
+      {
+        "sentence": "Das professionelle Abräumen erfordert Timing und Aufmerksamkeit, um den Gästen nicht in die Gespräche zu fallen.",
+        "target_word": "abräumen",
+        "difficulty": "advanced",
+        "context": "Service Excellence",
+        "translation": "الإزالة الاحترافية تتطلب التوقيت والانتباه حتى لا تقاطع محادثات الضيوف."
+      }
+    ],
+    "eindecken": [
+      {
+        "sentence": "Vor dem Service müssen alle Tische korrekt eingedeckt werden.",
+        "target_word": "eindecken",
+        "difficulty": "basic",
+        "context": "Restaurant Preparation",
+        "translation": "قبل الخدمة يجب تجهيز جميع الطاولات بشكل صحيح."
+      },
+      {
+        "sentence": "Das Eindecken folgt strengen Regeln: Das Besteck wird in einer bestimmten Reihenfolge angeordnet.",
+        "target_word": "eindecken",
+        "difficulty": "intermediate",
+        "context": "Service Standards",
+        "translation": "إعداد الطاولة يتبع قواعد صارمة: يتم ترتيب أدوات المائدة بترتيب معين."
+      },
+      {
+        "sentence": "Ein sorgfältig eingedeckter Tisch zeigt Professionalität und trägt zur Gesamtatmosphäre des Restaurants bei.",
+        "target_word": "eindecken",
+        "difficulty": "advanced",
+        "context": "Service Philosophy",
+        "translation": "الطاولة المجهزة بعناية تظهر الاحترافية وتساهم في الجو العام للمطعم."
+      }
+    ],
+    "der Empfang": [
+      {
+        "sentence": "Am Empfang werden die Gäste begrüßt und zu ihrem Tisch geleitet.",
+        "target_word": "der Empfang",
+        "difficulty": "basic",
+        "context": "Restaurant Entry",
+        "translation": "عند الاستقبال يتم الترحيب بالضيوف وإرشادهم إلى طاولتهم."
+      },
+      {
+        "sentence": "Der erste Eindruck am Empfang ist entscheidend für die Gästezufriedenheit.",
+        "target_word": "der Empfang",
+        "difficulty": "intermediate",
+        "context": "Service Quality",
+        "translation": "الانطباع الأول عند الاستقبال حاسم لرضا الضيوف."
+      },
+      {
+        "sentence": "Am Empfang wird auch die Reservierungsliste verwaltet und der Überblick über freie Tische behalten.",
+        "target_word": "der Empfang",
+        "difficulty": "intermediate",
+        "context": "Restaurant Management",
+        "translation": "عند الاستقبال أيضاً تُدار قائمة الحجوزات ويُحافظ على نظرة عامة على الطاولات المتاحة."
+      }
+    ],
+    "einchecken": [
+      {
+        "sentence": "Die Hotelgäste können ab 15 Uhr einchecken und ihre Zimmer beziehen.",
+        "target_word": "einchecken",
+        "difficulty": "basic",
+        "context": "Hotel Service",
+        "translation": "يمكن لضيوف الفندق تسجيل الوصول ابتداءً من الساعة 15:00 والانتقال إلى غرفهم."
+      },
+      {
+        "sentence": "Beim Einchecken benötigen wir einen gültigen Ausweis und eine Kreditkarte für die Kaution.",
+        "target_word": "einchecken",
+        "difficulty": "basic",
+        "context": "Hotel Procedure",
+        "translation": "عند تسجيل الوصول نحتاج إلى بطاقة هوية سارية وبطاقة ائتمان للعربون."
+      },
+      {
+        "sentence": "Ein reibungsloser Einchecken-Prozess ist wichtig, um den Gästen einen guten Start in ihren Aufenthalt zu ermöglichen.",
+        "target_word": "einchecken",
+        "difficulty": "intermediate",
+        "context": "Guest Experience",
+        "translation": "عملية تسجيل وصول سلسة مهمة لإعطاء الضيوف بداية جيدة لإقامتهم."
+      }
+    ],
+    "auschecken": [
+      {
+        "sentence": "Die Gäste müssen bis 11 Uhr auschecken, es sei denn, sie haben einen Late Check-out gebucht.",
+        "target_word": "auschecken",
+        "difficulty": "basic",
+        "context": "Hotel Policy",
+        "translation": "يجب على الضيوف تسجيل المغادرة حتى الساعة 11:00 ما لم يكونوا قد حجزوا مغادرة متأخرة."
+      },
+      {
+        "sentence": "Beim Auschecken wird die Minibar abgerechnet und eventuelle zusätzliche Leistungen in Rechnung gestellt.",
+        "target_word": "auschecken",
+        "difficulty": "intermediate",
+        "context": "Hotel Billing",
+        "translation": "عند تسجيل المغادرة يتم محاسبة الميني بار وأي خدمات إضافية محتملة."
+      },
+      {
+        "sentence": "Ein effizienter Auschecken-Prozess sorgt dafür, dass die Gäste pünktlich aufbrechen können und einen positiven letzten Eindruck mitnehmen.",
+        "target_word": "auschecken",
+        "difficulty": "advanced",
+        "context": "Service Excellence",
+        "translation": "عملية مغادرة فعالة تضمن أن الضيوف يمكنهم المغادرة في الوقت المحدد ويأخذون انطباعاً أخيراً إيجابياً."
+      }
+    ],
+    "das Einzelzimmer": [
+      {
+        "sentence": "Wir haben noch ein Einzelzimmer mit Blick auf den Park verfügbar.",
+        "target_word": "das Einzelzimmer",
+        "difficulty": "basic",
+        "context": "Hotel Booking",
+        "translation": "لا يزال لدينا غرفة مفردة متاحة مع إطلالة على الحديقة."
+      },
+      {
+        "sentence": "Das Einzelzimmer ist mit einem komfortablen Einzelbett und einem Schreibtisch ausgestattet.",
+        "target_word": "das Einzelzimmer",
+        "difficulty": "basic",
+        "context": "Room Description",
+        "translation": "الغرفة المفردة مجهزة بسرير مفرد مريح ومكتب."
+      },
+      {
+        "sentence": "Für Geschäftsreisende ist das Einzelzimmer die ideale Wahl, da es einen ruhigen Arbeitsbereich bietet.",
+        "target_word": "das Einzelzimmer",
+        "difficulty": "intermediate",
+        "context": "Hotel Marketing",
+        "translation": "للمسافرين بغرض العمل، الغرفة المفردة هي الخيار المثالي، حيث توفر منطقة عمل هادئة."
+      }
+    ],
+    "das Doppelzimmer": [
+      {
+        "sentence": "Das Doppelzimmer kann entweder mit einem großen Bett oder zwei Einzelbetten gebucht werden.",
+        "target_word": "das Doppelzimmer",
+        "difficulty": "basic",
+        "context": "Hotel Options",
+        "translation": "يمكن حجز الغرفة المزدوجة إما بسرير كبير أو بسريرين منفصلين."
+      },
+      {
+        "sentence": "In unserem Hotel verfügen alle Doppelzimmer über ein eigenes Bad und kostenloses WLAN.",
+        "target_word": "das Doppelzimmer",
+        "difficulty": "basic",
+        "context": "Room Amenities",
+        "translation": "في فندقنا جميع الغرف المزدوجة بها حمام خاص وواي فاي مجاني."
+      },
+      {
+        "sentence": "Das Superior-Doppelzimmer bietet mehr Platz und eine bessere Ausstattung als das Standard-Doppelzimmer.",
+        "target_word": "das Doppelzimmer",
+        "difficulty": "intermediate",
+        "context": "Room Categories",
+        "translation": "الغرفة المزدوجة الفاخرة توفر مساحة أكبر وتجهيزات أفضل من الغرفة المزدوجة القياسية."
+      }
+    ],
+    "die Suite": [
+      {
+        "sentence": "Die Suite besteht aus einem separaten Schlafzimmer, einem Wohnbereich und einem luxuriösen Badezimmer.",
+        "target_word": "die Suite",
+        "difficulty": "basic",
+        "context": "Luxury Accommodation",
+        "translation": "الجناح يتكون من غرفة نوم منفصلة ومنطقة معيشة وحمام فاخر."
+      },
+      {
+        "sentence": "Unsere Präsidentensuite im obersten Stockwerk bietet einen atemberaubenden Panoramablick über die Stadt.",
+        "target_word": "die Suite",
+        "difficulty": "intermediate",
+        "context": "Premium Offering",
+        "translation": "جناح الرئاسة لدينا في الطابق العلوي يوفر إطلالة بانورامية خلابة على المدينة."
+      },
+      {
+        "sentence": "Die Suite richtet sich an anspruchsvolle Gäste, die besonderen Komfort und Privatsphäre schätzen.",
+        "target_word": "die Suite",
+        "difficulty": "advanced",
+        "context": "Target Audience",
+        "translation": "الجناح موجه للضيوف المميزين الذين يقدرون الراحة الخاصة والخصوصية."
+      }
+    ],
+    "das Frühstück": [
+      {
+        "sentence": "Das Frühstück wird von 6:30 bis 10:30 Uhr im Restaurant serviert.",
+        "target_word": "das Frühstück",
+        "difficulty": "basic",
+        "context": "Hotel Service",
+        "translation": "يتم تقديم الإفطار من 6:30 إلى 10:30 في المطعم."
+      },
+      {
+        "sentence": "Unser Frühstücksbuffet bietet eine große Auswahl an frischen, regionalen Produkten.",
+        "target_word": "das Frühstück",
+        "difficulty": "basic",
+        "context": "Food Service",
+        "translation": "بوفيه الإفطار لدينا يقدم مجموعة كبيرة من المنتجات الطازجة المحلية."
+      },
+      {
+        "sentence": "Für Gäste mit speziellen Ernährungsbedürfnissen bieten wir auch ein glutenfreies und veganes Frühstück an.",
+        "target_word": "das Frühstück",
+        "difficulty": "intermediate",
+        "context": "Special Dietary Needs",
+        "translation": "للضيوف ذوي الاحتياجات الغذائية الخاصة نقدم أيضاً إفطاراً خالياً من الغلوتين ونباتياً."
+      }
+    ],
+    "die Allergie": [
+      {
+        "sentence": "Bitte teilen Sie uns bei der Bestellung mit, wenn Sie eine Allergie haben.",
+        "target_word": "die Allergie",
+        "difficulty": "basic",
+        "context": "Customer Safety",
+        "translation": "يرجى إخبارنا عند الطلب إذا كانت لديك حساسية."
+      },
+      {
+        "sentence": "Alle Gerichte auf unserer Speisekarte sind mit Allergenen gekennzeichnet.",
+        "target_word": "die Allergie",
+        "difficulty": "basic",
+        "context": "Menu Information",
+        "translation": "جميع الأطباق في قائمتنا موضحة بالمواد المسببة للحساسية."
+      },
+      {
+        "sentence": "Das Personal ist geschult, Gäste mit Allergien kompetent zu beraten und sichere Alternativen anzubieten.",
+        "target_word": "die Allergie",
+        "difficulty": "advanced",
+        "context": "Staff Training",
+        "translation": "الموظفون مدربون على تقديم المشورة المختصة للضيوف الذين يعانون من الحساسية وتقديم بدائل آمنة."
+      }
+    ],
+    "vegetarisch": [
+      {
+        "sentence": "Wir haben mehrere vegetarische Optionen auf der Karte, die komplett ohne Fleisch und Fisch zubereitet werden.",
+        "target_word": "vegetarisch",
+        "difficulty": "basic",
+        "context": "Menu Options",
+        "translation": "لدينا عدة خيارات نباتية في القائمة، يتم تحضيرها بالكامل بدون لحم أو سمك."
+      },
+      {
+        "sentence": "Die Nachfrage nach vegetarischen Gerichten steigt ständig, weshalb wir unser Angebot regelmäßig erweitern.",
+        "target_word": "vegetarisch",
+        "difficulty": "intermediate",
+        "context": "Market Trends",
+        "translation": "الطلب على الأطباق النباتية يزداد باستمرار، لذلك نوسع عرضنا بانتظام."
+      },
+      {
+        "sentence": "Unsere vegetarischen Gerichte sind nicht nur für Vegetarier gedacht, sondern überzeugen durch ihre Kreativität und ihren Geschmack alle Gäste.",
+        "target_word": "vegetarisch",
+        "difficulty": "advanced",
+        "context": "Culinary Philosophy",
+        "translation": "أطباقنا النباتية ليست موجهة فقط للنباتيين، بل تقنع جميع الضيوف بإبداعها وطعمها."
+      }
+    ],
+    "vegan": [
+      {
+        "sentence": "Alle veganen Gerichte sind auf der Speisekarte mit einem speziellen Symbol gekennzeichnet.",
+        "target_word": "vegan",
+        "difficulty": "basic",
+        "context": "Menu Labeling",
+        "translation": "جميع الأطباق النباتية الصرفة موضحة في القائمة برمز خاص."
+      },
+      {
+        "sentence": "Für unser veganes Menü verwenden wir ausschließlich pflanzliche Zutaten ohne jegliche tierische Produkte.",
+        "target_word": "vegan",
+        "difficulty": "intermediate",
+        "context": "Food Preparation",
+        "translation": "لقائمتنا النباتية الصرفة نستخدم فقط المكونات النباتية دون أي منتجات حيوانية."
+      },
+      {
+        "sentence": "Die Zubereitung veganer Gerichte erfordert besondere Aufmerksamkeit, um Kreuzkontamination mit tierischen Produkten zu vermeiden.",
+        "target_word": "vegan",
+        "difficulty": "advanced",
+        "context": "Kitchen Standards",
+        "translation": "تحضير الأطباق النباتية الصرفة يتطلب اهتماماً خاصاً لتجنب التلوث المتبادل مع المنتجات الحيوانية."
+      }
+    ],
+    "glutenfrei": [
+      {
+        "sentence": "Wir bieten glutenfreie Alternativen für Pasta, Brot und Desserts an.",
+        "target_word": "glutenfrei",
+        "difficulty": "basic",
+        "context": "Dietary Options",
+        "translation": "نقدم بدائل خالية من الغلوتين للمعكرونة والخبز والحلويات."
+      },
+      {
+        "sentence": "Bei der Zubereitung glutenfreier Speisen verwenden wir separate Küchengeräte, um Kontamination zu vermeiden.",
+        "target_word": "glutenfrei",
+        "difficulty": "intermediate",
+        "context": "Kitchen Safety",
+        "translation": "عند تحضير الأطعمة الخالية من الغلوتين نستخدم أدوات مطبخ منفصلة لتجنب التلوث."
+      },
+      {
+        "sentence": "Unser glutenfreies Brot wird täglich frisch gebacken und schmeckt genauso gut wie normales Brot.",
+        "target_word": "glutenfrei",
+        "difficulty": "intermediate",
+        "context": "Product Quality",
+        "translation": "خبزنا الخالي من الغلوتين يُخبز طازجاً يومياً ومذاقه جيد مثل الخبز العادي."
+      }
+    ],
+    "scharf": [
+      {
+        "sentence": "Dieses Gericht ist relativ scharf - soll ich den Koch bitten, es milder zu würzen?",
+        "target_word": "scharf",
+        "difficulty": "basic",
+        "context": "Spice Level",
+        "translation": "هذا الطبق حار نسبياً - هل تريد مني أن أطلب من الطاهي جعله أخف؟"
+      },
+      {
+        "sentence": "Die Schärfe kann nach Wunsch angepasst werden von mild bis sehr scharf.",
+        "target_word": "scharf",
+        "difficulty": "basic",
+        "context": "Customization",
+        "translation": "يمكن تعديل الحرارة حسب الرغبة من خفيف إلى حار جداً."
+      },
+      {
+        "sentence": "In der asiatischen Küche wird oft mit verschiedenen Sorten Chili gearbeitet, um unterschiedliche Grade von Schärfe zu erreichen.",
+        "target_word": "scharf",
+        "difficulty": "advanced",
+        "context": "Culinary Knowledge",
+        "translation": "في المطبخ الآسيوي غالباً ما يتم استخدام أنواع مختلفة من الفلفل الحار لتحقيق درجات مختلفة من الحرارة."
+      }
+    ],
+    "mild": [
+      {
+        "sentence": "Für Kinder bereiten wir die Gerichte grundsätzlich mild zu.",
+        "target_word": "mild",
+        "difficulty": "basic",
+        "context": "Children's Menu",
+        "translation": "للأطفال نحضر الأطباق بشكل أساسي خفيفة."
+      },
+      {
+        "sentence": "Das Curry ist angenehm mild gewürzt und eignet sich auch für empfindliche Gaumen.",
+        "target_word": "mild",
+        "difficulty": "intermediate",
+        "context": "Flavor Profile",
+        "translation": "الكاري متبل بشكل خفيف ومناسب أيضاً للأذواق الحساسة."
+      },
+      {
+        "sentence": "Auch milde Gerichte können geschmackvoll sein, wenn man die richtigen Kräuter und Gewürze verwendet.",
+        "target_word": "mild",
+        "difficulty": "intermediate",
+        "context": "Cooking Philosophy",
+        "translation": "حتى الأطباق الخفيفة يمكن أن تكون لذيذة إذا استخدمت الأعشاب والتوابل الصحيحة."
+      }
+    ],
+    "frisch": [
+      {
+        "sentence": "Alle unsere Zutaten werden täglich frisch vom Markt bezogen.",
+        "target_word": "frisch",
+        "difficulty": "basic",
+        "context": "Food Quality",
+        "translation": "جميع مكوناتنا يتم شراؤها طازجة يومياً من السوق."
+      },
+      {
+        "sentence": "Frische Kräuter machen einen enormen Unterschied im Geschmack der Gerichte.",
+        "target_word": "frisch",
+        "difficulty": "basic",
+        "context": "Ingredient Quality",
+        "translation": "الأعشاب الطازجة تحدث فرقاً هائلاً في طعم الأطباق."
+      },
+      {
+        "sentence": "Die Verwendung frischer, saisonaler Produkte ist die Grundlage unserer Küche und spiegelt unser Qualitätsversprechen wider.",
+        "target_word": "frisch",
+        "difficulty": "advanced",
+        "context": "Culinary Philosophy",
+        "translation": "استخدام المنتجات الطازجة الموسمية هو أساس مطبخنا ويعكس وعدنا بالجودة."
+      }
+    ],
+    "tiefgekühlt": [
+      {
+        "sentence": "Einige Zutaten wie Beeren werden tiefgekühlt gelagert, um sie das ganze Jahr verfügbar zu haben.",
+        "target_word": "tiefgekühlt",
+        "difficulty": "basic",
+        "context": "Food Storage",
+        "translation": "بعض المكونات مثل التوت يتم تخزينها مجمدة لإتاحتها طوال العام."
+      },
+      {
+        "sentence": "Hochwertiges tiefgekühltes Gemüse kann eine gute Alternative sein, wenn frische Ware nicht verfügbar ist.",
+        "target_word": "tiefgekühlt",
+        "difficulty": "intermediate",
+        "context": "Food Quality",
+        "translation": "الخضروات المجمدة عالية الجودة يمكن أن تكون بديلاً جيداً عندما لا تتوفر المنتجات الطازجة."
+      },
+      {
+        "sentence": "Beim Auftauen tiefgekühlter Lebensmittel muss man auf die richtige Temperatur achten, um Bakterienwachstum zu vermeiden.",
+        "target_word": "tiefgekühlt",
+        "difficulty": "advanced",
+        "context": "Food Safety",
+        "translation": "عند إذابة الأطعمة المجمدة يجب الانتباه إلى درجة الحرارة الصحيحة لتجنب نمو البكتيريا."
+      }
+    ],
+    "die Zutat": [
+      {
+        "sentence": "Für dieses Rezept benötigen Sie folgende Zutaten: Mehl, Eier, Milch und Butter.",
+        "target_word": "die Zutat",
+        "difficulty": "basic",
+        "context": "Recipe Instructions",
+        "translation": "لهذه الوصفة تحتاج إلى المكونات التالية: دقيق، بيض، حليب، وزبدة."
+      },
+      {
+        "sentence": "Die Qualität der Zutaten ist entscheidend für den Geschmack des fertigen Gerichts.",
+        "target_word": "die Zutat",
+        "difficulty": "intermediate",
+        "context": "Cooking Quality",
+        "translation": "جودة المكونات حاسمة لطعم الطبق النهائي."
+      },
+      {
+        "sentence": "Wir legen großen Wert darauf, dass alle Zutaten aus biologischem Anbau und regionalem Ursprung stammen.",
+        "target_word": "die Zutat",
+        "difficulty": "advanced",
+        "context": "Sustainability",
+        "translation": "نولي أهمية كبيرة لأن جميع المكونات من زراعة عضوية وأصل محلي."
+      }
+    ],
+    "das Rezept": [
+      {
+        "sentence": "Dieses Rezept stammt von meiner Großmutter und wird seit Generationen in unserer Familie weitergegeben.",
+        "target_word": "das Rezept",
+        "difficulty": "basic",
+        "context": "Traditional Cooking",
+        "translation": "هذه الوصفة من جدتي ويتم تناقلها في عائلتنا منذ أجيال."
+      },
+      {
+        "sentence": "Ein gutes Rezept gibt nicht nur die Zutaten an, sondern auch die genauen Mengen und Zubereitungsschritte.",
+        "target_word": "das Rezept",
+        "difficulty": "intermediate",
+        "context": "Recipe Writing",
+        "translation": "الوصفة الجيدة لا تحدد فقط المكونات، بل أيضاً الكميات الدقيقة وخطوات التحضير."
+      },
+      {
+        "sentence": "Als Koch muss man Rezepte verstehen und an verschiedene Gegebenheiten anpassen können.",
+        "target_word": "das Rezept",
+        "difficulty": "advanced",
+        "context": "Professional Skills",
+        "translation": "كطاهٍ يجب أن تفهم الوصفات وتتمكن من تعديلها حسب الظروف المختلفة."
+      }
+    ],
+    "die Hygiene": [
+      {
+        "sentence": "In der Gastronomie hat Hygiene oberste Priorität, um die Gesundheit der Gäste zu schützen.",
+        "target_word": "die Hygiene",
+        "difficulty": "basic",
+        "context": "Food Safety",
+        "translation": "في المطاعم، النظافة لها الأولوية القصوى لحماية صحة الضيوف."
+      },
+      {
+        "sentence": "Alle Mitarbeiter müssen regelmäßig an Hygieneschulungen teilnehmen.",
+        "target_word": "die Hygiene",
+        "difficulty": "intermediate",
+        "context": "Staff Training",
+        "translation": "يجب على جميع الموظفين المشاركة بانتظام في تدريبات النظافة."
+      },
+      {
+        "sentence": "Die Einhaltung der Hygienevorschriften wird regelmäßig vom Gesundheitsamt kontrolliert.",
+        "target_word": "die Hygiene",
+        "difficulty": "advanced",
+        "context": "Regulatory Compliance",
+        "translation": "يتم فحص الامتثال لقواعد النظافة بانتظام من قبل مكتب الصحة."
+      }
+    ],
+    "die Schürze": [
+      {
+        "sentence": "Vor Arbeitsbeginn muss jeder Koch eine saubere Schürze anlegen.",
+        "target_word": "die Schürze",
+        "difficulty": "basic",
+        "context": "Work Attire",
+        "translation": "قبل بدء العمل، يجب على كل طاهٍ ارتداء مئزر نظيف."
+      },
+      {
+        "sentence": "Die weiße Schürze ist Teil der traditionellen Kochuniform und schützt die Kleidung vor Flecken.",
+        "target_word": "die Schürze",
+        "difficulty": "basic",
+        "context": "Professional Dress",
+        "translation": "المئزر الأبيض جزء من زي الطهي التقليدي ويحمي الملابس من البقع."
+      },
+      {
+        "sentence": "In modernen Küchen werden oft schwarze Schürzen bevorzugt, da sie praktischer sind und Flecken nicht so stark zeigen.",
+        "target_word": "die Schürze",
+        "difficulty": "intermediate",
+        "context": "Modern Practices",
+        "translation": "في المطابخ الحديثة غالباً ما يُفضل المآزر السوداء لأنها أكثر عملية ولا تُظهر البقع بشكل واضح."
+      }
+    ],
+    "die Haube": [
+      {
+        "sentence": "Das Tragen einer Haube in der Küche ist aus hygienischen Gründen vorgeschrieben.",
+        "target_word": "die Haube",
+        "difficulty": "basic",
+        "context": "Kitchen Hygiene",
+        "translation": "ارتداء قبعة في المطبخ مطلوب لأسباب صحية."
+      },
+      {
+        "sentence": "Die traditionelle Kochmütze, auch Toque genannt, ist höher als die einfache Haube.",
+        "target_word": "die Haube",
+        "difficulty": "intermediate",
+        "context": "Professional Attire",
+        "translation": "قبعة الطهي التقليدية، وتسمى أيضاً توك، أعلى من القبعة البسيطة."
+      },
+      {
+        "sentence": "In vielen modernen Küchen werden leichte, atmungsaktive Hauben bevorzugt, die den ganzen Tag bequem zu tragen sind.",
+        "target_word": "die Haube",
+        "difficulty": "intermediate",
+        "context": "Modern Kitchen Wear",
+        "translation": "في العديد من المطابخ الحديثة تُفضل القبعات الخفيفة القابلة للتنفس التي تكون مريحة للارتداء طوال اليوم."
+      }
+    ],
+    "der Handschuh": [
+      {
+        "sentence": "Beim Umgang mit rohem Fleisch müssen Einweghandschuhe getragen werden.",
+        "target_word": "der Handschuh",
+        "difficulty": "basic",
+        "context": "Food Safety",
+        "translation": "عند التعامل مع اللحوم النيئة يجب ارتداء قفازات يمكن التخلص منها."
+      },
+      {
+        "sentence": "Die Handschuhe müssen regelmäßig gewechselt werden, besonders nach dem Kontakt mit rohen Lebensmitteln.",
+        "target_word": "der Handschuh",
+        "difficulty": "intermediate",
+        "context": "Hygiene Protocol",
+        "translation": "يجب تغيير القفازات بانتظام، خاصة بعد ملامسة الأطعمة النيئة."
+      },
+      {
+        "sentence": "Es gibt verschiedene Arten von Handschuhen für unterschiedliche Aufgaben: Latex für Feinarbeiten, Vinyl für allgemeine Tätigkeiten.",
+        "target_word": "der Handschuh",
+        "difficulty": "advanced",
+        "context": "Equipment Knowledge",
+        "translation": "هناك أنواع مختلفة من القفازات لمهام مختلفة: اللاتكس للأعمال الدقيقة، والفينيل للأنشطة العامة."
+      }
+    ],
+    "der Kühlschrank": [
+      {
+        "sentence": "Alle verderblichen Lebensmittel müssen im Kühlschrank bei maximal 7 Grad Celsius gelagert werden.",
+        "target_word": "der Kühlschrank",
+        "difficulty": "basic",
+        "context": "Food Storage",
+        "translation": "يجب تخزين جميع الأطعمة القابلة للتلف في الثلاجة بحد أقصى 7 درجات مئوية."
+      },
+      {
+        "sentence": "Der Kühlschrank wird täglich kontrolliert und die Temperatur dokumentiert.",
+        "target_word": "der Kühlschrank",
+        "difficulty": "intermediate",
+        "context": "Kitchen Management",
+        "translation": "يتم فحص الثلاجة يومياً وتوثيق درجة الحرارة."
+      },
+      {
+        "sentence": "Ein professioneller Kühlschrank in der Gastronomie muss robust sein und konstante Temperaturen auch bei häufigem Öffnen gewährleisten.",
+        "target_word": "der Kühlschrank",
+        "difficulty": "advanced",
+        "context": "Professional Equipment",
+        "translation": "الثلاجة الاحترافية في المطاعم يجب أن تكون قوية وتضمن درجات حرارة ثابتة حتى مع الفتح المتكرر."
+      }
+    ],
+    "der Gefrierschrank": [
+      {
+        "sentence": "Im Gefrierschrank werden Lebensmittel bei minus 18 Grad oder kälter gelagert.",
+        "target_word": "der Gefrierschrank",
+        "difficulty": "basic",
+        "context": "Frozen Storage",
+        "translation": "في المجمد يتم تخزين الأطعمة عند ناقص 18 درجة أو أبرد."
+      },
+      {
+        "sentence": "Der Gefrierschrank muss regelmäßig abgetaut und gereinigt werden, um seine Effizienz zu erhalten.",
+        "target_word": "der Gefrierschrank",
+        "difficulty": "intermediate",
+        "context": "Maintenance",
+        "translation": "يجب إذابة الثلج من المجمد وتنظيفه بانتظام للحفاظ على كفاءته."
+      },
+      {
+        "sentence": "Beim Einfrieren von Lebensmitteln ist es wichtig, sie richtig zu verpacken und zu beschriften, um Gefrierbrand zu vermeiden.",
+        "target_word": "der Gefrierschrank",
+        "difficulty": "advanced",
+        "context": "Food Preservation",
+        "translation": "عند تجميد الأطعمة، من المهم تغليفها وتصنيفها بشكل صحيح لتجنب حرق التجميد."
+      }
+    ],
+    "die Spülmaschine": [
+      {
+        "sentence": "Nach jedem Service wird das gesamte Geschirr in der Spülmaschine gereinigt.",
+        "target_word": "die Spülmaschine",
+        "difficulty": "basic",
+        "context": "Kitchen Operations",
+        "translation": "بعد كل خدمة يتم تنظيف جميع الأطباق في غسالة الصحون."
+      },
+      {
+        "sentence": "Die Spülmaschine muss mit dem richtigen Reinigungsmittel und bei der vorgeschriebenen Temperatur laufen.",
+        "target_word": "die Spülmaschine",
+        "difficulty": "intermediate",
+        "context": "Equipment Operation",
+        "translation": "يجب أن تعمل غسالة الصحون بمنظف الصحيح وعند درجة الحرارة المحددة."
+      },
+      {
+        "sentence": "Eine professionelle Gastro-Spülmaschine schafft einen kompletten Spülgang in nur zwei Minuten.",
+        "target_word": "die Spülmaschine",
+        "difficulty": "advanced",
+        "context": "Professional Equipment",
+        "translation": "غسالة صحون المطاعم المحترفة تنجز دورة غسيل كاملة في دقيقتين فقط."
+      }
+    ],
+    "die Mikrowelle": [
+      {
+        "sentence": "Die Mikrowelle wird hauptsächlich zum schnellen Aufwärmen von Speisen verwendet.",
+        "target_word": "die Mikrowelle",
+        "difficulty": "basic",
+        "context": "Kitchen Equipment",
+        "translation": "يُستخدم الميكروويف بشكل رئيسي لتسخين الطعام بسرعة."
+      },
+      {
+        "sentence": "In der Profiküche wird die Mikrowelle eher selten eingesetzt, da sie die Qualität beeinträchtigen kann.",
+        "target_word": "die Mikrowelle",
+        "difficulty": "intermediate",
+        "context": "Professional Standards",
+        "translation": "في المطبخ المحترف نادراً ما يُستخدم الميكروويف، حيث يمكن أن يؤثر على الجودة."
+      },
+      {
+        "sentence": "Moderne Mikrowellen mit Grill- und Dampffunktion bieten mehr Möglichkeiten als reine Mikrowellengeräte.",
+        "target_word": "die Mikrowelle",
+        "difficulty": "intermediate",
+        "context": "Equipment Evolution",
+        "translation": "أفران الميكروويف الحديثة مع وظيفة الشواء والبخار توفر إمكانيات أكثر من أجهزة الميكروويف البسيطة."
+      }
+    ],
+    "der Wasserkocher": [
+      {
+        "sentence": "Der Wasserkocher wird ständig genutzt, um heißes Wasser für Tee und andere Getränke bereitzustellen.",
+        "target_word": "der Wasserkocher",
+        "difficulty": "basic",
+        "context": "Beverage Service",
+        "translation": "يُستخدم غلاية الماء باستمرار لتوفير ماء ساخن للشاي والمشروبات الأخرى."
+      },
+      {
+        "sentence": "Ein elektrischer Wasserkocher ist schneller und energieeffizienter als Wasser auf dem Herd zu erhitzen.",
+        "target_word": "der Wasserkocher",
+        "difficulty": "intermediate",
+        "context": "Energy Efficiency",
+        "translation": "غلاية الماء الكهربائية أسرع وأكثر كفاءة في استهلاك الطاقة من تسخين الماء على الموقد."
+      },
+      {
+        "sentence": "In der Gastronomie werden oft größere Wasserkocher mit mehreren Litern Fassungsvermögen benötigt.",
+        "target_word": "der Wasserkocher",
+        "difficulty": "intermediate",
+        "context": "Professional Equipment",
+        "translation": "في المطاعم غالباً ما تكون هناك حاجة لغلايات ماء أكبر بسعة عدة لترات."
+      }
+    ],
+    "die Kaffeemaschine": [
+      {
+        "sentence": "Unsere professionelle Kaffeemaschine kann bis zu 200 Tassen Kaffee pro Stunde zubereiten.",
+        "target_word": "die Kaffeemaschine",
+        "difficulty": "basic",
+        "context": "Cafe Equipment",
+        "translation": "آلة القهوة الاحترافية لدينا يمكنها تحضير ما يصل إلى 200 فنجان قهوة في الساعة."
+      },
+      {
+        "sentence": "Die Kaffeemaschine muss täglich gereinigt und entkalkt werden, um die Qualität des Kaffees zu gewährleisten.",
+        "target_word": "die Kaffeemaschine",
+        "difficulty": "intermediate",
+        "context": "Maintenance",
+        "translation": "يجب تنظيف آلة القهوة وإزالة الترسبات الكلسية منها يومياً لضمان جودة القهوة."
+      },
+      {
+        "sentence": "Eine hochwertige Espressomaschine ist eine große Investition, aber essentiell für ein Café oder Restaurant.",
+        "target_word": "die Kaffeemaschine",
+        "difficulty": "advanced",
+        "context": "Business Investment",
+        "translation": "آلة الإسبريسو عالية الجودة استثمار كبير، لكنها ضرورية لمقهى أو مطعم."
+      }
+    ],
+    "schäumen": [
+      {
+        "sentence": "Beim Cappuccino muss die Milch perfekt geschäumt werden, um eine cremige Textur zu erreichen.",
+        "target_word": "schäumen",
+        "difficulty": "intermediate",
+        "context": "Coffee Preparation",
+        "translation": "في الكابتشينو يجب خفق الحليب بشكل مثالي للحصول على قوام كريمي."
+      },
+      {
+        "sentence": "Das Schäumen von Milch erfordert Übung und die richtige Temperatur zwischen 60 und 70 Grad.",
+        "target_word": "schäumen",
+        "difficulty": "advanced",
+        "context": "Barista Skills",
+        "translation": "خفق الحليب يتطلب ممارسة ودرجة الحرارة الصحيحة بين 60 و70 درجة."
+      },
+      {
+        "sentence": "Mit der Dampflanze der Espressomaschine kann man Milch perfekt schäumen und Latte Art kreieren.",
+        "target_word": "schäumen",
+        "difficulty": "advanced",
+        "context": "Professional Technique",
+        "translation": "بأنبوب البخار لآلة الإسبريسو يمكنك خفق الحليب بشكل مثالي وإنشاء فن اللاتيه."
+      }
+    ],
+    "der Espresso": [
+      {
+        "sentence": "Ein guter Espresso ist die Grundlage für viele Kaffeespezialitäten wie Cappuccino und Latte Macchiato.",
+        "target_word": "der Espresso",
+        "difficulty": "basic",
+        "context": "Coffee Basics",
+        "translation": "الإسبريسو الجيد هو الأساس للعديد من مشروبات القهوة الخاصة مثل الكابتشينو واللاتيه ماكياتو."
+      },
+      {
+        "sentence": "Der Espresso sollte in 25 bis 30 Sekunden extrahiert werden für den optimalen Geschmack.",
+        "target_word": "der Espresso",
+        "difficulty": "intermediate",
+        "context": "Coffee Preparation",
+        "translation": "يجب استخلاص الإسبريسو في 25 إلى 30 ثانية للحصول على الطعم الأمثل."
+      },
+      {
+        "sentence": "Die Qualität des Espressos hängt von vielen Faktoren ab: Bohnenqualität, Mahlung, Wassertemperatur und Druck.",
+        "target_word": "der Espresso",
+        "difficulty": "advanced",
+        "context": "Coffee Science",
+        "translation": "جودة الإسبريسو تعتمد على عوامل كثيرة: جودة الحبوب، الطحن، درجة حرارة الماء، والضغط."
+      }
+    ],
+    "der Cappuccino": [
+      {
+        "sentence": "Ein perfekter Cappuccino besteht aus einem Drittel Espresso, einem Drittel heißer Milch und einem Drittel Milchschaum.",
+        "target_word": "der Cappuccino",
+        "difficulty": "intermediate",
+        "context": "Coffee Recipe",
+        "translation": "الكابتشينو المثالي يتكون من ثلث إسبريسو وثلث حليب ساخن وثلث رغوة الحليب."
+      },
+      {
+        "sentence": "Der Cappuccino ist eines der beliebtesten Kaffeegetränke in Deutschland und wird meist zum Frühstück getrunken.",
+        "target_word": "der Cappuccino",
+        "difficulty": "basic",
+        "context": "Coffee Culture",
+        "translation": "الكابتشينو هو أحد مشروبات القهوة الأكثر شعبية في ألمانيا ويُشرب عادة على الإفطار."
+      },
+      {
+        "sentence": "Mit etwas Übung kann man auf dem Cappuccino kunstvolle Muster mit dem Milchschaum kreieren.",
+        "target_word": "der Cappuccino",
+        "difficulty": "intermediate",
+        "context": "Latte Art",
+        "translation": "بقليل من الممارسة يمكنك إنشاء أنماط فنية على الكابتشينو برغوة الحليب."
+      }
+    ],
+    "der Latte Macchiato": [
+      {
+        "sentence": "Der Latte Macchiato wird in einem hohen Glas serviert, damit man die schönen Schichten sehen kann.",
+        "target_word": "der Latte Macchiato",
+        "difficulty": "basic",
+        "context": "Drink Presentation",
+        "translation": "يتم تقديم اللاتيه ماكياتو في كأس طويل حتى يمكن رؤية الطبقات الجميلة."
+      },
+      {
+        "sentence": "Im Gegensatz zum Cappuccino wird beim Latte Macchiato der Espresso vorsichtig auf die aufgeschäumte Milch gegossen.",
+        "target_word": "der Latte Macchiato",
+        "difficulty": "intermediate",
+        "context": "Preparation Technique",
+        "translation": "على عكس الكابتشينو، في اللاتيه ماكياتو يُسكب الإسبريسو بحذر على الحليب المخفوق."
+      },
+      {
+        "sentence": "Die charakteristischen drei Schichten des Latte Macchiato entstehen durch die unterschiedlichen Dichten von Milch, Espresso und Schaum.",
+        "target_word": "der Latte Macchiato",
+        "difficulty": "advanced",
+        "context": "Coffee Science",
+        "translation": "الطبقات الثلاث المميزة للاتيه ماكياتو تنتج عن الكثافات المختلفة للحليب والإسبريسو والرغوة."
+      }
+    ],
+    "das Tablett": [
+      {
+        "sentence": "Das Servicepersonal trägt die Getränke auf einem Tablett zum Tisch.",
+        "target_word": "das Tablett",
+        "difficulty": "basic",
+        "context": "Table Service",
+        "translation": "يحمل موظفو الخدمة المشروبات على صينية إلى الطاولة."
+      },
+      {
+        "sentence": "Ein rutschfestes Tablett ist wichtig, um zu verhindern, dass Gläser während des Transports umkippen.",
+        "target_word": "das Tablett",
+        "difficulty": "intermediate",
+        "context": "Service Equipment",
+        "translation": "الصينية المانعة للانزلاق مهمة لمنع انقلاب الكؤوس أثناء النقل."
+      },
+      {
+        "sentence": "Professionelles Servieren mit dem Tablett erfordert Balance und Übung, besonders bei vollen Tabletts.",
+        "target_word": "das Tablett",
+        "difficulty": "intermediate",
+        "context": "Service Skills",
+        "translation": "التقديم الاحترافي بالصينية يتطلب التوازن والممارسة، خاصة مع الصواني الممتلئة."
+      }
+    ],
+    "die Beschwerde": [
+      {
+        "sentence": "Wenn ein Gast eine Beschwerde hat, nehmen wir diese ernst und suchen sofort nach einer Lösung.",
+        "target_word": "die Beschwerde",
+        "difficulty": "basic",
+        "context": "Customer Service",
+        "translation": "عندما يكون لدى ضيف شكوى، نأخذها على محمل الجد ونبحث فوراً عن حل."
+      },
+      {
+        "sentence": "Beschwerden sollten als Chance gesehen werden, den Service zu verbessern und aus Fehlern zu lernen.",
+        "target_word": "die Beschwerde",
+        "difficulty": "intermediate",
+        "context": "Quality Management",
+        "translation": "يجب النظر إلى الشكاوى كفرصة لتحسين الخدمة والتعلم من الأخطاء."
+      },
+      {
+        "sentence": "Ein professionelles Beschwerdemanagement kann einen unzufriedenen Gast in einen loyalen Stammgast verwandeln.",
+        "target_word": "die Beschwerde",
+        "difficulty": "advanced",
+        "context": "Customer Relations",
+        "translation": "إدارة الشكاوى الاحترافية يمكن أن تحول ضيفاً غير راضٍ إلى ضيف دائم مخلص."
+      }
+    ],
+    "die Reklamation": [
+      {
+        "sentence": "Bei einer Reklamation wird das Gericht sofort zurückgenommen und neu zubereitet.",
+        "target_word": "die Reklamation",
+        "difficulty": "basic",
+        "context": "Problem Resolution",
+        "translation": "في حالة الاعتراض يتم استرجاع الطبق فوراً وإعادة تحضيره."
+      },
+      {
+        "sentence": "Reklamationen müssen dokumentiert werden, um Muster zu erkennen und wiederkehrende Probleme zu beheben.",
+        "target_word": "die Reklamation",
+        "difficulty": "intermediate",
+        "context": "Quality Control",
+        "translation": "يجب توثيق الاعتراضات للتعرف على الأنماط وحل المشاكل المتكررة."
+      },
+      {
+        "sentence": "Eine schnelle und kulante Bearbeitung von Reklamationen ist entscheidend für die Gästezufriedenheit.",
+        "target_word": "die Reklamation",
+        "difficulty": "advanced",
+        "context": "Service Excellence",
+        "translation": "المعالجة السريعة والودية للاعتراضات حاسمة لرضا الضيوف."
+      }
+    ],
+    "das Missverständnis": [
+      {
+        "sentence": "Manchmal entstehen Missverständnisse bei der Bestellung, die freundlich geklärt werden müssen.",
+        "target_word": "das Missverständnis",
+        "difficulty": "basic",
+        "context": "Communication",
+        "translation": "أحياناً تنشأ سوء فهم عند الطلب، والتي يجب توضيحها بود."
+      },
+      {
+        "sentence": "Um Missverständnisse zu vermeiden, wiederholen wir die Bestellung immer am Tisch.",
+        "target_word": "das Missverständnis",
+        "difficulty": "intermediate",
+        "context": "Service Protocol",
+        "translation": "لتجنب سوء الفهم، نكرر دائماً الطلب على الطاولة."
+      },
+      {
+        "sentence": "Klare Kommunikation zwischen Küche und Service ist essentiell, um Missverständnisse zu minimieren.",
+        "target_word": "das Missverständnis",
+        "difficulty": "intermediate",
+        "context": "Team Communication",
+        "translation": "التواصل الواضح بين المطبخ والخدمة ضروري لتقليل سوء الفهم."
+      }
+    ],
+    "die Entschuldigung": [
+      {
+        "sentence": "Eine aufrichtige Entschuldigung kann viel dazu beitragen, einen Fehler wiedergutzumachen.",
+        "target_word": "die Entschuldigung",
+        "difficulty": "basic",
+        "context": "Customer Service",
+        "translation": "الاعتذار الصادق يمكن أن يساهم كثيراً في تصحيح خطأ."
+      },
+      {
+        "sentence": "Nach einer Entschuldigung bieten wir oft eine kleine Geste an, wie einen kostenlosen Espresso oder ein Dessert.",
+        "target_word": "die Entschuldigung",
+        "difficulty": "intermediate",
+        "context": "Service Recovery",
+        "translation": "بعد الاعتذار غالباً ما نقدم بادرة صغيرة، مثل إسبريسو مجاني أو حلوى."
+      },
+      {
+        "sentence": "Eine professionelle Entschuldigung zeigt Verantwortung und kann die Beziehung zum Gast sogar stärken.",
+        "target_word": "die Entschuldigung",
+        "difficulty": "advanced",
+        "context": "Customer Relations",
+        "translation": "الاعتذار الاحترافي يُظهر المسؤولية ويمكن أن يقوي العلاقة مع الضيف."
+      }
+    ],
+    "der Stammgast": [
+      {
+        "sentence": "Unsere Stammgäste kennen wir mit Namen und wissen oft schon, was sie bestellen möchten.",
+        "target_word": "der Stammgast",
+        "difficulty": "basic",
+        "context": "Customer Relations",
+        "translation": "نعرف ضيوفنا الدائمين بالاسم وغالباً ما نعرف مسبقاً ما يريدون طلبه."
+      },
+      {
+        "sentence": "Stammgäste sind sehr wertvoll für ein Restaurant, da sie regelmäßig kommen und uns weiterempfehlen.",
+        "target_word": "der Stammgast",
+        "difficulty": "intermediate",
+        "context": "Business Value",
+        "translation": "الضيوف الدائمون قيمون جداً للمطعم، حيث يأتون بانتظام ويوصون بنا."
+      },
+      {
+        "sentence": "Durch exzellenten Service und persönliche Betreuung können wir aus zufriedenen Gästen langfristige Stammgäste machen.",
+        "target_word": "der Stammgast",
+        "difficulty": "advanced",
+        "context": "Customer Loyalty",
+        "translation": "من خلال الخدمة الممتازة والرعاية الشخصية يمكننا تحويل الضيوف الراضين إلى ضيوف دائمين على المدى الطويل."
+      }
+    ],
+    "die Schicht": [
+      {
+        "sentence": "Meine Schicht beginnt heute um 17 Uhr und endet voraussichtlich gegen Mitternacht.",
+        "target_word": "die Schicht",
+        "difficulty": "basic",
+        "context": "Work Schedule",
+        "translation": "نوبتي تبدأ اليوم الساعة 17:00 وتنتهي متوقعاً حوالي منتصف الليل."
+      },
+      {
+        "sentence": "In der Gastronomie werden die Schichten oft in Früh-, Spät- und Nachtschicht eingeteilt.",
+        "target_word": "die Schicht",
+        "difficulty": "intermediate",
+        "context": "Work Organization",
+        "translation": "في المطاعم غالباً ما يتم تقسيم النوبات إلى نوبة صباحية ومسائية وليلية."
+      },
+      {
+        "sentence": "Die Schichtplanung muss fair sein und die Work-Life-Balance der Mitarbeiter berücksichtigen.",
+        "target_word": "die Schicht",
+        "difficulty": "advanced",
+        "context": "Human Resources",
+        "translation": "يجب أن يكون جدول النوبات عادلاً ويأخذ في الاعتبار التوازن بين العمل والحياة للموظفين."
+      }
+    ],
+    "der Feierabend": [
+      {
+        "sentence": "Nach einem langen Tag freue ich mich auf den Feierabend und etwas Ruhe.",
+        "target_word": "der Feierabend",
+        "difficulty": "basic",
+        "context": "Work Life",
+        "translation": "بعد يوم طويل أتطلع إلى نهاية العمل وبعض الراحة."
+      },
+      {
+        "sentence": "In der Gastronomie ist der Feierabend oft spät, da die meisten Restaurants bis 22 oder 23 Uhr geöffnet haben.",
+        "target_word": "der Feierabend",
+        "difficulty": "intermediate",
+        "context": "Industry Reality",
+        "translation": "في مجال المطاعم نهاية العمل غالباً ما تكون متأخرة، حيث أن معظم المطاعم مفتوحة حتى 22 أو 23 ساعة."
+      },
+      {
+        "sentence": "Auch nach dem offiziellen Feierabend muss oft noch aufgeräumt und für den nächsten Tag vorbereitet werden.",
+        "target_word": "der Feierabend",
+        "difficulty": "intermediate",
+        "context": "Job Responsibilities",
+        "translation": "حتى بعد نهاية العمل الرسمية غالباً ما يجب التنظيف والتحضير لليوم التالي."
+      }
+    ],
+    "die Überstunde": [
+      {
+        "sentence": "In der Hochsaison fallen regelmäßig Überstunden an, die vergütet oder ausgeglichen werden.",
+        "target_word": "die Überstunde",
+        "difficulty": "intermediate",
+        "context": "Work Compensation",
+        "translation": "في موسم الذروة تحدث العمل الإضافي بانتظام، والتي يتم تعويضها أو موازنتها."
+      },
+      {
+        "sentence": "Überstunden sollten im Voraus geplant und mit dem Team abgesprochen werden.",
+        "target_word": "die Überstunde",
+        "difficulty": "basic",
+        "context": "Work Planning",
+        "translation": "يجب التخطيط للعمل الإضافي مسبقاً ومناقشته مع الفريق."
+      },
+      {
+        "sentence": "Ein gutes Management versucht, Überstunden zu minimieren, indem es den Personalbedarf realistisch plant.",
+        "target_word": "die Überstunde",
+        "difficulty": "advanced",
+        "context": "Management Strategy",
+        "translation": "الإدارة الجيدة تحاول تقليل العمل الإضافي من خلال التخطيط الواقعي لاحتياجات الموظفين."
+      }
+    ],
+    "der Urlaub": [
+      {
+        "sentence": "Jeder Mitarbeiter hat Anspruch auf mindestens 24 Tage Urlaub pro Jahr.",
+        "target_word": "der Urlaub",
+        "difficulty": "basic",
+        "context": "Employee Rights",
+        "translation": "كل موظف له الحق في 24 يوماً على الأقل من الإجازة سنوياً."
+      },
+      {
+        "sentence": "Urlaub muss rechtzeitig beantragt werden, besonders während der Hauptsaison im Sommer.",
+        "target_word": "der Urlaub",
+        "difficulty": "basic",
+        "context": "Leave Management",
+        "translation": "يجب طلب الإجازة في الوقت المناسب، خاصة خلال الموسم الرئيسي في الصيف."
+      },
+      {
+        "sentence": "Eine faire Urlaubsplanung berücksichtigt die Wünsche aller Mitarbeiter und stellt sicher, dass immer genug Personal da ist.",
+        "target_word": "der Urlaub",
+        "difficulty": "advanced",
+        "context": "HR Management",
+        "translation": "التخطيط العادل للإجازات يأخذ في الاعتبار رغبات جميع الموظفين ويضمن توفر موظفين كافٍ دائماً."
+      }
+    ],
+    "der Krankheitsfall": [
+      {
+        "sentence": "Im Krankheitsfall muss man sich so früh wie möglich abmelden, damit Ersatz organisiert werden kann.",
+        "target_word": "der Krankheitsfall",
+        "difficulty": "basic",
+        "context": "Work Policy",
+        "translation": "في حالة المرض يجب الإبلاغ في أقرب وقت ممكن حتى يمكن تنظيم البديل."
+      },
+      {
+        "sentence": "Bei einem Krankheitsfall benötigen wir ab dem dritten Tag eine ärztliche Bescheinigung.",
+        "target_word": "der Krankheitsfall",
+        "difficulty": "intermediate",
+        "context": "Company Rules",
+        "translation": "في حالة المرض نحتاج من اليوم الثالث شهادة طبية."
+      },
+      {
+        "sentence": "Häufige Krankheitsfälle im Team können auf Probleme wie Überlastung oder schlechte Arbeitsbedingungen hinweisen.",
+        "target_word": "der Krankheitsfall",
+        "difficulty": "advanced",
+        "context": "Management Analysis",
+        "translation": "حالات المرض المتكررة في الفريق يمكن أن تشير إلى مشاكل مثل الإرهاق أو ظروف العمل السيئة."
+      }
+    ],
+    "das Gehalt": [
+      {
+        "sentence": "Das Gehalt wird monatlich überwiesen und erscheint immer pünktlich am Ende des Monats.",
+        "target_word": "das Gehalt",
+        "difficulty": "basic",
+        "context": "Payment",
+        "translation": "يتم تحويل الراتب شهرياً ويظهر دائماً في الوقت المحدد في نهاية الشهر."
+      },
+      {
+        "sentence": "Das Gehalt in der Gastronomie variiert stark je nach Position, Erfahrung und Standort des Restaurants.",
+        "target_word": "das Gehalt",
+        "difficulty": "intermediate",
+        "context": "Compensation",
+        "translation": "الراتب في مجال المطاعم يختلف بشكل كبير حسب الوظيفة والخبرة وموقع المطعم."
+      },
+      {
+        "sentence": "Neben dem Gehalt spielen auch Faktoren wie Arbeitszeiten, Trinkgeld und Entwicklungsmöglichkeiten eine wichtige Rolle.",
+        "target_word": "das Gehalt",
+        "difficulty": "advanced",
+        "context": "Career Considerations",
+        "translation": "بالإضافة إلى الراتب، تلعب عوامل مثل ساعات العمل والبقشيش وفرص التطوير دوراً مهماً."
+      }
+    ],
+    "der Lohn": [
+      {
+        "sentence": "Der Lohn für Aushilfskräfte wird oft auf Stundenbasis berechnet.",
+        "target_word": "der Lohn",
+        "difficulty": "basic",
+        "context": "Payment Structure",
+        "translation": "أجر العمال المؤقتين غالباً ما يُحسب على أساس الساعة."
+      },
+      {
+        "sentence": "Ein fairer Lohn ist wichtig, um qualifizierte Mitarbeiter zu gewinnen und zu halten.",
+        "target_word": "der Lohn",
+        "difficulty": "intermediate",
+        "context": "Human Resources",
+        "translation": "الأجر العادل مهم لجذب والحفاظ على الموظفين المؤهلين."
+      },
+      {
+        "sentence": "In Deutschland gibt es einen gesetzlichen Mindestlohn, der auch in der Gastronomie eingehalten werden muss.",
+        "target_word": "der Lohn",
+        "difficulty": "intermediate",
+        "context": "Legal Requirements",
+        "translation": "في ألمانيا يوجد حد أدنى قانوني للأجر، والذي يجب الالتزام به أيضاً في مجال المطاعم."
+      }
+    ],
+    "das Trinkgeldkonto": [
+      {
+        "sentence": "Das gesammelte Trinkgeld wird auf ein gemeinsames Trinkgeldkonto eingezahlt und fair verteilt.",
+        "target_word": "das Trinkgeldkonto",
+        "difficulty": "intermediate",
+        "context": "Tip Distribution",
+        "translation": "يتم إيداع البقشيش المجمع في حساب بقشيش مشترك وتوزيعه بشكل عادل."
+      },
+      {
+        "sentence": "Das Trinkgeldkonto wird transparent geführt, damit alle Mitarbeiter sehen können, wie viel eingegangen ist.",
+        "target_word": "das Trinkgeldkonto",
+        "difficulty": "intermediate",
+        "context": "Financial Transparency",
+        "translation": "يُدار حساب البقشيش بشفافية حتى يتمكن جميع الموظفين من رؤية المبلغ الوارد."
+      },
+      {
+        "sentence": "Die Verteilung vom Trinkgeldkonto erfolgt nach einem festgelegten Schlüssel, der die Arbeitsleistung berücksichtigt.",
+        "target_word": "das Trinkgeldkonto",
+        "difficulty": "advanced",
+        "context": "Distribution System",
+        "translation": "يتم توزيع حساب البقشيش وفقاً لمفتاح محدد يأخذ في الاعتبار أداء العمل."
+      }
+    ],
+    "das Buffet": [
+      {
+        "sentence": "Beim Buffet können die Gäste selbst wählen, was und wie viel sie essen möchten.",
+        "target_word": "das Buffet",
+        "difficulty": "basic",
+        "context": "Service Style",
+        "translation": "في البوفيه يمكن للضيوف اختيار ما وكم يريدون أن يأكلوا بأنفسهم."
+      },
+      {
+        "sentence": "Unser Sonntagsbrunch-Buffet bietet eine große Auswahl von warmen und kalten Speisen.",
+        "target_word": "das Buffet",
+        "difficulty": "basic",
+        "context": "Restaurant Offering",
+        "translation": "بوفيه برانش الأحد لدينا يقدم مجموعة كبيرة من الأطعمة الساخنة والباردة."
+      },
+      {
+        "sentence": "Bei der Organisation eines Buffets ist es wichtig, die Hygiene zu gewährleisten und die Speisen bei der richtigen Temperatur zu halten.",
+        "target_word": "das Buffet",
+        "difficulty": "advanced",
+        "context": "Food Safety",
+        "translation": "عند تنظيم بوفيه، من المهم ضمان النظافة والحفاظ على الأطعمة في درجة الحرارة الصحيحة."
+      }
+    ],
+    "à la carte": [
+      {
+        "sentence": "Sie können à la carte bestellen oder sich für eines unserer Menüs entscheiden.",
+        "target_word": "à la carte",
+        "difficulty": "basic",
+        "context": "Menu Options",
+        "translation": "يمكنك الطلب من القائمة أو اختيار أحد قوائمنا الثابتة."
+      },
+      {
+        "sentence": "Bei à la carte Bestellungen haben die Gäste die volle Flexibilität, ihre Speisen individuell zusammenzustellen.",
+        "target_word": "à la carte",
+        "difficulty": "intermediate",
+        "context": "Service Flexibility",
+        "translation": "في طلبات القائمة المفتوحة، يتمتع الضيوف بالمرونة الكاملة لتجميع أطباقهم بشكل فردي."
+      },
+      {
+        "sentence": "Der Vorteil von à la carte ist die Wahlfreiheit, während Menüs oft ein besseres Preis-Leistungs-Verhältnis bieten.",
+        "target_word": "à la carte",
+        "difficulty": "advanced",
+        "context": "Menu Strategy",
+        "translation": "ميزة القائمة المفتوحة هي حرية الاختيار، بينما القوائم الثابتة غالباً ما تقدم قيمة أفضل مقابل السعر."
+      }
+    ],
+    "das Menü": [
+      {
+        "sentence": "Unser Drei-Gänge-Menü besteht aus Vorspeise, Hauptgang und Dessert zum Festpreis.",
+        "target_word": "das Menü",
+        "difficulty": "basic",
+        "context": "Menu Options",
+        "translation": "قائمتنا المكونة من ثلاثة أطباق تتكون من مقبلات وطبق رئيسي وحلوى بسعر ثابت."
+      },
+      {
+        "sentence": "Das Menü wechselt jeden Monat und orientiert sich an saisonalen Produkten.",
+        "target_word": "das Menü",
+        "difficulty": "intermediate",
+        "context": "Menu Planning",
+        "translation": "القائمة تتغير كل شهر وتتوجه نحو المنتجات الموسمية."
+      },
+      {
+        "sentence": "Ein gut komponiertes Menü sollte eine harmonische Abfolge von Geschmäckern und Texturen bieten.",
+        "target_word": "das Menü",
+        "difficulty": "advanced",
+        "context": "Culinary Composition",
+        "translation": "القائمة المؤلفة بشكل جيد يجب أن تقدم تتابعاً متناغماً من النكهات والقوامات."
+      }
+    ],
+    "die Tagessuppe": [
+      {
+        "sentence": "Als Vorspeise kann ich Ihnen heute unsere Tagessuppe empfehlen - eine cremige Kürbissuppe.",
+        "target_word": "die Tagessuppe",
+        "difficulty": "basic",
+        "context": "Daily Specials",
+        "translation": "كمقبلات يمكنني أن أوصي اليوم بحساء اليوم لدينا - حساء اليقطين الكريمي."
+      },
+      {
+        "sentence": "Die Tagessuppe wird jeden Morgen frisch zubereitet und variiert je nach Saison.",
+        "target_word": "die Tagessuppe",
+        "difficulty": "intermediate",
+        "context": "Fresh Preparation",
+        "translation": "يتم تحضير حساء اليوم طازجاً كل صباح ويتنوع حسب الموسم."
+      },
+      {
+        "sentence": "Mit der Tagessuppe können wir überschüssiges Gemüse verwerten und gleichzeitig etwas Besonderes anbieten.",
+        "target_word": "die Tagessuppe",
+        "difficulty": "advanced",
+        "context": "Kitchen Economics",
+        "translation": "مع حساء اليوم يمكننا استخدام الخضروات الفائضة وفي نفس الوقت تقديم شيء مميز."
+      }
+    ],
+    "das Tagesgericht": [
+      {
+        "sentence": "Unser Tagesgericht heute ist Lachs mit Gemüse und Kartoffeln für nur 12 Euro.",
+        "target_word": "das Tagesgericht",
+        "difficulty": "basic",
+        "context": "Daily Specials",
+        "translation": "طبق اليوم لدينا اليوم هو سلمون مع خضروات وبطاطس بـ 12 يورو فقط."
+      },
+      {
+        "sentence": "Das Tagesgericht ist oft günstiger als die regulären Gerichte auf der Karte.",
+        "target_word": "das Tagesgericht",
+        "difficulty": "basic",
+        "context": "Pricing Strategy",
+        "translation": "طبق اليوم غالباً ما يكون أرخص من الأطباق العادية في القائمة."
+      },
+      {
+        "sentence": "Mit dem Tagesgericht können wir Abwechslung bieten und gleichzeitig saisonale Zutaten optimal nutzen.",
+        "target_word": "das Tagesgericht",
+        "difficulty": "intermediate",
+        "context": "Menu Strategy",
+        "translation": "مع طبق اليوم يمكننا تقديم التنوع وفي نفس الوقت الاستفادة المثلى من المكونات الموسمية."
+      }
+    ],
+    "die Beilage wechseln": [
+      {
+        "sentence": "Sie können die Beilage wechseln - statt Pommes können Sie auch Reis oder Salat wählen.",
+        "target_word": "die Beilage wechseln",
+        "difficulty": "basic",
+        "context": "Menu Flexibility",
+        "translation": "يمكنك تغيير الطبق الجانبي - بدلاً من البطاطس المقلية يمكنك أيضاً اختيار الأرز أو السلطة."
+      },
+      {
+        "sentence": "Die Möglichkeit, die Beilage zu wechseln, ist ein Service, den unsere Gäste sehr schätzen.",
+        "target_word": "die Beilage wechseln",
+        "difficulty": "intermediate",
+        "context": "Customer Service",
+        "translation": "إمكانية تغيير الطبق الجانبي هي خدمة يقدرها ضيوفنا كثيراً."
+      },
+      {
+        "sentence": "Beim Wechsel der Beilage achten wir darauf, dass die Alternative geschmacklich zum Hauptgericht passt.",
+        "target_word": "die Beilage wechseln",
+        "difficulty": "advanced",
+        "context": "Culinary Considerations",
+        "translation": "عند تغيير الطبق الجانبي نحرص على أن يتناسب البديل من حيث الطعم مع الطبق الرئيسي."
+      }
+    ],
+    "die Sonderwünsche": [
+      {
+        "sentence": "Wir versuchen immer, auf Sonderwünsche unserer Gäste einzugehen, soweit es möglich ist.",
+        "target_word": "die Sonderwünsche",
+        "difficulty": "basic",
+        "context": "Customer Service",
+        "translation": "نحاول دائماً تلبية الرغبات الخاصة لضيوفنا، بقدر ما هو ممكن."
+      },
+      {
+        "sentence": "Sonderwünsche wie Allergien oder Unverträglichkeiten müssen unbedingt an die Küche weitergegeben werden.",
+        "target_word": "die Sonderwünsche",
+        "difficulty": "intermediate",
+        "context": "Safety Protocol",
+        "translation": "الرغبات الخاصة مثل الحساسية أو عدم التحمل يجب إبلاغها إلى المطبخ بالتأكيد."
+      },
+      {
+        "sentence": "Bei größeren Gruppen sollten Sonderwünsche idealerweise bei der Reservierung angemeldet werden.",
+        "target_word": "die Sonderwünsche",
+        "difficulty": "intermediate",
+        "context": "Advance Planning",
+        "translation": "في المجموعات الكبيرة يجب في الحالة المثالية تسجيل الرغبات الخاصة عند الحجز."
+      }
+    ],
+    "ohne Zwiebeln": [
+      {
+        "sentence": "Das Gericht kann auch ohne Zwiebeln zubereitet werden, wenn Sie diese nicht mögen.",
+        "target_word": "ohne Zwiebeln",
+        "difficulty": "basic",
+        "context": "Menu Customization",
+        "translation": "يمكن أيضاً تحضير الطبق بدون بصل إذا كنت لا تحبه."
+      },
+      {
+        "sentence": "Viele Gäste bestellen ihre Speisen ohne Zwiebeln, daher notieren wir das immer deutlich.",
+        "target_word": "ohne Zwiebeln",
+        "difficulty": "basic",
+        "context": "Order Taking",
+        "translation": "العديد من الضيوف يطلبون طعامهم بدون بصل، لذلك نسجل ذلك دائماً بوضوح."
+      },
+      {
+        "sentence": "Bei der Zubereitung ohne Zwiebeln müssen wir darauf achten, dass auch in der Soße keine Zwiebeln enthalten sind.",
+        "target_word": "ohne Zwiebeln",
+        "difficulty": "intermediate",
+        "context": "Kitchen Communication",
+        "translation": "عند التحضير بدون بصل يجب أن نتأكد من عدم وجود بصل في الصلصة أيضاً."
+      }
+    ],
+    "extra Soße": [
+      {
+        "sentence": "Möchten Sie extra Soße zu Ihrem Steak? Die kostet 2 Euro zusätzlich.",
+        "target_word": "extra Soße",
+        "difficulty": "basic",
+        "context": "Additional Requests",
+        "translation": "هل تريد صلصة إضافية لستيكك؟ تكلف 2 يورو إضافية."
+      },
+      {
+        "sentence": "Viele Gäste möchten extra Soße, besonders bei Gerichten mit Pommes.",
+        "target_word": "extra Soße",
+        "difficulty": "basic",
+        "context": "Common Requests",
+        "translation": "العديد من الضيوف يريدون صلصة إضافية، خاصة مع أطباق البطاطس المقلية."
+      },
+      {
+        "sentence": "Extra Soße wird separat serviert, damit die Gäste selbst entscheiden können, wie viel sie verwenden möchten.",
+        "target_word": "extra Soße",
+        "difficulty": "intermediate",
+        "context": "Service Practice",
+        "translation": "تُقدم الصلصة الإضافية بشكل منفصل حتى يتمكن الضيوف من تحديد كمية الاستخدام بأنفسهم."
+      }
+    ],
+    "gut durch": [
+      {
+        "sentence": "Wie möchten Sie Ihr Steak - rare, medium oder gut durch?",
+        "target_word": "gut durch",
+        "difficulty": "basic",
+        "context": "Meat Preparation",
+        "translation": "كيف تريد الستيك - نادر، متوسط، أم مطهو جيداً؟"
+      },
+      {
+        "sentence": "Ein Steak gut durch zu braten dauert länger als medium, daher müssen wir das bei der Zeitplanung berücksichtigen.",
+        "target_word": "gut durch",
+        "difficulty": "intermediate",
+        "context": "Kitchen Timing",
+        "translation": "طهي الستيك جيداً يستغرق وقتاً أطول من المتوسط، لذلك يجب أن نأخذ ذلك في الاعتبار في التخطيط الزمني."
+      },
+      {
+        "sentence": "Manche Gäste bevorzugen ihr Fleisch gut durch aus gesundheitlichen oder kulturellen Gründen.",
+        "target_word": "gut durch",
+        "difficulty": "intermediate",
+        "context": "Customer Preferences",
+        "translation": "بعض الضيوف يفضلون لحمهم مطهواً جيداً لأسباب صحية أو ثقافية."
+      }
+    ],
+    "medium": [
+      {
+        "sentence": "Bei medium ist das Steak innen noch leicht rosa, aber nicht mehr blutig.",
+        "target_word": "medium",
+        "difficulty": "basic",
+        "context": "Cooking Terms",
+        "translation": "في المتوسط يكون الستيك من الداخل لا يزال وردياً قليلاً، لكن ليس نيئاً."
+      },
+      {
+        "sentence": "Medium ist der beliebteste Gargrad für Steaks in unserem Restaurant.",
+        "target_word": "medium",
+        "difficulty": "basic",
+        "context": "Customer Preferences",
+        "translation": "المتوسط هو درجة الطهي الأكثر شعبية للستيك في مطعمنا."
+      },
+      {
+        "sentence": "Um ein perfektes medium zu erreichen, muss man die Kerntemperatur von etwa 55-60 Grad treffen.",
+        "target_word": "medium",
+        "difficulty": "advanced",
+        "context": "Professional Technique",
+        "translation": "لتحقيق متوسط مثالي، يجب الوصول إلى درجة حرارة داخلية حوالي 55-60 درجة."
+      }
+    ],
+    "rare / blutig": [
+      {
+        "sentence": "Bei rare ist das Fleisch außen angebraten, aber innen noch blutig.",
+        "target_word": "rare / blutig",
+        "difficulty": "basic",
+        "context": "Cooking Terminology",
+        "translation": "في النادر يكون اللحم مقلياً من الخارج، لكنه لا يزال نيئاً من الداخل."
+      },
+      {
+        "sentence": "Nicht alle Fleischsorten eignen sich für die Zubereitung rare - Rinderfilet ist ideal, Schweinefleisch sollte immer durchgebraten sein.",
+        "target_word": "rare / blutig",
+        "difficulty": "advanced",
+        "context": "Food Safety",
+        "translation": "ليست كل أنواع اللحوم مناسبة للتحضير النادر - فيليه اللحم البقري مثالي، لكن يجب دائماً طهي لحم الخنزير جيداً."
+      },
+      {
+        "sentence": "In Deutschland ist rare weniger beliebt als in anderen Ländern, wo Steaks traditionell blutiger serviert werden.",
+        "target_word": "rare / blutig",
+        "difficulty": "intermediate",
+        "context": "Cultural Differences",
+        "translation": "في ألمانيا النادر أقل شعبية من البلدان الأخرى حيث يتم تقديم الستيك تقليدياً بشكل أكثر نيئاً."
+      }
+    ],
+    "die Soße": [
+      {
+        "sentence": "Diese Soße passt hervorragend zu Fleischgerichten und wird aus frischen Zutaten zubereitet.",
+        "target_word": "die Soße",
+        "difficulty": "basic",
+        "context": "Sauce Description",
+        "translation": "هذه الصلصة تناسب أطباق اللحوم بشكل ممتاز ويتم تحضيرها من مكونات طازجة."
+      },
+      {
+        "sentence": "Eine gute Soße kann ein einfaches Gericht in etwas Besonderes verwandeln.",
+        "target_word": "die Soße",
+        "difficulty": "intermediate",
+        "context": "Culinary Importance",
+        "translation": "الصلصة الجيدة يمكن أن تحول طبقاً بسيطاً إلى شيء مميز."
+      },
+      {
+        "sentence": "Beim Andicken der Soße ist es wichtig, die Temperatur zu kontrollieren, um Klumpen zu vermeiden.",
+        "target_word": "die Soße",
+        "difficulty": "advanced",
+        "context": "Cooking Technique",
+        "translation": "عند تكثيف الصلصة، من المهم التحكم في درجة الحرارة لتجنب الكتل."
+      }
+    ],
+    "die Bratensoße": [
+      {
+        "sentence": "Die Bratensoße wird aus dem Bratensaft hergestellt und mit Rotwein abgelöscht.",
+        "target_word": "die Bratensoße",
+        "difficulty": "intermediate",
+        "context": "Traditional Cooking",
+        "translation": "يتم تحضير صلصة الشواء من عصير الشواء ويتم تخفيفها بالنبيذ الأحمر."
+      },
+      {
+        "sentence": "Eine klassische Bratensoße ist unverzichtbar für Sonntagsbraten.",
+        "target_word": "die Bratensoße",
+        "difficulty": "basic",
+        "context": "Traditional Dishes",
+        "translation": "صلصة الشواء الكلاسيكية لا غنى عنها لشواء الأحد."
+      },
+      {
+        "sentence": "Die Bratensoße sollte lange köcheln, um alle Aromen zu entwickeln und eine sämige Konsistenz zu erreichen.",
+        "target_word": "die Bratensoße",
+        "difficulty": "advanced",
+        "context": "Professional Cooking",
+        "translation": "يجب أن تطهى صلصة الشواء لفترة طويلة لتطوير جميع النكهات والوصول إلى قوام كريمي."
+      }
+    ],
+    "die Kartoffeln": [
+      {
+        "sentence": "Kartoffeln sind eine vielseitige Beilage, die sich auf verschiedene Arten zubereiten lässt.",
+        "target_word": "die Kartoffeln",
+        "difficulty": "basic",
+        "context": "Basic Ingredient",
+        "translation": "البطاطس طبق جانبي متعدد الاستخدامات يمكن تحضيره بطرق مختلفة."
+      },
+      {
+        "sentence": "Für Bratkartoffeln sollte man festkochende Kartoffeln verwenden.",
+        "target_word": "die Kartoffeln",
+        "difficulty": "intermediate",
+        "context": "Cooking Tip",
+        "translation": "للبطاطس المقلية يجب استخدام البطاطس الصلبة."
+      },
+      {
+        "sentence": "Die richtige Kartoffelsorte zu wählen ist entscheidend für das gewünschte Endergebnis.",
+        "target_word": "die Kartoffeln",
+        "difficulty": "advanced",
+        "context": "Professional Knowledge",
+        "translation": "اختيار نوع البطاطس الصحيح حاسم للنتيجة النهائية المرغوبة."
+      }
+    ],
+    "die Pommes frites": [
+      {
+        "sentence": "Pommes frites sind ein beliebter Klassiker als Beilage zu vielen Gerichten.",
+        "target_word": "die Pommes frites",
+        "difficulty": "basic",
+        "context": "Popular Side",
+        "translation": "البطاطس المقلية كلاسيكية شائعة كطبق جانبي للعديد من الأطباق."
+      },
+      {
+        "sentence": "Für knusprige Pommes müssen sie zweimal frittiert werden.",
+        "target_word": "die Pommes frites",
+        "difficulty": "intermediate",
+        "context": "Cooking Technique",
+        "translation": "للحصول على بطاطس مقرمشة يجب قليها مرتين."
+      },
+      {
+        "sentence": "Die perfekte Pommes frites ist außen knusprig und innen weich - dies erfordert die richtige Temperatur und Zeitsteuerung.",
+        "target_word": "die Pommes frites",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "البطاطس المقلية المثالية مقرمشة من الخارج وطرية من الداخل - وهذا يتطلب درجة الحرارة الصحيحة والتحكم في الوقت."
+      }
+    ],
+    "der Reis": [
+      {
+        "sentence": "Reis ist eine wichtige Beilage in vielen Küchen weltweit.",
+        "target_word": "der Reis",
+        "difficulty": "basic",
+        "context": "Global Cuisine",
+        "translation": "الأرز طبق جانبي مهم في العديد من المطابخ حول العالم."
+      },
+      {
+        "sentence": "Je nach Gericht verwendet man verschiedene Reissorten - Basmati, Jasmin oder Risottoreis.",
+        "target_word": "der Reis",
+        "difficulty": "intermediate",
+        "context": "Ingredient Knowledge",
+        "translation": "حسب الطبق تستخدم أنواع أرز مختلفة - بسمتي وياسمين أو أرز ريزوتو."
+      },
+      {
+        "sentence": "Das Verhältnis von Reis zu Wasser und die Garzeit müssen präzise eingehalten werden für perfekt gekochten Reis.",
+        "target_word": "der Reis",
+        "difficulty": "advanced",
+        "context": "Cooking Precision",
+        "translation": "يجب الالتزام بدقة بنسبة الأرز إلى الماء ووقت الطهي للحصول على أرز مطهو بشكل مثالي."
+      }
+    ],
+    "die Nudeln": [
+      {
+        "sentence": "Das Wort 'die Nudeln' ist wichtig in der Gastronomie.",
+        "target_word": "die Nudeln",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Nudeln' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Nudeln' täglich.",
+        "target_word": "die Nudeln",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Nudeln' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Nudeln' ist essentiell.",
+        "target_word": "die Nudeln",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Nudeln' ضروري."
+      }
+    ],
+    "das Fleisch": [
+      {
+        "sentence": "Das Wort 'das Fleisch' ist wichtig in der Gastronomie.",
+        "target_word": "das Fleisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Fleisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Fleisch' täglich.",
+        "target_word": "das Fleisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Fleisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Fleisch' ist essentiell.",
+        "target_word": "das Fleisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Fleisch' ضروري."
+      }
+    ],
+    "das Rindfleisch": [
+      {
+        "sentence": "Das Wort 'das Rindfleisch' ist wichtig in der Gastronomie.",
+        "target_word": "das Rindfleisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Rindfleisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Rindfleisch' täglich.",
+        "target_word": "das Rindfleisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Rindfleisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Rindfleisch' ist essentiell.",
+        "target_word": "das Rindfleisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Rindfleisch' ضروري."
+      }
+    ],
+    "das Schweinefleisch": [
+      {
+        "sentence": "Das Wort 'das Schweinefleisch' ist wichtig in der Gastronomie.",
+        "target_word": "das Schweinefleisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Schweinefleisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Schweinefleisch' täglich.",
+        "target_word": "das Schweinefleisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Schweinefleisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Schweinefleisch' ist essentiell.",
+        "target_word": "das Schweinefleisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Schweinefleisch' ضروري."
+      }
+    ],
+    "das Hähnchen": [
+      {
+        "sentence": "Das Wort 'das Hähnchen' ist wichtig in der Gastronomie.",
+        "target_word": "das Hähnchen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Hähnchen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Hähnchen' täglich.",
+        "target_word": "das Hähnchen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Hähnchen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Hähnchen' ist essentiell.",
+        "target_word": "das Hähnchen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Hähnchen' ضروري."
+      }
+    ],
+    "der Fisch": [
+      {
+        "sentence": "Das Wort 'der Fisch' ist wichtig in der Gastronomie.",
+        "target_word": "der Fisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Fisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Fisch' täglich.",
+        "target_word": "der Fisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Fisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Fisch' ist essentiell.",
+        "target_word": "der Fisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Fisch' ضروري."
+      }
+    ],
+    "die Meeresfrüchte": [
+      {
+        "sentence": "Das Wort 'die Meeresfrüchte' ist wichtig in der Gastronomie.",
+        "target_word": "die Meeresfrüchte",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Meeresfrüchte' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Meeresfrüchte' täglich.",
+        "target_word": "die Meeresfrüchte",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Meeresfrüchte' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Meeresfrüchte' ist essentiell.",
+        "target_word": "die Meeresfrüchte",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Meeresfrüchte' ضروري."
+      }
+    ],
+    "der Salat": [
+      {
+        "sentence": "Das Wort 'der Salat' ist wichtig in der Gastronomie.",
+        "target_word": "der Salat",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Salat' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Salat' täglich.",
+        "target_word": "der Salat",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Salat' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Salat' ist essentiell.",
+        "target_word": "der Salat",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Salat' ضروري."
+      }
+    ],
+    "die Suppe": [
+      {
+        "sentence": "Das Wort 'die Suppe' ist wichtig in der Gastronomie.",
+        "target_word": "die Suppe",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Suppe' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Suppe' täglich.",
+        "target_word": "die Suppe",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Suppe' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Suppe' ist essentiell.",
+        "target_word": "die Suppe",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Suppe' ضروري."
+      }
+    ],
+    "der Nachtisch": [
+      {
+        "sentence": "Das Wort 'der Nachtisch' ist wichtig in der Gastronomie.",
+        "target_word": "der Nachtisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Nachtisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Nachtisch' täglich.",
+        "target_word": "der Nachtisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Nachtisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Nachtisch' ist essentiell.",
+        "target_word": "der Nachtisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Nachtisch' ضروري."
+      }
+    ],
+    "das Eis": [
+      {
+        "sentence": "Das Wort 'das Eis' ist wichtig in der Gastronomie.",
+        "target_word": "das Eis",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Eis' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Eis' täglich.",
+        "target_word": "das Eis",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Eis' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Eis' ist essentiell.",
+        "target_word": "das Eis",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Eis' ضروري."
+      }
+    ],
+    "der Kuchen": [
+      {
+        "sentence": "Das Wort 'der Kuchen' ist wichtig in der Gastronomie.",
+        "target_word": "der Kuchen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Kuchen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Kuchen' täglich.",
+        "target_word": "der Kuchen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Kuchen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Kuchen' ist essentiell.",
+        "target_word": "der Kuchen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Kuchen' ضروري."
+      }
+    ],
+    "das Bier": [
+      {
+        "sentence": "Das Wort 'das Bier' ist wichtig in der Gastronomie.",
+        "target_word": "das Bier",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Bier' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Bier' täglich.",
+        "target_word": "das Bier",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Bier' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Bier' ist essentiell.",
+        "target_word": "das Bier",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Bier' ضروري."
+      }
+    ],
+    "der Wein": [
+      {
+        "sentence": "Das Wort 'der Wein' ist wichtig in der Gastronomie.",
+        "target_word": "der Wein",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Wein' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Wein' täglich.",
+        "target_word": "der Wein",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Wein' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Wein' ist essentiell.",
+        "target_word": "der Wein",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Wein' ضروري."
+      }
+    ],
+    "das Mineralwasser": [
+      {
+        "sentence": "Das Wort 'das Mineralwasser' ist wichtig in der Gastronomie.",
+        "target_word": "das Mineralwasser",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Mineralwasser' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Mineralwasser' täglich.",
+        "target_word": "das Mineralwasser",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Mineralwasser' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Mineralwasser' ist essentiell.",
+        "target_word": "das Mineralwasser",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Mineralwasser' ضروري."
+      }
+    ],
+    "der Saft": [
+      {
+        "sentence": "Das Wort 'der Saft' ist wichtig in der Gastronomie.",
+        "target_word": "der Saft",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Saft' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Saft' täglich.",
+        "target_word": "der Saft",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Saft' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Saft' ist essentiell.",
+        "target_word": "der Saft",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Saft' ضروري."
+      }
+    ],
+    "die Kasse": [
+      {
+        "sentence": "Das Wort 'die Kasse' ist wichtig in der Gastronomie.",
+        "target_word": "die Kasse",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Kasse' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Kasse' täglich.",
+        "target_word": "die Kasse",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Kasse' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Kasse' ist essentiell.",
+        "target_word": "die Kasse",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Kasse' ضروري."
+      }
+    ],
+    "die Quittung": [
+      {
+        "sentence": "Das Wort 'die Quittung' ist wichtig in der Gastronomie.",
+        "target_word": "die Quittung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Quittung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Quittung' täglich.",
+        "target_word": "die Quittung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Quittung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Quittung' ist essentiell.",
+        "target_word": "die Quittung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Quittung' ضروري."
+      }
+    ],
+    "bar zahlen": [
+      {
+        "sentence": "Das Wort 'bar zahlen' ist wichtig in der Gastronomie.",
+        "target_word": "bar zahlen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'bar zahlen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'bar zahlen' täglich.",
+        "target_word": "bar zahlen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'bar zahlen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'bar zahlen' ist essentiell.",
+        "target_word": "bar zahlen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'bar zahlen' ضروري."
+      }
+    ],
+    "mit Karte zahlen": [
+      {
+        "sentence": "Das Wort 'mit Karte zahlen' ist wichtig in der Gastronomie.",
+        "target_word": "mit Karte zahlen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'mit Karte zahlen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'mit Karte zahlen' täglich.",
+        "target_word": "mit Karte zahlen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'mit Karte zahlen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'mit Karte zahlen' ist essentiell.",
+        "target_word": "mit Karte zahlen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'mit Karte zahlen' ضروري."
+      }
+    ],
+    "das Wechselgeld": [
+      {
+        "sentence": "Das Wort 'das Wechselgeld' ist wichtig in der Gastronomie.",
+        "target_word": "das Wechselgeld",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Wechselgeld' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Wechselgeld' täglich.",
+        "target_word": "das Wechselgeld",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Wechselgeld' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Wechselgeld' ist essentiell.",
+        "target_word": "das Wechselgeld",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Wechselgeld' ضروري."
+      }
+    ],
+    "getrennt zahlen": [
+      {
+        "sentence": "Das Wort 'getrennt zahlen' ist wichtig in der Gastronomie.",
+        "target_word": "getrennt zahlen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'getrennt zahlen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'getrennt zahlen' täglich.",
+        "target_word": "getrennt zahlen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'getrennt zahlen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'getrennt zahlen' ist essentiell.",
+        "target_word": "getrennt zahlen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'getrennt zahlen' ضروري."
+      }
+    ],
+    "zusammen zahlen": [
+      {
+        "sentence": "Das Wort 'zusammen zahlen' ist wichtig in der Gastronomie.",
+        "target_word": "zusammen zahlen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'zusammen zahlen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'zusammen zahlen' täglich.",
+        "target_word": "zusammen zahlen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'zusammen zahlen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'zusammen zahlen' ist essentiell.",
+        "target_word": "zusammen zahlen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'zusammen zahlen' ضروري."
+      }
+    ],
+    "die Allergenkennzeichnung": [
+      {
+        "sentence": "Das Wort 'die Allergenkennzeichnung' ist wichtig in der Gastronomie.",
+        "target_word": "die Allergenkennzeichnung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Allergenkennzeichnung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Allergenkennzeichnung' täglich.",
+        "target_word": "die Allergenkennzeichnung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Allergenkennzeichnung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Allergenkennzeichnung' ist essentiell.",
+        "target_word": "die Allergenkennzeichnung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Allergenkennzeichnung' ضروري."
+      }
+    ],
+    "der Notausgang": [
+      {
+        "sentence": "Das Wort 'der Notausgang' ist wichtig in der Gastronomie.",
+        "target_word": "der Notausgang",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Notausgang' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Notausgang' täglich.",
+        "target_word": "der Notausgang",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Notausgang' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Notausgang' ist essentiell.",
+        "target_word": "der Notausgang",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Notausgang' ضروري."
+      }
+    ],
+    "der Feuerlöscher": [
+      {
+        "sentence": "Das Wort 'der Feuerlöscher' ist wichtig in der Gastronomie.",
+        "target_word": "der Feuerlöscher",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Feuerlöscher' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Feuerlöscher' täglich.",
+        "target_word": "der Feuerlöscher",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Feuerlöscher' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Feuerlöscher' ist essentiell.",
+        "target_word": "der Feuerlöscher",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Feuerlöscher' ضروري."
+      }
+    ],
+    "die Erste Hilfe": [
+      {
+        "sentence": "Das Wort 'die Erste Hilfe' ist wichtig in der Gastronomie.",
+        "target_word": "die Erste Hilfe",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Erste Hilfe' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Erste Hilfe' täglich.",
+        "target_word": "die Erste Hilfe",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Erste Hilfe' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Erste Hilfe' ist essentiell.",
+        "target_word": "die Erste Hilfe",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Erste Hilfe' ضروري."
+      }
+    ],
+    "die Sauberkeit": [
+      {
+        "sentence": "Das Wort 'die Sauberkeit' ist wichtig in der Gastronomie.",
+        "target_word": "die Sauberkeit",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Sauberkeit' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Sauberkeit' täglich.",
+        "target_word": "die Sauberkeit",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Sauberkeit' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Sauberkeit' ist essentiell.",
+        "target_word": "die Sauberkeit",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Sauberkeit' ضروري."
+      }
+    ],
+    "aufräumen": [
+      {
+        "sentence": "Das Wort 'aufräumen' ist wichtig in der Gastronomie.",
+        "target_word": "aufräumen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'aufräumen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'aufräumen' täglich.",
+        "target_word": "aufräumen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'aufräumen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'aufräumen' ist essentiell.",
+        "target_word": "aufräumen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'aufräumen' ضروري."
+      }
+    ],
+    "putzen": [
+      {
+        "sentence": "Das Wort 'putzen' ist wichtig in der Gastronomie.",
+        "target_word": "putzen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'putzen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'putzen' täglich.",
+        "target_word": "putzen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'putzen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'putzen' ist essentiell.",
+        "target_word": "putzen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'putzen' ضروري."
+      }
+    ],
+    "der Müll": [
+      {
+        "sentence": "Das Wort 'der Müll' ist wichtig in der Gastronomie.",
+        "target_word": "der Müll",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Müll' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Müll' täglich.",
+        "target_word": "der Müll",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Müll' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Müll' ist essentiell.",
+        "target_word": "der Müll",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Müll' ضروري."
+      }
+    ],
+    "die Mülltrennung": [
+      {
+        "sentence": "Das Wort 'die Mülltrennung' ist wichtig in der Gastronomie.",
+        "target_word": "die Mülltrennung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Mülltrennung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Mülltrennung' täglich.",
+        "target_word": "die Mülltrennung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Mülltrennung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Mülltrennung' ist essentiell.",
+        "target_word": "die Mülltrennung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Mülltrennung' ضروري."
+      }
+    ],
+    "das Mindesthaltbarkeitsdatum": [
+      {
+        "sentence": "Das Wort 'das Mindesthaltbarkeitsdatum' ist wichtig in der Gastronomie.",
+        "target_word": "das Mindesthaltbarkeitsdatum",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Mindesthaltbarkeitsdatum' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Mindesthaltbarkeitsdatum' täglich.",
+        "target_word": "das Mindesthaltbarkeitsdatum",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Mindesthaltbarkeitsdatum' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Mindesthaltbarkeitsdatum' ist essentiell.",
+        "target_word": "das Mindesthaltbarkeitsdatum",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Mindesthaltbarkeitsdatum' ضروري."
+      }
+    ],
+    "verdorben": [
+      {
+        "sentence": "Das Wort 'verdorben' ist wichtig in der Gastronomie.",
+        "target_word": "verdorben",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'verdorben' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'verdorben' täglich.",
+        "target_word": "verdorben",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'verdorben' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'verdorben' ist essentiell.",
+        "target_word": "verdorben",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'verdorben' ضروري."
+      }
+    ],
+    "die Lagerung": [
+      {
+        "sentence": "Das Wort 'die Lagerung' ist wichtig in der Gastronomie.",
+        "target_word": "die Lagerung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Lagerung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Lagerung' täglich.",
+        "target_word": "die Lagerung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Lagerung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Lagerung' ist essentiell.",
+        "target_word": "die Lagerung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Lagerung' ضروري."
+      }
+    ],
+    "Guten Appetit!": [
+      {
+        "sentence": "Das Wort 'Guten Appetit!' ist wichtig in der Gastronomie.",
+        "target_word": "Guten Appetit!",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'Guten Appetit!' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'Guten Appetit!' täglich.",
+        "target_word": "Guten Appetit!",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'Guten Appetit!' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'Guten Appetit!' ist essentiell.",
+        "target_word": "Guten Appetit!",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'Guten Appetit!' ضروري."
+      }
+    ],
+    "Zum Wohl!": [
+      {
+        "sentence": "Das Wort 'Zum Wohl!' ist wichtig in der Gastronomie.",
+        "target_word": "Zum Wohl!",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'Zum Wohl!' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'Zum Wohl!' täglich.",
+        "target_word": "Zum Wohl!",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'Zum Wohl!' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'Zum Wohl!' ist essentiell.",
+        "target_word": "Zum Wohl!",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'Zum Wohl!' ضروري."
+      }
+    ],
+    "Herzlich willkommen!": [
+      {
+        "sentence": "Das Wort 'Herzlich willkommen!' ist wichtig in der Gastronomie.",
+        "target_word": "Herzlich willkommen!",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'Herzlich willkommen!' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'Herzlich willkommen!' täglich.",
+        "target_word": "Herzlich willkommen!",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'Herzlich willkommen!' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'Herzlich willkommen!' ist essentiell.",
+        "target_word": "Herzlich willkommen!",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'Herzlich willkommen!' ضروري."
+      }
+    ],
+    "Auf Wiedersehen!": [
+      {
+        "sentence": "Das Wort 'Auf Wiedersehen!' ist wichtig in der Gastronomie.",
+        "target_word": "Auf Wiedersehen!",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'Auf Wiedersehen!' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'Auf Wiedersehen!' täglich.",
+        "target_word": "Auf Wiedersehen!",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'Auf Wiedersehen!' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'Auf Wiedersehen!' ist essentiell.",
+        "target_word": "Auf Wiedersehen!",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'Auf Wiedersehen!' ضروري."
+      }
+    ],
+    "der Sommelier": [
+      {
+        "sentence": "Das Wort 'der Sommelier' ist wichtig in der Gastronomie.",
+        "target_word": "der Sommelier",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Sommelier' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Sommelier' täglich.",
+        "target_word": "der Sommelier",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Sommelier' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Sommelier' ist essentiell.",
+        "target_word": "der Sommelier",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Sommelier' ضروري."
+      }
+    ],
+    "der Koch / die Köchin": [
+      {
+        "sentence": "Das Wort 'der Koch / die Köchin' ist wichtig in der Gastronomie.",
+        "target_word": "der Koch / die Köchin",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Koch / die Köchin' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Koch / die Köchin' täglich.",
+        "target_word": "der Koch / die Köchin",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Koch / die Köchin' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Koch / die Köchin' ist essentiell.",
+        "target_word": "der Koch / die Köchin",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Koch / die Köchin' ضروري."
+      }
+    ],
+    "der Küchenchef": [
+      {
+        "sentence": "Das Wort 'der Küchenchef' ist wichtig in der Gastronomie.",
+        "target_word": "der Küchenchef",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Küchenchef' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Küchenchef' täglich.",
+        "target_word": "der Küchenchef",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Küchenchef' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Küchenchef' ist essentiell.",
+        "target_word": "der Küchenchef",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Küchenchef' ضروري."
+      }
+    ],
+    "der Kellner / die Kellnerin": [
+      {
+        "sentence": "Das Wort 'der Kellner / die Kellnerin' ist wichtig in der Gastronomie.",
+        "target_word": "der Kellner / die Kellnerin",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Kellner / die Kellnerin' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Kellner / die Kellnerin' täglich.",
+        "target_word": "der Kellner / die Kellnerin",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Kellner / die Kellnerin' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Kellner / die Kellnerin' ist essentiell.",
+        "target_word": "der Kellner / die Kellnerin",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Kellner / die Kellnerin' ضروري."
+      }
+    ],
+    "der Restaurantleiter": [
+      {
+        "sentence": "Das Wort 'der Restaurantleiter' ist wichtig in der Gastronomie.",
+        "target_word": "der Restaurantleiter",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Restaurantleiter' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Restaurantleiter' täglich.",
+        "target_word": "der Restaurantleiter",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Restaurantleiter' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Restaurantleiter' ist essentiell.",
+        "target_word": "der Restaurantleiter",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Restaurantleiter' ضروري."
+      }
+    ],
+    "der Barkeeper / die Barkeeperin": [
+      {
+        "sentence": "Das Wort 'der Barkeeper / die Barkeeperin' ist wichtig in der Gastronomie.",
+        "target_word": "der Barkeeper / die Barkeeperin",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Barkeeper / die Barkeeperin' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Barkeeper / die Barkeeperin' täglich.",
+        "target_word": "der Barkeeper / die Barkeeperin",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Barkeeper / die Barkeeperin' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Barkeeper / die Barkeeperin' ist essentiell.",
+        "target_word": "der Barkeeper / die Barkeeperin",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Barkeeper / die Barkeeperin' ضروري."
+      }
+    ],
+    "der Spülküche": [
+      {
+        "sentence": "Das Wort 'der Spülküche' ist wichtig in der Gastronomie.",
+        "target_word": "der Spülküche",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Spülküche' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Spülküche' täglich.",
+        "target_word": "der Spülküche",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Spülküche' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Spülküche' ist essentiell.",
+        "target_word": "der Spülküche",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Spülküche' ضروري."
+      }
+    ],
+    "die Kühlkette": [
+      {
+        "sentence": "Das Wort 'die Kühlkette' ist wichtig in der Gastronomie.",
+        "target_word": "die Kühlkette",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Kühlkette' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Kühlkette' täglich.",
+        "target_word": "die Kühlkette",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Kühlkette' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Kühlkette' ist essentiell.",
+        "target_word": "die Kühlkette",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Kühlkette' ضروري."
+      }
+    ],
+    "das Lagersystem": [
+      {
+        "sentence": "Das Wort 'das Lagersystem' ist wichtig in der Gastronomie.",
+        "target_word": "das Lagersystem",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Lagersystem' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Lagersystem' täglich.",
+        "target_word": "das Lagersystem",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Lagersystem' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Lagersystem' ist essentiell.",
+        "target_word": "das Lagersystem",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Lagersystem' ضروري."
+      }
+    ],
+    "die Inventur": [
+      {
+        "sentence": "Das Wort 'die Inventur' ist wichtig in der Gastronomie.",
+        "target_word": "die Inventur",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Inventur' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Inventur' täglich.",
+        "target_word": "die Inventur",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Inventur' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Inventur' ist essentiell.",
+        "target_word": "die Inventur",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Inventur' ضروري."
+      }
+    ],
+    "die Bestellung (Waren)": [
+      {
+        "sentence": "Das Wort 'die Bestellung (Waren)' ist wichtig in der Gastronomie.",
+        "target_word": "die Bestellung (Waren)",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Bestellung (Waren)' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Bestellung (Waren)' täglich.",
+        "target_word": "die Bestellung (Waren)",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Bestellung (Waren)' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Bestellung (Waren)' ist essentiell.",
+        "target_word": "die Bestellung (Waren)",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Bestellung (Waren)' ضروري."
+      }
+    ],
+    "der Lieferant": [
+      {
+        "sentence": "Das Wort 'der Lieferant' ist wichtig in der Gastronomie.",
+        "target_word": "der Lieferant",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'der Lieferant' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'der Lieferant' täglich.",
+        "target_word": "der Lieferant",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'der Lieferant' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'der Lieferant' ist essentiell.",
+        "target_word": "der Lieferant",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'der Lieferant' ضروري."
+      }
+    ],
+    "die Lieferung": [
+      {
+        "sentence": "Das Wort 'die Lieferung' ist wichtig in der Gastronomie.",
+        "target_word": "die Lieferung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Lieferung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Lieferung' täglich.",
+        "target_word": "die Lieferung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Lieferung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Lieferung' ist essentiell.",
+        "target_word": "die Lieferung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Lieferung' ضروري."
+      }
+    ],
+    "das Verfallsdatum": [
+      {
+        "sentence": "Das Wort 'das Verfallsdatum' ist wichtig in der Gastronomie.",
+        "target_word": "das Verfallsdatum",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'das Verfallsdatum' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'das Verfallsdatum' täglich.",
+        "target_word": "das Verfallsdatum",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'das Verfallsdatum' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'das Verfallsdatum' ist essentiell.",
+        "target_word": "das Verfallsdatum",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'das Verfallsdatum' ضروري."
+      }
+    ],
+    "bio / ökologisch": [
+      {
+        "sentence": "Das Wort 'bio / ökologisch' ist wichtig in der Gastronomie.",
+        "target_word": "bio / ökologisch",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'bio / ökologisch' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'bio / ökologisch' täglich.",
+        "target_word": "bio / ökologisch",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'bio / ökologisch' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'bio / ökologisch' ist essentiell.",
+        "target_word": "bio / ökologisch",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'bio / ökologisch' ضروري."
+      }
+    ],
+    "regional": [
+      {
+        "sentence": "Das Wort 'regional' ist wichtig in der Gastronomie.",
+        "target_word": "regional",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'regional' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'regional' täglich.",
+        "target_word": "regional",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'regional' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'regional' ist essentiell.",
+        "target_word": "regional",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'regional' ضروري."
+      }
+    ],
+    "saisonal": [
+      {
+        "sentence": "Das Wort 'saisonal' ist wichtig in der Gastronomie.",
+        "target_word": "saisonal",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'saisonal' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'saisonal' täglich.",
+        "target_word": "saisonal",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'saisonal' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'saisonal' ist essentiell.",
+        "target_word": "saisonal",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'saisonal' ضروري."
+      }
+    ],
+    "die Nachhaltigkeit": [
+      {
+        "sentence": "Das Wort 'die Nachhaltigkeit' ist wichtig in der Gastronomie.",
+        "target_word": "die Nachhaltigkeit",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Nachhaltigkeit' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Nachhaltigkeit' täglich.",
+        "target_word": "die Nachhaltigkeit",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Nachhaltigkeit' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Nachhaltigkeit' ist essentiell.",
+        "target_word": "die Nachhaltigkeit",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Nachhaltigkeit' ضروري."
+      }
+    ],
+    "die Portion anpassen": [
+      {
+        "sentence": "Das Wort 'die Portion anpassen' ist wichtig in der Gastronomie.",
+        "target_word": "die Portion anpassen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Portion anpassen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Portion anpassen' täglich.",
+        "target_word": "die Portion anpassen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Portion anpassen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Portion anpassen' ist essentiell.",
+        "target_word": "die Portion anpassen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Portion anpassen' ضروري."
+      }
+    ],
+    "die Kinderportion": [
+      {
+        "sentence": "Das Wort 'die Kinderportion' ist wichtig in der Gastronomie.",
+        "target_word": "die Kinderportion",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Kinderportion' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Kinderportion' täglich.",
+        "target_word": "die Kinderportion",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Kinderportion' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Kinderportion' ist essentiell.",
+        "target_word": "die Kinderportion",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Kinderportion' ضروري."
+      }
+    ],
+    "zum Mitnehmen": [
+      {
+        "sentence": "Das Wort 'zum Mitnehmen' ist wichtig in der Gastronomie.",
+        "target_word": "zum Mitnehmen",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'zum Mitnehmen' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'zum Mitnehmen' täglich.",
+        "target_word": "zum Mitnehmen",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'zum Mitnehmen' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'zum Mitnehmen' ist essentiell.",
+        "target_word": "zum Mitnehmen",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'zum Mitnehmen' ضروري."
+      }
+    ],
+    "die Verpackung": [
+      {
+        "sentence": "Das Wort 'die Verpackung' ist wichtig in der Gastronomie.",
+        "target_word": "die Verpackung",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Verpackung' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Verpackung' täglich.",
+        "target_word": "die Verpackung",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Verpackung' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Verpackung' ist essentiell.",
+        "target_word": "die Verpackung",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Verpackung' ضروري."
+      }
+    ],
+    "die Reservierungsliste": [
+      {
+        "sentence": "Das Wort 'die Reservierungsliste' ist wichtig in der Gastronomie.",
+        "target_word": "die Reservierungsliste",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Reservierungsliste' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Reservierungsliste' täglich.",
+        "target_word": "die Reservierungsliste",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Reservierungsliste' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Reservierungsliste' ist essentiell.",
+        "target_word": "die Reservierungsliste",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Reservierungsliste' ضروري."
+      }
+    ],
+    "ausgebucht": [
+      {
+        "sentence": "Das Wort 'ausgebucht' ist wichtig in der Gastronomie.",
+        "target_word": "ausgebucht",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'ausgebucht' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'ausgebucht' täglich.",
+        "target_word": "ausgebucht",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'ausgebucht' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'ausgebucht' ist essentiell.",
+        "target_word": "ausgebucht",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'ausgebucht' ضروري."
+      }
+    ],
+    "die Warteliste": [
+      {
+        "sentence": "Das Wort 'die Warteliste' ist wichtig in der Gastronomie.",
+        "target_word": "die Warteliste",
+        "difficulty": "basic",
+        "context": "Gastronomy Term",
+        "translation": "الكلمة 'die Warteliste' مهمة في مجال المطاعم."
+      },
+      {
+        "sentence": "In unserem Restaurant verwenden wir 'die Warteliste' täglich.",
+        "target_word": "die Warteliste",
+        "difficulty": "intermediate",
+        "context": "Daily Use",
+        "translation": "في مطعمنا نستخدم 'die Warteliste' يومياً."
+      },
+      {
+        "sentence": "Ein professioneller Umgang mit 'die Warteliste' ist essentiell.",
+        "target_word": "die Warteliste",
+        "difficulty": "advanced",
+        "context": "Professional Standard",
+        "translation": "التعامل الاحترافي مع 'die Warteliste' ضروري."
+      }
+    ]
+  }
+}
