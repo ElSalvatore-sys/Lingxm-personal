@@ -2878,23 +2878,32 @@ class LingXMApp {
       return;
     }
 
-    // Get user's mastered words (TESTING MODE: All words treated as mastered)
+    // ============================================================
+    // DEV MODE: NO MASTERY REQUIREMENT
+    // Practice sentences immediately with ANY vocabulary!
+    // ============================================================
     // userId already declared at line 2828
     console.log(`[SENTENCES] Using userId:`, userId, `(type: ${typeof userId})`);
 
-    // TESTING MODE: Treat ALL vocabulary as mastered (bypasses database)
+    // DEV MODE: Use all vocabulary for sentence matching (no mastery check)
     const masteredWords = this.wordData[langCode]?.map(w => w.word) || [];
-    console.log(`[SENTENCES] 🧪 TESTING MODE: Using all ${masteredWords.length} vocabulary words as mastered`);
+    console.log(`[SENTENCES] 🎯 DEV MODE: Using all ${masteredWords.length} vocabulary words (no mastery check)`);
 
-    // Production mode would be:
-    // const progress = dbManager.getLearnedWords(userId, langCode);
-    // const masteredWords = progress.filter(p => p.mastery_level === 5).map(p => p.word);
+    // Production mode would check mastery level:
+    // const progress = await dbManager.getProgress(userId, langCode);
+    // const masteredWords = progress.filter(p => p.mastery_level >= 5).map(p => p.word);
 
-    // Find i+1 sentences
+    // Get user's proficiency level for this language (using existing currentLang from above)
+    const userLevel = currentLang?.level?.toLowerCase().replace(/[-\s]/g, '') || 'b1b2'; // e.g., "C1-C2" → "c1c2"
+
+    console.log(`[SENTENCES] User level for ${langCode}: ${userLevel}`);
+
+    // Find i+1 sentences with user's level
     const i1Sentences = await sentenceManager.findI1Sentences(
-      this.currentUser.id,
       langCode,
-      masteredWords
+      masteredWords,
+      10,
+      userLevel  // PASS THE LEVEL!
     );
 
     console.log(`[SENTENCES] Found ${i1Sentences.length} i+1 sentences`);
@@ -2970,21 +2979,70 @@ class LingXMApp {
     console.log(`[SENTENCES] Loading sentence ${session.currentIndex + 1}/${session.sentences.length}`);
     console.log(`[SENTENCES] Target: ${sentence.target_word}, Known: ${sentence.known_percentage}%`);
 
+    // ============================================================
+    // EXTRACT SENTENCE TEXT SAFELY
+    // ============================================================
+    const fullSentenceText = sentence.sentence || sentence.full || sentence.text || '';
+
+    // Safety check: Ensure we have text
+    if (!fullSentenceText || typeof fullSentenceText !== 'string') {
+      console.error('[SENTENCES] Invalid sentence text:', sentence);
+      this.showSessionComplete(); // Skip to end
+      return;
+    }
+
+    // ============================================================
+    // CREATE BLANK VERSION
+    // ============================================================
+    const targetWord = sentence.target_word || sentence.word || '';
+
+    // Generate blank if not provided
+    let blankVersion = sentence.blank;
+    if (!blankVersion) {
+      // Create blank by replacing target word with _____
+      if (targetWord) {
+        // Try exact match first
+        blankVersion = fullSentenceText.replace(targetWord, '_____');
+
+        // If no replacement happened, try case-insensitive
+        if (blankVersion === fullSentenceText) {
+          const regex = new RegExp('\\b' + targetWord + '\\b', 'gi');
+          blankVersion = fullSentenceText.replace(regex, '_____');
+        }
+      } else {
+        // No target word - use first word as blank
+        blankVersion = fullSentenceText.replace(/^\w+/, '_____');
+      }
+    }
+
+    console.log(`[SENTENCES] Sentence text: "${fullSentenceText}"`);
+    console.log(`[SENTENCES] Target word: "${targetWord}"`);
+    console.log(`[SENTENCES] Blank version: "${blankVersion}"`);
+
     // Update progress indicator
     document.getElementById('sentence-current').textContent = session.currentIndex + 1;
     document.getElementById('sentence-total').textContent = session.sentences.length;
 
     // Update difficulty badge
     const difficultyBadge = document.getElementById('sentence-difficulty');
-    difficultyBadge.textContent = sentence.difficulty;
+    difficultyBadge.textContent = sentence.difficulty || 'basic';
 
     // Display sentence with blank
     const sentenceText = document.getElementById('sentence-text');
-    sentenceText.innerHTML = sentence.blank.replace('_____', '<span class="blank">_____</span>');
+    sentenceText.innerHTML = blankVersion.replace('_____', '<span class="blank">_____</span>');
 
     // Generate word bank (1 correct + 3 distractors)
-    const allWords = this.wordData[session.language].map(w => w.word);
+    const allWords = this.wordData[session.language]?.map(w => w.word || w) || [];
     const wordBank = sentenceManager.generateWordBank(sentence, allWords);
+
+    // Safety check: Ensure we have word bank
+    if (!wordBank || wordBank.length === 0) {
+      console.error('[SENTENCES] Failed to generate word bank for:', sentence);
+      this.loadNextSentence(); // Skip to next sentence
+      return;
+    }
+
+    console.log(`[SENTENCES] Word bank (${wordBank.length} words):`, wordBank);
 
     // Render word options
     const wordBankEl = document.getElementById('word-bank');

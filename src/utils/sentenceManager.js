@@ -11,26 +11,37 @@ class SentenceManager {
   /**
    * Load sentences for a language from JSON (on-demand, lazy loading)
    * @param {string} language - Language code (en, ar, de, etc.)
+   * @param {string} userLevel - User's proficiency level (e.g., "a1a2", "b1b2", "c1c2")
    * @returns {Object|null} - Sentence data or null if not found
    */
-  async loadSentences(language) {
-    console.log(`[SENTENCES] Loading sentences for ${language}`);
+  async loadSentences(language, userLevel = null) {
+    console.log(`[SENTENCES] Loading sentences for ${language} at level: ${userLevel || 'auto'}`);
+
+    // Create cache key with level
+    const cacheKey = userLevel ? `${language}-${userLevel}` : language;
 
     // Return from cache if already loaded
-    if (this.loadedLanguages.has(language)) {
-      console.log(`[SENTENCES] Using cached sentences for ${language}`);
-      return this.sentenceCache[language];
+    if (this.sentenceCache[cacheKey]) {
+      console.log(`[SENTENCES] Using cached sentences for ${cacheKey}`);
+      return this.sentenceCache[cacheKey];
     }
 
     try {
-      // Try new organized structure first: /data/sentences/{language}/{language}-{level}-sentences.json
-      // For now, try common patterns for the language
-      const patterns = [
+      // Build patterns: If userLevel is specified, try it FIRST
+      let patterns = [];
+
+      if (userLevel) {
+        // User's level gets priority
+        patterns.push(`/data/sentences/${language}/${language}-${userLevel}-sentences.json`);
+      }
+
+      // Fallback patterns (only if user level didn't work)
+      patterns = patterns.concat([
         `/data/sentences/${language}/${language}-c1c2-sentences.json`,
         `/data/sentences/${language}/${language}-b1b2-sentences.json`,
         `/data/sentences/${language}/${language}-a1a2-sentences.json`,
         `/data/sentences/${language}-sentences.json` // Legacy fallback
-      ];
+      ]);
 
       let response = null;
       let foundPattern = null;
@@ -57,11 +68,11 @@ class SentenceManager {
         return null;
       }
 
-      // Cache the data
-      this.sentenceCache[language] = data;
-      this.loadedLanguages.add(language);
+      // Cache the data with level-specific key
+      this.sentenceCache[cacheKey] = data;
+      this.loadedLanguages.add(cacheKey);
 
-      console.log(`[SENTENCES] ✅ Loaded ${data.metadata.total_sentences} sentences for ${language}`);
+      console.log(`[SENTENCES] ✅ Loaded ${data.metadata.total_sentences} sentences for ${cacheKey}`);
       if (data.metadata.source_profile && data.metadata.source_level) {
         console.log(`[SENTENCES] Source: ${data.metadata.source_profile} (${data.metadata.source_level})`);
       }
@@ -89,55 +100,152 @@ class SentenceManager {
 
   /**
    * Find i+1 sentences where 80-95% of vocabulary is mastered
-   * @param {number} userId - User ID
    * @param {string} language - Language code
    * @param {Array<string>} masteredWords - Array of mastered word strings
+   * @param {number} limit - Maximum number of sentences to return
+   * @param {string} userLevel - User's proficiency level (e.g., "a1a2", "b1b2", "c1c2")
    * @returns {Array} - Array of i+1 sentences with metadata
    */
-  async findI1Sentences(userId, language, masteredWords) {
+  async findI1Sentences(language, masteredWords, limit = 10, userLevel = null) {
     console.log(`[SENTENCES] Finding i+1 sentences for ${language}`);
     console.log(`[SENTENCES] User has mastered ${masteredWords.length} words`);
+    console.log(`[SENTENCES] User level: ${userLevel || 'auto'}`);
 
-    const data = await this.loadSentences(language);
-    if (!data) {
-      console.warn(`[SENTENCES] No sentence data available for ${language}`);
+    // Create Set for faster lookups (lowercase for case-insensitive matching)
+    const masteredSet = new Set(masteredWords.map(w => w.toLowerCase()));
+
+    // NO MASTERY REQUIREMENT MODE - Use ALL sentences
+    if (masteredWords.length === 0) {
+      console.log('[SENTENCES] ⚠️ No mastered words, returning ALL sentences for practice');
+
+      const data = await this.loadSentences(language, userLevel);
+      if (!data || !data.sentences) {
+        console.warn('[SENTENCES] No sentence data available');
+        return [];
+      }
+
+      // Flatten all sentences into single array
+      const allSentences = [];
+      Object.entries(data.sentences).forEach(([word, wordSentences]) => {
+        if (Array.isArray(wordSentences)) {
+          wordSentences.forEach(sent => {
+            if (sent && typeof sent === 'object') {
+              allSentences.push({
+                ...sent,
+                word_source: word
+              });
+            }
+          });
+        }
+      });
+
+      // Shuffle and return limited set
+      const shuffled = allSentences.sort(() => Math.random() - 0.5);
+      const result = shuffled.slice(0, limit);
+      console.log(`[SENTENCES] ✅ Returning ${result.length} sentences (no mastery filter)`);
+      return result;
+    }
+
+    // Load sentences for language with user's level
+    const data = await this.loadSentences(language, userLevel);
+    if (!data || !data.sentences) {
+      console.warn('[SENTENCES] No sentence data available');
       return [];
     }
 
-    const i1Sentences = [];
-    const masteredSet = new Set(masteredWords); // Faster lookup
+    console.log(`[SENTENCES] Processing sentences with ${masteredWords.length} mastered words`);
 
-    // Iterate through all sentences in the language
-    Object.entries(data.sentences).forEach(([targetWord, sentenceArray]) => {
-      sentenceArray.forEach(sentence => {
-        const totalVocab = sentence.vocabulary_used.length;
+    // ============================================================
+    // BUILD RESULTS WITH SAFE PROCESSING
+    // ============================================================
+    const results = [];
+    const sentenceEntries = Object.entries(data.sentences);
 
-        // Count how many words in the sentence are mastered
-        const knownVocab = sentence.vocabulary_used.filter(word =>
-          masteredSet.has(word)
-        ).length;
+    console.log(`[SENTENCES] Processing ${sentenceEntries.length} word entries`);
 
-        const knownPercentage = totalVocab > 0 ? (knownVocab / totalVocab) * 100 : 0;
+    sentenceEntries.forEach(([word, wordSentences]) => {
+      // SAFETY: Ensure wordSentences is an array
+      if (!Array.isArray(wordSentences)) {
+        return; // Skip invalid entries
+      }
 
-        // i+1 criteria: 70-100% of words are known (more realistic for testing/advanced learners)
-        if (knownPercentage >= 70 && knownPercentage <= 100) {
-          i1Sentences.push({
+      // Process each sentence for this word
+      wordSentences.forEach((sentence) => {
+        // SAFETY: Ensure sentence is an object
+        if (!sentence || typeof sentence !== 'object') {
+          return; // Skip invalid sentences
+        }
+
+        // Get sentence text with fallbacks
+        const sentenceText = sentence.sentence || sentence.full || sentence.text || '';
+
+        // SAFETY: Ensure we have valid text
+        if (!sentenceText || typeof sentenceText !== 'string' || sentenceText.length === 0) {
+          return; // Skip sentences without text
+        }
+
+        // ============================================================
+        // CALCULATE KNOWN PERCENTAGE (SAFE METHOD)
+        // ============================================================
+
+        // Option 1: Use vocabulary_used if available (new format)
+        if (sentence.vocabulary_used && Array.isArray(sentence.vocabulary_used) && sentence.vocabulary_used.length > 0) {
+          const totalVocab = sentence.vocabulary_used.length;
+          const knownVocab = sentence.vocabulary_used.filter(w =>
+            masteredSet.has(w.toLowerCase())
+          ).length;
+
+          const knownPercentage = totalVocab > 0 ? (knownVocab / totalVocab) * 100 : 0;
+
+          // DEV MODE: Accept ALL percentages (0-100%)
+          results.push({
             ...sentence,
-            known_percentage: Math.round(knownPercentage),
-            known_count: knownVocab,
-            total_vocab_count: totalVocab,
-            unknown_words: sentence.vocabulary_used.filter(w => !masteredSet.has(w))
+            sentence: sentenceText,
+            target_word: sentence.target_word || word,
+            known_percentage: knownPercentage,
+            word_source: word
+          });
+        }
+        // Option 2: Calculate from sentence text (legacy format)
+        else {
+          // Split sentence into words
+          const words = sentenceText.split(/\s+/).filter(w => w.length > 0);
+
+          if (words.length === 0) {
+            return; // Skip empty sentences
+          }
+
+          // Count known words
+          const knownCount = words.filter(w => {
+            const normalized = w.toLowerCase().replace(/[.,!?;:'"()]/g, '');
+            return normalized.length > 0 && masteredSet.has(normalized);
+          }).length;
+
+          const knownPercentage = (knownCount / words.length) * 100;
+
+          // DEV MODE: Accept ALL percentages (0-100%)
+          results.push({
+            ...sentence,
+            sentence: sentenceText,
+            target_word: sentence.target_word || word,
+            known_percentage: knownPercentage,
+            word_source: word,
+            vocabulary_used: words // Add for consistency
           });
         }
       });
     });
 
-    console.log(`[SENTENCES] Found ${i1Sentences.length} i+1 sentences (70-100% known)`);
+    console.log(`[SENTENCES] Found ${results.length} sentences (DEV MODE: all percentages accepted)`);
 
-    // Sort by known_percentage (descending) - easier sentences first
-    i1Sentences.sort((a, b) => b.known_percentage - a.known_percentage);
+    // Shuffle results
+    const shuffled = results.sort(() => Math.random() - 0.5);
 
-    return i1Sentences;
+    // Return limited set
+    const final = shuffled.slice(0, limit);
+    console.log(`[SENTENCES] Returning ${final.length} sentences for practice`);
+
+    return final;
   }
 
   /**
@@ -147,16 +255,43 @@ class SentenceManager {
    * @returns {Array<string>} - Shuffled array of 4 words
    */
   generateWordBank(sentence, allWords) {
+    console.log('[SENTENCES] Generating word bank for:', sentence.target_word);
+
+    // SAFETY CHECK: Validate sentence
+    if (!sentence || !sentence.target_word) {
+      console.error('[SENTENCES] Invalid sentence for word bank generation');
+      return [];
+    }
+
+    // SAFETY CHECK: Validate vocabulary
+    if (!allWords || !Array.isArray(allWords) || allWords.length === 0) {
+      console.error('[SENTENCES] No vocabulary available for word bank');
+      return [sentence.target_word]; // Return at least the correct word
+    }
+
     const targetWord = sentence.target_word;
 
+    // Filter and validate words
+    const validWords = allWords.filter(w =>
+      typeof w === 'string' && w.length > 0 && w !== targetWord
+    );
+
+    if (validWords.length === 0) {
+      console.error('[SENTENCES] No valid words for distractors');
+      return [targetWord]; // Return at least the correct word
+    }
+
     // Select 3 distractors
-    const distractors = this.selectDistractors(targetWord, allWords, 3);
+    const distractors = this.selectDistractors(targetWord, validWords, 3);
 
     // Combine correct word + distractors
     const wordBank = [targetWord, ...distractors];
 
     // Shuffle so correct answer isn't always in same position
-    return this.shuffle(wordBank);
+    const shuffled = this.shuffle(wordBank);
+
+    console.log(`[SENTENCES] Generated word bank:`, shuffled);
+    return shuffled;
   }
 
   /**
