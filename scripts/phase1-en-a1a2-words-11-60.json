@@ -1,0 +1,2139 @@
+{
+  "metadata": {
+    "phase": 1,
+    "words_range": "11-60",
+    "total_words": 44,
+    "total_sentences": 150,
+    "generation_date": "2025-11-04",
+    "target_language": "en",
+    "proficiency_level": "A1-A2",
+    "user": "salman",
+    "quality_score": 98,
+    "validation_passed": true,
+    "word_classification": {
+      "high_risk_adverbs": 13,
+      "question_words": 6,
+      "safe_content_words": 25
+    }
+  },
+  "sentences": {
+    "always": [
+      {
+        "sentence": "I always eat breakfast.",
+        "target_word": "always",
+        "difficulty": "A1",
+        "context": "Daily routine - frequency",
+        "grammar_pattern": "subject + always + verb + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb correctly modifying verb 'eat'. No article used."
+      },
+      {
+        "sentence": "She always comes to work early.",
+        "target_word": "always",
+        "difficulty": "A2",
+        "context": "Work habit - punctuality",
+        "grammar_pattern": "subject + always + verb + prepositional phrase + adjective",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb in natural work context. Grammatically correct placement."
+      },
+      {
+        "sentence": "Do you always drink coffee?",
+        "target_word": "always",
+        "difficulty": "A1",
+        "context": "Asking about habits",
+        "grammar_pattern": "auxiliary + subject + always + verb + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Correct question formation with frequency adverb. Natural conversational English."
+      }
+    ],
+    "bread": [
+      {
+        "sentence": "I eat bread for breakfast.",
+        "target_word": "bread",
+        "difficulty": "A1",
+        "context": "Morning meal",
+        "grammar_pattern": "subject + verb + object + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun used correctly without article. Simple meal context."
+      },
+      {
+        "sentence": "This bread is very fresh.",
+        "target_word": "bread",
+        "difficulty": "A1",
+        "context": "Food quality",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative 'this' with uncountable noun. Natural quality description."
+      },
+      {
+        "sentence": "Can I have some bread please?",
+        "target_word": "bread",
+        "difficulty": "A1",
+        "context": "Polite request",
+        "grammar_pattern": "modal + subject + verb + quantifier + object + politeness marker",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Polite request with 'some' for uncountable noun. Practical restaurant/home scenario."
+      }
+    ],
+    "child": [
+      {
+        "sentence": "The child is very happy.",
+        "target_word": "child",
+        "difficulty": "A1",
+        "context": "Emotion description",
+        "grammar_pattern": "article + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Singular countable noun with article. Simple emotion description."
+      },
+      {
+        "sentence": "I have one child.",
+        "target_word": "child",
+        "difficulty": "A1",
+        "context": "Family information",
+        "grammar_pattern": "subject + verb + quantifier + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Natural way to state family size. Common conversational pattern."
+      },
+      {
+        "sentence": "My child goes to school.",
+        "target_word": "child",
+        "difficulty": "A1",
+        "context": "Education routine",
+        "grammar_pattern": "possessive + noun + verb + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Possessive pronoun with noun. Common topic in A1 conversations."
+      }
+    ],
+    "coffee": [
+      {
+        "sentence": "I drink coffee every morning.",
+        "target_word": "coffee",
+        "difficulty": "A1",
+        "context": "Daily routine",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun without article. Natural routine description."
+      },
+      {
+        "sentence": "Would you like some coffee?",
+        "target_word": "coffee",
+        "difficulty": "A1",
+        "context": "Offering a drink",
+        "grammar_pattern": "modal + subject + verb + quantifier + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Polite offer using 'some' with uncountable noun. Essential hospitality phrase."
+      },
+      {
+        "sentence": "This coffee is too hot.",
+        "target_word": "coffee",
+        "difficulty": "A1",
+        "context": "Temperature complaint",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Common cafe scenario. 'Too' introduces i+1 intensity concept."
+      }
+    ],
+    "day": [
+      {
+        "sentence": "Today is a nice day.",
+        "target_word": "day",
+        "difficulty": "A1",
+        "context": "Weather comment",
+        "grammar_pattern": "time subject + be + article + adjective + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Countable noun with indefinite article. Common weather observation."
+      },
+      {
+        "sentence": "I work five days a week.",
+        "target_word": "day",
+        "difficulty": "A2",
+        "context": "Work schedule",
+        "grammar_pattern": "subject + verb + number + object + article + time unit",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Plural noun in frequency expression. Natural work context."
+      },
+      {
+        "sentence": "Have a good day!",
+        "target_word": "day",
+        "difficulty": "A1",
+        "context": "Farewell greeting",
+        "grammar_pattern": "imperative + article + adjective + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Essential social phrase. Imperative with indefinite article."
+      }
+    ],
+    "drink": [
+      {
+        "sentence": "I drink water every day.",
+        "target_word": "drink",
+        "difficulty": "A1",
+        "context": "Healthy habit",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Simple present tense for habitual action. Clear health context."
+      },
+      {
+        "sentence": "What do you want to drink?",
+        "target_word": "drink",
+        "difficulty": "A1",
+        "context": "Offering beverages",
+        "grammar_pattern": "question word + auxiliary + subject + verb + infinitive + verb",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Common question in restaurant/social setting. 'Want to' introduces i+1."
+      },
+      {
+        "sentence": "She drinks tea in the morning.",
+        "target_word": "drink",
+        "difficulty": "A1",
+        "context": "Personal preference",
+        "grammar_pattern": "subject + verb-s + object + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person singular -s. Natural routine description."
+      }
+    ],
+    "eat": [
+      {
+        "sentence": "I eat three times a day.",
+        "target_word": "eat",
+        "difficulty": "A1",
+        "context": "Meal frequency",
+        "grammar_pattern": "subject + verb + number + noun + article + time unit",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Frequency expression with verb. Natural health topic."
+      },
+      {
+        "sentence": "Where do you eat lunch?",
+        "target_word": "eat",
+        "difficulty": "A1",
+        "context": "Location inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Location question about daily activity. Common workplace conversation."
+      },
+      {
+        "sentence": "Let's eat together tonight.",
+        "target_word": "eat",
+        "difficulty": "A2",
+        "context": "Social invitation",
+        "grammar_pattern": "let's + verb + adverb + time expression",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Suggestion using 'let's'. Natural social invitation pattern."
+      }
+    ],
+    "family": [
+      {
+        "sentence": "I love my family.",
+        "target_word": "family",
+        "difficulty": "A1",
+        "context": "Personal relationships",
+        "grammar_pattern": "subject + verb + possessive + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Simple affection expression. Essential personal vocabulary."
+      },
+      {
+        "sentence": "My family is very big.",
+        "target_word": "family",
+        "difficulty": "A1",
+        "context": "Family size description",
+        "grammar_pattern": "possessive + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Collective noun treated as singular. Common self-introduction topic."
+      },
+      {
+        "sentence": "I visit my family every month.",
+        "target_word": "family",
+        "difficulty": "A2",
+        "context": "Routine activities",
+        "grammar_pattern": "subject + verb + possessive + object + time expression",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Habitual action with frequency. Natural family topic."
+      }
+    ],
+    "father": [
+      {
+        "sentence": "My father is a teacher.",
+        "target_word": "father",
+        "difficulty": "A1",
+        "context": "Occupation description",
+        "grammar_pattern": "possessive + noun + be + article + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Family member with occupation. Common introduction pattern."
+      },
+      {
+        "sentence": "I call my father every week.",
+        "target_word": "father",
+        "difficulty": "A1",
+        "context": "Communication routine",
+        "grammar_pattern": "subject + verb + possessive + object + time expression",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Habitual action expressing family connection. Natural frequency pattern."
+      },
+      {
+        "sentence": "His father works in a hospital.",
+        "target_word": "father",
+        "difficulty": "A2",
+        "context": "Workplace description",
+        "grammar_pattern": "possessive + noun + verb-s + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person possessive. Work location context."
+      }
+    ],
+    "food": [
+      {
+        "sentence": "I like healthy food.",
+        "target_word": "food",
+        "difficulty": "A1",
+        "context": "Dietary preference",
+        "grammar_pattern": "subject + verb + adjective + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun with adjective. Common preference statement."
+      },
+      {
+        "sentence": "The food here is very good.",
+        "target_word": "food",
+        "difficulty": "A1",
+        "context": "Restaurant review",
+        "grammar_pattern": "article + noun + adverb + be + adverb + adjective",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Location adverb 'here' correctly used. Natural restaurant context."
+      },
+      {
+        "sentence": "What kind of food do you like?",
+        "target_word": "food",
+        "difficulty": "A2",
+        "context": "Preference inquiry",
+        "grammar_pattern": "question phrase + object + auxiliary + subject + verb",
+        "word_count": 7,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'What kind of' phrase introduces i+1. Essential conversation starter."
+      }
+    ],
+    "friend": [
+      {
+        "sentence": "She is my best friend.",
+        "target_word": "friend",
+        "difficulty": "A1",
+        "context": "Relationship description",
+        "grammar_pattern": "subject + be + possessive + adjective + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Superlative 'best' with singular noun. Essential relationship vocabulary."
+      },
+      {
+        "sentence": "I meet my friends every weekend.",
+        "target_word": "friend",
+        "difficulty": "A1",
+        "context": "Social routine",
+        "grammar_pattern": "subject + verb + possessive + object + time expression",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Plural noun with habitual action. Natural social context."
+      },
+      {
+        "sentence": "My friend lives in London.",
+        "target_word": "friend",
+        "difficulty": "A1",
+        "context": "Location information",
+        "grammar_pattern": "possessive + noun + verb-s + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person singular with location. Simple factual statement."
+      }
+    ],
+    "here": [
+      {
+        "sentence": "Come here please.",
+        "target_word": "here",
+        "difficulty": "A1",
+        "context": "Location instruction",
+        "grammar_pattern": "imperative + location adverb + politeness marker",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Location adverb with imperative. NO article used. Essential command."
+      },
+      {
+        "sentence": "I live here.",
+        "target_word": "here",
+        "difficulty": "A1",
+        "context": "Residence statement",
+        "grammar_pattern": "subject + verb + location adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Location adverb modifying verb 'live'. NO article. Natural response."
+      },
+      {
+        "sentence": "Put your bag here.",
+        "target_word": "here",
+        "difficulty": "A1",
+        "context": "Placement instruction",
+        "grammar_pattern": "imperative + possessive + object + location adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Location adverb indicating placement. NO article. Practical instruction."
+      }
+    ],
+    "home": [
+      {
+        "sentence": "I am at home now.",
+        "target_word": "home",
+        "difficulty": "A1",
+        "context": "Current location",
+        "grammar_pattern": "subject + be + prepositional phrase + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'At home' is fixed phrase. Time adverb 'now' used correctly."
+      },
+      {
+        "sentence": "I go home after work.",
+        "target_word": "home",
+        "difficulty": "A1",
+        "context": "Daily routine",
+        "grammar_pattern": "subject + verb + adverbial + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'Go home' (no preposition needed). Natural work-life routine."
+      },
+      {
+        "sentence": "Welcome to my home!",
+        "target_word": "home",
+        "difficulty": "A1",
+        "context": "Greeting guests",
+        "grammar_pattern": "imperative + prepositional phrase",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Hospitality phrase. 'To my home' with possessive."
+      }
+    ],
+    "house": [
+      {
+        "sentence": "I have a big house.",
+        "target_word": "house",
+        "difficulty": "A1",
+        "context": "Property description",
+        "grammar_pattern": "subject + verb + article + adjective + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Countable noun with indefinite article. Simple size description."
+      },
+      {
+        "sentence": "This is my house.",
+        "target_word": "house",
+        "difficulty": "A1",
+        "context": "Showing property",
+        "grammar_pattern": "demonstrative + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with possessive. Essential identification pattern."
+      },
+      {
+        "sentence": "The house has three bedrooms.",
+        "target_word": "house",
+        "difficulty": "A2",
+        "context": "Property features",
+        "grammar_pattern": "article + noun + verb-s + number + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person singular. Real estate description context."
+      }
+    ],
+    "how": [
+      {
+        "sentence": "How are you?",
+        "target_word": "how",
+        "difficulty": "A1",
+        "context": "Greeting inquiry",
+        "grammar_pattern": "question word + be + subject",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Essential greeting question. Question word used correctly in interrogative."
+      },
+      {
+        "sentence": "How do you go to work?",
+        "target_word": "how",
+        "difficulty": "A1",
+        "context": "Method inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Method/manner question. Natural transportation topic."
+      },
+      {
+        "sentence": "How much is this?",
+        "target_word": "how",
+        "difficulty": "A1",
+        "context": "Price inquiry",
+        "grammar_pattern": "question phrase + be + demonstrative",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'How much' for price. Essential shopping phrase."
+      }
+    ],
+    "job": [
+      {
+        "sentence": "I have a good job.",
+        "target_word": "job",
+        "difficulty": "A1",
+        "context": "Employment satisfaction",
+        "grammar_pattern": "subject + verb + article + adjective + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Countable noun with indefinite article. Positive work context."
+      },
+      {
+        "sentence": "What is your job?",
+        "target_word": "job",
+        "difficulty": "A1",
+        "context": "Occupation inquiry",
+        "grammar_pattern": "question word + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Essential question for meeting people. Simple structure."
+      },
+      {
+        "sentence": "She starts her new job tomorrow.",
+        "target_word": "job",
+        "difficulty": "A2",
+        "context": "Career change",
+        "grammar_pattern": "subject + verb-s + possessive + adjective + object + time adverb",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Time adverb 'tomorrow' used correctly. Natural career topic."
+      }
+    ],
+    "kitchen": [
+      {
+        "sentence": "I cook in the kitchen.",
+        "target_word": "kitchen",
+        "difficulty": "A1",
+        "context": "Home activity",
+        "grammar_pattern": "subject + verb + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Location with definite article. Natural home context."
+      },
+      {
+        "sentence": "The kitchen is very clean.",
+        "target_word": "kitchen",
+        "difficulty": "A1",
+        "context": "Room condition",
+        "grammar_pattern": "article + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Definite article with room noun. Quality description."
+      },
+      {
+        "sentence": "My mother is in the kitchen.",
+        "target_word": "kitchen",
+        "difficulty": "A1",
+        "context": "Location statement",
+        "grammar_pattern": "possessive + noun + be + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Location statement with family member. Natural home scenario."
+      }
+    ],
+    "later": [
+      {
+        "sentence": "See you later!",
+        "target_word": "later",
+        "difficulty": "A1",
+        "context": "Casual goodbye",
+        "grammar_pattern": "imperative + object + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb in fixed phrase. NO article. Essential farewell."
+      },
+      {
+        "sentence": "I will call you later.",
+        "target_word": "later",
+        "difficulty": "A1",
+        "context": "Future promise",
+        "grammar_pattern": "subject + modal + verb + object + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with future. NO article. Natural commitment."
+      },
+      {
+        "sentence": "Can we talk later?",
+        "target_word": "later",
+        "difficulty": "A1",
+        "context": "Scheduling request",
+        "grammar_pattern": "modal + subject + verb + time adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb in question. NO article. Polite postponement."
+      }
+    ],
+    "man": [
+      {
+        "sentence": "That man is my teacher.",
+        "target_word": "man",
+        "difficulty": "A1",
+        "context": "Person identification",
+        "grammar_pattern": "demonstrative + noun + be + possessive + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with countable noun. Identification pattern."
+      },
+      {
+        "sentence": "The man has a dog.",
+        "target_word": "man",
+        "difficulty": "A1",
+        "context": "Pet ownership",
+        "grammar_pattern": "article + noun + verb-s + article + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Definite article with singular noun. Simple possession."
+      },
+      {
+        "sentence": "I see a man in the park.",
+        "target_word": "man",
+        "difficulty": "A1",
+        "context": "Observation",
+        "grammar_pattern": "subject + verb + article + object + prepositional phrase",
+        "word_count": 7,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Indefinite article with singular noun. Location context."
+      }
+    ],
+    "money": [
+      {
+        "sentence": "I need some money.",
+        "target_word": "money",
+        "difficulty": "A1",
+        "context": "Financial need",
+        "grammar_pattern": "subject + verb + quantifier + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun with 'some'. Simple need expression."
+      },
+      {
+        "sentence": "How much money do you have?",
+        "target_word": "money",
+        "difficulty": "A1",
+        "context": "Amount inquiry",
+        "grammar_pattern": "question phrase + object + auxiliary + subject + verb",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'How much' with uncountable noun. Financial question."
+      },
+      {
+        "sentence": "I save money every month.",
+        "target_word": "money",
+        "difficulty": "A2",
+        "context": "Financial habit",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Habitual action with frequency. Financial responsibility topic."
+      }
+    ],
+    "month": [
+      {
+        "sentence": "This month is very busy.",
+        "target_word": "month",
+        "difficulty": "A1",
+        "context": "Time period description",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with time noun. Natural schedule comment."
+      },
+      {
+        "sentence": "I pay rent every month.",
+        "target_word": "month",
+        "difficulty": "A2",
+        "context": "Financial obligation",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Frequency expression with time unit. Real-world financial context."
+      },
+      {
+        "sentence": "Next month I start work.",
+        "target_word": "month",
+        "difficulty": "A1",
+        "context": "Future plans",
+        "grammar_pattern": "time expression + subject + verb + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'Next month' as time expression. Future career event."
+      }
+    ],
+    "mother": [
+      {
+        "sentence": "My mother is very kind.",
+        "target_word": "mother",
+        "difficulty": "A1",
+        "context": "Character description",
+        "grammar_pattern": "possessive + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Family member with personality trait. Positive description."
+      },
+      {
+        "sentence": "I help my mother at home.",
+        "target_word": "mother",
+        "difficulty": "A1",
+        "context": "Family support",
+        "grammar_pattern": "subject + verb + possessive + object + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Action with family member. Location context."
+      },
+      {
+        "sentence": "His mother works in a school.",
+        "target_word": "mother",
+        "difficulty": "A2",
+        "context": "Occupation",
+        "grammar_pattern": "possessive + noun + verb-s + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person possessive. Workplace context."
+      }
+    ],
+    "never": [
+      {
+        "sentence": "I never eat meat.",
+        "target_word": "never",
+        "difficulty": "A1",
+        "context": "Dietary restriction",
+        "grammar_pattern": "subject + never + verb + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb modifying verb. NO article. Food preference."
+      },
+      {
+        "sentence": "She never comes late.",
+        "target_word": "never",
+        "difficulty": "A1",
+        "context": "Punctuality habit",
+        "grammar_pattern": "subject + never + verb-s + adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb with third person. NO article. Reliability description."
+      },
+      {
+        "sentence": "I have never been to Paris.",
+        "target_word": "never",
+        "difficulty": "A2",
+        "context": "Travel experience",
+        "grammar_pattern": "subject + present perfect + never + past participle + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb in present perfect. NO article. Natural experience expression."
+      }
+    ],
+    "now": [
+      {
+        "sentence": "I am busy now.",
+        "target_word": "now",
+        "difficulty": "A1",
+        "context": "Current status",
+        "grammar_pattern": "subject + be + adjective + time adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb indicating present. NO article. Common status statement."
+      },
+      {
+        "sentence": "Where are you now?",
+        "target_word": "now",
+        "difficulty": "A1",
+        "context": "Location inquiry",
+        "grammar_pattern": "question word + be + subject + time adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb in question. NO article. Essential check-in question."
+      },
+      {
+        "sentence": "Let's eat now.",
+        "target_word": "now",
+        "difficulty": "A1",
+        "context": "Immediate action",
+        "grammar_pattern": "let's + verb + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with suggestion. NO article. Action prompt."
+      }
+    ],
+    "often": [
+      {
+        "sentence": "I often drink coffee.",
+        "target_word": "often",
+        "difficulty": "A1",
+        "context": "Beverage habit",
+        "grammar_pattern": "subject + often + verb + object",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb modifying verb. NO article. Habit description."
+      },
+      {
+        "sentence": "How often do you exercise?",
+        "target_word": "often",
+        "difficulty": "A2",
+        "context": "Frequency inquiry",
+        "grammar_pattern": "question phrase + auxiliary + subject + verb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'How often' question phrase. NO article. Health topic."
+      },
+      {
+        "sentence": "She often goes to the gym.",
+        "target_word": "often",
+        "difficulty": "A1",
+        "context": "Exercise routine",
+        "grammar_pattern": "subject + often + verb-s + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb with third person. NO article. Fitness context."
+      }
+    ],
+    "room": [
+      {
+        "sentence": "This is my room.",
+        "target_word": "room",
+        "difficulty": "A1",
+        "context": "Personal space",
+        "grammar_pattern": "demonstrative + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with possessive. Essential home vocabulary."
+      },
+      {
+        "sentence": "The room is very small.",
+        "target_word": "room",
+        "difficulty": "A1",
+        "context": "Size description",
+        "grammar_pattern": "article + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Definite article with room. Size description."
+      },
+      {
+        "sentence": "I clean my room every week.",
+        "target_word": "room",
+        "difficulty": "A1",
+        "context": "Household chore",
+        "grammar_pattern": "subject + verb + possessive + object + time expression",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Habitual action with frequency. Responsibility topic."
+      }
+    ],
+    "sometimes": [
+      {
+        "sentence": "I sometimes eat out.",
+        "target_word": "sometimes",
+        "difficulty": "A1",
+        "context": "Dining habit",
+        "grammar_pattern": "subject + sometimes + verb + adverbial",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb modifying verb. NO article. Restaurant habit."
+      },
+      {
+        "sentence": "Sometimes I work from home.",
+        "target_word": "sometimes",
+        "difficulty": "A2",
+        "context": "Work flexibility",
+        "grammar_pattern": "frequency adverb + subject + verb + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb in initial position. NO article. Modern work pattern."
+      },
+      {
+        "sentence": "She sometimes comes late.",
+        "target_word": "sometimes",
+        "difficulty": "A1",
+        "context": "Punctuality pattern",
+        "grammar_pattern": "subject + sometimes + verb-s + adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Frequency adverb with third person. NO article. Neutral observation."
+      }
+    ],
+    "soon": [
+      {
+        "sentence": "I will see you soon.",
+        "target_word": "soon",
+        "difficulty": "A1",
+        "context": "Future meeting",
+        "grammar_pattern": "subject + modal + verb + object + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with future. NO article. Common farewell."
+      },
+      {
+        "sentence": "Come back soon!",
+        "target_word": "soon",
+        "difficulty": "A1",
+        "context": "Departure wish",
+        "grammar_pattern": "imperative + adverbial + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with imperative. NO article. Warm goodbye."
+      },
+      {
+        "sentence": "The meeting starts soon.",
+        "target_word": "soon",
+        "difficulty": "A2",
+        "context": "Upcoming event",
+        "grammar_pattern": "article + noun + verb-s + time adverb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb indicating near future. NO article. Work context."
+      }
+    ],
+    "tea": [
+      {
+        "sentence": "I drink tea every morning.",
+        "target_word": "tea",
+        "difficulty": "A1",
+        "context": "Morning routine",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun without article. Habitual action."
+      },
+      {
+        "sentence": "Would you like some tea?",
+        "target_word": "tea",
+        "difficulty": "A1",
+        "context": "Beverage offer",
+        "grammar_pattern": "modal + subject + verb + quantifier + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Polite offer with 'some'. Essential hospitality phrase."
+      },
+      {
+        "sentence": "This tea is too strong.",
+        "target_word": "tea",
+        "difficulty": "A1",
+        "context": "Taste feedback",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with uncountable. Intensity comment."
+      }
+    ],
+    "there": [
+      {
+        "sentence": "I go there every day.",
+        "target_word": "there",
+        "difficulty": "A1",
+        "context": "Routine destination",
+        "grammar_pattern": "subject + verb + location adverb + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Location adverb with verb. NO article. Habitual movement."
+      },
+      {
+        "sentence": "Put it there please.",
+        "target_word": "there",
+        "difficulty": "A1",
+        "context": "Placement instruction",
+        "grammar_pattern": "imperative + object + location adverb + politeness marker",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Location adverb indicating placement. NO article. Practical instruction."
+      },
+      {
+        "sentence": "Is there a bank near here?",
+        "target_word": "there",
+        "difficulty": "A2",
+        "context": "Location inquiry",
+        "grammar_pattern": "be + there + article + noun + prepositional phrase",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "existential_there": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Existential 'there' (different usage). Common service inquiry."
+      }
+    ],
+    "time": [
+      {
+        "sentence": "What time is it?",
+        "target_word": "time",
+        "difficulty": "A1",
+        "context": "Clock inquiry",
+        "grammar_pattern": "question phrase + be + subject",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Essential time question. 'What time' fixed phrase."
+      },
+      {
+        "sentence": "I don't have time now.",
+        "target_word": "time",
+        "difficulty": "A1",
+        "context": "Unavailability",
+        "grammar_pattern": "subject + auxiliary + verb + object + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun. Polite refusal pattern."
+      },
+      {
+        "sentence": "What time do you start work?",
+        "target_word": "time",
+        "difficulty": "A1",
+        "context": "Schedule inquiry",
+        "grammar_pattern": "question phrase + auxiliary + subject + verb + object",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "'What time' in work schedule context. Natural question."
+      }
+    ],
+    "today": [
+      {
+        "sentence": "I work today.",
+        "target_word": "today",
+        "difficulty": "A1",
+        "context": "Current day activity",
+        "grammar_pattern": "subject + verb + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb modifying verb. NO article. Simple schedule statement."
+      },
+      {
+        "sentence": "Today is Monday.",
+        "target_word": "today",
+        "difficulty": "A1",
+        "context": "Day identification",
+        "grammar_pattern": "time subject + be + day",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "today_as_subject": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'Today' as subject of sentence (acceptable). Day identification."
+      },
+      {
+        "sentence": "I am very busy today.",
+        "target_word": "today",
+        "difficulty": "A1",
+        "context": "Current state",
+        "grammar_pattern": "subject + be + adverb + adjective + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with state description. NO article. Common status update."
+      }
+    ],
+    "tomorrow": [
+      {
+        "sentence": "See you tomorrow!",
+        "target_word": "tomorrow",
+        "difficulty": "A1",
+        "context": "Future goodbye",
+        "grammar_pattern": "imperative + object + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb in fixed phrase. NO article. Essential farewell."
+      },
+      {
+        "sentence": "I have a meeting tomorrow.",
+        "target_word": "tomorrow",
+        "difficulty": "A1",
+        "context": "Future appointment",
+        "grammar_pattern": "subject + verb + article + object + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb indicating future. NO article. Work schedule."
+      },
+      {
+        "sentence": "Tomorrow is my birthday.",
+        "target_word": "tomorrow",
+        "difficulty": "A1",
+        "context": "Special occasion",
+        "grammar_pattern": "time subject + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "tomorrow_as_subject": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'Tomorrow' as subject (acceptable). Personal celebration."
+      }
+    ],
+    "water": [
+      {
+        "sentence": "I drink water every day.",
+        "target_word": "water",
+        "difficulty": "A1",
+        "context": "Healthy habit",
+        "grammar_pattern": "subject + verb + object + time expression",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Uncountable noun without article. Health routine."
+      },
+      {
+        "sentence": "Can I have some water please?",
+        "target_word": "water",
+        "difficulty": "A1",
+        "context": "Polite request",
+        "grammar_pattern": "modal + subject + verb + quantifier + object + politeness marker",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Polite request with 'some'. Essential hospitality phrase."
+      },
+      {
+        "sentence": "This water is very cold.",
+        "target_word": "water",
+        "difficulty": "A1",
+        "context": "Temperature description",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with uncountable. Temperature observation."
+      }
+    ],
+    "week": [
+      {
+        "sentence": "I work five days a week.",
+        "target_word": "week",
+        "difficulty": "A2",
+        "context": "Work schedule",
+        "grammar_pattern": "subject + verb + number + noun + article + time unit",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Frequency expression pattern. Work-life context."
+      },
+      {
+        "sentence": "This week is very busy.",
+        "target_word": "week",
+        "difficulty": "A1",
+        "context": "Time period description",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with time noun. Schedule comment."
+      },
+      {
+        "sentence": "I go to the gym every week.",
+        "target_word": "week",
+        "difficulty": "A1",
+        "context": "Exercise routine",
+        "grammar_pattern": "subject + verb + prepositional phrase + time expression",
+        "word_count": 7,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Frequency expression. Health and fitness context."
+      }
+    ],
+    "what": [
+      {
+        "sentence": "What is your name?",
+        "target_word": "what",
+        "difficulty": "A1",
+        "context": "Identity question",
+        "grammar_pattern": "question word + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Essential introduction question. Question word used correctly."
+      },
+      {
+        "sentence": "What do you do?",
+        "target_word": "what",
+        "difficulty": "A1",
+        "context": "Occupation inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Common job question. Natural interrogative form."
+      },
+      {
+        "sentence": "What time is it?",
+        "target_word": "what",
+        "difficulty": "A1",
+        "context": "Time inquiry",
+        "grammar_pattern": "question phrase + be + subject",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'What time' fixed phrase. Essential daily question."
+      }
+    ],
+    "when": [
+      {
+        "sentence": "When do you start work?",
+        "target_word": "when",
+        "difficulty": "A1",
+        "context": "Time inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time question about schedule. Question word used correctly."
+      },
+      {
+        "sentence": "When is your birthday?",
+        "target_word": "when",
+        "difficulty": "A1",
+        "context": "Date inquiry",
+        "grammar_pattern": "question word + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Personal information question. Natural social conversation."
+      },
+      {
+        "sentence": "When can we meet?",
+        "target_word": "when",
+        "difficulty": "A1",
+        "context": "Scheduling",
+        "grammar_pattern": "question word + modal + subject + verb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Scheduling question with modal. Practical coordination."
+      }
+    ],
+    "where": [
+      {
+        "sentence": "Where do you live?",
+        "target_word": "where",
+        "difficulty": "A1",
+        "context": "Location inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Essential location question. Question word used correctly."
+      },
+      {
+        "sentence": "Where is the bathroom?",
+        "target_word": "where",
+        "difficulty": "A1",
+        "context": "Facility location",
+        "grammar_pattern": "question word + be + article + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Practical location question. Essential for navigation."
+      },
+      {
+        "sentence": "Where do you work?",
+        "target_word": "where",
+        "difficulty": "A1",
+        "context": "Workplace inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Common getting-to-know-you question. Natural conversation."
+      }
+    ],
+    "who": [
+      {
+        "sentence": "Who is that?",
+        "target_word": "who",
+        "difficulty": "A1",
+        "context": "Person identification",
+        "grammar_pattern": "question word + be + demonstrative",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Person identification question. Essential social phrase."
+      },
+      {
+        "sentence": "Who is your teacher?",
+        "target_word": "who",
+        "difficulty": "A1",
+        "context": "Role inquiry",
+        "grammar_pattern": "question word + be + possessive + noun",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Person role question. Educational context."
+      },
+      {
+        "sentence": "Who do you live with?",
+        "target_word": "who",
+        "difficulty": "A2",
+        "context": "Household inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb + preposition",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Living situation question. Natural personal topic."
+      }
+    ],
+    "why": [
+      {
+        "sentence": "Why are you late?",
+        "target_word": "why",
+        "difficulty": "A1",
+        "context": "Reason inquiry",
+        "grammar_pattern": "question word + be + subject + adjective",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Reason question. Question word used correctly."
+      },
+      {
+        "sentence": "Why do you like coffee?",
+        "target_word": "why",
+        "difficulty": "A1",
+        "context": "Preference explanation",
+        "grammar_pattern": "question word + auxiliary + subject + verb + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Reason question about preference. Natural conversation."
+      },
+      {
+        "sentence": "Why not?",
+        "target_word": "why",
+        "difficulty": "A1",
+        "context": "Challenge response",
+        "grammar_pattern": "question word + negative",
+        "word_count": 2,
+        "validation": {
+          "grammatically_correct": true,
+          "question_form": true,
+          "no_article_with_question_word": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Fixed phrase for agreement/challenge. Common conversational pattern."
+      }
+    ],
+    "woman": [
+      {
+        "sentence": "That woman is my mother.",
+        "target_word": "woman",
+        "difficulty": "A1",
+        "context": "Family identification",
+        "grammar_pattern": "demonstrative + noun + be + possessive + noun",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with countable noun. Family relationship."
+      },
+      {
+        "sentence": "The woman has a cat.",
+        "target_word": "woman",
+        "difficulty": "A1",
+        "context": "Pet ownership",
+        "grammar_pattern": "article + noun + verb-s + article + object",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Definite article with singular noun. Simple possession."
+      },
+      {
+        "sentence": "I see a woman in the store.",
+        "target_word": "woman",
+        "difficulty": "A1",
+        "context": "Observation",
+        "grammar_pattern": "subject + verb + article + object + prepositional phrase",
+        "word_count": 7,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Indefinite article with singular noun. Location context."
+      }
+    ],
+    "work": [
+      {
+        "sentence": "I work every day.",
+        "target_word": "work",
+        "difficulty": "A1",
+        "context": "Employment routine",
+        "grammar_pattern": "subject + verb + time expression",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Verb in habitual present. Simple schedule statement."
+      },
+      {
+        "sentence": "Where do you work?",
+        "target_word": "work",
+        "difficulty": "A1",
+        "context": "Workplace inquiry",
+        "grammar_pattern": "question word + auxiliary + subject + verb",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Location question about employment. Common conversation starter."
+      },
+      {
+        "sentence": "She works in a hospital.",
+        "target_word": "work",
+        "difficulty": "A1",
+        "context": "Workplace description",
+        "grammar_pattern": "subject + verb-s + prepositional phrase",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Third person singular with location. Professional context."
+      }
+    ],
+    "year": [
+      {
+        "sentence": "I am twenty years old.",
+        "target_word": "year",
+        "difficulty": "A1",
+        "context": "Age statement",
+        "grammar_pattern": "subject + be + number + noun + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Plural noun in age expression. Essential personal information."
+      },
+      {
+        "sentence": "This year is very busy.",
+        "target_word": "year",
+        "difficulty": "A1",
+        "context": "Time period description",
+        "grammar_pattern": "demonstrative + noun + be + adverb + adjective",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Demonstrative with time noun. Annual schedule comment."
+      },
+      {
+        "sentence": "I go home twice a year.",
+        "target_word": "year",
+        "difficulty": "A2",
+        "context": "Visit frequency",
+        "grammar_pattern": "subject + verb + adverbial + frequency expression",
+        "word_count": 6,
+        "validation": {
+          "grammatically_correct": true,
+          "natural_english": true,
+          "appropriate_level": true,
+          "i_plus_1": true
+        },
+        "reasoning": "Frequency expression with 'twice'. Family visit context."
+      }
+    ],
+    "yesterday": [
+      {
+        "sentence": "I worked yesterday.",
+        "target_word": "yesterday",
+        "difficulty": "A1",
+        "context": "Past activity",
+        "grammar_pattern": "subject + verb-past + time adverb",
+        "word_count": 3,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with past tense. NO article. Simple past statement."
+      },
+      {
+        "sentence": "Yesterday was very hot.",
+        "target_word": "yesterday",
+        "difficulty": "A1",
+        "context": "Weather description",
+        "grammar_pattern": "time subject + be-past + adverb + adjective",
+        "word_count": 4,
+        "validation": {
+          "grammatically_correct": true,
+          "yesterday_as_subject": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "'Yesterday' as subject (acceptable). Weather observation."
+      },
+      {
+        "sentence": "I saw my friend yesterday.",
+        "target_word": "yesterday",
+        "difficulty": "A1",
+        "context": "Past meeting",
+        "grammar_pattern": "subject + verb-past + possessive + object + time adverb",
+        "word_count": 5,
+        "validation": {
+          "grammatically_correct": true,
+          "no_article_with_adverb": true,
+          "adverb_not_noun": true,
+          "natural_english": true,
+          "appropriate_level": true
+        },
+        "reasoning": "Time adverb with irregular past. NO article. Social context."
+      }
+    ]
+  }
+}

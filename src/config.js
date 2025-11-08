@@ -185,6 +185,50 @@ export const PROFILES = {
       }
     ],
     totalDailyWords: 30
+  },
+  valeria: {
+    name: 'Valeria Puga',
+    emoji: '👩‍💼',
+    interfaceLanguages: ['it', 'en'],
+    learningLanguages: [
+      {
+        code: 'de',
+        name: 'German',
+        level: 'B1-B2',
+        dailyWords: 10,
+        flag: '🇩🇪'
+      },
+      {
+        code: 'it',
+        name: 'Italian (Advanced)',
+        level: 'C1',
+        dailyWords: 10,
+        flag: '🇮🇹'
+      }
+    ],
+    totalDailyWords: 20
+  },
+  dmitri: {
+    name: 'Panos',
+    emoji: '👨‍💼',
+    interfaceLanguages: ['ru', 'en'],
+    learningLanguages: [
+      {
+        code: 'en',
+        name: 'English (Business)',
+        level: 'C1-C2',
+        dailyWords: 10,
+        flag: '🇬🇧'
+      },
+      {
+        code: 'ru',
+        name: 'Russian',
+        level: 'A1-B1',
+        dailyWords: 10,
+        flag: '🇷🇺'
+      }
+    ],
+    totalDailyWords: 20
   }
 };
 
@@ -195,7 +239,8 @@ export const LANGUAGE_NAMES = {
   pl: { native: 'Polski', local: 'Polish' },
   fr: { native: 'Français', local: 'French' },
   fa: { native: 'فارسی', local: 'Persian/Farsi' },
-  it: { native: 'Italiano', local: 'Italian' }
+  it: { native: 'Italiano', local: 'Italian' },
+  ru: { native: 'Русский', local: 'Russian' }
 };
 
 export const SECTION_LABELS = {

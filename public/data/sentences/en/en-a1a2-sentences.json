@@ -24,21 +24,27 @@
         "difficulty": "basic",
         "context": "Greeting",
         "target_word": "hello",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hello-001",
+        "blank": "_____! How are you?"
       },
       {
         "sentence": "I say hello to my friend.",
         "difficulty": "intermediate",
         "context": "Social interaction",
         "target_word": "hello",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hello-002",
+        "blank": "I say _____ to my friend."
       },
       {
         "sentence": "Hello, my name is John.",
         "difficulty": "practical",
         "context": "Introduction",
         "target_word": "hello",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hello-003",
+        "blank": "_____, my name is John."
       }
     ],
     "goodbye": [
@@ -47,21 +53,27 @@
         "difficulty": "basic",
         "context": "Farewell",
         "target_word": "goodbye",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-goodbye-001",
+        "blank": "_____! See you later."
       },
       {
         "sentence": "I say goodbye to my mother.",
         "difficulty": "intermediate",
         "context": "Parting",
         "target_word": "goodbye",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-goodbye-002",
+        "blank": "I say _____ to my mother."
       },
       {
         "sentence": "Goodbye, have a nice day!",
         "difficulty": "practical",
         "context": "Polite farewell",
         "target_word": "goodbye",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-goodbye-003",
+        "blank": "_____, have a nice day!"
       }
     ],
     "please": [
@@ -70,21 +82,27 @@
         "difficulty": "basic",
         "context": "Polite request",
         "target_word": "please",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-please-001",
+        "blank": "_____ help me."
       },
       {
         "sentence": "Can I have water, please?",
         "difficulty": "intermediate",
         "context": "Ordering",
         "target_word": "please",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-please-002",
+        "blank": "Can I have water, _____?"
       },
       {
         "sentence": "Please sit down here.",
         "difficulty": "practical",
         "context": "Instruction",
         "target_word": "please",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-please-003",
+        "blank": "_____ sit down here."
       }
     ],
     "thank you": [
@@ -93,21 +111,27 @@
         "difficulty": "basic",
         "context": "Gratitude",
         "target_word": "thank you",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thank-you-001",
+        "blank": "_____ very much!"
       },
       {
         "sentence": "I say thank you to her.",
         "difficulty": "intermediate",
         "context": "Expressing thanks",
         "target_word": "thank you",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thank-you-002",
+        "blank": "I say _____ to her."
       },
       {
         "sentence": "Thank you for your help.",
         "difficulty": "practical",
         "context": "Appreciation",
         "target_word": "thank you",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thank-you-003",
+        "blank": "_____ for your help."
       }
     ],
     "sorry": [
@@ -116,21 +140,27 @@
         "difficulty": "basic",
         "context": "Apology",
         "target_word": "sorry",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sorry-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "Sorry, I am late.",
         "difficulty": "intermediate",
         "context": "Apologizing",
         "target_word": "sorry",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sorry-002",
+        "blank": "_____, I am late."
       },
       {
         "sentence": "I am very sorry about that.",
         "difficulty": "practical",
         "context": "Regret",
         "target_word": "sorry",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sorry-003",
+        "blank": "I am very _____ about that."
       }
     ],
     "yes": [
@@ -139,21 +169,27 @@
         "difficulty": "basic",
         "context": "Agreement",
         "target_word": "yes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yes-001",
+        "blank": "_____, I understand."
       },
       {
         "sentence": "Yes, that is right.",
         "difficulty": "intermediate",
         "context": "Confirmation",
         "target_word": "yes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yes-002",
+        "blank": "_____, that is right."
       },
       {
         "sentence": "Yes, I want some coffee.",
         "difficulty": "practical",
         "context": "Acceptance",
         "target_word": "yes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yes-003",
+        "blank": "_____, I want some coffee."
       }
     ],
     "no": [
@@ -162,21 +198,27 @@
         "difficulty": "basic",
         "context": "Refusal",
         "target_word": "no",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-no-001",
+        "blank": "_____, thank you."
       },
       {
         "sentence": "No, that is wrong.",
         "difficulty": "intermediate",
         "context": "Disagreement",
         "target_word": "no",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-no-002",
+        "blank": "_____, that is wrong."
       },
       {
         "sentence": "No, I do not want tea.",
         "difficulty": "practical",
         "context": "Declining",
         "target_word": "no",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-no-003",
+        "blank": "No, I do _____t want tea."
       }
     ],
     "excuse me": [
@@ -185,21 +227,27 @@
         "difficulty": "basic",
         "context": "Getting attention",
         "target_word": "excuse me",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-excuse-me-001",
+        "blank": "_____, please."
       },
       {
         "sentence": "Excuse me, where is the bank?",
         "difficulty": "intermediate",
         "context": "Asking directions",
         "target_word": "excuse me",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-excuse-me-002",
+        "blank": "_____, where is the bank?"
       },
       {
         "sentence": "Excuse me, can you help me?",
         "difficulty": "practical",
         "context": "Polite interruption",
         "target_word": "excuse me",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-excuse-me-003",
+        "blank": "_____, can you help me?"
       }
     ],
     "help": [
@@ -208,21 +256,27 @@
         "difficulty": "basic",
         "context": "Assistance",
         "target_word": "help",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-help-001",
+        "blank": "I need _____."
       },
       {
         "sentence": "Can you help me, please?",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "help",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-help-002",
+        "blank": "Can you _____ me, please?"
       },
       {
         "sentence": "I help my friend with work.",
         "difficulty": "practical",
         "context": "Support",
         "target_word": "help",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-help-003",
+        "blank": "I _____ my friend with work."
       }
     ],
     "work": [
@@ -231,21 +285,27 @@
         "difficulty": "basic",
         "context": "Employment",
         "target_word": "work",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-work-001",
+        "blank": "I go to _____."
       },
       {
         "sentence": "My work is easy.",
         "difficulty": "intermediate",
         "context": "Job description",
         "target_word": "work",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-work-002",
+        "blank": "My _____ is easy."
       },
       {
         "sentence": "I finish work at five.",
         "difficulty": "practical",
         "context": "Schedule",
         "target_word": "work",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-work-003",
+        "blank": "I finish _____ at five."
       }
     ],
     "job": [
@@ -254,21 +314,27 @@
         "difficulty": "basic",
         "context": "Employment",
         "target_word": "job",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-job-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "My job is good.",
         "difficulty": "intermediate",
         "context": "Work satisfaction",
         "target_word": "job",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-job-002",
+        "blank": "My _____ is good."
       },
       {
         "sentence": "I like my new job.",
         "difficulty": "practical",
         "context": "Career",
         "target_word": "job",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-job-003",
+        "blank": "I like my new _____."
       }
     ],
     "time": [
@@ -277,21 +343,27 @@
         "difficulty": "basic",
         "context": "Clock time",
         "target_word": "time",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-time-001",
+        "blank": "What _____ is it?"
       },
       {
         "sentence": "I have no time now.",
         "difficulty": "intermediate",
         "context": "Availability",
         "target_word": "time",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-time-002",
+        "blank": "I have no _____ now."
       },
       {
         "sentence": "Time for lunch.",
         "difficulty": "practical",
         "context": "Schedule",
         "target_word": "time",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-time-003",
+        "blank": "_____ for lunch."
       }
     ],
     "day": [
@@ -300,21 +372,27 @@
         "difficulty": "basic",
         "context": "Well-wishing",
         "target_word": "day",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-day-001",
+        "blank": "Have a nice _____!"
       },
       {
         "sentence": "Today is a good day.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "day",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-day-002",
+        "blank": "To_____ is a good _____."
       },
       {
         "sentence": "I work every day.",
         "difficulty": "practical",
         "context": "Routine",
         "target_word": "day",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-day-003",
+        "blank": "I work every _____."
       }
     ],
     "week": [
@@ -323,21 +401,27 @@
         "difficulty": "basic",
         "context": "Duration",
         "target_word": "week",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-week-001",
+        "blank": "I work all _____."
       },
       {
         "sentence": "Next week is my holiday.",
         "difficulty": "intermediate",
         "context": "Planning",
         "target_word": "week",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-week-002",
+        "blank": "Next _____ is my holiday."
       },
       {
         "sentence": "I see my family every week.",
         "difficulty": "practical",
         "context": "Frequency",
         "target_word": "week",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-week-003",
+        "blank": "I see my family every _____."
       }
     ],
     "month": [
@@ -346,21 +430,27 @@
         "difficulty": "basic",
         "context": "Weather",
         "target_word": "month",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-month-001",
+        "blank": "This _____ is hot."
       },
       {
         "sentence": "I pay rent every month.",
         "difficulty": "intermediate",
         "context": "Regular payment",
         "target_word": "month",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-month-002",
+        "blank": "I pay rent every _____."
       },
       {
         "sentence": "Next month I start work.",
         "difficulty": "practical",
         "context": "Future plan",
         "target_word": "month",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-month-003",
+        "blank": "Next _____ I start work."
       }
     ],
     "year": [
@@ -369,21 +459,27 @@
         "difficulty": "basic",
         "context": "Celebration",
         "target_word": "year",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-year-001",
+        "blank": "Happy new _____!"
       },
       {
         "sentence": "I am twenty years old.",
         "difficulty": "intermediate",
         "context": "Age",
         "target_word": "year",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-year-002",
+        "blank": "I am twenty _____s old."
       },
       {
         "sentence": "This year is very good.",
         "difficulty": "practical",
         "context": "Time period",
         "target_word": "year",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-year-003",
+        "blank": "This _____ is very good."
       }
     ],
     "today": [
@@ -392,21 +488,27 @@
         "difficulty": "basic",
         "context": "Current day",
         "target_word": "today",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-today-001",
+        "blank": "I work _____."
       },
       {
         "sentence": "Today is a good day.",
         "difficulty": "intermediate",
         "context": "Time reference",
         "target_word": "today",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-today-002",
+        "blank": "_____ is a good day."
       },
       {
         "sentence": "I eat lunch today at home.",
         "difficulty": "practical",
         "context": "Daily activity",
         "target_word": "today",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-today-003",
+        "blank": "I eat lunch _____ at home."
       }
     ],
     "tomorrow": [
@@ -415,21 +517,27 @@
         "difficulty": "basic",
         "context": "Future day",
         "target_word": "tomorrow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tomorrow-001",
+        "blank": "I work _____."
       },
       {
         "sentence": "Tomorrow is my day off.",
         "difficulty": "intermediate",
         "context": "Planning",
         "target_word": "tomorrow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tomorrow-002",
+        "blank": "_____ is my day off."
       },
       {
         "sentence": "I call you tomorrow morning.",
         "difficulty": "practical",
         "context": "Future plan",
         "target_word": "tomorrow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tomorrow-003",
+        "blank": "I call you _____ morning."
       }
     ],
     "yesterday": [
@@ -438,21 +546,27 @@
         "difficulty": "basic",
         "context": "Past day",
         "target_word": "yesterday",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yesterday-001",
+        "blank": "I worked _____."
       },
       {
         "sentence": "Yesterday was very hot.",
         "difficulty": "intermediate",
         "context": "Past reference",
         "target_word": "yesterday",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yesterday-002",
+        "blank": "_____ was very hot."
       },
       {
         "sentence": "I saw my friend yesterday.",
         "difficulty": "practical",
         "context": "Past event",
         "target_word": "yesterday",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-yesterday-003",
+        "blank": "I saw my friend _____."
       }
     ],
     "now": [
@@ -461,21 +575,27 @@
         "difficulty": "basic",
         "context": "Current time",
         "target_word": "now",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-now-001",
+        "blank": "I work _____."
       },
       {
         "sentence": "Come here now, please.",
         "difficulty": "intermediate",
         "context": "Immediate action",
         "target_word": "now",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-now-002",
+        "blank": "Come here _____, please."
       },
       {
         "sentence": "I am eating now.",
         "difficulty": "practical",
         "context": "Present activity",
         "target_word": "now",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-now-003",
+        "blank": "I am eating _____."
       }
     ],
     "later": [
@@ -484,21 +604,27 @@
         "difficulty": "basic",
         "context": "Future time",
         "target_word": "later",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-later-001",
+        "blank": "I call you _____."
       },
       {
         "sentence": "See you later today.",
         "difficulty": "intermediate",
         "context": "Postponement",
         "target_word": "later",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-later-002",
+        "blank": "See you _____ today."
       },
       {
         "sentence": "I eat lunch later.",
         "difficulty": "practical",
         "context": "Delayed action",
         "target_word": "later",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-later-003",
+        "blank": "I eat lunch _____."
       }
     ],
     "soon": [
@@ -507,21 +633,27 @@
         "difficulty": "basic",
         "context": "Near future",
         "target_word": "soon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-soon-001",
+        "blank": "I arrive _____."
       },
       {
         "sentence": "The bus comes soon.",
         "difficulty": "intermediate",
         "context": "Expectation",
         "target_word": "soon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-soon-002",
+        "blank": "The bus comes _____."
       },
       {
         "sentence": "I finish my work soon.",
         "difficulty": "practical",
         "context": "Completion",
         "target_word": "soon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-soon-003",
+        "blank": "I finish my work _____."
       }
     ],
     "always": [
@@ -530,21 +662,27 @@
         "difficulty": "basic",
         "context": "Habit",
         "target_word": "always",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-always-001",
+        "blank": "I _____ drink coffee."
       },
       {
         "sentence": "She is always happy.",
         "difficulty": "intermediate",
         "context": "Characteristic",
         "target_word": "always",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-always-002",
+        "blank": "She is _____ happy."
       },
       {
         "sentence": "I always eat breakfast at home.",
         "difficulty": "practical",
         "context": "Routine",
         "target_word": "always",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-always-003",
+        "blank": "I _____ eat breakfast at home."
       }
     ],
     "never": [
@@ -553,21 +691,27 @@
         "difficulty": "basic",
         "context": "Avoidance",
         "target_word": "never",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-never-001",
+        "blank": "I _____ eat meat."
       },
       {
         "sentence": "He never drinks coffee.",
         "difficulty": "intermediate",
         "context": "Habit",
         "target_word": "never",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-never-002",
+        "blank": "He _____ drinks coffee."
       },
       {
         "sentence": "I never work on weekends.",
         "difficulty": "practical",
         "context": "Routine",
         "target_word": "never",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-never-003",
+        "blank": "I _____ work on weekends."
       }
     ],
     "sometimes": [
@@ -576,21 +720,27 @@
         "difficulty": "basic",
         "context": "Occasional action",
         "target_word": "sometimes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sometimes-001",
+        "blank": "I _____ drink tea."
       },
       {
         "sentence": "Sometimes I walk to work.",
         "difficulty": "intermediate",
         "context": "Variable habit",
         "target_word": "sometimes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sometimes-002",
+        "blank": "_____ I walk to work."
       },
       {
         "sentence": "I sometimes eat at restaurants.",
         "difficulty": "practical",
         "context": "Frequency",
         "target_word": "sometimes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sometimes-003",
+        "blank": "I _____ eat at restaurants."
       }
     ],
     "often": [
@@ -599,21 +749,27 @@
         "difficulty": "basic",
         "context": "Regular action",
         "target_word": "often",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-often-001",
+        "blank": "I _____ eat fish."
       },
       {
         "sentence": "She often calls me.",
         "difficulty": "intermediate",
         "context": "Frequency",
         "target_word": "often",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-often-002",
+        "blank": "She _____ calls me."
       },
       {
         "sentence": "I often drink coffee in the morning.",
         "difficulty": "practical",
         "context": "Habit",
         "target_word": "often",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-often-003",
+        "blank": "I _____ drink coffee in the morning."
       }
     ],
     "here": [
@@ -622,21 +778,27 @@
         "difficulty": "basic",
         "context": "Location instruction",
         "target_word": "here",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-here-001",
+        "blank": "Come _____, please."
       },
       {
         "sentence": "I live here.",
         "difficulty": "intermediate",
         "context": "Place",
         "target_word": "here",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-here-002",
+        "blank": "I live _____."
       },
       {
         "sentence": "Please sit here next to me.",
         "difficulty": "practical",
         "context": "Position",
         "target_word": "here",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-here-003",
+        "blank": "Please sit _____ next to me."
       }
     ],
     "there": [
@@ -645,21 +807,27 @@
         "difficulty": "basic",
         "context": "Direction",
         "target_word": "there",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-there-001",
+        "blank": "Go over _____."
       },
       {
         "sentence": "I work there.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "there",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-there-002",
+        "blank": "I work _____."
       },
       {
         "sentence": "My friend lives there.",
         "difficulty": "practical",
         "context": "Place reference",
         "target_word": "there",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-there-003",
+        "blank": "My friend lives _____."
       }
     ],
     "where": [
@@ -668,21 +836,27 @@
         "difficulty": "basic",
         "context": "Location question",
         "target_word": "where",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-where-001",
+        "blank": "_____ are you?"
       },
       {
         "sentence": "Where is the bathroom?",
         "difficulty": "intermediate",
         "context": "Finding place",
         "target_word": "where",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-where-002",
+        "blank": "_____ is the bathroom?"
       },
       {
         "sentence": "Where do you live?",
         "difficulty": "practical",
         "context": "Information question",
         "target_word": "where",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-where-003",
+        "blank": "_____ do you live?"
       }
     ],
     "when": [
@@ -691,21 +865,27 @@
         "difficulty": "basic",
         "context": "Time question",
         "target_word": "when",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-when-001",
+        "blank": "_____ do you work?"
       },
       {
         "sentence": "When is the meeting?",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "when",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-when-002",
+        "blank": "_____ is the meeting?"
       },
       {
         "sentence": "When does the bus arrive?",
         "difficulty": "practical",
         "context": "Timing",
         "target_word": "when",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-when-003",
+        "blank": "_____ does the bus arrive?"
       }
     ],
     "why": [
@@ -714,21 +894,27 @@
         "difficulty": "basic",
         "context": "Reason question",
         "target_word": "why",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-why-001",
+        "blank": "_____ are you late?"
       },
       {
         "sentence": "Why is the shop closed?",
         "difficulty": "intermediate",
         "context": "Inquiry",
         "target_word": "why",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-why-002",
+        "blank": "_____ is the shop closed?"
       },
       {
         "sentence": "Why do you drink coffee?",
         "difficulty": "practical",
         "context": "Explanation",
         "target_word": "why",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-why-003",
+        "blank": "_____ do you drink coffee?"
       }
     ],
     "what": [
@@ -737,21 +923,27 @@
         "difficulty": "basic",
         "context": "Information question",
         "target_word": "what",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-what-001",
+        "blank": "_____ is your name?"
       },
       {
         "sentence": "What do you want?",
         "difficulty": "intermediate",
         "context": "Inquiry",
         "target_word": "what",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-what-002",
+        "blank": "_____ do you want?"
       },
       {
         "sentence": "What time is it now?",
         "difficulty": "practical",
         "context": "Time question",
         "target_word": "what",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-what-003",
+        "blank": "_____ time is it now?"
       }
     ],
     "who": [
@@ -760,21 +952,27 @@
         "difficulty": "basic",
         "context": "Identity question",
         "target_word": "who",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-who-001",
+        "blank": "_____ are you?"
       },
       {
         "sentence": "Who is that man?",
         "difficulty": "intermediate",
         "context": "Person inquiry",
         "target_word": "who",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-who-002",
+        "blank": "_____ is that man?"
       },
       {
         "sentence": "Who lives in this house?",
         "difficulty": "practical",
         "context": "Resident question",
         "target_word": "who",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-who-003",
+        "blank": "_____ lives in this house?"
       }
     ],
     "how": [
@@ -783,21 +981,27 @@
         "difficulty": "basic",
         "context": "Greeting question",
         "target_word": "how",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-how-001",
+        "blank": "_____ are you?"
       },
       {
         "sentence": "How do you make coffee?",
         "difficulty": "intermediate",
         "context": "Method question",
         "target_word": "how",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-how-002",
+        "blank": "_____ do you make coffee?"
       },
       {
         "sentence": "How much is this shirt?",
         "difficulty": "practical",
         "context": "Price inquiry",
         "target_word": "how",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-how-003",
+        "blank": "_____ much is this shirt?"
       }
     ],
     "family": [
@@ -806,21 +1010,27 @@
         "difficulty": "basic",
         "context": "Relationships",
         "target_word": "family",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-family-001",
+        "blank": "I love my _____."
       },
       {
         "sentence": "My family is big.",
         "difficulty": "intermediate",
         "context": "Family size",
         "target_word": "family",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-family-002",
+        "blank": "My _____ is big."
       },
       {
         "sentence": "I see my family every week.",
         "difficulty": "practical",
         "context": "Social activity",
         "target_word": "family",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-family-003",
+        "blank": "I see my _____ every week."
       }
     ],
     "mother": [
@@ -829,21 +1039,27 @@
         "difficulty": "basic",
         "context": "Family",
         "target_word": "mother",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-mother-001",
+        "blank": "I love my _____."
       },
       {
         "sentence": "My mother is a teacher.",
         "difficulty": "intermediate",
         "context": "Occupation",
         "target_word": "mother",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-mother-002",
+        "blank": "My _____ is a teacher."
       },
       {
         "sentence": "I call my mother every day.",
         "difficulty": "practical",
         "context": "Communication",
         "target_word": "mother",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-mother-003",
+        "blank": "I call my _____ every day."
       }
     ],
     "father": [
@@ -852,21 +1068,27 @@
         "difficulty": "basic",
         "context": "Family",
         "target_word": "father",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-father-001",
+        "blank": "I love my _____."
       },
       {
         "sentence": "My father is a doctor.",
         "difficulty": "intermediate",
         "context": "Occupation",
         "target_word": "father",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-father-002",
+        "blank": "My _____ is a doctor."
       },
       {
         "sentence": "I help my father with work.",
         "difficulty": "practical",
         "context": "Family support",
         "target_word": "father",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-father-003",
+        "blank": "I help my _____ with work."
       }
     ],
     "child": [
@@ -875,21 +1097,27 @@
         "difficulty": "basic",
         "context": "Family",
         "target_word": "child",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-child-001",
+        "blank": "I have one _____."
       },
       {
         "sentence": "The child is happy.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "child",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-child-002",
+        "blank": "The _____ is happy."
       },
       {
         "sentence": "I take my child to school.",
         "difficulty": "practical",
         "context": "Parenting",
         "target_word": "child",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-child-003",
+        "blank": "I take my _____ to school."
       }
     ],
     "friend": [
@@ -898,21 +1126,27 @@
         "difficulty": "basic",
         "context": "Relationship",
         "target_word": "friend",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-friend-001",
+        "blank": "He is my _____."
       },
       {
         "sentence": "I have many friends.",
         "difficulty": "intermediate",
         "context": "Social circle",
         "target_word": "friend",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-friend-002",
+        "blank": "I have many _____s."
       },
       {
         "sentence": "I eat lunch with my friend.",
         "difficulty": "practical",
         "context": "Social activity",
         "target_word": "friend",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-friend-003",
+        "blank": "I eat lunch with my _____."
       }
     ],
     "man": [
@@ -921,21 +1155,27 @@
         "difficulty": "basic",
         "context": "Description",
         "target_word": "man",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-man-001",
+        "blank": "The _____ is tall."
       },
       {
         "sentence": "I see a man there.",
         "difficulty": "intermediate",
         "context": "Observation",
         "target_word": "man",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-man-002",
+        "blank": "I see a _____ there."
       },
       {
         "sentence": "That man is my father.",
         "difficulty": "practical",
         "context": "Identification",
         "target_word": "man",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-man-003",
+        "blank": "That _____ is my father."
       }
     ],
     "woman": [
@@ -944,21 +1184,27 @@
         "difficulty": "basic",
         "context": "Description",
         "target_word": "woman",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-woman-001",
+        "blank": "The _____ is nice."
       },
       {
         "sentence": "I see a woman here.",
         "difficulty": "intermediate",
         "context": "Observation",
         "target_word": "woman",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-woman-002",
+        "blank": "I see a _____ here."
       },
       {
         "sentence": "That woman is my mother.",
         "difficulty": "practical",
         "context": "Identification",
         "target_word": "woman",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-woman-003",
+        "blank": "That _____ is my mother."
       }
     ],
     "eat": [
@@ -967,21 +1213,27 @@
         "difficulty": "basic",
         "context": "Food consumption",
         "target_word": "eat",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-eat-001",
+        "blank": "I _____ bread."
       },
       {
         "sentence": "I eat lunch at home.",
         "difficulty": "intermediate",
         "context": "Meal",
         "target_word": "eat",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-eat-002",
+        "blank": "I _____ lunch at home."
       },
       {
         "sentence": "I eat with my family.",
         "difficulty": "practical",
         "context": "Social dining",
         "target_word": "eat",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-eat-003",
+        "blank": "I _____ with my family."
       }
     ],
     "drink": [
@@ -990,21 +1242,27 @@
         "difficulty": "basic",
         "context": "Beverage",
         "target_word": "drink",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-drink-001",
+        "blank": "I _____ water."
       },
       {
         "sentence": "I drink coffee every morning.",
         "difficulty": "intermediate",
         "context": "Routine",
         "target_word": "drink",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-drink-002",
+        "blank": "I _____ coffee every morning."
       },
       {
         "sentence": "Do you drink tea or coffee?",
         "difficulty": "practical",
         "context": "Preference",
         "target_word": "drink",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-drink-003",
+        "blank": "Do you _____ tea or coffee?"
       }
     ],
     "food": [
@@ -1013,21 +1271,27 @@
         "difficulty": "basic",
         "context": "Preference",
         "target_word": "food",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-food-001",
+        "blank": "I like this _____."
       },
       {
         "sentence": "The food is good.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "food",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-food-002",
+        "blank": "The _____ is good."
       },
       {
         "sentence": "I buy food at the shop.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "food",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-food-003",
+        "blank": "I buy _____ at the shop."
       }
     ],
     "water": [
@@ -1036,21 +1300,27 @@
         "difficulty": "basic",
         "context": "Beverage",
         "target_word": "water",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-water-001",
+        "blank": "I drink _____."
       },
       {
         "sentence": "The water is cold.",
         "difficulty": "intermediate",
         "context": "Temperature",
         "target_word": "water",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-water-002",
+        "blank": "The _____ is cold."
       },
       {
         "sentence": "Can I have some water, please?",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "water",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-water-003",
+        "blank": "Can I have some _____, please?"
       }
     ],
     "coffee": [
@@ -1059,21 +1329,27 @@
         "difficulty": "basic",
         "context": "Beverage",
         "target_word": "coffee",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-coffee-001",
+        "blank": "I drink _____."
       },
       {
         "sentence": "The coffee is hot.",
         "difficulty": "intermediate",
         "context": "Temperature",
         "target_word": "coffee",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-coffee-002",
+        "blank": "The _____ is hot."
       },
       {
         "sentence": "I want a cup of coffee.",
         "difficulty": "practical",
         "context": "Order",
         "target_word": "coffee",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-coffee-003",
+        "blank": "I want a cup of _____."
       }
     ],
     "tea": [
@@ -1082,21 +1358,27 @@
         "difficulty": "basic",
         "context": "Beverage",
         "target_word": "tea",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tea-001",
+        "blank": "I drink _____."
       },
       {
         "sentence": "The tea is good.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "tea",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tea-002",
+        "blank": "The _____ is good."
       },
       {
         "sentence": "I like tea with milk.",
         "difficulty": "practical",
         "context": "Preference",
         "target_word": "tea",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tea-003",
+        "blank": "I like _____ with milk."
       }
     ],
     "bread": [
@@ -1105,21 +1387,27 @@
         "difficulty": "basic",
         "context": "Food",
         "target_word": "bread",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bread-001",
+        "blank": "I eat _____."
       },
       {
         "sentence": "The bread is fresh.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "bread",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bread-002",
+        "blank": "The _____ is fresh."
       },
       {
         "sentence": "I buy bread every day.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "bread",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bread-003",
+        "blank": "I buy _____ every day."
       }
     ],
     "money": [
@@ -1128,21 +1416,27 @@
         "difficulty": "basic",
         "context": "Finance",
         "target_word": "money",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-money-001",
+        "blank": "I have no _____."
       },
       {
         "sentence": "I need some money.",
         "difficulty": "intermediate",
         "context": "Requirement",
         "target_word": "money",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-money-002",
+        "blank": "I need some _____."
       },
       {
         "sentence": "I pay with my money.",
         "difficulty": "practical",
         "context": "Transaction",
         "target_word": "money",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-money-003",
+        "blank": "I pay with my _____."
       }
     ],
     "house": [
@@ -1151,21 +1445,27 @@
         "difficulty": "basic",
         "context": "Residence",
         "target_word": "house",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-house-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "My house is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "house",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-house-002",
+        "blank": "My _____ is big."
       },
       {
         "sentence": "I live in a small house.",
         "difficulty": "practical",
         "context": "Living situation",
         "target_word": "house",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-house-003",
+        "blank": "I live in a small _____."
       }
     ],
     "home": [
@@ -1174,21 +1474,27 @@
         "difficulty": "basic",
         "context": "Destination",
         "target_word": "home",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-home-001",
+        "blank": "I go _____."
       },
       {
         "sentence": "I am at home now.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "home",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-home-002",
+        "blank": "I am at _____ now."
       },
       {
         "sentence": "I eat lunch at home.",
         "difficulty": "practical",
         "context": "Activity place",
         "target_word": "home",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-home-003",
+        "blank": "I eat lunch at _____."
       }
     ],
     "room": [
@@ -1197,21 +1503,27 @@
         "difficulty": "basic",
         "context": "Personal space",
         "target_word": "room",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-room-001",
+        "blank": "This is my _____."
       },
       {
         "sentence": "The room is small.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "room",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-room-002",
+        "blank": "The _____ is small."
       },
       {
         "sentence": "I sleep in this room.",
         "difficulty": "practical",
         "context": "Function",
         "target_word": "room",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-room-003",
+        "blank": "I sleep in this _____."
       }
     ],
     "kitchen": [
@@ -1220,21 +1532,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "kitchen",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-kitchen-001",
+        "blank": "I am in the _____."
       },
       {
         "sentence": "The kitchen is clean.",
         "difficulty": "intermediate",
         "context": "Condition",
         "target_word": "kitchen",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-kitchen-002",
+        "blank": "The _____ is clean."
       },
       {
         "sentence": "I cook in the kitchen.",
         "difficulty": "practical",
         "context": "Activity",
         "target_word": "kitchen",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-kitchen-003",
+        "blank": "I cook in the _____."
       }
     ],
     "bathroom": [
@@ -1243,21 +1561,27 @@
         "difficulty": "basic",
         "context": "Finding room",
         "target_word": "bathroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bathroom-001",
+        "blank": "Where is the _____?"
       },
       {
         "sentence": "The bathroom is there.",
         "difficulty": "intermediate",
         "context": "Direction",
         "target_word": "bathroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bathroom-002",
+        "blank": "The _____ is there."
       },
       {
         "sentence": "I go to the bathroom.",
         "difficulty": "practical",
         "context": "Need",
         "target_word": "bathroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bathroom-003",
+        "blank": "I go to the _____."
       }
     ],
     "bedroom": [
@@ -1266,21 +1590,27 @@
         "difficulty": "basic",
         "context": "Personal space",
         "target_word": "bedroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bedroom-001",
+        "blank": "This is my _____."
       },
       {
         "sentence": "The bedroom is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "bedroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bedroom-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I sleep in my bedroom.",
         "difficulty": "practical",
         "context": "Function",
         "target_word": "bedroom",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bedroom-003",
+        "blank": "I sleep in my _____."
       }
     ],
     "door": [
@@ -1289,21 +1619,27 @@
         "difficulty": "basic",
         "context": "Request",
         "target_word": "door",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-door-001",
+        "blank": "Close the _____, please."
       },
       {
         "sentence": "The door is open.",
         "difficulty": "intermediate",
         "context": "State",
         "target_word": "door",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-door-002",
+        "blank": "The _____ is open."
       },
       {
         "sentence": "I open the door.",
         "difficulty": "practical",
         "context": "Action",
         "target_word": "door",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-door-003",
+        "blank": "I open the _____."
       }
     ],
     "window": [
@@ -1312,21 +1648,27 @@
         "difficulty": "basic",
         "context": "Request",
         "target_word": "window",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-window-001",
+        "blank": "Open the _____, please."
       },
       {
         "sentence": "The window is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "window",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-window-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I close the window.",
         "difficulty": "practical",
         "context": "Action",
         "target_word": "window",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-window-003",
+        "blank": "I close the _____."
       }
     ],
     "street": [
@@ -1335,21 +1677,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "street",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-street-001",
+        "blank": "I walk on the _____."
       },
       {
         "sentence": "The street is long.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "street",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-street-002",
+        "blank": "The _____ is long."
       },
       {
         "sentence": "I live on this street.",
         "difficulty": "practical",
         "context": "Address",
         "target_word": "street",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-street-003",
+        "blank": "I live on this _____."
       }
     ],
     "city": [
@@ -1358,21 +1706,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "city",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-city-001",
+        "blank": "I live in the _____."
       },
       {
         "sentence": "The city is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "city",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-city-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I work in the city.",
         "difficulty": "practical",
         "context": "Employment location",
         "target_word": "city",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-city-003",
+        "blank": "I work in the _____."
       }
     ],
     "country": [
@@ -1381,21 +1735,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "country",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-country-001",
+        "blank": "I live in this _____."
       },
       {
         "sentence": "The country is beautiful.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "country",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-country-002",
+        "blank": "The _____ is beautiful."
       },
       {
         "sentence": "I like my country.",
         "difficulty": "practical",
         "context": "Preference",
         "target_word": "country",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-country-003",
+        "blank": "I like my _____."
       }
     ],
     "school": [
@@ -1404,21 +1764,27 @@
         "difficulty": "basic",
         "context": "Education",
         "target_word": "school",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-school-001",
+        "blank": "I go to _____."
       },
       {
         "sentence": "The school is near here.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "school",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-school-002",
+        "blank": "The _____ is near here."
       },
       {
         "sentence": "My child goes to school.",
         "difficulty": "practical",
         "context": "Family education",
         "target_word": "school",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-school-003",
+        "blank": "My child goes to _____."
       }
     ],
     "hospital": [
@@ -1427,21 +1793,27 @@
         "difficulty": "basic",
         "context": "Healthcare",
         "target_word": "hospital",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hospital-001",
+        "blank": "I go to the _____."
       },
       {
         "sentence": "The hospital is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "hospital",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hospital-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I work at the hospital.",
         "difficulty": "practical",
         "context": "Employment",
         "target_word": "hospital",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hospital-003",
+        "blank": "I work at the _____."
       }
     ],
     "shop": [
@@ -1450,21 +1822,27 @@
         "difficulty": "basic",
         "context": "Shopping",
         "target_word": "shop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shop-001",
+        "blank": "I go to the _____."
       },
       {
         "sentence": "The shop is closed.",
         "difficulty": "intermediate",
         "context": "Status",
         "target_word": "shop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shop-002",
+        "blank": "The _____ is closed."
       },
       {
         "sentence": "I buy food at the shop.",
         "difficulty": "practical",
         "context": "Purchase",
         "target_word": "shop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shop-003",
+        "blank": "I buy food at the _____."
       }
     ],
     "restaurant": [
@@ -1473,21 +1851,27 @@
         "difficulty": "basic",
         "context": "Dining",
         "target_word": "restaurant",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-restaurant-001",
+        "blank": "I eat at the _____."
       },
       {
         "sentence": "The restaurant is good.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "restaurant",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-restaurant-002",
+        "blank": "The _____ is good."
       },
       {
         "sentence": "I work at a restaurant.",
         "difficulty": "practical",
         "context": "Employment",
         "target_word": "restaurant",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-restaurant-003",
+        "blank": "I work at a _____."
       }
     ],
     "bank": [
@@ -1496,21 +1880,27 @@
         "difficulty": "basic",
         "context": "Finance",
         "target_word": "bank",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bank-001",
+        "blank": "I go to the _____."
       },
       {
         "sentence": "The bank is closed today.",
         "difficulty": "intermediate",
         "context": "Status",
         "target_word": "bank",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bank-002",
+        "blank": "The _____ is closed today."
       },
       {
         "sentence": "Where is the bank?",
         "difficulty": "practical",
         "context": "Finding location",
         "target_word": "bank",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bank-003",
+        "blank": "Where is the _____?"
       }
     ],
     "office": [
@@ -1519,21 +1909,27 @@
         "difficulty": "basic",
         "context": "Employment",
         "target_word": "office",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-office-001",
+        "blank": "I work in an _____."
       },
       {
         "sentence": "The office is small.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "office",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-office-002",
+        "blank": "The _____ is small."
       },
       {
         "sentence": "I go to the office.",
         "difficulty": "practical",
         "context": "Commute",
         "target_word": "office",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-office-003",
+        "blank": "I go to the _____."
       }
     ],
     "station": [
@@ -1542,21 +1938,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "station",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-station-001",
+        "blank": "I am at the _____."
       },
       {
         "sentence": "The station is near here.",
         "difficulty": "intermediate",
         "context": "Proximity",
         "target_word": "station",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-station-002",
+        "blank": "The _____ is near here."
       },
       {
         "sentence": "I wait at the station.",
         "difficulty": "practical",
         "context": "Transit",
         "target_word": "station",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-station-003",
+        "blank": "I wait at the _____."
       }
     ],
     "bus": [
@@ -1565,21 +1967,27 @@
         "difficulty": "basic",
         "context": "Transport",
         "target_word": "bus",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bus-001",
+        "blank": "I take the _____."
       },
       {
         "sentence": "The bus is late.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "bus",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bus-002",
+        "blank": "The _____ is late."
       },
       {
         "sentence": "I go to work by bus.",
         "difficulty": "practical",
         "context": "Commute",
         "target_word": "bus",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bus-003",
+        "blank": "I go to work by _____."
       }
     ],
     "train": [
@@ -1588,21 +1996,27 @@
         "difficulty": "basic",
         "context": "Transport",
         "target_word": "train",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-train-001",
+        "blank": "I take the _____."
       },
       {
         "sentence": "The train is fast.",
         "difficulty": "intermediate",
         "context": "Speed",
         "target_word": "train",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-train-002",
+        "blank": "The _____ is fast."
       },
       {
         "sentence": "I go to the city by train.",
         "difficulty": "practical",
         "context": "Travel",
         "target_word": "train",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-train-003",
+        "blank": "I go to the city by _____."
       }
     ],
     "car": [
@@ -1611,21 +2025,27 @@
         "difficulty": "basic",
         "context": "Possession",
         "target_word": "car",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-car-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "My car is old.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "car",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-car-002",
+        "blank": "My _____ is old."
       },
       {
         "sentence": "I go to work by car.",
         "difficulty": "practical",
         "context": "Commute",
         "target_word": "car",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-car-003",
+        "blank": "I go to work by _____."
       }
     ],
     "phone": [
@@ -1634,21 +2054,27 @@
         "difficulty": "basic",
         "context": "Possession",
         "target_word": "phone",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-phone-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "My phone is new.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "phone",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-phone-002",
+        "blank": "My _____ is new."
       },
       {
         "sentence": "I call you on my phone.",
         "difficulty": "practical",
         "context": "Communication",
         "target_word": "phone",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-phone-003",
+        "blank": "I call you on my _____."
       }
     ],
     "computer": [
@@ -1657,21 +2083,27 @@
         "difficulty": "basic",
         "context": "Possession",
         "target_word": "computer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-computer-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "The computer is old.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "computer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-computer-002",
+        "blank": "The _____ is old."
       },
       {
         "sentence": "I work on my computer.",
         "difficulty": "practical",
         "context": "Work tool",
         "target_word": "computer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-computer-003",
+        "blank": "I work on my _____."
       }
     ],
     "book": [
@@ -1680,21 +2112,27 @@
         "difficulty": "basic",
         "context": "Activity",
         "target_word": "book",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-book-001",
+        "blank": "I read a _____."
       },
       {
         "sentence": "The book is good.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "book",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-book-002",
+        "blank": "The _____ is good."
       },
       {
         "sentence": "I have many books at home.",
         "difficulty": "practical",
         "context": "Possession",
         "target_word": "book",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-book-003",
+        "blank": "I have many _____s at home."
       }
     ],
     "table": [
@@ -1703,21 +2141,27 @@
         "difficulty": "basic",
         "context": "Furniture",
         "target_word": "table",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-table-001",
+        "blank": "I sit at the _____."
       },
       {
         "sentence": "The table is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "table",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-table-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I eat at the table.",
         "difficulty": "practical",
         "context": "Function",
         "target_word": "table",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-table-003",
+        "blank": "I eat at the _____."
       }
     ],
     "chair": [
@@ -1726,21 +2170,27 @@
         "difficulty": "basic",
         "context": "Furniture",
         "target_word": "chair",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-chair-001",
+        "blank": "I sit on a _____."
       },
       {
         "sentence": "The chair is old.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "chair",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-chair-002",
+        "blank": "The _____ is old."
       },
       {
         "sentence": "Please sit on this chair.",
         "difficulty": "practical",
         "context": "Invitation",
         "target_word": "chair",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-chair-003",
+        "blank": "Please sit on this _____."
       }
     ],
     "bed": [
@@ -1749,21 +2199,27 @@
         "difficulty": "basic",
         "context": "Furniture",
         "target_word": "bed",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bed-001",
+        "blank": "I sleep in my _____."
       },
       {
         "sentence": "The bed is big.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "bed",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bed-002",
+        "blank": "The _____ is big."
       },
       {
         "sentence": "I go to bed late.",
         "difficulty": "practical",
         "context": "Routine",
         "target_word": "bed",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bed-003",
+        "blank": "I go to _____ late."
       }
     ],
     "clothes": [
@@ -1772,21 +2228,27 @@
         "difficulty": "basic",
         "context": "Shopping",
         "target_word": "clothes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-clothes-001",
+        "blank": "I buy new _____."
       },
       {
         "sentence": "My clothes are old.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "clothes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-clothes-002",
+        "blank": "My _____ are old."
       },
       {
         "sentence": "I wash my clothes today.",
         "difficulty": "practical",
         "context": "Chores",
         "target_word": "clothes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-clothes-003",
+        "blank": "I wash my _____ today."
       }
     ],
     "shirt": [
@@ -1795,21 +2257,27 @@
         "difficulty": "basic",
         "context": "Clothing",
         "target_word": "shirt",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shirt-001",
+        "blank": "I wear a _____."
       },
       {
         "sentence": "The shirt is blue.",
         "difficulty": "intermediate",
         "context": "Color",
         "target_word": "shirt",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shirt-002",
+        "blank": "The _____ is blue."
       },
       {
         "sentence": "I buy a new shirt.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "shirt",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shirt-003",
+        "blank": "I buy a new _____."
       }
     ],
     "shoes": [
@@ -1818,21 +2286,27 @@
         "difficulty": "basic",
         "context": "Clothing",
         "target_word": "shoes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shoes-001",
+        "blank": "I wear _____."
       },
       {
         "sentence": "My shoes are black.",
         "difficulty": "intermediate",
         "context": "Color",
         "target_word": "shoes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shoes-002",
+        "blank": "My _____ are black."
       },
       {
         "sentence": "I buy new shoes today.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "shoes",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-shoes-003",
+        "blank": "I buy new _____ today."
       }
     ],
     "color": [
@@ -1841,21 +2315,27 @@
         "difficulty": "basic",
         "context": "Preference",
         "target_word": "color",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-color-001",
+        "blank": "I like this _____."
       },
       {
         "sentence": "What color is it?",
         "difficulty": "intermediate",
         "context": "Question",
         "target_word": "color",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-color-002",
+        "blank": "What _____ is it?"
       },
       {
         "sentence": "My favorite color is blue.",
         "difficulty": "practical",
         "context": "Personal taste",
         "target_word": "color",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-color-003",
+        "blank": "My favorite _____ is blue."
       }
     ],
     "red": [
@@ -1864,21 +2344,27 @@
         "difficulty": "basic",
         "context": "Color",
         "target_word": "red",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-red-001",
+        "blank": "The car is _____."
       },
       {
         "sentence": "I like red shirts.",
         "difficulty": "intermediate",
         "context": "Preference",
         "target_word": "red",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-red-002",
+        "blank": "I like _____ shirts."
       },
       {
         "sentence": "I buy a red shirt.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "red",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-red-003",
+        "blank": "I buy a _____ shirt."
       }
     ],
     "blue": [
@@ -1887,21 +2373,27 @@
         "difficulty": "basic",
         "context": "Color",
         "target_word": "blue",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-blue-001",
+        "blank": "The sky is _____."
       },
       {
         "sentence": "I wear blue shoes.",
         "difficulty": "intermediate",
         "context": "Clothing",
         "target_word": "blue",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-blue-002",
+        "blank": "I wear _____ shoes."
       },
       {
         "sentence": "I like blue and red.",
         "difficulty": "practical",
         "context": "Preference",
         "target_word": "blue",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-blue-003",
+        "blank": "I like _____ and red."
       }
     ],
     "white": [
@@ -1910,21 +2402,27 @@
         "difficulty": "basic",
         "context": "Color",
         "target_word": "white",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-white-001",
+        "blank": "The shirt is _____."
       },
       {
         "sentence": "I like white clothes.",
         "difficulty": "intermediate",
         "context": "Preference",
         "target_word": "white",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-white-002",
+        "blank": "I like _____ clothes."
       },
       {
         "sentence": "I buy a white table.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "white",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-white-003",
+        "blank": "I buy a _____ table."
       }
     ],
     "black": [
@@ -1933,21 +2431,27 @@
         "difficulty": "basic",
         "context": "Color",
         "target_word": "black",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-black-001",
+        "blank": "The car is _____."
       },
       {
         "sentence": "I wear black shoes.",
         "difficulty": "intermediate",
         "context": "Clothing",
         "target_word": "black",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-black-002",
+        "blank": "I wear _____ shoes."
       },
       {
         "sentence": "I have a black phone.",
         "difficulty": "practical",
         "context": "Possession",
         "target_word": "black",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-black-003",
+        "blank": "I have a _____ phone."
       }
     ],
     "green": [
@@ -1956,21 +2460,27 @@
         "difficulty": "basic",
         "context": "Color",
         "target_word": "green",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-green-001",
+        "blank": "The door is _____."
       },
       {
         "sentence": "I like green tea.",
         "difficulty": "intermediate",
         "context": "Preference",
         "target_word": "green",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-green-002",
+        "blank": "I like _____ tea."
       },
       {
         "sentence": "I buy a green shirt.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "green",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-green-003",
+        "blank": "I buy a _____ shirt."
       }
     ],
     "big": [
@@ -1979,21 +2489,27 @@
         "difficulty": "basic",
         "context": "Size",
         "target_word": "big",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-big-001",
+        "blank": "The house is _____."
       },
       {
         "sentence": "I have a big family.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "big",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-big-002",
+        "blank": "I have a _____ family."
       },
       {
         "sentence": "I want a big coffee, please.",
         "difficulty": "practical",
         "context": "Order",
         "target_word": "big",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-big-003",
+        "blank": "I want a _____ coffee, please."
       }
     ],
     "small": [
@@ -2002,21 +2518,27 @@
         "difficulty": "basic",
         "context": "Size",
         "target_word": "small",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-small-001",
+        "blank": "The room is _____."
       },
       {
         "sentence": "I have a small car.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "small",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-small-002",
+        "blank": "I have a _____ car."
       },
       {
         "sentence": "I live in a small city.",
         "difficulty": "practical",
         "context": "Location",
         "target_word": "small",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-small-003",
+        "blank": "I live in a _____ city."
       }
     ],
     "good": [
@@ -2025,21 +2547,27 @@
         "difficulty": "basic",
         "context": "Quality",
         "target_word": "good",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-good-001",
+        "blank": "The food is _____."
       },
       {
         "sentence": "I have a good job.",
         "difficulty": "intermediate",
         "context": "Satisfaction",
         "target_word": "good",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-good-002",
+        "blank": "I have a _____ job."
       },
       {
         "sentence": "Today is a good day.",
         "difficulty": "practical",
         "context": "Assessment",
         "target_word": "good",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-good-003",
+        "blank": "Today is a _____ day."
       }
     ],
     "bad": [
@@ -2048,21 +2576,27 @@
         "difficulty": "basic",
         "context": "Quality",
         "target_word": "bad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bad-001",
+        "blank": "The weather is _____."
       },
       {
         "sentence": "I have a bad cold.",
         "difficulty": "intermediate",
         "context": "Health",
         "target_word": "bad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bad-002",
+        "blank": "I have a _____ cold."
       },
       {
         "sentence": "This is bad news.",
         "difficulty": "practical",
         "context": "Information",
         "target_word": "bad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-bad-003",
+        "blank": "This is _____ news."
       }
     ],
     "new": [
@@ -2071,21 +2605,27 @@
         "difficulty": "basic",
         "context": "Possession",
         "target_word": "new",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-new-001",
+        "blank": "I have a _____ car."
       },
       {
         "sentence": "The phone is new.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "new",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-new-002",
+        "blank": "The phone is _____."
       },
       {
         "sentence": "I buy new shoes today.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "new",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-new-003",
+        "blank": "I buy _____ shoes today."
       }
     ],
     "old": [
@@ -2094,21 +2634,27 @@
         "difficulty": "basic",
         "context": "Age",
         "target_word": "old",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-old-001",
+        "blank": "The house is _____."
       },
       {
         "sentence": "I have an old computer.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "old",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-old-002",
+        "blank": "I have an _____ computer."
       },
       {
         "sentence": "My father is sixty years old.",
         "difficulty": "practical",
         "context": "Age",
         "target_word": "old",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-old-003",
+        "blank": "My father is sixty years _____."
       }
     ],
     "hot": [
@@ -2117,21 +2663,27 @@
         "difficulty": "basic",
         "context": "Temperature",
         "target_word": "hot",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hot-001",
+        "blank": "The coffee is _____."
       },
       {
         "sentence": "Today is very hot.",
         "difficulty": "intermediate",
         "context": "Weather",
         "target_word": "hot",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hot-002",
+        "blank": "Today is very _____."
       },
       {
         "sentence": "I drink hot tea.",
         "difficulty": "practical",
         "context": "Beverage",
         "target_word": "hot",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hot-003",
+        "blank": "I drink _____ tea."
       }
     ],
     "cold": [
@@ -2140,21 +2692,27 @@
         "difficulty": "basic",
         "context": "Temperature",
         "target_word": "cold",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cold-001",
+        "blank": "The water is _____."
       },
       {
         "sentence": "I am very cold.",
         "difficulty": "intermediate",
         "context": "Feeling",
         "target_word": "cold",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cold-002",
+        "blank": "I am very _____."
       },
       {
         "sentence": "Today is cold and rainy.",
         "difficulty": "practical",
         "context": "Weather",
         "target_word": "cold",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cold-003",
+        "blank": "Today is _____ and rainy."
       }
     ],
     "nice": [
@@ -2163,21 +2721,27 @@
         "difficulty": "basic",
         "context": "Well-wishing",
         "target_word": "nice",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-nice-001",
+        "blank": "Have a _____ day!"
       },
       {
         "sentence": "The restaurant is very nice.",
         "difficulty": "intermediate",
         "context": "Quality",
         "target_word": "nice",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-nice-002",
+        "blank": "The restaurant is very _____."
       },
       {
         "sentence": "You have a nice house.",
         "difficulty": "practical",
         "context": "Compliment",
         "target_word": "nice",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-nice-003",
+        "blank": "You have a _____ house."
       }
     ],
     "happy": [
@@ -2186,21 +2750,27 @@
         "difficulty": "basic",
         "context": "Emotion",
         "target_word": "happy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-happy-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "My child is very happy.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "happy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-happy-002",
+        "blank": "My child is very _____."
       },
       {
         "sentence": "I am happy at work.",
         "difficulty": "practical",
         "context": "Satisfaction",
         "target_word": "happy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-happy-003",
+        "blank": "I am _____ at work."
       }
     ],
     "sad": [
@@ -2209,21 +2779,27 @@
         "difficulty": "basic",
         "context": "Emotion",
         "target_word": "sad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sad-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "Why are you sad?",
         "difficulty": "intermediate",
         "context": "Question",
         "target_word": "sad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sad-002",
+        "blank": "Why are you _____?"
       },
       {
         "sentence": "I feel very sad today.",
         "difficulty": "practical",
         "context": "Feeling",
         "target_word": "sad",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sad-003",
+        "blank": "I feel very _____ today."
       }
     ],
     "tired": [
@@ -2232,21 +2808,27 @@
         "difficulty": "basic",
         "context": "State",
         "target_word": "tired",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tired-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "I am very tired today.",
         "difficulty": "intermediate",
         "context": "Feeling",
         "target_word": "tired",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tired-002",
+        "blank": "I am very _____ today."
       },
       {
         "sentence": "I am tired after work.",
         "difficulty": "practical",
         "context": "Condition",
         "target_word": "tired",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tired-003",
+        "blank": "I am _____ after work."
       }
     ],
     "easy": [
@@ -2255,21 +2837,27 @@
         "difficulty": "basic",
         "context": "Difficulty",
         "target_word": "easy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-easy-001",
+        "blank": "The work is _____."
       },
       {
         "sentence": "This is very easy.",
         "difficulty": "intermediate",
         "context": "Assessment",
         "target_word": "easy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-easy-002",
+        "blank": "This is very _____."
       },
       {
         "sentence": "The question is easy.",
         "difficulty": "practical",
         "context": "Task",
         "target_word": "easy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-easy-003",
+        "blank": "The question is _____."
       }
     ],
     "hard / difficult": [
@@ -2278,21 +2866,27 @@
         "difficulty": "basic",
         "context": "Difficulty",
         "target_word": "hard / difficult",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hard---difficult-001",
+        "blank": "The work is hard and difficult."
       },
       {
         "sentence": "This question is very difficult.",
         "difficulty": "intermediate",
         "context": "Challenge",
         "target_word": "hard / difficult",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hard---difficult-002",
+        "blank": "This question is very difficult."
       },
       {
         "sentence": "My job is hard but good.",
         "difficulty": "practical",
         "context": "Work assessment",
         "target_word": "hard / difficult",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hard---difficult-003",
+        "blank": "My job is hard but good."
       }
     ],
     "fast": [
@@ -2301,21 +2895,27 @@
         "difficulty": "basic",
         "context": "Speed",
         "target_word": "fast",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-fast-001",
+        "blank": "The train is _____."
       },
       {
         "sentence": "I walk very fast.",
         "difficulty": "intermediate",
         "context": "Pace",
         "target_word": "fast",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-fast-002",
+        "blank": "I walk very _____."
       },
       {
         "sentence": "This car is fast.",
         "difficulty": "practical",
         "context": "Performance",
         "target_word": "fast",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-fast-003",
+        "blank": "This car is _____."
       }
     ],
     "slow": [
@@ -2324,21 +2924,27 @@
         "difficulty": "basic",
         "context": "Speed",
         "target_word": "slow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-slow-001",
+        "blank": "The bus is _____."
       },
       {
         "sentence": "I walk very slow.",
         "difficulty": "intermediate",
         "context": "Pace",
         "target_word": "slow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-slow-002",
+        "blank": "I walk very _____."
       },
       {
         "sentence": "This computer is slow.",
         "difficulty": "practical",
         "context": "Performance",
         "target_word": "slow",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-slow-003",
+        "blank": "This computer is _____."
       }
     ],
     "long": [
@@ -2347,21 +2953,27 @@
         "difficulty": "basic",
         "context": "Length",
         "target_word": "long",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-long-001",
+        "blank": "The street is _____."
       },
       {
         "sentence": "I have long hair.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "long",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-long-002",
+        "blank": "I have _____ hair."
       },
       {
         "sentence": "The wait is very long.",
         "difficulty": "practical",
         "context": "Duration",
         "target_word": "long",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-long-003",
+        "blank": "The wait is very _____."
       }
     ],
     "short": [
@@ -2370,21 +2982,27 @@
         "difficulty": "basic",
         "context": "Length",
         "target_word": "short",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-short-001",
+        "blank": "The street is _____."
       },
       {
         "sentence": "I have short hair.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "short",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-short-002",
+        "blank": "I have _____ hair."
       },
       {
         "sentence": "The meeting is short.",
         "difficulty": "practical",
         "context": "Duration",
         "target_word": "short",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-short-003",
+        "blank": "The meeting is _____."
       }
     ],
     "young": [
@@ -2393,21 +3011,27 @@
         "difficulty": "basic",
         "context": "Age",
         "target_word": "young",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-young-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "My child is very young.",
         "difficulty": "intermediate",
         "context": "Description",
         "target_word": "young",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-young-002",
+        "blank": "My child is very _____."
       },
       {
         "sentence": "She is young and happy.",
         "difficulty": "practical",
         "context": "Characterization",
         "target_word": "young",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-young-003",
+        "blank": "She is _____ and happy."
       }
     ],
     "expensive": [
@@ -2416,21 +3040,27 @@
         "difficulty": "basic",
         "context": "Price",
         "target_word": "expensive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-expensive-001",
+        "blank": "The car is _____."
       },
       {
         "sentence": "This restaurant is very expensive.",
         "difficulty": "intermediate",
         "context": "Cost",
         "target_word": "expensive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-expensive-002",
+        "blank": "This restaurant is very _____."
       },
       {
         "sentence": "The shoes are expensive.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "expensive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-expensive-003",
+        "blank": "The shoes are _____."
       }
     ],
     "cheap": [
@@ -2439,21 +3069,27 @@
         "difficulty": "basic",
         "context": "Price",
         "target_word": "cheap",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cheap-001",
+        "blank": "The food is _____."
       },
       {
         "sentence": "This shirt is very cheap.",
         "difficulty": "intermediate",
         "context": "Cost",
         "target_word": "cheap",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cheap-002",
+        "blank": "This shirt is very _____."
       },
       {
         "sentence": "I buy cheap clothes.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "cheap",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-cheap-003",
+        "blank": "I buy _____ clothes."
       }
     ],
     "one": [
@@ -2462,21 +3098,27 @@
         "difficulty": "basic",
         "context": "Quantity",
         "target_word": "one",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-one-001",
+        "blank": "I have _____ car."
       },
       {
         "sentence": "I drink one coffee a day.",
         "difficulty": "intermediate",
         "context": "Frequency",
         "target_word": "one",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-one-002",
+        "blank": "I drink _____ coffee a day."
       },
       {
         "sentence": "I wait for one hour.",
         "difficulty": "practical",
         "context": "Duration",
         "target_word": "one",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-one-003",
+        "blank": "I wait for _____ hour."
       }
     ],
     "two": [
@@ -2485,21 +3127,27 @@
         "difficulty": "basic",
         "context": "Quantity",
         "target_word": "two",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-two-001",
+        "blank": "I have _____ children."
       },
       {
         "sentence": "I drink two cups of coffee.",
         "difficulty": "intermediate",
         "context": "Amount",
         "target_word": "two",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-two-002",
+        "blank": "I drink _____ cups of coffee."
       },
       {
         "sentence": "I work two days a week.",
         "difficulty": "practical",
         "context": "Schedule",
         "target_word": "two",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-two-003",
+        "blank": "I work _____ days a week."
       }
     ],
     "three": [
@@ -2508,21 +3156,27 @@
         "difficulty": "basic",
         "context": "Quantity",
         "target_word": "three",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-three-001",
+        "blank": "I have _____ friends."
       },
       {
         "sentence": "I eat three times a day.",
         "difficulty": "intermediate",
         "context": "Frequency",
         "target_word": "three",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-three-002",
+        "blank": "I eat _____ times a day."
       },
       {
         "sentence": "I live on street number three.",
         "difficulty": "practical",
         "context": "Address",
         "target_word": "three",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-three-003",
+        "blank": "I live on street number _____."
       }
     ],
     "make": [
@@ -2531,21 +3185,27 @@
         "difficulty": "basic",
         "context": "Preparation",
         "target_word": "make",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-make-001",
+        "blank": "I _____ coffee."
       },
       {
         "sentence": "I make food for lunch.",
         "difficulty": "intermediate",
         "context": "Cooking",
         "target_word": "make",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-make-002",
+        "blank": "I _____ food for lunch."
       },
       {
         "sentence": "I make a phone call.",
         "difficulty": "practical",
         "context": "Communication",
         "target_word": "make",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-make-003",
+        "blank": "I _____ a phone call."
       }
     ],
     "take": [
@@ -2554,21 +3214,27 @@
         "difficulty": "basic",
         "context": "Transport",
         "target_word": "take",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-take-001",
+        "blank": "I _____ the bus."
       },
       {
         "sentence": "I take my phone.",
         "difficulty": "intermediate",
         "context": "Possession",
         "target_word": "take",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-take-002",
+        "blank": "I _____ my phone."
       },
       {
         "sentence": "I take a break now.",
         "difficulty": "practical",
         "context": "Rest",
         "target_word": "take",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-take-003",
+        "blank": "I _____ a break now."
       }
     ],
     "give": [
@@ -2577,21 +3243,27 @@
         "difficulty": "basic",
         "context": "Transfer",
         "target_word": "give",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-give-001",
+        "blank": "I _____ you money."
       },
       {
         "sentence": "Please give me water.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "give",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-give-002",
+        "blank": "Please _____ me water."
       },
       {
         "sentence": "I give my friend a book.",
         "difficulty": "practical",
         "context": "Gift",
         "target_word": "give",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-give-003",
+        "blank": "I _____ my friend a book."
       }
     ],
     "find": [
@@ -2600,21 +3272,27 @@
         "difficulty": "basic",
         "context": "Discovery",
         "target_word": "find",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-find-001",
+        "blank": "I _____ my phone."
       },
       {
         "sentence": "I cannot find my keys.",
         "difficulty": "intermediate",
         "context": "Search",
         "target_word": "find",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-find-002",
+        "blank": "I cannot _____ my keys."
       },
       {
         "sentence": "I find a good restaurant.",
         "difficulty": "practical",
         "context": "Location",
         "target_word": "find",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-find-003",
+        "blank": "I _____ a good restaurant."
       }
     ],
     "tell": [
@@ -2623,21 +3301,27 @@
         "difficulty": "basic",
         "context": "Communication",
         "target_word": "tell",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tell-001",
+        "blank": "I _____ you later."
       },
       {
         "sentence": "Please tell me your name.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "tell",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tell-002",
+        "blank": "Please _____ me your name."
       },
       {
         "sentence": "I tell my friend the answer.",
         "difficulty": "practical",
         "context": "Information",
         "target_word": "tell",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-tell-003",
+        "blank": "I _____ my friend the answer."
       }
     ],
     "ask": [
@@ -2646,21 +3330,27 @@
         "difficulty": "basic",
         "context": "Inquiry",
         "target_word": "ask",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-ask-001",
+        "blank": "I _____ a question."
       },
       {
         "sentence": "I ask you for help.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "ask",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-ask-002",
+        "blank": "I _____ you for help."
       },
       {
         "sentence": "I ask my mother a question.",
         "difficulty": "practical",
         "context": "Communication",
         "target_word": "ask",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-ask-003",
+        "blank": "I _____ my mother a question."
       }
     ],
     "call": [
@@ -2669,21 +3359,27 @@
         "difficulty": "basic",
         "context": "Communication",
         "target_word": "call",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-call-001",
+        "blank": "I _____ you later."
       },
       {
         "sentence": "Please call me tomorrow.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "call",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-call-002",
+        "blank": "Please _____ me tomorrow."
       },
       {
         "sentence": "I call my mother every day.",
         "difficulty": "practical",
         "context": "Routine",
         "target_word": "call",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-call-003",
+        "blank": "I _____ my mother every day."
       }
     ],
     "wait": [
@@ -2692,21 +3388,27 @@
         "difficulty": "basic",
         "context": "Pause",
         "target_word": "wait",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wait-001",
+        "blank": "I _____ here."
       },
       {
         "sentence": "Please wait a minute.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "wait",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wait-002",
+        "blank": "Please _____ a minute."
       },
       {
         "sentence": "I wait for the bus.",
         "difficulty": "practical",
         "context": "Transport",
         "target_word": "wait",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wait-003",
+        "blank": "I _____ for the bus."
       }
     ],
     "start": [
@@ -2715,21 +3417,27 @@
         "difficulty": "basic",
         "context": "Beginning",
         "target_word": "start",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-start-001",
+        "blank": "I _____ work now."
       },
       {
         "sentence": "The meeting starts soon.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "start",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-start-002",
+        "blank": "The meeting _____s soon."
       },
       {
         "sentence": "I start my new job tomorrow.",
         "difficulty": "practical",
         "context": "Employment",
         "target_word": "start",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-start-003",
+        "blank": "I _____ my new job tomorrow."
       }
     ],
     "stop": [
@@ -2738,21 +3446,27 @@
         "difficulty": "basic",
         "context": "Halt",
         "target_word": "stop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stop-001",
+        "blank": "Please _____ here."
       },
       {
         "sentence": "I stop work at five.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "stop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stop-002",
+        "blank": "I _____ work at five."
       },
       {
         "sentence": "The bus stops there.",
         "difficulty": "practical",
         "context": "Transport",
         "target_word": "stop",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stop-003",
+        "blank": "The bus _____s there."
       }
     ],
     "try": [
@@ -2761,21 +3475,27 @@
         "difficulty": "basic",
         "context": "Attempt",
         "target_word": "try",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-try-001",
+        "blank": "I _____ this food."
       },
       {
         "sentence": "Please try again later.",
         "difficulty": "intermediate",
         "context": "Retry",
         "target_word": "try",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-try-002",
+        "blank": "Please _____ again later."
       },
       {
         "sentence": "I try to find my phone.",
         "difficulty": "practical",
         "context": "Effort",
         "target_word": "try",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-try-003",
+        "blank": "I _____ to find my phone."
       }
     ],
     "buy": [
@@ -2784,21 +3504,27 @@
         "difficulty": "basic",
         "context": "Shopping",
         "target_word": "buy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-buy-001",
+        "blank": "I _____ bread."
       },
       {
         "sentence": "I buy food at the shop.",
         "difficulty": "intermediate",
         "context": "Purchase",
         "target_word": "buy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-buy-002",
+        "blank": "I _____ food at the shop."
       },
       {
         "sentence": "I buy a new shirt today.",
         "difficulty": "practical",
         "context": "Acquisition",
         "target_word": "buy",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-buy-003",
+        "blank": "I _____ a new shirt today."
       }
     ],
     "pay": [
@@ -2807,21 +3533,27 @@
         "difficulty": "basic",
         "context": "Transaction",
         "target_word": "pay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-pay-001",
+        "blank": "I _____ now."
       },
       {
         "sentence": "I pay with money.",
         "difficulty": "intermediate",
         "context": "Payment method",
         "target_word": "pay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-pay-002",
+        "blank": "I _____ with money."
       },
       {
         "sentence": "I pay for the coffee.",
         "difficulty": "practical",
         "context": "Purchase",
         "target_word": "pay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-pay-003",
+        "blank": "I _____ for the coffee."
       }
     ],
     "open": [
@@ -2830,21 +3562,27 @@
         "difficulty": "basic",
         "context": "Action",
         "target_word": "open",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-open-001",
+        "blank": "I _____ the door."
       },
       {
         "sentence": "The shop opens at nine.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "open",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-open-002",
+        "blank": "The shop _____s at nine."
       },
       {
         "sentence": "Please open the window.",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "open",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-open-003",
+        "blank": "Please _____ the window."
       }
     ],
     "close": [
@@ -2853,21 +3591,27 @@
         "difficulty": "basic",
         "context": "Action",
         "target_word": "close",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-close-001",
+        "blank": "I _____ the door."
       },
       {
         "sentence": "The shop closes at six.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "close",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-close-002",
+        "blank": "The shop _____s at six."
       },
       {
         "sentence": "Please close the window.",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "close",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-close-003",
+        "blank": "Please _____ the window."
       }
     ],
     "live": [
@@ -2876,21 +3620,27 @@
         "difficulty": "basic",
         "context": "Residence",
         "target_word": "live",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-live-001",
+        "blank": "I _____ here."
       },
       {
         "sentence": "I live in the city.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "live",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-live-002",
+        "blank": "I _____ in the city."
       },
       {
         "sentence": "I live with my family.",
         "difficulty": "practical",
         "context": "Living situation",
         "target_word": "live",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-live-003",
+        "blank": "I _____ with my family."
       }
     ],
     "stay": [
@@ -2899,21 +3649,27 @@
         "difficulty": "basic",
         "context": "Remaining",
         "target_word": "stay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stay-001",
+        "blank": "I _____ here."
       },
       {
         "sentence": "I stay at home today.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "stay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stay-002",
+        "blank": "I _____ at home today."
       },
       {
         "sentence": "Please stay with me.",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "stay",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stay-003",
+        "blank": "Please _____ with me."
       }
     ],
     "leave": [
@@ -2922,21 +3678,27 @@
         "difficulty": "basic",
         "context": "Departure",
         "target_word": "leave",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-leave-001",
+        "blank": "I _____ now."
       },
       {
         "sentence": "I leave work at five.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "leave",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-leave-002",
+        "blank": "I _____ work at five."
       },
       {
         "sentence": "I leave home early.",
         "difficulty": "practical",
         "context": "Morning routine",
         "target_word": "leave",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-leave-003",
+        "blank": "I _____ home early."
       }
     ],
     "arrive": [
@@ -2945,21 +3707,27 @@
         "difficulty": "basic",
         "context": "Coming",
         "target_word": "arrive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-arrive-001",
+        "blank": "I _____ soon."
       },
       {
         "sentence": "The bus arrives at ten.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "arrive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-arrive-002",
+        "blank": "The bus _____s at ten."
       },
       {
         "sentence": "I arrive at work early.",
         "difficulty": "practical",
         "context": "Punctuality",
         "target_word": "arrive",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-arrive-003",
+        "blank": "I _____ at work early."
       }
     ],
     "walk": [
@@ -2968,21 +3736,27 @@
         "difficulty": "basic",
         "context": "Transport",
         "target_word": "walk",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-walk-001",
+        "blank": "I _____ to work."
       },
       {
         "sentence": "I walk every morning.",
         "difficulty": "intermediate",
         "context": "Exercise",
         "target_word": "walk",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-walk-002",
+        "blank": "I _____ every morning."
       },
       {
         "sentence": "I walk with my friend.",
         "difficulty": "practical",
         "context": "Social activity",
         "target_word": "walk",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-walk-003",
+        "blank": "I _____ with my friend."
       }
     ],
     "run": [
@@ -2991,21 +3765,27 @@
         "difficulty": "basic",
         "context": "Movement",
         "target_word": "run",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-run-001",
+        "blank": "I _____ fast."
       },
       {
         "sentence": "I run every morning.",
         "difficulty": "intermediate",
         "context": "Exercise",
         "target_word": "run",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-run-002",
+        "blank": "I _____ every morning."
       },
       {
         "sentence": "I run to the bus.",
         "difficulty": "practical",
         "context": "Hurrying",
         "target_word": "run",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-run-003",
+        "blank": "I _____ to the bus."
       }
     ],
     "sit": [
@@ -3014,21 +3794,27 @@
         "difficulty": "basic",
         "context": "Position",
         "target_word": "sit",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sit-001",
+        "blank": "I _____ here."
       },
       {
         "sentence": "Please sit down.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "sit",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sit-002",
+        "blank": "Please _____ down."
       },
       {
         "sentence": "I sit on the chair.",
         "difficulty": "practical",
         "context": "Seating",
         "target_word": "sit",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sit-003",
+        "blank": "I _____ on the chair."
       }
     ],
     "stand": [
@@ -3037,21 +3823,27 @@
         "difficulty": "basic",
         "context": "Position",
         "target_word": "stand",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stand-001",
+        "blank": "I _____ here."
       },
       {
         "sentence": "Please stand up.",
         "difficulty": "intermediate",
         "context": "Request",
         "target_word": "stand",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stand-002",
+        "blank": "Please _____ up."
       },
       {
         "sentence": "I stand at the station.",
         "difficulty": "practical",
         "context": "Waiting",
         "target_word": "stand",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-stand-003",
+        "blank": "I _____ at the station."
       }
     ],
     "sleep": [
@@ -3060,21 +3852,27 @@
         "difficulty": "basic",
         "context": "Rest",
         "target_word": "sleep",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sleep-001",
+        "blank": "I _____ now."
       },
       {
         "sentence": "I sleep eight hours.",
         "difficulty": "intermediate",
         "context": "Duration",
         "target_word": "sleep",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sleep-002",
+        "blank": "I _____ eight hours."
       },
       {
         "sentence": "I sleep in my bedroom.",
         "difficulty": "practical",
         "context": "Location",
         "target_word": "sleep",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-sleep-003",
+        "blank": "I _____ in my bedroom."
       }
     ],
     "wake up": [
@@ -3083,21 +3881,27 @@
         "difficulty": "basic",
         "context": "Morning",
         "target_word": "wake up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wake-up-001",
+        "blank": "I _____ early."
       },
       {
         "sentence": "I wake up at seven.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "wake up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wake-up-002",
+        "blank": "I _____ at seven."
       },
       {
         "sentence": "I wake up and drink coffee.",
         "difficulty": "practical",
         "context": "Morning routine",
         "target_word": "wake up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wake-up-003",
+        "blank": "I _____ and drink coffee."
       }
     ],
     "get up": [
@@ -3106,21 +3910,27 @@
         "difficulty": "basic",
         "context": "Morning",
         "target_word": "get up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-get-up-001",
+        "blank": "I _____ early."
       },
       {
         "sentence": "I get up at six.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "get up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-get-up-002",
+        "blank": "I _____ at six."
       },
       {
         "sentence": "I get up and go to work.",
         "difficulty": "practical",
         "context": "Daily routine",
         "target_word": "get up",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-get-up-003",
+        "blank": "I _____ and go to work."
       }
     ],
     "morning": [
@@ -3129,21 +3939,27 @@
         "difficulty": "basic",
         "context": "Greeting",
         "target_word": "morning",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-morning-001",
+        "blank": "Good _____ to you!"
       },
       {
         "sentence": "I work in the morning.",
         "difficulty": "intermediate",
         "context": "Time of day",
         "target_word": "morning",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-morning-002",
+        "blank": "I work in the _____."
       },
       {
         "sentence": "I drink coffee every morning.",
         "difficulty": "practical",
         "context": "Daily routine",
         "target_word": "morning",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-morning-003",
+        "blank": "I drink coffee every _____."
       }
     ],
     "afternoon": [
@@ -3152,21 +3968,27 @@
         "difficulty": "basic",
         "context": "Greeting",
         "target_word": "afternoon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-afternoon-001",
+        "blank": "Good _____ to you!"
       },
       {
         "sentence": "I work in the afternoon.",
         "difficulty": "intermediate",
         "context": "Time of day",
         "target_word": "afternoon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-afternoon-002",
+        "blank": "I work in the _____."
       },
       {
         "sentence": "I eat lunch in the afternoon.",
         "difficulty": "practical",
         "context": "Schedule",
         "target_word": "afternoon",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-afternoon-003",
+        "blank": "I eat lunch in the _____."
       }
     ],
     "evening": [
@@ -3175,21 +3997,27 @@
         "difficulty": "basic",
         "context": "Greeting",
         "target_word": "evening",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-evening-001",
+        "blank": "Good _____ to you!"
       },
       {
         "sentence": "I work in the evening.",
         "difficulty": "intermediate",
         "context": "Time of day",
         "target_word": "evening",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-evening-002",
+        "blank": "I work in the _____."
       },
       {
         "sentence": "I see my friends in the evening.",
         "difficulty": "practical",
         "context": "Social time",
         "target_word": "evening",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-evening-003",
+        "blank": "I see my friends in the _____."
       }
     ],
     "night": [
@@ -3198,21 +4026,27 @@
         "difficulty": "basic",
         "context": "Farewell",
         "target_word": "night",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-night-001",
+        "blank": "Good _____ to you!"
       },
       {
         "sentence": "I sleep at night.",
         "difficulty": "intermediate",
         "context": "Rest time",
         "target_word": "night",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-night-002",
+        "blank": "I sleep at _____."
       },
       {
         "sentence": "I work at night sometimes.",
         "difficulty": "practical",
         "context": "Work schedule",
         "target_word": "night",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-night-003",
+        "blank": "I work at _____ sometimes."
       }
     ],
     "hour": [
@@ -3221,21 +4055,27 @@
         "difficulty": "basic",
         "context": "Duration",
         "target_word": "hour",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hour-001",
+        "blank": "I wait one _____."
       },
       {
         "sentence": "The trip takes two hours.",
         "difficulty": "intermediate",
         "context": "Time measurement",
         "target_word": "hour",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hour-002",
+        "blank": "The trip takes two _____s."
       },
       {
         "sentence": "I work eight hours a day.",
         "difficulty": "practical",
         "context": "Work schedule",
         "target_word": "hour",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-hour-003",
+        "blank": "I work eight _____s a day."
       }
     ],
     "minute": [
@@ -3244,21 +4084,27 @@
         "difficulty": "basic",
         "context": "Short duration",
         "target_word": "minute",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-minute-001",
+        "blank": "Wait five _____s, please."
       },
       {
         "sentence": "The bus comes in ten minutes.",
         "difficulty": "intermediate",
         "context": "Timing",
         "target_word": "minute",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-minute-002",
+        "blank": "The bus comes in ten _____s."
       },
       {
         "sentence": "I arrive in twenty minutes.",
         "difficulty": "practical",
         "context": "Travel time",
         "target_word": "minute",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-minute-003",
+        "blank": "I arrive in twenty _____s."
       }
     ],
     "early": [
@@ -3267,21 +4113,27 @@
         "difficulty": "basic",
         "context": "Time description",
         "target_word": "early",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-early-001",
+        "blank": "I wake up _____."
       },
       {
         "sentence": "The shop opens early today.",
         "difficulty": "intermediate",
         "context": "Schedule",
         "target_word": "early",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-early-002",
+        "blank": "The shop opens _____ today."
       },
       {
         "sentence": "I arrive early for work.",
         "difficulty": "practical",
         "context": "Timeliness",
         "target_word": "early",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-early-003",
+        "blank": "I arrive _____ for work."
       }
     ],
     "late": [
@@ -3290,21 +4142,27 @@
         "difficulty": "basic",
         "context": "Tardiness",
         "target_word": "late",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-late-001",
+        "blank": "I am _____."
       },
       {
         "sentence": "Sorry, I am very late.",
         "difficulty": "intermediate",
         "context": "Apology",
         "target_word": "late",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-late-002",
+        "blank": "Sorry, I am very _____."
       },
       {
         "sentence": "The train is late today.",
         "difficulty": "practical",
         "context": "Delay",
         "target_word": "late",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-late-003",
+        "blank": "The train is _____ today."
       }
     ],
     "same": [
@@ -3313,21 +4171,27 @@
         "difficulty": "basic",
         "context": "Similarity",
         "target_word": "same",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-same-001",
+        "blank": "We have the _____ car."
       },
       {
         "sentence": "This is the same color.",
         "difficulty": "intermediate",
         "context": "Matching",
         "target_word": "same",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-same-002",
+        "blank": "This is the _____ color."
       },
       {
         "sentence": "We work at the same time.",
         "difficulty": "practical",
         "context": "Schedule",
         "target_word": "same",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-same-003",
+        "blank": "We work at the _____ time."
       }
     ],
     "different": [
@@ -3336,21 +4200,27 @@
         "difficulty": "basic",
         "context": "Distinction",
         "target_word": "different",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-different-001",
+        "blank": "This is _____."
       },
       {
         "sentence": "My job is very different.",
         "difficulty": "intermediate",
         "context": "Comparison",
         "target_word": "different",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-different-002",
+        "blank": "My job is very _____."
       },
       {
         "sentence": "We live in different cities.",
         "difficulty": "practical",
         "context": "Contrast",
         "target_word": "different",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-different-003",
+        "blank": "We live in _____ cities."
       }
     ],
     "right": [
@@ -3359,21 +4229,27 @@
         "difficulty": "basic",
         "context": "Correctness",
         "target_word": "right",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-right-001",
+        "blank": "You are _____."
       },
       {
         "sentence": "The answer is right.",
         "difficulty": "intermediate",
         "context": "Accuracy",
         "target_word": "right",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-right-002",
+        "blank": "The answer is _____."
       },
       {
         "sentence": "Turn right at the bank.",
         "difficulty": "practical",
         "context": "Direction",
         "target_word": "right",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-right-003",
+        "blank": "Turn _____ at the bank."
       }
     ],
     "wrong": [
@@ -3382,21 +4258,27 @@
         "difficulty": "basic",
         "context": "Error",
         "target_word": "wrong",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wrong-001",
+        "blank": "This is _____."
       },
       {
         "sentence": "The answer is wrong.",
         "difficulty": "intermediate",
         "context": "Incorrectness",
         "target_word": "wrong",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wrong-002",
+        "blank": "The answer is _____."
       },
       {
         "sentence": "I go the wrong way.",
         "difficulty": "practical",
         "context": "Mistake",
         "target_word": "wrong",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-wrong-003",
+        "blank": "I go the _____ way."
       }
     ],
     "left": [
@@ -3405,21 +4287,27 @@
         "difficulty": "basic",
         "context": "Direction",
         "target_word": "left",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-left-001",
+        "blank": "Turn _____ here."
       },
       {
         "sentence": "The shop is on the left.",
         "difficulty": "intermediate",
         "context": "Location",
         "target_word": "left",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-left-002",
+        "blank": "The shop is on the _____."
       },
       {
         "sentence": "I have money left.",
         "difficulty": "practical",
         "context": "Remainder",
         "target_word": "left",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-left-003",
+        "blank": "I have money _____."
       }
     ],
     "next": [
@@ -3428,21 +4316,27 @@
         "difficulty": "basic",
         "context": "Future time",
         "target_word": "next",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-next-001",
+        "blank": "I go _____ week."
       },
       {
         "sentence": "The next bus comes soon.",
         "difficulty": "intermediate",
         "context": "Sequence",
         "target_word": "next",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-next-002",
+        "blank": "The _____ bus comes soon."
       },
       {
         "sentence": "I live next to the bank.",
         "difficulty": "practical",
         "context": "Location",
         "target_word": "next",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-next-003",
+        "blank": "I live _____ to the bank."
       }
     ],
     "last": [
@@ -3451,21 +4345,27 @@
         "difficulty": "basic",
         "context": "Past time",
         "target_word": "last",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-last-001",
+        "blank": "I worked _____ week."
       },
       {
         "sentence": "This is the last one.",
         "difficulty": "intermediate",
         "context": "Final",
         "target_word": "last",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-last-002",
+        "blank": "This is the _____ one."
       },
       {
         "sentence": "I saw you last month.",
         "difficulty": "practical",
         "context": "Recent past",
         "target_word": "last",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-last-003",
+        "blank": "I saw you _____ month."
       }
     ],
     "important": [
@@ -3474,21 +4374,27 @@
         "difficulty": "basic",
         "context": "Significance",
         "target_word": "important",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-important-001",
+        "blank": "This is _____."
       },
       {
         "sentence": "Work is very important.",
         "difficulty": "intermediate",
         "context": "Priority",
         "target_word": "important",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-important-002",
+        "blank": "Work is very _____."
       },
       {
         "sentence": "This is an important question.",
         "difficulty": "practical",
         "context": "Relevance",
         "target_word": "important",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-important-003",
+        "blank": "This is an _____ question."
       }
     ],
     "problem": [
@@ -3497,21 +4403,27 @@
         "difficulty": "basic",
         "context": "Issue",
         "target_word": "problem",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-problem-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "This is a big problem.",
         "difficulty": "intermediate",
         "context": "Difficulty",
         "target_word": "problem",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-problem-002",
+        "blank": "This is a big _____."
       },
       {
         "sentence": "I have a problem at work.",
         "difficulty": "practical",
         "context": "Workplace issue",
         "target_word": "problem",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-problem-003",
+        "blank": "I have a _____ at work."
       }
     ],
     "question": [
@@ -3520,21 +4432,27 @@
         "difficulty": "basic",
         "context": "Inquiry",
         "target_word": "question",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-question-001",
+        "blank": "I have a _____."
       },
       {
         "sentence": "The question is easy.",
         "difficulty": "intermediate",
         "context": "Assessment",
         "target_word": "question",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-question-002",
+        "blank": "The _____ is easy."
       },
       {
         "sentence": "Can I ask a question?",
         "difficulty": "practical",
         "context": "Permission",
         "target_word": "question",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-question-003",
+        "blank": "Can I ask a _____?"
       }
     ],
     "answer": [
@@ -3543,21 +4461,27 @@
         "difficulty": "basic",
         "context": "Knowledge",
         "target_word": "answer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-answer-001",
+        "blank": "I know the _____."
       },
       {
         "sentence": "The answer is right.",
         "difficulty": "intermediate",
         "context": "Correctness",
         "target_word": "answer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-answer-002",
+        "blank": "The _____ is right."
       },
       {
         "sentence": "Please give me the answer.",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "answer",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-answer-003",
+        "blank": "Please give me the _____."
       }
     ],
     "name": [
@@ -3566,21 +4490,27 @@
         "difficulty": "basic",
         "context": "Introduction",
         "target_word": "name",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-name-001",
+        "blank": "My _____ is John."
       },
       {
         "sentence": "What is your name?",
         "difficulty": "intermediate",
         "context": "Question",
         "target_word": "name",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-name-002",
+        "blank": "What is your _____?"
       },
       {
         "sentence": "Please tell me your name.",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "name",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-name-003",
+        "blank": "Please tell me your _____."
       }
     ],
     "number": [
@@ -3589,21 +4519,27 @@
         "difficulty": "basic",
         "context": "Contact",
         "target_word": "number",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-number-001",
+        "blank": "What is your _____?"
       },
       {
         "sentence": "The number is ten.",
         "difficulty": "intermediate",
         "context": "Quantity",
         "target_word": "number",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-number-002",
+        "blank": "The _____ is ten."
       },
       {
         "sentence": "My phone number is here.",
         "difficulty": "practical",
         "context": "Information",
         "target_word": "number",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-number-003",
+        "blank": "My phone _____ is here."
       }
     ],
     "word": [
@@ -3612,21 +4548,27 @@
         "difficulty": "basic",
         "context": "Vocabulary",
         "target_word": "word",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-word-001",
+        "blank": "I know this _____."
       },
       {
         "sentence": "What does this word mean?",
         "difficulty": "intermediate",
         "context": "Question",
         "target_word": "word",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-word-002",
+        "blank": "What does this _____ mean?"
       },
       {
         "sentence": "I learn new words every day.",
         "difficulty": "practical",
         "context": "Study",
         "target_word": "word",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-word-003",
+        "blank": "I learn new _____s every day."
       }
     ],
     "language": [
@@ -3635,21 +4577,27 @@
         "difficulty": "basic",
         "context": "Communication",
         "target_word": "language",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-language-001",
+        "blank": "I speak this _____."
       },
       {
         "sentence": "I learn a new language.",
         "difficulty": "intermediate",
         "context": "Study",
         "target_word": "language",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-language-002",
+        "blank": "I learn a new _____."
       },
       {
         "sentence": "What language do you speak?",
         "difficulty": "practical",
         "context": "Question",
         "target_word": "language",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-language-003",
+        "blank": "What _____ do you speak?"
       }
     ],
     "place": [
@@ -3658,21 +4606,27 @@
         "difficulty": "basic",
         "context": "Location",
         "target_word": "place",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-place-001",
+        "blank": "This is a nice _____."
       },
       {
         "sentence": "I know a good place.",
         "difficulty": "intermediate",
         "context": "Recommendation",
         "target_word": "place",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-place-002",
+        "blank": "I know a good _____."
       },
       {
         "sentence": "This place is very beautiful.",
         "difficulty": "practical",
         "context": "Description",
         "target_word": "place",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-place-003",
+        "blank": "This _____ is very beautiful."
       }
     ],
     "thing": [
@@ -3681,21 +4635,27 @@
         "difficulty": "basic",
         "context": "Possessions",
         "target_word": "thing",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thing-001",
+        "blank": "I have many _____s."
       },
       {
         "sentence": "This is a good thing.",
         "difficulty": "intermediate",
         "context": "Positive",
         "target_word": "thing",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thing-002",
+        "blank": "This is a good _____."
       },
       {
         "sentence": "I buy some things today.",
         "difficulty": "practical",
         "context": "Shopping",
         "target_word": "thing",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-thing-003",
+        "blank": "I buy some _____s today."
       }
     ],
     "way": [
@@ -3704,21 +4664,27 @@
         "difficulty": "basic",
         "context": "Direction",
         "target_word": "way",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-way-001",
+        "blank": "This is the _____."
       },
       {
         "sentence": "I go this way.",
         "difficulty": "intermediate",
         "context": "Path",
         "target_word": "way",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-way-002",
+        "blank": "I go this _____."
       },
       {
         "sentence": "Can you show me the way?",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "way",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-way-003",
+        "blank": "Can you show me the _____?"
       }
     ],
     "part": [
@@ -3727,21 +4693,27 @@
         "difficulty": "basic",
         "context": "Section",
         "target_word": "part",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-part-001",
+        "blank": "This is _____ one."
       },
       {
         "sentence": "I eat part of the bread.",
         "difficulty": "intermediate",
         "context": "Portion",
         "target_word": "part",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-part-002",
+        "blank": "I eat _____ of the bread."
       },
       {
         "sentence": "This is an important part.",
         "difficulty": "practical",
         "context": "Component",
         "target_word": "part",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-part-003",
+        "blank": "This is an important _____."
       }
     ],
     "all": [
@@ -3750,21 +4722,27 @@
         "difficulty": "basic",
         "context": "Entirety",
         "target_word": "all",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-all-001",
+        "blank": "I eat _____ the food."
       },
       {
         "sentence": "We work all day.",
         "difficulty": "intermediate",
         "context": "Duration",
         "target_word": "all",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-all-002",
+        "blank": "We work _____ day."
       },
       {
         "sentence": "I know all my friends.",
         "difficulty": "practical",
         "context": "Complete knowledge",
         "target_word": "all",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-all-003",
+        "blank": "I know _____ my friends."
       }
     ],
     "some": [
@@ -3773,21 +4751,27 @@
         "difficulty": "basic",
         "context": "Quantity",
         "target_word": "some",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-some-001",
+        "blank": "I want _____ water."
       },
       {
         "sentence": "I have some money.",
         "difficulty": "intermediate",
         "context": "Amount",
         "target_word": "some",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-some-002",
+        "blank": "I have _____ money."
       },
       {
         "sentence": "Can I have some coffee, please?",
         "difficulty": "practical",
         "context": "Request",
         "target_word": "some",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-some-003",
+        "blank": "Can I have _____ coffee, please?"
       }
     ],
     "many": [
@@ -3796,21 +4780,27 @@
         "difficulty": "basic",
         "context": "Quantity",
         "target_word": "many",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-many-001",
+        "blank": "I have _____ friends."
       },
       {
         "sentence": "Many people work here.",
         "difficulty": "intermediate",
         "context": "Count",
         "target_word": "many",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-many-002",
+        "blank": "_____ people work here."
       },
       {
         "sentence": "I eat many different foods.",
         "difficulty": "practical",
         "context": "Variety",
         "target_word": "many",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-many-003",
+        "blank": "I eat _____ different foods."
       }
     ],
     "little": [
@@ -3819,21 +4809,27 @@
         "difficulty": "basic",
         "context": "Small amount",
         "target_word": "little",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-little-001",
+        "blank": "I have _____ money."
       },
       {
         "sentence": "I have a little time.",
         "difficulty": "intermediate",
         "context": "Scarcity",
         "target_word": "little",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-little-002",
+        "blank": "I have a _____ time."
       },
       {
         "sentence": "There is little water left.",
         "difficulty": "practical",
         "context": "Remaining",
         "target_word": "little",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-little-003",
+        "blank": "There is _____ water left."
       }
     ],
     "much": [
@@ -3842,21 +4838,27 @@
         "difficulty": "basic",
         "context": "Large amount",
         "target_word": "much",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-much-001",
+        "blank": "I have _____ work."
       },
       {
         "sentence": "Thank you very much!",
         "difficulty": "intermediate",
         "context": "Gratitude",
         "target_word": "much",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-much-002",
+        "blank": "Thank you very _____!"
       },
       {
         "sentence": "How much is this shirt?",
         "difficulty": "practical",
         "context": "Price",
         "target_word": "much",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-much-003",
+        "blank": "How _____ is this shirt?"
       }
     ],
     "very": [
@@ -3865,21 +4867,27 @@
         "difficulty": "basic",
         "context": "Degree",
         "target_word": "very",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-very-001",
+        "blank": "I am _____ tired."
       },
       {
         "sentence": "The food is very good.",
         "difficulty": "intermediate",
         "context": "Emphasis",
         "target_word": "very",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-very-002",
+        "blank": "The food is _____ good."
       },
       {
         "sentence": "Thank you very much!",
         "difficulty": "practical",
         "context": "Gratitude",
         "target_word": "very",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-very-003",
+        "blank": "Thank you _____ much!"
       }
     ],
     "well": [
@@ -3888,21 +4896,27 @@
         "difficulty": "basic",
         "context": "Health",
         "target_word": "well",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-well-001",
+        "blank": "I am _____, thanks."
       },
       {
         "sentence": "I speak English well.",
         "difficulty": "intermediate",
         "context": "Ability",
         "target_word": "well",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-well-002",
+        "blank": "I speak English _____."
       },
       {
         "sentence": "I sleep very well here.",
         "difficulty": "practical",
         "context": "Quality",
         "target_word": "well",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-well-003",
+        "blank": "I sleep very _____ here."
       }
     ],
     "also": [
@@ -3911,21 +4925,27 @@
         "difficulty": "basic",
         "context": "Addition",
         "target_word": "also",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-also-001",
+        "blank": "I _____ drink tea."
       },
       {
         "sentence": "I also work on weekends.",
         "difficulty": "intermediate",
         "context": "Additional activity",
         "target_word": "also",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-also-002",
+        "blank": "I _____ work on weekends."
       },
       {
         "sentence": "My friend also lives here.",
         "difficulty": "practical",
         "context": "Similarity",
         "target_word": "also",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-also-003",
+        "blank": "My friend _____ lives here."
       }
     ],
     "because": [
@@ -3934,21 +4954,27 @@
         "difficulty": "basic",
         "context": "Reason",
         "target_word": "because",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-because-001",
+        "blank": "I stay _____ I am tired."
       },
       {
         "sentence": "I eat because I am hungry.",
         "difficulty": "intermediate",
         "context": "Cause",
         "target_word": "because",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-because-002",
+        "blank": "I eat _____ I am hungry."
       },
       {
         "sentence": "I walk because I have no car.",
         "difficulty": "practical",
         "context": "Explanation",
         "target_word": "because",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-because-003",
+        "blank": "I walk _____ I have no car."
       }
     ],
     "but": [
@@ -3957,21 +4983,27 @@
         "difficulty": "basic",
         "context": "Contrast",
         "target_word": "but",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-but-001",
+        "blank": "I am tired _____ happy."
       },
       {
         "sentence": "I like tea, but I drink coffee.",
         "difficulty": "intermediate",
         "context": "Preference",
         "target_word": "but",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-but-002",
+        "blank": "I like tea, _____ I drink coffee."
       },
       {
         "sentence": "I want to go, but I am busy.",
         "difficulty": "practical",
         "context": "Limitation",
         "target_word": "but",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-but-003",
+        "blank": "I want to go, _____ I am busy."
       }
     ],
     "and": [
@@ -3980,21 +5012,27 @@
         "difficulty": "basic",
         "context": "Addition",
         "target_word": "and",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-and-001",
+        "blank": "I have coffee _____ tea."
       },
       {
         "sentence": "I work and I study.",
         "difficulty": "intermediate",
         "context": "Multiple activities",
         "target_word": "and",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-and-002",
+        "blank": "I work _____ I study."
       },
       {
         "sentence": "I eat bread and drink water.",
         "difficulty": "practical",
         "context": "Combination",
         "target_word": "and",
-        "translation": ""
+        "translation": "",
+        "id": "en-a1a2-and-003",
+        "blank": "I eat bread _____ drink water."
       }
     ]
   }

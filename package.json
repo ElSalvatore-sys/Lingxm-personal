@@ -12,9 +12,12 @@
     "test-audio": "node scripts/test-audio-integration.js"
   },
   "devDependencies": {
+    "@capacitor/cli": "^7.4.4",
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "@capacitor/core": "^7.4.4",
+    "@capacitor/ios": "^7.4.4",
     "sql.js": "^1.13.0"
   }
 }

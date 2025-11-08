@@ -868,6 +868,12 @@ export class DatabaseManager {
       return false;
     }
 
+    // Validate sentenceId is not undefined or null
+    if (!sentenceId || sentenceId === undefined || sentenceId === null) {
+      console.warn('[DB] Skipping progress update - invalid sentenceId:', sentenceId);
+      return false;
+    }
+
     try {
       const field = correct ? 'correct_attempts' : 'incorrect_attempts';
       const now = new Date().toISOString();

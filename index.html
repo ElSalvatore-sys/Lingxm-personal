@@ -406,6 +406,52 @@
                         <h3 class="profile-name">Ameeno</h3>
                         <div class="profile-streak">🔥 0 days</div>
                     </button>
+
+                    <!-- Valeria Profile -->
+                    <button class="profile-card" data-profile="valeria">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-valeria" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-valeria)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👩‍💼</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="valeria"></div>
+                        <h3 class="profile-name">Valeria Puga</h3>
+                        <div class="profile-streak">🔥 0 days</div>
+                    </button>
+
+                    <!-- Dmitri Profile -->
+                    <button class="profile-card" data-profile="dmitri">
+                        <div class="profile-progress-wrapper">
+                            <svg class="progress-ring" width="120" height="120">
+                                <defs>
+                                    <linearGradient id="progress-gradient-dmitri" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
+                                        <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="60" cy="60" r="54" stroke="rgba(255,255,255,0.2)" stroke-width="6" fill="none" />
+                                <circle class="progress-ring-circle" cx="60" cy="60" r="54" stroke="url(#progress-gradient-dmitri)" stroke-width="6" fill="none" stroke-dasharray="339.292" stroke-dashoffset="339.292" transform="rotate(-90 60 60)" data-percentage="0" />
+                            </svg>
+                            <div class="profile-avatar">
+                                <span class="avatar-emoji">👨‍💼</span>
+                                <div class="lock-overlay">🔒</div>
+                            </div>
+                        </div>
+                        <div class="language-indicators" data-profile="dmitri"></div>
+                        <h3 class="profile-name">Panos</h3>
+                        <div class="profile-streak">🔥 0 days</div>
+                    </button>
                 </div>
                 </div>
             </div>
@@ -414,6 +460,7 @@
         <!-- Home Screen - Card-Based Navigation -->
         <div id="home-screen" class="screen">
             <header class="app-header">
+                <button id="home-back-btn" class="icon-btn">←</button>
                 <div class="user-info">
                     <span class="user-avatar" id="home-user-avatar">👤</span>
                     <span class="user-name" id="home-user-name">User</span>
@@ -686,81 +733,126 @@
                         <path d="M19 12H5M12 19l-7-7 7-7" stroke-width="2" stroke-linecap="round"/>
                     </svg>
                 </button>
-                <h1 class="header-title">Progress Stats</h1>
+                <h1 class="header-title">Your Journey</h1>
                 <div class="header-spacer"></div>
             </header>
 
             <div class="progress-dashboard">
-                <!-- Overall Progress Card -->
-                <div class="dashboard-card overall-progress-card">
-                    <h3 class="card-title">Overall Progress</h3>
-                    <div class="overall-progress-content">
-                        <svg class="overall-progress-ring" width="180" height="180">
-                            <defs>
-                                <linearGradient id="overall-progress-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                    <stop offset="0%" style="stop-color: var(--color-primary-gradient-start)" />
-                                    <stop offset="100%" style="stop-color: var(--color-primary-gradient-end)" />
-                                </linearGradient>
-                            </defs>
-                            <circle class="overall-progress-bg" cx="90" cy="90" r="75" 
-                                    stroke="rgba(255,255,255,0.1)" stroke-width="12" fill="none" />
-                            <circle class="overall-progress-circle" cx="90" cy="90" r="75"
-                                    stroke="url(#overall-progress-gradient)" stroke-width="12" fill="none"
-                                    stroke-dasharray="471.24" stroke-dashoffset="471.24"
-                                    transform="rotate(-90 90 90)" stroke-linecap="round" />
-                        </svg>
-                        <div class="overall-progress-text">
-                            <div class="overall-percentage">0%</div>
-                            <div class="overall-words-count">0 of 0 words mastered</div>
+                <!-- Hero Section: Level & Streak -->
+                <div class="journey-hero">
+                    <div class="welcome-message">
+                        <span id="journey-greeting">Welcome back!</span>
+                        <span class="encouragement" id="journey-encouragement">Keep crushing it!</span>
+                    </div>
+
+                    <div class="level-display">
+                        <div class="level-badge">
+                            <div class="level-icon">⭐</div>
+                            <div class="level-info">
+                                <div class="level-label">Level</div>
+                                <div class="level-number" id="user-level">1</div>
+                            </div>
+                        </div>
+
+                        <div class="xp-progress">
+                            <div class="xp-bar-container">
+                                <div class="xp-bar-fill" id="xp-bar" style="width: 0%"></div>
+                            </div>
+                            <div class="xp-text">
+                                <span id="current-xp">0</span> / <span id="next-level-xp">100</span> XP
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="streak-display">
+                        <div class="streak-fire">🔥</div>
+                        <div class="streak-info">
+                            <div class="streak-count" id="streak-count">0</div>
+                            <div class="streak-label">Day Streak</div>
+                        </div>
+                        <div class="streak-message" id="streak-message">Keep it going!</div>
+                    </div>
+                </div>
+
+                <!-- Daily Goals (Apple Watch Style Rings) -->
+                <div class="dashboard-card daily-goals-card">
+                    <h3 class="card-title">Today's Goals</h3>
+                    <div class="daily-goals-content">
+                        <div class="goal-rings">
+                            <svg width="160" height="160" class="rings-svg">
+                                <defs>
+                                    <linearGradient id="goal-gradient-1" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: #10b981;" />
+                                        <stop offset="100%" style="stop-color: #34d399;" />
+                                    </linearGradient>
+                                    <linearGradient id="goal-gradient-2" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: #f59e0b;" />
+                                        <stop offset="100%" style="stop-color: #fbbf24;" />
+                                    </linearGradient>
+                                    <linearGradient id="goal-gradient-3" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: #ef4444;" />
+                                        <stop offset="100%" style="stop-color: #f87171;" />
+                                    </linearGradient>
+                                </defs>
+                                <!-- Outer ring - Words -->
+                                <circle class="goal-ring-bg" cx="80" cy="80" r="70" stroke="rgba(16, 185, 129, 0.2)" stroke-width="10" fill="none" />
+                                <circle class="goal-ring-fill" id="goal-ring-words" cx="80" cy="80" r="70" stroke="url(#goal-gradient-1)" stroke-width="10" fill="none" stroke-dasharray="439.82" stroke-dashoffset="439.82" transform="rotate(-90 80 80)" stroke-linecap="round" />
+
+                                <!-- Middle ring - Time -->
+                                <circle class="goal-ring-bg" cx="80" cy="80" r="55" stroke="rgba(245, 158, 11, 0.2)" stroke-width="10" fill="none" />
+                                <circle class="goal-ring-fill" id="goal-ring-time" cx="80" cy="80" r="55" stroke="url(#goal-gradient-2)" stroke-width="10" fill="none" stroke-dasharray="345.58" stroke-dashoffset="345.58" transform="rotate(-90 80 80)" stroke-linecap="round" />
+
+                                <!-- Inner ring - Accuracy -->
+                                <circle class="goal-ring-bg" cx="80" cy="80" r="40" stroke="rgba(239, 68, 68, 0.2)" stroke-width="10" fill="none" />
+                                <circle class="goal-ring-fill" id="goal-ring-accuracy" cx="80" cy="80" r="40" stroke="url(#goal-gradient-3)" stroke-width="10" fill="none" stroke-dasharray="251.33" stroke-dashoffset="251.33" transform="rotate(-90 80 80)" stroke-linecap="round" />
+                            </svg>
+                        </div>
+                        <div class="goals-legend">
+                            <div class="goal-item">
+                                <div class="goal-dot" style="background: #10b981;"></div>
+                                <span class="goal-name">Words</span>
+                                <span class="goal-value" id="goal-words-text">0/20</span>
+                            </div>
+                            <div class="goal-item">
+                                <div class="goal-dot" style="background: #f59e0b;"></div>
+                                <span class="goal-name">Practice</span>
+                                <span class="goal-value" id="goal-time-text">0/15 min</span>
+                            </div>
+                            <div class="goal-item">
+                                <div class="goal-dot" style="background: #ef4444;"></div>
+                                <span class="goal-name">Accuracy</span>
+                                <span class="goal-value" id="goal-accuracy-text">0%</span>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Quick Stats Row -->
-                <div class="quick-stats-row">
-                    <div class="stat-card streak-stat">
-                        <div class="stat-icon">🔥</div>
-                        <div class="stat-label">Streak</div>
-                        <div class="stat-value">0 days</div>
-                    </div>
-                    <div class="stat-card activity-stat">
-                        <div class="stat-icon">📅</div>
-                        <div class="stat-label">Days Active</div>
-                        <div class="stat-value">0 days</div>
-                    </div>
-                </div>
-
-                <!-- Progress by Language -->
-                <div class="dashboard-card language-progress-card">
-                    <h3 class="card-title">Progress by Language</h3>
-                    <div class="language-progress-list">
+                <!-- Languages (Beautiful Cards) -->
+                <div class="dashboard-card languages-card">
+                    <h3 class="card-title">Your Languages</h3>
+                    <div class="languages-grid">
                         <!-- Populated by JavaScript -->
                     </div>
                 </div>
 
-                <!-- Mastery Distribution -->
-                <div class="dashboard-card mastery-distribution-card">
-                    <h3 class="card-title">Mastery Distribution</h3>
-                    <div class="mastery-levels-list">
+                <!-- Recent Achievements Showcase -->
+                <div class="dashboard-card achievements-showcase-card">
+                    <div class="achievements-header">
+                        <h3 class="card-title">Achievements</h3>
+                        <button class="view-all-btn" id="view-all-achievements-btn">View All →</button>
+                    </div>
+                    <div class="achievements-grid">
                         <!-- Populated by JavaScript -->
                     </div>
                 </div>
 
-                <!-- Activity Calendar -->
-                <div class="dashboard-card activity-calendar-card">
-                    <h3 class="card-title">Activity (Last 7 Days)</h3>
-                    <div class="activity-calendar">
+                <!-- Weekly Activity Timeline -->
+                <div class="dashboard-card weekly-activity-card">
+                    <h3 class="card-title">This Week</h3>
+                    <div class="weekly-timeline">
                         <!-- Populated by JavaScript -->
                     </div>
                 </div>
-
-                <!-- Achievements Button -->
-                <button class="view-achievements-btn" id="view-achievements-btn">
-                    <span>🏆 View Achievements</span>
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                        <path d="M5 12h14M12 5l7 7-7 7" stroke-width="2" stroke-linecap="round"/>
-                    </svg>
-                </button>
             </div>
         </div>
 
@@ -779,19 +871,40 @@
             </header>
 
             <div class="sentence-practice-container">
-                <!-- Session Info Card -->
-                <div class="sentence-info-card">
-                    <div class="info-item">
-                        <span class="info-label">Language</span>
-                        <span class="info-value" id="sentence-language">English</span>
+                <!-- Beautiful Progress Card -->
+                <div class="sentence-session-card">
+                    <div class="session-header">
+                        <div class="session-language-badge">
+                            <span class="language-flag" id="sentence-language-flag">🇬🇧</span>
+                            <span class="language-name" id="sentence-language">English</span>
+                        </div>
+                        <div class="session-progress-ring">
+                            <svg class="progress-ring-svg" width="60" height="60">
+                                <defs>
+                                    <linearGradient id="gradient-ring" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" style="stop-color: #667eea;" />
+                                        <stop offset="100%" style="stop-color: #764ba2;" />
+                                    </linearGradient>
+                                </defs>
+                                <circle class="progress-ring-bg" cx="30" cy="30" r="26" />
+                                <circle class="progress-ring-fill" cx="30" cy="30" r="26" id="sentence-progress-ring" />
+                            </svg>
+                            <div class="progress-text" id="sentence-progress-text">0%</div>
+                        </div>
                     </div>
-                    <div class="info-item">
-                        <span class="info-label">Known Words</span>
-                        <span class="info-value" id="sentence-known-count">0</span>
-                    </div>
-                    <div class="info-item">
-                        <span class="info-label">Available</span>
-                        <span class="info-value" id="sentence-available">0</span>
+                    <div class="session-stats-mini">
+                        <div class="stat-mini">
+                            <span class="stat-mini-icon">✓</span>
+                            <span class="stat-mini-value" id="sentence-correct-live">0</span>
+                        </div>
+                        <div class="stat-mini">
+                            <span class="stat-mini-icon">✗</span>
+                            <span class="stat-mini-value" id="sentence-incorrect-live">0</span>
+                        </div>
+                        <div class="stat-mini">
+                            <span class="stat-mini-icon">📚</span>
+                            <span class="stat-mini-value" id="sentence-known-count">0</span>
+                        </div>
                     </div>
                 </div>
 
@@ -818,12 +931,14 @@
                     </div>
                 </div>
 
-                <!-- Feedback Section (hidden by default) -->
-                <div class="sentence-feedback hidden" id="sentence-feedback">
-                    <div class="feedback-icon" id="feedback-icon">✓</div>
-                    <div class="feedback-message" id="feedback-message">Correct!</div>
-                    <div class="feedback-full-sentence" id="feedback-full-sentence">
-                        <!-- Full sentence shown here -->
+                <!-- Compact Feedback (hidden by default) -->
+                <div class="sentence-feedback-compact hidden" id="sentence-feedback">
+                    <div class="feedback-content">
+                        <span class="feedback-icon-compact" id="feedback-icon">✓</span>
+                        <div>
+                            <div class="feedback-message-compact" id="feedback-message">Correct!</div>
+                            <div class="feedback-sentence-compact" id="feedback-full-sentence"></div>
+                        </div>
                     </div>
                 </div>
 
@@ -839,27 +954,38 @@
 
                 <!-- Session Complete Screen (hidden by default) -->
                 <div class="session-complete hidden" id="session-complete">
-                    <div class="complete-icon">🎉</div>
-                    <h2 class="complete-title">Great Work!</h2>
-                    <div class="complete-stats">
-                        <div class="stat-item">
-                            <span class="stat-value" id="session-correct">0</span>
-                            <span class="stat-label">Correct</span>
+                    <div class="complete-celebration">
+                        <div class="complete-icon-modern">🎉</div>
+                        <h2 class="complete-title-modern">Session Complete!</h2>
+                        <p class="complete-subtitle">Great work on your practice</p>
+                    </div>
+
+                    <div class="complete-stats-modern">
+                        <div class="stat-circle">
+                            <div class="stat-circle-inner">
+                                <span class="stat-value-modern" id="session-accuracy">0%</span>
+                                <span class="stat-label-modern">Accuracy</span>
+                            </div>
                         </div>
-                        <div class="stat-item">
-                            <span class="stat-value" id="session-incorrect">0</span>
-                            <span class="stat-label">Incorrect</span>
-                        </div>
-                        <div class="stat-item">
-                            <span class="stat-value" id="session-accuracy">0%</span>
-                            <span class="stat-label">Accuracy</span>
+                        <div class="stat-breakdown">
+                            <div class="stat-row">
+                                <span class="stat-icon-modern success">✓</span>
+                                <span class="stat-text">Correct</span>
+                                <span class="stat-number" id="session-correct">0</span>
+                            </div>
+                            <div class="stat-row">
+                                <span class="stat-icon-modern error">✗</span>
+                                <span class="stat-text">Incorrect</span>
+                                <span class="stat-number" id="session-incorrect">0</span>
+                            </div>
                         </div>
                     </div>
-                    <div class="complete-actions">
-                        <button class="btn-practice-again" id="btn-practice-again">
+
+                    <div class="complete-actions-modern">
+                        <button class="btn-primary-modern" id="btn-practice-again">
                             Practice Again
                         </button>
-                        <button class="btn-back-home" id="btn-back-home">
+                        <button class="btn-secondary-modern" id="btn-back-home">
                             Back to Home
                         </button>
                     </div>

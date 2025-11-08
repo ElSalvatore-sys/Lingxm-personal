@@ -1,0 +1,4879 @@
+{
+  "metadata": {
+    "language": "de",
+    "language_name": "German",
+    "source_profile": "jawad",
+    "source_level": "B1-B2",
+    "source_vocabulary": "public/data/jawad/de-gastro.json",
+    "total_words": 180,
+    "total_sentences": 540,
+    "generated_date": "2025-11-04",
+    "version": "1.0",
+    "generator": "Claude Code",
+    "domain": "gastronomy_hotel",
+    "target_language": "ar",
+    "notes": "Generated B1-B2 level German sentences focused on hotel reception and gastronomy contexts with Arabic translations. 3 sentences per vocabulary word."
+  },
+  "sentences": [
+    {
+      "id": "de_gastro_001",
+      "de": "An der Rezeption müssen wir das Amuse-Bouche für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المقبلات الصغيرة لجميع الضيوف.",
+      "target_word": "das Amuse-Bouche",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_002",
+      "de": "Der Gast hat nach das Amuse-Bouche gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المقبلات الصغيرة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Amuse-Bouche",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_003",
+      "de": "Wir bieten das Amuse-Bouche als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المقبلات الصغيرة كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Amuse-Bouche",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_004",
+      "de": "An der Rezeption müssen wir degustieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتذوق لجميع الضيوف.",
+      "target_word": "degustieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_005",
+      "de": "Der Gast hat nach degustieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتذوق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "degustieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_006",
+      "de": "Wir bieten degustieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتذوق كخدمة خاصة لضيوف VIP.",
+      "target_word": "degustieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_007",
+      "de": "An der Rezeption müssen wir die Mise en Place für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر التحضير المسبق لجميع الضيوف.",
+      "target_word": "die Mise en Place",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_008",
+      "de": "Der Gast hat nach die Mise en Place gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن التحضير المسبق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Mise en Place",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_009",
+      "de": "Wir bieten die Mise en Place als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم التحضير المسبق كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Mise en Place",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_010",
+      "de": "An der Rezeption müssen wir flambieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يشعل لجميع الضيوف.",
+      "target_word": "flambieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_011",
+      "de": "Der Gast hat nach flambieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يشعل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "flambieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_012",
+      "de": "Wir bieten flambieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يشعل كخدمة خاصة لضيوف VIP.",
+      "target_word": "flambieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_013",
+      "de": "An der Rezeption müssen wir das Tasting-Menü für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر قائمة التذوق لجميع الضيوف.",
+      "target_word": "das Tasting-Menü",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_014",
+      "de": "Der Gast hat nach das Tasting-Menü gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن قائمة التذوق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Tasting-Menü",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_015",
+      "de": "Wir bieten das Tasting-Menü als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم قائمة التذوق كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Tasting-Menü",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_016",
+      "de": "An der Rezeption müssen wir bardieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يلف بشحم الخنزير لجميع الضيوف.",
+      "target_word": "bardieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_017",
+      "de": "Der Gast hat nach bardieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يلف بشحم الخنزير، هل يمكنك ترتيب ذلك؟",
+      "target_word": "bardieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_018",
+      "de": "Wir bieten bardieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يلف بشحم الخنزير كخدمة خاصة لضيوف VIP.",
+      "target_word": "bardieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_019",
+      "de": "An der Rezeption müssen wir die Garnitur für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر التزيين لجميع الضيوف.",
+      "target_word": "die Garnitur",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_020",
+      "de": "Der Gast hat nach die Garnitur gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن التزيين، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Garnitur",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_021",
+      "de": "Wir bieten die Garnitur als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم التزيين كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Garnitur",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_022",
+      "de": "An der Rezeption müssen wir pochieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يسلق في سائل لجميع الضيوف.",
+      "target_word": "pochieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_023",
+      "de": "Der Gast hat nach pochieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يسلق في سائل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "pochieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_024",
+      "de": "Wir bieten pochieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يسلق في سائل كخدمة خاصة لضيوف VIP.",
+      "target_word": "pochieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_025",
+      "de": "An der Rezeption müssen wir das Mise-en-bouche für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر مشهي لجميع الضيوف.",
+      "target_word": "das Mise-en-bouche",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_026",
+      "de": "Der Gast hat nach das Mise-en-bouche gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن مشهي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Mise-en-bouche",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_027",
+      "de": "Wir bieten das Mise-en-bouche als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم مشهي كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Mise-en-bouche",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_028",
+      "de": "An der Rezeption müssen wir tranchieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقطّع احترافياً لجميع الضيوف.",
+      "target_word": "tranchieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_029",
+      "de": "Der Gast hat nach tranchieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقطّع احترافياً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "tranchieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_030",
+      "de": "Wir bieten tranchieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقطّع احترافياً كخدمة خاصة لضيوف VIP.",
+      "target_word": "tranchieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_031",
+      "de": "An der Rezeption müssen wir die Reduktion für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الصلصة المركزة لجميع الضيوف.",
+      "target_word": "die Reduktion",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_032",
+      "de": "Der Gast hat nach die Reduktion gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الصلصة المركزة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Reduktion",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_033",
+      "de": "Wir bieten die Reduktion als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الصلصة المركزة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Reduktion",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_034",
+      "de": "An der Rezeption müssen wir glasieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يطلي بالصقيل لجميع الضيوف.",
+      "target_word": "glasieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_035",
+      "de": "Der Gast hat nach glasieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يطلي بالصقيل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "glasieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_036",
+      "de": "Wir bieten glasieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يطلي بالصقيل كخدمة خاصة لضيوف VIP.",
+      "target_word": "glasieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_037",
+      "de": "An der Rezeption müssen wir das Bouquet garni für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر باقة الأعشاب لجميع الضيوف.",
+      "target_word": "das Bouquet garni",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_038",
+      "de": "Der Gast hat nach das Bouquet garni gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن باقة الأعشاب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Bouquet garni",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_039",
+      "de": "Wir bieten das Bouquet garni als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم باقة الأعشاب كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Bouquet garni",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_040",
+      "de": "An der Rezeption müssen wir sautieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقلي سريعاً لجميع الضيوف.",
+      "target_word": "sautieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_041",
+      "de": "Der Gast hat nach sautieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقلي سريعاً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "sautieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_042",
+      "de": "Wir bieten sautieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقلي سريعاً كخدمة خاصة لضيوف VIP.",
+      "target_word": "sautieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_043",
+      "de": "An der Rezeption müssen wir das Terroir für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الخصائص الجغرافية للمنتج لجميع الضيوف.",
+      "target_word": "das Terroir",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_044",
+      "de": "Der Gast hat nach das Terroir gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الخصائص الجغرافية للمنتج، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Terroir",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_045",
+      "de": "Wir bieten das Terroir als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الخصائص الجغرافية للمنتج كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Terroir",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_046",
+      "de": "An der Rezeption müssen wir marinieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينقع في التتبيلة لجميع الضيوف.",
+      "target_word": "marinieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_047",
+      "de": "Der Gast hat nach marinieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينقع في التتبيلة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "marinieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_048",
+      "de": "Wir bieten marinieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينقع في التتبيلة كخدمة خاصة لضيوف VIP.",
+      "target_word": "marinieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_049",
+      "de": "An der Rezeption müssen wir die Emulsion für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المستحلب لجميع الضيوف.",
+      "target_word": "die Emulsion",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_050",
+      "de": "Der Gast hat nach die Emulsion gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المستحلب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Emulsion",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_051",
+      "de": "Wir bieten die Emulsion als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المستحلب كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Emulsion",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_052",
+      "de": "An der Rezeption müssen wir anrichten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يرتّب على الطبق لجميع الضيوف.",
+      "target_word": "anrichten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_053",
+      "de": "Der Gast hat nach anrichten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يرتّب على الطبق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "anrichten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_054",
+      "de": "Wir bieten anrichten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يرتّب على الطبق كخدمة خاصة لضيوف VIP.",
+      "target_word": "anrichten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_055",
+      "de": "An der Rezeption müssen wir das Sous-vide für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطهي بالفراغ لجميع الضيوف.",
+      "target_word": "das Sous-vide",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_056",
+      "de": "Der Gast hat nach das Sous-vide gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطهي بالفراغ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Sous-vide",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_057",
+      "de": "Wir bieten das Sous-vide als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطهي بالفراغ كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Sous-vide",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_058",
+      "de": "An der Rezeption müssen wir deglacieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يذيب رواسب الطهي لجميع الضيوف.",
+      "target_word": "deglacieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_059",
+      "de": "Der Gast hat nach deglacieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يذيب رواسب الطهي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "deglacieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_060",
+      "de": "Wir bieten deglacieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يذيب رواسب الطهي كخدمة خاصة لضيوف VIP.",
+      "target_word": "deglacieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_061",
+      "de": "An der Rezeption müssen wir die Brunoise für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المكعبات الدقيقة لجميع الضيوف.",
+      "target_word": "die Brunoise",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_062",
+      "de": "Der Gast hat nach die Brunoise gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المكعبات الدقيقة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Brunoise",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_063",
+      "de": "Wir bieten die Brunoise als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المكعبات الدقيقة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Brunoise",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_064",
+      "de": "An der Rezeption müssen wir pürieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يهرس لجميع الضيوف.",
+      "target_word": "pürieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_065",
+      "de": "Der Gast hat nach pürieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يهرس، هل يمكنك ترتيب ذلك؟",
+      "target_word": "pürieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_066",
+      "de": "Wir bieten pürieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يهرس كخدمة خاصة لضيوف VIP.",
+      "target_word": "pürieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_067",
+      "de": "An der Rezeption müssen wir das Tournieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر التقطيع الفني لجميع الضيوف.",
+      "target_word": "das Tournieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_068",
+      "de": "Der Gast hat nach das Tournieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن التقطيع الفني، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Tournieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_069",
+      "de": "Wir bieten das Tournieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم التقطيع الفني كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Tournieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_070",
+      "de": "An der Rezeption müssen wir blanchieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يسلق سريعاً لجميع الضيوف.",
+      "target_word": "blanchieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_071",
+      "de": "Der Gast hat nach blanchieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يسلق سريعاً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "blanchieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_072",
+      "de": "Wir bieten blanchieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يسلق سريعاً كخدمة خاصة لضيوف VIP.",
+      "target_word": "blanchieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_073",
+      "de": "An der Rezeption müssen wir die Julienne für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الشرائط الرفيعة لجميع الضيوف.",
+      "target_word": "die Julienne",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_074",
+      "de": "Der Gast hat nach die Julienne gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الشرائط الرفيعة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Julienne",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_075",
+      "de": "Wir bieten die Julienne als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الشرائط الرفيعة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Julienne",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_076",
+      "de": "An der Rezeption müssen wir der Jus für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر عصارة الشواء لجميع الضيوف.",
+      "target_word": "der Jus",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_077",
+      "de": "Der Gast hat nach der Jus gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن عصارة الشواء، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Jus",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_078",
+      "de": "Wir bieten der Jus als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم عصارة الشواء كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Jus",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_079",
+      "de": "An der Rezeption müssen wir abschmecken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتذوق ويعدّل لجميع الضيوف.",
+      "target_word": "abschmecken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_080",
+      "de": "Der Gast hat nach abschmecken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتذوق ويعدّل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "abschmecken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_081",
+      "de": "Wir bieten abschmecken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتذوق ويعدّل كخدمة خاصة لضيوف VIP.",
+      "target_word": "abschmecken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_082",
+      "de": "An der Rezeption müssen wir das Confit für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر اللحم المطبوخ في الدهن لجميع الضيوف.",
+      "target_word": "das Confit",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_083",
+      "de": "Der Gast hat nach das Confit gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن اللحم المطبوخ في الدهن، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Confit",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_084",
+      "de": "Wir bieten das Confit als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم اللحم المطبوخ في الدهن كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Confit",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_085",
+      "de": "An der Rezeption müssen wir montieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يدمج الزبدة لجميع الضيوف.",
+      "target_word": "montieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_086",
+      "de": "Der Gast hat nach montieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يدمج الزبدة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "montieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_087",
+      "de": "Wir bieten montieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يدمج الزبدة كخدمة خاصة لضيوف VIP.",
+      "target_word": "montieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_088",
+      "de": "An der Rezeption müssen wir die Chiffonade für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر شرائط الأوراق لجميع الضيوف.",
+      "target_word": "die Chiffonade",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_089",
+      "de": "Der Gast hat nach die Chiffonade gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن شرائط الأوراق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Chiffonade",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_090",
+      "de": "Wir bieten die Chiffonade als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم شرائط الأوراق كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Chiffonade",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_091",
+      "de": "An der Rezeption müssen wir passieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يمرر عبر المصفاة لجميع الضيوف.",
+      "target_word": "passieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_092",
+      "de": "Der Gast hat nach passieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يمرر عبر المصفاة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "passieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_093",
+      "de": "Wir bieten passieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يمرر عبر المصفاة كخدمة خاصة لضيوف VIP.",
+      "target_word": "passieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_094",
+      "de": "An der Rezeption müssen wir die Gastrosophie für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر علم ثقافة الطعام لجميع الضيوف.",
+      "target_word": "die Gastrosophie",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_095",
+      "de": "Der Gast hat nach die Gastrosophie gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن علم ثقافة الطعام، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Gastrosophie",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_096",
+      "de": "Wir bieten die Gastrosophie als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم علم ثقافة الطعام كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Gastrosophie",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_097",
+      "de": "An der Rezeption müssen wir der Sommelier für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ساقي النبيذ لجميع الضيوف.",
+      "target_word": "der Sommelier",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_098",
+      "de": "Der Gast hat nach der Sommelier gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ساقي النبيذ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Sommelier",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_099",
+      "de": "Wir bieten der Sommelier als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ساقي النبيذ كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Sommelier",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_100",
+      "de": "An der Rezeption müssen wir filetieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينزع العظام لجميع الضيوف.",
+      "target_word": "filetieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_101",
+      "de": "Der Gast hat nach filetieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينزع العظام، هل يمكنك ترتيب ذلك؟",
+      "target_word": "filetieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_102",
+      "de": "Wir bieten filetieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينزع العظام كخدمة خاصة لضيوف VIP.",
+      "target_word": "filetieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_103",
+      "de": "An der Rezeption müssen wir das Fumet für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر مرق السمك لجميع الضيوف.",
+      "target_word": "das Fumet",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_104",
+      "de": "Der Gast hat nach das Fumet gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن مرق السمك، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Fumet",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_105",
+      "de": "Wir bieten das Fumet als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم مرق السمك كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Fumet",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_106",
+      "de": "An der Rezeption müssen wir dämpfen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يطهو بالبخار لجميع الضيوف.",
+      "target_word": "dämpfen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_107",
+      "de": "Der Gast hat nach dämpfen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يطهو بالبخار، هل يمكنك ترتيب ذلك؟",
+      "target_word": "dämpfen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_108",
+      "de": "Wir bieten dämpfen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يطهو بالبخار كخدمة خاصة لضيوف VIP.",
+      "target_word": "dämpfen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_109",
+      "de": "An der Rezeption müssen wir die Liaison für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر مادة الربط لجميع الضيوف.",
+      "target_word": "die Liaison",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_110",
+      "de": "Der Gast hat nach die Liaison gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن مادة الربط، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Liaison",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_111",
+      "de": "Wir bieten die Liaison als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم مادة الربط كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Liaison",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_112",
+      "de": "An der Rezeption müssen wir dressieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يشكّل بكيس التزيين لجميع الضيوف.",
+      "target_word": "dressieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_113",
+      "de": "Der Gast hat nach dressieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يشكّل بكيس التزيين، هل يمكنك ترتيب ذلك؟",
+      "target_word": "dressieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_114",
+      "de": "Wir bieten dressieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يشكّل بكيس التزيين كخدمة خاصة لضيوف VIP.",
+      "target_word": "dressieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_115",
+      "de": "An der Rezeption müssen wir das Chutney für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الصلصة الحلوة والحارة لجميع الضيوف.",
+      "target_word": "das Chutney",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_116",
+      "de": "Der Gast hat nach das Chutney gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الصلصة الحلوة والحارة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Chutney",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_117",
+      "de": "Wir bieten das Chutney als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الصلصة الحلوة والحارة كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Chutney",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_118",
+      "de": "An der Rezeption müssen wir konfieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحفظ في السكر لجميع الضيوف.",
+      "target_word": "konfieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_119",
+      "de": "Der Gast hat nach konfieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحفظ في السكر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "konfieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_120",
+      "de": "Wir bieten konfieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحفظ في السكر كخدمة خاصة لضيوف VIP.",
+      "target_word": "konfieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_121",
+      "de": "An der Rezeption müssen wir die Mirepoix für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر خضار الحساء لجميع الضيوف.",
+      "target_word": "die Mirepoix",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_122",
+      "de": "Der Gast hat nach die Mirepoix gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن خضار الحساء، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Mirepoix",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_123",
+      "de": "Wir bieten die Mirepoix als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم خضار الحساء كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Mirepoix",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_124",
+      "de": "An der Rezeption müssen wir reduzieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يختزل لجميع الضيوف.",
+      "target_word": "reduzieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_125",
+      "de": "Der Gast hat nach reduzieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يختزل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "reduzieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_126",
+      "de": "Wir bieten reduzieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يختزل كخدمة خاصة لضيوف VIP.",
+      "target_word": "reduzieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_127",
+      "de": "An der Rezeption müssen wir die Farce für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الحشوة لجميع الضيوف.",
+      "target_word": "die Farce",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_128",
+      "de": "Der Gast hat nach die Farce gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الحشوة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Farce",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_129",
+      "de": "Wir bieten die Farce als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الحشوة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Farce",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_130",
+      "de": "An der Rezeption müssen wir beizen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينقع في محلول ملحي لجميع الضيوف.",
+      "target_word": "beizen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_131",
+      "de": "Der Gast hat nach beizen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينقع في محلول ملحي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "beizen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_132",
+      "de": "Wir bieten beizen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينقع في محلول ملحي كخدمة خاصة لضيوف VIP.",
+      "target_word": "beizen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_133",
+      "de": "An der Rezeption müssen wir das Roux für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الدقيق المحمّص لجميع الضيوف.",
+      "target_word": "das Roux",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_134",
+      "de": "Der Gast hat nach das Roux gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الدقيق المحمّص، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Roux",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_135",
+      "de": "Wir bieten das Roux als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الدقيق المحمّص كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Roux",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_136",
+      "de": "An der Rezeption müssen wir glacieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يزجج لجميع الضيوف.",
+      "target_word": "glacieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_137",
+      "de": "Der Gast hat nach glacieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يزجج، هل يمكنك ترتيب ذلك؟",
+      "target_word": "glacieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_138",
+      "de": "Wir bieten glacieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يزجج كخدمة خاصة لضيوف VIP.",
+      "target_word": "glacieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_139",
+      "de": "An der Rezeption müssen wir tournedos für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ميدالية اللحم لجميع الضيوف.",
+      "target_word": "tournedos",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_140",
+      "de": "Der Gast hat nach tournedos gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ميدالية اللحم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "tournedos",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_141",
+      "de": "Wir bieten tournedos als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ميدالية اللحم كخدمة خاصة لضيوف VIP.",
+      "target_word": "tournedos",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_142",
+      "de": "An der Rezeption müssen wir der Fond für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المرق الأساسي لجميع الضيوف.",
+      "target_word": "der Fond",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_143",
+      "de": "Der Gast hat nach der Fond gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المرق الأساسي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Fond",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_144",
+      "de": "Wir bieten der Fond als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المرق الأساسي كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Fond",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_145",
+      "de": "An der Rezeption müssen wir verfeinern für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحسّن النكهة لجميع الضيوف.",
+      "target_word": "verfeinern",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_146",
+      "de": "Der Gast hat nach verfeinern gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحسّن النكهة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "verfeinern",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_147",
+      "de": "Wir bieten verfeinern als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحسّن النكهة كخدمة خاصة لضيوف VIP.",
+      "target_word": "verfeinern",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_148",
+      "de": "An der Rezeption müssen wir das Coulis für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر صلصة الفواكه لجميع الضيوف.",
+      "target_word": "das Coulis",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_149",
+      "de": "Der Gast hat nach das Coulis gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن صلصة الفواكه، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Coulis",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_150",
+      "de": "Wir bieten das Coulis als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم صلصة الفواكه كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Coulis",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_151",
+      "de": "An der Rezeption müssen wir abziehen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يربط الصلصة لجميع الضيوف.",
+      "target_word": "abziehen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_152",
+      "de": "Der Gast hat nach abziehen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يربط الصلصة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "abziehen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_153",
+      "de": "Wir bieten abziehen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يربط الصلصة كخدمة خاصة لضيوف VIP.",
+      "target_word": "abziehen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_154",
+      "de": "An der Rezeption müssen wir das Supremieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر استخراج فصوص الحمضيات لجميع الضيوف.",
+      "target_word": "das Supremieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_155",
+      "de": "Der Gast hat nach das Supremieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن استخراج فصوص الحمضيات، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Supremieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_156",
+      "de": "Wir bieten das Supremieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم استخراج فصوص الحمضيات كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Supremieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_157",
+      "de": "An der Rezeption müssen wir nappieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يغطي بالصلصة لجميع الضيوف.",
+      "target_word": "nappieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_158",
+      "de": "Der Gast hat nach nappieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يغطي بالصلصة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "nappieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_159",
+      "de": "Wir bieten nappieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يغطي بالصلصة كخدمة خاصة لضيوف VIP.",
+      "target_word": "nappieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_160",
+      "de": "An der Rezeption müssen wir die Aromate für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المادة العطرية لجميع الضيوف.",
+      "target_word": "die Aromate",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_161",
+      "de": "Der Gast hat nach die Aromate gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المادة العطرية، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Aromate",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_162",
+      "de": "Wir bieten die Aromate als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المادة العطرية كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Aromate",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_163",
+      "de": "An der Rezeption müssen wir lardieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحشو بشرائح الشحم لجميع الضيوف.",
+      "target_word": "lardieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_164",
+      "de": "Der Gast hat nach lardieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحشو بشرائح الشحم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "lardieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_165",
+      "de": "Wir bieten lardieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحشو بشرائح الشحم كخدمة خاصة لضيوف VIP.",
+      "target_word": "lardieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_166",
+      "de": "An der Rezeption müssen wir das Salpicon für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر خليط المكعبات لجميع الضيوف.",
+      "target_word": "das Salpicon",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_167",
+      "de": "Der Gast hat nach das Salpicon gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن خليط المكعبات، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Salpicon",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_168",
+      "de": "Wir bieten das Salpicon als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم خليط المكعبات كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Salpicon",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_169",
+      "de": "An der Rezeption müssen wir klären für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينقّي لجميع الضيوف.",
+      "target_word": "klären",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_170",
+      "de": "Der Gast hat nach klären gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينقّي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "klären",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_171",
+      "de": "Wir bieten klären als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينقّي كخدمة خاصة لضيوف VIP.",
+      "target_word": "klären",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_172",
+      "de": "An der Rezeption müssen wir die Bèchamelsauce für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر صلصة البشاميل لجميع الضيوف.",
+      "target_word": "die Bèchamelsauce",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_173",
+      "de": "Der Gast hat nach die Bèchamelsauce gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن صلصة البشاميل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Bèchamelsauce",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_174",
+      "de": "Wir bieten die Bèchamelsauce als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم صلصة البشاميل كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Bèchamelsauce",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_175",
+      "de": "An der Rezeption müssen wir ziselieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحز لجميع الضيوف.",
+      "target_word": "ziselieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_176",
+      "de": "Der Gast hat nach ziselieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحز، هل يمكنك ترتيب ذلك؟",
+      "target_word": "ziselieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_177",
+      "de": "Wir bieten ziselieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحز كخدمة خاصة لضيوف VIP.",
+      "target_word": "ziselieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_178",
+      "de": "An der Rezeption müssen wir das Timbale für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر طبق القالب لجميع الضيوف.",
+      "target_word": "das Timbale",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_179",
+      "de": "Der Gast hat nach das Timbale gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن طبق القالب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Timbale",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_180",
+      "de": "Wir bieten das Timbale als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم طبق القالب كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Timbale",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_181",
+      "de": "An der Rezeption müssen wir schmelzen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يذوّب لجميع الضيوف.",
+      "target_word": "schmelzen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_182",
+      "de": "Der Gast hat nach schmelzen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يذوّب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schmelzen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_183",
+      "de": "Wir bieten schmelzen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يذوّب كخدمة خاصة لضيوف VIP.",
+      "target_word": "schmelzen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_184",
+      "de": "An der Rezeption müssen wir die Vinaigrette für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر صلصة الخل والزيت لجميع الضيوف.",
+      "target_word": "die Vinaigrette",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_185",
+      "de": "Der Gast hat nach die Vinaigrette gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن صلصة الخل والزيت، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Vinaigrette",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_186",
+      "de": "Wir bieten die Vinaigrette als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم صلصة الخل والزيت كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Vinaigrette",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_187",
+      "de": "An der Rezeption müssen wir anschwitzen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقلي برفق لجميع الضيوف.",
+      "target_word": "anschwitzen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_188",
+      "de": "Der Gast hat nach anschwitzen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقلي برفق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "anschwitzen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_189",
+      "de": "Wir bieten anschwitzen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقلي برفق كخدمة خاصة لضيوف VIP.",
+      "target_word": "anschwitzen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_190",
+      "de": "An der Rezeption müssen wir das Brunchen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الفطور المتأخر لجميع الضيوف.",
+      "target_word": "das Brunchen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_191",
+      "de": "Der Gast hat nach das Brunchen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الفطور المتأخر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Brunchen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_192",
+      "de": "Wir bieten das Brunchen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الفطور المتأخر كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Brunchen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_193",
+      "de": "An der Rezeption müssen wir aufschlagen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يخفق لجميع الضيوف.",
+      "target_word": "aufschlagen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_194",
+      "de": "Der Gast hat nach aufschlagen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يخفق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "aufschlagen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_195",
+      "de": "Wir bieten aufschlagen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يخفق كخدمة خاصة لضيوف VIP.",
+      "target_word": "aufschlagen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_196",
+      "de": "An der Rezeption müssen wir das Terrine für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الباتيه في القدر لجميع الضيوف.",
+      "target_word": "das Terrine",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_197",
+      "de": "Der Gast hat nach das Terrine gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الباتيه في القدر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Terrine",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_198",
+      "de": "Wir bieten das Terrine als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الباتيه في القدر كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Terrine",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_199",
+      "de": "An der Rezeption müssen wir schmoren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يطهو على نار هادئة لجميع الضيوف.",
+      "target_word": "schmoren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_200",
+      "de": "Der Gast hat nach schmoren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يطهو على نار هادئة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schmoren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_201",
+      "de": "Wir bieten schmoren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يطهو على نار هادئة كخدمة خاصة لضيوف VIP.",
+      "target_word": "schmoren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_202",
+      "de": "An der Rezeption müssen wir die Espuma für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الرغوة لجميع الضيوف.",
+      "target_word": "die Espuma",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_203",
+      "de": "Der Gast hat nach die Espuma gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الرغوة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Espuma",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_204",
+      "de": "Wir bieten die Espuma als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الرغوة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Espuma",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_205",
+      "de": "An der Rezeption müssen wir gratinieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحمّر السطح لجميع الضيوف.",
+      "target_word": "gratinieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_206",
+      "de": "Der Gast hat nach gratinieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحمّر السطح، هل يمكنك ترتيب ذلك؟",
+      "target_word": "gratinieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_207",
+      "de": "Wir bieten gratinieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحمّر السطح كخدمة خاصة لضيوف VIP.",
+      "target_word": "gratinieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_208",
+      "de": "An der Rezeption müssen wir das Tatar für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر اللحم المفروم النيء لجميع الضيوف.",
+      "target_word": "das Tatar",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_209",
+      "de": "Der Gast hat nach das Tatar gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن اللحم المفروم النيء، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Tatar",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_210",
+      "de": "Wir bieten das Tatar als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم اللحم المفروم النيء كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Tatar",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_211",
+      "de": "An der Rezeption müssen wir drapieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يرتب بشكل زخرفي لجميع الضيوف.",
+      "target_word": "drapieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_212",
+      "de": "Der Gast hat nach drapieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يرتب بشكل زخرفي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "drapieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_213",
+      "de": "Wir bieten drapieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يرتب بشكل زخرفي كخدمة خاصة لضيوف VIP.",
+      "target_word": "drapieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_214",
+      "de": "An der Rezeption müssen wir die Brunoise-Technik für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر تقنية التقطيع الدقيق لجميع الضيوف.",
+      "target_word": "die Brunoise-Technik",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_215",
+      "de": "Der Gast hat nach die Brunoise-Technik gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن تقنية التقطيع الدقيق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Brunoise-Technik",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_216",
+      "de": "Wir bieten die Brunoise-Technik als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم تقنية التقطيع الدقيق كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Brunoise-Technik",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_217",
+      "de": "An der Rezeption müssen wir karamellisieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يكرمل لجميع الضيوف.",
+      "target_word": "karamellisieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_218",
+      "de": "Der Gast hat nach karamellisieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يكرمل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "karamellisieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_219",
+      "de": "Wir bieten karamellisieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يكرمل كخدمة خاصة لضيوف VIP.",
+      "target_word": "karamellisieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_220",
+      "de": "An der Rezeption müssen wir das Demi-glace für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الصلصة البنية الأساسية لجميع الضيوف.",
+      "target_word": "das Demi-glace",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_221",
+      "de": "Der Gast hat nach das Demi-glace gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الصلصة البنية الأساسية، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Demi-glace",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_222",
+      "de": "Wir bieten das Demi-glace als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الصلصة البنية الأساسية كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Demi-glace",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_223",
+      "de": "An der Rezeption müssen wir würzen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتبّل لجميع الضيوف.",
+      "target_word": "würzen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_224",
+      "de": "Der Gast hat nach würzen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتبّل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "würzen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_225",
+      "de": "Wir bieten würzen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتبّل كخدمة خاصة لضيوف VIP.",
+      "target_word": "würzen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_226",
+      "de": "An der Rezeption müssen wir das Bavarois für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الكريما البافارية لجميع الضيوف.",
+      "target_word": "das Bavarois",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_227",
+      "de": "Der Gast hat nach das Bavarois gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الكريما البافارية، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Bavarois",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_228",
+      "de": "Wir bieten das Bavarois als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الكريما البافارية كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Bavarois",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_229",
+      "de": "An der Rezeption müssen wir den Gang für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطبق من القائمة لجميع الضيوف.",
+      "target_word": "den Gang",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_230",
+      "de": "Der Gast hat nach den Gang gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطبق من القائمة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "den Gang",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_231",
+      "de": "Wir bieten den Gang als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطبق من القائمة كخدمة خاصة لضيوف VIP.",
+      "target_word": "den Gang",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_232",
+      "de": "An der Rezeption müssen wir abflammen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحرق السطح لجميع الضيوف.",
+      "target_word": "abflammen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_233",
+      "de": "Der Gast hat nach abflammen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحرق السطح، هل يمكنك ترتيب ذلك؟",
+      "target_word": "abflammen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_234",
+      "de": "Wir bieten abflammen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحرق السطح كخدمة خاصة لضيوف VIP.",
+      "target_word": "abflammen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_235",
+      "de": "An der Rezeption müssen wir die Consommé für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المرق الصافي لجميع الضيوف.",
+      "target_word": "die Consommé",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_236",
+      "de": "Der Gast hat nach die Consommé gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المرق الصافي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Consommé",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_237",
+      "de": "Wir bieten die Consommé als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المرق الصافي كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Consommé",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_238",
+      "de": "An der Rezeption müssen wir montieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يركّب لجميع الضيوف.",
+      "target_word": "montieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_239",
+      "de": "Der Gast hat nach montieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يركّب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "montieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_240",
+      "de": "Wir bieten montieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يركّب كخدمة خاصة لضيوف VIP.",
+      "target_word": "montieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_241",
+      "de": "An der Rezeption müssen wir die Panade für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر طبقة البقسماط لجميع الضيوف.",
+      "target_word": "die Panade",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_242",
+      "de": "Der Gast hat nach die Panade gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن طبقة البقسماط، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Panade",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_243",
+      "de": "Wir bieten die Panade als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم طبقة البقسماط كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Panade",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_244",
+      "de": "An der Rezeption müssen wir spicken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحشو لجميع الضيوف.",
+      "target_word": "spicken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_245",
+      "de": "Der Gast hat nach spicken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحشو، هل يمكنك ترتيب ذلك؟",
+      "target_word": "spicken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_246",
+      "de": "Wir bieten spicken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحشو كخدمة خاصة لضيوف VIP.",
+      "target_word": "spicken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_247",
+      "de": "An der Rezeption müssen wir die Hollandaise für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر صلصة الزبدة الدافئة لجميع الضيوف.",
+      "target_word": "die Hollandaise",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_248",
+      "de": "Der Gast hat nach die Hollandaise gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن صلصة الزبدة الدافئة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Hollandaise",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_249",
+      "de": "Wir bieten die Hollandaise als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم صلصة الزبدة الدافئة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Hollandaise",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_250",
+      "de": "An der Rezeption müssen wir pochieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يسلق بلطف لجميع الضيوف.",
+      "target_word": "pochieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_251",
+      "de": "Der Gast hat nach pochieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يسلق بلطف، هل يمكنك ترتيب ذلك؟",
+      "target_word": "pochieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_252",
+      "de": "Wir bieten pochieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يسلق بلطف كخدمة خاصة لضيوف VIP.",
+      "target_word": "pochieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_253",
+      "de": "An der Rezeption müssen wir das Pesto für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر معجون الأعشاب لجميع الضيوف.",
+      "target_word": "das Pesto",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_254",
+      "de": "Der Gast hat nach das Pesto gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن معجون الأعشاب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Pesto",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_255",
+      "de": "Wir bieten das Pesto als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم معجون الأعشاب كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Pesto",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_256",
+      "de": "An der Rezeption müssen wir ziehen lassen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يترك لينضج لجميع الضيوف.",
+      "target_word": "ziehen lassen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_257",
+      "de": "Der Gast hat nach ziehen lassen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يترك لينضج، هل يمكنك ترتيب ذلك؟",
+      "target_word": "ziehen lassen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_258",
+      "de": "Wir bieten ziehen lassen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يترك لينضج كخدمة خاصة لضيوف VIP.",
+      "target_word": "ziehen lassen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_259",
+      "de": "An der Rezeption müssen wir die Crème brûlée für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الكريم المحروق لجميع الضيوف.",
+      "target_word": "die Crème brûlée",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_260",
+      "de": "Der Gast hat nach die Crème brûlée gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الكريم المحروق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Crème brûlée",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_261",
+      "de": "Wir bieten die Crème brûlée als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الكريم المحروق كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Crème brûlée",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_262",
+      "de": "An der Rezeption müssen wir kandieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يسكّر لجميع الضيوف.",
+      "target_word": "kandieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_263",
+      "de": "Der Gast hat nach kandieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يسكّر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "kandieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_264",
+      "de": "Wir bieten kandieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يسكّر كخدمة خاصة لضيوف VIP.",
+      "target_word": "kandieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_265",
+      "de": "An der Rezeption müssen wir die Mousseline für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الكريما الهوائية لجميع الضيوف.",
+      "target_word": "die Mousseline",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_266",
+      "de": "Der Gast hat nach die Mousseline gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الكريما الهوائية، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Mousseline",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_267",
+      "de": "Wir bieten die Mousseline als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الكريما الهوائية كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Mousseline",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_268",
+      "de": "An der Rezeption müssen wir ausbeinen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينزع العظام لجميع الضيوف.",
+      "target_word": "ausbeinen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_269",
+      "de": "Der Gast hat nach ausbeinen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينزع العظام، هل يمكنك ترتيب ذلك؟",
+      "target_word": "ausbeinen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_270",
+      "de": "Wir bieten ausbeinen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينزع العظام كخدمة خاصة لضيوف VIP.",
+      "target_word": "ausbeinen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_271",
+      "de": "An der Rezeption müssen wir das Chaud-froid für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطبق المزجج البارد لجميع الضيوف.",
+      "target_word": "das Chaud-froid",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_272",
+      "de": "Der Gast hat nach das Chaud-froid gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطبق المزجج البارد، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Chaud-froid",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_273",
+      "de": "Wir bieten das Chaud-froid als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطبق المزجج البارد كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Chaud-froid",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_274",
+      "de": "An der Rezeption müssen wir aufgießen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يصب السائل لجميع الضيوف.",
+      "target_word": "aufgießen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_275",
+      "de": "Der Gast hat nach aufgießen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يصب السائل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "aufgießen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_276",
+      "de": "Wir bieten aufgießen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يصب السائل كخدمة خاصة لضيوف VIP.",
+      "target_word": "aufgießen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_277",
+      "de": "An der Rezeption müssen wir die Quenelle für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الزلابية المشكلة لجميع الضيوف.",
+      "target_word": "die Quenelle",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_278",
+      "de": "Der Gast hat nach die Quenelle gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الزلابية المشكلة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Quenelle",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_279",
+      "de": "Wir bieten die Quenelle als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الزلابية المشكلة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Quenelle",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_280",
+      "de": "An der Rezeption müssen wir einkochen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحفظ بالطهي لجميع الضيوف.",
+      "target_word": "einkochen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_281",
+      "de": "Der Gast hat nach einkochen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحفظ بالطهي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "einkochen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_282",
+      "de": "Wir bieten einkochen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحفظ بالطهي كخدمة خاصة لضيوف VIP.",
+      "target_word": "einkochen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_283",
+      "de": "An der Rezeption müssen wir die Velouté für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الصلصة البيضاء المربوطة لجميع الضيوف.",
+      "target_word": "die Velouté",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_284",
+      "de": "Der Gast hat nach die Velouté gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الصلصة البيضاء المربوطة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Velouté",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_285",
+      "de": "Wir bieten die Velouté als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الصلصة البيضاء المربوطة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Velouté",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_286",
+      "de": "An der Rezeption müssen wir binden für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يكثّف لجميع الضيوف.",
+      "target_word": "binden",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_287",
+      "de": "Der Gast hat nach binden gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يكثّف، هل يمكنك ترتيب ذلك؟",
+      "target_word": "binden",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_288",
+      "de": "Wir bieten binden als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يكثّف كخدمة خاصة لضيوف VIP.",
+      "target_word": "binden",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_289",
+      "de": "An der Rezeption müssen wir das Timbale für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الفطيرة في القالب لجميع الضيوف.",
+      "target_word": "das Timbale",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_290",
+      "de": "Der Gast hat nach das Timbale gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الفطيرة في القالب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Timbale",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_291",
+      "de": "Wir bieten das Timbale als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الفطيرة في القالب كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Timbale",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_292",
+      "de": "An der Rezeption müssen wir schäumen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يكوّن رغوة لجميع الضيوف.",
+      "target_word": "schäumen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_293",
+      "de": "Der Gast hat nach schäumen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يكوّن رغوة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schäumen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_294",
+      "de": "Wir bieten schäumen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يكوّن رغوة كخدمة خاصة لضيوف VIP.",
+      "target_word": "schäumen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_295",
+      "de": "An der Rezeption müssen wir das Gelee für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الجيلي لجميع الضيوف.",
+      "target_word": "das Gelee",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_296",
+      "de": "Der Gast hat nach das Gelee gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الجيلي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Gelee",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_297",
+      "de": "Wir bieten das Gelee als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الجيلي كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Gelee",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_298",
+      "de": "An der Rezeption müssen wir entstielen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ينزع السيقان لجميع الضيوف.",
+      "target_word": "entstielen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_299",
+      "de": "Der Gast hat nach entstielen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ينزع السيقان، هل يمكنك ترتيب ذلك؟",
+      "target_word": "entstielen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_300",
+      "de": "Wir bieten entstielen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ينزع السيقان كخدمة خاصة لضيوف VIP.",
+      "target_word": "entstielen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_301",
+      "de": "An der Rezeption müssen wir das Roulade für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر اللحم الملفوف لجميع الضيوف.",
+      "target_word": "das Roulade",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_302",
+      "de": "Der Gast hat nach das Roulade gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن اللحم الملفوف، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Roulade",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_303",
+      "de": "Wir bieten das Roulade als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم اللحم الملفوف كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Roulade",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_304",
+      "de": "An der Rezeption müssen wir abschrecken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يغمر بماء بارد لجميع الضيوف.",
+      "target_word": "abschrecken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_305",
+      "de": "Der Gast hat nach abschrecken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يغمر بماء بارد، هل يمكنك ترتيب ذلك؟",
+      "target_word": "abschrecken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_306",
+      "de": "Wir bieten abschrecken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يغمر بماء بارد كخدمة خاصة لضيوف VIP.",
+      "target_word": "abschrecken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_307",
+      "de": "An der Rezeption müssen wir die Aspik für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الأسبيك لجميع الضيوف.",
+      "target_word": "die Aspik",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_308",
+      "de": "Der Gast hat nach die Aspik gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الأسبيك، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Aspik",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_309",
+      "de": "Wir bieten die Aspik als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الأسبيك كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Aspik",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_310",
+      "de": "An der Rezeption müssen wir fielen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقطع إلى شرائح رقيقة لجميع الضيوف.",
+      "target_word": "fielen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_311",
+      "de": "Der Gast hat nach fielen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقطع إلى شرائح رقيقة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "fielen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_312",
+      "de": "Wir bieten fielen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقطع إلى شرائح رقيقة كخدمة خاصة لضيوف VIP.",
+      "target_word": "fielen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_313",
+      "de": "An der Rezeption müssen wir das Macaire für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر كعكة البطاطا لجميع الضيوف.",
+      "target_word": "das Macaire",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_314",
+      "de": "Der Gast hat nach das Macaire gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن كعكة البطاطا، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Macaire",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_315",
+      "de": "Wir bieten das Macaire als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم كعكة البطاطا كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Macaire",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_316",
+      "de": "An der Rezeption müssen wir panieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يغطي بالبقسماط لجميع الضيوف.",
+      "target_word": "panieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_317",
+      "de": "Der Gast hat nach panieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يغطي بالبقسماط، هل يمكنك ترتيب ذلك؟",
+      "target_word": "panieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_318",
+      "de": "Wir bieten panieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يغطي بالبقسماط كخدمة خاصة لضيوف VIP.",
+      "target_word": "panieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_319",
+      "de": "An der Rezeption müssen wir die Pâté für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الباتيه لجميع الضيوف.",
+      "target_word": "die Pâté",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_320",
+      "de": "Der Gast hat nach die Pâté gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الباتيه، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Pâté",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_321",
+      "de": "Wir bieten die Pâté als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الباتيه كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Pâté",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_322",
+      "de": "An der Rezeption müssen wir aufmontieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يركب المكونات لجميع الضيوف.",
+      "target_word": "aufmontieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_323",
+      "de": "Der Gast hat nach aufmontieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يركب المكونات، هل يمكنك ترتيب ذلك؟",
+      "target_word": "aufmontieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_324",
+      "de": "Wir bieten aufmontieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يركب المكونات كخدمة خاصة لضيوف VIP.",
+      "target_word": "aufmontieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_325",
+      "de": "An der Rezeption müssen wir das Gratin für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطبق المحمر السطح لجميع الضيوف.",
+      "target_word": "das Gratin",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_326",
+      "de": "Der Gast hat nach das Gratin gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطبق المحمر السطح، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Gratin",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_327",
+      "de": "Wir bieten das Gratin als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطبق المحمر السطح كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Gratin",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_328",
+      "de": "An der Rezeption müssen wir sieden für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يغلي برفق لجميع الضيوف.",
+      "target_word": "sieden",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_329",
+      "de": "Der Gast hat nach sieden gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يغلي برفق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "sieden",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_330",
+      "de": "Wir bieten sieden als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يغلي برفق كخدمة خاصة لضيوف VIP.",
+      "target_word": "sieden",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_331",
+      "de": "An der Rezeption müssen wir das Carpaccio für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر شرائح نيئة رقيقة جداً لجميع الضيوف.",
+      "target_word": "das Carpaccio",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_332",
+      "de": "Der Gast hat nach das Carpaccio gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن شرائح نيئة رقيقة جداً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Carpaccio",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_333",
+      "de": "Wir bieten das Carpaccio als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم شرائح نيئة رقيقة جداً كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Carpaccio",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_334",
+      "de": "An der Rezeption müssen wir spicken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحشو بالمكونات لجميع الضيوف.",
+      "target_word": "spicken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_335",
+      "de": "Der Gast hat nach spicken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحشو بالمكونات، هل يمكنك ترتيب ذلك؟",
+      "target_word": "spicken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_336",
+      "de": "Wir bieten spicken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحشو بالمكونات كخدمة خاصة لضيوف VIP.",
+      "target_word": "spicken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_337",
+      "de": "An der Rezeption müssen wir die Meringue für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المرنغ لجميع الضيوف.",
+      "target_word": "die Meringue",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_338",
+      "de": "Der Gast hat nach die Meringue gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المرنغ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Meringue",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_339",
+      "de": "Wir bieten die Meringue als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المرنغ كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Meringue",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_340",
+      "de": "An der Rezeption müssen wir fondieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يذوّب ببطء لجميع الضيوف.",
+      "target_word": "fondieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_341",
+      "de": "Der Gast hat nach fondieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يذوّب ببطء، هل يمكنك ترتيب ذلك؟",
+      "target_word": "fondieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_342",
+      "de": "Wir bieten fondieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يذوّب ببطء كخدمة خاصة لضيوف VIP.",
+      "target_word": "fondieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_343",
+      "de": "An der Rezeption müssen wir die Brunoise-Julienne für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر مكعبات وشرائط الخضار الدقيقة لجميع الضيوف.",
+      "target_word": "die Brunoise-Julienne",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_344",
+      "de": "Der Gast hat nach die Brunoise-Julienne gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن مكعبات وشرائط الخضار الدقيقة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Brunoise-Julienne",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_345",
+      "de": "Wir bieten die Brunoise-Julienne als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم مكعبات وشرائط الخضار الدقيقة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Brunoise-Julienne",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_346",
+      "de": "An der Rezeption müssen wir duxelles für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر خليط الفطر المفروم لجميع الضيوف.",
+      "target_word": "duxelles",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_347",
+      "de": "Der Gast hat nach duxelles gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن خليط الفطر المفروم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "duxelles",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_348",
+      "de": "Wir bieten duxelles als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم خليط الفطر المفروم كخدمة خاصة لضيوف VIP.",
+      "target_word": "duxelles",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_349",
+      "de": "An der Rezeption müssen wir anseihen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يصفّي لجميع الضيوف.",
+      "target_word": "anseihen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_350",
+      "de": "Der Gast hat nach anseihen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يصفّي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "anseihen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_351",
+      "de": "Wir bieten anseihen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يصفّي كخدمة خاصة لضيوف VIP.",
+      "target_word": "anseihen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_352",
+      "de": "An der Rezeption müssen wir die Matelote für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يخنة السمك لجميع الضيوف.",
+      "target_word": "die Matelote",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_353",
+      "de": "Der Gast hat nach die Matelote gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يخنة السمك، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Matelote",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_354",
+      "de": "Wir bieten die Matelote als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يخنة السمك كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Matelote",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_355",
+      "de": "An der Rezeption müssen wir eindicken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يكثّف السائل لجميع الضيوف.",
+      "target_word": "eindicken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_356",
+      "de": "Der Gast hat nach eindicken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يكثّف السائل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "eindicken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_357",
+      "de": "Wir bieten eindicken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يكثّف السائل كخدمة خاصة لضيوف VIP.",
+      "target_word": "eindicken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_358",
+      "de": "An der Rezeption müssen wir die Rouille für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر صلصة الثوم والفلفل لجميع الضيوف.",
+      "target_word": "die Rouille",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_359",
+      "de": "Der Gast hat nach die Rouille gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن صلصة الثوم والفلفل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Rouille",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_360",
+      "de": "Wir bieten die Rouille als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم صلصة الثوم والفلفل كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Rouille",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_361",
+      "de": "An der Rezeption müssen wir ausrollen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يفرد بالشوبك لجميع الضيوف.",
+      "target_word": "ausrollen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_362",
+      "de": "Der Gast hat nach ausrollen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يفرد بالشوبك، هل يمكنك ترتيب ذلك؟",
+      "target_word": "ausrollen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_363",
+      "de": "Wir bieten ausrollen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يفرد بالشوبك كخدمة خاصة لضيوف VIP.",
+      "target_word": "ausrollen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_364",
+      "de": "An der Rezeption müssen wir die Navarin für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يخنة الحمل لجميع الضيوف.",
+      "target_word": "die Navarin",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_365",
+      "de": "Der Gast hat nach die Navarin gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يخنة الحمل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Navarin",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_366",
+      "de": "Wir bieten die Navarin als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يخنة الحمل كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Navarin",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_367",
+      "de": "An der Rezeption müssen wir gratinieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحمر السطح لجميع الضيوف.",
+      "target_word": "gratinieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_368",
+      "de": "Der Gast hat nach gratinieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحمر السطح، هل يمكنك ترتيب ذلك؟",
+      "target_word": "gratinieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_369",
+      "de": "Wir bieten gratinieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحمر السطح كخدمة خاصة لضيوف VIP.",
+      "target_word": "gratinieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_370",
+      "de": "An der Rezeption müssen wir das Menü für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر القائمة لجميع الضيوف.",
+      "target_word": "das Menü",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_371",
+      "de": "Der Gast hat nach das Menü gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن القائمة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Menü",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_372",
+      "de": "Wir bieten das Menü als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم القائمة كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Menü",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_373",
+      "de": "An der Rezeption müssen wir verfeinern für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحسّن لجميع الضيوف.",
+      "target_word": "verfeinern",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_374",
+      "de": "Der Gast hat nach verfeinern gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحسّن، هل يمكنك ترتيب ذلك؟",
+      "target_word": "verfeinern",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_375",
+      "de": "Wir bieten verfeinern als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحسّن كخدمة خاصة لضيوف VIP.",
+      "target_word": "verfeinern",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_376",
+      "de": "An der Rezeption müssen wir das Buffet für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر البوفيه لجميع الضيوف.",
+      "target_word": "das Buffet",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_377",
+      "de": "Der Gast hat nach das Buffet gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن البوفيه، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Buffet",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_378",
+      "de": "Wir bieten das Buffet als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم البوفيه كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Buffet",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_379",
+      "de": "An der Rezeption müssen wir anrichten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يرتّب لجميع الضيوف.",
+      "target_word": "anrichten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_380",
+      "de": "Der Gast hat nach anrichten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يرتّب، هل يمكنك ترتيب ذلك؟",
+      "target_word": "anrichten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_381",
+      "de": "Wir bieten anrichten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يرتّب كخدمة خاصة لضيوف VIP.",
+      "target_word": "anrichten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_382",
+      "de": "An der Rezeption müssen wir das Aroma für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الرائحة لجميع الضيوف.",
+      "target_word": "das Aroma",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_383",
+      "de": "Der Gast hat nach das Aroma gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الرائحة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Aroma",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_384",
+      "de": "Wir bieten das Aroma als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الرائحة كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Aroma",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_385",
+      "de": "An der Rezeption müssen wir servieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقدّم لجميع الضيوف.",
+      "target_word": "servieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_386",
+      "de": "Der Gast hat nach servieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقدّم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "servieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_387",
+      "de": "Wir bieten servieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقدّم كخدمة خاصة لضيوف VIP.",
+      "target_word": "servieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_388",
+      "de": "An der Rezeption müssen wir die Vorspeise für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المقبلات لجميع الضيوف.",
+      "target_word": "die Vorspeise",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_389",
+      "de": "Der Gast hat nach die Vorspeise gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المقبلات، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Vorspeise",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_390",
+      "de": "Wir bieten die Vorspeise als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المقبلات كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Vorspeise",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_391",
+      "de": "An der Rezeption müssen wir der Hauptgang für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطبق الرئيسي لجميع الضيوف.",
+      "target_word": "der Hauptgang",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_392",
+      "de": "Der Gast hat nach der Hauptgang gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطبق الرئيسي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Hauptgang",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_393",
+      "de": "Wir bieten der Hauptgang als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطبق الرئيسي كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Hauptgang",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_394",
+      "de": "An der Rezeption müssen wir das Dessert für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الحلوى لجميع الضيوف.",
+      "target_word": "das Dessert",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_395",
+      "de": "Der Gast hat nach das Dessert gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الحلوى، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Dessert",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_396",
+      "de": "Wir bieten das Dessert als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الحلوى كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Dessert",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_397",
+      "de": "An der Rezeption müssen wir garnieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يزيّن لجميع الضيوف.",
+      "target_word": "garnieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_398",
+      "de": "Der Gast hat nach garnieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يزيّن، هل يمكنك ترتيب ذلك؟",
+      "target_word": "garnieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_399",
+      "de": "Wir bieten garnieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يزيّن كخدمة خاصة لضيوف VIP.",
+      "target_word": "garnieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_400",
+      "de": "An der Rezeption müssen wir der Aperitif für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر فاتح الشهية لجميع الضيوف.",
+      "target_word": "der Aperitif",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_401",
+      "de": "Der Gast hat nach der Aperitif gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن فاتح الشهية، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Aperitif",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_402",
+      "de": "Wir bieten der Aperitif als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم فاتح الشهية كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Aperitif",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_403",
+      "de": "An der Rezeption müssen wir der Digestif für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر مشروب للهضم لجميع الضيوف.",
+      "target_word": "der Digestif",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_404",
+      "de": "Der Gast hat nach der Digestif gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن مشروب للهضم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Digestif",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_405",
+      "de": "Wir bieten der Digestif als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم مشروب للهضم كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Digestif",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_406",
+      "de": "An der Rezeption müssen wir die Beilage für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطبق الجانبي لجميع الضيوف.",
+      "target_word": "die Beilage",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_407",
+      "de": "Der Gast hat nach die Beilage gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطبق الجانبي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Beilage",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_408",
+      "de": "Wir bieten die Beilage als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطبق الجانبي كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Beilage",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_409",
+      "de": "An der Rezeption müssen wir die Speisekarte für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر قائمة الطعام لجميع الضيوف.",
+      "target_word": "die Speisekarte",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_410",
+      "de": "Der Gast hat nach die Speisekarte gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن قائمة الطعام، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Speisekarte",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_411",
+      "de": "Wir bieten die Speisekarte als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم قائمة الطعام كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Speisekarte",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_412",
+      "de": "An der Rezeption müssen wir die Weinkarte für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر قائمة النبيذ لجميع الضيوف.",
+      "target_word": "die Weinkarte",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_413",
+      "de": "Der Gast hat nach die Weinkarte gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن قائمة النبيذ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Weinkarte",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_414",
+      "de": "Wir bieten die Weinkarte als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم قائمة النبيذ كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Weinkarte",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_415",
+      "de": "An der Rezeption müssen wir empfehlen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يوصي لجميع الضيوف.",
+      "target_word": "empfehlen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_416",
+      "de": "Der Gast hat nach empfehlen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يوصي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "empfehlen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_417",
+      "de": "Wir bieten empfehlen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يوصي كخدمة خاصة لضيوف VIP.",
+      "target_word": "empfehlen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_418",
+      "de": "An der Rezeption müssen wir reservieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحجز لجميع الضيوف.",
+      "target_word": "reservieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_419",
+      "de": "Der Gast hat nach reservieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحجز، هل يمكنك ترتيب ذلك؟",
+      "target_word": "reservieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_420",
+      "de": "Wir bieten reservieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحجز كخدمة خاصة لضيوف VIP.",
+      "target_word": "reservieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_421",
+      "de": "An der Rezeption müssen wir die Reservierung für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الحجز لجميع الضيوف.",
+      "target_word": "die Reservierung",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_422",
+      "de": "Der Gast hat nach die Reservierung gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الحجز، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Reservierung",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_423",
+      "de": "Wir bieten die Reservierung als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الحجز كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Reservierung",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_424",
+      "de": "An der Rezeption müssen wir der Kellner für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر النادل لجميع الضيوف.",
+      "target_word": "der Kellner",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_425",
+      "de": "Der Gast hat nach der Kellner gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن النادل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Kellner",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_426",
+      "de": "Wir bieten der Kellner als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم النادل كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Kellner",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_427",
+      "de": "An der Rezeption müssen wir die Küche für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المطبخ لجميع الضيوف.",
+      "target_word": "die Küche",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_428",
+      "de": "Der Gast hat nach die Küche gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المطبخ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Küche",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_429",
+      "de": "Wir bieten die Küche als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المطبخ كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Küche",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_430",
+      "de": "An der Rezeption müssen wir der Koch für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الطاهي لجميع الضيوف.",
+      "target_word": "der Koch",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_431",
+      "de": "Der Gast hat nach der Koch gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الطاهي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "der Koch",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_432",
+      "de": "Wir bieten der Koch als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الطاهي كخدمة خاصة لضيوف VIP.",
+      "target_word": "der Koch",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_433",
+      "de": "An der Rezeption müssen wir zubereiten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحضّر لجميع الضيوف.",
+      "target_word": "zubereiten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_434",
+      "de": "Der Gast hat nach zubereiten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحضّر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "zubereiten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_435",
+      "de": "Wir bieten zubereiten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحضّر كخدمة خاصة لضيوف VIP.",
+      "target_word": "zubereiten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_436",
+      "de": "An der Rezeption müssen wir die Zubereitung für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر التحضير لجميع الضيوف.",
+      "target_word": "die Zubereitung",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_437",
+      "de": "Der Gast hat nach die Zubereitung gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن التحضير، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Zubereitung",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_438",
+      "de": "Wir bieten die Zubereitung als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم التحضير كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Zubereitung",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_439",
+      "de": "An der Rezeption müssen wir die Spezialität für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الاختصاص لجميع الضيوف.",
+      "target_word": "die Spezialität",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_440",
+      "de": "Der Gast hat nach die Spezialität gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الاختصاص، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Spezialität",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_441",
+      "de": "Wir bieten die Spezialität als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الاختصاص كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Spezialität",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_442",
+      "de": "An der Rezeption müssen wir das Tagesgericht für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر طبق اليوم لجميع الضيوف.",
+      "target_word": "das Tagesgericht",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_443",
+      "de": "Der Gast hat nach das Tagesgericht gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن طبق اليوم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Tagesgericht",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_444",
+      "de": "Wir bieten das Tagesgericht als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم طبق اليوم كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Tagesgericht",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_445",
+      "de": "An der Rezeption müssen wir frisch für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر طازج لجميع الضيوف.",
+      "target_word": "frisch",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_446",
+      "de": "Der Gast hat nach frisch gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن طازج، هل يمكنك ترتيب ذلك؟",
+      "target_word": "frisch",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_447",
+      "de": "Wir bieten frisch als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم طازج كخدمة خاصة لضيوف VIP.",
+      "target_word": "frisch",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_448",
+      "de": "An der Rezeption müssen wir die Qualität für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الجودة لجميع الضيوف.",
+      "target_word": "die Qualität",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_449",
+      "de": "Der Gast hat nach die Qualität gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الجودة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Qualität",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_450",
+      "de": "Wir bieten die Qualität als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الجودة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Qualität",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_451",
+      "de": "An der Rezeption müssen wir schmecken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر طعمه لجميع الضيوف.",
+      "target_word": "schmecken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_452",
+      "de": "Der Gast hat nach schmecken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن طعمه، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schmecken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_453",
+      "de": "Wir bieten schmecken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم طعمه كخدمة خاصة لضيوف VIP.",
+      "target_word": "schmecken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_454",
+      "de": "An der Rezeption müssen wir lecker für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر لذيذ لجميع الضيوف.",
+      "target_word": "lecker",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_455",
+      "de": "Der Gast hat nach lecker gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن لذيذ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "lecker",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_456",
+      "de": "Wir bieten lecker als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم لذيذ كخدمة خاصة لضيوف VIP.",
+      "target_word": "lecker",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_457",
+      "de": "An der Rezeption müssen wir delikat für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر شهي لجميع الضيوف.",
+      "target_word": "delikat",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_458",
+      "de": "Der Gast hat nach delikat gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن شهي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "delikat",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_459",
+      "de": "Wir bieten delikat als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم شهي كخدمة خاصة لضيوف VIP.",
+      "target_word": "delikat",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_460",
+      "de": "An der Rezeption müssen wir die Portion für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الحصة لجميع الضيوف.",
+      "target_word": "die Portion",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_461",
+      "de": "Der Gast hat nach die Portion gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الحصة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Portion",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_462",
+      "de": "Wir bieten die Portion als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الحصة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Portion",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_463",
+      "de": "An der Rezeption müssen wir die Zutat für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر المكوّن لجميع الضيوف.",
+      "target_word": "die Zutat",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_464",
+      "de": "Der Gast hat nach die Zutat gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن المكوّن، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Zutat",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_465",
+      "de": "Wir bieten die Zutat als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم المكوّن كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Zutat",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_466",
+      "de": "An der Rezeption müssen wir das Rezept für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر الوصفة لجميع الضيوف.",
+      "target_word": "das Rezept",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_467",
+      "de": "Der Gast hat nach das Rezept gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن الوصفة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "das Rezept",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_468",
+      "de": "Wir bieten das Rezept als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم الوصفة كخدمة خاصة لضيوف VIP.",
+      "target_word": "das Rezept",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_469",
+      "de": "An der Rezeption müssen wir kochen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يطبخ لجميع الضيوف.",
+      "target_word": "kochen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_470",
+      "de": "Der Gast hat nach kochen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يطبخ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "kochen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_471",
+      "de": "Wir bieten kochen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يطبخ كخدمة خاصة لضيوف VIP.",
+      "target_word": "kochen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_472",
+      "de": "An der Rezeption müssen wir braten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقلي لجميع الضيوف.",
+      "target_word": "braten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_473",
+      "de": "Der Gast hat nach braten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقلي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "braten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_474",
+      "de": "Wir bieten braten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقلي كخدمة خاصة لضيوف VIP.",
+      "target_word": "braten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_475",
+      "de": "An der Rezeption müssen wir backen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يخبز لجميع الضيوف.",
+      "target_word": "backen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_476",
+      "de": "Der Gast hat nach backen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يخبز، هل يمكنك ترتيب ذلك؟",
+      "target_word": "backen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_477",
+      "de": "Wir bieten backen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يخبز كخدمة خاصة لضيوف VIP.",
+      "target_word": "backen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_478",
+      "de": "An der Rezeption müssen wir grillen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يشوي لجميع الضيوف.",
+      "target_word": "grillen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_479",
+      "de": "Der Gast hat nach grillen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يشوي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "grillen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_480",
+      "de": "Wir bieten grillen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يشوي كخدمة خاصة لضيوف VIP.",
+      "target_word": "grillen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_481",
+      "de": "An der Rezeption müssen wir dünsten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يطهو بالبخار لجميع الضيوف.",
+      "target_word": "dünsten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_482",
+      "de": "Der Gast hat nach dünsten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يطهو بالبخار، هل يمكنك ترتيب ذلك؟",
+      "target_word": "dünsten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_483",
+      "de": "Wir bieten dünsten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يطهو بالبخار كخدمة خاصة لضيوف VIP.",
+      "target_word": "dünsten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_484",
+      "de": "An der Rezeption müssen wir frittieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقلي غمراً لجميع الضيوف.",
+      "target_word": "frittieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_485",
+      "de": "Der Gast hat nach frittieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقلي غمراً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "frittieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_486",
+      "de": "Wir bieten frittieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقلي غمراً كخدمة خاصة لضيوف VIP.",
+      "target_word": "frittieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_487",
+      "de": "An der Rezeption müssen wir mixen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يخلط لجميع الضيوف.",
+      "target_word": "mixen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_488",
+      "de": "Der Gast hat nach mixen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يخلط، هل يمكنك ترتيب ذلك؟",
+      "target_word": "mixen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_489",
+      "de": "Wir bieten mixen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يخلط كخدمة خاصة لضيوف VIP.",
+      "target_word": "mixen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_490",
+      "de": "An der Rezeption müssen wir rühren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يحرّك لجميع الضيوف.",
+      "target_word": "rühren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_491",
+      "de": "Der Gast hat nach rühren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يحرّك، هل يمكنك ترتيب ذلك؟",
+      "target_word": "rühren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_492",
+      "de": "Wir bieten rühren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يحرّك كخدمة خاصة لضيوف VIP.",
+      "target_word": "rühren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_493",
+      "de": "An der Rezeption müssen wir schneiden für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقطع لجميع الضيوف.",
+      "target_word": "schneiden",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_494",
+      "de": "Der Gast hat nach schneiden gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقطع، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schneiden",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_495",
+      "de": "Wir bieten schneiden als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقطع كخدمة خاصة لضيوف VIP.",
+      "target_word": "schneiden",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_496",
+      "de": "An der Rezeption müssen wir hacken für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يفرم لجميع الضيوف.",
+      "target_word": "hacken",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_497",
+      "de": "Der Gast hat nach hacken gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يفرم، هل يمكنك ترتيب ذلك؟",
+      "target_word": "hacken",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_498",
+      "de": "Wir bieten hacken als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يفرم كخدمة خاصة لضيوف VIP.",
+      "target_word": "hacken",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_499",
+      "de": "An der Rezeption müssen wir schälen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يقشّر لجميع الضيوف.",
+      "target_word": "schälen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_500",
+      "de": "Der Gast hat nach schälen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يقشّر، هل يمكنك ترتيب ذلك؟",
+      "target_word": "schälen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_501",
+      "de": "Wir bieten schälen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يقشّر كخدمة خاصة لضيوف VIP.",
+      "target_word": "schälen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_502",
+      "de": "An der Rezeption müssen wir abgießen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يصفّي لجميع الضيوف.",
+      "target_word": "abgießen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_503",
+      "de": "Der Gast hat nach abgießen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يصفّي، هل يمكنك ترتيب ذلك؟",
+      "target_word": "abgießen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_504",
+      "de": "Wir bieten abgießen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يصفّي كخدمة خاصة لضيوف VIP.",
+      "target_word": "abgießen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_505",
+      "de": "An der Rezeption müssen wir würzen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتبّل لجميع الضيوف.",
+      "target_word": "würzen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_506",
+      "de": "Der Gast hat nach würzen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتبّل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "würzen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_507",
+      "de": "Wir bieten würzen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتبّل كخدمة خاصة لضيوف VIP.",
+      "target_word": "würzen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_508",
+      "de": "An der Rezeption müssen wir salzen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يملّح لجميع الضيوف.",
+      "target_word": "salzen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_509",
+      "de": "Der Gast hat nach salzen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يملّح، هل يمكنك ترتيب ذلك؟",
+      "target_word": "salzen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_510",
+      "de": "Wir bieten salzen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يملّح كخدمة خاصة لضيوف VIP.",
+      "target_word": "salzen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_511",
+      "de": "An der Rezeption müssen wir pfeffern für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يفلفل لجميع الضيوف.",
+      "target_word": "pfeffern",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_512",
+      "de": "Der Gast hat nach pfeffern gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يفلفل، هل يمكنك ترتيب ذلك؟",
+      "target_word": "pfeffern",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_513",
+      "de": "Wir bieten pfeffern als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يفلفل كخدمة خاصة لضيوف VIP.",
+      "target_word": "pfeffern",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_514",
+      "de": "An der Rezeption müssen wir probieren für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتذوق لجميع الضيوف.",
+      "target_word": "probieren",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_515",
+      "de": "Der Gast hat nach probieren gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتذوق، هل يمكنك ترتيب ذلك؟",
+      "target_word": "probieren",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_516",
+      "de": "Wir bieten probieren als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتذوق كخدمة خاصة لضيوف VIP.",
+      "target_word": "probieren",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_517",
+      "de": "An der Rezeption müssen wir kosten für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يتذوق قليلاً لجميع الضيوف.",
+      "target_word": "kosten",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_518",
+      "de": "Der Gast hat nach kosten gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يتذوق قليلاً، هل يمكنك ترتيب ذلك؟",
+      "target_word": "kosten",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_519",
+      "de": "Wir bieten kosten als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يتذوق قليلاً كخدمة خاصة لضيوف VIP.",
+      "target_word": "kosten",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_520",
+      "de": "An der Rezeption müssen wir genießen für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر يستمتع بـ لجميع الضيوف.",
+      "target_word": "genießen",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_521",
+      "de": "Der Gast hat nach genießen gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن يستمتع بـ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "genießen",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_522",
+      "de": "Wir bieten genießen als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم يستمتع بـ كخدمة خاصة لضيوف VIP.",
+      "target_word": "genießen",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_523",
+      "de": "An der Rezeption müssen wir die Hygiene für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر النظافة لجميع الضيوف.",
+      "target_word": "die Hygiene",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_524",
+      "de": "Der Gast hat nach die Hygiene gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن النظافة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Hygiene",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_525",
+      "de": "Wir bieten die Hygiene als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم النظافة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Hygiene",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_526",
+      "de": "An der Rezeption müssen wir sauber für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر نظيف لجميع الضيوف.",
+      "target_word": "sauber",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_527",
+      "de": "Der Gast hat nach sauber gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن نظيف، هل يمكنك ترتيب ذلك؟",
+      "target_word": "sauber",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_528",
+      "de": "Wir bieten sauber als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم نظيف كخدمة خاصة لضيوف VIP.",
+      "target_word": "sauber",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_529",
+      "de": "An der Rezeption müssen wir die Temperatur für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر درجة الحرارة لجميع الضيوف.",
+      "target_word": "die Temperatur",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_530",
+      "de": "Der Gast hat nach die Temperatur gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن درجة الحرارة، هل يمكنك ترتيب ذلك؟",
+      "target_word": "die Temperatur",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_531",
+      "de": "Wir bieten die Temperatur als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم درجة الحرارة كخدمة خاصة لضيوف VIP.",
+      "target_word": "die Temperatur",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_532",
+      "de": "An der Rezeption müssen wir heiß für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر ساخن لجميع الضيوف.",
+      "target_word": "heiß",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_533",
+      "de": "Der Gast hat nach heiß gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن ساخن، هل يمكنك ترتيب ذلك؟",
+      "target_word": "heiß",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_534",
+      "de": "Wir bieten heiß als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم ساخن كخدمة خاصة لضيوف VIP.",
+      "target_word": "heiß",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_535",
+      "de": "An der Rezeption müssen wir kalt für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر بارد لجميع الضيوف.",
+      "target_word": "kalt",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_536",
+      "de": "Der Gast hat nach kalt gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن بارد، هل يمكنك ترتيب ذلك؟",
+      "target_word": "kalt",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_537",
+      "de": "Wir bieten kalt als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم بارد كخدمة خاصة لضيوف VIP.",
+      "target_word": "kalt",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_538",
+      "de": "An der Rezeption müssen wir warm für alle Gäste bereitstellen.",
+      "ar": "في الاستقبال يجب أن نوفر دافئ لجميع الضيوف.",
+      "target_word": "warm",
+      "context": "guest_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_539",
+      "de": "Der Gast hat nach warm gefragt, können Sie das arrangieren?",
+      "ar": "سأل الضيف عن دافئ، هل يمكنك ترتيب ذلك؟",
+      "target_word": "warm",
+      "context": "guest_request",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    },
+    {
+      "id": "de_gastro_540",
+      "de": "Wir bieten warm als besonderen Service für VIP-Gäste an.",
+      "ar": "نقدم دافئ كخدمة خاصة لضيوف VIP.",
+      "target_word": "warm",
+      "context": "vip_service",
+      "difficulty": "B1-B2",
+      "domain": "gastronomy_hotel"
+    }
+  ]
+}

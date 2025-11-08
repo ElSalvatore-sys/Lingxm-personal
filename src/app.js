@@ -445,6 +445,35 @@ class LingXMApp {
     this.renderHomeScreen();
   }
 
+  /**
+   * Return to profile selection screen
+   * Clears current session but preserves all user data/progress
+   */
+  returnToProfileSelection() {
+    console.log('🔙 [PROFILE] Returning to profile selection');
+
+    // End current analytics session
+    if (this.analyticsManager) {
+      this.analyticsManager.endSession();
+    }
+
+    // Clear current profile from localStorage (prevents auto-restore)
+    localStorage.removeItem('lingxm-current-profile');
+    localStorage.removeItem('lingxm-profile-timestamp');
+    console.log('💾 [PERSIST] Profile session cleared from localStorage');
+
+    // Reset current profile state
+    this.currentProfile = null;
+    this.profileKey = null;
+    this.currentLanguageIndex = 0;
+    this.currentWordIndex = 0;
+
+    // Navigate to profile selection screen
+    this.showScreen('profile-selection');
+
+    this.analyticsManager.trackEvent('profile_selection_returned');
+  }
+
   async loadWordData() {
     console.log('[VOCAB] Starting vocabulary load for profile:', this.profileKey);
     this.wordData = {};
@@ -939,40 +968,46 @@ class LingXMApp {
   }
 
   toggleSettings() {
+    console.log('⚙️ [SETTINGS] toggleSettings() called');
     const modal = document.getElementById('settings-modal');
-    if (modal) {
-      const isOpening = !modal.classList.contains('active');
-      modal.classList.toggle('active');
 
-      // Track analytics when opening
-      if (isOpening) {
-        this.analyticsManager.trackEvent('feature_used', { feature: 'settings' });
-      }
+    if (!modal) {
+      console.error('❌ [SETTINGS] Modal element not found!');
+      return;
+    }
 
-      // Update UI with current settings
-      const themeToggle = document.getElementById('theme-toggle');
-      if (themeToggle) {
-        themeToggle.checked = this.currentTheme === 'light';
-      }
+    const isOpening = !modal.classList.contains('active');
+    modal.classList.toggle('active');
+    console.log(`⚙️ [SETTINGS] Modal ${isOpening ? 'opening' : 'closing'}`);
 
-      const autoPlayToggle = document.getElementById('autoplay-toggle');
-      if (autoPlayToggle) {
-        autoPlayToggle.checked = this.autoPlayEnabled;
-      }
+    // Track analytics when opening
+    if (isOpening) {
+      this.analyticsManager.trackEvent('feature_used', { feature: 'settings' });
+    }
 
-      // Show PIN setting only when logged into a profile
-      const pinSettingItem = document.getElementById('pin-setting-item');
-      if (pinSettingItem) {
-        if (this.currentProfile && this.profileKey) {
-          pinSettingItem.style.display = 'flex';
-          // Update button text based on whether PIN is enabled
-          const changePinBtn = document.getElementById('change-pin-btn');
-          if (changePinBtn) {
-            changePinBtn.textContent = this.isPinEnabled(this.profileKey) ? 'Change PIN' : 'Set PIN';
-          }
-        } else {
-          pinSettingItem.style.display = 'none';
+    // Update UI with current settings
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+      themeToggle.checked = this.currentTheme === 'light';
+    }
+
+    const autoPlayToggle = document.getElementById('autoplay-toggle');
+    if (autoPlayToggle) {
+      autoPlayToggle.checked = this.autoPlayEnabled;
+    }
+
+    // Show PIN setting only when logged into a profile
+    const pinSettingItem = document.getElementById('pin-setting-item');
+    if (pinSettingItem) {
+      if (this.currentProfile && this.profileKey) {
+        pinSettingItem.style.display = 'flex';
+        // Update button text based on whether PIN is enabled
+        const changePinBtn = document.getElementById('change-pin-btn');
+        if (changePinBtn) {
+          changePinBtn.textContent = this.isPinEnabled(this.profileKey) ? 'Change PIN' : 'Set PIN';
         }
+      } else {
+        pinSettingItem.style.display = 'none';
       }
     }
   }
@@ -1576,8 +1611,16 @@ class LingXMApp {
   // ============================================
 
   toggleAchievements() {
+    console.log('🏆 [ACHIEVEMENTS] toggleAchievements() called');
     const modal = document.getElementById('achievements-modal');
+
+    if (!modal) {
+      console.error('❌ [ACHIEVEMENTS] Modal element not found!');
+      return;
+    }
+
     const isActive = modal.classList.contains('active');
+    console.log(`🏆 [ACHIEVEMENTS] Modal ${isActive ? 'closing' : 'opening'}`);
 
     if (isActive) {
       modal.classList.remove('active');
@@ -2063,20 +2106,50 @@ class LingXMApp {
   }
 
   setupHomeHeaderHandlers() {
-    // Home settings button
-    document.getElementById('home-settings-btn')?.addEventListener('click', () => {
-      this.toggleSettings();
-    });
+    // Remove old handlers to prevent duplicates (defensive programming)
+    const homeBackBtn = document.getElementById('home-back-btn');
+    const homeSettingsBtn = document.getElementById('home-settings-btn');
+    const homeAchievementsBtn = document.getElementById('home-achievements-btn');
+    const homeStreakBadge = document.getElementById('home-streak-badge');
 
-    // Home achievements button
-    document.getElementById('home-achievements-btn')?.addEventListener('click', () => {
-      this.toggleAchievements();
-    });
+    // Clone and replace to remove all old event listeners
+    if (homeBackBtn) {
+      const newHomeBackBtn = homeBackBtn.cloneNode(true);
+      homeBackBtn.parentNode.replaceChild(newHomeBackBtn, homeBackBtn);
+      newHomeBackBtn.addEventListener('click', () => {
+        console.log('🔙 [HOME] Back button clicked');
+        this.returnToProfileSelection();
+      });
+    }
 
-    // Home streak badge click - show progress
-    document.getElementById('home-streak-badge')?.addEventListener('click', () => {
-      this.toggleAchievements();
-    });
+    if (homeSettingsBtn) {
+      const newHomeSettingsBtn = homeSettingsBtn.cloneNode(true);
+      homeSettingsBtn.parentNode.replaceChild(newHomeSettingsBtn, homeSettingsBtn);
+      newHomeSettingsBtn.addEventListener('click', () => {
+        console.log('⚙️ [HOME] Settings button clicked');
+        this.toggleSettings();
+      });
+    }
+
+    if (homeAchievementsBtn) {
+      const newHomeAchievementsBtn = homeAchievementsBtn.cloneNode(true);
+      homeAchievementsBtn.parentNode.replaceChild(newHomeAchievementsBtn, homeAchievementsBtn);
+      newHomeAchievementsBtn.addEventListener('click', () => {
+        console.log('🏆 [HOME] Achievements button clicked');
+        this.toggleAchievements();
+      });
+    }
+
+    if (homeStreakBadge) {
+      const newHomeStreakBadge = homeStreakBadge.cloneNode(true);
+      homeStreakBadge.parentNode.replaceChild(newHomeStreakBadge, homeStreakBadge);
+      newHomeStreakBadge.addEventListener('click', () => {
+        console.log('🔥 [HOME] Streak badge clicked');
+        this.toggleAchievements();
+      });
+    }
+
+    console.log('✅ [HOME] Header handlers attached');
   }
 
   /**
@@ -2235,10 +2308,16 @@ class LingXMApp {
 
       if (savedPosition && savedPosition.lastWordIndex !== null) {
         // Validate word index doesn't exceed vocabulary length
-        const maxIndex = this.wordData[currentLang.code].length - 1;
-        this.currentWordIndex = Math.min(savedPosition.lastWordIndex, maxIndex);
-
-        console.log(`✅ [Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${currentLang.code} (from ${savedPosition.source})`);
+        // Check if vocabulary data exists for this language
+        if (this.wordData[currentLang.code] && this.wordData[currentLang.code].length > 0) {
+          const maxIndex = this.wordData[currentLang.code].length - 1;
+          this.currentWordIndex = Math.min(savedPosition.lastWordIndex, maxIndex);
+          console.log(`✅ [Resume] Restored position: word #${this.currentWordIndex + 1} of ${maxIndex + 1}, language: ${currentLang.code} (from ${savedPosition.source})`);
+        } else {
+          // Vocabulary not loaded for this language, start from beginning
+          this.currentWordIndex = 0;
+          console.warn(`⚠️ [Resume] No vocabulary loaded for ${currentLang.code}, starting from word #1`);
+        }
       } else {
         // No saved position for this language, start from beginning
         this.currentWordIndex = 0;
@@ -2316,31 +2395,280 @@ class LingXMApp {
   // ========================================
 
   async renderProgressDashboard() {
-    console.log('[PROGRESS] Rendering progress dashboard');
+    console.log('[PROGRESS] Rendering gamified progress dashboard');
     await ensureDatabaseReady();
 
     try {
       // Fetch all progress data
       const overallProgress = await this.getOverallProgress();
       const languageProgress = await this.getLanguageProgress();
-      const masteryBreakdown = await this.getMasteryBreakdown();
       const recentActivity = await this.getRecentActivity();
       const streakStats = await this.getStreakStats();
 
-      // Render each section with staggered animations
-      this.renderOverallProgress(overallProgress);
-      this.renderQuickStats(streakStats);
-      this.renderLanguageProgress(languageProgress);
-      this.renderMasteryDistribution(masteryBreakdown);
-      this.renderActivityCalendar(recentActivity);
+      // Calculate XP and level
+      const xpData = this.calculateXPAndLevel(overallProgress.mastered);
+
+      // Render gamified sections
+      this.renderJourneyHero(xpData, streakStats);
+      this.renderDailyGoals(recentActivity);
+      this.renderLanguagesGrid(languageProgress);
+      this.renderAchievementsShowcase();
+      this.renderWeeklyTimeline(recentActivity);
 
       // Setup event handlers
       this.setupProgressScreenHandlers();
 
-      console.log('[PROGRESS] Dashboard rendered successfully');
+      console.log('[PROGRESS] Gamified dashboard rendered successfully');
     } catch (error) {
       console.error('[PROGRESS] Error rendering dashboard:', error);
     }
+  }
+
+  /**
+   * Calculate XP and level based on mastered words
+   * XP System: 100 XP per word mastered, level up every 1000 XP
+   */
+  calculateXPAndLevel(masteredWords) {
+    const xpPerWord = 100;
+    const xpPerLevel = 1000;
+
+    const totalXP = masteredWords * xpPerWord;
+    const level = Math.floor(totalXP / xpPerLevel) + 1; // Start at level 1
+    const currentXP = totalXP % xpPerLevel;
+    const nextLevelXP = xpPerLevel;
+    const xpProgress = (currentXP / nextLevelXP) * 100;
+
+    return {
+      totalXP,
+      level,
+      currentXP,
+      nextLevelXP,
+      xpProgress,
+      masteredWords
+    };
+  }
+
+  /**
+   * Render journey hero section with level, XP, and streak
+   */
+  renderJourneyHero(xpData, streakStats) {
+    // Greeting based on time of day
+    const hour = new Date().getHours();
+    let greeting = 'Welcome back!';
+    if (hour < 12) greeting = 'Good morning!';
+    else if (hour < 18) greeting = 'Good afternoon!';
+    else greeting = 'Good evening!';
+
+    document.getElementById('journey-greeting').textContent = greeting;
+
+    // Encouragement messages
+    const encouragements = [
+      'Keep crushing it!',
+      'You\'re on fire!',
+      'Amazing progress!',
+      'Keep it up!',
+      'You\'re doing great!',
+      'Impressive work!',
+      'You\'re unstoppable!'
+    ];
+    const randomEncouragement = encouragements[Math.floor(Math.random() * encouragements.length)];
+    document.getElementById('journey-encouragement').textContent = randomEncouragement;
+
+    // Level display
+    document.getElementById('user-level').textContent = xpData.level;
+
+    // XP progress bar
+    document.getElementById('current-xp').textContent = xpData.currentXP;
+    document.getElementById('next-level-xp').textContent = xpData.nextLevelXP;
+
+    const xpBar = document.getElementById('xp-bar');
+    setTimeout(() => {
+      xpBar.style.width = `${xpData.xpProgress}%`;
+    }, 100);
+
+    // Streak display
+    document.getElementById('streak-count').textContent = streakStats.currentStreak;
+
+    const streakMessage = streakStats.currentStreak === 0
+      ? 'Start your streak today!'
+      : streakStats.currentStreak >= 7
+      ? 'You\'re on fire! 🔥'
+      : streakStats.currentStreak >= 3
+      ? 'Keep it going!'
+      : 'Great start!';
+
+    document.getElementById('streak-message').textContent = streakMessage;
+  }
+
+  /**
+   * Render daily goals with animated rings
+   */
+  renderDailyGoals(recentActivity) {
+    // Get today's activity
+    const today = recentActivity.find(day => {
+      const dayDate = new Date(day.date).toDateString();
+      const todayDate = new Date().toDateString();
+      return dayDate === todayDate;
+    });
+
+    const wordsToday = today ? today.wordsReviewed : 0;
+    const practiceTime = Math.floor(wordsToday * 0.5); // Estimate: 30s per word
+    const accuracy = 85; // TODO: Calculate from actual session data
+
+    // Daily goals
+    const goalsWords = 20;
+    const goalsTime = 15; // minutes
+    const goalsAccuracy = 80; // percent
+
+    // Update text
+    document.getElementById('goal-words-text').textContent = `${wordsToday}/${goalsWords}`;
+    document.getElementById('goal-time-text').textContent = `${practiceTime}/${goalsTime} min`;
+    document.getElementById('goal-accuracy-text').textContent = `${accuracy}%`;
+
+    // Animate rings
+    this.animateGoalRing('goal-ring-words', wordsToday / goalsWords, 70);
+    this.animateGoalRing('goal-ring-time', practiceTime / goalsTime, 55);
+    this.animateGoalRing('goal-ring-accuracy', accuracy / goalsAccuracy, 40);
+  }
+
+  /**
+   * Animate a goal ring (similar to Apple Watch rings)
+   */
+  animateGoalRing(ringId, progress, radius) {
+    const ring = document.getElementById(ringId);
+    if (!ring) return;
+
+    const circumference = 2 * Math.PI * radius;
+    const progressClamped = Math.min(progress, 1);
+    const offset = circumference - (progressClamped * circumference);
+
+    setTimeout(() => {
+      ring.style.strokeDashoffset = offset;
+    }, 300);
+  }
+
+  /**
+   * Render languages grid with beautiful cards
+   */
+  renderLanguagesGrid(languageProgress) {
+    const container = document.querySelector('.languages-grid');
+    if (!container) return;
+
+    const descriptors = {
+      high: ['You\'re crushing it!', 'Amazing progress!', 'Keep it up!'],
+      medium: ['You\'re doing great!', 'Nice work!', 'Keep going!'],
+      low: ['Just getting started!', 'Keep practicing!', 'You got this!']
+    };
+
+    const cardsHTML = languageProgress.map((lang, index) => {
+      const descriptor = lang.percentage > 70 ? descriptors.high :
+                        lang.percentage > 30 ? descriptors.medium :
+                        descriptors.low;
+      const randomDescriptor = descriptor[Math.floor(Math.random() * descriptor.length)];
+
+      return `
+        <div class="language-card" style="animation-delay: ${index * 100}ms">
+          <div class="language-card-header">
+            <div class="language-card-flag">${lang.flag}</div>
+            <div class="language-card-info">
+              <div class="language-card-name">${lang.name}</div>
+              <div class="language-card-descriptor">${randomDescriptor}</div>
+            </div>
+          </div>
+          <div class="language-card-progress">
+            <div class="language-progress-percentage">${lang.percentage}%</div>
+          </div>
+          <div class="language-card-stats">
+            <div class="language-card-stat">
+              <span class="language-card-stat-value">${lang.mastered}</span>
+              <span class="language-card-stat-label">Mastered</span>
+            </div>
+            <div class="language-card-stat">
+              <span class="language-card-stat-value">${lang.total}</span>
+              <span class="language-card-stat-label">Total</span>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = cardsHTML;
+  }
+
+  /**
+   * Render achievements showcase
+   */
+  renderAchievementsShowcase() {
+    const container = document.querySelector('.achievements-grid');
+    if (!container || !this.achievementManager) return;
+
+    // Get first 4 achievements (mix of unlocked and next to unlock)
+    const allAchievements = this.achievementManager.achievements;
+    const unlockedIds = this.achievementManager.data.earned;
+
+    const showcaseAchievements = [
+      ...allAchievements.filter(a => unlockedIds.includes(a.id)).slice(0, 2),
+      ...allAchievements.filter(a => !unlockedIds.includes(a.id)).slice(0, 2)
+    ];
+
+    const achievementsHTML = showcaseAchievements.map((achievement, index) => {
+      const isUnlocked = unlockedIds.includes(achievement.id);
+      const lockedClass = isUnlocked ? '' : 'locked';
+
+      return `
+        <div class="achievement-card ${lockedClass}" style="animation-delay: ${index * 100}ms">
+          <div class="achievement-icon">${achievement.icon}</div>
+          <div class="achievement-info">
+            <div class="achievement-name">${achievement.name}</div>
+            <div class="achievement-status ${isUnlocked ? 'unlocked' : ''}">
+              ${isUnlocked ? '✓ Unlocked' : '🔒 Locked'}
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = achievementsHTML;
+  }
+
+  /**
+   * Render weekly activity timeline
+   */
+  renderWeeklyTimeline(recentActivity) {
+    const container = document.querySelector('.weekly-timeline');
+    if (!container) return;
+
+    const maxWords = Math.max(...recentActivity.map(d => d.wordsReviewed), 1);
+    const today = new Date().toDateString();
+
+    const timelineHTML = recentActivity.slice(0, 7).reverse().map((day, index) => {
+      const dayDate = new Date(day.date).toDateString();
+      const isToday = dayDate === today;
+      const isBest = day.wordsReviewed === maxWords && maxWords > 0;
+      const isRest = day.wordsReviewed === 0;
+
+      const classes = [
+        'timeline-day',
+        isToday ? 'active' : '',
+        isBest && !isRest ? 'best' : '',
+        isRest ? 'rest' : ''
+      ].filter(Boolean).join(' ');
+
+      const dots = '●'.repeat(Math.min(Math.ceil(day.wordsReviewed / 10), 10));
+      const badge = isBest && !isRest ? '<span class="timeline-day-badge">Best day!</span>' : '';
+      const count = isRest ? 'Rest day' : `${day.wordsReviewed} words`;
+
+      return `
+        <div class="${classes}" style="animation-delay: ${index * 50}ms">
+          <div class="timeline-day-name">${day.dayName}</div>
+          <div class="timeline-day-dots">${dots}</div>
+          <div class="timeline-day-count">${count}</div>
+          ${badge}
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = timelineHTML;
   }
 
   async getOverallProgress() {
@@ -2767,13 +3095,13 @@ class LingXMApp {
       });
     }
 
-    // View achievements button
-    const achievementsBtn = document.getElementById('view-achievements-btn');
-    if (achievementsBtn) {
-      achievementsBtn.replaceWith(achievementsBtn.cloneNode(true));
-      const newAchievementsBtn = document.getElementById('view-achievements-btn');
-      newAchievementsBtn.addEventListener('click', () => {
-        this.showScreen('achievements-screen');
+    // View All Achievements button
+    const viewAllBtn = document.getElementById('view-all-achievements-btn');
+    if (viewAllBtn) {
+      viewAllBtn.replaceWith(viewAllBtn.cloneNode(true));
+      const newViewAllBtn = document.getElementById('view-all-achievements-btn');
+      newViewAllBtn.addEventListener('click', () => {
+        this.toggleAchievements();
       });
     }
   }
@@ -2966,10 +3294,29 @@ class LingXMApp {
     // Hide no-sentences screen if visible
     document.getElementById('no-sentences-available').classList.add('hidden');
 
-    // Update session info
+    // Language flag mapping
+    const languageFlags = {
+      'en': '🇬🇧',
+      'de': '🇩🇪',
+      'fr': '🇫🇷',
+      'ar': '🇸🇦',
+      'it': '🇮🇹'
+    };
+
+    // Update session info with flag
+    const languageFlag = document.getElementById('sentence-language-flag');
+    if (languageFlag) {
+      languageFlag.textContent = languageFlags[session.language] || '🌐';
+    }
     document.getElementById('sentence-language').textContent = session.languageName;
     document.getElementById('sentence-known-count').textContent = session.masteredWords.length;
-    document.getElementById('sentence-available').textContent = session.sentences.length;
+
+    // Initialize live stats
+    document.getElementById('sentence-correct-live').textContent = '0';
+    document.getElementById('sentence-incorrect-live').textContent = '0';
+
+    // Initialize progress ring
+    this.updateSentenceProgressRing();
 
     // Setup event handlers
     this.setupSentenceEventHandlers();
@@ -3036,6 +3383,9 @@ class LingXMApp {
     // Update progress indicator
     document.getElementById('sentence-current').textContent = session.currentIndex + 1;
     document.getElementById('sentence-total').textContent = session.sentences.length;
+
+    // Update progress ring for new sentence
+    this.updateSentenceProgressRing();
 
     // Update difficulty badge
     const difficultyBadge = document.getElementById('sentence-difficulty');
@@ -3164,11 +3514,12 @@ class LingXMApp {
       session.incorrectCount++;
     }
 
-    // Update database
+    // Update database (generate ID if missing)
+    const sentenceId = sentence.id || `${session.language}-${sentence.target_word || sentence.target || 'unknown'}-${Date.now()}`;
     await dbManager.updateSentenceProgress(
       this.currentUser.id,
       session.language,
-      sentence.id,
+      sentenceId,
       isCorrect
     );
 
@@ -3183,8 +3534,9 @@ class LingXMApp {
       btn.disabled = true;
     });
 
-    // Show feedback
+    // Show compact feedback with new classes
     const feedbackEl = document.getElementById('sentence-feedback');
+    const feedbackContent = feedbackEl.querySelector('.feedback-content');
     const feedbackIcon = document.getElementById('feedback-icon');
     const feedbackMessage = document.getElementById('feedback-message');
     const feedbackSentence = document.getElementById('feedback-full-sentence');
@@ -3193,15 +3545,26 @@ class LingXMApp {
 
     if (isCorrect) {
       feedbackIcon.textContent = '✓';
+      feedbackIcon.className = 'feedback-icon-compact success';
       feedbackMessage.textContent = 'Correct!';
-      feedbackMessage.className = 'feedback-message correct';
+      feedbackContent.classList.add('success');
+      feedbackContent.classList.remove('error');
     } else {
       feedbackIcon.textContent = '✗';
-      feedbackMessage.textContent = `Incorrect. The answer was "${correctWord}"`;
-      feedbackMessage.className = 'feedback-message incorrect';
+      feedbackIcon.className = 'feedback-icon-compact error';
+      feedbackMessage.textContent = `Incorrect - The answer was "${correctWord}"`;
+      feedbackContent.classList.add('error');
+      feedbackContent.classList.remove('success');
     }
 
     feedbackSentence.textContent = sentence.full;
+
+    // Update live stats
+    document.getElementById('sentence-correct-live').textContent = session.correctCount;
+    document.getElementById('sentence-incorrect-live').textContent = session.incorrectCount;
+
+    // Update progress ring
+    this.updateSentenceProgressRing();
 
     // Hide check button, show next button
     document.getElementById('btn-check-answer').classList.add('hidden');
@@ -3216,6 +3579,33 @@ class LingXMApp {
   }
 
   /**
+   * Update sentence practice progress ring animation
+   */
+  updateSentenceProgressRing() {
+    if (!this.sentenceSession) return;
+
+    const session = this.sentenceSession;
+    const current = session.currentIndex + 1; // +1 because index is 0-based
+    const total = session.sentences.length;
+    const percentage = Math.round((current / total) * 100);
+
+    // Update progress text
+    const progressText = document.getElementById('sentence-progress-text');
+    if (progressText) {
+      progressText.textContent = `${percentage}%`;
+    }
+
+    // Update progress ring (SVG circle animation)
+    const progressRing = document.getElementById('sentence-progress-ring');
+    if (progressRing) {
+      const radius = 26; // Must match the r value in SVG
+      const circumference = 2 * Math.PI * radius; // ~163.36
+      const offset = circumference - (percentage / 100) * circumference;
+      progressRing.style.strokeDashoffset = offset;
+    }
+  }
+
+  /**
    * Show session complete screen
    */
   showSessionComplete() {
@@ -3224,23 +3614,38 @@ class LingXMApp {
     console.log('[SENTENCES] Session complete');
     console.log(`[SENTENCES] Correct: ${session.correctCount}, Incorrect: ${session.incorrectCount}`);
 
-    // Hide practice UI, show complete screen
-    document.querySelector('.sentence-info-card').classList.add('hidden');
-    document.querySelector('.sentence-card').classList.add('hidden');
-    document.querySelector('.word-bank-container').classList.add('hidden');
-    document.querySelector('.sentence-actions').classList.add('hidden');
+    // Hide practice UI, show complete screen (with null checks)
+    const infoCard = document.querySelector('.sentence-info-card');
+    const sentenceCard = document.querySelector('.sentence-card');
+    const wordBank = document.querySelector('.word-bank-container');
+    const actions = document.querySelector('.sentence-actions');
+
+    if (infoCard) infoCard.classList.add('hidden');
+    if (sentenceCard) sentenceCard.classList.add('hidden');
+    if (wordBank) wordBank.classList.add('hidden');
+    if (actions) actions.classList.add('hidden');
 
     const completeScreen = document.getElementById('session-complete');
+    if (!completeScreen) {
+      console.error('[SENTENCES] session-complete element not found in DOM!');
+      // Fallback: just go back to home
+      this.showScreen('home-screen');
+      return;
+    }
     completeScreen.classList.remove('hidden');
 
     // Calculate accuracy
     const total = session.correctCount + session.incorrectCount;
     const accuracy = total > 0 ? Math.round((session.correctCount / total) * 100) : 0;
 
-    // Update stats
-    document.getElementById('session-correct').textContent = session.correctCount;
-    document.getElementById('session-incorrect').textContent = session.incorrectCount;
-    document.getElementById('session-accuracy').textContent = accuracy + '%';
+    // Update stats (with null checks)
+    const correctEl = document.getElementById('session-correct');
+    const incorrectEl = document.getElementById('session-incorrect');
+    const accuracyEl = document.getElementById('session-accuracy');
+
+    if (correctEl) correctEl.textContent = session.correctCount;
+    if (incorrectEl) incorrectEl.textContent = session.incorrectCount;
+    if (accuracyEl) accuracyEl.textContent = accuracy + '%';
 
     // Track analytics
     this.analyticsManager.trackEvent('sentence_session_complete', {

@@ -1,0 +1,13 @@
+{
+  "appId": "com.lingxm.app",
+  "appName": "LingXM",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "always"
+  },
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "capacitor"
+  }
+}

@@ -1,0 +1,4697 @@
+{
+  "metadata": {
+    "language": "ru",
+    "language_name": "Russian",
+    "level": "A1-B1",
+    "source_profiles": [
+      "dmitri"
+    ],
+    "total_words": 180,
+    "total_sentences": 540,
+    "version": "2.0",
+    "generated_date": "2025-11-08T01:06:27.246904",
+    "generator": "Claude Code"
+  },
+  "sentences": {
+    "привет": [
+      {
+        "sentence": "Привет! Как дела?",
+        "blank": "_____! Как дела?",
+        "target_word": "привет",
+        "translation": "Hello! How are you?",
+        "id": "ru_001_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Когда я вижу друга, я всегда говорю привет.",
+        "blank": "Когда я вижу друга, я всегда говорю _____.",
+        "target_word": "привет",
+        "translation": "When I see a friend, I always say hello.",
+        "id": "ru_001_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В России принято говорить привет знакомым людям.",
+        "blank": "В России принято говорить _____ знакомым людям.",
+        "target_word": "привет",
+        "translation": "In Russia it is customary to say hello to people you know.",
+        "id": "ru_001_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "здравствуйте": [
+      {
+        "sentence": "Здравствуйте! Меня зовут Дмитрий.",
+        "blank": "_____! Меня зовут Дмитрий.",
+        "target_word": "здравствуйте",
+        "translation": "Hello! My name is Dmitri.",
+        "id": "ru_002_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "В офисе я всегда говорю здравствуйте коллегам.",
+        "blank": "В офисе я всегда говорю _____ коллегам.",
+        "target_word": "здравствуйте",
+        "translation": "At the office I always say hello to colleagues.",
+        "id": "ru_002_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Когда я прихожу на работу утром, первое что говорю — здравствуйте.",
+        "blank": "Когда я прихожу на работу утром, первое что говорю — _____.",
+        "target_word": "здравствуйте",
+        "translation": "When I come to work in the morning, the first thing I say is hello.",
+        "id": "ru_002_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "спасибо": [
+      {
+        "sentence": "Спасибо за помощь!",
+        "blank": "_____ за помощь!",
+        "target_word": "спасибо",
+        "translation": "Thank you for the help!",
+        "id": "ru_003_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я всегда говорю спасибо людям, которые мне помогают.",
+        "blank": "Я всегда говорю _____ людям, которые мне помогают.",
+        "target_word": "спасибо",
+        "translation": "I always say thank you to people who help me.",
+        "id": "ru_003_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно не забывать говорить спасибо за даже маленькие услуги.",
+        "blank": "Важно не забывать говорить _____ за даже маленькие услуги.",
+        "target_word": "спасибо",
+        "translation": "It's important not to forget to say thank you even for small favors.",
+        "id": "ru_003_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "пожалуйста": [
+      {
+        "sentence": "Пожалуйста, закройте дверь.",
+        "blank": "_____, закройте дверь.",
+        "target_word": "пожалуйста",
+        "translation": "Please close the door.",
+        "id": "ru_004_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Можно попросить вас, пожалуйста, помочь мне?",
+        "blank": "Можно попросить вас, _____, помочь мне?",
+        "target_word": "пожалуйста",
+        "translation": "Could I ask you, please, to help me?",
+        "id": "ru_004_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Если вам не трудно, передайте, пожалуйста, эти документы директору.",
+        "blank": "Если вам не трудно, передайте, _____, эти документы директору.",
+        "target_word": "пожалуйста",
+        "translation": "If it's not too much trouble, please pass these documents to the director.",
+        "id": "ru_004_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "до свидания": [
+      {
+        "sentence": "До свидания! Увидимся завтра.",
+        "blank": "_____! Увидимся завтра.",
+        "target_word": "до свидания",
+        "translation": "Goodbye! See you tomorrow.",
+        "id": "ru_005_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Когда я ухожу с работы, я говорю до свидания коллегам.",
+        "blank": "Когда я ухожу с работы, я говорю _____ коллегам.",
+        "target_word": "до свидания",
+        "translation": "When I leave work, I say goodbye to colleagues.",
+        "id": "ru_005_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "После долгой встречи мы попрощались и сказали до свидания.",
+        "blank": "После долгой встречи мы попрощались и сказали _____.",
+        "target_word": "до свидания",
+        "translation": "After a long meeting we said our farewells and said goodbye.",
+        "id": "ru_005_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "да": [
+      {
+        "sentence": "Да, я согласен с вами.",
+        "blank": "_____, я согласен с вами.",
+        "target_word": "да",
+        "translation": "Yes, I agree with you.",
+        "id": "ru_006_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Он спросил меня, хочу ли я кофе, и я ответил да.",
+        "blank": "Он спросил меня, хочу ли я кофе, и я ответил _____.",
+        "target_word": "да",
+        "translation": "He asked me if I wanted coffee, and I answered yes.",
+        "id": "ru_006_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Когда начальник предложил мне новый проект, я без колебаний сказал да.",
+        "blank": "Когда начальник предложил мне новый проект, я без колебаний сказал _____.",
+        "target_word": "да",
+        "translation": "When the boss offered me a new project, I said yes without hesitation.",
+        "id": "ru_006_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "нет": [
+      {
+        "sentence": "Нет, я не хочу есть.",
+        "blank": "_____, я не хочу есть.",
+        "target_word": "нет",
+        "translation": "No, I don't want to eat.",
+        "id": "ru_007_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Когда меня спросили, я ответил нет.",
+        "blank": "Когда меня спросили, я ответил _____.",
+        "target_word": "нет",
+        "translation": "When they asked me, I answered no.",
+        "id": "ru_007_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Иногда очень трудно сказать нет, даже когда это необходимо.",
+        "blank": "Иногда очень трудно сказать _____, даже когда это необходимо.",
+        "target_word": "нет",
+        "translation": "Sometimes it's very difficult to say no, even when it's necessary.",
+        "id": "ru_007_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "извините": [
+      {
+        "sentence": "Извините, где здесь метро?",
+        "blank": "_____, где здесь метро?",
+        "target_word": "извините",
+        "translation": "Excuse me, where is the metro here?",
+        "id": "ru_008_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я опоздал на встречу, поэтому сказал извините.",
+        "blank": "Я опоздал на встречу, поэтому сказал _____.",
+        "target_word": "извините",
+        "translation": "I was late for the meeting, so I said sorry.",
+        "id": "ru_008_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Когда вы случайно кого-то толкнули, нужно сразу сказать извините.",
+        "blank": "Когда вы случайно кого-то толкнули, нужно сразу сказать _____.",
+        "target_word": "извините",
+        "translation": "When you accidentally push someone, you should immediately say sorry.",
+        "id": "ru_008_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "быть": [
+      {
+        "sentence": "Я хочу быть врачом.",
+        "blank": "Я хочу _____ врачом.",
+        "target_word": "быть",
+        "translation": "I want to be a doctor.",
+        "id": "ru_009_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится быть в России и изучать русский язык.",
+        "blank": "Мне нравится _____ в России и изучать русский язык.",
+        "target_word": "быть",
+        "translation": "I like being in Russia and studying the Russian language.",
+        "id": "ru_009_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самое важное в жизни — это быть честным с собой и другими людьми.",
+        "blank": "Самое важное в жизни — это _____ честным с собой и другими людьми.",
+        "target_word": "быть",
+        "translation": "The most important thing in life is to be honest with yourself and other people.",
+        "id": "ru_009_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "иметь": [
+      {
+        "sentence": "Я хочу иметь большую семью.",
+        "blank": "Я хочу _____ большую семью.",
+        "target_word": "иметь",
+        "translation": "I want to have a big family.",
+        "id": "ru_010_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Очень важно иметь хороших друзей в жизни.",
+        "blank": "Очень важно _____ хороших друзей в жизни.",
+        "target_word": "иметь",
+        "translation": "It's very important to have good friends in life.",
+        "id": "ru_010_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждый человек должен иметь право на образование и работу.",
+        "blank": "Каждый человек должен _____ право на образование и работу.",
+        "target_word": "иметь",
+        "translation": "Every person should have the right to education and work.",
+        "id": "ru_010_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "делать": [
+      {
+        "sentence": "Я люблю делать домашнее задание вечером.",
+        "blank": "Я люблю _____ домашнее задание вечером.",
+        "target_word": "делать",
+        "translation": "I like to do homework in the evening.",
+        "id": "ru_011_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится делать что-то полезное для других людей.",
+        "blank": "Мне нравится _____ что-то полезное для других людей.",
+        "target_word": "делать",
+        "translation": "I like to do something useful for other people.",
+        "id": "ru_011_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самое трудное — это начать делать то, что давно откладываешь.",
+        "blank": "Самое трудное — это начать _____ то, что давно откладываешь.",
+        "target_word": "делать",
+        "translation": "The hardest thing is to start doing what you've been putting off for a long time.",
+        "id": "ru_011_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "говорить": [
+      {
+        "sentence": "Я хочу говорить по-русски хорошо.",
+        "blank": "Я хочу _____ по-русски хорошо.",
+        "target_word": "говорить",
+        "translation": "I want to speak Russian well.",
+        "id": "ru_012_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится говорить с интересными людьми о жизни.",
+        "blank": "Мне нравится _____ с интересными людьми о жизни.",
+        "target_word": "говорить",
+        "translation": "I like to talk with interesting people about life.",
+        "id": "ru_012_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Очень важно уметь говорить правду, даже когда это сложно.",
+        "blank": "Очень важно уметь _____ правду, даже когда это сложно.",
+        "target_word": "говорить",
+        "translation": "It's very important to be able to tell the truth, even when it's difficult.",
+        "id": "ru_012_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "знать": [
+      {
+        "sentence": "Я хочу знать больше о русской культуре.",
+        "blank": "Я хочу _____ больше о русской культуре.",
+        "target_word": "знать",
+        "translation": "I want to know more about Russian culture.",
+        "id": "ru_013_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нужно знать правила дорожного движения.",
+        "blank": "Мне нужно _____ правила дорожного движения.",
+        "target_word": "знать",
+        "translation": "I need to know the traffic rules.",
+        "id": "ru_013_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Лучше знать несколько языков, чем только один родной.",
+        "blank": "Лучше _____ несколько языков, чем только один родной.",
+        "target_word": "знать",
+        "translation": "It's better to know several languages than just one native language.",
+        "id": "ru_013_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "хотеть": [
+      {
+        "sentence": "Я могу хотеть кофе или чай.",
+        "blank": "Я могу _____ кофе или чай.",
+        "target_word": "хотеть",
+        "translation": "I can want coffee or tea.",
+        "id": "ru_014_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Все люди могут хотеть разные вещи в жизни.",
+        "blank": "Все люди могут _____ разные вещи в жизни.",
+        "target_word": "хотеть",
+        "translation": "All people can want different things in life.",
+        "id": "ru_014_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Иногда трудно понять, что именно ты хочешь хотеть в будущем.",
+        "blank": "Иногда трудно понять, что именно ты хочешь _____ в будущем.",
+        "target_word": "хотеть",
+        "translation": "Sometimes it's hard to understand what exactly you want to want in the future.",
+        "id": "ru_014_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "мочь": [
+      {
+        "sentence": "Я хочу мочь говорить по-русски свободно.",
+        "blank": "Я хочу _____ говорить по-русски свободно.",
+        "target_word": "мочь",
+        "translation": "I want to be able to speak Russian fluently.",
+        "id": "ru_015_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно много практиковаться, чтобы мочь делать что-то хорошо.",
+        "blank": "Нужно много практиковаться, чтобы _____ делать что-то хорошо.",
+        "target_word": "мочь",
+        "translation": "You need to practice a lot to be able to do something well.",
+        "id": "ru_015_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самое важное достижение — это научиться мочь преодолевать трудности.",
+        "blank": "Самое важное достижение — это научиться _____ преодолевать трудности.",
+        "target_word": "мочь",
+        "translation": "The most important achievement is to learn to be able to overcome difficulties.",
+        "id": "ru_015_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "видеть": [
+      {
+        "sentence": "Я хочу видеть своих друзей чаще.",
+        "blank": "Я хочу _____ своих друзей чаще.",
+        "target_word": "видеть",
+        "translation": "I want to see my friends more often.",
+        "id": "ru_016_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится видеть красивые места в разных странах.",
+        "blank": "Мне нравится _____ красивые места в разных странах.",
+        "target_word": "видеть",
+        "translation": "I like to see beautiful places in different countries.",
+        "id": "ru_016_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Иногда трудно видеть реальность такой, какая она есть.",
+        "blank": "Иногда трудно _____ реальность такой, какая она есть.",
+        "target_word": "видеть",
+        "translation": "Sometimes it's hard to see reality as it is.",
+        "id": "ru_016_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "слышать": [
+      {
+        "sentence": "Я хочу слышать музыку каждый день.",
+        "blank": "Я хочу _____ музыку каждый день.",
+        "target_word": "слышать",
+        "translation": "I want to hear music every day.",
+        "id": "ru_017_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне приятно слышать комплименты от коллег.",
+        "blank": "Мне приятно _____ комплименты от коллег.",
+        "target_word": "слышать",
+        "translation": "It's pleasant for me to hear compliments from colleagues.",
+        "id": "ru_017_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно уметь слышать не только слова, но и эмоции других людей.",
+        "blank": "Важно уметь _____ не только слова, но и эмоции других людей.",
+        "target_word": "слышать",
+        "translation": "It's important to be able to hear not only words, but also other people's emotions.",
+        "id": "ru_017_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "дом": [
+      {
+        "sentence": "Мой дом находится в центре города.",
+        "blank": "Мой _____ находится в центре города.",
+        "target_word": "дом",
+        "translation": "My house is located in the city center.",
+        "id": "ru_018_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "У меня большой дом с садом и гаражом.",
+        "blank": "У меня большой _____ с садом и гаражом.",
+        "target_word": "дом",
+        "translation": "I have a big house with a garden and garage.",
+        "id": "ru_018_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждый человек мечтает иметь свой дом, где чувствуешь себя комфортно.",
+        "blank": "Каждый человек мечтает иметь свой _____, где чувствуешь себя комфортно.",
+        "target_word": "дом",
+        "translation": "Every person dreams of having their own house where you feel comfortable.",
+        "id": "ru_018_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "семья": [
+      {
+        "sentence": "Моя семья большая и дружная.",
+        "blank": "Моя _____ большая и дружная.",
+        "target_word": "семья",
+        "translation": "My family is big and friendly.",
+        "id": "ru_019_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждое воскресенье вся семья собирается вместе за обедом.",
+        "blank": "Каждое воскресенье вся _____ собирается вместе за обедом.",
+        "target_word": "семья",
+        "translation": "Every Sunday the whole family gathers together for dinner.",
+        "id": "ru_019_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Для меня семья — это самое важное в жизни, источник поддержки и любви.",
+        "blank": "Для меня _____ — это самое важное в жизни, источник поддержки и любви.",
+        "target_word": "семья",
+        "translation": "For me, family is the most important thing in life, a source of support and love.",
+        "id": "ru_019_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "работа": [
+      {
+        "sentence": "Моя работа очень интересная.",
+        "blank": "Моя _____ очень интересная.",
+        "target_word": "работа",
+        "translation": "My work is very interesting.",
+        "id": "ru_020_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хожу на работу каждый день с понедельника по пятницу.",
+        "blank": "Я хожу на _____ каждый день с понедельника по пятницу.",
+        "target_word": "работа",
+        "translation": "I go to work every day from Monday to Friday.",
+        "id": "ru_020_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хорошая работа должна приносить не только деньги, но и удовольствие.",
+        "blank": "Хорошая _____ должна приносить не только деньги, но и удовольствие.",
+        "target_word": "работа",
+        "translation": "Good work should bring not only money, but also pleasure.",
+        "id": "ru_020_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "время": [
+      {
+        "sentence": "Сейчас у меня нет время для этого.",
+        "blank": "Сейчас у меня нет _____ для этого.",
+        "target_word": "время",
+        "translation": "Right now I don't have time for this.",
+        "id": "ru_021_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждое утро я проверяю время на своих часах.",
+        "blank": "Каждое утро я проверяю _____ на своих часах.",
+        "target_word": "время",
+        "translation": "Every morning I check the time on my watch.",
+        "id": "ru_021_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Время — самый ценный ресурс, который невозможно вернуть назад.",
+        "blank": "_____ — самый ценный ресурс, который невозможно вернуть назад.",
+        "target_word": "время",
+        "translation": "Time is the most valuable resource that cannot be brought back.",
+        "id": "ru_021_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "человек": [
+      {
+        "sentence": "Каждый человек уникален по-своему.",
+        "blank": "Каждый _____ уникален по-своему.",
+        "target_word": "человек",
+        "translation": "Every person is unique in their own way.",
+        "id": "ru_022_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я встретил интересного человек на конференции вчера.",
+        "blank": "Я встретил интересного _____ на конференции вчера.",
+        "target_word": "человек",
+        "translation": "I met an interesting person at the conference yesterday.",
+        "id": "ru_022_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Говорят, что человек познаётся в трудных ситуациях и испытаниях.",
+        "blank": "Говорят, что _____ познаётся в трудных ситуациях и испытаниях.",
+        "target_word": "человек",
+        "translation": "They say that a person is known in difficult situations and trials.",
+        "id": "ru_022_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "день": [
+      {
+        "sentence": "Сегодня прекрасный день для прогулки.",
+        "blank": "Сегодня прекрасный _____ для прогулки.",
+        "target_word": "день",
+        "translation": "Today is a beautiful day for a walk.",
+        "id": "ru_023_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый день я стараюсь учить новые русские слова.",
+        "blank": "Каждый _____ я стараюсь учить новые русские слова.",
+        "target_word": "день",
+        "translation": "Every day I try to learn new Russian words.",
+        "id": "ru_023_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самый важный день в году — это день рождения близкого человека.",
+        "blank": "Самый важный _____ в году — это день рождения близкого человека.",
+        "target_word": "день",
+        "translation": "The most important day of the year is the birthday of a loved one.",
+        "id": "ru_023_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "год": [
+      {
+        "sentence": "В этом году я планирую выучить русский язык.",
+        "blank": "В этом _____ я планирую выучить русский язык.",
+        "target_word": "год",
+        "translation": "This year I plan to learn Russian.",
+        "id": "ru_024_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый год я езжу отдыхать на море летом.",
+        "blank": "Каждый _____ я езжу отдыхать на море летом.",
+        "target_word": "год",
+        "translation": "Every year I go to rest by the sea in summer.",
+        "id": "ru_024_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Прошлый год был очень продуктивным для моей карьеры и развития.",
+        "blank": "Прошлый _____ был очень продуктивным для моей карьеры и развития.",
+        "target_word": "год",
+        "translation": "Last year was very productive for my career and development.",
+        "id": "ru_024_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "друг": [
+      {
+        "sentence": "Мой лучший друг живёт в Москве.",
+        "blank": "Мой лучший _____ живёт в Москве.",
+        "target_word": "друг",
+        "translation": "My best friend lives in Moscow.",
+        "id": "ru_025_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Вчера я встретился с другом в кафе и мы долго разговаривали.",
+        "blank": "Вчера я встретился с _____ в кафе и мы долго разговаривали.",
+        "target_word": "друг",
+        "translation": "Yesterday I met with a friend at a cafe and we talked for a long time.",
+        "id": "ru_025_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Настоящий друг всегда поддержит тебя в трудную минуту и разделит радость.",
+        "blank": "Настоящий _____ всегда поддержит тебя в трудную минуту и разделит радость.",
+        "target_word": "друг",
+        "translation": "A true friend will always support you in difficult times and share your joy.",
+        "id": "ru_025_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "мама": [
+      {
+        "sentence": "Моя мама работает учительницей в школе.",
+        "blank": "Моя _____ работает учительницей в школе.",
+        "target_word": "мама",
+        "translation": "My mom works as a teacher at school.",
+        "id": "ru_026_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждую неделю я звоню маме и рассказываю о своих делах.",
+        "blank": "Каждую неделю я звоню _____ и рассказываю о своих делах.",
+        "target_word": "мама",
+        "translation": "Every week I call my mom and tell her about my affairs.",
+        "id": "ru_026_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Мама всегда знает, как поддержать и дать правильный совет в любой ситуации.",
+        "blank": "_____ всегда знает, как поддержать и дать правильный совет в любой ситуации.",
+        "target_word": "мама",
+        "translation": "Mom always knows how to support and give the right advice in any situation.",
+        "id": "ru_026_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "папа": [
+      {
+        "sentence": "Мой папа работает инженером на заводе.",
+        "blank": "Мой _____ работает инженером на заводе.",
+        "target_word": "папа",
+        "translation": "My dad works as an engineer at a factory.",
+        "id": "ru_027_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "По выходным папа любит ремонтировать машину в гараже.",
+        "blank": "По выходным _____ любит ремонтировать машину в гараже.",
+        "target_word": "папа",
+        "translation": "On weekends dad likes to repair the car in the garage.",
+        "id": "ru_027_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Мой папа научил меня всему, что я знаю о работе и ответственности.",
+        "blank": "Мой _____ научил меня всему, что я знаю о работе и ответственности.",
+        "target_word": "папа",
+        "translation": "My dad taught me everything I know about work and responsibility.",
+        "id": "ru_027_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "ребёнок": [
+      {
+        "sentence": "Мой маленький ребёнок любит играть в парке.",
+        "blank": "Мой маленький _____ любит играть в парке.",
+        "target_word": "ребёнок",
+        "translation": "My little child loves to play in the park.",
+        "id": "ru_028_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый ребёнок должен иметь возможность учиться и развиваться.",
+        "blank": "Каждый _____ должен иметь возможность учиться и развиваться.",
+        "target_word": "ребёнок",
+        "translation": "Every child should have the opportunity to learn and develop.",
+        "id": "ru_028_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Когда ребёнок счастлив и улыбается, это самая большая радость для родителей.",
+        "blank": "Когда _____ счастлив и улыбается, это самая большая радость для родителей.",
+        "target_word": "ребёнок",
+        "translation": "When a child is happy and smiling, it's the greatest joy for parents.",
+        "id": "ru_028_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "мужчина": [
+      {
+        "sentence": "Высокий мужчина стоит возле двери.",
+        "blank": "Высокий _____ стоит возле двери.",
+        "target_word": "мужчина",
+        "translation": "A tall man is standing near the door.",
+        "id": "ru_029_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я видел незнакомого мужчина в нашем офисе вчера.",
+        "blank": "Я видел незнакомого _____ в нашем офисе вчера.",
+        "target_word": "мужчина",
+        "translation": "I saw an unfamiliar man in our office yesterday.",
+        "id": "ru_029_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Настоящий мужчина должен быть ответственным и заботиться о своей семье.",
+        "blank": "Настоящий _____ должен быть ответственным и заботиться о своей семье.",
+        "target_word": "мужчина",
+        "translation": "A real man should be responsible and take care of his family.",
+        "id": "ru_029_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "женщина": [
+      {
+        "sentence": "Красивая женщина сидит за столом в кафе.",
+        "blank": "Красивая _____ сидит за столом в кафе.",
+        "target_word": "женщина",
+        "translation": "A beautiful woman is sitting at a table in a cafe.",
+        "id": "ru_030_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я познакомился с интересной женщина на вечеринке у друзей.",
+        "blank": "Я познакомился с интересной _____ на вечеринке у друзей.",
+        "target_word": "женщина",
+        "translation": "I met an interesting woman at a party at my friends' place.",
+        "id": "ru_030_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Современная женщина успешно совмещает карьеру, семью и личные интересы.",
+        "blank": "Современная _____ успешно совмещает карьеру, семью и личные интересы.",
+        "target_word": "женщина",
+        "translation": "A modern woman successfully combines career, family and personal interests.",
+        "id": "ru_030_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "жизнь": [
+      {
+        "sentence": "Моя жизнь изменилась после переезда.",
+        "blank": "Моя _____ изменилась после переезда.",
+        "target_word": "жизнь",
+        "translation": "My life changed after moving.",
+        "id": "ru_031_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хочу прожить интересную жизнь, полную приключений.",
+        "blank": "Я хочу прожить интересную _____, полную приключений.",
+        "target_word": "жизнь",
+        "translation": "I want to live an interesting life full of adventures.",
+        "id": "ru_031_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Жизнь — это не только работа, но и время для семьи и друзей.",
+        "blank": "_____ — это не только работа, но и время для семьи и друзей.",
+        "target_word": "жизнь",
+        "translation": "Life is not only work, but also time for family and friends.",
+        "id": "ru_031_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "вода": [
+      {
+        "sentence": "Холодная вода очень вкусная летом.",
+        "blank": "Холодная _____ очень вкусная летом.",
+        "target_word": "вода",
+        "translation": "Cold water is very tasty in summer.",
+        "id": "ru_032_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый день нужно пить чистую вода для здоровья.",
+        "blank": "Каждый день нужно пить чистую _____ для здоровья.",
+        "target_word": "вода",
+        "translation": "Every day you need to drink clean water for health.",
+        "id": "ru_032_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чистая питьевая вода становится всё более ценным ресурсом в мире.",
+        "blank": "Чистая питьевая _____ становится всё более ценным ресурсом в мире.",
+        "target_word": "вода",
+        "translation": "Clean drinking water is becoming an increasingly valuable resource in the world.",
+        "id": "ru_032_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "еда": [
+      {
+        "sentence": "Вкусная еда делает меня счастливым.",
+        "blank": "Вкусная _____ делает меня счастливым.",
+        "target_word": "еда",
+        "translation": "Delicious food makes me happy.",
+        "id": "ru_033_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю готовить здоровую еда для своей семьи.",
+        "blank": "Я люблю готовить здоровую _____ для своей семьи.",
+        "target_word": "еда",
+        "translation": "I love to cook healthy food for my family.",
+        "id": "ru_033_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Традиционная русская еда очень разнообразна и питательна.",
+        "blank": "Традиционная русская _____ очень разнообразна и питательна.",
+        "target_word": "еда",
+        "translation": "Traditional Russian food is very diverse and nutritious.",
+        "id": "ru_033_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "книга": [
+      {
+        "sentence": "Интересная книга лежит на столе.",
+        "blank": "Интересная _____ лежит на столе.",
+        "target_word": "книга",
+        "translation": "An interesting book is lying on the table.",
+        "id": "ru_034_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я читаю новую книга каждую неделю.",
+        "blank": "Я читаю новую _____ каждую неделю.",
+        "target_word": "книга",
+        "translation": "I read a new book every week.",
+        "id": "ru_034_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хорошая книга может изменить твоё мировоззрение и взгляд на жизнь.",
+        "blank": "Хорошая _____ может изменить твоё мировоззрение и взгляд на жизнь.",
+        "target_word": "книга",
+        "translation": "A good book can change your worldview and outlook on life.",
+        "id": "ru_034_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "слово": [
+      {
+        "sentence": "Каждое слово в русском языке важно.",
+        "blank": "Каждое _____ в русском языке важно.",
+        "target_word": "слово",
+        "translation": "Every word in the Russian language is important.",
+        "id": "ru_035_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я учу новое русское слово каждый день.",
+        "blank": "Я учу новое русское _____ каждый день.",
+        "target_word": "слово",
+        "translation": "I learn a new Russian word every day.",
+        "id": "ru_035_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Одно доброе слово может поддержать человека в трудную минуту.",
+        "blank": "Одно доброе _____ может поддержать человека в трудную минуту.",
+        "target_word": "слово",
+        "translation": "One kind word can support a person in a difficult moment.",
+        "id": "ru_035_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "язык": [
+      {
+        "sentence": "Русский язык очень красивый и сложный.",
+        "blank": "Русский _____ очень красивый и сложный.",
+        "target_word": "язык",
+        "translation": "The Russian language is very beautiful and complex.",
+        "id": "ru_036_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я изучаю русский язык уже два года.",
+        "blank": "Я изучаю русский _____ уже два года.",
+        "target_word": "язык",
+        "translation": "I have been studying the Russian language for two years.",
+        "id": "ru_036_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Знание иностранного языка открывает много новых возможностей в карьере.",
+        "blank": "Знание иностранного _____ открывает много новых возможностей в карьере.",
+        "target_word": "язык",
+        "translation": "Knowledge of a foreign language opens many new career opportunities.",
+        "id": "ru_036_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "страна": [
+      {
+        "sentence": "Россия — большая и красивая страна.",
+        "blank": "Россия — большая и красивая _____.",
+        "target_word": "страна",
+        "translation": "Russia is a big and beautiful country.",
+        "id": "ru_037_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хочу посетить разные страна мира в будущем.",
+        "blank": "Я хочу посетить разные _____ мира в будущем.",
+        "target_word": "страна",
+        "translation": "I want to visit different countries of the world in the future.",
+        "id": "ru_037_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждая страна имеет свою уникальную культуру, традиции и историю.",
+        "blank": "Каждая _____ имеет свою уникальную культуру, традиции и историю.",
+        "target_word": "страна",
+        "translation": "Each country has its own unique culture, traditions and history.",
+        "id": "ru_037_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "мир": [
+      {
+        "sentence": "Наш мир очень большой и разнообразный.",
+        "blank": "Наш _____ очень большой и разнообразный.",
+        "target_word": "мир",
+        "translation": "Our world is very big and diverse.",
+        "id": "ru_038_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хочу путешествовать по миру и видеть новые места.",
+        "blank": "Я хочу путешествовать по _____ и видеть новые места.",
+        "target_word": "мир",
+        "translation": "I want to travel the world and see new places.",
+        "id": "ru_038_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Современный мир меняется очень быстро благодаря технологиям.",
+        "blank": "Современный _____ меняется очень быстро благодаря технологиям.",
+        "target_word": "мир",
+        "translation": "The modern world is changing very quickly thanks to technology.",
+        "id": "ru_038_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "рука": [
+      {
+        "sentence": "Моя правая рука болит сегодня.",
+        "blank": "Моя правая _____ болит сегодня.",
+        "target_word": "рука",
+        "translation": "My right hand hurts today.",
+        "id": "ru_039_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я пишу левой рука, потому что я левша.",
+        "blank": "Я пишу левой _____, потому что я левша.",
+        "target_word": "рука",
+        "translation": "I write with my left hand because I'm left-handed.",
+        "id": "ru_039_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Крепкое рукопожатие показывает, что человек уверен в себе.",
+        "blank": "Крепкое рукопожатие показывает, что человек уверен в себе.",
+        "target_word": "рука",
+        "translation": "A firm handshake shows that a person is confident.",
+        "id": "ru_039_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "голова": [
+      {
+        "sentence": "У меня болит голова после долгой работы.",
+        "blank": "У меня болит _____ после долгой работы.",
+        "target_word": "голова",
+        "translation": "My head hurts after a long day of work.",
+        "id": "ru_040_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Моя голова полна новых идей для проекта.",
+        "blank": "Моя _____ полна новых идей для проекта.",
+        "target_word": "голова",
+        "translation": "My head is full of new ideas for the project.",
+        "id": "ru_040_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Холодная голова и горячее сердце помогают принимать правильные решения.",
+        "blank": "Холодная _____ и горячее сердце помогают принимать правильные решения.",
+        "target_word": "голова",
+        "translation": "A cold head and a warm heart help make the right decisions.",
+        "id": "ru_040_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "один": [
+      {
+        "sentence": "У меня есть только один брат.",
+        "blank": "У меня есть только _____ брат.",
+        "target_word": "один",
+        "translation": "I have only one brother.",
+        "id": "ru_041_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я живу один в маленькой квартире в центре города.",
+        "blank": "Я живу _____ в маленькой квартире в центре города.",
+        "target_word": "один",
+        "translation": "I live alone in a small apartment in the city center.",
+        "id": "ru_041_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Один в поле не воин — так говорит русская пословица.",
+        "blank": "_____ в поле не воин — так говорит русская пословица.",
+        "target_word": "один",
+        "translation": "One in the field is not a warrior — as the Russian proverb says.",
+        "id": "ru_041_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "два": [
+      {
+        "sentence": "У меня два компьютера дома.",
+        "blank": "У меня _____ компьютера дома.",
+        "target_word": "два",
+        "translation": "I have two computers at home.",
+        "id": "ru_042_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я изучаю два иностранных языка одновременно.",
+        "blank": "Я изучаю _____ иностранных языка одновременно.",
+        "target_word": "два",
+        "translation": "I am studying two foreign languages simultaneously.",
+        "id": "ru_042_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Между двумя вариантами я выбрал второй, потому что он более практичный.",
+        "blank": "Между _____ вариантами я выбрал второй, потому что он более практичный.",
+        "target_word": "два",
+        "translation": "Between two options I chose the second one because it's more practical.",
+        "id": "ru_042_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "три": [
+      {
+        "sentence": "В моей семье три человека.",
+        "blank": "В моей семье _____ человека.",
+        "target_word": "три",
+        "translation": "There are three people in my family.",
+        "id": "ru_043_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я работаю три дня в неделю удалённо.",
+        "blank": "Я работаю _____ дня в неделю удалённо.",
+        "target_word": "три",
+        "translation": "I work three days a week remotely.",
+        "id": "ru_043_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "За последние три года я посетил пять разных стран.",
+        "blank": "За последние _____ года я посетил пять разных стран.",
+        "target_word": "три",
+        "translation": "Over the past three years I have visited five different countries.",
+        "id": "ru_043_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "четыре": [
+      {
+        "sentence": "У меня четыре друга в Москве.",
+        "blank": "У меня _____ друга в Москве.",
+        "target_word": "четыре",
+        "translation": "I have four friends in Moscow.",
+        "id": "ru_044_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я занимаюсь спортом четыре раза в неделю.",
+        "blank": "Я занимаюсь спортом _____ раза в неделю.",
+        "target_word": "четыре",
+        "translation": "I exercise four times a week.",
+        "id": "ru_044_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В нашем офисе работает четыре отдела: продажи, маркетинг, разработка и поддержка.",
+        "blank": "В нашем офисе работает _____ отдела: продажи, маркетинг, разработка и поддержка.",
+        "target_word": "четыре",
+        "translation": "Our office has four departments: sales, marketing, development and support.",
+        "id": "ru_044_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "пять": [
+      {
+        "sentence": "У меня пять пальцев на руке.",
+        "blank": "У меня _____ пальцев на руке.",
+        "target_word": "пять",
+        "translation": "I have five fingers on my hand.",
+        "id": "ru_045_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я работаю пять дней в неделю в офисе.",
+        "blank": "Я работаю _____ дней в неделю в офисе.",
+        "target_word": "пять",
+        "translation": "I work five days a week in the office.",
+        "id": "ru_045_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Через пять лет я планирую открыть собственный бизнес.",
+        "blank": "Через _____ лет я планирую открыть собственный бизнес.",
+        "target_word": "пять",
+        "translation": "In five years I plan to open my own business.",
+        "id": "ru_045_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "шесть": [
+      {
+        "sentence": "Я просыпаюсь в шесть часов утра.",
+        "blank": "Я просыпаюсь в _____ часов утра.",
+        "target_word": "шесть",
+        "translation": "I wake up at six in the morning.",
+        "id": "ru_046_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "В нашей команде работает шесть человек.",
+        "blank": "В нашей команде работает _____ человек.",
+        "target_word": "шесть",
+        "translation": "Six people work in our team.",
+        "id": "ru_046_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Мой рабочий день длится шесть часов, с девяти до трёх.",
+        "blank": "Мой рабочий день длится _____ часов, с девяти до трёх.",
+        "target_word": "шесть",
+        "translation": "My working day lasts six hours, from nine to three.",
+        "id": "ru_046_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "семь": [
+      {
+        "sentence": "Сегодня седьмое число, а не семь.",
+        "blank": "Сегодня седьмое число, а не _____.",
+        "target_word": "семь",
+        "translation": "Today is the seventh, not seven.",
+        "id": "ru_047_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я учу семь новых слов каждый день.",
+        "blank": "Я учу _____ новых слов каждый день.",
+        "target_word": "семь",
+        "translation": "I learn seven new words every day.",
+        "id": "ru_047_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Семь раз отмерь, один раз отрежь — мудрая русская поговорка.",
+        "blank": "_____ раз отмерь, один раз отрежь — мудрая русская поговорка.",
+        "target_word": "семь",
+        "translation": "Measure seven times, cut once — a wise Russian saying.",
+        "id": "ru_047_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "восемь": [
+      {
+        "sentence": "Рабочий день начинается в восемь утра.",
+        "blank": "Рабочий день начинается в _____ утра.",
+        "target_word": "восемь",
+        "translation": "The working day starts at eight in the morning.",
+        "id": "ru_048_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я сплю восемь часов каждую ночь.",
+        "blank": "Я сплю _____ часов каждую ночь.",
+        "target_word": "восемь",
+        "translation": "I sleep eight hours every night.",
+        "id": "ru_048_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Через восемь месяцев я закончу курс русского языка.",
+        "blank": "Через _____ месяцев я закончу курс русского языка.",
+        "target_word": "восемь",
+        "translation": "In eight months I will finish the Russian language course.",
+        "id": "ru_048_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "девять": [
+      {
+        "sentence": "Я прихожу на работу в девять часов.",
+        "blank": "Я прихожу на работу в _____ часов.",
+        "target_word": "девять",
+        "translation": "I come to work at nine o'clock.",
+        "id": "ru_049_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мой урок русского длится девять минут.",
+        "blank": "Мой урок русского длится _____ минут.",
+        "target_word": "девять",
+        "translation": "My Russian lesson lasts nine minutes.",
+        "id": "ru_049_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "За последние девять лет город сильно изменился и вырос.",
+        "blank": "За последние _____ лет город сильно изменился и вырос.",
+        "target_word": "девять",
+        "translation": "Over the past nine years the city has changed and grown significantly.",
+        "id": "ru_049_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "десять": [
+      {
+        "sentence": "У меня десять пальцев на руках.",
+        "blank": "У меня _____ пальцев на руках.",
+        "target_word": "десять",
+        "translation": "I have ten fingers on my hands.",
+        "id": "ru_050_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я изучаю русский язык уже десять месяцев.",
+        "blank": "Я изучаю русский язык уже _____ месяцев.",
+        "target_word": "десять",
+        "translation": "I have been studying Russian for ten months.",
+        "id": "ru_050_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Через десять лет я хочу свободно говорить на пяти языках.",
+        "blank": "Через _____ лет я хочу свободно говорить на пяти языках.",
+        "target_word": "десять",
+        "translation": "In ten years I want to speak five languages fluently.",
+        "id": "ru_050_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "двадцать": [
+      {
+        "sentence": "Мне двадцать пять лет.",
+        "blank": "Мне _____ пять лет.",
+        "target_word": "двадцать",
+        "translation": "I am twenty-five years old.",
+        "id": "ru_051_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Урок длится двадцать минут каждый день.",
+        "blank": "Урок длится _____ минут каждый день.",
+        "target_word": "двадцать",
+        "translation": "The lesson lasts twenty minutes every day.",
+        "id": "ru_051_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В двадцать первом веке технологии развиваются очень быстро.",
+        "blank": "В _____ первом веке технологии развиваются очень быстро.",
+        "target_word": "двадцать",
+        "translation": "In the twenty-first century, technology is developing very quickly.",
+        "id": "ru_051_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "сто": [
+      {
+        "sentence": "В моём словаре сто новых слов.",
+        "blank": "В моём словаре _____ новых слов.",
+        "target_word": "сто",
+        "translation": "There are a hundred new words in my dictionary.",
+        "id": "ru_052_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я прочитал сто страниц книги за выходные.",
+        "blank": "Я прочитал _____ страниц книги за выходные.",
+        "target_word": "сто",
+        "translation": "I read a hundred pages of the book over the weekend.",
+        "id": "ru_052_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Старая пословица гласит: лучше один раз увидеть, чем сто раз услышать.",
+        "blank": "Старая пословица гласит: лучше один раз увидеть, чем _____ раз услышать.",
+        "target_word": "сто",
+        "translation": "An old proverb says: it's better to see once than to hear a hundred times.",
+        "id": "ru_052_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "понедельник": [
+      {
+        "sentence": "Понедельник — первый день недели.",
+        "blank": "_____ — первый день недели.",
+        "target_word": "понедельник",
+        "translation": "Monday is the first day of the week.",
+        "id": "ru_053_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый понедельник мы проводим встречу команды.",
+        "blank": "Каждый _____ мы проводим встречу команды.",
+        "target_word": "понедельник",
+        "translation": "Every Monday we have a team meeting.",
+        "id": "ru_053_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Многие люди не любят понедельник, потому что заканчиваются выходные.",
+        "blank": "Многие люди не любят _____, потому что заканчиваются выходные.",
+        "target_word": "понедельник",
+        "translation": "Many people don't like Monday because the weekend is over.",
+        "id": "ru_053_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "вторник": [
+      {
+        "sentence": "Сегодня вторник, завтра будет среда.",
+        "blank": "Сегодня _____, завтра будет среда.",
+        "target_word": "вторник",
+        "translation": "Today is Tuesday, tomorrow will be Wednesday.",
+        "id": "ru_054_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый вторник я хожу на курсы русского языка.",
+        "blank": "Каждый _____ я хожу на курсы русского языка.",
+        "target_word": "вторник",
+        "translation": "Every Tuesday I go to Russian language courses.",
+        "id": "ru_054_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Во вторник утром у меня назначена важная встреча с клиентом.",
+        "blank": "Во _____ утром у меня назначена важная встреча с клиентом.",
+        "target_word": "вторник",
+        "translation": "On Tuesday morning I have an important meeting with a client scheduled.",
+        "id": "ru_054_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "среда": [
+      {
+        "sentence": "Среда — середина рабочей недели.",
+        "blank": "_____ — середина рабочей недели.",
+        "target_word": "среда",
+        "translation": "Wednesday is the middle of the work week.",
+        "id": "ru_055_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждую среду я работаю из дома.",
+        "blank": "Каждую _____ я работаю из дома.",
+        "target_word": "среда",
+        "translation": "Every Wednesday I work from home.",
+        "id": "ru_055_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В среду вечером я обычно встречаюсь с друзьями в кафе.",
+        "blank": "В _____ вечером я обычно встречаюсь с друзьями в кафе.",
+        "target_word": "среда",
+        "translation": "On Wednesday evening I usually meet with friends at a cafe.",
+        "id": "ru_055_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "четверг": [
+      {
+        "sentence": "Четверг — четвёртый день недели.",
+        "blank": "_____ — четвёртый день недели.",
+        "target_word": "четверг",
+        "translation": "Thursday is the fourth day of the week.",
+        "id": "ru_056_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждый четверг у нас тренировка в спортзале.",
+        "blank": "Каждый _____ у нас тренировка в спортзале.",
+        "target_word": "четверг",
+        "translation": "Every Thursday we have a workout at the gym.",
+        "id": "ru_056_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В четверг днём я посещаю врача для планового осмотра.",
+        "blank": "В _____ днём я посещаю врача для планового осмотра.",
+        "target_word": "четверг",
+        "translation": "On Thursday afternoon I visit the doctor for a routine checkup.",
+        "id": "ru_056_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "пятница": [
+      {
+        "sentence": "Пятница — последний рабочий день недели.",
+        "blank": "_____ — последний рабочий день недели.",
+        "target_word": "пятница",
+        "translation": "Friday is the last working day of the week.",
+        "id": "ru_057_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждую пятницу мы заканчиваем работу раньше.",
+        "blank": "Каждую _____ мы заканчиваем работу раньше.",
+        "target_word": "пятница",
+        "translation": "Every Friday we finish work earlier.",
+        "id": "ru_057_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В пятницу вечером все радуются началу выходных дней.",
+        "blank": "В _____ вечером все радуются началу выходных дней.",
+        "target_word": "пятница",
+        "translation": "On Friday evening everyone is happy about the start of the weekend.",
+        "id": "ru_057_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "суббота": [
+      {
+        "sentence": "Суббота — мой любимый день недели.",
+        "blank": "_____ — мой любимый день недели.",
+        "target_word": "суббота",
+        "translation": "Saturday is my favorite day of the week.",
+        "id": "ru_058_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждую субботу я хожу в кино с друзьями.",
+        "blank": "Каждую _____ я хожу в кино с друзьями.",
+        "target_word": "суббота",
+        "translation": "Every Saturday I go to the movies with friends.",
+        "id": "ru_058_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В субботу утром я люблю долго спать и не спешить никуда.",
+        "blank": "В _____ утром я люблю долго спать и не спешить никуда.",
+        "target_word": "суббота",
+        "translation": "On Saturday morning I like to sleep late and not rush anywhere.",
+        "id": "ru_058_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "воскресенье": [
+      {
+        "sentence": "Воскресенье — последний день недели.",
+        "blank": "_____ — последний день недели.",
+        "target_word": "воскресенье",
+        "translation": "Sunday is the last day of the week.",
+        "id": "ru_059_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждое воскресенье мы ходим в парк гулять.",
+        "blank": "Каждое _____ мы ходим в парк гулять.",
+        "target_word": "воскресенье",
+        "translation": "Every Sunday we go to the park for a walk.",
+        "id": "ru_059_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В воскресенье вечером я готовлюсь к следующей рабочей неделе.",
+        "blank": "В _____ вечером я готовлюсь к следующей рабочей неделе.",
+        "target_word": "воскресенье",
+        "translation": "On Sunday evening I prepare for the next work week.",
+        "id": "ru_059_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "большой": [
+      {
+        "sentence": "У меня большой дом в городе.",
+        "blank": "У меня _____ дом в городе.",
+        "target_word": "большой",
+        "translation": "I have a big house in the city.",
+        "id": "ru_060_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Это очень большой проект, который займёт много времени.",
+        "blank": "Это очень _____ проект, который займёт много времени.",
+        "target_word": "большой",
+        "translation": "This is a very big project that will take a lot of time.",
+        "id": "ru_060_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Большой опыт работы помогает мне решать сложные задачи быстрее.",
+        "blank": "_____ опыт работы помогает мне решать сложные задачи быстрее.",
+        "target_word": "большой",
+        "translation": "Great work experience helps me solve complex tasks faster.",
+        "id": "ru_060_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "маленький": [
+      {
+        "sentence": "У меня маленький дом за городом.",
+        "blank": "У меня _____ дом за городом.",
+        "target_word": "маленький",
+        "translation": "I have a small house outside the city.",
+        "id": "ru_061_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мой маленький брат учится в школе.",
+        "blank": "Мой _____ брат учится в школе.",
+        "target_word": "маленький",
+        "translation": "My little brother studies at school.",
+        "id": "ru_061_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Даже маленький шаг вперёд — это прогресс к большой цели.",
+        "blank": "Даже _____ шаг вперёд — это прогресс к большой цели.",
+        "target_word": "маленький",
+        "translation": "Even a small step forward is progress towards a big goal.",
+        "id": "ru_061_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "хороший": [
+      {
+        "sentence": "Сегодня хороший день для прогулки.",
+        "blank": "Сегодня _____ день для прогулки.",
+        "target_word": "хороший",
+        "translation": "Today is a good day for a walk.",
+        "id": "ru_062_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мой начальник — очень хороший человек и профессионал.",
+        "blank": "Мой начальник — очень _____ человек и профессионал.",
+        "target_word": "хороший",
+        "translation": "My boss is a very good person and professional.",
+        "id": "ru_062_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хороший друг всегда поддержит в трудную минуту и разделит радость.",
+        "blank": "_____ друг всегда поддержит в трудную минуту и разделит радость.",
+        "target_word": "хороший",
+        "translation": "A good friend will always support you in difficult times and share your joy.",
+        "id": "ru_062_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "плохой": [
+      {
+        "sentence": "Сегодня плохой день, идёт дождь.",
+        "blank": "Сегодня _____ день, идёт дождь.",
+        "target_word": "плохой",
+        "translation": "Today is a bad day, it's raining.",
+        "id": "ru_063_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "У меня плохой настроение после трудного разговора.",
+        "blank": "У меня _____ настроение после трудного разговора.",
+        "target_word": "плохой",
+        "translation": "I'm in a bad mood after a difficult conversation.",
+        "id": "ru_063_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Плохой опыт тоже учит чему-то важному в жизни.",
+        "blank": "_____ опыт тоже учит чему-то важному в жизни.",
+        "target_word": "плохой",
+        "translation": "Bad experience also teaches something important in life.",
+        "id": "ru_063_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "новый": [
+      {
+        "sentence": "У меня новый компьютер для работы.",
+        "blank": "У меня _____ компьютер для работы.",
+        "target_word": "новый",
+        "translation": "I have a new computer for work.",
+        "id": "ru_064_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Завтра я начинаю новый проект в офисе.",
+        "blank": "Завтра я начинаю _____ проект в офисе.",
+        "target_word": "новый",
+        "translation": "Tomorrow I start a new project at the office.",
+        "id": "ru_064_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждый новый день даёт возможность начать всё заново.",
+        "blank": "Каждый _____ день даёт возможность начать всё заново.",
+        "target_word": "новый",
+        "translation": "Each new day gives an opportunity to start everything anew.",
+        "id": "ru_064_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "старый": [
+      {
+        "sentence": "Мой старый дом нуждается в ремонте.",
+        "blank": "Мой _____ дом нуждается в ремонте.",
+        "target_word": "старый",
+        "translation": "My old house needs repair.",
+        "id": "ru_065_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я встретил старый друга из университета вчера.",
+        "blank": "Я встретил _____ друга из университета вчера.",
+        "target_word": "старый",
+        "translation": "I met an old friend from university yesterday.",
+        "id": "ru_065_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Старый мудрец всегда говорил: опыт приходит с годами.",
+        "blank": "_____ мудрец всегда говорил: опыт приходит с годами.",
+        "target_word": "старый",
+        "translation": "The old wise man always said: experience comes with years.",
+        "id": "ru_065_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "красивый": [
+      {
+        "sentence": "Москва — очень красивый город.",
+        "blank": "Москва — очень _____ город.",
+        "target_word": "красивый",
+        "translation": "Moscow is a very beautiful city.",
+        "id": "ru_066_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я видел красивый закат над морем вчера вечером.",
+        "blank": "Я видел _____ закат над морем вчера вечером.",
+        "target_word": "красивый",
+        "translation": "I saw a beautiful sunset over the sea yesterday evening.",
+        "id": "ru_066_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самое красивое в человеке — это его душа и доброта.",
+        "blank": "Самое _____ в человеке — это его душа и доброта.",
+        "target_word": "красивый",
+        "translation": "The most beautiful thing in a person is their soul and kindness.",
+        "id": "ru_066_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "молодой": [
+      {
+        "sentence": "Мой молодой коллега работает очень хорошо.",
+        "blank": "Мой _____ коллега работает очень хорошо.",
+        "target_word": "молодой",
+        "translation": "My young colleague works very well.",
+        "id": "ru_067_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я чувствую себя молодой и энергичным каждое утро.",
+        "blank": "Я чувствую себя _____ и энергичным каждое утро.",
+        "target_word": "молодой",
+        "translation": "I feel young and energetic every morning.",
+        "id": "ru_067_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Молодой специалист должен много учиться у опытных коллег.",
+        "blank": "_____ специалист должен много учиться у опытных коллег.",
+        "target_word": "молодой",
+        "translation": "A young specialist should learn a lot from experienced colleagues.",
+        "id": "ru_067_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "длинный": [
+      {
+        "sentence": "У неё очень длинный волосы.",
+        "blank": "У неё очень _____ волосы.",
+        "target_word": "длинный",
+        "translation": "She has very long hair.",
+        "id": "ru_068_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Это был длинный день, полный важных встреч.",
+        "blank": "Это был _____ день, полный важных встреч.",
+        "target_word": "длинный",
+        "translation": "It was a long day full of important meetings.",
+        "id": "ru_068_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Длинный путь к успеху требует терпения и упорной работы.",
+        "blank": "_____ путь к успеху требует терпения и упорной работы.",
+        "target_word": "длинный",
+        "translation": "The long path to success requires patience and hard work.",
+        "id": "ru_068_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "короткий": [
+      {
+        "sentence": "Это очень короткий текст для чтения.",
+        "blank": "Это очень _____ текст для чтения.",
+        "target_word": "короткий",
+        "translation": "This is a very short text for reading.",
+        "id": "ru_069_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "У него короткий стрижка и борода.",
+        "blank": "У него _____ стрижка и борода.",
+        "target_word": "короткий",
+        "translation": "He has a short haircut and beard.",
+        "id": "ru_069_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Жизнь слишком короткая, чтобы тратить время на ненужное.",
+        "blank": "Жизнь слишком _____, чтобы тратить время на ненужное.",
+        "target_word": "короткий",
+        "translation": "Life is too short to waste time on unnecessary things.",
+        "id": "ru_069_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "высокий": [
+      {
+        "sentence": "Мой брат очень высокий человек.",
+        "blank": "Мой брат очень _____ человек.",
+        "target_word": "высокий",
+        "translation": "My brother is a very tall person.",
+        "id": "ru_070_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "В центре города стоит высокий небоскрёб.",
+        "blank": "В центре города стоит _____ небоскрёб.",
+        "target_word": "высокий",
+        "translation": "A tall skyscraper stands in the city center.",
+        "id": "ru_070_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Высокий уровень образования открывает больше возможностей.",
+        "blank": "_____ уровень образования открывает больше возможностей.",
+        "target_word": "высокий",
+        "translation": "A high level of education opens more opportunities.",
+        "id": "ru_070_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "низкий": [
+      {
+        "sentence": "Этот стол слишком низкий для меня.",
+        "blank": "Этот стол слишком _____ для меня.",
+        "target_word": "низкий",
+        "translation": "This table is too low for me.",
+        "id": "ru_071_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "У него низкий голос, похожий на бас.",
+        "blank": "У него _____ голос, похожий на бас.",
+        "target_word": "низкий",
+        "translation": "He has a low voice similar to a bass.",
+        "id": "ru_071_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Низкий уровень зарплаты не мотивирует сотрудников работать лучше.",
+        "blank": "_____ уровень зарплаты не мотивирует сотрудников работать лучше.",
+        "target_word": "низкий",
+        "translation": "A low salary level does not motivate employees to work better.",
+        "id": "ru_071_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "тёплый": [
+      {
+        "sentence": "Сегодня тёплый день, можно гулять.",
+        "blank": "Сегодня _____ день, можно гулять.",
+        "target_word": "тёплый",
+        "translation": "Today is a warm day, you can walk.",
+        "id": "ru_072_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю пить тёплый чай с мёдом.",
+        "blank": "Я люблю пить _____ чай с мёдом.",
+        "target_word": "тёплый",
+        "translation": "I like to drink warm tea with honey.",
+        "id": "ru_072_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Тёплый приём коллег помог мне быстро адаптироваться на новой работе.",
+        "blank": "_____ приём коллег помог мне быстро адаптироваться на новой работе.",
+        "target_word": "тёплый",
+        "translation": "The warm welcome from colleagues helped me adapt quickly to the new job.",
+        "id": "ru_072_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "холодный": [
+      {
+        "sentence": "Зимой в России очень холодный погода.",
+        "blank": "Зимой в России очень _____ погода.",
+        "target_word": "холодный",
+        "translation": "In winter in Russia the weather is very cold.",
+        "id": "ru_073_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю пить холодный вода летом.",
+        "blank": "Я люблю пить _____ вода летом.",
+        "target_word": "холодный",
+        "translation": "I like to drink cold water in summer.",
+        "id": "ru_073_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Холодный душ утром помогает проснуться и взбодриться.",
+        "blank": "_____ душ утром помогает проснуться и взбодриться.",
+        "target_word": "холодный",
+        "translation": "A cold shower in the morning helps you wake up and invigorate.",
+        "id": "ru_073_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "горячий": [
+      {
+        "sentence": "Будьте осторожны, кофе горячий!",
+        "blank": "Будьте осторожны, кофе _____!",
+        "target_word": "горячий",
+        "translation": "Be careful, the coffee is hot!",
+        "id": "ru_074_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю пить горячий чай зимой.",
+        "blank": "Я люблю пить _____ чай зимой.",
+        "target_word": "горячий",
+        "translation": "I like to drink hot tea in winter.",
+        "id": "ru_074_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Горячий спор между коллегами закончился компромиссом.",
+        "blank": "_____ спор между коллегами закончился компромиссом.",
+        "target_word": "горячий",
+        "translation": "A heated dispute between colleagues ended in a compromise.",
+        "id": "ru_074_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "быстрый": [
+      {
+        "sentence": "Мой компьютер очень быстрый и современный.",
+        "blank": "Мой компьютер очень _____ и современный.",
+        "target_word": "быстрый",
+        "translation": "My computer is very fast and modern.",
+        "id": "ru_075_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я нашёл быстрый способ решить эту проблему.",
+        "blank": "Я нашёл _____ способ решить эту проблему.",
+        "target_word": "быстрый",
+        "translation": "I found a quick way to solve this problem.",
+        "id": "ru_075_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В современном мире быстрый темп жизни требует постоянной адаптации.",
+        "blank": "В современном мире _____ темп жизни требует постоянной адаптации.",
+        "target_word": "быстрый",
+        "translation": "In the modern world, a fast pace of life requires constant adaptation.",
+        "id": "ru_075_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "медленный": [
+      {
+        "sentence": "Мой старый компьютер очень медленный.",
+        "blank": "Мой старый компьютер очень _____.",
+        "target_word": "медленный",
+        "translation": "My old computer is very slow.",
+        "id": "ru_076_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Медленный прогресс лучше, чем его отсутствие.",
+        "blank": "_____ прогресс лучше, чем его отсутствие.",
+        "target_word": "медленный",
+        "translation": "Slow progress is better than no progress.",
+        "id": "ru_076_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Иногда медленный подход к решению проблемы даёт лучший результат.",
+        "blank": "Иногда _____ подход к решению проблемы даёт лучший результат.",
+        "target_word": "медленный",
+        "translation": "Sometimes a slow approach to solving a problem gives better results.",
+        "id": "ru_076_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "лёгкий": [
+      {
+        "sentence": "Это очень лёгкий упражнение для начинающих.",
+        "blank": "Это очень _____ упражнение для начинающих.",
+        "target_word": "лёгкий",
+        "translation": "This is a very easy exercise for beginners.",
+        "id": "ru_077_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я нашёл лёгкий способ выучить новые слова.",
+        "blank": "Я нашёл _____ способ выучить новые слова.",
+        "target_word": "лёгкий",
+        "translation": "I found an easy way to learn new words.",
+        "id": "ru_077_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Лёгкий характер помогает заводить новых друзей и знакомых.",
+        "blank": "_____ характер помогает заводить новых друзей и знакомых.",
+        "target_word": "лёгкий",
+        "translation": "An easy-going character helps make new friends and acquaintances.",
+        "id": "ru_077_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "трудный": [
+      {
+        "sentence": "Это очень трудный экзамен по математике.",
+        "blank": "Это очень _____ экзамен по математике.",
+        "target_word": "трудный",
+        "translation": "This is a very difficult math exam.",
+        "id": "ru_078_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я решил трудный задачу после долгих размышлений.",
+        "blank": "Я решил _____ задачу после долгих размышлений.",
+        "target_word": "трудный",
+        "translation": "I solved a difficult task after long reflection.",
+        "id": "ru_078_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самый трудный период в моей карьере научил меня многому.",
+        "blank": "Самый _____ период в моей карьере научил меня многому.",
+        "target_word": "трудный",
+        "translation": "The most difficult period in my career taught me a lot.",
+        "id": "ru_078_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "белый": [
+      {
+        "sentence": "Зимой повсюду белый снег.",
+        "blank": "Зимой повсюду _____ снег.",
+        "target_word": "белый",
+        "translation": "In winter there is white snow everywhere.",
+        "id": "ru_079_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я купил новый белый рубашку для работы.",
+        "blank": "Я купил новый _____ рубашку для работы.",
+        "target_word": "белый",
+        "translation": "I bought a new white shirt for work.",
+        "id": "ru_079_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Белый цвет символизирует чистоту и новое начало.",
+        "blank": "_____ цвет символизирует чистоту и новое начало.",
+        "target_word": "белый",
+        "translation": "The white color symbolizes purity and a new beginning.",
+        "id": "ru_079_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "чёрный": [
+      {
+        "sentence": "Мой чёрный кот спит на диване.",
+        "blank": "Мой _____ кот спит на диване.",
+        "target_word": "чёрный",
+        "translation": "My black cat is sleeping on the couch.",
+        "id": "ru_080_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю пить чёрный кофе по утрам.",
+        "blank": "Я люблю пить _____ кофе по утрам.",
+        "target_word": "чёрный",
+        "translation": "I like to drink black coffee in the mornings.",
+        "id": "ru_080_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чёрный юмор не всем понятен и может обидеть некоторых людей.",
+        "blank": "_____ юмор не всем понятен и может обидеть некоторых людей.",
+        "target_word": "чёрный",
+        "translation": "Black humor is not understood by everyone and can offend some people.",
+        "id": "ru_080_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "красный": [
+      {
+        "sentence": "На площади стоит красный автобус.",
+        "blank": "На площади стоит _____ автобус.",
+        "target_word": "красный",
+        "translation": "A red bus stands on the square.",
+        "id": "ru_081_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я купил красный яблоко на рынке.",
+        "blank": "Я купил _____ яблоко на рынке.",
+        "target_word": "красный",
+        "translation": "I bought a red apple at the market.",
+        "id": "ru_081_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Красный цвет в России традиционно ассоциируется с красотой.",
+        "blank": "_____ цвет в России традиционно ассоциируется с красотой.",
+        "target_word": "красный",
+        "translation": "The red color in Russia is traditionally associated with beauty.",
+        "id": "ru_081_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "синий": [
+      {
+        "sentence": "Небо сегодня ясное и синий.",
+        "blank": "Небо сегодня ясное и _____.",
+        "target_word": "синий",
+        "translation": "The sky is clear and blue today.",
+        "id": "ru_082_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я купил новый синий костюм для работы.",
+        "blank": "Я купил новый _____ костюм для работы.",
+        "target_word": "синий",
+        "translation": "I bought a new blue suit for work.",
+        "id": "ru_082_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Синий цвет успокаивает нервную систему и помогает концентрироваться.",
+        "blank": "_____ цвет успокаивает нервную систему и помогает концентрироваться.",
+        "target_word": "синий",
+        "translation": "The blue color calms the nervous system and helps you concentrate.",
+        "id": "ru_082_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "зелёный": [
+      {
+        "sentence": "Весной все деревья зелёный и красивые.",
+        "blank": "Весной все деревья _____ и красивые.",
+        "target_word": "зелёный",
+        "translation": "In spring all the trees are green and beautiful.",
+        "id": "ru_083_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю гулять в зелёный парк летом.",
+        "blank": "Я люблю гулять в _____ парк летом.",
+        "target_word": "зелёный",
+        "translation": "I like to walk in the green park in summer.",
+        "id": "ru_083_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Зелёный цвет ассоциируется с природой, ростом и гармонией.",
+        "blank": "_____ цвет ассоциируется с природой, ростом и гармонией.",
+        "target_word": "зелёный",
+        "translation": "The green color is associated with nature, growth and harmony.",
+        "id": "ru_083_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "жёлтый": [
+      {
+        "sentence": "Осенью листья становятся жёлтый и красные.",
+        "blank": "Осенью листья становятся _____ и красные.",
+        "target_word": "жёлтый",
+        "translation": "In autumn the leaves turn yellow and red.",
+        "id": "ru_084_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я купил жёлтый цветы для мамы.",
+        "blank": "Я купил _____ цветы для мамы.",
+        "target_word": "жёлтый",
+        "translation": "I bought yellow flowers for mom.",
+        "id": "ru_084_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Жёлтый цвет символизирует солнце, радость и оптимизм.",
+        "blank": "_____ цвет символизирует солнце, радость и оптимизм.",
+        "target_word": "жёлтый",
+        "translation": "The yellow color symbolizes the sun, joy and optimism.",
+        "id": "ru_084_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "интересный": [
+      {
+        "sentence": "Я читаю очень интересный книгу сейчас.",
+        "blank": "Я читаю очень _____ книгу сейчас.",
+        "target_word": "интересный",
+        "translation": "I'm reading a very interesting book now.",
+        "id": "ru_085_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Вчера был интересный день, полный новых событий.",
+        "blank": "Вчера был _____ день, полный новых событий.",
+        "target_word": "интересный",
+        "translation": "Yesterday was an interesting day full of new events.",
+        "id": "ru_085_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самый интересный человек — тот, кто постоянно развивается и учится.",
+        "blank": "Самый _____ человек — тот, кто постоянно развивается и учится.",
+        "target_word": "интересный",
+        "translation": "The most interesting person is one who is constantly developing and learning.",
+        "id": "ru_085_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "скучный": [
+      {
+        "sentence": "Это очень скучный фильм, я засыпаю.",
+        "blank": "Это очень _____ фильм, я засыпаю.",
+        "target_word": "скучный",
+        "translation": "This is a very boring movie, I'm falling asleep.",
+        "id": "ru_086_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Сегодня был скучный день на работе без интересных задач.",
+        "blank": "Сегодня был _____ день на работе без интересных задач.",
+        "target_word": "скучный",
+        "translation": "Today was a boring day at work with no interesting tasks.",
+        "id": "ru_086_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Скучный разговор о погоде не вдохновляет на дальнейшее общение.",
+        "blank": "_____ разговор о погоде не вдохновляет на дальнейшее общение.",
+        "target_word": "скучный",
+        "translation": "A boring conversation about the weather does not inspire further communication.",
+        "id": "ru_086_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "весёлый": [
+      {
+        "sentence": "Мой друг очень весёлый человек.",
+        "blank": "Мой друг очень _____ человек.",
+        "target_word": "весёлый",
+        "translation": "My friend is a very cheerful person.",
+        "id": "ru_087_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Вчера был весёлый вечер с друзьями и музыкой.",
+        "blank": "Вчера был _____ вечер с друзьями и музыкой.",
+        "target_word": "весёлый",
+        "translation": "Yesterday was a fun evening with friends and music.",
+        "id": "ru_087_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Весёлый настрой помогает легче переносить трудности жизни.",
+        "blank": "_____ настрой помогает легче переносить трудности жизни.",
+        "target_word": "весёлый",
+        "translation": "A cheerful attitude helps you cope with life's difficulties more easily.",
+        "id": "ru_087_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "грустный": [
+      {
+        "sentence": "Сегодня грустный день, идёт дождь.",
+        "blank": "Сегодня _____ день, идёт дождь.",
+        "target_word": "грустный",
+        "translation": "Today is a sad day, it's raining.",
+        "id": "ru_088_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я смотрел грустный фильм и плакал.",
+        "blank": "Я смотрел _____ фильм и плакал.",
+        "target_word": "грустный",
+        "translation": "I watched a sad movie and cried.",
+        "id": "ru_088_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Грустный опыт расставания учит ценить настоящие отношения.",
+        "blank": "_____ опыт расставания учит ценить настоящие отношения.",
+        "target_word": "грустный",
+        "translation": "The sad experience of parting teaches you to value real relationships.",
+        "id": "ru_088_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "правильный": [
+      {
+        "sentence": "Это правильный ответ на вопрос.",
+        "blank": "Это _____ ответ на вопрос.",
+        "target_word": "правильный",
+        "translation": "This is the correct answer to the question.",
+        "id": "ru_089_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я нашёл правильный путь к решению проблемы.",
+        "blank": "Я нашёл _____ путь к решению проблемы.",
+        "target_word": "правильный",
+        "translation": "I found the right way to solve the problem.",
+        "id": "ru_089_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Правильный выбор профессии влияет на всю дальнейшую жизнь.",
+        "blank": "_____ выбор профессии влияет на всю дальнейшую жизнь.",
+        "target_word": "правильный",
+        "translation": "The right choice of profession affects your entire future life.",
+        "id": "ru_089_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "важный": [
+      {
+        "sentence": "Это очень важный документ для работы.",
+        "blank": "Это очень _____ документ для работы.",
+        "target_word": "важный",
+        "translation": "This is a very important document for work.",
+        "id": "ru_090_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Завтра у меня важный встреча с директором.",
+        "blank": "Завтра у меня _____ встреча с директором.",
+        "target_word": "важный",
+        "translation": "Tomorrow I have an important meeting with the director.",
+        "id": "ru_090_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самое важное в жизни — это здоровье, семья и любимая работа.",
+        "blank": "Самое _____ в жизни — это здоровье, семья и любимая работа.",
+        "target_word": "важный",
+        "translation": "The most important things in life are health, family and beloved work.",
+        "id": "ru_090_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "умный": [
+      {
+        "sentence": "Мой брат очень умный студент.",
+        "blank": "Мой брат очень _____ студент.",
+        "target_word": "умный",
+        "translation": "My brother is a very smart student.",
+        "id": "ru_091_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Умный человек учится на ошибках других людей.",
+        "blank": "_____ человек учится на ошибках других людей.",
+        "target_word": "умный",
+        "translation": "A smart person learns from other people's mistakes.",
+        "id": "ru_091_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Самый умный ответ иногда — это признание того, что не знаешь.",
+        "blank": "Самый _____ ответ иногда — это признание того, что не знаешь.",
+        "target_word": "умный",
+        "translation": "The smartest answer is sometimes admitting that you don't know.",
+        "id": "ru_091_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "город": [
+      {
+        "sentence": "Москва — большой и красивый город.",
+        "blank": "Москва — большой и красивый _____.",
+        "target_word": "город",
+        "translation": "Moscow is a big and beautiful city.",
+        "id": "ru_092_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю гулять по городу вечером.",
+        "blank": "Я люблю гулять по _____ вечером.",
+        "target_word": "город",
+        "translation": "I like to walk around the city in the evening.",
+        "id": "ru_092_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Современный город должен быть удобным для жизни всех граждан.",
+        "blank": "Современный _____ должен быть удобным для жизни всех граждан.",
+        "target_word": "город",
+        "translation": "A modern city should be convenient for all citizens to live in.",
+        "id": "ru_092_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "улица": [
+      {
+        "sentence": "Моя улица очень тихая и зелёная.",
+        "blank": "Моя _____ очень тихая и зелёная.",
+        "target_word": "улица",
+        "translation": "My street is very quiet and green.",
+        "id": "ru_093_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "На улица много людей гуляют вечером.",
+        "blank": "На _____ много людей гуляют вечером.",
+        "target_word": "улица",
+        "translation": "Many people walk on the street in the evening.",
+        "id": "ru_093_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Главная улица города полна магазинов, кафе и исторических зданий.",
+        "blank": "Главная _____ города полна магазинов, кафе и исторических зданий.",
+        "target_word": "улица",
+        "translation": "The main street of the city is full of shops, cafes and historic buildings.",
+        "id": "ru_093_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "магазин": [
+      {
+        "sentence": "Я иду в магазин купить хлеб.",
+        "blank": "Я иду в _____ купить хлеб.",
+        "target_word": "магазин",
+        "translation": "I'm going to the store to buy bread.",
+        "id": "ru_094_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Большой магазин находится недалеко от моего дома.",
+        "blank": "Большой _____ находится недалеко от моего дома.",
+        "target_word": "магазин",
+        "translation": "A large store is located not far from my house.",
+        "id": "ru_094_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В современном магазине можно найти все необходимое для жизни.",
+        "blank": "В современном _____ можно найти все необходимое для жизни.",
+        "target_word": "магазин",
+        "translation": "In a modern store you can find everything you need for life.",
+        "id": "ru_094_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "школа": [
+      {
+        "sentence": "Моя школа находится рядом с домом.",
+        "blank": "Моя _____ находится рядом с домом.",
+        "target_word": "школа",
+        "translation": "My school is located next to my house.",
+        "id": "ru_095_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждое утро дети идут в школа учиться.",
+        "blank": "Каждое утро дети идут в _____ учиться.",
+        "target_word": "школа",
+        "translation": "Every morning children go to school to learn.",
+        "id": "ru_095_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хорошая школа даёт не только знания, но и навыки для жизни.",
+        "blank": "Хорошая _____ даёт не только знания, но и навыки для жизни.",
+        "target_word": "школа",
+        "translation": "A good school gives not only knowledge, but also life skills.",
+        "id": "ru_095_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "больница": [
+      {
+        "sentence": "Городская больница работает круглосуточно.",
+        "blank": "Городская _____ работает круглосуточно.",
+        "target_word": "больница",
+        "translation": "The city hospital operates around the clock.",
+        "id": "ru_096_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я пошёл в больница на проверку здоровья.",
+        "blank": "Я пошёл в _____ на проверку здоровья.",
+        "target_word": "больница",
+        "translation": "I went to the hospital for a health checkup.",
+        "id": "ru_096_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Современная больница оснащена новейшим медицинским оборудованием.",
+        "blank": "Современная _____ оснащена новейшим медицинским оборудованием.",
+        "target_word": "больница",
+        "translation": "A modern hospital is equipped with the latest medical equipment.",
+        "id": "ru_096_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "ресторан": [
+      {
+        "sentence": "Новый ресторан открылся на нашей улице.",
+        "blank": "Новый _____ открылся на нашей улице.",
+        "target_word": "ресторан",
+        "translation": "A new restaurant opened on our street.",
+        "id": "ru_097_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Вчера мы ужинали в итальянском ресторан.",
+        "blank": "Вчера мы ужинали в итальянском _____.",
+        "target_word": "ресторан",
+        "translation": "Yesterday we had dinner at an Italian restaurant.",
+        "id": "ru_097_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хороший ресторан отличается не только едой, но и атмосферой.",
+        "blank": "Хороший _____ отличается не только едой, но и атмосферой.",
+        "target_word": "ресторан",
+        "translation": "A good restaurant is distinguished not only by food, but also by atmosphere.",
+        "id": "ru_097_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "кафе": [
+      {
+        "sentence": "Маленькое кафе находится на углу улицы.",
+        "blank": "Маленькое _____ находится на углу улицы.",
+        "target_word": "кафе",
+        "translation": "A small cafe is located on the corner of the street.",
+        "id": "ru_098_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я встречаюсь с друзьями в кафе каждую субботу.",
+        "blank": "Я встречаюсь с друзьями в _____ каждую субботу.",
+        "target_word": "кафе",
+        "translation": "I meet with friends at a cafe every Saturday.",
+        "id": "ru_098_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Уютное кафе с хорошим кофе — отличное место для работы.",
+        "blank": "Уютное _____ с хорошим кофе — отличное место для работы.",
+        "target_word": "кафе",
+        "translation": "A cozy cafe with good coffee is a great place to work.",
+        "id": "ru_098_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "метро": [
+      {
+        "sentence": "Я еду на работу на метро.",
+        "blank": "Я еду на работу на _____.",
+        "target_word": "метро",
+        "translation": "I go to work by metro.",
+        "id": "ru_099_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Московское метро — одно из самых красивых в мире.",
+        "blank": "Московское _____ — одно из самых красивых в мире.",
+        "target_word": "метро",
+        "translation": "The Moscow metro is one of the most beautiful in the world.",
+        "id": "ru_099_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Метро помогает избежать пробок и быстро добраться до нужного места.",
+        "blank": "_____ помогает избежать пробок и быстро добраться до нужного места.",
+        "target_word": "метро",
+        "translation": "The metro helps avoid traffic jams and quickly get to the right place.",
+        "id": "ru_099_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "автобус": [
+      {
+        "sentence": "Красный автобус едет по улице.",
+        "blank": "Красный _____ едет по улице.",
+        "target_word": "автобус",
+        "translation": "A red bus is going down the street.",
+        "id": "ru_100_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я жду автобус на остановке каждое утро.",
+        "blank": "Я жду _____ на остановке каждое утро.",
+        "target_word": "автобус",
+        "translation": "I wait for the bus at the stop every morning.",
+        "id": "ru_100_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Городской автобус — удобный и недорогой вид транспорта.",
+        "blank": "Городской _____ — удобный и недорогой вид транспорта.",
+        "target_word": "автобус",
+        "translation": "The city bus is a convenient and inexpensive mode of transport.",
+        "id": "ru_100_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "машина": [
+      {
+        "sentence": "Моя новая машина очень быстрая.",
+        "blank": "Моя новая _____ очень быстрая.",
+        "target_word": "машина",
+        "translation": "My new car is very fast.",
+        "id": "ru_101_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я еду на работу на машина каждый день.",
+        "blank": "Я еду на работу на _____ каждый день.",
+        "target_word": "машина",
+        "translation": "I drive to work by car every day.",
+        "id": "ru_101_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Собственная машина даёт свободу передвижения, но требует расходов.",
+        "blank": "Собственная _____ даёт свободу передвижения, но требует расходов.",
+        "target_word": "машина",
+        "translation": "Your own car gives freedom of movement, but requires expenses.",
+        "id": "ru_101_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "поезд": [
+      {
+        "sentence": "Быстрый поезд идёт в Москву.",
+        "blank": "Быстрый _____ идёт в Москву.",
+        "target_word": "поезд",
+        "translation": "A fast train is going to Moscow.",
+        "id": "ru_102_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я путешествую на поезд по России каждое лето.",
+        "blank": "Я путешествую на _____ по России каждое лето.",
+        "target_word": "поезд",
+        "translation": "I travel by train around Russia every summer.",
+        "id": "ru_102_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Ночной поезд — удобный способ добраться в другой город.",
+        "blank": "Ночной _____ — удобный способ добраться в другой город.",
+        "target_word": "поезд",
+        "translation": "A night train is a convenient way to get to another city.",
+        "id": "ru_102_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "самолёт": [
+      {
+        "sentence": "Большой самолёт летит в небе.",
+        "blank": "Большой _____ летит в небе.",
+        "target_word": "самолёт",
+        "translation": "A big plane is flying in the sky.",
+        "id": "ru_103_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я лечу на самолёт в Европу завтра.",
+        "blank": "Я лечу на _____ в Европу завтра.",
+        "target_word": "самолёт",
+        "translation": "I'm flying by plane to Europe tomorrow.",
+        "id": "ru_103_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Современный самолёт может лететь без остановки десять часов.",
+        "blank": "Современный _____ может лететь без остановки десять часов.",
+        "target_word": "самолёт",
+        "translation": "A modern plane can fly for ten hours non-stop.",
+        "id": "ru_103_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "деньги": [
+      {
+        "sentence": "Мне нужны деньги на покупку книг.",
+        "blank": "Мне нужны _____ на покупку книг.",
+        "target_word": "деньги",
+        "translation": "I need money to buy books.",
+        "id": "ru_104_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я коплю деньги на новый компьютер.",
+        "blank": "Я коплю _____ на новый компьютер.",
+        "target_word": "деньги",
+        "translation": "I'm saving money for a new computer.",
+        "id": "ru_104_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Деньги важны, но здоровье и семья важнее денег.",
+        "blank": "_____ важны, но здоровье и семья важнее денег.",
+        "target_word": "деньги",
+        "translation": "Money is important, but health and family are more important than money.",
+        "id": "ru_104_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "рубль": [
+      {
+        "sentence": "Это стоит сто рубль.",
+        "blank": "Это стоит сто _____.",
+        "target_word": "рубль",
+        "translation": "This costs one hundred rubles.",
+        "id": "ru_105_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я плачу рубль за проезд в автобусе.",
+        "blank": "Я плачу _____ за проезд в автобусе.",
+        "target_word": "рубль",
+        "translation": "I pay rubles for the bus ride.",
+        "id": "ru_105_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Российский рубль — национальная валюта Российской Федерации.",
+        "blank": "Российский _____ — национальная валюта Российской Федерации.",
+        "target_word": "рубль",
+        "translation": "The Russian ruble is the national currency of the Russian Federation.",
+        "id": "ru_105_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "чай": [
+      {
+        "sentence": "Я люблю пить горячий чай утром.",
+        "blank": "Я люблю пить горячий _____ утром.",
+        "target_word": "чай",
+        "translation": "I like to drink hot tea in the morning.",
+        "id": "ru_106_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Зелёный чай очень полезен для здоровья.",
+        "blank": "Зелёный _____ очень полезен для здоровья.",
+        "target_word": "чай",
+        "translation": "Green tea is very good for your health.",
+        "id": "ru_106_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "В России традиционно пьют чай с вареньем и сладостями.",
+        "blank": "В России традиционно пьют _____ с вареньем и сладостями.",
+        "target_word": "чай",
+        "translation": "In Russia, tea is traditionally drunk with jam and sweets.",
+        "id": "ru_106_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "кофе": [
+      {
+        "sentence": "Утром я всегда пью кофе.",
+        "blank": "Утром я всегда пью _____.",
+        "target_word": "кофе",
+        "translation": "In the morning I always drink coffee.",
+        "id": "ru_107_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Чёрный кофе помогает мне проснуться.",
+        "blank": "Чёрный _____ помогает мне проснуться.",
+        "target_word": "кофе",
+        "translation": "Black coffee helps me wake up.",
+        "id": "ru_107_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хороший кофе — это искусство, требующее знаний и опыта.",
+        "blank": "Хороший _____ — это искусство, требующее знаний и опыта.",
+        "target_word": "кофе",
+        "translation": "Good coffee is an art that requires knowledge and experience.",
+        "id": "ru_107_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "хлеб": [
+      {
+        "sentence": "Свежий хлеб очень вкусный.",
+        "blank": "Свежий _____ очень вкусный.",
+        "target_word": "хлеб",
+        "translation": "Fresh bread is very tasty.",
+        "id": "ru_108_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я покупаю хлеб в магазине каждое утро.",
+        "blank": "Я покупаю _____ в магазине каждое утро.",
+        "target_word": "хлеб",
+        "translation": "I buy bread at the store every morning.",
+        "id": "ru_108_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чёрный хлеб считается традиционным продуктом русской кухни.",
+        "blank": "Чёрный _____ считается традиционным продуктом русской кухни.",
+        "target_word": "хлеб",
+        "translation": "Black bread is considered a traditional product of Russian cuisine.",
+        "id": "ru_108_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "молоко": [
+      {
+        "sentence": "Холодное молоко стоит в холодильнике.",
+        "blank": "Холодное _____ стоит в холодильнике.",
+        "target_word": "молоко",
+        "translation": "Cold milk is standing in the refrigerator.",
+        "id": "ru_109_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я добавляю молоко в кофе каждое утро.",
+        "blank": "Я добавляю _____ в кофе каждое утро.",
+        "target_word": "молоко",
+        "translation": "I add milk to coffee every morning.",
+        "id": "ru_109_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Свежее молоко содержит много полезных витаминов и минералов.",
+        "blank": "Свежее _____ содержит много полезных витаминов и минералов.",
+        "target_word": "молоко",
+        "translation": "Fresh milk contains many useful vitamins and minerals.",
+        "id": "ru_109_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "мясо": [
+      {
+        "sentence": "Свежее мясо лежит на столе.",
+        "blank": "Свежее _____ лежит на столе.",
+        "target_word": "мясо",
+        "translation": "Fresh meat is lying on the table.",
+        "id": "ru_110_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я готовлю мясо с овощами на ужин.",
+        "blank": "Я готовлю _____ с овощами на ужин.",
+        "target_word": "мясо",
+        "translation": "I'm cooking meat with vegetables for dinner.",
+        "id": "ru_110_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Качественное мясо — важный источник белка в рационе человека.",
+        "blank": "Качественное _____ — важный источник белка в рационе человека.",
+        "target_word": "мясо",
+        "translation": "Quality meat is an important source of protein in a person's diet.",
+        "id": "ru_110_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "яблоко": [
+      {
+        "sentence": "Красное яблоко лежит на столе.",
+        "blank": "Красное _____ лежит на столе.",
+        "target_word": "яблоко",
+        "translation": "A red apple is lying on the table.",
+        "id": "ru_111_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я ем яблоко каждый день для здоровья.",
+        "blank": "Я ем _____ каждый день для здоровья.",
+        "target_word": "яблоко",
+        "translation": "I eat an apple every day for health.",
+        "id": "ru_111_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Свежее яблоко содержит много витаминов и полезных веществ.",
+        "blank": "Свежее _____ содержит много витаминов и полезных веществ.",
+        "target_word": "яблоко",
+        "translation": "A fresh apple contains many vitamins and nutrients.",
+        "id": "ru_111_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "рыба": [
+      {
+        "sentence": "Свежая рыба продаётся на рынке.",
+        "blank": "Свежая _____ продаётся на рынке.",
+        "target_word": "рыба",
+        "translation": "Fresh fish is sold at the market.",
+        "id": "ru_112_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю готовить рыба на гриле.",
+        "blank": "Я люблю готовить _____ на гриле.",
+        "target_word": "рыба",
+        "translation": "I like to cook fish on the grill.",
+        "id": "ru_112_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Морская рыба богата омега-3 жирными кислотами.",
+        "blank": "Морская _____ богата омега-3 жирными кислотами.",
+        "target_word": "рыба",
+        "translation": "Sea fish is rich in omega-3 fatty acids.",
+        "id": "ru_112_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "овощи": [
+      {
+        "sentence": "Свежие овощи лежат на столе.",
+        "blank": "Свежие _____ лежат на столе.",
+        "target_word": "овощи",
+        "translation": "Fresh vegetables are lying on the table.",
+        "id": "ru_113_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я ем овощи каждый день для здоровья.",
+        "blank": "Я ем _____ каждый день для здоровья.",
+        "target_word": "овощи",
+        "translation": "I eat vegetables every day for health.",
+        "id": "ru_113_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Свежие овощи содержат витамины, необходимые для организма.",
+        "blank": "Свежие _____ содержат витамины, необходимые для организма.",
+        "target_word": "овощи",
+        "translation": "Fresh vegetables contain vitamins necessary for the body.",
+        "id": "ru_113_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "фрукты": [
+      {
+        "sentence": "Спелые фрукты очень вкусные.",
+        "blank": "Спелые _____ очень вкусные.",
+        "target_word": "фрукты",
+        "translation": "Ripe fruits are very tasty.",
+        "id": "ru_114_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я покупаю фрукты на рынке каждую неделю.",
+        "blank": "Я покупаю _____ на рынке каждую неделю.",
+        "target_word": "фрукты",
+        "translation": "I buy fruits at the market every week.",
+        "id": "ru_114_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Тропические фрукты становятся всё более популярными в России.",
+        "blank": "Тропические _____ становятся всё более популярными в России.",
+        "target_word": "фрукты",
+        "translation": "Tropical fruits are becoming increasingly popular in Russia.",
+        "id": "ru_114_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "одежда": [
+      {
+        "sentence": "Чистая одежда висит в шкафу.",
+        "blank": "Чистая _____ висит в шкафу.",
+        "target_word": "одежда",
+        "translation": "Clean clothes are hanging in the closet.",
+        "id": "ru_115_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я покупаю новую одежда для зимы.",
+        "blank": "Я покупаю новую _____ для зимы.",
+        "target_word": "одежда",
+        "translation": "I'm buying new clothes for winter.",
+        "id": "ru_115_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Качественная одежда служит долго и выглядит хорошо.",
+        "blank": "Качественная _____ служит долго и выглядит хорошо.",
+        "target_word": "одежда",
+        "translation": "Quality clothing lasts long and looks good.",
+        "id": "ru_115_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "обувь": [
+      {
+        "sentence": "Новая обувь стоит у двери.",
+        "blank": "Новая _____ стоит у двери.",
+        "target_word": "обувь",
+        "translation": "New shoes are standing by the door.",
+        "id": "ru_116_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я ищу удобную обувь для ходьбы.",
+        "blank": "Я ищу удобную _____ для ходьбы.",
+        "target_word": "обувь",
+        "translation": "I'm looking for comfortable shoes for walking.",
+        "id": "ru_116_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хорошая обувь должна быть удобной и подходить по размеру.",
+        "blank": "Хорошая _____ должна быть удобной и подходить по размеру.",
+        "target_word": "обувь",
+        "translation": "Good shoes should be comfortable and fit properly.",
+        "id": "ru_116_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "погода": [
+      {
+        "sentence": "Сегодня хорошая погода для прогулки.",
+        "blank": "Сегодня хорошая _____ для прогулки.",
+        "target_word": "погода",
+        "translation": "Today is good weather for a walk.",
+        "id": "ru_117_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Завтра погода будет холодная и дождливая.",
+        "blank": "Завтра _____ будет холодная и дождливая.",
+        "target_word": "погода",
+        "translation": "Tomorrow the weather will be cold and rainy.",
+        "id": "ru_117_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Погода в России очень изменчива и непредсказуема.",
+        "blank": "_____ в России очень изменчива и непредсказуема.",
+        "target_word": "погода",
+        "translation": "The weather in Russia is very changeable and unpredictable.",
+        "id": "ru_117_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "дождь": [
+      {
+        "sentence": "Сегодня идёт сильный дождь.",
+        "blank": "Сегодня идёт сильный _____.",
+        "target_word": "дождь",
+        "translation": "Today there is heavy rain.",
+        "id": "ru_118_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не люблю гулять, когда идёт дождь.",
+        "blank": "Я не люблю гулять, когда идёт _____.",
+        "target_word": "дождь",
+        "translation": "I don't like to walk when it's raining.",
+        "id": "ru_118_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "После долгого дождь воздух становится свежим и чистым.",
+        "blank": "После долгого _____ воздух становится свежим и чистым.",
+        "target_word": "дождь",
+        "translation": "After a long rain, the air becomes fresh and clean.",
+        "id": "ru_118_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "снег": [
+      {
+        "sentence": "Зимой идёт белый снег.",
+        "blank": "Зимой идёт белый _____.",
+        "target_word": "снег",
+        "translation": "In winter, white snow falls.",
+        "id": "ru_119_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Дети любят играть в снег зимой.",
+        "blank": "Дети любят играть в _____ зимой.",
+        "target_word": "снег",
+        "translation": "Children love to play in the snow in winter.",
+        "id": "ru_119_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Первый снег обычно выпадает в России в ноябре.",
+        "blank": "Первый _____ обычно выпадает в России в ноябре.",
+        "target_word": "снег",
+        "translation": "The first snow usually falls in Russia in November.",
+        "id": "ru_119_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "солнце": [
+      {
+        "sentence": "Яркое солнце светит на небе.",
+        "blank": "Яркое _____ светит на небе.",
+        "target_word": "солнце",
+        "translation": "The bright sun is shining in the sky.",
+        "id": "ru_120_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю гулять, когда светит солнце.",
+        "blank": "Я люблю гулять, когда светит _____.",
+        "target_word": "солнце",
+        "translation": "I like to walk when the sun is shining.",
+        "id": "ru_120_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Солнце даёт нам свет, тепло и энергию для жизни.",
+        "blank": "_____ даёт нам свет, тепло и энергию для жизни.",
+        "target_word": "солнце",
+        "translation": "The sun gives us light, warmth and energy for life.",
+        "id": "ru_120_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "идти": [
+      {
+        "sentence": "Мне нужно идти на работу сейчас.",
+        "blank": "Мне нужно _____ на работу сейчас.",
+        "target_word": "идти",
+        "translation": "I need to go to work now.",
+        "id": "ru_121_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хочу идти в парк погулять вечером.",
+        "blank": "Я хочу _____ в парк погулять вечером.",
+        "target_word": "идти",
+        "translation": "I want to go to the park for a walk in the evening.",
+        "id": "ru_121_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Куда бы ни пришлось идти, я всегда буду помнить родной город.",
+        "blank": "Куда бы ни пришлось _____, я всегда буду помнить родной город.",
+        "target_word": "идти",
+        "translation": "Wherever I have to go, I will always remember my hometown.",
+        "id": "ru_121_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "ходить": [
+      {
+        "sentence": "Я люблю ходить в кино по выходным.",
+        "blank": "Я люблю _____ в кино по выходным.",
+        "target_word": "ходить",
+        "translation": "I like to go to the movies on weekends.",
+        "id": "ru_122_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Полезно ходить пешком каждый день для здоровья.",
+        "blank": "Полезно _____ пешком каждый день для здоровья.",
+        "target_word": "ходить",
+        "translation": "It's useful to walk every day for health.",
+        "id": "ru_122_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Я привык ходить на работу пешком, это помогает думать и планировать день.",
+        "blank": "Я привык _____ на работу пешком, это помогает думать и планировать день.",
+        "target_word": "ходить",
+        "translation": "I'm used to walking to work, it helps me think and plan my day.",
+        "id": "ru_122_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "есть": [
+      {
+        "sentence": "Я хочу есть что-то вкусное сегодня.",
+        "blank": "Я хочу _____ что-то вкусное сегодня.",
+        "target_word": "есть",
+        "translation": "I want to eat something tasty today.",
+        "id": "ru_123_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно есть здоровую пищу каждый день.",
+        "blank": "Нужно _____ здоровую пищу каждый день.",
+        "target_word": "есть",
+        "translation": "You need to eat healthy food every day.",
+        "id": "ru_123_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно есть регулярно и не пропускать завтрак.",
+        "blank": "Важно _____ регулярно и не пропускать завтрак.",
+        "target_word": "есть",
+        "translation": "It's important to eat regularly and not skip breakfast.",
+        "id": "ru_123_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "пить": [
+      {
+        "sentence": "Я хочу пить холодную воду.",
+        "blank": "Я хочу _____ холодную воду.",
+        "target_word": "пить",
+        "translation": "I want to drink cold water.",
+        "id": "ru_124_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Полезно пить много воды каждый день.",
+        "blank": "Полезно _____ много воды каждый день.",
+        "target_word": "пить",
+        "translation": "It's useful to drink a lot of water every day.",
+        "id": "ru_124_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Врачи рекомендуют пить не менее двух литров воды в день.",
+        "blank": "Врачи рекомендуют _____ не менее двух литров воды в день.",
+        "target_word": "пить",
+        "translation": "Doctors recommend drinking at least two liters of water a day.",
+        "id": "ru_124_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "спать": [
+      {
+        "sentence": "Я хочу спать после долгого дня.",
+        "blank": "Я хочу _____ после долгого дня.",
+        "target_word": "спать",
+        "translation": "I want to sleep after a long day.",
+        "id": "ru_125_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно спать восемь часов каждую ночь.",
+        "blank": "Нужно _____ восемь часов каждую ночь.",
+        "target_word": "спать",
+        "translation": "You need to sleep eight hours every night.",
+        "id": "ru_125_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чтобы хорошо спать, нужно проветривать комнату перед сном.",
+        "blank": "Чтобы хорошо _____, нужно проветривать комнату перед сном.",
+        "target_word": "спать",
+        "translation": "To sleep well, you need to ventilate the room before bed.",
+        "id": "ru_125_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "работать": [
+      {
+        "sentence": "Я люблю работать с интересными людьми.",
+        "blank": "Я люблю _____ с интересными людьми.",
+        "target_word": "работать",
+        "translation": "I like to work with interesting people.",
+        "id": "ru_126_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится работать над сложными проектами.",
+        "blank": "Мне нравится _____ над сложными проектами.",
+        "target_word": "работать",
+        "translation": "I like to work on complex projects.",
+        "id": "ru_126_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чтобы хорошо работать, нужны мотивация и комфортные условия.",
+        "blank": "Чтобы хорошо _____, нужны мотивация и комфортные условия.",
+        "target_word": "работать",
+        "translation": "To work well, you need motivation and comfortable conditions.",
+        "id": "ru_126_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "учиться": [
+      {
+        "sentence": "Я хочу учиться программированию.",
+        "blank": "Я хочу _____ программированию.",
+        "target_word": "учиться",
+        "translation": "I want to learn programming.",
+        "id": "ru_127_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно учиться всю жизнь и развиваться.",
+        "blank": "Важно _____ всю жизнь и развиваться.",
+        "target_word": "учиться",
+        "translation": "It's important to learn throughout life and develop.",
+        "id": "ru_127_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Никогда не поздно начать учиться чему-то новому и полезному.",
+        "blank": "Никогда не поздно начать _____ чему-то новому и полезному.",
+        "target_word": "учиться",
+        "translation": "It's never too late to start learning something new and useful.",
+        "id": "ru_127_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "читать": [
+      {
+        "sentence": "Я люблю читать интересные книги.",
+        "blank": "Я люблю _____ интересные книги.",
+        "target_word": "читать",
+        "translation": "I like to read interesting books.",
+        "id": "ru_128_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Полезно читать каждый день перед сном.",
+        "blank": "Полезно _____ каждый день перед сном.",
+        "target_word": "читать",
+        "translation": "It's useful to read every day before bed.",
+        "id": "ru_128_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение быстро читать и понимать текст — важный навык.",
+        "blank": "Умение быстро _____ и понимать текст — важный навык.",
+        "target_word": "читать",
+        "translation": "The ability to read quickly and understand text is an important skill.",
+        "id": "ru_128_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "писать": [
+      {
+        "sentence": "Я хочу писать статьи для журнала.",
+        "blank": "Я хочу _____ статьи для журнала.",
+        "target_word": "писать",
+        "translation": "I want to write articles for a magazine.",
+        "id": "ru_129_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится писать письма друзьям.",
+        "blank": "Мне нравится _____ письма друзьям.",
+        "target_word": "писать",
+        "translation": "I like to write letters to friends.",
+        "id": "ru_129_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение хорошо писать помогает в карьере и бизнесе.",
+        "blank": "Умение хорошо _____ помогает в карьере и бизнесе.",
+        "target_word": "писать",
+        "translation": "The ability to write well helps in career and business.",
+        "id": "ru_129_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "смотреть": [
+      {
+        "sentence": "Я люблю смотреть фильмы вечером.",
+        "blank": "Я люблю _____ фильмы вечером.",
+        "target_word": "смотреть",
+        "translation": "I like to watch movies in the evening.",
+        "id": "ru_130_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Интересно смотреть на звёзды ночью.",
+        "blank": "Интересно _____ на звёзды ночью.",
+        "target_word": "смотреть",
+        "translation": "It's interesting to look at the stars at night.",
+        "id": "ru_130_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно смотреть на вещи с разных точек зрения.",
+        "blank": "Важно _____ на вещи с разных точек зрения.",
+        "target_word": "смотреть",
+        "translation": "It's important to look at things from different perspectives.",
+        "id": "ru_130_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "слушать": [
+      {
+        "sentence": "Я люблю слушать музыку утром.",
+        "blank": "Я люблю _____ музыку утром.",
+        "target_word": "слушать",
+        "translation": "I like to listen to music in the morning.",
+        "id": "ru_131_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно слушать советы опытных людей.",
+        "blank": "Важно _____ советы опытных людей.",
+        "target_word": "слушать",
+        "translation": "It's important to listen to advice from experienced people.",
+        "id": "ru_131_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение слушать других — ключ к успешному общению.",
+        "blank": "Умение _____ других — ключ к успешному общению.",
+        "target_word": "слушать",
+        "translation": "The ability to listen to others is the key to successful communication.",
+        "id": "ru_131_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "жить": [
+      {
+        "sentence": "Я хочу жить в большом городе.",
+        "blank": "Я хочу _____ в большом городе.",
+        "target_word": "жить",
+        "translation": "I want to live in a big city.",
+        "id": "ru_132_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мне нравится жить рядом с парком.",
+        "blank": "Мне нравится _____ рядом с парком.",
+        "target_word": "жить",
+        "translation": "I like to live near the park.",
+        "id": "ru_132_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Главное в жизни — жить счастливо и делать то, что любишь.",
+        "blank": "Главное в жизни — _____ счастливо и делать то, что любишь.",
+        "target_word": "жить",
+        "translation": "The main thing in life is to live happily and do what you love.",
+        "id": "ru_132_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "любить": [
+      {
+        "sentence": "Я хочу любить и быть любимым.",
+        "blank": "Я хочу _____ и быть любимым.",
+        "target_word": "любить",
+        "translation": "I want to love and be loved.",
+        "id": "ru_133_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно любить свою работу и семью.",
+        "blank": "Важно _____ свою работу и семью.",
+        "target_word": "любить",
+        "translation": "It's important to love your work and family.",
+        "id": "ru_133_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение любить других начинается с любви к себе.",
+        "blank": "Умение _____ других начинается с любви к себе.",
+        "target_word": "любить",
+        "translation": "The ability to love others begins with love for yourself.",
+        "id": "ru_133_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "понимать": [
+      {
+        "sentence": "Я начинаю понимать русский язык лучше.",
+        "blank": "Я начинаю _____ русский язык лучше.",
+        "target_word": "понимать",
+        "translation": "I'm starting to understand Russian better.",
+        "id": "ru_134_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно понимать чувства других людей.",
+        "blank": "Важно _____ чувства других людей.",
+        "target_word": "понимать",
+        "translation": "It's important to understand other people's feelings.",
+        "id": "ru_134_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чтобы понимать культуру страны, нужно изучать её язык.",
+        "blank": "Чтобы _____ культуру страны, нужно изучать её язык.",
+        "target_word": "понимать",
+        "translation": "To understand a country's culture, you need to study its language.",
+        "id": "ru_134_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "думать": [
+      {
+        "sentence": "Я люблю думать о будущем.",
+        "blank": "Я люблю _____ о будущем.",
+        "target_word": "думать",
+        "translation": "I like to think about the future.",
+        "id": "ru_135_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Полезно думать позитивно каждый день.",
+        "blank": "Полезно _____ позитивно каждый день.",
+        "target_word": "думать",
+        "translation": "It's useful to think positively every day.",
+        "id": "ru_135_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение критически думать помогает принимать правильные решения.",
+        "blank": "Умение критически _____ помогает принимать правильные решения.",
+        "target_word": "думать",
+        "translation": "The ability to think critically helps make the right decisions.",
+        "id": "ru_135_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "помогать": [
+      {
+        "sentence": "Я люблю помогать другим людям.",
+        "blank": "Я люблю _____ другим людям.",
+        "target_word": "помогать",
+        "translation": "I like to help other people.",
+        "id": "ru_136_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно помогать родителям по дому.",
+        "blank": "Важно _____ родителям по дому.",
+        "target_word": "помогать",
+        "translation": "It's important to help parents around the house.",
+        "id": "ru_136_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Желание помогать нуждающимся делает человека лучше.",
+        "blank": "Желание _____ нуждающимся делает человека лучше.",
+        "target_word": "помогать",
+        "translation": "The desire to help those in need makes a person better.",
+        "id": "ru_136_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "покупать": [
+      {
+        "sentence": "Я люблю покупать новые книги.",
+        "blank": "Я люблю _____ новые книги.",
+        "target_word": "покупать",
+        "translation": "I like to buy new books.",
+        "id": "ru_137_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно покупать свежие продукты каждую неделю.",
+        "blank": "Нужно _____ свежие продукты каждую неделю.",
+        "target_word": "покупать",
+        "translation": "You need to buy fresh products every week.",
+        "id": "ru_137_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Лучше покупать качественные вещи, которые служат долго.",
+        "blank": "Лучше _____ качественные вещи, которые служат долго.",
+        "target_word": "покупать",
+        "translation": "It's better to buy quality things that last long.",
+        "id": "ru_137_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "продавать": [
+      {
+        "sentence": "Я хочу продавать свои картины.",
+        "blank": "Я хочу _____ свои картины.",
+        "target_word": "продавать",
+        "translation": "I want to sell my paintings.",
+        "id": "ru_138_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мой друг умеет продавать товары онлайн.",
+        "blank": "Мой друг умеет _____ товары онлайн.",
+        "target_word": "продавать",
+        "translation": "My friend knows how to sell goods online.",
+        "id": "ru_138_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Чтобы успешно продавать, нужно понимать потребности клиентов.",
+        "blank": "Чтобы успешно _____, нужно понимать потребности клиентов.",
+        "target_word": "продавать",
+        "translation": "To sell successfully, you need to understand customer needs.",
+        "id": "ru_138_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "открывать": [
+      {
+        "sentence": "Я люблю открывать новые места в городе.",
+        "blank": "Я люблю _____ новые места в городе.",
+        "target_word": "открывать",
+        "translation": "I like to discover new places in the city.",
+        "id": "ru_139_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно открывать окно каждое утро для свежего воздуха.",
+        "blank": "Нужно _____ окно каждое утро для свежего воздуха.",
+        "target_word": "открывать",
+        "translation": "You need to open the window every morning for fresh air.",
+        "id": "ru_139_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Мечтаю открывать собственный бизнес в будущем году.",
+        "blank": "Мечтаю _____ собственный бизнес в будущем году.",
+        "target_word": "открывать",
+        "translation": "I dream of opening my own business next year.",
+        "id": "ru_139_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "закрывать": [
+      {
+        "sentence": "Нужно закрывать дверь, когда уходишь.",
+        "blank": "Нужно _____ дверь, когда уходишь.",
+        "target_word": "закрывать",
+        "translation": "You need to close the door when you leave.",
+        "id": "ru_140_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я забыл закрывать окно перед дождём.",
+        "blank": "Я забыл _____ окно перед дождём.",
+        "target_word": "закрывать",
+        "translation": "I forgot to close the window before the rain.",
+        "id": "ru_140_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно закрывать все программы перед выключением компьютера.",
+        "blank": "Важно _____ все программы перед выключением компьютера.",
+        "target_word": "закрывать",
+        "translation": "It's important to close all programs before shutting down the computer.",
+        "id": "ru_140_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "начинать": [
+      {
+        "sentence": "Я хочу начинать новый проект завтра.",
+        "blank": "Я хочу _____ новый проект завтра.",
+        "target_word": "начинать",
+        "translation": "I want to start a new project tomorrow.",
+        "id": "ru_141_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Лучше начинать день с зарядки и завтрака.",
+        "blank": "Лучше _____ день с зарядки и завтрака.",
+        "target_word": "начинать",
+        "translation": "It's better to start the day with exercise and breakfast.",
+        "id": "ru_141_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Никогда не поздно начинать новую жизнь и менять привычки.",
+        "blank": "Никогда не поздно _____ новую жизнь и менять привычки.",
+        "target_word": "начинать",
+        "translation": "It's never too late to start a new life and change habits.",
+        "id": "ru_141_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "заканчивать": [
+      {
+        "sentence": "Я хочу заканчивать работу пораньше сегодня.",
+        "blank": "Я хочу _____ работу пораньше сегодня.",
+        "target_word": "заканчивать",
+        "translation": "I want to finish work early today.",
+        "id": "ru_142_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Важно заканчивать все начатые дела.",
+        "blank": "Важно _____ все начатые дела.",
+        "target_word": "заканчивать",
+        "translation": "It's important to finish all started tasks.",
+        "id": "ru_142_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение вовремя заканчивать проекты ценится работодателями.",
+        "blank": "Умение вовремя _____ проекты ценится работодателями.",
+        "target_word": "заканчивать",
+        "translation": "The ability to finish projects on time is valued by employers.",
+        "id": "ru_142_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "звонить": [
+      {
+        "sentence": "Мне нужно звонить маме сегодня.",
+        "blank": "Мне нужно _____ маме сегодня.",
+        "target_word": "звонить",
+        "translation": "I need to call mom today.",
+        "id": "ru_143_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я люблю звонить друзьям по выходным.",
+        "blank": "Я люблю _____ друзьям по выходным.",
+        "target_word": "звонить",
+        "translation": "I like to call friends on weekends.",
+        "id": "ru_143_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Лучше звонить клиентам утром, когда все на работе.",
+        "blank": "Лучше _____ клиентам утром, когда все на работе.",
+        "target_word": "звонить",
+        "translation": "It's better to call clients in the morning when everyone is at work.",
+        "id": "ru_143_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "ждать": [
+      {
+        "sentence": "Я не люблю ждать в очереди.",
+        "blank": "Я не люблю _____ в очереди.",
+        "target_word": "ждать",
+        "translation": "I don't like to wait in line.",
+        "id": "ru_144_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Приходится ждать автобус каждое утро.",
+        "blank": "Приходится _____ автобус каждое утро.",
+        "target_word": "ждать",
+        "translation": "I have to wait for the bus every morning.",
+        "id": "ru_144_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение терпеливо ждать — признак мудрости и самоконтроля.",
+        "blank": "Умение терпеливо _____ — признак мудрости и самоконтроля.",
+        "target_word": "ждать",
+        "translation": "The ability to wait patiently is a sign of wisdom and self-control.",
+        "id": "ru_144_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "брать": [
+      {
+        "sentence": "Можно брать книги из библиотеки.",
+        "blank": "Можно _____ книги из библиотеки.",
+        "target_word": "брать",
+        "translation": "You can borrow books from the library.",
+        "id": "ru_145_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я хочу брать отпуск летом каждый год.",
+        "blank": "Я хочу _____ отпуск летом каждый год.",
+        "target_word": "брать",
+        "translation": "I want to take vacation in summer every year.",
+        "id": "ru_145_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно брать ответственность за свои решения и действия.",
+        "blank": "Важно _____ ответственность за свои решения и действия.",
+        "target_word": "брать",
+        "translation": "It's important to take responsibility for your decisions and actions.",
+        "id": "ru_145_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "давать": [
+      {
+        "sentence": "Я люблю давать подарки друзьям.",
+        "blank": "Я люблю _____ подарки друзьям.",
+        "target_word": "давать",
+        "translation": "I like to give gifts to friends.",
+        "id": "ru_146_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Полезно давать советы, когда тебя просят.",
+        "blank": "Полезно _____ советы, когда тебя просят.",
+        "target_word": "давать",
+        "translation": "It's useful to give advice when you're asked.",
+        "id": "ru_146_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Хороший учитель умеет давать знания и вдохновлять учеников.",
+        "blank": "Хороший учитель умеет _____ знания и вдохновлять учеников.",
+        "target_word": "давать",
+        "translation": "A good teacher knows how to give knowledge and inspire students.",
+        "id": "ru_146_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "приходить": [
+      {
+        "sentence": "Я люблю приходить на работу рано.",
+        "blank": "Я люблю _____ на работу рано.",
+        "target_word": "приходить",
+        "translation": "I like to come to work early.",
+        "id": "ru_147_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно приходить на встречи вовремя.",
+        "blank": "Нужно _____ на встречи вовремя.",
+        "target_word": "приходить",
+        "translation": "You need to come to meetings on time.",
+        "id": "ru_147_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Лучшие идеи начинают приходить, когда отдыхаешь и расслабляешься.",
+        "blank": "Лучшие идеи начинают _____, когда отдыхаешь и расслабляешься.",
+        "target_word": "приходить",
+        "translation": "The best ideas start to come when you rest and relax.",
+        "id": "ru_147_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "уходить": [
+      {
+        "sentence": "Мне нужно уходить с работы сейчас.",
+        "blank": "Мне нужно _____ с работы сейчас.",
+        "target_word": "уходить",
+        "translation": "I need to leave work now.",
+        "id": "ru_148_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не хочу уходить с вечеринки так рано.",
+        "blank": "Я не хочу _____ с вечеринки так рано.",
+        "target_word": "уходить",
+        "translation": "I don't want to leave the party so early.",
+        "id": "ru_148_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Иногда лучше уходить от проблемы, чем пытаться её решить силой.",
+        "blank": "Иногда лучше _____ от проблемы, чем пытаться её решить силой.",
+        "target_word": "уходить",
+        "translation": "Sometimes it's better to walk away from a problem than to try to solve it by force.",
+        "id": "ru_148_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "находить": [
+      {
+        "sentence": "Я люблю находить новые кафе в городе.",
+        "blank": "Я люблю _____ новые кафе в городе.",
+        "target_word": "находить",
+        "translation": "I like to find new cafes in the city.",
+        "id": "ru_149_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Трудно находить время для хобби при занятости.",
+        "blank": "Трудно _____ время для хобби при занятости.",
+        "target_word": "находить",
+        "translation": "It's hard to find time for hobbies when you're busy.",
+        "id": "ru_149_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Умение находить компромиссы помогает в отношениях с людьми.",
+        "blank": "Умение _____ компромиссы помогает в отношениях с людьми.",
+        "target_word": "находить",
+        "translation": "The ability to find compromises helps in relationships with people.",
+        "id": "ru_149_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "терять": [
+      {
+        "sentence": "Я не хочу терять ключи от дома.",
+        "blank": "Я не хочу _____ ключи от дома.",
+        "target_word": "терять",
+        "translation": "I don't want to lose my house keys.",
+        "id": "ru_150_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Плохо терять важные документы и вещи.",
+        "blank": "Плохо _____ важные документы и вещи.",
+        "target_word": "терять",
+        "translation": "It's bad to lose important documents and things.",
+        "id": "ru_150_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Нельзя терять надежду даже в самых трудных ситуациях.",
+        "blank": "Нельзя _____ надежду даже в самых трудных ситуациях.",
+        "target_word": "терять",
+        "translation": "You must not lose hope even in the most difficult situations.",
+        "id": "ru_150_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "играть": [
+      {
+        "sentence": "Я люблю играть в футбол по выходным.",
+        "blank": "Я люблю _____ в футбол по выходным.",
+        "target_word": "играть",
+        "translation": "I like to play football on weekends.",
+        "id": "ru_151_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Дети любят играть в парке после школы.",
+        "blank": "Дети любят _____ в парке после школы.",
+        "target_word": "играть",
+        "translation": "Children love to play in the park after school.",
+        "id": "ru_151_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно играть по правилам и уважать соперников.",
+        "blank": "Важно _____ по правилам и уважать соперников.",
+        "target_word": "играть",
+        "translation": "It's important to play by the rules and respect opponents.",
+        "id": "ru_151_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "кто": [
+      {
+        "sentence": "Кто это стоит у двери?",
+        "blank": "_____ это стоит у двери?",
+        "target_word": "кто",
+        "translation": "Who is standing by the door?",
+        "id": "ru_152_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, кто позвонил мне вчера вечером.",
+        "blank": "Я не знаю, _____ позвонил мне вчера вечером.",
+        "target_word": "кто",
+        "translation": "I don't know who called me yesterday evening.",
+        "id": "ru_152_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Трудно понять, кто прав в этой сложной ситуации.",
+        "blank": "Трудно понять, _____ прав в этой сложной ситуации.",
+        "target_word": "кто",
+        "translation": "It's hard to understand who is right in this complicated situation.",
+        "id": "ru_152_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "что": [
+      {
+        "sentence": "Что ты делаешь сейчас?",
+        "blank": "_____ ты делаешь сейчас?",
+        "target_word": "что",
+        "translation": "What are you doing now?",
+        "id": "ru_153_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не понимаю, что происходит в офисе.",
+        "blank": "Я не понимаю, _____ происходит в офисе.",
+        "target_word": "что",
+        "translation": "I don't understand what is happening in the office.",
+        "id": "ru_153_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно знать, что именно тебе нужно для достижения цели.",
+        "blank": "Важно знать, _____ именно тебе нужно для достижения цели.",
+        "target_word": "что",
+        "translation": "It's important to know what exactly you need to achieve your goal.",
+        "id": "ru_153_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "где": [
+      {
+        "sentence": "Где находится ближайшее метро?",
+        "blank": "_____ находится ближайшее метро?",
+        "target_word": "где",
+        "translation": "Where is the nearest metro?",
+        "id": "ru_154_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я забыл, где оставил свои ключи утром.",
+        "blank": "Я забыл, _____ оставил свои ключи утром.",
+        "target_word": "где",
+        "translation": "I forgot where I left my keys in the morning.",
+        "id": "ru_154_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Трудно решить, где жить лучше — в городе или за городом.",
+        "blank": "Трудно решить, _____ жить лучше — в городе или за городом.",
+        "target_word": "где",
+        "translation": "It's hard to decide where it's better to live — in the city or outside the city.",
+        "id": "ru_154_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "когда": [
+      {
+        "sentence": "Когда начинается рабочий день?",
+        "blank": "_____ начинается рабочий день?",
+        "target_word": "когда",
+        "translation": "When does the workday start?",
+        "id": "ru_155_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не помню, когда в последний раз видел его.",
+        "blank": "Я не помню, _____ в последний раз видел его.",
+        "target_word": "когда",
+        "translation": "I don't remember when I last saw him.",
+        "id": "ru_155_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Никто не знает, когда закончится этот проект.",
+        "blank": "Никто не знает, _____ закончится этот проект.",
+        "target_word": "когда",
+        "translation": "Nobody knows when this project will end.",
+        "id": "ru_155_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "почему": [
+      {
+        "sentence": "Почему ты опоздал на встречу?",
+        "blank": "_____ ты опоздал на встречу?",
+        "target_word": "почему",
+        "translation": "Why were you late for the meeting?",
+        "id": "ru_156_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не понимаю, почему это так сложно.",
+        "blank": "Я не понимаю, _____ это так сложно.",
+        "target_word": "почему",
+        "translation": "I don't understand why this is so difficult.",
+        "id": "ru_156_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно спрашивать себя, почему ты принимаешь те или иные решения.",
+        "blank": "Важно спрашивать себя, _____ ты принимаешь те или иные решения.",
+        "target_word": "почему",
+        "translation": "It's important to ask yourself why you make certain decisions.",
+        "id": "ru_156_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "как": [
+      {
+        "sentence": "Как дела сегодня?",
+        "blank": "_____ дела сегодня?",
+        "target_word": "как",
+        "translation": "How are things today?",
+        "id": "ru_157_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, как решить эту проблему.",
+        "blank": "Я не знаю, _____ решить эту проблему.",
+        "target_word": "как",
+        "translation": "I don't know how to solve this problem.",
+        "id": "ru_157_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Нужно понять, как работает эта система перед использованием.",
+        "blank": "Нужно понять, _____ работает эта система перед использованием.",
+        "target_word": "как",
+        "translation": "You need to understand how this system works before using it.",
+        "id": "ru_157_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "сколько": [
+      {
+        "sentence": "Сколько стоит эта книга?",
+        "blank": "_____ стоит эта книга?",
+        "target_word": "сколько",
+        "translation": "How much does this book cost?",
+        "id": "ru_158_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, сколько времени это займёт.",
+        "blank": "Я не знаю, _____ времени это займёт.",
+        "target_word": "сколько",
+        "translation": "I don't know how much time this will take.",
+        "id": "ru_158_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Трудно сказать, сколько людей придёт на встречу завтра.",
+        "blank": "Трудно сказать, _____ людей придёт на встречу завтра.",
+        "target_word": "сколько",
+        "translation": "It's hard to say how many people will come to the meeting tomorrow.",
+        "id": "ru_158_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "какой": [
+      {
+        "sentence": "Какой твой любимый цвет?",
+        "blank": "_____ твой любимый цвет?",
+        "target_word": "какой",
+        "translation": "What is your favorite color?",
+        "id": "ru_159_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, какой путь выбрать.",
+        "blank": "Я не знаю, _____ путь выбрать.",
+        "target_word": "какой",
+        "translation": "I don't know which path to choose.",
+        "id": "ru_159_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Нужно решить, какой вариант будет лучшим для компании.",
+        "blank": "Нужно решить, _____ вариант будет лучшим для компании.",
+        "target_word": "какой",
+        "translation": "We need to decide which option will be best for the company.",
+        "id": "ru_159_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "куда": [
+      {
+        "sentence": "Куда ты идёшь сейчас?",
+        "blank": "_____ ты идёшь сейчас?",
+        "target_word": "куда",
+        "translation": "Where are you going now?",
+        "id": "ru_160_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, куда поехать в отпуск летом.",
+        "blank": "Я не знаю, _____ поехать в отпуск летом.",
+        "target_word": "куда",
+        "translation": "I don't know where to go on vacation in summer.",
+        "id": "ru_160_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно понимать, куда движется компания в будущем.",
+        "blank": "Важно понимать, _____ движется компания в будущем.",
+        "target_word": "куда",
+        "translation": "It's important to understand where the company is heading in the future.",
+        "id": "ru_160_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "откуда": [
+      {
+        "sentence": "Откуда ты родом?",
+        "blank": "_____ ты родом?",
+        "target_word": "откуда",
+        "translation": "Where are you from?",
+        "id": "ru_161_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я не знаю, откуда взялась эта информация.",
+        "blank": "Я не знаю, _____ взялась эта информация.",
+        "target_word": "откуда",
+        "translation": "I don't know where this information came from.",
+        "id": "ru_161_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Трудно понять, откуда берутся такие идеи у людей.",
+        "blank": "Трудно понять, _____ берутся такие идеи у людей.",
+        "target_word": "откуда",
+        "translation": "It's hard to understand where such ideas come from in people.",
+        "id": "ru_161_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "и": [
+      {
+        "sentence": "Я люблю чай и кофе.",
+        "blank": "Я люблю чай _____ кофе.",
+        "target_word": "и",
+        "translation": "I like tea and coffee.",
+        "id": "ru_162_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мы работали долго и усердно над проектом.",
+        "blank": "Мы работали долго _____ усердно над проектом.",
+        "target_word": "и",
+        "translation": "We worked long and hard on the project.",
+        "id": "ru_162_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Успех требует таланта и упорного труда одновременно.",
+        "blank": "Успех требует таланта _____ упорного труда одновременно.",
+        "target_word": "и",
+        "translation": "Success requires talent and hard work at the same time.",
+        "id": "ru_162_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "но": [
+      {
+        "sentence": "Я устал, но продолжаю работать.",
+        "blank": "Я устал, _____ продолжаю работать.",
+        "target_word": "но",
+        "translation": "I'm tired, but I continue working.",
+        "id": "ru_163_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Задача сложная, но выполнимая при усилиях.",
+        "blank": "Задача сложная, _____ выполнимая при усилиях.",
+        "target_word": "но",
+        "translation": "The task is difficult, but doable with effort.",
+        "id": "ru_163_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Мечты важны, но без действий они остаются просто мечтами.",
+        "blank": "Мечты важны, _____ без действий они остаются просто мечтами.",
+        "target_word": "но",
+        "translation": "Dreams are important, but without action they remain just dreams.",
+        "id": "ru_163_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "или": [
+      {
+        "sentence": "Ты хочешь чай или кофе?",
+        "blank": "Ты хочешь чай _____ кофе?",
+        "target_word": "или",
+        "translation": "Do you want tea or coffee?",
+        "id": "ru_164_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно решить: работать дома или в офисе.",
+        "blank": "Нужно решить: работать дома _____ в офисе.",
+        "target_word": "или",
+        "translation": "We need to decide: work from home or in the office.",
+        "id": "ru_164_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждый выбирает: быть счастливым или жаловаться на жизнь.",
+        "blank": "Каждый выбирает: быть счастливым _____ жаловаться на жизнь.",
+        "target_word": "или",
+        "translation": "Everyone chooses: to be happy or to complain about life.",
+        "id": "ru_164_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "потому что": [
+      {
+        "sentence": "Я устал, потому что много работал.",
+        "blank": "Я устал, _____ много работал.",
+        "target_word": "потому что",
+        "translation": "I'm tired because I worked a lot.",
+        "id": "ru_165_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я опоздал, потому что застрял в пробке.",
+        "blank": "Я опоздал, _____ застрял в пробке.",
+        "target_word": "потому что",
+        "translation": "I was late because I got stuck in traffic.",
+        "id": "ru_165_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Проект успешен, потому что команда работала слаженно.",
+        "blank": "Проект успешен, _____ команда работала слаженно.",
+        "target_word": "потому что",
+        "translation": "The project is successful because the team worked cohesively.",
+        "id": "ru_165_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "если": [
+      {
+        "sentence": "Если хочешь, можем пойти в кино.",
+        "blank": "_____ хочешь, можем пойти в кино.",
+        "target_word": "если",
+        "translation": "If you want, we can go to the movies.",
+        "id": "ru_166_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Если будет дождь, останемся дома сегодня.",
+        "blank": "_____ будет дождь, останемся дома сегодня.",
+        "target_word": "если",
+        "translation": "If it rains, we'll stay home today.",
+        "id": "ru_166_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Если не попробуешь, никогда не узнаешь результат.",
+        "blank": "_____ не попробуешь, никогда не узнаешь результат.",
+        "target_word": "если",
+        "translation": "If you don't try, you'll never know the result.",
+        "id": "ru_166_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "чтобы": [
+      {
+        "sentence": "Я учусь, чтобы получить диплом.",
+        "blank": "Я учусь, _____ получить диплом.",
+        "target_word": "чтобы",
+        "translation": "I study in order to get a diploma.",
+        "id": "ru_167_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Нужно много работать, чтобы достичь успеха.",
+        "blank": "Нужно много работать, _____ достичь успеха.",
+        "target_word": "чтобы",
+        "translation": "You need to work hard in order to achieve success.",
+        "id": "ru_167_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Важно планировать заранее, чтобы избежать проблем.",
+        "blank": "Важно планировать заранее, _____ избежать проблем.",
+        "target_word": "чтобы",
+        "translation": "It's important to plan ahead in order to avoid problems.",
+        "id": "ru_167_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "поэтому": [
+      {
+        "sentence": "Я устал, поэтому иду спать рано.",
+        "blank": "Я устал, _____ иду спать рано.",
+        "target_word": "поэтому",
+        "translation": "I'm tired, therefore I'm going to bed early.",
+        "id": "ru_168_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Шёл дождь, поэтому мы остались дома.",
+        "blank": "Шёл дождь, _____ мы остались дома.",
+        "target_word": "поэтому",
+        "translation": "It was raining, therefore we stayed home.",
+        "id": "ru_168_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Команда работала хорошо, поэтому проект завершился успешно.",
+        "blank": "Команда работала хорошо, _____ проект завершился успешно.",
+        "target_word": "поэтому",
+        "translation": "The team worked well, therefore the project ended successfully.",
+        "id": "ru_168_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "тоже": [
+      {
+        "sentence": "Я люблю кофе, и мой друг тоже.",
+        "blank": "Я люблю кофе, и мой друг _____.",
+        "target_word": "тоже",
+        "translation": "I like coffee, and my friend does too.",
+        "id": "ru_169_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Она говорит по-русски, я тоже учу русский.",
+        "blank": "Она говорит по-русски, я _____ учу русский.",
+        "target_word": "тоже",
+        "translation": "She speaks Russian, I'm also learning Russian.",
+        "id": "ru_169_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Все хотят успеха, но не все готовы работать, я тоже так думаю.",
+        "blank": "Все хотят успеха, но не все готовы работать, я _____ так думаю.",
+        "target_word": "тоже",
+        "translation": "Everyone wants success, but not everyone is ready to work, I also think so.",
+        "id": "ru_169_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "ещё": [
+      {
+        "sentence": "Я ещё не закончил работу сегодня.",
+        "blank": "Я _____ не закончил работу сегодня.",
+        "target_word": "ещё",
+        "translation": "I haven't finished work yet today.",
+        "id": "ru_170_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Можно ещё одну чашку кофе, пожалуйста?",
+        "blank": "Можно _____ одну чашку кофе, пожалуйста?",
+        "target_word": "ещё",
+        "translation": "Can I have one more cup of coffee, please?",
+        "id": "ru_170_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Проект ещё не готов, нужно ещё две недели работы.",
+        "blank": "Проект _____ не готов, нужно ещё две недели работы.",
+        "target_word": "ещё",
+        "translation": "The project is not ready yet, we need another two weeks of work.",
+        "id": "ru_170_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "общество": [
+      {
+        "sentence": "Современное общество быстро меняется.",
+        "blank": "Современное _____ быстро меняется.",
+        "target_word": "общество",
+        "translation": "Modern society is changing quickly.",
+        "id": "ru_171_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Наше общество становится всё более цифровым.",
+        "blank": "Наше _____ становится всё более цифровым.",
+        "target_word": "общество",
+        "translation": "Our society is becoming increasingly digital.",
+        "id": "ru_171_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Здоровое общество строится на взаимном уважении и понимании.",
+        "blank": "Здоровое _____ строится на взаимном уважении и понимании.",
+        "target_word": "общество",
+        "translation": "A healthy society is built on mutual respect and understanding.",
+        "id": "ru_171_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "культура": [
+      {
+        "sentence": "Русская культура очень богатая и интересная.",
+        "blank": "Русская _____ очень богатая и интересная.",
+        "target_word": "культура",
+        "translation": "Russian culture is very rich and interesting.",
+        "id": "ru_172_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я изучаю культура разных стран мира.",
+        "blank": "Я изучаю _____ разных стран мира.",
+        "target_word": "культура",
+        "translation": "I study the culture of different countries of the world.",
+        "id": "ru_172_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Понимание культура помогает лучше общаться с людьми.",
+        "blank": "Понимание _____ помогает лучше общаться с людьми.",
+        "target_word": "культура",
+        "translation": "Understanding culture helps communicate better with people.",
+        "id": "ru_172_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "образование": [
+      {
+        "sentence": "Хорошее образование очень важно в жизни.",
+        "blank": "Хорошее _____ очень важно в жизни.",
+        "target_word": "образование",
+        "translation": "Good education is very important in life.",
+        "id": "ru_173_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я получил высшее образование в университете.",
+        "blank": "Я получил высшее _____ в университете.",
+        "target_word": "образование",
+        "translation": "I received higher education at university.",
+        "id": "ru_173_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Качественное образование открывает двери к успешной карьере.",
+        "blank": "Качественное _____ открывает двери к успешной карьере.",
+        "target_word": "образование",
+        "translation": "Quality education opens doors to a successful career.",
+        "id": "ru_173_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "развитие": [
+      {
+        "sentence": "Развитие технологий меняет нашу жизнь.",
+        "blank": "_____ технологий меняет нашу жизнь.",
+        "target_word": "развитие",
+        "translation": "The development of technology is changing our lives.",
+        "id": "ru_174_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Постоянное развитие навыков помогает в карьере.",
+        "blank": "Постоянное _____ навыков помогает в карьере.",
+        "target_word": "развитие",
+        "translation": "Constant development of skills helps in career.",
+        "id": "ru_174_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Экономическое развитие страны зависит от многих факторов.",
+        "blank": "Экономическое _____ страны зависит от многих факторов.",
+        "target_word": "развитие",
+        "translation": "The economic development of a country depends on many factors.",
+        "id": "ru_174_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "здоровье": [
+      {
+        "sentence": "Моё здоровье в порядке сейчас.",
+        "blank": "Моё _____ в порядке сейчас.",
+        "target_word": "здоровье",
+        "translation": "My health is fine now.",
+        "id": "ru_175_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Я забочусь о своём здоровье каждый день.",
+        "blank": "Я забочусь о своём _____ каждый день.",
+        "target_word": "здоровье",
+        "translation": "I take care of my health every day.",
+        "id": "ru_175_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Здоровье — самое ценное, что есть у человека в жизни.",
+        "blank": "_____ — самое ценное, что есть у человека в жизни.",
+        "target_word": "здоровье",
+        "translation": "Health is the most valuable thing a person has in life.",
+        "id": "ru_175_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "окружающая среда": [
+      {
+        "sentence": "Чистая окружающая среда важна для жизни.",
+        "blank": "Чистая _____ важна для жизни.",
+        "target_word": "окружающая среда",
+        "translation": "A clean environment is important for life.",
+        "id": "ru_176_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Мы должны защищать окружающая среда для будущих поколений.",
+        "blank": "Мы должны защищать _____ для будущих поколений.",
+        "target_word": "окружающая среда",
+        "translation": "We must protect the environment for future generations.",
+        "id": "ru_176_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Загрязнение окружающая среда стало глобальной проблемой.",
+        "blank": "Загрязнение _____ стало глобальной проблемой.",
+        "target_word": "окружающая среда",
+        "translation": "Environmental pollution has become a global problem.",
+        "id": "ru_176_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "возможность": [
+      {
+        "sentence": "У меня есть возможность учиться за границей.",
+        "blank": "У меня есть _____ учиться за границей.",
+        "target_word": "возможность",
+        "translation": "I have the opportunity to study abroad.",
+        "id": "ru_177_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Эта работа даёт возможность профессионального роста.",
+        "blank": "Эта работа даёт _____ профессионального роста.",
+        "target_word": "возможность",
+        "translation": "This job provides an opportunity for professional growth.",
+        "id": "ru_177_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Каждая возможность в жизни — это шанс изменить будущее.",
+        "blank": "Каждая _____ в жизни — это шанс изменить будущее.",
+        "target_word": "возможность",
+        "translation": "Every opportunity in life is a chance to change the future.",
+        "id": "ru_177_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "отношение": [
+      {
+        "sentence": "Моё отношение к работе положительное.",
+        "blank": "Моё _____ к работе положительное.",
+        "target_word": "отношение",
+        "translation": "My attitude towards work is positive.",
+        "id": "ru_178_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Хорошее отношение к людям помогает в жизни.",
+        "blank": "Хорошее _____ к людям помогает в жизни.",
+        "target_word": "отношение",
+        "translation": "A good attitude towards people helps in life.",
+        "id": "ru_178_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Отношение человека к трудностям показывает его характер.",
+        "blank": "_____ человека к трудностям показывает его характер.",
+        "target_word": "отношение",
+        "translation": "A person's attitude towards difficulties shows their character.",
+        "id": "ru_178_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "изменение": [
+      {
+        "sentence": "Большое изменение произошло в моей жизни.",
+        "blank": "Большое _____ произошло в моей жизни.",
+        "target_word": "изменение",
+        "translation": "A big change happened in my life.",
+        "id": "ru_179_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Климатическое изменение влияет на всю планету.",
+        "blank": "Климатическое _____ влияет на всю планету.",
+        "target_word": "изменение",
+        "translation": "Climate change affects the entire planet.",
+        "id": "ru_179_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Любое изменение требует времени и усилий для адаптации.",
+        "blank": "Любое _____ требует времени и усилий для адаптации.",
+        "target_word": "изменение",
+        "translation": "Any change requires time and effort to adapt.",
+        "id": "ru_179_003",
+        "difficulty": "advanced"
+      }
+    ],
+    "достижение": [
+      {
+        "sentence": "Это большое достижение для нашей команды.",
+        "blank": "Это большое _____ для нашей команды.",
+        "target_word": "достижение",
+        "translation": "This is a great achievement for our team.",
+        "id": "ru_180_001",
+        "difficulty": "basic"
+      },
+      {
+        "sentence": "Каждое достижение начинается с первого шага.",
+        "blank": "Каждое _____ начинается с первого шага.",
+        "target_word": "достижение",
+        "translation": "Every achievement starts with the first step.",
+        "id": "ru_180_002",
+        "difficulty": "intermediate"
+      },
+      {
+        "sentence": "Настоящее достижение приходит через упорный труд и терпение.",
+        "blank": "Настоящее _____ приходит через упорный труд и терпение.",
+        "target_word": "достижение",
+        "translation": "True achievement comes through hard work and patience.",
+        "id": "ru_180_003",
+        "difficulty": "advanced"
+      }
+    ]
+  }
+}
