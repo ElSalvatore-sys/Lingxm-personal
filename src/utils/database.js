@@ -153,12 +153,130 @@ export class DatabaseManager {
 
     console.log('[DB] ✅ sentence_progress table ready');
 
+    // ========================================================================
+    // UNIVERSAL PROFILE SYSTEM TABLES (Phase 3: Dynamic User Profiles)
+    // ========================================================================
+
+    /**
+     * user_profiles - Master profile table for universal profile system
+     * Supports both classic (vahiko, hassan, etc.) and universal (user-created) profiles
+     *
+     * Profile Types:
+     * - 'classic': Hardcoded profiles from config.js (backward compatible)
+     * - 'universal': User-created profiles with dynamic configuration
+     *
+     * Schema Design:
+     * - profile_key: Unique identifier (e.g., 'vahiko', 'user_abc123')
+     * - profile_type: 'classic' or 'universal'
+     * - display_name: User-visible name
+     * - avatar_emoji: Profile avatar (e.g., '👨‍💻', '👩‍💼')
+     * - native_language: Primary UI/interface language (e.g., 'en', 'ar', 'ru')
+     * - interface_languages: JSON array of language codes for explanations
+     *   Example: ["en", "de"] means UI in English, secondary explanations in German
+     * - settings: JSON for preferences (theme, daily goals, etc.)
+     * - is_archived: Soft delete flag (0=active, 1=archived)
+     */
+    this.db.run(`
+      CREATE TABLE IF NOT EXISTS user_profiles (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        profile_key TEXT UNIQUE NOT NULL,
+        profile_type TEXT NOT NULL DEFAULT 'universal',
+        display_name TEXT NOT NULL,
+        avatar_emoji TEXT DEFAULT '👤',
+        native_language TEXT NOT NULL,
+        interface_languages TEXT NOT NULL,
+        created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        last_active TEXT DEFAULT CURRENT_TIMESTAMP,
+        settings TEXT DEFAULT '{}',
+        is_archived INTEGER DEFAULT 0,
+        CHECK (profile_type IN ('classic', 'universal'))
+      );
+    `);
+
+    /**
+     * profile_languages - Many-to-many relationship: profiles ↔ learning languages
+     * Each profile can learn multiple languages, each with different levels/specialties
+     *
+     * Schema Design:
+     * - profile_id: Foreign key to user_profiles.id
+     * - language_code: ISO 639-1 code (e.g., 'de', 'fr', 'es')
+     * - language_name: Display name (e.g., 'German', 'French', 'Spanish')
+     * - level_code: CEFR level (e.g., 'a1', 'b2', 'c1') or null for beginners
+     * - specialty: Domain-specific content (e.g., 'gastro', 'it', 'business')
+     * - daily_words: Target words per day for this language (default: 10)
+     * - is_active: Flag to enable/disable language without deletion
+     *
+     * Example Row:
+     * profile_id=5, language_code='de', level_code='c1', specialty='gastro', daily_words=15
+     * = User learning German at C1 level with gastronomy specialization, 15 words/day
+     */
+    this.db.run(`
+      CREATE TABLE IF NOT EXISTS profile_languages (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        profile_id INTEGER NOT NULL,
+        language_code TEXT NOT NULL,
+        language_name TEXT NOT NULL,
+        level_code TEXT,
+        specialty TEXT,
+        daily_words INTEGER DEFAULT 10,
+        is_active INTEGER DEFAULT 1,
+        added_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        FOREIGN KEY (profile_id) REFERENCES user_profiles(id) ON DELETE CASCADE,
+        UNIQUE(profile_id, language_code),
+        CHECK (level_code IN ('a1', 'a2', 'b1', 'b2', 'c1', 'c2', NULL)),
+        CHECK (daily_words > 0 AND daily_words <= 100),
+        CHECK (is_active IN (0, 1))
+      );
+    `);
+
+    /**
+     * proficiency_tests - Optional language level assessment results
+     * Stores results from quick or comprehensive proficiency tests
+     *
+     * Schema Design:
+     * - test_type: 'quick' (5-10 questions) or 'comprehensive' (30+ questions)
+     * - determined_level: Calculated CEFR level based on test score
+     * - score: Percentage score (0-100)
+     * - questions_total/questions_correct: Raw test data
+     *
+     * Usage:
+     * - User takes optional test when adding a new language
+     * - System recommends content based on determined_level
+     * - Test history helps track improvement over time
+     */
+    this.db.run(`
+      CREATE TABLE IF NOT EXISTS proficiency_tests (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        profile_id INTEGER NOT NULL,
+        language_code TEXT NOT NULL,
+        test_type TEXT NOT NULL DEFAULT 'quick',
+        determined_level TEXT NOT NULL,
+        score INTEGER,
+        questions_total INTEGER,
+        questions_correct INTEGER,
+        taken_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        FOREIGN KEY (profile_id) REFERENCES user_profiles(id) ON DELETE CASCADE,
+        CHECK (test_type IN ('quick', 'comprehensive')),
+        CHECK (determined_level IN ('a1', 'a2', 'b1', 'b2', 'c1', 'c2')),
+        CHECK (score >= 0 AND score <= 100)
+      );
+    `);
+
+    console.log('[DB] ✅ Universal profile tables ready (user_profiles, profile_languages, proficiency_tests)');
+
     // Create indexes for performance
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_progress_user_lang ON progress(user_id, language);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_saved_words_user ON saved_words(user_id);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_daily_stats_user_date ON daily_stats(user_id, date);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_user_positions_profile ON user_positions(profile_key, language);`);
     this.db.run(`CREATE INDEX IF NOT EXISTS idx_sentence_progress_user_lang ON sentence_progress(user_id, language);`);
+
+    // Indexes for universal profile tables
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_user_profiles_key ON user_profiles(profile_key);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_user_profiles_type ON user_profiles(profile_type, is_archived);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_profile_languages_profile ON profile_languages(profile_id);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_profile_languages_active ON profile_languages(profile_id, is_active);`);
+    this.db.run(`CREATE INDEX IF NOT EXISTS idx_proficiency_tests_profile ON proficiency_tests(profile_id, language_code);`);
   }
 
   // ============================================================================
@@ -913,3 +1031,11 @@ export class DatabaseManager {
 
 // Create singleton instance
 export const dbManager = new DatabaseManager();
+
+/**
+ * Get database instance (convenience function for onboarding and other modules)
+ */
+export async function getDatabase() {
+  await dbManager.init();
+  return dbManager;
+}

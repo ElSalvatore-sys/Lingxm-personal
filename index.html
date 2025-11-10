@@ -118,6 +118,7 @@
     </script>
 
     <link rel="stylesheet" href="./src/styles/main.css?v=7.0">
+    <link rel="stylesheet" href="./src/styles/onboarding.css?v=1.0">
 
     <!-- AGGRESSIVE CACHE BUSTING - iPhone & all browsers -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -634,6 +635,16 @@
                                 <input type="checkbox" id="autoplay-toggle">
                                 <span class="toggle-slider"></span>
                             </label>
+                        </div>
+
+                        <div class="setting-item" id="classic-mode-setting">
+                            <div class="setting-label">
+                                <span>🔄 Classic Mode</span>
+                                <p class="setting-description">Use pre-configured profiles (requires page reload)</p>
+                            </div>
+                            <button id="toggle-classic-mode-btn" class="setting-action-btn">
+                                Exit Classic Mode
+                            </button>
                         </div>
 
                         <div class="setting-item" id="pin-setting-item" style="display:none;">

@@ -7,6 +7,10 @@ import { AnalyticsManager } from './utils/analytics.js';
 import { PositionManager } from './utils/positionManager.js';
 import { dbManager } from './utils/database.js';
 import { sentenceManager } from './utils/sentenceManager.js';
+import { profileManager } from './utils/profileManager.js';
+import { migrationManager } from './utils/migration.js';
+import { localStorageManager } from './utils/localStorage.js';
+import { OnboardingManager } from './screens/onboarding/OnboardingManager.js';
 
 // ============================================
 // Global Database Initialization
@@ -54,6 +58,28 @@ class LingXMApp {
       console.error('❌ [INIT] Database initialization failed:', error);
     }
 
+    // Run migration to convert classic profiles to universal schema
+    try {
+      console.log('🔄 [INIT] Running profile migration...');
+      const migrationResult = await migrationManager.autoMigrate();
+
+      if (migrationResult.success) {
+        if (migrationResult.alreadyComplete) {
+          console.log('✅ [INIT] Migration already complete');
+        } else {
+          console.log('✅ [INIT] Profile migration complete', {
+            profiles: migrationResult.profilesMigrated,
+            languages: migrationResult.languagesMigrated
+          });
+        }
+      } else {
+        console.error('⚠️ [INIT] Migration completed with errors:', migrationResult);
+      }
+    } catch (error) {
+      console.error('❌ [INIT] Migration failed:', error);
+      // Continue despite migration failure - classic profiles will still work from config.js
+    }
+
     // Initialize aggressive version checking
     // DISABLED: Only use bootstrap check, not runtime checking
     // initVersionCheck();
@@ -61,36 +87,65 @@ class LingXMApp {
     await this.updateProfileProgressRings();
     this.setupEventListeners();
 
-    // Check for saved profile and restore it (enables persistence across refreshes)
-    const savedProfile = localStorage.getItem('lingxm-current-profile');
+    // Check for classic mode first
+    const isClassicMode = localStorage.getItem('lingxm-classic-mode') === 'true';
 
-    if (savedProfile && PROFILES[savedProfile]) {
-      console.log('🔄 [INIT] Restoring saved profile:', savedProfile);
+    if (isClassicMode) {
+      // Classic mode: Use hardcoded profiles only
+      console.log('🎯 [INIT] Classic mode active');
 
+      const savedProfile = localStorage.getItem('lingxm-current-profile');
+      if (savedProfile && PROFILES[savedProfile]) {
+        console.log('🔄 [INIT] Restoring classic profile:', savedProfile);
+        try {
+          await this.selectProfile(savedProfile);
+          console.log('✅ [INIT] Classic profile restored successfully');
+          this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: true, mode: 'classic' });
+          return;
+        } catch (error) {
+          console.error('❌ [INIT] Failed to restore classic profile:', error);
+        }
+      }
+
+      // No saved classic profile - show profile selection
+      this.showScreen('profile-selection');
+      this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: false, mode: 'classic' });
+      return;
+    }
+
+    // Universal mode: Check for onboarding completion
+    const onboardingShown = localStorage.getItem('lingxm-onboarding-shown');
+
+    if (!onboardingShown) {
+      // First-time user: Start onboarding
+      console.log('✨ [INIT] First-time user - starting onboarding');
+      this.onboardingManager = new OnboardingManager(this);
+      await this.onboardingManager.start();
+      this.analyticsManager.trackEvent('onboarding_started', { firstTime: true });
+      return;
+    }
+
+    // Onboarding completed: Check for active custom profile
+    const activeUserId = localStorage.getItem('lingxm-active-user');
+
+    if (activeUserId) {
+      console.log('🔄 [INIT] Restoring custom profile:', activeUserId);
       try {
-        // Restore profile (this will load vocabulary and show home screen)
-        await this.selectProfile(savedProfile);
-        console.log('✅ [INIT] Profile restored successfully');
-        this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: true });
-        return; // Exit early - selectProfile() already showed home screen
+        await this.loadCustomProfile(parseInt(activeUserId));
+        console.log('✅ [INIT] Custom profile restored successfully');
+        this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: true, mode: 'universal' });
+        return;
       } catch (error) {
-        console.error('❌ [INIT] Failed to restore profile:', error);
-        // Fall through to show profile selection
+        console.error('❌ [INIT] Failed to restore custom profile:', error);
+        // Fall through to re-onboarding
       }
     }
 
-    // No saved profile or restoration failed - show profile selection
-    console.log('ℹ️ [INIT] No saved profile, showing profile selection');
-
-    // Check for first-time visit - show welcome screen
-    const welcomeShown = localStorage.getItem('lingxm-welcome-shown');
-    if (!welcomeShown) {
-      this.showScreen('welcome-screen');
-      this.analyticsManager.trackEvent('app_opened', { firstTime: true });
-    } else {
-      this.showScreen('profile-selection');
-      this.analyticsManager.trackEvent('app_opened', { firstTime: false, restored: false });
-    }
+    // Edge case: Onboarding shown but no profile - restart onboarding
+    console.log('⚠️ [INIT] Onboarding incomplete - restarting');
+    this.onboardingManager = new OnboardingManager(this);
+    await this.onboardingManager.start();
+    this.analyticsManager.trackEvent('onboarding_restarted', { reason: 'no_profile' });
   }
 
   setupEventListeners() {
@@ -150,6 +205,11 @@ class LingXMApp {
     document.getElementById('autoplay-toggle')?.addEventListener('change', (e) => {
       this.autoPlayEnabled = e.target.checked;
       this.saveAutoPlaySetting();
+    });
+
+    // Classic mode toggle
+    document.getElementById('toggle-classic-mode-btn')?.addEventListener('click', () => {
+      this.toggleClassicMode();
     });
 
     // Language switcher
@@ -443,6 +503,117 @@ class LingXMApp {
 
     // Show home screen with navigation cards
     this.renderHomeScreen();
+  }
+
+  /**
+   * Load custom profile from database (universal profile system)
+   */
+  async loadCustomProfile(profileId) {
+    try {
+      console.log('[LOAD_CUSTOM_PROFILE] Loading profile:', profileId);
+
+      // Ensure database is ready
+      if (!this.database || !this.database.db) {
+        console.log('[LOAD_CUSTOM_PROFILE] Waiting for database...');
+        await this.database.init();
+      }
+
+      console.log('✅ [LOAD_CUSTOM_PROFILE] Database ready for profile ID:', profileId);
+
+      // Import profileManager
+      const { profileManager } = await import('./utils/profileManager.js');
+
+      // Initialize ProfileManager if not already initialized
+      if (!profileManager.db) {
+        await profileManager.init();
+      }
+
+      // Get profile with languages (NOW WORKS WITH NUMERIC ID!)
+      const profile = await profileManager.getProfile(profileId);
+
+      console.log('[LOAD_CUSTOM_PROFILE] ProfileManager returned:', profile);
+
+      if (!profile) {
+        throw new Error(`Profile ${profileId} not found in database`);
+      }
+
+      console.log('✅ [LOAD_CUSTOM_PROFILE] Profile loaded:', profile.display_name);
+
+      // Build learning languages array with flags
+      const learningLanguages = profile.learningLanguages.map(lang => ({
+        code: lang.languageCode,
+        name: lang.languageName,
+        level: lang.levelCode?.toUpperCase() || 'A1',
+        specialty: lang.specialty,
+        dailyWords: lang.dailyWords || 10,
+        flag: this.getFlagForLanguage(lang.languageCode)
+      }));
+
+      // Create profile object matching PROFILES structure
+      this.currentProfile = {
+        name: profile.display_name,
+        emoji: profile.avatar_emoji || '👤',
+        interfaceLanguages: profile.interface_languages || [profile.native_language],
+        learningLanguages: learningLanguages,
+        totalDailyWords: learningLanguages.reduce((sum, lang) => sum + lang.dailyWords, 0)
+      };
+
+      console.log('✅ [LOAD_CUSTOM_PROFILE] Current profile set:', this.currentProfile.name);
+
+      // Set profile key for progress tracking
+      this.profileKey = profile.profile_key || `user_${profileId}`;
+
+      // Initialize progress tracker and achievement manager
+      this.progressTracker = new ProgressTracker(this.profileKey);
+      this.achievementManager = new AchievementManager(this.profileKey);
+
+      // Initialize database and load progress
+      await this.progressTracker.initDatabase();
+
+      // Pass database to PositionManager
+      if (this.progressTracker.useDatabase && this.progressTracker.database) {
+        this.positionManager.database = this.progressTracker.database;
+        console.log('🔗 [PositionManager] Database connected');
+      }
+
+      // Start analytics session
+      this.analyticsManager.startSession(this.profileKey);
+
+      // Load word data for this profile
+      await this.loadWordData();
+
+      // Persist profile selection to localStorage
+      localStorage.setItem('lingxm-active-user', profileId.toString());
+      localStorage.setItem('lingxm-profile-key', this.profileKey);
+      localStorage.setItem('lingxm-profile-timestamp', Date.now().toString());
+      console.log('💾 [PERSIST] Custom profile saved to localStorage:', profileId);
+
+      // Show home screen
+      this.renderHomeScreen();
+
+      console.log('✅ [LOAD_CUSTOM_PROFILE] Complete! Home screen shown.');
+
+    } catch (error) {
+      console.error('❌ [LOAD_CUSTOM_PROFILE] Error loading profile:', error);
+      console.error('❌ [LOAD_CUSTOM_PROFILE] Stack:', error.stack);
+
+      // Fallback: Show onboarding again
+      alert('Error loading profile. Please try again or use Classic Mode.');
+      localStorage.removeItem('lingxm-active-user');
+      localStorage.removeItem('lingxm-onboarding-complete');
+      window.location.reload();
+    }
+  }
+
+  /**
+   * Get flag emoji for language code
+   */
+  getFlagForLanguage(code) {
+    const flags = {
+      en: '🇬🇧', de: '🇩🇪', ar: '🇸🇦', pl: '🇵🇱',
+      fr: '🇫🇷', fa: '🇮🇷', it: '🇮🇹', ru: '🇷🇺'
+    };
+    return flags[code] || '🌐';
   }
 
   /**
@@ -1010,6 +1181,40 @@ class LingXMApp {
         pinSettingItem.style.display = 'none';
       }
     }
+
+    // Update classic mode button
+    const classicModeSetting = document.getElementById('classic-mode-setting');
+    const classicModeBtn = document.getElementById('toggle-classic-mode-btn');
+    if (classicModeSetting && classicModeBtn) {
+      const isClassicMode = localStorage.getItem('lingxm-classic-mode') === 'true';
+      classicModeSetting.style.display = 'flex';
+      classicModeBtn.textContent = isClassicMode ? 'Exit Classic Mode' : 'Enter Classic Mode';
+    }
+  }
+
+  toggleClassicMode() {
+    const isClassicMode = localStorage.getItem('lingxm-classic-mode') === 'true';
+
+    if (isClassicMode) {
+      // Exit classic mode
+      localStorage.removeItem('lingxm-classic-mode');
+      localStorage.removeItem('lingxm-current-profile');
+      this.analyticsManager.trackEvent('classic_mode_toggled', { enabled: false });
+    } else {
+      // Enter classic mode
+      localStorage.setItem('lingxm-classic-mode', 'true');
+      localStorage.removeItem('lingxm-active-user');
+      localStorage.removeItem('lingxm-profile-key');
+      this.analyticsManager.trackEvent('classic_mode_toggled', { enabled: true });
+    }
+
+    // Show confirmation and reload
+    const message = isClassicMode
+      ? 'Classic mode disabled. The page will reload to show universal onboarding.'
+      : 'Classic mode enabled. The page will reload to show classic profiles.';
+
+    alert(message);
+    window.location.reload();
   }
 
   toggleAutoPlay() {
