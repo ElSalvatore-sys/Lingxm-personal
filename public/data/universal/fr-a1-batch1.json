@@ -1,0 +1,2002 @@
+[
+  {
+    "word_fr": "je",
+    "translations": {
+      "ar": "أنا",
+      "de": "ich",
+      "en": "I",
+      "fa": "من",
+      "ru": "я",
+      "fr": "je",
+      "it": "io",
+      "es": "yo",
+      "pt": "eu"
+    },
+    "explanation": {
+      "ar": "ضمير المتكلم المفرد",
+      "de": "Personalpronomen erste Person Singular",
+      "en": "First person singular pronoun",
+      "fa": "ضمیر اول شخص مفرد",
+      "ru": "Личное местоимение первого лица единственного числа",
+      "fr": "Pronom personnel première personne du singulier",
+      "it": "Pronome personale prima persona singolare",
+      "es": "Pronombre personal primera persona singular",
+      "pt": "Pronome pessoal primeira pessoa singular"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Je suis étudiant.", "أنا طالب."],
+      "de": ["Je suis heureux.", "Ich bin glücklich."],
+      "en": ["Je parle français.", "I speak French."],
+      "fa": ["Je m'appelle Marie.", "اسم من ماری است."],
+      "ru": ["Je viens de Paris.", "Я из Парижа."],
+      "fr": ["Je mange une pomme.", "Je mange une pomme."],
+      "it": ["Je lis un livre.", "Leggo un libro."],
+      "es": ["Je travaille ici.", "Trabajo aquí."],
+      "pt": ["Je dors maintenant.", "Durmo agora."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "tu",
+    "translations": {
+      "ar": "أنت",
+      "de": "du",
+      "en": "you",
+      "fa": "تو",
+      "ru": "ты",
+      "fr": "tu",
+      "it": "tu",
+      "es": "tú",
+      "pt": "tu"
+    },
+    "explanation": {
+      "ar": "ضمير المخاطب المفرد غير الرسمي",
+      "de": "Personalpronomen zweite Person Singular informell",
+      "en": "Informal second person singular pronoun",
+      "fa": "ضمیر دوم شخص مفرد غیررسمی",
+      "ru": "Личное местоимение второго лица единственного числа неформальное",
+      "fr": "Pronom personnel deuxième personne du singulier informel",
+      "it": "Pronome personale seconda persona singolare informale",
+      "es": "Pronombre personal segunda persona singular informal",
+      "pt": "Pronome pessoal segunda pessoa singular informal"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Tu es mon ami.", "أنت صديقي."],
+      "de": ["Tu parles bien.", "Du sprichst gut."],
+      "en": ["Tu habites où?", "Where do you live?"],
+      "fa": ["Tu as quel âge?", "چند ساله هستی؟"],
+      "ru": ["Tu comprends?", "Ты понимаешь?"],
+      "fr": ["Tu viens avec moi?", "Tu viens avec moi?"],
+      "it": ["Tu sei italiano?", "Sei italiano?"],
+      "es": ["Tu aimes le chocolat?", "¿Te gusta el chocolate?"],
+      "pt": ["Tu veux manger?", "Queres comer?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "il",
+    "translations": {
+      "ar": "هو",
+      "de": "er",
+      "en": "he",
+      "fa": "او (مذکر)",
+      "ru": "он",
+      "fr": "il",
+      "it": "lui",
+      "es": "él",
+      "pt": "ele"
+    },
+    "explanation": {
+      "ar": "ضمير الغائب المذكر المفرد",
+      "de": "Personalpronomen dritte Person Singular maskulin",
+      "en": "Masculine third person singular pronoun",
+      "fa": "ضمیر سوم شخص مفرد مذکر",
+      "ru": "Личное местоимение третьего лица единственного числа мужского рода",
+      "fr": "Pronom personnel troisième personne du singulier masculin",
+      "it": "Pronome personale terza persona singolare maschile",
+      "es": "Pronombre personal tercera persona singular masculino",
+      "pt": "Pronome pessoal terceira pessoa singular masculino"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Il est médecin.", "هو طبيب."],
+      "de": ["Il mange une pomme.", "Er isst einen Apfel."],
+      "en": ["Il parle français.", "He speaks French."],
+      "fa": ["Il habite à Paris.", "او در پاریس زندگی می‌کند."],
+      "ru": ["Il travaille beaucoup.", "Он много работает."],
+      "fr": ["Il aime le sport.", "Il aime le sport."],
+      "it": ["Il va à l'école.", "Va a scuola."],
+      "es": ["Il lit un journal.", "Lee un periódico."],
+      "pt": ["Il dort maintenant.", "Ele dorme agora."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "elle",
+    "translations": {
+      "ar": "هي",
+      "de": "sie",
+      "en": "she",
+      "fa": "او (مؤنث)",
+      "ru": "она",
+      "fr": "elle",
+      "it": "lei",
+      "es": "ella",
+      "pt": "ela"
+    },
+    "explanation": {
+      "ar": "ضمير الغائب المؤنث المفرد",
+      "de": "Personalpronomen dritte Person Singular feminin",
+      "en": "Feminine third person singular pronoun",
+      "fa": "ضمیر سوم شخص مفرد مؤنث",
+      "ru": "Личное местоимение третьего лица единственного числа женского рода",
+      "fr": "Pronom personnel troisième personne du singulier féminin",
+      "it": "Pronome personale terza persona singolare femminile",
+      "es": "Pronombre personal tercera persona singular femenino",
+      "pt": "Pronome pessoal terceira pessoa singular feminino"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Elle est professeure.", "هي معلمة."],
+      "de": ["Elle chante bien.", "Sie singt gut."],
+      "en": ["Elle est belle.", "She is beautiful."],
+      "fa": ["Elle habite en France.", "او در فرانسه زندگی می‌کند."],
+      "ru": ["Elle parle trois langues.", "Она говорит на трёх языках."],
+      "fr": ["Elle aime lire.", "Elle aime lire."],
+      "it": ["Elle travaille ici.", "Lavora qui."],
+      "es": ["Elle mange des fruits.", "Come frutas."],
+      "pt": ["Elle danse très bien.", "Ela dança muito bem."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "ce",
+    "translations": {
+      "ar": "هذا",
+      "de": "dies, das",
+      "en": "this, it",
+      "fa": "این",
+      "ru": "это",
+      "fr": "ce, ceci",
+      "it": "questo, ciò",
+      "es": "esto",
+      "pt": "isto"
+    },
+    "explanation": {
+      "ar": "ضمير أو صفة إشارة",
+      "de": "Demonstrativpronomen oder Demonstrativbegleiter",
+      "en": "Demonstrative pronoun or determiner",
+      "fa": "ضمیر یا صفت اشاره",
+      "ru": "Указательное местоимение",
+      "fr": "Pronom ou adjectif démonstratif",
+      "it": "Pronome o aggettivo dimostrativo",
+      "es": "Pronombre o determinante demostrativo",
+      "pt": "Pronome ou determinante demonstrativo"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Ce livre est intéressant.", "هذا الكتاب مثير للاهتمام."],
+      "de": ["Ce n'est pas grave.", "Das ist nicht schlimm."],
+      "en": ["Ce qui est important.", "What is important."],
+      "fa": ["Ce film est bon.", "این فیلم خوب است."],
+      "ru": ["Ce sont mes amis.", "Это мои друзья."],
+      "fr": ["Ce que tu dis est vrai.", "Ce que tu dis est vrai."],
+      "it": ["Ce restaurant est excellent.", "Questo ristorante è eccellente."],
+      "es": ["C'est difficile.", "Es difícil."],
+      "pt": ["Ce chat est mignon.", "Este gato é fofo."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "nous",
+    "translations": {
+      "ar": "نحن",
+      "de": "wir",
+      "en": "we",
+      "fa": "ما",
+      "ru": "мы",
+      "fr": "nous",
+      "it": "noi",
+      "es": "nosotros",
+      "pt": "nós"
+    },
+    "explanation": {
+      "ar": "ضمير المتكلم الجمع",
+      "de": "Personalpronomen erste Person Plural",
+      "en": "First person plural pronoun",
+      "fa": "ضمیر اول شخص جمع",
+      "ru": "Личное местоимение первого лица множественного числа",
+      "fr": "Pronom personnel première personne du pluriel",
+      "it": "Pronome personale prima persona plurale",
+      "es": "Pronombre personal primera persona plural",
+      "pt": "Pronome pessoal primeira pessoa plural"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Nous sommes étudiants.", "نحن طلاب."],
+      "de": ["Nous parlons français.", "Wir sprechen Französisch."],
+      "en": ["We are friends.", "We are friends."],
+      "fa": ["Nous habitons à Lyon.", "ما در لیون زندگی می‌کنیم."],
+      "ru": ["Nous aimons voyager.", "Мы любим путешествовать."],
+      "fr": ["Nous mangeons ensemble.", "Nous mangeons ensemble."],
+      "it": ["Nous allons au cinéma.", "Andiamo al cinema."],
+      "es": ["Nous travaillons ici.", "Trabajamos aquí."],
+      "pt": ["Nous étudions le français.", "Estudamos francês."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "vous",
+    "translations": {
+      "ar": "أنتم / أنت (رسمي)",
+      "de": "ihr / Sie",
+      "en": "you (plural/formal)",
+      "fa": "شما",
+      "ru": "вы",
+      "fr": "vous",
+      "it": "voi / Lei",
+      "es": "vosotros / usted",
+      "pt": "vocês / você"
+    },
+    "explanation": {
+      "ar": "ضمير المخاطب الجمع أو المفرد الرسمي",
+      "de": "Personalpronomen zweite Person Plural oder formell Singular",
+      "en": "Second person plural or formal singular pronoun",
+      "fa": "ضمیر دوم شخص جمع یا مفرد رسمی",
+      "ru": "Личное местоимение второго лица множественного числа или вежливой формы",
+      "fr": "Pronom personnel deuxième personne du pluriel ou forme polie",
+      "it": "Pronome personale seconda persona plurale o forma di cortesia",
+      "es": "Pronombre personal segunda persona plural o formal",
+      "pt": "Pronome pessoal segunda pessoa plural ou formal"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Vous êtes gentils.", "أنتم لطفاء."],
+      "de": ["Vous parlez français?", "Sprechen Sie Französisch?"],
+      "en": ["You are welcome.", "You are welcome."],
+      "fa": ["Vous habitez où?", "شما کجا زندگی می‌کنید؟"],
+      "ru": ["Vous comprenez?", "Вы понимаете?"],
+      "fr": ["Vous venez avec nous?", "Vous venez avec nous?"],
+      "it": ["Vous êtes prêts?", "Siete pronti?"],
+      "es": ["Vous voulez du café?", "¿Quieren café?"],
+      "pt": ["Vous aimez la musique?", "Vocês gostam de música?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "ils",
+    "translations": {
+      "ar": "هم",
+      "de": "sie (Plural)",
+      "en": "they (masculine)",
+      "fa": "آنها (مذکر)",
+      "ru": "они",
+      "fr": "ils",
+      "it": "loro (maschile)",
+      "es": "ellos",
+      "pt": "eles"
+    },
+    "explanation": {
+      "ar": "ضمير الغائب الجمع المذكر أو المختلط",
+      "de": "Personalpronomen dritte Person Plural maskulin oder gemischt",
+      "en": "Third person plural pronoun masculine or mixed",
+      "fa": "ضمیر سوم شخص جمع مذکر یا ترکیبی",
+      "ru": "Личное местоимение третьего лица множественного числа",
+      "fr": "Pronom personnel troisième personne du pluriel masculin ou mixte",
+      "it": "Pronome personale terza persona plurale maschile o misto",
+      "es": "Pronombre personal tercera persona plural masculino o mixto",
+      "pt": "Pronome pessoal terceira pessoa plural masculino ou misto"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Ils sont mes amis.", "هم أصدقائي."],
+      "de": ["Ils parlent français.", "Sie sprechen Französisch."],
+      "en": ["They work together.", "They work together."],
+      "fa": ["Ils habitent à Paris.", "آنها در پاریس زندگی می‌کنند."],
+      "ru": ["Ils jouent au football.", "Они играют в футбол."],
+      "fr": ["Ils mangent au restaurant.", "Ils mangent au restaurant."],
+      "it": ["Ils vont à l'école.", "Vanno a scuola."],
+      "es": ["Ils aiment voyager.", "Les gusta viajar."],
+      "pt": ["Ils étudient beaucoup.", "Eles estudam muito."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "elles",
+    "translations": {
+      "ar": "هن",
+      "de": "sie (Plural feminin)",
+      "en": "they (feminine)",
+      "fa": "آنها (مؤنث)",
+      "ru": "они (женский род)",
+      "fr": "elles",
+      "it": "loro (femminile)",
+      "es": "ellas",
+      "pt": "elas"
+    },
+    "explanation": {
+      "ar": "ضمير الغائب الجمع المؤنث",
+      "de": "Personalpronomen dritte Person Plural feminin",
+      "en": "Third person plural pronoun feminine",
+      "fa": "ضمیر سوم شخص جمع مؤنث",
+      "ru": "Личное местоимение третьего лица множественного числа женского рода",
+      "fr": "Pronom personnel troisième personne du pluriel féminin",
+      "it": "Pronome personale terza persona plurale femminile",
+      "es": "Pronombre personal tercera persona plural femenino",
+      "pt": "Pronome pessoal terceira pessoa plural feminino"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Elles sont étudiantes.", "هن طالبات."],
+      "de": ["Elles chantent bien.", "Sie singen gut."],
+      "en": ["They are beautiful.", "They are beautiful."],
+      "fa": ["Elles parlent français.", "آنها فرانسوی صحبت می‌کنند."],
+      "ru": ["Elles travaillent ensemble.", "Они работают вместе."],
+      "fr": ["Elles aiment danser.", "Elles aiment danser."],
+      "it": ["Elles habitent ici.", "Abitano qui."],
+      "es": ["Elles vont au marché.", "Van al mercado."],
+      "pt": ["Elles mangent des fruits.", "Elas comem frutas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "quoi",
+    "translations": {
+      "ar": "ماذا",
+      "de": "was",
+      "en": "what",
+      "fa": "چه",
+      "ru": "что",
+      "fr": "quoi",
+      "it": "cosa",
+      "es": "qué",
+      "pt": "o quê"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن الأشياء",
+      "de": "Fragewort für Dinge",
+      "en": "Interrogative pronoun for things",
+      "fa": "ضمیر پرسشی برای چیزها",
+      "ru": "Вопросительное местоимение для вещей",
+      "fr": "Pronom interrogatif pour les choses",
+      "it": "Pronome interrogativo per le cose",
+      "es": "Pronombre interrogativo para cosas",
+      "pt": "Pronome interrogativo para coisas"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["C'est quoi?", "ما هذا؟"],
+      "de": ["Quoi faire?", "Was tun?"],
+      "en": ["Tu fais quoi?", "What are you doing?"],
+      "fa": ["À quoi tu penses?", "به چه فکر می‌کنی؟"],
+      "ru": ["De quoi tu parles?", "О чём ты говоришь?"],
+      "fr": ["Quoi de neuf?", "Quoi de neuf?"],
+      "it": ["En quoi puis-je aider?", "In cosa posso aiutare?"],
+      "es": ["Pour quoi faire?", "¿Para qué?"],
+      "pt": ["C'est fait de quoi?", "É feito de quê?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "qui",
+    "translations": {
+      "ar": "من",
+      "de": "wer",
+      "en": "who",
+      "fa": "که، کی",
+      "ru": "кто",
+      "fr": "qui",
+      "it": "chi",
+      "es": "quién",
+      "pt": "quem"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن الأشخاص",
+      "de": "Fragewort für Personen",
+      "en": "Interrogative pronoun for people",
+      "fa": "ضمیر پرسشی برای اشخاص",
+      "ru": "Вопросительное местоимение для людей",
+      "fr": "Pronom interrogatif pour les personnes",
+      "it": "Pronome interrogativo per le persone",
+      "es": "Pronombre interrogativo para personas",
+      "pt": "Pronome interrogativo para pessoas"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Qui es-tu?", "من أنت؟"],
+      "de": ["Qui est là?", "Wer ist da?"],
+      "en": ["Who is he?", "Who is he?"],
+      "fa": ["Qui parle français?", "چه کسی فرانسوی صحبت می‌کند؟"],
+      "ru": ["Avec qui tu parles?", "С кем ты разговариваешь?"],
+      "fr": ["Qui vient avec moi?", "Qui vient avec moi?"],
+      "it": ["Qui è questo?", "Chi è questo?"],
+      "es": ["Pour qui c'est?", "¿Para quién es?"],
+      "pt": ["Qui a fait ça?", "Quem fez isso?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "où",
+    "translations": {
+      "ar": "أين",
+      "de": "wo",
+      "en": "where",
+      "fa": "کجا",
+      "ru": "где",
+      "fr": "où",
+      "it": "dove",
+      "es": "dónde",
+      "pt": "onde"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن المكان",
+      "de": "Fragewort für Orte",
+      "en": "Interrogative adverb for location",
+      "fa": "قید پرسشی برای مکان",
+      "ru": "Вопросительное наречие для места",
+      "fr": "Adverbe interrogatif pour le lieu",
+      "it": "Avverbio interrogativo per il luogo",
+      "es": "Adverbio interrogativo para ubicación",
+      "pt": "Advérbio interrogativo para localização"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Où habites-tu?", "أين تسكن؟"],
+      "de": ["Où est la gare?", "Wo ist der Bahnhof?"],
+      "en": ["Where are you?", "Where are you?"],
+      "fa": ["Où vas-tu?", "کجا می‌روی؟"],
+      "ru": ["D'où viens-tu?", "Откуда ты?"],
+      "fr": ["Où est mon livre?", "Où est mon livre?"],
+      "it": ["Où se trouve le musée?", "Dove si trova il museo?"],
+      "es": ["Où travailles-tu?", "¿Dónde trabajas?"],
+      "pt": ["Où sont les clés?", "Onde estão as chaves?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "quand",
+    "translations": {
+      "ar": "متى",
+      "de": "wann",
+      "en": "when",
+      "fa": "کی، چه زمانی",
+      "ru": "когда",
+      "fr": "quand",
+      "it": "quando",
+      "es": "cuándo",
+      "pt": "quando"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن الوقت",
+      "de": "Fragewort für Zeit",
+      "en": "Interrogative adverb for time",
+      "fa": "قید پرسشی برای زمان",
+      "ru": "Вопросительное наречие для времени",
+      "fr": "Adverbe interrogatif pour le temps",
+      "it": "Avverbio interrogativo per il tempo",
+      "es": "Adverbio interrogativo para tiempo",
+      "pt": "Advérbio interrogativo para tempo"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Quand pars-tu?", "متى ترحل؟"],
+      "de": ["Quand arrives-tu?", "Wann kommst du an?"],
+      "en": ["When is the meeting?", "When is the meeting?"],
+      "fa": ["Quand commence le film?", "فیلم کی شروع می‌شود؟"],
+      "ru": ["Depuis quand tu habites ici?", "С каких пор ты здесь живёшь?"],
+      "fr": ["Quand vas-tu à Paris?", "Quand vas-tu à Paris?"],
+      "it": ["Quand'è il tuo anniversaire?", "Quand'è il tuo compleanno?"],
+      "es": ["Quand finit le cours?", "¿Cuándo termina la clase?"],
+      "pt": ["Quand reviens-tu?", "Quando voltas?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "pourquoi",
+    "translations": {
+      "ar": "لماذا",
+      "de": "warum",
+      "en": "why",
+      "fa": "چرا",
+      "ru": "почему",
+      "fr": "pourquoi",
+      "it": "perché",
+      "es": "por qué",
+      "pt": "por que"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن السبب",
+      "de": "Fragewort für Gründe",
+      "en": "Interrogative adverb for reason",
+      "fa": "قید پرسشی برای دلیل",
+      "ru": "Вопросительное наречие для причины",
+      "fr": "Adverbe interrogatif pour la raison",
+      "it": "Avverbio interrogativo per la ragione",
+      "es": "Adverbio interrogativo para razón",
+      "pt": "Advérbio interrogativo para razão"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Pourquoi tu pleures?", "لماذا تبكي؟"],
+      "de": ["Pourquoi pas?", "Warum nicht?"],
+      "en": ["Why are you late?", "Why are you late?"],
+      "fa": ["Pourquoi tu ris?", "چرا می‌خندی؟"],
+      "ru": ["Pourquoi il est parti?", "Почему он ушёл?"],
+      "fr": ["Pourquoi tu dis ça?", "Pourquoi tu dis ça?"],
+      "it": ["Pourquoi tu ne viens pas?", "Perché non vieni?"],
+      "es": ["Pourquoi elle est triste?", "¿Por qué está triste?"],
+      "pt": ["Pourquoi tu ne manges pas?", "Por que não comes?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "comment",
+    "translations": {
+      "ar": "كيف",
+      "de": "wie",
+      "en": "how",
+      "fa": "چگونه، چطور",
+      "ru": "как",
+      "fr": "comment",
+      "it": "come",
+      "es": "cómo",
+      "pt": "como"
+    },
+    "explanation": {
+      "ar": "أداة استفهام للسؤال عن الطريقة أو الحالة",
+      "de": "Fragewort für Art und Weise oder Zustand",
+      "en": "Interrogative adverb for manner or state",
+      "fa": "قید پرسشی برای روش یا حالت",
+      "ru": "Вопросительное наречие для способа или состояния",
+      "fr": "Adverbe interrogatif pour la manière ou l'état",
+      "it": "Avverbio interrogativo per il modo o lo stato",
+      "es": "Adverbio interrogativo para manera o estado",
+      "pt": "Advérbio interrogativo para maneira ou estado"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Comment ça va?", "كيف حالك؟"],
+      "de": ["Comment tu t'appelles?", "Wie heißt du?"],
+      "en": ["How are you?", "How are you?"],
+      "fa": ["Comment faire?", "چگونه انجام بدهم؟"],
+      "ru": ["Comment dit-on en français?", "Как сказать по-французски?"],
+      "fr": ["Comment ça marche?", "Comment ça marche?"],
+      "it": ["Comment vas-tu?", "Come stai?"],
+      "es": ["Comment c'est possible?", "¿Cómo es posible?"],
+      "pt": ["Comment tu sais?", "Como sabes?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "oui",
+    "translations": {
+      "ar": "نعم",
+      "de": "ja",
+      "en": "yes",
+      "fa": "بله",
+      "ru": "да",
+      "fr": "oui",
+      "it": "sì",
+      "es": "sí",
+      "pt": "sim"
+    },
+    "explanation": {
+      "ar": "كلمة إيجابية للموافقة",
+      "de": "Bestätigendes Wort für Zustimmung",
+      "en": "Affirmative word for agreement",
+      "fa": "کلمه مثبت برای موافقت",
+      "ru": "Утвердительное слово для согласия",
+      "fr": "Mot affirmatif pour l'accord",
+      "it": "Parola affermativa per accordo",
+      "es": "Palabra afirmativa para acuerdo",
+      "pt": "Palavra afirmativa para concordância"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Oui, je comprends.", "نعم، أفهم."],
+      "de": ["Oui, c'est vrai.", "Ja, das ist wahr."],
+      "en": ["Yes, I agree.", "Yes, I agree."],
+      "fa": ["Oui, bien sûr.", "بله، البته."],
+      "ru": ["Oui, merci.", "Да, спасибо."],
+      "fr": ["Oui, je viens.", "Oui, je viens."],
+      "it": ["Oui, d'accord.", "Sì, d'accordo."],
+      "es": ["Oui, exactement.", "Sí, exactamente."],
+      "pt": ["Oui, c'est ça.", "Sim, é isso."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "non",
+    "translations": {
+      "ar": "لا",
+      "de": "nein",
+      "en": "no",
+      "fa": "نه",
+      "ru": "нет",
+      "fr": "non",
+      "it": "no",
+      "es": "no",
+      "pt": "não"
+    },
+    "explanation": {
+      "ar": "كلمة سلبية للرفض",
+      "de": "Verneinendes Wort für Ablehnung",
+      "en": "Negative word for refusal",
+      "fa": "کلمه منفی برای رد کردن",
+      "ru": "Отрицательное слово для отказа",
+      "fr": "Mot négatif pour le refus",
+      "it": "Parola negativa per rifiuto",
+      "es": "Palabra negativa para rechazo",
+      "pt": "Palavra negativa para recusa"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Non, je ne peux pas.", "لا، لا أستطيع."],
+      "de": ["Non, merci.", "Nein, danke."],
+      "en": ["No, I don't understand.", "No, I don't understand."],
+      "fa": ["Non, pas maintenant.", "نه، الان نه."],
+      "ru": ["Non, ce n'est pas vrai.", "Нет, это неправда."],
+      "fr": ["Non, je ne veux pas.", "Non, je ne veux pas."],
+      "it": ["Non, non sono d'accordo.", "No, non sono d'accordo."],
+      "es": ["Non, pas du tout.", "No, para nada."],
+      "pt": ["Non, jamais.", "Não, nunca."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "s'il vous plaît",
+    "translations": {
+      "ar": "من فضلك (رسمي)",
+      "de": "bitte",
+      "en": "please",
+      "fa": "لطفاً",
+      "ru": "пожалуйста",
+      "fr": "s'il vous plaît",
+      "it": "per favore",
+      "es": "por favor",
+      "pt": "por favor"
+    },
+    "explanation": {
+      "ar": "تعبير مهذب للطلب",
+      "de": "Höfliche Formulierung für Bitten",
+      "en": "Polite expression for requests",
+      "fa": "عبارت مؤدبانه برای درخواست",
+      "ru": "Вежливое выражение для просьбы",
+      "fr": "Expression polie pour faire une demande",
+      "it": "Espressione cortese per richieste",
+      "es": "Expresión cortés para solicitudes",
+      "pt": "Expressão cortês para pedidos"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Un café, s'il vous plaît.", "قهوة من فضلك."],
+      "de": ["Asseyez-vous, s'il vous plaît.", "Setzen Sie sich bitte."],
+      "en": ["Can you help me, please?", "Can you help me, please?"],
+      "fa": ["Répétez, s'il vous plaît.", "لطفاً تکرار کنید."],
+      "ru": ["Attendez, s'il vous plaît.", "Подождите, пожалуйста."],
+      "fr": ["Écoutez, s'il vous plaît.", "Écoutez, s'il vous plaît."],
+      "it": ["Parlate lentement, per favore.", "Parlate lentamente, per favore."],
+      "es": ["Escriba aquí, por favor.", "Escriba aquí, por favor."],
+      "pt": ["Entre, por favor.", "Entre, por favor."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "merci",
+    "translations": {
+      "ar": "شكراً",
+      "de": "danke",
+      "en": "thank you",
+      "fa": "متشکرم",
+      "ru": "спасибо",
+      "fr": "merci",
+      "it": "grazie",
+      "es": "gracias",
+      "pt": "obrigado"
+    },
+    "explanation": {
+      "ar": "كلمة للتعبير عن الشكر والامتنان",
+      "de": "Wort zum Ausdruck von Dank und Wertschätzung",
+      "en": "Word to express gratitude and appreciation",
+      "fa": "کلمه برای ابراز قدردانی",
+      "ru": "Слово для выражения благодарности",
+      "fr": "Mot pour exprimer la gratitude",
+      "it": "Parola per esprimere gratitudine",
+      "es": "Palabra para expresar agradecimiento",
+      "pt": "Palavra para expressar gratidão"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Merci beaucoup.", "شكراً جزيلاً."],
+      "de": ["Merci pour ton aide.", "Danke für deine Hilfe."],
+      "en": ["Thank you very much.", "Thank you very much."],
+      "fa": ["Merci pour tout.", "بابت همه چیز متشکرم."],
+      "ru": ["Merci de votre compréhension.", "Спасибо за понимание."],
+      "fr": ["Merci, c'est gentil.", "Merci, c'est gentil."],
+      "it": ["Merci mille fois.", "Grazie mille."],
+      "es": ["Merci d'être venu.", "Gracias por venir."],
+      "pt": ["Merci pour le cadeau.", "Obrigado pelo presente."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "pardon",
+    "translations": {
+      "ar": "عفواً / آسف",
+      "de": "Entschuldigung",
+      "en": "sorry / excuse me",
+      "fa": "ببخشید / متأسفم",
+      "ru": "извините / простите",
+      "fr": "pardon",
+      "it": "scusa / scusi",
+      "es": "perdón / disculpe",
+      "pt": "desculpe / perdão"
+    },
+    "explanation": {
+      "ar": "كلمة للاعتذار أو لطلب التكرار",
+      "de": "Wort für Entschuldigung oder um Wiederholung zu bitten",
+      "en": "Word for apologizing or asking for repetition",
+      "fa": "کلمه برای عذرخواهی یا درخواست تکرار",
+      "ru": "Слово для извинения или просьбы повторить",
+      "fr": "Mot pour s'excuser ou demander de répéter",
+      "it": "Parola per scusarsi o chiedere di ripetere",
+      "es": "Palabra para disculparse o pedir repetición",
+      "pt": "Palavra para pedir desculpas ou repetição"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Pardon, je suis en retard.", "آسف، أنا متأخر."],
+      "de": ["Pardon, je n'ai pas compris.", "Entschuldigung, ich habe nicht verstanden."],
+      "en": ["Excuse me, where is the station?", "Excuse me, where is the station?"],
+      "fa": ["Pardon, vous pouvez répéter?", "ببخشید، می‌توانید تکرار کنید؟"],
+      "ru": ["Pardon pour le dérangement.", "Извините за беспокойство."],
+      "fr": ["Pardon, c'est ma faute.", "Pardon, c'est ma faute."],
+      "it": ["Pardon, je me suis trompé.", "Scusa, mi sono sbagliato."],
+      "es": ["Pardon, je n'ai pas fait exprès.", "Perdón, no fue a propósito."],
+      "pt": ["Pardon, je dois partir.", "Desculpe, preciso ir."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "être",
+    "translations": {
+      "ar": "يكون",
+      "de": "sein",
+      "en": "to be",
+      "fa": "بودن",
+      "ru": "быть",
+      "fr": "être",
+      "it": "essere",
+      "es": "ser / estar",
+      "pt": "ser / estar"
+    },
+    "explanation": {
+      "ar": "الفعل الأساسي للوجود والحالة",
+      "de": "Grundverb für Existenz und Zustand",
+      "en": "Fundamental verb for existence and state",
+      "fa": "فعل اساسی برای وجود و حالت",
+      "ru": "Основной глагол существования и состояния",
+      "fr": "Verbe fondamental pour l'existence et l'état",
+      "it": "Verbo fondamentale per esistenza e stato",
+      "es": "Verbo fundamental para existencia y estado",
+      "pt": "Verbo fundamental para existência e estado"
+    },
+    "conjugations": {
+      "présent": ["je suis", "tu es", "il/elle est", "nous sommes", "vous êtes", "ils/elles sont"],
+      "passé composé": ["j'ai été", "tu as été", "il/elle a été", "nous avons été", "vous avez été", "ils/elles ont été"],
+      "imparfait": ["j'étais", "tu étais", "il/elle était", "nous étions", "vous étiez", "ils/elles étaient"],
+      "futur": ["je serai", "tu seras", "il/elle sera", "nous serons", "vous serez", "ils/elles seront"]
+    },
+    "examples": {
+      "ar": ["Je suis étudiant.", "أنا طالب."],
+      "de": ["Tu es gentil.", "Du bist nett."],
+      "en": ["She is a teacher.", "She is a teacher."],
+      "fa": ["Nous sommes français.", "ما فرانسوی هستیم."],
+      "ru": ["Vous êtes en retard.", "Вы опоздали."],
+      "fr": ["Ils sont fatigués.", "Ils sont fatigués."],
+      "it": ["C'est difficile.", "È difficile."],
+      "es": ["Elle est heureuse.", "Ella está feliz."],
+      "pt": ["Nous sommes ici.", "Estamos aqui."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "avoir",
+    "translations": {
+      "ar": "يملك",
+      "de": "haben",
+      "en": "to have",
+      "fa": "داشتن",
+      "ru": "иметь",
+      "fr": "avoir",
+      "it": "avere",
+      "es": "tener / haber",
+      "pt": "ter / haver"
+    },
+    "explanation": {
+      "ar": "الفعل الأساسي للملكية والوجود",
+      "de": "Grundverb für Besitz und Vorhandensein",
+      "en": "Fundamental verb for possession and existence",
+      "fa": "فعل اساسی برای مالکیت و وجود",
+      "ru": "Основной глагол владения и наличия",
+      "fr": "Verbe fondamental pour la possession",
+      "it": "Verbo fondamentale per il possesso",
+      "es": "Verbo fundamental para posesión",
+      "pt": "Verbo fundamental para posse"
+    },
+    "conjugations": {
+      "présent": ["j'ai", "tu as", "il/elle a", "nous avons", "vous avez", "ils/elles ont"],
+      "passé composé": ["j'ai eu", "tu as eu", "il/elle a eu", "nous avons eu", "vous avez eu", "ils/elles ont eu"],
+      "imparfait": ["j'avais", "tu avais", "il/elle avait", "nous avions", "vous aviez", "ils/elles avaient"],
+      "futur": ["j'aurai", "tu auras", "il/elle aura", "nous aurons", "vous aurez", "ils/elles auront"]
+    },
+    "examples": {
+      "ar": ["J'ai un livre.", "لدي كتاب."],
+      "de": ["Tu as une voiture.", "Du hast ein Auto."],
+      "en": ["He has a cat.", "He has a cat."],
+      "fa": ["Nous avons faim.", "ما گرسنه هستیم."],
+      "ru": ["Vous avez raison.", "Вы правы."],
+      "fr": ["Ils ont des enfants.", "Ils ont des enfants."],
+      "it": ["Elle a vingt ans.", "Ha vent'anni."],
+      "es": ["J'ai besoin d'aide.", "Necesito ayuda."],
+      "pt": ["Tu as le temps?", "Tens tempo?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "faire",
+    "translations": {
+      "ar": "يفعل / يصنع",
+      "de": "machen / tun",
+      "en": "to do / to make",
+      "fa": "کردن / ساختن",
+      "ru": "делать",
+      "fr": "faire",
+      "it": "fare",
+      "es": "hacer",
+      "pt": "fazer"
+    },
+    "explanation": {
+      "ar": "فعل متعدد الاستخدامات للأفعال والصنع",
+      "de": "Vielseitiges Verb für Handlungen und Herstellung",
+      "en": "Versatile verb for actions and creation",
+      "fa": "فعل چندمنظوره برای اعمال و ساخت",
+      "ru": "Многоцелевой глагол для действий и создания",
+      "fr": "Verbe polyvalent pour les actions et la création",
+      "it": "Verbo versatile per azioni e creazione",
+      "es": "Verbo versátil para acciones y creación",
+      "pt": "Verbo versátil para ações e criação"
+    },
+    "conjugations": {
+      "présent": ["je fais", "tu fais", "il/elle fait", "nous faisons", "vous faites", "ils/elles font"],
+      "passé composé": ["j'ai fait", "tu as fait", "il/elle a fait", "nous avons fait", "vous avez fait", "ils/elles ont fait"],
+      "imparfait": ["je faisais", "tu faisais", "il/elle faisait", "nous faisions", "vous faisiez", "ils/elles faisaient"],
+      "futur": ["je ferai", "tu feras", "il/elle fera", "nous ferons", "vous ferez", "ils/elles feront"]
+    },
+    "examples": {
+      "ar": ["Je fais mes devoirs.", "أقوم بواجباتي."],
+      "de": ["Tu fais du sport.", "Du machst Sport."],
+      "en": ["What are you doing?", "What are you doing?"],
+      "fa": ["Il fait beau.", "هوا خوب است."],
+      "ru": ["Nous faisons la cuisine.", "Мы готовим."],
+      "fr": ["Vous faites quoi?", "Vous faites quoi?"],
+      "it": ["Ils font une fête.", "Fanno una festa."],
+      "es": ["Elle fait du shopping.", "Hace compras."],
+      "pt": ["Je fais attention.", "Presto atenção."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "aller",
+    "translations": {
+      "ar": "يذهب",
+      "de": "gehen",
+      "en": "to go",
+      "fa": "رفتن",
+      "ru": "идти / ехать",
+      "fr": "aller",
+      "it": "andare",
+      "es": "ir",
+      "pt": "ir"
+    },
+    "explanation": {
+      "ar": "فعل للحركة والانتقال",
+      "de": "Verb für Bewegung und Fortbewegung",
+      "en": "Verb for movement and going",
+      "fa": "فعل برای حرکت و رفتن",
+      "ru": "Глагол движения и перемещения",
+      "fr": "Verbe de mouvement et de déplacement",
+      "it": "Verbo di movimento e spostamento",
+      "es": "Verbo de movimiento y desplazamiento",
+      "pt": "Verbo de movimento e deslocamento"
+    },
+    "conjugations": {
+      "présent": ["je vais", "tu vas", "il/elle va", "nous allons", "vous allez", "ils/elles vont"],
+      "passé composé": ["je suis allé(e)", "tu es allé(e)", "il/elle est allé(e)", "nous sommes allé(e)s", "vous êtes allé(e)(s)", "ils/elles sont allé(e)s"],
+      "imparfait": ["j'allais", "tu allais", "il/elle allait", "nous allions", "vous alliez", "ils/elles allaient"],
+      "futur": ["j'irai", "tu iras", "il/elle ira", "nous irons", "vous irez", "ils/elles iront"]
+    },
+    "examples": {
+      "ar": ["Je vais à l'école.", "أذهب إلى المدرسة."],
+      "de": ["Tu vas bien?", "Geht es dir gut?"],
+      "en": ["She goes to Paris.", "She goes to Paris."],
+      "fa": ["Nous allons au cinéma.", "ما به سینما می‌رویم."],
+      "ru": ["Vous allez où?", "Куда вы идёте?"],
+      "fr": ["Ils vont en France.", "Ils vont en France."],
+      "it": ["Comment ça va?", "Come va?"],
+      "es": ["Elle va travailler.", "Va a trabajar."],
+      "pt": ["On y va?", "Vamos?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "obtenir",
+    "translations": {
+      "ar": "يحصل على",
+      "de": "bekommen / erhalten",
+      "en": "to get / to obtain",
+      "fa": "بدست آوردن / گرفتن",
+      "ru": "получать",
+      "fr": "obtenir",
+      "it": "ottenere",
+      "es": "obtener / conseguir",
+      "pt": "obter / conseguir"
+    },
+    "explanation": {
+      "ar": "فعل للحصول على شيء",
+      "de": "Verb um etwas zu bekommen",
+      "en": "Verb for acquiring something",
+      "fa": "فعل برای به دست آوردن چیزی",
+      "ru": "Глагол для получения чего-либо",
+      "fr": "Verbe pour acquérir quelque chose",
+      "it": "Verbo per acquisire qualcosa",
+      "es": "Verbo para adquirir algo",
+      "pt": "Verbo para adquirir algo"
+    },
+    "conjugations": {
+      "présent": ["j'obtiens", "tu obtiens", "il/elle obtient", "nous obtenons", "vous obtenez", "ils/elles obtiennent"],
+      "passé composé": ["j'ai obtenu", "tu as obtenu", "il/elle a obtenu", "nous avons obtenu", "vous avez obtenu", "ils/elles ont obtenu"],
+      "imparfait": ["j'obtenais", "tu obtenais", "il/elle obtenait", "nous obtenions", "vous obteniez", "ils/elles obtenaient"],
+      "futur": ["j'obtiendrai", "tu obtiendras", "il/elle obtiendra", "nous obtiendrons", "vous obtiendrez", "ils/elles obtiendront"]
+    },
+    "examples": {
+      "ar": ["J'obtiens de bons résultats.", "أحصل على نتائج جيدة."],
+      "de": ["Tu obtiens ce que tu veux.", "Du bekommst, was du willst."],
+      "en": ["He obtains permission.", "He obtains permission."],
+      "fa": ["Nous obtenons des informations.", "ما اطلاعات بدست می‌آوریم."],
+      "ru": ["Vous obtenez une réponse.", "Вы получаете ответ."],
+      "fr": ["Ils obtiennent un diplôme.", "Ils obtiennent un diplôme."],
+      "it": ["Elle obtient une promotion.", "Ottiene una promozione."],
+      "es": ["J'obtiens satisfaction.", "Obtengo satisfacción."],
+      "pt": ["Tu obtiens de l'aide.", "Obténs ajuda."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "savoir",
+    "translations": {
+      "ar": "يعرف",
+      "de": "wissen / können",
+      "en": "to know",
+      "fa": "دانستن",
+      "ru": "знать / уметь",
+      "fr": "savoir",
+      "it": "sapere",
+      "es": "saber",
+      "pt": "saber"
+    },
+    "explanation": {
+      "ar": "فعل للمعرفة والقدرة",
+      "de": "Verb für Wissen und Können",
+      "en": "Verb for knowledge and ability",
+      "fa": "فعل برای دانش و توانایی",
+      "ru": "Глагол знания и умения",
+      "fr": "Verbe pour la connaissance et la capacité",
+      "it": "Verbo per conoscenza e capacità",
+      "es": "Verbo para conocimiento y capacidad",
+      "pt": "Verbo para conhecimento e capacidade"
+    },
+    "conjugations": {
+      "présent": ["je sais", "tu sais", "il/elle sait", "nous savons", "vous savez", "ils/elles savent"],
+      "passé composé": ["j'ai su", "tu as su", "il/elle a su", "nous avons su", "vous avez su", "ils/elles ont su"],
+      "imparfait": ["je savais", "tu savais", "il/elle savait", "nous savions", "vous saviez", "ils/elles savaient"],
+      "futur": ["je saurai", "tu sauras", "il/elle saura", "nous saurons", "vous saurez", "ils/elles sauront"]
+    },
+    "examples": {
+      "ar": ["Je sais parler français.", "أعرف التحدث بالفرنسية."],
+      "de": ["Tu sais la réponse.", "Du weißt die Antwort."],
+      "en": ["She knows the truth.", "She knows the truth."],
+      "fa": ["Nous savons nager.", "ما شنا کردن بلدیم."],
+      "ru": ["Vous savez conduire?", "Вы умеете водить?"],
+      "fr": ["Ils savent tout.", "Ils savent tout."],
+      "it": ["Elle sait cuisiner.", "Sa cucinare."],
+      "es": ["Je ne sais pas.", "No sé."],
+      "pt": ["Tu sais où il est?", "Sabes onde ele está?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "penser",
+    "translations": {
+      "ar": "يفكر",
+      "de": "denken",
+      "en": "to think",
+      "fa": "فکر کردن",
+      "ru": "думать",
+      "fr": "penser",
+      "it": "pensare",
+      "es": "pensar",
+      "pt": "pensar"
+    },
+    "explanation": {
+      "ar": "فعل للتفكير والاعتقاد",
+      "de": "Verb für Denken und Glauben",
+      "en": "Verb for thinking and believing",
+      "fa": "فعل برای فکر کردن و باور داشتن",
+      "ru": "Глагол для мышления и мнения",
+      "fr": "Verbe pour penser et croire",
+      "it": "Verbo per pensare e credere",
+      "es": "Verbo para pensar y creer",
+      "pt": "Verbo para pensar e acreditar"
+    },
+    "conjugations": {
+      "présent": ["je pense", "tu penses", "il/elle pense", "nous pensons", "vous pensez", "ils/elles pensent"],
+      "passé composé": ["j'ai pensé", "tu as pensé", "il/elle a pensé", "nous avons pensé", "vous avez pensé", "ils/elles ont pensé"],
+      "imparfait": ["je pensais", "tu pensais", "il/elle pensait", "nous pensions", "vous pensiez", "ils/elles pensaient"],
+      "futur": ["je penserai", "tu penseras", "il/elle pensera", "nous penserons", "vous penserez", "ils/elles penseront"]
+    },
+    "examples": {
+      "ar": ["Je pense que oui.", "أعتقد ذلك."],
+      "de": ["Tu penses à quoi?", "Woran denkst du?"],
+      "en": ["I think it's true.", "I think it's true."],
+      "fa": ["Il pense beaucoup.", "او زیاد فکر می‌کند."],
+      "ru": ["Nous pensons partir.", "Мы думаем уехать."],
+      "fr": ["Vous pensez qu'il viendra?", "Vous pensez qu'il viendra?"],
+      "it": ["Ils pensent à l'avenir.", "Pensano al futuro."],
+      "es": ["Elle pense toujours à toi.", "Siempre piensa en ti."],
+      "pt": ["Je pense donc je suis.", "Penso, logo existo."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "prendre",
+    "translations": {
+      "ar": "يأخذ",
+      "de": "nehmen",
+      "en": "to take",
+      "fa": "گرفتن",
+      "ru": "брать / взять",
+      "fr": "prendre",
+      "it": "prendere",
+      "es": "tomar / coger",
+      "pt": "pegar / tomar"
+    },
+    "explanation": {
+      "ar": "فعل للأخذ والتناول",
+      "de": "Verb für Nehmen und Einnehmen",
+      "en": "Verb for taking and having",
+      "fa": "فعل برای گرفتن و داشتن",
+      "ru": "Глагол для взятия и принятия",
+      "fr": "Verbe pour prendre et avoir",
+      "it": "Verbo per prendere e avere",
+      "es": "Verbo para tomar y tener",
+      "pt": "Verbo para pegar e ter"
+    },
+    "conjugations": {
+      "présent": ["je prends", "tu prends", "il/elle prend", "nous prenons", "vous prenez", "ils/elles prennent"],
+      "passé composé": ["j'ai pris", "tu as pris", "il/elle a pris", "nous avons pris", "vous avez pris", "ils/elles ont pris"],
+      "imparfait": ["je prenais", "tu prenais", "il/elle prenait", "nous prenions", "vous preniez", "ils/elles prenaient"],
+      "futur": ["je prendrai", "tu prendras", "il/elle prendra", "nous prendrons", "vous prendrez", "ils/elles prendront"]
+    },
+    "examples": {
+      "ar": ["Je prends le bus.", "آخذ الحافلة."],
+      "de": ["Tu prends un café?", "Nimmst du einen Kaffee?"],
+      "en": ["She takes the train.", "She takes the train."],
+      "fa": ["Nous prenons des photos.", "ما عکس می‌گیریم."],
+      "ru": ["Vous prenez votre temps.", "Вы не торопитесь."],
+      "fr": ["Ils prennent une décision.", "Ils prennent une décision."],
+      "it": ["Elle prend son petit-déjeuner.", "Fa colazione."],
+      "es": ["Je prends des notes.", "Tomo apuntes."],
+      "pt": ["Prends ton manteau.", "Pega o teu casaco."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "voir",
+    "translations": {
+      "ar": "يرى",
+      "de": "sehen",
+      "en": "to see",
+      "fa": "دیدن",
+      "ru": "видеть",
+      "fr": "voir",
+      "it": "vedere",
+      "es": "ver",
+      "pt": "ver"
+    },
+    "explanation": {
+      "ar": "فعل للرؤية والمشاهدة",
+      "de": "Verb für Sehen und Betrachten",
+      "en": "Verb for seeing and watching",
+      "fa": "فعل برای دیدن و تماشا کردن",
+      "ru": "Глагол для зрения и видения",
+      "fr": "Verbe pour voir et regarder",
+      "it": "Verbo per vedere e guardare",
+      "es": "Verbo para ver y mirar",
+      "pt": "Verbo para ver e assistir"
+    },
+    "conjugations": {
+      "présent": ["je vois", "tu vois", "il/elle voit", "nous voyons", "vous voyez", "ils/elles voient"],
+      "passé composé": ["j'ai vu", "tu as vu", "il/elle a vu", "nous avons vu", "vous avez vu", "ils/elles ont vu"],
+      "imparfait": ["je voyais", "tu voyais", "il/elle voyait", "nous voyions", "vous voyiez", "ils/elles voyaient"],
+      "futur": ["je verrai", "tu verras", "il/elle verra", "nous verrons", "vous verrez", "ils/elles verront"]
+    },
+    "examples": {
+      "ar": ["Je vois la mer.", "أرى البحر."],
+      "de": ["Tu vois ce que je veux dire?", "Siehst du, was ich meine?"],
+      "en": ["I see a bird.", "I see a bird."],
+      "fa": ["Il voit mal.", "او بد می‌بیند."],
+      "ru": ["Nous voyons un film.", "Мы смотрим фильм."],
+      "fr": ["Vous voyez cette maison?", "Vous voyez cette maison?"],
+      "it": ["Ils voient leurs amis.", "Vedono i loro amici."],
+      "es": ["Elle ne voit rien.", "No ve nada."],
+      "pt": ["On voit bien d'ici.", "Vê-se bem daqui."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "venir",
+    "translations": {
+      "ar": "يأتي",
+      "de": "kommen",
+      "en": "to come",
+      "fa": "آمدن",
+      "ru": "приходить / прийти",
+      "fr": "venir",
+      "it": "venire",
+      "es": "venir",
+      "pt": "vir"
+    },
+    "explanation": {
+      "ar": "فعل للمجيء والقدوم",
+      "de": "Verb für Kommen und Ankommen",
+      "en": "Verb for coming and arriving",
+      "fa": "فعل برای آمدن و رسیدن",
+      "ru": "Глагол прихода и прибытия",
+      "fr": "Verbe pour venir et arriver",
+      "it": "Verbo per venire e arrivare",
+      "es": "Verbo para venir y llegar",
+      "pt": "Verbo para vir e chegar"
+    },
+    "conjugations": {
+      "présent": ["je viens", "tu viens", "il/elle vient", "nous venons", "vous venez", "ils/elles viennent"],
+      "passé composé": ["je suis venu(e)", "tu es venu(e)", "il/elle est venu(e)", "nous sommes venu(e)s", "vous êtes venu(e)(s)", "ils/elles sont venu(e)s"],
+      "imparfait": ["je venais", "tu venais", "il/elle venait", "nous venions", "vous veniez", "ils/elles venaient"],
+      "futur": ["je viendrai", "tu viendras", "il/elle viendra", "nous viendrons", "vous viendrez", "ils/elles viendront"]
+    },
+    "examples": {
+      "ar": ["Je viens de France.", "أنا من فرنسا."],
+      "de": ["Tu viens ce soir?", "Kommst du heute Abend?"],
+      "en": ["She comes every day.", "She comes every day."],
+      "fa": ["Nous venons vous voir.", "ما می‌آییم شما را ببینیم."],
+      "ru": ["Vous venez d'où?", "Откуда вы?"],
+      "fr": ["Ils viennent de partir.", "Ils viennent de partir."],
+      "it": ["Elle vient avec nous.", "Viene con noi."],
+      "es": ["D'où viens-tu?", "¿De dónde vienes?"],
+      "pt": ["Viens ici!", "Vem cá!"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "vouloir",
+    "translations": {
+      "ar": "يريد",
+      "de": "wollen / möchten",
+      "en": "to want",
+      "fa": "خواستن",
+      "ru": "хотеть",
+      "fr": "vouloir",
+      "it": "volere",
+      "es": "querer",
+      "pt": "querer"
+    },
+    "explanation": {
+      "ar": "فعل للرغبة والإرادة",
+      "de": "Verb für Wunsch und Wille",
+      "en": "Verb for wanting and willing",
+      "fa": "فعل برای خواستن و اراده",
+      "ru": "Глагол желания и воли",
+      "fr": "Verbe pour vouloir et désirer",
+      "it": "Verbo per volere e desiderare",
+      "es": "Verbo para querer y desear",
+      "pt": "Verbo para querer e desejar"
+    },
+    "conjugations": {
+      "présent": ["je veux", "tu veux", "il/elle veut", "nous voulons", "vous voulez", "ils/elles veulent"],
+      "passé composé": ["j'ai voulu", "tu as voulu", "il/elle a voulu", "nous avons voulu", "vous avez voulu", "ils/elles ont voulu"],
+      "imparfait": ["je voulais", "tu voulais", "il/elle voulait", "nous voulions", "vous vouliez", "ils/elles voulaient"],
+      "futur": ["je voudrai", "tu voudras", "il/elle voudra", "nous voudrons", "vous voudrez", "ils/elles voudront"]
+    },
+    "examples": {
+      "ar": ["Je veux partir.", "أريد أن أغادر."],
+      "de": ["Tu veux du café?", "Möchtest du Kaffee?"],
+      "en": ["She wants to sleep.", "She wants to sleep."],
+      "fa": ["Nous voulons apprendre.", "ما می‌خواهیم یاد بگیریم."],
+      "ru": ["Vous voulez venir?", "Вы хотите прийти?"],
+      "fr": ["Ils veulent manger.", "Ils veulent manger."],
+      "it": ["Elle veut réussir.", "Vuole riuscire."],
+      "es": ["Je voudrais un thé.", "Quisiera un té."],
+      "pt": ["Que veux-tu?", "O que queres?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "regarder",
+    "translations": {
+      "ar": "ينظر",
+      "de": "schauen / ansehen",
+      "en": "to look / to watch",
+      "fa": "نگاه کردن / تماشا کردن",
+      "ru": "смотреть",
+      "fr": "regarder",
+      "it": "guardare",
+      "es": "mirar",
+      "pt": "olhar / assistir"
+    },
+    "explanation": {
+      "ar": "فعل للنظر والمشاهدة",
+      "de": "Verb für Schauen und Betrachten",
+      "en": "Verb for looking and watching",
+      "fa": "فعل برای نگاه کردن و تماشا کردن",
+      "ru": "Глагол для смотрения и наблюдения",
+      "fr": "Verbe pour regarder et observer",
+      "it": "Verbo per guardare e osservare",
+      "es": "Verbo para mirar y observar",
+      "pt": "Verbo para olhar e observar"
+    },
+    "conjugations": {
+      "présent": ["je regarde", "tu regardes", "il/elle regarde", "nous regardons", "vous regardez", "ils/elles regardent"],
+      "passé composé": ["j'ai regardé", "tu as regardé", "il/elle a regardé", "nous avons regardé", "vous avez regardé", "ils/elles ont regardé"],
+      "imparfait": ["je regardais", "tu regardais", "il/elle regardait", "nous regardions", "vous regardiez", "ils/elles regardaient"],
+      "futur": ["je regarderai", "tu regarderas", "il/elle regardera", "nous regarderons", "vous regarderez", "ils/elles regarderont"]
+    },
+    "examples": {
+      "ar": ["Je regarde la télévision.", "أشاهد التلفزيون."],
+      "de": ["Tu regardes par la fenêtre.", "Du schaust aus dem Fenster."],
+      "en": ["He watches a movie.", "He watches a movie."],
+      "fa": ["Nous regardons le ciel.", "ما به آسمان نگاه می‌کنیم."],
+      "ru": ["Vous regardez quoi?", "Что вы смотрите?"],
+      "fr": ["Ils regardent le match.", "Ils regardent le match."],
+      "it": ["Elle regarde les photos.", "Guarda le foto."],
+      "es": ["Regarde-moi!", "¡Mírame!"],
+      "pt": ["Je regarde l'heure.", "Olho as horas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "utiliser",
+    "translations": {
+      "ar": "يستخدم",
+      "de": "benutzen / verwenden",
+      "en": "to use",
+      "fa": "استفاده کردن",
+      "ru": "использовать",
+      "fr": "utiliser",
+      "it": "usare / utilizzare",
+      "es": "usar / utilizar",
+      "pt": "usar / utilizar"
+    },
+    "explanation": {
+      "ar": "فعل للاستخدام والتوظيف",
+      "de": "Verb für Benutzen und Anwenden",
+      "en": "Verb for using and employing",
+      "fa": "فعل برای استفاده کردن و به کار بردن",
+      "ru": "Глагол для использования и применения",
+      "fr": "Verbe pour utiliser et employer",
+      "it": "Verbo per usare e impiegare",
+      "es": "Verbo para usar y emplear",
+      "pt": "Verbo para usar e empregar"
+    },
+    "conjugations": {
+      "présent": ["j'utilise", "tu utilises", "il/elle utilise", "nous utilisons", "vous utilisez", "ils/elles utilisent"],
+      "passé composé": ["j'ai utilisé", "tu as utilisé", "il/elle a utilisé", "nous avons utilisé", "vous avez utilisé", "ils/elles ont utilisé"],
+      "imparfait": ["j'utilisais", "tu utilisais", "il/elle utilisait", "nous utilisions", "vous utilisiez", "ils/elles utilisaient"],
+      "futur": ["j'utiliserai", "tu utiliseras", "il/elle utilisera", "nous utiliserons", "vous utiliserez", "ils/elles utiliseront"]
+    },
+    "examples": {
+      "ar": ["J'utilise mon ordinateur.", "أستخدم حاسوبي."],
+      "de": ["Tu utilises quel logiciel?", "Welche Software benutzt du?"],
+      "en": ["She uses a dictionary.", "She uses a dictionary."],
+      "fa": ["Nous utilisons Internet.", "ما از اینترنت استفاده می‌کنیم."],
+      "ru": ["Vous utilisez ce mot.", "Вы используете это слово."],
+      "fr": ["Ils utilisent les transports publics.", "Ils utilisent les transports publics."],
+      "it": ["Elle utilise son téléphone.", "Usa il suo telefono."],
+      "es": ["J'utilise cette méthode.", "Uso este método."],
+      "pt": ["Tu utilises trop de sucre.", "Usas muito açúcar."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "trouver",
+    "translations": {
+      "ar": "يجد",
+      "de": "finden",
+      "en": "to find",
+      "fa": "پیدا کردن / یافتن",
+      "ru": "находить",
+      "fr": "trouver",
+      "it": "trovare",
+      "es": "encontrar",
+      "pt": "encontrar / achar"
+    },
+    "explanation": {
+      "ar": "فعل للعثور والإيجاد",
+      "de": "Verb für Finden und Entdecken",
+      "en": "Verb for finding and discovering",
+      "fa": "فعل برای پیدا کردن و کشف کردن",
+      "ru": "Глагол для нахождения и обнаружения",
+      "fr": "Verbe pour trouver et découvrir",
+      "it": "Verbo per trovare e scoprire",
+      "es": "Verbo para encontrar y descubrir",
+      "pt": "Verbo para encontrar e descobrir"
+    },
+    "conjugations": {
+      "présent": ["je trouve", "tu trouves", "il/elle trouve", "nous trouvons", "vous trouvez", "ils/elles trouvent"],
+      "passé composé": ["j'ai trouvé", "tu as trouvé", "il/elle a trouvé", "nous avons trouvé", "vous avez trouvé", "ils/elles ont trouvé"],
+      "imparfait": ["je trouvais", "tu trouvais", "il/elle trouvait", "nous trouvions", "vous trouviez", "ils/elles trouvaient"],
+      "futur": ["je trouverai", "tu trouveras", "il/elle trouvera", "nous trouverons", "vous trouverez", "ils/elles trouveront"]
+    },
+    "examples": {
+      "ar": ["Je trouve mes clés.", "أجد مفاتيحي."],
+      "de": ["Tu trouves ça drôle?", "Findest du das lustig?"],
+      "en": ["She finds the answer.", "She finds the answer."],
+      "fa": ["Nous trouvons une solution.", "ما راه حل پیدا می‌کنیم."],
+      "ru": ["Vous trouvez le temps?", "Вы находите время?"],
+      "fr": ["Ils trouvent un appartement.", "Ils trouvent un appartement."],
+      "it": ["Elle trouve ça beau.", "Lo trova bello."],
+      "es": ["Je trouve que c'est bien.", "Encuentro que está bien."],
+      "pt": ["On se trouve où?", "Onde nos encontramos?"]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "donner",
+    "translations": {
+      "ar": "يعطي",
+      "de": "geben",
+      "en": "to give",
+      "fa": "دادن",
+      "ru": "давать",
+      "fr": "donner",
+      "it": "dare",
+      "es": "dar",
+      "pt": "dar"
+    },
+    "explanation": {
+      "ar": "فعل للإعطاء والمنح",
+      "de": "Verb für Geben und Schenken",
+      "en": "Verb for giving and granting",
+      "fa": "فعل برای دادن و اهدا کردن",
+      "ru": "Глагол для дарения и предоставления",
+      "fr": "Verbe pour donner et offrir",
+      "it": "Verbo per dare e offrire",
+      "es": "Verbo para dar y ofrecer",
+      "pt": "Verbo para dar e oferecer"
+    },
+    "conjugations": {
+      "présent": ["je donne", "tu donnes", "il/elle donne", "nous donnons", "vous donnez", "ils/elles donnent"],
+      "passé composé": ["j'ai donné", "tu as donné", "il/elle a donné", "nous avons donné", "vous avez donné", "ils/elles ont donné"],
+      "imparfait": ["je donnais", "tu donnais", "il/elle donnait", "nous donnions", "vous donniez", "ils/elles donnaient"],
+      "futur": ["je donnerai", "tu donneras", "il/elle donnera", "nous donnerons", "vous donnerez", "ils/elles donneront"]
+    },
+    "examples": {
+      "ar": ["Je donne mon avis.", "أعطي رأيي."],
+      "de": ["Tu donnes de l'argent.", "Du gibst Geld."],
+      "en": ["He gives a gift.", "He gives a gift."],
+      "fa": ["Nous donnons une fête.", "ما جشن می‌دهیم."],
+      "ru": ["Vous donnez des conseils.", "Вы даёте советы."],
+      "fr": ["Ils donnent leur temps.", "Ils donnent leur temps."],
+      "it": ["Elle donne une réponse.", "Dà una risposta."],
+      "es": ["Donne-moi la main.", "Dame la mano."],
+      "pt": ["Je donne raison.", "Dou razão."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "dire",
+    "translations": {
+      "ar": "يقول",
+      "de": "sagen",
+      "en": "to say / to tell",
+      "fa": "گفتن",
+      "ru": "говорить / сказать",
+      "fr": "dire",
+      "it": "dire",
+      "es": "decir",
+      "pt": "dizer"
+    },
+    "explanation": {
+      "ar": "فعل للقول والكلام",
+      "de": "Verb für Sagen und Sprechen",
+      "en": "Verb for saying and speaking",
+      "fa": "فعل برای گفتن و سخن گفتن",
+      "ru": "Глагол для говорения и высказывания",
+      "fr": "Verbe pour dire et parler",
+      "it": "Verbo per dire e parlare",
+      "es": "Verbo para decir y hablar",
+      "pt": "Verbo para dizer e falar"
+    },
+    "conjugations": {
+      "présent": ["je dis", "tu dis", "il/elle dit", "nous disons", "vous dites", "ils/elles disent"],
+      "passé composé": ["j'ai dit", "tu as dit", "il/elle a dit", "nous avons dit", "vous avez dit", "ils/elles ont dit"],
+      "imparfait": ["je disais", "tu disais", "il/elle disait", "nous disions", "vous disiez", "ils/elles disaient"],
+      "futur": ["je dirai", "tu diras", "il/elle dira", "nous dirons", "vous direz", "ils/elles diront"]
+    },
+    "examples": {
+      "ar": ["Je dis la vérité.", "أقول الحقيقة."],
+      "de": ["Tu dis quoi?", "Was sagst du?"],
+      "en": ["She says hello.", "She says hello."],
+      "fa": ["Nous disons au revoir.", "ما خداحافظی می‌کنیم."],
+      "ru": ["Vous dites des bêtises.", "Вы говорите глупости."],
+      "fr": ["Ils disent merci.", "Ils disent merci."],
+      "it": ["Elle dit toujours oui.", "Dice sempre di sì."],
+      "es": ["Qu'est-ce que tu dis?", "¿Qué dices?"],
+      "pt": ["Dis-moi tout.", "Diz-me tudo."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "travailler",
+    "translations": {
+      "ar": "يعمل",
+      "de": "arbeiten",
+      "en": "to work",
+      "fa": "کار کردن",
+      "ru": "работать",
+      "fr": "travailler",
+      "it": "lavorare",
+      "es": "trabajar",
+      "pt": "trabalhar"
+    },
+    "explanation": {
+      "ar": "فعل للعمل والشغل",
+      "de": "Verb für Arbeiten und Beschäftigung",
+      "en": "Verb for working and employment",
+      "fa": "فعل برای کار کردن و اشتغال",
+      "ru": "Глагол для работы и трудовой деятельности",
+      "fr": "Verbe pour travailler et exercer",
+      "it": "Verbo per lavorare e esercitare",
+      "es": "Verbo para trabajar y ejercer",
+      "pt": "Verbo para trabalhar e exercer"
+    },
+    "conjugations": {
+      "présent": ["je travaille", "tu travailles", "il/elle travaille", "nous travaillons", "vous travaillez", "ils/elles travaillent"],
+      "passé composé": ["j'ai travaillé", "tu as travaillé", "il/elle a travaillé", "nous avons travaillé", "vous avez travaillé", "ils/elles ont travaillé"],
+      "imparfait": ["je travaillais", "tu travaillais", "il/elle travaillait", "nous travaillions", "vous travailliez", "ils/elles travaillaient"],
+      "futur": ["je travaillerai", "tu travailleras", "il/elle travaillera", "nous travaillerons", "vous travaillerez", "ils/elles travailleront"]
+    },
+    "examples": {
+      "ar": ["Je travaille à Paris.", "أعمل في باريس."],
+      "de": ["Tu travailles dur.", "Du arbeitest hart."],
+      "en": ["He works in an office.", "He works in an office."],
+      "fa": ["Nous travaillons ensemble.", "ما با هم کار می‌کنیم."],
+      "ru": ["Vous travaillez où?", "Где вы работаете?"],
+      "fr": ["Ils travaillent beaucoup.", "Ils travaillent beaucoup."],
+      "it": ["Elle travaille le soir.", "Lavora la sera."],
+      "es": ["Je travaille du lundi au vendredi.", "Trabajo de lunes a viernes."],
+      "pt": ["Tu travailles trop.", "Trabalhas demais."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "appeler",
+    "translations": {
+      "ar": "ينادي / يتصل",
+      "de": "rufen / anrufen",
+      "en": "to call",
+      "fa": "صدا زدن / تماس گرفتن",
+      "ru": "звать / звонить",
+      "fr": "appeler",
+      "it": "chiamare",
+      "es": "llamar",
+      "pt": "chamar / ligar"
+    },
+    "explanation": {
+      "ar": "فعل للنداء والاتصال الهاتفي",
+      "de": "Verb für Rufen und Telefonieren",
+      "en": "Verb for calling and phoning",
+      "fa": "فعل برای صدا زدن و تماس گرفتن",
+      "ru": "Глагол для зова и телефонного звонка",
+      "fr": "Verbe pour appeler et téléphoner",
+      "it": "Verbo per chiamare e telefonare",
+      "es": "Verbo para llamar y telefonear",
+      "pt": "Verbo para chamar e telefonar"
+    },
+    "conjugations": {
+      "présent": ["j'appelle", "tu appelles", "il/elle appelle", "nous appelons", "vous appelez", "ils/elles appellent"],
+      "passé composé": ["j'ai appelé", "tu as appelé", "il/elle a appelé", "nous avons appelé", "vous avez appelé", "ils/elles ont appelé"],
+      "imparfait": ["j'appelais", "tu appelais", "il/elle appelait", "nous appelions", "vous appeliez", "ils/elles appelaient"],
+      "futur": ["j'appellerai", "tu appelleras", "il/elle appellera", "nous appellerons", "vous appellerez", "ils/elles appelleront"]
+    },
+    "examples": {
+      "ar": ["Je m'appelle Marie.", "اسمي ماري."],
+      "de": ["Tu appelles qui?", "Wen rufst du an?"],
+      "en": ["She calls her mother.", "She calls her mother."],
+      "fa": ["Nous appelons un taxi.", "ما تاکسی می‌خوانیم."],
+      "ru": ["Vous appelez le médecin.", "Вы вызываете врача."],
+      "fr": ["Ils appellent la police.", "Ils appellent la police."],
+      "it": ["Comment t'appelles-tu?", "Come ti chiami?"],
+      "es": ["Elle appelle son ami.", "Llama a su amigo."],
+      "pt": ["Appelle-moi demain.", "Liga-me amanhã."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "essayer",
+    "translations": {
+      "ar": "يحاول",
+      "de": "versuchen / probieren",
+      "en": "to try",
+      "fa": "تلاش کردن / امتحان کردن",
+      "ru": "пытаться / пробовать",
+      "fr": "essayer",
+      "it": "provare / tentare",
+      "es": "intentar / probar",
+      "pt": "tentar / experimentar"
+    },
+    "explanation": {
+      "ar": "فعل للمحاولة والتجربة",
+      "de": "Verb für Versuchen und Ausprobieren",
+      "en": "Verb for trying and attempting",
+      "fa": "فعل برای تلاش کردن و آزمایش کردن",
+      "ru": "Глагол для попытки и пробования",
+      "fr": "Verbe pour essayer et tenter",
+      "it": "Verbo per provare e tentare",
+      "es": "Verbo para intentar y probar",
+      "pt": "Verbo para tentar e experimentar"
+    },
+    "conjugations": {
+      "présent": ["j'essaie/essaye", "tu essaies/essayes", "il/elle essaie/essaye", "nous essayons", "vous essayez", "ils/elles essaient/essayent"],
+      "passé composé": ["j'ai essayé", "tu as essayé", "il/elle a essayé", "nous avons essayé", "vous avez essayé", "ils/elles ont essayé"],
+      "imparfait": ["j'essayais", "tu essayais", "il/elle essayait", "nous essayions", "vous essayiez", "ils/elles essayaient"],
+      "futur": ["j'essaierai/essayerai", "tu essaieras/essayeras", "il/elle essaiera/essayera", "nous essaierons/essayerons", "vous essaierez/essayerez", "ils/elles essaieront/essayeront"]
+    },
+    "examples": {
+      "ar": ["J'essaie de comprendre.", "أحاول أن أفهم."],
+      "de": ["Tu essaies encore.", "Du versuchst es nochmal."],
+      "en": ["She tries to learn.", "She tries to learn."],
+      "fa": ["Nous essayons ce restaurant.", "ما این رستوران را امتحان می‌کنیم."],
+      "ru": ["Vous essayez de nouveaux plats.", "Вы пробуете новые блюда."],
+      "fr": ["Ils essaient de dormir.", "Ils essaient de dormir."],
+      "it": ["Elle essaie une robe.", "Prova un vestito."],
+      "es": ["J'essaie mon mieux.", "Hago mi mejor esfuerzo."],
+      "pt": ["Essaie de te calmer.", "Tenta acalmar-te."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "pouvoir",
+    "translations": {
+      "ar": "يستطيع",
+      "de": "können",
+      "en": "can / to be able to",
+      "fa": "توانستن",
+      "ru": "мочь",
+      "fr": "pouvoir",
+      "it": "potere",
+      "es": "poder",
+      "pt": "poder"
+    },
+    "explanation": {
+      "ar": "فعل للقدرة والإمكانية",
+      "de": "Verb für Können und Fähigkeit",
+      "en": "Verb for ability and capability",
+      "fa": "فعل برای توانایی و قدرت",
+      "ru": "Глагол возможности и способности",
+      "fr": "Verbe pour la capacité et la possibilité",
+      "it": "Verbo per capacità e possibilità",
+      "es": "Verbo para capacidad y posibilidad",
+      "pt": "Verbo para capacidade e possibilidade"
+    },
+    "conjugations": {
+      "présent": ["je peux", "tu peux", "il/elle peut", "nous pouvons", "vous pouvez", "ils/elles peuvent"],
+      "passé composé": ["j'ai pu", "tu as pu", "il/elle a pu", "nous avons pu", "vous avez pu", "ils/elles ont pu"],
+      "imparfait": ["je pouvais", "tu pouvais", "il/elle pouvait", "nous pouvions", "vous pouviez", "ils/elles pouvaient"],
+      "futur": ["je pourrai", "tu pourras", "il/elle pourra", "nous pourrons", "vous pourrez", "ils/elles pourront"]
+    },
+    "examples": {
+      "ar": ["Je peux t'aider.", "أستطيع مساعدتك."],
+      "de": ["Tu peux venir?", "Kannst du kommen?"],
+      "en": ["She can swim.", "She can swim."],
+      "fa": ["Nous pouvons partir.", "ما می‌توانیم برویم."],
+      "ru": ["Vous pouvez répéter?", "Можете повторить?"],
+      "fr": ["Ils peuvent attendre.", "Ils peuvent attendre."],
+      "it": ["Elle peut chanter.", "Può cantare."],
+      "es": ["On peut y aller.", "Podemos ir."],
+      "pt": ["Je ne peux pas.", "Não posso."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "un",
+    "translations": {
+      "ar": "واحد",
+      "de": "eins",
+      "en": "one",
+      "fa": "یک",
+      "ru": "один",
+      "fr": "un",
+      "it": "uno",
+      "es": "uno",
+      "pt": "um"
+    },
+    "explanation": {
+      "ar": "العدد الأول، الرقم 1",
+      "de": "Die erste Zahl, die Ziffer 1",
+      "en": "The first number, the digit 1",
+      "fa": "اولین عدد، رقم 1",
+      "ru": "Первое число, цифра 1",
+      "fr": "Le premier nombre, le chiffre 1",
+      "it": "Il primo numero, la cifra 1",
+      "es": "El primer número, el dígito 1",
+      "pt": "O primeiro número, o dígito 1"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["J'ai un chat.", "لدي قطة واحدة."],
+      "de": ["Un plus un égale deux.", "Eins plus eins ist zwei."],
+      "en": ["One apple, please.", "One apple, please."],
+      "fa": ["Un instant!", "یک لحظه!"],
+      "ru": ["Il est une heure.", "Час."],
+      "fr": ["C'est un bon livre.", "C'est un bon livre."],
+      "it": ["Un caffè, per favore.", "Un caffè, per favore."],
+      "es": ["Un día je partirai.", "Un día me iré."],
+      "pt": ["Um momento.", "Um momento."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "deux",
+    "translations": {
+      "ar": "اثنان",
+      "de": "zwei",
+      "en": "two",
+      "fa": "دو",
+      "ru": "два",
+      "fr": "deux",
+      "it": "due",
+      "es": "dos",
+      "pt": "dois"
+    },
+    "explanation": {
+      "ar": "العدد الثاني، الرقم 2",
+      "de": "Die zweite Zahl, die Ziffer 2",
+      "en": "The second number, the digit 2",
+      "fa": "دومین عدد، رقم 2",
+      "ru": "Второе число, цифра 2",
+      "fr": "Le deuxième nombre, le chiffre 2",
+      "it": "Il secondo numero, la cifra 2",
+      "es": "El segundo número, el dígito 2",
+      "pt": "O segundo número, o dígito 2"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["J'ai deux frères.", "لدي أخوان."],
+      "de": ["Deux cafés, s'il vous plaît.", "Zwei Kaffee, bitte."],
+      "en": ["Two plus two equals four.", "Two plus two equals four."],
+      "fa": ["Il est deux heures.", "ساعت دو است."],
+      "ru": ["Nous sommes deux.", "Нас двое."],
+      "fr": ["Deux enfants jouent.", "Deux enfants jouent."],
+      "it": ["Due biglietti, per favore.", "Due biglietti, per favore."],
+      "es": ["Tengo dos perros.", "Tengo dos perros."],
+      "pt": ["Dois dias.", "Dois dias."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "trois",
+    "translations": {
+      "ar": "ثلاثة",
+      "de": "drei",
+      "en": "three",
+      "fa": "سه",
+      "ru": "три",
+      "fr": "trois",
+      "it": "tre",
+      "es": "tres",
+      "pt": "três"
+    },
+    "explanation": {
+      "ar": "العدد الثالث، الرقم 3",
+      "de": "Die dritte Zahl, die Ziffer 3",
+      "en": "The third number, the digit 3",
+      "fa": "سومین عدد، رقم 3",
+      "ru": "Третье число, цифра 3",
+      "fr": "Le troisième nombre, le chiffre 3",
+      "it": "Il terzo numero, la cifra 3",
+      "es": "El tercer número, el dígito 3",
+      "pt": "O terceiro número, o dígito 3"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Il a trois ans.", "عمره ثلاث سنوات."],
+      "de": ["Trois pommes, s'il vous plaît.", "Drei Äpfel, bitte."],
+      "en": ["Three friends.", "Three friends."],
+      "fa": ["Il est trois heures.", "ساعت سه است."],
+      "ru": ["Nous avons trois chats.", "У нас три кошки."],
+      "fr": ["Trois jours par semaine.", "Trois jours par semaine."],
+      "it": ["Tre volte.", "Tre volte."],
+      "es": ["Tres personas.", "Tres personas."],
+      "pt": ["Três semanas.", "Três semanas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "quatre",
+    "translations": {
+      "ar": "أربعة",
+      "de": "vier",
+      "en": "four",
+      "fa": "چهار",
+      "ru": "четыре",
+      "fr": "quatre",
+      "it": "quattro",
+      "es": "cuatro",
+      "pt": "quatro"
+    },
+    "explanation": {
+      "ar": "العدد الرابع، الرقم 4",
+      "de": "Die vierte Zahl, die Ziffer 4",
+      "en": "The fourth number, the digit 4",
+      "fa": "چهارمین عدد، رقم 4",
+      "ru": "Четвёртое число, цифра 4",
+      "fr": "Le quatrième nombre, le chiffre 4",
+      "it": "Il quarto numero, la cifra 4",
+      "es": "El cuarto número, el dígito 4",
+      "pt": "O quarto número, o dígito 4"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["J'ai quatre sœurs.", "لدي أربع أخوات."],
+      "de": ["Quatre saisons.", "Vier Jahreszeiten."],
+      "en": ["Four chairs.", "Four chairs."],
+      "fa": ["Il est quatre heures.", "ساعت چهار است."],
+      "ru": ["Quatre coins.", "Четыре угла."],
+      "fr": ["Quatre murs.", "Quatre murs."],
+      "it": ["Quattro persone.", "Quattro persone."],
+      "es": ["Cuatro esquinas.", "Cuatro esquinas."],
+      "pt": ["Quatro dias.", "Quatro dias."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "cinq",
+    "translations": {
+      "ar": "خمسة",
+      "de": "fünf",
+      "en": "five",
+      "fa": "پنج",
+      "ru": "пять",
+      "fr": "cinq",
+      "it": "cinque",
+      "es": "cinco",
+      "pt": "cinco"
+    },
+    "explanation": {
+      "ar": "العدد الخامس، الرقم 5",
+      "de": "Die fünfte Zahl, die Ziffer 5",
+      "en": "The fifth number, the digit 5",
+      "fa": "پنجمین عدد، رقم 5",
+      "ru": "Пятое число, цифра 5",
+      "fr": "Le cinquième nombre, le chiffre 5",
+      "it": "Il quinto numero, la cifra 5",
+      "es": "El quinto número, el dígito 5",
+      "pt": "O quinto número, o dígito 5"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Cinq minutes.", "خمس دقائق."],
+      "de": ["Cinq euros.", "Fünf Euro."],
+      "en": ["Five fingers.", "Five fingers."],
+      "fa": ["Il est cinq heures.", "ساعت پنج است."],
+      "ru": ["Cinq jours.", "Пять дней."],
+      "fr": ["Cinq étoiles.", "Cinq étoiles."],
+      "it": ["Cinque amici.", "Cinque amici."],
+      "es": ["Cinco libros.", "Cinco libros."],
+      "pt": ["Cinco pessoas.", "Cinco pessoas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "six",
+    "translations": {
+      "ar": "ستة",
+      "de": "sechs",
+      "en": "six",
+      "fa": "شش",
+      "ru": "шесть",
+      "fr": "six",
+      "it": "sei",
+      "es": "seis",
+      "pt": "seis"
+    },
+    "explanation": {
+      "ar": "العدد السادس، الرقم 6",
+      "de": "Die sechste Zahl, die Ziffer 6",
+      "en": "The sixth number, the digit 6",
+      "fa": "ششمین عدد، رقم 6",
+      "ru": "Шестое число, цифра 6",
+      "fr": "Le sixième nombre, le chiffre 6",
+      "it": "Il sesto numero, la cifra 6",
+      "es": "El sexto número, el dígito 6",
+      "pt": "O sexto número, o dígito 6"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Six heures du matin.", "الساعة السادسة صباحاً."],
+      "de": ["Six mois.", "Sechs Monate."],
+      "en": ["Six students.", "Six students."],
+      "fa": ["Il est six heures.", "ساعت شش است."],
+      "ru": ["Six personnes.", "Шесть человек."],
+      "fr": ["Six jours.", "Six jours."],
+      "it": ["Sei ore.", "Sei ore."],
+      "es": ["Seis meses.", "Seis meses."],
+      "pt": ["Seis anos.", "Seis anos."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "sept",
+    "translations": {
+      "ar": "سبعة",
+      "de": "sieben",
+      "en": "seven",
+      "fa": "هفت",
+      "ru": "семь",
+      "fr": "sept",
+      "it": "sette",
+      "es": "siete",
+      "pt": "sete"
+    },
+    "explanation": {
+      "ar": "العدد السابع، الرقم 7",
+      "de": "Die siebte Zahl, die Ziffer 7",
+      "en": "The seventh number, the digit 7",
+      "fa": "هفتمین عدد، رقم 7",
+      "ru": "Седьмое число, цифра 7",
+      "fr": "Le septième nombre, le chiffre 7",
+      "it": "Il settimo numero, la cifra 7",
+      "es": "El séptimo número, el dígito 7",
+      "pt": "O sétimo número, o dígito 7"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Sept jours de la semaine.", "سبعة أيام الأسبوع."],
+      "de": ["Sept heures.", "Sieben Uhr."],
+      "en": ["Seven continents.", "Seven continents."],
+      "fa": ["Il est sept heures.", "ساعت هفت است."],
+      "ru": ["Sept couleurs.", "Семь цветов."],
+      "fr": ["Sept nains.", "Sept nains."],
+      "it": ["Sette giorni.", "Sette giorni."],
+      "es": ["Siete días.", "Siete días."],
+      "pt": ["Sete noites.", "Sete noites."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "huit",
+    "translations": {
+      "ar": "ثمانية",
+      "de": "acht",
+      "en": "eight",
+      "fa": "هشت",
+      "ru": "восемь",
+      "fr": "huit",
+      "it": "otto",
+      "es": "ocho",
+      "pt": "oito"
+    },
+    "explanation": {
+      "ar": "العدد الثامن، الرقم 8",
+      "de": "Die achte Zahl, die Ziffer 8",
+      "en": "The eighth number, the digit 8",
+      "fa": "هشتمین عدد، رقم 8",
+      "ru": "Восьмое число, цифра 8",
+      "fr": "Le huitième nombre, le chiffre 8",
+      "it": "L'ottavo numero, la cifra 8",
+      "es": "El octavo número, el dígito 8",
+      "pt": "O oitavo número, o dígito 8"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Huit heures du soir.", "الساعة الثامنة مساءً."],
+      "de": ["Huit pages.", "Acht Seiten."],
+      "en": ["Eight o'clock.", "Eight o'clock."],
+      "fa": ["Il est huit heures.", "ساعت هشت است."],
+      "ru": ["Huit ans.", "Восемь лет."],
+      "fr": ["Huit personnes.", "Huit personnes."],
+      "it": ["Otto ore.", "Otto ore."],
+      "es": ["Ocho meses.", "Ocho meses."],
+      "pt": ["Oito horas.", "Oito horas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "neuf",
+    "translations": {
+      "ar": "تسعة",
+      "de": "neun",
+      "en": "nine",
+      "fa": "نه",
+      "ru": "девять",
+      "fr": "neuf",
+      "it": "nove",
+      "es": "nueve",
+      "pt": "nove"
+    },
+    "explanation": {
+      "ar": "العدد التاسع، الرقم 9",
+      "de": "Die neunte Zahl, die Ziffer 9",
+      "en": "The ninth number, the digit 9",
+      "fa": "نهمین عدد، رقم 9",
+      "ru": "Девятое число, цифра 9",
+      "fr": "Le neuvième nombre, le chiffre 9",
+      "it": "Il nono numero, la cifra 9",
+      "es": "El noveno número, el dígito 9",
+      "pt": "O nono número, o dígito 9"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Neuf heures.", "التاسعة."],
+      "de": ["Neuf mois.", "Neun Monate."],
+      "en": ["Nine lives.", "Nine lives."],
+      "fa": ["Il est neuf heures.", "ساعت نه است."],
+      "ru": ["Neuf étudiants.", "Девять студентов."],
+      "fr": ["Neuf ans.", "Neuf ans."],
+      "it": ["Nove giorni.", "Nove giorni."],
+      "es": ["Nueve semanas.", "Nueve semanas."],
+      "pt": ["Nove pessoas.", "Nove pessoas."]
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "word_fr": "dix",
+    "translations": {
+      "ar": "عشرة",
+      "de": "zehn",
+      "en": "ten",
+      "fa": "ده",
+      "ru": "десять",
+      "fr": "dix",
+      "it": "dieci",
+      "es": "diez",
+      "pt": "dez"
+    },
+    "explanation": {
+      "ar": "العدد العاشر، الرقم 10",
+      "de": "Die zehnte Zahl, die Ziffer 10",
+      "en": "The tenth number, the digit 10",
+      "fa": "دهمین عدد، رقم 10",
+      "ru": "Десятое число, цифра 10",
+      "fr": "Le dixième nombre, le chiffre 10",
+      "it": "Il decimo numero, la cifra 10",
+      "es": "El décimo número, el dígito 10",
+      "pt": "O décimo número, o dígito 10"
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": ["Dix minutes.", "عشر دقائق."],
+      "de": ["Dix euros.", "Zehn Euro."],
+      "en": ["Ten fingers.", "Ten fingers."],
+      "fa": ["Il est dix heures.", "ساعت ده است."],
+      "ru": ["Dix jours.", "Десять дней."],
+      "fr": ["Dix étoiles.", "Dix étoiles."],
+      "it": ["Dieci volte.", "Dieci volte."],
+      "es": ["Diez años.", "Diez años."],
+      "pt": ["Dez pessoas.", "Dez pessoas."]
+    },
+    "cefrLevel": "A1"
+  }
+]
