@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 42,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "821-840",
+    "total_words": 20,
+    "theme": "Health and Wellness",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_821_fa",
+      "word_index": 821,
+      "translations": {
+        "en": "health",
+        "de": "Gesundheit",
+        "ar": "صحة",
+        "fr": "santé",
+        "it": "salute",
+        "ru": "здоровье",
+        "es": "salud",
+        "pl": "zdrowie",
+        "fa": "سلامت"
+      },
+      "examples": {
+        "en": [
+          "My health is very good.",
+          "I care about my health.",
+          "Exercise is good for your health."
+        ],
+        "de": [
+          "Meine Gesundheit ist sehr gut.",
+          "Ich achte auf meine Gesundheit.",
+          "Sport ist gut für deine Gesundheit."
+        ],
+        "ar": [
+          "صحتي جيدة جداً.",
+          "أهتم بصحتي.",
+          "الرياضة جيدة لصحتك."
+        ],
+        "fr": [
+          "Ma santé est très bonne.",
+          "Je prends soin de ma santé.",
+          "L'exercice est bon pour votre santé."
+        ],
+        "it": [
+          "La mia salute è molto buona.",
+          "Mi prendo cura della mia salute.",
+          "L'esercizio fa bene alla tua salute."
+        ],
+        "ru": [
+          "Моё здоровье очень хорошее.",
+          "Я забочусь о своём здоровье.",
+          "Спорт полезен для твоего здоровья."
+        ],
+        "es": [
+          "Mi salud es muy buena.",
+          "Me preocupo por mi salud.",
+          "El ejercicio es bueno para tu salud."
+        ],
+        "pl": [
+          "Moje zdrowie jest bardzo dobre.",
+          "Dbam o swoje zdrowie.",
+          "Ćwiczenia są dobre dla twojego zdrowia."
+        ],
+        "fa": [
+          "سلامت من خیلی خوب است.",
+          "من به سلامتم اهمیت می‌دهم.",
+          "ورزش برای سلامتی شما خوب است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_822_fa",
+      "word_index": 822,
+      "translations": {
+        "en": "sick",
+        "de": "krank",
+        "ar": "مريض",
+        "fr": "malade",
+        "it": "malato",
+        "ru": "больной",
+        "es": "enfermo",
+        "pl": "chory",
+        "fa": "بیمار"
+      },
+      "examples": {
+        "en": [
+          "I am sick today.",
+          "My sister is very sick.",
+          "He feels sick and stays home."
+        ],
+        "de": [
+          "Ich bin heute krank.",
+          "Meine Schwester ist sehr krank.",
+          "Er fühlt sich krank und bleibt zu Hause."
+        ],
+        "ar": [
+          "أنا مريض اليوم.",
+          "أختي مريضة جداً.",
+          "يشعر بالمرض ويبقى في المنزل."
+        ],
+        "fr": [
+          "Je suis malade aujourd'hui.",
+          "Ma sœur est très malade.",
+          "Il se sent malade et reste à la maison."
+        ],
+        "it": [
+          "Sono malato oggi.",
+          "Mia sorella è molto malata.",
+          "Si sente malato e rimane a casa."
+        ],
+        "ru": [
+          "Я болен сегодня.",
+          "Моя сестра очень больна.",
+          "Он чувствует себя плохо и остаётся дома."
+        ],
+        "es": [
+          "Estoy enfermo hoy.",
+          "Mi hermana está muy enferma.",
+          "Se siente enfermo y se queda en casa."
+        ],
+        "pl": [
+          "Jestem chory dzisiaj.",
+          "Moja siostra jest bardzo chora.",
+          "Czuje się chory i zostaje w domu."
+        ],
+        "fa": [
+          "من امروز بیمار هستم.",
+          "خواهرم خیلی بیمار است.",
+          "او احساس بیماری می‌کند و در خانه می‌ماند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_823_fa",
+      "word_index": 823,
+      "translations": {
+        "en": "well",
+        "de": "gesund",
+        "ar": "بخير",
+        "fr": "bien",
+        "it": "bene",
+        "ru": "здоров",
+        "es": "bien",
+        "pl": "zdrowy",
+        "fa": "خوب"
+      },
+      "examples": {
+        "en": [
+          "I feel well today.",
+          "Are you feeling well now?",
+          "She is not well this morning."
+        ],
+        "de": [
+          "Ich fühle mich heute gut.",
+          "Fühlst du dich jetzt gut?",
+          "Sie fühlt sich heute Morgen nicht gut."
+        ],
+        "ar": [
+          "أشعر بخير اليوم.",
+          "هل تشعر بخير الآن؟",
+          "هي لا تشعر بخير هذا الصباح."
+        ],
+        "fr": [
+          "Je me sens bien aujourd'hui.",
+          "Te sens-tu bien maintenant?",
+          "Elle ne se sent pas bien ce matin."
+        ],
+        "it": [
+          "Mi sento bene oggi.",
+          "Ti senti bene ora?",
+          "Lei non sta bene stamattina."
+        ],
+        "ru": [
+          "Я чувствую себя хорошо сегодня.",
+          "Ты чувствуешь себя хорошо сейчас?",
+          "Она плохо себя чувствует сегодня утром."
+        ],
+        "es": [
+          "Me siento bien hoy.",
+          "¿Te sientes bien ahora?",
+          "Ella no se siente bien esta mañana."
+        ],
+        "pl": [
+          "Czuję się dobrze dzisiaj.",
+          "Czy czujesz się dobrze teraz?",
+          "Ona nie czuje się dobrze dziś rano."
+        ],
+        "fa": [
+          "من امروز حال خوبی دارم.",
+          "الان حالت خوب است؟",
+          "او امروز صبح حال خوبی ندارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_824_fa",
+      "word_index": 824,
+      "translations": {
+        "en": "pain",
+        "de": "Schmerz",
+        "ar": "ألم",
+        "fr": "douleur",
+        "it": "dolore",
+        "ru": "боль",
+        "es": "dolor",
+        "pl": "ból",
+        "fa": "درد"
+      },
+      "examples": {
+        "en": [
+          "I have a pain in my head.",
+          "The pain is very strong.",
+          "She feels pain in her leg."
+        ],
+        "de": [
+          "Ich habe Schmerzen im Kopf.",
+          "Der Schmerz ist sehr stark.",
+          "Sie hat Schmerzen im Bein."
+        ],
+        "ar": [
+          "لدي ألم في رأسي.",
+          "الألم قوي جداً.",
+          "تشعر بألم في ساقها."
+        ],
+        "fr": [
+          "J'ai une douleur à la tête.",
+          "La douleur est très forte.",
+          "Elle ressent une douleur à la jambe."
+        ],
+        "it": [
+          "Ho un dolore alla testa.",
+          "Il dolore è molto forte.",
+          "Lei sente dolore alla gamba."
+        ],
+        "ru": [
+          "У меня болит голова.",
+          "Боль очень сильная.",
+          "Она чувствует боль в ноге."
+        ],
+        "es": [
+          "Tengo un dolor en la cabeza.",
+          "El dolor es muy fuerte.",
+          "Ella siente dolor en la pierna."
+        ],
+        "pl": [
+          "Mam ból w głowie.",
+          "Ból jest bardzo silny.",
+          "Ona czuje ból w nodze."
+        ],
+        "fa": [
+          "من درد سر دارم.",
+          "درد خیلی شدید است.",
+          "او درد در پایش احساس می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_825_fa",
+      "word_index": 825,
+      "translations": {
+        "en": "to hurt",
+        "de": "schmerzen",
+        "ar": "يؤلم",
+        "fr": "faire mal",
+        "it": "fare male",
+        "ru": "болеть",
+        "es": "doler",
+        "pl": "boleć",
+        "fa": "صدمه دیدن"
+      },
+      "examples": {
+        "en": [
+          "My arm hurts very much.",
+          "Does your head hurt?",
+          "Her foot hurts after running."
+        ],
+        "de": [
+          "Mein Arm tut sehr weh.",
+          "Tut dein Kopf weh?",
+          "Ihr Fuß tut nach dem Laufen weh."
+        ],
+        "ar": [
+          "ذراعي يؤلمني كثيراً.",
+          "هل رأسك يؤلمك؟",
+          "قدمها تؤلمها بعد الجري."
+        ],
+        "fr": [
+          "Mon bras me fait très mal.",
+          "Ta tête te fait mal?",
+          "Son pied lui fait mal après la course."
+        ],
+        "it": [
+          "Il mio braccio mi fa molto male.",
+          "Ti fa male la testa?",
+          "Il suo piede le fa male dopo la corsa."
+        ],
+        "ru": [
+          "У меня очень болит рука.",
+          "У тебя болит голова?",
+          "У неё болит нога после бега."
+        ],
+        "es": [
+          "Me duele mucho el brazo.",
+          "¿Te duele la cabeza?",
+          "Le duele el pie después de correr."
+        ],
+        "pl": [
+          "Bardzo boli mnie ramię.",
+          "Boli cię głowa?",
+          "Boli ją stopa po biegu."
+        ],
+        "fa": [
+          "بازویم خیلی درد می‌کند.",
+          "سرت درد می‌کند؟",
+          "پای او بعد از دویدن درد می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_826_fa",
+      "word_index": 826,
+      "translations": {
+        "en": "doctor",
+        "de": "Arzt",
+        "ar": "طبيب",
+        "fr": "médecin",
+        "it": "dottore",
+        "ru": "врач",
+        "es": "médico",
+        "pl": "lekarz",
+        "fa": "دکتر"
+      },
+      "examples": {
+        "en": [
+          "I need to see a doctor.",
+          "The doctor is very kind.",
+          "My mother is a doctor."
+        ],
+        "de": [
+          "Ich muss einen Arzt sehen.",
+          "Der Arzt ist sehr nett.",
+          "Meine Mutter ist Ärztin."
+        ],
+        "ar": [
+          "أحتاج لرؤية طبيب.",
+          "الطبيب لطيف جداً.",
+          "أمي طبيبة."
+        ],
+        "fr": [
+          "Je dois voir un médecin.",
+          "Le médecin est très gentil.",
+          "Ma mère est médecin."
+        ],
+        "it": [
+          "Ho bisogno di vedere un dottore.",
+          "Il dottore è molto gentile.",
+          "Mia madre è dottoressa."
+        ],
+        "ru": [
+          "Мне нужно к врачу.",
+          "Врач очень добрый.",
+          "Моя мама врач."
+        ],
+        "es": [
+          "Necesito ver a un médico.",
+          "El médico es muy amable.",
+          "Mi madre es médica."
+        ],
+        "pl": [
+          "Muszę iść do lekarza.",
+          "Lekarz jest bardzo miły.",
+          "Moja mama jest lekarką."
+        ],
+        "fa": [
+          "من باید دکتر ببینم.",
+          "دکتر خیلی مهربان است.",
+          "مادرم دکتر است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_827_fa",
+      "word_index": 827,
+      "translations": {
+        "en": "medicine",
+        "de": "Medizin",
+        "ar": "دواء",
+        "fr": "médicament",
+        "it": "medicina",
+        "ru": "лекарство",
+        "es": "medicina",
+        "pl": "lekarstwo",
+        "fa": "دارو"
+      },
+      "examples": {
+        "en": [
+          "I take my medicine every day.",
+          "This medicine is very good.",
+          "Do you need some medicine?"
+        ],
+        "de": [
+          "Ich nehme jeden Tag meine Medizin.",
+          "Diese Medizin ist sehr gut.",
+          "Brauchst du Medizin?"
+        ],
+        "ar": [
+          "أتناول دوائي كل يوم.",
+          "هذا الدواء جيد جداً.",
+          "هل تحتاج لبعض الدواء؟"
+        ],
+        "fr": [
+          "Je prends mon médicament tous les jours.",
+          "Ce médicament est très bon.",
+          "As-tu besoin d'un médicament?"
+        ],
+        "it": [
+          "Prendo la mia medicina ogni giorno.",
+          "Questa medicina è molto buona.",
+          "Hai bisogno di medicina?"
+        ],
+        "ru": [
+          "Я принимаю лекарство каждый день.",
+          "Это лекарство очень хорошее.",
+          "Тебе нужно лекарство?"
+        ],
+        "es": [
+          "Tomo mi medicina todos los días.",
+          "Esta medicina es muy buena.",
+          "¿Necesitas medicina?"
+        ],
+        "pl": [
+          "Biorę lekarstwo codziennie.",
+          "To lekarstwo jest bardzo dobre.",
+          "Potrzebujesz lekarstwa?"
+        ],
+        "fa": [
+          "من هر روز دارویم را می‌خورم.",
+          "این دارو خیلی خوب است.",
+          "آیا به دارو نیاز داری؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_828_fa",
+      "word_index": 828,
+      "translations": {
+        "en": "hospital",
+        "de": "Krankenhaus",
+        "ar": "مستشفى",
+        "fr": "hôpital",
+        "it": "ospedale",
+        "ru": "больница",
+        "es": "hospital",
+        "pl": "szpital",
+        "fa": "بیمارستان"
+      },
+      "examples": {
+        "en": [
+          "My brother is in the hospital.",
+          "The hospital is very big.",
+          "I go to the hospital tomorrow."
+        ],
+        "de": [
+          "Mein Bruder ist im Krankenhaus.",
+          "Das Krankenhaus ist sehr groß.",
+          "Ich gehe morgen ins Krankenhaus."
+        ],
+        "ar": [
+          "أخي في المستشفى.",
+          "المستشفى كبير جداً.",
+          "أذهب إلى المستشفى غداً."
+        ],
+        "fr": [
+          "Mon frère est à l'hôpital.",
+          "L'hôpital est très grand.",
+          "Je vais à l'hôpital demain."
+        ],
+        "it": [
+          "Mio fratello è in ospedale.",
+          "L'ospedale è molto grande.",
+          "Vado in ospedale domani."
+        ],
+        "ru": [
+          "Мой брат в больнице.",
+          "Больница очень большая.",
+          "Я иду в больницу завтра."
+        ],
+        "es": [
+          "Mi hermano está en el hospital.",
+          "El hospital es muy grande.",
+          "Voy al hospital mañana."
+        ],
+        "pl": [
+          "Mój brat jest w szpitalu.",
+          "Szpital jest bardzo duży.",
+          "Idę do szpitala jutro."
+        ],
+        "fa": [
+          "برادرم در بیمارستان است.",
+          "بیمارستان خیلی بزرگ است.",
+          "من فردا به بیمارستان می‌روم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_829_fa",
+      "word_index": 829,
+      "translations": {
+        "en": "nurse",
+        "de": "Krankenpfleger",
+        "ar": "ممرض",
+        "fr": "infirmier",
+        "it": "infermiere",
+        "ru": "медсестра",
+        "es": "enfermero",
+        "pl": "pielęgniarka",
+        "fa": "پرستار"
+      },
+      "examples": {
+        "en": [
+          "The nurse is very helpful.",
+          "I want to be a nurse.",
+          "The nurse helps many people."
+        ],
+        "de": [
+          "Die Krankenschwester ist sehr hilfsbereit.",
+          "Ich möchte Krankenschwester werden.",
+          "Die Krankenschwester hilft vielen Menschen."
+        ],
+        "ar": [
+          "الممرضة متعاونة جداً.",
+          "أريد أن أكون ممرضة.",
+          "الممرضة تساعد أناساً كثيرين."
+        ],
+        "fr": [
+          "L'infirmière est très serviable.",
+          "Je veux être infirmière.",
+          "L'infirmière aide beaucoup de gens."
+        ],
+        "it": [
+          "L'infermiera è molto disponibile.",
+          "Voglio essere un'infermiera.",
+          "L'infermiera aiuta molte persone."
+        ],
+        "ru": [
+          "Медсестра очень помогает.",
+          "Я хочу быть медсестрой.",
+          "Медсестра помогает многим людям."
+        ],
+        "es": [
+          "La enfermera es muy servicial.",
+          "Quiero ser enfermera.",
+          "La enfermera ayuda a muchas personas."
+        ],
+        "pl": [
+          "Pielęgniarka jest bardzo pomocna.",
+          "Chcę być pielęgniarką.",
+          "Pielęgniarka pomaga wielu ludziom."
+        ],
+        "fa": [
+          "پرستار خیلی کمک‌کننده است.",
+          "من می‌خواهم پرستار شوم.",
+          "پرستار به افراد زیادی کمک می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_830_fa",
+      "word_index": 830,
+      "translations": {
+        "en": "patient",
+        "de": "Patient",
+        "ar": "مريض",
+        "fr": "patient",
+        "it": "paziente",
+        "ru": "пациент",
+        "es": "paciente",
+        "pl": "pacjent",
+        "fa": "بیمار"
+      },
+      "examples": {
+        "en": [
+          "The patient feels better now.",
+          "I am a patient at this hospital.",
+          "The doctor helps the patient."
+        ],
+        "de": [
+          "Der Patient fühlt sich jetzt besser.",
+          "Ich bin Patient in diesem Krankenhaus.",
+          "Der Arzt hilft dem Patienten."
+        ],
+        "ar": [
+          "المريض يشعر بتحسن الآن.",
+          "أنا مريض في هذا المستشفى.",
+          "الطبيب يساعد المريض."
+        ],
+        "fr": [
+          "Le patient se sent mieux maintenant.",
+          "Je suis un patient de cet hôpital.",
+          "Le médecin aide le patient."
+        ],
+        "it": [
+          "Il paziente si sente meglio ora.",
+          "Sono un paziente in questo ospedale.",
+          "Il dottore aiuta il paziente."
+        ],
+        "ru": [
+          "Пациент чувствует себя лучше сейчас.",
+          "Я пациент этой больницы.",
+          "Врач помогает пациенту."
+        ],
+        "es": [
+          "El paciente se siente mejor ahora.",
+          "Soy un paciente en este hospital.",
+          "El médico ayuda al paciente."
+        ],
+        "pl": [
+          "Pacjent czuje się teraz lepiej.",
+          "Jestem pacjentem w tym szpitalu.",
+          "Lekarz pomaga pacjentowi."
+        ],
+        "fa": [
+          "بیمار الان احساس بهتری دارد.",
+          "من بیمار این بیمارستان هستم.",
+          "دکتر به بیمار کمک می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_831_fa",
+      "word_index": 831,
+      "translations": {
+        "en": "treatment",
+        "de": "Behandlung",
+        "ar": "علاج",
+        "fr": "traitement",
+        "it": "trattamento",
+        "ru": "лечение",
+        "es": "tratamiento",
+        "pl": "leczenie",
+        "fa": "درمان"
+      },
+      "examples": {
+        "en": [
+          "I need treatment for my illness.",
+          "The treatment is very good.",
+          "This hospital has excellent treatment."
+        ],
+        "de": [
+          "Ich brauche Behandlung für meine Krankheit.",
+          "Die Behandlung ist sehr gut.",
+          "Dieses Krankenhaus hat ausgezeichnete Behandlung."
+        ],
+        "ar": [
+          "أحتاج لعلاج مرضي.",
+          "العلاج جيد جداً.",
+          "هذا المستشفى لديه علاج ممتاز."
+        ],
+        "fr": [
+          "J'ai besoin d'un traitement pour ma maladie.",
+          "Le traitement est très bon.",
+          "Cet hôpital a un excellent traitement."
+        ],
+        "it": [
+          "Ho bisogno di un trattamento per la mia malattia.",
+          "Il trattamento è molto buono.",
+          "Questo ospedale ha un eccellente trattamento."
+        ],
+        "ru": [
+          "Мне нужно лечение от болезни.",
+          "Лечение очень хорошее.",
+          "В этой больнице отличное лечение."
+        ],
+        "es": [
+          "Necesito tratamiento para mi enfermedad.",
+          "El tratamiento es muy bueno.",
+          "Este hospital tiene excelente tratamiento."
+        ],
+        "pl": [
+          "Potrzebuję leczenia mojej choroby.",
+          "Leczenie jest bardzo dobre.",
+          "Ten szpital ma doskonałe leczenie."
+        ],
+        "fa": [
+          "من برای بیماریم به درمان نیاز دارم.",
+          "درمان خیلی خوب است.",
+          "این بیمارستان درمان عالی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_832_fa",
+      "word_index": 832,
+      "translations": {
+        "en": "to treat",
+        "de": "behandeln",
+        "ar": "يعالج",
+        "fr": "traiter",
+        "it": "curare",
+        "ru": "лечить",
+        "es": "tratar",
+        "pl": "leczyć",
+        "fa": "درمان کردن"
+      },
+      "examples": {
+        "en": [
+          "The doctor treats many patients.",
+          "I treat my cold at home.",
+          "She treats sick children every day."
+        ],
+        "de": [
+          "Der Arzt behandelt viele Patienten.",
+          "Ich behandle meine Erkältung zu Hause.",
+          "Sie behandelt jeden Tag kranke Kinder."
+        ],
+        "ar": [
+          "الطبيب يعالج مرضى كثيرين.",
+          "أعالج نزلتي في المنزل.",
+          "تعالج الأطفال المرضى كل يوم."
+        ],
+        "fr": [
+          "Le médecin traite beaucoup de patients.",
+          "Je traite mon rhume à la maison.",
+          "Elle traite des enfants malades tous les jours."
+        ],
+        "it": [
+          "Il dottore cura molti pazienti.",
+          "Curo il mio raffreddore a casa.",
+          "Lei cura bambini malati ogni giorno."
+        ],
+        "ru": [
+          "Врач лечит многих пациентов.",
+          "Я лечу простуду дома.",
+          "Она лечит больных детей каждый день."
+        ],
+        "es": [
+          "El médico trata a muchos pacientes.",
+          "Trato mi resfriado en casa.",
+          "Ella trata a niños enfermos todos los días."
+        ],
+        "pl": [
+          "Lekarz leczy wielu pacjentów.",
+          "Leczę moje przeziębienie w domu.",
+          "Ona leczy chore dzieci codziennie."
+        ],
+        "fa": [
+          "دکتر بیماران زیادی را درمان می‌کند.",
+          "من سرماخوردگی‌ام را در خانه درمان می‌کنم.",
+          "او هر روز بچه‌های بیمار را درمان می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_833_fa",
+      "word_index": 833,
+      "translations": {
+        "en": "healthy",
+        "de": "gesund",
+        "ar": "صحي",
+        "fr": "sain",
+        "it": "sano",
+        "ru": "здоровый",
+        "es": "saludable",
+        "pl": "zdrowy",
+        "fa": "سالم"
+      },
+      "examples": {
+        "en": [
+          "I eat healthy food every day.",
+          "She is a very healthy person.",
+          "Healthy living is very important."
+        ],
+        "de": [
+          "Ich esse jeden Tag gesundes Essen.",
+          "Sie ist eine sehr gesunde Person.",
+          "Gesundes Leben ist sehr wichtig."
+        ],
+        "ar": [
+          "آكل طعاماً صحياً كل يوم.",
+          "هي شخص صحي جداً.",
+          "الحياة الصحية مهمة جداً."
+        ],
+        "fr": [
+          "Je mange de la nourriture saine tous les jours.",
+          "Elle est une personne très saine.",
+          "Une vie saine est très importante."
+        ],
+        "it": [
+          "Mangio cibo sano ogni giorno.",
+          "Lei è una persona molto sana.",
+          "Vivere sano è molto importante."
+        ],
+        "ru": [
+          "Я ем здоровую пищу каждый день.",
+          "Она очень здоровый человек.",
+          "Здоровая жизнь очень важна."
+        ],
+        "es": [
+          "Como comida saludable todos los días.",
+          "Ella es una persona muy saludable.",
+          "Vivir saludablemente es muy importante."
+        ],
+        "pl": [
+          "Jem zdrowe jedzenie codziennie.",
+          "Ona jest bardzo zdrową osobą.",
+          "Zdrowe życie jest bardzo ważne."
+        ],
+        "fa": [
+          "من هر روز غذای سالم می‌خورم.",
+          "او فرد خیلی سالمی است.",
+          "زندگی سالم خیلی مهم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_834_fa",
+      "word_index": 834,
+      "translations": {
+        "en": "exercise",
+        "de": "Übung",
+        "ar": "تمرين",
+        "fr": "exercice",
+        "it": "esercizio",
+        "ru": "упражнение",
+        "es": "ejercicio",
+        "pl": "ćwiczenie",
+        "fa": "ورزش"
+      },
+      "examples": {
+        "en": [
+          "I do exercise every morning.",
+          "Exercise is good for your body.",
+          "We need more exercise every day."
+        ],
+        "de": [
+          "Ich mache jeden Morgen Übungen.",
+          "Übung ist gut für deinen Körper.",
+          "Wir brauchen jeden Tag mehr Übung."
+        ],
+        "ar": [
+          "أمارس التمارين كل صباح.",
+          "التمرين جيد لجسمك.",
+          "نحتاج للمزيد من التمارين كل يوم."
+        ],
+        "fr": [
+          "Je fais de l'exercice tous les matins.",
+          "L'exercice est bon pour ton corps.",
+          "Nous avons besoin de plus d'exercice tous les jours."
+        ],
+        "it": [
+          "Faccio esercizio ogni mattina.",
+          "L'esercizio fa bene al tuo corpo.",
+          "Abbiamo bisogno di più esercizio ogni giorno."
+        ],
+        "ru": [
+          "Я делаю упражнения каждое утро.",
+          "Упражнения полезны для тела.",
+          "Нам нужно больше упражнений каждый день."
+        ],
+        "es": [
+          "Hago ejercicio cada mañana.",
+          "El ejercicio es bueno para tu cuerpo.",
+          "Necesitamos más ejercicio todos los días."
+        ],
+        "pl": [
+          "Ćwiczę każdego ranka.",
+          "Ćwiczenia są dobre dla twojego ciała.",
+          "Potrzebujemy więcej ćwiczeń codziennie."
+        ],
+        "fa": [
+          "من هر صبح ورزش می‌کنم.",
+          "ورزش برای بدنت خوب است.",
+          "ما هر روز به ورزش بیشتری نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_835_fa",
+      "word_index": 835,
+      "translations": {
+        "en": "rest",
+        "de": "Ruhe",
+        "ar": "راحة",
+        "fr": "repos",
+        "it": "riposo",
+        "ru": "отдых",
+        "es": "descanso",
+        "pl": "odpoczynek",
+        "fa": "استراحت"
+      },
+      "examples": {
+        "en": [
+          "You need some rest now.",
+          "I take a rest after work.",
+          "Rest is important for health."
+        ],
+        "de": [
+          "Du brauchst jetzt etwas Ruhe.",
+          "Ich mache eine Pause nach der Arbeit.",
+          "Ruhe ist wichtig für die Gesundheit."
+        ],
+        "ar": [
+          "تحتاج لبعض الراحة الآن.",
+          "أستريح بعد العمل.",
+          "الراحة مهمة للصحة."
+        ],
+        "fr": [
+          "Tu as besoin de repos maintenant.",
+          "Je me repose après le travail.",
+          "Le repos est important pour la santé."
+        ],
+        "it": [
+          "Hai bisogno di riposo ora.",
+          "Mi riposo dopo il lavoro.",
+          "Il riposo è importante per la salute."
+        ],
+        "ru": [
+          "Тебе нужен отдых сейчас.",
+          "Я отдыхаю после работы.",
+          "Отдых важен для здоровья."
+        ],
+        "es": [
+          "Necesitas descanso ahora.",
+          "Descanso después del trabajo.",
+          "El descanso es importante para la salud."
+        ],
+        "pl": [
+          "Potrzebujesz teraz odpoczynku.",
+          "Odpoczywam po pracy.",
+          "Odpoczynek jest ważny dla zdrowia."
+        ],
+        "fa": [
+          "تو الان به استراحت نیاز داری.",
+          "من بعد از کار استراحت می‌کنم.",
+          "استراحت برای سلامتی مهم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_836_fa",
+      "word_index": 836,
+      "translations": {
+        "en": "sleep",
+        "de": "Schlaf",
+        "ar": "نوم",
+        "fr": "sommeil",
+        "it": "sonno",
+        "ru": "сон",
+        "es": "sueño",
+        "pl": "sen",
+        "fa": "خواب"
+      },
+      "examples": {
+        "en": [
+          "I need more sleep tonight.",
+          "Good sleep is very important.",
+          "The baby needs eight hours of sleep."
+        ],
+        "de": [
+          "Ich brauche heute Nacht mehr Schlaf.",
+          "Guter Schlaf ist sehr wichtig.",
+          "Das Baby braucht acht Stunden Schlaf."
+        ],
+        "ar": [
+          "أحتاج للمزيد من النوم الليلة.",
+          "النوم الجيد مهم جداً.",
+          "الطفل يحتاج لثماني ساعات نوم."
+        ],
+        "fr": [
+          "J'ai besoin de plus de sommeil ce soir.",
+          "Le bon sommeil est très important.",
+          "Le bébé a besoin de huit heures de sommeil."
+        ],
+        "it": [
+          "Ho bisogno di più sonno stasera.",
+          "Il buon sonno è molto importante.",
+          "Il bambino ha bisogno di otto ore di sonno."
+        ],
+        "ru": [
+          "Мне нужно больше спать сегодня ночью.",
+          "Хороший сон очень важен.",
+          "Ребёнку нужно восемь часов сна."
+        ],
+        "es": [
+          "Necesito más sueño esta noche.",
+          "El buen sueño es muy importante.",
+          "El bebé necesita ocho horas de sueño."
+        ],
+        "pl": [
+          "Potrzebuję więcej snu dzisiaj w nocy.",
+          "Dobry sen jest bardzo ważny.",
+          "Dziecko potrzebuje ośmiu godzin snu."
+        ],
+        "fa": [
+          "من امشب به خواب بیشتری نیاز دارم.",
+          "خواب خوب خیلی مهم است.",
+          "نوزاد به هشت ساعت خواب نیاز دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_837_fa",
+      "word_index": 837,
+      "translations": {
+        "en": "energy",
+        "de": "Energie",
+        "ar": "طاقة",
+        "fr": "énergie",
+        "it": "energia",
+        "ru": "энергия",
+        "es": "energía",
+        "pl": "energia",
+        "fa": "انرژی"
+      },
+      "examples": {
+        "en": [
+          "I have a lot of energy today.",
+          "Food gives us energy.",
+          "She has no energy in the morning."
+        ],
+        "de": [
+          "Ich habe heute viel Energie.",
+          "Essen gibt uns Energie.",
+          "Sie hat morgens keine Energie."
+        ],
+        "ar": [
+          "لدي طاقة كبيرة اليوم.",
+          "الطعام يعطينا الطاقة.",
+          "ليس لديها طاقة في الصباح."
+        ],
+        "fr": [
+          "J'ai beaucoup d'énergie aujourd'hui.",
+          "La nourriture nous donne de l'énergie.",
+          "Elle n'a pas d'énergie le matin."
+        ],
+        "it": [
+          "Ho molta energia oggi.",
+          "Il cibo ci dà energia.",
+          "Lei non ha energia la mattina."
+        ],
+        "ru": [
+          "У меня много энергии сегодня.",
+          "Еда даёт нам энергию.",
+          "У неё нет энергии утром."
+        ],
+        "es": [
+          "Tengo mucha energía hoy.",
+          "La comida nos da energía.",
+          "Ella no tiene energía por la mañana."
+        ],
+        "pl": [
+          "Mam dzisiaj dużo energii.",
+          "Jedzenie daje nam energię.",
+          "Ona nie ma energii rano."
+        ],
+        "fa": [
+          "من امروز انرژی زیادی دارم.",
+          "غذا به ما انرژی می‌دهد.",
+          "او صبح انرژی ندارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_838_fa",
+      "word_index": 838,
+      "translations": {
+        "en": "strong",
+        "de": "stark",
+        "ar": "قوي",
+        "fr": "fort",
+        "it": "forte",
+        "ru": "сильный",
+        "es": "fuerte",
+        "pl": "silny",
+        "fa": "قوی"
+      },
+      "examples": {
+        "en": [
+          "My father is very strong.",
+          "I want to be strong.",
+          "She feels strong after exercise."
+        ],
+        "de": [
+          "Mein Vater ist sehr stark.",
+          "Ich möchte stark sein.",
+          "Sie fühlt sich nach dem Sport stark."
+        ],
+        "ar": [
+          "أبي قوي جداً.",
+          "أريد أن أكون قوياً.",
+          "تشعر بالقوة بعد التمرين."
+        ],
+        "fr": [
+          "Mon père est très fort.",
+          "Je veux être fort.",
+          "Elle se sent forte après l'exercice."
+        ],
+        "it": [
+          "Mio padre è molto forte.",
+          "Voglio essere forte.",
+          "Lei si sente forte dopo l'esercizio."
+        ],
+        "ru": [
+          "Мой отец очень сильный.",
+          "Я хочу быть сильным.",
+          "Она чувствует себя сильной после упражнений."
+        ],
+        "es": [
+          "Mi padre es muy fuerte.",
+          "Quiero ser fuerte.",
+          "Ella se siente fuerte después del ejercicio."
+        ],
+        "pl": [
+          "Mój ojciec jest bardzo silny.",
+          "Chcę być silny.",
+          "Ona czuje się silna po ćwiczeniach."
+        ],
+        "fa": [
+          "پدرم خیلی قوی است.",
+          "می‌خواهم قوی باشم.",
+          "او بعد از ورزش احساس قدرت می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_839_fa",
+      "word_index": 839,
+      "translations": {
+        "en": "weak",
+        "de": "schwach",
+        "ar": "ضعيف",
+        "fr": "faible",
+        "it": "debole",
+        "ru": "слабый",
+        "es": "débil",
+        "pl": "słaby",
+        "fa": "ضعیف"
+      },
+      "examples": {
+        "en": [
+          "I feel weak today.",
+          "He is too weak to walk.",
+          "She feels weak after illness."
+        ],
+        "de": [
+          "Ich fühle mich heute schwach.",
+          "Er ist zu schwach zum Laufen.",
+          "Sie fühlt sich nach der Krankheit schwach."
+        ],
+        "ar": [
+          "أشعر بالضعف اليوم.",
+          "هو ضعيف جداً للمشي.",
+          "تشعر بالضعف بعد المرض."
+        ],
+        "fr": [
+          "Je me sens faible aujourd'hui.",
+          "Il est trop faible pour marcher.",
+          "Elle se sent faible après la maladie."
+        ],
+        "it": [
+          "Mi sento debole oggi.",
+          "Lui è troppo debole per camminare.",
+          "Lei si sente debole dopo la malattia."
+        ],
+        "ru": [
+          "Я чувствую себя слабым сегодня.",
+          "Он слишком слаб, чтобы ходить.",
+          "Она чувствует себя слабой после болезни."
+        ],
+        "es": [
+          "Me siento débil hoy.",
+          "Él está demasiado débil para caminar.",
+          "Ella se siente débil después de la enfermedad."
+        ],
+        "pl": [
+          "Czuję się słaby dzisiaj.",
+          "On jest zbyt słaby, żeby chodzić.",
+          "Ona czuje się słaba po chorobie."
+        ],
+        "fa": [
+          "من امروز احساس ضعف می‌کنم.",
+          "او برای راه رفتن خیلی ضعیف است.",
+          "او بعد از بیماری احساس ضعف می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_840_fa",
+      "word_index": 840,
+      "translations": {
+        "en": "tired",
+        "de": "müde",
+        "ar": "متعب",
+        "fr": "fatigué",
+        "it": "stanco",
+        "ru": "уставший",
+        "es": "cansado",
+        "pl": "zmęczony",
+        "fa": "خسته"
+      },
+      "examples": {
+        "en": [
+          "I am very tired today.",
+          "She is tired after work.",
+          "Are you feeling tired now?"
+        ],
+        "de": [
+          "Ich bin heute sehr müde.",
+          "Sie ist nach der Arbeit müde.",
+          "Fühlst du dich jetzt müde?"
+        ],
+        "ar": [
+          "أنا متعب جداً اليوم.",
+          "هي متعبة بعد العمل.",
+          "هل تشعر بالتعب الآن؟"
+        ],
+        "fr": [
+          "Je suis très fatigué aujourd'hui.",
+          "Elle est fatiguée après le travail.",
+          "Te sens-tu fatigué maintenant?"
+        ],
+        "it": [
+          "Sono molto stanco oggi.",
+          "Lei è stanca dopo il lavoro.",
+          "Ti senti stanco ora?"
+        ],
+        "ru": [
+          "Я очень устал сегодня.",
+          "Она устала после работы.",
+          "Ты чувствуешь себя уставшим сейчас?"
+        ],
+        "es": [
+          "Estoy muy cansado hoy.",
+          "Ella está cansada después del trabajo.",
+          "¿Te sientes cansado ahora?"
+        ],
+        "pl": [
+          "Jestem bardzo zmęczony dzisiaj.",
+          "Ona jest zmęczona po pracy.",
+          "Czy czujesz się zmęczony teraz?"
+        ],
+        "fa": [
+          "من امروز خیلی خسته هستم.",
+          "او بعد از کار خسته است.",
+          "الان احساس خستگی می‌کنی؟"
+        ]
+      }
+    }
+  ]
+}

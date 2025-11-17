@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 34,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "661-680",
+    "total_words": 20,
+    "theme": "Weather and Climate",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_661_fa",
+      "word_index": 661,
+      "translations": {
+        "en": "weather",
+        "de": "Wetter",
+        "ar": "طقس",
+        "fr": "temps",
+        "it": "tempo",
+        "ru": "погода",
+        "es": "tiempo",
+        "pl": "pogoda",
+        "fa": "آب و هوا"
+      },
+      "examples": {
+        "en": [
+          "The weather is nice today.",
+          "How is the weather?",
+          "I check the weather every morning."
+        ],
+        "de": [
+          "Das Wetter ist heute schön.",
+          "Wie ist das Wetter?",
+          "Ich schaue jeden Morgen das Wetter an."
+        ],
+        "ar": [
+          "الطقس جميل اليوم.",
+          "كيف حال الطقس؟",
+          "أتحقق من الطقس كل صباح."
+        ],
+        "fr": [
+          "Le temps est beau aujourd'hui.",
+          "Quel temps fait-il?",
+          "Je vérifie le temps chaque matin."
+        ],
+        "it": [
+          "Il tempo è bello oggi.",
+          "Com'è il tempo?",
+          "Controllo il tempo ogni mattina."
+        ],
+        "ru": [
+          "Погода сегодня хорошая.",
+          "Какая погода?",
+          "Я проверяю погоду каждое утро."
+        ],
+        "es": [
+          "El tiempo está bonito hoy.",
+          "¿Cómo está el tiempo?",
+          "Reviso el tiempo cada mañana."
+        ],
+        "pl": [
+          "Pogoda jest dziś ładna.",
+          "Jaka jest pogoda?",
+          "Sprawdzam pogodę każdego ranka."
+        ],
+        "fa": [
+          "امروز آب و هوا خوب است.",
+          "آب و هوا چطور است؟",
+          "من هر صبح آب و هوا را چک می‌کنم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_662_fa",
+      "word_index": 662,
+      "translations": {
+        "en": "hot",
+        "de": "heiß",
+        "ar": "حار",
+        "fr": "chaud",
+        "it": "caldo",
+        "ru": "жаркий",
+        "es": "caliente",
+        "pl": "gorący",
+        "fa": "گرم"
+      },
+      "examples": {
+        "en": [
+          "Today is very hot.",
+          "I don't like hot weather.",
+          "It's too hot in summer."
+        ],
+        "de": [
+          "Heute ist es sehr heiß.",
+          "Ich mag kein heißes Wetter.",
+          "Es ist zu heiß im Sommer."
+        ],
+        "ar": [
+          "اليوم حار جداً.",
+          "لا أحب الطقس الحار.",
+          "الجو حار جداً في الصيف."
+        ],
+        "fr": [
+          "Aujourd'hui il fait très chaud.",
+          "Je n'aime pas le temps chaud.",
+          "Il fait trop chaud en été."
+        ],
+        "it": [
+          "Oggi fa molto caldo.",
+          "Non mi piace il tempo caldo.",
+          "Fa troppo caldo in estate."
+        ],
+        "ru": [
+          "Сегодня очень жарко.",
+          "Я не люблю жаркую погоду.",
+          "Летом слишком жарко."
+        ],
+        "es": [
+          "Hoy hace mucho calor.",
+          "No me gusta el tiempo caliente.",
+          "Hace demasiado calor en verano."
+        ],
+        "pl": [
+          "Dziś jest bardzo gorąco.",
+          "Nie lubię gorącej pogody.",
+          "Latem jest za gorąco."
+        ],
+        "fa": [
+          "امروز خیلی گرم است.",
+          "من هوای گرم را دوست ندارم.",
+          "تابستان خیلی گرم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_663_fa",
+      "word_index": 663,
+      "translations": {
+        "en": "cold",
+        "de": "kalt",
+        "ar": "بارد",
+        "fr": "froid",
+        "it": "freddo",
+        "ru": "холодный",
+        "es": "frío",
+        "pl": "zimny",
+        "fa": "سرد"
+      },
+      "examples": {
+        "en": [
+          "It is very cold today.",
+          "I feel cold in winter.",
+          "The water is too cold."
+        ],
+        "de": [
+          "Es ist heute sehr kalt.",
+          "Mir ist kalt im Winter.",
+          "Das Wasser ist zu kalt."
+        ],
+        "ar": [
+          "الجو بارد جداً اليوم.",
+          "أشعر بالبرد في الشتاء.",
+          "الماء بارد جداً."
+        ],
+        "fr": [
+          "Il fait très froid aujourd'hui.",
+          "J'ai froid en hiver.",
+          "L'eau est trop froide."
+        ],
+        "it": [
+          "Oggi fa molto freddo.",
+          "Ho freddo in inverno.",
+          "L'acqua è troppo fredda."
+        ],
+        "ru": [
+          "Сегодня очень холодно.",
+          "Мне холодно зимой.",
+          "Вода слишком холодная."
+        ],
+        "es": [
+          "Hoy hace mucho frío.",
+          "Tengo frío en invierno.",
+          "El agua está muy fría."
+        ],
+        "pl": [
+          "Dziś jest bardzo zimno.",
+          "Jest mi zimno w zimie.",
+          "Woda jest za zimna."
+        ],
+        "fa": [
+          "امروز خیلی سرد است.",
+          "من در زمستان سردم می‌شود.",
+          "آب خیلی سرد است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_664_fa",
+      "word_index": 664,
+      "translations": {
+        "en": "warm",
+        "de": "warm",
+        "ar": "دافئ",
+        "fr": "chaud",
+        "it": "caldo",
+        "ru": "тёплый",
+        "es": "cálido",
+        "pl": "ciepły",
+        "fa": "گرم"
+      },
+      "examples": {
+        "en": [
+          "The water is warm.",
+          "I like warm weather.",
+          "Spring is nice and warm."
+        ],
+        "de": [
+          "Das Wasser ist warm.",
+          "Ich mag warmes Wetter.",
+          "Der Frühling ist schön und warm."
+        ],
+        "ar": [
+          "الماء دافئ.",
+          "أحب الطقس الدافئ.",
+          "الربيع جميل ودافئ."
+        ],
+        "fr": [
+          "L'eau est chaude.",
+          "J'aime le temps chaud.",
+          "Le printemps est agréable et chaud."
+        ],
+        "it": [
+          "L'acqua è calda.",
+          "Mi piace il tempo caldo.",
+          "La primavera è bella e calda."
+        ],
+        "ru": [
+          "Вода тёплая.",
+          "Я люблю тёплую погоду.",
+          "Весна приятная и тёплая."
+        ],
+        "es": [
+          "El agua está cálida.",
+          "Me gusta el tiempo cálido.",
+          "La primavera es agradable y cálida."
+        ],
+        "pl": [
+          "Woda jest ciepła.",
+          "Lubię ciepłą pogodę.",
+          "Wiosna jest miła i ciepła."
+        ],
+        "fa": [
+          "آب گرم است.",
+          "من هوای گرم را دوست دارم.",
+          "بهار قشنگ و گرم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_665_fa",
+      "word_index": 665,
+      "translations": {
+        "en": "cool",
+        "de": "kühl",
+        "ar": "بارد معتدل",
+        "fr": "frais",
+        "it": "fresco",
+        "ru": "прохладный",
+        "es": "fresco",
+        "pl": "chłodny",
+        "fa": "خنک"
+      },
+      "examples": {
+        "en": [
+          "The evening is cool.",
+          "I like cool autumn days.",
+          "It's cool in the morning."
+        ],
+        "de": [
+          "Der Abend ist kühl.",
+          "Ich mag kühle Herbsttage.",
+          "Am Morgen ist es kühl."
+        ],
+        "ar": [
+          "المساء بارد معتدل.",
+          "أحب أيام الخريف الباردة المعتدلة.",
+          "الجو بارد معتدل في الصباح."
+        ],
+        "fr": [
+          "La soirée est fraîche.",
+          "J'aime les jours frais d'automne.",
+          "Il fait frais le matin."
+        ],
+        "it": [
+          "La sera è fresca.",
+          "Mi piacciono le fresche giornate autunnali.",
+          "La mattina è fresca."
+        ],
+        "ru": [
+          "Вечер прохладный.",
+          "Я люблю прохладные осенние дни.",
+          "Утром прохладно."
+        ],
+        "es": [
+          "La tarde está fresca.",
+          "Me gustan los días frescos de otoño.",
+          "Hace fresco por la mañana."
+        ],
+        "pl": [
+          "Wieczór jest chłodny.",
+          "Lubię chłodne jesienne dni.",
+          "Rano jest chłodno."
+        ],
+        "fa": [
+          "عصر خنک است.",
+          "من روزهای خنک پاییز را دوست دارم.",
+          "صبح‌ها خنک است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_666_fa",
+      "word_index": 666,
+      "translations": {
+        "en": "sun",
+        "de": "Sonne",
+        "ar": "شمس",
+        "fr": "soleil",
+        "it": "sole",
+        "ru": "солнце",
+        "es": "sol",
+        "pl": "słońce",
+        "fa": "آفتاب"
+      },
+      "examples": {
+        "en": [
+          "The sun is very bright.",
+          "I love the warm sun.",
+          "The sun comes out in morning."
+        ],
+        "de": [
+          "Die Sonne ist sehr hell.",
+          "Ich liebe die warme Sonne.",
+          "Die Sonne kommt am Morgen heraus."
+        ],
+        "ar": [
+          "الشمس ساطعة جداً.",
+          "أحب الشمس الدافئة.",
+          "تشرق الشمس في الصباح."
+        ],
+        "fr": [
+          "Le soleil est très brillant.",
+          "J'adore le soleil chaud.",
+          "Le soleil apparaît le matin."
+        ],
+        "it": [
+          "Il sole è molto luminoso.",
+          "Amo il sole caldo.",
+          "Il sole esce la mattina."
+        ],
+        "ru": [
+          "Солнце очень яркое.",
+          "Я люблю тёплое солнце.",
+          "Солнце выходит утром."
+        ],
+        "es": [
+          "El sol es muy brillante.",
+          "Me encanta el sol cálido.",
+          "El sol sale por la mañana."
+        ],
+        "pl": [
+          "Słońce jest bardzo jasne.",
+          "Uwielbiam ciepłe słońce.",
+          "Słońce wychodzi rano."
+        ],
+        "fa": [
+          "آفتاب خیلی روشن است.",
+          "من آفتاب گرم را دوست دارم.",
+          "آفتاب صبح در می‌آید."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_667_fa",
+      "word_index": 667,
+      "translations": {
+        "en": "sunny",
+        "de": "sonnig",
+        "ar": "مشمس",
+        "fr": "ensoleillé",
+        "it": "soleggiato",
+        "ru": "солнечный",
+        "es": "soleado",
+        "pl": "słoneczny",
+        "fa": "آفتابی"
+      },
+      "examples": {
+        "en": [
+          "Today is a sunny day.",
+          "I like sunny weather.",
+          "It's sunny and warm outside."
+        ],
+        "de": [
+          "Heute ist ein sonniger Tag.",
+          "Ich mag sonniges Wetter.",
+          "Draußen ist es sonnig und warm."
+        ],
+        "ar": [
+          "اليوم يوم مشمس.",
+          "أحب الطقس المشمس.",
+          "الجو مشمس ودافئ في الخارج."
+        ],
+        "fr": [
+          "Aujourd'hui c'est une journée ensoleillée.",
+          "J'aime le temps ensoleillé.",
+          "Il fait ensoleillé et chaud dehors."
+        ],
+        "it": [
+          "Oggi è una giornata soleggiata.",
+          "Mi piace il tempo soleggiato.",
+          "Fuori è soleggiato e caldo."
+        ],
+        "ru": [
+          "Сегодня солнечный день.",
+          "Я люблю солнечную погоду.",
+          "На улице солнечно и тепло."
+        ],
+        "es": [
+          "Hoy es un día soleado.",
+          "Me gusta el tiempo soleado.",
+          "Está soleado y cálido afuera."
+        ],
+        "pl": [
+          "Dziś jest słoneczny dzień.",
+          "Lubię słoneczną pogodę.",
+          "Na zewnątrz jest słonecznie i ciepło."
+        ],
+        "fa": [
+          "امروز یک روز آفتابی است.",
+          "من هوای آفتابی را دوست دارم.",
+          "بیرون آفتابی و گرم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_668_fa",
+      "word_index": 668,
+      "translations": {
+        "en": "rain",
+        "de": "Regen",
+        "ar": "مطر",
+        "fr": "pluie",
+        "it": "pioggia",
+        "ru": "дождь",
+        "es": "lluvia",
+        "pl": "deszcz",
+        "fa": "باران"
+      },
+      "examples": {
+        "en": [
+          "I like the rain.",
+          "The rain starts in afternoon.",
+          "We stay inside during the rain."
+        ],
+        "de": [
+          "Ich mag den Regen.",
+          "Der Regen beginnt am Nachmittag.",
+          "Wir bleiben beim Regen drinnen."
+        ],
+        "ar": [
+          "أحب المطر.",
+          "يبدأ المطر في فترة ما بعد الظهر.",
+          "نبقى في الداخل أثناء المطر."
+        ],
+        "fr": [
+          "J'aime la pluie.",
+          "La pluie commence l'après-midi.",
+          "Nous restons à l'intérieur pendant la pluie."
+        ],
+        "it": [
+          "Mi piace la pioggia.",
+          "La pioggia inizia nel pomeriggio.",
+          "Restiamo dentro durante la pioggia."
+        ],
+        "ru": [
+          "Я люблю дождь.",
+          "Дождь начинается днём.",
+          "Мы остаёмся дома во время дождя."
+        ],
+        "es": [
+          "Me gusta la lluvia.",
+          "La lluvia empieza por la tarde.",
+          "Nos quedamos adentro durante la lluvia."
+        ],
+        "pl": [
+          "Lubię deszcz.",
+          "Deszcz zaczyna się po południu.",
+          "Zostajemy w środku podczas deszczu."
+        ],
+        "fa": [
+          "من باران را دوست دارم.",
+          "باران بعدازظهر شروع می‌شود.",
+          "ما در طول باران داخل می‌مانیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_669_fa",
+      "word_index": 669,
+      "translations": {
+        "en": "rainy",
+        "de": "regnerisch",
+        "ar": "ممطر",
+        "fr": "pluvieux",
+        "it": "piovoso",
+        "ru": "дождливый",
+        "es": "lluvioso",
+        "pl": "deszczowy",
+        "fa": "بارانی"
+      },
+      "examples": {
+        "en": [
+          "It's a rainy day.",
+          "I don't like rainy weather.",
+          "We need umbrellas on rainy days."
+        ],
+        "de": [
+          "Es ist ein regnerischer Tag.",
+          "Ich mag kein regnerisches Wetter.",
+          "Wir brauchen Regenschirme an regnerischen Tagen."
+        ],
+        "ar": [
+          "إنه يوم ممطر.",
+          "لا أحب الطقس الممطر.",
+          "نحتاج مظلات في الأيام الممطرة."
+        ],
+        "fr": [
+          "C'est un jour pluvieux.",
+          "Je n'aime pas le temps pluvieux.",
+          "Nous avons besoin de parapluies les jours pluvieux."
+        ],
+        "it": [
+          "È una giornata piovosa.",
+          "Non mi piace il tempo piovoso.",
+          "Abbiamo bisogno di ombrelli nei giorni piovosi."
+        ],
+        "ru": [
+          "Это дождливый день.",
+          "Я не люблю дождливую погоду.",
+          "Нам нужны зонты в дождливые дни."
+        ],
+        "es": [
+          "Es un día lluvioso.",
+          "No me gusta el tiempo lluvioso.",
+          "Necesitamos paraguas en días lluviosos."
+        ],
+        "pl": [
+          "To deszczowy dzień.",
+          "Nie lubię deszczowej pogody.",
+          "Potrzebujemy parasoli w deszczowe dni."
+        ],
+        "fa": [
+          "این یک روز بارانی است.",
+          "من هوای بارانی را دوست ندارم.",
+          "ما در روزهای بارانی به چتر نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_670_fa",
+      "word_index": 670,
+      "translations": {
+        "en": "snow",
+        "de": "Schnee",
+        "ar": "ثلج",
+        "fr": "neige",
+        "it": "neve",
+        "ru": "снег",
+        "es": "nieve",
+        "pl": "śnieg",
+        "fa": "برف"
+      },
+      "examples": {
+        "en": [
+          "I love the white snow.",
+          "Children play in the snow.",
+          "The snow falls in winter."
+        ],
+        "de": [
+          "Ich liebe den weißen Schnee.",
+          "Kinder spielen im Schnee.",
+          "Der Schnee fällt im Winter."
+        ],
+        "ar": [
+          "أحب الثلج الأبيض.",
+          "الأطفال يلعبون في الثلج.",
+          "يتساقط الثلج في الشتاء."
+        ],
+        "fr": [
+          "J'adore la neige blanche.",
+          "Les enfants jouent dans la neige.",
+          "La neige tombe en hiver."
+        ],
+        "it": [
+          "Amo la neve bianca.",
+          "I bambini giocano nella neve.",
+          "La neve cade in inverno."
+        ],
+        "ru": [
+          "Я люблю белый снег.",
+          "Дети играют в снегу.",
+          "Снег падает зимой."
+        ],
+        "es": [
+          "Me encanta la nieve blanca.",
+          "Los niños juegan en la nieve.",
+          "La nieve cae en invierno."
+        ],
+        "pl": [
+          "Uwielbiam biały śnieg.",
+          "Dzieci bawią się w śniegu.",
+          "Śnieg pada zimą."
+        ],
+        "fa": [
+          "من برف سفید را دوست دارم.",
+          "بچه‌ها در برف بازی می‌کنند.",
+          "برف در زمستان می‌بارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_671_fa",
+      "word_index": 671,
+      "translations": {
+        "en": "snowy",
+        "de": "schneereich",
+        "ar": "مثلج",
+        "fr": "neigeux",
+        "it": "nevoso",
+        "ru": "снежный",
+        "es": "nevado",
+        "pl": "śnieżny",
+        "fa": "برفی"
+      },
+      "examples": {
+        "en": [
+          "It's a snowy day.",
+          "I like snowy mornings.",
+          "The mountains are snowy in winter."
+        ],
+        "de": [
+          "Es ist ein schneereicher Tag.",
+          "Ich mag schneereiche Morgen.",
+          "Die Berge sind im Winter schneereich."
+        ],
+        "ar": [
+          "إنه يوم مثلج.",
+          "أحب الصباحات المثلجة.",
+          "الجبال مثلجة في الشتاء."
+        ],
+        "fr": [
+          "C'est un jour neigeux.",
+          "J'aime les matins neigeux.",
+          "Les montagnes sont neigeuses en hiver."
+        ],
+        "it": [
+          "È una giornata nevosa.",
+          "Mi piacciono le mattine nevose.",
+          "Le montagne sono nevose in inverno."
+        ],
+        "ru": [
+          "Это снежный день.",
+          "Я люблю снежные утра.",
+          "Горы снежные зимой."
+        ],
+        "es": [
+          "Es un día nevado.",
+          "Me gustan las mañanas nevadas.",
+          "Las montañas están nevadas en invierno."
+        ],
+        "pl": [
+          "To śnieżny dzień.",
+          "Lubię śnieżne poranki.",
+          "Góry są śnieżne zimą."
+        ],
+        "fa": [
+          "این یک روز برفی است.",
+          "من صبح‌های برفی را دوست دارم.",
+          "کوه‌ها در زمستان برفی هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_672_fa",
+      "word_index": 672,
+      "translations": {
+        "en": "wind",
+        "de": "Wind",
+        "ar": "رياح",
+        "fr": "vent",
+        "it": "vento",
+        "ru": "ветер",
+        "es": "viento",
+        "pl": "wiatr",
+        "fa": "باد"
+      },
+      "examples": {
+        "en": [
+          "The wind is very strong.",
+          "I feel the cold wind.",
+          "The wind blows in autumn."
+        ],
+        "de": [
+          "Der Wind ist sehr stark.",
+          "Ich spüre den kalten Wind.",
+          "Der Wind weht im Herbst."
+        ],
+        "ar": [
+          "الرياح قوية جداً.",
+          "أشعر بالرياح الباردة.",
+          "تهب الرياح في الخريف."
+        ],
+        "fr": [
+          "Le vent est très fort.",
+          "Je sens le vent froid.",
+          "Le vent souffle en automne."
+        ],
+        "it": [
+          "Il vento è molto forte.",
+          "Sento il vento freddo.",
+          "Il vento soffia in autunno."
+        ],
+        "ru": [
+          "Ветер очень сильный.",
+          "Я чувствую холодный ветер.",
+          "Ветер дует осенью."
+        ],
+        "es": [
+          "El viento es muy fuerte.",
+          "Siento el viento frío.",
+          "El viento sopla en otoño."
+        ],
+        "pl": [
+          "Wiatr jest bardzo silny.",
+          "Czuję zimny wiatr.",
+          "Wiatr wieje jesienią."
+        ],
+        "fa": [
+          "باد خیلی شدید است.",
+          "من باد سرد را احساس می‌کنم.",
+          "باد در پاییز می‌وزد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_673_fa",
+      "word_index": 673,
+      "translations": {
+        "en": "windy",
+        "de": "windig",
+        "ar": "عاصف",
+        "fr": "venteux",
+        "it": "ventoso",
+        "ru": "ветреный",
+        "es": "ventoso",
+        "pl": "wietrzny",
+        "fa": "بادی"
+      },
+      "examples": {
+        "en": [
+          "It's very windy today.",
+          "I don't go out on windy days.",
+          "The weather is cold and windy."
+        ],
+        "de": [
+          "Es ist heute sehr windig.",
+          "Ich gehe an windigen Tagen nicht raus.",
+          "Das Wetter ist kalt und windig."
+        ],
+        "ar": [
+          "الجو عاصف جداً اليوم.",
+          "لا أخرج في الأيام العاصفة.",
+          "الطقس بارد وعاصف."
+        ],
+        "fr": [
+          "Il fait très venteux aujourd'hui.",
+          "Je ne sors pas les jours venteux.",
+          "Le temps est froid et venteux."
+        ],
+        "it": [
+          "Oggi è molto ventoso.",
+          "Non esco nei giorni ventosi.",
+          "Il tempo è freddo e ventoso."
+        ],
+        "ru": [
+          "Сегодня очень ветрено.",
+          "Я не выхожу в ветреные дни.",
+          "Погода холодная и ветреная."
+        ],
+        "es": [
+          "Hoy hace mucho viento.",
+          "No salgo en días ventosos.",
+          "El tiempo está frío y ventoso."
+        ],
+        "pl": [
+          "Dziś jest bardzo wietrznie.",
+          "Nie wychodzę w wietrzne dni.",
+          "Pogoda jest zimna i wietrzna."
+        ],
+        "fa": [
+          "امروز خیلی بادی است.",
+          "من در روزهای بادی بیرون نمی‌روم.",
+          "هوا سرد و بادی است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_674_fa",
+      "word_index": 674,
+      "translations": {
+        "en": "cloud",
+        "de": "Wolke",
+        "ar": "سحابة",
+        "fr": "nuage",
+        "it": "nuvola",
+        "ru": "облако",
+        "es": "nube",
+        "pl": "chmura",
+        "fa": "ابر"
+      },
+      "examples": {
+        "en": [
+          "I see white clouds.",
+          "The clouds are in the sky.",
+          "There are many clouds today."
+        ],
+        "de": [
+          "Ich sehe weiße Wolken.",
+          "Die Wolken sind am Himmel.",
+          "Heute gibt es viele Wolken."
+        ],
+        "ar": [
+          "أرى سحباً بيضاء.",
+          "السحب في السماء.",
+          "هناك سحب كثيرة اليوم."
+        ],
+        "fr": [
+          "Je vois des nuages blancs.",
+          "Les nuages sont dans le ciel.",
+          "Il y a beaucoup de nuages aujourd'hui."
+        ],
+        "it": [
+          "Vedo nuvole bianche.",
+          "Le nuvole sono nel cielo.",
+          "Ci sono molte nuvole oggi."
+        ],
+        "ru": [
+          "Я вижу белые облака.",
+          "Облака в небе.",
+          "Сегодня много облаков."
+        ],
+        "es": [
+          "Veo nubes blancas.",
+          "Las nubes están en el cielo.",
+          "Hay muchas nubes hoy."
+        ],
+        "pl": [
+          "Widzę białe chmury.",
+          "Chmury są na niebie.",
+          "Jest wiele chmur dzisiaj."
+        ],
+        "fa": [
+          "من ابرهای سفید می‌بینم.",
+          "ابرها در آسمان هستند.",
+          "امروز ابرهای زیادی هست."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_675_fa",
+      "word_index": 675,
+      "translations": {
+        "en": "cloudy",
+        "de": "bewölkt",
+        "ar": "غائم",
+        "fr": "nuageux",
+        "it": "nuvoloso",
+        "ru": "облачный",
+        "es": "nublado",
+        "pl": "pochmurny",
+        "fa": "ابری"
+      },
+      "examples": {
+        "en": [
+          "It's a cloudy day.",
+          "The sky is very cloudy.",
+          "I don't like cloudy weather."
+        ],
+        "de": [
+          "Es ist ein bewölkter Tag.",
+          "Der Himmel ist sehr bewölkt.",
+          "Ich mag kein bewölktes Wetter."
+        ],
+        "ar": [
+          "إنه يوم غائم.",
+          "السماء غائمة جداً.",
+          "لا أحب الطقس الغائم."
+        ],
+        "fr": [
+          "C'est un jour nuageux.",
+          "Le ciel est très nuageux.",
+          "Je n'aime pas le temps nuageux."
+        ],
+        "it": [
+          "È una giornata nuvolosa.",
+          "Il cielo è molto nuvoloso.",
+          "Non mi piace il tempo nuvoloso."
+        ],
+        "ru": [
+          "Это облачный день.",
+          "Небо очень облачное.",
+          "Я не люблю облачную погоду."
+        ],
+        "es": [
+          "Es un día nublado.",
+          "El cielo está muy nublado.",
+          "No me gusta el tiempo nublado."
+        ],
+        "pl": [
+          "To pochmurny dzień.",
+          "Niebo jest bardzo pochmurne.",
+          "Nie lubię pochmurnej pogody."
+        ],
+        "fa": [
+          "این یک روز ابری است.",
+          "آسمان خیلی ابری است.",
+          "من هوای ابری را دوست ندارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_676_fa",
+      "word_index": 676,
+      "translations": {
+        "en": "storm",
+        "de": "Sturm",
+        "ar": "عاصفة",
+        "fr": "tempête",
+        "it": "tempesta",
+        "ru": "буря",
+        "es": "tormenta",
+        "pl": "burza",
+        "fa": "طوفان"
+      },
+      "examples": {
+        "en": [
+          "A big storm is coming.",
+          "We stay home during the storm.",
+          "The storm was very strong."
+        ],
+        "de": [
+          "Ein großer Sturm kommt.",
+          "Wir bleiben beim Sturm zu Hause.",
+          "Der Sturm war sehr stark."
+        ],
+        "ar": [
+          "عاصفة كبيرة قادمة.",
+          "نبقى في البيت أثناء العاصفة.",
+          "كانت العاصفة قوية جداً."
+        ],
+        "fr": [
+          "Une grande tempête arrive.",
+          "Nous restons à la maison pendant la tempête.",
+          "La tempête était très forte."
+        ],
+        "it": [
+          "Sta arrivando una grande tempesta.",
+          "Restiamo a casa durante la tempesta.",
+          "La tempesta era molto forte."
+        ],
+        "ru": [
+          "Приближается большая буря.",
+          "Мы остаёмся дома во время бури.",
+          "Буря была очень сильная."
+        ],
+        "es": [
+          "Se acerca una gran tormenta.",
+          "Nos quedamos en casa durante la tormenta.",
+          "La tormenta fue muy fuerte."
+        ],
+        "pl": [
+          "Nadciąga wielka burza.",
+          "Zostajemy w domu podczas burzy.",
+          "Burza była bardzo silna."
+        ],
+        "fa": [
+          "یک طوفان بزرگ در راه است.",
+          "ما در طول طوفان خانه می‌مانیم.",
+          "طوفان خیلی شدید بود."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_677_fa",
+      "word_index": 677,
+      "translations": {
+        "en": "temperature",
+        "de": "Temperatur",
+        "ar": "درجة الحرارة",
+        "fr": "température",
+        "it": "temperatura",
+        "ru": "температура",
+        "es": "temperatura",
+        "pl": "temperatura",
+        "fa": "دما"
+      },
+      "examples": {
+        "en": [
+          "The temperature is high today.",
+          "I check the temperature every morning.",
+          "What is the temperature outside?"
+        ],
+        "de": [
+          "Die Temperatur ist heute hoch.",
+          "Ich prüfe jeden Morgen die Temperatur.",
+          "Wie ist die Temperatur draußen?"
+        ],
+        "ar": [
+          "درجة الحرارة عالية اليوم.",
+          "أفحص درجة الحرارة كل صباح.",
+          "كم درجة الحرارة في الخارج؟"
+        ],
+        "fr": [
+          "La température est élevée aujourd'hui.",
+          "Je vérifie la température chaque matin.",
+          "Quelle est la température dehors?"
+        ],
+        "it": [
+          "La temperatura è alta oggi.",
+          "Controllo la temperatura ogni mattina.",
+          "Qual è la temperatura fuori?"
+        ],
+        "ru": [
+          "Температура сегодня высокая.",
+          "Я проверяю температуру каждое утро.",
+          "Какая температура на улице?"
+        ],
+        "es": [
+          "La temperatura es alta hoy.",
+          "Reviso la temperatura cada mañana.",
+          "¿Cuál es la temperatura afuera?"
+        ],
+        "pl": [
+          "Temperatura jest dziś wysoka.",
+          "Sprawdzam temperaturę każdego ranka.",
+          "Jaka jest temperatura na zewnątrz?"
+        ],
+        "fa": [
+          "امروز دما بالا است.",
+          "من هر صبح دما را چک می‌کنم.",
+          "دمای بیرون چقدر است؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_678_fa",
+      "word_index": 678,
+      "translations": {
+        "en": "season",
+        "de": "Jahreszeit",
+        "ar": "فصل",
+        "fr": "saison",
+        "it": "stagione",
+        "ru": "сезон",
+        "es": "estación",
+        "pl": "pora roku",
+        "fa": "فصل"
+      },
+      "examples": {
+        "en": [
+          "Summer is my favorite season.",
+          "Each season is different.",
+          "What season do you like?"
+        ],
+        "de": [
+          "Sommer ist meine Lieblingsjahreszeit.",
+          "Jede Jahreszeit ist anders.",
+          "Welche Jahreszeit magst du?"
+        ],
+        "ar": [
+          "الصيف هو فصلي المفضل.",
+          "كل فصل مختلف.",
+          "أي فصل تحب؟"
+        ],
+        "fr": [
+          "L'été est ma saison préférée.",
+          "Chaque saison est différente.",
+          "Quelle saison aimes-tu?"
+        ],
+        "it": [
+          "L'estate è la mia stagione preferita.",
+          "Ogni stagione è diversa.",
+          "Quale stagione ti piace?"
+        ],
+        "ru": [
+          "Лето мой любимый сезон.",
+          "Каждый сезон разный.",
+          "Какой сезон ты любишь?"
+        ],
+        "es": [
+          "El verano es mi estación favorita.",
+          "Cada estación es diferente.",
+          "¿Qué estación te gusta?"
+        ],
+        "pl": [
+          "Lato jest moją ulubioną porą roku.",
+          "Każda pora roku jest inna.",
+          "Którą porę roku lubisz?"
+        ],
+        "fa": [
+          "تابستان فصل مورد علاقه من است.",
+          "هر فصل متفاوت است.",
+          "کدام فصل را دوست داری؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_679_fa",
+      "word_index": 679,
+      "translations": {
+        "en": "summer",
+        "de": "Sommer",
+        "ar": "صيف",
+        "fr": "été",
+        "it": "estate",
+        "ru": "лето",
+        "es": "verano",
+        "pl": "lato",
+        "fa": "تابستان"
+      },
+      "examples": {
+        "en": [
+          "I love summer vacation.",
+          "Summer is very hot.",
+          "We go to the beach in summer."
+        ],
+        "de": [
+          "Ich liebe die Sommerferien.",
+          "Der Sommer ist sehr heiß.",
+          "Wir gehen im Sommer zum Strand."
+        ],
+        "ar": [
+          "أحب عطلة الصيف.",
+          "الصيف حار جداً.",
+          "نذهب إلى الشاطئ في الصيف."
+        ],
+        "fr": [
+          "J'adore les vacances d'été.",
+          "L'été est très chaud.",
+          "Nous allons à la plage en été."
+        ],
+        "it": [
+          "Amo le vacanze estive.",
+          "L'estate è molto calda.",
+          "Andiamo alla spiaggia in estate."
+        ],
+        "ru": [
+          "Я люблю летние каникулы.",
+          "Лето очень жаркое.",
+          "Мы ходим на пляж летом."
+        ],
+        "es": [
+          "Me encantan las vacaciones de verano.",
+          "El verano es muy caliente.",
+          "Vamos a la playa en verano."
+        ],
+        "pl": [
+          "Uwielbiam wakacje letnie.",
+          "Lato jest bardzo gorące.",
+          "Chodzimy na plażę latem."
+        ],
+        "fa": [
+          "من تعطیلات تابستان را دوست دارم.",
+          "تابستان خیلی گرم است.",
+          "ما در تابستان به ساحل می‌رویم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_680_fa",
+      "word_index": 680,
+      "translations": {
+        "en": "winter",
+        "de": "Winter",
+        "ar": "شتاء",
+        "fr": "hiver",
+        "it": "inverno",
+        "ru": "зима",
+        "es": "invierno",
+        "pl": "zima",
+        "fa": "زمستان"
+      },
+      "examples": {
+        "en": [
+          "Winter is very cold.",
+          "I like to ski in winter.",
+          "We stay warm in winter."
+        ],
+        "de": [
+          "Der Winter ist sehr kalt.",
+          "Ich fahre gerne im Winter Ski.",
+          "Wir bleiben im Winter warm."
+        ],
+        "ar": [
+          "الشتاء بارد جداً.",
+          "أحب التزلج في الشتاء.",
+          "نبقى دافئين في الشتاء."
+        ],
+        "fr": [
+          "L'hiver est très froid.",
+          "J'aime skier en hiver.",
+          "Nous restons au chaud en hiver."
+        ],
+        "it": [
+          "L'inverno è molto freddo.",
+          "Mi piace sciare in inverno.",
+          "Restiamo al caldo in inverno."
+        ],
+        "ru": [
+          "Зима очень холодная.",
+          "Я люблю кататься на лыжах зимой.",
+          "Мы остаёмся в тепле зимой."
+        ],
+        "es": [
+          "El invierno es muy frío.",
+          "Me gusta esquiar en invierno.",
+          "Nos mantenemos calientes en invierno."
+        ],
+        "pl": [
+          "Zima jest bardzo zimna.",
+          "Lubię jeździć na nartach zimą.",
+          "Zostajemy w cieple zimą."
+        ],
+        "fa": [
+          "زمستان خیلی سرد است.",
+          "من دوست دارم در زمستان اسکی کنم.",
+          "ما در زمستان گرم می‌مانیم."
+        ]
+      }
+    }
+  ]
+}

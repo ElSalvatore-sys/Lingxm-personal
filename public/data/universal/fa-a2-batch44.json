@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 44,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "861-880",
+    "total_words": 20,
+    "theme": "Animals and Actions",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_861_fa",
+      "word_index": 861,
+      "translations": {
+        "en": "animal",
+        "de": "Tier",
+        "ar": "حيوان",
+        "fr": "animal",
+        "it": "animale",
+        "ru": "животное",
+        "es": "animal",
+        "pl": "zwierzę",
+        "fa": "حیوان"
+      },
+      "examples": {
+        "en": [
+          "I love animals very much.",
+          "This animal lives in the forest.",
+          "We see many animals at the zoo."
+        ],
+        "de": [
+          "Ich liebe Tiere sehr.",
+          "Dieses Tier lebt im Wald.",
+          "Wir sehen viele Tiere im Zoo."
+        ],
+        "ar": [
+          "أحب الحيوانات كثيراً.",
+          "هذا الحيوان يعيش في الغابة.",
+          "نرى حيوانات كثيرة في حديقة الحيوان."
+        ],
+        "fr": [
+          "J'aime beaucoup les animaux.",
+          "Cet animal vit dans la forêt.",
+          "Nous voyons beaucoup d'animaux au zoo."
+        ],
+        "it": [
+          "Amo molto gli animali.",
+          "Questo animale vive nella foresta.",
+          "Vediamo molti animali allo zoo."
+        ],
+        "ru": [
+          "Я очень люблю животных.",
+          "Это животное живёт в лесу.",
+          "Мы видим много животных в зоопарке."
+        ],
+        "es": [
+          "Me encantan mucho los animales.",
+          "Este animal vive en el bosque.",
+          "Vemos muchos animales en el zoológico."
+        ],
+        "pl": [
+          "Bardzo kocham zwierzęta.",
+          "To zwierzę żyje w lesie.",
+          "Widzimy wiele zwierząt w zoo."
+        ],
+        "fa": [
+          "من حیوانات را خیلی دوست دارم.",
+          "این حیوان در جنگل زندگی می‌کند.",
+          "ما حیوانات زیادی در باغ وحش می‌بینیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_862_fa",
+      "word_index": 862,
+      "translations": {
+        "en": "dog",
+        "de": "Hund",
+        "ar": "كلب",
+        "fr": "chien",
+        "it": "cane",
+        "ru": "собака",
+        "es": "perro",
+        "pl": "pies",
+        "fa": "سگ"
+      },
+      "examples": {
+        "en": [
+          "I have a big dog.",
+          "The dog is very friendly.",
+          "My dog plays in the garden."
+        ],
+        "de": [
+          "Ich habe einen großen Hund.",
+          "Der Hund ist sehr freundlich.",
+          "Mein Hund spielt im Garten."
+        ],
+        "ar": [
+          "لدي كلب كبير.",
+          "الكلب ودود جداً.",
+          "كلبي يلعب في الحديقة."
+        ],
+        "fr": [
+          "J'ai un grand chien.",
+          "Le chien est très amical.",
+          "Mon chien joue dans le jardin."
+        ],
+        "it": [
+          "Ho un cane grande.",
+          "Il cane è molto amichevole.",
+          "Il mio cane gioca in giardino."
+        ],
+        "ru": [
+          "У меня есть большая собака.",
+          "Собака очень дружелюбная.",
+          "Моя собака играет в саду."
+        ],
+        "es": [
+          "Tengo un perro grande.",
+          "El perro es muy amigable.",
+          "Mi perro juega en el jardín."
+        ],
+        "pl": [
+          "Mam dużego psa.",
+          "Pies jest bardzo przyjazny.",
+          "Mój pies bawi się w ogrodzie."
+        ],
+        "fa": [
+          "من یک سگ بزرگ دارم.",
+          "سگ خیلی مهربان است.",
+          "سگ من در باغ بازی می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_863_fa",
+      "word_index": 863,
+      "translations": {
+        "en": "cat",
+        "de": "Katze",
+        "ar": "قطة",
+        "fr": "chat",
+        "it": "gatto",
+        "ru": "кошка",
+        "es": "gato",
+        "pl": "kot",
+        "fa": "گربه"
+      },
+      "examples": {
+        "en": [
+          "My cat is very small.",
+          "The cat sleeps on the sofa.",
+          "I love my white cat."
+        ],
+        "de": [
+          "Meine Katze ist sehr klein.",
+          "Die Katze schläft auf dem Sofa.",
+          "Ich liebe meine weiße Katze."
+        ],
+        "ar": [
+          "قطتي صغيرة جداً.",
+          "القطة تنام على الأريكة.",
+          "أحب قطتي البيضاء."
+        ],
+        "fr": [
+          "Mon chat est très petit.",
+          "Le chat dort sur le canapé.",
+          "J'aime mon chat blanc."
+        ],
+        "it": [
+          "Il mio gatto è molto piccolo.",
+          "Il gatto dorme sul divano.",
+          "Amo il mio gatto bianco."
+        ],
+        "ru": [
+          "Моя кошка очень маленькая.",
+          "Кошка спит на диване.",
+          "Я люблю мою белую кошку."
+        ],
+        "es": [
+          "Mi gato es muy pequeño.",
+          "El gato duerme en el sofá.",
+          "Amo a mi gato blanco."
+        ],
+        "pl": [
+          "Mój kot jest bardzo mały.",
+          "Kot śpi na kanapie.",
+          "Kocham mojego białego kota."
+        ],
+        "fa": [
+          "گربه من خیلی کوچک است.",
+          "گربه روی مبل می‌خوابد.",
+          "من گربه سفیدم را دوست دارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_864_fa",
+      "word_index": 864,
+      "translations": {
+        "en": "bird",
+        "de": "Vogel",
+        "ar": "طائر",
+        "fr": "oiseau",
+        "it": "uccello",
+        "ru": "птица",
+        "es": "pájaro",
+        "pl": "ptak",
+        "fa": "پرنده"
+      },
+      "examples": {
+        "en": [
+          "I see a beautiful bird.",
+          "The bird sings every morning.",
+          "Many birds live in this tree."
+        ],
+        "de": [
+          "Ich sehe einen schönen Vogel.",
+          "Der Vogel singt jeden Morgen.",
+          "Viele Vögel leben in diesem Baum."
+        ],
+        "ar": [
+          "أرى طائراً جميلاً.",
+          "الطائر يغرد كل صباح.",
+          "طيور كثيرة تعيش في هذه الشجرة."
+        ],
+        "fr": [
+          "Je vois un bel oiseau.",
+          "L'oiseau chante chaque matin.",
+          "Beaucoup d'oiseaux vivent dans cet arbre."
+        ],
+        "it": [
+          "Vedo un bell'uccello.",
+          "L'uccello canta ogni mattina.",
+          "Molti uccelli vivono in quest'albero."
+        ],
+        "ru": [
+          "Я вижу красивую птицу.",
+          "Птица поёт каждое утро.",
+          "Много птиц живут на этом дереве."
+        ],
+        "es": [
+          "Veo un pájaro hermoso.",
+          "El pájaro canta cada mañana.",
+          "Muchos pájaros viven en este árbol."
+        ],
+        "pl": [
+          "Widzę pięknego ptaka.",
+          "Ptak śpiewa każdego ranka.",
+          "Wiele ptaków mieszka na tym drzewie."
+        ],
+        "fa": [
+          "من یک پرنده زیبا می‌بینم.",
+          "پرنده هر صبح آواز می‌خواند.",
+          "پرندگان زیادی در این درخت زندگی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_865_fa",
+      "word_index": 865,
+      "translations": {
+        "en": "fish",
+        "de": "Fisch",
+        "ar": "سمكة",
+        "fr": "poisson",
+        "it": "pesce",
+        "ru": "рыба",
+        "es": "pez",
+        "pl": "ryba",
+        "fa": "ماهی"
+      },
+      "examples": {
+        "en": [
+          "I have three fish at home.",
+          "The fish swims in the water.",
+          "We eat fish for dinner today."
+        ],
+        "de": [
+          "Ich habe drei Fische zu Hause.",
+          "Der Fisch schwimmt im Wasser.",
+          "Wir essen heute Fisch zum Abendessen."
+        ],
+        "ar": [
+          "لدي ثلاث سمكات في المنزل.",
+          "السمكة تسبح في الماء.",
+          "نأكل سمكاً على العشاء اليوم."
+        ],
+        "fr": [
+          "J'ai trois poissons à la maison.",
+          "Le poisson nage dans l'eau.",
+          "Nous mangeons du poisson ce soir."
+        ],
+        "it": [
+          "Ho tre pesci a casa.",
+          "Il pesce nuota nell'acqua.",
+          "Mangiamo pesce a cena oggi."
+        ],
+        "ru": [
+          "У меня дома три рыбки.",
+          "Рыба плавает в воде.",
+          "Мы едим рыбу на ужин сегодня."
+        ],
+        "es": [
+          "Tengo tres peces en casa.",
+          "El pez nada en el agua.",
+          "Comemos pescado en la cena hoy."
+        ],
+        "pl": [
+          "Mam trzy ryby w domu.",
+          "Ryba pływa w wodzie.",
+          "Jemy rybę na obiad dzisiaj."
+        ],
+        "fa": [
+          "من سه ماهی در خانه دارم.",
+          "ماهی در آب شنا می‌کند.",
+          "امروز برای شام ماهی می‌خوریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_866_fa",
+      "word_index": 866,
+      "translations": {
+        "en": "horse",
+        "de": "Pferd",
+        "ar": "حصان",
+        "fr": "cheval",
+        "it": "cavallo",
+        "ru": "лошадь",
+        "es": "caballo",
+        "pl": "koń",
+        "fa": "اسب"
+      },
+      "examples": {
+        "en": [
+          "I see a brown horse.",
+          "The horse runs very fast.",
+          "My sister rides a horse every week."
+        ],
+        "de": [
+          "Ich sehe ein braunes Pferd.",
+          "Das Pferd rennt sehr schnell.",
+          "Meine Schwester reitet jede Woche."
+        ],
+        "ar": [
+          "أرى حصاناً بنياً.",
+          "الحصان يجري بسرعة كبيرة.",
+          "أختي تركب حصاناً كل أسبوع."
+        ],
+        "fr": [
+          "Je vois un cheval brun.",
+          "Le cheval court très vite.",
+          "Ma sœur monte à cheval chaque semaine."
+        ],
+        "it": [
+          "Vedo un cavallo marrone.",
+          "Il cavallo corre molto veloce.",
+          "Mia sorella cavalca ogni settimana."
+        ],
+        "ru": [
+          "Я вижу коричневую лошадь.",
+          "Лошадь бежит очень быстро.",
+          "Моя сестра катается на лошади каждую неделю."
+        ],
+        "es": [
+          "Veo un caballo marrón.",
+          "El caballo corre muy rápido.",
+          "Mi hermana monta a caballo cada semana."
+        ],
+        "pl": [
+          "Widzę brązowego konia.",
+          "Koń biega bardzo szybko.",
+          "Moja siostra jeździ konno co tydzień."
+        ],
+        "fa": [
+          "من یک اسب قهوه‌ای می‌بینم.",
+          "اسب خیلی سریع می‌دود.",
+          "خواهرم هر هفته سوارکاری می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_867_fa",
+      "word_index": 867,
+      "translations": {
+        "en": "cow",
+        "de": "Kuh",
+        "ar": "بقرة",
+        "fr": "vache",
+        "it": "mucca",
+        "ru": "корова",
+        "es": "vaca",
+        "pl": "krowa",
+        "fa": "گاو"
+      },
+      "examples": {
+        "en": [
+          "The cow gives us milk.",
+          "I see many cows on the farm.",
+          "This cow is very big."
+        ],
+        "de": [
+          "Die Kuh gibt uns Milch.",
+          "Ich sehe viele Kühe auf dem Bauernhof.",
+          "Diese Kuh ist sehr groß."
+        ],
+        "ar": [
+          "البقرة تعطينا الحليب.",
+          "أرى بقرات كثيرة في المزرعة.",
+          "هذه البقرة كبيرة جداً."
+        ],
+        "fr": [
+          "La vache nous donne du lait.",
+          "Je vois beaucoup de vaches à la ferme.",
+          "Cette vache est très grande."
+        ],
+        "it": [
+          "La mucca ci dà il latte.",
+          "Vedo molte mucche nella fattoria.",
+          "Questa mucca è molto grande."
+        ],
+        "ru": [
+          "Корова даёт нам молоко.",
+          "Я вижу много коров на ферме.",
+          "Эта корова очень большая."
+        ],
+        "es": [
+          "La vaca nos da leche.",
+          "Veo muchas vacas en la granja.",
+          "Esta vaca es muy grande."
+        ],
+        "pl": [
+          "Krowa daje nam mleko.",
+          "Widzę wiele krów na farmie.",
+          "Ta krowa jest bardzo duża."
+        ],
+        "fa": [
+          "گاو به ما شیر می‌دهد.",
+          "من گاوهای زیادی در مزرعه می‌بینم.",
+          "این گاو خیلی بزرگ است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_868_fa",
+      "word_index": 868,
+      "translations": {
+        "en": "sheep",
+        "de": "Schaf",
+        "ar": "خروف",
+        "fr": "mouton",
+        "it": "pecora",
+        "ru": "овца",
+        "es": "oveja",
+        "pl": "owca",
+        "fa": "گوسفند"
+      },
+      "examples": {
+        "en": [
+          "The sheep eats grass every day.",
+          "I see white sheep in the field.",
+          "We have many sheep on our farm."
+        ],
+        "de": [
+          "Das Schaf frisst jeden Tag Gras.",
+          "Ich sehe weiße Schafe auf dem Feld.",
+          "Wir haben viele Schafe auf unserem Bauernhof."
+        ],
+        "ar": [
+          "الخروف يأكل العشب كل يوم.",
+          "أرى خرافاً بيضاء في الحقل.",
+          "لدينا خراف كثيرة في مزرعتنا."
+        ],
+        "fr": [
+          "Le mouton mange de l'herbe chaque jour.",
+          "Je vois des moutons blancs dans le champ.",
+          "Nous avons beaucoup de moutons dans notre ferme."
+        ],
+        "it": [
+          "La pecora mangia erba ogni giorno.",
+          "Vedo pecore bianche nel campo.",
+          "Abbiamo molte pecore nella nostra fattoria."
+        ],
+        "ru": [
+          "Овца ест траву каждый день.",
+          "Я вижу белых овец в поле.",
+          "У нас много овец на ферме."
+        ],
+        "es": [
+          "La oveja come hierba todos los días.",
+          "Veo ovejas blancas en el campo.",
+          "Tenemos muchas ovejas en nuestra granja."
+        ],
+        "pl": [
+          "Owca je trawę codziennie.",
+          "Widzę białe owce na polu.",
+          "Mamy wiele owiec na naszej farmie."
+        ],
+        "fa": [
+          "گوسفند هر روز علف می‌خورد.",
+          "من گوسفندهای سفید در مزرعه می‌بینم.",
+          "ما گوسفندهای زیادی در مزرعه‌مان داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_869_fa",
+      "word_index": 869,
+      "translations": {
+        "en": "pig",
+        "de": "Schwein",
+        "ar": "خنزير",
+        "fr": "cochon",
+        "it": "maiale",
+        "ru": "свинья",
+        "es": "cerdo",
+        "pl": "świnia",
+        "fa": "خوک"
+      },
+      "examples": {
+        "en": [
+          "The pig lives on the farm.",
+          "I see a big pink pig.",
+          "Pigs eat a lot of food."
+        ],
+        "de": [
+          "Das Schwein lebt auf dem Bauernhof.",
+          "Ich sehe ein großes rosa Schwein.",
+          "Schweine essen viel Futter."
+        ],
+        "ar": [
+          "الخنزير يعيش في المزرعة.",
+          "أرى خنزيراً وردياً كبيراً.",
+          "الخنازير تأكل طعاماً كثيراً."
+        ],
+        "fr": [
+          "Le cochon vit à la ferme.",
+          "Je vois un gros cochon rose.",
+          "Les cochons mangent beaucoup de nourriture."
+        ],
+        "it": [
+          "Il maiale vive nella fattoria.",
+          "Vedo un grosso maiale rosa.",
+          "I maiali mangiano molto cibo."
+        ],
+        "ru": [
+          "Свинья живёт на ферме.",
+          "Я вижу большую розовую свинью.",
+          "Свиньи едят много еды."
+        ],
+        "es": [
+          "El cerdo vive en la granja.",
+          "Veo un cerdo rosa grande.",
+          "Los cerdos comen mucha comida."
+        ],
+        "pl": [
+          "Świnia mieszka na farmie.",
+          "Widzę dużą różową świnię.",
+          "Świnie jedzą dużo jedzenia."
+        ],
+        "fa": [
+          "خوک در مزرعه زندگی می‌کند.",
+          "من یک خوک صورتی بزرگ می‌بینم.",
+          "خوک‌ها غذای زیادی می‌خورند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_870_fa",
+      "word_index": 870,
+      "translations": {
+        "en": "chicken",
+        "de": "Huhn",
+        "ar": "دجاجة",
+        "fr": "poulet",
+        "it": "pollo",
+        "ru": "курица",
+        "es": "pollo",
+        "pl": "kurczak",
+        "fa": "مرغ"
+      },
+      "examples": {
+        "en": [
+          "The chicken lays eggs every day.",
+          "I see many chickens in the yard.",
+          "We eat chicken for lunch today."
+        ],
+        "de": [
+          "Das Huhn legt jeden Tag Eier.",
+          "Ich sehe viele Hühner im Hof.",
+          "Wir essen heute Huhn zum Mittagessen."
+        ],
+        "ar": [
+          "الدجاجة تبيض كل يوم.",
+          "أرى دجاجات كثيرة في الفناء.",
+          "نأكل دجاجاً على الغداء اليوم."
+        ],
+        "fr": [
+          "La poule pond des œufs chaque jour.",
+          "Je vois beaucoup de poulets dans la cour.",
+          "Nous mangeons du poulet à midi aujourd'hui."
+        ],
+        "it": [
+          "La gallina fa le uova ogni giorno.",
+          "Vedo molti polli nel cortile.",
+          "Mangiamo pollo a pranzo oggi."
+        ],
+        "ru": [
+          "Курица несёт яйца каждый день.",
+          "Я вижу много кур во дворе.",
+          "Мы едим курицу на обед сегодня."
+        ],
+        "es": [
+          "La gallina pone huevos todos los días.",
+          "Veo muchas gallinas en el patio.",
+          "Comemos pollo en el almuerzo hoy."
+        ],
+        "pl": [
+          "Kura znosi jajka codziennie.",
+          "Widzę wiele kur na podwórku.",
+          "Jemy kurczaka na obiad dzisiaj."
+        ],
+        "fa": [
+          "مرغ هر روز تخم می‌گذارد.",
+          "من مرغ‌های زیادی در حیاط می‌بینم.",
+          "امروز برای ناهار مرغ می‌خوریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_871_fa",
+      "word_index": 871,
+      "translations": {
+        "en": "pet",
+        "de": "Haustier",
+        "ar": "حيوان أليف",
+        "fr": "animal de compagnie",
+        "it": "animale domestico",
+        "ru": "домашнее животное",
+        "es": "mascota",
+        "pl": "zwierzę domowe",
+        "fa": "حیوان خانگی"
+      },
+      "examples": {
+        "en": [
+          "I have a pet at home.",
+          "My pet is a small cat.",
+          "Do you have a pet too?"
+        ],
+        "de": [
+          "Ich habe ein Haustier zu Hause.",
+          "Mein Haustier ist eine kleine Katze.",
+          "Hast du auch ein Haustier?"
+        ],
+        "ar": [
+          "لدي حيوان أليف في المنزل.",
+          "حيواني الأليف قطة صغيرة.",
+          "هل لديك حيوان أليف أيضاً؟"
+        ],
+        "fr": [
+          "J'ai un animal de compagnie à la maison.",
+          "Mon animal de compagnie est un petit chat.",
+          "As-tu aussi un animal de compagnie?"
+        ],
+        "it": [
+          "Ho un animale domestico a casa.",
+          "Il mio animale domestico è un gatto piccolo.",
+          "Hai anche tu un animale domestico?"
+        ],
+        "ru": [
+          "У меня есть домашнее животное дома.",
+          "Моё домашнее животное маленькая кошка.",
+          "У тебя тоже есть домашнее животное?"
+        ],
+        "es": [
+          "Tengo una mascota en casa.",
+          "Mi mascota es un gato pequeño.",
+          "¿Tienes una mascota también?"
+        ],
+        "pl": [
+          "Mam zwierzę domowe w domu.",
+          "Moje zwierzę domowe to mały kot.",
+          "Czy ty też masz zwierzę domowe?"
+        ],
+        "fa": [
+          "من در خانه یک حیوان خانگی دارم.",
+          "حیوان خانگی من یک گربه کوچک است.",
+          "تو هم حیوان خانگی داری؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_872_fa",
+      "word_index": 872,
+      "translations": {
+        "en": "wild",
+        "de": "wild",
+        "ar": "بري",
+        "fr": "sauvage",
+        "it": "selvatico",
+        "ru": "дикий",
+        "es": "salvaje",
+        "pl": "dziki",
+        "fa": "وحشی"
+      },
+      "examples": {
+        "en": [
+          "Lions are wild animals.",
+          "I see a wild bird today.",
+          "Wild animals live in the forest."
+        ],
+        "de": [
+          "Löwen sind wilde Tiere.",
+          "Ich sehe heute einen wilden Vogel.",
+          "Wilde Tiere leben im Wald."
+        ],
+        "ar": [
+          "الأسود حيوانات برية.",
+          "أرى طائراً برياً اليوم.",
+          "الحيوانات البرية تعيش في الغابة."
+        ],
+        "fr": [
+          "Les lions sont des animaux sauvages.",
+          "Je vois un oiseau sauvage aujourd'hui.",
+          "Les animaux sauvages vivent dans la forêt."
+        ],
+        "it": [
+          "I leoni sono animali selvatici.",
+          "Vedo un uccello selvatico oggi.",
+          "Gli animali selvatici vivono nella foresta."
+        ],
+        "ru": [
+          "Львы дикие животные.",
+          "Я вижу дикую птицу сегодня.",
+          "Дикие животные живут в лесу."
+        ],
+        "es": [
+          "Los leones son animales salvajes.",
+          "Veo un pájaro salvaje hoy.",
+          "Los animales salvajes viven en el bosque."
+        ],
+        "pl": [
+          "Lwy to dzikie zwierzęta.",
+          "Widzę dzikiego ptaka dzisiaj.",
+          "Dzikie zwierzęta żyją w lesie."
+        ],
+        "fa": [
+          "شیرها حیوانات وحشی هستند.",
+          "امروز یک پرنده وحشی می‌بینم.",
+          "حیوانات وحشی در جنگل زندگی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_873_fa",
+      "word_index": 873,
+      "translations": {
+        "en": "zoo",
+        "de": "Zoo",
+        "ar": "حديقة حيوانات",
+        "fr": "zoo",
+        "it": "zoo",
+        "ru": "зоопарк",
+        "es": "zoológico",
+        "pl": "zoo",
+        "fa": "باغ وحش"
+      },
+      "examples": {
+        "en": [
+          "We go to the zoo today.",
+          "I see many animals at the zoo.",
+          "The zoo is very big and nice."
+        ],
+        "de": [
+          "Wir gehen heute in den Zoo.",
+          "Ich sehe viele Tiere im Zoo.",
+          "Der Zoo ist sehr groß und schön."
+        ],
+        "ar": [
+          "نذهب إلى حديقة الحيوانات اليوم.",
+          "أرى حيوانات كثيرة في حديقة الحيوانات.",
+          "حديقة الحيوانات كبيرة وجميلة جداً."
+        ],
+        "fr": [
+          "Nous allons au zoo aujourd'hui.",
+          "Je vois beaucoup d'animaux au zoo.",
+          "Le zoo est très grand et joli."
+        ],
+        "it": [
+          "Andiamo allo zoo oggi.",
+          "Vedo molti animali allo zoo.",
+          "Lo zoo è molto grande e bello."
+        ],
+        "ru": [
+          "Мы идём в зоопарк сегодня.",
+          "Я вижу много животных в зоопарке.",
+          "Зоопарк очень большой и красивый."
+        ],
+        "es": [
+          "Vamos al zoológico hoy.",
+          "Veo muchos animales en el zoológico.",
+          "El zoológico es muy grande y bonito."
+        ],
+        "pl": [
+          "Idziemy do zoo dzisiaj.",
+          "Widzę wiele zwierząt w zoo.",
+          "Zoo jest bardzo duże i ładne."
+        ],
+        "fa": [
+          "امروز به باغ وحش می‌رویم.",
+          "من حیوانات زیادی در باغ وحش می‌بینم.",
+          "باغ وحش خیلی بزرگ و زیبا است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_874_fa",
+      "word_index": 874,
+      "translations": {
+        "en": "farm",
+        "de": "Bauernhof",
+        "ar": "مزرعة",
+        "fr": "ferme",
+        "it": "fattoria",
+        "ru": "ферма",
+        "es": "granja",
+        "pl": "farma",
+        "fa": "مزرعه"
+      },
+      "examples": {
+        "en": [
+          "My uncle has a big farm.",
+          "Many animals live on the farm.",
+          "We visit the farm every summer."
+        ],
+        "de": [
+          "Mein Onkel hat einen großen Bauernhof.",
+          "Viele Tiere leben auf dem Bauernhof.",
+          "Wir besuchen den Bauernhof jeden Sommer."
+        ],
+        "ar": [
+          "عمي لديه مزرعة كبيرة.",
+          "حيوانات كثيرة تعيش في المزرعة.",
+          "نزور المزرعة كل صيف."
+        ],
+        "fr": [
+          "Mon oncle a une grande ferme.",
+          "Beaucoup d'animaux vivent à la ferme.",
+          "Nous visitons la ferme chaque été."
+        ],
+        "it": [
+          "Mio zio ha una grande fattoria.",
+          "Molti animali vivono nella fattoria.",
+          "Visitiamo la fattoria ogni estate."
+        ],
+        "ru": [
+          "У моего дяди большая ферма.",
+          "Много животных живут на ферме.",
+          "Мы посещаем ферму каждое лето."
+        ],
+        "es": [
+          "Mi tío tiene una granja grande.",
+          "Muchos animales viven en la granja.",
+          "Visitamos la granja cada verano."
+        ],
+        "pl": [
+          "Mój wujek ma dużą farmę.",
+          "Wiele zwierząt mieszka na farmie.",
+          "Odwiedzamy farmę każdego lata."
+        ],
+        "fa": [
+          "عمویم یک مزرعه بزرگ دارد.",
+          "حیوانات زیادی در مزرعه زندگی می‌کنند.",
+          "ما هر تابستان از مزرعه بازدید می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_875_fa",
+      "word_index": 875,
+      "translations": {
+        "en": "to feed",
+        "de": "füttern",
+        "ar": "يطعم",
+        "fr": "nourrir",
+        "it": "nutrire",
+        "ru": "кормить",
+        "es": "alimentar",
+        "pl": "karmić",
+        "fa": "غذا دادن"
+      },
+      "examples": {
+        "en": [
+          "I feed my dog every morning.",
+          "Please feed the cat today.",
+          "She feeds the birds in the park."
+        ],
+        "de": [
+          "Ich füttere meinen Hund jeden Morgen.",
+          "Bitte füttere die Katze heute.",
+          "Sie füttert die Vögel im Park."
+        ],
+        "ar": [
+          "أطعم كلبي كل صباح.",
+          "من فضلك أطعم القطة اليوم.",
+          "تطعم الطيور في الحديقة."
+        ],
+        "fr": [
+          "Je nourris mon chien chaque matin.",
+          "S'il te plaît, nourris le chat aujourd'hui.",
+          "Elle nourrit les oiseaux dans le parc."
+        ],
+        "it": [
+          "Nutro il mio cane ogni mattina.",
+          "Per favore, nutri il gatto oggi.",
+          "Lei nutre gli uccelli nel parco."
+        ],
+        "ru": [
+          "Я кормлю собаку каждое утро.",
+          "Пожалуйста, покорми кошку сегодня.",
+          "Она кормит птиц в парке."
+        ],
+        "es": [
+          "Alimento a mi perro cada mañana.",
+          "Por favor, alimenta al gato hoy.",
+          "Ella alimenta a los pájaros en el parque."
+        ],
+        "pl": [
+          "Karmię mojego psa każdego ranka.",
+          "Proszę, nakarm kota dzisiaj.",
+          "Ona karmi ptaki w parku."
+        ],
+        "fa": [
+          "من هر صبح به سگم غذا می‌دهم.",
+          "لطفاً امروز به گربه غذا بده.",
+          "او به پرندگان در پارک غذا می‌دهد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_876_fa",
+      "word_index": 876,
+      "translations": {
+        "en": "to hunt",
+        "de": "jagen",
+        "ar": "يصطاد",
+        "fr": "chasser",
+        "it": "cacciare",
+        "ru": "охотиться",
+        "es": "cazar",
+        "pl": "polować",
+        "fa": "شکار کردن"
+      },
+      "examples": {
+        "en": [
+          "Lions hunt at night.",
+          "The cat hunts small birds.",
+          "Wild animals hunt for food."
+        ],
+        "de": [
+          "Löwen jagen nachts.",
+          "Die Katze jagt kleine Vögel.",
+          "Wilde Tiere jagen nach Nahrung."
+        ],
+        "ar": [
+          "الأسود تصطاد ليلاً.",
+          "القطة تصطاد طيوراً صغيرة.",
+          "الحيوانات البرية تصطاد للطعام."
+        ],
+        "fr": [
+          "Les lions chassent la nuit.",
+          "Le chat chasse les petits oiseaux.",
+          "Les animaux sauvages chassent pour manger."
+        ],
+        "it": [
+          "I leoni cacciano di notte.",
+          "Il gatto caccia piccoli uccelli.",
+          "Gli animali selvatici cacciano per cibo."
+        ],
+        "ru": [
+          "Львы охотятся ночью.",
+          "Кошка охотится на маленьких птиц.",
+          "Дикие животные охотятся за едой."
+        ],
+        "es": [
+          "Los leones cazan de noche.",
+          "El gato caza pájaros pequeños.",
+          "Los animales salvajes cazan para comer."
+        ],
+        "pl": [
+          "Lwy polują w nocy.",
+          "Kot poluje na małe ptaki.",
+          "Dzikie zwierzęta polują na pożywienie."
+        ],
+        "fa": [
+          "شیرها شب شکار می‌کنند.",
+          "گربه پرندگان کوچک شکار می‌کند.",
+          "حیوانات وحشی برای غذا شکار می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_877_fa",
+      "word_index": 877,
+      "translations": {
+        "en": "to fly",
+        "de": "fliegen",
+        "ar": "يطير",
+        "fr": "voler",
+        "it": "volare",
+        "ru": "летать",
+        "es": "volar",
+        "pl": "latać",
+        "fa": "پرواز کردن"
+      },
+      "examples": {
+        "en": [
+          "Birds fly in the sky.",
+          "I want to fly like a bird.",
+          "The plane flies very high."
+        ],
+        "de": [
+          "Vögel fliegen am Himmel.",
+          "Ich möchte wie ein Vogel fliegen.",
+          "Das Flugzeug fliegt sehr hoch."
+        ],
+        "ar": [
+          "الطيور تطير في السماء.",
+          "أريد أن أطير مثل طائر.",
+          "الطائرة تطير عالياً جداً."
+        ],
+        "fr": [
+          "Les oiseaux volent dans le ciel.",
+          "Je veux voler comme un oiseau.",
+          "L'avion vole très haut."
+        ],
+        "it": [
+          "Gli uccelli volano nel cielo.",
+          "Voglio volare come un uccello.",
+          "L'aereo vola molto alto."
+        ],
+        "ru": [
+          "Птицы летают в небе.",
+          "Я хочу летать как птица.",
+          "Самолёт летит очень высоко."
+        ],
+        "es": [
+          "Los pájaros vuelan en el cielo.",
+          "Quiero volar como un pájaro.",
+          "El avión vuela muy alto."
+        ],
+        "pl": [
+          "Ptaki latają na niebie.",
+          "Chcę latać jak ptak.",
+          "Samolot leci bardzo wysoko."
+        ],
+        "fa": [
+          "پرندگان در آسمان پرواز می‌کنند.",
+          "می‌خواهم مثل پرنده پرواز کنم.",
+          "هواپیما خیلی بالا پرواز می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_878_fa",
+      "word_index": 878,
+      "translations": {
+        "en": "to swim",
+        "de": "schwimmen",
+        "ar": "يسبح",
+        "fr": "nager",
+        "it": "nuotare",
+        "ru": "плавать",
+        "es": "nadar",
+        "pl": "pływać",
+        "fa": "شنا کردن"
+      },
+      "examples": {
+        "en": [
+          "Fish swim in the water.",
+          "I swim in the pool every day.",
+          "Can you swim well?"
+        ],
+        "de": [
+          "Fische schwimmen im Wasser.",
+          "Ich schwimme jeden Tag im Pool.",
+          "Kannst du gut schwimmen?"
+        ],
+        "ar": [
+          "الأسماك تسبح في الماء.",
+          "أسبح في المسبح كل يوم.",
+          "هل تستطيع السباحة جيداً؟"
+        ],
+        "fr": [
+          "Les poissons nagent dans l'eau.",
+          "Je nage dans la piscine chaque jour.",
+          "Peux-tu bien nager?"
+        ],
+        "it": [
+          "I pesci nuotano nell'acqua.",
+          "Nuoto in piscina ogni giorno.",
+          "Sai nuotare bene?"
+        ],
+        "ru": [
+          "Рыбы плавают в воде.",
+          "Я плаваю в бассейне каждый день.",
+          "Ты умеешь хорошо плавать?"
+        ],
+        "es": [
+          "Los peces nadan en el agua.",
+          "Nado en la piscina todos los días.",
+          "¿Sabes nadar bien?"
+        ],
+        "pl": [
+          "Ryby pływają w wodzie.",
+          "Pływam na basenie codziennie.",
+          "Czy potrafisz dobrze pływać?"
+        ],
+        "fa": [
+          "ماهی‌ها در آب شنا می‌کنند.",
+          "من هر روز در استخر شنا می‌کنم.",
+          "می‌توانی خوب شنا کنی؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_879_fa",
+      "word_index": 879,
+      "translations": {
+        "en": "to run",
+        "de": "rennen",
+        "ar": "يجري",
+        "fr": "courir",
+        "it": "correre",
+        "ru": "бегать",
+        "es": "correr",
+        "pl": "biegać",
+        "fa": "دویدن"
+      },
+      "examples": {
+        "en": [
+          "I run in the park every morning.",
+          "The dog runs very fast.",
+          "Horses can run for long time."
+        ],
+        "de": [
+          "Ich renne jeden Morgen im Park.",
+          "Der Hund rennt sehr schnell.",
+          "Pferde können lange rennen."
+        ],
+        "ar": [
+          "أجري في الحديقة كل صباح.",
+          "الكلب يجري بسرعة كبيرة.",
+          "الخيول تستطيع الجري لوقت طويل."
+        ],
+        "fr": [
+          "Je cours dans le parc chaque matin.",
+          "Le chien court très vite.",
+          "Les chevaux peuvent courir longtemps."
+        ],
+        "it": [
+          "Corro nel parco ogni mattina.",
+          "Il cane corre molto veloce.",
+          "I cavalli possono correre a lungo."
+        ],
+        "ru": [
+          "Я бегаю в парке каждое утро.",
+          "Собака бегает очень быстро.",
+          "Лошади могут бегать долго."
+        ],
+        "es": [
+          "Corro en el parque cada mañana.",
+          "El perro corre muy rápido.",
+          "Los caballos pueden correr mucho tiempo."
+        ],
+        "pl": [
+          "Biegam w parku każdego ranka.",
+          "Pies biega bardzo szybko.",
+          "Konie mogą biegać długo."
+        ],
+        "fa": [
+          "من هر صبح در پارک می‌دوم.",
+          "سگ خیلی سریع می‌دود.",
+          "اسب‌ها می‌توانند مدت طولانی بدوند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_880_fa",
+      "word_index": 880,
+      "translations": {
+        "en": "to jump",
+        "de": "springen",
+        "ar": "يقفز",
+        "fr": "sauter",
+        "it": "saltare",
+        "ru": "прыгать",
+        "es": "saltar",
+        "pl": "skakać",
+        "fa": "پریدن"
+      },
+      "examples": {
+        "en": [
+          "The cat can jump very high.",
+          "I jump over the small wall.",
+          "Rabbits jump all the time."
+        ],
+        "de": [
+          "Die Katze kann sehr hoch springen.",
+          "Ich springe über die kleine Mauer.",
+          "Kaninchen springen die ganze Zeit."
+        ],
+        "ar": [
+          "القطة تستطيع القفز عالياً جداً.",
+          "أقفز فوق الحائط الصغير.",
+          "الأرانب تقفز طوال الوقت."
+        ],
+        "fr": [
+          "Le chat peut sauter très haut.",
+          "Je saute par-dessus le petit mur.",
+          "Les lapins sautent tout le temps."
+        ],
+        "it": [
+          "Il gatto può saltare molto in alto.",
+          "Salto oltre il piccolo muro.",
+          "I conigli saltano sempre."
+        ],
+        "ru": [
+          "Кошка может прыгать очень высоко.",
+          "Я прыгаю через маленькую стену.",
+          "Кролики прыгают всё время."
+        ],
+        "es": [
+          "El gato puede saltar muy alto.",
+          "Salto sobre la pared pequeña.",
+          "Los conejos saltan todo el tiempo."
+        ],
+        "pl": [
+          "Kot może skakać bardzo wysoko.",
+          "Przeskakuję przez małą ścianę.",
+          "Króliki skaczą cały czas."
+        ],
+        "fa": [
+          "گربه می‌تواند خیلی بالا بپرد.",
+          "من از دیوار کوچک می‌پرم.",
+          "خرگوش‌ها همیشه می‌پرند."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 41,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "801-820",
+    "total_words": 20,
+    "theme": "Technology and Communication",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_801_fa",
+      "word_index": 801,
+      "translations": {
+        "en": "computer",
+        "de": "Computer",
+        "ar": "حاسوب",
+        "fr": "ordinateur",
+        "it": "computer",
+        "ru": "компьютер",
+        "es": "computadora",
+        "pl": "komputer",
+        "fa": "رایانه"
+      },
+      "examples": {
+        "en": [
+          "I use my computer every day.",
+          "This computer is very fast.",
+          "My new computer works well."
+        ],
+        "de": [
+          "Ich benutze jeden Tag meinen Computer.",
+          "Dieser Computer ist sehr schnell.",
+          "Mein neuer Computer funktioniert gut."
+        ],
+        "ar": [
+          "أستخدم حاسوبي كل يوم.",
+          "هذا الحاسوب سريع جداً.",
+          "حاسوبي الجديد يعمل جيداً."
+        ],
+        "fr": [
+          "J'utilise mon ordinateur tous les jours.",
+          "Cet ordinateur est très rapide.",
+          "Mon nouvel ordinateur fonctionne bien."
+        ],
+        "it": [
+          "Uso il mio computer ogni giorno.",
+          "Questo computer è molto veloce.",
+          "Il mio nuovo computer funziona bene."
+        ],
+        "ru": [
+          "Я использую компьютер каждый день.",
+          "Этот компьютер очень быстрый.",
+          "Мой новый компьютер работает хорошо."
+        ],
+        "es": [
+          "Uso mi computadora todos los días.",
+          "Esta computadora es muy rápida.",
+          "Mi nueva computadora funciona bien."
+        ],
+        "pl": [
+          "Używam komputera codziennie.",
+          "Ten komputer jest bardzo szybki.",
+          "Mój nowy komputer działa dobrze."
+        ],
+        "fa": [
+          "من هر روز از رایانه‌ام استفاده می‌کنم.",
+          "این رایانه خیلی سریع است.",
+          "رایانه جدید من خوب کار می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_802_fa",
+      "word_index": 802,
+      "translations": {
+        "en": "phone",
+        "de": "Telefon",
+        "ar": "هاتف",
+        "fr": "téléphone",
+        "it": "telefono",
+        "ru": "телефон",
+        "es": "teléfono",
+        "pl": "telefon",
+        "fa": "تلفن"
+      },
+      "examples": {
+        "en": [
+          "My phone is on the table.",
+          "I need a new phone.",
+          "She calls me on my phone."
+        ],
+        "de": [
+          "Mein Telefon liegt auf dem Tisch.",
+          "Ich brauche ein neues Telefon.",
+          "Sie ruft mich auf meinem Telefon an."
+        ],
+        "ar": [
+          "هاتفي على الطاولة.",
+          "أحتاج إلى هاتف جديد.",
+          "هي تتصل بي على هاتفي."
+        ],
+        "fr": [
+          "Mon téléphone est sur la table.",
+          "J'ai besoin d'un nouveau téléphone.",
+          "Elle m'appelle sur mon téléphone."
+        ],
+        "it": [
+          "Il mio telefono è sul tavolo.",
+          "Ho bisogno di un telefono nuovo.",
+          "Lei mi chiama sul mio telefono."
+        ],
+        "ru": [
+          "Мой телефон на столе.",
+          "Мне нужен новый телефон.",
+          "Она звонит мне на телефон."
+        ],
+        "es": [
+          "Mi teléfono está sobre la mesa.",
+          "Necesito un teléfono nuevo.",
+          "Ella me llama a mi teléfono."
+        ],
+        "pl": [
+          "Mój telefon jest na stole.",
+          "Potrzebuję nowego telefonu.",
+          "Ona dzwoni do mnie na telefon."
+        ],
+        "fa": [
+          "تلفن من روی میز است.",
+          "من به تلفن جدید نیاز دارم.",
+          "او با تلفن من تماس می‌گیرد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_803_fa",
+      "word_index": 803,
+      "translations": {
+        "en": "internet",
+        "de": "Internet",
+        "ar": "إنترنت",
+        "fr": "internet",
+        "it": "internet",
+        "ru": "интернет",
+        "es": "internet",
+        "pl": "internet",
+        "fa": "اینترنت"
+      },
+      "examples": {
+        "en": [
+          "I use the internet every day.",
+          "The internet is very slow today.",
+          "We find information on the internet."
+        ],
+        "de": [
+          "Ich benutze das Internet jeden Tag.",
+          "Das Internet ist heute sehr langsam.",
+          "Wir finden Informationen im Internet."
+        ],
+        "ar": [
+          "أستخدم الإنترنت كل يوم.",
+          "الإنترنت بطيء جداً اليوم.",
+          "نجد المعلومات على الإنترنت."
+        ],
+        "fr": [
+          "J'utilise internet tous les jours.",
+          "Internet est très lent aujourd'hui.",
+          "Nous trouvons des informations sur internet."
+        ],
+        "it": [
+          "Uso internet ogni giorno.",
+          "Internet è molto lento oggi.",
+          "Troviamo informazioni su internet."
+        ],
+        "ru": [
+          "Я пользуюсь интернетом каждый день.",
+          "Интернет сегодня очень медленный.",
+          "Мы находим информацию в интернете."
+        ],
+        "es": [
+          "Uso internet todos los días.",
+          "El internet está muy lento hoy.",
+          "Encontramos información en internet."
+        ],
+        "pl": [
+          "Używam internetu codziennie.",
+          "Internet jest dzisiaj bardzo wolny.",
+          "Znajdujemy informacje w internecie."
+        ],
+        "fa": [
+          "من هر روز از اینترنت استفاده می‌کنم.",
+          "اینترنت امروز خیلی کند است.",
+          "ما اطلاعات را در اینترنت پیدا می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_804_fa",
+      "word_index": 804,
+      "translations": {
+        "en": "email",
+        "de": "E-Mail",
+        "ar": "بريد إلكتروني",
+        "fr": "e-mail",
+        "it": "email",
+        "ru": "электронная почта",
+        "es": "correo electrónico",
+        "pl": "e-mail",
+        "fa": "ایمیل"
+      },
+      "examples": {
+        "en": [
+          "I send you an email today.",
+          "Please check your email.",
+          "She writes many emails every day."
+        ],
+        "de": [
+          "Ich schicke dir heute eine E-Mail.",
+          "Bitte überprüfe deine E-Mail.",
+          "Sie schreibt jeden Tag viele E-Mails."
+        ],
+        "ar": [
+          "أرسلت لك بريداً إلكترونياً اليوم.",
+          "يرجى التحقق من بريدك الإلكتروني.",
+          "تكتب رسائل إلكترونية كثيرة كل يوم."
+        ],
+        "fr": [
+          "Je t'envoie un e-mail aujourd'hui.",
+          "Vérifie ton e-mail s'il te plaît.",
+          "Elle écrit beaucoup d'e-mails chaque jour."
+        ],
+        "it": [
+          "Ti mando un'email oggi.",
+          "Controlla la tua email per favore.",
+          "Lei scrive molte email ogni giorno."
+        ],
+        "ru": [
+          "Я отправлю тебе письмо сегодня.",
+          "Пожалуйста, проверь свою почту.",
+          "Она пишет много писем каждый день."
+        ],
+        "es": [
+          "Te envío un correo electrónico hoy.",
+          "Por favor revisa tu correo electrónico.",
+          "Ella escribe muchos correos electrónicos cada día."
+        ],
+        "pl": [
+          "Wysyłam ci e-mail dzisiaj.",
+          "Proszę sprawdź swoją pocztę.",
+          "Ona pisze wiele e-maili codziennie."
+        ],
+        "fa": [
+          "من امروز برایت ایمیل می‌فرستم.",
+          "لطفاً ایمیلت را چک کن.",
+          "او هر روز ایمیل‌های زیادی می‌نویسد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_805_fa",
+      "word_index": 805,
+      "translations": {
+        "en": "website",
+        "de": "Webseite",
+        "ar": "موقع ويب",
+        "fr": "site web",
+        "it": "sito web",
+        "ru": "веб-сайт",
+        "es": "sitio web",
+        "pl": "strona internetowa",
+        "fa": "وب‌سایت"
+      },
+      "examples": {
+        "en": [
+          "I visit this website every day.",
+          "This is a very good website.",
+          "We find the information on their website."
+        ],
+        "de": [
+          "Ich besuche diese Webseite jeden Tag.",
+          "Das ist eine sehr gute Webseite.",
+          "Wir finden die Informationen auf ihrer Webseite."
+        ],
+        "ar": [
+          "أزور هذا الموقع كل يوم.",
+          "هذا موقع ويب جيد جداً.",
+          "نجد المعلومات على موقعهم."
+        ],
+        "fr": [
+          "Je visite ce site web tous les jours.",
+          "C'est un très bon site web.",
+          "Nous trouvons l'information sur leur site web."
+        ],
+        "it": [
+          "Visito questo sito web ogni giorno.",
+          "Questo è un sito web molto buono.",
+          "Troviamo le informazioni sul loro sito web."
+        ],
+        "ru": [
+          "Я посещаю этот сайт каждый день.",
+          "Это очень хороший сайт.",
+          "Мы находим информацию на их сайте."
+        ],
+        "es": [
+          "Visito este sitio web todos los días.",
+          "Este es un sitio web muy bueno.",
+          "Encontramos la información en su sitio web."
+        ],
+        "pl": [
+          "Odwiedzam tę stronę internetową codziennie.",
+          "To jest bardzo dobra strona internetowa.",
+          "Znajdujemy informacje na ich stronie internetowej."
+        ],
+        "fa": [
+          "من هر روز از این وب‌سایت بازدید می‌کنم.",
+          "این یک وب‌سایت خیلی خوب است.",
+          "ما اطلاعات را در وب‌سایت آنها پیدا می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_806_fa",
+      "word_index": 806,
+      "translations": {
+        "en": "online",
+        "de": "online",
+        "ar": "متصل",
+        "fr": "en ligne",
+        "it": "online",
+        "ru": "онлайн",
+        "es": "en línea",
+        "pl": "online",
+        "fa": "آنلاین"
+      },
+      "examples": {
+        "en": [
+          "I buy my books online.",
+          "She works online from home.",
+          "We study English online together."
+        ],
+        "de": [
+          "Ich kaufe meine Bücher online.",
+          "Sie arbeitet online von zu Hause.",
+          "Wir lernen zusammen online Englisch."
+        ],
+        "ar": [
+          "أشتري كتبي عبر الإنترنت.",
+          "تعمل من المنزل عبر الإنترنت.",
+          "ندرس الإنجليزية معاً عبر الإنترنت."
+        ],
+        "fr": [
+          "J'achète mes livres en ligne.",
+          "Elle travaille en ligne depuis la maison.",
+          "Nous étudions l'anglais en ligne ensemble."
+        ],
+        "it": [
+          "Compro i miei libri online.",
+          "Lei lavora online da casa.",
+          "Studiamo inglese online insieme."
+        ],
+        "ru": [
+          "Я покупаю книги онлайн.",
+          "Она работает онлайн из дома.",
+          "Мы изучаем английский онлайн вместе."
+        ],
+        "es": [
+          "Compro mis libros en línea.",
+          "Ella trabaja en línea desde casa.",
+          "Estudiamos inglés en línea juntos."
+        ],
+        "pl": [
+          "Kupuję książki online.",
+          "Ona pracuje online z domu.",
+          "Uczymy się angielskiego online razem."
+        ],
+        "fa": [
+          "من کتاب‌هایم را آنلاین می‌خرم.",
+          "او از خانه آنلاین کار می‌کند.",
+          "ما با هم آنلاین انگلیسی مطالعه می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_807_fa",
+      "word_index": 807,
+      "translations": {
+        "en": "message",
+        "de": "Nachricht",
+        "ar": "رسالة",
+        "fr": "message",
+        "it": "messaggio",
+        "ru": "сообщение",
+        "es": "mensaje",
+        "pl": "wiadomość",
+        "fa": "پیام"
+      },
+      "examples": {
+        "en": [
+          "I send a message to my friend.",
+          "Please read my message.",
+          "She writes a short message."
+        ],
+        "de": [
+          "Ich schicke eine Nachricht an meinen Freund.",
+          "Bitte lies meine Nachricht.",
+          "Sie schreibt eine kurze Nachricht."
+        ],
+        "ar": [
+          "أرسل رسالة إلى صديقي.",
+          "يرجى قراءة رسالتي.",
+          "تكتب رسالة قصيرة."
+        ],
+        "fr": [
+          "J'envoie un message à mon ami.",
+          "Lis mon message s'il te plaît.",
+          "Elle écrit un message court."
+        ],
+        "it": [
+          "Mando un messaggio al mio amico.",
+          "Leggi il mio messaggio per favore.",
+          "Lei scrive un messaggio breve."
+        ],
+        "ru": [
+          "Я отправляю сообщение другу.",
+          "Пожалуйста, прочитай моё сообщение.",
+          "Она пишет короткое сообщение."
+        ],
+        "es": [
+          "Envío un mensaje a mi amigo.",
+          "Por favor lee mi mensaje.",
+          "Ella escribe un mensaje corto."
+        ],
+        "pl": [
+          "Wysyłam wiadomość do mojego przyjaciela.",
+          "Proszę przeczytaj moją wiadomość.",
+          "Ona pisze krótką wiadomość."
+        ],
+        "fa": [
+          "من به دوستم پیام می‌فرستم.",
+          "لطفاً پیام من را بخوان.",
+          "او یک پیام کوتاه می‌نویسد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_808_fa",
+      "word_index": 808,
+      "translations": {
+        "en": "to call",
+        "de": "anrufen",
+        "ar": "يتصل",
+        "fr": "appeler",
+        "it": "chiamare",
+        "ru": "звонить",
+        "es": "llamar",
+        "pl": "dzwonić",
+        "fa": "تماس گرفتن"
+      },
+      "examples": {
+        "en": [
+          "I call my mother every day.",
+          "Please call me tomorrow.",
+          "She calls her friend tonight."
+        ],
+        "de": [
+          "Ich rufe jeden Tag meine Mutter an.",
+          "Bitte ruf mich morgen an.",
+          "Sie ruft heute Abend ihre Freundin an."
+        ],
+        "ar": [
+          "أتصل بأمي كل يوم.",
+          "يرجى الاتصال بي غداً.",
+          "تتصل بصديقتها الليلة."
+        ],
+        "fr": [
+          "J'appelle ma mère tous les jours.",
+          "Appelle-moi demain s'il te plaît.",
+          "Elle appelle son amie ce soir."
+        ],
+        "it": [
+          "Chiamo mia madre ogni giorno.",
+          "Chiamami domani per favore.",
+          "Lei chiama la sua amica stasera."
+        ],
+        "ru": [
+          "Я звоню маме каждый день.",
+          "Пожалуйста, позвони мне завтра.",
+          "Она звонит подруге сегодня вечером."
+        ],
+        "es": [
+          "Llamo a mi madre todos los días.",
+          "Por favor llámame mañana.",
+          "Ella llama a su amiga esta noche."
+        ],
+        "pl": [
+          "Dzwonię do mamy codziennie.",
+          "Proszę zadzwoń do mnie jutro.",
+          "Ona dzwoni do przyjaciółki wieczorem."
+        ],
+        "fa": [
+          "من هر روز با مادرم تماس می‌گیرم.",
+          "لطفاً فردا با من تماس بگیر.",
+          "او امشب با دوستش تماس می‌گیرد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_809_fa",
+      "word_index": 809,
+      "translations": {
+        "en": "text message",
+        "de": "SMS",
+        "ar": "رسالة نصية",
+        "fr": "texto",
+        "it": "messaggio di testo",
+        "ru": "текстовое сообщение",
+        "es": "mensaje de texto",
+        "pl": "wiadomość tekstowa",
+        "fa": "پیامک"
+      },
+      "examples": {
+        "en": [
+          "I send you a text message.",
+          "She receives many text messages daily.",
+          "Please answer my text message."
+        ],
+        "de": [
+          "Ich schicke dir eine SMS.",
+          "Sie erhält täglich viele SMS.",
+          "Bitte antworte auf meine SMS."
+        ],
+        "ar": [
+          "أرسل لك رسالة نصية.",
+          "تتلقى رسائل نصية كثيرة يومياً.",
+          "يرجى الرد على رسالتي النصية."
+        ],
+        "fr": [
+          "Je t'envoie un texto.",
+          "Elle reçoit beaucoup de textos chaque jour.",
+          "Réponds à mon texto s'il te plaît."
+        ],
+        "it": [
+          "Ti mando un messaggio di testo.",
+          "Lei riceve molti messaggi di testo ogni giorno.",
+          "Rispondi al mio messaggio per favore."
+        ],
+        "ru": [
+          "Я отправляю тебе смс.",
+          "Она получает много смс каждый день.",
+          "Пожалуйста, ответь на моё смс."
+        ],
+        "es": [
+          "Te envío un mensaje de texto.",
+          "Ella recibe muchos mensajes de texto diariamente.",
+          "Por favor responde mi mensaje de texto."
+        ],
+        "pl": [
+          "Wysyłam ci wiadomość tekstową.",
+          "Ona otrzymuje wiele wiadomości tekstowych codziennie.",
+          "Proszę odpowiedz na moją wiadomość."
+        ],
+        "fa": [
+          "من برایت پیامک می‌فرستم.",
+          "او هر روز پیامک‌های زیادی دریافت می‌کند.",
+          "لطفاً به پیامک من جواب بده."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_810_fa",
+      "word_index": 810,
+      "translations": {
+        "en": "application",
+        "de": "Anwendung",
+        "ar": "تطبيق",
+        "fr": "application",
+        "it": "applicazione",
+        "ru": "приложение",
+        "es": "aplicación",
+        "pl": "aplikacja",
+        "fa": "برنامه"
+      },
+      "examples": {
+        "en": [
+          "I download a new application.",
+          "This application is very useful.",
+          "She uses many applications on her phone."
+        ],
+        "de": [
+          "Ich lade eine neue Anwendung herunter.",
+          "Diese Anwendung ist sehr nützlich.",
+          "Sie benutzt viele Anwendungen auf ihrem Telefon."
+        ],
+        "ar": [
+          "أنزل تطبيقاً جديداً.",
+          "هذا التطبيق مفيد جداً.",
+          "تستخدم تطبيقات كثيرة على هاتفها."
+        ],
+        "fr": [
+          "Je télécharge une nouvelle application.",
+          "Cette application est très utile.",
+          "Elle utilise beaucoup d'applications sur son téléphone."
+        ],
+        "it": [
+          "Scarico una nuova applicazione.",
+          "Questa applicazione è molto utile.",
+          "Lei usa molte applicazioni sul suo telefono."
+        ],
+        "ru": [
+          "Я скачиваю новое приложение.",
+          "Это приложение очень полезное.",
+          "Она использует много приложений на телефоне."
+        ],
+        "es": [
+          "Descargo una nueva aplicación.",
+          "Esta aplicación es muy útil.",
+          "Ella usa muchas aplicaciones en su teléfono."
+        ],
+        "pl": [
+          "Pobieram nową aplikację.",
+          "Ta aplikacja jest bardzo przydatna.",
+          "Ona używa wielu aplikacji na telefonie."
+        ],
+        "fa": [
+          "من یک برنامه جدید دانلود می‌کنم.",
+          "این برنامه خیلی مفید است.",
+          "او برنامه‌های زیادی در تلفنش استفاده می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_811_fa",
+      "word_index": 811,
+      "translations": {
+        "en": "screen",
+        "de": "Bildschirm",
+        "ar": "شاشة",
+        "fr": "écran",
+        "it": "schermo",
+        "ru": "экран",
+        "es": "pantalla",
+        "pl": "ekran",
+        "fa": "صفحه نمایش"
+      },
+      "examples": {
+        "en": [
+          "The computer screen is very big.",
+          "I clean my phone screen.",
+          "She looks at the screen."
+        ],
+        "de": [
+          "Der Computerbildschirm ist sehr groß.",
+          "Ich reinige meinen Telefonbildschirm.",
+          "Sie schaut auf den Bildschirm."
+        ],
+        "ar": [
+          "شاشة الكمبيوتر كبيرة جداً.",
+          "أنظف شاشة هاتفي.",
+          "تنظر إلى الشاشة."
+        ],
+        "fr": [
+          "L'écran d'ordinateur est très grand.",
+          "Je nettoie mon écran de téléphone.",
+          "Elle regarde l'écran."
+        ],
+        "it": [
+          "Lo schermo del computer è molto grande.",
+          "Pulisco lo schermo del mio telefono.",
+          "Lei guarda lo schermo."
+        ],
+        "ru": [
+          "Экран компьютера очень большой.",
+          "Я протираю экран телефона.",
+          "Она смотрит на экран."
+        ],
+        "es": [
+          "La pantalla del computador es muy grande.",
+          "Limpio la pantalla de mi teléfono.",
+          "Ella mira la pantalla."
+        ],
+        "pl": [
+          "Ekran komputera jest bardzo duży.",
+          "Czyszczę ekran telefonu.",
+          "Ona patrzy na ekran."
+        ],
+        "fa": [
+          "صفحه نمایش رایانه خیلی بزرگ است.",
+          "من صفحه نمایش تلفنم را تمیز می‌کنم.",
+          "او به صفحه نمایش نگاه می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_812_fa",
+      "word_index": 812,
+      "translations": {
+        "en": "keyboard",
+        "de": "Tastatur",
+        "ar": "لوحة مفاتيح",
+        "fr": "clavier",
+        "it": "tastiera",
+        "ru": "клавиатура",
+        "es": "teclado",
+        "pl": "klawiatura",
+        "fa": "صفحه‌کلید"
+      },
+      "examples": {
+        "en": [
+          "I need a new keyboard.",
+          "This keyboard is very comfortable.",
+          "She types fast on the keyboard."
+        ],
+        "de": [
+          "Ich brauche eine neue Tastatur.",
+          "Diese Tastatur ist sehr bequem.",
+          "Sie tippt schnell auf der Tastatur."
+        ],
+        "ar": [
+          "أحتاج إلى لوحة مفاتيح جديدة.",
+          "لوحة المفاتيح هذه مريحة جداً.",
+          "تكتب بسرعة على لوحة المفاتيح."
+        ],
+        "fr": [
+          "J'ai besoin d'un nouveau clavier.",
+          "Ce clavier est très confortable.",
+          "Elle tape vite sur le clavier."
+        ],
+        "it": [
+          "Ho bisogno di una tastiera nuova.",
+          "Questa tastiera è molto comoda.",
+          "Lei scrive veloce sulla tastiera."
+        ],
+        "ru": [
+          "Мне нужна новая клавиатура.",
+          "Эта клавиатура очень удобная.",
+          "Она быстро печатает на клавиатуре."
+        ],
+        "es": [
+          "Necesito un teclado nuevo.",
+          "Este teclado es muy cómodo.",
+          "Ella escribe rápido en el teclado."
+        ],
+        "pl": [
+          "Potrzebuję nowej klawiatury.",
+          "Ta klawiatura jest bardzo wygodna.",
+          "Ona pisze szybko na klawiaturze."
+        ],
+        "fa": [
+          "من به صفحه‌کلید جدید نیاز دارم.",
+          "این صفحه‌کلید خیلی راحت است.",
+          "او سریع روی صفحه‌کلید تایپ می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_813_fa",
+      "word_index": 813,
+      "translations": {
+        "en": "mouse",
+        "de": "Maus",
+        "ar": "فأرة",
+        "fr": "souris",
+        "it": "mouse",
+        "ru": "мышь",
+        "es": "ratón",
+        "pl": "mysz",
+        "fa": "ماوس"
+      },
+      "examples": {
+        "en": [
+          "I use the mouse every day.",
+          "This mouse is very small.",
+          "My computer mouse is black."
+        ],
+        "de": [
+          "Ich benutze die Maus jeden Tag.",
+          "Diese Maus ist sehr klein.",
+          "Meine Computermaus ist schwarz."
+        ],
+        "ar": [
+          "أستخدم الفأرة كل يوم.",
+          "هذه الفأرة صغيرة جداً.",
+          "فأرة حاسوبي سوداء."
+        ],
+        "fr": [
+          "J'utilise la souris tous les jours.",
+          "Cette souris est très petite.",
+          "Ma souris d'ordinateur est noire."
+        ],
+        "it": [
+          "Uso il mouse ogni giorno.",
+          "Questo mouse è molto piccolo.",
+          "Il mio mouse del computer è nero."
+        ],
+        "ru": [
+          "Я использую мышь каждый день.",
+          "Эта мышь очень маленькая.",
+          "Моя компьютерная мышь чёрная."
+        ],
+        "es": [
+          "Uso el ratón todos los días.",
+          "Este ratón es muy pequeño.",
+          "Mi ratón de computadora es negro."
+        ],
+        "pl": [
+          "Używam myszy codziennie.",
+          "Ta mysz jest bardzo mała.",
+          "Moja mysz komputerowa jest czarna."
+        ],
+        "fa": [
+          "من هر روز از ماوس استفاده می‌کنم.",
+          "این ماوس خیلی کوچک است.",
+          "ماوس رایانه من مشکی است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_814_fa",
+      "word_index": 814,
+      "translations": {
+        "en": "to click",
+        "de": "klicken",
+        "ar": "ينقر",
+        "fr": "cliquer",
+        "it": "cliccare",
+        "ru": "щёлкать",
+        "es": "hacer clic",
+        "pl": "klikać",
+        "fa": "کلیک کردن"
+      },
+      "examples": {
+        "en": [
+          "Please click this button.",
+          "I click on the link.",
+          "She clicks the mouse two times."
+        ],
+        "de": [
+          "Bitte klicke auf diesen Button.",
+          "Ich klicke auf den Link.",
+          "Sie klickt zweimal auf die Maus."
+        ],
+        "ar": [
+          "يرجى النقر على هذا الزر.",
+          "أنقر على الرابط.",
+          "تنقر على الفأرة مرتين."
+        ],
+        "fr": [
+          "Clique sur ce bouton s'il te plaît.",
+          "Je clique sur le lien.",
+          "Elle clique deux fois sur la souris."
+        ],
+        "it": [
+          "Clicca su questo pulsante per favore.",
+          "Clicco sul link.",
+          "Lei clicca due volte sul mouse."
+        ],
+        "ru": [
+          "Пожалуйста, щёлкни эту кнопку.",
+          "Я щёлкаю на ссылку.",
+          "Она щёлкает мышью два раза."
+        ],
+        "es": [
+          "Por favor haz clic en este botón.",
+          "Hago clic en el enlace.",
+          "Ella hace clic dos veces en el ratón."
+        ],
+        "pl": [
+          "Proszę kliknij ten przycisk.",
+          "Klikam w link.",
+          "Ona klika myszą dwa razy."
+        ],
+        "fa": [
+          "لطفاً این دکمه را کلیک کن.",
+          "من روی لینک کلیک می‌کنم.",
+          "او دو بار ماوس را کلیک می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_815_fa",
+      "word_index": 815,
+      "translations": {
+        "en": "to type",
+        "de": "tippen",
+        "ar": "يكتب",
+        "fr": "taper",
+        "it": "digitare",
+        "ru": "печатать",
+        "es": "escribir",
+        "pl": "pisać",
+        "fa": "تایپ کردن"
+      },
+      "examples": {
+        "en": [
+          "I type on the keyboard.",
+          "She types very fast.",
+          "Please type your name here."
+        ],
+        "de": [
+          "Ich tippe auf der Tastatur.",
+          "Sie tippt sehr schnell.",
+          "Bitte tippe deinen Namen hier ein."
+        ],
+        "ar": [
+          "أكتب على لوحة المفاتيح.",
+          "تكتب بسرعة كبيرة.",
+          "يرجى كتابة اسمك هنا."
+        ],
+        "fr": [
+          "Je tape sur le clavier.",
+          "Elle tape très vite.",
+          "Tape ton nom ici s'il te plaît."
+        ],
+        "it": [
+          "Digito sulla tastiera.",
+          "Lei digita molto velocemente.",
+          "Digita il tuo nome qui per favore."
+        ],
+        "ru": [
+          "Я печатаю на клавиатуре.",
+          "Она печатает очень быстро.",
+          "Пожалуйста, напечатай своё имя здесь."
+        ],
+        "es": [
+          "Escribo en el teclado.",
+          "Ella escribe muy rápido.",
+          "Por favor escribe tu nombre aquí."
+        ],
+        "pl": [
+          "Piszę na klawiaturze.",
+          "Ona pisze bardzo szybko.",
+          "Proszę wpisz tutaj swoje imię."
+        ],
+        "fa": [
+          "من روی صفحه‌کلید تایپ می‌کنم.",
+          "او خیلی سریع تایپ می‌کند.",
+          "لطفاً اسمت را اینجا تایپ کن."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_816_fa",
+      "word_index": 816,
+      "translations": {
+        "en": "to download",
+        "de": "herunterladen",
+        "ar": "ينزل",
+        "fr": "télécharger",
+        "it": "scaricare",
+        "ru": "скачивать",
+        "es": "descargar",
+        "pl": "pobierać",
+        "fa": "دانلود کردن"
+      },
+      "examples": {
+        "en": [
+          "I download a new application.",
+          "She downloads music from the internet.",
+          "We can download this file."
+        ],
+        "de": [
+          "Ich lade eine neue Anwendung herunter.",
+          "Sie lädt Musik aus dem Internet herunter.",
+          "Wir können diese Datei herunterladen."
+        ],
+        "ar": [
+          "أنزل تطبيقاً جديداً.",
+          "تنزل موسيقى من الإنترنت.",
+          "يمكننا تنزيل هذا الملف."
+        ],
+        "fr": [
+          "Je télécharge une nouvelle application.",
+          "Elle télécharge de la musique depuis internet.",
+          "Nous pouvons télécharger ce fichier."
+        ],
+        "it": [
+          "Scarico una nuova applicazione.",
+          "Lei scarica musica da internet.",
+          "Possiamo scaricare questo file."
+        ],
+        "ru": [
+          "Я скачиваю новое приложение.",
+          "Она скачивает музыку из интернета.",
+          "Мы можем скачать этот файл."
+        ],
+        "es": [
+          "Descargo una nueva aplicación.",
+          "Ella descarga música de internet.",
+          "Podemos descargar este archivo."
+        ],
+        "pl": [
+          "Pobieram nową aplikację.",
+          "Ona pobiera muzykę z internetu.",
+          "Możemy pobrać ten plik."
+        ],
+        "fa": [
+          "من یک برنامه جدید دانلود می‌کنم.",
+          "او موسیقی از اینترنت دانلود می‌کند.",
+          "ما می‌توانیم این فایل را دانلود کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_817_fa",
+      "word_index": 817,
+      "translations": {
+        "en": "to upload",
+        "de": "hochladen",
+        "ar": "يرفع",
+        "fr": "téléverser",
+        "it": "caricare",
+        "ru": "загружать",
+        "es": "subir",
+        "pl": "przesyłać",
+        "fa": "آپلود کردن"
+      },
+      "examples": {
+        "en": [
+          "I upload my photos online.",
+          "She uploads a new video today.",
+          "We can upload this file now."
+        ],
+        "de": [
+          "Ich lade meine Fotos online hoch.",
+          "Sie lädt heute ein neues Video hoch.",
+          "Wir können diese Datei jetzt hochladen."
+        ],
+        "ar": [
+          "أرفع صوري على الإنترنت.",
+          "ترفع فيديو جديداً اليوم.",
+          "يمكننا رفع هذا الملف الآن."
+        ],
+        "fr": [
+          "Je téléverse mes photos en ligne.",
+          "Elle téléverse une nouvelle vidéo aujourd'hui.",
+          "Nous pouvons téléverser ce fichier maintenant."
+        ],
+        "it": [
+          "Carico le mie foto online.",
+          "Lei carica un nuovo video oggi.",
+          "Possiamo caricare questo file ora."
+        ],
+        "ru": [
+          "Я загружаю фотографии онлайн.",
+          "Она загружает новое видео сегодня.",
+          "Мы можем загрузить этот файл сейчас."
+        ],
+        "es": [
+          "Subo mis fotos en línea.",
+          "Ella sube un nuevo video hoy.",
+          "Podemos subir este archivo ahora."
+        ],
+        "pl": [
+          "Przesyłam moje zdjęcia online.",
+          "Ona przesyła nowe wideo dzisiaj.",
+          "Możemy przesłać ten plik teraz."
+        ],
+        "fa": [
+          "من عکس‌هایم را آنلاین آپلود می‌کنم.",
+          "او امروز یک ویدیوی جدید آپلود می‌کند.",
+          "ما می‌توانیم این فایل را الان آپلود کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_818_fa",
+      "word_index": 818,
+      "translations": {
+        "en": "connection",
+        "de": "Verbindung",
+        "ar": "اتصال",
+        "fr": "connexion",
+        "it": "connessione",
+        "ru": "соединение",
+        "es": "conexión",
+        "pl": "połączenie",
+        "fa": "اتصال"
+      },
+      "examples": {
+        "en": [
+          "The internet connection is very good.",
+          "I have a bad connection today.",
+          "We need a fast connection."
+        ],
+        "de": [
+          "Die Internetverbindung ist sehr gut.",
+          "Ich habe heute eine schlechte Verbindung.",
+          "Wir brauchen eine schnelle Verbindung."
+        ],
+        "ar": [
+          "اتصال الإنترنت جيد جداً.",
+          "لدي اتصال سيء اليوم.",
+          "نحتاج اتصالاً سريعاً."
+        ],
+        "fr": [
+          "La connexion internet est très bonne.",
+          "J'ai une mauvaise connexion aujourd'hui.",
+          "Nous avons besoin d'une connexion rapide."
+        ],
+        "it": [
+          "La connessione internet è molto buona.",
+          "Ho una connessione cattiva oggi.",
+          "Abbiamo bisogno di una connessione veloce."
+        ],
+        "ru": [
+          "Интернет-соединение очень хорошее.",
+          "У меня плохое соединение сегодня.",
+          "Нам нужно быстрое соединение."
+        ],
+        "es": [
+          "La conexión a internet es muy buena.",
+          "Tengo una mala conexión hoy.",
+          "Necesitamos una conexión rápida."
+        ],
+        "pl": [
+          "Połączenie internetowe jest bardzo dobre.",
+          "Mam słabe połączenie dzisiaj.",
+          "Potrzebujemy szybkiego połączenia."
+        ],
+        "fa": [
+          "اتصال اینترنت خیلی خوب است.",
+          "من امروز اتصال بدی دارم.",
+          "ما به اتصال سریع نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_819_fa",
+      "word_index": 819,
+      "translations": {
+        "en": "wifi",
+        "de": "WLAN",
+        "ar": "واي فاي",
+        "fr": "wifi",
+        "it": "wifi",
+        "ru": "вайфай",
+        "es": "wifi",
+        "pl": "wifi",
+        "fa": "وای‌فای"
+      },
+      "examples": {
+        "en": [
+          "I connect to the wifi network.",
+          "The wifi password is on the table.",
+          "Our wifi is very fast today."
+        ],
+        "de": [
+          "Ich verbinde mich mit dem WLAN-Netzwerk.",
+          "Das WLAN-Passwort liegt auf dem Tisch.",
+          "Unser WLAN ist heute sehr schnell."
+        ],
+        "ar": [
+          "أتصل بشبكة الواي فاي.",
+          "كلمة مرور الواي فاي على الطاولة.",
+          "الواي فاي لدينا سريع جداً اليوم."
+        ],
+        "fr": [
+          "Je me connecte au réseau wifi.",
+          "Le mot de passe wifi est sur la table.",
+          "Notre wifi est très rapide aujourd'hui."
+        ],
+        "it": [
+          "Mi connetto alla rete wifi.",
+          "La password wifi è sul tavolo.",
+          "Il nostro wifi è molto veloce oggi."
+        ],
+        "ru": [
+          "Я подключаюсь к сети вайфай.",
+          "Пароль от вайфая на столе.",
+          "Наш вайфай сегодня очень быстрый."
+        ],
+        "es": [
+          "Me conecto a la red wifi.",
+          "La contraseña del wifi está sobre la mesa.",
+          "Nuestro wifi es muy rápido hoy."
+        ],
+        "pl": [
+          "Łączę się z siecią wifi.",
+          "Hasło do wifi jest na stole.",
+          "Nasze wifi jest bardzo szybkie dzisiaj."
+        ],
+        "fa": [
+          "من به شبکه وای‌فای وصل می‌شوم.",
+          "رمز وای‌فای روی میز است.",
+          "وای‌فای ما امروز خیلی سریع است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_820_fa",
+      "word_index": 820,
+      "translations": {
+        "en": "data",
+        "de": "Daten",
+        "ar": "بيانات",
+        "fr": "données",
+        "it": "dati",
+        "ru": "данные",
+        "es": "datos",
+        "pl": "dane",
+        "fa": "داده"
+      },
+      "examples": {
+        "en": [
+          "I save my data on the computer.",
+          "This phone has a lot of data.",
+          "We need to protect our data."
+        ],
+        "de": [
+          "Ich speichere meine Daten auf dem Computer.",
+          "Dieses Telefon hat viele Daten.",
+          "Wir müssen unsere Daten schützen."
+        ],
+        "ar": [
+          "أحفظ بياناتي على الحاسوب.",
+          "هذا الهاتف لديه بيانات كثيرة.",
+          "نحتاج إلى حماية بياناتنا."
+        ],
+        "fr": [
+          "Je sauvegarde mes données sur l'ordinateur.",
+          "Ce téléphone a beaucoup de données.",
+          "Nous devons protéger nos données."
+        ],
+        "it": [
+          "Salvo i miei dati sul computer.",
+          "Questo telefono ha molti dati.",
+          "Dobbiamo proteggere i nostri dati."
+        ],
+        "ru": [
+          "Я сохраняю данные на компьютере.",
+          "В этом телефоне много данных.",
+          "Мы должны защищать наши данные."
+        ],
+        "es": [
+          "Guardo mis datos en la computadora.",
+          "Este teléfono tiene muchos datos.",
+          "Necesitamos proteger nuestros datos."
+        ],
+        "pl": [
+          "Zapisuję moje dane na komputerze.",
+          "Ten telefon ma dużo danych.",
+          "Musimy chronić nasze dane."
+        ],
+        "fa": [
+          "من داده‌هایم را روی رایانه ذخیره می‌کنم.",
+          "این تلفن داده‌های زیادی دارد.",
+          "ما باید داده‌هایمان را محافظت کنیم."
+        ]
+      }
+    }
+  ]
+}

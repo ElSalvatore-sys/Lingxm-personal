@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 36,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "701-720",
+    "total_words": 20,
+    "theme": "Places and Transportation",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_701_fa",
+      "word_index": 701,
+      "translations": {
+        "en": "city",
+        "de": "Stadt",
+        "ar": "مدينة",
+        "fr": "ville",
+        "it": "città",
+        "ru": "город",
+        "es": "ciudad",
+        "pl": "miasto",
+        "fa": "شهر"
+      },
+      "examples": {
+        "en": [
+          "I live in a big city.",
+          "The city has many people.",
+          "Our city is very beautiful."
+        ],
+        "de": [
+          "Ich lebe in einer großen Stadt.",
+          "Die Stadt hat viele Menschen.",
+          "Unsere Stadt ist sehr schön."
+        ],
+        "ar": [
+          "أعيش في مدينة كبيرة.",
+          "المدينة بها أناس كثيرون.",
+          "مدينتنا جميلة جداً."
+        ],
+        "fr": [
+          "J'habite dans une grande ville.",
+          "La ville a beaucoup de gens.",
+          "Notre ville est très belle."
+        ],
+        "it": [
+          "Vivo in una grande città.",
+          "La città ha molte persone.",
+          "La nostra città è molto bella."
+        ],
+        "ru": [
+          "Я живу в большом городе.",
+          "В городе много людей.",
+          "Наш город очень красивый."
+        ],
+        "es": [
+          "Vivo en una ciudad grande.",
+          "La ciudad tiene muchas personas.",
+          "Nuestra ciudad es muy bonita."
+        ],
+        "pl": [
+          "Mieszkam w dużym mieście.",
+          "Miasto ma wielu ludzi.",
+          "Nasze miasto jest bardzo piękne."
+        ],
+        "fa": [
+          "من در یک شهر بزرگ زندگی می‌کنم.",
+          "شهر آدم‌های زیادی دارد.",
+          "شهر ما خیلی زیبا است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_702_fa",
+      "word_index": 702,
+      "translations": {
+        "en": "village",
+        "de": "Dorf",
+        "ar": "قرية",
+        "fr": "village",
+        "it": "villaggio",
+        "ru": "деревня",
+        "es": "pueblo",
+        "pl": "wioska",
+        "fa": "روستا"
+      },
+      "examples": {
+        "en": [
+          "I visit my village every year.",
+          "The village is very small.",
+          "My grandfather lives in a village."
+        ],
+        "de": [
+          "Ich besuche jedes Jahr mein Dorf.",
+          "Das Dorf ist sehr klein.",
+          "Mein Großvater lebt in einem Dorf."
+        ],
+        "ar": [
+          "أزور قريتي كل عام.",
+          "القرية صغيرة جداً.",
+          "جدي يعيش في قرية."
+        ],
+        "fr": [
+          "Je visite mon village chaque année.",
+          "Le village est très petit.",
+          "Mon grand-père habite dans un village."
+        ],
+        "it": [
+          "Visito il mio villaggio ogni anno.",
+          "Il villaggio è molto piccolo.",
+          "Mio nonno vive in un villaggio."
+        ],
+        "ru": [
+          "Я навещаю свою деревню каждый год.",
+          "Деревня очень маленькая.",
+          "Мой дедушка живёт в деревне."
+        ],
+        "es": [
+          "Visito mi pueblo cada año.",
+          "El pueblo es muy pequeño.",
+          "Mi abuelo vive en un pueblo."
+        ],
+        "pl": [
+          "Odwiedzam moją wioskę co roku.",
+          "Wioska jest bardzo mała.",
+          "Mój dziadek mieszka we wiosce."
+        ],
+        "fa": [
+          "من هر سال به روستایم سر می‌زنم.",
+          "روستا خیلی کوچک است.",
+          "پدربزرگم در روستا زندگی می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_703_fa",
+      "word_index": 703,
+      "translations": {
+        "en": "street",
+        "de": "Straße",
+        "ar": "شارع",
+        "fr": "rue",
+        "it": "strada",
+        "ru": "улица",
+        "es": "calle",
+        "pl": "ulica",
+        "fa": "خیابان"
+      },
+      "examples": {
+        "en": [
+          "I walk on this street every day.",
+          "The street is very long.",
+          "Many cars are on the street."
+        ],
+        "de": [
+          "Ich gehe jeden Tag auf dieser Straße.",
+          "Die Straße ist sehr lang.",
+          "Viele Autos sind auf der Straße."
+        ],
+        "ar": [
+          "أمشي في هذا الشارع كل يوم.",
+          "الشارع طويل جداً.",
+          "سيارات كثيرة في الشارع."
+        ],
+        "fr": [
+          "Je marche dans cette rue chaque jour.",
+          "La rue est très longue.",
+          "Beaucoup de voitures sont dans la rue."
+        ],
+        "it": [
+          "Cammino su questa strada ogni giorno.",
+          "La strada è molto lunga.",
+          "Molte macchine sono sulla strada."
+        ],
+        "ru": [
+          "Я хожу по этой улице каждый день.",
+          "Улица очень длинная.",
+          "Много машин на улице."
+        ],
+        "es": [
+          "Camino por esta calle todos los días.",
+          "La calle es muy larga.",
+          "Muchos coches están en la calle."
+        ],
+        "pl": [
+          "Chodzę tą ulicą codziennie.",
+          "Ulica jest bardzo długa.",
+          "Wiele samochodów jest na ulicy."
+        ],
+        "fa": [
+          "من هر روز در این خیابان راه می‌روم.",
+          "خیابان خیلی بلند است.",
+          "ماشین‌های زیادی در خیابان هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_704_fa",
+      "word_index": 704,
+      "translations": {
+        "en": "road",
+        "de": "Straße",
+        "ar": "طريق",
+        "fr": "route",
+        "it": "strada",
+        "ru": "дорога",
+        "es": "carretera",
+        "pl": "droga",
+        "fa": "جاده"
+      },
+      "examples": {
+        "en": [
+          "This road goes to the city.",
+          "The road is very wide.",
+          "I see a long road ahead."
+        ],
+        "de": [
+          "Diese Straße führt zur Stadt.",
+          "Die Straße ist sehr breit.",
+          "Ich sehe eine lange Straße vor mir."
+        ],
+        "ar": [
+          "هذا الطريق يذهب إلى المدينة.",
+          "الطريق واسع جداً.",
+          "أرى طريقاً طويلاً أمامي."
+        ],
+        "fr": [
+          "Cette route va à la ville.",
+          "La route est très large.",
+          "Je vois une longue route devant."
+        ],
+        "it": [
+          "Questa strada va alla città.",
+          "La strada è molto larga.",
+          "Vedo una lunga strada davanti."
+        ],
+        "ru": [
+          "Эта дорога ведёт в город.",
+          "Дорога очень широкая.",
+          "Я вижу длинную дорогу впереди."
+        ],
+        "es": [
+          "Esta carretera va a la ciudad.",
+          "La carretera es muy ancha.",
+          "Veo una carretera larga adelante."
+        ],
+        "pl": [
+          "Ta droga prowadzi do miasta.",
+          "Droga jest bardzo szeroka.",
+          "Widzę długą drogę przed sobą."
+        ],
+        "fa": [
+          "این جاده به شهر می‌رود.",
+          "جاده خیلی عریض است.",
+          "من یک جاده طولانی جلو می‌بینم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_705_fa",
+      "word_index": 705,
+      "translations": {
+        "en": "building",
+        "de": "Gebäude",
+        "ar": "مبنى",
+        "fr": "bâtiment",
+        "it": "edificio",
+        "ru": "здание",
+        "es": "edificio",
+        "pl": "budynek",
+        "fa": "ساختمان"
+      },
+      "examples": {
+        "en": [
+          "That building is very tall.",
+          "I work in a new building.",
+          "The building has many floors."
+        ],
+        "de": [
+          "Dieses Gebäude ist sehr hoch.",
+          "Ich arbeite in einem neuen Gebäude.",
+          "Das Gebäude hat viele Stockwerke."
+        ],
+        "ar": [
+          "ذلك المبنى عالٍ جداً.",
+          "أعمل في مبنى جديد.",
+          "المبنى به طوابق كثيرة."
+        ],
+        "fr": [
+          "Ce bâtiment est très haut.",
+          "Je travaille dans un nouveau bâtiment.",
+          "Le bâtiment a beaucoup d'étages."
+        ],
+        "it": [
+          "Quell'edificio è molto alto.",
+          "Lavoro in un nuovo edificio.",
+          "L'edificio ha molti piani."
+        ],
+        "ru": [
+          "То здание очень высокое.",
+          "Я работаю в новом здании.",
+          "В здании много этажей."
+        ],
+        "es": [
+          "Ese edificio es muy alto.",
+          "Trabajo en un edificio nuevo.",
+          "El edificio tiene muchos pisos."
+        ],
+        "pl": [
+          "Ten budynek jest bardzo wysoki.",
+          "Pracuję w nowym budynku.",
+          "Budynek ma wiele pięter."
+        ],
+        "fa": [
+          "آن ساختمان خیلی بلند است.",
+          "من در یک ساختمان جدید کار می‌کنم.",
+          "ساختمان طبقات زیادی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_706_fa",
+      "word_index": 706,
+      "translations": {
+        "en": "bridge",
+        "de": "Brücke",
+        "ar": "جسر",
+        "fr": "pont",
+        "it": "ponte",
+        "ru": "мост",
+        "es": "puente",
+        "pl": "most",
+        "fa": "پل"
+      },
+      "examples": {
+        "en": [
+          "We walk across the bridge.",
+          "The bridge is very old.",
+          "I see a beautiful bridge here."
+        ],
+        "de": [
+          "Wir gehen über die Brücke.",
+          "Die Brücke ist sehr alt.",
+          "Ich sehe hier eine schöne Brücke."
+        ],
+        "ar": [
+          "نمشي عبر الجسر.",
+          "الجسر قديم جداً.",
+          "أرى جسراً جميلاً هنا."
+        ],
+        "fr": [
+          "Nous marchons sur le pont.",
+          "Le pont est très vieux.",
+          "Je vois un beau pont ici."
+        ],
+        "it": [
+          "Camminiamo sul ponte.",
+          "Il ponte è molto vecchio.",
+          "Vedo un bel ponte qui."
+        ],
+        "ru": [
+          "Мы идём через мост.",
+          "Мост очень старый.",
+          "Я вижу красивый мост здесь."
+        ],
+        "es": [
+          "Caminamos por el puente.",
+          "El puente es muy viejo.",
+          "Veo un puente bonito aquí."
+        ],
+        "pl": [
+          "Idziemy przez most.",
+          "Most jest bardzo stary.",
+          "Widzę tutaj piękny most."
+        ],
+        "fa": [
+          "ما از روی پل رد می‌شویم.",
+          "پل خیلی قدیمی است.",
+          "من اینجا یک پل زیبا می‌بینم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_707_fa",
+      "word_index": 707,
+      "translations": {
+        "en": "park",
+        "de": "Park",
+        "ar": "حديقة عامة",
+        "fr": "parc",
+        "it": "parco",
+        "ru": "парк",
+        "es": "parque",
+        "pl": "park",
+        "fa": "پارک"
+      },
+      "examples": {
+        "en": [
+          "I go to the park every morning.",
+          "The park has many trees.",
+          "Children play in the park."
+        ],
+        "de": [
+          "Ich gehe jeden Morgen in den Park.",
+          "Der Park hat viele Bäume.",
+          "Kinder spielen im Park."
+        ],
+        "ar": [
+          "أذهب إلى الحديقة كل صباح.",
+          "الحديقة بها أشجار كثيرة.",
+          "الأطفال يلعبون في الحديقة."
+        ],
+        "fr": [
+          "Je vais au parc chaque matin.",
+          "Le parc a beaucoup d'arbres.",
+          "Les enfants jouent dans le parc."
+        ],
+        "it": [
+          "Vado al parco ogni mattina.",
+          "Il parco ha molti alberi.",
+          "I bambini giocano nel parco."
+        ],
+        "ru": [
+          "Я хожу в парк каждое утро.",
+          "В парке много деревьев.",
+          "Дети играют в парке."
+        ],
+        "es": [
+          "Voy al parque cada mañana.",
+          "El parque tiene muchos árboles.",
+          "Los niños juegan en el parque."
+        ],
+        "pl": [
+          "Chodzę do parku każdego ranka.",
+          "Park ma wiele drzew.",
+          "Dzieci bawią się w parku."
+        ],
+        "fa": [
+          "من هر صبح به پارک می‌روم.",
+          "پارک درخت‌های زیادی دارد.",
+          "بچه‌ها در پارک بازی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_708_fa",
+      "word_index": 708,
+      "translations": {
+        "en": "shop",
+        "de": "Geschäft",
+        "ar": "محل",
+        "fr": "magasin",
+        "it": "negozio",
+        "ru": "магазин",
+        "es": "tienda",
+        "pl": "sklep",
+        "fa": "مغازه"
+      },
+      "examples": {
+        "en": [
+          "I buy bread from this shop.",
+          "The shop is open now.",
+          "There is a small shop here."
+        ],
+        "de": [
+          "Ich kaufe Brot in diesem Geschäft.",
+          "Das Geschäft ist jetzt offen.",
+          "Hier ist ein kleines Geschäft."
+        ],
+        "ar": [
+          "أشتري الخبز من هذا المحل.",
+          "المحل مفتوح الآن.",
+          "يوجد محل صغير هنا."
+        ],
+        "fr": [
+          "J'achète du pain dans ce magasin.",
+          "Le magasin est ouvert maintenant.",
+          "Il y a un petit magasin ici."
+        ],
+        "it": [
+          "Compro il pane in questo negozio.",
+          "Il negozio è aperto ora.",
+          "C'è un piccolo negozio qui."
+        ],
+        "ru": [
+          "Я покупаю хлеб в этом магазине.",
+          "Магазин сейчас открыт.",
+          "Здесь есть маленький магазин."
+        ],
+        "es": [
+          "Compro pan en esta tienda.",
+          "La tienda está abierta ahora.",
+          "Hay una tienda pequeña aquí."
+        ],
+        "pl": [
+          "Kupuję chleb w tym sklepie.",
+          "Sklep jest teraz otwarty.",
+          "Jest tutaj mały sklep."
+        ],
+        "fa": [
+          "من نان را از این مغازه می‌خرم.",
+          "مغازه الان باز است.",
+          "اینجا یک مغازه کوچک است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_709_fa",
+      "word_index": 709,
+      "translations": {
+        "en": "restaurant",
+        "de": "Restaurant",
+        "ar": "مطعم",
+        "fr": "restaurant",
+        "it": "ristorante",
+        "ru": "ресторан",
+        "es": "restaurante",
+        "pl": "restauracja",
+        "fa": "رستوران"
+      },
+      "examples": {
+        "en": [
+          "We eat at a good restaurant.",
+          "The restaurant is very clean.",
+          "I like this restaurant very much."
+        ],
+        "de": [
+          "Wir essen in einem guten Restaurant.",
+          "Das Restaurant ist sehr sauber.",
+          "Ich mag dieses Restaurant sehr."
+        ],
+        "ar": [
+          "نأكل في مطعم جيد.",
+          "المطعم نظيف جداً.",
+          "أحب هذا المطعم جداً."
+        ],
+        "fr": [
+          "Nous mangeons dans un bon restaurant.",
+          "Le restaurant est très propre.",
+          "J'aime beaucoup ce restaurant."
+        ],
+        "it": [
+          "Mangiamo in un buon ristorante.",
+          "Il ristorante è molto pulito.",
+          "Mi piace molto questo ristorante."
+        ],
+        "ru": [
+          "Мы едим в хорошем ресторане.",
+          "Ресторан очень чистый.",
+          "Мне очень нравится этот ресторан."
+        ],
+        "es": [
+          "Comemos en un buen restaurante.",
+          "El restaurante está muy limpio.",
+          "Me gusta mucho este restaurante."
+        ],
+        "pl": [
+          "Jemy w dobrej restauracji.",
+          "Restauracja jest bardzo czysta.",
+          "Bardzo lubię tę restaurację."
+        ],
+        "fa": [
+          "ما در یک رستوران خوب غذا می‌خوریم.",
+          "رستوران خیلی تمیز است.",
+          "من این رستوران را خیلی دوست دارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_710_fa",
+      "word_index": 710,
+      "translations": {
+        "en": "hotel",
+        "de": "Hotel",
+        "ar": "فندق",
+        "fr": "hôtel",
+        "it": "hotel",
+        "ru": "отель",
+        "es": "hotel",
+        "pl": "hotel",
+        "fa": "هتل"
+      },
+      "examples": {
+        "en": [
+          "We stay in a nice hotel.",
+          "The hotel is near the park.",
+          "This hotel is very expensive."
+        ],
+        "de": [
+          "Wir bleiben in einem schönen Hotel.",
+          "Das Hotel ist nahe am Park.",
+          "Dieses Hotel ist sehr teuer."
+        ],
+        "ar": [
+          "نبقى في فندق جميل.",
+          "الفندق قريب من الحديقة.",
+          "هذا الفندق غالٍ جداً."
+        ],
+        "fr": [
+          "Nous restons dans un bel hôtel.",
+          "L'hôtel est près du parc.",
+          "Cet hôtel est très cher."
+        ],
+        "it": [
+          "Stiamo in un bell'hotel.",
+          "L'hotel è vicino al parco.",
+          "Questo hotel è molto caro."
+        ],
+        "ru": [
+          "Мы останавливаемся в хорошем отеле.",
+          "Отель рядом с парком.",
+          "Этот отель очень дорогой."
+        ],
+        "es": [
+          "Nos alojamos en un hotel bonito.",
+          "El hotel está cerca del parque.",
+          "Este hotel es muy caro."
+        ],
+        "pl": [
+          "Zatrzymujemy się w ładnym hotelu.",
+          "Hotel jest blisko parku.",
+          "Ten hotel jest bardzo drogi."
+        ],
+        "fa": [
+          "ما در یک هتل خوب اقامت می‌کنیم.",
+          "هتل نزدیک پارک است.",
+          "این هتل خیلی گران است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_711_fa",
+      "word_index": 711,
+      "translations": {
+        "en": "hospital",
+        "de": "Krankenhaus",
+        "ar": "مستشفى",
+        "fr": "hôpital",
+        "it": "ospedale",
+        "ru": "больница",
+        "es": "hospital",
+        "pl": "szpital",
+        "fa": "بیمارستان"
+      },
+      "examples": {
+        "en": [
+          "My mother works in a hospital.",
+          "The hospital is very big.",
+          "I go to the hospital today."
+        ],
+        "de": [
+          "Meine Mutter arbeitet in einem Krankenhaus.",
+          "Das Krankenhaus ist sehr groß.",
+          "Ich gehe heute ins Krankenhaus."
+        ],
+        "ar": [
+          "أمي تعمل في مستشفى.",
+          "المستشفى كبير جداً.",
+          "أذهب إلى المستشفى اليوم."
+        ],
+        "fr": [
+          "Ma mère travaille dans un hôpital.",
+          "L'hôpital est très grand.",
+          "Je vais à l'hôpital aujourd'hui."
+        ],
+        "it": [
+          "Mia madre lavora in un ospedale.",
+          "L'ospedale è molto grande.",
+          "Vado all'ospedale oggi."
+        ],
+        "ru": [
+          "Моя мама работает в больнице.",
+          "Больница очень большая.",
+          "Я иду в больницу сегодня."
+        ],
+        "es": [
+          "Mi madre trabaja en un hospital.",
+          "El hospital es muy grande.",
+          "Voy al hospital hoy."
+        ],
+        "pl": [
+          "Moja mama pracuje w szpitalu.",
+          "Szpital jest bardzo duży.",
+          "Idę do szpitala dzisiaj."
+        ],
+        "fa": [
+          "مادرم در بیمارستان کار می‌کند.",
+          "بیمارستان خیلی بزرگ است.",
+          "من امروز به بیمارستان می‌روم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_712_fa",
+      "word_index": 712,
+      "translations": {
+        "en": "bank",
+        "de": "Bank",
+        "ar": "بنك",
+        "fr": "banque",
+        "it": "banca",
+        "ru": "банк",
+        "es": "banco",
+        "pl": "bank",
+        "fa": "بانک"
+      },
+      "examples": {
+        "en": [
+          "I go to the bank today.",
+          "The bank is closed on Sunday.",
+          "My father works at a bank."
+        ],
+        "de": [
+          "Ich gehe heute zur Bank.",
+          "Die Bank ist sonntags geschlossen.",
+          "Mein Vater arbeitet bei einer Bank."
+        ],
+        "ar": [
+          "أذهب إلى البنك اليوم.",
+          "البنك مغلق يوم الأحد.",
+          "أبي يعمل في بنك."
+        ],
+        "fr": [
+          "Je vais à la banque aujourd'hui.",
+          "La banque est fermée le dimanche.",
+          "Mon père travaille dans une banque."
+        ],
+        "it": [
+          "Vado in banca oggi.",
+          "La banca è chiusa la domenica.",
+          "Mio padre lavora in una banca."
+        ],
+        "ru": [
+          "Я иду в банк сегодня.",
+          "Банк закрыт в воскресенье.",
+          "Мой отец работает в банке."
+        ],
+        "es": [
+          "Voy al banco hoy.",
+          "El banco está cerrado el domingo.",
+          "Mi padre trabaja en un banco."
+        ],
+        "pl": [
+          "Idę do banku dzisiaj.",
+          "Bank jest zamknięty w niedzielę.",
+          "Mój ojciec pracuje w banku."
+        ],
+        "fa": [
+          "من امروز به بانک می‌روم.",
+          "بانک روز یکشنبه بسته است.",
+          "پدرم در بانک کار می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_713_fa",
+      "word_index": 713,
+      "translations": {
+        "en": "post office",
+        "de": "Post",
+        "ar": "مكتب بريد",
+        "fr": "poste",
+        "it": "ufficio postale",
+        "ru": "почта",
+        "es": "correos",
+        "pl": "poczta",
+        "fa": "پست"
+      },
+      "examples": {
+        "en": [
+          "I send a letter from the post office.",
+          "The post office is near my house.",
+          "I buy stamps at the post office."
+        ],
+        "de": [
+          "Ich sende einen Brief von der Post.",
+          "Die Post ist nahe bei meinem Haus.",
+          "Ich kaufe Briefmarken bei der Post."
+        ],
+        "ar": [
+          "أرسل رسالة من مكتب البريد.",
+          "مكتب البريد قريب من منزلي.",
+          "أشتري طوابع في مكتب البريد."
+        ],
+        "fr": [
+          "J'envoie une lettre de la poste.",
+          "La poste est près de ma maison.",
+          "J'achète des timbres à la poste."
+        ],
+        "it": [
+          "Spedisco una lettera dall'ufficio postale.",
+          "L'ufficio postale è vicino a casa mia.",
+          "Compro francobolli all'ufficio postale."
+        ],
+        "ru": [
+          "Я отправляю письмо с почты.",
+          "Почта рядом с моим домом.",
+          "Я покупаю марки на почте."
+        ],
+        "es": [
+          "Envío una carta desde correos.",
+          "Correos está cerca de mi casa.",
+          "Compro sellos en correos."
+        ],
+        "pl": [
+          "Wysyłam list z poczty.",
+          "Poczta jest blisko mojego domu.",
+          "Kupuję znaczki na poczcie."
+        ],
+        "fa": [
+          "من از پست نامه می‌فرستم.",
+          "پست نزدیک خانه من است.",
+          "من در پست تمبر می‌خرم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_714_fa",
+      "word_index": 714,
+      "translations": {
+        "en": "office",
+        "de": "Büro",
+        "ar": "مكتب",
+        "fr": "bureau",
+        "it": "ufficio",
+        "ru": "офис",
+        "es": "oficina",
+        "pl": "biuro",
+        "fa": "اداره"
+      },
+      "examples": {
+        "en": [
+          "My father goes to his office.",
+          "The office is in the city.",
+          "I work in a small office."
+        ],
+        "de": [
+          "Mein Vater geht in sein Büro.",
+          "Das Büro ist in der Stadt.",
+          "Ich arbeite in einem kleinen Büro."
+        ],
+        "ar": [
+          "أبي يذهب إلى مكتبه.",
+          "المكتب في المدينة.",
+          "أعمل في مكتب صغير."
+        ],
+        "fr": [
+          "Mon père va à son bureau.",
+          "Le bureau est dans la ville.",
+          "Je travaille dans un petit bureau."
+        ],
+        "it": [
+          "Mio padre va al suo ufficio.",
+          "L'ufficio è in città.",
+          "Lavoro in un piccolo ufficio."
+        ],
+        "ru": [
+          "Мой отец идёт в свой офис.",
+          "Офис в городе.",
+          "Я работаю в маленьком офисе."
+        ],
+        "es": [
+          "Mi padre va a su oficina.",
+          "La oficina está en la ciudad.",
+          "Trabajo en una oficina pequeña."
+        ],
+        "pl": [
+          "Mój ojciec idzie do swojego biura.",
+          "Biuro jest w mieście.",
+          "Pracuję w małym biurze."
+        ],
+        "fa": [
+          "پدرم به اداره‌اش می‌رود.",
+          "اداره در شهر است.",
+          "من در یک اداره کوچک کار می‌کنم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_715_fa",
+      "word_index": 715,
+      "translations": {
+        "en": "station",
+        "de": "Bahnhof",
+        "ar": "محطة",
+        "fr": "gare",
+        "it": "stazione",
+        "ru": "станция",
+        "es": "estación",
+        "pl": "stacja",
+        "fa": "ایستگاه"
+      },
+      "examples": {
+        "en": [
+          "I wait at the station.",
+          "The station is very crowded today.",
+          "The train arrives at the station."
+        ],
+        "de": [
+          "Ich warte am Bahnhof.",
+          "Der Bahnhof ist heute sehr voll.",
+          "Der Zug kommt am Bahnhof an."
+        ],
+        "ar": [
+          "أنتظر في المحطة.",
+          "المحطة مزدحمة جداً اليوم.",
+          "القطار يصل إلى المحطة."
+        ],
+        "fr": [
+          "J'attends à la gare.",
+          "La gare est très bondée aujourd'hui.",
+          "Le train arrive à la gare."
+        ],
+        "it": [
+          "Aspetto alla stazione.",
+          "La stazione è molto affollata oggi.",
+          "Il treno arriva alla stazione."
+        ],
+        "ru": [
+          "Я жду на станции.",
+          "Станция сегодня очень людная.",
+          "Поезд прибывает на станцию."
+        ],
+        "es": [
+          "Espero en la estación.",
+          "La estación está muy llena hoy.",
+          "El tren llega a la estación."
+        ],
+        "pl": [
+          "Czekam na stacji.",
+          "Stacja jest dziś bardzo zatłoczona.",
+          "Pociąg przyjeżdża na stację."
+        ],
+        "fa": [
+          "من در ایستگاه منتظر هستم.",
+          "ایستگاه امروز خیلی شلوغ است.",
+          "قطار به ایستگاه می‌رسد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_716_fa",
+      "word_index": 716,
+      "translations": {
+        "en": "airport",
+        "de": "Flughafen",
+        "ar": "مطار",
+        "fr": "aéroport",
+        "it": "aeroporto",
+        "ru": "аэропорт",
+        "es": "aeropuerto",
+        "pl": "lotnisko",
+        "fa": "فرودگاه"
+      },
+      "examples": {
+        "en": [
+          "We go to the airport today.",
+          "The airport is very far.",
+          "Many people are at the airport."
+        ],
+        "de": [
+          "Wir gehen heute zum Flughafen.",
+          "Der Flughafen ist sehr weit.",
+          "Viele Menschen sind am Flughafen."
+        ],
+        "ar": [
+          "نذهب إلى المطار اليوم.",
+          "المطار بعيد جداً.",
+          "أناس كثيرون في المطار."
+        ],
+        "fr": [
+          "Nous allons à l'aéroport aujourd'hui.",
+          "L'aéroport est très loin.",
+          "Beaucoup de gens sont à l'aéroport."
+        ],
+        "it": [
+          "Andiamo all'aeroporto oggi.",
+          "L'aeroporto è molto lontano.",
+          "Molte persone sono all'aeroporto."
+        ],
+        "ru": [
+          "Мы едем в аэропорт сегодня.",
+          "Аэропорт очень далеко.",
+          "Много людей в аэропорте."
+        ],
+        "es": [
+          "Vamos al aeropuerto hoy.",
+          "El aeropuerto está muy lejos.",
+          "Muchas personas están en el aeropuerto."
+        ],
+        "pl": [
+          "Jedziemy na lotnisko dzisiaj.",
+          "Lotnisko jest bardzo daleko.",
+          "Wiele osób jest na lotnisku."
+        ],
+        "fa": [
+          "ما امروز به فرودگاه می‌رویم.",
+          "فرودگاه خیلی دور است.",
+          "آدم‌های زیادی در فرودگاه هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_717_fa",
+      "word_index": 717,
+      "translations": {
+        "en": "bus",
+        "de": "Bus",
+        "ar": "حافلة",
+        "fr": "bus",
+        "it": "autobus",
+        "ru": "автобус",
+        "es": "autobús",
+        "pl": "autobus",
+        "fa": "اتوبوس"
+      },
+      "examples": {
+        "en": [
+          "I take the bus to school.",
+          "The bus is very full today.",
+          "I wait for the bus here."
+        ],
+        "de": [
+          "Ich nehme den Bus zur Schule.",
+          "Der Bus ist heute sehr voll.",
+          "Ich warte hier auf den Bus."
+        ],
+        "ar": [
+          "آخذ الحافلة إلى المدرسة.",
+          "الحافلة ممتلئة جداً اليوم.",
+          "أنتظر الحافلة هنا."
+        ],
+        "fr": [
+          "Je prends le bus pour l'école.",
+          "Le bus est très plein aujourd'hui.",
+          "J'attends le bus ici."
+        ],
+        "it": [
+          "Prendo l'autobus per la scuola.",
+          "L'autobus è molto pieno oggi.",
+          "Aspetto l'autobus qui."
+        ],
+        "ru": [
+          "Я еду в школу на автобусе.",
+          "Автобус сегодня очень полный.",
+          "Я жду автобус здесь."
+        ],
+        "es": [
+          "Tomo el autobús a la escuela.",
+          "El autobús está muy lleno hoy.",
+          "Espero el autobús aquí."
+        ],
+        "pl": [
+          "Jadę autobusem do szkoły.",
+          "Autobus jest dziś bardzo pełny.",
+          "Czekam tutaj na autobus."
+        ],
+        "fa": [
+          "من با اتوبوس به مدرسه می‌روم.",
+          "اتوبوس امروز خیلی پر است.",
+          "من اینجا منتظر اتوبوس هستم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_718_fa",
+      "word_index": 718,
+      "translations": {
+        "en": "train",
+        "de": "Zug",
+        "ar": "قطار",
+        "fr": "train",
+        "it": "treno",
+        "ru": "поезд",
+        "es": "tren",
+        "pl": "pociąg",
+        "fa": "قطار"
+      },
+      "examples": {
+        "en": [
+          "The train is very fast.",
+          "I travel by train every week.",
+          "The train leaves at eight o'clock."
+        ],
+        "de": [
+          "Der Zug ist sehr schnell.",
+          "Ich reise jede Woche mit dem Zug.",
+          "Der Zug fährt um acht Uhr ab."
+        ],
+        "ar": [
+          "القطار سريع جداً.",
+          "أسافر بالقطار كل أسبوع.",
+          "القطار يغادر الساعة الثامنة."
+        ],
+        "fr": [
+          "Le train est très rapide.",
+          "Je voyage en train chaque semaine.",
+          "Le train part à huit heures."
+        ],
+        "it": [
+          "Il treno è molto veloce.",
+          "Viaggio in treno ogni settimana.",
+          "Il treno parte alle otto."
+        ],
+        "ru": [
+          "Поезд очень быстрый.",
+          "Я езжу поездом каждую неделю.",
+          "Поезд отправляется в восемь часов."
+        ],
+        "es": [
+          "El tren es muy rápido.",
+          "Viajo en tren cada semana.",
+          "El tren sale a las ocho."
+        ],
+        "pl": [
+          "Pociąg jest bardzo szybki.",
+          "Podróżuję pociągiem co tydzień.",
+          "Pociąg odjeżdża o ósmej."
+        ],
+        "fa": [
+          "قطار خیلی سریع است.",
+          "من هر هفته با قطار سفر می‌کنم.",
+          "قطار ساعت هشت حرکت می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_719_fa",
+      "word_index": 719,
+      "translations": {
+        "en": "car",
+        "de": "Auto",
+        "ar": "سيارة",
+        "fr": "voiture",
+        "it": "macchina",
+        "ru": "машина",
+        "es": "coche",
+        "pl": "samochód",
+        "fa": "ماشین"
+      },
+      "examples": {
+        "en": [
+          "My father has a new car.",
+          "I go to work by car.",
+          "The car is very clean."
+        ],
+        "de": [
+          "Mein Vater hat ein neues Auto.",
+          "Ich fahre mit dem Auto zur Arbeit.",
+          "Das Auto ist sehr sauber."
+        ],
+        "ar": [
+          "لدى أبي سيارة جديدة.",
+          "أذهب إلى العمل بالسيارة.",
+          "السيارة نظيفة جداً."
+        ],
+        "fr": [
+          "Mon père a une nouvelle voiture.",
+          "Je vais au travail en voiture.",
+          "La voiture est très propre."
+        ],
+        "it": [
+          "Mio padre ha una macchina nuova.",
+          "Vado al lavoro in macchina.",
+          "La macchina è molto pulita."
+        ],
+        "ru": [
+          "У моего отца новая машина.",
+          "Я езжу на работу на машине.",
+          "Машина очень чистая."
+        ],
+        "es": [
+          "Mi padre tiene un coche nuevo.",
+          "Voy al trabajo en coche.",
+          "El coche está muy limpio."
+        ],
+        "pl": [
+          "Mój ojciec ma nowy samochód.",
+          "Jadę do pracy samochodem.",
+          "Samochód jest bardzo czysty."
+        ],
+        "fa": [
+          "پدرم یک ماشین جدید دارد.",
+          "من با ماشین به سر کار می‌روم.",
+          "ماشین خیلی تمیز است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_720_fa",
+      "word_index": 720,
+      "translations": {
+        "en": "bicycle",
+        "de": "Fahrrad",
+        "ar": "دراجة هوائية",
+        "fr": "vélo",
+        "it": "bicicletta",
+        "ru": "велосипед",
+        "es": "bicicleta",
+        "pl": "rower",
+        "fa": "دوچرخه"
+      },
+      "examples": {
+        "en": [
+          "I ride my bicycle every morning.",
+          "My bicycle is red and blue.",
+          "I go to school by bicycle."
+        ],
+        "de": [
+          "Ich fahre jeden Morgen mit meinem Fahrrad.",
+          "Mein Fahrrad ist rot und blau.",
+          "Ich fahre mit dem Fahrrad zur Schule."
+        ],
+        "ar": [
+          "أركب دراجتي كل صباح.",
+          "دراجتي حمراء وزرقاء.",
+          "أذهب إلى المدرسة بالدراجة."
+        ],
+        "fr": [
+          "Je fais du vélo chaque matin.",
+          "Mon vélo est rouge et bleu.",
+          "Je vais à l'école à vélo."
+        ],
+        "it": [
+          "Vado in bicicletta ogni mattina.",
+          "La mia bicicletta è rossa e blu.",
+          "Vado a scuola in bicicletta."
+        ],
+        "ru": [
+          "Я катаюсь на велосипеде каждое утро.",
+          "Мой велосипед красный и синий.",
+          "Я езжу в школу на велосипеде."
+        ],
+        "es": [
+          "Monto mi bicicleta cada mañana.",
+          "Mi bicicleta es roja y azul.",
+          "Voy a la escuela en bicicleta."
+        ],
+        "pl": [
+          "Jeżdżę na rowerze każdego ranka.",
+          "Mój rower jest czerwony i niebieski.",
+          "Jeżdżę do szkoły na rowerze."
+        ],
+        "fa": [
+          "من هر صبح با دوچرخه‌ام می‌روم.",
+          "دوچرخه من قرمز و آبی است.",
+          "من با دوچرخه به مدرسه می‌روم."
+        ]
+      }
+    }
+  ]
+}

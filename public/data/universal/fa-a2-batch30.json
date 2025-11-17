@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 30,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "581-600",
+    "total_words": 20,
+    "theme": "Home and Housing",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_581_fa",
+      "word_index": 581,
+      "translations": {
+        "en": "house",
+        "de": "Haus",
+        "ar": "بيت",
+        "fr": "maison",
+        "it": "casa",
+        "ru": "дом",
+        "es": "casa",
+        "pl": "dom",
+        "fa": "خانه"
+      },
+      "examples": {
+        "en": [
+          "I live in a small house.",
+          "This house has a big garden.",
+          "My house is near the park."
+        ],
+        "de": [
+          "Ich wohne in einem kleinen Haus.",
+          "Dieses Haus hat einen großen Garten.",
+          "Mein Haus ist in der Nähe vom Park."
+        ],
+        "ar": [
+          "أعيش في بيت صغير.",
+          "هذا البيت له حديقة كبيرة.",
+          "بيتي قريب من الحديقة العامة."
+        ],
+        "fr": [
+          "J'habite dans une petite maison.",
+          "Cette maison a un grand jardin.",
+          "Ma maison est près du parc."
+        ],
+        "it": [
+          "Abito in una casa piccola.",
+          "Questa casa ha un grande giardino.",
+          "La mia casa è vicino al parco."
+        ],
+        "ru": [
+          "Я живу в маленьком доме.",
+          "Этот дом имеет большой сад.",
+          "Мой дом рядом с парком."
+        ],
+        "es": [
+          "Vivo en una casa pequeña.",
+          "Esta casa tiene un jardín grande.",
+          "Mi casa está cerca del parque."
+        ],
+        "pl": [
+          "Mieszkam w małym domu.",
+          "Ten dom ma duży ogród.",
+          "Mój dom jest blisko parku."
+        ],
+        "fa": [
+          "من در یک خانه کوچک زندگی می‌کنم.",
+          "این خانه یک باغ بزرگ دارد.",
+          "خانه من نزدیک پارک است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_582_fa",
+      "word_index": 582,
+      "translations": {
+        "en": "apartment",
+        "de": "Wohnung",
+        "ar": "شقة",
+        "fr": "appartement",
+        "it": "appartamento",
+        "ru": "квартира",
+        "es": "apartamento",
+        "pl": "mieszkanie",
+        "fa": "آپارتمان"
+      },
+      "examples": {
+        "en": [
+          "I rent a nice apartment.",
+          "The apartment has two bedrooms.",
+          "We live in an apartment downtown."
+        ],
+        "de": [
+          "Ich miete eine schöne Wohnung.",
+          "Die Wohnung hat zwei Schlafzimmer.",
+          "Wir wohnen in einer Wohnung im Zentrum."
+        ],
+        "ar": [
+          "أستأجر شقة جميلة.",
+          "الشقة لديها غرفتي نوم.",
+          "نحن نعيش في شقة في وسط المدينة."
+        ],
+        "fr": [
+          "Je loue un bel appartement.",
+          "L'appartement a deux chambres.",
+          "Nous habitons dans un appartement au centre-ville."
+        ],
+        "it": [
+          "Affitto un bell'appartamento.",
+          "L'appartamento ha due camere da letto.",
+          "Viviamo in un appartamento in centro."
+        ],
+        "ru": [
+          "Я снимаю хорошую квартиру.",
+          "В квартире две спальни.",
+          "Мы живём в квартире в центре."
+        ],
+        "es": [
+          "Alquilo un apartamento bonito.",
+          "El apartamento tiene dos dormitorios.",
+          "Vivimos en un apartamento en el centro."
+        ],
+        "pl": [
+          "Wynajmuję ładne mieszkanie.",
+          "Mieszkanie ma dwie sypialnie.",
+          "Mieszkamy w mieszkaniu w centrum."
+        ],
+        "fa": [
+          "من یک آپارتمان زیبا اجاره می‌کنم.",
+          "این آپارتمان دو اتاق خواب دارد.",
+          "ما در یک آپارتمان در مرکز شهر زندگی می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_583_fa",
+      "word_index": 583,
+      "translations": {
+        "en": "room",
+        "de": "Zimmer",
+        "ar": "غرفة",
+        "fr": "chambre",
+        "it": "stanza",
+        "ru": "комната",
+        "es": "habitación",
+        "pl": "pokój",
+        "fa": "اتاق"
+      },
+      "examples": {
+        "en": [
+          "My room is very clean.",
+          "This room is too small.",
+          "I like my new room."
+        ],
+        "de": [
+          "Mein Zimmer ist sehr sauber.",
+          "Dieses Zimmer ist zu klein.",
+          "Ich mag mein neues Zimmer."
+        ],
+        "ar": [
+          "غرفتي نظيفة جداً.",
+          "هذه الغرفة صغيرة جداً.",
+          "أحب غرفتي الجديدة."
+        ],
+        "fr": [
+          "Ma chambre est très propre.",
+          "Cette chambre est trop petite.",
+          "J'aime ma nouvelle chambre."
+        ],
+        "it": [
+          "La mia stanza è molto pulita.",
+          "Questa stanza è troppo piccola.",
+          "Mi piace la mia nuova stanza."
+        ],
+        "ru": [
+          "Моя комната очень чистая.",
+          "Эта комната слишком маленькая.",
+          "Мне нравится моя новая комната."
+        ],
+        "es": [
+          "Mi habitación está muy limpia.",
+          "Esta habitación es demasiado pequeña.",
+          "Me gusta mi nueva habitación."
+        ],
+        "pl": [
+          "Mój pokój jest bardzo czysty.",
+          "Ten pokój jest za mały.",
+          "Lubię mój nowy pokój."
+        ],
+        "fa": [
+          "اتاق من خیلی تمیز است.",
+          "این اتاق خیلی کوچک است.",
+          "من اتاق جدیدم را دوست دارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_584_fa",
+      "word_index": 584,
+      "translations": {
+        "en": "bedroom",
+        "de": "Schlafzimmer",
+        "ar": "غرفة نوم",
+        "fr": "chambre à coucher",
+        "it": "camera da letto",
+        "ru": "спальня",
+        "es": "dormitorio",
+        "pl": "sypialnia",
+        "fa": "اتاق خواب"
+      },
+      "examples": {
+        "en": [
+          "My bedroom is upstairs.",
+          "The bedroom has a big bed.",
+          "I sleep in my bedroom."
+        ],
+        "de": [
+          "Mein Schlafzimmer ist oben.",
+          "Das Schlafzimmer hat ein großes Bett.",
+          "Ich schlafe in meinem Schlafzimmer."
+        ],
+        "ar": [
+          "غرفة نومي في الطابق العلوي.",
+          "غرفة النوم بها سرير كبير.",
+          "أنام في غرفة نومي."
+        ],
+        "fr": [
+          "Ma chambre à coucher est à l'étage.",
+          "La chambre a un grand lit.",
+          "Je dors dans ma chambre."
+        ],
+        "it": [
+          "La mia camera da letto è al piano superiore.",
+          "La camera ha un letto grande.",
+          "Dormo nella mia camera da letto."
+        ],
+        "ru": [
+          "Моя спальня наверху.",
+          "В спальне большая кровать.",
+          "Я сплю в своей спальне."
+        ],
+        "es": [
+          "Mi dormitorio está arriba.",
+          "El dormitorio tiene una cama grande.",
+          "Duermo en mi dormitorio."
+        ],
+        "pl": [
+          "Moja sypialnia jest na górze.",
+          "Sypialnia ma duże łóżko.",
+          "Śpię w mojej sypialni."
+        ],
+        "fa": [
+          "اتاق خواب من طبقه بالا است.",
+          "اتاق خواب یک تخت بزرگ دارد.",
+          "من در اتاق خوابم می‌خوابم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_585_fa",
+      "word_index": 585,
+      "translations": {
+        "en": "bathroom",
+        "de": "Badezimmer",
+        "ar": "حمام",
+        "fr": "salle de bain",
+        "it": "bagno",
+        "ru": "ванная",
+        "es": "baño",
+        "pl": "łazienka",
+        "fa": "حمام"
+      },
+      "examples": {
+        "en": [
+          "The bathroom is very clean.",
+          "I wash my hands in the bathroom.",
+          "Our bathroom has a shower."
+        ],
+        "de": [
+          "Das Badezimmer ist sehr sauber.",
+          "Ich wasche meine Hände im Badezimmer.",
+          "Unser Badezimmer hat eine Dusche."
+        ],
+        "ar": [
+          "الحمام نظيف جداً.",
+          "أغسل يدي في الحمام.",
+          "حمامنا به دش."
+        ],
+        "fr": [
+          "La salle de bain est très propre.",
+          "Je me lave les mains dans la salle de bain.",
+          "Notre salle de bain a une douche."
+        ],
+        "it": [
+          "Il bagno è molto pulito.",
+          "Mi lavo le mani in bagno.",
+          "Il nostro bagno ha una doccia."
+        ],
+        "ru": [
+          "Ванная очень чистая.",
+          "Я мою руки в ванной.",
+          "В нашей ванной есть душ."
+        ],
+        "es": [
+          "El baño está muy limpio.",
+          "Me lavo las manos en el baño.",
+          "Nuestro baño tiene una ducha."
+        ],
+        "pl": [
+          "Łazienka jest bardzo czysta.",
+          "Myję ręce w łazience.",
+          "Nasza łazienka ma prysznic."
+        ],
+        "fa": [
+          "حمام خیلی تمیز است.",
+          "من دست‌هایم را در حمام می‌شویم.",
+          "حمام ما یک دوش دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_586_fa",
+      "word_index": 586,
+      "translations": {
+        "en": "living room",
+        "de": "Wohnzimmer",
+        "ar": "غرفة المعيشة",
+        "fr": "salon",
+        "it": "soggiorno",
+        "ru": "гостиная",
+        "es": "sala de estar",
+        "pl": "salon",
+        "fa": "اتاق نشیمن"
+      },
+      "examples": {
+        "en": [
+          "We watch TV in the living room.",
+          "The living room is very comfortable.",
+          "My family sits in the living room."
+        ],
+        "de": [
+          "Wir sehen fern im Wohnzimmer.",
+          "Das Wohnzimmer ist sehr gemütlich.",
+          "Meine Familie sitzt im Wohnzimmer."
+        ],
+        "ar": [
+          "نشاهد التلفاز في غرفة المعيشة.",
+          "غرفة المعيشة مريحة جداً.",
+          "عائلتي تجلس في غرفة المعيشة."
+        ],
+        "fr": [
+          "Nous regardons la télé dans le salon.",
+          "Le salon est très confortable.",
+          "Ma famille s'assoit dans le salon."
+        ],
+        "it": [
+          "Guardiamo la TV nel soggiorno.",
+          "Il soggiorno è molto comodo.",
+          "La mia famiglia si siede in soggiorno."
+        ],
+        "ru": [
+          "Мы смотрим телевизор в гостиной.",
+          "Гостиная очень удобная.",
+          "Моя семья сидит в гостиной."
+        ],
+        "es": [
+          "Vemos la tele en la sala de estar.",
+          "La sala de estar es muy cómoda.",
+          "Mi familia se sienta en la sala de estar."
+        ],
+        "pl": [
+          "Oglądamy telewizję w salonie.",
+          "Salon jest bardzo wygodny.",
+          "Moja rodzina siedzi w salonie."
+        ],
+        "fa": [
+          "ما در اتاق نشیمن تلویزیون تماشا می‌کنیم.",
+          "اتاق نشیمن خیلی راحت است.",
+          "خانواده من در اتاق نشیمن می‌نشینند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_587_fa",
+      "word_index": 587,
+      "translations": {
+        "en": "door",
+        "de": "Tür",
+        "ar": "باب",
+        "fr": "porte",
+        "it": "porta",
+        "ru": "дверь",
+        "es": "puerta",
+        "pl": "drzwi",
+        "fa": "در"
+      },
+      "examples": {
+        "en": [
+          "Please close the door.",
+          "The door is open.",
+          "I knock on the door."
+        ],
+        "de": [
+          "Bitte schließ die Tür.",
+          "Die Tür ist offen.",
+          "Ich klopfe an die Tür."
+        ],
+        "ar": [
+          "من فضلك أغلق الباب.",
+          "الباب مفتوح.",
+          "أطرق على الباب."
+        ],
+        "fr": [
+          "Ferme la porte, s'il te plaît.",
+          "La porte est ouverte.",
+          "Je frappe à la porte."
+        ],
+        "it": [
+          "Per favore chiudi la porta.",
+          "La porta è aperta.",
+          "Busso alla porta."
+        ],
+        "ru": [
+          "Пожалуйста, закрой дверь.",
+          "Дверь открыта.",
+          "Я стучу в дверь."
+        ],
+        "es": [
+          "Por favor cierra la puerta.",
+          "La puerta está abierta.",
+          "Llamo a la puerta."
+        ],
+        "pl": [
+          "Proszę zamknij drzwi.",
+          "Drzwi są otwarte.",
+          "Pukam do drzwi."
+        ],
+        "fa": [
+          "لطفاً در را ببند.",
+          "در باز است.",
+          "من در می‌زنم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_588_fa",
+      "word_index": 588,
+      "translations": {
+        "en": "window",
+        "de": "Fenster",
+        "ar": "نافذة",
+        "fr": "fenêtre",
+        "it": "finestra",
+        "ru": "окно",
+        "es": "ventana",
+        "pl": "okno",
+        "fa": "پنجره"
+      },
+      "examples": {
+        "en": [
+          "Open the window, please.",
+          "I look out the window.",
+          "The window is very clean."
+        ],
+        "de": [
+          "Öffne das Fenster, bitte.",
+          "Ich schaue aus dem Fenster.",
+          "Das Fenster ist sehr sauber."
+        ],
+        "ar": [
+          "افتح النافذة من فضلك.",
+          "أنظر من النافذة.",
+          "النافذة نظيفة جداً."
+        ],
+        "fr": [
+          "Ouvre la fenêtre, s'il te plaît.",
+          "Je regarde par la fenêtre.",
+          "La fenêtre est très propre."
+        ],
+        "it": [
+          "Apri la finestra, per favore.",
+          "Guardo fuori dalla finestra.",
+          "La finestra è molto pulita."
+        ],
+        "ru": [
+          "Открой окно, пожалуйста.",
+          "Я смотрю в окно.",
+          "Окно очень чистое."
+        ],
+        "es": [
+          "Abre la ventana, por favor.",
+          "Miro por la ventana.",
+          "La ventana está muy limpia."
+        ],
+        "pl": [
+          "Otwórz okno, proszę.",
+          "Patrzę przez okno.",
+          "Okno jest bardzo czyste."
+        ],
+        "fa": [
+          "لطفاً پنجره را باز کن.",
+          "من از پنجره بیرون را نگاه می‌کنم.",
+          "پنجره خیلی تمیز است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_589_fa",
+      "word_index": 589,
+      "translations": {
+        "en": "wall",
+        "de": "Wand",
+        "ar": "حائط",
+        "fr": "mur",
+        "it": "parete",
+        "ru": "стена",
+        "es": "pared",
+        "pl": "ściana",
+        "fa": "دیوار"
+      },
+      "examples": {
+        "en": [
+          "The wall is white.",
+          "I put a picture on the wall.",
+          "This wall is very old."
+        ],
+        "de": [
+          "Die Wand ist weiß.",
+          "Ich hänge ein Bild an die Wand.",
+          "Diese Wand ist sehr alt."
+        ],
+        "ar": [
+          "الحائط أبيض.",
+          "أضع صورة على الحائط.",
+          "هذا الحائط قديم جداً."
+        ],
+        "fr": [
+          "Le mur est blanc.",
+          "Je mets une image sur le mur.",
+          "Ce mur est très vieux."
+        ],
+        "it": [
+          "La parete è bianca.",
+          "Metto un quadro sulla parete.",
+          "Questa parete è molto vecchia."
+        ],
+        "ru": [
+          "Стена белая.",
+          "Я вешаю картину на стену.",
+          "Эта стена очень старая."
+        ],
+        "es": [
+          "La pared es blanca.",
+          "Pongo un cuadro en la pared.",
+          "Esta pared es muy vieja."
+        ],
+        "pl": [
+          "Ściana jest biała.",
+          "Wieszam obraz na ścianie.",
+          "Ta ściana jest bardzo stara."
+        ],
+        "fa": [
+          "دیوار سفید است.",
+          "من یک عکس روی دیوار می‌گذارم.",
+          "این دیوار خیلی قدیمی است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_590_fa",
+      "word_index": 590,
+      "translations": {
+        "en": "floor",
+        "de": "Boden",
+        "ar": "أرضية",
+        "fr": "sol",
+        "it": "pavimento",
+        "ru": "пол",
+        "es": "suelo",
+        "pl": "podłoga",
+        "fa": "کف"
+      },
+      "examples": {
+        "en": [
+          "The floor is very clean.",
+          "I sit on the floor.",
+          "Please sweep the floor."
+        ],
+        "de": [
+          "Der Boden ist sehr sauber.",
+          "Ich sitze auf dem Boden.",
+          "Bitte feg den Boden."
+        ],
+        "ar": [
+          "الأرضية نظيفة جداً.",
+          "أجلس على الأرضية.",
+          "من فضلك اكنس الأرضية."
+        ],
+        "fr": [
+          "Le sol est très propre.",
+          "Je m'assois sur le sol.",
+          "S'il te plaît, balaye le sol."
+        ],
+        "it": [
+          "Il pavimento è molto pulito.",
+          "Mi siedo sul pavimento.",
+          "Per favore spazza il pavimento."
+        ],
+        "ru": [
+          "Пол очень чистый.",
+          "Я сижу на полу.",
+          "Пожалуйста, подмети пол."
+        ],
+        "es": [
+          "El suelo está muy limpio.",
+          "Me siento en el suelo.",
+          "Por favor barre el suelo."
+        ],
+        "pl": [
+          "Podłoga jest bardzo czysta.",
+          "Siedzę na podłodze.",
+          "Proszę zamieść podłogę."
+        ],
+        "fa": [
+          "کف خیلی تمیز است.",
+          "من روی کف می‌نشینم.",
+          "لطفاً کف را جارو کن."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_591_fa",
+      "word_index": 591,
+      "translations": {
+        "en": "ceiling",
+        "de": "Decke",
+        "ar": "سقف",
+        "fr": "plafond",
+        "it": "soffitto",
+        "ru": "потолок",
+        "es": "techo",
+        "pl": "sufit",
+        "fa": "سقف"
+      },
+      "examples": {
+        "en": [
+          "The ceiling is very high.",
+          "I paint the ceiling white.",
+          "There is a lamp on the ceiling."
+        ],
+        "de": [
+          "Die Decke ist sehr hoch.",
+          "Ich streiche die Decke weiß.",
+          "An der Decke ist eine Lampe."
+        ],
+        "ar": [
+          "السقف عالٍ جداً.",
+          "أطلي السقف باللون الأبيض.",
+          "هناك مصباح على السقف."
+        ],
+        "fr": [
+          "Le plafond est très haut.",
+          "Je peins le plafond en blanc.",
+          "Il y a une lampe au plafond."
+        ],
+        "it": [
+          "Il soffitto è molto alto.",
+          "Dipingo il soffitto di bianco.",
+          "C'è una lampada sul soffitto."
+        ],
+        "ru": [
+          "Потолок очень высокий.",
+          "Я крашу потолок в белый цвет.",
+          "На потолке есть лампа."
+        ],
+        "es": [
+          "El techo es muy alto.",
+          "Pinto el techo de blanco.",
+          "Hay una lámpara en el techo."
+        ],
+        "pl": [
+          "Sufit jest bardzo wysoki.",
+          "Maluję sufit na biało.",
+          "Na suficie jest lampa."
+        ],
+        "fa": [
+          "سقف خیلی بلند است.",
+          "من سقف را سفید رنگ می‌کنم.",
+          "یک لامپ روی سقف است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_592_fa",
+      "word_index": 592,
+      "translations": {
+        "en": "stairs",
+        "de": "Treppe",
+        "ar": "سلالم",
+        "fr": "escalier",
+        "it": "scale",
+        "ru": "лестница",
+        "es": "escaleras",
+        "pl": "schody",
+        "fa": "پله"
+      },
+      "examples": {
+        "en": [
+          "I walk up the stairs.",
+          "The stairs are very steep.",
+          "My room is upstairs."
+        ],
+        "de": [
+          "Ich gehe die Treppe hoch.",
+          "Die Treppe ist sehr steil.",
+          "Mein Zimmer ist oben."
+        ],
+        "ar": [
+          "أصعد السلالم.",
+          "السلالم شديدة الانحدار.",
+          "غرفتي في الطابق العلوي."
+        ],
+        "fr": [
+          "Je monte l'escalier.",
+          "L'escalier est très raide.",
+          "Ma chambre est en haut."
+        ],
+        "it": [
+          "Salgo le scale.",
+          "Le scale sono molto ripide.",
+          "La mia stanza è al piano superiore."
+        ],
+        "ru": [
+          "Я поднимаюсь по лестнице.",
+          "Лестница очень крутая.",
+          "Моя комната наверху."
+        ],
+        "es": [
+          "Subo las escaleras.",
+          "Las escaleras son muy empinadas.",
+          "Mi habitación está arriba."
+        ],
+        "pl": [
+          "Wchodzę po schodach.",
+          "Schody są bardzo strome.",
+          "Mój pokój jest na górze."
+        ],
+        "fa": [
+          "من از پله بالا می‌روم.",
+          "پله‌ها خیلی تند هستند.",
+          "اتاق من طبقه بالا است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_593_fa",
+      "word_index": 593,
+      "translations": {
+        "en": "furniture",
+        "de": "Möbel",
+        "ar": "أثاث",
+        "fr": "meubles",
+        "it": "mobili",
+        "ru": "мебель",
+        "es": "muebles",
+        "pl": "meble",
+        "fa": "مبلمان"
+      },
+      "examples": {
+        "en": [
+          "I buy new furniture.",
+          "The furniture is very nice.",
+          "We need more furniture."
+        ],
+        "de": [
+          "Ich kaufe neue Möbel.",
+          "Die Möbel sind sehr schön.",
+          "Wir brauchen mehr Möbel."
+        ],
+        "ar": [
+          "أشتري أثاثاً جديداً.",
+          "الأثاث جميل جداً.",
+          "نحتاج المزيد من الأثاث."
+        ],
+        "fr": [
+          "J'achète des nouveaux meubles.",
+          "Les meubles sont très beaux.",
+          "Nous avons besoin de plus de meubles."
+        ],
+        "it": [
+          "Compro mobili nuovi.",
+          "I mobili sono molto belli.",
+          "Abbiamo bisogno di più mobili."
+        ],
+        "ru": [
+          "Я покупаю новую мебель.",
+          "Мебель очень красивая.",
+          "Нам нужно больше мебели."
+        ],
+        "es": [
+          "Compro muebles nuevos.",
+          "Los muebles son muy bonitos.",
+          "Necesitamos más muebles."
+        ],
+        "pl": [
+          "Kupuję nowe meble.",
+          "Meble są bardzo ładne.",
+          "Potrzebujemy więcej mebli."
+        ],
+        "fa": [
+          "من مبلمان جدید می‌خرم.",
+          "مبلمان خیلی زیبا است.",
+          "ما به مبلمان بیشتری نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_594_fa",
+      "word_index": 594,
+      "translations": {
+        "en": "bed",
+        "de": "Bett",
+        "ar": "سرير",
+        "fr": "lit",
+        "it": "letto",
+        "ru": "кровать",
+        "es": "cama",
+        "pl": "łóżko",
+        "fa": "تخت"
+      },
+      "examples": {
+        "en": [
+          "I sleep in my bed.",
+          "The bed is very comfortable.",
+          "I make my bed every morning."
+        ],
+        "de": [
+          "Ich schlafe in meinem Bett.",
+          "Das Bett ist sehr bequem.",
+          "Ich mache jeden Morgen mein Bett."
+        ],
+        "ar": [
+          "أنام في سريري.",
+          "السرير مريح جداً.",
+          "أرتب سريري كل صباح."
+        ],
+        "fr": [
+          "Je dors dans mon lit.",
+          "Le lit est très confortable.",
+          "Je fais mon lit chaque matin."
+        ],
+        "it": [
+          "Dormo nel mio letto.",
+          "Il letto è molto comodo.",
+          "Rifaccio il letto ogni mattina."
+        ],
+        "ru": [
+          "Я сплю в своей кровати.",
+          "Кровать очень удобная.",
+          "Я застилаю кровать каждое утро."
+        ],
+        "es": [
+          "Duermo en mi cama.",
+          "La cama es muy cómoda.",
+          "Hago mi cama cada mañana."
+        ],
+        "pl": [
+          "Śpię w moim łóżku.",
+          "Łóżko jest bardzo wygodne.",
+          "Ścielę łóżko każdego ranka."
+        ],
+        "fa": [
+          "من در تختم می‌خوابم.",
+          "تخت خیلی راحت است.",
+          "من هر صبح تختم را مرتب می‌کنم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_595_fa",
+      "word_index": 595,
+      "translations": {
+        "en": "sofa",
+        "de": "Sofa",
+        "ar": "أريكة",
+        "fr": "canapé",
+        "it": "divano",
+        "ru": "диван",
+        "es": "sofá",
+        "pl": "sofa",
+        "fa": "مبل"
+      },
+      "examples": {
+        "en": [
+          "I sit on the sofa.",
+          "The sofa is very soft.",
+          "We have a new sofa."
+        ],
+        "de": [
+          "Ich sitze auf dem Sofa.",
+          "Das Sofa ist sehr weich.",
+          "Wir haben ein neues Sofa."
+        ],
+        "ar": [
+          "أجلس على الأريكة.",
+          "الأريكة ناعمة جداً.",
+          "لدينا أريكة جديدة."
+        ],
+        "fr": [
+          "Je m'assois sur le canapé.",
+          "Le canapé est très doux.",
+          "Nous avons un nouveau canapé."
+        ],
+        "it": [
+          "Mi siedo sul divano.",
+          "Il divano è molto morbido.",
+          "Abbiamo un divano nuovo."
+        ],
+        "ru": [
+          "Я сижу на диване.",
+          "Диван очень мягкий.",
+          "У нас новый диван."
+        ],
+        "es": [
+          "Me siento en el sofá.",
+          "El sofá es muy suave.",
+          "Tenemos un sofá nuevo."
+        ],
+        "pl": [
+          "Siedzę na sofie.",
+          "Sofa jest bardzo miękka.",
+          "Mamy nową sofę."
+        ],
+        "fa": [
+          "من روی مبل می‌نشینم.",
+          "مبل خیلی نرم است.",
+          "ما یک مبل جدید داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_596_fa",
+      "word_index": 596,
+      "translations": {
+        "en": "desk",
+        "de": "Schreibtisch",
+        "ar": "مكتب",
+        "fr": "bureau",
+        "it": "scrivania",
+        "ru": "письменный стол",
+        "es": "escritorio",
+        "pl": "biurko",
+        "fa": "میز تحریر"
+      },
+      "examples": {
+        "en": [
+          "I study at my desk.",
+          "The desk is very clean.",
+          "My computer is on the desk."
+        ],
+        "de": [
+          "Ich lerne an meinem Schreibtisch.",
+          "Der Schreibtisch ist sehr sauber.",
+          "Mein Computer steht auf dem Schreibtisch."
+        ],
+        "ar": [
+          "أدرس على مكتبي.",
+          "المكتب نظيف جداً.",
+          "حاسوبي على المكتب."
+        ],
+        "fr": [
+          "J'étudie à mon bureau.",
+          "Le bureau est très propre.",
+          "Mon ordinateur est sur le bureau."
+        ],
+        "it": [
+          "Studio alla mia scrivania.",
+          "La scrivania è molto pulita.",
+          "Il mio computer è sulla scrivania."
+        ],
+        "ru": [
+          "Я занимаюсь за своим столом.",
+          "Стол очень чистый.",
+          "Мой компьютер на столе."
+        ],
+        "es": [
+          "Estudio en mi escritorio.",
+          "El escritorio está muy limpio.",
+          "Mi computadora está en el escritorio."
+        ],
+        "pl": [
+          "Uczę się przy moim biurku.",
+          "Biurko jest bardzo czyste.",
+          "Mój komputer jest na biurku."
+        ],
+        "fa": [
+          "من پشت میز تحریرم درس می‌خوانم.",
+          "میز تحریر خیلی تمیز است.",
+          "کامپیوتر من روی میز تحریر است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_597_fa",
+      "word_index": 597,
+      "translations": {
+        "en": "shelf",
+        "de": "Regal",
+        "ar": "رف",
+        "fr": "étagère",
+        "it": "scaffale",
+        "ru": "полка",
+        "es": "estante",
+        "pl": "półka",
+        "fa": "قفسه"
+      },
+      "examples": {
+        "en": [
+          "I put books on the shelf.",
+          "The shelf is full of books.",
+          "I need a new shelf."
+        ],
+        "de": [
+          "Ich stelle Bücher ins Regal.",
+          "Das Regal ist voll mit Büchern.",
+          "Ich brauche ein neues Regal."
+        ],
+        "ar": [
+          "أضع الكتب على الرف.",
+          "الرف ممتلئ بالكتب.",
+          "أحتاج رفاً جديداً."
+        ],
+        "fr": [
+          "Je mets des livres sur l'étagère.",
+          "L'étagère est pleine de livres.",
+          "J'ai besoin d'une nouvelle étagère."
+        ],
+        "it": [
+          "Metto i libri sullo scaffale.",
+          "Lo scaffale è pieno di libri.",
+          "Ho bisogno di un nuovo scaffale."
+        ],
+        "ru": [
+          "Я ставлю книги на полку.",
+          "Полка полна книг.",
+          "Мне нужна новая полка."
+        ],
+        "es": [
+          "Pongo libros en el estante.",
+          "El estante está lleno de libros.",
+          "Necesito un estante nuevo."
+        ],
+        "pl": [
+          "Kładę książki na półce.",
+          "Półka jest pełna książek.",
+          "Potrzebuję nowej półki."
+        ],
+        "fa": [
+          "من کتاب‌ها را روی قفسه می‌گذارم.",
+          "قفسه پر از کتاب است.",
+          "من به یک قفسه جدید نیاز دارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_598_fa",
+      "word_index": 598,
+      "translations": {
+        "en": "lamp",
+        "de": "Lampe",
+        "ar": "مصباح",
+        "fr": "lampe",
+        "it": "lampada",
+        "ru": "лампа",
+        "es": "lámpara",
+        "pl": "lampa",
+        "fa": "لامپ"
+      },
+      "examples": {
+        "en": [
+          "I turn on the lamp.",
+          "The lamp is very bright.",
+          "I read under the lamp."
+        ],
+        "de": [
+          "Ich schalte die Lampe an.",
+          "Die Lampe ist sehr hell.",
+          "Ich lese unter der Lampe."
+        ],
+        "ar": [
+          "أشغل المصباح.",
+          "المصباح ساطع جداً.",
+          "أقرأ تحت المصباح."
+        ],
+        "fr": [
+          "J'allume la lampe.",
+          "La lampe est très lumineuse.",
+          "Je lis sous la lampe."
+        ],
+        "it": [
+          "Accendo la lampada.",
+          "La lampada è molto luminosa.",
+          "Leggo sotto la lampada."
+        ],
+        "ru": [
+          "Я включаю лампу.",
+          "Лампа очень яркая.",
+          "Я читаю под лампой."
+        ],
+        "es": [
+          "Enciendo la lámpara.",
+          "La lámpara es muy brillante.",
+          "Leo bajo la lámpara."
+        ],
+        "pl": [
+          "Włączam lampę.",
+          "Lampa jest bardzo jasna.",
+          "Czytam pod lampą."
+        ],
+        "fa": [
+          "من لامپ را روشن می‌کنم.",
+          "لامپ خیلی روشن است.",
+          "من زیر لامپ می‌خوانم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_599_fa",
+      "word_index": 599,
+      "translations": {
+        "en": "clean",
+        "de": "sauber",
+        "ar": "نظيف",
+        "fr": "propre",
+        "it": "pulito",
+        "ru": "чистый",
+        "es": "limpio",
+        "pl": "czysty",
+        "fa": "تمیز"
+      },
+      "examples": {
+        "en": [
+          "My room is very clean.",
+          "I clean the house today.",
+          "The bathroom is clean."
+        ],
+        "de": [
+          "Mein Zimmer ist sehr sauber.",
+          "Ich putze heute das Haus.",
+          "Das Badezimmer ist sauber."
+        ],
+        "ar": [
+          "غرفتي نظيفة جداً.",
+          "أنظف المنزل اليوم.",
+          "الحمام نظيف."
+        ],
+        "fr": [
+          "Ma chambre est très propre.",
+          "Je nettoie la maison aujourd'hui.",
+          "La salle de bain est propre."
+        ],
+        "it": [
+          "La mia stanza è molto pulita.",
+          "Pulisco la casa oggi.",
+          "Il bagno è pulito."
+        ],
+        "ru": [
+          "Моя комната очень чистая.",
+          "Я убираю дом сегодня.",
+          "Ванная чистая."
+        ],
+        "es": [
+          "Mi habitación está muy limpia.",
+          "Limpio la casa hoy.",
+          "El baño está limpio."
+        ],
+        "pl": [
+          "Mój pokój jest bardzo czysty.",
+          "Sprzątam dom dzisiaj.",
+          "Łazienka jest czysta."
+        ],
+        "fa": [
+          "اتاق من خیلی تمیز است.",
+          "من امروز خانه را تمیز می‌کنم.",
+          "حمام تمیز است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_600_fa",
+      "word_index": 600,
+      "translations": {
+        "en": "dirty",
+        "de": "schmutzig",
+        "ar": "متسخ",
+        "fr": "sale",
+        "it": "sporco",
+        "ru": "грязный",
+        "es": "sucio",
+        "pl": "brudny",
+        "fa": "کثیف"
+      },
+      "examples": {
+        "en": [
+          "My shoes are dirty.",
+          "The floor is very dirty.",
+          "I wash my dirty clothes."
+        ],
+        "de": [
+          "Meine Schuhe sind schmutzig.",
+          "Der Boden ist sehr schmutzig.",
+          "Ich wasche meine schmutzige Kleidung."
+        ],
+        "ar": [
+          "حذائي متسخ.",
+          "الأرضية متسخة جداً.",
+          "أغسل ملابسي المتسخة."
+        ],
+        "fr": [
+          "Mes chaussures sont sales.",
+          "Le sol est très sale.",
+          "Je lave mes vêtements sales."
+        ],
+        "it": [
+          "Le mie scarpe sono sporche.",
+          "Il pavimento è molto sporco.",
+          "Lavo i miei vestiti sporchi."
+        ],
+        "ru": [
+          "Мои туфли грязные.",
+          "Пол очень грязный.",
+          "Я стираю свою грязную одежду."
+        ],
+        "es": [
+          "Mis zapatos están sucios.",
+          "El suelo está muy sucio.",
+          "Lavo mi ropa sucia."
+        ],
+        "pl": [
+          "Moje buty są brudne.",
+          "Podłoga jest bardzo brudna.",
+          "Piorę moje brudne ubrania."
+        ],
+        "fa": [
+          "کفش‌های من کثیف هستند.",
+          "کف خیلی کثیف است.",
+          "من لباس‌های کثیفم را می‌شویم."
+        ]
+      }
+    }
+  ]
+}

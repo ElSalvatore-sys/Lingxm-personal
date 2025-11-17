@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 32,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "621-640",
+    "total_words": 20,
+    "theme": "Body Parts",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_621_fa",
+      "word_index": 621,
+      "translations": {
+        "en": "body",
+        "de": "Körper",
+        "ar": "جسم",
+        "fr": "corps",
+        "it": "corpo",
+        "ru": "тело",
+        "es": "cuerpo",
+        "pl": "ciało",
+        "fa": "بدن"
+      },
+      "examples": {
+        "en": [
+          "My body is healthy and strong.",
+          "I wash my body every day.",
+          "Exercise is good for your body."
+        ],
+        "de": [
+          "Mein Körper ist gesund und stark.",
+          "Ich wasche meinen Körper jeden Tag.",
+          "Sport ist gut für deinen Körper."
+        ],
+        "ar": [
+          "جسمي صحي وقوي.",
+          "أغسل جسمي كل يوم.",
+          "التمرين مفيد لجسمك."
+        ],
+        "fr": [
+          "Mon corps est sain et fort.",
+          "Je lave mon corps chaque jour.",
+          "L'exercice est bon pour ton corps."
+        ],
+        "it": [
+          "Il mio corpo è sano e forte.",
+          "Lavo il mio corpo ogni giorno.",
+          "L'esercizio fa bene al tuo corpo."
+        ],
+        "ru": [
+          "Моё тело здоровое и сильное.",
+          "Я мою своё тело каждый день.",
+          "Упражнения полезны для твоего тела."
+        ],
+        "es": [
+          "Mi cuerpo es sano y fuerte.",
+          "Lavo mi cuerpo cada día.",
+          "El ejercicio es bueno para tu cuerpo."
+        ],
+        "pl": [
+          "Moje ciało jest zdrowe i silne.",
+          "Myję swoje ciało każdego dnia.",
+          "Ćwiczenia są dobre dla twojego ciała."
+        ],
+        "fa": [
+          "بدن من سالم و قوی است.",
+          "من هر روز بدنم را می‌شویم.",
+          "ورزش برای بدن تو خوب است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_622_fa",
+      "word_index": 622,
+      "translations": {
+        "en": "head",
+        "de": "Kopf",
+        "ar": "رأس",
+        "fr": "tête",
+        "it": "testa",
+        "ru": "голова",
+        "es": "cabeza",
+        "pl": "głowa",
+        "fa": "سر"
+      },
+      "examples": {
+        "en": [
+          "I have a hat on my head.",
+          "My head hurts today.",
+          "She nods her head yes."
+        ],
+        "de": [
+          "Ich habe einen Hut auf dem Kopf.",
+          "Mein Kopf tut heute weh.",
+          "Sie nickt mit dem Kopf ja."
+        ],
+        "ar": [
+          "لدي قبعة على رأسي.",
+          "رأسي يؤلمني اليوم.",
+          "إنها تومئ برأسها نعم."
+        ],
+        "fr": [
+          "J'ai un chapeau sur la tête.",
+          "Ma tête me fait mal aujourd'hui.",
+          "Elle hoche la tête oui."
+        ],
+        "it": [
+          "Ho un cappello sulla testa.",
+          "Mi fa male la testa oggi.",
+          "Lei annuisce con la testa sì."
+        ],
+        "ru": [
+          "У меня шляпа на голове.",
+          "У меня болит голова сегодня.",
+          "Она кивает головой да."
+        ],
+        "es": [
+          "Tengo un sombrero en la cabeza.",
+          "Me duele la cabeza hoy.",
+          "Ella asiente con la cabeza sí."
+        ],
+        "pl": [
+          "Mam kapelusz na głowie.",
+          "Boli mnie głowa dzisiaj.",
+          "Ona kiwa głową tak."
+        ],
+        "fa": [
+          "من یک کلاه روی سرم دارم.",
+          "سرم امروز درد می‌کند.",
+          "او با سرش بله می‌گوید."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_623_fa",
+      "word_index": 623,
+      "translations": {
+        "en": "face",
+        "de": "Gesicht",
+        "ar": "وجه",
+        "fr": "visage",
+        "it": "viso",
+        "ru": "лицо",
+        "es": "cara",
+        "pl": "twarz",
+        "fa": "صورت"
+      },
+      "examples": {
+        "en": [
+          "I wash my face every morning.",
+          "She has a beautiful face.",
+          "Your face is very clean."
+        ],
+        "de": [
+          "Ich wasche mein Gesicht jeden Morgen.",
+          "Sie hat ein schönes Gesicht.",
+          "Dein Gesicht ist sehr sauber."
+        ],
+        "ar": [
+          "أغسل وجهي كل صباح.",
+          "لديها وجه جميل.",
+          "وجهك نظيف جداً."
+        ],
+        "fr": [
+          "Je me lave le visage chaque matin.",
+          "Elle a un beau visage.",
+          "Ton visage est très propre."
+        ],
+        "it": [
+          "Mi lavo il viso ogni mattina.",
+          "Lei ha un bel viso.",
+          "Il tuo viso è molto pulito."
+        ],
+        "ru": [
+          "Я умываюсь каждое утро.",
+          "У неё красивое лицо.",
+          "Твоё лицо очень чистое."
+        ],
+        "es": [
+          "Me lavo la cara cada mañana.",
+          "Ella tiene una cara bonita.",
+          "Tu cara está muy limpia."
+        ],
+        "pl": [
+          "Myję twarz każdego ranka.",
+          "Ona ma piękną twarz.",
+          "Twoja twarz jest bardzo czysta."
+        ],
+        "fa": [
+          "من هر صبح صورتم را می‌شویم.",
+          "او صورت زیبایی دارد.",
+          "صورت تو خیلی تمیز است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_624_fa",
+      "word_index": 624,
+      "translations": {
+        "en": "eye",
+        "de": "Auge",
+        "ar": "عين",
+        "fr": "œil",
+        "it": "occhio",
+        "ru": "глаз",
+        "es": "ojo",
+        "pl": "oko",
+        "fa": "چشم"
+      },
+      "examples": {
+        "en": [
+          "I have brown eyes.",
+          "My left eye hurts.",
+          "She closes her eyes."
+        ],
+        "de": [
+          "Ich habe braune Augen.",
+          "Mein linkes Auge tut weh.",
+          "Sie schließt ihre Augen."
+        ],
+        "ar": [
+          "لدي عينان بنيتان.",
+          "عيني اليسرى تؤلمني.",
+          "إنها تغلق عينيها."
+        ],
+        "fr": [
+          "J'ai les yeux marron.",
+          "Mon œil gauche me fait mal.",
+          "Elle ferme les yeux."
+        ],
+        "it": [
+          "Ho gli occhi marroni.",
+          "Mi fa male l'occhio sinistro.",
+          "Lei chiude gli occhi."
+        ],
+        "ru": [
+          "У меня карие глаза.",
+          "Мой левый глаз болит.",
+          "Она закрывает глаза."
+        ],
+        "es": [
+          "Tengo los ojos marrones.",
+          "Me duele el ojo izquierdo.",
+          "Ella cierra los ojos."
+        ],
+        "pl": [
+          "Mam brązowe oczy.",
+          "Boli mnie lewe oko.",
+          "Ona zamyka oczy."
+        ],
+        "fa": [
+          "من چشم‌های قهوه‌ای دارم.",
+          "چشم چپم درد می‌کند.",
+          "او چشم‌هایش را می‌بندد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_625_fa",
+      "word_index": 625,
+      "translations": {
+        "en": "ear",
+        "de": "Ohr",
+        "ar": "أذن",
+        "fr": "oreille",
+        "it": "orecchio",
+        "ru": "ухо",
+        "es": "oreja",
+        "pl": "ucho",
+        "fa": "گوش"
+      },
+      "examples": {
+        "en": [
+          "I hear with my ears.",
+          "My ear hurts a little.",
+          "She has small ears."
+        ],
+        "de": [
+          "Ich höre mit meinen Ohren.",
+          "Mein Ohr tut ein wenig weh.",
+          "Sie hat kleine Ohren."
+        ],
+        "ar": [
+          "أسمع بأذني.",
+          "أذني تؤلمني قليلاً.",
+          "لديها أذنان صغيرتان."
+        ],
+        "fr": [
+          "J'entends avec mes oreilles.",
+          "Mon oreille me fait un peu mal.",
+          "Elle a de petites oreilles."
+        ],
+        "it": [
+          "Sento con le mie orecchie.",
+          "Mi fa un po' male l'orecchio.",
+          "Lei ha orecchie piccole."
+        ],
+        "ru": [
+          "Я слышу своими ушами.",
+          "У меня немного болит ухо.",
+          "У неё маленькие уши."
+        ],
+        "es": [
+          "Oigo con mis orejas.",
+          "Me duele un poco la oreja.",
+          "Ella tiene orejas pequeñas."
+        ],
+        "pl": [
+          "Słyszę moimi uszami.",
+          "Trochę boli mnie ucho.",
+          "Ona ma małe uszy."
+        ],
+        "fa": [
+          "من با گوش‌هایم می‌شنوم.",
+          "گوشم کمی درد می‌کند.",
+          "او گوش‌های کوچکی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_626_fa",
+      "word_index": 626,
+      "translations": {
+        "en": "nose",
+        "de": "Nase",
+        "ar": "أنف",
+        "fr": "nez",
+        "it": "naso",
+        "ru": "нос",
+        "es": "nariz",
+        "pl": "nos",
+        "fa": "بینی"
+      },
+      "examples": {
+        "en": [
+          "I smell with my nose.",
+          "My nose is small.",
+          "He has a cold nose."
+        ],
+        "de": [
+          "Ich rieche mit meiner Nase.",
+          "Meine Nase ist klein.",
+          "Er hat eine kalte Nase."
+        ],
+        "ar": [
+          "أشم بأنفي.",
+          "أنفي صغير.",
+          "لديه أنف بارد."
+        ],
+        "fr": [
+          "Je sens avec mon nez.",
+          "Mon nez est petit.",
+          "Il a le nez froid."
+        ],
+        "it": [
+          "Sento con il mio naso.",
+          "Il mio naso è piccolo.",
+          "Lui ha il naso freddo."
+        ],
+        "ru": [
+          "Я чувствую запах своим носом.",
+          "Мой нос маленький.",
+          "У него холодный нос."
+        ],
+        "es": [
+          "Huelo con mi nariz.",
+          "Mi nariz es pequeña.",
+          "Él tiene la nariz fría."
+        ],
+        "pl": [
+          "Wącham moim nosem.",
+          "Mój nos jest mały.",
+          "On ma zimny nos."
+        ],
+        "fa": [
+          "من با بینی‌ام بو می‌کشم.",
+          "بینی من کوچک است.",
+          "او بینی سردی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_627_fa",
+      "word_index": 627,
+      "translations": {
+        "en": "mouth",
+        "de": "Mund",
+        "ar": "فم",
+        "fr": "bouche",
+        "it": "bocca",
+        "ru": "рот",
+        "es": "boca",
+        "pl": "usta",
+        "fa": "دهان"
+      },
+      "examples": {
+        "en": [
+          "I eat with my mouth.",
+          "Open your mouth please.",
+          "She has a small mouth."
+        ],
+        "de": [
+          "Ich esse mit meinem Mund.",
+          "Öffne deinen Mund bitte.",
+          "Sie hat einen kleinen Mund."
+        ],
+        "ar": [
+          "آكل بفمي.",
+          "افتح فمك من فضلك.",
+          "لديها فم صغير."
+        ],
+        "fr": [
+          "Je mange avec ma bouche.",
+          "Ouvre ta bouche s'il te plaît.",
+          "Elle a une petite bouche."
+        ],
+        "it": [
+          "Mangio con la mia bocca.",
+          "Apri la bocca per favore.",
+          "Lei ha una bocca piccola."
+        ],
+        "ru": [
+          "Я ем своим ртом.",
+          "Открой рот, пожалуйста.",
+          "У неё маленький рот."
+        ],
+        "es": [
+          "Como con mi boca.",
+          "Abre tu boca por favor.",
+          "Ella tiene una boca pequeña."
+        ],
+        "pl": [
+          "Jem moimi ustami.",
+          "Otwórz usta proszę.",
+          "Ona ma małe usta."
+        ],
+        "fa": [
+          "من با دهانم می‌خورم.",
+          "لطفاً دهانت را باز کن.",
+          "او دهان کوچکی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_628_fa",
+      "word_index": 628,
+      "translations": {
+        "en": "tooth",
+        "de": "Zahn",
+        "ar": "سن",
+        "fr": "dent",
+        "it": "dente",
+        "ru": "зуб",
+        "es": "diente",
+        "pl": "ząb",
+        "fa": "دندان"
+      },
+      "examples": {
+        "en": [
+          "I brush my teeth daily.",
+          "My tooth hurts very much.",
+          "She has white teeth."
+        ],
+        "de": [
+          "Ich putze meine Zähne täglich.",
+          "Mein Zahn tut sehr weh.",
+          "Sie hat weiße Zähne."
+        ],
+        "ar": [
+          "أنظف أسناني يومياً.",
+          "سني يؤلمني كثيراً.",
+          "لديها أسنان بيضاء."
+        ],
+        "fr": [
+          "Je me brosse les dents tous les jours.",
+          "Ma dent me fait très mal.",
+          "Elle a des dents blanches."
+        ],
+        "it": [
+          "Mi lavo i denti ogni giorno.",
+          "Mi fa molto male il dente.",
+          "Lei ha denti bianchi."
+        ],
+        "ru": [
+          "Я чищу зубы каждый день.",
+          "Мой зуб очень болит.",
+          "У неё белые зубы."
+        ],
+        "es": [
+          "Me cepillo los dientes a diario.",
+          "Me duele mucho el diente.",
+          "Ella tiene dientes blancos."
+        ],
+        "pl": [
+          "Myję zęby codziennie.",
+          "Bardzo boli mnie ząb.",
+          "Ona ma białe zęby."
+        ],
+        "fa": [
+          "من هر روز دندان‌هایم را مسواک می‌زنم.",
+          "دندانم خیلی درد می‌کند.",
+          "او دندان‌های سفیدی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_629_fa",
+      "word_index": 629,
+      "translations": {
+        "en": "hair",
+        "de": "Haar",
+        "ar": "شعر",
+        "fr": "cheveux",
+        "it": "capelli",
+        "ru": "волосы",
+        "es": "pelo",
+        "pl": "włosy",
+        "fa": "مو"
+      },
+      "examples": {
+        "en": [
+          "I have long black hair.",
+          "She washes her hair today.",
+          "My hair is very short."
+        ],
+        "de": [
+          "Ich habe lange schwarze Haare.",
+          "Sie wäscht heute ihre Haare.",
+          "Meine Haare sind sehr kurz."
+        ],
+        "ar": [
+          "لدي شعر أسود طويل.",
+          "إنها تغسل شعرها اليوم.",
+          "شعري قصير جداً."
+        ],
+        "fr": [
+          "J'ai les cheveux longs et noirs.",
+          "Elle se lave les cheveux aujourd'hui.",
+          "Mes cheveux sont très courts."
+        ],
+        "it": [
+          "Ho capelli lunghi e neri.",
+          "Lei si lava i capelli oggi.",
+          "I miei capelli sono molto corti."
+        ],
+        "ru": [
+          "У меня длинные чёрные волосы.",
+          "Она моет волосы сегодня.",
+          "Мои волосы очень короткие."
+        ],
+        "es": [
+          "Tengo el pelo largo y negro.",
+          "Ella se lava el pelo hoy.",
+          "Mi pelo es muy corto."
+        ],
+        "pl": [
+          "Mam długie czarne włosy.",
+          "Ona myje włosy dzisiaj.",
+          "Moje włosy są bardzo krótkie."
+        ],
+        "fa": [
+          "من موهای بلند و سیاه دارم.",
+          "او امروز موهایش را می‌شوید.",
+          "موهای من خیلی کوتاه است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_630_fa",
+      "word_index": 630,
+      "translations": {
+        "en": "neck",
+        "de": "Hals",
+        "ar": "رقبة",
+        "fr": "cou",
+        "it": "collo",
+        "ru": "шея",
+        "es": "cuello",
+        "pl": "szyja",
+        "fa": "گردن"
+      },
+      "examples": {
+        "en": [
+          "I wear a scarf on my neck.",
+          "My neck is very long.",
+          "She has a sore neck."
+        ],
+        "de": [
+          "Ich trage einen Schal um meinen Hals.",
+          "Mein Hals ist sehr lang.",
+          "Sie hat einen schmerzenden Hals."
+        ],
+        "ar": [
+          "أرتدي وشاحاً على رقبتي.",
+          "رقبتي طويلة جداً.",
+          "لديها رقبة مؤلمة."
+        ],
+        "fr": [
+          "Je porte une écharpe autour du cou.",
+          "Mon cou est très long.",
+          "Elle a mal au cou."
+        ],
+        "it": [
+          "Porto una sciarpa al collo.",
+          "Il mio collo è molto lungo.",
+          "Lei ha mal di collo."
+        ],
+        "ru": [
+          "Я ношу шарф на шее.",
+          "Моя шея очень длинная.",
+          "У неё болит шея."
+        ],
+        "es": [
+          "Llevo una bufanda en el cuello.",
+          "Mi cuello es muy largo.",
+          "Ella tiene el cuello dolorido."
+        ],
+        "pl": [
+          "Noszę szalik na szyi.",
+          "Moja szyja jest bardzo długa.",
+          "Ona ma bolącą szyję."
+        ],
+        "fa": [
+          "من یک شال دور گردنم می‌بندم.",
+          "گردن من خیلی بلند است.",
+          "گردن او درد می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_631_fa",
+      "word_index": 631,
+      "translations": {
+        "en": "shoulder",
+        "de": "Schulter",
+        "ar": "كتف",
+        "fr": "épaule",
+        "it": "spalla",
+        "ru": "плечо",
+        "es": "hombro",
+        "pl": "ramię",
+        "fa": "شانه"
+      },
+      "examples": {
+        "en": [
+          "I carry my bag on my shoulder.",
+          "My right shoulder hurts.",
+          "He has strong shoulders."
+        ],
+        "de": [
+          "Ich trage meine Tasche auf der Schulter.",
+          "Meine rechte Schulter tut weh.",
+          "Er hat starke Schultern."
+        ],
+        "ar": [
+          "أحمل حقيبتي على كتفي.",
+          "كتفي الأيمن يؤلمني.",
+          "لديه أكتاف قوية."
+        ],
+        "fr": [
+          "Je porte mon sac sur l'épaule.",
+          "Mon épaule droite me fait mal.",
+          "Il a des épaules fortes."
+        ],
+        "it": [
+          "Porto la borsa sulla spalla.",
+          "Mi fa male la spalla destra.",
+          "Lui ha spalle forti."
+        ],
+        "ru": [
+          "Я ношу сумку на плече.",
+          "У меня болит правое плечо.",
+          "У него сильные плечи."
+        ],
+        "es": [
+          "Llevo mi bolso en el hombro.",
+          "Me duele el hombro derecho.",
+          "Él tiene hombros fuertes."
+        ],
+        "pl": [
+          "Noszę torbę na ramieniu.",
+          "Boli mnie prawe ramię.",
+          "On ma silne ramiona."
+        ],
+        "fa": [
+          "من کیفم را روی شانه‌ام حمل می‌کنم.",
+          "شانه راستم درد می‌کند.",
+          "او شانه‌های قوی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_632_fa",
+      "word_index": 632,
+      "translations": {
+        "en": "arm",
+        "de": "Arm",
+        "ar": "ذراع",
+        "fr": "bras",
+        "it": "braccio",
+        "ru": "рука",
+        "es": "brazo",
+        "pl": "ramię",
+        "fa": "بازو"
+      },
+      "examples": {
+        "en": [
+          "I raise my arms up.",
+          "My left arm is strong.",
+          "She holds the baby in her arms."
+        ],
+        "de": [
+          "Ich hebe meine Arme hoch.",
+          "Mein linker Arm ist stark.",
+          "Sie hält das Baby in den Armen."
+        ],
+        "ar": [
+          "أرفع ذراعي للأعلى.",
+          "ذراعي الأيسر قوي.",
+          "إنها تحمل الطفل بين ذراعيها."
+        ],
+        "fr": [
+          "Je lève les bras en l'air.",
+          "Mon bras gauche est fort.",
+          "Elle tient le bébé dans ses bras."
+        ],
+        "it": [
+          "Alzo le braccia in alto.",
+          "Il mio braccio sinistro è forte.",
+          "Lei tiene il bambino tra le braccia."
+        ],
+        "ru": [
+          "Я поднимаю руки вверх.",
+          "Моя левая рука сильная.",
+          "Она держит ребёнка на руках."
+        ],
+        "es": [
+          "Levanto los brazos arriba.",
+          "Mi brazo izquierdo es fuerte.",
+          "Ella sostiene al bebé en sus brazos."
+        ],
+        "pl": [
+          "Podnoszę ramiona do góry.",
+          "Moje lewe ramię jest silne.",
+          "Ona trzyma dziecko w ramionach."
+        ],
+        "fa": [
+          "من بازوهایم را بالا می‌برم.",
+          "بازوی چپم قوی است.",
+          "او نوزاد را در آغوش دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_633_fa",
+      "word_index": 633,
+      "translations": {
+        "en": "hand",
+        "de": "Hand",
+        "ar": "يد",
+        "fr": "main",
+        "it": "mano",
+        "ru": "рука",
+        "es": "mano",
+        "pl": "ręka",
+        "fa": "دست"
+      },
+      "examples": {
+        "en": [
+          "I wash my hands often.",
+          "She writes with her right hand.",
+          "Give me your hand please."
+        ],
+        "de": [
+          "Ich wasche meine Hände oft.",
+          "Sie schreibt mit der rechten Hand.",
+          "Gib mir deine Hand bitte."
+        ],
+        "ar": [
+          "أغسل يدي كثيراً.",
+          "إنها تكتب بيدها اليمنى.",
+          "أعطني يدك من فضلك."
+        ],
+        "fr": [
+          "Je me lave les mains souvent.",
+          "Elle écrit de la main droite.",
+          "Donne-moi ta main s'il te plaît."
+        ],
+        "it": [
+          "Mi lavo le mani spesso.",
+          "Lei scrive con la mano destra.",
+          "Dammi la mano per favore."
+        ],
+        "ru": [
+          "Я часто мою руки.",
+          "Она пишет правой рукой.",
+          "Дай мне руку, пожалуйста."
+        ],
+        "es": [
+          "Me lavo las manos a menudo.",
+          "Ella escribe con la mano derecha.",
+          "Dame tu mano por favor."
+        ],
+        "pl": [
+          "Często myję ręce.",
+          "Ona pisze prawą ręką.",
+          "Daj mi rękę proszę."
+        ],
+        "fa": [
+          "من اغلب دست‌هایم را می‌شویم.",
+          "او با دست راستش می‌نویسد.",
+          "لطفاً دستت را بده."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_634_fa",
+      "word_index": 634,
+      "translations": {
+        "en": "finger",
+        "de": "Finger",
+        "ar": "إصبع",
+        "fr": "doigt",
+        "it": "dito",
+        "ru": "палец",
+        "es": "dedo",
+        "pl": "palec",
+        "fa": "انگشت"
+      },
+      "examples": {
+        "en": [
+          "I have five fingers on each hand.",
+          "My finger is small and thin.",
+          "She points with her finger."
+        ],
+        "de": [
+          "Ich habe fünf Finger an jeder Hand.",
+          "Mein Finger ist klein und dünn.",
+          "Sie zeigt mit dem Finger."
+        ],
+        "ar": [
+          "لدي خمسة أصابع في كل يد.",
+          "إصبعي صغير ونحيف.",
+          "إنها تشير بإصبعها."
+        ],
+        "fr": [
+          "J'ai cinq doigts à chaque main.",
+          "Mon doigt est petit et fin.",
+          "Elle montre du doigt."
+        ],
+        "it": [
+          "Ho cinque dita in ogni mano.",
+          "Il mio dito è piccolo e sottile.",
+          "Lei indica con il dito."
+        ],
+        "ru": [
+          "У меня пять пальцев на каждой руке.",
+          "Мой палец маленький и тонкий.",
+          "Она указывает пальцем."
+        ],
+        "es": [
+          "Tengo cinco dedos en cada mano.",
+          "Mi dedo es pequeño y delgado.",
+          "Ella señala con el dedo."
+        ],
+        "pl": [
+          "Mam pięć palców na każdej ręce.",
+          "Mój palec jest mały i cienki.",
+          "Ona wskazuje palcem."
+        ],
+        "fa": [
+          "من پنج انگشت در هر دست دارم.",
+          "انگشت من کوچک و نازک است.",
+          "او با انگشتش اشاره می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_635_fa",
+      "word_index": 635,
+      "translations": {
+        "en": "leg",
+        "de": "Bein",
+        "ar": "ساق",
+        "fr": "jambe",
+        "it": "gamba",
+        "ru": "нога",
+        "es": "pierna",
+        "pl": "noga",
+        "fa": "پا"
+      },
+      "examples": {
+        "en": [
+          "I have two long legs.",
+          "My right leg hurts today.",
+          "He runs with strong legs."
+        ],
+        "de": [
+          "Ich habe zwei lange Beine.",
+          "Mein rechtes Bein tut heute weh.",
+          "Er läuft mit starken Beinen."
+        ],
+        "ar": [
+          "لدي ساقان طويلتان.",
+          "ساقي الأيمن يؤلمني اليوم.",
+          "يركض بساقين قويتين."
+        ],
+        "fr": [
+          "J'ai deux longues jambes.",
+          "Ma jambe droite me fait mal aujourd'hui.",
+          "Il court avec des jambes fortes."
+        ],
+        "it": [
+          "Ho due gambe lunghe.",
+          "Mi fa male la gamba destra oggi.",
+          "Lui corre con gambe forti."
+        ],
+        "ru": [
+          "У меня две длинные ноги.",
+          "Моя правая нога болит сегодня.",
+          "Он бегает на сильных ногах."
+        ],
+        "es": [
+          "Tengo dos piernas largas.",
+          "Me duele la pierna derecha hoy.",
+          "Él corre con piernas fuertes."
+        ],
+        "pl": [
+          "Mam dwie długie nogi.",
+          "Boli mnie prawa noga dzisiaj.",
+          "On biega na silnych nogach."
+        ],
+        "fa": [
+          "من دو پای بلند دارم.",
+          "پای راستم امروز درد می‌کند.",
+          "او با پاهای قوی می‌دود."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_636_fa",
+      "word_index": 636,
+      "translations": {
+        "en": "foot",
+        "de": "Fuß",
+        "ar": "قدم",
+        "fr": "pied",
+        "it": "piede",
+        "ru": "ступня",
+        "es": "pie",
+        "pl": "stopa",
+        "fa": "پا"
+      },
+      "examples": {
+        "en": [
+          "I wear shoes on my feet.",
+          "My left foot is big.",
+          "She washes her feet every day."
+        ],
+        "de": [
+          "Ich trage Schuhe an meinen Füßen.",
+          "Mein linker Fuß ist groß.",
+          "Sie wäscht ihre Füße jeden Tag."
+        ],
+        "ar": [
+          "أرتدي حذاء في قدمي.",
+          "قدمي اليسرى كبيرة.",
+          "إنها تغسل قدميها كل يوم."
+        ],
+        "fr": [
+          "Je porte des chaussures aux pieds.",
+          "Mon pied gauche est grand.",
+          "Elle se lave les pieds chaque jour."
+        ],
+        "it": [
+          "Porto scarpe ai piedi.",
+          "Il mio piede sinistro è grande.",
+          "Lei si lava i piedi ogni giorno."
+        ],
+        "ru": [
+          "Я ношу обувь на ногах.",
+          "Моя левая ступня большая.",
+          "Она моет ноги каждый день."
+        ],
+        "es": [
+          "Llevo zapatos en los pies.",
+          "Mi pie izquierdo es grande.",
+          "Ella se lava los pies cada día."
+        ],
+        "pl": [
+          "Noszę buty na stopach.",
+          "Moja lewa stopa jest duża.",
+          "Ona myje stopy każdego dnia."
+        ],
+        "fa": [
+          "من کفش به پا می‌کنم.",
+          "پای چپم بزرگ است.",
+          "او هر روز پاهایش را می‌شوید."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_637_fa",
+      "word_index": 637,
+      "translations": {
+        "en": "toe",
+        "de": "Zehe",
+        "ar": "إصبع القدم",
+        "fr": "orteil",
+        "it": "dito del piede",
+        "ru": "палец ноги",
+        "es": "dedo del pie",
+        "pl": "palec u nogi",
+        "fa": "انگشت پا"
+      },
+      "examples": {
+        "en": [
+          "I have five toes on each foot.",
+          "My big toe hurts.",
+          "She paints her toes red."
+        ],
+        "de": [
+          "Ich habe fünf Zehen an jedem Fuß.",
+          "Mein großer Zeh tut weh.",
+          "Sie lackiert ihre Zehen rot."
+        ],
+        "ar": [
+          "لدي خمسة أصابع في كل قدم.",
+          "إصبع قدمي الكبير يؤلمني.",
+          "إنها تطلي أصابع قدميها باللون الأحمر."
+        ],
+        "fr": [
+          "J'ai cinq orteils à chaque pied.",
+          "Mon gros orteil me fait mal.",
+          "Elle peint ses orteils en rouge."
+        ],
+        "it": [
+          "Ho cinque dita in ogni piede.",
+          "Mi fa male l'alluce.",
+          "Lei dipinge le dita dei piedi di rosso."
+        ],
+        "ru": [
+          "У меня пять пальцев на каждой ноге.",
+          "Мой большой палец ноги болит.",
+          "Она красит пальцы ног в красный."
+        ],
+        "es": [
+          "Tengo cinco dedos en cada pie.",
+          "Me duele el dedo gordo del pie.",
+          "Ella pinta sus dedos de los pies de rojo."
+        ],
+        "pl": [
+          "Mam pięć palców na każdej stopie.",
+          "Boli mnie duży palec u nogi.",
+          "Ona maluje palce u nóg na czerwono."
+        ],
+        "fa": [
+          "من پنج انگشت در هر پا دارم.",
+          "انگشت شست پایم درد می‌کند.",
+          "او انگشتان پایش را قرمز رنگ می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_638_fa",
+      "word_index": 638,
+      "translations": {
+        "en": "skin",
+        "de": "Haut",
+        "ar": "جلد",
+        "fr": "peau",
+        "it": "pelle",
+        "ru": "кожа",
+        "es": "piel",
+        "pl": "skóra",
+        "fa": "پوست"
+      },
+      "examples": {
+        "en": [
+          "I have soft skin.",
+          "The sun is bad for your skin.",
+          "She has beautiful skin."
+        ],
+        "de": [
+          "Ich habe weiche Haut.",
+          "Die Sonne ist schlecht für deine Haut.",
+          "Sie hat schöne Haut."
+        ],
+        "ar": [
+          "لدي جلد ناعم.",
+          "الشمس سيئة لجلدك.",
+          "لديها جلد جميل."
+        ],
+        "fr": [
+          "J'ai la peau douce.",
+          "Le soleil est mauvais pour ta peau.",
+          "Elle a une belle peau."
+        ],
+        "it": [
+          "Ho la pelle morbida.",
+          "Il sole fa male alla pelle.",
+          "Lei ha una pelle bellissima."
+        ],
+        "ru": [
+          "У меня мягкая кожа.",
+          "Солнце вредно для твоей кожи.",
+          "У неё красивая кожа."
+        ],
+        "es": [
+          "Tengo la piel suave.",
+          "El sol es malo para tu piel.",
+          "Ella tiene una piel bonita."
+        ],
+        "pl": [
+          "Mam miękką skórę.",
+          "Słońce jest złe dla twojej skóry.",
+          "Ona ma piękną skórę."
+        ],
+        "fa": [
+          "من پوست نرمی دارم.",
+          "خورشید برای پوست تو بد است.",
+          "او پوست زیبایی دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_639_fa",
+      "word_index": 639,
+      "translations": {
+        "en": "blood",
+        "de": "Blut",
+        "ar": "دم",
+        "fr": "sang",
+        "it": "sangue",
+        "ru": "кровь",
+        "es": "sangre",
+        "pl": "krew",
+        "fa": "خون"
+      },
+      "examples": {
+        "en": [
+          "I see blood on my hand.",
+          "The doctor checks my blood.",
+          "Blood is red in color."
+        ],
+        "de": [
+          "Ich sehe Blut an meiner Hand.",
+          "Der Arzt untersucht mein Blut.",
+          "Blut ist rot in der Farbe."
+        ],
+        "ar": [
+          "أرى دماً على يدي.",
+          "الطبيب يفحص دمي.",
+          "الدم لونه أحمر."
+        ],
+        "fr": [
+          "Je vois du sang sur ma main.",
+          "Le médecin vérifie mon sang.",
+          "Le sang est de couleur rouge."
+        ],
+        "it": [
+          "Vedo sangue sulla mia mano.",
+          "Il dottore controlla il mio sangue.",
+          "Il sangue è di colore rosso."
+        ],
+        "ru": [
+          "Я вижу кровь на руке.",
+          "Врач проверяет мою кровь.",
+          "Кровь красного цвета."
+        ],
+        "es": [
+          "Veo sangre en mi mano.",
+          "El médico revisa mi sangre.",
+          "La sangre es de color rojo."
+        ],
+        "pl": [
+          "Widzę krew na mojej ręce.",
+          "Lekarz bada moją krew.",
+          "Krew jest czerwonego koloru."
+        ],
+        "fa": [
+          "من خون روی دستم می‌بینم.",
+          "دکتر خون من را بررسی می‌کند.",
+          "خون قرمز رنگ است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_640_fa",
+      "word_index": 640,
+      "translations": {
+        "en": "heart",
+        "de": "Herz",
+        "ar": "قلب",
+        "fr": "cœur",
+        "it": "cuore",
+        "ru": "сердце",
+        "es": "corazón",
+        "pl": "serce",
+        "fa": "قلب"
+      },
+      "examples": {
+        "en": [
+          "My heart beats very fast.",
+          "I have a healthy heart.",
+          "The doctor listens to my heart."
+        ],
+        "de": [
+          "Mein Herz schlägt sehr schnell.",
+          "Ich habe ein gesundes Herz.",
+          "Der Arzt hört mein Herz ab."
+        ],
+        "ar": [
+          "قلبي يدق بسرعة كبيرة.",
+          "لدي قلب صحي.",
+          "الطبيب يستمع إلى قلبي."
+        ],
+        "fr": [
+          "Mon cœur bat très vite.",
+          "J'ai un cœur en bonne santé.",
+          "Le médecin écoute mon cœur."
+        ],
+        "it": [
+          "Il mio cuore batte molto veloce.",
+          "Ho un cuore sano.",
+          "Il dottore ascolta il mio cuore."
+        ],
+        "ru": [
+          "Моё сердце бьётся очень быстро.",
+          "У меня здоровое сердце.",
+          "Врач слушает моё сердце."
+        ],
+        "es": [
+          "Mi corazón late muy rápido.",
+          "Tengo un corazón sano.",
+          "El médico escucha mi corazón."
+        ],
+        "pl": [
+          "Moje serce bije bardzo szybko.",
+          "Mam zdrowe serce.",
+          "Lekarz słucha mojego serca."
+        ],
+        "fa": [
+          "قلب من خیلی سریع می‌زند.",
+          "من قلب سالمی دارم.",
+          "دکتر به قلب من گوش می‌کند."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 43,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "841-860",
+    "total_words": 20,
+    "theme": "Nature and Elements",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_841_fa",
+      "word_index": 841,
+      "translations": {
+        "en": "nature",
+        "de": "Natur",
+        "ar": "طبيعة",
+        "fr": "nature",
+        "it": "natura",
+        "ru": "природа",
+        "es": "naturaleza",
+        "pl": "natura",
+        "fa": "طبیعت"
+      },
+      "examples": {
+        "en": [
+          "I love nature very much.",
+          "Nature is beautiful in spring.",
+          "We walk in nature every weekend."
+        ],
+        "de": [
+          "Ich liebe die Natur sehr.",
+          "Die Natur ist im Frühling schön.",
+          "Wir gehen jedes Wochenende in der Natur spazieren."
+        ],
+        "ar": [
+          "أحب الطبيعة كثيراً.",
+          "الطبيعة جميلة في الربيع.",
+          "نتمشى في الطبيعة كل عطلة نهاية أسبوع."
+        ],
+        "fr": [
+          "J'aime beaucoup la nature.",
+          "La nature est belle au printemps.",
+          "Nous marchons dans la nature chaque weekend."
+        ],
+        "it": [
+          "Amo molto la natura.",
+          "La natura è bella in primavera.",
+          "Camminiamo nella natura ogni weekend."
+        ],
+        "ru": [
+          "Я очень люблю природу.",
+          "Природа красива весной.",
+          "Мы гуляем на природе каждые выходные."
+        ],
+        "es": [
+          "Amo mucho la naturaleza.",
+          "La naturaleza es hermosa en primavera.",
+          "Caminamos en la naturaleza cada fin de semana."
+        ],
+        "pl": [
+          "Bardzo kocham naturę.",
+          "Natura jest piękna wiosną.",
+          "Chodzimy na łonie natury co weekend."
+        ],
+        "fa": [
+          "من طبیعت را خیلی دوست دارم.",
+          "طبیعت در بهار زیبا است.",
+          "ما هر آخر هفته در طبیعت قدم می‌زنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_842_fa",
+      "word_index": 842,
+      "translations": {
+        "en": "tree",
+        "de": "Baum",
+        "ar": "شجرة",
+        "fr": "arbre",
+        "it": "albero",
+        "ru": "дерево",
+        "es": "árbol",
+        "pl": "drzewo",
+        "fa": "درخت"
+      },
+      "examples": {
+        "en": [
+          "I see a big tree.",
+          "The tree is very old.",
+          "Birds sit in the tree."
+        ],
+        "de": [
+          "Ich sehe einen großen Baum.",
+          "Der Baum ist sehr alt.",
+          "Vögel sitzen im Baum."
+        ],
+        "ar": [
+          "أرى شجرة كبيرة.",
+          "الشجرة قديمة جداً.",
+          "الطيور تجلس على الشجرة."
+        ],
+        "fr": [
+          "Je vois un grand arbre.",
+          "L'arbre est très vieux.",
+          "Les oiseaux sont dans l'arbre."
+        ],
+        "it": [
+          "Vedo un grande albero.",
+          "L'albero è molto vecchio.",
+          "Gli uccelli stanno sull'albero."
+        ],
+        "ru": [
+          "Я вижу большое дерево.",
+          "Дерево очень старое.",
+          "Птицы сидят на дереве."
+        ],
+        "es": [
+          "Veo un árbol grande.",
+          "El árbol es muy viejo.",
+          "Los pájaros están en el árbol."
+        ],
+        "pl": [
+          "Widzę duże drzewo.",
+          "Drzewo jest bardzo stare.",
+          "Ptaki siedzą na drzewie."
+        ],
+        "fa": [
+          "من یک درخت بزرگ می‌بینم.",
+          "درخت خیلی قدیمی است.",
+          "پرنده‌ها روی درخت می‌نشینند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_843_fa",
+      "word_index": 843,
+      "translations": {
+        "en": "flower",
+        "de": "Blume",
+        "ar": "زهرة",
+        "fr": "fleur",
+        "it": "fiore",
+        "ru": "цветок",
+        "es": "flor",
+        "pl": "kwiat",
+        "fa": "گل"
+      },
+      "examples": {
+        "en": [
+          "This flower is very beautiful.",
+          "I give flowers to my mother.",
+          "Red flowers are in the garden."
+        ],
+        "de": [
+          "Diese Blume ist sehr schön.",
+          "Ich gebe meiner Mutter Blumen.",
+          "Rote Blumen sind im Garten."
+        ],
+        "ar": [
+          "هذه الزهرة جميلة جداً.",
+          "أعطي الزهور لأمي.",
+          "الزهور الحمراء في الحديقة."
+        ],
+        "fr": [
+          "Cette fleur est très belle.",
+          "Je donne des fleurs à ma mère.",
+          "Les fleurs rouges sont dans le jardin."
+        ],
+        "it": [
+          "Questo fiore è molto bello.",
+          "Do fiori a mia madre.",
+          "I fiori rossi sono nel giardino."
+        ],
+        "ru": [
+          "Этот цветок очень красивый.",
+          "Я дарю цветы маме.",
+          "Красные цветы в саду."
+        ],
+        "es": [
+          "Esta flor es muy hermosa.",
+          "Doy flores a mi madre.",
+          "Las flores rojas están en el jardín."
+        ],
+        "pl": [
+          "Ten kwiat jest bardzo piękny.",
+          "Daję kwiaty mojej matce.",
+          "Czerwone kwiaty są w ogrodzie."
+        ],
+        "fa": [
+          "این گل خیلی زیبا است.",
+          "من به مادرم گل می‌دهم.",
+          "گل‌های قرمز در باغ هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_844_fa",
+      "word_index": 844,
+      "translations": {
+        "en": "plant",
+        "de": "Pflanze",
+        "ar": "نبات",
+        "fr": "plante",
+        "it": "pianta",
+        "ru": "растение",
+        "es": "planta",
+        "pl": "roślina",
+        "fa": "گیاه"
+      },
+      "examples": {
+        "en": [
+          "I have plants at home.",
+          "This plant needs water every day.",
+          "Green plants are very nice."
+        ],
+        "de": [
+          "Ich habe Pflanzen zu Hause.",
+          "Diese Pflanze braucht jeden Tag Wasser.",
+          "Grüne Pflanzen sind sehr schön."
+        ],
+        "ar": [
+          "لدي نباتات في المنزل.",
+          "هذا النبات يحتاج إلى الماء كل يوم.",
+          "النباتات الخضراء جميلة جداً."
+        ],
+        "fr": [
+          "J'ai des plantes à la maison.",
+          "Cette plante a besoin d'eau chaque jour.",
+          "Les plantes vertes sont très jolies."
+        ],
+        "it": [
+          "Ho piante a casa.",
+          "Questa pianta ha bisogno d'acqua ogni giorno.",
+          "Le piante verdi sono molto belle."
+        ],
+        "ru": [
+          "У меня дома есть растения.",
+          "Этому растению нужна вода каждый день.",
+          "Зелёные растения очень красивые."
+        ],
+        "es": [
+          "Tengo plantas en casa.",
+          "Esta planta necesita agua todos los días.",
+          "Las plantas verdes son muy bonitas."
+        ],
+        "pl": [
+          "Mam rośliny w domu.",
+          "Ta roślina potrzebuje wody codziennie.",
+          "Zielone rośliny są bardzo ładne."
+        ],
+        "fa": [
+          "من در خانه گیاه دارم.",
+          "این گیاه هر روز به آب نیاز دارد.",
+          "گیاهان سبز خیلی قشنگ هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_845_fa",
+      "word_index": 845,
+      "translations": {
+        "en": "grass",
+        "de": "Gras",
+        "ar": "عشب",
+        "fr": "herbe",
+        "it": "erba",
+        "ru": "трава",
+        "es": "hierba",
+        "pl": "trawa",
+        "fa": "علف"
+      },
+      "examples": {
+        "en": [
+          "The grass is green and soft.",
+          "I walk on the grass.",
+          "Children play on the grass."
+        ],
+        "de": [
+          "Das Gras ist grün und weich.",
+          "Ich gehe auf dem Gras.",
+          "Kinder spielen auf dem Gras."
+        ],
+        "ar": [
+          "العشب أخضر وناعم.",
+          "أمشي على العشب.",
+          "الأطفال يلعبون على العشب."
+        ],
+        "fr": [
+          "L'herbe est verte et douce.",
+          "Je marche sur l'herbe.",
+          "Les enfants jouent sur l'herbe."
+        ],
+        "it": [
+          "L'erba è verde e morbida.",
+          "Cammino sull'erba.",
+          "I bambini giocano sull'erba."
+        ],
+        "ru": [
+          "Трава зелёная и мягкая.",
+          "Я гуляю по траве.",
+          "Дети играют на траве."
+        ],
+        "es": [
+          "La hierba es verde y suave.",
+          "Camino sobre la hierba.",
+          "Los niños juegan en la hierba."
+        ],
+        "pl": [
+          "Trawa jest zielona i miękka.",
+          "Chodzę po trawie.",
+          "Dzieci bawią się na trawie."
+        ],
+        "fa": [
+          "علف سبز و نرم است.",
+          "من روی علف قدم می‌زنم.",
+          "بچه‌ها روی علف بازی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_846_fa",
+      "word_index": 846,
+      "translations": {
+        "en": "forest",
+        "de": "Wald",
+        "ar": "غابة",
+        "fr": "forêt",
+        "it": "foresta",
+        "ru": "лес",
+        "es": "bosque",
+        "pl": "las",
+        "fa": "جنگل"
+      },
+      "examples": {
+        "en": [
+          "We walk in the forest.",
+          "The forest is very green.",
+          "Many animals live in the forest."
+        ],
+        "de": [
+          "Wir gehen im Wald spazieren.",
+          "Der Wald ist sehr grün.",
+          "Viele Tiere leben im Wald."
+        ],
+        "ar": [
+          "نتمشى في الغابة.",
+          "الغابة خضراء جداً.",
+          "الكثير من الحيوانات تعيش في الغابة."
+        ],
+        "fr": [
+          "Nous marchons dans la forêt.",
+          "La forêt est très verte.",
+          "Beaucoup d'animaux vivent dans la forêt."
+        ],
+        "it": [
+          "Camminiamo nella foresta.",
+          "La foresta è molto verde.",
+          "Molti animali vivono nella foresta."
+        ],
+        "ru": [
+          "Мы гуляем в лесу.",
+          "Лес очень зелёный.",
+          "Много животных живёт в лесу."
+        ],
+        "es": [
+          "Caminamos en el bosque.",
+          "El bosque es muy verde.",
+          "Muchos animales viven en el bosque."
+        ],
+        "pl": [
+          "Chodzimy w lesie.",
+          "Las jest bardzo zielony.",
+          "Wiele zwierząt żyje w lesie."
+        ],
+        "fa": [
+          "ما در جنگل قدم می‌زنیم.",
+          "جنگل خیلی سبز است.",
+          "حیوانات زیادی در جنگل زندگی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_847_fa",
+      "word_index": 847,
+      "translations": {
+        "en": "mountain",
+        "de": "Berg",
+        "ar": "جبل",
+        "fr": "montagne",
+        "it": "montagna",
+        "ru": "гора",
+        "es": "montaña",
+        "pl": "góra",
+        "fa": "کوه"
+      },
+      "examples": {
+        "en": [
+          "The mountain is very high.",
+          "I see snow on the mountain.",
+          "We go to the mountains in summer."
+        ],
+        "de": [
+          "Der Berg ist sehr hoch.",
+          "Ich sehe Schnee auf dem Berg.",
+          "Wir fahren im Sommer in die Berge."
+        ],
+        "ar": [
+          "الجبل عالٍ جداً.",
+          "أرى الثلج على الجبل.",
+          "نذهب إلى الجبال في الصيف."
+        ],
+        "fr": [
+          "La montagne est très haute.",
+          "Je vois de la neige sur la montagne.",
+          "Nous allons à la montagne en été."
+        ],
+        "it": [
+          "La montagna è molto alta.",
+          "Vedo neve sulla montagna.",
+          "Andiamo in montagna in estate."
+        ],
+        "ru": [
+          "Гора очень высокая.",
+          "Я вижу снег на горе.",
+          "Мы едем в горы летом."
+        ],
+        "es": [
+          "La montaña es muy alta.",
+          "Veo nieve en la montaña.",
+          "Vamos a las montañas en verano."
+        ],
+        "pl": [
+          "Góra jest bardzo wysoka.",
+          "Widzę śnieg na górze.",
+          "Jedziemy w góry latem."
+        ],
+        "fa": [
+          "کوه خیلی بلند است.",
+          "من برف روی کوه می‌بینم.",
+          "ما در تابستان به کوه می‌رویم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_848_fa",
+      "word_index": 848,
+      "translations": {
+        "en": "river",
+        "de": "Fluss",
+        "ar": "نهر",
+        "fr": "rivière",
+        "it": "fiume",
+        "ru": "река",
+        "es": "río",
+        "pl": "rzeka",
+        "fa": "رودخانه"
+      },
+      "examples": {
+        "en": [
+          "The river is very long.",
+          "I swim in the river.",
+          "Fish live in the river."
+        ],
+        "de": [
+          "Der Fluss ist sehr lang.",
+          "Ich schwimme im Fluss.",
+          "Fische leben im Fluss."
+        ],
+        "ar": [
+          "النهر طويل جداً.",
+          "أسبح في النهر.",
+          "الأسماك تعيش في النهر."
+        ],
+        "fr": [
+          "La rivière est très longue.",
+          "Je nage dans la rivière.",
+          "Les poissons vivent dans la rivière."
+        ],
+        "it": [
+          "Il fiume è molto lungo.",
+          "Nuoto nel fiume.",
+          "I pesci vivono nel fiume."
+        ],
+        "ru": [
+          "Река очень длинная.",
+          "Я плаваю в реке.",
+          "Рыбы живут в реке."
+        ],
+        "es": [
+          "El río es muy largo.",
+          "Nado en el río.",
+          "Los peces viven en el río."
+        ],
+        "pl": [
+          "Rzeka jest bardzo długa.",
+          "Pływam w rzece.",
+          "Ryby żyją w rzece."
+        ],
+        "fa": [
+          "رودخانه خیلی بلند است.",
+          "من در رودخانه شنا می‌کنم.",
+          "ماهی‌ها در رودخانه زندگی می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_849_fa",
+      "word_index": 849,
+      "translations": {
+        "en": "lake",
+        "de": "See",
+        "ar": "بحيرة",
+        "fr": "lac",
+        "it": "lago",
+        "ru": "озеро",
+        "es": "lago",
+        "pl": "jezioro",
+        "fa": "دریاچه"
+      },
+      "examples": {
+        "en": [
+          "The lake is very clean.",
+          "We sit near the lake.",
+          "Birds fly over the lake."
+        ],
+        "de": [
+          "Der See ist sehr sauber.",
+          "Wir sitzen am See.",
+          "Vögel fliegen über den See."
+        ],
+        "ar": [
+          "البحيرة نظيفة جداً.",
+          "نجلس بالقرب من البحيرة.",
+          "الطيور تطير فوق البحيرة."
+        ],
+        "fr": [
+          "Le lac est très propre.",
+          "Nous sommes assis près du lac.",
+          "Les oiseaux volent au-dessus du lac."
+        ],
+        "it": [
+          "Il lago è molto pulito.",
+          "Sediamo vicino al lago.",
+          "Gli uccelli volano sopra il lago."
+        ],
+        "ru": [
+          "Озеро очень чистое.",
+          "Мы сидим у озера.",
+          "Птицы летают над озером."
+        ],
+        "es": [
+          "El lago es muy limpio.",
+          "Nos sentamos cerca del lago.",
+          "Los pájaros vuelan sobre el lago."
+        ],
+        "pl": [
+          "Jezioro jest bardzo czyste.",
+          "Siedzimy przy jeziorze.",
+          "Ptaki latają nad jeziorem."
+        ],
+        "fa": [
+          "دریاچه خیلی تمیز است.",
+          "ما نزدیک دریاچه می‌نشینیم.",
+          "پرنده‌ها بالای دریاچه پرواز می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_850_fa",
+      "word_index": 850,
+      "translations": {
+        "en": "sea",
+        "de": "Meer",
+        "ar": "بحر",
+        "fr": "mer",
+        "it": "mare",
+        "ru": "море",
+        "es": "mar",
+        "pl": "morze",
+        "fa": "دریا"
+      },
+      "examples": {
+        "en": [
+          "I love the blue sea.",
+          "We swim in the sea.",
+          "The sea is very big."
+        ],
+        "de": [
+          "Ich liebe das blaue Meer.",
+          "Wir schwimmen im Meer.",
+          "Das Meer ist sehr groß."
+        ],
+        "ar": [
+          "أحب البحر الأزرق.",
+          "نسبح في البحر.",
+          "البحر كبير جداً."
+        ],
+        "fr": [
+          "J'aime la mer bleue.",
+          "Nous nageons dans la mer.",
+          "La mer est très grande."
+        ],
+        "it": [
+          "Amo il mare blu.",
+          "Nuotiamo nel mare.",
+          "Il mare è molto grande."
+        ],
+        "ru": [
+          "Я люблю синее море.",
+          "Мы плаваем в море.",
+          "Море очень большое."
+        ],
+        "es": [
+          "Amo el mar azul.",
+          "Nadamos en el mar.",
+          "El mar es muy grande."
+        ],
+        "pl": [
+          "Kocham niebieskie morze.",
+          "Pływamy w morzu.",
+          "Morze jest bardzo duże."
+        ],
+        "fa": [
+          "من دریای آبی را دوست دارم.",
+          "ما در دریا شنا می‌کنیم.",
+          "دریا خیلی بزرگ است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_851_fa",
+      "word_index": 851,
+      "translations": {
+        "en": "beach",
+        "de": "Strand",
+        "ar": "شاطئ",
+        "fr": "plage",
+        "it": "spiaggia",
+        "ru": "пляж",
+        "es": "playa",
+        "pl": "plaża",
+        "fa": "ساحل"
+      },
+      "examples": {
+        "en": [
+          "I walk on the beach.",
+          "The beach is very clean.",
+          "We go to the beach in summer."
+        ],
+        "de": [
+          "Ich gehe am Strand spazieren.",
+          "Der Strand ist sehr sauber.",
+          "Wir gehen im Sommer zum Strand."
+        ],
+        "ar": [
+          "أمشي على الشاطئ.",
+          "الشاطئ نظيف جداً.",
+          "نذهب إلى الشاطئ في الصيف."
+        ],
+        "fr": [
+          "Je marche sur la plage.",
+          "La plage est très propre.",
+          "Nous allons à la plage en été."
+        ],
+        "it": [
+          "Cammino sulla spiaggia.",
+          "La spiaggia è molto pulita.",
+          "Andiamo in spiaggia in estate."
+        ],
+        "ru": [
+          "Я гуляю по пляжу.",
+          "Пляж очень чистый.",
+          "Мы ходим на пляж летом."
+        ],
+        "es": [
+          "Camino en la playa.",
+          "La playa es muy limpia.",
+          "Vamos a la playa en verano."
+        ],
+        "pl": [
+          "Chodzę po plaży.",
+          "Plaża jest bardzo czysta.",
+          "Jedziemy na plażę latem."
+        ],
+        "fa": [
+          "من روی ساحل قدم می‌زنم.",
+          "ساحل خیلی تمیز است.",
+          "ما در تابستان به ساحل می‌رویم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_852_fa",
+      "word_index": 852,
+      "translations": {
+        "en": "island",
+        "de": "Insel",
+        "ar": "جزيرة",
+        "fr": "île",
+        "it": "isola",
+        "ru": "остров",
+        "es": "isla",
+        "pl": "wyspa",
+        "fa": "جزیره"
+      },
+      "examples": {
+        "en": [
+          "The island is very beautiful.",
+          "I want to visit an island.",
+          "We live on a small island."
+        ],
+        "de": [
+          "Die Insel ist sehr schön.",
+          "Ich möchte eine Insel besuchen.",
+          "Wir leben auf einer kleinen Insel."
+        ],
+        "ar": [
+          "الجزيرة جميلة جداً.",
+          "أريد أن أزور جزيرة.",
+          "نعيش على جزيرة صغيرة."
+        ],
+        "fr": [
+          "L'île est très belle.",
+          "Je veux visiter une île.",
+          "Nous vivons sur une petite île."
+        ],
+        "it": [
+          "L'isola è molto bella.",
+          "Voglio visitare un'isola.",
+          "Viviamo su una piccola isola."
+        ],
+        "ru": [
+          "Остров очень красивый.",
+          "Я хочу посетить остров.",
+          "Мы живём на маленьком острове."
+        ],
+        "es": [
+          "La isla es muy hermosa.",
+          "Quiero visitar una isla.",
+          "Vivimos en una isla pequeña."
+        ],
+        "pl": [
+          "Wyspa jest bardzo piękna.",
+          "Chcę odwiedzić wyspę.",
+          "Mieszkamy na małej wyspie."
+        ],
+        "fa": [
+          "جزیره خیلی زیبا است.",
+          "من می‌خواهم یک جزیره را ببینم.",
+          "ما روی یک جزیره کوچک زندگی می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_853_fa",
+      "word_index": 853,
+      "translations": {
+        "en": "sky",
+        "de": "Himmel",
+        "ar": "سماء",
+        "fr": "ciel",
+        "it": "cielo",
+        "ru": "небо",
+        "es": "cielo",
+        "pl": "niebo",
+        "fa": "آسمان"
+      },
+      "examples": {
+        "en": [
+          "The sky is blue today.",
+          "I see clouds in the sky.",
+          "Birds fly in the sky."
+        ],
+        "de": [
+          "Der Himmel ist heute blau.",
+          "Ich sehe Wolken am Himmel.",
+          "Vögel fliegen am Himmel."
+        ],
+        "ar": [
+          "السماء زرقاء اليوم.",
+          "أرى غيوماً في السماء.",
+          "الطيور تطير في السماء."
+        ],
+        "fr": [
+          "Le ciel est bleu aujourd'hui.",
+          "Je vois des nuages dans le ciel.",
+          "Les oiseaux volent dans le ciel."
+        ],
+        "it": [
+          "Il cielo è blu oggi.",
+          "Vedo nuvole nel cielo.",
+          "Gli uccelli volano nel cielo."
+        ],
+        "ru": [
+          "Небо сегодня голубое.",
+          "Я вижу облака в небе.",
+          "Птицы летают в небе."
+        ],
+        "es": [
+          "El cielo está azul hoy.",
+          "Veo nubes en el cielo.",
+          "Los pájaros vuelan en el cielo."
+        ],
+        "pl": [
+          "Niebo jest niebieskie dzisiaj.",
+          "Widzę chmury na niebie.",
+          "Ptaki latają na niebie."
+        ],
+        "fa": [
+          "آسمان امروز آبی است.",
+          "من ابرها را در آسمان می‌بینم.",
+          "پرنده‌ها در آسمان پرواز می‌کنند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_854_fa",
+      "word_index": 854,
+      "translations": {
+        "en": "star",
+        "de": "Stern",
+        "ar": "نجم",
+        "fr": "étoile",
+        "it": "stella",
+        "ru": "звезда",
+        "es": "estrella",
+        "pl": "gwiazda",
+        "fa": "ستاره"
+      },
+      "examples": {
+        "en": [
+          "I see many stars at night.",
+          "The stars are very bright.",
+          "Stars shine in the sky."
+        ],
+        "de": [
+          "Ich sehe nachts viele Sterne.",
+          "Die Sterne sind sehr hell.",
+          "Sterne leuchten am Himmel."
+        ],
+        "ar": [
+          "أرى نجوماً كثيرة في الليل.",
+          "النجوم ساطعة جداً.",
+          "النجوم تلمع في السماء."
+        ],
+        "fr": [
+          "Je vois beaucoup d'étoiles la nuit.",
+          "Les étoiles sont très brillantes.",
+          "Les étoiles brillent dans le ciel."
+        ],
+        "it": [
+          "Vedo molte stelle di notte.",
+          "Le stelle sono molto luminose.",
+          "Le stelle brillano nel cielo."
+        ],
+        "ru": [
+          "Я вижу много звёзд ночью.",
+          "Звёзды очень яркие.",
+          "Звёзды сияют в небе."
+        ],
+        "es": [
+          "Veo muchas estrellas de noche.",
+          "Las estrellas son muy brillantes.",
+          "Las estrellas brillan en el cielo."
+        ],
+        "pl": [
+          "Widzę wiele gwiazd w nocy.",
+          "Gwiazdy są bardzo jasne.",
+          "Gwiazdy świecą na niebie."
+        ],
+        "fa": [
+          "من شب‌ها ستاره‌های زیادی می‌بینم.",
+          "ستاره‌ها خیلی روشن هستند.",
+          "ستاره‌ها در آسمان می‌درخشند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_855_fa",
+      "word_index": 855,
+      "translations": {
+        "en": "moon",
+        "de": "Mond",
+        "ar": "قمر",
+        "fr": "lune",
+        "it": "luna",
+        "ru": "луна",
+        "es": "luna",
+        "pl": "księżyc",
+        "fa": "ماه"
+      },
+      "examples": {
+        "en": [
+          "The moon is big tonight.",
+          "I see the moon in the sky.",
+          "The moon is very beautiful."
+        ],
+        "de": [
+          "Der Mond ist heute Nacht groß.",
+          "Ich sehe den Mond am Himmel.",
+          "Der Mond ist sehr schön."
+        ],
+        "ar": [
+          "القمر كبير الليلة.",
+          "أرى القمر في السماء.",
+          "القمر جميل جداً."
+        ],
+        "fr": [
+          "La lune est grande ce soir.",
+          "Je vois la lune dans le ciel.",
+          "La lune est très belle."
+        ],
+        "it": [
+          "La luna è grande stasera.",
+          "Vedo la luna nel cielo.",
+          "La luna è molto bella."
+        ],
+        "ru": [
+          "Луна большая сегодня вечером.",
+          "Я вижу луну в небе.",
+          "Луна очень красивая."
+        ],
+        "es": [
+          "La luna es grande esta noche.",
+          "Veo la luna en el cielo.",
+          "La luna es muy hermosa."
+        ],
+        "pl": [
+          "Księżyc jest duży dzisiaj wieczorem.",
+          "Widzę księżyc na niebie.",
+          "Księżyc jest bardzo piękny."
+        ],
+        "fa": [
+          "ماه امشب بزرگ است.",
+          "من ماه را در آسمان می‌بینم.",
+          "ماه خیلی زیبا است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_856_fa",
+      "word_index": 856,
+      "translations": {
+        "en": "sun",
+        "de": "Sonne",
+        "ar": "شمس",
+        "fr": "soleil",
+        "it": "sole",
+        "ru": "солнце",
+        "es": "sol",
+        "pl": "słońce",
+        "fa": "خورشید"
+      },
+      "examples": {
+        "en": [
+          "The sun is very hot today.",
+          "I see the sun in the morning.",
+          "The sun is yellow and bright."
+        ],
+        "de": [
+          "Die Sonne ist heute sehr heiß.",
+          "Ich sehe die Sonne am Morgen.",
+          "Die Sonne ist gelb und hell."
+        ],
+        "ar": [
+          "الشمس حارة جداً اليوم.",
+          "أرى الشمس في الصباح.",
+          "الشمس صفراء ومشرقة."
+        ],
+        "fr": [
+          "Le soleil est très chaud aujourd'hui.",
+          "Je vois le soleil le matin.",
+          "Le soleil est jaune et brillant."
+        ],
+        "it": [
+          "Il sole è molto caldo oggi.",
+          "Vedo il sole al mattino.",
+          "Il sole è giallo e luminoso."
+        ],
+        "ru": [
+          "Солнце сегодня очень жаркое.",
+          "Я вижу солнце утром.",
+          "Солнце жёлтое и яркое."
+        ],
+        "es": [
+          "El sol está muy caliente hoy.",
+          "Veo el sol en la mañana.",
+          "El sol es amarillo y brillante."
+        ],
+        "pl": [
+          "Słońce jest bardzo gorące dzisiaj.",
+          "Widzę słońce rano.",
+          "Słońce jest żółte i jasne."
+        ],
+        "fa": [
+          "خورشید امروز خیلی داغ است.",
+          "من صبح خورشید را می‌بینم.",
+          "خورشید زرد و روشن است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_857_fa",
+      "word_index": 857,
+      "translations": {
+        "en": "earth",
+        "de": "Erde",
+        "ar": "أرض",
+        "fr": "terre",
+        "it": "terra",
+        "ru": "земля",
+        "es": "tierra",
+        "pl": "ziemia",
+        "fa": "زمین"
+      },
+      "examples": {
+        "en": [
+          "We live on the earth.",
+          "The earth is very beautiful.",
+          "I walk on the earth every day."
+        ],
+        "de": [
+          "Wir leben auf der Erde.",
+          "Die Erde ist sehr schön.",
+          "Ich gehe jeden Tag auf der Erde."
+        ],
+        "ar": [
+          "نعيش على الأرض.",
+          "الأرض جميلة جداً.",
+          "أمشي على الأرض كل يوم."
+        ],
+        "fr": [
+          "Nous vivons sur la terre.",
+          "La terre est très belle.",
+          "Je marche sur la terre chaque jour."
+        ],
+        "it": [
+          "Viviamo sulla terra.",
+          "La terra è molto bella.",
+          "Cammino sulla terra ogni giorno."
+        ],
+        "ru": [
+          "Мы живём на земле.",
+          "Земля очень красивая.",
+          "Я хожу по земле каждый день."
+        ],
+        "es": [
+          "Vivimos en la tierra.",
+          "La tierra es muy hermosa.",
+          "Camino en la tierra todos los días."
+        ],
+        "pl": [
+          "Żyjemy na ziemi.",
+          "Ziemia jest bardzo piękna.",
+          "Chodzę po ziemi codziennie."
+        ],
+        "fa": [
+          "ما روی زمین زندگی می‌کنیم.",
+          "زمین خیلی زیبا است.",
+          "من هر روز روی زمین قدم می‌زنم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_858_fa",
+      "word_index": 858,
+      "translations": {
+        "en": "air",
+        "de": "Luft",
+        "ar": "هواء",
+        "fr": "air",
+        "it": "aria",
+        "ru": "воздух",
+        "es": "aire",
+        "pl": "powietrze",
+        "fa": "هوا"
+      },
+      "examples": {
+        "en": [
+          "I breathe fresh air.",
+          "The air is clean today.",
+          "We need air to live."
+        ],
+        "de": [
+          "Ich atme frische Luft.",
+          "Die Luft ist heute sauber.",
+          "Wir brauchen Luft zum Leben."
+        ],
+        "ar": [
+          "أتنفس الهواء النقي.",
+          "الهواء نظيف اليوم.",
+          "نحتاج إلى الهواء للعيش."
+        ],
+        "fr": [
+          "Je respire de l'air frais.",
+          "L'air est propre aujourd'hui.",
+          "Nous avons besoin d'air pour vivre."
+        ],
+        "it": [
+          "Respiro aria fresca.",
+          "L'aria è pulita oggi.",
+          "Abbiamo bisogno d'aria per vivere."
+        ],
+        "ru": [
+          "Я дышу свежим воздухом.",
+          "Воздух сегодня чистый.",
+          "Нам нужен воздух для жизни."
+        ],
+        "es": [
+          "Respiro aire fresco.",
+          "El aire está limpio hoy.",
+          "Necesitamos aire para vivir."
+        ],
+        "pl": [
+          "Oddycham świeżym powietrzem.",
+          "Powietrze jest czyste dzisiaj.",
+          "Potrzebujemy powietrza do życia."
+        ],
+        "fa": [
+          "من هوای تازه تنفس می‌کنم.",
+          "هوا امروز تمیز است.",
+          "ما برای زندگی به هوا نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_859_fa",
+      "word_index": 859,
+      "translations": {
+        "en": "water",
+        "de": "Wasser",
+        "ar": "ماء",
+        "fr": "eau",
+        "it": "acqua",
+        "ru": "вода",
+        "es": "agua",
+        "pl": "woda",
+        "fa": "آب"
+      },
+      "examples": {
+        "en": [
+          "I drink water every day.",
+          "The water is cold and clean.",
+          "We need water to live."
+        ],
+        "de": [
+          "Ich trinke jeden Tag Wasser.",
+          "Das Wasser ist kalt und sauber.",
+          "Wir brauchen Wasser zum Leben."
+        ],
+        "ar": [
+          "أشرب الماء كل يوم.",
+          "الماء بارد ونظيف.",
+          "نحتاج إلى الماء للعيش."
+        ],
+        "fr": [
+          "Je bois de l'eau tous les jours.",
+          "L'eau est froide et propre.",
+          "Nous avons besoin d'eau pour vivre."
+        ],
+        "it": [
+          "Bevo acqua ogni giorno.",
+          "L'acqua è fredda e pulita.",
+          "Abbiamo bisogno d'acqua per vivere."
+        ],
+        "ru": [
+          "Я пью воду каждый день.",
+          "Вода холодная и чистая.",
+          "Нам нужна вода для жизни."
+        ],
+        "es": [
+          "Bebo agua todos los días.",
+          "El agua está fría y limpia.",
+          "Necesitamos agua para vivir."
+        ],
+        "pl": [
+          "Piję wodę codziennie.",
+          "Woda jest zimna i czysta.",
+          "Potrzebujemy wody do życia."
+        ],
+        "fa": [
+          "من هر روز آب می‌نوشم.",
+          "آب سرد و تمیز است.",
+          "ما برای زندگی به آب نیاز داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_860_fa",
+      "word_index": 860,
+      "translations": {
+        "en": "fire",
+        "de": "Feuer",
+        "ar": "نار",
+        "fr": "feu",
+        "it": "fuoco",
+        "ru": "огонь",
+        "es": "fuego",
+        "pl": "ogień",
+        "fa": "آتش"
+      },
+      "examples": {
+        "en": [
+          "The fire is very hot.",
+          "I see red fire at night.",
+          "Fire gives us light and warmth."
+        ],
+        "de": [
+          "Das Feuer ist sehr heiß.",
+          "Ich sehe nachts rotes Feuer.",
+          "Feuer gibt uns Licht und Wärme."
+        ],
+        "ar": [
+          "النار حارة جداً.",
+          "أرى ناراً حمراء في الليل.",
+          "النار تعطينا الضوء والدفء."
+        ],
+        "fr": [
+          "Le feu est très chaud.",
+          "Je vois du feu rouge la nuit.",
+          "Le feu nous donne lumière et chaleur."
+        ],
+        "it": [
+          "Il fuoco è molto caldo.",
+          "Vedo fuoco rosso di notte.",
+          "Il fuoco ci dà luce e calore."
+        ],
+        "ru": [
+          "Огонь очень горячий.",
+          "Я вижу красный огонь ночью.",
+          "Огонь даёт нам свет и тепло."
+        ],
+        "es": [
+          "El fuego es muy caliente.",
+          "Veo fuego rojo de noche.",
+          "El fuego nos da luz y calor."
+        ],
+        "pl": [
+          "Ogień jest bardzo gorący.",
+          "Widzę czerwony ogień w nocy.",
+          "Ogień daje nam światło i ciepło."
+        ],
+        "fa": [
+          "آتش خیلی داغ است.",
+          "من شب آتش قرمز می‌بینم.",
+          "آتش به ما نور و گرما می‌دهد."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1236 @@
+{
+  "metadata": {
+    "batch": 28,
+    "word_range": "541-560",
+    "total_words": 20,
+    "proficiency_level": "A2",
+    "target_language": "fa",
+    "theme": "Shopping and Money",
+    "generation_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"],
+    "examples_per_language": 3,
+    "i_plus_1_ratio": "75% A1 + 25% A2"
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_541_fa",
+      "translations": {
+        "en": "to buy",
+        "de": "kaufen",
+        "ar": "يشتري",
+        "fr": "acheter",
+        "it": "comprare",
+        "ru": "покупать",
+        "es": "comprar",
+        "pl": "kupować",
+        "fa": "خریدن"
+      },
+      "examples": {
+        "en": [
+          "I want to buy a new phone.",
+          "She buys food at the market.",
+          "Can I buy this shirt?"
+        ],
+        "de": [
+          "Ich möchte ein neues Handy kaufen.",
+          "Sie kauft Essen auf dem Markt.",
+          "Kann ich dieses Hemd kaufen?"
+        ],
+        "ar": [
+          "أريد أن أشتري هاتفاً جديداً.",
+          "هي تشتري الطعام في السوق.",
+          "هل يمكنني شراء هذا القميص؟"
+        ],
+        "fr": [
+          "Je veux acheter un nouveau téléphone.",
+          "Elle achète de la nourriture au marché.",
+          "Puis-je acheter cette chemise ?"
+        ],
+        "it": [
+          "Voglio comprare un nuovo telefono.",
+          "Lei compra il cibo al mercato.",
+          "Posso comprare questa camicia?"
+        ],
+        "ru": [
+          "Я хочу купить новый телефон.",
+          "Она покупает еду на рынке.",
+          "Могу я купить эту рубашку?"
+        ],
+        "es": [
+          "Quiero comprar un teléfono nuevo.",
+          "Ella compra comida en el mercado.",
+          "¿Puedo comprar esta camisa?"
+        ],
+        "pl": [
+          "Chcę kupić nowy telefon.",
+          "Ona kupuje jedzenie na rynku.",
+          "Czy mogę kupić tę koszulę?"
+        ],
+        "fa": [
+          "من می‌خواهم یک تلفن جدید بخرم.",
+          "او غذا در بازار می‌خرد.",
+          "آیا می‌توانم این پیراهن را بخرم؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_542_fa",
+      "translations": {
+        "en": "to sell",
+        "de": "verkaufen",
+        "ar": "يبيع",
+        "fr": "vendre",
+        "it": "vendere",
+        "ru": "продавать",
+        "es": "vender",
+        "pl": "sprzedawać",
+        "fa": "فروختن"
+      },
+      "examples": {
+        "en": [
+          "They sell fresh vegetables.",
+          "I want to sell my old car.",
+          "This shop sells good coffee."
+        ],
+        "de": [
+          "Sie verkaufen frisches Gemüse.",
+          "Ich möchte mein altes Auto verkaufen.",
+          "Dieser Laden verkauft guten Kaffee."
+        ],
+        "ar": [
+          "يبيعون خضروات طازجة.",
+          "أريد أن أبيع سيارتي القديمة.",
+          "يبيع هذا المتجر قهوة جيدة."
+        ],
+        "fr": [
+          "Ils vendent des légumes frais.",
+          "Je veux vendre ma vieille voiture.",
+          "Ce magasin vend du bon café."
+        ],
+        "it": [
+          "Vendono verdure fresche.",
+          "Voglio vendere la mia vecchia auto.",
+          "Questo negozio vende buon caffè."
+        ],
+        "ru": [
+          "Они продают свежие овощи.",
+          "Я хочу продать свою старую машину.",
+          "Этот магазин продаёт хороший кофе."
+        ],
+        "es": [
+          "Venden verduras frescas.",
+          "Quiero vender mi coche viejo.",
+          "Esta tienda vende buen café."
+        ],
+        "pl": [
+          "Sprzedają świeże warzywa.",
+          "Chcę sprzedać mój stary samochód.",
+          "Ten sklep sprzedaje dobrą kawę."
+        ],
+        "fa": [
+          "آن‌ها سبزیجات تازه می‌فروشند.",
+          "من می‌خواهم ماشین قدیمی‌ام را بفروشم.",
+          "این مغازه قهوه خوب می‌فروشد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_543_fa",
+      "translations": {
+        "en": "to pay",
+        "de": "bezahlen",
+        "ar": "يدفع",
+        "fr": "payer",
+        "it": "pagare",
+        "ru": "платить",
+        "es": "pagar",
+        "pl": "płacić",
+        "fa": "پرداخت کردن"
+      },
+      "examples": {
+        "en": [
+          "I need to pay the bill.",
+          "Can I pay with a card?",
+          "She pays rent every month."
+        ],
+        "de": [
+          "Ich muss die Rechnung bezahlen.",
+          "Kann ich mit Karte bezahlen?",
+          "Sie bezahlt jeden Monat Miete."
+        ],
+        "ar": [
+          "أحتاج أن أدفع الفاتورة.",
+          "هل يمكنني الدفع ببطاقة؟",
+          "تدفع الإيجار كل شهر."
+        ],
+        "fr": [
+          "Je dois payer la facture.",
+          "Puis-je payer par carte ?",
+          "Elle paie le loyer chaque mois."
+        ],
+        "it": [
+          "Devo pagare il conto.",
+          "Posso pagare con la carta?",
+          "Lei paga l'affitto ogni mese."
+        ],
+        "ru": [
+          "Мне нужно оплатить счёт.",
+          "Могу я заплатить картой?",
+          "Она платит за квартиру каждый месяц."
+        ],
+        "es": [
+          "Necesito pagar la cuenta.",
+          "¿Puedo pagar con tarjeta?",
+          "Ella paga el alquiler cada mes."
+        ],
+        "pl": [
+          "Muszę zapłacić rachunek.",
+          "Czy mogę zapłacić kartą?",
+          "Ona płaci czynsz co miesiąc."
+        ],
+        "fa": [
+          "من باید صورت‌حساب را پرداخت کنم.",
+          "آیا می‌توانم با کارت پرداخت کنم؟",
+          "او هر ماه اجاره را پرداخت می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_544_fa",
+      "translations": {
+        "en": "to cost",
+        "de": "kosten",
+        "ar": "يكلف",
+        "fr": "coûter",
+        "it": "costare",
+        "ru": "стоить",
+        "es": "costar",
+        "pl": "kosztować",
+        "fa": "هزینه داشتن"
+      },
+      "examples": {
+        "en": [
+          "How much does this cost?",
+          "The book costs ten dollars.",
+          "That house costs too much."
+        ],
+        "de": [
+          "Wie viel kostet das?",
+          "Das Buch kostet zehn Dollar.",
+          "Dieses Haus kostet zu viel."
+        ],
+        "ar": [
+          "كم يكلف هذا؟",
+          "يكلف الكتاب عشرة دولارات.",
+          "يكلف ذلك المنزل الكثير."
+        ],
+        "fr": [
+          "Combien ça coûte ?",
+          "Le livre coûte dix dollars.",
+          "Cette maison coûte trop cher."
+        ],
+        "it": [
+          "Quanto costa questo?",
+          "Il libro costa dieci dollari.",
+          "Quella casa costa troppo."
+        ],
+        "ru": [
+          "Сколько это стоит?",
+          "Книга стоит десять долларов.",
+          "Этот дом стоит слишком дорого."
+        ],
+        "es": [
+          "¿Cuánto cuesta esto?",
+          "El libro cuesta diez dólares.",
+          "Esa casa cuesta demasiado."
+        ],
+        "pl": [
+          "Ile to kosztuje?",
+          "Książka kosztuje dziesięć dolarów.",
+          "Ten dom kosztuje za dużo."
+        ],
+        "fa": [
+          "این چقدر هزینه دارد؟",
+          "کتاب ده دلار هزینه دارد.",
+          "آن خانه خیلی هزینه دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_545_fa",
+      "translations": {
+        "en": "to spend",
+        "de": "ausgeben",
+        "ar": "ينفق",
+        "fr": "dépenser",
+        "it": "spendere",
+        "ru": "тратить",
+        "es": "gastar",
+        "pl": "wydawać",
+        "fa": "خرج کردن"
+      },
+      "examples": {
+        "en": [
+          "I spend money on food.",
+          "She spends time with her family.",
+          "Don't spend too much today."
+        ],
+        "de": [
+          "Ich gebe Geld für Essen aus.",
+          "Sie verbringt Zeit mit ihrer Familie.",
+          "Gib heute nicht zu viel aus."
+        ],
+        "ar": [
+          "أنفق المال على الطعام.",
+          "تقضي الوقت مع عائلتها.",
+          "لا تنفق الكثير اليوم."
+        ],
+        "fr": [
+          "Je dépense de l'argent pour la nourriture.",
+          "Elle passe du temps avec sa famille.",
+          "Ne dépense pas trop aujourd'hui."
+        ],
+        "it": [
+          "Spendo soldi per il cibo.",
+          "Lei passa tempo con la sua famiglia.",
+          "Non spendere troppo oggi."
+        ],
+        "ru": [
+          "Я трачу деньги на еду.",
+          "Она проводит время с семьёй.",
+          "Не трать слишком много сегодня."
+        ],
+        "es": [
+          "Gasto dinero en comida.",
+          "Ella pasa tiempo con su familia.",
+          "No gastes demasiado hoy."
+        ],
+        "pl": [
+          "Wydaję pieniądze na jedzenie.",
+          "Ona spędza czas z rodziną.",
+          "Nie wydawaj za dużo dzisiaj."
+        ],
+        "fa": [
+          "من پول برای غذا خرج می‌کنم.",
+          "او با خانواده‌اش وقت می‌گذراند.",
+          "امروز خیلی خرج نکن."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_546_fa",
+      "translations": {
+        "en": "to save",
+        "de": "sparen",
+        "ar": "يوفر",
+        "fr": "économiser",
+        "it": "risparmiare",
+        "ru": "экономить",
+        "es": "ahorrar",
+        "pl": "oszczędzać",
+        "fa": "پس‌انداز کردن"
+      },
+      "examples": {
+        "en": [
+          "I save money every month.",
+          "She wants to save for a car.",
+          "We need to save water."
+        ],
+        "de": [
+          "Ich spare jeden Monat Geld.",
+          "Sie möchte für ein Auto sparen.",
+          "Wir müssen Wasser sparen."
+        ],
+        "ar": [
+          "أوفر المال كل شهر.",
+          "تريد أن توفر لسيارة.",
+          "نحتاج أن نوفر الماء."
+        ],
+        "fr": [
+          "J'économise de l'argent chaque mois.",
+          "Elle veut économiser pour une voiture.",
+          "Nous devons économiser l'eau."
+        ],
+        "it": [
+          "Risparmio soldi ogni mese.",
+          "Lei vuole risparmiare per un'auto.",
+          "Dobbiamo risparmiare l'acqua."
+        ],
+        "ru": [
+          "Я экономлю деньги каждый месяц.",
+          "Она хочет накопить на машину.",
+          "Нам нужно экономить воду."
+        ],
+        "es": [
+          "Ahorro dinero cada mes.",
+          "Ella quiere ahorrar para un coche.",
+          "Necesitamos ahorrar agua."
+        ],
+        "pl": [
+          "Oszczędzam pieniądze każdego miesiąca.",
+          "Ona chce oszczędzać na samochód.",
+          "Musimy oszczędzać wodę."
+        ],
+        "fa": [
+          "من هر ماه پول پس‌انداز می‌کنم.",
+          "او می‌خواهد برای ماشین پس‌انداز کند.",
+          "ما باید آب را ذخیره کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_547_fa",
+      "translations": {
+        "en": "to earn",
+        "de": "verdienen",
+        "ar": "يكسب",
+        "fr": "gagner",
+        "it": "guadagnare",
+        "ru": "зарабатывать",
+        "es": "ganar",
+        "pl": "zarabiać",
+        "fa": "به دست آوردن"
+      },
+      "examples": {
+        "en": [
+          "I earn money at work.",
+          "She earns a good salary.",
+          "He wants to earn more."
+        ],
+        "de": [
+          "Ich verdiene Geld bei der Arbeit.",
+          "Sie verdient ein gutes Gehalt.",
+          "Er möchte mehr verdienen."
+        ],
+        "ar": [
+          "أكسب المال في العمل.",
+          "تكسب راتباً جيداً.",
+          "يريد أن يكسب المزيد."
+        ],
+        "fr": [
+          "Je gagne de l'argent au travail.",
+          "Elle gagne un bon salaire.",
+          "Il veut gagner plus."
+        ],
+        "it": [
+          "Guadagno soldi al lavoro.",
+          "Lei guadagna un buon stipendio.",
+          "Lui vuole guadagnare di più."
+        ],
+        "ru": [
+          "Я зарабатываю деньги на работе.",
+          "Она зарабатывает хорошую зарплату.",
+          "Он хочет зарабатывать больше."
+        ],
+        "es": [
+          "Gano dinero en el trabajo.",
+          "Ella gana un buen salario.",
+          "Él quiere ganar más."
+        ],
+        "pl": [
+          "Zarabiam pieniądze w pracy.",
+          "Ona zarabia dobrą pensję.",
+          "On chce zarabiać więcej."
+        ],
+        "fa": [
+          "من در محل کار پول به دست می‌آورم.",
+          "او حقوق خوبی به دست می‌آورد.",
+          "او می‌خواهد بیشتر به دست آورد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_548_fa",
+      "translations": {
+        "en": "to work",
+        "de": "arbeiten",
+        "ar": "يعمل",
+        "fr": "travailler",
+        "it": "lavorare",
+        "ru": "работать",
+        "es": "trabajar",
+        "pl": "pracować",
+        "fa": "کار کردن"
+      },
+      "examples": {
+        "en": [
+          "I work five days a week.",
+          "She works in a hospital.",
+          "Do you work on weekends?"
+        ],
+        "de": [
+          "Ich arbeite fünf Tage die Woche.",
+          "Sie arbeitet in einem Krankenhaus.",
+          "Arbeitest du am Wochenende?"
+        ],
+        "ar": [
+          "أعمل خمسة أيام في الأسبوع.",
+          "تعمل في مستشفى.",
+          "هل تعمل في عطلة نهاية الأسبوع؟"
+        ],
+        "fr": [
+          "Je travaille cinq jours par semaine.",
+          "Elle travaille dans un hôpital.",
+          "Tu travailles le week-end ?"
+        ],
+        "it": [
+          "Lavoro cinque giorni alla settimana.",
+          "Lei lavora in un ospedale.",
+          "Lavori nel fine settimana?"
+        ],
+        "ru": [
+          "Я работаю пять дней в неделю.",
+          "Она работает в больнице.",
+          "Ты работаешь по выходным?"
+        ],
+        "es": [
+          "Trabajo cinco días a la semana.",
+          "Ella trabaja en un hospital.",
+          "¿Trabajas los fines de semana?"
+        ],
+        "pl": [
+          "Pracuję pięć dni w tygodniu.",
+          "Ona pracuje w szpitalu.",
+          "Czy pracujesz w weekendy?"
+        ],
+        "fa": [
+          "من پنج روز در هفته کار می‌کنم.",
+          "او در بیمارستان کار می‌کند.",
+          "آیا در آخر هفته کار می‌کنی؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_549_fa",
+      "translations": {
+        "en": "work",
+        "de": "Arbeit",
+        "ar": "عمل",
+        "fr": "travail",
+        "it": "lavoro",
+        "ru": "работа",
+        "es": "trabajo",
+        "pl": "praca",
+        "fa": "کار"
+      },
+      "examples": {
+        "en": [
+          "I go to work by bus.",
+          "My work starts at nine.",
+          "She likes her work very much."
+        ],
+        "de": [
+          "Ich fahre mit dem Bus zur Arbeit.",
+          "Meine Arbeit beginnt um neun.",
+          "Sie mag ihre Arbeit sehr."
+        ],
+        "ar": [
+          "أذهب إلى العمل بالحافلة.",
+          "يبدأ عملي في التاسعة.",
+          "تحب عملها كثيراً."
+        ],
+        "fr": [
+          "Je vais au travail en bus.",
+          "Mon travail commence à neuf heures.",
+          "Elle aime beaucoup son travail."
+        ],
+        "it": [
+          "Vado al lavoro in autobus.",
+          "Il mio lavoro inizia alle nove.",
+          "Le piace molto il suo lavoro."
+        ],
+        "ru": [
+          "Я езжу на работу на автобусе.",
+          "Моя работа начинается в девять.",
+          "Ей очень нравится её работа."
+        ],
+        "es": [
+          "Voy al trabajo en autobús.",
+          "Mi trabajo empieza a las nueve.",
+          "A ella le gusta mucho su trabajo."
+        ],
+        "pl": [
+          "Jadę do pracy autobusem.",
+          "Moja praca zaczyna się o dziewiątej.",
+          "Ona bardzo lubi swoją pracę."
+        ],
+        "fa": [
+          "من با اتوبوس به سر کار می‌روم.",
+          "کار من ساعت نه شروع می‌شود.",
+          "او کارش را خیلی دوست دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_550_fa",
+      "translations": {
+        "en": "money",
+        "de": "Geld",
+        "ar": "مال",
+        "fr": "argent",
+        "it": "soldi",
+        "ru": "деньги",
+        "es": "dinero",
+        "pl": "pieniądze",
+        "fa": "پول"
+      },
+      "examples": {
+        "en": [
+          "I need some money today.",
+          "She saves money every month.",
+          "Money is important for life."
+        ],
+        "de": [
+          "Ich brauche heute etwas Geld.",
+          "Sie spart jeden Monat Geld.",
+          "Geld ist wichtig für das Leben."
+        ],
+        "ar": [
+          "أحتاج بعض المال اليوم.",
+          "توفر المال كل شهر.",
+          "المال مهم للحياة."
+        ],
+        "fr": [
+          "J'ai besoin d'argent aujourd'hui.",
+          "Elle économise de l'argent chaque mois.",
+          "L'argent est important pour la vie."
+        ],
+        "it": [
+          "Ho bisogno di soldi oggi.",
+          "Lei risparmia soldi ogni mese.",
+          "I soldi sono importanti per la vita."
+        ],
+        "ru": [
+          "Мне нужны деньги сегодня.",
+          "Она экономит деньги каждый месяц.",
+          "Деньги важны для жизни."
+        ],
+        "es": [
+          "Necesito dinero hoy.",
+          "Ella ahorra dinero cada mes.",
+          "El dinero es importante para la vida."
+        ],
+        "pl": [
+          "Potrzebuję dzisiaj pieniędzy.",
+          "Ona oszczędza pieniądze każdego miesiąca.",
+          "Pieniądze są ważne w życiu."
+        ],
+        "fa": [
+          "من امروز به پول نیاز دارم.",
+          "او هر ماه پول پس‌انداز می‌کند.",
+          "پول برای زندگی مهم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_551_fa",
+      "translations": {
+        "en": "price",
+        "de": "Preis",
+        "ar": "سعر",
+        "fr": "prix",
+        "it": "prezzo",
+        "ru": "цена",
+        "es": "precio",
+        "pl": "cena",
+        "fa": "قیمت"
+      },
+      "examples": {
+        "en": [
+          "What is the price today?",
+          "The price is very high.",
+          "I like the price here."
+        ],
+        "de": [
+          "Was ist der Preis heute?",
+          "Der Preis ist sehr hoch.",
+          "Ich mag den Preis hier."
+        ],
+        "ar": [
+          "ما هو السعر اليوم؟",
+          "السعر مرتفع جداً.",
+          "أحب السعر هنا."
+        ],
+        "fr": [
+          "Quel est le prix aujourd'hui ?",
+          "Le prix est très élevé.",
+          "J'aime le prix ici."
+        ],
+        "it": [
+          "Qual è il prezzo oggi?",
+          "Il prezzo è molto alto.",
+          "Mi piace il prezzo qui."
+        ],
+        "ru": [
+          "Какая цена сегодня?",
+          "Цена очень высокая.",
+          "Мне нравится цена здесь."
+        ],
+        "es": [
+          "¿Cuál es el precio hoy?",
+          "El precio es muy alto.",
+          "Me gusta el precio aquí."
+        ],
+        "pl": [
+          "Jaka jest cena dzisiaj?",
+          "Cena jest bardzo wysoka.",
+          "Podoba mi się cena tutaj."
+        ],
+        "fa": [
+          "قیمت امروز چقدر است؟",
+          "قیمت خیلی بالا است.",
+          "من قیمت اینجا را دوست دارم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_552_fa",
+      "translations": {
+        "en": "free",
+        "de": "kostenlos",
+        "ar": "مجاني",
+        "fr": "gratuit",
+        "it": "gratis",
+        "ru": "бесплатный",
+        "es": "gratis",
+        "pl": "darmowy",
+        "fa": "رایگان"
+      },
+      "examples": {
+        "en": [
+          "This book is free today.",
+          "I got a free coffee.",
+          "The museum is free on Sundays."
+        ],
+        "de": [
+          "Dieses Buch ist heute kostenlos.",
+          "Ich habe einen kostenlosen Kaffee bekommen.",
+          "Das Museum ist sonntags kostenlos."
+        ],
+        "ar": [
+          "هذا الكتاب مجاني اليوم.",
+          "حصلت على قهوة مجانية.",
+          "المتحف مجاني أيام الآحاد."
+        ],
+        "fr": [
+          "Ce livre est gratuit aujourd'hui.",
+          "J'ai eu un café gratuit.",
+          "Le musée est gratuit le dimanche."
+        ],
+        "it": [
+          "Questo libro è gratis oggi.",
+          "Ho ricevuto un caffè gratis.",
+          "Il museo è gratis la domenica."
+        ],
+        "ru": [
+          "Эта книга бесплатная сегодня.",
+          "Я получил бесплатный кофе.",
+          "Музей бесплатный по воскресеньям."
+        ],
+        "es": [
+          "Este libro es gratis hoy.",
+          "Recibí un café gratis.",
+          "El museo es gratis los domingos."
+        ],
+        "pl": [
+          "Ta książka jest dzisiaj darmowa.",
+          "Dostałem darmową kawę.",
+          "Muzeum jest darmowe w niedziele."
+        ],
+        "fa": [
+          "این کتاب امروز رایگان است.",
+          "من یک قهوه رایگان گرفتم.",
+          "موزه یکشنبه‌ها رایگان است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_553_fa",
+      "translations": {
+        "en": "cheap",
+        "de": "billig",
+        "ar": "رخيص",
+        "fr": "bon marché",
+        "it": "economico",
+        "ru": "дешёвый",
+        "es": "barato",
+        "pl": "tani",
+        "fa": "ارزان"
+      },
+      "examples": {
+        "en": [
+          "This shop is very cheap.",
+          "I found a cheap hotel.",
+          "The food here is cheap."
+        ],
+        "de": [
+          "Dieser Laden ist sehr billig.",
+          "Ich habe ein billiges Hotel gefunden.",
+          "Das Essen hier ist billig."
+        ],
+        "ar": [
+          "هذا المتجر رخيص جداً.",
+          "وجدت فندقاً رخيصاً.",
+          "الطعام هنا رخيص."
+        ],
+        "fr": [
+          "Ce magasin est très bon marché.",
+          "J'ai trouvé un hôtel bon marché.",
+          "La nourriture ici est bon marché."
+        ],
+        "it": [
+          "Questo negozio è molto economico.",
+          "Ho trovato un hotel economico.",
+          "Il cibo qui è economico."
+        ],
+        "ru": [
+          "Этот магазин очень дешёвый.",
+          "Я нашёл дешёвый отель.",
+          "Еда здесь дешёвая."
+        ],
+        "es": [
+          "Esta tienda es muy barata.",
+          "Encontré un hotel barato.",
+          "La comida aquí es barata."
+        ],
+        "pl": [
+          "Ten sklep jest bardzo tani.",
+          "Znalazłem tani hotel.",
+          "Jedzenie tutaj jest tanie."
+        ],
+        "fa": [
+          "این مغازه خیلی ارزان است.",
+          "من یک هتل ارزان پیدا کردم.",
+          "غذا اینجا ارزان است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_554_fa",
+      "translations": {
+        "en": "expensive",
+        "de": "teuer",
+        "ar": "غالي",
+        "fr": "cher",
+        "it": "costoso",
+        "ru": "дорогой",
+        "es": "caro",
+        "pl": "drogi",
+        "fa": "گران"
+      },
+      "examples": {
+        "en": [
+          "That car is too expensive.",
+          "This restaurant is very expensive.",
+          "I don't buy expensive clothes."
+        ],
+        "de": [
+          "Dieses Auto ist zu teuer.",
+          "Dieses Restaurant ist sehr teuer.",
+          "Ich kaufe keine teure Kleidung."
+        ],
+        "ar": [
+          "تلك السيارة غالية جداً.",
+          "هذا المطعم غالٍ جداً.",
+          "لا أشتري ملابس غالية."
+        ],
+        "fr": [
+          "Cette voiture est trop chère.",
+          "Ce restaurant est très cher.",
+          "Je n'achète pas de vêtements chers."
+        ],
+        "it": [
+          "Quella macchina è troppo costosa.",
+          "Questo ristorante è molto costoso.",
+          "Non compro vestiti costosi."
+        ],
+        "ru": [
+          "Эта машина слишком дорогая.",
+          "Этот ресторан очень дорогой.",
+          "Я не покупаю дорогую одежду."
+        ],
+        "es": [
+          "Ese coche es demasiado caro.",
+          "Este restaurante es muy caro.",
+          "No compro ropa cara."
+        ],
+        "pl": [
+          "Ten samochód jest za drogi.",
+          "Ta restauracja jest bardzo droga.",
+          "Nie kupuję drogich ubrań."
+        ],
+        "fa": [
+          "آن ماشین خیلی گران است.",
+          "این رستوران خیلی گران است.",
+          "من لباس گران نمی‌خرم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_555_fa",
+      "translations": {
+        "en": "store",
+        "de": "Geschäft",
+        "ar": "متجر",
+        "fr": "magasin",
+        "it": "negozio",
+        "ru": "магазин",
+        "es": "tienda",
+        "pl": "sklep",
+        "fa": "فروشگاه"
+      },
+      "examples": {
+        "en": [
+          "I go to the store today.",
+          "The store opens at nine.",
+          "This store sells good bread."
+        ],
+        "de": [
+          "Ich gehe heute zum Geschäft.",
+          "Das Geschäft öffnet um neun.",
+          "Dieses Geschäft verkauft gutes Brot."
+        ],
+        "ar": [
+          "أذهب إلى المتجر اليوم.",
+          "يفتح المتجر في التاسعة.",
+          "يبيع هذا المتجر خبزاً جيداً."
+        ],
+        "fr": [
+          "Je vais au magasin aujourd'hui.",
+          "Le magasin ouvre à neuf heures.",
+          "Ce magasin vend du bon pain."
+        ],
+        "it": [
+          "Vado al negozio oggi.",
+          "Il negozio apre alle nove.",
+          "Questo negozio vende buon pane."
+        ],
+        "ru": [
+          "Я иду в магазин сегодня.",
+          "Магазин открывается в девять.",
+          "Этот магазин продаёт хороший хлеб."
+        ],
+        "es": [
+          "Voy a la tienda hoy.",
+          "La tienda abre a las nueve.",
+          "Esta tienda vende buen pan."
+        ],
+        "pl": [
+          "Idę do sklepu dzisiaj.",
+          "Sklep otwiera się o dziewiątej.",
+          "Ten sklep sprzedaje dobry chleb."
+        ],
+        "fa": [
+          "من امروز به فروشگاه می‌روم.",
+          "فروشگاه ساعت نه باز می‌شود.",
+          "این فروشگاه نان خوب می‌فروشد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_556_fa",
+      "translations": {
+        "en": "shop",
+        "de": "Laden",
+        "ar": "محل",
+        "fr": "boutique",
+        "it": "negozio",
+        "ru": "лавка",
+        "es": "comercio",
+        "pl": "sklep",
+        "fa": "مغازه"
+      },
+      "examples": {
+        "en": [
+          "There is a small shop here.",
+          "I like this coffee shop.",
+          "The shop closes at six."
+        ],
+        "de": [
+          "Hier gibt es einen kleinen Laden.",
+          "Ich mag dieses Café.",
+          "Der Laden schließt um sechs."
+        ],
+        "ar": [
+          "يوجد محل صغير هنا.",
+          "أحب هذا المقهى.",
+          "يغلق المحل في السادسة."
+        ],
+        "fr": [
+          "Il y a une petite boutique ici.",
+          "J'aime ce café.",
+          "La boutique ferme à six heures."
+        ],
+        "it": [
+          "C'è un piccolo negozio qui.",
+          "Mi piace questo bar.",
+          "Il negozio chiude alle sei."
+        ],
+        "ru": [
+          "Здесь есть маленький магазин.",
+          "Мне нравится эта кофейня.",
+          "Магазин закрывается в шесть."
+        ],
+        "es": [
+          "Hay un pequeño comercio aquí.",
+          "Me gusta esta cafetería.",
+          "El comercio cierra a las seis."
+        ],
+        "pl": [
+          "Jest tutaj mały sklep.",
+          "Lubię tę kawiarnię.",
+          "Sklep zamyka się o szóstej."
+        ],
+        "fa": [
+          "اینجا یک مغازه کوچک هست.",
+          "من این کافه را دوست دارم.",
+          "مغازه ساعت شش بسته می‌شود."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_557_fa",
+      "translations": {
+        "en": "market",
+        "de": "Markt",
+        "ar": "سوق",
+        "fr": "marché",
+        "it": "mercato",
+        "ru": "рынок",
+        "es": "mercado",
+        "pl": "rynek",
+        "fa": "بازار"
+      },
+      "examples": {
+        "en": [
+          "I buy food at the market.",
+          "The market is open today.",
+          "She goes to the market weekly."
+        ],
+        "de": [
+          "Ich kaufe Essen auf dem Markt.",
+          "Der Markt ist heute geöffnet.",
+          "Sie geht wöchentlich zum Markt."
+        ],
+        "ar": [
+          "أشتري الطعام في السوق.",
+          "السوق مفتوح اليوم.",
+          "تذهب إلى السوق أسبوعياً."
+        ],
+        "fr": [
+          "J'achète de la nourriture au marché.",
+          "Le marché est ouvert aujourd'hui.",
+          "Elle va au marché chaque semaine."
+        ],
+        "it": [
+          "Compro il cibo al mercato.",
+          "Il mercato è aperto oggi.",
+          "Lei va al mercato settimanalmente."
+        ],
+        "ru": [
+          "Я покупаю еду на рынке.",
+          "Рынок открыт сегодня.",
+          "Она ходит на рынок еженедельно."
+        ],
+        "es": [
+          "Compro comida en el mercado.",
+          "El mercado está abierto hoy.",
+          "Ella va al mercado semanalmente."
+        ],
+        "pl": [
+          "Kupuję jedzenie na rynku.",
+          "Rynek jest dzisiaj otwarty.",
+          "Ona chodzi na rynek co tydzień."
+        ],
+        "fa": [
+          "من غذا را از بازار می‌خرم.",
+          "بازار امروز باز است.",
+          "او هر هفته به بازار می‌رود."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_558_fa",
+      "translations": {
+        "en": "customer",
+        "de": "Kunde",
+        "ar": "عميل",
+        "fr": "client",
+        "it": "cliente",
+        "ru": "клиент",
+        "es": "cliente",
+        "pl": "klient",
+        "fa": "مشتری"
+      },
+      "examples": {
+        "en": [
+          "The customer wants to pay.",
+          "I am a good customer here.",
+          "Every customer is important."
+        ],
+        "de": [
+          "Der Kunde möchte bezahlen.",
+          "Ich bin hier ein guter Kunde.",
+          "Jeder Kunde ist wichtig."
+        ],
+        "ar": [
+          "يريد العميل أن يدفع.",
+          "أنا عميل جيد هنا.",
+          "كل عميل مهم."
+        ],
+        "fr": [
+          "Le client veut payer.",
+          "Je suis un bon client ici.",
+          "Chaque client est important."
+        ],
+        "it": [
+          "Il cliente vuole pagare.",
+          "Sono un buon cliente qui.",
+          "Ogni cliente è importante."
+        ],
+        "ru": [
+          "Клиент хочет заплатить.",
+          "Я хороший клиент здесь.",
+          "Каждый клиент важен."
+        ],
+        "es": [
+          "El cliente quiere pagar.",
+          "Soy un buen cliente aquí.",
+          "Cada cliente es importante."
+        ],
+        "pl": [
+          "Klient chce zapłacić.",
+          "Jestem tu dobrym klientem.",
+          "Każdy klient jest ważny."
+        ],
+        "fa": [
+          "مشتری می‌خواهد پرداخت کند.",
+          "من اینجا مشتری خوبی هستم.",
+          "هر مشتری مهم است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_559_fa",
+      "translations": {
+        "en": "product",
+        "de": "Produkt",
+        "ar": "منتج",
+        "fr": "produit",
+        "it": "prodotto",
+        "ru": "продукт",
+        "es": "producto",
+        "pl": "produkt",
+        "fa": "محصول"
+      },
+      "examples": {
+        "en": [
+          "This product is very good.",
+          "I want to buy this product.",
+          "The product costs ten dollars."
+        ],
+        "de": [
+          "Dieses Produkt ist sehr gut.",
+          "Ich möchte dieses Produkt kaufen.",
+          "Das Produkt kostet zehn Dollar."
+        ],
+        "ar": [
+          "هذا المنتج جيد جداً.",
+          "أريد أن أشتري هذا المنتج.",
+          "يكلف المنتج عشرة دولارات."
+        ],
+        "fr": [
+          "Ce produit est très bon.",
+          "Je veux acheter ce produit.",
+          "Le produit coûte dix dollars."
+        ],
+        "it": [
+          "Questo prodotto è molto buono.",
+          "Voglio comprare questo prodotto.",
+          "Il prodotto costa dieci dollari."
+        ],
+        "ru": [
+          "Этот продукт очень хороший.",
+          "Я хочу купить этот продукт.",
+          "Продукт стоит десять долларов."
+        ],
+        "es": [
+          "Este producto es muy bueno.",
+          "Quiero comprar este producto.",
+          "El producto cuesta diez dólares."
+        ],
+        "pl": [
+          "Ten produkt jest bardzo dobry.",
+          "Chcę kupić ten produkt.",
+          "Produkt kosztuje dziesięć dolarów."
+        ],
+        "fa": [
+          "این محصول خیلی خوب است.",
+          "من می‌خواهم این محصول را بخرم.",
+          "محصول ده دلار هزینه دارد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_560_fa",
+      "translations": {
+        "en": "service",
+        "de": "Service",
+        "ar": "خدمة",
+        "fr": "service",
+        "it": "servizio",
+        "ru": "услуга",
+        "es": "servicio",
+        "pl": "usługa",
+        "fa": "خدمات"
+      },
+      "examples": {
+        "en": [
+          "The service here is excellent.",
+          "I need good service today.",
+          "This restaurant has great service."
+        ],
+        "de": [
+          "Der Service hier ist ausgezeichnet.",
+          "Ich brauche heute guten Service.",
+          "Dieses Restaurant hat großartigen Service."
+        ],
+        "ar": [
+          "الخدمة هنا ممتازة.",
+          "أحتاج خدمة جيدة اليوم.",
+          "هذا المطعم لديه خدمة رائعة."
+        ],
+        "fr": [
+          "Le service ici est excellent.",
+          "J'ai besoin d'un bon service aujourd'hui.",
+          "Ce restaurant a un excellent service."
+        ],
+        "it": [
+          "Il servizio qui è eccellente.",
+          "Ho bisogno di un buon servizio oggi.",
+          "Questo ristorante ha un ottimo servizio."
+        ],
+        "ru": [
+          "Обслуживание здесь отличное.",
+          "Мне нужно хорошее обслуживание сегодня.",
+          "В этом ресторане отличный сервис."
+        ],
+        "es": [
+          "El servicio aquí es excelente.",
+          "Necesito un buen servicio hoy.",
+          "Este restaurante tiene un gran servicio."
+        ],
+        "pl": [
+          "Obsługa tutaj jest doskonała.",
+          "Potrzebuję dzisiaj dobrej obsługi.",
+          "Ta restauracja ma świetną obsługę."
+        ],
+        "fa": [
+          "خدمات اینجا عالی است.",
+          "من امروز به خدمات خوب نیاز دارم.",
+          "این رستوران خدمات فوق‌العاده دارد."
+        ]
+      }
+    }
+  ]
+}

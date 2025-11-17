@@ -1,0 +1,1254 @@
+{
+  "metadata": {
+    "batch": 50,
+    "level": "A2",
+    "source_language": "fa",
+    "word_range": "981-1000",
+    "total_words": 20,
+    "theme": "Time and Temporal Expressions",
+    "generated_date": "2025-11-17",
+    "languages": ["en", "de", "ar", "fr", "it", "ru", "es", "pl", "fa"]
+  },
+  "vocabulary": [
+    {
+      "id": "universal_a2_981_fa",
+      "word_index": 981,
+      "translations": {
+        "en": "future",
+        "de": "Zukunft",
+        "ar": "مستقبل",
+        "fr": "avenir",
+        "it": "futuro",
+        "ru": "будущее",
+        "es": "futuro",
+        "pl": "przyszłość",
+        "fa": "آینده"
+      },
+      "examples": {
+        "en": [
+          "The future is very important.",
+          "I think about my future every day.",
+          "What do you want in the future?"
+        ],
+        "de": [
+          "Die Zukunft ist sehr wichtig.",
+          "Ich denke jeden Tag über meine Zukunft nach.",
+          "Was willst du in der Zukunft?"
+        ],
+        "ar": [
+          "المستقبل مهم جداً.",
+          "أفكر في مستقبلي كل يوم.",
+          "ماذا تريد في المستقبل؟"
+        ],
+        "fr": [
+          "L'avenir est très important.",
+          "Je pense à mon avenir tous les jours.",
+          "Que veux-tu dans l'avenir?"
+        ],
+        "it": [
+          "Il futuro è molto importante.",
+          "Penso al mio futuro ogni giorno.",
+          "Cosa vuoi nel futuro?"
+        ],
+        "ru": [
+          "Будущее очень важно.",
+          "Я думаю о своём будущем каждый день.",
+          "Что ты хочешь в будущем?"
+        ],
+        "es": [
+          "El futuro es muy importante.",
+          "Pienso en mi futuro todos los días.",
+          "¿Qué quieres en el futuro?"
+        ],
+        "pl": [
+          "Przyszłość jest bardzo ważna.",
+          "Myślę o mojej przyszłości codziennie.",
+          "Co chcesz w przyszłości?"
+        ],
+        "fa": [
+          "آینده خیلی مهم است.",
+          "من هر روز به آینده‌ام فکر می‌کنم.",
+          "تو در آینده چه می‌خواهی؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_982_fa",
+      "word_index": 982,
+      "translations": {
+        "en": "past",
+        "de": "Vergangenheit",
+        "ar": "ماضي",
+        "fr": "passé",
+        "it": "passato",
+        "ru": "прошлое",
+        "es": "pasado",
+        "pl": "przeszłość",
+        "fa": "گذشته"
+      },
+      "examples": {
+        "en": [
+          "I learn about the past in history class.",
+          "The past is finished now.",
+          "She talks about her past sometimes."
+        ],
+        "de": [
+          "Ich lerne über die Vergangenheit im Geschichtsunterricht.",
+          "Die Vergangenheit ist jetzt vorbei.",
+          "Sie spricht manchmal über ihre Vergangenheit."
+        ],
+        "ar": [
+          "أتعلم عن الماضي في درس التاريخ.",
+          "الماضي انتهى الآن.",
+          "تتحدث عن ماضيها أحياناً."
+        ],
+        "fr": [
+          "J'apprends le passé en cours d'histoire.",
+          "Le passé est fini maintenant.",
+          "Elle parle parfois de son passé."
+        ],
+        "it": [
+          "Imparo il passato in classe di storia.",
+          "Il passato è finito ora.",
+          "Lei parla del suo passato a volte."
+        ],
+        "ru": [
+          "Я изучаю прошлое на уроке истории.",
+          "Прошлое уже закончилось.",
+          "Она иногда говорит о своём прошлом."
+        ],
+        "es": [
+          "Aprendo sobre el pasado en clase de historia.",
+          "El pasado está terminado ahora.",
+          "Ella habla de su pasado a veces."
+        ],
+        "pl": [
+          "Uczę się o przeszłości na lekcji historii.",
+          "Przeszłość jest już zakończona.",
+          "Ona czasem mówi o swojej przeszłości."
+        ],
+        "fa": [
+          "من در کلاس تاریخ درباره گذشته یاد می‌گیرم.",
+          "گذشته الان تمام شده است.",
+          "او گاهی درباره گذشته‌اش حرف می‌زند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_983_fa",
+      "word_index": 983,
+      "translations": {
+        "en": "present",
+        "de": "Gegenwart",
+        "ar": "حاضر",
+        "fr": "présent",
+        "it": "presente",
+        "ru": "настоящее",
+        "es": "presente",
+        "pl": "teraźniejszość",
+        "fa": "حال"
+      },
+      "examples": {
+        "en": [
+          "I live in the present time.",
+          "The present is all we have.",
+          "She thinks only about the present."
+        ],
+        "de": [
+          "Ich lebe in der Gegenwart.",
+          "Die Gegenwart ist alles, was wir haben.",
+          "Sie denkt nur an die Gegenwart."
+        ],
+        "ar": [
+          "أعيش في الزمن الحاضر.",
+          "الحاضر هو كل ما لدينا.",
+          "تفكر فقط في الحاضر."
+        ],
+        "fr": [
+          "Je vis dans le présent.",
+          "Le présent est tout ce que nous avons.",
+          "Elle pense seulement au présent."
+        ],
+        "it": [
+          "Vivo nel presente.",
+          "Il presente è tutto quello che abbiamo.",
+          "Lei pensa solo al presente."
+        ],
+        "ru": [
+          "Я живу в настоящем.",
+          "Настоящее это всё, что у нас есть.",
+          "Она думает только о настоящем."
+        ],
+        "es": [
+          "Vivo en el presente.",
+          "El presente es todo lo que tenemos.",
+          "Ella piensa solo en el presente."
+        ],
+        "pl": [
+          "Żyję w teraźniejszości.",
+          "Teraźniejszość to wszystko co mamy.",
+          "Ona myśli tylko o teraźniejszości."
+        ],
+        "fa": [
+          "من در زمان حال زندگی می‌کنم.",
+          "حال تنها چیزی است که داریم.",
+          "او فقط به حال فکر می‌کند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_984_fa",
+      "word_index": 984,
+      "translations": {
+        "en": "history",
+        "de": "Geschichte",
+        "ar": "تاريخ",
+        "fr": "histoire",
+        "it": "storia",
+        "ru": "история",
+        "es": "historia",
+        "pl": "historia",
+        "fa": "تاریخ"
+      },
+      "examples": {
+        "en": [
+          "I study history at school.",
+          "History is my favorite subject.",
+          "She reads many books about history."
+        ],
+        "de": [
+          "Ich lerne Geschichte in der Schule.",
+          "Geschichte ist mein Lieblingsfach.",
+          "Sie liest viele Bücher über Geschichte."
+        ],
+        "ar": [
+          "أدرس التاريخ في المدرسة.",
+          "التاريخ مادتي المفضلة.",
+          "تقرأ كتباً كثيرة عن التاريخ."
+        ],
+        "fr": [
+          "J'étudie l'histoire à l'école.",
+          "L'histoire est ma matière préférée.",
+          "Elle lit beaucoup de livres sur l'histoire."
+        ],
+        "it": [
+          "Studio storia a scuola.",
+          "La storia è la mia materia preferita.",
+          "Lei legge molti libri sulla storia."
+        ],
+        "ru": [
+          "Я изучаю историю в школе.",
+          "История мой любимый предмет.",
+          "Она читает много книг об истории."
+        ],
+        "es": [
+          "Estudio historia en la escuela.",
+          "La historia es mi materia favorita.",
+          "Ella lee muchos libros sobre historia."
+        ],
+        "pl": [
+          "Uczę się historii w szkole.",
+          "Historia jest moim ulubionym przedmiotem.",
+          "Ona czyta wiele książek o historii."
+        ],
+        "fa": [
+          "من در مدرسه تاریخ می‌خوانم.",
+          "تاریخ درس مورد علاقه من است.",
+          "او کتاب‌های زیادی درباره تاریخ می‌خواند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_985_fa",
+      "word_index": 985,
+      "translations": {
+        "en": "modern",
+        "de": "modern",
+        "ar": "حديث",
+        "fr": "moderne",
+        "it": "moderno",
+        "ru": "современный",
+        "es": "moderno",
+        "pl": "nowoczesny",
+        "fa": "مدرن"
+      },
+      "examples": {
+        "en": [
+          "This is a very modern building.",
+          "I like modern music and art.",
+          "We live in a modern city now."
+        ],
+        "de": [
+          "Das ist ein sehr modernes Gebäude.",
+          "Ich mag moderne Musik und Kunst.",
+          "Wir leben jetzt in einer modernen Stadt."
+        ],
+        "ar": [
+          "هذا مبنى حديث جداً.",
+          "أحب الموسيقى والفن الحديث.",
+          "نعيش في مدينة حديثة الآن."
+        ],
+        "fr": [
+          "C'est un bâtiment très moderne.",
+          "J'aime la musique et l'art moderne.",
+          "Nous vivons dans une ville moderne maintenant."
+        ],
+        "it": [
+          "Questo è un edificio molto moderno.",
+          "Mi piace la musica e l'arte moderna.",
+          "Viviamo in una città moderna ora."
+        ],
+        "ru": [
+          "Это очень современное здание.",
+          "Мне нравится современная музыка и искусство.",
+          "Мы сейчас живём в современном городе."
+        ],
+        "es": [
+          "Este es un edificio muy moderno.",
+          "Me gusta la música y el arte moderno.",
+          "Vivimos en una ciudad moderna ahora."
+        ],
+        "pl": [
+          "To jest bardzo nowoczesny budynek.",
+          "Lubię nowoczesną muzykę i sztukę.",
+          "Mieszkamy teraz w nowoczesnym mieście."
+        ],
+        "fa": [
+          "این یک ساختمان خیلی مدرن است.",
+          "من موسیقی و هنر مدرن را دوست دارم.",
+          "ما الان در یک شهر مدرن زندگی می‌کنیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_986_fa",
+      "word_index": 986,
+      "translations": {
+        "en": "ancient",
+        "de": "alt",
+        "ar": "قديم",
+        "fr": "ancien",
+        "it": "antico",
+        "ru": "древний",
+        "es": "antiguo",
+        "pl": "starożytny",
+        "fa": "باستانی"
+      },
+      "examples": {
+        "en": [
+          "I visit an ancient temple today.",
+          "These are ancient buildings from history.",
+          "She studies ancient languages at university."
+        ],
+        "de": [
+          "Ich besuche heute einen alten Tempel.",
+          "Das sind alte Gebäude aus der Geschichte.",
+          "Sie studiert alte Sprachen an der Universität."
+        ],
+        "ar": [
+          "أزور معبداً قديماً اليوم.",
+          "هذه مبانٍ قديمة من التاريخ.",
+          "تدرس اللغات القديمة في الجامعة."
+        ],
+        "fr": [
+          "Je visite un temple ancien aujourd'hui.",
+          "Ce sont des bâtiments anciens de l'histoire.",
+          "Elle étudie les langues anciennes à l'université."
+        ],
+        "it": [
+          "Visito un tempio antico oggi.",
+          "Questi sono edifici antichi della storia.",
+          "Lei studia lingue antiche all'università."
+        ],
+        "ru": [
+          "Я посещаю древний храм сегодня.",
+          "Это древние здания из истории.",
+          "Она изучает древние языки в университете."
+        ],
+        "es": [
+          "Visito un templo antiguo hoy.",
+          "Estos son edificios antiguos de la historia.",
+          "Ella estudia lenguas antiguas en la universidad."
+        ],
+        "pl": [
+          "Odwiedzam starożytną świątynię dzisiaj.",
+          "To są starożytne budynki z historii.",
+          "Ona studiuje starożytne języki na uniwersytecie."
+        ],
+        "fa": [
+          "من امروز از یک معبد باستانی بازدید می‌کنم.",
+          "اینها ساختمان‌های باستانی از تاریخ هستند.",
+          "او زبان‌های باستانی را در دانشگاه می‌خواند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_987_fa",
+      "word_index": 987,
+      "translations": {
+        "en": "new",
+        "de": "neu",
+        "ar": "جديد",
+        "fr": "nouveau",
+        "it": "nuovo",
+        "ru": "новый",
+        "es": "nuevo",
+        "pl": "nowy",
+        "fa": "جدید"
+      },
+      "examples": {
+        "en": [
+          "I have a new car now.",
+          "This is my new house.",
+          "She buys new clothes every month."
+        ],
+        "de": [
+          "Ich habe jetzt ein neues Auto.",
+          "Das ist mein neues Haus.",
+          "Sie kauft jeden Monat neue Kleider."
+        ],
+        "ar": [
+          "لدي سيارة جديدة الآن.",
+          "هذا بيتي الجديد.",
+          "تشتري ملابس جديدة كل شهر."
+        ],
+        "fr": [
+          "J'ai une nouvelle voiture maintenant.",
+          "C'est ma nouvelle maison.",
+          "Elle achète de nouveaux vêtements chaque mois."
+        ],
+        "it": [
+          "Ho una macchina nuova ora.",
+          "Questa è la mia casa nuova.",
+          "Lei compra vestiti nuovi ogni mese."
+        ],
+        "ru": [
+          "У меня сейчас новая машина.",
+          "Это мой новый дом.",
+          "Она покупает новую одежду каждый месяц."
+        ],
+        "es": [
+          "Tengo un carro nuevo ahora.",
+          "Esta es mi casa nueva.",
+          "Ella compra ropa nueva cada mes."
+        ],
+        "pl": [
+          "Mam teraz nowy samochód.",
+          "To jest mój nowy dom.",
+          "Ona kupuje nowe ubrania co miesiąc."
+        ],
+        "fa": [
+          "من الان یک ماشین جدید دارم.",
+          "این خانه جدید من است.",
+          "او هر ماه لباس‌های جدید می‌خرد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_988_fa",
+      "word_index": 988,
+      "translations": {
+        "en": "old",
+        "de": "alt",
+        "ar": "قديم",
+        "fr": "vieux",
+        "it": "vecchio",
+        "ru": "старый",
+        "es": "viejo",
+        "pl": "stary",
+        "fa": "قدیمی"
+      },
+      "examples": {
+        "en": [
+          "My car is very old.",
+          "I live in an old house.",
+          "These are old books from my grandfather."
+        ],
+        "de": [
+          "Mein Auto ist sehr alt.",
+          "Ich wohne in einem alten Haus.",
+          "Das sind alte Bücher von meinem Großvater."
+        ],
+        "ar": [
+          "سيارتي قديمة جداً.",
+          "أسكن في بيت قديم.",
+          "هذه كتب قديمة من جدي."
+        ],
+        "fr": [
+          "Ma voiture est très vieille.",
+          "J'habite dans une vieille maison.",
+          "Ce sont de vieux livres de mon grand-père."
+        ],
+        "it": [
+          "La mia macchina è molto vecchia.",
+          "Abito in una casa vecchia.",
+          "Questi sono vecchi libri di mio nonno."
+        ],
+        "ru": [
+          "Моя машина очень старая.",
+          "Я живу в старом доме.",
+          "Это старые книги от моего дедушки."
+        ],
+        "es": [
+          "Mi carro es muy viejo.",
+          "Vivo en una casa vieja.",
+          "Estos son libros viejos de mi abuelo."
+        ],
+        "pl": [
+          "Mój samochód jest bardzo stary.",
+          "Mieszkam w starym domu.",
+          "To są stare książki od mojego dziadka."
+        ],
+        "fa": [
+          "ماشین من خیلی قدیمی است.",
+          "من در یک خانه قدیمی زندگی می‌کنم.",
+          "اینها کتاب‌های قدیمی از پدربزرگم هستند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_989_fa",
+      "word_index": 989,
+      "translations": {
+        "en": "recent",
+        "de": "kürzlich",
+        "ar": "حديث",
+        "fr": "récent",
+        "it": "recente",
+        "ru": "недавний",
+        "es": "reciente",
+        "pl": "niedawny",
+        "fa": "اخیر"
+      },
+      "examples": {
+        "en": [
+          "I read about recent news today.",
+          "This is a recent photo from yesterday.",
+          "She talks about her recent trip abroad."
+        ],
+        "de": [
+          "Ich lese heute über aktuelle Nachrichten.",
+          "Das ist ein aktuelles Foto von gestern.",
+          "Sie spricht über ihre kürzliche Reise ins Ausland."
+        ],
+        "ar": [
+          "أقرأ عن الأخبار الحديثة اليوم.",
+          "هذه صورة حديثة من الأمس.",
+          "تتحدث عن رحلتها الأخيرة للخارج."
+        ],
+        "fr": [
+          "Je lis les nouvelles récentes aujourd'hui.",
+          "C'est une photo récente d'hier.",
+          "Elle parle de son récent voyage à l'étranger."
+        ],
+        "it": [
+          "Leggo notizie recenti oggi.",
+          "Questa è una foto recente di ieri.",
+          "Lei parla del suo recente viaggio all'estero."
+        ],
+        "ru": [
+          "Я читаю недавние новости сегодня.",
+          "Это недавнее фото со вчерашнего дня.",
+          "Она говорит о своей недавней поездке за границу."
+        ],
+        "es": [
+          "Leo noticias recientes hoy.",
+          "Esta es una foto reciente de ayer.",
+          "Ella habla de su viaje reciente al extranjero."
+        ],
+        "pl": [
+          "Czytam niedawne wiadomości dzisiaj.",
+          "To jest niedawne zdjęcie z wczoraj.",
+          "Ona mówi o swojej niedawnej podróży za granicę."
+        ],
+        "fa": [
+          "من امروز درباره اخبار اخیر می‌خوانم.",
+          "این یک عکس اخیر از دیروز است.",
+          "او درباره سفر اخیرش به خارج حرف می‌زند."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_990_fa",
+      "word_index": 990,
+      "translations": {
+        "en": "ago",
+        "de": "vor",
+        "ar": "منذ",
+        "fr": "il y a",
+        "it": "fa",
+        "ru": "назад",
+        "es": "hace",
+        "pl": "temu",
+        "fa": "پیش"
+      },
+      "examples": {
+        "en": [
+          "I saw her two days ago.",
+          "We met many years ago.",
+          "He called me one hour ago."
+        ],
+        "de": [
+          "Ich habe sie vor zwei Tagen gesehen.",
+          "Wir haben uns vor vielen Jahren getroffen.",
+          "Er hat mich vor einer Stunde angerufen."
+        ],
+        "ar": [
+          "رأيتها منذ يومين.",
+          "التقينا منذ سنوات عديدة.",
+          "اتصل بي منذ ساعة واحدة."
+        ],
+        "fr": [
+          "Je l'ai vue il y a deux jours.",
+          "Nous nous sommes rencontrés il y a plusieurs années.",
+          "Il m'a appelé il y a une heure."
+        ],
+        "it": [
+          "L'ho vista due giorni fa.",
+          "Ci siamo incontrati molti anni fa.",
+          "Mi ha chiamato un'ora fa."
+        ],
+        "ru": [
+          "Я видел её два дня назад.",
+          "Мы встретились много лет назад.",
+          "Он позвонил мне час назад."
+        ],
+        "es": [
+          "La vi hace dos días.",
+          "Nos conocimos hace muchos años.",
+          "Me llamó hace una hora."
+        ],
+        "pl": [
+          "Widziałem ją dwa dni temu.",
+          "Poznaliśmy się wiele lat temu.",
+          "Zadzwonił do mnie godzinę temu."
+        ],
+        "fa": [
+          "من او را دو روز پیش دیدم.",
+          "ما سال‌های زیادی پیش همدیگر را دیدیم.",
+          "او یک ساعت پیش به من زنگ زد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_991_fa",
+      "word_index": 991,
+      "translations": {
+        "en": "soon",
+        "de": "bald",
+        "ar": "قريباً",
+        "fr": "bientôt",
+        "it": "presto",
+        "ru": "скоро",
+        "es": "pronto",
+        "pl": "wkrótce",
+        "fa": "به زودی"
+      },
+      "examples": {
+        "en": [
+          "I will see you soon.",
+          "The train comes very soon.",
+          "She arrives at home soon."
+        ],
+        "de": [
+          "Ich sehe dich bald.",
+          "Der Zug kommt sehr bald.",
+          "Sie kommt bald nach Hause."
+        ],
+        "ar": [
+          "سأراك قريباً.",
+          "القطار يأتي قريباً جداً.",
+          "تصل إلى البيت قريباً."
+        ],
+        "fr": [
+          "Je te verrai bientôt.",
+          "Le train arrive très bientôt.",
+          "Elle arrive à la maison bientôt."
+        ],
+        "it": [
+          "Ti vedrò presto.",
+          "Il treno arriva molto presto.",
+          "Lei arriva a casa presto."
+        ],
+        "ru": [
+          "Я увижу тебя скоро.",
+          "Поезд приходит очень скоро.",
+          "Она приезжает домой скоро."
+        ],
+        "es": [
+          "Te veré pronto.",
+          "El tren llega muy pronto.",
+          "Ella llega a casa pronto."
+        ],
+        "pl": [
+          "Zobaczę cię wkrótce.",
+          "Pociąg przyjedzie bardzo wkrótce.",
+          "Ona przyjedzie do domu wkrótce."
+        ],
+        "fa": [
+          "من به زودی تو را می‌بینم.",
+          "قطار خیلی زود می‌آید.",
+          "او به زودی به خانه می‌رسد."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_992_fa",
+      "word_index": 992,
+      "translations": {
+        "en": "later",
+        "de": "später",
+        "ar": "لاحقاً",
+        "fr": "plus tard",
+        "it": "dopo",
+        "ru": "позже",
+        "es": "después",
+        "pl": "później",
+        "fa": "بعداً"
+      },
+      "examples": {
+        "en": [
+          "I call you later today.",
+          "We can talk about this later.",
+          "She comes to the party later."
+        ],
+        "de": [
+          "Ich rufe dich später heute an.",
+          "Wir können später darüber sprechen.",
+          "Sie kommt später zur Party."
+        ],
+        "ar": [
+          "سأتصل بك لاحقاً اليوم.",
+          "يمكننا التحدث عن هذا لاحقاً.",
+          "تأتي إلى الحفلة لاحقاً."
+        ],
+        "fr": [
+          "Je t'appelle plus tard aujourd'hui.",
+          "Nous pouvons parler de cela plus tard.",
+          "Elle vient à la fête plus tard."
+        ],
+        "it": [
+          "Ti chiamo dopo oggi.",
+          "Possiamo parlare di questo dopo.",
+          "Lei viene alla festa dopo."
+        ],
+        "ru": [
+          "Я позвоню тебе позже сегодня.",
+          "Мы можем поговорить об этом позже.",
+          "Она приходит на вечеринку позже."
+        ],
+        "es": [
+          "Te llamo después hoy.",
+          "Podemos hablar de esto después.",
+          "Ella viene a la fiesta después."
+        ],
+        "pl": [
+          "Zadzwonię do ciebie później dzisiaj.",
+          "Możemy porozmawiać o tym później.",
+          "Ona przyjdzie na imprezę później."
+        ],
+        "fa": [
+          "من بعداً امروز به تو زنگ می‌زنم.",
+          "ما می‌توانیم بعداً درباره این حرف بزنیم.",
+          "او بعداً به مهمانی می‌آید."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_993_fa",
+      "word_index": 993,
+      "translations": {
+        "en": "tomorrow",
+        "de": "morgen",
+        "ar": "غداً",
+        "fr": "demain",
+        "it": "domani",
+        "ru": "завтра",
+        "es": "mañana",
+        "pl": "jutro",
+        "fa": "فردا"
+      },
+      "examples": {
+        "en": [
+          "I go to school tomorrow.",
+          "Tomorrow is a new day.",
+          "We meet at the cafe tomorrow morning."
+        ],
+        "de": [
+          "Ich gehe morgen zur Schule.",
+          "Morgen ist ein neuer Tag.",
+          "Wir treffen uns morgen früh im Café."
+        ],
+        "ar": [
+          "أذهب إلى المدرسة غداً.",
+          "غداً يوم جديد.",
+          "نلتقي في المقهى غداً صباحاً."
+        ],
+        "fr": [
+          "Je vais à l'école demain.",
+          "Demain est un nouveau jour.",
+          "Nous nous rencontrons au café demain matin."
+        ],
+        "it": [
+          "Vado a scuola domani.",
+          "Domani è un nuovo giorno.",
+          "Ci incontriamo al bar domani mattina."
+        ],
+        "ru": [
+          "Я иду в школу завтра.",
+          "Завтра новый день.",
+          "Мы встречаемся в кафе завтра утром."
+        ],
+        "es": [
+          "Voy a la escuela mañana.",
+          "Mañana es un día nuevo.",
+          "Nos encontramos en el café mañana por la mañana."
+        ],
+        "pl": [
+          "Idę do szkoły jutro.",
+          "Jutro jest nowy dzień.",
+          "Spotykamy się w kawiarni jutro rano."
+        ],
+        "fa": [
+          "من فردا به مدرسه می‌روم.",
+          "فردا یک روز جدید است.",
+          "ما فردا صبح در کافه همدیگر را می‌بینیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_994_fa",
+      "word_index": 994,
+      "translations": {
+        "en": "yesterday",
+        "de": "gestern",
+        "ar": "أمس",
+        "fr": "hier",
+        "it": "ieri",
+        "ru": "вчера",
+        "es": "ayer",
+        "pl": "wczoraj",
+        "fa": "دیروز"
+      },
+      "examples": {
+        "en": [
+          "I saw him yesterday at school.",
+          "Yesterday was a good day.",
+          "We went to the park yesterday afternoon."
+        ],
+        "de": [
+          "Ich habe ihn gestern in der Schule gesehen.",
+          "Gestern war ein guter Tag.",
+          "Wir sind gestern Nachmittag in den Park gegangen."
+        ],
+        "ar": [
+          "رأيته أمس في المدرسة.",
+          "كان الأمس يوماً جيداً.",
+          "ذهبنا إلى الحديقة أمس بعد الظهر."
+        ],
+        "fr": [
+          "Je l'ai vu hier à l'école.",
+          "Hier était une bonne journée.",
+          "Nous sommes allés au parc hier après-midi."
+        ],
+        "it": [
+          "L'ho visto ieri a scuola.",
+          "Ieri è stata una bella giornata.",
+          "Siamo andati al parco ieri pomeriggio."
+        ],
+        "ru": [
+          "Я видел его вчера в школе.",
+          "Вчера был хороший день.",
+          "Мы ходили в парк вчера днём."
+        ],
+        "es": [
+          "Lo vi ayer en la escuela.",
+          "Ayer fue un buen día.",
+          "Fuimos al parque ayer por la tarde."
+        ],
+        "pl": [
+          "Widziałem go wczoraj w szkole.",
+          "Wczoraj był dobry dzień.",
+          "Poszliśmy do parku wczoraj popołudniu."
+        ],
+        "fa": [
+          "من او را دیروز در مدرسه دیدم.",
+          "دیروز یک روز خوب بود.",
+          "ما دیروز بعد از ظهر به پارک رفتیم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_995_fa",
+      "word_index": 995,
+      "translations": {
+        "en": "today",
+        "de": "heute",
+        "ar": "اليوم",
+        "fr": "aujourd'hui",
+        "it": "oggi",
+        "ru": "сегодня",
+        "es": "hoy",
+        "pl": "dzisiaj",
+        "fa": "امروز"
+      },
+      "examples": {
+        "en": [
+          "I am very happy today.",
+          "Today is Monday and sunny.",
+          "We have an important test today."
+        ],
+        "de": [
+          "Ich bin heute sehr glücklich.",
+          "Heute ist Montag und sonnig.",
+          "Wir haben heute einen wichtigen Test."
+        ],
+        "ar": [
+          "أنا سعيد جداً اليوم.",
+          "اليوم الاثنين ومشمس.",
+          "لدينا امتحان مهم اليوم."
+        ],
+        "fr": [
+          "Je suis très heureux aujourd'hui.",
+          "Aujourd'hui c'est lundi et ensoleillé.",
+          "Nous avons un test important aujourd'hui."
+        ],
+        "it": [
+          "Sono molto felice oggi.",
+          "Oggi è lunedì e c'è il sole.",
+          "Abbiamo un test importante oggi."
+        ],
+        "ru": [
+          "Я очень счастлив сегодня.",
+          "Сегодня понедельник и солнечно.",
+          "У нас сегодня важный тест."
+        ],
+        "es": [
+          "Estoy muy feliz hoy.",
+          "Hoy es lunes y soleado.",
+          "Tenemos un examen importante hoy."
+        ],
+        "pl": [
+          "Jestem bardzo szczęśliwy dzisiaj.",
+          "Dzisiaj jest poniedziałek i słonecznie.",
+          "Mamy ważny test dzisiaj."
+        ],
+        "fa": [
+          "من امروز خیلی خوشحال هستم.",
+          "امروز دوشنبه است و آفتابی است.",
+          "ما امروز یک امتحان مهم داریم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_996_fa",
+      "word_index": 996,
+      "translations": {
+        "en": "before",
+        "de": "vorher",
+        "ar": "قبلاً",
+        "fr": "avant",
+        "it": "prima",
+        "ru": "раньше",
+        "es": "antes",
+        "pl": "wcześniej",
+        "fa": "قبلاً"
+      },
+      "examples": {
+        "en": [
+          "I came here before you.",
+          "We met before at the library.",
+          "Have you been here before?"
+        ],
+        "de": [
+          "Ich bin vor dir hier angekommen.",
+          "Wir haben uns vorher in der Bibliothek getroffen.",
+          "Warst du schon mal hier?"
+        ],
+        "ar": [
+          "جئت إلى هنا قبلك.",
+          "التقينا قبلاً في المكتبة.",
+          "هل كنت هنا من قبل؟"
+        ],
+        "fr": [
+          "Je suis venu ici avant toi.",
+          "Nous nous sommes rencontrés avant à la bibliothèque.",
+          "Es-tu déjà venu ici?"
+        ],
+        "it": [
+          "Sono venuto qui prima di te.",
+          "Ci siamo incontrati prima in biblioteca.",
+          "Sei già stato qui prima?"
+        ],
+        "ru": [
+          "Я пришёл сюда раньше тебя.",
+          "Мы встречались раньше в библиотеке.",
+          "Ты был здесь раньше?"
+        ],
+        "es": [
+          "Llegué aquí antes que tú.",
+          "Nos conocimos antes en la biblioteca.",
+          "¿Has estado aquí antes?"
+        ],
+        "pl": [
+          "Przyszedłem tutaj przed tobą.",
+          "Spotkaliśmy się wcześniej w bibliotece.",
+          "Czy byłeś tutaj wcześniej?"
+        ],
+        "fa": [
+          "من قبل از تو اینجا آمدم.",
+          "ما قبلاً در کتابخانه همدیگر را دیدیم.",
+          "آیا قبلاً اینجا بوده‌ای؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_997_fa",
+      "word_index": 997,
+      "translations": {
+        "en": "still",
+        "de": "noch",
+        "ar": "لا يزال",
+        "fr": "encore",
+        "it": "ancora",
+        "ru": "всё ещё",
+        "es": "todavía",
+        "pl": "nadal",
+        "fa": "هنوز"
+      },
+      "examples": {
+        "en": [
+          "I am still at home now.",
+          "She still works at the same company.",
+          "Is he still your friend today?"
+        ],
+        "de": [
+          "Ich bin jetzt noch zu Hause.",
+          "Sie arbeitet noch in der gleichen Firma.",
+          "Ist er heute noch dein Freund?"
+        ],
+        "ar": [
+          "لا أزال في البيت الآن.",
+          "لا تزال تعمل في نفس الشركة.",
+          "هل لا يزال صديقك اليوم؟"
+        ],
+        "fr": [
+          "Je suis encore à la maison maintenant.",
+          "Elle travaille encore dans la même entreprise.",
+          "Est-il encore ton ami aujourd'hui?"
+        ],
+        "it": [
+          "Sono ancora a casa adesso.",
+          "Lei lavora ancora nella stessa azienda.",
+          "È ancora tuo amico oggi?"
+        ],
+        "ru": [
+          "Я всё ещё дома сейчас.",
+          "Она всё ещё работает в той же компании.",
+          "Он всё ещё твой друг сегодня?"
+        ],
+        "es": [
+          "Todavía estoy en casa ahora.",
+          "Ella todavía trabaja en la misma empresa.",
+          "¿Todavía es tu amigo hoy?"
+        ],
+        "pl": [
+          "Nadal jestem w domu teraz.",
+          "Ona nadal pracuje w tej samej firmie.",
+          "Czy on nadal jest twoim przyjacielem dzisiaj?"
+        ],
+        "fa": [
+          "من هنوز در خانه هستم.",
+          "او هنوز در همان شرکت کار می‌کند.",
+          "آیا او امروز هنوز دوست توست؟"
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_998_fa",
+      "word_index": 998,
+      "translations": {
+        "en": "yet",
+        "de": "noch",
+        "ar": "بعد",
+        "fr": "encore",
+        "it": "ancora",
+        "ru": "ещё",
+        "es": "todavía",
+        "pl": "jeszcze",
+        "fa": "هنوز"
+      },
+      "examples": {
+        "en": [
+          "I don't know the answer yet.",
+          "Have you finished your homework yet?",
+          "She hasn't arrived at work yet."
+        ],
+        "de": [
+          "Ich kenne die Antwort noch nicht.",
+          "Hast du deine Hausaufgaben schon fertig?",
+          "Sie ist noch nicht bei der Arbeit angekommen."
+        ],
+        "ar": [
+          "لا أعرف الجواب بعد.",
+          "هل أنهيت واجبك المنزلي بعد؟",
+          "لم تصل إلى العمل بعد."
+        ],
+        "fr": [
+          "Je ne connais pas encore la réponse.",
+          "As-tu déjà fini tes devoirs?",
+          "Elle n'est pas encore arrivée au travail."
+        ],
+        "it": [
+          "Non conosco ancora la risposta.",
+          "Hai già finito i compiti?",
+          "Non è ancora arrivata al lavoro."
+        ],
+        "ru": [
+          "Я ещё не знаю ответ.",
+          "Ты уже закончил домашнее задание?",
+          "Она ещё не пришла на работу."
+        ],
+        "es": [
+          "No sé la respuesta todavía.",
+          "¿Ya terminaste tu tarea?",
+          "Ella no ha llegado al trabajo todavía."
+        ],
+        "pl": [
+          "Nie znam jeszcze odpowiedzi.",
+          "Czy skończyłeś już zadanie domowe?",
+          "Ona jeszcze nie dotarła do pracy."
+        ],
+        "fa": [
+          "من هنوز جواب را نمی‌دانم.",
+          "آیا تکالیفت را تمام کرده‌ای؟",
+          "او هنوز به سر کار نرسیده است."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_999_fa",
+      "word_index": 999,
+      "translations": {
+        "en": "always",
+        "de": "immer",
+        "ar": "دائماً",
+        "fr": "toujours",
+        "it": "sempre",
+        "ru": "всегда",
+        "es": "siempre",
+        "pl": "zawsze",
+        "fa": "همیشه"
+      },
+      "examples": {
+        "en": [
+          "I always eat breakfast at home.",
+          "She is always happy and friendly.",
+          "We always go to school together."
+        ],
+        "de": [
+          "Ich esse immer zu Hause Frühstück.",
+          "Sie ist immer glücklich und freundlich.",
+          "Wir gehen immer zusammen zur Schule."
+        ],
+        "ar": [
+          "أتناول الإفطار دائماً في البيت.",
+          "هي دائماً سعيدة وودودة.",
+          "نذهب دائماً إلى المدرسة معاً."
+        ],
+        "fr": [
+          "Je prends toujours le petit déjeuner à la maison.",
+          "Elle est toujours heureuse et amicale.",
+          "Nous allons toujours à l'école ensemble."
+        ],
+        "it": [
+          "Faccio sempre colazione a casa.",
+          "Lei è sempre felice e amichevole.",
+          "Andiamo sempre a scuola insieme."
+        ],
+        "ru": [
+          "Я всегда завтракаю дома.",
+          "Она всегда счастливая и дружелюбная.",
+          "Мы всегда идём в школу вместе."
+        ],
+        "es": [
+          "Siempre desayuno en casa.",
+          "Ella siempre está feliz y amable.",
+          "Siempre vamos a la escuela juntos."
+        ],
+        "pl": [
+          "Zawsze jem śniadanie w domu.",
+          "Ona jest zawsze szczęśliwa i przyjazna.",
+          "Zawsze idziemy do szkoły razem."
+        ],
+        "fa": [
+          "من همیشه در خانه صبحانه می‌خورم.",
+          "او همیشه خوشحال و دوستانه است.",
+          "ما همیشه با هم به مدرسه می‌رویم."
+        ]
+      }
+    },
+    {
+      "id": "universal_a2_1000_fa",
+      "word_index": 1000,
+      "translations": {
+        "en": "never",
+        "de": "nie",
+        "ar": "أبداً",
+        "fr": "jamais",
+        "it": "mai",
+        "ru": "никогда",
+        "es": "nunca",
+        "pl": "nigdy",
+        "fa": "هرگز"
+      },
+      "examples": {
+        "en": [
+          "I never eat fast food.",
+          "She never forgets her homework.",
+          "We never go to bed very late."
+        ],
+        "de": [
+          "Ich esse nie Fast Food.",
+          "Sie vergisst nie ihre Hausaufgaben.",
+          "Wir gehen nie sehr spät ins Bett."
+        ],
+        "ar": [
+          "لا آكل الطعام السريع أبداً.",
+          "لا تنسى واجبها المنزلي أبداً.",
+          "لا نذهب إلى السرير متأخرين جداً أبداً."
+        ],
+        "fr": [
+          "Je ne mange jamais de fast-food.",
+          "Elle n'oublie jamais ses devoirs.",
+          "Nous n'allons jamais nous coucher très tard."
+        ],
+        "it": [
+          "Non mangio mai fast food.",
+          "Lei non dimentica mai i compiti.",
+          "Non andiamo mai a letto molto tardi."
+        ],
+        "ru": [
+          "Я никогда не ем фастфуд.",
+          "Она никогда не забывает домашнее задание.",
+          "Мы никогда не ложимся спать очень поздно."
+        ],
+        "es": [
+          "Nunca como comida rápida.",
+          "Ella nunca olvida su tarea.",
+          "Nunca nos acostamos muy tarde."
+        ],
+        "pl": [
+          "Nigdy nie jem fast foodów.",
+          "Ona nigdy nie zapomina zadania domowego.",
+          "Nigdy nie idziemy spać bardzo późno."
+        ],
+        "fa": [
+          "من هرگز فست فود نمی‌خورم.",
+          "او هرگز تکالیفش را فراموش نمی‌کند.",
+          "ما هرگز خیلی دیر نمی‌خوابیم."
+        ]
+      }
+    }
+  ]
+}
