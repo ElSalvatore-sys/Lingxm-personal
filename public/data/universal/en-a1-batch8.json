@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_141_en",
+    "word": "house",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "house",
+      "de": "Haus",
+      "ar": "منزل",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "explanations": {
+      "en": "A building where people live, usually one family at a time.",
+      "de": "Ein Gebäude, in dem Menschen leben, normalerweise eine Familie zur Zeit.",
+      "ar": "مبنى يعيش فيه الناس، عادة عائلة واحدة في كل مرة.",
+      "fr": "Un bâtiment où les gens vivent, habituellement une famille à la fois.",
+      "it": "Un edificio dove vivono le persone, di solito una famiglia alla volta.",
+      "ru": "Здание, где живут люди, обычно одна семья за раз.",
+      "es": "Un edificio donde vive la gente, generalmente una familia a la vez.",
+      "pl": "Budynek, w którym mieszkają ludzie, zwykle jedna rodzina na raz.",
+      "fa": "ساختمانی که مردم در آن زندگی می‌کنند، معمولاً یک خانواده در یک زمان."
+    },
+    "examples": {
+      "en": ["I live in a house.", "This is my house.", "I buy a house."],
+      "de": ["Ich lebe in einem Haus.", "Das ist mein Haus.", "Ich kaufe ein Haus."],
+      "ar": ["أعيش في منزل.", "هذا منزلي.", "أشتري منزلاً."],
+      "fr": ["Je vis dans une maison.", "C'est ma maison.", "J'achète une maison."],
+      "it": ["Vivo in una casa.", "Questa è la mia casa.", "Compro una casa."],
+      "ru": ["Я живу в доме.", "Это мой дом.", "Я покупаю дом."],
+      "es": ["Vivo en una casa.", "Esta es mi casa.", "Compro una casa."],
+      "pl": ["Mieszkam w domu.", "To jest mój dom.", "Kupuję dom."],
+      "fa": ["من در خانه زندگی می‌کنم.", "این خانه من است.", "من یک خانه می‌خرم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_142_en",
+    "word": "room",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "room",
+      "de": "Zimmer",
+      "ar": "غرفة",
+      "fr": "chambre",
+      "it": "stanza",
+      "ru": "комната",
+      "es": "habitación",
+      "pl": "pokój",
+      "fa": "اتاق"
+    },
+    "explanations": {
+      "en": "A space inside a building with walls, a floor, and ceiling.",
+      "de": "Ein Raum in einem Gebäude mit Wänden, Boden und Decke.",
+      "ar": "مساحة داخل مبنى بجدران وأرضية وسقف.",
+      "fr": "Un espace à l'intérieur d'un bâtiment avec des murs, un sol et un plafond.",
+      "it": "Uno spazio all'interno di un edificio con pareti, pavimento e soffitto.",
+      "ru": "Пространство внутри здания со стенами, полом и потолком.",
+      "es": "Un espacio dentro de un edificio con paredes, suelo y techo.",
+      "pl": "Przestrzeń wewnątrz budynku ze ścianami, podłogą i sufitem.",
+      "fa": "فضایی در داخل ساختمان با دیوارها، کف و سقف."
+    },
+    "examples": {
+      "en": ["I have a room.", "This room is big.", "I live in this room."],
+      "de": ["Ich habe ein Zimmer.", "Dieses Zimmer ist groß.", "Ich lebe in diesem Zimmer."],
+      "ar": ["لدي غرفة.", "هذه الغرفة كبيرة.", "أعيش في هذه الغرفة."],
+      "fr": ["J'ai une chambre.", "Cette chambre est grande.", "Je vis dans cette chambre."],
+      "it": ["Ho una stanza.", "Questa stanza è grande.", "Vivo in questa stanza."],
+      "ru": ["У меня есть комната.", "Эта комната большая.", "Я живу в этой комнате."],
+      "es": ["Tengo una habitación.", "Esta habitación es grande.", "Vivo en esta habitación."],
+      "pl": ["Mam pokój.", "Ten pokój jest duży.", "Mieszkam w tym pokoju."],
+      "fa": ["من یک اتاق دارم.", "این اتاق بزرگ است.", "من در این اتاق زندگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_143_en",
+    "word": "door",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "door",
+      "de": "Tür",
+      "ar": "باب",
+      "fr": "porte",
+      "it": "porta",
+      "ru": "дверь",
+      "es": "puerta",
+      "pl": "drzwi",
+      "fa": "در"
+    },
+    "explanations": {
+      "en": "A movable barrier used to open or close an entrance to a room or building.",
+      "de": "Eine bewegliche Barriere, um einen Eingang zu einem Raum oder Gebäude zu öffnen oder schließen.",
+      "ar": "حاجز متحرك يستخدم لفتح أو إغلاق مدخل غرفة أو مبنى.",
+      "fr": "Une barrière mobile utilisée pour ouvrir ou fermer l'entrée d'une pièce ou d'un bâtiment.",
+      "it": "Una barriera mobile usata per aprire o chiudere un'entrata a una stanza o edificio.",
+      "ru": "Подвижный барьер, используемый для открытия или закрытия входа в комнату или здание.",
+      "es": "Una barrera móvil usada para abrir o cerrar una entrada a una habitación o edificio.",
+      "pl": "Ruchoma bariera używana do otwierania lub zamykania wejścia do pokoju lub budynku.",
+      "fa": "مانعی متحرک که برای باز یا بسته کردن ورودی به اتاق یا ساختمان استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I open the door.", "The door is big.", "I close this door."],
+      "de": ["Ich öffne die Tür.", "Die Tür ist groß.", "Ich schließe diese Tür."],
+      "ar": ["أفتح الباب.", "الباب كبير.", "أغلق هذا الباب."],
+      "fr": ["J'ouvre la porte.", "La porte est grande.", "Je ferme cette porte."],
+      "it": ["Apro la porta.", "La porta è grande.", "Chiudo questa porta."],
+      "ru": ["Я открываю дверь.", "Дверь большая.", "Я закрываю эту дверь."],
+      "es": ["Abro la puerta.", "La puerta es grande.", "Cierro esta puerta."],
+      "pl": ["Otwieram drzwi.", "Drzwi są duże.", "Zamykam te drzwi."],
+      "fa": ["من در را باز می‌کنم.", "در بزرگ است.", "من این در را می‌بندم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_144_en",
+    "word": "window",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "window",
+      "de": "Fenster",
+      "ar": "نافذة",
+      "fr": "fenêtre",
+      "it": "finestra",
+      "ru": "окно",
+      "es": "ventana",
+      "pl": "okno",
+      "fa": "پنجره"
+    },
+    "explanations": {
+      "en": "An opening in a wall with glass to let light and air in.",
+      "de": "Eine Öffnung in einer Wand mit Glas, um Licht und Luft hereinzulassen.",
+      "ar": "فتحة في جدار بزجاج للسماح بدخول الضوء والهواء.",
+      "fr": "Une ouverture dans un mur avec du verre pour laisser entrer la lumière et l'air.",
+      "it": "Un'apertura in un muro con vetro per far entrare luce e aria.",
+      "ru": "Отверстие в стене со стеклом для пропуска света и воздуха.",
+      "es": "Una abertura en una pared con vidrio para dejar entrar luz y aire.",
+      "pl": "Otwór w ścianie ze szkłem, aby wpuścić światło i powietrze.",
+      "fa": "دریچه‌ای در دیوار با شیشه برای ورود نور و هوا."
+    },
+    "examples": {
+      "en": ["I open the window.", "The window is small.", "I see the window."],
+      "de": ["Ich öffne das Fenster.", "Das Fenster ist klein.", "Ich sehe das Fenster."],
+      "ar": ["أفتح النافذة.", "النافذة صغيرة.", "أرى النافذة."],
+      "fr": ["J'ouvre la fenêtre.", "La fenêtre est petite.", "Je vois la fenêtre."],
+      "it": ["Apro la finestra.", "La finestra è piccola.", "Vedo la finestra."],
+      "ru": ["Я открываю окно.", "Окно маленькое.", "Я вижу окно."],
+      "es": ["Abro la ventana.", "La ventana es pequeña.", "Veo la ventana."],
+      "pl": ["Otwieram okno.", "Okno jest małe.", "Widzę okno."],
+      "fa": ["من پنجره را باز می‌کنم.", "پنجره کوچک است.", "من پنجره را می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_145_en",
+    "word": "table",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "table",
+      "de": "Tisch",
+      "ar": "طاولة",
+      "fr": "table",
+      "it": "tavolo",
+      "ru": "стол",
+      "es": "mesa",
+      "pl": "stół",
+      "fa": "میز"
+    },
+    "explanations": {
+      "en": "A piece of furniture with a flat top and legs for eating or working.",
+      "de": "Ein Möbelstück mit einer flachen Oberseite und Beinen zum Essen oder Arbeiten.",
+      "ar": "قطعة أثاث بسطح مستوٍ وأرجل للأكل أو العمل.",
+      "fr": "Un meuble avec un dessus plat et des pieds pour manger ou travailler.",
+      "it": "Un mobile con un piano piatto e gambe per mangiare o lavorare.",
+      "ru": "Предмет мебели с плоской поверхностью и ножками для еды или работы.",
+      "es": "Un mueble con una superficie plana y patas para comer o trabajar.",
+      "pl": "Mebel z płaskim blatem i nogami do jedzenia lub pracy.",
+      "fa": "قطعه‌ای از مبل با سطح مسطح و پاها برای خوردن یا کار کردن."
+    },
+    "examples": {
+      "en": ["I have a table.", "The table is big.", "I eat on the table."],
+      "de": ["Ich habe einen Tisch.", "Der Tisch ist groß.", "Ich esse am Tisch."],
+      "ar": ["لدي طاولة.", "الطاولة كبيرة.", "آكل على الطاولة."],
+      "fr": ["J'ai une table.", "La table est grande.", "Je mange à la table."],
+      "it": ["Ho un tavolo.", "Il tavolo è grande.", "Mangio al tavolo."],
+      "ru": ["У меня есть стол.", "Стол большой.", "Я ем за столом."],
+      "es": ["Tengo una mesa.", "La mesa es grande.", "Como en la mesa."],
+      "pl": ["Mam stół.", "Stół jest duży.", "Jem przy stole."],
+      "fa": ["من یک میز دارم.", "میز بزرگ است.", "من روی میز غذا می‌خورم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_146_en",
+    "word": "chair",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "стул",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "explanations": {
+      "en": "A piece of furniture for one person to sit on with a back and legs.",
+      "de": "Ein Möbelstück für eine Person zum Sitzen mit Rückenlehne und Beinen.",
+      "ar": "قطعة أثاث لشخص واحد للجلوس عليها بظهر وأرجل.",
+      "fr": "Un meuble pour qu'une personne s'assoie avec un dossier et des pieds.",
+      "it": "Un mobile per una persona per sedersi con uno schienale e gambe.",
+      "ru": "Предмет мебели для одного человека, чтобы сидеть, со спинкой и ножками.",
+      "es": "Un mueble para que una persona se siente con respaldo y patas.",
+      "pl": "Mebel dla jednej osoby do siedzenia z oparciem i nogami.",
+      "fa": "قطعه‌ای از مبل برای نشستن یک نفر با پشتی و پاها."
+    },
+    "examples": {
+      "en": ["I have a chair.", "The chair is small.", "I sit on the chair."],
+      "de": ["Ich habe einen Stuhl.", "Der Stuhl ist klein.", "Ich sitze auf dem Stuhl."],
+      "ar": ["لدي كرسي.", "الكرسي صغير.", "أجلس على الكرسي."],
+      "fr": ["J'ai une chaise.", "La chaise est petite.", "Je m'assois sur la chaise."],
+      "it": ["Ho una sedia.", "La sedia è piccola.", "Mi siedo sulla sedia."],
+      "ru": ["У меня есть стул.", "Стул маленький.", "Я сижу на стуле."],
+      "es": ["Tengo una silla.", "La silla es pequeña.", "Me siento en la silla."],
+      "pl": ["Mam krzesło.", "Krzesło jest małe.", "Siedzę na krześle."],
+      "fa": ["من یک صندلی دارم.", "صندلی کوچک است.", "من روی صندلی می‌نشینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_147_en",
+    "word": "bed",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bed",
+      "de": "Bett",
+      "ar": "سرير",
+      "fr": "lit",
+      "it": "letto",
+      "ru": "кровать",
+      "es": "cama",
+      "pl": "łóżko",
+      "fa": "تخت"
+    },
+    "explanations": {
+      "en": "A piece of furniture for sleeping on, usually with a soft surface.",
+      "de": "Ein Möbelstück zum Schlafen, normalerweise mit einer weichen Oberfläche.",
+      "ar": "قطعة أثاث للنوم عليها، عادة بسطح ناعم.",
+      "fr": "Un meuble pour dormir, généralement avec une surface douce.",
+      "it": "Un mobile per dormire, di solito con una superficie morbida.",
+      "ru": "Предмет мебели для сна, обычно с мягкой поверхностью.",
+      "es": "Un mueble para dormir, generalmente con una superficie suave.",
+      "pl": "Mebel do spania, zwykle z miękką powierzchnią.",
+      "fa": "قطعه‌ای از مبل برای خوابیدن، معمولاً با سطح نرم."
+    },
+    "examples": {
+      "en": ["I have a bed.", "The bed is good.", "I sleep in bed."],
+      "de": ["Ich habe ein Bett.", "Das Bett ist gut.", "Ich schlafe im Bett."],
+      "ar": ["لدي سرير.", "السرير جيد.", "أنام في السرير."],
+      "fr": ["J'ai un lit.", "Le lit est bon.", "Je dors dans le lit."],
+      "it": ["Ho un letto.", "Il letto è buono.", "Dormo nel letto."],
+      "ru": ["У меня есть кровать.", "Кровать хорошая.", "Я сплю в кровати."],
+      "es": ["Tengo una cama.", "La cama es buena.", "Duermo en la cama."],
+      "pl": ["Mam łóżko.", "Łóżko jest dobre.", "Śpię w łóżku."],
+      "fa": ["من یک تخت دارم.", "تخت خوب است.", "من در تخت می‌خوابم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_148_en",
+    "word": "car",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "car",
+      "de": "Auto",
+      "ar": "سيارة",
+      "fr": "voiture",
+      "it": "auto",
+      "ru": "машина",
+      "es": "coche",
+      "pl": "samochód",
+      "fa": "ماشین"
+    },
+    "explanations": {
+      "en": "A vehicle with four wheels that people drive on roads to travel places.",
+      "de": "Ein Fahrzeug mit vier Rädern, das Menschen auf Straßen fahren, um Orte zu bereisen.",
+      "ar": "مركبة بأربع عجلات يقودها الناس على الطرق للسفر إلى الأماكن.",
+      "fr": "Un véhicule à quatre roues que les gens conduisent sur les routes pour se déplacer.",
+      "it": "Un veicolo con quattro ruote che le persone guidano sulle strade per viaggiare.",
+      "ru": "Транспортное средство с четырьмя колесами, которое люди водят по дорогам, чтобы путешествовать.",
+      "es": "Un vehículo con cuatro ruedas que la gente conduce por las carreteras para viajar.",
+      "pl": "Pojazd z czterema kołami, którym ludzie jeżdżą po drogach, aby podróżować.",
+      "fa": "وسیله نقلیه‌ای با چهار چرخ که مردم در جاده‌ها رانندگی می‌کنند تا به مکان‌ها بروند."
+    },
+    "examples": {
+      "en": ["I have a car.", "The car is fast.", "I go by car."],
+      "de": ["Ich habe ein Auto.", "Das Auto ist schnell.", "Ich fahre mit dem Auto."],
+      "ar": ["لدي سيارة.", "السيارة سريعة.", "أذهب بالسيارة."],
+      "fr": ["J'ai une voiture.", "La voiture est rapide.", "Je vais en voiture."],
+      "it": ["Ho un'auto.", "L'auto è veloce.", "Vado in auto."],
+      "ru": ["У меня есть машина.", "Машина быстрая.", "Я еду на машине."],
+      "es": ["Tengo un coche.", "El coche es rápido.", "Voy en coche."],
+      "pl": ["Mam samochód.", "Samochód jest szybki.", "Jadę samochodem."],
+      "fa": ["من یک ماشین دارم.", "ماشین سریع است.", "من با ماشین می‌روم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_149_en",
+    "word": "place",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "place",
+      "de": "Ort",
+      "ar": "مكان",
+      "fr": "endroit",
+      "it": "posto",
+      "ru": "место",
+      "es": "lugar",
+      "pl": "miejsce",
+      "fa": "مکان"
+    },
+    "explanations": {
+      "en": "A particular position, point, or area where something is or happens.",
+      "de": "Eine bestimmte Position, Punkt oder Bereich, wo etwas ist oder passiert.",
+      "ar": "موضع أو نقطة أو منطقة معينة حيث يوجد شيء أو يحدث.",
+      "fr": "Une position, un point ou une zone particulière où quelque chose est ou se passe.",
+      "it": "Una posizione, punto o area particolare dove qualcosa è o accade.",
+      "ru": "Определённая позиция, точка или область, где что-то есть или происходит.",
+      "es": "Una posición, punto o área particular donde algo está o sucede.",
+      "pl": "Określona pozycja, punkt lub obszar, gdzie coś jest lub się dzieje.",
+      "fa": "موقعیت، نقطه یا منطقه خاصی که چیزی در آن است یا اتفاق می‌افتد."
+    },
+    "examples": {
+      "en": ["This is a good place.", "I like this place.", "I live in this place."],
+      "de": ["Das ist ein guter Ort.", "Ich mag diesen Ort.", "Ich lebe an diesem Ort."],
+      "ar": ["هذا مكان جيد.", "أحب هذا المكان.", "أعيش في هذا المكان."],
+      "fr": ["C'est un bon endroit.", "J'aime cet endroit.", "Je vis dans cet endroit."],
+      "it": ["Questo è un buon posto.", "Mi piace questo posto.", "Vivo in questo posto."],
+      "ru": ["Это хорошее место.", "Мне нравится это место.", "Я живу в этом месте."],
+      "es": ["Este es un buen lugar.", "Me gusta este lugar.", "Vivo en este lugar."],
+      "pl": ["To jest dobre miejsce.", "Lubię to miejsce.", "Mieszkam w tym miejscu."],
+      "fa": ["این یک مکان خوب است.", "من این مکان را دوست دارم.", "من در این مکان زندگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_150_en",
+    "word": "home",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "home",
+      "de": "Zuhause",
+      "ar": "منزل",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "hogar",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "explanations": {
+      "en": "The place where you live with your family and feel comfortable.",
+      "de": "Der Ort, wo man mit seiner Familie lebt und sich wohl fühlt.",
+      "ar": "المكان الذي تعيش فيه مع عائلتك وتشعر بالراحة.",
+      "fr": "L'endroit où vous vivez avec votre famille et vous vous sentez à l'aise.",
+      "it": "Il posto dove vivi con la tua famiglia e ti senti a tuo agio.",
+      "ru": "Место, где вы живёте со своей семьёй и чувствуете себя комфортно.",
+      "es": "El lugar donde vives con tu familia y te sientes cómodo.",
+      "pl": "Miejsce, gdzie mieszkasz z rodziną i czujesz się komfortowo.",
+      "fa": "مکانی که با خانواده‌ات زندگی می‌کنی و احساس راحتی می‌کنی."
+    },
+    "examples": {
+      "en": ["I go home now.", "This is my home.", "I love my home."],
+      "de": ["Ich gehe jetzt nach Hause.", "Das ist mein Zuhause.", "Ich liebe mein Zuhause."],
+      "ar": ["أذهب إلى المنزل الآن.", "هذا منزلي.", "أحب منزلي."],
+      "fr": ["Je rentre à la maison maintenant.", "C'est ma maison.", "J'aime ma maison."],
+      "it": ["Vado a casa adesso.", "Questa è la mia casa.", "Amo la mia casa."],
+      "ru": ["Я иду домой сейчас.", "Это мой дом.", "Я люблю свой дом."],
+      "es": ["Voy a casa ahora.", "Este es mi hogar.", "Amo mi hogar."],
+      "pl": ["Idę do domu teraz.", "To jest mój dom.", "Kocham mój dom."],
+      "fa": ["من الان به خانه می‌روم.", "این خانه من است.", "من خانه‌ام را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_151_en",
+    "word": "office",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "office",
+      "de": "Büro",
+      "ar": "مكتب",
+      "fr": "bureau",
+      "it": "ufficio",
+      "ru": "офис",
+      "es": "oficina",
+      "pl": "biuro",
+      "fa": "دفتر"
+    },
+    "explanations": {
+      "en": "A place where people work at desks doing business or professional activities.",
+      "de": "Ein Ort, wo Menschen an Schreibtischen arbeiten und geschäftliche oder berufliche Tätigkeiten ausüben.",
+      "ar": "مكان يعمل فيه الناس على المكاتب للقيام بأنشطة تجارية أو مهنية.",
+      "fr": "Un endroit où les gens travaillent à des bureaux en faisant des activités commerciales ou professionnelles.",
+      "it": "Un luogo dove le persone lavorano alle scrivanie svolgendo attività commerciali o professionali.",
+      "ru": "Место, где люди работают за столами, занимаясь деловой или профессиональной деятельностью.",
+      "es": "Un lugar donde la gente trabaja en escritorios haciendo actividades comerciales o profesionales.",
+      "pl": "Miejsce, gdzie ludzie pracują przy biurkach wykonując działalność biznesową lub zawodową.",
+      "fa": "مکانی که مردم در آن پشت میز کار می‌کنند و فعالیت‌های تجاری یا حرفه‌ای انجام می‌دهند."
+    },
+    "examples": {
+      "en": ["I go to the office.", "I work in an office.", "The office is big."],
+      "de": ["Ich gehe ins Büro.", "Ich arbeite in einem Büro.", "Das Büro ist groß."],
+      "ar": ["أذهب إلى المكتب.", "أعمل في مكتب.", "المكتب كبير."],
+      "fr": ["Je vais au bureau.", "Je travaille dans un bureau.", "Le bureau est grand."],
+      "it": ["Vado in ufficio.", "Lavoro in un ufficio.", "L'ufficio è grande."],
+      "ru": ["Я иду в офис.", "Я работаю в офисе.", "Офис большой."],
+      "es": ["Voy a la oficina.", "Trabajo en una oficina.", "La oficina es grande."],
+      "pl": ["Idę do biura.", "Pracuję w biurze.", "Biuro jest duże."],
+      "fa": ["من به دفتر می‌روم.", "من در دفتر کار می‌کنم.", "دفتر بزرگ است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_152_en",
+    "word": "street",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "street",
+      "de": "Straße",
+      "ar": "شارع",
+      "fr": "rue",
+      "it": "strada",
+      "ru": "улица",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "explanations": {
+      "en": "A public road in a city or town with buildings on both sides.",
+      "de": "Eine öffentliche Straße in einer Stadt mit Gebäuden auf beiden Seiten.",
+      "ar": "طريق عام في مدينة أو بلدة مع مبانٍ على كلا الجانبين.",
+      "fr": "Une route publique dans une ville avec des bâtiments des deux côtés.",
+      "it": "Una strada pubblica in una città con edifici su entrambi i lati.",
+      "ru": "Общественная дорога в городе со зданиями с обеих сторон.",
+      "es": "Una calle pública en una ciudad con edificios a ambos lados.",
+      "pl": "Droga publiczna w mieście z budynkami po obu stronach.",
+      "fa": "جاده عمومی در شهر یا شهرک با ساختمان‌ها در دو طرف."
+    },
+    "examples": {
+      "en": ["I walk on the street.", "This street is long.", "I live on this street."],
+      "de": ["Ich gehe auf der Straße.", "Diese Straße ist lang.", "Ich lebe auf dieser Straße."],
+      "ar": ["أمشي في الشارع.", "هذا الشارع طويل.", "أعيش في هذا الشارع."],
+      "fr": ["Je marche dans la rue.", "Cette rue est longue.", "Je vis dans cette rue."],
+      "it": ["Cammino per la strada.", "Questa strada è lunga.", "Vivo in questa strada."],
+      "ru": ["Я иду по улице.", "Эта улица длинная.", "Я живу на этой улице."],
+      "es": ["Camino por la calle.", "Esta calle es larga.", "Vivo en esta calle."],
+      "pl": ["Chodzę po ulicy.", "Ta ulica jest długa.", "Mieszkam na tej ulicy."],
+      "fa": ["من در خیابان راه می‌روم.", "این خیابان بلند است.", "من در این خیابان زندگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_153_en",
+    "word": "city",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "city",
+      "de": "Stadt",
+      "ar": "مدينة",
+      "fr": "ville",
+      "it": "città",
+      "ru": "город",
+      "es": "ciudad",
+      "pl": "miasto",
+      "fa": "شهر"
+    },
+    "explanations": {
+      "en": "A large and important town with many people, buildings, and businesses.",
+      "de": "Eine große und wichtige Stadt mit vielen Menschen, Gebäuden und Geschäften.",
+      "ar": "بلدة كبيرة ومهمة مع الكثير من الناس والمباني والأعمال.",
+      "fr": "Une grande et importante ville avec beaucoup de gens, de bâtiments et d'entreprises.",
+      "it": "Una grande e importante città con molte persone, edifici e attività.",
+      "ru": "Большой и важный город с множеством людей, зданий и предприятий.",
+      "es": "Una ciudad grande e importante con mucha gente, edificios y negocios.",
+      "pl": "Duże i ważne miasto z wieloma ludźmi, budynkami i biznesami.",
+      "fa": "شهری بزرگ و مهم با مردم، ساختمان‌ها و مشاغل زیاد."
+    },
+    "examples": {
+      "en": ["I live in a city.", "The city is big.", "I love this city."],
+      "de": ["Ich lebe in einer Stadt.", "Die Stadt ist groß.", "Ich liebe diese Stadt."],
+      "ar": ["أعيش في مدينة.", "المدينة كبيرة.", "أحب هذه المدينة."],
+      "fr": ["Je vis dans une ville.", "La ville est grande.", "J'aime cette ville."],
+      "it": ["Vivo in una città.", "La città è grande.", "Amo questa città."],
+      "ru": ["Я живу в городе.", "Город большой.", "Я люблю этот город."],
+      "es": ["Vivo en una ciudad.", "La ciudad es grande.", "Amo esta ciudad."],
+      "pl": ["Mieszkam w mieście.", "Miasto jest duże.", "Kocham to miasto."],
+      "fa": ["من در یک شهر زندگی می‌کنم.", "شهر بزرگ است.", "من این شهر را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_154_en",
+    "word": "town",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "town",
+      "de": "Stadt",
+      "ar": "بلدة",
+      "fr": "ville",
+      "it": "paese",
+      "ru": "город",
+      "es": "pueblo",
+      "pl": "miasteczko",
+      "fa": "شهرک"
+    },
+    "explanations": {
+      "en": "A place where people live that is smaller than a city.",
+      "de": "Ein Ort, wo Menschen leben, der kleiner als eine Stadt ist.",
+      "ar": "مكان يعيش فيه الناس وهو أصغر من مدينة.",
+      "fr": "Un endroit où les gens vivent qui est plus petit qu'une ville.",
+      "it": "Un luogo dove vivono le persone che è più piccolo di una città.",
+      "ru": "Место, где живут люди, которое меньше города.",
+      "es": "Un lugar donde vive la gente que es más pequeño que una ciudad.",
+      "pl": "Miejsce, gdzie mieszkają ludzie, które jest mniejsze niż miasto.",
+      "fa": "مکانی که مردم در آن زندگی می‌کنند که کوچکتر از یک شهر است."
+    },
+    "examples": {
+      "en": ["I live in a town.", "The town is small.", "I like this town."],
+      "de": ["Ich lebe in einer Stadt.", "Die Stadt ist klein.", "Ich mag diese Stadt."],
+      "ar": ["أعيش في بلدة.", "البلدة صغيرة.", "أحب هذه البلدة."],
+      "fr": ["Je vis dans une ville.", "La ville est petite.", "J'aime cette ville."],
+      "it": ["Vivo in un paese.", "Il paese è piccolo.", "Mi piace questo paese."],
+      "ru": ["Я живу в городе.", "Город маленький.", "Мне нравится этот город."],
+      "es": ["Vivo en un pueblo.", "El pueblo es pequeño.", "Me gusta este pueblo."],
+      "pl": ["Mieszkam w miasteczku.", "Miasteczko jest małe.", "Lubię to miasteczko."],
+      "fa": ["من در یک شهرک زندگی می‌کنم.", "شهرک کوچک است.", "من این شهرک را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_155_en",
+    "word": "number",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "number",
+      "de": "Nummer",
+      "ar": "رقم",
+      "fr": "numéro",
+      "it": "numero",
+      "ru": "номер",
+      "es": "número",
+      "pl": "numer",
+      "fa": "شماره"
+    },
+    "explanations": {
+      "en": "A symbol or word used to count things or show position like one, two, three.",
+      "de": "Ein Symbol oder Wort, um Dinge zu zählen oder Position zu zeigen wie eins, zwei, drei.",
+      "ar": "رمز أو كلمة تستخدم لعد الأشياء أو إظهار الموضع مثل واحد، اثنان، ثلاثة.",
+      "fr": "Un symbole ou mot utilisé pour compter des choses ou montrer la position comme un, deux, trois.",
+      "it": "Un simbolo o parola usata per contare cose o mostrare posizione come uno, due, tre.",
+      "ru": "Символ или слово, используемое для подсчёта вещей или показа позиции, например, один, два, три.",
+      "es": "Un símbolo o palabra usado para contar cosas o mostrar posición como uno, dos, tres.",
+      "pl": "Symbol lub słowo używane do liczenia rzeczy lub pokazywania pozycji jak jeden, dwa, trzy.",
+      "fa": "نماد یا کلمه‌ای که برای شمارش چیزها یا نشان دادن موقعیت استفاده می‌شود مثل یک، دو، سه."
+    },
+    "examples": {
+      "en": ["I have a number.", "This is my number.", "I call this number."],
+      "de": ["Ich habe eine Nummer.", "Das ist meine Nummer.", "Ich rufe diese Nummer an."],
+      "ar": ["لدي رقم.", "هذا رقمي.", "أتصل بهذا الرقم."],
+      "fr": ["J'ai un numéro.", "C'est mon numéro.", "J'appelle ce numéro."],
+      "it": ["Ho un numero.", "Questo è il mio numero.", "Chiamo questo numero."],
+      "ru": ["У меня есть номер.", "Это мой номер.", "Я звоню на этот номер."],
+      "es": ["Tengo un número.", "Este es mi número.", "Llamo a este número."],
+      "pl": ["Mam numer.", "To jest mój numer.", "Dzwonię pod ten numer."],
+      "fa": ["من یک شماره دارم.", "این شماره من است.", "من به این شماره زنگ می‌زنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_156_en",
+    "word": "name",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "name",
+      "de": "Name",
+      "ar": "اسم",
+      "fr": "nom",
+      "it": "nome",
+      "ru": "имя",
+      "es": "nombre",
+      "pl": "imię",
+      "fa": "نام"
+    },
+    "explanations": {
+      "en": "The word that identifies a person, place, or thing and what we call them.",
+      "de": "Das Wort, das eine Person, einen Ort oder eine Sache identifiziert und wie wir sie nennen.",
+      "ar": "الكلمة التي تحدد شخصاً أو مكاناً أو شيئاً وما نسميهم.",
+      "fr": "Le mot qui identifie une personne, un lieu ou une chose et comment on les appelle.",
+      "it": "La parola che identifica una persona, luogo o cosa e come li chiamiamo.",
+      "ru": "Слово, которое идентифицирует человека, место или вещь и как мы их называем.",
+      "es": "La palabra que identifica a una persona, lugar o cosa y cómo los llamamos.",
+      "pl": "Słowo, które identyfikuje osobę, miejsce lub rzecz i jak je nazywamy.",
+      "fa": "کلمه‌ای که شخص، مکان یا چیزی را شناسایی می‌کند و چگونه آن‌ها را صدا می‌زنیم."
+    },
+    "examples": {
+      "en": ["I have a name.", "What is your name?", "My name is John."],
+      "de": ["Ich habe einen Namen.", "Wie heißt du?", "Mein Name ist John."],
+      "ar": ["لدي اسم.", "ما اسمك؟", "اسمي جون."],
+      "fr": ["J'ai un nom.", "Quel est ton nom?", "Mon nom est John."],
+      "it": ["Ho un nome.", "Come ti chiami?", "Il mio nome è John."],
+      "ru": ["У меня есть имя.", "Как тебя зовут?", "Меня зовут Джон."],
+      "es": ["Tengo un nombre.", "¿Cuál es tu nombre?", "Mi nombre es John."],
+      "pl": ["Mam imię.", "Jak się nazywasz?", "Mam na imię John."],
+      "fa": ["من یک نام دارم.", "نام شما چیست؟", "نام من جان است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_157_en",
+    "word": "face",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "face",
+      "de": "Gesicht",
+      "ar": "وجه",
+      "fr": "visage",
+      "it": "viso",
+      "ru": "лицо",
+      "es": "cara",
+      "pl": "twarz",
+      "fa": "صورت"
+    },
+    "explanations": {
+      "en": "The front part of a person's head with eyes, nose, and mouth.",
+      "de": "Der vordere Teil des Kopfes einer Person mit Augen, Nase und Mund.",
+      "ar": "الجزء الأمامي من رأس الشخص مع العينين والأنف والفم.",
+      "fr": "La partie avant de la tête d'une personne avec les yeux, le nez et la bouche.",
+      "it": "La parte anteriore della testa di una persona con occhi, naso e bocca.",
+      "ru": "Передняя часть головы человека с глазами, носом и ртом.",
+      "es": "La parte frontal de la cabeza de una persona con ojos, nariz y boca.",
+      "pl": "Przednia część głowy osoby z oczami, nosem i ustami.",
+      "fa": "قسمت جلوی سر یک شخص با چشم‌ها، بینی و دهان."
+    },
+    "examples": {
+      "en": ["I see your face.", "I have a good face.", "I like your face."],
+      "de": ["Ich sehe dein Gesicht.", "Ich habe ein gutes Gesicht.", "Ich mag dein Gesicht."],
+      "ar": ["أرى وجهك.", "لدي وجه جيد.", "أحب وجهك."],
+      "fr": ["Je vois ton visage.", "J'ai un bon visage.", "J'aime ton visage."],
+      "it": ["Vedo il tuo viso.", "Ho un buon viso.", "Mi piace il tuo viso."],
+      "ru": ["Я вижу твоё лицо.", "У меня хорошее лицо.", "Мне нравится твоё лицо."],
+      "es": ["Veo tu cara.", "Tengo una buena cara.", "Me gusta tu cara."],
+      "pl": ["Widzę twoją twarz.", "Mam dobrą twarz.", "Lubię twoją twarz."],
+      "fa": ["من صورت تو را می‌بینم.", "من صورت خوبی دارم.", "من صورت تو را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_158_en",
+    "word": "water",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "water",
+      "de": "Wasser",
+      "ar": "ماء",
+      "fr": "eau",
+      "it": "acqua",
+      "ru": "вода",
+      "es": "agua",
+      "pl": "woda",
+      "fa": "آب"
+    },
+    "explanations": {
+      "en": "A clear liquid without taste or smell that people drink and need to live.",
+      "de": "Eine klare Flüssigkeit ohne Geschmack oder Geruch, die Menschen trinken und zum Leben brauchen.",
+      "ar": "سائل صافٍ بدون طعم أو رائحة يشربه الناس ويحتاجونه للحياة.",
+      "fr": "Un liquide clair sans goût ni odeur que les gens boivent et dont ils ont besoin pour vivre.",
+      "it": "Un liquido trasparente senza gusto o odore che le persone bevono e necessitano per vivere.",
+      "ru": "Прозрачная жидкость без вкуса и запаха, которую люди пьют и нуждаются для жизни.",
+      "es": "Un líquido claro sin sabor ni olor que la gente bebe y necesita para vivir.",
+      "pl": "Przezroczysty płyn bez smaku ani zapachu, który ludzie piją i potrzebują do życia.",
+      "fa": "مایع شفافی بدون طعم یا بو که مردم می‌نوشند و برای زندگی به آن نیاز دارند."
+    },
+    "examples": {
+      "en": ["I drink water.", "The water is good.", "I have water here."],
+      "de": ["Ich trinke Wasser.", "Das Wasser ist gut.", "Ich habe hier Wasser."],
+      "ar": ["أشرب الماء.", "الماء جيد.", "لدي ماء هنا."],
+      "fr": ["Je bois de l'eau.", "L'eau est bonne.", "J'ai de l'eau ici."],
+      "it": ["Bevo acqua.", "L'acqua è buona.", "Ho acqua qui."],
+      "ru": ["Я пью воду.", "Вода хорошая.", "У меня здесь есть вода."],
+      "es": ["Bebo agua.", "El agua es buena.", "Tengo agua aquí."],
+      "pl": ["Piję wodę.", "Woda jest dobra.", "Mam tutaj wodę."],
+      "fa": ["من آب می‌نوشم.", "آب خوب است.", "من اینجا آب دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_159_en",
+    "word": "money",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "money",
+      "de": "Geld",
+      "ar": "مال",
+      "fr": "argent",
+      "it": "denaro",
+      "ru": "деньги",
+      "es": "dinero",
+      "pl": "pieniądze",
+      "fa": "پول"
+    },
+    "explanations": {
+      "en": "Coins or paper used to buy things or pay for services.",
+      "de": "Münzen oder Papier, um Dinge zu kaufen oder für Dienstleistungen zu bezahlen.",
+      "ar": "عملات معدنية أو ورقية تستخدم لشراء أشياء أو الدفع مقابل الخدمات.",
+      "fr": "Pièces ou papier utilisés pour acheter des choses ou payer des services.",
+      "it": "Monete o carta usati per comprare cose o pagare servizi.",
+      "ru": "Монеты или бумага, используемые для покупки вещей или оплаты услуг.",
+      "es": "Monedas o papel usado para comprar cosas o pagar servicios.",
+      "pl": "Monety lub papier używany do kupowania rzeczy lub płacenia za usługi.",
+      "fa": "سکه‌ها یا کاغذی که برای خرید چیزها یا پرداخت برای خدمات استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I have money.", "I need money now.", "I buy with money."],
+      "de": ["Ich habe Geld.", "Ich brauche jetzt Geld.", "Ich kaufe mit Geld."],
+      "ar": ["لدي مال.", "أحتاج مالاً الآن.", "أشتري بالمال."],
+      "fr": ["J'ai de l'argent.", "J'ai besoin d'argent maintenant.", "J'achète avec de l'argent."],
+      "it": ["Ho denaro.", "Ho bisogno di denaro adesso.", "Compro con denaro."],
+      "ru": ["У меня есть деньги.", "Мне нужны деньги сейчас.", "Я покупаю за деньги."],
+      "es": ["Tengo dinero.", "Necesito dinero ahora.", "Compro con dinero."],
+      "pl": ["Mam pieniądze.", "Potrzebuję pieniędzy teraz.", "Kupuję za pieniądze."],
+      "fa": ["من پول دارم.", "من الان به پول نیاز دارم.", "من با پول می‌خرم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_160_en",
+    "word": "food",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "food",
+      "de": "Essen",
+      "ar": "طعام",
+      "fr": "nourriture",
+      "it": "cibo",
+      "ru": "еда",
+      "es": "comida",
+      "pl": "jedzenie",
+      "fa": "غذا"
+    },
+    "explanations": {
+      "en": "Things that people and animals eat to stay alive and healthy.",
+      "de": "Dinge, die Menschen und Tiere essen, um am Leben und gesund zu bleiben.",
+      "ar": "أشياء يأكلها الناس والحيوانات للبقاء على قيد الحياة والصحة.",
+      "fr": "Choses que les gens et les animaux mangent pour rester en vie et en bonne santé.",
+      "it": "Cose che persone e animali mangiano per restare vivi e sani.",
+      "ru": "Вещи, которые люди и животные едят, чтобы оставаться живыми и здоровыми.",
+      "es": "Cosas que la gente y los animales comen para mantenerse vivos y saludables.",
+      "pl": "Rzeczy, które ludzie i zwierzęta jedzą, aby pozostać przy życiu i zdrowiu.",
+      "fa": "چیزهایی که مردم و حیوانات می‌خورند تا زنده و سالم بمانند."
+    },
+    "examples": {
+      "en": ["I eat food.", "The food is good.", "I need food now."],
+      "de": ["Ich esse Essen.", "Das Essen ist gut.", "Ich brauche jetzt Essen."],
+      "ar": ["آكل الطعام.", "الطعام جيد.", "أحتاج طعاماً الآن."],
+      "fr": ["Je mange de la nourriture.", "La nourriture est bonne.", "J'ai besoin de nourriture maintenant."],
+      "it": ["Mangio cibo.", "Il cibo è buono.", "Ho bisogno di cibo adesso."],
+      "ru": ["Я ем еду.", "Еда хорошая.", "Мне нужна еда сейчас."],
+      "es": ["Como comida.", "La comida es buena.", "Necesito comida ahora."],
+      "pl": ["Jem jedzenie.", "Jedzenie jest dobre.", "Potrzebuję jedzenia teraz."],
+      "fa": ["من غذا می‌خورم.", "غذا خوب است.", "من الان به غذا نیاز دارم."]
+    },
+    "conjugations": null
+  }
+]

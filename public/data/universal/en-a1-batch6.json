@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_101_en",
+    "word": "like",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "like",
+      "de": "mögen",
+      "ar": "يحب",
+      "fr": "aimer",
+      "it": "piacere",
+      "ru": "нравиться",
+      "es": "gustar",
+      "pl": "lubić",
+      "fa": "دوست داشتن"
+    },
+    "explanations": {
+      "en": "To find something pleasant or to enjoy something; to have a positive feeling about something.",
+      "de": "Etwas angenehm finden oder etwas genießen; ein positives Gefühl über etwas haben.",
+      "ar": "أن تجد شيئاً لطيفاً أو تستمتع بشيء؛ أن تكون لديك مشاعر إيجابية تجاه شيء.",
+      "fr": "Trouver quelque chose agréable ou apprécier quelque chose; avoir un sentiment positif envers quelque chose.",
+      "it": "Trovare qualcosa piacevole o godere di qualcosa; avere un sentimento positivo su qualcosa.",
+      "ru": "Находить что-то приятным или наслаждаться чем-то; иметь положительное чувство к чему-то.",
+      "es": "Encontrar algo agradable o disfrutar algo; tener un sentimiento positivo sobre algo.",
+      "pl": "Znajdować coś przyjemnym lub cieszyć się czymś; mieć pozytywne uczucie wobec czegoś.",
+      "fa": "چیزی را خوشایند یافتن یا از چیزی لذت بردن؛ داشتن احساس مثبت درباره چیزی."
+    },
+    "examples": {
+      "en": ["I like this.", "Do you like school?", "People like good things."],
+      "de": ["Ich mag das.", "Magst du die Schule?", "Menschen mögen gute Dinge."],
+      "ar": ["أحب هذا.", "هل تحب المدرسة؟", "الناس يحبون الأشياء الجيدة."],
+      "fr": ["J'aime ça.", "Aimes-tu l'école?", "Les gens aiment les bonnes choses."],
+      "it": ["Mi piace questo.", "Ti piace la scuola?", "Alle persone piacciono cose buone."],
+      "ru": ["Мне это нравится.", "Тебе нравится школа?", "Людям нравятся хорошие вещи."],
+      "es": ["Me gusta esto.", "¿Te gusta la escuela?", "A la gente le gustan las cosas buenas."],
+      "pl": ["Lubię to.", "Lubisz szkołę?", "Ludzie lubią dobre rzeczy."],
+      "fa": ["این را دوست دارم.", "مدرسه را دوست داری؟", "مردم چیزهای خوب را دوست دارند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_102_en",
+    "word": "want",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "want",
+      "de": "wollen",
+      "ar": "يريد",
+      "fr": "vouloir",
+      "it": "volere",
+      "ru": "хотеть",
+      "es": "querer",
+      "pl": "chcieć",
+      "fa": "خواستن"
+    },
+    "explanations": {
+      "en": "To have a desire for something or wish to have or do something.",
+      "de": "Ein Verlangen nach etwas haben oder wünschen, etwas zu haben oder zu tun.",
+      "ar": "أن تكون لديك رغبة في شيء أو تتمنى أن تملك أو تفعل شيئاً.",
+      "fr": "Avoir un désir pour quelque chose ou souhaiter avoir ou faire quelque chose.",
+      "it": "Avere un desiderio per qualcosa o desiderare di avere o fare qualcosa.",
+      "ru": "Иметь желание чего-то или желать иметь или делать что-то.",
+      "es": "Tener un deseo por algo o desear tener o hacer algo.",
+      "pl": "Mieć pragnienie czegoś lub pragnąć mieć lub zrobić coś.",
+      "fa": "داشتن میل به چیزی یا آرزو داشتن برای داشتن یا انجام چیزی."
+    },
+    "examples": {
+      "en": ["I want this.", "Do you want food?", "Children want to play."],
+      "de": ["Ich will das.", "Willst du Essen?", "Kinder wollen spielen."],
+      "ar": ["أريد هذا.", "هل تريد طعاماً؟", "الأطفال يريدون اللعب."],
+      "fr": ["Je veux ça.", "Veux-tu de la nourriture?", "Les enfants veulent jouer."],
+      "it": ["Voglio questo.", "Vuoi del cibo?", "I bambini vogliono giocare."],
+      "ru": ["Я хочу это.", "Ты хочешь еду?", "Дети хотят играть."],
+      "es": ["Quiero esto.", "¿Quieres comida?", "Los niños quieren jugar."],
+      "pl": ["Chcę to.", "Chcesz jedzenie?", "Dzieci chcą bawić się."],
+      "fa": ["این را می‌خواهم.", "غذا می‌خواهی؟", "بچه‌ها می‌خواهند بازی کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_103_en",
+    "word": "need",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "need",
+      "de": "brauchen",
+      "ar": "يحتاج",
+      "fr": "avoir besoin",
+      "it": "aver bisogno",
+      "ru": "нуждаться",
+      "es": "necesitar",
+      "pl": "potrzebować",
+      "fa": "نیاز داشتن"
+    },
+    "explanations": {
+      "en": "To require something because it is necessary or very important; must have something.",
+      "de": "Etwas benötigen, weil es notwendig oder sehr wichtig ist; etwas haben müssen.",
+      "ar": "أن تتطلب شيئاً لأنه ضروري أو مهم جداً؛ يجب أن تملك شيئاً.",
+      "fr": "Nécessiter quelque chose parce que c'est nécessaire ou très important; devoir avoir quelque chose.",
+      "it": "Richiedere qualcosa perché è necessario o molto importante; dover avere qualcosa.",
+      "ru": "Требовать что-то, потому что это необходимо или очень важно; должен иметь что-то.",
+      "es": "Requerir algo porque es necesario o muy importante; deber tener algo.",
+      "pl": "Wymagać czegoś, ponieważ jest to konieczne lub bardzo ważne; musieć mieć coś.",
+      "fa": "نیاز به چیزی داشتن چون ضروری یا بسیار مهم است؛ باید چیزی داشت."
+    },
+    "examples": {
+      "en": ["I need this.", "Do you need help?", "People need food."],
+      "de": ["Ich brauche das.", "Brauchst du Hilfe?", "Menschen brauchen Essen."],
+      "ar": ["أحتاج هذا.", "هل تحتاج مساعدة؟", "الناس يحتاجون طعاماً."],
+      "fr": ["J'ai besoin de ça.", "As-tu besoin d'aide?", "Les gens ont besoin de nourriture."],
+      "it": ["Ho bisogno di questo.", "Hai bisogno di aiuto?", "Le persone hanno bisogno di cibo."],
+      "ru": ["Мне это нужно.", "Тебе нужна помощь?", "Людям нужна еда."],
+      "es": ["Necesito esto.", "¿Necesitas ayuda?", "La gente necesita comida."],
+      "pl": ["Potrzebuję tego.", "Potrzebujesz pomocy?", "Ludzie potrzebują jedzenia."],
+      "fa": ["به این نیاز دارم.", "کمک نیاز داری؟", "مردم به غذا نیاز دارند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_104_en",
+    "word": "help",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "help",
+      "de": "helfen",
+      "ar": "يساعد",
+      "fr": "aider",
+      "it": "aiutare",
+      "ru": "помогать",
+      "es": "ayudar",
+      "pl": "pomagać",
+      "fa": "کمک کردن"
+    },
+    "explanations": {
+      "en": "To make it easier for someone to do something or to give assistance to someone.",
+      "de": "Es jemandem leichter machen, etwas zu tun, oder jemandem Hilfe geben.",
+      "ar": "أن تجعل الأمر أسهل على شخص ما للقيام بشيء أو تقديم المساعدة لشخص ما.",
+      "fr": "Rendre plus facile pour quelqu'un de faire quelque chose ou donner de l'aide à quelqu'un.",
+      "it": "Rendere più facile per qualcuno fare qualcosa o dare assistenza a qualcuno.",
+      "ru": "Облегчить кому-то выполнение чего-то или оказать помощь кому-то.",
+      "es": "Hacer más fácil para alguien hacer algo o dar asistencia a alguien.",
+      "pl": "Ułatwić komuś zrobienie czegoś lub udzielić pomocy komuś.",
+      "fa": "آسان‌تر کردن کاری برای کسی یا کمک به کسی."
+    },
+    "examples": {
+      "en": ["I help you.", "Can you help me?", "People help children."],
+      "de": ["Ich helfe dir.", "Kannst du mir helfen?", "Menschen helfen Kindern."],
+      "ar": ["أساعدك.", "هل يمكنك مساعدتي؟", "الناس يساعدون الأطفال."],
+      "fr": ["Je t'aide.", "Peux-tu m'aider?", "Les gens aident les enfants."],
+      "it": ["Ti aiuto.", "Puoi aiutarmi?", "Le persone aiutano i bambini."],
+      "ru": ["Я помогаю тебе.", "Можешь мне помочь?", "Люди помогают детям."],
+      "es": ["Te ayudo.", "¿Puedes ayudarme?", "La gente ayuda a los niños."],
+      "pl": ["Pomagam ci.", "Możesz mi pomóc?", "Ludzie pomagają dzieciom."],
+      "fa": ["به تو کمک می‌کنم.", "می‌توانی به من کمک کنی؟", "مردم به بچه‌ها کمک می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_105_en",
+    "word": "try",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "try",
+      "de": "versuchen",
+      "ar": "يحاول",
+      "fr": "essayer",
+      "it": "provare",
+      "ru": "пытаться",
+      "es": "intentar",
+      "pl": "próbować",
+      "fa": "تلاش کردن"
+    },
+    "explanations": {
+      "en": "To make an effort or attempt to do something; to test or see if you can do something.",
+      "de": "Sich bemühen oder versuchen, etwas zu tun; testen oder sehen, ob man etwas tun kann.",
+      "ar": "أن تبذل جهداً أو تحاول القيام بشيء؛ أن تختبر أو ترى إذا كنت تستطيع فعل شيء.",
+      "fr": "Faire un effort ou tenter de faire quelque chose; tester ou voir si on peut faire quelque chose.",
+      "it": "Fare uno sforzo o tentare di fare qualcosa; testare o vedere se si può fare qualcosa.",
+      "ru": "Прилагать усилие или пытаться сделать что-то; проверять или видеть, можете ли вы что-то сделать.",
+      "es": "Hacer un esfuerzo o intentar hacer algo; probar o ver si puedes hacer algo.",
+      "pl": "Czynić wysiłek lub próbować coś zrobić; testować lub zobaczyć, czy możesz coś zrobić.",
+      "fa": "تلاش یا کوشش برای انجام کاری؛ آزمودن یا دیدن اینکه آیا می‌توانید کاری انجام دهید."
+    },
+    "examples": {
+      "en": ["I try this.", "Can you try?", "People try hard things."],
+      "de": ["Ich versuche das.", "Kannst du versuchen?", "Menschen versuchen schwere Dinge."],
+      "ar": ["أحاول هذا.", "هل يمكنك أن تحاول؟", "الناس يحاولون أشياء صعبة."],
+      "fr": ["J'essaie ça.", "Peux-tu essayer?", "Les gens essaient des choses difficiles."],
+      "it": ["Provo questo.", "Puoi provare?", "Le persone provano cose difficili."],
+      "ru": ["Я пытаюсь это.", "Можешь попытаться?", "Люди пытаются делать трудные вещи."],
+      "es": ["Intento esto.", "¿Puedes intentar?", "La gente intenta cosas difíciles."],
+      "pl": ["Próbuję tego.", "Możesz spróbować?", "Ludzie próbują trudnych rzeczy."],
+      "fa": ["این را امتحان می‌کنم.", "می‌توانی تلاش کنی؟", "مردم چیزهای سخت را امتحان می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_106_en",
+    "word": "think",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "think",
+      "de": "denken",
+      "ar": "يفكر",
+      "fr": "penser",
+      "it": "pensare",
+      "ru": "думать",
+      "es": "pensar",
+      "pl": "myśleć",
+      "fa": "فکر کردن"
+    },
+    "explanations": {
+      "en": "To use your mind to consider ideas, make decisions, or have an opinion about something.",
+      "de": "Den Verstand nutzen, um Ideen zu erwägen, Entscheidungen zu treffen oder eine Meinung über etwas zu haben.",
+      "ar": "استخدام عقلك للنظر في الأفكار أو اتخاذ القرارات أو أن تكون لديك رأي حول شيء.",
+      "fr": "Utiliser son esprit pour considérer des idées, prendre des décisions ou avoir une opinion sur quelque chose.",
+      "it": "Usare la mente per considerare idee, prendere decisioni o avere un'opinione su qualcosa.",
+      "ru": "Использовать ум, чтобы обдумывать идеи, принимать решения или иметь мнение о чём-то.",
+      "es": "Usar tu mente para considerar ideas, tomar decisiones o tener una opinión sobre algo.",
+      "pl": "Używać umysłu, aby rozważać pomysły, podejmować decyzje lub mieć opinię o czymś.",
+      "fa": "استفاده از ذهن برای در نظر گرفتن ایده‌ها، تصمیم‌گیری یا داشتن نظر درباره چیزی."
+    },
+    "examples": {
+      "en": ["I think this is good.", "Do you think?", "People think fast."],
+      "de": ["Ich denke, das ist gut.", "Denkst du?", "Menschen denken schnell."],
+      "ar": ["أعتقد أن هذا جيد.", "هل تعتقد؟", "الناس يفكرون بسرعة."],
+      "fr": ["Je pense que c'est bon.", "Penses-tu?", "Les gens pensent vite."],
+      "it": ["Penso che questo sia buono.", "Pensi?", "Le persone pensano veloce."],
+      "ru": ["Я думаю, это хорошо.", "Ты думаешь?", "Люди думают быстро."],
+      "es": ["Pienso que esto es bueno.", "¿Piensas?", "La gente piensa rápido."],
+      "pl": ["Myślę, że to jest dobre.", "Myślisz?", "Ludzie myślą szybko."],
+      "fa": ["فکر می‌کنم این خوب است.", "فکر می‌کنی؟", "مردم سریع فکر می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_107_en",
+    "word": "look",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "look",
+      "de": "schauen",
+      "ar": "ينظر",
+      "fr": "regarder",
+      "it": "guardare",
+      "ru": "смотреть",
+      "es": "mirar",
+      "pl": "patrzeć",
+      "fa": "نگاه کردن"
+    },
+    "explanations": {
+      "en": "To direct your eyes toward something in order to see it; to turn your attention toward something visually.",
+      "de": "Die Augen auf etwas richten, um es zu sehen; die Aufmerksamkeit visuell auf etwas richten.",
+      "ar": "توجيه عينيك نحو شيء من أجل رؤيته؛ توجيه انتباهك بصرياً نحو شيء.",
+      "fr": "Diriger ses yeux vers quelque chose pour le voir; tourner son attention visuellement vers quelque chose.",
+      "it": "Dirigere gli occhi verso qualcosa per vederlo; rivolgere la propria attenzione visivamente verso qualcosa.",
+      "ru": "Направлять глаза на что-то, чтобы увидеть это; направлять внимание визуально на что-то.",
+      "es": "Dirigir tus ojos hacia algo para verlo; dirigir tu atención visualmente hacia algo.",
+      "pl": "Kierować oczy ku czemuś, aby to zobaczyć; kierować swoją uwagę wizualnie na coś.",
+      "fa": "هدایت چشمان به سمت چیزی برای دیدنش؛ جلب توجه به صورت بصری به سمت چیزی."
+    },
+    "examples": {
+      "en": ["I look here.", "Look at this!", "People look around."],
+      "de": ["Ich schaue hier.", "Schau dir das an!", "Menschen schauen sich um."],
+      "ar": ["أنظر هنا.", "انظر إلى هذا!", "الناس ينظرون حولهم."],
+      "fr": ["Je regarde ici.", "Regarde ça!", "Les gens regardent autour."],
+      "it": ["Guardo qui.", "Guarda questo!", "Le persone guardano in giro."],
+      "ru": ["Я смотрю сюда.", "Посмотри на это!", "Люди смотрят вокруг."],
+      "es": ["Miro aquí.", "¡Mira esto!", "La gente mira alrededor."],
+      "pl": ["Patrzę tutaj.", "Popatrz na to!", "Ludzie rozglądają się."],
+      "fa": ["اینجا نگاه می‌کنم.", "به این نگاه کن!", "مردم اطراف را نگاه می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_108_en",
+    "word": "listen",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "listen",
+      "de": "hören",
+      "ar": "يستمع",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "ru": "слушать",
+      "es": "escuchar",
+      "pl": "słuchać",
+      "fa": "گوش دادن"
+    },
+    "explanations": {
+      "en": "To pay attention to sounds or what someone is saying using your ears.",
+      "de": "Mit den Ohren auf Geräusche oder das, was jemand sagt, achten.",
+      "ar": "الانتباه إلى الأصوات أو ما يقوله شخص ما باستخدام أذنيك.",
+      "fr": "Prêter attention aux sons ou à ce que quelqu'un dit en utilisant ses oreilles.",
+      "it": "Prestare attenzione ai suoni o a ciò che qualcuno sta dicendo usando le orecchie.",
+      "ru": "Обращать внимание на звуки или то, что кто-то говорит, используя уши.",
+      "es": "Prestar atención a los sonidos o a lo que alguien está diciendo usando tus oídos.",
+      "pl": "Zwracać uwagę na dźwięki lub to, co ktoś mówi, używając uszu.",
+      "fa": "توجه کردن به صداها یا آنچه کسی می‌گوید با استفاده از گوش‌ها."
+    },
+    "examples": {
+      "en": ["I listen to you.", "Please listen here.", "Students listen in school."],
+      "de": ["Ich höre dir zu.", "Bitte hör hier zu.", "Studenten hören in der Schule zu."],
+      "ar": ["أستمع إليك.", "من فضلك استمع هنا.", "الطلاب يستمعون في المدرسة."],
+      "fr": ["J'écoute toi.", "Écoute ici s'il te plaît.", "Les étudiants écoutent à l'école."],
+      "it": ["Ti ascolto.", "Ascolta qui per favore.", "Gli studenti ascoltano a scuola."],
+      "ru": ["Я слушаю тебя.", "Пожалуйста, слушай здесь.", "Студенты слушают в школе."],
+      "es": ["Te escucho.", "Escucha aquí por favor.", "Los estudiantes escuchan en la escuela."],
+      "pl": ["Słucham cię.", "Proszę, słuchaj tutaj.", "Studenci słuchają w szkole."],
+      "fa": ["به تو گوش می‌دهم.", "لطفا اینجا گوش کن.", "دانش‌آموزان در مدرسه گوش می‌دهند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_109_en",
+    "word": "speak",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "speak",
+      "de": "sprechen",
+      "ar": "يتكلم",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить",
+      "es": "hablar",
+      "pl": "mówić",
+      "fa": "صحبت کردن"
+    },
+    "explanations": {
+      "en": "To use your voice to say words or communicate with others verbally.",
+      "de": "Die Stimme nutzen, um Worte zu sagen oder sich verbal mit anderen zu verständigen.",
+      "ar": "استخدام صوتك لقول الكلمات أو التواصل مع الآخرين شفوياً.",
+      "fr": "Utiliser sa voix pour dire des mots ou communiquer verbalement avec d'autres.",
+      "it": "Usare la voce per dire parole o comunicare verbalmente con gli altri.",
+      "ru": "Использовать голос, чтобы говорить слова или общаться с другими вербально.",
+      "es": "Usar tu voz para decir palabras o comunicarte verbalmente con otros.",
+      "pl": "Używać głosu, aby powiedzieć słowa lub komunikować się werbalnie z innymi.",
+      "fa": "استفاده از صدا برای گفتن کلمات یا برقراری ارتباط کلامی با دیگران."
+    },
+    "examples": {
+      "en": ["I speak to you.", "Can you speak?", "Children speak fast."],
+      "de": ["Ich spreche zu dir.", "Kannst du sprechen?", "Kinder sprechen schnell."],
+      "ar": ["أتكلم معك.", "هل يمكنك أن تتكلم؟", "الأطفال يتكلمون بسرعة."],
+      "fr": ["Je parle à toi.", "Peux-tu parler?", "Les enfants parlent vite."],
+      "it": ["Parlo a te.", "Puoi parlare?", "I bambini parlano veloce."],
+      "ru": ["Я говорю с тобой.", "Можешь говорить?", "Дети говорят быстро."],
+      "es": ["Hablo contigo.", "¿Puedes hablar?", "Los niños hablan rápido."],
+      "pl": ["Mówię do ciebie.", "Możesz mówić?", "Dzieci mówią szybko."],
+      "fa": ["با تو صحبت می‌کنم.", "می‌توانی صحبت کنی؟", "بچه‌ها سریع صحبت می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_110_en",
+    "word": "read",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "read",
+      "de": "lesen",
+      "ar": "يقرأ",
+      "fr": "lire",
+      "it": "leggere",
+      "ru": "читать",
+      "es": "leer",
+      "pl": "czytać",
+      "fa": "خواندن"
+    },
+    "explanations": {
+      "en": "To look at written words and understand their meaning or say them aloud.",
+      "de": "Geschriebene Worte ansehen und ihre Bedeutung verstehen oder sie laut sagen.",
+      "ar": "النظر إلى الكلمات المكتوبة وفهم معناها أو قولها بصوت عالٍ.",
+      "fr": "Regarder des mots écrits et comprendre leur signification ou les dire à voix haute.",
+      "it": "Guardare parole scritte e capire il loro significato o dirle ad alta voce.",
+      "ru": "Смотреть на написанные слова и понимать их значение или произносить их вслух.",
+      "es": "Mirar palabras escritas y entender su significado o decirlas en voz alta.",
+      "pl": "Patrzeć na napisane słowa i rozumieć ich znaczenie lub mówić je głośno.",
+      "fa": "نگاه کردن به کلمات نوشته شده و درک معنی آنها یا بلند خواندن آنها."
+    },
+    "examples": {
+      "en": ["I read a book.", "Can you read this?", "Students read in school."],
+      "de": ["Ich lese ein Buch.", "Kannst du das lesen?", "Studenten lesen in der Schule."],
+      "ar": ["أقرأ كتاباً.", "هل يمكنك قراءة هذا؟", "الطلاب يقرأون في المدرسة."],
+      "fr": ["Je lis un livre.", "Peux-tu lire ça?", "Les étudiants lisent à l'école."],
+      "it": ["Leggo un libro.", "Puoi leggere questo?", "Gli studenti leggono a scuola."],
+      "ru": ["Я читаю книгу.", "Можешь прочитать это?", "Студенты читают в школе."],
+      "es": ["Leo un libro.", "¿Puedes leer esto?", "Los estudiantes leen en la escuela."],
+      "pl": ["Czytam książkę.", "Możesz to przeczytać?", "Studenci czytają w szkole."],
+      "fa": ["من یک کتاب می‌خوانم.", "می‌توانی این را بخوانی؟", "دانش‌آموزان در مدرسه می‌خوانند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_111_en",
+    "word": "write",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "писать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "explanations": {
+      "en": "To make letters, words, or numbers on paper or another surface with a pen, pencil, or keyboard.",
+      "de": "Buchstaben, Worte oder Zahlen auf Papier oder einer anderen Oberfläche mit Stift, Bleistift oder Tastatur machen.",
+      "ar": "صنع حروف أو كلمات أو أرقام على ورق أو سطح آخر بقلم أو قلم رصاص أو لوحة مفاتيح.",
+      "fr": "Faire des lettres, mots ou chiffres sur papier ou autre surface avec stylo, crayon ou clavier.",
+      "it": "Fare lettere, parole o numeri su carta o altra superficie con penna, matita o tastiera.",
+      "ru": "Делать буквы, слова или числа на бумаге или другой поверхности ручкой, карандашом или клавиатурой.",
+      "es": "Hacer letras, palabras o números en papel u otra superficie con pluma, lápiz o teclado.",
+      "pl": "Robić litery, słowa lub liczby na papierze lub innej powierzchni długopisem, ołówkiem lub klawiaturą.",
+      "fa": "ساختن حروف، کلمات یا اعداد روی کاغذ یا سطح دیگری با قلم، مداد یا صفحه کلید."
+    },
+    "examples": {
+      "en": ["I write here.", "Can you write this?", "Students write in school."],
+      "de": ["Ich schreibe hier.", "Kannst du das schreiben?", "Studenten schreiben in der Schule."],
+      "ar": ["أكتب هنا.", "هل يمكنك كتابة هذا؟", "الطلاب يكتبون في المدرسة."],
+      "fr": ["J'écris ici.", "Peux-tu écrire ça?", "Les étudiants écrivent à l'école."],
+      "it": ["Scrivo qui.", "Puoi scrivere questo?", "Gli studenti scrivono a scuola."],
+      "ru": ["Я пишу здесь.", "Можешь написать это?", "Студенты пишут в школе."],
+      "es": ["Escribo aquí.", "¿Puedes escribir esto?", "Los estudiantes escriben en la escuela."],
+      "pl": ["Piszę tutaj.", "Możesz to napisać?", "Studenci piszą w szkole."],
+      "fa": ["اینجا می‌نویسم.", "می‌توانی این را بنویسی؟", "دانش‌آموزان در مدرسه می‌نویسند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_112_en",
+    "word": "eat",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "eat",
+      "de": "essen",
+      "ar": "يأكل",
+      "fr": "manger",
+      "it": "mangiare",
+      "ru": "есть",
+      "es": "comer",
+      "pl": "jeść",
+      "fa": "خوردن"
+    },
+    "explanations": {
+      "en": "To put food into your mouth, chew it, and swallow it for nutrition.",
+      "de": "Nahrung in den Mund nehmen, kauen und für Ernährung schlucken.",
+      "ar": "وضع الطعام في فمك ومضغه وبلعه للتغذية.",
+      "fr": "Mettre de la nourriture dans sa bouche, la mâcher et l'avaler pour nutrition.",
+      "it": "Mettere cibo in bocca, masticarlo e inghiottirlo per nutrizione.",
+      "ru": "Класть еду в рот, жевать её и глотать для питания.",
+      "es": "Poner comida en tu boca, masticarla y tragarla para nutrición.",
+      "pl": "Wkładać jedzenie do ust, żuć i połykać dla odżywiania.",
+      "fa": "گذاشتن غذا در دهان، جویدن و قورت دادنش برای تغذیه."
+    },
+    "examples": {
+      "en": ["I eat food.", "Do you eat?", "People eat every day."],
+      "de": ["Ich esse Essen.", "Isst du?", "Menschen essen jeden Tag."],
+      "ar": ["آكل طعاماً.", "هل تأكل؟", "الناس يأكلون كل يوم."],
+      "fr": ["Je mange de la nourriture.", "Manges-tu?", "Les gens mangent chaque jour."],
+      "it": ["Mangio del cibo.", "Mangi?", "Le persone mangiano ogni giorno."],
+      "ru": ["Я ем еду.", "Ты ешь?", "Люди едят каждый день."],
+      "es": ["Como comida.", "¿Comes?", "La gente come cada día."],
+      "pl": ["Jem jedzenie.", "Jesz?", "Ludzie jedzą codziennie."],
+      "fa": ["من غذا می‌خورم.", "می‌خوری؟", "مردم هر روز می‌خورند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_113_en",
+    "word": "drink",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "пить",
+      "es": "beber",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "explanations": {
+      "en": "To take liquid into your mouth and swallow it for hydration or refreshment.",
+      "de": "Flüssigkeit in den Mund nehmen und für Hydratation oder Erfrischung schlucken.",
+      "ar": "أخذ السائل في فمك وبلعه للترطيب أو الانتعاش.",
+      "fr": "Prendre du liquide dans sa bouche et l'avaler pour hydratation ou rafraîchissement.",
+      "it": "Prendere liquido in bocca e inghiottirlo per idratazione o rinfrescamento.",
+      "ru": "Брать жидкость в рот и глотать её для гидратации или освежения.",
+      "es": "Tomar líquido en tu boca y tragarlo para hidratación o refrescamiento.",
+      "pl": "Brać płyn do ust i połykać go dla nawodnienia lub orzeźwienia.",
+      "fa": "برداشتن مایع به دهان و قورت دادنش برای آبرسانی یا طراوت."
+    },
+    "examples": {
+      "en": ["I drink water.", "Do you drink?", "People drink every day."],
+      "de": ["Ich trinke Wasser.", "Trinkst du?", "Menschen trinken jeden Tag."],
+      "ar": ["أشرب الماء.", "هل تشرب؟", "الناس يشربون كل يوم."],
+      "fr": ["Je bois de l'eau.", "Bois-tu?", "Les gens boivent chaque jour."],
+      "it": ["Bevo acqua.", "Bevi?", "Le persone bevono ogni giorno."],
+      "ru": ["Я пью воду.", "Ты пьёшь?", "Люди пьют каждый день."],
+      "es": ["Bebo agua.", "¿Bebes?", "La gente bebe cada día."],
+      "pl": ["Piję wodę.", "Pijesz?", "Ludzie piją codziennie."],
+      "fa": ["من آب می‌نوشم.", "می‌نوشی؟", "مردم هر روز می‌نوشند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_114_en",
+    "word": "sleep",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "спать",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "explanations": {
+      "en": "To rest your body and mind with eyes closed in a state of unconsciousness, usually at night.",
+      "de": "Körper und Geist mit geschlossenen Augen in einem Zustand der Bewusstlosigkeit ruhen, normalerweise nachts.",
+      "ar": "راحة جسدك وعقلك مع إغلاق العينين في حالة من اللاوعي، عادة في الليل.",
+      "fr": "Reposer son corps et esprit avec yeux fermés dans un état d'inconscience, habituellement la nuit.",
+      "it": "Riposare corpo e mente con occhi chiusi in stato di incoscienza, di solito di notte.",
+      "ru": "Отдыхать телом и умом с закрытыми глазами в состоянии бессознательности, обычно ночью.",
+      "es": "Descansar tu cuerpo y mente con ojos cerrados en estado de inconsciencia, usualmente de noche.",
+      "pl": "Odpoczywać ciałem i umysłem z zamkniętymi oczami w stanie nieświadomości, zwykle w nocy.",
+      "fa": "استراحت بدن و ذهن با چشمان بسته در حالت ناخودآگاه، معمولاً در شب."
+    },
+    "examples": {
+      "en": ["I sleep now.", "Do you sleep?", "People sleep at night."],
+      "de": ["Ich schlafe jetzt.", "Schläfst du?", "Menschen schlafen nachts."],
+      "ar": ["أنام الآن.", "هل تنام؟", "الناس ينامون في الليل."],
+      "fr": ["Je dors maintenant.", "Dors-tu?", "Les gens dorment la nuit."],
+      "it": ["Dormo adesso.", "Dormi?", "Le persone dormono di notte."],
+      "ru": ["Я сплю сейчас.", "Ты спишь?", "Люди спят ночью."],
+      "es": ["Duermo ahora.", "¿Duermes?", "La gente duerme de noche."],
+      "pl": ["Śpię teraz.", "Śpisz?", "Ludzie śpią w nocy."],
+      "fa": ["الان می‌خوابم.", "می‌خوابی؟", "مردم شب می‌خوابند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_115_en",
+    "word": "play",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "play",
+      "de": "spielen",
+      "ar": "يلعب",
+      "fr": "jouer",
+      "it": "giocare",
+      "ru": "играть",
+      "es": "jugar",
+      "pl": "grać",
+      "fa": "بازی کردن"
+    },
+    "explanations": {
+      "en": "To do an activity for fun and enjoyment, often with toys, games, or sports.",
+      "de": "Eine Aktivität zum Spaß und Genuss machen, oft mit Spielzeug, Spielen oder Sport.",
+      "ar": "القيام بنشاط للمتعة والاستمتاع، غالباً مع ألعاب أو ألعاب أو رياضات.",
+      "fr": "Faire une activité pour plaisir et amusement, souvent avec jouets, jeux ou sports.",
+      "it": "Fare un'attività per divertimento e godimento, spesso con giocattoli, giochi o sport.",
+      "ru": "Заниматься деятельностью для веселья и удовольствия, часто с игрушками, играми или спортом.",
+      "es": "Hacer una actividad por diversión y disfrute, a menudo con juguetes, juegos o deportes.",
+      "pl": "Wykonywać czynność dla zabawy i przyjemności, często z zabawkami, grami lub sportami.",
+      "fa": "انجام فعالیتی برای سرگرمی و لذت، اغلب با اسباب‌بازی، بازی یا ورزش."
+    },
+    "examples": {
+      "en": ["I play here.", "Children play every day.", "Do you play?"],
+      "de": ["Ich spiele hier.", "Kinder spielen jeden Tag.", "Spielst du?"],
+      "ar": ["ألعب هنا.", "الأطفال يلعبون كل يوم.", "هل تلعب؟"],
+      "fr": ["Je joue ici.", "Les enfants jouent chaque jour.", "Joues-tu?"],
+      "it": ["Gioco qui.", "I bambini giocano ogni giorno.", "Giochi?"],
+      "ru": ["Я играю здесь.", "Дети играют каждый день.", "Ты играешь?"],
+      "es": ["Juego aquí.", "Los niños juegan cada día.", "¿Juegas?"],
+      "pl": ["Gram tutaj.", "Dzieci grają codziennie.", "Grasz?"],
+      "fa": ["اینجا بازی می‌کنم.", "بچه‌ها هر روز بازی می‌کنند.", "بازی می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_116_en",
+    "word": "run",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "run",
+      "de": "rennen",
+      "ar": "يركض",
+      "fr": "courir",
+      "it": "correre",
+      "ru": "бегать",
+      "es": "correr",
+      "pl": "biegać",
+      "fa": "دویدن"
+    },
+    "explanations": {
+      "en": "To move very fast on your feet, faster than walking, with quick steps.",
+      "de": "Sehr schnell auf den Füßen bewegen, schneller als Gehen, mit schnellen Schritten.",
+      "ar": "التحرك بسرعة كبيرة على قدميك، أسرع من المشي، بخطوات سريعة.",
+      "fr": "Se déplacer très vite sur ses pieds, plus vite que marcher, avec pas rapides.",
+      "it": "Muoversi molto veloce sui piedi, più veloce del camminare, con passi rapidi.",
+      "ru": "Двигаться очень быстро на ногах, быстрее, чем ходить, быстрыми шагами.",
+      "es": "Moverse muy rápido en tus pies, más rápido que caminar, con pasos rápidos.",
+      "pl": "Poruszać się bardzo szybko na nogach, szybciej niż chodzić, z szybkimi krokami.",
+      "fa": "حرکت بسیار سریع روی پاها، سریع‌تر از راه رفتن، با گام‌های سریع."
+    },
+    "examples": {
+      "en": ["I run fast.", "Children run here.", "Can you run?"],
+      "de": ["Ich renne schnell.", "Kinder rennen hier.", "Kannst du rennen?"],
+      "ar": ["أركض بسرعة.", "الأطفال يركضون هنا.", "هل يمكنك أن تركض؟"],
+      "fr": ["Je cours vite.", "Les enfants courent ici.", "Peux-tu courir?"],
+      "it": ["Corro veloce.", "I bambini corrono qui.", "Puoi correre?"],
+      "ru": ["Я бегу быстро.", "Дети бегают здесь.", "Можешь бежать?"],
+      "es": ["Corro rápido.", "Los niños corren aquí.", "¿Puedes correr?"],
+      "pl": ["Biegnę szybko.", "Dzieci biegają tutaj.", "Możesz biegać?"],
+      "fa": ["من سریع می‌دوم.", "بچه‌ها اینجا می‌دوند.", "می‌توانی بدوی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_117_en",
+    "word": "walk",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "walk",
+      "de": "gehen",
+      "ar": "يمشي",
+      "fr": "marcher",
+      "it": "camminare",
+      "ru": "ходить",
+      "es": "caminar",
+      "pl": "chodzić",
+      "fa": "راه رفتن"
+    },
+    "explanations": {
+      "en": "To move on your feet at a regular, moderate pace, putting one foot in front of the other.",
+      "de": "Auf den Füßen in einem regelmäßigen, moderaten Tempo bewegen, einen Fuß vor den anderen setzen.",
+      "ar": "التحرك على قدميك بوتيرة منتظمة ومعتدلة، ووضع قدم أمام الأخرى.",
+      "fr": "Se déplacer sur ses pieds à un rythme régulier et modéré, mettant un pied devant l'autre.",
+      "it": "Muoversi sui piedi a un ritmo regolare e moderato, mettendo un piede davanti all'altro.",
+      "ru": "Двигаться на ногах в регулярном, умеренном темпе, ставя одну ногу перед другой.",
+      "es": "Moverse en tus pies a un ritmo regular y moderado, poniendo un pie delante del otro.",
+      "pl": "Poruszać się na nogach w regularnym, umiarkowanym tempie, stawiając jedną nogę przed drugą.",
+      "fa": "حرکت روی پاها با سرعت منظم و متوسط، گذاشتن یک پا جلوی دیگری."
+    },
+    "examples": {
+      "en": ["I walk here.", "People walk every day.", "Can you walk?"],
+      "de": ["Ich gehe hier.", "Menschen gehen jeden Tag.", "Kannst du gehen?"],
+      "ar": ["أمشي هنا.", "الناس يمشون كل يوم.", "هل يمكنك أن تمشي؟"],
+      "fr": ["Je marche ici.", "Les gens marchent chaque jour.", "Peux-tu marcher?"],
+      "it": ["Cammino qui.", "Le persone camminano ogni giorno.", "Puoi camminare?"],
+      "ru": ["Я хожу здесь.", "Люди ходят каждый день.", "Можешь ходить?"],
+      "es": ["Camino aquí.", "La gente camina cada día.", "¿Puedes caminar?"],
+      "pl": ["Chodzę tutaj.", "Ludzie chodzą codziennie.", "Możesz chodzić?"],
+      "fa": ["اینجا راه می‌روم.", "مردم هر روز راه می‌روند.", "می‌توانی راه بروی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_118_en",
+    "word": "open",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "open",
+      "de": "öffnen",
+      "ar": "يفتح",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "ru": "открывать",
+      "es": "abrir",
+      "pl": "otwierać",
+      "fa": "باز کردن"
+    },
+    "explanations": {
+      "en": "To move something so that an entrance, container, or passage is no longer closed or blocked.",
+      "de": "Etwas bewegen, damit ein Eingang, Behälter oder Durchgang nicht mehr geschlossen oder blockiert ist.",
+      "ar": "تحريك شيء حتى لا يعود المدخل أو الحاوية أو الممر مغلقاً أو مسدوداً.",
+      "fr": "Déplacer quelque chose pour qu'une entrée, contenant ou passage ne soit plus fermé ou bloqué.",
+      "it": "Muovere qualcosa in modo che un'entrata, contenitore o passaggio non sia più chiuso o bloccato.",
+      "ru": "Перемещать что-то, чтобы вход, контейнер или проход больше не был закрыт или заблокирован.",
+      "es": "Mover algo para que una entrada, contenedor o paso ya no esté cerrado o bloqueado.",
+      "pl": "Przenosić coś, aby wejście, pojemnik lub przejście nie było już zamknięte lub zablokowane.",
+      "fa": "جابجا کردن چیزی تا ورودی، ظرف یا گذرگاه دیگر بسته یا مسدود نباشد."
+    },
+    "examples": {
+      "en": ["I open this.", "Can you open?", "People open things."],
+      "de": ["Ich öffne das.", "Kannst du öffnen?", "Menschen öffnen Dinge."],
+      "ar": ["أفتح هذا.", "هل يمكنك أن تفتح؟", "الناس يفتحون أشياء."],
+      "fr": ["J'ouvre ça.", "Peux-tu ouvrir?", "Les gens ouvrent des choses."],
+      "it": ["Apro questo.", "Puoi aprire?", "Le persone aprono cose."],
+      "ru": ["Я открываю это.", "Можешь открыть?", "Люди открывают вещи."],
+      "es": ["Abro esto.", "¿Puedes abrir?", "La gente abre cosas."],
+      "pl": ["Otwieram to.", "Możesz otworzyć?", "Ludzie otwierają rzeczy."],
+      "fa": ["این را باز می‌کنم.", "می‌توانی باز کنی؟", "مردم چیزها را باز می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_119_en",
+    "word": "close",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "close",
+      "de": "schließen",
+      "ar": "يغلق",
+      "fr": "fermer",
+      "it": "chiudere",
+      "ru": "закрывать",
+      "es": "cerrar",
+      "pl": "zamykać",
+      "fa": "بستن"
+    },
+    "explanations": {
+      "en": "To move something so that an entrance, container, or passage is blocked or shut; opposite of open.",
+      "de": "Etwas bewegen, damit ein Eingang, Behälter oder Durchgang blockiert oder geschlossen ist; Gegenteil von öffnen.",
+      "ar": "تحريك شيء حتى يكون المدخل أو الحاوية أو الممر مسدوداً أو مغلقاً؛ عكس فتح.",
+      "fr": "Déplacer quelque chose pour qu'une entrée, contenant ou passage soit bloqué ou fermé; opposé d'ouvrir.",
+      "it": "Muovere qualcosa in modo che un'entrata, contenitore o passaggio sia bloccato o chiuso; opposto di aprire.",
+      "ru": "Перемещать что-то, чтобы вход, контейнер или проход был заблокирован или закрыт; противоположность открыть.",
+      "es": "Mover algo para que una entrada, contenedor o paso esté bloqueado o cerrado; opuesto de abrir.",
+      "pl": "Przenosić coś, aby wejście, pojemnik lub przejście było zablokowane lub zamknięte; przeciwieństwo otworzyć.",
+      "fa": "جابجا کردن چیزی تا ورودی، ظرف یا گذرگاه مسدود یا بسته شود؛ مخالف باز کردن."
+    },
+    "examples": {
+      "en": ["I close this.", "Can you close?", "People close things."],
+      "de": ["Ich schließe das.", "Kannst du schließen?", "Menschen schließen Dinge."],
+      "ar": ["أغلق هذا.", "هل يمكنك أن تغلق؟", "الناس يغلقون أشياء."],
+      "fr": ["Je ferme ça.", "Peux-tu fermer?", "Les gens ferment des choses."],
+      "it": ["Chiudo questo.", "Puoi chiudere?", "Le persone chiudono cose."],
+      "ru": ["Я закрываю это.", "Можешь закрыть?", "Люди закрывают вещи."],
+      "es": ["Cierro esto.", "¿Puedes cerrar?", "La gente cierra cosas."],
+      "pl": ["Zamykam to.", "Możesz zamknąć?", "Ludzie zamykają rzeczy."],
+      "fa": ["این را می‌بندم.", "می‌توانی ببندی؟", "مردم چیزها را می‌بندند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_120_en",
+    "word": "buy",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "buy",
+      "de": "kaufen",
+      "ar": "يشتري",
+      "fr": "acheter",
+      "it": "comprare",
+      "ru": "покупать",
+      "es": "comprar",
+      "pl": "kupować",
+      "fa": "خریدن"
+    },
+    "explanations": {
+      "en": "To get something by paying money for it in exchange; to purchase something from a store or person.",
+      "de": "Etwas bekommen, indem man Geld dafür im Austausch bezahlt; etwas von einem Geschäft oder Person kaufen.",
+      "ar": "الحصول على شيء عن طريق دفع المال مقابله؛ شراء شيء من متجر أو شخص.",
+      "fr": "Obtenir quelque chose en payant de l'argent en échange; acheter quelque chose d'un magasin ou personne.",
+      "it": "Ottenere qualcosa pagando denaro in cambio; acquistare qualcosa da un negozio o persona.",
+      "ru": "Получить что-то, заплатив за это деньги в обмен; купить что-то в магазине или у человека.",
+      "es": "Obtener algo pagando dinero a cambio; comprar algo de una tienda o persona.",
+      "pl": "Zdobyć coś płacąc za to pieniądze w zamian; kupić coś w sklepie lub od osoby.",
+      "fa": "به دست آوردن چیزی با پرداخت پول در ازای آن؛ خریدن چیزی از فروشگاه یا شخص."
+    },
+    "examples": {
+      "en": ["I buy this.", "Can you buy?", "People buy food."],
+      "de": ["Ich kaufe das.", "Kannst du kaufen?", "Menschen kaufen Essen."],
+      "ar": ["أشتري هذا.", "هل يمكنك أن تشتري؟", "الناس يشترون طعاماً."],
+      "fr": ["J'achète ça.", "Peux-tu acheter?", "Les gens achètent de la nourriture."],
+      "it": ["Compro questo.", "Puoi comprare?", "Le persone comprano cibo."],
+      "ru": ["Я покупаю это.", "Можешь купить?", "Люди покупают еду."],
+      "es": ["Compro esto.", "¿Puedes comprar?", "La gente compra comida."],
+      "pl": ["Kupuję to.", "Możesz kupić?", "Ludzie kupują jedzenie."],
+      "fa": ["این را می‌خرم.", "می‌توانی بخری؟", "مردم غذا می‌خرند."]
+    },
+    "conjugations": null
+  }
+]

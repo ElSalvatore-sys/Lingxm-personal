@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_081_en",
+    "word": "big",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "big",
+      "de": "groß",
+      "ar": "كبير",
+      "fr": "grand",
+      "it": "grande",
+      "ru": "большой",
+      "es": "grande",
+      "pl": "duży",
+      "fa": "بزرگ"
+    },
+    "explanations": {
+      "en": "Large in size, amount, or importance; not small.",
+      "de": "Groß in Größe, Menge oder Bedeutung; nicht klein.",
+      "ar": "كبير في الحجم أو الكمية أو الأهمية؛ ليس صغيراً.",
+      "fr": "Grand en taille, quantité ou importance; pas petit.",
+      "it": "Grande in dimensione, quantità o importanza; non piccolo.",
+      "ru": "Большой по размеру, количеству или важности; не маленький.",
+      "es": "Grande en tamaño, cantidad o importancia; no pequeño.",
+      "pl": "Duży w rozmiarze, ilości lub znaczeniu; nie mały.",
+      "fa": "بزرگ در اندازه، مقدار یا اهمیت؛ کوچک نیست."
+    },
+    "examples": {
+      "en": ["This is big.", "I see a big thing.", "The world is big."],
+      "de": ["Das ist groß.", "Ich sehe ein großes Ding.", "Die Welt ist groß."],
+      "ar": ["هذا كبير.", "أرى شيئاً كبيراً.", "العالم كبير."],
+      "fr": ["C'est grand.", "Je vois une grande chose.", "Le monde est grand."],
+      "it": ["Questo è grande.", "Vedo una cosa grande.", "Il mondo è grande."],
+      "ru": ["Это большое.", "Я вижу большую вещь.", "Мир большой."],
+      "es": ["Esto es grande.", "Veo una cosa grande.", "El mundo es grande."],
+      "pl": ["To jest duże.", "Widzę dużą rzecz.", "Świat jest duży."],
+      "fa": ["این بزرگ است.", "من یک چیز بزرگ می‌بینم.", "دنیا بزرگ است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_082_en",
+    "word": "small",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "small",
+      "de": "klein",
+      "ar": "صغير",
+      "fr": "petit",
+      "it": "piccolo",
+      "ru": "маленький",
+      "es": "pequeño",
+      "pl": "mały",
+      "fa": "کوچک"
+    },
+    "explanations": {
+      "en": "Little in size, amount, or importance; not big.",
+      "de": "Klein in Größe, Menge oder Bedeutung; nicht groß.",
+      "ar": "صغير في الحجم أو الكمية أو الأهمية؛ ليس كبيراً.",
+      "fr": "Petit en taille, quantité ou importance; pas grand.",
+      "it": "Piccolo in dimensione, quantità o importanza; non grande.",
+      "ru": "Маленький по размеру, количеству или важности; не большой.",
+      "es": "Pequeño en tamaño, cantidad o importancia; no grande.",
+      "pl": "Mały w rozmiarze, ilości lub znaczeniu; nie duży.",
+      "fa": "کوچک در اندازه، مقدار یا اهمیت؛ بزرگ نیست."
+    },
+    "examples": {
+      "en": ["This is small.", "I see a small child.", "A small hand."],
+      "de": ["Das ist klein.", "Ich sehe ein kleines Kind.", "Eine kleine Hand."],
+      "ar": ["هذا صغير.", "أرى طفلاً صغيراً.", "يد صغيرة."],
+      "fr": ["C'est petit.", "Je vois un petit enfant.", "Une petite main."],
+      "it": ["Questo è piccolo.", "Vedo un bambino piccolo.", "Una mano piccola."],
+      "ru": ["Это маленькое.", "Я вижу маленького ребёнка.", "Маленькая рука."],
+      "es": ["Esto es pequeño.", "Veo un niño pequeño.", "Una mano pequeña."],
+      "pl": ["To jest małe.", "Widzę małe dziecko.", "Mała ręka."],
+      "fa": ["این کوچک است.", "من یک بچه کوچک می‌بینم.", "یک دست کوچک."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_083_en",
+    "word": "good",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "good",
+      "de": "gut",
+      "ar": "جيد",
+      "fr": "bon",
+      "it": "buono",
+      "ru": "хороший",
+      "es": "bueno",
+      "pl": "dobry",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "Of high quality, pleasant, or satisfactory; the opposite of bad.",
+      "de": "Von hoher Qualität, angenehm oder zufriedenstellend; das Gegenteil von schlecht.",
+      "ar": "ذو جودة عالية أو لطيف أو مُرضٍ؛ عكس سيئ.",
+      "fr": "De haute qualité, agréable ou satisfaisant; le contraire de mauvais.",
+      "it": "Di alta qualità, piacevole o soddisfacente; l'opposto di cattivo.",
+      "ru": "Высокого качества, приятный или удовлетворительный; противоположность плохому.",
+      "es": "De alta calidad, agradable o satisfactorio; lo opuesto de malo.",
+      "pl": "O wysokiej jakości, przyjemny lub zadowalający; przeciwieństwo złego.",
+      "fa": "با کیفیت بالا، خوشایند یا رضایت‌بخش؛ مخالف بد."
+    },
+    "examples": {
+      "en": ["This is good.", "I feel good.", "A good day."],
+      "de": ["Das ist gut.", "Ich fühle mich gut.", "Ein guter Tag."],
+      "ar": ["هذا جيد.", "أشعر بشعور جيد.", "يوم جيد."],
+      "fr": ["C'est bon.", "Je me sens bien.", "Une bonne journée."],
+      "it": ["Questo è buono.", "Mi sento bene.", "Una buona giornata."],
+      "ru": ["Это хорошо.", "Я чувствую себя хорошо.", "Хороший день."],
+      "es": ["Esto es bueno.", "Me siento bien.", "Un buen día."],
+      "pl": ["To jest dobre.", "Czuję się dobrze.", "Dobry dzień."],
+      "fa": ["این خوب است.", "احساس خوبی دارم.", "یک روز خوب."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_084_en",
+    "word": "bad",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bad",
+      "de": "schlecht",
+      "ar": "سيء",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "ru": "плохой",
+      "es": "malo",
+      "pl": "zły",
+      "fa": "بد"
+    },
+    "explanations": {
+      "en": "Of poor quality, unpleasant, or not satisfactory; the opposite of good.",
+      "de": "Von schlechter Qualität, unangenehm oder nicht zufriedenstellend; das Gegenteil von gut.",
+      "ar": "ذو جودة رديئة أو غير سار أو غير مُرضٍ؛ عكس جيد.",
+      "fr": "De mauvaise qualité, désagréable ou pas satisfaisant; le contraire de bon.",
+      "it": "Di scarsa qualità, spiacevole o non soddisfacente; l'opposto di buono.",
+      "ru": "Низкого качества, неприятный или неудовлетворительный; противоположность хорошему.",
+      "es": "De mala calidad, desagradable o no satisfactorio; lo opuesto de bueno.",
+      "pl": "Złej jakości, nieprzyjemny lub niezadowalający; przeciwieństwo dobrego.",
+      "fa": "با کیفیت ضعیف، ناخوشایند یا رضایت‌بخش نیست؛ مخالف خوب."
+    },
+    "examples": {
+      "en": ["This is bad.", "I feel bad.", "A bad day."],
+      "de": ["Das ist schlecht.", "Ich fühle mich schlecht.", "Ein schlechter Tag."],
+      "ar": ["هذا سيء.", "أشعر بشعور سيء.", "يوم سيء."],
+      "fr": ["C'est mauvais.", "Je me sens mal.", "Une mauvaise journée."],
+      "it": ["Questo è cattivo.", "Mi sento male.", "Una brutta giornata."],
+      "ru": ["Это плохо.", "Я чувствую себя плохо.", "Плохой день."],
+      "es": ["Esto es malo.", "Me siento mal.", "Un mal día."],
+      "pl": ["To jest złe.", "Czuję się źle.", "Zły dzień."],
+      "fa": ["این بد است.", "احساس بدی دارم.", "یک روز بد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_085_en",
+    "word": "new",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "new",
+      "de": "neu",
+      "ar": "جديد",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "ru": "новый",
+      "es": "nuevo",
+      "pl": "nowy",
+      "fa": "جدید"
+    },
+    "explanations": {
+      "en": "Recently made, created, or discovered; not old or used before.",
+      "de": "Kürzlich hergestellt, erstellt oder entdeckt; nicht alt oder vorher benutzt.",
+      "ar": "تم صنعه أو إنشاؤه أو اكتشافه مؤخراً؛ ليس قديماً أو مستخدماً من قبل.",
+      "fr": "Récemment fait, créé ou découvert; pas vieux ou utilisé avant.",
+      "it": "Recentemente fatto, creato o scoperto; non vecchio o usato prima.",
+      "ru": "Недавно сделанный, созданный или открытый; не старый или использованный ранее.",
+      "es": "Recientemente hecho, creado o descubierto; no viejo o usado antes.",
+      "pl": "Niedawno wykonany, stworzony lub odkryty; nie stary lub używany wcześniej.",
+      "fa": "اخیراً ساخته شده، ایجاد شده یا کشف شده؛ قدیمی یا استفاده شده قبلی نیست."
+    },
+    "examples": {
+      "en": ["This is new.", "I get a new thing.", "A new year begins."],
+      "de": ["Das ist neu.", "Ich bekomme ein neues Ding.", "Ein neues Jahr beginnt."],
+      "ar": ["هذا جديد.", "أحصل على شيء جديد.", "تبدأ سنة جديدة."],
+      "fr": ["C'est nouveau.", "J'obtiens une nouvelle chose.", "Une nouvelle année commence."],
+      "it": ["Questo è nuovo.", "Ottengo una cosa nuova.", "Un nuovo anno inizia."],
+      "ru": ["Это новое.", "Я получаю новую вещь.", "Новый год начинается."],
+      "es": ["Esto es nuevo.", "Obtengo una cosa nueva.", "Un nuevo año comienza."],
+      "pl": ["To jest nowe.", "Dostaję nową rzecz.", "Nowy rok się zaczyna."],
+      "fa": ["این جدید است.", "من یک چیز جدید می‌گیرم.", "سال جدید شروع می‌شود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_086_en",
+    "word": "old",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "old",
+      "de": "alt",
+      "ar": "قديم",
+      "fr": "vieux",
+      "it": "vecchio",
+      "ru": "старый",
+      "es": "viejo",
+      "pl": "stary",
+      "fa": "قدیمی"
+    },
+    "explanations": {
+      "en": "Having existed for a long time; not new or young.",
+      "de": "Seit langer Zeit existierend; nicht neu oder jung.",
+      "ar": "موجود منذ وقت طويل؛ ليس جديداً أو شاباً.",
+      "fr": "Existant depuis longtemps; pas nouveau ou jeune.",
+      "it": "Esistente da lungo tempo; non nuovo o giovane.",
+      "ru": "Существующий долгое время; не новый или молодой.",
+      "es": "Existente desde hace mucho tiempo; no nuevo o joven.",
+      "pl": "Istniejący od długiego czasu; nie nowy lub młody.",
+      "fa": "مدت زیادی است که وجود دارد؛ جدید یا جوان نیست."
+    },
+    "examples": {
+      "en": ["This is old.", "I see an old man.", "An old school."],
+      "de": ["Das ist alt.", "Ich sehe einen alten Mann.", "Eine alte Schule."],
+      "ar": ["هذا قديم.", "أرى رجلاً مسناً.", "مدرسة قديمة."],
+      "fr": ["C'est vieux.", "Je vois un vieil homme.", "Une vieille école."],
+      "it": ["Questo è vecchio.", "Vedo un uomo vecchio.", "Una scuola vecchia."],
+      "ru": ["Это старое.", "Я вижу старого мужчину.", "Старая школа."],
+      "es": ["Esto es viejo.", "Veo a un hombre viejo.", "Una escuela vieja."],
+      "pl": ["To jest stare.", "Widzę starego mężczyznę.", "Stara szkoła."],
+      "fa": ["این قدیمی است.", "من یک مرد مسن می‌بینم.", "یک مدرسه قدیمی."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_087_en",
+    "word": "long",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "long",
+      "de": "lang",
+      "ar": "طويل",
+      "fr": "long",
+      "it": "lungo",
+      "ru": "длинный",
+      "es": "largo",
+      "pl": "długi",
+      "fa": "بلند"
+    },
+    "explanations": {
+      "en": "Having great distance from one end to the other; not short in length or time.",
+      "de": "Eine große Distanz von einem Ende zum anderen haben; nicht kurz in Länge oder Zeit.",
+      "ar": "له مسافة كبيرة من طرف إلى آخر؛ ليس قصيراً في الطول أو الوقت.",
+      "fr": "Ayant une grande distance d'un bout à l'autre; pas court en longueur ou temps.",
+      "it": "Avente grande distanza da un'estremità all'altra; non corto in lunghezza o tempo.",
+      "ru": "Имеющий большое расстояние от одного конца до другого; не короткий по длине или времени.",
+      "es": "Que tiene gran distancia de un extremo al otro; no corto en longitud o tiempo.",
+      "pl": "Mający dużą odległość od jednego końca do drugiego; nie krótki w długości lub czasie.",
+      "fa": "دارای فاصله زیاد از یک انتها به انتهای دیگر؛ در طول یا زمان کوتاه نیست."
+    },
+    "examples": {
+      "en": ["This is long.", "A long day.", "The way is long."],
+      "de": ["Das ist lang.", "Ein langer Tag.", "Der Weg ist lang."],
+      "ar": ["هذا طويل.", "يوم طويل.", "الطريق طويل."],
+      "fr": ["C'est long.", "Une longue journée.", "Le chemin est long."],
+      "it": ["Questo è lungo.", "Una lunga giornata.", "La via è lunga."],
+      "ru": ["Это длинное.", "Длинный день.", "Путь длинный."],
+      "es": ["Esto es largo.", "Un día largo.", "El camino es largo."],
+      "pl": ["To jest długie.", "Długi dzień.", "Droga jest długa."],
+      "fa": ["این بلند است.", "یک روز بلند.", "راه بلند است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_088_en",
+    "word": "short",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "short",
+      "de": "kurz",
+      "ar": "قصير",
+      "fr": "court",
+      "it": "corto",
+      "ru": "короткий",
+      "es": "corto",
+      "pl": "krótki",
+      "fa": "کوتاه"
+    },
+    "explanations": {
+      "en": "Having little distance from one end to the other; not long in length or time.",
+      "de": "Wenig Distanz von einem Ende zum anderen haben; nicht lang in Länge oder Zeit.",
+      "ar": "له مسافة قليلة من طرف إلى آخر؛ ليس طويلاً في الطول أو الوقت.",
+      "fr": "Ayant peu de distance d'un bout à l'autre; pas long en longueur ou temps.",
+      "it": "Avente poca distanza da un'estremità all'altra; non lungo in lunghezza o tempo.",
+      "ru": "Имеющий малое расстояние от одного конца до другого; не длинный по длине или времени.",
+      "es": "Que tiene poca distancia de un extremo al otro; no largo en longitud o tiempo.",
+      "pl": "Mający małą odległość od jednego końca do drugiego; nie długi w długości lub czasie.",
+      "fa": "دارای فاصله کم از یک انتها به انتهای دیگر؛ در طول یا زمان بلند نیست."
+    },
+    "examples": {
+      "en": ["This is short.", "A short time.", "A short way."],
+      "de": ["Das ist kurz.", "Eine kurze Zeit.", "Ein kurzer Weg."],
+      "ar": ["هذا قصير.", "وقت قصير.", "طريق قصير."],
+      "fr": ["C'est court.", "Un temps court.", "Un court chemin."],
+      "it": ["Questo è corto.", "Un tempo corto.", "Una via corta."],
+      "ru": ["Это короткое.", "Короткое время.", "Короткий путь."],
+      "es": ["Esto es corto.", "Un tiempo corto.", "Un camino corto."],
+      "pl": ["To jest krótkie.", "Krótki czas.", "Krótka droga."],
+      "fa": ["این کوتاه است.", "یک زمان کوتاه.", "یک راه کوتاه."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_089_en",
+    "word": "hot",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hot",
+      "de": "heiß",
+      "ar": "حار",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "горячий",
+      "es": "caliente",
+      "pl": "gorący",
+      "fa": "داغ"
+    },
+    "explanations": {
+      "en": "Having a high temperature; feeling or producing much heat; not cold.",
+      "de": "Eine hohe Temperatur haben; viel Wärme fühlen oder produzieren; nicht kalt.",
+      "ar": "له درجة حرارة عالية؛ يشعر أو ينتج حرارة كثيرة؛ ليس بارداً.",
+      "fr": "Ayant une température élevée; ressentant ou produisant beaucoup de chaleur; pas froid.",
+      "it": "Avente temperatura alta; sentendo o producendo molto calore; non freddo.",
+      "ru": "Имеющий высокую температуру; чувствующий или производящий много тепла; не холодный.",
+      "es": "Que tiene alta temperatura; sintiendo o produciendo mucho calor; no frío.",
+      "pl": "Mający wysoką temperaturę; odczuwający lub produkujący dużo ciepła; nie zimny.",
+      "fa": "دارای دمای بالا؛ احساس یا تولید گرمای زیاد؛ سرد نیست."
+    },
+    "examples": {
+      "en": ["This is hot.", "A hot day.", "I feel hot."],
+      "de": ["Das ist heiß.", "Ein heißer Tag.", "Ich fühle mich heiß."],
+      "ar": ["هذا حار.", "يوم حار.", "أشعر بالحرارة."],
+      "fr": ["C'est chaud.", "Une journée chaude.", "Je me sens chaud."],
+      "it": ["Questo è caldo.", "Una giornata calda.", "Mi sento caldo."],
+      "ru": ["Это горячее.", "Жаркий день.", "Мне жарко."],
+      "es": ["Esto es caliente.", "Un día caluroso.", "Me siento caliente."],
+      "pl": ["To jest gorące.", "Gorący dzień.", "Czuję się gorąco."],
+      "fa": ["این داغ است.", "یک روز داغ.", "احساس گرما می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_090_en",
+    "word": "cold",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cold",
+      "de": "kalt",
+      "ar": "بارد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холодный",
+      "es": "frío",
+      "pl": "zimny",
+      "fa": "سرد"
+    },
+    "explanations": {
+      "en": "Having a low temperature; feeling or producing little heat; not hot.",
+      "de": "Eine niedrige Temperatur haben; wenig Wärme fühlen oder produzieren; nicht heiß.",
+      "ar": "له درجة حرارة منخفضة؛ يشعر أو ينتج حرارة قليلة؛ ليس حاراً.",
+      "fr": "Ayant une température basse; ressentant ou produisant peu de chaleur; pas chaud.",
+      "it": "Avente temperatura bassa; sentendo o producendo poco calore; non caldo.",
+      "ru": "Имеющий низкую температуру; чувствующий или производящий мало тепла; не горячий.",
+      "es": "Que tiene baja temperatura; sintiendo o produciendo poco calor; no caliente.",
+      "pl": "Mający niską temperaturę; odczuwający lub produkujący mało ciepła; nie gorący.",
+      "fa": "دارای دمای پایین؛ احساس یا تولید گرمای کم؛ داغ نیست."
+    },
+    "examples": {
+      "en": ["This is cold.", "A cold day.", "I feel cold."],
+      "de": ["Das ist kalt.", "Ein kalter Tag.", "Ich fühle mich kalt."],
+      "ar": ["هذا بارد.", "يوم بارد.", "أشعر بالبرودة."],
+      "fr": ["C'est froid.", "Une journée froide.", "Je me sens froid."],
+      "it": ["Questo è freddo.", "Una giornata fredda.", "Mi sento freddo."],
+      "ru": ["Это холодное.", "Холодный день.", "Мне холодно."],
+      "es": ["Esto es frío.", "Un día frío.", "Me siento frío."],
+      "pl": ["To jest zimne.", "Zimny dzień.", "Czuję się zimno."],
+      "fa": ["این سرد است.", "یک روز سرد.", "احساس سرما می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_091_en",
+    "word": "high",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "high",
+      "de": "hoch",
+      "ar": "مرتفع",
+      "fr": "haut",
+      "it": "alto",
+      "ru": "высокий",
+      "es": "alto",
+      "pl": "wysoki",
+      "fa": "بلند"
+    },
+    "explanations": {
+      "en": "Far up from the ground or base; extending upward a great distance; not low.",
+      "de": "Weit oben vom Boden oder Basis; sich weit nach oben erstreckend; nicht niedrig.",
+      "ar": "بعيداً عن الأرض أو القاعدة؛ يمتد لمسافة كبيرة للأعلى؛ ليس منخفضاً.",
+      "fr": "Loin du sol ou de la base; s'étendant vers le haut sur une grande distance; pas bas.",
+      "it": "Lontano dal suolo o base; estendentesi verso l'alto per grande distanza; non basso.",
+      "ru": "Далеко от земли или основания; простирающийся вверх на большое расстояние; не низкий.",
+      "es": "Lejos del suelo o base; extendiéndose hacia arriba gran distancia; no bajo.",
+      "pl": "Daleko od ziemi lub podstawy; rozciągający się w górę na dużą odległość; nie niski.",
+      "fa": "دور از زمین یا پایه؛ گسترش به سمت بالا برای مسافت زیاد؛ پایین نیست."
+    },
+    "examples": {
+      "en": ["This is high.", "A high school.", "I go high."],
+      "de": ["Das ist hoch.", "Eine hohe Schule.", "Ich gehe hoch."],
+      "ar": ["هذا مرتفع.", "مدرسة عالية.", "أذهب عالياً."],
+      "fr": ["C'est haut.", "Une haute école.", "Je vais haut."],
+      "it": ["Questo è alto.", "Una scuola alta.", "Vado in alto."],
+      "ru": ["Это высокое.", "Высокая школа.", "Я иду высоко."],
+      "es": ["Esto es alto.", "Una escuela alta.", "Voy alto."],
+      "pl": ["To jest wysokie.", "Wysoka szkoła.", "Idę wysoko."],
+      "fa": ["این بلند است.", "یک مدرسه بلند.", "من بلند می‌روم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_092_en",
+    "word": "low",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "low",
+      "de": "niedrig",
+      "ar": "منخفض",
+      "fr": "bas",
+      "it": "basso",
+      "ru": "низкий",
+      "es": "bajo",
+      "pl": "niski",
+      "fa": "پایین"
+    },
+    "explanations": {
+      "en": "Close to the ground or base; not extending upward much; not high.",
+      "de": "Nahe am Boden oder Basis; sich nicht weit nach oben erstreckend; nicht hoch.",
+      "ar": "قريب من الأرض أو القاعدة؛ لا يمتد كثيراً للأعلى؛ ليس مرتفعاً.",
+      "fr": "Près du sol ou de la base; ne s'étendant pas beaucoup vers le haut; pas haut.",
+      "it": "Vicino al suolo o base; non estendentesi molto verso l'alto; non alto.",
+      "ru": "Близко к земле или основанию; не простирающийся высоко вверх; не высокий.",
+      "es": "Cerca del suelo o base; no extendiéndose mucho hacia arriba; no alto.",
+      "pl": "Blisko ziemi lub podstawy; nierozciągający się wysoko w górę; nie wysoki.",
+      "fa": "نزدیک به زمین یا پایه؛ گسترش زیاد به سمت بالا ندارد؛ بلند نیست."
+    },
+    "examples": {
+      "en": ["This is low.", "A low hand.", "I put it low."],
+      "de": ["Das ist niedrig.", "Eine niedrige Hand.", "Ich lege es niedrig."],
+      "ar": ["هذا منخفض.", "يد منخفضة.", "أضعه منخفضاً."],
+      "fr": ["C'est bas.", "Une main basse.", "Je le mets bas."],
+      "it": ["Questo è basso.", "Una mano bassa.", "Lo metto basso."],
+      "ru": ["Это низкое.", "Низкая рука.", "Я кладу это низко."],
+      "es": ["Esto es bajo.", "Una mano baja.", "Lo pongo bajo."],
+      "pl": ["To jest niskie.", "Niska ręka.", "Kładę to nisko."],
+      "fa": ["این پایین است.", "یک دست پایین.", "آن را پایین می‌گذارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_093_en",
+    "word": "right",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "right",
+      "de": "richtig",
+      "ar": "صحيح",
+      "fr": "correct",
+      "it": "giusto",
+      "ru": "правильный",
+      "es": "correcto",
+      "pl": "prawidłowy",
+      "fa": "درست"
+    },
+    "explanations": {
+      "en": "Correct, true, or in accordance with what is good or proper; not wrong.",
+      "de": "Korrekt, wahr oder in Übereinstimmung mit dem, was gut oder angemessen ist; nicht falsch.",
+      "ar": "صحيح أو حقيقي أو متوافق مع ما هو جيد أو لائق؛ ليس خاطئاً.",
+      "fr": "Correct, vrai ou conforme à ce qui est bon ou approprié; pas faux.",
+      "it": "Corretto, vero o in conformità con ciò che è buono o appropriato; non sbagliato.",
+      "ru": "Правильный, истинный или в соответствии с тем, что хорошо или уместно; не неправильный.",
+      "es": "Correcto, verdadero o conforme con lo que es bueno o apropiado; no incorrecto.",
+      "pl": "Poprawny, prawdziwy lub zgodny z tym, co jest dobre lub właściwe; nie błędny.",
+      "fa": "صحیح، درست یا مطابق با آنچه خوب یا مناسب است؛ اشتباه نیست."
+    },
+    "examples": {
+      "en": ["This is right.", "You are right.", "The right way."],
+      "de": ["Das ist richtig.", "Du hast recht.", "Der richtige Weg."],
+      "ar": ["هذا صحيح.", "أنت على حق.", "الطريق الصحيح."],
+      "fr": ["C'est correct.", "Tu as raison.", "Le bon chemin."],
+      "it": ["Questo è giusto.", "Hai ragione.", "La via giusta."],
+      "ru": ["Это правильно.", "Ты прав.", "Правильный путь."],
+      "es": ["Esto es correcto.", "Tienes razón.", "El camino correcto."],
+      "pl": ["To jest prawidłowe.", "Masz rację.", "Prawidłowa droga."],
+      "fa": ["این درست است.", "تو درست می‌گویی.", "راه درست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_094_en",
+    "word": "wrong",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "wrong",
+      "de": "falsch",
+      "ar": "خاطئ",
+      "fr": "faux",
+      "it": "sbagliato",
+      "ru": "неправильный",
+      "es": "incorrecto",
+      "pl": "błędny",
+      "fa": "اشتباه"
+    },
+    "explanations": {
+      "en": "Not correct, true, or in accordance with what is good; not right; mistaken.",
+      "de": "Nicht korrekt, wahr oder in Übereinstimmung mit dem, was gut ist; nicht richtig; falsch.",
+      "ar": "ليس صحيحاً أو حقيقياً أو متوافقاً مع ما هو جيد؛ ليس صحيحاً؛ مخطئ.",
+      "fr": "Pas correct, vrai ou conforme à ce qui est bon; pas correct; erroné.",
+      "it": "Non corretto, vero o in conformità con ciò che è buono; non giusto; errato.",
+      "ru": "Не правильный, истинный или в соответствии с тем, что хорошо; не правильный; ошибочный.",
+      "es": "No correcto, verdadero o conforme con lo que es bueno; no correcto; equivocado.",
+      "pl": "Niepoprawny, prawdziwy lub zgodny z tym, co jest dobre; nie prawidłowy; błędny.",
+      "fa": "صحیح، درست یا مطابق با آنچه خوب است نیست؛ درست نیست؛ اشتباه."
+    },
+    "examples": {
+      "en": ["This is wrong.", "You are wrong.", "The wrong way."],
+      "de": ["Das ist falsch.", "Du liegst falsch.", "Der falsche Weg."],
+      "ar": ["هذا خاطئ.", "أنت مخطئ.", "الطريق الخاطئ."],
+      "fr": ["C'est faux.", "Tu as tort.", "Le mauvais chemin."],
+      "it": ["Questo è sbagliato.", "Hai torto.", "La via sbagliata."],
+      "ru": ["Это неправильно.", "Ты неправ.", "Неправильный путь."],
+      "es": ["Esto es incorrecto.", "Estás equivocado.", "El camino incorrecto."],
+      "pl": ["To jest błędne.", "Mylisz się.", "Błędna droga."],
+      "fa": ["این اشتباه است.", "تو اشتباه می‌کنی.", "راه اشتباه."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_095_en",
+    "word": "early",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "early",
+      "de": "früh",
+      "ar": "مبكر",
+      "fr": "tôt",
+      "it": "presto",
+      "ru": "ранний",
+      "es": "temprano",
+      "pl": "wcześnie",
+      "fa": "زود"
+    },
+    "explanations": {
+      "en": "Happening near the beginning of a time period or before the usual time; not late.",
+      "de": "Nahe dem Beginn einer Zeitperiode oder vor der üblichen Zeit geschehen; nicht spät.",
+      "ar": "يحدث بالقرب من بداية فترة زمنية أو قبل الوقت المعتاد؛ ليس متأخراً.",
+      "fr": "Se produisant près du début d'une période ou avant l'heure habituelle; pas tard.",
+      "it": "Che succede vicino all'inizio di un periodo o prima del tempo solito; non tardi.",
+      "ru": "Происходящий в начале периода времени или раньше обычного времени; не поздний.",
+      "es": "Que ocurre cerca del comienzo de un período o antes del tiempo usual; no tarde.",
+      "pl": "Dzieje się blisko początku okresu czasu lub przed zwykłym czasem; nie późno.",
+      "fa": "اتفاق می‌افتد نزدیک به ابتدای دوره زمانی یا قبل از زمان معمول؛ دیر نیست."
+    },
+    "examples": {
+      "en": ["I come early.", "Early in the day.", "An early time."],
+      "de": ["Ich komme früh.", "Früh am Tag.", "Eine frühe Zeit."],
+      "ar": ["أأتي مبكراً.", "في وقت مبكر من اليوم.", "وقت مبكر."],
+      "fr": ["Je viens tôt.", "Tôt dans la journée.", "Un temps tôt."],
+      "it": ["Vengo presto.", "Presto nella giornata.", "Un tempo presto."],
+      "ru": ["Я прихожу рано.", "Рано днём.", "Раннее время."],
+      "es": ["Vengo temprano.", "Temprano en el día.", "Un tiempo temprano."],
+      "pl": ["Przychodzę wcześnie.", "Wcześnie w ciągu dnia.", "Wczesny czas."],
+      "fa": ["من زود می‌آیم.", "زود در روز.", "یک زمان زود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_096_en",
+    "word": "late",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "late",
+      "de": "spät",
+      "ar": "متأخر",
+      "fr": "tard",
+      "it": "tardi",
+      "ru": "поздний",
+      "es": "tarde",
+      "pl": "późno",
+      "fa": "دیر"
+    },
+    "explanations": {
+      "en": "Happening near the end of a time period or after the usual time; not early.",
+      "de": "Nahe dem Ende einer Zeitperiode oder nach der üblichen Zeit geschehen; nicht früh.",
+      "ar": "يحدث بالقرب من نهاية فترة زمنية أو بعد الوقت المعتاد؛ ليس مبكراً.",
+      "fr": "Se produisant près de la fin d'une période ou après l'heure habituelle; pas tôt.",
+      "it": "Che succede vicino alla fine di un periodo o dopo il tempo solito; non presto.",
+      "ru": "Происходящий в конце периода времени или позже обычного времени; не ранний.",
+      "es": "Que ocurre cerca del final de un período o después del tiempo usual; no temprano.",
+      "pl": "Dzieje się blisko końca okresu czasu lub po zwykłym czasie; nie wcześnie.",
+      "fa": "اتفاق می‌افتد نزدیک به پایان دوره زمانی یا بعد از زمان معمول؛ زود نیست."
+    },
+    "examples": {
+      "en": ["I come late.", "Late in the day.", "A late time."],
+      "de": ["Ich komme spät.", "Spät am Tag.", "Eine späte Zeit."],
+      "ar": ["أأتي متأخراً.", "في وقت متأخر من اليوم.", "وقت متأخر."],
+      "fr": ["Je viens tard.", "Tard dans la journée.", "Un temps tard."],
+      "it": ["Vengo tardi.", "Tardi nella giornata.", "Un tempo tardi."],
+      "ru": ["Я прихожу поздно.", "Поздно днём.", "Позднее время."],
+      "es": ["Vengo tarde.", "Tarde en el día.", "Un tiempo tarde."],
+      "pl": ["Przychodzę późno.", "Późno w ciągu dnia.", "Późny czas."],
+      "fa": ["من دیر می‌آیم.", "دیر در روز.", "یک زمان دیر."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_097_en",
+    "word": "fast",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fast",
+      "de": "schnell",
+      "ar": "سريع",
+      "fr": "rapide",
+      "it": "veloce",
+      "ru": "быстрый",
+      "es": "rápido",
+      "pl": "szybki",
+      "fa": "سریع"
+    },
+    "explanations": {
+      "en": "Moving or happening with great speed or in a short time; not slow.",
+      "de": "Mit großer Geschwindigkeit oder in kurzer Zeit bewegen oder geschehen; nicht langsam.",
+      "ar": "يتحرك أو يحدث بسرعة كبيرة أو في وقت قصير؛ ليس بطيئاً.",
+      "fr": "Se déplaçant ou se produisant avec grande vitesse ou en peu de temps; pas lent.",
+      "it": "Muovendosi o succedendo con grande velocità o in poco tempo; non lento.",
+      "ru": "Двигающийся или происходящий с большой скоростью или за короткое время; не медленный.",
+      "es": "Moviéndose u ocurriendo con gran velocidad o en poco tiempo; no lento.",
+      "pl": "Poruszający się lub dzieje się z dużą prędkością lub w krótkim czasie; nie wolny.",
+      "fa": "حرکت یا اتفاق می‌افتد با سرعت زیاد یا در زمان کوتاه؛ کند نیست."
+    },
+    "examples": {
+      "en": ["I go fast.", "This is fast.", "A fast way."],
+      "de": ["Ich gehe schnell.", "Das ist schnell.", "Ein schneller Weg."],
+      "ar": ["أذهب بسرعة.", "هذا سريع.", "طريق سريع."],
+      "fr": ["Je vais vite.", "C'est rapide.", "Un chemin rapide."],
+      "it": ["Vado veloce.", "Questo è veloce.", "Una via veloce."],
+      "ru": ["Я иду быстро.", "Это быстро.", "Быстрый путь."],
+      "es": ["Voy rápido.", "Esto es rápido.", "Un camino rápido."],
+      "pl": ["Idę szybko.", "To jest szybkie.", "Szybka droga."],
+      "fa": ["من سریع می‌روم.", "این سریع است.", "یک راه سریع."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_098_en",
+    "word": "slow",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "slow",
+      "de": "langsam",
+      "ar": "بطيء",
+      "fr": "lent",
+      "it": "lento",
+      "ru": "медленный",
+      "es": "lento",
+      "pl": "wolny",
+      "fa": "کند"
+    },
+    "explanations": {
+      "en": "Moving or happening with little speed or over a long time; not fast.",
+      "de": "Mit geringer Geschwindigkeit oder über lange Zeit bewegen oder geschehen; nicht schnell.",
+      "ar": "يتحرك أو يحدث بسرعة قليلة أو على مدى وقت طويل؛ ليس سريعاً.",
+      "fr": "Se déplaçant ou se produisant avec peu de vitesse ou sur longtemps; pas rapide.",
+      "it": "Muovendosi o succedendo con poca velocità o per lungo tempo; non veloce.",
+      "ru": "Двигающийся или происходящий с малой скоростью или долгое время; не быстрый.",
+      "es": "Moviéndose u ocurriendo con poca velocidad o durante mucho tiempo; no rápido.",
+      "pl": "Poruszający się lub dzieje się z małą prędkością lub przez długi czas; nie szybki.",
+      "fa": "حرکت یا اتفاق می‌افتد با سرعت کم یا در زمان طولانی؛ سریع نیست."
+    },
+    "examples": {
+      "en": ["I go slow.", "This is slow.", "A slow way."],
+      "de": ["Ich gehe langsam.", "Das ist langsam.", "Ein langsamer Weg."],
+      "ar": ["أذهب ببطء.", "هذا بطيء.", "طريق بطيء."],
+      "fr": ["Je vais lentement.", "C'est lent.", "Un chemin lent."],
+      "it": ["Vado lento.", "Questo è lento.", "Una via lenta."],
+      "ru": ["Я иду медленно.", "Это медленно.", "Медленный путь."],
+      "es": ["Voy lento.", "Esto es lento.", "Un camino lento."],
+      "pl": ["Idę wolno.", "To jest wolne.", "Wolna droga."],
+      "fa": ["من کند می‌روم.", "این کند است.", "یک راه کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_099_en",
+    "word": "easy",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "easy",
+      "de": "einfach",
+      "ar": "سهل",
+      "fr": "facile",
+      "it": "facile",
+      "ru": "лёгкий",
+      "es": "fácil",
+      "pl": "łatwy",
+      "fa": "آسان"
+    },
+    "explanations": {
+      "en": "Not difficult; requiring little effort or skill to do or understand; not hard.",
+      "de": "Nicht schwierig; erfordert wenig Anstrengung oder Fähigkeit zu tun oder verstehen; nicht hart.",
+      "ar": "ليس صعباً؛ يتطلب جهداً أو مهارة قليلة للقيام به أو فهمه؛ ليس صعباً.",
+      "fr": "Pas difficile; nécessitant peu d'effort ou compétence pour faire ou comprendre; pas dur.",
+      "it": "Non difficile; richiedente poco sforzo o abilità per fare o capire; non duro.",
+      "ru": "Не трудный; требующий мало усилий или навыков, чтобы сделать или понять; не сложный.",
+      "es": "No difícil; requiriendo poco esfuerzo o habilidad para hacer o entender; no duro.",
+      "pl": "Niełatwy; wymagający małego wysiłku lub umiejętności, aby zrobić lub zrozumieć; nie trudny.",
+      "fa": "دشوار نیست؛ نیاز به تلاش یا مهارت کم برای انجام یا درک دارد؛ سخت نیست."
+    },
+    "examples": {
+      "en": ["This is easy.", "An easy way.", "I find it easy."],
+      "de": ["Das ist einfach.", "Ein einfacher Weg.", "Ich finde es einfach."],
+      "ar": ["هذا سهل.", "طريق سهل.", "أجده سهلاً."],
+      "fr": ["C'est facile.", "Un chemin facile.", "Je le trouve facile."],
+      "it": ["Questo è facile.", "Una via facile.", "Lo trovo facile."],
+      "ru": ["Это легко.", "Лёгкий путь.", "Я нахожу это лёгким."],
+      "es": ["Esto es fácil.", "Un camino fácil.", "Lo encuentro fácil."],
+      "pl": ["To jest łatwe.", "Łatwa droga.", "Znajduję to łatwe."],
+      "fa": ["این آسان است.", "یک راه آسان.", "آن را آسان می‌یابم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_100_en",
+    "word": "hard",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hard",
+      "de": "schwer",
+      "ar": "صعب",
+      "fr": "difficile",
+      "it": "difficile",
+      "ru": "трудный",
+      "es": "difícil",
+      "pl": "trudny",
+      "fa": "سخت"
+    },
+    "explanations": {
+      "en": "Difficult; requiring much effort or skill to do or understand; not easy.",
+      "de": "Schwierig; erfordert viel Anstrengung oder Fähigkeit zu tun oder verstehen; nicht einfach.",
+      "ar": "صعب؛ يتطلب جهداً أو مهارة كبيرة للقيام به أو فهمه؛ ليس سهلاً.",
+      "fr": "Difficile; nécessitant beaucoup d'effort ou compétence pour faire ou comprendre; pas facile.",
+      "it": "Difficile; richiedente molto sforzo o abilità per fare o capire; non facile.",
+      "ru": "Трудный; требующий много усилий или навыков, чтобы сделать или понять; не лёгкий.",
+      "es": "Difícil; requiriendo mucho esfuerzo o habilidad para hacer o entender; no fácil.",
+      "pl": "Trudny; wymagający dużego wysiłku lub umiejętności, aby zrobić lub zrozumieć; nie łatwy.",
+      "fa": "دشوار؛ نیاز به تلاش یا مهارت زیاد برای انجام یا درک دارد؛ آسان نیست."
+    },
+    "examples": {
+      "en": ["This is hard.", "A hard problem.", "I find it hard."],
+      "de": ["Das ist schwer.", "Ein schweres Problem.", "Ich finde es schwer."],
+      "ar": ["هذا صعب.", "مشكلة صعبة.", "أجده صعباً."],
+      "fr": ["C'est difficile.", "Un problème difficile.", "Je le trouve difficile."],
+      "it": ["Questo è difficile.", "Un problema difficile.", "Lo trovo difficile."],
+      "ru": ["Это трудно.", "Трудная проблема.", "Я нахожу это трудным."],
+      "es": ["Esto es difícil.", "Un problema difícil.", "Lo encuentro difícil."],
+      "pl": ["To jest trudne.", "Trudny problem.", "Znajduję to trudne."],
+      "fa": ["این سخت است.", "یک مشکل سخت.", "آن را سخت می‌یابم."]
+    },
+    "conjugations": null
+  }
+]

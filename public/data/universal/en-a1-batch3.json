@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_041_en",
+    "word": "make",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "make",
+      "de": "machen",
+      "ar": "يصنع",
+      "fr": "faire",
+      "it": "fare",
+      "ru": "делать",
+      "es": "hacer",
+      "pl": "robić",
+      "fa": "ساختن"
+    },
+    "explanations": {
+      "en": "To create or produce something using materials or actions.",
+      "de": "Etwas mit Materialien oder Handlungen herstellen oder produzieren.",
+      "ar": "إنشاء أو إنتاج شيء باستخدام المواد أو الإجراءات.",
+      "fr": "Créer ou produire quelque chose en utilisant des matériaux ou des actions.",
+      "it": "Creare o produrre qualcosa usando materiali o azioni.",
+      "ru": "Создавать или производить что-то, используя материалы или действия.",
+      "es": "Crear o producir algo usando materiales o acciones.",
+      "pl": "Tworzyć lub produkować coś za pomocą materiałów lub działań.",
+      "fa": "ساختن یا تولید چیزی با استفاده از مواد یا اقدامات."
+    },
+    "examples": {
+      "en": ["I make food.", "Can you make this?", "I want to make it."],
+      "de": ["Ich mache Essen.", "Kannst du das machen?", "Ich will es machen."],
+      "ar": ["أصنع الطعام.", "هل يمكنك صنع هذا؟", "أريد أن أصنعه."],
+      "fr": ["Je fais de la nourriture.", "Peux-tu faire ça?", "Je veux le faire."],
+      "it": ["Faccio del cibo.", "Puoi fare questo?", "Voglio farlo."],
+      "ru": ["Я делаю еду.", "Ты можешь это сделать?", "Я хочу это сделать."],
+      "es": ["Hago comida.", "¿Puedes hacer esto?", "Quiero hacerlo."],
+      "pl": ["Robię jedzenie.", "Możesz to zrobić?", "Chcę to zrobić."],
+      "fa": ["من غذا درست می‌کنم.", "می‌توانی این را بسازی؟", "می‌خواهم آن را بسازم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_042_en",
+    "word": "go",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "go",
+      "de": "gehen",
+      "ar": "يذهب",
+      "fr": "aller",
+      "it": "andare",
+      "ru": "идти",
+      "es": "ir",
+      "pl": "iść",
+      "fa": "رفتن"
+    },
+    "explanations": {
+      "en": "To move from one place to another place.",
+      "de": "Von einem Ort zu einem anderen Ort bewegen.",
+      "ar": "الانتقال من مكان إلى مكان آخر.",
+      "fr": "Se déplacer d'un endroit à un autre.",
+      "it": "Muoversi da un luogo ad un altro.",
+      "ru": "Перемещаться из одного места в другое.",
+      "es": "Moverse de un lugar a otro.",
+      "pl": "Przemieszczać się z jednego miejsca do drugiego.",
+      "fa": "حرکت کردن از یک مکان به مکان دیگر."
+    },
+    "examples": {
+      "en": ["I go home now.", "We go to school.", "Let's go there."],
+      "de": ["Ich gehe jetzt nach Hause.", "Wir gehen zur Schule.", "Lass uns dorthin gehen."],
+      "ar": ["أذهب إلى المنزل الآن.", "نذهب إلى المدرسة.", "لنذهب هناك."],
+      "fr": ["Je vais à la maison maintenant.", "Nous allons à l'école.", "Allons-y."],
+      "it": ["Vado a casa adesso.", "Andiamo a scuola.", "Andiamo là."],
+      "ru": ["Я иду домой сейчас.", "Мы идём в школу.", "Давай пойдём туда."],
+      "es": ["Voy a casa ahora.", "Vamos a la escuela.", "Vamos allí."],
+      "pl": ["Idę teraz do domu.", "Idziemy do szkoły.", "Chodźmy tam."],
+      "fa": ["من الان به خانه می‌روم.", "ما به مدرسه می‌رویم.", "بیا آنجا برویم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_043_en",
+    "word": "come",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "come",
+      "de": "kommen",
+      "ar": "يأتي",
+      "fr": "venir",
+      "it": "venire",
+      "ru": "приходить",
+      "es": "venir",
+      "pl": "przyjść",
+      "fa": "آمدن"
+    },
+    "explanations": {
+      "en": "To move toward or arrive at a place near the speaker.",
+      "de": "Sich zu einem Ort in der Nähe des Sprechers bewegen oder ankommen.",
+      "ar": "التحرك نحو مكان قريب من المتحدث أو الوصول إليه.",
+      "fr": "Se déplacer vers un endroit près du locuteur ou y arriver.",
+      "it": "Muoversi verso o arrivare in un luogo vicino a chi parla.",
+      "ru": "Двигаться к месту рядом с говорящим или прибывать туда.",
+      "es": "Moverse hacia un lugar cerca del hablante o llegar allí.",
+      "pl": "Poruszać się w stronę miejsca blisko mówiącego lub tam dotrzeć.",
+      "fa": "حرکت کردن به سمت یا رسیدن به مکانی نزدیک به گوینده."
+    },
+    "examples": {
+      "en": ["Please come here.", "I come from home.", "Come with me."],
+      "de": ["Bitte komm her.", "Ich komme von zu Hause.", "Komm mit mir."],
+      "ar": ["من فضلك تعال هنا.", "أنا آتي من المنزل.", "تعال معي."],
+      "fr": ["Viens ici s'il te plaît.", "Je viens de la maison.", "Viens avec moi."],
+      "it": ["Vieni qui per favore.", "Vengo da casa.", "Vieni con me."],
+      "ru": ["Пожалуйста, иди сюда.", "Я прихожу из дома.", "Пойдём со мной."],
+      "es": ["Ven aquí por favor.", "Vengo de casa.", "Ven conmigo."],
+      "pl": ["Proszę, przyjdź tutaj.", "Przychodzę z domu.", "Chodź ze mną."],
+      "fa": ["لطفا اینجا بیا.", "من از خانه می‌آیم.", "با من بیا."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_044_en",
+    "word": "see",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "see",
+      "de": "sehen",
+      "ar": "يرى",
+      "fr": "voir",
+      "it": "vedere",
+      "ru": "видеть",
+      "es": "ver",
+      "pl": "widzieć",
+      "fa": "دیدن"
+    },
+    "explanations": {
+      "en": "To use your eyes to notice or look at something.",
+      "de": "Die Augen verwenden, um etwas zu bemerken oder anzusehen.",
+      "ar": "استخدام العينين لملاحظة شيء أو النظر إليه.",
+      "fr": "Utiliser ses yeux pour remarquer ou regarder quelque chose.",
+      "it": "Usare gli occhi per notare o guardare qualcosa.",
+      "ru": "Использовать глаза, чтобы заметить или посмотреть на что-то.",
+      "es": "Usar los ojos para notar o mirar algo.",
+      "pl": "Używać oczu, aby zauważyć lub spojrzeć na coś.",
+      "fa": "استفاده از چشمان برای دیدن یا نگاه کردن به چیزی."
+    },
+    "examples": {
+      "en": ["I see you.", "Can you see this?", "I want to see."],
+      "de": ["Ich sehe dich.", "Kannst du das sehen?", "Ich will sehen."],
+      "ar": ["أراك.", "هل تستطيع أن ترى هذا؟", "أريد أن أرى."],
+      "fr": ["Je te vois.", "Peux-tu voir ça?", "Je veux voir."],
+      "it": ["Ti vedo.", "Puoi vedere questo?", "Voglio vedere."],
+      "ru": ["Я вижу тебя.", "Ты видишь это?", "Я хочу видеть."],
+      "es": ["Te veo.", "¿Puedes ver esto?", "Quiero ver."],
+      "pl": ["Widzę cię.", "Widzisz to?", "Chcę zobaczyć."],
+      "fa": ["تو را می‌بینم.", "این را می‌بینی؟", "می‌خواهم ببینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_045_en",
+    "word": "know",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "know",
+      "de": "wissen",
+      "ar": "يعرف",
+      "fr": "savoir",
+      "it": "sapere",
+      "ru": "знать",
+      "es": "saber",
+      "pl": "wiedzieć",
+      "fa": "دانستن"
+    },
+    "explanations": {
+      "en": "To have information or understanding about something in your mind.",
+      "de": "Informationen oder Verständnis über etwas im Kopf haben.",
+      "ar": "أن تكون لديك معلومات أو فهم عن شيء في عقلك.",
+      "fr": "Avoir des informations ou une compréhension de quelque chose dans son esprit.",
+      "it": "Avere informazioni o comprensione di qualcosa nella propria mente.",
+      "ru": "Иметь информацию или понимание чего-то в уме.",
+      "es": "Tener información o comprensión sobre algo en tu mente.",
+      "pl": "Mieć informacje lub zrozumienie czegoś w umyśle.",
+      "fa": "داشتن اطلاعات یا درک چیزی در ذهن."
+    },
+    "examples": {
+      "en": ["I know this.", "Do you know?", "I want to know."],
+      "de": ["Ich weiß das.", "Weißt du das?", "Ich will wissen."],
+      "ar": ["أعرف هذا.", "هل تعرف؟", "أريد أن أعرف."],
+      "fr": ["Je sais ça.", "Tu sais?", "Je veux savoir."],
+      "it": ["Lo so.", "Lo sai?", "Voglio sapere."],
+      "ru": ["Я это знаю.", "Ты знаешь?", "Я хочу знать."],
+      "es": ["Sé esto.", "¿Sabes?", "Quiero saber."],
+      "pl": ["Wiem to.", "Wiesz?", "Chcę wiedzieć."],
+      "fa": ["این را می‌دانم.", "می‌دانی؟", "می‌خواهم بدانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_046_en",
+    "word": "get",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "get",
+      "de": "bekommen",
+      "ar": "يحصل",
+      "fr": "obtenir",
+      "it": "ottenere",
+      "ru": "получать",
+      "es": "obtener",
+      "pl": "dostawać",
+      "fa": "گرفتن"
+    },
+    "explanations": {
+      "en": "To receive, obtain, or come to have something.",
+      "de": "Etwas erhalten, erlangen oder bekommen.",
+      "ar": "الحصول على شيء أو امتلاكه.",
+      "fr": "Recevoir, obtenir ou venir à avoir quelque chose.",
+      "it": "Ricevere, ottenere o arrivare ad avere qualcosa.",
+      "ru": "Получать, приобретать или иметь что-то.",
+      "es": "Recibir, obtener o llegar a tener algo.",
+      "pl": "Otrzymywać, zdobywać lub mieć coś.",
+      "fa": "دریافت کردن یا به دست آوردن چیزی."
+    },
+    "examples": {
+      "en": ["I get a book.", "Can I get this?", "I want to get it."],
+      "de": ["Ich bekomme ein Buch.", "Kann ich das bekommen?", "Ich will es bekommen."],
+      "ar": ["أحصل على كتاب.", "هل يمكنني الحصول على هذا؟", "أريد أن أحصل عليه."],
+      "fr": ["J'obtiens un livre.", "Puis-je obtenir ça?", "Je veux l'obtenir."],
+      "it": ["Ottengo un libro.", "Posso ottenere questo?", "Voglio ottenerlo."],
+      "ru": ["Я получаю книгу.", "Могу я получить это?", "Я хочу это получить."],
+      "es": ["Obtengo un libro.", "¿Puedo obtener esto?", "Quiero obtenerlo."],
+      "pl": ["Dostaję książkę.", "Czy mogę dostać to?", "Chcę to dostać."],
+      "fa": ["من یک کتاب می‌گیرم.", "می‌توانم این را بگیرم؟", "می‌خواهم آن را بگیرم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_047_en",
+    "word": "give",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "give",
+      "de": "geben",
+      "ar": "يعطي",
+      "fr": "donner",
+      "it": "dare",
+      "ru": "давать",
+      "es": "dar",
+      "pl": "dawać",
+      "fa": "دادن"
+    },
+    "explanations": {
+      "en": "To transfer something to someone or provide something to them.",
+      "de": "Jemandem etwas übertragen oder zur Verfügung stellen.",
+      "ar": "نقل شيء إلى شخص ما أو تقديمه له.",
+      "fr": "Transférer quelque chose à quelqu'un ou le lui fournir.",
+      "it": "Trasferire qualcosa a qualcuno o fornirlo.",
+      "ru": "Передать что-то кому-то или предоставить это.",
+      "es": "Transferir algo a alguien o proporcionárselo.",
+      "pl": "Przekazać coś komuś lub to zapewnić.",
+      "fa": "انتقال چیزی به کسی یا ارائه آن به او."
+    },
+    "examples": {
+      "en": ["I give you this.", "Please give me that.", "Can you give?"],
+      "de": ["Ich gebe dir das.", "Bitte gib mir das.", "Kannst du geben?"],
+      "ar": ["أعطيك هذا.", "من فضلك أعطني ذلك.", "هل يمكنك أن تعطي؟"],
+      "fr": ["Je te donne ça.", "Donne-moi ça s'il te plaît.", "Peux-tu donner?"],
+      "it": ["Ti do questo.", "Per favore dammi quello.", "Puoi dare?"],
+      "ru": ["Я даю тебе это.", "Пожалуйста, дай мне то.", "Можешь дать?"],
+      "es": ["Te doy esto.", "Dame eso por favor.", "¿Puedes dar?"],
+      "pl": ["Daję ci to.", "Proszę, daj mi to.", "Możesz dać?"],
+      "fa": ["این را به تو می‌دهم.", "لطفا آن را به من بده.", "می‌توانی بدهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_048_en",
+    "word": "use",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "use",
+      "de": "benutzen",
+      "ar": "يستخدم",
+      "fr": "utiliser",
+      "it": "usare",
+      "ru": "использовать",
+      "es": "usar",
+      "pl": "używać",
+      "fa": "استفاده کردن"
+    },
+    "explanations": {
+      "en": "To do something with an object or tool for a purpose.",
+      "de": "Etwas mit einem Objekt oder Werkzeug für einen Zweck tun.",
+      "ar": "القيام بشيء مع كائن أو أداة لغرض ما.",
+      "fr": "Faire quelque chose avec un objet ou un outil dans un but.",
+      "it": "Fare qualcosa con un oggetto o strumento per uno scopo.",
+      "ru": "Делать что-то с объектом или инструментом для цели.",
+      "es": "Hacer algo con un objeto o herramienta para un propósito.",
+      "pl": "Robić coś z obiektem lub narzędziem w celu.",
+      "fa": "انجام کاری با یک شی یا ابزار برای هدفی."
+    },
+    "examples": {
+      "en": ["I use a phone.", "Can you use this?", "I want to use."],
+      "de": ["Ich benutze ein Telefon.", "Kannst du das benutzen?", "Ich will benutzen."],
+      "ar": ["أستخدم هاتفاً.", "هل يمكنك استخدام هذا؟", "أريد أن أستخدم."],
+      "fr": ["J'utilise un téléphone.", "Peux-tu utiliser ça?", "Je veux utiliser."],
+      "it": ["Uso un telefono.", "Puoi usare questo?", "Voglio usare."],
+      "ru": ["Я использую телефон.", "Ты можешь использовать это?", "Я хочу использовать."],
+      "es": ["Uso un teléfono.", "¿Puedes usar esto?", "Quiero usar."],
+      "pl": ["Używam telefonu.", "Możesz użyć tego?", "Chcę używać."],
+      "fa": ["من از تلفن استفاده می‌کنم.", "می‌توانی از این استفاده کنی؟", "می‌خواهم استفاده کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_049_en",
+    "word": "find",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "find",
+      "de": "finden",
+      "ar": "يجد",
+      "fr": "trouver",
+      "it": "trovare",
+      "ru": "находить",
+      "es": "encontrar",
+      "pl": "znajdować",
+      "fa": "پیدا کردن"
+    },
+    "explanations": {
+      "en": "To discover or locate something by searching or by chance.",
+      "de": "Etwas durch Suchen oder Zufall entdecken oder lokalisieren.",
+      "ar": "اكتشاف أو تحديد مكان شيء بالبحث أو بالصدفة.",
+      "fr": "Découvrir ou localiser quelque chose en cherchant ou par hasard.",
+      "it": "Scoprire o localizzare qualcosa cercando o per caso.",
+      "ru": "Обнаружить или найти что-то поиском или случайно.",
+      "es": "Descubrir o localizar algo buscando o por casualidad.",
+      "pl": "Odkryć lub zlokalizować coś przez szukanie lub przypadkowo.",
+      "fa": "کشف یا یافتن چیزی با جستجو یا تصادفی."
+    },
+    "examples": {
+      "en": ["I find my book.", "Can you find it?", "I want to find."],
+      "de": ["Ich finde mein Buch.", "Kannst du es finden?", "Ich will finden."],
+      "ar": ["أجد كتابي.", "هل يمكنك أن تجده؟", "أريد أن أجد."],
+      "fr": ["Je trouve mon livre.", "Peux-tu le trouver?", "Je veux trouver."],
+      "it": ["Trovo il mio libro.", "Puoi trovarlo?", "Voglio trovare."],
+      "ru": ["Я нахожу мою книгу.", "Ты можешь найти это?", "Я хочу найти."],
+      "es": ["Encuentro mi libro.", "¿Puedes encontrarlo?", "Quiero encontrar."],
+      "pl": ["Znajduję moją książkę.", "Możesz to znaleźć?", "Chcę znaleźć."],
+      "fa": ["کتابم را پیدا می‌کنم.", "می‌توانی آن را پیدا کنی؟", "می‌خواهم پیدا کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_050_en",
+    "word": "tell",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tell",
+      "de": "sagen",
+      "ar": "يخبر",
+      "fr": "dire",
+      "it": "dire",
+      "ru": "говорить",
+      "es": "decir",
+      "pl": "powiedzieć",
+      "fa": "گفتن"
+    },
+    "explanations": {
+      "en": "To give information or communicate something to someone using words.",
+      "de": "Jemandem Informationen geben oder etwas mit Worten mitteilen.",
+      "ar": "إعطاء معلومات أو إبلاغ شيء لشخص باستخدام الكلمات.",
+      "fr": "Donner des informations ou communiquer quelque chose à quelqu'un avec des mots.",
+      "it": "Dare informazioni o comunicare qualcosa a qualcuno usando parole.",
+      "ru": "Давать информацию или сообщать что-то кому-то словами.",
+      "es": "Dar información o comunicar algo a alguien usando palabras.",
+      "pl": "Przekazać informacje lub zakomunikować coś komuś słowami.",
+      "fa": "دادن اطلاعات یا برقراری ارتباط با کسی با استفاده از کلمات."
+    },
+    "examples": {
+      "en": ["I tell you now.", "Please tell me.", "Can you tell?"],
+      "de": ["Ich sage dir jetzt.", "Bitte sag mir.", "Kannst du sagen?"],
+      "ar": ["أخبرك الآن.", "من فضلك أخبرني.", "هل يمكنك أن تخبر؟"],
+      "fr": ["Je te dis maintenant.", "Dis-moi s'il te plaît.", "Peux-tu dire?"],
+      "it": ["Ti dico adesso.", "Dimmi per favore.", "Puoi dire?"],
+      "ru": ["Я говорю тебе сейчас.", "Пожалуйста, скажи мне.", "Можешь сказать?"],
+      "es": ["Te digo ahora.", "Dime por favor.", "¿Puedes decir?"],
+      "pl": ["Mówię ci teraz.", "Proszę, powiedz mi.", "Możesz powiedzieć?"],
+      "fa": ["الان به تو می‌گویم.", "لطفا به من بگو.", "می‌توانی بگویی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_051_en",
+    "word": "ask",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "ask",
+      "de": "fragen",
+      "ar": "يسأل",
+      "fr": "demander",
+      "it": "chiedere",
+      "ru": "спрашивать",
+      "es": "preguntar",
+      "pl": "pytać",
+      "fa": "پرسیدن"
+    },
+    "explanations": {
+      "en": "To request information or an answer from someone using a question.",
+      "de": "Informationen oder eine Antwort von jemandem mit einer Frage erbitten.",
+      "ar": "طلب معلومات أو إجابة من شخص ما باستخدام سؤال.",
+      "fr": "Demander des informations ou une réponse à quelqu'un avec une question.",
+      "it": "Richiedere informazioni o una risposta da qualcuno usando una domanda.",
+      "ru": "Запрашивать информацию или ответ у кого-то, задавая вопрос.",
+      "es": "Solicitar información o una respuesta de alguien usando una pregunta.",
+      "pl": "Prosić o informacje lub odpowiedź od kogoś używając pytania.",
+      "fa": "درخواست اطلاعات یا پاسخ از کسی با استفاده از سوال."
+    },
+    "examples": {
+      "en": ["I ask you.", "Can I ask this?", "Please ask me."],
+      "de": ["Ich frage dich.", "Kann ich das fragen?", "Bitte frag mich."],
+      "ar": ["أسألك.", "هل يمكنني أن أسأل هذا؟", "من فضلك اسألني."],
+      "fr": ["Je te demande.", "Puis-je demander ça?", "Demande-moi s'il te plaît."],
+      "it": ["Ti chiedo.", "Posso chiedere questo?", "Chiedimi per favore."],
+      "ru": ["Я спрашиваю тебя.", "Могу я спросить это?", "Пожалуйста, спроси меня."],
+      "es": ["Te pregunto.", "¿Puedo preguntar esto?", "Pregúntame por favor."],
+      "pl": ["Pytam cię.", "Czy mogę to zapytać?", "Proszę, zapytaj mnie."],
+      "fa": ["از تو می‌پرسم.", "می‌توانم این را بپرسم؟", "لطفا از من بپرس."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_052_en",
+    "word": "work",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "work",
+      "de": "arbeiten",
+      "ar": "يعمل",
+      "fr": "travailler",
+      "it": "lavorare",
+      "ru": "работать",
+      "es": "trabajar",
+      "pl": "pracować",
+      "fa": "کار کردن"
+    },
+    "explanations": {
+      "en": "To do an activity that requires effort, especially for a job or task.",
+      "de": "Eine Aktivität ausführen, die Anstrengung erfordert, besonders für einen Job oder Aufgabe.",
+      "ar": "القيام بنشاط يتطلب جهداً، خاصة لوظيفة أو مهمة.",
+      "fr": "Faire une activité qui nécessite un effort, surtout pour un travail ou une tâche.",
+      "it": "Fare un'attività che richiede sforzo, specialmente per un lavoro o compito.",
+      "ru": "Выполнять деятельность, требующую усилий, особенно для работы или задачи.",
+      "es": "Hacer una actividad que requiere esfuerzo, especialmente para un trabajo o tarea.",
+      "pl": "Wykonywać czynność wymagającą wysiłku, szczególnie dla pracy lub zadania.",
+      "fa": "انجام فعالیتی که نیاز به تلاش دارد، به‌ویژه برای شغل یا وظیفه."
+    },
+    "examples": {
+      "en": ["I work here.", "Do you work?", "I want to work."],
+      "de": ["Ich arbeite hier.", "Arbeitest du?", "Ich will arbeiten."],
+      "ar": ["أعمل هنا.", "هل تعمل؟", "أريد أن أعمل."],
+      "fr": ["Je travaille ici.", "Tu travailles?", "Je veux travailler."],
+      "it": ["Lavoro qui.", "Lavori?", "Voglio lavorare."],
+      "ru": ["Я работаю здесь.", "Ты работаешь?", "Я хочу работать."],
+      "es": ["Trabajo aquí.", "¿Trabajas?", "Quiero trabajar."],
+      "pl": ["Pracuję tutaj.", "Pracujesz?", "Chcę pracować."],
+      "fa": ["من اینجا کار می‌کنم.", "کار می‌کنی؟", "می‌خواهم کار کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_053_en",
+    "word": "feel",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "feel",
+      "de": "fühlen",
+      "ar": "يشعر",
+      "fr": "sentir",
+      "it": "sentire",
+      "ru": "чувствовать",
+      "es": "sentir",
+      "pl": "czuć",
+      "fa": "احساس کردن"
+    },
+    "explanations": {
+      "en": "To experience an emotion or physical sensation in your body or mind.",
+      "de": "Eine Emotion oder körperliche Empfindung in Körper oder Geist erleben.",
+      "ar": "أن تواجه عاطفة أو إحساساً جسدياً في جسدك أو عقلك.",
+      "fr": "Éprouver une émotion ou une sensation physique dans son corps ou esprit.",
+      "it": "Provare un'emozione o sensazione fisica nel corpo o nella mente.",
+      "ru": "Испытывать эмоцию или физическое ощущение в теле или уме.",
+      "es": "Experimentar una emoción o sensación física en tu cuerpo o mente.",
+      "pl": "Doświadczać emocji lub fizycznego odczucia w ciele lub umyśle.",
+      "fa": "تجربه کردن احساس یا حس فیزیکی در بدن یا ذهن."
+    },
+    "examples": {
+      "en": ["I feel good.", "How do you feel?", "I feel here."],
+      "de": ["Ich fühle mich gut.", "Wie fühlst du dich?", "Ich fühle hier."],
+      "ar": ["أشعر بشعور جيد.", "كيف تشعر؟", "أشعر هنا."],
+      "fr": ["Je me sens bien.", "Comment te sens-tu?", "Je sens ici."],
+      "it": ["Mi sento bene.", "Come ti senti?", "Sento qui."],
+      "ru": ["Я чувствую себя хорошо.", "Как ты себя чувствуешь?", "Я чувствую здесь."],
+      "es": ["Me siento bien.", "¿Cómo te sientes?", "Siento aquí."],
+      "pl": ["Czuję się dobrze.", "Jak się czujesz?", "Czuję tutaj."],
+      "fa": ["احساس خوبی دارم.", "چه احساسی داری؟", "اینجا احساس می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_054_en",
+    "word": "become",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "become",
+      "de": "werden",
+      "ar": "يصبح",
+      "fr": "devenir",
+      "it": "diventare",
+      "ru": "становиться",
+      "es": "convertirse",
+      "pl": "stawać się",
+      "fa": "شدن"
+    },
+    "explanations": {
+      "en": "To start to be something or change into a different state.",
+      "de": "Etwas zu sein beginnen oder in einen anderen Zustand wechseln.",
+      "ar": "أن تبدأ في أن تكون شيئاً أو تتغير إلى حالة مختلفة.",
+      "fr": "Commencer à être quelque chose ou changer vers un état différent.",
+      "it": "Iniziare ad essere qualcosa o cambiare in uno stato diverso.",
+      "ru": "Начать быть чем-то или измениться в другое состояние.",
+      "es": "Empezar a ser algo o cambiar a un estado diferente.",
+      "pl": "Zacząć być czymś lub zmienić się w inny stan.",
+      "fa": "شروع به بودن چیزی یا تبدیل شدن به حالت دیگر."
+    },
+    "examples": {
+      "en": ["I become good.", "You can become this.", "I want to become."],
+      "de": ["Ich werde gut.", "Du kannst das werden.", "Ich will werden."],
+      "ar": ["أصبح جيداً.", "يمكنك أن تصبح هذا.", "أريد أن أصبح."],
+      "fr": ["Je deviens bon.", "Tu peux devenir ça.", "Je veux devenir."],
+      "it": ["Divento buono.", "Puoi diventare questo.", "Voglio diventare."],
+      "ru": ["Я становлюсь хорошим.", "Ты можешь стать этим.", "Я хочу стать."],
+      "es": ["Me vuelvo bueno.", "Puedes convertirte en esto.", "Quiero convertirme."],
+      "pl": ["Staję się dobry.", "Możesz się tym stać.", "Chcę się stać."],
+      "fa": ["من خوب می‌شوم.", "تو می‌توانی این شوی.", "می‌خواهم شوم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_055_en",
+    "word": "leave",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "leave",
+      "de": "verlassen",
+      "ar": "يغادر",
+      "fr": "partir",
+      "it": "partire",
+      "ru": "уходить",
+      "es": "salir",
+      "pl": "wychodzić",
+      "fa": "رفتن"
+    },
+    "explanations": {
+      "en": "To go away from a place or to stop being in a location.",
+      "de": "Von einem Ort weggehen oder aufhören, an einem Ort zu sein.",
+      "ar": "الابتعاد عن مكان أو التوقف عن التواجد في موقع.",
+      "fr": "S'éloigner d'un endroit ou arrêter d'être dans un lieu.",
+      "it": "Andare via da un luogo o smettere di essere in una posizione.",
+      "ru": "Уходить с места или перестать находиться в локации.",
+      "es": "Irse de un lugar o dejar de estar en una ubicación.",
+      "pl": "Odchodzić z miejsca lub przestać być w lokalizacji.",
+      "fa": "رفتن از یک مکان یا توقف حضور در یک محل."
+    },
+    "examples": {
+      "en": ["I leave now.", "Please leave here.", "I want to leave."],
+      "de": ["Ich gehe jetzt.", "Bitte geh hier weg.", "Ich will gehen."],
+      "ar": ["أغادر الآن.", "من فضلك غادر هنا.", "أريد أن أغادر."],
+      "fr": ["Je pars maintenant.", "Pars d'ici s'il te plaît.", "Je veux partir."],
+      "it": ["Parto adesso.", "Per favore vai via.", "Voglio partire."],
+      "ru": ["Я ухожу сейчас.", "Пожалуйста, уходи отсюда.", "Я хочу уйти."],
+      "es": ["Me voy ahora.", "Por favor sal de aquí.", "Quiero salir."],
+      "pl": ["Wychodzę teraz.", "Proszę, wyjdź stąd.", "Chcę wyjść."],
+      "fa": ["الان می‌روم.", "لطفا از اینجا برو.", "می‌خواهم بروم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_056_en",
+    "word": "put",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "put",
+      "de": "legen",
+      "ar": "يضع",
+      "fr": "mettre",
+      "it": "mettere",
+      "ru": "класть",
+      "es": "poner",
+      "pl": "kłaść",
+      "fa": "گذاشتن"
+    },
+    "explanations": {
+      "en": "To move something to a place or position using your hands.",
+      "de": "Etwas mit den Händen an einen Ort oder Position bewegen.",
+      "ar": "نقل شيء إلى مكان أو موضع باستخدام يديك.",
+      "fr": "Déplacer quelque chose vers un endroit ou position avec vos mains.",
+      "it": "Muovere qualcosa in un luogo o posizione usando le mani.",
+      "ru": "Переместить что-то в место или позицию руками.",
+      "es": "Mover algo a un lugar o posición usando tus manos.",
+      "pl": "Przenieść coś do miejsca lub pozycji rękami.",
+      "fa": "جابجا کردن چیزی به مکان یا موقعیتی با دستان."
+    },
+    "examples": {
+      "en": ["I put it here.", "Please put this.", "Can you put?"],
+      "de": ["Ich lege es hier.", "Bitte leg das hin.", "Kannst du legen?"],
+      "ar": ["أضعه هنا.", "من فضلك ضع هذا.", "هل يمكنك أن تضع؟"],
+      "fr": ["Je le mets ici.", "Mets ça s'il te plaît.", "Peux-tu mettre?"],
+      "it": ["Lo metto qui.", "Per favore metti questo.", "Puoi mettere?"],
+      "ru": ["Я кладу это здесь.", "Пожалуйста, положи это.", "Можешь положить?"],
+      "es": ["Lo pongo aquí.", "Pon esto por favor.", "¿Puedes poner?"],
+      "pl": ["Kładę to tutaj.", "Proszę, połóż to.", "Możesz położyć?"],
+      "fa": ["آن را اینجا می‌گذارم.", "لطفا این را بگذار.", "می‌توانی بگذاری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_057_en",
+    "word": "mean",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "mean",
+      "de": "bedeuten",
+      "ar": "يعني",
+      "fr": "signifier",
+      "it": "significare",
+      "ru": "означать",
+      "es": "significar",
+      "pl": "znaczyć",
+      "fa": "معنی دادن"
+    },
+    "explanations": {
+      "en": "To have a particular sense, purpose, or represent something as its definition.",
+      "de": "Einen bestimmten Sinn, Zweck haben oder etwas als Definition darstellen.",
+      "ar": "أن يكون له معنى أو غرض معين أو يمثل شيئاً كتعريفه.",
+      "fr": "Avoir un sens particulier, un but ou représenter quelque chose comme sa définition.",
+      "it": "Avere un senso particolare, scopo o rappresentare qualcosa come sua definizione.",
+      "ru": "Иметь определённый смысл, цель или представлять что-то как определение.",
+      "es": "Tener un sentido particular, propósito o representar algo como su definición.",
+      "pl": "Mieć określony sens, cel lub reprezentować coś jako swoją definicję.",
+      "fa": "داشتن مفهوم خاص، هدف یا نمایش چیزی به عنوان تعریفش."
+    },
+    "examples": {
+      "en": ["What does this mean?", "I know what you mean.", "This can mean good."],
+      "de": ["Was bedeutet das?", "Ich weiß, was du meinst.", "Das kann gut bedeuten."],
+      "ar": ["ماذا يعني هذا؟", "أعرف ما تعني.", "هذا يمكن أن يعني جيد."],
+      "fr": ["Qu'est-ce que ça signifie?", "Je sais ce que tu veux dire.", "Ça peut signifier bon."],
+      "it": ["Cosa significa questo?", "So cosa intendi.", "Questo può significare buono."],
+      "ru": ["Что это означает?", "Я знаю, что ты имеешь в виду.", "Это может означать хорошо."],
+      "es": ["¿Qué significa esto?", "Sé lo que quieres decir.", "Esto puede significar bueno."],
+      "pl": ["Co to znaczy?", "Wiem, co masz na myśli.", "To może znaczyć dobre."],
+      "fa": ["این چه معنی می‌دهد؟", "می‌دانم چه می‌گویی.", "این می‌تواند خوب را بدهد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_058_en",
+    "word": "keep",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "keep",
+      "de": "behalten",
+      "ar": "يحتفظ",
+      "fr": "garder",
+      "it": "tenere",
+      "ru": "держать",
+      "es": "mantener",
+      "pl": "trzymać",
+      "fa": "نگه داشتن"
+    },
+    "explanations": {
+      "en": "To continue having or holding something and not give it away or lose it.",
+      "de": "Etwas weiterhin haben oder halten und nicht weggeben oder verlieren.",
+      "ar": "الاستمرار في امتلاك أو حمل شيء وعدم التخلي عنه أو فقدانه.",
+      "fr": "Continuer à avoir ou tenir quelque chose et ne pas le donner ou le perdre.",
+      "it": "Continuare ad avere o tenere qualcosa e non darlo via o perderlo.",
+      "ru": "Продолжать иметь или держать что-то и не отдавать или терять это.",
+      "es": "Continuar teniendo o sosteniendo algo y no darlo o perderlo.",
+      "pl": "Kontynuować posiadanie lub trzymanie czegoś i nie dawać tego lub nie tracić.",
+      "fa": "ادامه داشتن یا نگه داشتن چیزی و ندادن یا گم نکردن آن."
+    },
+    "examples": {
+      "en": ["I keep this book.", "Can you keep it?", "Please keep here."],
+      "de": ["Ich behalte dieses Buch.", "Kannst du es behalten?", "Bitte behalte hier."],
+      "ar": ["أحتفظ بهذا الكتاب.", "هل يمكنك الاحتفاظ به؟", "من فضلك احتفظ هنا."],
+      "fr": ["Je garde ce livre.", "Peux-tu le garder?", "Garde ici s'il te plaît."],
+      "it": ["Tengo questo libro.", "Puoi tenerlo?", "Per favore tieni qui."],
+      "ru": ["Я держу эту книгу.", "Ты можешь держать это?", "Пожалуйста, держи здесь."],
+      "es": ["Mantengo este libro.", "¿Puedes mantenerlo?", "Por favor mantén aquí."],
+      "pl": ["Trzymam tę książkę.", "Możesz to trzymać?", "Proszę, trzymaj tutaj."],
+      "fa": ["این کتاب را نگه می‌دارم.", "می‌توانی آن را نگه داری؟", "لطفا اینجا نگه دار."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_059_en",
+    "word": "let",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "let",
+      "de": "lassen",
+      "ar": "يدع",
+      "fr": "laisser",
+      "it": "lasciare",
+      "ru": "позволять",
+      "es": "dejar",
+      "pl": "pozwalać",
+      "fa": "اجازه دادن"
+    },
+    "explanations": {
+      "en": "To allow or permit someone to do something without stopping them.",
+      "de": "Jemandem erlauben oder gestatten, etwas zu tun, ohne sie aufzuhalten.",
+      "ar": "السماح لشخص ما بفعل شيء دون إيقافه.",
+      "fr": "Permettre à quelqu'un de faire quelque chose sans l'arrêter.",
+      "it": "Permettere a qualcuno di fare qualcosa senza fermarlo.",
+      "ru": "Разрешать кому-то делать что-то, не останавливая их.",
+      "es": "Permitir a alguien hacer algo sin detenerlo.",
+      "pl": "Pozwolić komuś coś zrobić bez ich zatrzymywania.",
+      "fa": "اجازه دادن به کسی برای انجام کاری بدون متوقف کردنش."
+    },
+    "examples": {
+      "en": ["Let me go.", "Please let me see.", "I let you come."],
+      "de": ["Lass mich gehen.", "Bitte lass mich sehen.", "Ich lasse dich kommen."],
+      "ar": ["دعني أذهب.", "من فضلك دعني أرى.", "أدعك تأتي."],
+      "fr": ["Laisse-moi partir.", "Laisse-moi voir s'il te plaît.", "Je te laisse venir."],
+      "it": ["Lasciami andare.", "Per favore lasciami vedere.", "Ti lascio venire."],
+      "ru": ["Позволь мне уйти.", "Пожалуйста, позволь мне увидеть.", "Я позволяю тебе прийти."],
+      "es": ["Déjame ir.", "Por favor déjame ver.", "Te dejo venir."],
+      "pl": ["Pozwól mi iść.", "Proszę, pozwól mi zobaczyć.", "Pozwalam ci przyjść."],
+      "fa": ["بگذار بروم.", "لطفا بگذار ببینم.", "اجازه می‌دهم بیایی."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_060_en",
+    "word": "begin",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "begin",
+      "de": "beginnen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "iniziare",
+      "ru": "начинать",
+      "es": "comenzar",
+      "pl": "zaczynać",
+      "fa": "شروع کردن"
+    },
+    "explanations": {
+      "en": "To start doing something or to take the first steps in an action.",
+      "de": "Etwas zu tun anfangen oder die ersten Schritte in einer Aktion machen.",
+      "ar": "البدء في فعل شيء أو اتخاذ الخطوات الأولى في عمل.",
+      "fr": "Commencer à faire quelque chose ou faire les premiers pas dans une action.",
+      "it": "Iniziare a fare qualcosa o fare i primi passi in un'azione.",
+      "ru": "Начинать делать что-то или делать первые шаги в действии.",
+      "es": "Empezar a hacer algo o dar los primeros pasos en una acción.",
+      "pl": "Zacząć coś robić lub wykonać pierwsze kroki w działaniu.",
+      "fa": "شروع کردن انجام کاری یا برداشتن اولین قدم‌ها در عمل."
+    },
+    "examples": {
+      "en": ["I begin now.", "Let's begin here.", "Can we begin?"],
+      "de": ["Ich beginne jetzt.", "Lass uns hier beginnen.", "Können wir beginnen?"],
+      "ar": ["أبدأ الآن.", "لنبدأ هنا.", "هل يمكننا أن نبدأ؟"],
+      "fr": ["Je commence maintenant.", "Commençons ici.", "Pouvons-nous commencer?"],
+      "it": ["Inizio adesso.", "Iniziamo qui.", "Possiamo iniziare?"],
+      "ru": ["Я начинаю сейчас.", "Давай начнём здесь.", "Можем мы начать?"],
+      "es": ["Comienzo ahora.", "Comencemos aquí.", "¿Podemos comenzar?"],
+      "pl": ["Zaczynam teraz.", "Zacznijmy tutaj.", "Czy możemy zacząć?"],
+      "fa": ["الان شروع می‌کنم.", "بیا اینجا شروع کنیم.", "می‌توانیم شروع کنیم؟"]
+    },
+    "conjugations": null
+  }
+]

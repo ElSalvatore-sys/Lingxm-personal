@@ -1,0 +1,602 @@
+[
+  {
+    "id": "universal_a1_161_en",
+    "word": "friend",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "friend", "de": "Freund", "ar": "صديق", "fr": "ami", "it": "amico", "ru": "друг", "es": "amigo", "pl": "przyjaciel", "fa": "دوست"},
+    "explanations": {
+      "en": "A person you know well and like spending time with.",
+      "de": "Eine Person, die man gut kennt und mit der man gerne Zeit verbringt.",
+      "ar": "شخص تعرفه جيداً وتحب قضاء الوقت معه.",
+      "fr": "Une personne que vous connaissez bien et avec qui vous aimez passer du temps.",
+      "it": "Una persona che conosci bene e con cui ti piace passare del tempo.",
+      "ru": "Человек, которого вы хорошо знаете и с которым любите проводить время.",
+      "es": "Una persona que conoces bien y con quien te gusta pasar tiempo.",
+      "pl": "Osoba, którą dobrze znasz i z którą lubisz spędzać czas.",
+      "fa": "شخصی که او را خوب می‌شناسید و دوست دارید با او وقت بگذرانید."
+    },
+    "examples": {
+      "en": ["I have a friend.", "My friend is good.", "I see my friend."],
+      "de": ["Ich habe einen Freund.", "Mein Freund ist gut.", "Ich sehe meinen Freund."],
+      "ar": ["لدي صديق.", "صديقي جيد.", "أرى صديقي."],
+      "fr": ["J'ai un ami.", "Mon ami est bon.", "Je vois mon ami."],
+      "it": ["Ho un amico.", "Il mio amico è buono.", "Vedo il mio amico."],
+      "ru": ["У меня есть друг.", "Мой друг хороший.", "Я вижу своего друга."],
+      "es": ["Tengo un amigo.", "Mi amigo es bueno.", "Veo a mi amigo."],
+      "pl": ["Mam przyjaciela.", "Mój przyjaciel jest dobry.", "Widzę mojego przyjaciela."],
+      "fa": ["من یک دوست دارم.", "دوست من خوب است.", "من دوستم را می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_162_en",
+    "word": "animal",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "animal", "de": "Tier", "ar": "حيوان", "fr": "animal", "it": "animale", "ru": "животное", "es": "animal", "pl": "zwierzę", "fa": "حیوان"},
+    "explanations": {
+      "en": "A living thing that can move and is not a plant or human.",
+      "de": "Ein Lebewesen, das sich bewegen kann und keine Pflanze oder Mensch ist.",
+      "ar": "كائن حي يمكنه الحركة وليس نباتاً أو إنساناً.",
+      "fr": "Un être vivant qui peut se déplacer et qui n'est ni une plante ni un humain.",
+      "it": "Un essere vivente che può muoversi e non è una pianta o un umano.",
+      "ru": "Живое существо, которое может двигаться и не является растением или человеком.",
+      "es": "Un ser vivo que puede moverse y no es una planta ni un humano.",
+      "pl": "Żywa istota, która może się poruszać i nie jest rośliną ani człowiekiem.",
+      "fa": "موجود زنده‌ای که می‌تواند حرکت کند و گیاه یا انسان نیست."
+    },
+    "examples": {
+      "en": ["I see an animal.", "The animal is big.", "I love this animal."],
+      "de": ["Ich sehe ein Tier.", "Das Tier ist groß.", "Ich liebe dieses Tier."],
+      "ar": ["أرى حيواناً.", "الحيوان كبير.", "أحب هذا الحيوان."],
+      "fr": ["Je vois un animal.", "L'animal est grand.", "J'aime cet animal."],
+      "it": ["Vedo un animale.", "L'animale è grande.", "Amo questo animale."],
+      "ru": ["Я вижу животное.", "Животное большое.", "Я люблю это животное."],
+      "es": ["Veo un animal.", "El animal es grande.", "Amo a este animal."],
+      "pl": ["Widzę zwierzę.", "Zwierzę jest duże.", "Kocham to zwierzę."],
+      "fa": ["من یک حیوان می‌بینم.", "حیوان بزرگ است.", "من این حیوان را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_163_en",
+    "word": "dog",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "dog", "de": "Hund", "ar": "كلب", "fr": "chien", "it": "cane", "ru": "собака", "es": "perro", "pl": "pies", "fa": "سگ"},
+    "explanations": {
+      "en": "An animal that people keep as a pet with four legs and fur.",
+      "de": "Ein Tier, das Menschen als Haustier halten, mit vier Beinen und Fell.",
+      "ar": "حيوان يحتفظ به الناس كحيوان أليف بأربعة أرجل وفراء.",
+      "fr": "Un animal que les gens gardent comme animal domestique avec quatre pattes et de la fourrure.",
+      "it": "Un animale che le persone tengono come animale domestico con quattro zampe e pelliccia.",
+      "ru": "Животное, которое люди держат в качестве питомца с четырьмя ногами и шерстью.",
+      "es": "Un animal que la gente tiene como mascota con cuatro patas y pelaje.",
+      "pl": "Zwierzę, które ludzie trzymają jako zwierzę domowe z czterema nogami i futrem.",
+      "fa": "حیوانی که مردم به عنوان حیوان خانگی نگه می‌دارند با چهار پا و خز."
+    },
+    "examples": {
+      "en": ["I have a dog.", "The dog is small.", "I love my dog."],
+      "de": ["Ich habe einen Hund.", "Der Hund ist klein.", "Ich liebe meinen Hund."],
+      "ar": ["لدي كلب.", "الكلب صغير.", "أحب كلبي."],
+      "fr": ["J'ai un chien.", "Le chien est petit.", "J'aime mon chien."],
+      "it": ["Ho un cane.", "Il cane è piccolo.", "Amo il mio cane."],
+      "ru": ["У меня есть собака.", "Собака маленькая.", "Я люблю свою собаку."],
+      "es": ["Tengo un perro.", "El perro es pequeño.", "Amo a mi perro."],
+      "pl": ["Mam psa.", "Pies jest mały.", "Kocham mojego psa."],
+      "fa": ["من یک سگ دارم.", "سگ کوچک است.", "من سگم را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_164_en",
+    "word": "cat",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "cat", "de": "Katze", "ar": "قطة", "fr": "chat", "it": "gatto", "ru": "кот", "es": "gato", "pl": "kot", "fa": "گربه"},
+    "explanations": {
+      "en": "A small animal with fur that people keep as a pet at home.",
+      "de": "Ein kleines Tier mit Fell, das Menschen zu Hause als Haustier halten.",
+      "ar": "حيوان صغير بفراء يحتفظ به الناس كحيوان أليف في المنزل.",
+      "fr": "Un petit animal avec de la fourrure que les gens gardent comme animal domestique à la maison.",
+      "it": "Un piccolo animale con pelliccia che le persone tengono come animale domestico a casa.",
+      "ru": "Маленькое животное с шерстью, которое люди держат в качестве питомца дома.",
+      "es": "Un animal pequeño con pelaje que la gente tiene como mascota en casa.",
+      "pl": "Małe zwierzę z futrem, które ludzie trzymają jako zwierzę domowe w domu.",
+      "fa": "حیوان کوچکی با خز که مردم به عنوان حیوان خانگی در خانه نگه می‌دارند."
+    },
+    "examples": {
+      "en": ["I have a cat.", "The cat is here.", "I love my cat."],
+      "de": ["Ich habe eine Katze.", "Die Katze ist hier.", "Ich liebe meine Katze."],
+      "ar": ["لدي قطة.", "القطة هنا.", "أحب قطتي."],
+      "fr": ["J'ai un chat.", "Le chat est ici.", "J'aime mon chat."],
+      "it": ["Ho un gatto.", "Il gatto è qui.", "Amo il mio gatto."],
+      "ru": ["У меня есть кот.", "Кот здесь.", "Я люблю своего кота."],
+      "es": ["Tengo un gato.", "El gato está aquí.", "Amo a mi gato."],
+      "pl": ["Mam kota.", "Kot jest tutaj.", "Kocham mojego kota."],
+      "fa": ["من یک گربه دارم.", "گربه اینجاست.", "من گربه‌ام را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_165_en",
+    "word": "tree",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "tree", "de": "Baum", "ar": "شجرة", "fr": "arbre", "it": "albero", "ru": "дерево", "es": "árbol", "pl": "drzewo", "fa": "درخت"},
+    "explanations": {
+      "en": "A tall plant with a trunk, branches, and leaves that grows outside.",
+      "de": "Eine hohe Pflanze mit einem Stamm, Ästen und Blättern, die draußen wächst.",
+      "ar": "نبات طويل بجذع وفروع وأوراق ينمو في الخارج.",
+      "fr": "Une plante haute avec un tronc, des branches et des feuilles qui pousse à l'extérieur.",
+      "it": "Una pianta alta con un tronco, rami e foglie che cresce all'esterno.",
+      "ru": "Высокое растение со стволом, ветвями и листьями, которое растёт снаружи.",
+      "es": "Una planta alta con tronco, ramas y hojas que crece afuera.",
+      "pl": "Wysoka roślina z pniem, gałęziami i liśćmi, która rośnie na zewnątrz.",
+      "fa": "گیاه بلندی با تنه، شاخه‌ها و برگ‌ها که در بیرون رشد می‌کند."
+    },
+    "examples": {
+      "en": ["I see a tree.", "The tree is big.", "I love this tree."],
+      "de": ["Ich sehe einen Baum.", "Der Baum ist groß.", "Ich liebe diesen Baum."],
+      "ar": ["أرى شجرة.", "الشجرة كبيرة.", "أحب هذه الشجرة."],
+      "fr": ["Je vois un arbre.", "L'arbre est grand.", "J'aime cet arbre."],
+      "it": ["Vedo un albero.", "L'albero è grande.", "Amo questo albero."],
+      "ru": ["Я вижу дерево.", "Дерево большое.", "Я люблю это дерево."],
+      "es": ["Veo un árbol.", "El árbol es grande.", "Amo este árbol."],
+      "pl": ["Widzę drzewo.", "Drzewo jest duże.", "Kocham to drzewo."],
+      "fa": ["من یک درخت می‌بینم.", "درخت بزرگ است.", "من این درخت را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_166_en",
+    "word": "flower",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "flower", "de": "Blume", "ar": "زهرة", "fr": "fleur", "it": "fiore", "ru": "цветок", "es": "flor", "pl": "kwiat", "fa": "گل"},
+    "explanations": {
+      "en": "The colorful part of a plant that often smells nice and looks pretty.",
+      "de": "Der farbenfrohe Teil einer Pflanze, der oft gut riecht und hübsch aussieht.",
+      "ar": "الجزء الملون من النبات الذي غالباً رائحته جميلة ويبدو جميلاً.",
+      "fr": "La partie colorée d'une plante qui sent souvent bon et semble jolie.",
+      "it": "La parte colorata di una pianta che spesso profuma e sembra carina.",
+      "ru": "Цветная часть растения, которая часто хорошо пахнет и выглядит красиво.",
+      "es": "La parte colorida de una planta que a menudo huele bien y se ve bonita.",
+      "pl": "Kolorowa część rośliny, która często ładnie pachnie i wygląda ładnie.",
+      "fa": "قسمت رنگی گیاه که اغلب بوی خوبی دارد و زیبا به نظر می‌رسد."
+    },
+    "examples": {
+      "en": ["I see a flower.", "The flower is red.", "I love this flower."],
+      "de": ["Ich sehe eine Blume.", "Die Blume ist rot.", "Ich liebe diese Blume."],
+      "ar": ["أرى زهرة.", "الزهرة حمراء.", "أحب هذه الزهرة."],
+      "fr": ["Je vois une fleur.", "La fleur est rouge.", "J'aime cette fleur."],
+      "it": ["Vedo un fiore.", "Il fiore è rosso.", "Amo questo fiore."],
+      "ru": ["Я вижу цветок.", "Цветок красный.", "Я люблю этот цветок."],
+      "es": ["Veo una flor.", "La flor es roja.", "Amo esta flor."],
+      "pl": ["Widzę kwiat.", "Kwiat jest czerwony.", "Kocham ten kwiat."],
+      "fa": ["من یک گل می‌بینم.", "گل قرمز است.", "من این گل را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_167_en",
+    "word": "sun",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "sun", "de": "Sonne", "ar": "شمس", "fr": "soleil", "it": "sole", "ru": "солнце", "es": "sol", "pl": "słońce", "fa": "خورشید"},
+    "explanations": {
+      "en": "The bright star in the sky that gives light and heat to Earth.",
+      "de": "Der helle Stern am Himmel, der der Erde Licht und Wärme gibt.",
+      "ar": "النجم المشرق في السماء الذي يعطي الضوء والحرارة للأرض.",
+      "fr": "L'étoile brillante dans le ciel qui donne lumière et chaleur à la Terre.",
+      "it": "La stella luminosa nel cielo che dà luce e calore alla Terra.",
+      "ru": "Яркая звезда на небе, которая даёт свет и тепло Земле.",
+      "es": "La estrella brillante en el cielo que da luz y calor a la Tierra.",
+      "pl": "Jasna gwiazda na niebie, która daje światło i ciepło Ziemi.",
+      "fa": "ستاره درخشان در آسمان که نور و گرما به زمین می‌دهد."
+    },
+    "examples": {
+      "en": ["I see the sun.", "The sun is hot.", "I love the sun."],
+      "de": ["Ich sehe die Sonne.", "Die Sonne ist heiß.", "Ich liebe die Sonne."],
+      "ar": ["أرى الشمس.", "الشمس حارة.", "أحب الشمس."],
+      "fr": ["Je vois le soleil.", "Le soleil est chaud.", "J'aime le soleil."],
+      "it": ["Vedo il sole.", "Il sole è caldo.", "Amo il sole."],
+      "ru": ["Я вижу солнце.", "Солнце горячее.", "Я люблю солнце."],
+      "es": ["Veo el sol.", "El sol es caliente.", "Amo el sol."],
+      "pl": ["Widzę słońce.", "Słońce jest gorące.", "Kocham słońce."],
+      "fa": ["من خورشید را می‌بینم.", "خورشید گرم است.", "من خورشید را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_168_en",
+    "word": "moon",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "moon", "de": "Mond", "ar": "قمر", "fr": "lune", "it": "luna", "ru": "луна", "es": "luna", "pl": "księżyc", "fa": "ماه"},
+    "explanations": {
+      "en": "The round object in the sky at night that shines with reflected light.",
+      "de": "Das runde Objekt am Nachthimmel, das mit reflektiertem Licht leuchtet.",
+      "ar": "الجسم المستدير في السماء ليلاً الذي يضيء بضوء منعكس.",
+      "fr": "L'objet rond dans le ciel la nuit qui brille avec de la lumière réfléchie.",
+      "it": "L'oggetto rotondo nel cielo di notte che brilla con luce riflessa.",
+      "ru": "Круглый объект на ночном небе, который светит отражённым светом.",
+      "es": "El objeto redondo en el cielo de noche que brilla con luz reflejada.",
+      "pl": "Okrągły obiekt na niebie w nocy, który świeci odbitym światłem.",
+      "fa": "جسم گردی در آسمان شب که با نور منعکس شده می‌درخشد."
+    },
+    "examples": {
+      "en": ["I see the moon.", "The moon is white.", "I love the moon."],
+      "de": ["Ich sehe den Mond.", "Der Mond ist weiß.", "Ich liebe den Mond."],
+      "ar": ["أرى القمر.", "القمر أبيض.", "أحب القمر."],
+      "fr": ["Je vois la lune.", "La lune est blanche.", "J'aime la lune."],
+      "it": ["Vedo la luna.", "La luna è bianca.", "Amo la luna."],
+      "ru": ["Я вижу луну.", "Луна белая.", "Я люблю луну."],
+      "es": ["Veo la luna.", "La luna es blanca.", "Amo la luna."],
+      "pl": ["Widzę księżyc.", "Księżyc jest biały.", "Kocham księżyc."],
+      "fa": ["من ماه را می‌بینم.", "ماه سفید است.", "من ماه را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_169_en",
+    "word": "star",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "star", "de": "Stern", "ar": "نجمة", "fr": "étoile", "it": "stella", "ru": "звезда", "es": "estrella", "pl": "gwiazda", "fa": "ستاره"},
+    "explanations": {
+      "en": "A small bright point of light seen in the sky at night.",
+      "de": "Ein kleiner heller Lichtpunkt, der nachts am Himmel zu sehen ist.",
+      "ar": "نقطة ضوء صغيرة ومشرقة تُرى في السماء ليلاً.",
+      "fr": "Un petit point brillant de lumière vu dans le ciel la nuit.",
+      "it": "Un piccolo punto luminoso visto nel cielo di notte.",
+      "ru": "Маленькая яркая точка света, видимая на ночном небе.",
+      "es": "Un pequeño punto brillante de luz visto en el cielo de noche.",
+      "pl": "Mały jasny punkt światła widziany na niebie w nocy.",
+      "fa": "نقطه کوچک و درخشان نوری که در آسمان شب دیده می‌شود."
+    },
+    "examples": {
+      "en": ["I see a star.", "The star is small.", "I love the star."],
+      "de": ["Ich sehe einen Stern.", "Der Stern ist klein.", "Ich liebe den Stern."],
+      "ar": ["أرى نجمة.", "النجمة صغيرة.", "أحب النجمة."],
+      "fr": ["Je vois une étoile.", "L'étoile est petite.", "J'aime l'étoile."],
+      "it": ["Vedo una stella.", "La stella è piccola.", "Amo la stella."],
+      "ru": ["Я вижу звезду.", "Звезда маленькая.", "Я люблю звезду."],
+      "es": ["Veo una estrella.", "La estrella es pequeña.", "Amo la estrella."],
+      "pl": ["Widzę gwiazdę.", "Gwiazda jest mała.", "Kocham gwiazdę."],
+      "fa": ["من یک ستاره می‌بینم.", "ستاره کوچک است.", "من ستاره را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_170_en",
+    "word": "rain",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "rain", "de": "Regen", "ar": "مطر", "fr": "pluie", "it": "pioggia", "ru": "дождь", "es": "lluvia", "pl": "deszcz", "fa": "باران"},
+    "explanations": {
+      "en": "Water falling from clouds in the sky in small drops.",
+      "de": "Wasser, das in kleinen Tropfen aus Wolken am Himmel fällt.",
+      "ar": "ماء يسقط من الغيوم في السماء في قطرات صغيرة.",
+      "fr": "Eau tombant des nuages dans le ciel en petites gouttes.",
+      "it": "Acqua che cade dalle nuvole nel cielo in piccole gocce.",
+      "ru": "Вода, падающая из облаков на небе маленькими каплями.",
+      "es": "Agua cayendo de las nubes en el cielo en pequeñas gotas.",
+      "pl": "Woda spadająca z chmur na niebie w małych kropelkach.",
+      "fa": "آبی که از ابرها در آسمان در قطرات کوچک می‌ریزد."
+    },
+    "examples": {
+      "en": ["I see the rain.", "The rain is cold.", "I love the rain."],
+      "de": ["Ich sehe den Regen.", "Der Regen ist kalt.", "Ich liebe den Regen."],
+      "ar": ["أرى المطر.", "المطر بارد.", "أحب المطر."],
+      "fr": ["Je vois la pluie.", "La pluie est froide.", "J'aime la pluie."],
+      "it": ["Vedo la pioggia.", "La pioggia è fredda.", "Amo la pioggia."],
+      "ru": ["Я вижу дождь.", "Дождь холодный.", "Я люблю дождь."],
+      "es": ["Veo la lluvia.", "La lluvia es fría.", "Amo la lluvia."],
+      "pl": ["Widzę deszcz.", "Deszcz jest zimny.", "Kocham deszcz."],
+      "fa": ["من باران را می‌بینم.", "باران سرد است.", "من باران را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_171_en",
+    "word": "snow",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "snow", "de": "Schnee", "ar": "ثلج", "fr": "neige", "it": "neve", "ru": "снег", "es": "nieve", "pl": "śnieg", "fa": "برف"},
+    "explanations": {
+      "en": "Soft white frozen water that falls from the sky in winter.",
+      "de": "Weiches weißes gefrorenes Wasser, das im Winter vom Himmel fällt.",
+      "ar": "ماء مجمد أبيض ناعم يسقط من السماء في الشتاء.",
+      "fr": "Eau gelée blanche et douce qui tombe du ciel en hiver.",
+      "it": "Acqua ghiacciata bianca e soffice che cade dal cielo in inverno.",
+      "ru": "Мягкая белая замёрзшая вода, которая падает с неба зимой.",
+      "es": "Agua congelada blanca y suave que cae del cielo en invierno.",
+      "pl": "Miękka biała zamrożona woda, która spada z nieba zimą.",
+      "fa": "آب یخ زده سفید و نرمی که در زمستان از آسمان می‌ریزد."
+    },
+    "examples": {
+      "en": ["I see the snow.", "The snow is white.", "I love the snow."],
+      "de": ["Ich sehe den Schnee.", "Der Schnee ist weiß.", "Ich liebe den Schnee."],
+      "ar": ["أرى الثلج.", "الثلج أبيض.", "أحب الثلج."],
+      "fr": ["Je vois la neige.", "La neige est blanche.", "J'aime la neige."],
+      "it": ["Vedo la neve.", "La neve è bianca.", "Amo la neve."],
+      "ru": ["Я вижу снег.", "Снег белый.", "Я люблю снег."],
+      "es": ["Veo la nieve.", "La nieve es blanca.", "Amo la nieve."],
+      "pl": ["Widzę śnieg.", "Śnieg jest biały.", "Kocham śnieg."],
+      "fa": ["من برف را می‌بینم.", "برف سفید است.", "من برف را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_172_en",
+    "word": "wind",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "wind", "de": "Wind", "ar": "رياح", "fr": "vent", "it": "vento", "ru": "ветер", "es": "viento", "pl": "wiatr", "fa": "باد"},
+    "explanations": {
+      "en": "Moving air that you can feel but cannot see outside.",
+      "de": "Bewegte Luft, die man fühlen, aber draußen nicht sehen kann.",
+      "ar": "هواء متحرك يمكنك أن تشعر به لكن لا يمكنك رؤيته في الخارج.",
+      "fr": "Air en mouvement que vous pouvez sentir mais ne pouvez pas voir dehors.",
+      "it": "Aria in movimento che puoi sentire ma non puoi vedere fuori.",
+      "ru": "Движущийся воздух, который вы можете почувствовать, но не можете увидеть снаружи.",
+      "es": "Aire en movimiento que puedes sentir pero no puedes ver afuera.",
+      "pl": "Ruchome powietrze, które możesz poczuć, ale nie możesz zobaczyć na zewnątrz.",
+      "fa": "هوای در حال حرکتی که می‌توانید احساس کنید اما نمی‌توانید بیرون ببینید."
+    },
+    "examples": {
+      "en": ["I feel the wind.", "The wind is strong.", "I love the wind."],
+      "de": ["Ich fühle den Wind.", "Der Wind ist stark.", "Ich liebe den Wind."],
+      "ar": ["أشعر بالرياح.", "الرياح قوية.", "أحب الرياح."],
+      "fr": ["Je sens le vent.", "Le vent est fort.", "J'aime le vent."],
+      "it": ["Sento il vento.", "Il vento è forte.", "Amo il vento."],
+      "ru": ["Я чувствую ветер.", "Ветер сильный.", "Я люблю ветер."],
+      "es": ["Siento el viento.", "El viento es fuerte.", "Amo el viento."],
+      "pl": ["Czuję wiatr.", "Wiatr jest silny.", "Kocham wiatr."],
+      "fa": ["من باد را احساس می‌کنم.", "باد قوی است.", "من باد را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_173_en",
+    "word": "cloud",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "cloud", "de": "Wolke", "ar": "سحابة", "fr": "nuage", "it": "nuvola", "ru": "облако", "es": "nube", "pl": "chmura", "fa": "ابر"},
+    "explanations": {
+      "en": "A white or gray mass of water drops floating in the sky.",
+      "de": "Eine weiße oder graue Masse von Wassertropfen, die am Himmel schwebt.",
+      "ar": "كتلة بيضاء أو رمادية من قطرات الماء تطفو في السماء.",
+      "fr": "Une masse blanche ou grise de gouttes d'eau flottant dans le ciel.",
+      "it": "Una massa bianca o grigia di gocce d'acqua che galleggia nel cielo.",
+      "ru": "Белая или серая масса водных капель, плывущая в небе.",
+      "es": "Una masa blanca o gris de gotas de agua flotando en el cielo.",
+      "pl": ["Biała lub szara masa kropel wody unoszących się na niebie.",
+      "fa": "توده سفید یا خاکستری از قطرات آب که در آسمان شناورند."
+    },
+    "examples": {
+      "en": ["I see a cloud.", "The cloud is white.", "I love the cloud."],
+      "de": ["Ich sehe eine Wolke.", "Die Wolke ist weiß.", "Ich liebe die Wolke."],
+      "ar": ["أرى سحابة.", "السحابة بيضاء.", "أحب السحابة."],
+      "fr": ["Je vois un nuage.", "Le nuage est blanc.", "J'aime le nuage."],
+      "it": ["Vedo una nuvola.", "La nuvola è bianca.", "Amo la nuvola."],
+      "ru": ["Я вижу облако.", "Облако белое.", "Я люблю облако."],
+      "es": ["Veo una nube.", "La nube es blanca.", "Amo la nube."],
+      "pl": ["Widzę chmurę.", "Chmura jest biała.", "Kocham chmurę."],
+      "fa": ["من یک ابر می‌بینم.", "ابر سفید است.", "من ابر را دوست دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_174_en",
+    "word": "day",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "day", "de": "Tag", "ar": "يوم", "fr": "jour", "it": "giorno", "ru": "день", "es": "día", "pl": "dzień", "fa": "روز"},
+    "explanations": {
+      "en": "The time when there is light from the sun outside.",
+      "de": "Die Zeit, wenn draußen Licht von der Sonne ist.",
+      "ar": "الوقت الذي يكون فيه ضوء من الشمس في الخارج.",
+      "fr": "Le moment où il y a de la lumière du soleil dehors.",
+      "it": "Il tempo in cui c'è luce dal sole fuori.",
+      "ru": "Время, когда снаружи есть свет от солнца.",
+      "es": "El tiempo cuando hay luz del sol afuera.",
+      "pl": "Czas, kiedy jest światło słoneczne na zewnątrz.",
+      "fa": "زمانی که نور خورشید در بیرون وجود دارد."
+    },
+    "examples": {
+      "en": ["I like the day.", "The day is long.", "I have a good day."],
+      "de": ["Ich mag den Tag.", "Der Tag ist lang.", "Ich habe einen guten Tag."],
+      "ar": ["أحب النهار.", "النهار طويل.", "لدي يوم جيد."],
+      "fr": ["J'aime le jour.", "Le jour est long.", "J'ai une bonne journée."],
+      "it": ["Mi piace il giorno.", "Il giorno è lungo.", "Ho un buon giorno."],
+      "ru": ["Мне нравится день.", "День длинный.", "У меня хороший день."],
+      "es": ["Me gusta el día.", "El día es largo.", "Tengo un buen día."],
+      "pl": ["Lubię dzień.", "Dzień jest długi.", "Mam dobry dzień."],
+      "fa": ["من روز را دوست دارم.", "روز بلند است.", "من یک روز خوب دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_175_en",
+    "word": "night",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "night", "de": "Nacht", "ar": "ليلة", "fr": "nuit", "it": "notte", "ru": "ночь", "es": "noche", "pl": "noc", "fa": "شب"},
+    "explanations": {
+      "en": "The time when it is dark because the sun is not in the sky.",
+      "de": "Die Zeit, wenn es dunkel ist, weil die Sonne nicht am Himmel ist.",
+      "ar": "الوقت الذي يكون فيه ظلام لأن الشمس ليست في السماء.",
+      "fr": "Le moment où il fait noir parce que le soleil n'est pas dans le ciel.",
+      "it": "Il tempo in cui è buio perché il sole non è nel cielo.",
+      "ru": "Время, когда темно, потому что солнца нет на небе.",
+      "es": "El tiempo cuando está oscuro porque el sol no está en el cielo.",
+      "pl": "Czas, kiedy jest ciemno, ponieważ słońce nie jest na niebie.",
+      "fa": "زمانی که تاریک است چون خورشید در آسمان نیست."
+    },
+    "examples": {
+      "en": ["I like the night.", "The night is dark.", "I sleep at night."],
+      "de": ["Ich mag die Nacht.", "Die Nacht ist dunkel.", "Ich schlafe nachts."],
+      "ar": ["أحب الليل.", "الليل مظلم.", "أنام في الليل."],
+      "fr": ["J'aime la nuit.", "La nuit est sombre.", "Je dors la nuit."],
+      "it": ["Mi piace la notte.", "La notte è buia.", "Dormo di notte."],
+      "ru": ["Мне нравится ночь.", "Ночь тёмная.", "Я сплю ночью."],
+      "es": ["Me gusta la noche.", "La noche es oscura.", "Duermo por la noche."],
+      "pl": ["Lubię noc.", "Noc jest ciemna.", "Śpię w nocy."],
+      "fa": ["من شب را دوست دارم.", "شب تاریک است.", "من در شب می‌خوابم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_176_en",
+    "word": "morning",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "morning", "de": "Morgen", "ar": "صباح", "fr": "matin", "it": "mattina", "ru": "утро", "es": "mañana", "pl": "rano", "fa": "صبح"},
+    "explanations": {
+      "en": "The early part of the day from when the sun comes up until noon.",
+      "de": "Der frühe Teil des Tages von Sonnenaufgang bis Mittag.",
+      "ar": "الجزء المبكر من اليوم من شروق الشمس حتى الظهر.",
+      "fr": "La première partie de la journée depuis le lever du soleil jusqu'à midi.",
+      "it": "La prima parte del giorno da quando sorge il sole fino a mezzogiorno.",
+      "ru": "Ранняя часть дня от восхода солнца до полудня.",
+      "es": "La primera parte del día desde que sale el sol hasta el mediodía.",
+      "pl": "Wczesna część dnia od wschodu słońca do południa.",
+      "fa": "قسمت اولیه روز از زمان طلوع خورشید تا ظهر."
+    },
+    "examples": {
+      "en": ["I like the morning.", "The morning is early.", "I eat in the morning."],
+      "de": ["Ich mag den Morgen.", "Der Morgen ist früh.", "Ich esse am Morgen."],
+      "ar": ["أحب الصباح.", "الصباح مبكر.", "آكل في الصباح."],
+      "fr": ["J'aime le matin.", "Le matin est tôt.", "Je mange le matin."],
+      "it": ["Mi piace la mattina.", "La mattina è presto.", "Mangio la mattina."],
+      "ru": ["Мне нравится утро.", "Утро раннее.", "Я ем утром."],
+      "es": ["Me gusta la mañana.", "La mañana es temprano.", "Como por la mañana."],
+      "pl": ["Lubię rano.", "Rano jest wcześnie.", "Jem rano."],
+      "fa": ["من صبح را دوست دارم.", "صبح زود است.", "من در صبح غذا می‌خورم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_177_en",
+    "word": "evening",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "evening", "de": "Abend", "ar": "مساء", "fr": "soir", "it": "sera", "ru": "вечер", "es": "tarde", "pl": "wieczór", "fa": "عصر"},
+    "explanations": {
+      "en": "The late part of the day from late afternoon until night comes.",
+      "de": "Der späte Teil des Tages vom späten Nachmittag bis die Nacht kommt.",
+      "ar": "الجزء المتأخر من اليوم من بعد الظهر حتى يأتي الليل.",
+      "fr": "La partie tardive de la journée depuis la fin de l'après-midi jusqu'à ce que la nuit vienne.",
+      "it": "La parte finale del giorno dal tardo pomeriggio fino a quando arriva la notte.",
+      "ru": "Поздняя часть дня с позднего вечера до наступления ночи.",
+      "es": "La parte tardía del día desde la tarde hasta que llega la noche.",
+      "pl": ["Późna część dnia od późnego popołudnia do nadejścia nocy.",
+      "fa": "قسمت دیرهنگام روز از بعدازظهر تا زمانی که شب فرا می‌رسد."
+    },
+    "examples": {
+      "en": ["I like the evening.", "The evening is late.", "I eat in the evening."],
+      "de": ["Ich mag den Abend.", "Der Abend ist spät.", "Ich esse am Abend."],
+      "ar": ["أحب المساء.", "المساء متأخر.", "آكل في المساء."],
+      "fr": ["J'aime le soir.", "Le soir est tard.", "Je mange le soir."],
+      "it": ["Mi piace la sera.", "La sera è tardi.", "Mangio la sera."],
+      "ru": ["Мне нравится вечер.", "Вечер поздний.", "Я ем вечером."],
+      "es": ["Me gusta la tarde.", "La tarde es tarde.", "Como por la tarde."],
+      "pl": ["Lubię wieczór.", "Wieczór jest późno.", "Jem wieczorem."],
+      "fa": ["من عصر را دوست دارم.", "عصر دیر است.", "من در عصر غذا می‌خورم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_178_en",
+    "word": "afternoon",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "afternoon", "de": "Nachmittag", "ar": "بعد الظهر", "fr": "après-midi", "it": "pomeriggio", "ru": "день", "es": "tarde", "pl": "popołudnie", "fa": "بعدازظهر"},
+    "explanations": {
+      "en": "The part of the day between noon and evening when it is still light.",
+      "de": "Der Teil des Tages zwischen Mittag und Abend, wenn es noch hell ist.",
+      "ar": "جزء من اليوم بين الظهر والمساء عندما لا يزال هناك ضوء.",
+      "fr": "La partie de la journée entre midi et le soir quand il fait encore jour.",
+      "it": "La parte del giorno tra mezzogiorno e sera quando c'è ancora luce.",
+      "ru": "Часть дня между полуднем и вечером, когда ещё светло.",
+      "es": "La parte del día entre el mediodía y la tarde cuando todavía hay luz.",
+      "pl": "Część dnia między południem a wieczorem, kiedy jest jeszcze jasno.",
+      "fa": "قسمتی از روز بین ظهر و عصر که هنوز روشن است."
+    },
+    "examples": {
+      "en": ["I like the afternoon.", "The afternoon is good.", "I work in the afternoon."],
+      "de": ["Ich mag den Nachmittag.", "Der Nachmittag ist gut.", "Ich arbeite am Nachmittag."],
+      "ar": ["أحب بعد الظهر.", "بعد الظهر جيد.", "أعمل بعد الظهر."],
+      "fr": ["J'aime l'après-midi.", "L'après-midi est bon.", "Je travaille l'après-midi."],
+      "it": ["Mi piace il pomeriggio.", "Il pomeriggio è buono.", "Lavoro il pomeriggio."],
+      "ru": ["Мне нравится день.", "День хороший.", "Я работаю днём."],
+      "es": ["Me gusta la tarde.", "La tarde es buena.", "Trabajo por la tarde."],
+      "pl": ["Lubię popołudnie.", "Popołudnie jest dobre.", "Pracuję popołudniu."],
+      "fa": ["من بعدازظهر را دوست دارم.", "بعدازظهر خوب است.", "من در بعدازظهر کار می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_179_en",
+    "word": "hour",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "hour", "de": "Stunde", "ar": "ساعة", "fr": "heure", "it": "ora", "ru": "час", "es": "hora", "pl": "godzina", "fa": "ساعت"},
+    "explanations": {
+      "en": "A period of time equal to sixty minutes or one twenty-fourth of a day.",
+      "de": "Ein Zeitraum von sechzig Minuten oder einem Vierundzwanzigstel eines Tages.",
+      "ar": "فترة زمنية تساوي ستين دقيقة أو جزء من أربعة وعشرين من اليوم.",
+      "fr": "Une période de temps égale à soixante minutes ou un vingt-quatrième d'un jour.",
+      "it": "Un periodo di tempo pari a sessanta minuti o un ventiquattresimo di un giorno.",
+      "ru": "Период времени, равный шестидесяти минутам или одной двадцать четвёртой дня.",
+      "es": "Un período de tiempo igual a sesenta minutos o una veinticuatroava parte de un día.",
+      "pl": "Okres czasu równy sześćdziesiąt minutom lub jednej dwudziestej czwartej dnia.",
+      "fa": "دوره زمانی برابر با شصت دقیقه یا یک بیست و چهارم روز."
+    },
+    "examples": {
+      "en": ["I have one hour.", "The hour is long.", "I wait one hour."],
+      "de": ["Ich habe eine Stunde.", "Die Stunde ist lang.", "Ich warte eine Stunde."],
+      "ar": ["لدي ساعة واحدة.", "الساعة طويلة.", "أنتظر ساعة واحدة."],
+      "fr": ["J'ai une heure.", "L'heure est longue.", "J'attends une heure."],
+      "it": ["Ho un'ora.", "L'ora è lunga.", "Aspetto un'ora."],
+      "ru": ["У меня есть один час.", "Час длинный.", "Я жду один час."],
+      "es": ["Tengo una hora.", "La hora es larga.", "Espero una hora."],
+      "pl": ["Mam jedną godzinę.", "Godzina jest długa.", "Czekam godzinę."],
+      "fa": ["من یک ساعت دارم.", "ساعت بلند است.", "من یک ساعت منتظر می‌مانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_180_en",
+    "word": "minute",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {"en": "minute", "de": "Minute", "ar": "دقيقة", "fr": "minute", "it": "minuto", "ru": "минута", "es": "minuto", "pl": "minuta", "fa": "دقیقه"},
+    "explanations": {
+      "en": "A short period of time equal to sixty seconds or one-sixtieth of an hour.",
+      "de": "Ein kurzer Zeitraum von sechzig Sekunden oder einem Sechzigstel einer Stunde.",
+      "ar": "فترة زمنية قصيرة تساوي ستين ثانية أو جزء من ستين من الساعة.",
+      "fr": "Une courte période de temps égale à soixante secondes ou un soixantième d'une heure.",
+      "it": "Un breve periodo di tempo pari a sessanta secondi o un sessantesimo di un'ora.",
+      "ru": "Короткий период времени, равный шестидесяти секундам или одной шестидесятой часа.",
+      "es": "Un período corto de tiempo igual a sesenta segundos o una sesentava parte de una hora.",
+      "pl": "Krótki okres czasu równy sześćdziesiąt sekundom lub jednej sześćdziesiątej godziny.",
+      "fa": "دوره زمانی کوتاهی برابر با شصت ثانیه یا یک شصتم ساعت."
+    },
+    "examples": {
+      "en": ["I have one minute.", "The minute is short.", "I wait one minute."],
+      "de": ["Ich habe eine Minute.", "Die Minute ist kurz.", "Ich warte eine Minute."],
+      "ar": ["لدي دقيقة واحدة.", "الدقيقة قصيرة.", "أنتظر دقيقة واحدة."],
+      "fr": ["J'ai une minute.", "La minute est courte.", "J'attends une minute."],
+      "it": ["Ho un minuto.", "Il minuto è breve.", "Aspetto un minuto."],
+      "ru": ["У меня есть одна минута.", "Минута короткая.", "Я жду одну минуту."],
+      "es": ["Tengo un minuto.", "El minuto es corto.", "Espero un minuto."],
+      "pl": ["Mam jedną minutę.", "Minuta jest krótka.", "Czekam minutę."],
+      "fa": ["من یک دقیقه دارم.", "دقیقه کوتاه است.", "من یک دقیقه منتظر می‌مانم."]
+    },
+    "conjugations": null
+  }
+]
