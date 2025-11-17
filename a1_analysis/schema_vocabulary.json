@@ -1,0 +1,66 @@
+{
+  "schema_type": "profile_vocabulary",
+  "description": "Schema for profile-specific vocabulary files (e.g., salman/en.json)",
+  "structure": {
+    "word": {
+      "type": "string",
+      "description": "The target vocabulary word/phrase"
+    },
+    "translations": {
+      "type": "object",
+      "description": "Translations to different languages (keys are ISO language codes)",
+      "example": {
+        "ar": "مرحباً",
+        "de": "Hallo"
+      }
+    },
+    "explanation": {
+      "type": "object",
+      "description": "Detailed explanations in different languages",
+      "example": {
+        "ar": "تحية عامة للقاء شخص. التحية الأكثر شيوعاً.",
+        "de": "Allgemeine Begrüßung. Die häufigste Begrüßung."
+      }
+    },
+    "conjugations": {
+      "type": "null or object",
+      "description": "Grammatical conjugations/forms (often null for non-verbs)"
+    },
+    "examples": {
+      "type": "object",
+      "description": "Usage examples in different languages (each is array of [original, translation])",
+      "example": {
+        "ar": [
+          "Hello, how are you?",
+          "مرحباً، كيف حالك؟"
+        ],
+        "de": [
+          "Hello, nice to meet you.",
+          "Hallo, schön dich kennenzulernen."
+        ]
+      }
+    }
+  },
+  "complete_example": {
+    "word": "hello",
+    "translations": {
+      "ar": "مرحباً",
+      "de": "Hallo"
+    },
+    "explanation": {
+      "ar": "تحية عامة للقاء شخص. التحية الأكثر شيوعاً.",
+      "de": "Allgemeine Begrüßung. Die häufigste Begrüßung."
+    },
+    "conjugations": null,
+    "examples": {
+      "ar": [
+        "Hello, how are you?",
+        "مرحباً، كيف حالك؟"
+      ],
+      "de": [
+        "Hello, nice to meet you.",
+        "Hallo, schön dich kennenzulernen."
+      ]
+    }
+  }
+}

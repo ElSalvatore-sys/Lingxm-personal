@@ -1,0 +1,149 @@
+{
+  "description": "Schema for sentence practice files across different languages and levels",
+  "variants": {
+    "english_a1a2": {
+      "file": "public/data/sentences/en/en-a1a2-sentences.json",
+      "sentence_structure": {
+        "sentence": {
+          "type": "string",
+          "description": "Complete sentence in target language"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["basic", "intermediate", "practical"],
+          "description": "Difficulty level within A1-A2"
+        },
+        "context": {
+          "type": "string",
+          "description": "Usage context (e.g., 'Greeting', 'Social interaction')"
+        },
+        "target_word": {
+          "type": "string",
+          "description": "The vocabulary word being practiced"
+        },
+        "translation": {
+          "type": "string",
+          "description": "Translation to another language (often empty)"
+        },
+        "id": {
+          "type": "string",
+          "description": "Unique identifier (format: [lang]-[level]-[word]-[number])"
+        },
+        "blank": {
+          "type": "string",
+          "description": "Sentence with target word replaced by underscores for fill-in-the-blank"
+        }
+      },
+      "example": {
+        "sentence": "Hello! How are you?",
+        "difficulty": "basic",
+        "context": "Greeting",
+        "target_word": "hello",
+        "translation": "",
+        "id": "en-a1a2-hello-001",
+        "blank": "_____! How are you?"
+      }
+    },
+    "italian_a1": {
+      "file": "public/data/sentences/it/it-a1-sentences.json",
+      "sentence_structure": {
+        "id": {
+          "type": "string",
+          "description": "Format: it_[word_num]_[sentence_num]"
+        },
+        "sentence": {
+          "type": "string",
+          "description": "Italian sentence"
+        },
+        "translation": {
+          "type": "string",
+          "description": "Translation (Persian/Farsi)"
+        },
+        "translation_language": {
+          "type": "string",
+          "description": "ISO code for translation language"
+        },
+        "target_word": {
+          "type": "string",
+          "description": "The vocabulary word"
+        },
+        "target_index": {
+          "type": "number",
+          "description": "Position of target word in sentence"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["basic", "intermediate", "practical"]
+        },
+        "domain": {
+          "type": "string",
+          "description": "Domain/topic area"
+        },
+        "blank": {
+          "type": "string",
+          "description": "Fill-in-the-blank version"
+        }
+      },
+      "example": {
+        "id": "it_001_001",
+        "sentence": "Ciao! Come stai?",
+        "translation": "سلام! حالت چطوره؟",
+        "translation_language": "fa",
+        "target_word": "ciao",
+        "target_index": 0,
+        "difficulty": "basic",
+        "domain": "basic",
+        "blank": "_____! Come stai?"
+      }
+    },
+    "russian_a1b1": {
+      "file": "public/data/sentences/ru/ru-a1b1-sentences.json",
+      "sentence_structure": {
+        "sentence": {
+          "type": "string",
+          "description": "Russian sentence"
+        },
+        "blank": {
+          "type": "string",
+          "description": "Fill-in-the-blank version"
+        },
+        "target_word": {
+          "type": "string",
+          "description": "Target Russian word"
+        },
+        "translation": {
+          "type": "string",
+          "description": "English translation"
+        },
+        "id": {
+          "type": "string",
+          "description": "Format: ru_[word_num]_[sentence_num]"
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["basic", "intermediate", "practical"]
+        }
+      },
+      "example": {
+        "sentence": "Привет! Как дела?",
+        "blank": "_____! Как дела?",
+        "target_word": "привет",
+        "translation": "Hello! How are you?",
+        "id": "ru_001_001",
+        "difficulty": "basic"
+      }
+    }
+  },
+  "metadata_structure": {
+    "language": "ISO language code",
+    "language_name": "Full language name",
+    "level": "CEFR level (e.g., A1, A1-A2, A1-B1)",
+    "source_profiles": "Array of profile names",
+    "total_words": "Number of vocabulary words",
+    "total_sentences": "Total number of practice sentences",
+    "generated_date": "Generation date",
+    "version": "Version number",
+    "quality_score": "Quality rating (optional)",
+    "generation_method": "Description of generation approach"
+  }
+}

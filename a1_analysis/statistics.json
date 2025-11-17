@@ -1,0 +1,148 @@
+{
+  "generation_date": "2025-11-17",
+  "analysis_type": "Complete A1 Vocabulary & Sentence Analysis",
+  
+  "profile_vocabularies": {
+    "total_files": 23,
+    "total_entries": 4140,
+    "unique_words_total": 2483,
+    "words_per_file_standard": 180,
+    
+    "by_language": {
+      "de": {
+        "profiles": 7,
+        "profile_names": ["ameeno", "hassan", "jawad", "kafel", "salman", "vahiko", "valeria"],
+        "total_entries": 1260,
+        "unique_words": 623,
+        "duplication_rate": "50.5%"
+      },
+      "en": {
+        "profiles": 7,
+        "profile_names": ["ameeno", "dmitri", "hassan", "jawad", "kafel", "salman", "vahiko"],
+        "total_entries": 1260,
+        "unique_words": 527,
+        "duplication_rate": "58.2%"
+      },
+      "ar": {
+        "profiles": 1,
+        "profile_names": ["hassan"],
+        "total_entries": 180,
+        "unique_words": 180,
+        "duplication_rate": "0%"
+      },
+      "fr": {
+        "profiles": 2,
+        "profile_names": ["jawad", "salman"],
+        "total_entries": 360,
+        "unique_words": 294,
+        "duplication_rate": "18.3%"
+      },
+      "it": {
+        "profiles": 2,
+        "profile_names": ["ameeno", "valeria"],
+        "total_entries": 360,
+        "unique_words": 180,
+        "duplication_rate": "50%"
+      },
+      "ru": {
+        "profiles": 1,
+        "profile_names": ["dmitri"],
+        "total_entries": 180,
+        "unique_words": 180,
+        "duplication_rate": "0%"
+      },
+      "de-gastro": {
+        "profiles": 2,
+        "profile_names": ["jawad", "salman"],
+        "total_entries": 360,
+        "unique_words": 319,
+        "duplication_rate": "11.4%"
+      },
+      "de-it": {
+        "profiles": 1,
+        "profile_names": ["kafel"],
+        "total_entries": 180,
+        "unique_words": 180,
+        "duplication_rate": "0%"
+      }
+    }
+  },
+  
+  "sentence_files": {
+    "a1_level": {
+      "en-a1a2": {
+        "file": "public/data/sentences/en/en-a1a2-sentences.json",
+        "language": "English",
+        "level": "A1-A2",
+        "total_words": 173,
+        "total_sentences": 519,
+        "sentences_per_word": 3,
+        "avg_sentence_length_chars": 20.2,
+        "source_profile": "salman",
+        "quality_score": "98/100",
+        "catastrophic_errors": 0
+      },
+      "it-a1": {
+        "file": "public/data/sentences/it/it-a1-sentences.json",
+        "language": "Italian",
+        "level": "A1",
+        "total_words": 180,
+        "total_sentences": 540,
+        "sentences_per_word": 3,
+        "avg_sentence_length_chars": 23.3,
+        "source_profile": "ameeno",
+        "translation_language": "Persian (fa)"
+      },
+      "ru-a1b1": {
+        "file": "public/data/sentences/ru/ru-a1b1-sentences.json",
+        "language": "Russian",
+        "level": "A1-B1",
+        "total_words": 180,
+        "total_sentences": 540,
+        "sentences_per_word": 3,
+        "avg_sentence_length_chars": 80.7,
+        "source_profile": "dmitri",
+        "translation_language": "English"
+      }
+    },
+    "higher_levels": {
+      "b1b2_files": 4,
+      "c1c2_files": 4,
+      "specialized_files": 6
+    }
+  },
+  
+  "coverage": {
+    "languages_with_a1_sentences": ["en", "it", "ru"],
+    "languages_with_vocabulary_only": ["de", "ar", "fr"],
+    "languages_total": 6,
+    "specialized_domains": ["gastro", "de-it"]
+  },
+  
+  "next_generation_targets": {
+    "a2_level": {
+      "languages_needed": ["de", "ar", "fr", "en", "it", "ru"],
+      "estimated_words_per_lang": "500-800",
+      "estimated_sentences_per_word": 3,
+      "priority": "HIGH"
+    },
+    "b1_level": {
+      "languages_needed": ["de", "ar", "fr", "en", "it", "ru"],
+      "estimated_words_per_lang": "1000",
+      "estimated_sentences_per_word": 3,
+      "priority": "MEDIUM"
+    },
+    "b2_level": {
+      "languages_needed": ["de", "ar", "fr", "en", "it", "ru"],
+      "estimated_words_per_lang": "1500",
+      "estimated_sentences_per_word": 3,
+      "priority": "MEDIUM"
+    },
+    "domain_specific": {
+      "domains_needed": ["medical", "tech", "business", "legal"],
+      "languages": ["de", "en", "fr"],
+      "estimated_words_per_domain": "300-500",
+      "priority": "LOW"
+    }
+  }
+}
