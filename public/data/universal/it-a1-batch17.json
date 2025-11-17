@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "universal_a1_321_it",
+    "word": "mattina",
+    "translations": {
+      "en": "morning",
+      "fa": "صبح",
+      "de": "Morgen",
+      "ru": "утро",
+      "ar": "صباح",
+      "es": "mañana",
+      "fr": "matin",
+      "pt": "manhã",
+      "zh": "早晨"
+    },
+    "examples": {
+      "en": [
+        "La mattina bevo il caffè.",
+        "In the morning I drink coffee.",
+        "Buona mattina!",
+        "Good morning!",
+        "Questa mattina fa freddo.",
+        "This morning it's cold."
+      ],
+      "fa": [
+        "La mattina bevo il caffè.",
+        "صبح‌ها قهوه می‌نوشم.",
+        "Buona mattina!",
+        "صبح بخیر!",
+        "Questa mattina fa freddo.",
+        "امروز صبح سرد است."
+      ],
+      "de": [
+        "La mattina bevo il caffè.",
+        "Am Morgen trinke ich Kaffee.",
+        "Buona mattina!",
+        "Guten Morgen!",
+        "Questa mattina fa freddo.",
+        "Heute Morgen ist es kalt."
+      ],
+      "ru": [
+        "La mattina bevo il caffè.",
+        "Утром я пью кофе.",
+        "Buona mattina!",
+        "Доброе утро!",
+        "Questa mattina fa freddo.",
+        "Сегодня утром холодно."
+      ],
+      "ar": [
+        "La mattina bevo il caffè.",
+        "في الصباح أشرب القهوة.",
+        "Buona mattina!",
+        "صباح الخير!",
+        "Questa mattina fa freddo.",
+        "هذا الصباح الجو بارد."
+      ],
+      "es": [
+        "La mattina bevo il caffè.",
+        "Por la mañana bebo café.",
+        "Buona mattina!",
+        "¡Buenos días!",
+        "Questa mattina fa freddo.",
+        "Esta mañana hace frío."
+      ],
+      "fr": [
+        "La mattina bevo il caffè.",
+        "Le matin je bois du café.",
+        "Buona mattina!",
+        "Bonjour!",
+        "Questa mattina fa freddo.",
+        "Ce matin il fait froid."
+      ],
+      "pt": [
+        "La mattina bevo il caffè.",
+        "De manhã eu bebo café.",
+        "Buona mattina!",
+        "Bom dia!",
+        "Questa mattina fa freddo.",
+        "Esta manhã está frio."
+      ],
+      "zh": [
+        "La mattina bevo il caffè.",
+        "早上我喝咖啡。",
+        "Buona mattina!",
+        "早上好！",
+        "Questa mattina fa freddo.",
+        "今天早上很冷。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_322_it",
+    "word": "pomeriggio",
+    "translations": {
+      "en": "afternoon",
+      "fa": "بعدازظهر",
+      "de": "Nachmittag",
+      "ru": "день",
+      "ar": "بعد الظهر",
+      "es": "tarde",
+      "fr": "après-midi",
+      "pt": "tarde",
+      "zh": "下午"
+    },
+    "examples": {
+      "en": [
+        "Il pomeriggio studio italiano.",
+        "In the afternoon I study Italian.",
+        "Buon pomeriggio!",
+        "Good afternoon!",
+        "Questo pomeriggio vado al parco.",
+        "This afternoon I'm going to the park."
+      ],
+      "fa": [
+        "Il pomeriggio studio italiano.",
+        "بعدازظهر ایتالیایی یاد می‌گیرم.",
+        "Buon pomeriggio!",
+        "بعدازظهر بخیر!",
+        "Questo pomeriggio vado al parco.",
+        "امروز بعدازظهر به پارک می‌روم."
+      ],
+      "de": [
+        "Il pomeriggio studio italiano.",
+        "Am Nachmittag lerne ich Italienisch.",
+        "Buon pomeriggio!",
+        "Guten Tag!",
+        "Questo pomeriggio vado al parco.",
+        "Heute Nachmittag gehe ich in den Park."
+      ],
+      "ru": [
+        "Il pomeriggio studio italiano.",
+        "Днём я изучаю итальянский.",
+        "Buon pomeriggio!",
+        "Добрый день!",
+        "Questo pomeriggio vado al parco.",
+        "Сегодня днём я иду в парк."
+      ],
+      "ar": [
+        "Il pomeriggio studio italiano.",
+        "بعد الظهر أدرس الإيطالية.",
+        "Buon pomeriggio!",
+        "مساء الخير!",
+        "Questo pomeriggio vado al parco.",
+        "بعد ظهر اليوم سأذهب إلى الحديقة."
+      ],
+      "es": [
+        "Il pomeriggio studio italiano.",
+        "Por la tarde estudio italiano.",
+        "Buon pomeriggio!",
+        "¡Buenas tardes!",
+        "Questo pomeriggio vado al parco.",
+        "Esta tarde voy al parque."
+      ],
+      "fr": [
+        "Il pomeriggio studio italiano.",
+        "L'après-midi j'étudie l'italien.",
+        "Buon pomeriggio!",
+        "Bon après-midi!",
+        "Questo pomeriggio vado al parco.",
+        "Cet après-midi je vais au parc."
+      ],
+      "pt": [
+        "Il pomeriggio studio italiano.",
+        "À tarde eu estudo italiano.",
+        "Buon pomeriggio!",
+        "Boa tarde!",
+        "Questo pomeriggio vado al parco.",
+        "Esta tarde vou ao parque."
+      ],
+      "zh": [
+        "Il pomeriggio studio italiano.",
+        "下午我学习意大利语。",
+        "Buon pomeriggio!",
+        "下午好！",
+        "Questo pomeriggio vado al parco.",
+        "今天下午我去公园。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_323_it",
+    "word": "sera",
+    "translations": {
+      "en": "evening",
+      "fa": "عصر، شب",
+      "de": "Abend",
+      "ru": "вечер",
+      "ar": "مساء",
+      "es": "tarde, noche",
+      "fr": "soir",
+      "pt": "noite",
+      "zh": "晚上"
+    },
+    "examples": {
+      "en": [
+        "La sera guardo la TV.",
+        "In the evening I watch TV.",
+        "Buona sera!",
+        "Good evening!",
+        "Stasera mangio la pizza.",
+        "This evening I'm eating pizza."
+      ],
+      "fa": [
+        "La sera guardo la TV.",
+        "عصر تلویزیون تماشا می‌کنم.",
+        "Buona sera!",
+        "عصر بخیر!",
+        "Stasera mangio la pizza.",
+        "امشب پیتزا می‌خورم."
+      ],
+      "de": [
+        "La sera guardo la TV.",
+        "Am Abend schaue ich fern.",
+        "Buona sera!",
+        "Guten Abend!",
+        "Stasera mangio la pizza.",
+        "Heute Abend esse ich Pizza."
+      ],
+      "ru": [
+        "La sera guardo la TV.",
+        "Вечером я смотрю телевизор.",
+        "Buona sera!",
+        "Добрый вечер!",
+        "Stasera mangio la pizza.",
+        "Сегодня вечером я ем пиццу."
+      ],
+      "ar": [
+        "La sera guardo la TV.",
+        "في المساء أشاهد التلفاز.",
+        "Buona sera!",
+        "مساء الخير!",
+        "Stasera mangio la pizza.",
+        "هذا المساء سآكل البيتزا."
+      ],
+      "es": [
+        "La sera guardo la TV.",
+        "Por la noche veo la televisión.",
+        "Buona sera!",
+        "¡Buenas tardes!",
+        "Stasera mangio la pizza.",
+        "Esta noche como pizza."
+      ],
+      "fr": [
+        "La sera guardo la TV.",
+        "Le soir je regarde la télé.",
+        "Buona sera!",
+        "Bonsoir!",
+        "Stasera mangio la pizza.",
+        "Ce soir je mange de la pizza."
+      ],
+      "pt": [
+        "La sera guardo la TV.",
+        "À noite eu assisto TV.",
+        "Buona sera!",
+        "Boa noite!",
+        "Stasera mangio la pizza.",
+        "Esta noite como pizza."
+      ],
+      "zh": [
+        "La sera guardo la TV.",
+        "晚上我看电视。",
+        "Buona sera!",
+        "晚上好！",
+        "Stasera mangio la pizza.",
+        "今晚我吃披萨。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_324_it",
+    "word": "notte",
+    "translations": {
+      "en": "night",
+      "fa": "شب",
+      "de": "Nacht",
+      "ru": "ночь",
+      "ar": "ليل",
+      "es": "noche",
+      "fr": "nuit",
+      "pt": "noite",
+      "zh": "夜晚"
+    },
+    "examples": {
+      "en": [
+        "La notte dormo.",
+        "At night I sleep.",
+        "Buona notte!",
+        "Good night!",
+        "Stanotte ho dormito bene.",
+        "Last night I slept well."
+      ],
+      "fa": [
+        "La notte dormo.",
+        "شب می‌خوابم.",
+        "Buona notte!",
+        "شب بخیر!",
+        "Stanotte ho dormito bene.",
+        "امشب خوب خوابیدم."
+      ],
+      "de": [
+        "La notte dormo.",
+        "Nachts schlafe ich.",
+        "Buona notte!",
+        "Gute Nacht!",
+        "Stanotte ho dormito bene.",
+        "Heute Nacht habe ich gut geschlafen."
+      ],
+      "ru": [
+        "La notte dormo.",
+        "Ночью я сплю.",
+        "Buona notte!",
+        "Спокойной ночи!",
+        "Stanotte ho dormito bene.",
+        "Сегодня ночью я хорошо спал."
+      ],
+      "ar": [
+        "La notte dormo.",
+        "في الليل أنام.",
+        "Buona notte!",
+        "تصبح على خير!",
+        "Stanotte ho dormito bene.",
+        "الليلة الماضية نمت جيدًا."
+      ],
+      "es": [
+        "La notte dormo.",
+        "Por la noche duermo.",
+        "Buona notte!",
+        "¡Buenas noches!",
+        "Stanotte ho dormito bene.",
+        "Anoche dormí bien."
+      ],
+      "fr": [
+        "La notte dormo.",
+        "La nuit je dors.",
+        "Buona notte!",
+        "Bonne nuit!",
+        "Stanotte ho dormito bene.",
+        "Cette nuit j'ai bien dormi."
+      ],
+      "pt": [
+        "La notte dormo.",
+        "À noite eu durmo.",
+        "Buona notte!",
+        "Boa noite!",
+        "Stanotte ho dormito bene.",
+        "Esta noite eu dormi bem."
+      ],
+      "zh": [
+        "La notte dormo.",
+        "夜晚我睡觉。",
+        "Buona notte!",
+        "晚安！",
+        "Stanotte ho dormito bene.",
+        "今晚我睡得很好。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_325_it",
+    "word": "giorno",
+    "translations": {
+      "en": "day",
+      "fa": "روز",
+      "de": "Tag",
+      "ru": "день",
+      "ar": "يوم",
+      "es": "día",
+      "fr": "jour",
+      "pt": "dia",
+      "zh": "天"
+    },
+    "examples": {
+      "en": [
+        "Oggi è un bel giorno.",
+        "Today is a beautiful day.",
+        "Buon giorno!",
+        "Good morning!",
+        "Ogni giorno studio italiano.",
+        "Every day I study Italian."
+      ],
+      "fa": [
+        "Oggi è un bel giorno.",
+        "امروز روز زیبایی است.",
+        "Buon giorno!",
+        "روز بخیر!",
+        "Ogni giorno studio italiano.",
+        "هر روز ایتالیایی یاد می‌گیرم."
+      ],
+      "de": [
+        "Oggi è un bel giorno.",
+        "Heute ist ein schöner Tag.",
+        "Buon giorno!",
+        "Guten Tag!",
+        "Ogni giorno studio italiano.",
+        "Jeden Tag lerne ich Italienisch."
+      ],
+      "ru": [
+        "Oggi è un bel giorno.",
+        "Сегодня прекрасный день.",
+        "Buon giorno!",
+        "Добрый день!",
+        "Ogni giorno studio italiano.",
+        "Каждый день я изучаю итальянский."
+      ],
+      "ar": [
+        "Oggi è un bel giorno.",
+        "اليوم يوم جميل.",
+        "Buon giorno!",
+        "يوم جيد!",
+        "Ogni giorno studio italiano.",
+        "كل يوم أدرس الإيطالية."
+      ],
+      "es": [
+        "Oggi è un bel giorno.",
+        "Hoy es un día bonito.",
+        "Buon giorno!",
+        "¡Buen día!",
+        "Ogni giorno studio italiano.",
+        "Cada día estudio italiano."
+      ],
+      "fr": [
+        "Oggi è un bel giorno.",
+        "Aujourd'hui c'est une belle journée.",
+        "Buon giorno!",
+        "Bonjour!",
+        "Ogni giorno studio italiano.",
+        "Chaque jour j'étudie l'italien."
+      ],
+      "pt": [
+        "Oggi è un bel giorno.",
+        "Hoje é um dia bonito.",
+        "Buon giorno!",
+        "Bom dia!",
+        "Ogni giorno studio italiano.",
+        "Todo dia estudo italiano."
+      ],
+      "zh": [
+        "Oggi è un bel giorno.",
+        "今天是美好的一天。",
+        "Buon giorno!",
+        "早上好！",
+        "Ogni giorno studio italiano.",
+        "我每天学习意大利语。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_326_it",
+    "word": "settimana",
+    "translations": {
+      "en": "week",
+      "fa": "هفته",
+      "de": "Woche",
+      "ru": "неделя",
+      "ar": "أسبوع",
+      "es": "semana",
+      "fr": "semaine",
+      "pt": "semana",
+      "zh": "星期"
+    },
+    "examples": {
+      "en": [
+        "Una settimana ha sette giorni.",
+        "A week has seven days.",
+        "La settimana prossima vado a Roma.",
+        "Next week I'm going to Rome.",
+        "Questa settimana lavoro molto.",
+        "This week I work a lot."
+      ],
+      "fa": [
+        "Una settimana ha sette giorni.",
+        "یک هفته هفت روز دارد.",
+        "La settimana prossima vado a Roma.",
+        "هفته آینده به رم می‌روم.",
+        "Questa settimana lavoro molto.",
+        "این هفته زیاد کار می‌کنم."
+      ],
+      "de": [
+        "Una settimana ha sette giorni.",
+        "Eine Woche hat sieben Tage.",
+        "La settimana prossima vado a Roma.",
+        "Nächste Woche fahre ich nach Rom.",
+        "Questa settimana lavoro molto.",
+        "Diese Woche arbeite ich viel."
+      ],
+      "ru": [
+        "Una settimana ha sette giorni.",
+        "В неделе семь дней.",
+        "La settimana prossima vado a Roma.",
+        "На следующей неделе я еду в Рим.",
+        "Questa settimana lavoro molto.",
+        "На этой неделе я много работаю."
+      ],
+      "ar": [
+        "Una settimana ha sette giorni.",
+        "الأسبوع به سبعة أيام.",
+        "La settimana prossima vado a Roma.",
+        "الأسبوع القادم سأذهب إلى روما.",
+        "Questa settimana lavoro molto.",
+        "هذا الأسبوع أعمل كثيرًا."
+      ],
+      "es": [
+        "Una settimana ha sette giorni.",
+        "Una semana tiene siete días.",
+        "La settimana prossima vado a Roma.",
+        "La próxima semana voy a Roma.",
+        "Questa settimana lavoro molto.",
+        "Esta semana trabajo mucho."
+      ],
+      "fr": [
+        "Una settimana ha sette giorni.",
+        "Une semaine a sept jours.",
+        "La settimana prossima vado a Roma.",
+        "La semaine prochaine je vais à Rome.",
+        "Questa settimana lavoro molto.",
+        "Cette semaine je travaille beaucoup."
+      ],
+      "pt": [
+        "Una settimana ha sette giorni.",
+        "Uma semana tem sete dias.",
+        "La settimana prossima vado a Roma.",
+        "Na próxima semana vou a Roma.",
+        "Questa settimana lavoro molto.",
+        "Esta semana trabalho muito."
+      ],
+      "zh": [
+        "Una settimana ha sette giorni.",
+        "一周有七天。",
+        "La settimana prossima vado a Roma.",
+        "下周我去罗马。",
+        "Questa settimana lavoro molto.",
+        "这周我工作很多。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_327_it",
+    "word": "mese",
+    "translations": {
+      "en": "month",
+      "fa": "ماه",
+      "de": "Monat",
+      "ru": "месяц",
+      "ar": "شهر",
+      "es": "mes",
+      "fr": "mois",
+      "pt": "mês",
+      "zh": "月"
+    },
+    "examples": {
+      "en": [
+        "Un anno ha dodici mesi.",
+        "A year has twelve months.",
+        "Il mese prossimo vado in vacanza.",
+        "Next month I'm going on vacation.",
+        "Questo mese studio molto.",
+        "This month I study a lot."
+      ],
+      "fa": [
+        "Un anno ha dodici mesi.",
+        "یک سال دوازده ماه دارد.",
+        "Il mese prossimo vado in vacanza.",
+        "ماه آینده به تعطیلات می‌روم.",
+        "Questo mese studio molto.",
+        "این ماه زیاد درس می‌خوانم."
+      ],
+      "de": [
+        "Un anno ha dodici mesi.",
+        "Ein Jahr hat zwölf Monate.",
+        "Il mese prossimo vado in vacanza.",
+        "Nächsten Monat fahre ich in den Urlaub.",
+        "Questo mese studio molto.",
+        "Diesen Monat lerne ich viel."
+      ],
+      "ru": [
+        "Un anno ha dodici mesi.",
+        "В году двенадцать месяцев.",
+        "Il mese prossimo vado in vacanza.",
+        "В следующем месяце я еду в отпуск.",
+        "Questo mese studio molto.",
+        "В этом месяце я много занимаюсь."
+      ],
+      "ar": [
+        "Un anno ha dodici mesi.",
+        "السنة بها اثنا عشر شهرًا.",
+        "Il mese prossimo vado in vacanza.",
+        "الشهر القادم سأذهب في إجازة.",
+        "Questo mese studio molto.",
+        "هذا الشهر أدرس كثيرًا."
+      ],
+      "es": [
+        "Un anno ha dodici mesi.",
+        "Un año tiene doce meses.",
+        "Il mese prossimo vado in vacanza.",
+        "El próximo mes voy de vacaciones.",
+        "Questo mese studio molto.",
+        "Este mes estudio mucho."
+      ],
+      "fr": [
+        "Un anno ha dodici mesi.",
+        "Une année a douze mois.",
+        "Il mese prossimo vado in vacanza.",
+        "Le mois prochain je pars en vacances.",
+        "Questo mese studio molto.",
+        "Ce mois-ci j'étudie beaucoup."
+      ],
+      "pt": [
+        "Un anno ha dodici mesi.",
+        "Um ano tem doze meses.",
+        "Il mese prossimo vado in vacanza.",
+        "No próximo mês vou de férias.",
+        "Questo mese studio molto.",
+        "Este mês estudo muito."
+      ],
+      "zh": [
+        "Un anno ha dodici mesi.",
+        "一年有十二个月。",
+        "Il mese prossimo vado in vacanza.",
+        "下个月我去度假。",
+        "Questo mese studio molto.",
+        "这个月我学习很多。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_328_it",
+    "word": "anno",
+    "translations": {
+      "en": "year",
+      "fa": "سال",
+      "de": "Jahr",
+      "ru": "год",
+      "ar": "سنة",
+      "es": "año",
+      "fr": "an, année",
+      "pt": "ano",
+      "zh": "年"
+    },
+    "examples": {
+      "en": [
+        "Quest'anno vado in Italia.",
+        "This year I'm going to Italy.",
+        "Ho venti anni.",
+        "I'm twenty years old.",
+        "L'anno prossimo studio medicina.",
+        "Next year I'll study medicine."
+      ],
+      "fa": [
+        "Quest'anno vado in Italia.",
+        "امسال به ایتالیا می‌روم.",
+        "Ho venti anni.",
+        "من بیست سال دارم.",
+        "L'anno prossimo studio medicina.",
+        "سال آینده پزشکی می‌خوانم."
+      ],
+      "de": [
+        "Quest'anno vado in Italia.",
+        "Dieses Jahr fahre ich nach Italien.",
+        "Ho venti anni.",
+        "Ich bin zwanzig Jahre alt.",
+        "L'anno prossimo studio medicina.",
+        "Nächstes Jahr studiere ich Medizin."
+      ],
+      "ru": [
+        "Quest'anno vado in Italia.",
+        "В этом году я еду в Италию.",
+        "Ho venti anni.",
+        "Мне двадцать лет.",
+        "L'anno prossimo studio medicina.",
+        "В следующем году я буду изучать медицину."
+      ],
+      "ar": [
+        "Quest'anno vado in Italia.",
+        "هذا العام سأذهب إلى إيطاليا.",
+        "Ho venti anni.",
+        "عمري عشرون سنة.",
+        "L'anno prossimo studio medicina.",
+        "العام القادم سأدرس الطب."
+      ],
+      "es": [
+        "Quest'anno vado in Italia.",
+        "Este año voy a Italia.",
+        "Ho venti anni.",
+        "Tengo veinte años.",
+        "L'anno prossimo studio medicina.",
+        "El año próximo estudio medicina."
+      ],
+      "fr": [
+        "Quest'anno vado in Italia.",
+        "Cette année je vais en Italie.",
+        "Ho venti anni.",
+        "J'ai vingt ans.",
+        "L'anno prossimo studio medicina.",
+        "L'année prochaine j'étudie la médecine."
+      ],
+      "pt": [
+        "Quest'anno vado in Italia.",
+        "Este ano vou para a Itália.",
+        "Ho venti anni.",
+        "Eu tenho vinte anos.",
+        "L'anno prossimo studio medicina.",
+        "No próximo ano estudo medicina."
+      ],
+      "zh": [
+        "Quest'anno vado in Italia.",
+        "今年我去意大利。",
+        "Ho venti anni.",
+        "我二十岁。",
+        "L'anno prossimo studio medicina.",
+        "明年我学医学。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_329_it",
+    "word": "lunedì",
+    "translations": {
+      "en": "Monday",
+      "fa": "دوشنبه",
+      "de": "Montag",
+      "ru": "понедельник",
+      "ar": "الاثنين",
+      "es": "lunes",
+      "fr": "lundi",
+      "pt": "segunda-feira",
+      "zh": "星期一"
+    },
+    "examples": {
+      "en": [
+        "Lunedì vado a scuola.",
+        "On Monday I go to school.",
+        "Il lunedì lavoro.",
+        "On Mondays I work.",
+        "Oggi è lunedì.",
+        "Today is Monday."
+      ],
+      "fa": [
+        "Lunedì vado a scuola.",
+        "دوشنبه به مدرسه می‌روم.",
+        "Il lunedì lavoro.",
+        "دوشنبه‌ها کار می‌کنم.",
+        "Oggi è lunedì.",
+        "امروز دوشنبه است."
+      ],
+      "de": [
+        "Lunedì vado a scuola.",
+        "Am Montag gehe ich zur Schule.",
+        "Il lunedì lavoro.",
+        "Montags arbeite ich.",
+        "Oggi è lunedì.",
+        "Heute ist Montag."
+      ],
+      "ru": [
+        "Lunedì vado a scuola.",
+        "В понедельник я иду в школу.",
+        "Il lunedì lavoro.",
+        "По понедельникам я работаю.",
+        "Oggi è lunedì.",
+        "Сегодня понедельник."
+      ],
+      "ar": [
+        "Lunedì vado a scuola.",
+        "يوم الاثنين أذهب إلى المدرسة.",
+        "Il lunedì lavoro.",
+        "أيام الاثنين أعمل.",
+        "Oggi è lunedì.",
+        "اليوم هو الاثنين."
+      ],
+      "es": [
+        "Lunedì vado a scuola.",
+        "El lunes voy a la escuela.",
+        "Il lunedì lavoro.",
+        "Los lunes trabajo.",
+        "Oggi è lunedì.",
+        "Hoy es lunes."
+      ],
+      "fr": [
+        "Lunedì vado a scuola.",
+        "Lundi je vais à l'école.",
+        "Il lunedì lavoro.",
+        "Le lundi je travaille.",
+        "Oggi è lunedì.",
+        "Aujourd'hui c'est lundi."
+      ],
+      "pt": [
+        "Lunedì vado a scuola.",
+        "Na segunda-feira vou à escola.",
+        "Il lunedì lavoro.",
+        "Às segundas-feiras trabalho.",
+        "Oggi è lunedì.",
+        "Hoje é segunda-feira."
+      ],
+      "zh": [
+        "Lunedì vado a scuola.",
+        "星期一我去上学。",
+        "Il lunedì lavoro.",
+        "每周一我工作。",
+        "Oggi è lunedì.",
+        "今天是星期一。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_330_it",
+    "word": "martedì",
+    "translations": {
+      "en": "Tuesday",
+      "fa": "سه‌شنبه",
+      "de": "Dienstag",
+      "ru": "вторник",
+      "ar": "الثلاثاء",
+      "es": "martes",
+      "fr": "mardi",
+      "pt": "terça-feira",
+      "zh": "星期二"
+    },
+    "examples": {
+      "en": [
+        "Martedì ho lezione di inglese.",
+        "On Tuesday I have an English class.",
+        "Il martedì gioco a calcio.",
+        "On Tuesdays I play soccer.",
+        "Oggi è martedì.",
+        "Today is Tuesday."
+      ],
+      "fa": [
+        "Martedì ho lezione di inglese.",
+        "سه‌شنبه کلاس انگلیسی دارم.",
+        "Il martedì gioco a calcio.",
+        "سه‌شنبه‌ها فوتبال بازی می‌کنم.",
+        "Oggi è martedì.",
+        "امروز سه‌شنبه است."
+      ],
+      "de": [
+        "Martedì ho lezione di inglese.",
+        "Am Dienstag habe ich Englischunterricht.",
+        "Il martedì gioco a calcio.",
+        "Dienstags spiele ich Fußball.",
+        "Oggi è martedì.",
+        "Heute ist Dienstag."
+      ],
+      "ru": [
+        "Martedì ho lezione di inglese.",
+        "Во вторник у меня урок английского.",
+        "Il martedì gioco a calcio.",
+        "По вторникам я играю в футбол.",
+        "Oggi è martedì.",
+        "Сегодня вторник."
+      ],
+      "ar": [
+        "Martedì ho lezione di inglese.",
+        "يوم الثلاثاء لدي درس إنجليزية.",
+        "Il martedì gioco a calcio.",
+        "أيام الثلاثاء ألعب كرة القدم.",
+        "Oggi è martedì.",
+        "اليوم هو الثلاثاء."
+      ],
+      "es": [
+        "Martedì ho lezione di inglese.",
+        "El martes tengo clase de inglés.",
+        "Il martedì gioco a calcio.",
+        "Los martes juego al fútbol.",
+        "Oggi è martedì.",
+        "Hoy es martes."
+      ],
+      "fr": [
+        "Martedì ho lezione di inglese.",
+        "Mardi j'ai cours d'anglais.",
+        "Il martedì gioco a calcio.",
+        "Le mardi je joue au football.",
+        "Oggi è martedì.",
+        "Aujourd'hui c'est mardi."
+      ],
+      "pt": [
+        "Martedì ho lezione di inglese.",
+        "Na terça-feira tenho aula de inglês.",
+        "Il martedì gioco a calcio.",
+        "Às terças-feiras jogo futebol.",
+        "Oggi è martedì.",
+        "Hoje é terça-feira."
+      ],
+      "zh": [
+        "Martedì ho lezione di inglese.",
+        "星期二我有英语课。",
+        "Il martedì gioco a calcio.",
+        "每周二我踢足球。",
+        "Oggi è martedì.",
+        "今天是星期二。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_331_it",
+    "word": "mercoledì",
+    "translations": {
+      "en": "Wednesday",
+      "fa": "چهارشنبه",
+      "de": "Mittwoch",
+      "ru": "среда",
+      "ar": "الأربعاء",
+      "es": "miércoles",
+      "fr": "mercredi",
+      "pt": "quarta-feira",
+      "zh": "星期三"
+    },
+    "examples": {
+      "en": [
+        "Mercoledì vado al cinema.",
+        "On Wednesday I go to the cinema.",
+        "Il mercoledì studio matematica.",
+        "On Wednesdays I study math.",
+        "Oggi è mercoledì.",
+        "Today is Wednesday."
+      ],
+      "fa": [
+        "Mercoledì vado al cinema.",
+        "چهارشنبه به سینما می‌روم.",
+        "Il mercoledì studio matematica.",
+        "چهارشنبه‌ها ریاضی می‌خوانم.",
+        "Oggi è mercoledì.",
+        "امروز چهارشنبه است."
+      ],
+      "de": [
+        "Mercoledì vado al cinema.",
+        "Am Mittwoch gehe ich ins Kino.",
+        "Il mercoledì studio matematica.",
+        "Mittwochs lerne ich Mathematik.",
+        "Oggi è mercoledì.",
+        "Heute ist Mittwoch."
+      ],
+      "ru": [
+        "Mercoledì vado al cinema.",
+        "В среду я иду в кино.",
+        "Il mercoledì studio matematica.",
+        "По средам я изучаю математику.",
+        "Oggi è mercoledì.",
+        "Сегодня среда."
+      ],
+      "ar": [
+        "Mercoledì vado al cinema.",
+        "يوم الأربعاء أذهب إلى السينما.",
+        "Il mercoledì studio matematica.",
+        "أيام الأربعاء أدرس الرياضيات.",
+        "Oggi è mercoledì.",
+        "اليوم هو الأربعاء."
+      ],
+      "es": [
+        "Mercoledì vado al cinema.",
+        "El miércoles voy al cine.",
+        "Il mercoledì studio matematica.",
+        "Los miércoles estudio matemáticas.",
+        "Oggi è mercoledì.",
+        "Hoy es miércoles."
+      ],
+      "fr": [
+        "Mercoledì vado al cinema.",
+        "Mercredi je vais au cinéma.",
+        "Il mercoledì studio matematica.",
+        "Le mercredi j'étudie les mathématiques.",
+        "Oggi è mercoledì.",
+        "Aujourd'hui c'est mercredi."
+      ],
+      "pt": [
+        "Mercoledì vado al cinema.",
+        "Na quarta-feira vou ao cinema.",
+        "Il mercoledì studio matematica.",
+        "Às quartas-feiras estudo matemática.",
+        "Oggi è mercoledì.",
+        "Hoje é quarta-feira."
+      ],
+      "zh": [
+        "Mercoledì vado al cinema.",
+        "星期三我去看电影。",
+        "Il mercoledì studio matematica.",
+        "每周三我学数学。",
+        "Oggi è mercoledì.",
+        "今天是星期三。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_332_it",
+    "word": "giovedì",
+    "translations": {
+      "en": "Thursday",
+      "fa": "پنج‌شنبه",
+      "de": "Donnerstag",
+      "ru": "четверг",
+      "ar": "الخميس",
+      "es": "jueves",
+      "fr": "jeudi",
+      "pt": "quinta-feira",
+      "zh": "星期四"
+    },
+    "examples": {
+      "en": [
+        "Giovedì mangio al ristorante.",
+        "On Thursday I eat at the restaurant.",
+        "Il giovedì faccio sport.",
+        "On Thursdays I do sports.",
+        "Oggi è giovedì.",
+        "Today is Thursday."
+      ],
+      "fa": [
+        "Giovedì mangio al ristorante.",
+        "پنج‌شنبه در رستوران غذا می‌خورم.",
+        "Il giovedì faccio sport.",
+        "پنج‌شنبه‌ها ورزش می‌کنم.",
+        "Oggi è giovedì.",
+        "امروز پنج‌شنبه است."
+      ],
+      "de": [
+        "Giovedì mangio al ristorante.",
+        "Am Donnerstag esse ich im Restaurant.",
+        "Il giovedì faccio sport.",
+        "Donnerstags treibe ich Sport.",
+        "Oggi è giovedì.",
+        "Heute ist Donnerstag."
+      ],
+      "ru": [
+        "Giovedì mangio al ristorante.",
+        "В четверг я ем в ресторане.",
+        "Il giovedì faccio sport.",
+        "По четвергам я занимаюсь спортом.",
+        "Oggi è giovedì.",
+        "Сегодня четверг."
+      ],
+      "ar": [
+        "Giovedì mangio al ristorante.",
+        "يوم الخميس آكل في المطعم.",
+        "Il giovedì faccio sport.",
+        "أيام الخميس أمارس الرياضة.",
+        "Oggi è giovedì.",
+        "اليوم هو الخميس."
+      ],
+      "es": [
+        "Giovedì mangio al ristorante.",
+        "El jueves como en el restaurante.",
+        "Il giovedì faccio sport.",
+        "Los jueves hago deporte.",
+        "Oggi è giovedì.",
+        "Hoy es jueves."
+      ],
+      "fr": [
+        "Giovedì mangio al ristorante.",
+        "Jeudi je mange au restaurant.",
+        "Il giovedì faccio sport.",
+        "Le jeudi je fais du sport.",
+        "Oggi è giovedì.",
+        "Aujourd'hui c'est jeudi."
+      ],
+      "pt": [
+        "Giovedì mangio al ristorante.",
+        "Na quinta-feira como no restaurante.",
+        "Il giovedì faccio sport.",
+        "Às quintas-feiras faço esporte.",
+        "Oggi è giovedì.",
+        "Hoje é quinta-feira."
+      ],
+      "zh": [
+        "Giovedì mangio al ristorante.",
+        "星期四我在餐厅吃饭。",
+        "Il giovedì faccio sport.",
+        "每周四我做运动。",
+        "Oggi è giovedì.",
+        "今天是星期四。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_333_it",
+    "word": "venerdì",
+    "translations": {
+      "en": "Friday",
+      "fa": "جمعه",
+      "de": "Freitag",
+      "ru": "пятница",
+      "ar": "الجمعة",
+      "es": "viernes",
+      "fr": "vendredi",
+      "pt": "sexta-feira",
+      "zh": "星期五"
+    },
+    "examples": {
+      "en": [
+        "Venerdì esco con gli amici.",
+        "On Friday I go out with friends.",
+        "Il venerdì sono felice.",
+        "On Fridays I'm happy.",
+        "Oggi è venerdì.",
+        "Today is Friday."
+      ],
+      "fa": [
+        "Venerdì esco con gli amici.",
+        "جمعه با دوستان بیرون می‌روم.",
+        "Il venerdì sono felice.",
+        "جمعه‌ها خوشحالم.",
+        "Oggi è venerdì.",
+        "امروز جمعه است."
+      ],
+      "de": [
+        "Venerdì esco con gli amici.",
+        "Am Freitag gehe ich mit Freunden aus.",
+        "Il venerdì sono felice.",
+        "Freitags bin ich glücklich.",
+        "Oggi è venerdì.",
+        "Heute ist Freitag."
+      ],
+      "ru": [
+        "Venerdì esco con gli amici.",
+        "В пятницу я выхожу с друзьями.",
+        "Il venerdì sono felice.",
+        "По пятницам я счастлив.",
+        "Oggi è venerdì.",
+        "Сегодня пятница."
+      ],
+      "ar": [
+        "Venerdì esco con gli amici.",
+        "يوم الجمعة أخرج مع الأصدقاء.",
+        "Il venerdì sono felice.",
+        "أيام الجمعة أكون سعيدًا.",
+        "Oggi è venerdì.",
+        "اليوم هو الجمعة."
+      ],
+      "es": [
+        "Venerdì esco con gli amici.",
+        "El viernes salgo con amigos.",
+        "Il venerdì sono felice.",
+        "Los viernes estoy feliz.",
+        "Oggi è venerdì.",
+        "Hoy es viernes."
+      ],
+      "fr": [
+        "Venerdì esco con gli amici.",
+        "Vendredi je sors avec des amis.",
+        "Il venerdì sono felice.",
+        "Le vendredi je suis heureux.",
+        "Oggi è venerdì.",
+        "Aujourd'hui c'est vendredi."
+      ],
+      "pt": [
+        "Venerdì esco con gli amici.",
+        "Na sexta-feira saio com amigos.",
+        "Il venerdì sono felice.",
+        "Às sextas-feiras estou feliz.",
+        "Oggi è venerdì.",
+        "Hoje é sexta-feira."
+      ],
+      "zh": [
+        "Venerdì esco con gli amici.",
+        "星期五我和朋友出去。",
+        "Il venerdì sono felice.",
+        "每周五我很开心。",
+        "Oggi è venerdì.",
+        "今天是星期五。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_334_it",
+    "word": "sabato",
+    "translations": {
+      "en": "Saturday",
+      "fa": "شنبه",
+      "de": "Samstag",
+      "ru": "суббота",
+      "ar": "السبت",
+      "es": "sábado",
+      "fr": "samedi",
+      "pt": "sábado",
+      "zh": "星期六"
+    },
+    "examples": {
+      "en": [
+        "Sabato dormo fino a tardi.",
+        "On Saturday I sleep late.",
+        "Il sabato vado al mercato.",
+        "On Saturdays I go to the market.",
+        "Oggi è sabato.",
+        "Today is Saturday."
+      ],
+      "fa": [
+        "Sabato dormo fino a tardi.",
+        "شنبه دیر می‌خوابم.",
+        "Il sabato vado al mercato.",
+        "شنبه‌ها به بازار می‌روم.",
+        "Oggi è sabato.",
+        "امروز شنبه است."
+      ],
+      "de": [
+        "Sabato dormo fino a tardi.",
+        "Am Samstag schlafe ich lange.",
+        "Il sabato vado al mercato.",
+        "Samstags gehe ich zum Markt.",
+        "Oggi è sabato.",
+        "Heute ist Samstag."
+      ],
+      "ru": [
+        "Sabato dormo fino a tardi.",
+        "В субботу я сплю допоздна.",
+        "Il sabato vado al mercato.",
+        "По субботам я хожу на рынок.",
+        "Oggi è sabato.",
+        "Сегодня суббота."
+      ],
+      "ar": [
+        "Sabato dormo fino a tardi.",
+        "يوم السبت أنام حتى وقت متأخر.",
+        "Il sabato vado al mercato.",
+        "أيام السبت أذهب إلى السوق.",
+        "Oggi è sabato.",
+        "اليوم هو السبت."
+      ],
+      "es": [
+        "Sabato dormo fino a tardi.",
+        "El sábado duermo hasta tarde.",
+        "Il sabato vado al mercato.",
+        "Los sábados voy al mercado.",
+        "Oggi è sabato.",
+        "Hoy es sábado."
+      ],
+      "fr": [
+        "Sabato dormo fino a tardi.",
+        "Samedi je dors tard.",
+        "Il sabato vado al mercato.",
+        "Le samedi je vais au marché.",
+        "Oggi è sabato.",
+        "Aujourd'hui c'est samedi."
+      ],
+      "pt": [
+        "Sabato dormo fino a tardi.",
+        "No sábado durmo até tarde.",
+        "Il sabato vado al mercato.",
+        "Aos sábados vou ao mercado.",
+        "Oggi è sabato.",
+        "Hoje é sábado."
+      ],
+      "zh": [
+        "Sabato dormo fino a tardi.",
+        "星期六我睡到很晚。",
+        "Il sabato vado al mercato.",
+        "每周六我去市场。",
+        "Oggi è sabato.",
+        "今天是星期六。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_335_it",
+    "word": "domenica",
+    "translations": {
+      "en": "Sunday",
+      "fa": "یک‌شنبه",
+      "de": "Sonntag",
+      "ru": "воскресенье",
+      "ar": "الأحد",
+      "es": "domingo",
+      "fr": "dimanche",
+      "pt": "domingo",
+      "zh": "星期日"
+    },
+    "examples": {
+      "en": [
+        "Domenica riposo.",
+        "On Sunday I rest.",
+        "La domenica vado in chiesa.",
+        "On Sundays I go to church.",
+        "Oggi è domenica.",
+        "Today is Sunday."
+      ],
+      "fa": [
+        "Domenica riposo.",
+        "یک‌شنبه استراحت می‌کنم.",
+        "La domenica vado in chiesa.",
+        "یک‌شنبه‌ها به کلیسا می‌روم.",
+        "Oggi è domenica.",
+        "امروز یک‌شنبه است."
+      ],
+      "de": [
+        "Domenica riposo.",
+        "Am Sonntag ruhe ich mich aus.",
+        "La domenica vado in chiesa.",
+        "Sonntags gehe ich in die Kirche.",
+        "Oggi è domenica.",
+        "Heute ist Sonntag."
+      ],
+      "ru": [
+        "Domenica riposo.",
+        "В воскресенье я отдыхаю.",
+        "La domenica vado in chiesa.",
+        "По воскресеньям я хожу в церковь.",
+        "Oggi è domenica.",
+        "Сегодня воскресенье."
+      ],
+      "ar": [
+        "Domenica riposo.",
+        "يوم الأحد أستريح.",
+        "La domenica vado in chiesa.",
+        "أيام الأحد أذهب إلى الكنيسة.",
+        "Oggi è domenica.",
+        "اليوم هو الأحد."
+      ],
+      "es": [
+        "Domenica riposo.",
+        "El domingo descanso.",
+        "La domenica vado in chiesa.",
+        "Los domingos voy a la iglesia.",
+        "Oggi è domenica.",
+        "Hoy es domingo."
+      ],
+      "fr": [
+        "Domenica riposo.",
+        "Dimanche je me repose.",
+        "La domenica vado in chiesa.",
+        "Le dimanche je vais à l'église.",
+        "Oggi è domenica.",
+        "Aujourd'hui c'est dimanche."
+      ],
+      "pt": [
+        "Domenica riposo.",
+        "No domingo descanso.",
+        "La domenica vado in chiesa.",
+        "Aos domingos vou à igreja.",
+        "Oggi è domenica.",
+        "Hoje é domingo."
+      ],
+      "zh": [
+        "Domenica riposo.",
+        "星期日我休息。",
+        "La domenica vado in chiesa.",
+        "每周日我去教堂。",
+        "Oggi è domenica.",
+        "今天是星期日。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_336_it",
+    "word": "gennaio",
+    "translations": {
+      "en": "January",
+      "fa": "ژانویه",
+      "de": "Januar",
+      "ru": "январь",
+      "ar": "يناير",
+      "es": "enero",
+      "fr": "janvier",
+      "pt": "janeiro",
+      "zh": "一月"
+    },
+    "examples": {
+      "en": [
+        "Gennaio è il primo mese dell'anno.",
+        "January is the first month of the year.",
+        "A gennaio fa freddo.",
+        "In January it's cold.",
+        "Sono nato a gennaio.",
+        "I was born in January."
+      ],
+      "fa": [
+        "Gennaio è il primo mese dell'anno.",
+        "ژانویه اولین ماه سال است.",
+        "A gennaio fa freddo.",
+        "در ژانویه سرد است.",
+        "Sono nato a gennaio.",
+        "من در ژانویه متولد شدم."
+      ],
+      "de": [
+        "Gennaio è il primo mese dell'anno.",
+        "Januar ist der erste Monat des Jahres.",
+        "A gennaio fa freddo.",
+        "Im Januar ist es kalt.",
+        "Sono nato a gennaio.",
+        "Ich bin im Januar geboren."
+      ],
+      "ru": [
+        "Gennaio è il primo mese dell'anno.",
+        "Январь - первый месяц года.",
+        "A gennaio fa freddo.",
+        "В январе холодно.",
+        "Sono nato a gennaio.",
+        "Я родился в январе."
+      ],
+      "ar": [
+        "Gennaio è il primo mese dell'anno.",
+        "يناير هو الشهر الأول من السنة.",
+        "A gennaio fa freddo.",
+        "في يناير يكون الجو باردًا.",
+        "Sono nato a gennaio.",
+        "ولدت في يناير."
+      ],
+      "es": [
+        "Gennaio è il primo mese dell'anno.",
+        "Enero es el primer mes del año.",
+        "A gennaio fa freddo.",
+        "En enero hace frío.",
+        "Sono nato a gennaio.",
+        "Nací en enero."
+      ],
+      "fr": [
+        "Gennaio è il primo mese dell'anno.",
+        "Janvier est le premier mois de l'année.",
+        "A gennaio fa freddo.",
+        "En janvier il fait froid.",
+        "Sono nato a gennaio.",
+        "Je suis né en janvier."
+      ],
+      "pt": [
+        "Gennaio è il primo mese dell'anno.",
+        "Janeiro é o primeiro mês do ano.",
+        "A gennaio fa freddo.",
+        "Em janeiro faz frio.",
+        "Sono nato a gennaio.",
+        "Nasci em janeiro."
+      ],
+      "zh": [
+        "Gennaio è il primo mese dell'anno.",
+        "一月是一年中的第一个月。",
+        "A gennaio fa freddo.",
+        "一月很冷。",
+        "Sono nato a gennaio.",
+        "我出生在一月。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_337_it",
+    "word": "febbraio",
+    "translations": {
+      "en": "February",
+      "fa": "فوریه",
+      "de": "Februar",
+      "ru": "февраль",
+      "ar": "فبراير",
+      "es": "febrero",
+      "fr": "février",
+      "pt": "fevereiro",
+      "zh": "二月"
+    },
+    "examples": {
+      "en": [
+        "Febbraio è il mese più corto.",
+        "February is the shortest month.",
+        "A febbraio è San Valentino.",
+        "In February it's Valentine's Day.",
+        "Febbraio ha ventotto giorni.",
+        "February has twenty-eight days."
+      ],
+      "fa": [
+        "Febbraio è il mese più corto.",
+        "فوریه کوتاه‌ترین ماه است.",
+        "A febbraio è San Valentino.",
+        "در فوریه روز ولنتاین است.",
+        "Febbraio ha ventotto giorni.",
+        "فوریه بیست و هشت روز دارد."
+      ],
+      "de": [
+        "Febbraio è il mese più corto.",
+        "Februar ist der kürzeste Monat.",
+        "A febbraio è San Valentino.",
+        "Im Februar ist Valentinstag.",
+        "Febbraio ha ventotto giorni.",
+        "Februar hat achtundzwanzig Tage."
+      ],
+      "ru": [
+        "Febbraio è il mese più corto.",
+        "Февраль - самый короткий месяц.",
+        "A febbraio è San Valentino.",
+        "В феврале День святого Валентина.",
+        "Febbraio ha ventotto giorni.",
+        "В феврале двадцать восемь дней."
+      ],
+      "ar": [
+        "Febbraio è il mese più corto.",
+        "فبراير هو أقصر شهر.",
+        "A febbraio è San Valentino.",
+        "في فبراير يوم عيد الحب.",
+        "Febbraio ha ventotto giorni.",
+        "فبراير به ثمانية وعشرون يومًا."
+      ],
+      "es": [
+        "Febbraio è il mese più corto.",
+        "Febrero es el mes más corto.",
+        "A febbraio è San Valentino.",
+        "En febrero es San Valentín.",
+        "Febbraio ha ventotto giorni.",
+        "Febrero tiene veintiocho días."
+      ],
+      "fr": [
+        "Febbraio è il mese più corto.",
+        "Février est le mois le plus court.",
+        "A febbraio è San Valentino.",
+        "En février c'est la Saint-Valentin.",
+        "Febbraio ha ventotto giorni.",
+        "Février a vingt-huit jours."
+      ],
+      "pt": [
+        "Febbraio è il mese più corto.",
+        "Fevereiro é o mês mais curto.",
+        "A febbraio è San Valentino.",
+        "Em fevereiro é Dia dos Namorados.",
+        "Febbraio ha ventotto giorni.",
+        "Fevereiro tem vinte e oito dias."
+      ],
+      "zh": [
+        "Febbraio è il mese più corto.",
+        "二月是最短的月份。",
+        "A febbraio è San Valentino.",
+        "二月是情人节。",
+        "Febbraio ha ventotto giorni.",
+        "二月有二十八天。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_338_it",
+    "word": "marzo",
+    "translations": {
+      "en": "March",
+      "fa": "مارس",
+      "de": "März",
+      "ru": "март",
+      "ar": "مارس",
+      "es": "marzo",
+      "fr": "mars",
+      "pt": "março",
+      "zh": "三月"
+    },
+    "examples": {
+      "en": [
+        "Marzo è il terzo mese dell'anno.",
+        "March is the third month of the year.",
+        "A marzo inizia la primavera.",
+        "In March spring begins.",
+        "Il mio compleanno è a marzo.",
+        "My birthday is in March."
+      ],
+      "fa": [
+        "Marzo è il terzo mese dell'anno.",
+        "مارس سومین ماه سال است.",
+        "A marzo inizia la primavera.",
+        "در مارس بهار شروع می‌شود.",
+        "Il mio compleanno è a marzo.",
+        "تولدم در مارس است."
+      ],
+      "de": [
+        "Marzo è il terzo mese dell'anno.",
+        "März ist der dritte Monat des Jahres.",
+        "A marzo inizia la primavera.",
+        "Im März beginnt der Frühling.",
+        "Il mio compleanno è a marzo.",
+        "Mein Geburtstag ist im März."
+      ],
+      "ru": [
+        "Marzo è il terzo mese dell'anno.",
+        "Март - третий месяц года.",
+        "A marzo inizia la primavera.",
+        "В марте начинается весна.",
+        "Il mio compleanno è a marzo.",
+        "Мой день рождения в марте."
+      ],
+      "ar": [
+        "Marzo è il terzo mese dell'anno.",
+        "مارس هو الشهر الثالث من السنة.",
+        "A marzo inizia la primavera.",
+        "في مارس يبدأ الربيع.",
+        "Il mio compleanno è a marzo.",
+        "عيد ميلادي في مارس."
+      ],
+      "es": [
+        "Marzo è il terzo mese dell'anno.",
+        "Marzo es el tercer mes del año.",
+        "A marzo inizia la primavera.",
+        "En marzo comienza la primavera.",
+        "Il mio compleanno è a marzo.",
+        "Mi cumpleaños es en marzo."
+      ],
+      "fr": [
+        "Marzo è il terzo mese dell'anno.",
+        "Mars est le troisième mois de l'année.",
+        "A marzo inizia la primavera.",
+        "En mars commence le printemps.",
+        "Il mio compleanno è a marzo.",
+        "Mon anniversaire est en mars."
+      ],
+      "pt": [
+        "Marzo è il terzo mese dell'anno.",
+        "Março é o terceiro mês do ano.",
+        "A marzo inizia la primavera.",
+        "Em março começa a primavera.",
+        "Il mio compleanno è a marzo.",
+        "Meu aniversário é em março."
+      ],
+      "zh": [
+        "Marzo è il terzo mese dell'anno.",
+        "三月是一年中的第三个月。",
+        "A marzo inizia la primavera.",
+        "三月春天开始。",
+        "Il mio compleanno è a marzo.",
+        "我的生日在三月。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_339_it",
+    "word": "aprile",
+    "translations": {
+      "en": "April",
+      "fa": "آوریل",
+      "de": "April",
+      "ru": "апрель",
+      "ar": "أبريل",
+      "es": "abril",
+      "fr": "avril",
+      "pt": "abril",
+      "zh": "四月"
+    },
+    "examples": {
+      "en": [
+        "Aprile è un mese di primavera.",
+        "April is a spring month.",
+        "Ad aprile fa bel tempo.",
+        "In April the weather is nice.",
+        "In aprile ci sono i fiori.",
+        "In April there are flowers."
+      ],
+      "fa": [
+        "Aprile è un mese di primavera.",
+        "آوریل ماه بهار است.",
+        "Ad aprile fa bel tempo.",
+        "در آوریل هوا خوب است.",
+        "In aprile ci sono i fiori.",
+        "در آوریل گل‌ها هستند."
+      ],
+      "de": [
+        "Aprile è un mese di primavera.",
+        "April ist ein Frühlingsmonat.",
+        "Ad aprile fa bel tempo.",
+        "Im April ist schönes Wetter.",
+        "In aprile ci sono i fiori.",
+        "Im April gibt es Blumen."
+      ],
+      "ru": [
+        "Aprile è un mese di primavera.",
+        "Апрель - весенний месяц.",
+        "Ad aprile fa bel tempo.",
+        "В апреле хорошая погода.",
+        "In aprile ci sono i fiori.",
+        "В апреле есть цветы."
+      ],
+      "ar": [
+        "Aprile è un mese di primavera.",
+        "أبريل هو شهر ربيعي.",
+        "Ad aprile fa bel tempo.",
+        "في أبريل يكون الطقس جميلًا.",
+        "In aprile ci sono i fiori.",
+        "في أبريل توجد الزهور."
+      ],
+      "es": [
+        "Aprile è un mese di primavera.",
+        "Abril es un mes de primavera.",
+        "Ad aprile fa bel tempo.",
+        "En abril hace buen tiempo.",
+        "In aprile ci sono i fiori.",
+        "En abril hay flores."
+      ],
+      "fr": [
+        "Aprile è un mese di primavera.",
+        "Avril est un mois de printemps.",
+        "Ad aprile fa bel tempo.",
+        "En avril il fait beau.",
+        "In aprile ci sono i fiori.",
+        "En avril il y a des fleurs."
+      ],
+      "pt": [
+        "Aprile è un mese di primavera.",
+        "Abril é um mês de primavera.",
+        "Ad aprile fa bel tempo.",
+        "Em abril faz bom tempo.",
+        "In aprile ci sono i fiori.",
+        "Em abril há flores."
+      ],
+      "zh": [
+        "Aprile è un mese di primavera.",
+        "四月是春天的月份。",
+        "Ad aprile fa bel tempo.",
+        "四月天气很好。",
+        "In aprile ci sono i fiori.",
+        "四月有花。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_340_it",
+    "word": "maggio",
+    "translations": {
+      "en": "May",
+      "fa": "می",
+      "de": "Mai",
+      "ru": "май",
+      "ar": "مايو",
+      "es": "mayo",
+      "fr": "mai",
+      "pt": "maio",
+      "zh": "五月"
+    },
+    "examples": {
+      "en": [
+        "Maggio è un mese bellissimo.",
+        "May is a beautiful month.",
+        "A maggio fa caldo.",
+        "In May it's warm.",
+        "In maggio vado al mare.",
+        "In May I go to the beach."
+      ],
+      "fa": [
+        "Maggio è un mese bellissimo.",
+        "می ماه زیبایی است.",
+        "A maggio fa caldo.",
+        "در می گرم است.",
+        "In maggio vado al mare.",
+        "در می به دریا می‌روم."
+      ],
+      "de": [
+        "Maggio è un mese bellissimo.",
+        "Mai ist ein wunderschöner Monat.",
+        "A maggio fa caldo.",
+        "Im Mai ist es warm.",
+        "In maggio vado al mare.",
+        "Im Mai fahre ich ans Meer."
+      ],
+      "ru": [
+        "Maggio è un mese bellissimo.",
+        "Май - прекрасный месяц.",
+        "A maggio fa caldo.",
+        "В мае тепло.",
+        "In maggio vado al mare.",
+        "В мае я еду на море."
+      ],
+      "ar": [
+        "Maggio è un mese bellissimo.",
+        "مايو شهر جميل جدًا.",
+        "A maggio fa caldo.",
+        "في مايو يكون الجو دافئًا.",
+        "In maggio vado al mare.",
+        "في مايو أذهب إلى البحر."
+      ],
+      "es": [
+        "Maggio è un mese bellissimo.",
+        "Mayo es un mes hermoso.",
+        "A maggio fa caldo.",
+        "En mayo hace calor.",
+        "In maggio vado al mare.",
+        "En mayo voy a la playa."
+      ],
+      "fr": [
+        "Maggio è un mese bellissimo.",
+        "Mai est un très beau mois.",
+        "A maggio fa caldo.",
+        "En mai il fait chaud.",
+        "In maggio vado al mare.",
+        "En mai je vais à la mer."
+      ],
+      "pt": [
+        "Maggio è un mese bellissimo.",
+        "Maio é um mês lindo.",
+        "A maggio fa caldo.",
+        "Em maio faz calor.",
+        "In maggio vado al mare.",
+        "Em maio vou à praia."
+      ],
+      "zh": [
+        "Maggio è un mese bellissimo.",
+        "五月是个美丽的月份。",
+        "A maggio fa caldo.",
+        "五月很暖和。",
+        "In maggio vado al mare.",
+        "五月我去海边。"
+      ]
+    }
+  }
+]
