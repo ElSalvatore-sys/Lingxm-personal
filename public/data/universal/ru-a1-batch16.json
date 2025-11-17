@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "universal_a1_301_ru",
+    "word": "жить",
+    "category": "verbs",
+    "frequency_rank": 301,
+    "level": "a1",
+    "translations": {
+      "en": "to live",
+      "de": "leben, wohnen",
+      "ar": "يعيش، يسكن",
+      "fr": "vivre, habiter",
+      "it": "vivere, abitare",
+      "ru": "глагол существования",
+      "es": "vivir, habitar",
+      "pl": "żyć, mieszkać",
+      "fa": "زندگی کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the state of being alive or residing in a place",
+      "de": "Verb für den Zustand des Lebens oder des Wohnens an einem Ort",
+      "ar": "فعل يدل على حالة الحياة أو الإقامة في مكان",
+      "fr": "Verbe désignant l'état d'être vivant ou de résider dans un lieu",
+      "it": "Verbo che denota lo stato di essere vivo o risiedere in un luogo",
+      "ru": "Глагол, обозначающий состояние жизни или проживания в месте",
+      "es": "Verbo que denota el estado de estar vivo o residir en un lugar",
+      "pl": "Czasownik oznaczający stan życia lub zamieszkiwania w miejscu",
+      "fa": "فعلی که نشان‌دهنده حالت زنده بودن یا سکونت در مکانی است"
+    },
+    "examples": {
+      "en": [
+        "I live here",
+        "I want to live",
+        "I live and work"
+      ],
+      "de": [
+        "Ich lebe hier",
+        "Ich will leben",
+        "Ich lebe und arbeite"
+      ],
+      "ar": [
+        "أنا أعيش هنا",
+        "أنا أريد أن أعيش",
+        "أنا أعيش وأعمل"
+      ],
+      "fr": [
+        "Je vis ici",
+        "Je veux vivre",
+        "Je vis et travaille"
+      ],
+      "it": [
+        "Io vivo qui",
+        "Io voglio vivere",
+        "Io vivo e lavoro"
+      ],
+      "ru": [
+        "Я живу здесь",
+        "Я хочу жить",
+        "Я живу и работаю"
+      ],
+      "es": [
+        "Yo vivo aquí",
+        "Yo quiero vivir",
+        "Yo vivo y trabajo"
+      ],
+      "pl": [
+        "Ja mieszkam tutaj",
+        "Ja chcę żyć",
+        "Ja żyję i pracuję"
+      ],
+      "fa": [
+        "من اینجا زندگی می‌کنم",
+        "من می‌خواهم زندگی کنم",
+        "من زندگی می‌کنم و کار می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_302_ru",
+    "word": "идти",
+    "category": "verbs",
+    "frequency_rank": 302,
+    "level": "a1",
+    "translations": {
+      "en": "to go, to walk",
+      "de": "gehen",
+      "ar": "يذهب، يمشي",
+      "fr": "aller, marcher",
+      "it": "andare, camminare",
+      "ru": "глагол движения",
+      "es": "ir, andar",
+      "pl": "iść, chodzić",
+      "fa": "رفتن، راه رفتن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of moving on foot from one place to another",
+      "de": "Verb für die Handlung des Bewegens zu Fuß von einem Ort zum anderen",
+      "ar": "فعل يدل على فعل التحرك سيراً على الأقدام من مكان إلى آخر",
+      "fr": "Verbe désignant l'action de se déplacer à pied d'un lieu à un autre",
+      "it": "Verbo che denota l'azione di muoversi a piedi da un luogo all'altro",
+      "ru": "Глагол, обозначающий действие перемещения пешком из одного места в другое",
+      "es": "Verbo que denota la acción de moverse a pie de un lugar a otro",
+      "pl": "Czasownik oznaczający czynność przemieszczania się pieszo z jednego miejsca do drugiego",
+      "fa": "فعلی که نشان‌دهنده عمل حرکت پیاده از مکانی به مکان دیگر است"
+    },
+    "examples": {
+      "en": [
+        "I go here",
+        "I can go",
+        "I go and see"
+      ],
+      "de": [
+        "Ich gehe hier",
+        "Ich kann gehen",
+        "Ich gehe und sehe"
+      ],
+      "ar": [
+        "أنا أذهب هنا",
+        "أنا أستطيع أن أذهب",
+        "أنا أذهب وأرى"
+      ],
+      "fr": [
+        "Je vais ici",
+        "Je peux aller",
+        "Je vais et vois"
+      ],
+      "it": [
+        "Io vado qui",
+        "Io posso andare",
+        "Io vado e vedo"
+      ],
+      "ru": [
+        "Я иду сюда",
+        "Я могу идти",
+        "Я иду и вижу"
+      ],
+      "es": [
+        "Yo voy aquí",
+        "Yo puedo ir",
+        "Yo voy y veo"
+      ],
+      "pl": [
+        "Ja idę tutaj",
+        "Ja mogę iść",
+        "Ja idę i widzę"
+      ],
+      "fa": [
+        "من اینجا می‌روم",
+        "من می‌توانم بروم",
+        "من می‌روم و می‌بینم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_303_ru",
+    "word": "приходить",
+    "category": "verbs",
+    "frequency_rank": 303,
+    "level": "a1",
+    "translations": {
+      "en": "to come, to arrive",
+      "de": "kommen, ankommen",
+      "ar": "يأتي، يصل",
+      "fr": "venir, arriver",
+      "it": "venire, arrivare",
+      "ru": "глагол движения",
+      "es": "venir, llegar",
+      "pl": "przychodzić, przybywać",
+      "fa": "آمدن، رسیدن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of moving toward or reaching a destination",
+      "de": "Verb für die Handlung des Bewegens in Richtung oder Erreichens eines Ziels",
+      "ar": "فعل يدل على فعل التحرك نحو وجهة أو الوصول إليها",
+      "fr": "Verbe désignant l'action de se déplacer vers ou atteindre une destination",
+      "it": "Verbo che denota l'azione di muoversi verso o raggiungere una destinazione",
+      "ru": "Глагол, обозначающий действие перемещения к месту назначения или достижения его",
+      "es": "Verbo que denota la acción de moverse hacia o alcanzar un destino",
+      "pl": "Czasownik oznaczający czynność przemieszczania się w kierunku lub osiągania celu",
+      "fa": "فعلی که نشان‌دهنده عمل حرکت به سمت یا رسیدن به مقصد است"
+    },
+    "examples": {
+      "en": [
+        "I come here",
+        "I can come to you",
+        "I come and work"
+      ],
+      "de": [
+        "Ich komme hier",
+        "Ich kann zu dir kommen",
+        "Ich komme und arbeite"
+      ],
+      "ar": [
+        "أنا آتي هنا",
+        "أنا أستطيع أن آتي إليك",
+        "أنا آتي وأعمل"
+      ],
+      "fr": [
+        "Je viens ici",
+        "Je peux venir chez toi",
+        "Je viens et travaille"
+      ],
+      "it": [
+        "Io vengo qui",
+        "Io posso venire da te",
+        "Io vengo e lavoro"
+      ],
+      "ru": [
+        "Я прихожу сюда",
+        "Я могу прийти к тебе",
+        "Я прихожу и работаю"
+      ],
+      "es": [
+        "Yo vengo aquí",
+        "Yo puedo venir a ti",
+        "Yo vengo y trabajo"
+      ],
+      "pl": [
+        "Ja przychodzę tutaj",
+        "Ja mogę przyjść do ciebie",
+        "Ja przychodzę i pracuję"
+      ],
+      "fa": [
+        "من اینجا می‌آیم",
+        "من می‌توانم نزد تو بیایم",
+        "من می‌آیم و کار می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_304_ru",
+    "word": "уходить",
+    "category": "verbs",
+    "frequency_rank": 304,
+    "level": "a1",
+    "translations": {
+      "en": "to leave, to go away",
+      "de": "weggehen, verlassen",
+      "ar": "يغادر، يرحل",
+      "fr": "partir, s'en aller",
+      "it": "andare via, partire",
+      "ru": "глагол движения",
+      "es": "irse, marcharse",
+      "pl": "odchodzić, wychodzić",
+      "fa": "رفتن، ترک کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of departing from a place",
+      "de": "Verb für die Handlung des Verlassens eines Ortes",
+      "ar": "فعل يدل على فعل المغادرة من مكان",
+      "fr": "Verbe désignant l'action de quitter un lieu",
+      "it": "Verbo che denota l'azione di allontanarsi da un luogo",
+      "ru": "Глагол, обозначающий действие ухода из места",
+      "es": "Verbo que denota la acción de partir de un lugar",
+      "pl": "Czasownik oznaczający czynność odchodzenia z miejsca",
+      "fa": "فعلی که نشان‌دهنده عمل خارج شدن از مکانی است"
+    },
+    "examples": {
+      "en": [
+        "I leave here",
+        "I can leave",
+        "I go and leave"
+      ],
+      "de": [
+        "Ich gehe hier weg",
+        "Ich kann weggehen",
+        "Ich gehe und gehe weg"
+      ],
+      "ar": [
+        "أنا أغادر هنا",
+        "أنا أستطيع أن أغادر",
+        "أنا أذهب وأغادر"
+      ],
+      "fr": [
+        "Je pars d'ici",
+        "Je peux partir",
+        "Je vais et pars"
+      ],
+      "it": [
+        "Io vado via da qui",
+        "Io posso andare via",
+        "Io vado e vado via"
+      ],
+      "ru": [
+        "Я ухожу отсюда",
+        "Я могу уходить",
+        "Я иду и ухожу"
+      ],
+      "es": [
+        "Yo me voy de aquí",
+        "Yo puedo irme",
+        "Yo voy y me voy"
+      ],
+      "pl": [
+        "Ja wychodzę stąd",
+        "Ja mogę wyjść",
+        "Ja idę i wychodzę"
+      ],
+      "fa": [
+        "من از اینجا می‌روم",
+        "من می‌توانم بروم",
+        "من می‌روم و ترک می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_305_ru",
+    "word": "брать",
+    "category": "verbs",
+    "frequency_rank": 305,
+    "level": "a1",
+    "translations": {
+      "en": "to take",
+      "de": "nehmen",
+      "ar": "يأخذ",
+      "fr": "prendre",
+      "it": "prendere",
+      "ru": "глагол действия",
+      "es": "tomar, coger",
+      "pl": "brać, wziąć",
+      "fa": "گرفتن، برداشتن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of laying hold of something with the hands",
+      "de": "Verb für die Handlung des Ergreifens von etwas mit den Händen",
+      "ar": "فعل يدل على فعل الإمساك بشيء باليدين",
+      "fr": "Verbe désignant l'action de saisir quelque chose avec les mains",
+      "it": "Verbo che denota l'azione di afferrare qualcosa con le mani",
+      "ru": "Глагол, обозначающий действие захватывания чего-либо руками",
+      "es": "Verbo que denota la acción de tomar algo con las manos",
+      "pl": "Czasownik oznaczający czynność chwytania czegoś rękami",
+      "fa": "فعلی که نشان‌دهنده عمل گرفتن چیزی با دست‌ها است"
+    },
+    "examples": {
+      "en": [
+        "I take this book",
+        "I can take",
+        "I take and read"
+      ],
+      "de": [
+        "Ich nehme dieses Buch",
+        "Ich kann nehmen",
+        "Ich nehme und lese"
+      ],
+      "ar": [
+        "أنا آخذ هذا الكتاب",
+        "أنا أستطيع أن آخذ",
+        "أنا آخذ وأقرأ"
+      ],
+      "fr": [
+        "Je prends ce livre",
+        "Je peux prendre",
+        "Je prends et lis"
+      ],
+      "it": [
+        "Io prendo questo libro",
+        "Io posso prendere",
+        "Io prendo e leggo"
+      ],
+      "ru": [
+        "Я беру эту книгу",
+        "Я могу брать",
+        "Я беру и читаю"
+      ],
+      "es": [
+        "Yo tomo este libro",
+        "Yo puedo tomar",
+        "Yo tomo y leo"
+      ],
+      "pl": [
+        "Ja biorę tę książkę",
+        "Ja mogę wziąć",
+        "Ja biorę i czytam"
+      ],
+      "fa": [
+        "من این کتاب را می‌گیرم",
+        "من می‌توانم بگیرم",
+        "من می‌گیرم و می‌خوانم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_306_ru",
+    "word": "давать",
+    "category": "verbs",
+    "frequency_rank": 306,
+    "level": "a1",
+    "translations": {
+      "en": "to give",
+      "de": "geben",
+      "ar": "يعطي",
+      "fr": "donner",
+      "it": "dare",
+      "ru": "глагол действия",
+      "es": "dar",
+      "pl": "dawać",
+      "fa": "دادن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of freely transferring possession of something to someone",
+      "de": "Verb für die Handlung des freien Übertragens des Besitzes von etwas an jemanden",
+      "ar": "فعل يدل على فعل نقل ملكية شيء بحرية إلى شخص ما",
+      "fr": "Verbe désignant l'action de transférer librement la possession de quelque chose à quelqu'un",
+      "it": "Verbo che denota l'azione di trasferire liberamente il possesso di qualcosa a qualcuno",
+      "ru": "Глагол, обозначающий действие свободной передачи владения чем-либо кому-либо",
+      "es": "Verbo que denota la acción de transferir libremente la posesión de algo a alguien",
+      "pl": "Czasownik oznaczający czynność swobodnego przekazywania posiadania czegoś komuś",
+      "fa": "فعلی که نشان‌دهنده عمل انتقال آزادانه مالکیت چیزی به کسی است"
+    },
+    "examples": {
+      "en": [
+        "I give you this",
+        "I can give",
+        "I take and give"
+      ],
+      "de": [
+        "Ich gebe dir das",
+        "Ich kann geben",
+        "Ich nehme und gebe"
+      ],
+      "ar": [
+        "أنا أعطيك هذا",
+        "أنا أستطيع أن أعطي",
+        "أنا آخذ وأعطي"
+      ],
+      "fr": [
+        "Je te donne ceci",
+        "Je peux donner",
+        "Je prends et donne"
+      ],
+      "it": [
+        "Io ti do questo",
+        "Io posso dare",
+        "Io prendo e do"
+      ],
+      "ru": [
+        "Я даю тебе это",
+        "Я могу давать",
+        "Я беру и даю"
+      ],
+      "es": [
+        "Yo te doy esto",
+        "Yo puedo dar",
+        "Yo tomo y doy"
+      ],
+      "pl": [
+        "Ja daję ci to",
+        "Ja mogę dawać",
+        "Ja biorę i daję"
+      ],
+      "fa": [
+        "من این را به تو می‌دهم",
+        "من می‌توانم بدهم",
+        "من می‌گیرم و می‌دهم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_307_ru",
+    "word": "есть",
+    "category": "verbs",
+    "frequency_rank": 307,
+    "level": "a1",
+    "translations": {
+      "en": "to eat",
+      "de": "essen",
+      "ar": "يأكل",
+      "fr": "manger",
+      "it": "mangiare",
+      "ru": "глагол потребления",
+      "es": "comer",
+      "pl": "jeść",
+      "fa": "خوردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of consuming food by putting it in the mouth and swallowing",
+      "de": "Verb für die Handlung des Verzehrens von Nahrung durch Aufnehmen in den Mund und Schlucken",
+      "ar": "فعل يدل على فعل استهلاك الطعام بوضعه في الفم وابتلاعه",
+      "fr": "Verbe désignant l'action de consommer nourriture en la mettant dans la bouche et avalant",
+      "it": "Verbo che denota l'azione di consumare cibo mettendolo in bocca e inghiottendo",
+      "ru": "Глагол, обозначающий действие употребления пищи путём помещения её в рот и проглатывания",
+      "es": "Verbo que denota la acción de consumir comida poniéndola en la boca y tragando",
+      "pl": "Czasownik oznaczający czynność spożywania jedzenia przez umieszczenie go w ustach i połykanie",
+      "fa": "فعلی که نشان‌دهنده عمل مصرف غذا با قرار دادن آن در دهان و بلعیدن است"
+    },
+    "examples": {
+      "en": [
+        "I eat food",
+        "I can eat bread",
+        "I eat and drink"
+      ],
+      "de": [
+        "Ich esse Essen",
+        "Ich kann Brot essen",
+        "Ich esse und trinke"
+      ],
+      "ar": [
+        "أنا آكل طعاماً",
+        "أنا أستطيع أن آكل خبزاً",
+        "أنا آكل وأشرب"
+      ],
+      "fr": [
+        "Je mange de la nourriture",
+        "Je peux manger du pain",
+        "Je mange et bois"
+      ],
+      "it": [
+        "Io mangio cibo",
+        "Io posso mangiare pane",
+        "Io mangio e bevo"
+      ],
+      "ru": [
+        "Я ем еду",
+        "Я могу есть хлеб",
+        "Я ем и пью"
+      ],
+      "es": [
+        "Yo como comida",
+        "Yo puedo comer pan",
+        "Yo como y bebo"
+      ],
+      "pl": [
+        "Ja jem jedzenie",
+        "Ja mogę jeść chleb",
+        "Ja jem i piję"
+      ],
+      "fa": [
+        "من غذا می‌خورم",
+        "من می‌توانم نان بخورم",
+        "من می‌خورم و می‌نوشم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_308_ru",
+    "word": "пить",
+    "category": "verbs",
+    "frequency_rank": 308,
+    "level": "a1",
+    "translations": {
+      "en": "to drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "глагол потребления",
+      "es": "beber, tomar",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of consuming liquid by swallowing",
+      "de": "Verb für die Handlung des Verzehrens von Flüssigkeit durch Schlucken",
+      "ar": "فعل يدل على فعل استهلاك السائل عن طريق البلع",
+      "fr": "Verbe désignant l'action de consommer liquide en avalant",
+      "it": "Verbo che denota l'azione di consumare liquido inghiottendo",
+      "ru": "Глагол, обозначающий действие употребления жидкости путём проглатывания",
+      "es": "Verbo que denota la acción de consumir líquido tragando",
+      "pl": "Czasownik oznaczający czynność spożywania płynu przez połykanie",
+      "fa": "فعلی که نشان‌دهنده عمل مصرف مایع با بلعیدن است"
+    },
+    "examples": {
+      "en": [
+        "I drink water",
+        "I can drink",
+        "I eat and drink"
+      ],
+      "de": [
+        "Ich trinke Wasser",
+        "Ich kann trinken",
+        "Ich esse und trinke"
+      ],
+      "ar": [
+        "أنا أشرب ماءً",
+        "أنا أستطيع أن أشرب",
+        "أنا آكل وأشرب"
+      ],
+      "fr": [
+        "Je bois de l'eau",
+        "Je peux boire",
+        "Je mange et bois"
+      ],
+      "it": [
+        "Io bevo acqua",
+        "Io posso bere",
+        "Io mangio e bevo"
+      ],
+      "ru": [
+        "Я пью воду",
+        "Я могу пить",
+        "Я ем и пью"
+      ],
+      "es": [
+        "Yo bebo agua",
+        "Yo puedo beber",
+        "Yo como y bebo"
+      ],
+      "pl": [
+        "Ja piję wodę",
+        "Ja mogę pić",
+        "Ja jem i piję"
+      ],
+      "fa": [
+        "من آب می‌نوشم",
+        "من می‌توانم بنوشم",
+        "من می‌خورم و می‌نوشم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_309_ru",
+    "word": "спать",
+    "category": "verbs",
+    "frequency_rank": 309,
+    "level": "a1",
+    "translations": {
+      "en": "to sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "глагол состояния",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "explanation": {
+      "en": "Verb denoting the state of rest in which the body and mind are inactive",
+      "de": "Verb für den Ruhezustand in dem Körper und Geist inaktiv sind",
+      "ar": "فعل يدل على حالة الراحة التي يكون فيها الجسم والعقل غير نشطين",
+      "fr": "Verbe désignant l'état de repos dans lequel corps et esprit sont inactifs",
+      "it": "Verbo che denota lo stato di riposo in cui corpo e mente sono inattivi",
+      "ru": "Глагол, обозначающий состояние отдыха, в котором тело и разум неактивны",
+      "es": "Verbo que denota el estado de reposo en el cual cuerpo y mente están inactivos",
+      "pl": "Czasownik oznaczający stan odpoczynku w którym ciało i umysł są nieaktywne",
+      "fa": "فعلی که نشان‌دهنده حالت استراحت که در آن بدن و ذهن غیرفعال هستند است"
+    },
+    "examples": {
+      "en": [
+        "I sleep here",
+        "I want to sleep",
+        "I eat and sleep"
+      ],
+      "de": [
+        "Ich schlafe hier",
+        "Ich will schlafen",
+        "Ich esse und schlafe"
+      ],
+      "ar": [
+        "أنا أنام هنا",
+        "أنا أريد أن أنام",
+        "أنا آكل وأنام"
+      ],
+      "fr": [
+        "Je dors ici",
+        "Je veux dormir",
+        "Je mange et dors"
+      ],
+      "it": [
+        "Io dormo qui",
+        "Io voglio dormire",
+        "Io mangio e dormo"
+      ],
+      "ru": [
+        "Я сплю здесь",
+        "Я хочу спать",
+        "Я ем и сплю"
+      ],
+      "es": [
+        "Yo duermo aquí",
+        "Yo quiero dormir",
+        "Yo como y duermo"
+      ],
+      "pl": [
+        "Ja śpię tutaj",
+        "Ja chcę spać",
+        "Ja jem i śpię"
+      ],
+      "fa": [
+        "من اینجا می‌خوابم",
+        "من می‌خواهم بخوابم",
+        "من می‌خورم و می‌خوابم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_310_ru",
+    "word": "вставать",
+    "category": "verbs",
+    "frequency_rank": 310,
+    "level": "a1",
+    "translations": {
+      "en": "to get up, to stand up",
+      "de": "aufstehen",
+      "ar": "يستيقظ، ينهض",
+      "fr": "se lever",
+      "it": "alzarsi",
+      "ru": "глагол движения",
+      "es": "levantarse",
+      "pl": "wstawać",
+      "fa": "بلند شدن، برخاستن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of rising from a lying or sitting position",
+      "de": "Verb für die Handlung des Aufstehens aus liegender oder sitzender Position",
+      "ar": "فعل يدل على فعل القيام من وضعية الاستلقاء أو الجلوس",
+      "fr": "Verbe désignant l'action de se lever d'une position couchée ou assise",
+      "it": "Verbo che denota l'azione di alzarsi da una posizione sdraiata o seduta",
+      "ru": "Глагол, обозначающий действие подъёма из лежачего или сидячего положения",
+      "es": "Verbo que denota la acción de levantarse de una posición acostada o sentada",
+      "pl": "Czasownik oznaczający czynność wstawania z pozycji leżącej lub siedzącej",
+      "fa": "فعلی که نشان‌دهنده عمل بلند شدن از حالت دراز کشیده یا نشسته است"
+    },
+    "examples": {
+      "en": [
+        "I get up",
+        "I can get up",
+        "I sleep and get up"
+      ],
+      "de": [
+        "Ich stehe auf",
+        "Ich kann aufstehen",
+        "Ich schlafe und stehe auf"
+      ],
+      "ar": [
+        "أنا أستيقظ",
+        "أنا أستطيع أن أستيقظ",
+        "أنا أنام وأستيقظ"
+      ],
+      "fr": [
+        "Je me lève",
+        "Je peux me lever",
+        "Je dors et me lève"
+      ],
+      "it": [
+        "Io mi alzo",
+        "Io posso alzarmi",
+        "Io dormo e mi alzo"
+      ],
+      "ru": [
+        "Я встаю",
+        "Я могу вставать",
+        "Я сплю и встаю"
+      ],
+      "es": [
+        "Yo me levanto",
+        "Yo puedo levantarme",
+        "Yo duermo y me levanto"
+      ],
+      "pl": [
+        "Ja wstaję",
+        "Ja mogę wstać",
+        "Ja śpię i wstaję"
+      ],
+      "fa": [
+        "من بلند می‌شوم",
+        "من می‌توانم بلند شوم",
+        "من می‌خوابم و بلند می‌شوم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_311_ru",
+    "word": "сидеть",
+    "category": "verbs",
+    "frequency_rank": 311,
+    "level": "a1",
+    "translations": {
+      "en": "to sit",
+      "de": "sitzen",
+      "ar": "يجلس",
+      "fr": "être assis, s'asseoir",
+      "it": "sedere, essere seduto",
+      "ru": "глагол положения",
+      "es": "estar sentado, sentarse",
+      "pl": "siedzieć",
+      "fa": "نشستن"
+    },
+    "explanation": {
+      "en": "Verb denoting the state or action of being in a position with the body resting on the buttocks",
+      "de": "Verb für den Zustand oder die Handlung in einer Position zu sein mit dem Körper ruhend auf dem Gesäß",
+      "ar": "فعل يدل على حالة أو فعل التواجد في وضعية مع الجسم مستريحاً على الأرداف",
+      "fr": "Verbe désignant l'état ou action d'être dans position avec corps reposant sur les fesses",
+      "it": "Verbo che denota lo stato o azione di essere in posizione con il corpo appoggiato sui glutei",
+      "ru": "Глагол, обозначающий состояние или действие нахождения в положении с телом, опирающимся на ягодицы",
+      "es": "Verbo que denota el estado o acción de estar en posición con el cuerpo apoyado en las nalgas",
+      "pl": "Czasownik oznaczający stan lub czynność przebywania w pozycji z ciałem opartym na pośladkach",
+      "fa": "فعلی که نشان‌دهنده حالت یا عمل قرار گرفتن در وضعیتی با بدن استراحت کننده روی باسن است"
+    },
+    "examples": {
+      "en": [
+        "I sit here",
+        "I can sit on a chair",
+        "I sit and read"
+      ],
+      "de": [
+        "Ich sitze hier",
+        "Ich kann auf einem Stuhl sitzen",
+        "Ich sitze und lese"
+      ],
+      "ar": [
+        "أنا أجلس هنا",
+        "أنا أستطيع أن أجلس على كرسي",
+        "أنا أجلس وأقرأ"
+      ],
+      "fr": [
+        "Je suis assis ici",
+        "Je peux m'asseoir sur une chaise",
+        "Je suis assis et lis"
+      ],
+      "it": [
+        "Io sono seduto qui",
+        "Io posso sedermi su una sedia",
+        "Io sono seduto e leggo"
+      ],
+      "ru": [
+        "Я сижу здесь",
+        "Я могу сидеть на стуле",
+        "Я сижу и читаю"
+      ],
+      "es": [
+        "Yo estoy sentado aquí",
+        "Yo puedo sentarme en una silla",
+        "Yo estoy sentado y leo"
+      ],
+      "pl": [
+        "Ja siedzę tutaj",
+        "Ja mogę siedzieć na krześle",
+        "Ja siedzę i czytam"
+      ],
+      "fa": [
+        "من اینجا نشسته‌ام",
+        "من می‌توانم روی صندلی بنشینم",
+        "من نشسته‌ام و می‌خوانم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_312_ru",
+    "word": "стоять",
+    "category": "verbs",
+    "frequency_rank": 312,
+    "level": "a1",
+    "translations": {
+      "en": "to stand",
+      "de": "stehen",
+      "ar": "يقف",
+      "fr": "être debout, se tenir debout",
+      "it": "stare in piedi",
+      "ru": "глагол положения",
+      "es": "estar de pie, estar parado",
+      "pl": "stać",
+      "fa": "ایستادن"
+    },
+    "explanation": {
+      "en": "Verb denoting the state or action of being in an upright position on the feet",
+      "de": "Verb für den Zustand oder die Handlung in aufrechter Position auf den Füßen zu sein",
+      "ar": "فعل يدل على حالة أو فعل التواجد في وضعية منتصبة على القدمين",
+      "fr": "Verbe désignant l'état ou action d'être en position verticale sur les pieds",
+      "it": "Verbo che denota lo stato o azione di essere in posizione eretta sui piedi",
+      "ru": "Глагол, обозначающий состояние или действие нахождения в вертикальном положении на ногах",
+      "es": "Verbo que denota el estado o acción de estar en posición vertical sobre los pies",
+      "pl": "Czasownik oznaczający stan lub czynność przebywania w pozycji wyprostowanej na nogach",
+      "fa": "فعلی که نشان‌دهنده حالت یا عمل قرار گرفتن در وضعیت عمودی روی پاها است"
+    },
+    "examples": {
+      "en": [
+        "I stand here",
+        "I can stand",
+        "I sit and stand"
+      ],
+      "de": [
+        "Ich stehe hier",
+        "Ich kann stehen",
+        "Ich sitze und stehe"
+      ],
+      "ar": [
+        "أنا أقف هنا",
+        "أنا أستطيع أن أقف",
+        "أنا أجلس وأقف"
+      ],
+      "fr": [
+        "Je suis debout ici",
+        "Je peux me tenir debout",
+        "Je suis assis et debout"
+      ],
+      "it": [
+        "Io sto in piedi qui",
+        "Io posso stare in piedi",
+        "Io sono seduto e sto in piedi"
+      ],
+      "ru": [
+        "Я стою здесь",
+        "Я могу стоять",
+        "Я сижу и стою"
+      ],
+      "es": [
+        "Yo estoy de pie aquí",
+        "Yo puedo estar de pie",
+        "Yo estoy sentado y de pie"
+      ],
+      "pl": [
+        "Ja stoję tutaj",
+        "Ja mogę stać",
+        "Ja siedzę i stoję"
+      ],
+      "fa": [
+        "من اینجا ایستاده‌ام",
+        "من می‌توانم بایستم",
+        "من نشسته‌ام و ایستاده‌ام"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_313_ru",
+    "word": "лежать",
+    "category": "verbs",
+    "frequency_rank": 313,
+    "level": "a1",
+    "translations": {
+      "en": "to lie, to lie down",
+      "de": "liegen",
+      "ar": "يستلقي، يرقد",
+      "fr": "être couché, se coucher",
+      "it": "essere sdraiato, sdraiarsi",
+      "ru": "глагол положения",
+      "es": "estar acostado, acostarse",
+      "pl": "leżeć",
+      "fa": "دراز کشیدن"
+    },
+    "explanation": {
+      "en": "Verb denoting the state or action of being in a horizontal position on a surface",
+      "de": "Verb für den Zustand oder die Handlung in horizontaler Position auf einer Oberfläche zu sein",
+      "ar": "فعل يدل على حالة أو فعل التواجد في وضعية أفقية على سطح",
+      "fr": "Verbe désignant l'état ou action d'être en position horizontale sur une surface",
+      "it": "Verbo che denota lo stato o azione di essere in posizione orizzontale su una superficie",
+      "ru": "Глагол, обозначающий состояние или действие нахождения в горизонтальном положении на поверхности",
+      "es": "Verbo que denota el estado o acción de estar en posición horizontal sobre una superficie",
+      "pl": "Czasownik oznaczający stan lub czynność przebywania w pozycji poziomej na powierzchni",
+      "fa": "فعلی که نشان‌دهنده حالت یا عمل قرار گرفتن در وضعیت افقی روی سطح است"
+    },
+    "examples": {
+      "en": [
+        "I lie here",
+        "I can lie down",
+        "I sit and lie"
+      ],
+      "de": [
+        "Ich liege hier",
+        "Ich kann liegen",
+        "Ich sitze und liege"
+      ],
+      "ar": [
+        "أنا أستلقي هنا",
+        "أنا أستطيع أن أستلقي",
+        "أنا أجلس وأستلقي"
+      ],
+      "fr": [
+        "Je suis couché ici",
+        "Je peux me coucher",
+        "Je suis assis et couché"
+      ],
+      "it": [
+        "Io sono sdraiato qui",
+        "Io posso sdraiarmi",
+        "Io sono seduto e sdraiato"
+      ],
+      "ru": [
+        "Я лежу здесь",
+        "Я могу лежать",
+        "Я сижу и лежу"
+      ],
+      "es": [
+        "Yo estoy acostado aquí",
+        "Yo puedo acostarme",
+        "Yo estoy sentado y acostado"
+      ],
+      "pl": [
+        "Ja leżę tutaj",
+        "Ja mogę leżeć",
+        "Ja siedzę i leżę"
+      ],
+      "fa": [
+        "من اینجا دراز کشیده‌ام",
+        "من می‌توانم دراز بکشم",
+        "من نشسته‌ام و دراز کشیده‌ام"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_314_ru",
+    "word": "играть",
+    "category": "verbs",
+    "frequency_rank": 314,
+    "level": "a1",
+    "translations": {
+      "en": "to play",
+      "de": "spielen",
+      "ar": "يلعب",
+      "fr": "jouer",
+      "it": "giocare",
+      "ru": "глагол деятельности",
+      "es": "jugar",
+      "pl": "grać, bawić się",
+      "fa": "بازی کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of engaging in activity for enjoyment and recreation",
+      "de": "Verb für die Handlung der Beschäftigung mit Aktivität zum Vergnügen und zur Erholung",
+      "ar": "فعل يدل على فعل الانخراط في نشاط للاستمتاع والترفيه",
+      "fr": "Verbe désignant l'action de s'engager dans activité pour plaisir et récréation",
+      "it": "Verbo che denota l'azione di impegnarsi in attività per divertimento e ricreazione",
+      "ru": "Глагол, обозначающий действие участия в деятельности для удовольствия и отдыха",
+      "es": "Verbo que denota la acción de participar en actividad para disfrute y recreación",
+      "pl": "Czasownik oznaczający czynność angażowania się w działalność dla przyjemności i rekreacji",
+      "fa": "فعلی که نشان‌دهنده عمل مشغول شدن به فعالیت برای لذت و تفریح است"
+    },
+    "examples": {
+      "en": [
+        "I play here",
+        "I can play",
+        "I work and play"
+      ],
+      "de": [
+        "Ich spiele hier",
+        "Ich kann spielen",
+        "Ich arbeite und spiele"
+      ],
+      "ar": [
+        "أنا ألعب هنا",
+        "أنا أستطيع أن ألعب",
+        "أنا أعمل وألعب"
+      ],
+      "fr": [
+        "Je joue ici",
+        "Je peux jouer",
+        "Je travaille et joue"
+      ],
+      "it": [
+        "Io gioco qui",
+        "Io posso giocare",
+        "Io lavoro e gioco"
+      ],
+      "ru": [
+        "Я играю здесь",
+        "Я могу играть",
+        "Я работаю и играю"
+      ],
+      "es": [
+        "Yo juego aquí",
+        "Yo puedo jugar",
+        "Yo trabajo y juego"
+      ],
+      "pl": [
+        "Ja gram tutaj",
+        "Ja mogę grać",
+        "Ja pracuję i gram"
+      ],
+      "fa": [
+        "من اینجا بازی می‌کنم",
+        "من می‌توانم بازی کنم",
+        "من کار می‌کنم و بازی می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_315_ru",
+    "word": "учиться",
+    "category": "verbs",
+    "frequency_rank": 315,
+    "level": "a1",
+    "translations": {
+      "en": "to study, to learn",
+      "de": "lernen, studieren",
+      "ar": "يدرس، يتعلم",
+      "fr": "étudier, apprendre",
+      "it": "studiare, imparare",
+      "ru": "глагол обучения",
+      "es": "estudiar, aprender",
+      "pl": "uczyć się, studiować",
+      "fa": "درس خواندن، یاد گرفتن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of acquiring knowledge or skills through study or practice",
+      "de": "Verb für die Handlung des Wissenserwerbs oder Fähigkeitenerwerbs durch Studium oder Übung",
+      "ar": "فعل يدل على فعل اكتساب المعرفة أو المهارات من خلال الدراسة أو الممارسة",
+      "fr": "Verbe désignant l'action d'acquérir connaissances ou compétences par étude ou pratique",
+      "it": "Verbo che denota l'azione di acquisire conoscenza o abilità attraverso studio o pratica",
+      "ru": "Глагол, обозначающий действие приобретения знаний или навыков через учёбу или практику",
+      "es": "Verbo que denota la acción de adquirir conocimiento o habilidades a través de estudio o práctica",
+      "pl": "Czasownik oznaczający czynność zdobywania wiedzy lub umiejętności przez naukę lub praktykę",
+      "fa": "فعلی که نشان‌دهنده عمل به دست آوردن دانش یا مهارت‌ها از طریق مطالعه یا تمرین است"
+    },
+    "examples": {
+      "en": [
+        "I study here",
+        "I want to learn",
+        "I study and work"
+      ],
+      "de": [
+        "Ich lerne hier",
+        "Ich will lernen",
+        "Ich lerne und arbeite"
+      ],
+      "ar": [
+        "أنا أدرس هنا",
+        "أنا أريد أن أتعلم",
+        "أنا أدرس وأعمل"
+      ],
+      "fr": [
+        "J'étudie ici",
+        "Je veux apprendre",
+        "J'étudie et travaille"
+      ],
+      "it": [
+        "Io studio qui",
+        "Io voglio imparare",
+        "Io studio e lavoro"
+      ],
+      "ru": [
+        "Я учусь здесь",
+        "Я хочу учиться",
+        "Я учусь и работаю"
+      ],
+      "es": [
+        "Yo estudio aquí",
+        "Yo quiero aprender",
+        "Yo estudio y trabajo"
+      ],
+      "pl": [
+        "Ja uczę się tutaj",
+        "Ja chcę się uczyć",
+        "Ja uczę się i pracuję"
+      ],
+      "fa": [
+        "من اینجا درس می‌خوانم",
+        "من می‌خواهم یاد بگیرم",
+        "من درس می‌خوانم و کار می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_316_ru",
+    "word": "открывать",
+    "category": "verbs",
+    "frequency_rank": 316,
+    "level": "a1",
+    "translations": {
+      "en": "to open",
+      "de": "öffnen, aufmachen",
+      "ar": "يفتح",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "ru": "глагол действия",
+      "es": "abrir",
+      "pl": "otwierać",
+      "fa": "باز کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of moving something to allow access or view inside",
+      "de": "Verb für die Handlung des Bewegens von etwas um Zugang oder Sicht nach innen zu ermöglichen",
+      "ar": "فعل يدل على فعل تحريك شيء للسماح بالوصول أو الرؤية بالداخل",
+      "fr": "Verbe désignant l'action de déplacer quelque chose pour permettre accès ou vue à l'intérieur",
+      "it": "Verbo che denota l'azione di muovere qualcosa per permettere accesso o vista all'interno",
+      "ru": "Глагол, обозначающий действие перемещения чего-либо для обеспечения доступа или обзора внутрь",
+      "es": "Verbo que denota la acción de mover algo para permitir acceso o vista al interior",
+      "pl": "Czasownik oznaczający czynność przesuwania czegoś aby umożliwić dostęp lub widok do środka",
+      "fa": "فعلی که نشان‌دهنده عمل حرکت دادن چیزی برای اجازه دسترسی یا دید داخل است"
+    },
+    "examples": {
+      "en": [
+        "I open this door",
+        "I can open a book",
+        "I open and read"
+      ],
+      "de": [
+        "Ich öffne diese Tür",
+        "Ich kann ein Buch öffnen",
+        "Ich öffne und lese"
+      ],
+      "ar": [
+        "أنا أفتح هذا الباب",
+        "أنا أستطيع أن أفتح كتاباً",
+        "أنا أفتح وأقرأ"
+      ],
+      "fr": [
+        "J'ouvre cette porte",
+        "Je peux ouvrir un livre",
+        "J'ouvre et lis"
+      ],
+      "it": [
+        "Io apro questa porta",
+        "Io posso aprire un libro",
+        "Io apro e leggo"
+      ],
+      "ru": [
+        "Я открываю эту дверь",
+        "Я могу открывать книгу",
+        "Я открываю и читаю"
+      ],
+      "es": [
+        "Yo abro esta puerta",
+        "Yo puedo abrir un libro",
+        "Yo abro y leo"
+      ],
+      "pl": [
+        "Ja otwieram te drzwi",
+        "Ja mogę otworzyć książkę",
+        "Ja otwieram i czytam"
+      ],
+      "fa": [
+        "من این در را باز می‌کنم",
+        "من می‌توانم یک کتاب را باز کنم",
+        "من باز می‌کنم و می‌خوانم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_317_ru",
+    "word": "закрывать",
+    "category": "verbs",
+    "frequency_rank": 317,
+    "level": "a1",
+    "translations": {
+      "en": "to close, to shut",
+      "de": "schließen, zumachen",
+      "ar": "يغلق",
+      "fr": "fermer",
+      "it": "chiudere",
+      "ru": "глагол действия",
+      "es": "cerrar",
+      "pl": "zamykać",
+      "fa": "بستن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of moving something to prevent access or block an opening",
+      "de": "Verb für die Handlung des Bewegens von etwas um Zugang zu verhindern oder Öffnung zu blockieren",
+      "ar": "فعل يدل على فعل تحريك شيء لمنع الوصول أو سد فتحة",
+      "fr": "Verbe désignant l'action de déplacer quelque chose pour empêcher accès ou bloquer ouverture",
+      "it": "Verbo che denota l'azione di muovere qualcosa per impedire accesso o bloccare apertura",
+      "ru": "Глагол, обозначающий действие перемещения чего-либо для предотвращения доступа или блокирования отверстия",
+      "es": "Verbo que denota la acción de mover algo para impedir acceso o bloquear una abertura",
+      "pl": "Czasownik oznaczający czynność przesuwania czegoś aby zapobiec dostępowi lub zablokować otwór",
+      "fa": "فعلی که نشان‌دهنده عمل حرکت دادن چیزی برای جلوگیری از دسترسی یا مسدود کردن دهانه است"
+    },
+    "examples": {
+      "en": [
+        "I close this door",
+        "I can close a book",
+        "I open and close"
+      ],
+      "de": [
+        "Ich schließe diese Tür",
+        "Ich kann ein Buch schließen",
+        "Ich öffne und schließe"
+      ],
+      "ar": [
+        "أنا أغلق هذا الباب",
+        "أنا أستطيع أن أغلق كتاباً",
+        "أنا أفتح وأغلق"
+      ],
+      "fr": [
+        "Je ferme cette porte",
+        "Je peux fermer un livre",
+        "J'ouvre et ferme"
+      ],
+      "it": [
+        "Io chiudo questa porta",
+        "Io posso chiudere un libro",
+        "Io apro e chiudo"
+      ],
+      "ru": [
+        "Я закрываю эту дверь",
+        "Я могу закрывать книгу",
+        "Я открываю и закрываю"
+      ],
+      "es": [
+        "Yo cierro esta puerta",
+        "Yo puedo cerrar un libro",
+        "Yo abro y cierro"
+      ],
+      "pl": [
+        "Ja zamykam te drzwi",
+        "Ja mogę zamknąć książkę",
+        "Ja otwieram i zamykam"
+      ],
+      "fa": [
+        "من این در را می‌بندم",
+        "من می‌توانم یک کتاب را ببندم",
+        "من باز می‌کنم و می‌بندم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_318_ru",
+    "word": "начинать",
+    "category": "verbs",
+    "frequency_rank": 318,
+    "level": "a1",
+    "translations": {
+      "en": "to begin, to start",
+      "de": "beginnen, anfangen",
+      "ar": "يبدأ",
+      "fr": "commencer, débuter",
+      "it": "cominciare, iniziare",
+      "ru": "глагол действия",
+      "es": "comenzar, empezar",
+      "pl": "zaczynać, rozpoczynać",
+      "fa": "شروع کردن، آغاز کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of performing the first part of an action or activity",
+      "de": "Verb für die Handlung des Ausführens des ersten Teils einer Handlung oder Aktivität",
+      "ar": "فعل يدل على فعل أداء الجزء الأول من فعل أو نشاط",
+      "fr": "Verbe désignant l'action d'exécuter la première partie d'une action ou activité",
+      "it": "Verbo che denota l'azione di eseguire la prima parte di un'azione o attività",
+      "ru": "Глагол, обозначающий действие выполнения первой части действия или деятельности",
+      "es": "Verbo que denota la acción de realizar la primera parte de una acción o actividad",
+      "pl": "Czasownik oznaczający czynność wykonywania pierwszej części działania lub aktywności",
+      "fa": "فعلی که نشان‌دهنده عمل انجام بخش اول از عمل یا فعالیت است"
+    },
+    "examples": {
+      "en": [
+        "I begin to read",
+        "I can start work",
+        "I start and do"
+      ],
+      "de": [
+        "Ich beginne zu lesen",
+        "Ich kann Arbeit anfangen",
+        "Ich fange an und mache"
+      ],
+      "ar": [
+        "أنا أبدأ القراءة",
+        "أنا أستطيع أن أبدأ العمل",
+        "أنا أبدأ وأفعل"
+      ],
+      "fr": [
+        "Je commence à lire",
+        "Je peux commencer le travail",
+        "Je commence et fais"
+      ],
+      "it": [
+        "Io comincio a leggere",
+        "Io posso iniziare il lavoro",
+        "Io comincio e faccio"
+      ],
+      "ru": [
+        "Я начинаю читать",
+        "Я могу начинать работу",
+        "Я начинаю и делаю"
+      ],
+      "es": [
+        "Yo comienzo a leer",
+        "Yo puedo empezar el trabajo",
+        "Yo comienzo y hago"
+      ],
+      "pl": [
+        "Ja zaczynam czytać",
+        "Ja mogę zacząć pracę",
+        "Ja zaczynam i robię"
+      ],
+      "fa": [
+        "من شروع می‌کنم به خواندن",
+        "من می‌توانم کار را شروع کنم",
+        "من شروع می‌کنم و انجام می‌دهم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_319_ru",
+    "word": "кончать",
+    "category": "verbs",
+    "frequency_rank": 319,
+    "level": "a1",
+    "translations": {
+      "en": "to finish, to end",
+      "de": "beenden, aufhören",
+      "ar": "ينهي، يكمل",
+      "fr": "finir, terminer",
+      "it": "finire, terminare",
+      "ru": "глагол действия",
+      "es": "terminar, acabar",
+      "pl": "kończyć, zakańczać",
+      "fa": "تمام کردن، پایان دادن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of bringing an activity or process to completion",
+      "de": "Verb für die Handlung des Bringens einer Aktivität oder Prozess zum Abschluss",
+      "ar": "فعل يدل على فعل إتمام نشاط أو عملية",
+      "fr": "Verbe désignant l'action d'amener une activité ou processus à accomplissement",
+      "it": "Verbo che denota l'azione di portare un'attività o processo a completamento",
+      "ru": "Глагол, обозначающий действие доведения деятельности или процесса до завершения",
+      "es": "Verbo que denota la acción de llevar una actividad o proceso a completación",
+      "pl": "Czasownik oznaczający czynność doprowadzania aktywności lub procesu do zakończenia",
+      "fa": "فعلی که نشان‌دهنده عمل رساندن فعالیت یا فرآیند به تکمیل است"
+    },
+    "examples": {
+      "en": [
+        "I finish my work",
+        "I can finish reading",
+        "I start and finish"
+      ],
+      "de": [
+        "Ich beende meine Arbeit",
+        "Ich kann das Lesen beenden",
+        "Ich fange an und beende"
+      ],
+      "ar": [
+        "أنا أنهي عملي",
+        "أنا أستطيع أن أنهي القراءة",
+        "أنا أبدأ وأنهي"
+      ],
+      "fr": [
+        "Je finis mon travail",
+        "Je peux finir la lecture",
+        "Je commence et finis"
+      ],
+      "it": [
+        "Io finisco il mio lavoro",
+        "Io posso finire la lettura",
+        "Io comincio e finisco"
+      ],
+      "ru": [
+        "Я кончаю мою работу",
+        "Я могу кончать читать",
+        "Я начинаю и кончаю"
+      ],
+      "es": [
+        "Yo termino mi trabajo",
+        "Yo puedo terminar la lectura",
+        "Yo comienzo y termino"
+      ],
+      "pl": [
+        "Ja kończę moją pracę",
+        "Ja mogę skończyć czytanie",
+        "Ja zaczynam i kończę"
+      ],
+      "fa": [
+        "من کارم را تمام می‌کنم",
+        "من می‌توانم خواندن را تمام کنم",
+        "من شروع می‌کنم و تمام می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_320_ru",
+    "word": "помогать",
+    "category": "verbs",
+    "frequency_rank": 320,
+    "level": "a1",
+    "translations": {
+      "en": "to help, to assist",
+      "de": "helfen",
+      "ar": "يساعد",
+      "fr": "aider",
+      "it": "aiutare",
+      "ru": "глагол действия",
+      "es": "ayudar",
+      "pl": "pomagać",
+      "fa": "کمک کردن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of making it easier for someone to do something by offering assistance",
+      "de": "Verb für die Handlung des Erleichterns für jemanden etwas zu tun durch Anbieten von Hilfe",
+      "ar": "فعل يدل على فعل تسهيل الأمر على شخص لفعل شيء من خلال تقديم المساعدة",
+      "fr": "Verbe désignant l'action de faciliter pour quelqu'un de faire quelque chose en offrant assistance",
+      "it": "Verbo che denota l'azione di rendere più facile per qualcuno fare qualcosa offrendo assistenza",
+      "ru": "Глагол, обозначающий действие облегчения для кого-либо выполнения чего-либо посредством предложения помощи",
+      "es": "Verbo que denota la acción de facilitar a alguien hacer algo ofreciendo asistencia",
+      "pl": "Czasownik oznaczający czynność ułatwiania komuś zrobienia czegoś przez oferowanie pomocy",
+      "fa": "فعلی که نشان‌دهنده عمل آسان‌تر کردن انجام کاری برای کسی با ارائه کمک است"
+    },
+    "examples": {
+      "en": [
+        "I help you",
+        "I can help my friend",
+        "I work and help"
+      ],
+      "de": [
+        "Ich helfe dir",
+        "Ich kann meinem Freund helfen",
+        "Ich arbeite und helfe"
+      ],
+      "ar": [
+        "أنا أساعدك",
+        "أنا أستطيع أن أساعد صديقي",
+        "أنا أعمل وأساعد"
+      ],
+      "fr": [
+        "Je t'aide",
+        "Je peux aider mon ami",
+        "Je travaille et aide"
+      ],
+      "it": [
+        "Io ti aiuto",
+        "Io posso aiutare il mio amico",
+        "Io lavoro e aiuto"
+      ],
+      "ru": [
+        "Я помогаю тебе",
+        "Я могу помогать моему другу",
+        "Я работаю и помогаю"
+      ],
+      "es": [
+        "Yo te ayudo",
+        "Yo puedo ayudar a mi amigo",
+        "Yo trabajo y ayudo"
+      ],
+      "pl": [
+        "Ja pomagam ci",
+        "Ja mogę pomóc mojemu przyjacielowi",
+        "Ja pracuję i pomagam"
+      ],
+      "fa": [
+        "من به تو کمک می‌کنم",
+        "من می‌توانم به دوستم کمک کنم",
+        "من کار می‌کنم و کمک می‌کنم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  }
+]
