@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_561_en",
+    "word": "morning",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "morning",
+      "de": "Morgen",
+      "ar": "صباح",
+      "fr": "matin",
+      "it": "mattina",
+      "ru": "утро",
+      "es": "mañana",
+      "pl": "ranek",
+      "fa": "صبح"
+    },
+    "explanations": {
+      "en": "The early part of the day from when the sun rises until noon or lunchtime.",
+      "de": "Der frühe Teil des Tages von Sonnenaufgang bis Mittag oder Mittagszeit.",
+      "ar": "الجزء المبكر من اليوم من شروق الشمس حتى الظهر أو وقت الغداء.",
+      "fr": "La première partie de la journée du lever du soleil jusqu'à midi ou l'heure du déjeuner.",
+      "it": "La prima parte del giorno dall'alba fino a mezzogiorno o l'ora di pranzo.",
+      "ru": "Ранняя часть дня с восхода солнца до полудня или обеденного времени.",
+      "es": "La parte temprana del día desde que sale el sol hasta el mediodía o la hora del almuerzo.",
+      "pl": "Wczesna część dnia od wschodu słońca do południa lub pory obiadowej.",
+      "fa": "بخش اولیه روز از طلوع خورشید تا ظهر یا وقت ناهار."
+    },
+    "examples": {
+      "en": ["Good morning!", "I work in morning.", "Every morning I wake."],
+      "de": ["Guten Morgen!", "Ich arbeite am Morgen.", "Jeden Morgen wache ich auf."],
+      "ar": ["صباح الخير!", "أعمل في الصباح.", "كل صباح أستيقظ."],
+      "fr": ["Bonjour!", "Je travaille le matin.", "Chaque matin je me réveille."],
+      "it": ["Buongiorno!", "Lavoro la mattina.", "Ogni mattina mi sveglio."],
+      "ru": ["Доброе утро!", "Я работаю утром.", "Каждое утро я просыпаюсь."],
+      "es": ["¡Buenos días!", "Trabajo por la mañana.", "Cada mañana me despierto."],
+      "pl": ["Dzień dobry!", "Pracuję rano.", "Każdego ranka się budzę."],
+      "fa": ["صبح بخیر!", "صبح‌ها کار می‌کنم.", "هر صبح بیدار می‌شوم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_562_en",
+    "word": "afternoon",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "afternoon",
+      "de": "Nachmittag",
+      "ar": "بعد الظهر",
+      "fr": "après-midi",
+      "it": "pomeriggio",
+      "ru": "день",
+      "es": "tarde",
+      "pl": "popołudnie",
+      "fa": "بعدازظهر"
+    },
+    "explanations": {
+      "en": "The part of the day between noon and evening, usually from midday until around six.",
+      "de": "Der Teil des Tages zwischen Mittag und Abend, normalerweise von Mittag bis etwa sechs Uhr.",
+      "ar": "الجزء من اليوم بين الظهر والمساء، عادة من منتصف النهار حتى حوالي الساعة السادسة.",
+      "fr": "La partie de la journée entre midi et le soir, généralement de midi jusqu'à environ six heures.",
+      "it": "La parte del giorno tra mezzogiorno e sera, solitamente da mezzogiorno fino a circa le sei.",
+      "ru": "Часть дня между полуднем и вечером, обычно с полудня до примерно шести.",
+      "es": "La parte del día entre mediodía y tarde, generalmente desde mediodía hasta alrededor de las seis.",
+      "pl": "Część dnia między południem a wieczorem, zwykle od południa do około szóstej.",
+      "fa": "بخشی از روز بین ظهر و عصر، معمولا از نیمروز تا حدود ساعت شش."
+    },
+    "examples": {
+      "en": ["Good afternoon!", "I sleep in afternoon.", "This afternoon is good."],
+      "de": ["Guten Tag!", "Ich schlafe am Nachmittag.", "Dieser Nachmittag ist gut."],
+      "ar": ["مساء الخير!", "أنام بعد الظهر.", "هذا بعد الظهر جيد."],
+      "fr": ["Bon après-midi!", "Je dors l'après-midi.", "Cet après-midi est bon."],
+      "it": ["Buon pomeriggio!", "Dormo il pomeriggio.", "Questo pomeriggio è buono."],
+      "ru": ["Добрый день!", "Я сплю днём.", "Этот день хороший."],
+      "es": ["¡Buenas tardes!", "Duermo por la tarde.", "Esta tarde es buena."],
+      "pl": ["Dzień dobry!", "Śpię po południu.", "To popołudnie jest dobre."],
+      "fa": ["بعدازظهر بخیر!", "بعدازظهر می‌خوابم.", "این بعدازظهر خوب است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_563_en",
+    "word": "evening",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "evening",
+      "de": "Abend",
+      "ar": "مساء",
+      "fr": "soir",
+      "it": "sera",
+      "ru": "вечер",
+      "es": "tarde",
+      "pl": "wieczór",
+      "fa": "عصر"
+    },
+    "explanations": {
+      "en": "The part of the day between afternoon and night, from around six until bedtime.",
+      "de": "Der Teil des Tages zwischen Nachmittag und Nacht, von etwa sechs Uhr bis zur Schlafenszeit.",
+      "ar": "الجزء من اليوم بين بعد الظهر والليل، من حوالي السادسة حتى وقت النوم.",
+      "fr": "La partie de la journée entre l'après-midi et la nuit, d'environ six heures jusqu'au coucher.",
+      "it": "La parte del giorno tra pomeriggio e notte, da circa le sei fino all'ora di andare a letto.",
+      "ru": "Часть дня между днём и ночью, примерно с шести до времени сна.",
+      "es": "La parte del día entre la tarde y la noche, desde alrededor de las seis hasta la hora de dormir.",
+      "pl": "Część dnia między popołudniem a nocą, od około szóstej do czasu snu.",
+      "fa": "بخشی از روز بین بعدازظهر و شب، از حدود ساعت شش تا وقت خواب."
+    },
+    "examples": {
+      "en": ["Good evening!", "I eat in evening.", "This evening is nice."],
+      "de": ["Guten Abend!", "Ich esse am Abend.", "Dieser Abend ist schön."],
+      "ar": ["مساء الخير!", "آكل في المساء.", "هذا المساء لطيف."],
+      "fr": ["Bonsoir!", "Je mange le soir.", "Ce soir est agréable."],
+      "it": ["Buonasera!", "Mangio la sera.", "Questa sera è bella."],
+      "ru": ["Добрый вечер!", "Я ем вечером.", "Этот вечер приятный."],
+      "es": ["¡Buenas tardes!", "Como por la tarde.", "Esta tarde es agradable."],
+      "pl": ["Dobry wieczór!", "Jem wieczorem.", "Ten wieczór jest miły."],
+      "fa": ["عصر بخیر!", "عصر غذا می‌خورم.", "این عصر خوب است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_564_en",
+    "word": "night",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "night",
+      "de": "Nacht",
+      "ar": "ليل",
+      "fr": "nuit",
+      "it": "notte",
+      "ru": "ночь",
+      "es": "noche",
+      "pl": "noc",
+      "fa": "شب"
+    },
+    "explanations": {
+      "en": "The time when it is dark outside, from sunset until sunrise when people usually sleep.",
+      "de": "Die Zeit, wenn es draußen dunkel ist, von Sonnenuntergang bis Sonnenaufgang, wenn Menschen normalerweise schlafen.",
+      "ar": "الوقت عندما يكون الظلام في الخارج، من الغروب حتى الشروق عندما ينام الناس عادة.",
+      "fr": "Le temps où il fait noir dehors, du coucher au lever du soleil quand les gens dorment habituellement.",
+      "it": "Il tempo quando è buio fuori, dal tramonto all'alba quando le persone di solito dormono.",
+      "ru": "Время, когда снаружи темно, от заката до восхода, когда люди обычно спят.",
+      "es": "El tiempo cuando está oscuro afuera, desde el atardecer hasta el amanecer cuando la gente suele dormir.",
+      "pl": "Czas, gdy jest ciemno na zewnątrz, od zachodu do wschodu słońca, gdy ludzie zwykle śpią.",
+      "fa": "زمانی که بیرون تاریک است، از غروب تا طلوع که مردم معمولا می‌خوابند."
+    },
+    "examples": {
+      "en": ["Good night!", "I sleep at night.", "This night is dark."],
+      "de": ["Gute Nacht!", "Ich schlafe nachts.", "Diese Nacht ist dunkel."],
+      "ar": ["ليلة سعيدة!", "أنام في الليل.", "هذا الليل مظلم."],
+      "fr": ["Bonne nuit!", "Je dors la nuit.", "Cette nuit est sombre."],
+      "it": ["Buonanotte!", "Dormo di notte.", "Questa notte è buia."],
+      "ru": ["Спокойной ночи!", "Я сплю ночью.", "Эта ночь тёмная."],
+      "es": ["¡Buenas noches!", "Duermo de noche.", "Esta noche está oscura."],
+      "pl": ["Dobranoc!", "Śpię w nocy.", "Ta noc jest ciemna."],
+      "fa": ["شب بخیر!", "شب می‌خوابم.", "این شب تاریک است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_565_en",
+    "word": "breakfast",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "breakfast",
+      "de": "Frühstück",
+      "ar": "فطور",
+      "fr": "petit déjeuner",
+      "it": "colazione",
+      "ru": "завтрак",
+      "es": "desayuno",
+      "pl": "śniadanie",
+      "fa": "صبحانه"
+    },
+    "explanations": {
+      "en": "The first meal of the day that people eat in the morning after waking up.",
+      "de": "Die erste Mahlzeit des Tages, die Menschen am Morgen nach dem Aufwachen essen.",
+      "ar": "أول وجبة في اليوم يأكلها الناس في الصباح بعد الاستيقاظ.",
+      "fr": "Le premier repas de la journée que les gens mangent le matin après le réveil.",
+      "it": "Il primo pasto del giorno che le persone mangiano la mattina dopo essersi svegliati.",
+      "ru": "Первый приём пищи в день, который люди едят утром после пробуждения.",
+      "es": "La primera comida del día que la gente come por la mañana después de despertarse.",
+      "pl": "Pierwszy posiłek dnia, który ludzie jedzą rano po przebudzeniu.",
+      "fa": "اولین وعده غذایی روز که مردم صبح بعد از بیدار شدن می‌خورند."
+    },
+    "examples": {
+      "en": ["I eat breakfast now.", "This is my breakfast.", "Do you want breakfast?"],
+      "de": ["Ich esse jetzt Frühstück.", "Das ist mein Frühstück.", "Willst du Frühstück?"],
+      "ar": ["آكل الفطور الآن.", "هذا فطوري.", "هل تريد الفطور؟"],
+      "fr": ["Je mange le petit déjeuner maintenant.", "C'est mon petit déjeuner.", "Veux-tu le petit déjeuner?"],
+      "it": ["Mangio la colazione ora.", "Questa è la mia colazione.", "Vuoi la colazione?"],
+      "ru": ["Я ем завтрак сейчас.", "Это мой завтрак.", "Ты хочешь завтрак?"],
+      "es": ["Como el desayuno ahora.", "Este es mi desayuno.", "¿Quieres desayuno?"],
+      "pl": ["Jem śniadanie teraz.", "To jest moje śniadanie.", "Chcesz śniadanie?"],
+      "fa": ["الان صبحانه می‌خورم.", "این صبحانه من است.", "صبحانه می‌خواهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_566_en",
+    "word": "lunch",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lunch",
+      "de": "Mittagessen",
+      "ar": "غداء",
+      "fr": "déjeuner",
+      "it": "pranzo",
+      "ru": "обед",
+      "es": "almuerzo",
+      "pl": "obiad",
+      "fa": "ناهار"
+    },
+    "explanations": {
+      "en": "A meal eaten in the middle of the day, usually between noon and afternoon.",
+      "de": "Eine Mahlzeit, die in der Mitte des Tages gegessen wird, normalerweise zwischen Mittag und Nachmittag.",
+      "ar": "وجبة تؤكل في منتصف اليوم، عادة بين الظهر وبعد الظهر.",
+      "fr": "Un repas mangé au milieu de la journée, généralement entre midi et l'après-midi.",
+      "it": "Un pasto mangiato a metà giornata, solitamente tra mezzogiorno e pomeriggio.",
+      "ru": "Еда, съеденная в середине дня, обычно между полуднем и днём.",
+      "es": "Una comida que se come a mitad del día, generalmente entre mediodía y la tarde.",
+      "pl": "Posiłek jedzony w środku dnia, zwykle między południem a popołudniem.",
+      "fa": "وعده غذایی که در وسط روز خورده می‌شود، معمولا بین ظهر و بعدازظهر."
+    },
+    "examples": {
+      "en": ["I eat lunch now.", "This is my lunch.", "Do you want lunch?"],
+      "de": ["Ich esse jetzt Mittagessen.", "Das ist mein Mittagessen.", "Willst du Mittagessen?"],
+      "ar": ["آكل الغداء الآن.", "هذا غدائي.", "هل تريد الغداء؟"],
+      "fr": ["Je mange le déjeuner maintenant.", "C'est mon déjeuner.", "Veux-tu le déjeuner?"],
+      "it": ["Mangio il pranzo ora.", "Questo è il mio pranzo.", "Vuoi il pranzo?"],
+      "ru": ["Я ем обед сейчас.", "Это мой обед.", "Ты хочешь обед?"],
+      "es": ["Como el almuerzo ahora.", "Este es mi almuerzo.", "¿Quieres almuerzo?"],
+      "pl": ["Jem obiad teraz.", "To jest mój obiad.", "Chcesz obiad?"],
+      "fa": ["الان ناهار می‌خورم.", "این ناهار من است.", "ناهار می‌خواهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_567_en",
+    "word": "dinner",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dinner",
+      "de": "Abendessen",
+      "ar": "عشاء",
+      "fr": "dîner",
+      "it": "cena",
+      "ru": "ужин",
+      "es": "cena",
+      "pl": "kolacja",
+      "fa": "شام"
+    },
+    "explanations": {
+      "en": "The main meal of the day, usually eaten in the evening after work or school.",
+      "de": "Die Hauptmahlzeit des Tages, normalerweise am Abend nach der Arbeit oder Schule gegessen.",
+      "ar": "الوجبة الرئيسية في اليوم، عادة تؤكل في المساء بعد العمل أو المدرسة.",
+      "fr": "Le repas principal de la journée, généralement mangé le soir après le travail ou l'école.",
+      "it": "Il pasto principale del giorno, solitamente mangiato la sera dopo il lavoro o la scuola.",
+      "ru": "Основной приём пищи в день, обычно вечером после работы или школы.",
+      "es": "La comida principal del día, generalmente se come por la tarde después del trabajo o la escuela.",
+      "pl": "Główny posiłek dnia, zwykle jedzony wieczorem po pracy lub szkole.",
+      "fa": "اصلی‌ترین وعده غذایی روز، معمولا عصر بعد از کار یا مدرسه خورده می‌شود."
+    },
+    "examples": {
+      "en": ["I eat dinner now.", "This is my dinner.", "Do you want dinner?"],
+      "de": ["Ich esse jetzt Abendessen.", "Das ist mein Abendessen.", "Willst du Abendessen?"],
+      "ar": ["آكل العشاء الآن.", "هذا عشائي.", "هل تريد العشاء؟"],
+      "fr": ["Je mange le dîner maintenant.", "C'est mon dîner.", "Veux-tu le dîner?"],
+      "it": ["Mangio la cena ora.", "Questa è la mia cena.", "Vuoi la cena?"],
+      "ru": ["Я ем ужин сейчас.", "Это мой ужин.", "Ты хочешь ужин?"],
+      "es": ["Como la cena ahora.", "Esta es mi cena.", "¿Quieres cena?"],
+      "pl": ["Jem kolację teraz.", "To jest moja kolacja.", "Chcesz kolację?"],
+      "fa": ["الان شام می‌خورم.", "این شام من است.", "شام می‌خواهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_568_en",
+    "word": "meal",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "meal",
+      "de": "Mahlzeit",
+      "ar": "وجبة",
+      "fr": "repas",
+      "it": "pasto",
+      "ru": "еда",
+      "es": "comida",
+      "pl": "posiłek",
+      "fa": "وعده غذایی"
+    },
+    "explanations": {
+      "en": "An occasion when food is eaten, or the food that is eaten on such an occasion.",
+      "de": "Eine Gelegenheit, bei der Essen gegessen wird, oder das Essen, das bei dieser Gelegenheit gegessen wird.",
+      "ar": "مناسبة يتم فيها تناول الطعام، أو الطعام الذي يتم تناوله في مثل هذه المناسبة.",
+      "fr": "Une occasion où l'on mange, ou la nourriture qui est mangée lors d'une telle occasion.",
+      "it": "Un'occasione in cui si mangia, o il cibo che viene mangiato in tale occasione.",
+      "ru": "Случай, когда едят пищу, или еда, которую едят в таком случае.",
+      "es": "Una ocasión en la que se come, o la comida que se come en tal ocasión.",
+      "pl": "Okazja, przy której jedzenie jest spożywane, lub jedzenie spożywane przy takiej okazji.",
+      "fa": "مناسبتی که غذا خورده می‌شود، یا غذایی که در چنین مناسبتی خورده می‌شود."
+    },
+    "examples": {
+      "en": ["This is good meal.", "I eat three meals.", "Do you like meal?"],
+      "de": ["Das ist eine gute Mahlzeit.", "Ich esse drei Mahlzeiten.", "Magst du die Mahlzeit?"],
+      "ar": ["هذه وجبة جيدة.", "آكل ثلاث وجبات.", "هل تحب الوجبة؟"],
+      "fr": ["C'est un bon repas.", "Je mange trois repas.", "Aimes-tu le repas?"],
+      "it": ["Questo è un buon pasto.", "Mangio tre pasti.", "Ti piace il pasto?"],
+      "ru": ["Это хорошая еда.", "Я ем три раза.", "Тебе нравится еда?"],
+      "es": ["Esta es una buena comida.", "Como tres comidas.", "¿Te gusta la comida?"],
+      "pl": ["To jest dobry posiłek.", "Jem trzy posiłki.", "Lubisz posiłek?"],
+      "fa": ["این وعده غذایی خوبی است.", "من سه وعده غذا می‌خورم.", "وعده غذایی را دوست داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_569_en",
+    "word": "food",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "food",
+      "de": "Essen",
+      "ar": "طعام",
+      "fr": "nourriture",
+      "it": "cibo",
+      "ru": "еда",
+      "es": "comida",
+      "pl": "jedzenie",
+      "fa": "غذا"
+    },
+    "explanations": {
+      "en": "Things that people and animals eat to stay alive and get energy for their bodies.",
+      "de": "Dinge, die Menschen und Tiere essen, um am Leben zu bleiben und Energie für ihre Körper zu bekommen.",
+      "ar": "أشياء يأكلها الناس والحيوانات للبقاء على قيد الحياة والحصول على الطاقة لأجسامهم.",
+      "fr": "Choses que les gens et les animaux mangent pour rester en vie et obtenir de l'énergie pour leurs corps.",
+      "it": "Cose che le persone e gli animali mangiano per rimanere vivi e ottenere energia per i loro corpi.",
+      "ru": "Вещи, которые люди и животные едят, чтобы остаться в живых и получить энергию для своих тел.",
+      "es": "Cosas que la gente y los animales comen para mantenerse vivos y obtener energía para sus cuerpos.",
+      "pl": "Rzeczy, które ludzie i zwierzęta jedzą aby pozostać przy życiu i uzyskać energię dla swoich ciał.",
+      "fa": "چیزهایی که مردم و حیوانات می‌خورند تا زنده بمانند و انرژی برای بدنشان بگیرند."
+    },
+    "examples": {
+      "en": ["I like good food.", "This food is hot.", "Do you have food?"],
+      "de": ["Ich mag gutes Essen.", "Dieses Essen ist heiß.", "Hast du Essen?"],
+      "ar": ["أحب الطعام الجيد.", "هذا الطعام ساخن.", "هل لديك طعام؟"],
+      "fr": ["J'aime la bonne nourriture.", "Cette nourriture est chaude.", "As-tu de la nourriture?"],
+      "it": ["Mi piace il buon cibo.", "Questo cibo è caldo.", "Hai del cibo?"],
+      "ru": ["Мне нравится хорошая еда.", "Эта еда горячая.", "У тебя есть еда?"],
+      "es": ["Me gusta la buena comida.", "Esta comida está caliente.", "¿Tienes comida?"],
+      "pl": ["Lubię dobre jedzenie.", "To jedzenie jest gorące.", "Masz jedzenie?"],
+      "fa": ["غذای خوب را دوست دارم.", "این غذا داغ است.", "غذا داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_570_en",
+    "word": "hungry",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hungry",
+      "de": "hungrig",
+      "ar": "جائع",
+      "fr": "affamé",
+      "it": "affamato",
+      "ru": "голодный",
+      "es": "hambriento",
+      "pl": "głodny",
+      "fa": "گرسنه"
+    },
+    "explanations": {
+      "en": "Feeling the need to eat food because your stomach is empty or you lack energy.",
+      "de": "Das Bedürfnis verspüren, Essen zu essen, weil der Magen leer ist oder man keine Energie hat.",
+      "ar": "الشعور بالحاجة إلى تناول الطعام لأن معدتك فارغة أو تفتقر إلى الطاقة.",
+      "fr": "Ressentir le besoin de manger parce que votre estomac est vide ou vous manquez d'énergie.",
+      "it": "Sentire il bisogno di mangiare cibo perché lo stomaco è vuoto o manca energia.",
+      "ru": "Чувствовать потребность есть пищу, потому что желудок пуст или не хватает энергии.",
+      "es": "Sentir la necesidad de comer porque tu estómago está vacío o te falta energía.",
+      "pl": "Odczuwać potrzebę jedzenia ponieważ żołądek jest pusty lub brakuje energii.",
+      "fa": "احساس نیاز به خوردن غذا چون معده شما خالی است یا انرژی کم دارید."
+    },
+    "examples": {
+      "en": ["I am very hungry.", "Are you hungry now?", "I feel hungry today."],
+      "de": ["Ich bin sehr hungrig.", "Bist du jetzt hungrig?", "Ich fühle mich heute hungrig."],
+      "ar": ["أنا جائع جداً.", "هل أنت جائع الآن؟", "أشعر بالجوع اليوم."],
+      "fr": ["J'ai très faim.", "As-tu faim maintenant?", "J'ai faim aujourd'hui."],
+      "it": ["Ho molta fame.", "Hai fame ora?", "Mi sento affamato oggi."],
+      "ru": ["Я очень голодный.", "Ты голоден сейчас?", "Я чувствую голод сегодня."],
+      "es": ["Tengo mucha hambre.", "¿Tienes hambre ahora?", "Me siento hambriento hoy."],
+      "pl": ["Jestem bardzo głodny.", "Jesteś głodny teraz?", "Czuję się głodny dziś."],
+      "fa": ["خیلی گرسنه هستم.", "الان گرسنه‌ای؟", "امروز احساس گرسنگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_571_en",
+    "word": "thirsty",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thirsty",
+      "de": "durstig",
+      "ar": "عطشان",
+      "fr": "assoiffé",
+      "it": "assetato",
+      "ru": "жаждущий",
+      "es": "sediento",
+      "pl": "spragniony",
+      "fa": "تشنه"
+    },
+    "explanations": {
+      "en": "Feeling the need to drink liquid because your body needs water or fluids.",
+      "de": "Das Bedürfnis verspüren, Flüssigkeit zu trinken, weil der Körper Wasser oder Flüssigkeiten braucht.",
+      "ar": "الشعور بالحاجة إلى شرب السوائل لأن جسمك يحتاج إلى الماء أو السوائل.",
+      "fr": "Ressentir le besoin de boire du liquide parce que votre corps a besoin d'eau ou de fluides.",
+      "it": "Sentire il bisogno di bere liquido perché il corpo ha bisogno di acqua o fluidi.",
+      "ru": "Чувствовать потребность пить жидкость, потому что ваше тело нуждается в воде или жидкостях.",
+      "es": "Sentir la necesidad de beber líquido porque tu cuerpo necesita agua o fluidos.",
+      "pl": "Odczuwać potrzebę picia płynu ponieważ ciało potrzebuje wody lub płynów.",
+      "fa": "احساس نیاز به نوشیدن مایع چون بدن شما به آب یا مایعات نیاز دارد."
+    },
+    "examples": {
+      "en": ["I am very thirsty.", "Are you thirsty now?", "I feel thirsty today."],
+      "de": ["Ich bin sehr durstig.", "Bist du jetzt durstig?", "Ich fühle mich heute durstig."],
+      "ar": ["أنا عطشان جداً.", "هل أنت عطشان الآن؟", "أشعر بالعطش اليوم."],
+      "fr": ["J'ai très soif.", "As-tu soif maintenant?", "J'ai soif aujourd'hui."],
+      "it": ["Ho molta sete.", "Hai sete ora?", "Mi sento assetato oggi."],
+      "ru": ["Я очень хочу пить.", "Ты хочешь пить сейчас?", "Я чувствую жажду сегодня."],
+      "es": ["Tengo mucha sed.", "¿Tienes sed ahora?", "Me siento sediento hoy."],
+      "pl": ["Jestem bardzo spragniony.", "Jesteś spragniony teraz?", "Czuję się spragniony dziś."],
+      "fa": ["خیلی تشنه هستم.", "الان تشنه‌ای؟", "امروز احساس تشنگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_572_en",
+    "word": "taste",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "taste",
+      "de": "Geschmack",
+      "ar": "طعم",
+      "fr": "goût",
+      "it": "gusto",
+      "ru": "вкус",
+      "es": "sabor",
+      "pl": "smak",
+      "fa": "طعم"
+    },
+    "explanations": {
+      "en": "The flavor you experience when food or drink touches your tongue and mouth.",
+      "de": "Der Geschmack, den man erlebt, wenn Essen oder Trinken die Zunge und den Mund berührt.",
+      "ar": "النكهة التي تختبرها عندما يلمس الطعام أو الشراب لسانك وفمك.",
+      "fr": "La saveur que vous expérimentez quand la nourriture ou la boisson touche votre langue et bouche.",
+      "it": "Il sapore che provi quando cibo o bevanda tocca la tua lingua e bocca.",
+      "ru": "Вкус, который вы испытываете, когда еда или напиток касается вашего языка и рта.",
+      "es": "El sabor que experimentas cuando la comida o bebida toca tu lengua y boca.",
+      "pl": "Smak, którego doświadczasz, gdy jedzenie lub napój dotyka twojego języka i ust.",
+      "fa": "طعمی که وقتی غذا یا نوشیدنی زبان و دهان شما را لمس می‌کند، تجربه می‌کنید."
+    },
+    "examples": {
+      "en": ["This has good taste.", "I like this taste.", "Can you taste this?"],
+      "de": ["Das hat guten Geschmack.", "Ich mag diesen Geschmack.", "Kannst du das schmecken?"],
+      "ar": ["هذا له طعم جيد.", "أحب هذا الطعم.", "هل يمكنك تذوق هذا؟"],
+      "fr": ["Ça a bon goût.", "J'aime ce goût.", "Peux-tu goûter ça?"],
+      "it": ["Questo ha buon gusto.", "Mi piace questo gusto.", "Puoi assaggiare questo?"],
+      "ru": ["У этого хороший вкус.", "Мне нравится этот вкус.", "Ты можешь попробовать это?"],
+      "es": ["Esto tiene buen sabor.", "Me gusta este sabor.", "¿Puedes probar esto?"],
+      "pl": ["To ma dobry smak.", "Lubię ten smak.", "Możesz skosztować tego?"],
+      "fa": ["این طعم خوبی دارد.", "این طعم را دوست دارم.", "می‌توانی این را بچشی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_573_en",
+    "word": "cook",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cook",
+      "de": "kochen",
+      "ar": "يطبخ",
+      "fr": "cuisiner",
+      "it": "cucinare",
+      "ru": "готовить",
+      "es": "cocinar",
+      "pl": "gotować",
+      "fa": "پختن"
+    },
+    "explanations": {
+      "en": "To prepare food by heating it so it becomes ready to eat and safe.",
+      "de": "Essen zubereiten, indem man es erhitzt, damit es essfertig und sicher wird.",
+      "ar": "إعداد الطعام من خلال تسخينه بحيث يصبح جاهزاً للأكل وآمناً.",
+      "fr": "Préparer de la nourriture en la chauffant pour qu'elle devienne prête à manger et sûre.",
+      "it": "Preparare cibo riscaldandolo in modo che diventi pronto da mangiare e sicuro.",
+      "ru": "Готовить пищу, нагревая её, чтобы она стала готовой к употреблению и безопасной.",
+      "es": "Preparar comida calentándola para que esté lista para comer y sea segura.",
+      "pl": "Przygotowywać jedzenie poprzez podgrzewanie go aby stało się gotowe do jedzenia i bezpieczne.",
+      "fa": "آماده کردن غذا با گرم کردن آن تا آماده خوردن و ایمن شود."
+    },
+    "examples": {
+      "en": ["I cook food now.", "Can you cook this?", "I like to cook."],
+      "de": ["Ich koche jetzt Essen.", "Kannst du das kochen?", "Ich koche gerne."],
+      "ar": ["أطبخ الطعام الآن.", "هل يمكنك طبخ هذا؟", "أحب أن أطبخ."],
+      "fr": ["Je cuisine maintenant.", "Peux-tu cuisiner ça?", "J'aime cuisiner."],
+      "it": ["Cucino ora.", "Puoi cucinare questo?", "Mi piace cucinare."],
+      "ru": ["Я готовлю еду сейчас.", "Ты можешь приготовить это?", "Мне нравится готовить."],
+      "es": ["Cocino ahora.", "¿Puedes cocinar esto?", "Me gusta cocinar."],
+      "pl": ["Gotuję teraz.", "Możesz to ugotować?", "Lubię gotować."],
+      "fa": ["الان غذا می‌پزم.", "می‌توانی این را بپزی؟", "دوست دارم بپزم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_574_en",
+    "word": "kitchen",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "kitchen",
+      "de": "Küche",
+      "ar": "مطبخ",
+      "fr": "cuisine",
+      "it": "cucina",
+      "ru": "кухня",
+      "es": "cocina",
+      "pl": "kuchnia",
+      "fa": "آشپزخانه"
+    },
+    "explanations": {
+      "en": "A room in a house where food is prepared and cooked using various appliances.",
+      "de": "Ein Raum in einem Haus, wo Essen mit verschiedenen Geräten zubereitet und gekocht wird.",
+      "ar": "غرفة في المنزل حيث يتم إعداد الطعام وطبخه باستخدام أجهزة مختلفة.",
+      "fr": "Une pièce dans une maison où la nourriture est préparée et cuisinée en utilisant divers appareils.",
+      "it": "Una stanza in casa dove il cibo è preparato e cucinato usando vari elettrodomestici.",
+      "ru": "Комната в доме, где готовят еду с использованием различных приборов.",
+      "es": "Una habitación en una casa donde se prepara y cocina comida usando varios electrodomésticos.",
+      "pl": "Pomieszczenie w domu, gdzie jedzenie jest przygotowywane i gotowane przy użyciu różnych urządzeń.",
+      "fa": "اتاقی در خانه که غذا در آن با استفاده از دستگاه‌های مختلف آماده و پخته می‌شود."
+    },
+    "examples": {
+      "en": ["I am in kitchen.", "This kitchen is big.", "Where is the kitchen?"],
+      "de": ["Ich bin in der Küche.", "Diese Küche ist groß.", "Wo ist die Küche?"],
+      "ar": ["أنا في المطبخ.", "هذا المطبخ كبير.", "أين المطبخ؟"],
+      "fr": ["Je suis dans la cuisine.", "Cette cuisine est grande.", "Où est la cuisine?"],
+      "it": ["Sono in cucina.", "Questa cucina è grande.", "Dov'è la cucina?"],
+      "ru": ["Я на кухне.", "Эта кухня большая.", "Где кухня?"],
+      "es": ["Estoy en la cocina.", "Esta cocina es grande.", "¿Dónde está la cocina?"],
+      "pl": ["Jestem w kuchni.", "Ta kuchnia jest duża.", "Gdzie jest kuchnia?"],
+      "fa": ["در آشپزخانه هستم.", "این آشپزخانه بزرگ است.", "آشپزخانه کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_575_en",
+    "word": "table",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "table",
+      "de": "Tisch",
+      "ar": "طاولة",
+      "fr": "table",
+      "it": "tavolo",
+      "ru": "стол",
+      "es": "mesa",
+      "pl": "stół",
+      "fa": "میز"
+    },
+    "explanations": {
+      "en": "A piece of furniture with a flat top and legs used for eating, working, or placing things.",
+      "de": "Ein Möbelstück mit einer flachen Oberfläche und Beinen, das zum Essen, Arbeiten oder Ablegen von Dingen verwendet wird.",
+      "ar": "قطعة أثاث ذات سطح مسطح وأرجل تستخدم للأكل أو العمل أو وضع الأشياء.",
+      "fr": "Un meuble avec un dessus plat et des pieds utilisé pour manger, travailler ou placer des choses.",
+      "it": "Un mobile con un piano piatto e gambe usato per mangiare, lavorare o posizionare cose.",
+      "ru": "Предмет мебели с плоской поверхностью и ножками, используемый для еды, работы или размещения вещей.",
+      "es": "Un mueble con una superficie plana y patas usado para comer, trabajar o colocar cosas.",
+      "pl": "Mebel z płaskim blatem i nogami używany do jedzenia, pracy lub umieszczania rzeczy.",
+      "fa": "قطعه مبلمانی با سطح صاف و پایه‌ها که برای خوردن، کار کردن یا قرار دادن چیزها استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I sit at table.", "This table is big.", "Put it on table."],
+      "de": ["Ich sitze am Tisch.", "Dieser Tisch ist groß.", "Leg es auf den Tisch."],
+      "ar": ["أجلس على الطاولة.", "هذه الطاولة كبيرة.", "ضعه على الطاولة."],
+      "fr": ["Je m'assois à table.", "Cette table est grande.", "Mets-le sur la table."],
+      "it": ["Mi siedo a tavola.", "Questo tavolo è grande.", "Mettilo sul tavolo."],
+      "ru": ["Я сижу за столом.", "Этот стол большой.", "Положи это на стол."],
+      "es": ["Me siento en la mesa.", "Esta mesa es grande.", "Ponlo en la mesa."],
+      "pl": ["Siedzę przy stole.", "Ten stół jest duży.", "Połóż to na stole."],
+      "fa": ["روی میز می‌نشینم.", "این میز بزرگ است.", "آن را روی میز بگذار."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_576_en",
+    "word": "chair",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "стул",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "explanations": {
+      "en": "A piece of furniture with a seat, back, and legs for one person to sit on.",
+      "de": "Ein Möbelstück mit Sitzfläche, Rückenlehne und Beinen, auf dem eine Person sitzen kann.",
+      "ar": "قطعة أثاث مع مقعد وظهر وأرجل لشخص واحد للجلوس عليها.",
+      "fr": "Un meuble avec un siège, un dossier et des pieds pour qu'une personne s'assoie dessus.",
+      "it": "Un mobile con sedile, schienale e gambe per una persona su cui sedersi.",
+      "ru": "Предмет мебели с сиденьем, спинкой и ножками для сидения одного человека.",
+      "es": "Un mueble con asiento, respaldo y patas para que una persona se siente.",
+      "pl": "Mebel z siedziskiem, oparciem i nogami dla jednej osoby do siedzenia.",
+      "fa": "قطعه مبلمانی با صندلی، پشتی و پایه‌ها برای نشستن یک نفر."
+    },
+    "examples": {
+      "en": ["I sit on chair.", "This chair is good.", "Get me a chair."],
+      "de": ["Ich sitze auf dem Stuhl.", "Dieser Stuhl ist gut.", "Hol mir einen Stuhl."],
+      "ar": ["أجلس على الكرسي.", "هذا الكرسي جيد.", "أحضر لي كرسياً."],
+      "fr": ["Je m'assois sur la chaise.", "Cette chaise est bonne.", "Apporte-moi une chaise."],
+      "it": ["Mi siedo sulla sedia.", "Questa sedia è buona.", "Portami una sedia."],
+      "ru": ["Я сижу на стуле.", "Этот стул хороший.", "Принеси мне стул."],
+      "es": ["Me siento en la silla.", "Esta silla es buena.", "Tráeme una silla."],
+      "pl": ["Siedzę na krześle.", "To krzesło jest dobre.", "Przynieś mi krzesło."],
+      "fa": ["روی صندلی می‌نشینم.", "این صندلی خوب است.", "برایم صندلی بیاور."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_577_en",
+    "word": "plate",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "plate",
+      "de": "Teller",
+      "ar": "طبق",
+      "fr": "assiette",
+      "it": "piatto",
+      "ru": "тарелка",
+      "es": "plato",
+      "pl": "talerz",
+      "fa": "بشقاب"
+    },
+    "explanations": {
+      "en": "A flat, round dish used to hold and serve food when you eat a meal.",
+      "de": "Ein flaches, rundes Geschirr, das verwendet wird, um Essen zu halten und zu servieren, wenn man isst.",
+      "ar": "طبق مسطح مستدير يستخدم لحمل وتقديم الطعام عند تناول الوجبة.",
+      "fr": "Un plat plat et rond utilisé pour tenir et servir la nourriture quand vous mangez un repas.",
+      "it": "Un piatto piatto e rotondo usato per contenere e servire cibo quando mangi un pasto.",
+      "ru": "Плоское, круглое блюдо, используемое для хранения и подачи еды во время приёма пищи.",
+      "es": "Un plato plano y redondo usado para sostener y servir comida cuando comes una comida.",
+      "pl": "Płaskie, okrągłe naczynie używane do trzymania i podawania jedzenia podczas posiłku.",
+      "fa": "ظرف تخت و گرد که برای نگهداری و سرو غذا هنگام خوردن وعده غذایی استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I have a plate.", "This plate is full.", "Get me clean plate."],
+      "de": ["Ich habe einen Teller.", "Dieser Teller ist voll.", "Hol mir einen sauberen Teller."],
+      "ar": ["لدي طبق.", "هذا الطبق ممتلئ.", "أحضر لي طبقاً نظيفاً."],
+      "fr": ["J'ai une assiette.", "Cette assiette est pleine.", "Apporte-moi une assiette propre."],
+      "it": ["Ho un piatto.", "Questo piatto è pieno.", "Portami un piatto pulito."],
+      "ru": ["У меня есть тарелка.", "Эта тарелка полная.", "Принеси мне чистую тарелку."],
+      "es": ["Tengo un plato.", "Este plato está lleno.", "Tráeme un plato limpio."],
+      "pl": ["Mam talerz.", "Ten talerz jest pełny.", "Przynieś mi czysty talerz."],
+      "fa": ["یک بشقاب دارم.", "این بشقاب پر است.", "برایم بشقاب تمیز بیاور."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_578_en",
+    "word": "cup",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cup",
+      "de": "Tasse",
+      "ar": "فنجان",
+      "fr": "tasse",
+      "it": "tazza",
+      "ru": "чашка",
+      "es": "taza",
+      "pl": "filiżanka",
+      "fa": "فنجان"
+    },
+    "explanations": {
+      "en": "A small container with a handle used for drinking hot or cold liquids like tea or coffee.",
+      "de": "Ein kleiner Behälter mit Griff, der zum Trinken von heißen oder kalten Flüssigkeiten wie Tee oder Kaffee verwendet wird.",
+      "ar": "وعاء صغير بمقبض يستخدم لشرب السوائل الساخنة أو الباردة مثل الشاي أو القهوة.",
+      "fr": "Un petit récipient avec une poignée utilisé pour boire des liquides chauds ou froids comme le thé ou le café.",
+      "it": "Un piccolo contenitore con manico usato per bere liquidi caldi o freddi come tè o caffè.",
+      "ru": "Небольшой контейнер с ручкой, используемый для питья горячих или холодных жидкостей, таких как чай или кофе.",
+      "es": "Un recipiente pequeño con asa usado para beber líquidos calientes o fríos como té o café.",
+      "pl": "Mały pojemnik z uchwytem używany do picia gorących lub zimnych płynów jak herbata lub kawa.",
+      "fa": "ظرف کوچکی با دسته که برای نوشیدن مایعات گرم یا سرد مثل چای یا قهوه استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I have a cup.", "This cup is hot.", "Get me clean cup."],
+      "de": ["Ich habe eine Tasse.", "Diese Tasse ist heiß.", "Hol mir eine saubere Tasse."],
+      "ar": ["لدي فنجان.", "هذا الفنجان ساخن.", "أحضر لي فنجاناً نظيفاً."],
+      "fr": ["J'ai une tasse.", "Cette tasse est chaude.", "Apporte-moi une tasse propre."],
+      "it": ["Ho una tazza.", "Questa tazza è calda.", "Portami una tazza pulita."],
+      "ru": ["У меня есть чашка.", "Эта чашка горячая.", "Принеси мне чистую чашку."],
+      "es": ["Tengo una taza.", "Esta taza está caliente.", "Tráeme una taza limpia."],
+      "pl": ["Mam filiżankę.", "Ta filiżanka jest gorąca.", "Przynieś mi czystą filiżankę."],
+      "fa": ["یک فنجان دارم.", "این فنجان داغ است.", "برایم فنجان تمیز بیاور."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_579_en",
+    "word": "spoon",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "spoon",
+      "de": "Löffel",
+      "ar": "ملعقة",
+      "fr": "cuillère",
+      "it": "cucchiaio",
+      "ru": "ложка",
+      "es": "cuchara",
+      "pl": "łyżka",
+      "fa": "قاشق"
+    },
+    "explanations": {
+      "en": "A tool with a handle and round shallow bowl used for eating or serving liquid or soft food.",
+      "de": "Ein Werkzeug mit Griff und runder flacher Schale zum Essen oder Servieren von flüssiger oder weicher Nahrung.",
+      "ar": "أداة بمقبض ووعاء دائري ضحل تستخدم لتناول أو تقديم الطعام السائل أو اللين.",
+      "fr": "Un outil avec un manche et un bol rond peu profond utilisé pour manger ou servir de la nourriture liquide ou molle.",
+      "it": "Uno strumento con manico e ciotola rotonda poco profonda usato per mangiare o servire cibo liquido o morbido.",
+      "ru": "Инструмент с ручкой и круглой мелкой чашей, используемый для еды или подачи жидкой или мягкой пищи.",
+      "es": "Una herramienta con mango y tazón redondo poco profundo usado para comer o servir comida líquida o blanda.",
+      "pl": "Narzędzie z uchwytem i okrągłą płytką miseczką używane do jedzenia lub podawania płynnego lub miękkiego jedzenia.",
+      "fa": "ابزاری با دسته و کاسه گرد کم‌عمق که برای خوردن یا سرو غذای مایع یا نرم استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I need a spoon.", "This spoon is clean.", "Get me big spoon."],
+      "de": ["Ich brauche einen Löffel.", "Dieser Löffel ist sauber.", "Hol mir einen großen Löffel."],
+      "ar": ["أحتاج ملعقة.", "هذه الملعقة نظيفة.", "أحضر لي ملعقة كبيرة."],
+      "fr": ["J'ai besoin d'une cuillère.", "Cette cuillère est propre.", "Apporte-moi une grande cuillère."],
+      "it": ["Ho bisogno di un cucchiaio.", "Questo cucchiaio è pulito.", "Portami un cucchiaio grande."],
+      "ru": ["Мне нужна ложка.", "Эта ложка чистая.", "Принеси мне большую ложку."],
+      "es": ["Necesito una cuchara.", "Esta cuchara está limpia.", "Tráeme una cuchara grande."],
+      "pl": ["Potrzebuję łyżki.", "Ta łyżka jest czysta.", "Przynieś mi dużą łyżkę."],
+      "fa": ["به قاشق نیاز دارم.", "این قاشق تمیز است.", "برایم قاشق بزرگ بیاور."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_580_en",
+    "word": "knife",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "knife",
+      "de": "Messer",
+      "ar": "سكين",
+      "fr": "couteau",
+      "it": "coltello",
+      "ru": "нож",
+      "es": "cuchillo",
+      "pl": "nóż",
+      "fa": "چاقو"
+    },
+    "explanations": {
+      "en": "A tool with a sharp blade and handle used for cutting food or other materials.",
+      "de": "Ein Werkzeug mit scharfer Klinge und Griff zum Schneiden von Essen oder anderen Materialien.",
+      "ar": "أداة بشفرة حادة ومقبض تستخدم لقطع الطعام أو مواد أخرى.",
+      "fr": "Un outil avec une lame tranchante et un manche utilisé pour couper de la nourriture ou d'autres matériaux.",
+      "it": "Uno strumento con lama affilata e manico usato per tagliare cibo o altri materiali.",
+      "ru": "Инструмент с острым лезвием и ручкой, используемый для резки еды или других материалов.",
+      "es": "Una herramienta con hoja afilada y mango usada para cortar comida u otros materiales.",
+      "pl": "Narzędzie z ostrym ostrzem i uchwytem używane do krojenia jedzenia lub innych materiałów.",
+      "fa": "ابزاری با تیغه تیز و دسته که برای برش غذا یا مواد دیگر استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I need a knife.", "This knife is sharp.", "Get me clean knife."],
+      "de": ["Ich brauche ein Messer.", "Dieses Messer ist scharf.", "Hol mir ein sauberes Messer."],
+      "ar": ["أحتاج سكيناً.", "هذا السكين حاد.", "أحضر لي سكيناً نظيفاً."],
+      "fr": ["J'ai besoin d'un couteau.", "Ce couteau est tranchant.", "Apporte-moi un couteau propre."],
+      "it": ["Ho bisogno di un coltello.", "Questo coltello è affilato.", "Portami un coltello pulito."],
+      "ru": ["Мне нужен нож.", "Этот нож острый.", "Принеси мне чистый нож."],
+      "es": ["Necesito un cuchillo.", "Este cuchillo está afilado.", "Tráeme un cuchillo limpio."],
+      "pl": ["Potrzebuję noża.", "Ten nóż jest ostry.", "Przynieś mi czysty nóż."],
+      "fa": ["به چاقو نیاز دارم.", "این چاقو تیز است.", "برایم چاقوی تمیز بیاور."]
+    },
+    "conjugations": null
+  }
+]

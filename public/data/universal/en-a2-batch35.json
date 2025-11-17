@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_681_en",
+    "word": "school",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "school",
+      "de": "Schule",
+      "ar": "مدرسة",
+      "fr": "école",
+      "it": "scuola",
+      "ru": "школа",
+      "es": "escuela",
+      "pl": "szkoła",
+      "fa": "مدرسه"
+    },
+    "explanations": {
+      "en": "A place where children and young people go to learn different subjects like reading, writing, and math from teachers.",
+      "de": "Ein Ort, an dem Kinder und junge Menschen hingehen, um verschiedene Fächer wie Lesen, Schreiben und Mathematik von Lehrern zu lernen.",
+      "ar": "مكان يذهب إليه الأطفال والشباب لتعلم مواد مختلفة مثل القراءة والكتابة والرياضيات من المعلمين.",
+      "fr": "Un endroit où les enfants et les jeunes vont apprendre différentes matières comme la lecture, l'écriture et les mathématiques auprès des enseignants.",
+      "it": "Un luogo dove i bambini e i giovani vanno per imparare diverse materie come lettura, scrittura e matematica dagli insegnanti.",
+      "ru": "Место, куда дети и молодые люди ходят учиться различным предметам, таким как чтение, письмо и математика у учителей.",
+      "es": "Un lugar donde los niños y jóvenes van a aprender diferentes materias como lectura, escritura y matemáticas de los maestros.",
+      "pl": "Miejsce, do którego dzieci i młodzi ludzie chodzą, aby uczyć się różnych przedmiotów, takich jak czytanie, pisanie i matematyka od nauczycieli.",
+      "fa": "مکانی که کودکان و جوانان برای یادگیری موضوعات مختلف مانند خواندن، نوشتن و ریاضیات از معلمان به آنجا می‌روند."
+    },
+    "examples": {
+      "en": ["I go to school.", "She likes school.", "The school is big."],
+      "de": ["Ich gehe zur Schule.", "Sie mag Schule.", "Die Schule ist groß."],
+      "ar": ["أذهب إلى المدرسة.", "تحب المدرسة.", "المدرسة كبيرة."],
+      "fr": ["Je vais à l'école.", "Elle aime l'école.", "L'école est grande."],
+      "it": ["Vado a scuola.", "Lei ama la scuola.", "La scuola è grande."],
+      "ru": ["Я хожу в школу.", "Ей нравится школа.", "Школа большая."],
+      "es": ["Voy a la escuela.", "A ella le gusta la escuela.", "La escuela es grande."],
+      "pl": ["Chodzę do szkoły.", "Ona lubi szkołę.", "Szkoła jest duża."],
+      "fa": ["من به مدرسه می‌روم.", "او مدرسه را دوست دارد.", "مدرسه بزرگ است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_682_en",
+    "word": "student",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "student",
+      "de": "Schüler",
+      "ar": "طالب",
+      "fr": "étudiant",
+      "it": "studente",
+      "ru": "студент",
+      "es": "estudiante",
+      "pl": "uczeń",
+      "fa": "دانش‌آموز"
+    },
+    "explanations": {
+      "en": "A person who is learning at a school, college, or university by studying different subjects and taking classes.",
+      "de": "Eine Person, die an einer Schule, einem College oder einer Universität lernt, indem sie verschiedene Fächer studiert und an Kursen teilnimmt.",
+      "ar": "شخص يتعلم في مدرسة أو كلية أو جامعة من خلال دراسة مواد مختلفة وحضور الدروس.",
+      "fr": "Une personne qui apprend dans une école, un collège ou une université en étudiant différentes matières et en suivant des cours.",
+      "it": "Una persona che sta imparando in una scuola, college o università studiando diverse materie e frequentando corsi.",
+      "ru": "Человек, который учится в школе, колледже или университете, изучая различные предметы и посещая занятия.",
+      "es": "Una persona que está aprendiendo en una escuela, colegio o universidad estudiando diferentes materias y tomando clases.",
+      "pl": "Osoba, która uczy się w szkole, college'u lub na uniwersytecie, studiując różne przedmioty i uczestnicząc w zajęciach.",
+      "fa": "فردی که در مدرسه، کالج یا دانشگاه از طریق مطالعه موضوعات مختلف و شرکت در کلاس‌ها یاد می‌گیرد."
+    },
+    "examples": {
+      "en": ["I am a student.", "She is a good student.", "The student is young."],
+      "de": ["Ich bin ein Schüler.", "Sie ist eine gute Schülerin.", "Der Schüler ist jung."],
+      "ar": ["أنا طالب.", "هي طالبة جيدة.", "الطالب صغير."],
+      "fr": ["Je suis un étudiant.", "Elle est une bonne étudiante.", "L'étudiant est jeune."],
+      "it": ["Sono uno studente.", "Lei è una brava studentessa.", "Lo studente è giovane."],
+      "ru": ["Я студент.", "Она хорошая студентка.", "Студент молодой."],
+      "es": ["Soy un estudiante.", "Ella es una buena estudiante.", "El estudiante es joven."],
+      "pl": ["Jestem uczniem.", "Ona jest dobrym uczniem.", "Uczeń jest młody."],
+      "fa": ["من دانش‌آموز هستم.", "او دانش‌آموز خوبی است.", "دانش‌آموز جوان است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_683_en",
+    "word": "teacher",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "teacher",
+      "de": "Lehrer",
+      "ar": "معلم",
+      "fr": "enseignant",
+      "it": "insegnante",
+      "ru": "учитель",
+      "es": "maestro",
+      "pl": "nauczyciel",
+      "fa": "معلم"
+    },
+    "explanations": {
+      "en": "A person whose job is to help students learn by teaching them different subjects and giving them lessons in a school.",
+      "de": "Eine Person, deren Arbeit darin besteht, Schülern beim Lernen zu helfen, indem sie ihnen verschiedene Fächer beibringt und ihnen Unterricht in einer Schule gibt.",
+      "ar": "شخص وظيفته مساعدة الطلاب على التعلم من خلال تعليمهم مواد مختلفة وإعطائهم دروساً في المدرسة.",
+      "fr": "Une personne dont le travail consiste à aider les étudiants à apprendre en leur enseignant différentes matières et en leur donnant des leçons dans une école.",
+      "it": "Una persona il cui lavoro è aiutare gli studenti ad imparare insegnando loro diverse materie e dando loro lezioni in una scuola.",
+      "ru": "Человек, чья работа заключается в том, чтобы помогать студентам учиться, обучая их различным предметам и проводя уроки в школе.",
+      "es": "Una persona cuyo trabajo es ayudar a los estudiantes a aprender enseñándoles diferentes materias y dándoles lecciones en una escuela.",
+      "pl": "Osoba, której praca polega na pomaganiu uczniom w nauce poprzez nauczanie ich różnych przedmiotów i prowadzenie lekcji w szkole.",
+      "fa": "فردی که شغلش کمک به دانش‌آموزان برای یادگیری از طریق آموزش موضوعات مختلف و دادن درس در مدرسه است."
+    },
+    "examples": {
+      "en": ["My teacher is nice.", "She is a good teacher.", "The teacher helps me."],
+      "de": ["Mein Lehrer ist nett.", "Sie ist eine gute Lehrerin.", "Der Lehrer hilft mir."],
+      "ar": ["معلمي لطيف.", "هي معلمة جيدة.", "المعلم يساعدني."],
+      "fr": ["Mon enseignant est gentil.", "Elle est une bonne enseignante.", "L'enseignant m'aide."],
+      "it": ["Il mio insegnante è gentile.", "Lei è una brava insegnante.", "L'insegnante mi aiuta."],
+      "ru": ["Мой учитель хороший.", "Она хорошая учительница.", "Учитель помогает мне."],
+      "es": ["Mi maestro es amable.", "Ella es una buena maestra.", "El maestro me ayuda."],
+      "pl": ["Mój nauczyciel jest miły.", "Ona jest dobrym nauczycielem.", "Nauczyciel mi pomaga."],
+      "fa": ["معلم من خوب است.", "او معلم خوبی است.", "معلم به من کمک می‌کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_684_en",
+    "word": "class",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "class",
+      "de": "Klasse",
+      "ar": "صف",
+      "fr": "classe",
+      "it": "classe",
+      "ru": "класс",
+      "es": "clase",
+      "pl": "klasa",
+      "fa": "کلاس"
+    },
+    "explanations": {
+      "en": "A group of students who learn together in the same room with a teacher, or the time when they have a lesson.",
+      "de": "Eine Gruppe von Schülern, die zusammen im selben Raum mit einem Lehrer lernen, oder die Zeit, in der sie eine Lektion haben.",
+      "ar": "مجموعة من الطلاب يتعلمون معاً في نفس الغرفة مع معلم، أو الوقت الذي يكون فيه لديهم درس.",
+      "fr": "Un groupe d'étudiants qui apprennent ensemble dans la même salle avec un enseignant, ou le moment où ils ont une leçon.",
+      "it": "Un gruppo di studenti che imparano insieme nella stessa stanza con un insegnante, o il momento in cui hanno una lezione.",
+      "ru": "Группа студентов, которые учатся вместе в одной комнате с учителем, или время, когда у них есть урок.",
+      "es": "Un grupo de estudiantes que aprenden juntos en la misma habitación con un maestro, o el momento en que tienen una lección.",
+      "pl": "Grupa uczniów, którzy uczą się razem w tym samym pokoju z nauczycielem, lub czas, kiedy mają lekcję.",
+      "fa": "گروهی از دانش‌آموزان که با هم در یک اتاق با معلم یاد می‌گیرند، یا زمانی که درس دارند."
+    },
+    "examples": {
+      "en": ["I have class now.", "My class is big.", "She likes this class."],
+      "de": ["Ich habe jetzt Klasse.", "Meine Klasse ist groß.", "Sie mag diese Klasse."],
+      "ar": ["لدي صف الآن.", "صفي كبير.", "تحب هذا الصف."],
+      "fr": ["J'ai classe maintenant.", "Ma classe est grande.", "Elle aime cette classe."],
+      "it": ["Ho classe ora.", "La mia classe è grande.", "Lei ama questa classe."],
+      "ru": ["У меня сейчас класс.", "Мой класс большой.", "Ей нравится этот класс."],
+      "es": ["Tengo clase ahora.", "Mi clase es grande.", "A ella le gusta esta clase."],
+      "pl": ["Mam teraz klasę.", "Moja klasa jest duża.", "Ona lubi tę klasę."],
+      "fa": ["من الان کلاس دارم.", "کلاس من بزرگ است.", "او این کلاس را دوست دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_685_en",
+    "word": "lesson",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lesson",
+      "de": "Lektion",
+      "ar": "درس",
+      "fr": "leçon",
+      "it": "lezione",
+      "ru": "урок",
+      "es": "lección",
+      "pl": "lekcja",
+      "fa": "درس"
+    },
+    "explanations": {
+      "en": "A period of time when a teacher teaches students about one subject or topic, usually in a classroom at school.",
+      "de": "Ein Zeitraum, in dem ein Lehrer Schülern über ein Fach oder Thema unterrichtet, normalerweise in einem Klassenzimmer in der Schule.",
+      "ar": "فترة زمنية يعلم فيها المعلم الطلاب عن موضوع أو موضوع واحد، عادة في فصل دراسي في المدرسة.",
+      "fr": "Une période de temps pendant laquelle un enseignant enseigne aux étudiants un sujet ou un thème, généralement dans une salle de classe à l'école.",
+      "it": "Un periodo di tempo in cui un insegnante insegna agli studenti una materia o un argomento, di solito in un'aula a scuola.",
+      "ru": "Период времени, когда учитель обучает студентов одному предмету или теме, обычно в классе в школе.",
+      "es": "Un período de tiempo cuando un maestro enseña a los estudiantes sobre una materia o tema, generalmente en un aula en la escuela.",
+      "pl": "Okres czasu, w którym nauczyciel uczy uczniów jednego przedmiotu lub tematu, zwykle w klasie w szkole.",
+      "fa": "دوره‌ای از زمان که معلم درباره یک موضوع به دانش‌آموزان درس می‌دهد، معمولاً در کلاس درس در مدرسه."
+    },
+    "examples": {
+      "en": ["I have a lesson.", "The lesson is good.", "She learns from lessons."],
+      "de": ["Ich habe eine Lektion.", "Die Lektion ist gut.", "Sie lernt aus Lektionen."],
+      "ar": ["لدي درس.", "الدرس جيد.", "تتعلم من الدروس."],
+      "fr": ["J'ai une leçon.", "La leçon est bonne.", "Elle apprend des leçons."],
+      "it": ["Ho una lezione.", "La lezione è buona.", "Lei impara dalle lezioni."],
+      "ru": ["У меня урок.", "Урок хороший.", "Она учится на уроках."],
+      "es": ["Tengo una lección.", "La lección es buena.", "Ella aprende de las lecciones."],
+      "pl": ["Mam lekcję.", "Lekcja jest dobra.", "Ona uczy się z lekcji."],
+      "fa": ["من یک درس دارم.", "درس خوب است.", "او از درس‌ها یاد می‌گیرد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_686_en",
+    "word": "book",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "book",
+      "de": "Buch",
+      "ar": "كتاب",
+      "fr": "livre",
+      "it": "libro",
+      "ru": "книга",
+      "es": "libro",
+      "pl": "książka",
+      "fa": "کتاب"
+    },
+    "explanations": {
+      "en": "A set of printed pages fastened together inside a cover that has words and sometimes pictures for you to read and learn from.",
+      "de": "Eine Reihe von gedruckten Seiten, die in einem Umschlag zusammengefasst sind und Wörter und manchmal Bilder haben, aus denen du lesen und lernen kannst.",
+      "ar": "مجموعة من الصفحات المطبوعة المثبتة معاً داخل غلاف يحتوي على كلمات وأحياناً صور لتقرأها وتتعلم منها.",
+      "fr": "Un ensemble de pages imprimées attachées ensemble à l'intérieur d'une couverture qui a des mots et parfois des images pour que vous puissiez lire et apprendre.",
+      "it": "Un insieme di pagine stampate legate insieme all'interno di una copertina che ha parole e talvolta immagini da cui puoi leggere e imparare.",
+      "ru": "Набор печатных страниц, скрепленных вместе в обложке, на которых есть слова и иногда картинки, чтобы вы могли читать и учиться.",
+      "es": "Un conjunto de páginas impresas unidas dentro de una cubierta que tiene palabras y a veces imágenes para que leas y aprendas.",
+      "pl": "Zestaw drukowanych stron spiętych razem wewnątrz okładki, która ma słowa i czasami obrazy, z których możesz czytać i się uczyć.",
+      "fa": "مجموعه‌ای از صفحات چاپ شده که در داخل جلد به هم متصل شده و کلمات و گاهی تصاویری دارد که می‌توانید بخوانید و از آن یاد بگیرید."
+    },
+    "examples": {
+      "en": ["I read a book.", "This book is good.", "She has many books."],
+      "de": ["Ich lese ein Buch.", "Dieses Buch ist gut.", "Sie hat viele Bücher."],
+      "ar": ["أقرأ كتاباً.", "هذا الكتاب جيد.", "لديها كتب كثيرة."],
+      "fr": ["Je lis un livre.", "Ce livre est bon.", "Elle a beaucoup de livres."],
+      "it": ["Leggo un libro.", "Questo libro è buono.", "Lei ha molti libri."],
+      "ru": ["Я читаю книгу.", "Эта книга хорошая.", "У нее много книг."],
+      "es": ["Leo un libro.", "Este libro es bueno.", "Ella tiene muchos libros."],
+      "pl": ["Czytam książkę.", "Ta książka jest dobra.", "Ona ma wiele książek."],
+      "fa": ["من کتاب می‌خوانم.", "این کتاب خوب است.", "او کتاب‌های زیادی دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_687_en",
+    "word": "pen",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pen",
+      "de": "Stift",
+      "ar": "قلم",
+      "fr": "stylo",
+      "it": "penna",
+      "ru": "ручка",
+      "es": "bolígrafo",
+      "pl": "długopis",
+      "fa": "خودکار"
+    },
+    "explanations": {
+      "en": "A long thin tool that you hold in your hand to write or draw on paper using ink that comes out from the point.",
+      "de": "Ein langes dünnes Werkzeug, das du in deiner Hand hältst, um auf Papier zu schreiben oder zu zeichnen, wobei Tinte aus der Spitze kommt.",
+      "ar": "أداة طويلة رفيعة تمسكها بيدك للكتابة أو الرسم على الورق باستخدام الحبر الذي يخرج من النقطة.",
+      "fr": "Un outil long et fin que vous tenez dans votre main pour écrire ou dessiner sur du papier en utilisant l'encre qui sort de la pointe.",
+      "it": "Uno strumento lungo e sottile che tieni in mano per scrivere o disegnare su carta usando l'inchiostro che esce dalla punta.",
+      "ru": "Длинный тонкий инструмент, который вы держите в руке, чтобы писать или рисовать на бумаге, используя чернила, которые выходят из кончика.",
+      "es": "Una herramienta larga y delgada que sostienes en tu mano para escribir o dibujar en papel usando tinta que sale de la punta.",
+      "pl": "Długie cienkie narzędzie, które trzymasz w ręce, aby pisać lub rysować na papierze przy użyciu tuszu, który wychodzi z końcówki.",
+      "fa": "ابزار بلند و نازکی که در دست خود نگه می‌دارید تا با استفاده از جوهری که از نوک آن بیرون می‌آید بر روی کاغذ بنویسید یا نقاشی کنید."
+    },
+    "examples": {
+      "en": ["I write with a pen.", "This pen is blue.", "She has a pen."],
+      "de": ["Ich schreibe mit einem Stift.", "Dieser Stift ist blau.", "Sie hat einen Stift."],
+      "ar": ["أكتب بقلم.", "هذا القلم أزرق.", "لديها قلم."],
+      "fr": ["J'écris avec un stylo.", "Ce stylo est bleu.", "Elle a un stylo."],
+      "it": ["Scrivo con una penna.", "Questa penna è blu.", "Lei ha una penna."],
+      "ru": ["Я пишу ручкой.", "Эта ручка синяя.", "У нее есть ручка."],
+      "es": ["Escribo con un bolígrafo.", "Este bolígrafo es azul.", "Ella tiene un bolígrafo."],
+      "pl": ["Piszę długopisem.", "Ten długopis jest niebieski.", "Ona ma długopis."],
+      "fa": ["من با خودکار می‌نویسم.", "این خودکار آبی است.", "او خودکار دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_688_en",
+    "word": "pencil",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pencil",
+      "de": "Bleistift",
+      "ar": "قلم رصاص",
+      "fr": "crayon",
+      "it": "matita",
+      "ru": "карандаш",
+      "es": "lápiz",
+      "pl": "ołówek",
+      "fa": "مداد"
+    },
+    "explanations": {
+      "en": "A long thin tool made of wood with a dark center that you use to write or draw, which you can erase easily.",
+      "de": "Ein langes dünnes Werkzeug aus Holz mit einem dunklen Zentrum, das du zum Schreiben oder Zeichnen verwendest und das du leicht radieren kannst.",
+      "ar": "أداة طويلة رفيعة مصنوعة من الخشب بمركز داكن تستخدمها للكتابة أو الرسم، والتي يمكنك محوها بسهولة.",
+      "fr": "Un outil long et fin en bois avec un centre sombre que vous utilisez pour écrire ou dessiner, que vous pouvez effacer facilement.",
+      "it": "Uno strumento lungo e sottile fatto di legno con un centro scuro che usi per scrivere o disegnare, che puoi cancellare facilmente.",
+      "ru": "Длинный тонкий инструмент из дерева с темным центром, который вы используете для письма или рисования и который можно легко стереть.",
+      "es": "Una herramienta larga y delgada hecha de madera con un centro oscuro que usas para escribir o dibujar, que puedes borrar fácilmente.",
+      "pl": "Długie cienkie narzędzie wykonane z drewna z ciemnym środkiem, którego używasz do pisania lub rysowania, które możesz łatwo wymazać.",
+      "fa": "ابزار بلند و نازکی ساخته شده از چوب با مرکز تیره که برای نوشتن یا نقاشی استفاده می‌کنید و می‌توانید به راحتی آن را پاک کنید."
+    },
+    "examples": {
+      "en": ["I draw with a pencil.", "This pencil is sharp.", "She has many pencils."],
+      "de": ["Ich zeichne mit einem Bleistift.", "Dieser Bleistift ist scharf.", "Sie hat viele Bleistifte."],
+      "ar": ["أرسم بقلم رصاص.", "هذا القلم الرصاص حاد.", "لديها أقلام رصاص كثيرة."],
+      "fr": ["Je dessine avec un crayon.", "Ce crayon est pointu.", "Elle a beaucoup de crayons."],
+      "it": ["Disegno con una matita.", "Questa matita è affilata.", "Lei ha molte matite."],
+      "ru": ["Я рисую карандашом.", "Этот карандаш острый.", "У нее много карандашей."],
+      "es": ["Dibujo con un lápiz.", "Este lápiz es afilado.", "Ella tiene muchos lápices."],
+      "pl": ["Rysuję ołówkiem.", "Ten ołówek jest ostry.", "Ona ma wiele ołówków."],
+      "fa": ["من با مداد نقاشی می‌کنم.", "این مداد تیز است.", "او مدادهای زیادی دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_689_en",
+    "word": "paper",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "paper",
+      "de": "Papier",
+      "ar": "ورقة",
+      "fr": "papier",
+      "it": "carta",
+      "ru": "бумага",
+      "es": "papel",
+      "pl": "papier",
+      "fa": "کاغذ"
+    },
+    "explanations": {
+      "en": "A thin flat material made from wood that you can write, draw, or print on, usually white and used in books and notebooks.",
+      "de": "Ein dünnes flaches Material aus Holz, auf das du schreiben, zeichnen oder drucken kannst, normalerweise weiß und in Büchern und Notizbüchern verwendet.",
+      "ar": "مادة رقيقة مسطحة مصنوعة من الخشب يمكنك الكتابة أو الرسم أو الطباعة عليها، عادة بيضاء وتستخدم في الكتب والدفاتر.",
+      "fr": "Un matériau fin et plat fait de bois sur lequel vous pouvez écrire, dessiner ou imprimer, généralement blanc et utilisé dans les livres et les cahiers.",
+      "it": "Un materiale sottile e piatto fatto di legno su cui puoi scrivere, disegnare o stampare, di solito bianco e usato nei libri e nei quaderni.",
+      "ru": "Тонкий плоский материал из дерева, на котором можно писать, рисовать или печатать, обычно белый и используется в книгах и тетрадях.",
+      "es": "Un material delgado y plano hecho de madera en el que puedes escribir, dibujar o imprimir, generalmente blanco y usado en libros y cuadernos.",
+      "pl": "Cienki płaski materiał wykonany z drewna, na którym możesz pisać, rysować lub drukować, zwykle biały i używany w książkach i zeszytach.",
+      "fa": "ماده نازک و صافی ساخته شده از چوب که می‌توانید بر روی آن بنویسید، نقاشی کنید یا چاپ کنید، معمولاً سفید و در کتاب‌ها و دفترچه‌ها استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I write on paper.", "This paper is white.", "She needs more paper."],
+      "de": ["Ich schreibe auf Papier.", "Dieses Papier ist weiß.", "Sie braucht mehr Papier."],
+      "ar": ["أكتب على الورقة.", "هذه الورقة بيضاء.", "تحتاج المزيد من الورق."],
+      "fr": ["J'écris sur du papier.", "Ce papier est blanc.", "Elle a besoin de plus de papier."],
+      "it": ["Scrivo su carta.", "Questa carta è bianca.", "Lei ha bisogno di più carta."],
+      "ru": ["Я пишу на бумаге.", "Эта бумага белая.", "Ей нужно больше бумаги."],
+      "es": ["Escribo en papel.", "Este papel es blanco.", "Ella necesita más papel."],
+      "pl": ["Piszę na papierze.", "Ten papier jest biały.", "Ona potrzebuje więcej papieru."],
+      "fa": ["من بر روی کاغذ می‌نویسم.", "این کاغذ سفید است.", "او به کاغذ بیشتری نیاز دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_690_en",
+    "word": "homework",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "homework",
+      "de": "Hausaufgabe",
+      "ar": "واجب منزلي",
+      "fr": "devoir",
+      "it": "compito",
+      "ru": "домашняя работа",
+      "es": "tarea",
+      "pl": "praca domowa",
+      "fa": "تکلیف"
+    },
+    "explanations": {
+      "en": "Work that teachers give students to do at home after school to practice what they learned in class during the day.",
+      "de": "Arbeit, die Lehrer den Schülern geben, um sie nach der Schule zu Hause zu erledigen, um zu üben, was sie im Unterricht während des Tages gelernt haben.",
+      "ar": "العمل الذي يعطيه المعلمون للطلاب للقيام به في المنزل بعد المدرسة لممارسة ما تعلموه في الصف خلال اليوم.",
+      "fr": "Le travail que les enseignants donnent aux étudiants à faire à la maison après l'école pour pratiquer ce qu'ils ont appris en classe pendant la journée.",
+      "it": "Il lavoro che gli insegnanti danno agli studenti da fare a casa dopo la scuola per praticare ciò che hanno imparato in classe durante il giorno.",
+      "ru": "Работа, которую учителя дают студентам для выполнения дома после школы, чтобы практиковать то, что они узнали в классе в течение дня.",
+      "es": "El trabajo que los maestros dan a los estudiantes para hacer en casa después de la escuela para practicar lo que aprendieron en clase durante el día.",
+      "pl": "Praca, którą nauczyciele dają uczniom do wykonania w domu po szkole, aby ćwiczyć to, czego nauczyli się w klasie w ciągu dnia.",
+      "fa": "کاری که معلمان به دانش‌آموزان می‌دهند تا بعد از مدرسه در خانه انجام دهند تا آنچه را در کلاس در طول روز یاد گرفته‌اند تمرین کنند."
+    },
+    "examples": {
+      "en": ["I do my homework.", "The homework is hard.", "She finishes her homework."],
+      "de": ["Ich mache meine Hausaufgaben.", "Die Hausaufgabe ist schwer.", "Sie beendet ihre Hausaufgaben."],
+      "ar": ["أقوم بواجبي المنزلي.", "الواجب المنزلي صعب.", "تنهي واجبها المنزلي."],
+      "fr": ["Je fais mes devoirs.", "Le devoir est difficile.", "Elle finit ses devoirs."],
+      "it": ["Faccio i miei compiti.", "Il compito è difficile.", "Lei finisce i suoi compiti."],
+      "ru": ["Я делаю домашнюю работу.", "Домашняя работа трудная.", "Она заканчивает домашнюю работу."],
+      "es": ["Hago mi tarea.", "La tarea es difícil.", "Ella termina su tarea."],
+      "pl": ["Odrabiam pracę domową.", "Praca domowa jest trudna.", "Ona kończy swoją pracę domową."],
+      "fa": ["من تکلیفم را انجام می‌دهم.", "تکلیف سخت است.", "او تکلیفش را تمام می‌کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_691_en",
+    "word": "test",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "test",
+      "de": "Test",
+      "ar": "اختبار",
+      "fr": "test",
+      "it": "test",
+      "ru": "тест",
+      "es": "prueba",
+      "pl": "test",
+      "fa": "آزمون"
+    },
+    "explanations": {
+      "en": "A set of questions or tasks that teachers give students to check how much they know or can do about a subject.",
+      "de": "Eine Reihe von Fragen oder Aufgaben, die Lehrer den Schülern geben, um zu überprüfen, wie viel sie über ein Fach wissen oder tun können.",
+      "ar": "مجموعة من الأسئلة أو المهام التي يعطيها المعلمون للطلاب للتحقق من مقدار ما يعرفونه أو يمكنهم القيام به حول موضوع معين.",
+      "fr": "Un ensemble de questions ou de tâches que les enseignants donnent aux étudiants pour vérifier combien ils savent ou peuvent faire sur un sujet.",
+      "it": "Un insieme di domande o compiti che gli insegnanti danno agli studenti per verificare quanto sanno o possono fare su una materia.",
+      "ru": "Набор вопросов или заданий, которые учителя дают студентам, чтобы проверить, сколько они знают или могут сделать по предмету.",
+      "es": "Un conjunto de preguntas o tareas que los maestros dan a los estudiantes para verificar cuánto saben o pueden hacer sobre una materia.",
+      "pl": "Zestaw pytań lub zadań, które nauczyciele dają uczniom, aby sprawdzić, ile wiedzą lub mogą zrobić na temat przedmiotu.",
+      "fa": "مجموعه‌ای از سؤالات یا وظایفی که معلمان به دانش‌آموزان می‌دهند تا بررسی کنند چقدر درباره یک موضوع می‌دانند یا می‌توانند انجام دهند."
+    },
+    "examples": {
+      "en": ["I have a test today.", "The test is easy.", "She passes the test."],
+      "de": ["Ich habe heute einen Test.", "Der Test ist einfach.", "Sie besteht den Test."],
+      "ar": ["لدي اختبار اليوم.", "الاختبار سهل.", "تنجح في الاختبار."],
+      "fr": ["J'ai un test aujourd'hui.", "Le test est facile.", "Elle réussit le test."],
+      "it": ["Ho un test oggi.", "Il test è facile.", "Lei supera il test."],
+      "ru": ["У меня сегодня тест.", "Тест легкий.", "Она сдает тест."],
+      "es": ["Tengo una prueba hoy.", "La prueba es fácil.", "Ella pasa la prueba."],
+      "pl": ["Mam test dzisiaj.", "Test jest łatwy.", "Ona zdaje test."],
+      "fa": ["من امروز آزمون دارم.", "آزمون آسان است.", "او در آزمون قبول می‌شود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_692_en",
+    "word": "exam",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "exam",
+      "de": "Prüfung",
+      "ar": "امتحان",
+      "fr": "examen",
+      "it": "esame",
+      "ru": "экзамен",
+      "es": "examen",
+      "pl": "egzamin",
+      "fa": "امتحان"
+    },
+    "explanations": {
+      "en": "An important and formal test that students take to show what they learned, usually at the end of a course or school year.",
+      "de": "Ein wichtiger und formeller Test, den Schüler ablegen, um zu zeigen, was sie gelernt haben, normalerweise am Ende eines Kurses oder Schuljahres.",
+      "ar": "اختبار مهم ورسمي يأخذه الطلاب لإظهار ما تعلموه، عادة في نهاية دورة أو سنة دراسية.",
+      "fr": "Un test important et formel que les étudiants passent pour montrer ce qu'ils ont appris, généralement à la fin d'un cours ou d'une année scolaire.",
+      "it": "Un test importante e formale che gli studenti sostengono per mostrare ciò che hanno imparato, di solito alla fine di un corso o anno scolastico.",
+      "ru": "Важный и формальный тест, который студенты сдают, чтобы показать, что они выучили, обычно в конце курса или учебного года.",
+      "es": "Una prueba importante y formal que los estudiantes toman para mostrar lo que aprendieron, generalmente al final de un curso o año escolar.",
+      "pl": "Ważny i formalny test, który uczniowie przystępują, aby pokazać, czego się nauczyli, zwykle na końcu kursu lub roku szkolnego.",
+      "fa": "یک آزمون مهم و رسمی که دانش‌آموزان برای نشان دادن آنچه یاد گرفته‌اند می‌گذرانند، معمولاً در پایان یک دوره یا سال تحصیلی."
+    },
+    "examples": {
+      "en": ["I study for my exam.", "The exam is hard.", "She takes the exam."],
+      "de": ["Ich lerne für meine Prüfung.", "Die Prüfung ist schwer.", "Sie nimmt die Prüfung."],
+      "ar": ["أدرس لامتحاني.", "الامتحان صعب.", "تأخذ الامتحان."],
+      "fr": ["J'étudie pour mon examen.", "L'examen est difficile.", "Elle passe l'examen."],
+      "it": ["Studio per il mio esame.", "L'esame è difficile.", "Lei sostiene l'esame."],
+      "ru": ["Я учу к экзамену.", "Экзамен трудный.", "Она сдает экзамен."],
+      "es": ["Estudio para mi examen.", "El examen es difícil.", "Ella toma el examen."],
+      "pl": ["Uczę się do mojego egzaminu.", "Egzamin jest trudny.", "Ona przystępuje do egzaminu."],
+      "fa": ["من برای امتحانم درس می‌خوانم.", "امتحان سخت است.", "او امتحان می‌دهد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_693_en",
+    "word": "learn",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "learn",
+      "de": "lernen",
+      "ar": "يتعلم",
+      "fr": "apprendre",
+      "it": "imparare",
+      "ru": "учить",
+      "es": "aprender",
+      "pl": "uczyć się",
+      "fa": "یاد گرفتن"
+    },
+    "explanations": {
+      "en": "To get new knowledge or skills by studying, practicing, or being taught by someone like a teacher or from books.",
+      "de": "Neues Wissen oder Fähigkeiten erhalten, indem man studiert, übt oder von jemandem wie einem Lehrer oder aus Büchern unterrichtet wird.",
+      "ar": "الحصول على معرفة أو مهارات جديدة من خلال الدراسة أو الممارسة أو التدريس من قبل شخص مثل معلم أو من الكتب.",
+      "fr": "Acquérir de nouvelles connaissances ou compétences en étudiant, en pratiquant ou en étant enseigné par quelqu'un comme un enseignant ou à partir de livres.",
+      "it": "Ottenere nuove conoscenze o abilità studiando, praticando o essendo insegnato da qualcuno come un insegnante o dai libri.",
+      "ru": "Получать новые знания или навыки, обучаясь, практикуясь или получая обучение от кого-то, например, учителя или из книг.",
+      "es": "Obtener nuevos conocimientos o habilidades estudiando, practicando o siendo enseñado por alguien como un maestro o de libros.",
+      "pl": "Zdobywać nową wiedzę lub umiejętności poprzez naukę, ćwiczenie lub nauczanie przez kogoś, takiego jak nauczyciel lub z książek.",
+      "fa": "به دست آوردن دانش یا مهارت‌های جدید از طریق مطالعه، تمرین یا آموزش توسط کسی مانند معلم یا از کتاب‌ها."
+    },
+    "examples": {
+      "en": ["I learn English.", "She learns new things.", "We learn at school."],
+      "de": ["Ich lerne Englisch.", "Sie lernt neue Dinge.", "Wir lernen in der Schule."],
+      "ar": ["أتعلم الإنجليزية.", "تتعلم أشياء جديدة.", "نتعلم في المدرسة."],
+      "fr": ["J'apprends l'anglais.", "Elle apprend de nouvelles choses.", "Nous apprenons à l'école."],
+      "it": ["Imparo l'inglese.", "Lei impara cose nuove.", "Impariamo a scuola."],
+      "ru": ["Я учу английский.", "Она учит новые вещи.", "Мы учимся в школе."],
+      "es": ["Aprendo inglés.", "Ella aprende cosas nuevas.", "Aprendemos en la escuela."],
+      "pl": ["Uczę się angielskiego.", "Ona uczy się nowych rzeczy.", "Uczymy się w szkole."],
+      "fa": ["من انگلیسی یاد می‌گیرم.", "او چیزهای جدید یاد می‌گیرد.", "ما در مدرسه یاد می‌گیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_694_en",
+    "word": "teach",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "teach",
+      "de": "lehren",
+      "ar": "يعلّم",
+      "fr": "enseigner",
+      "it": "insegnare",
+      "ru": "обучать",
+      "es": "enseñar",
+      "pl": "nauczać",
+      "fa": "آموزش دادن"
+    },
+    "explanations": {
+      "en": "To give someone knowledge or show them how to do something by explaining, demonstrating, or helping them practice it step by step.",
+      "de": "Jemandem Wissen geben oder ihm zeigen, wie man etwas macht, indem man es erklärt, demonstriert oder ihm hilft, es Schritt für Schritt zu üben.",
+      "ar": "إعطاء شخص ما المعرفة أو إظهار كيفية القيام بشيء ما من خلال الشرح أو التوضيح أو مساعدته على ممارسته خطوة بخطوة.",
+      "fr": "Donner à quelqu'un des connaissances ou lui montrer comment faire quelque chose en expliquant, en démontrant ou en l'aidant à le pratiquer étape par étape.",
+      "it": "Dare a qualcuno conoscenze o mostrargli come fare qualcosa spiegando, dimostrando o aiutandolo a praticarlo passo dopo passo.",
+      "ru": "Давать кому-то знания или показывать, как что-то делать, объясняя, демонстрируя или помогая практиковаться шаг за шагом.",
+      "es": "Dar a alguien conocimiento o mostrarle cómo hacer algo explicando, demostrando o ayudándole a practicarlo paso a paso.",
+      "pl": "Dawać komuś wiedzę lub pokazywać, jak coś zrobić, wyjaśniając, demonstrując lub pomagając mu ćwiczyć to krok po kroku.",
+      "fa": "دادن دانش به کسی یا نشان دادن چگونگی انجام کاری با توضیح، نمایش یا کمک به تمرین آن گام به گام."
+    },
+    "examples": {
+      "en": ["I teach students.", "She teaches English.", "He teaches me math."],
+      "de": ["Ich lehre Schüler.", "Sie lehrt Englisch.", "Er lehrt mir Mathematik."],
+      "ar": ["أعلّم الطلاب.", "تعلّم الإنجليزية.", "يعلّمني الرياضيات."],
+      "fr": ["J'enseigne aux étudiants.", "Elle enseigne l'anglais.", "Il m'enseigne les mathématiques."],
+      "it": ["Insegno agli studenti.", "Lei insegna inglese.", "Lui mi insegna matematica."],
+      "ru": ["Я обучаю студентов.", "Она преподает английский.", "Он учит меня математике."],
+      "es": ["Enseño a los estudiantes.", "Ella enseña inglés.", "Él me enseña matemáticas."],
+      "pl": ["Nauczam uczniów.", "Ona naucza angielskiego.", "On naucza mnie matematyki."],
+      "fa": ["من به دانش‌آموزان آموزش می‌دهم.", "او انگلیسی آموزش می‌دهد.", "او به من ریاضی آموزش می‌دهد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_695_en",
+    "word": "question",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "question",
+      "de": "Frage",
+      "ar": "سؤال",
+      "fr": "question",
+      "it": "domanda",
+      "ru": "вопрос",
+      "es": "pregunta",
+      "pl": "pytanie",
+      "fa": "سؤال"
+    },
+    "explanations": {
+      "en": "Something you ask when you want to know information or get an answer about something you don't understand or want to learn.",
+      "de": "Etwas, das du fragst, wenn du Informationen wissen oder eine Antwort auf etwas bekommen möchtest, das du nicht verstehst oder lernen möchtest.",
+      "ar": "شيء تسأله عندما تريد معرفة معلومات أو الحصول على إجابة حول شيء لا تفهمه أو تريد أن تتعلمه.",
+      "fr": "Quelque chose que vous demandez lorsque vous voulez savoir des informations ou obtenir une réponse sur quelque chose que vous ne comprenez pas ou que vous voulez apprendre.",
+      "it": "Qualcosa che chiedi quando vuoi sapere informazioni o ottenere una risposta su qualcosa che non capisci o vuoi imparare.",
+      "ru": "Что-то, что вы спрашиваете, когда хотите узнать информацию или получить ответ о чем-то, чего вы не понимаете или хотите узнать.",
+      "es": "Algo que preguntas cuando quieres saber información u obtener una respuesta sobre algo que no entiendes o quieres aprender.",
+      "pl": "Coś, o co pytasz, gdy chcesz poznać informacje lub uzyskać odpowiedź na coś, czego nie rozumiesz lub chcesz się nauczyć.",
+      "fa": "چیزی که وقتی می‌خواهید اطلاعاتی بدانید یا پاسخی درباره چیزی که نمی‌فهمید یا می‌خواهید یاد بگیرید، می‌پرسید."
+    },
+    "examples": {
+      "en": ["I have a question.", "She asks a question.", "This question is hard."],
+      "de": ["Ich habe eine Frage.", "Sie stellt eine Frage.", "Diese Frage ist schwer."],
+      "ar": ["لدي سؤال.", "تطرح سؤالاً.", "هذا السؤال صعب."],
+      "fr": ["J'ai une question.", "Elle pose une question.", "Cette question est difficile."],
+      "it": ["Ho una domanda.", "Lei fa una domanda.", "Questa domanda è difficile."],
+      "ru": ["У меня есть вопрос.", "Она задает вопрос.", "Этот вопрос трудный."],
+      "es": ["Tengo una pregunta.", "Ella hace una pregunta.", "Esta pregunta es difícil."],
+      "pl": ["Mam pytanie.", "Ona zadaje pytanie.", "To pytanie jest trudne."],
+      "fa": ["من یک سؤال دارم.", "او سؤال می‌پرسد.", "این سؤال سخت است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_696_en",
+    "word": "answer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "answer",
+      "de": "Antwort",
+      "ar": "إجابة",
+      "fr": "réponse",
+      "it": "risposta",
+      "ru": "ответ",
+      "es": "respuesta",
+      "pl": "odpowiedź",
+      "fa": "پاسخ"
+    },
+    "explanations": {
+      "en": "What you say or write when someone asks you a question or when you solve a problem or complete a task.",
+      "de": "Was du sagst oder schreibst, wenn jemand dir eine Frage stellt oder wenn du ein Problem löst oder eine Aufgabe erledigst.",
+      "ar": "ما تقوله أو تكتبه عندما يطرح عليك شخص ما سؤالاً أو عندما تحل مشكلة أو تكمل مهمة.",
+      "fr": "Ce que vous dites ou écrivez lorsque quelqu'un vous pose une question ou lorsque vous résolvez un problème ou complétez une tâche.",
+      "it": "Ciò che dici o scrivi quando qualcuno ti fa una domanda o quando risolvi un problema o completi un compito.",
+      "ru": "То, что вы говорите или пишете, когда кто-то задает вам вопрос или когда вы решаете проблему или выполняете задачу.",
+      "es": "Lo que dices o escribes cuando alguien te hace una pregunta o cuando resuelves un problema o completas una tarea.",
+      "pl": "To, co mówisz lub piszesz, gdy ktoś zadaje ci pytanie lub gdy rozwiązujesz problem lub wykonujesz zadanie.",
+      "fa": "آنچه که وقتی کسی از شما سؤالی می‌پرسد یا وقتی مشکلی را حل می‌کنید یا کاری را کامل می‌کنید، می‌گویید یا می‌نویسید."
+    },
+    "examples": {
+      "en": ["I know the answer.", "She gives the answer.", "The answer is correct."],
+      "de": ["Ich kenne die Antwort.", "Sie gibt die Antwort.", "Die Antwort ist richtig."],
+      "ar": ["أعرف الإجابة.", "تعطي الإجابة.", "الإجابة صحيحة."],
+      "fr": ["Je connais la réponse.", "Elle donne la réponse.", "La réponse est correcte."],
+      "it": ["Conosco la risposta.", "Lei dà la risposta.", "La risposta è corretta."],
+      "ru": ["Я знаю ответ.", "Она дает ответ.", "Ответ правильный."],
+      "es": ["Sé la respuesta.", "Ella da la respuesta.", "La respuesta es correcta."],
+      "pl": ["Znam odpowiedź.", "Ona daje odpowiedź.", "Odpowiedź jest poprawna."],
+      "fa": ["من پاسخ را می‌دانم.", "او پاسخ می‌دهد.", "پاسخ درست است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_697_en",
+    "word": "subject",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "subject",
+      "de": "Fach",
+      "ar": "موضوع",
+      "fr": "matière",
+      "it": "materia",
+      "ru": "предмет",
+      "es": "materia",
+      "pl": "przedmiot",
+      "fa": "درس"
+    },
+    "explanations": {
+      "en": "An area of knowledge that students study in school, such as math, science, history, or languages like English.",
+      "de": "Ein Wissensgebiet, das Schüler in der Schule studieren, wie Mathematik, Wissenschaft, Geschichte oder Sprachen wie Englisch.",
+      "ar": "مجال من المعرفة يدرسه الطلاب في المدرسة، مثل الرياضيات أو العلوم أو التاريخ أو اللغات مثل الإنجليزية.",
+      "fr": "Un domaine de connaissances que les étudiants étudient à l'école, comme les mathématiques, les sciences, l'histoire ou les langues comme l'anglais.",
+      "it": "Un'area di conoscenza che gli studenti studiano a scuola, come matematica, scienze, storia o lingue come l'inglese.",
+      "ru": "Область знаний, которую студенты изучают в школе, такая как математика, наука, история или языки, такие как английский.",
+      "es": "Un área de conocimiento que los estudiantes estudian en la escuela, como matemáticas, ciencias, historia o idiomas como inglés.",
+      "pl": "Obszar wiedzy, który uczniowie studiują w szkole, taki jak matematyka, nauka, historia lub języki, takie jak angielski.",
+      "fa": "حوزه‌ای از دانش که دانش‌آموزان در مدرسه مطالعه می‌کنند، مانند ریاضیات، علوم، تاریخ یا زبان‌هایی مانند انگلیسی."
+    },
+    "examples": {
+      "en": ["Math is my favorite subject.", "I study this subject.", "She likes many subjects."],
+      "de": ["Mathematik ist mein Lieblingsfach.", "Ich studiere dieses Fach.", "Sie mag viele Fächer."],
+      "ar": ["الرياضيات هي موضوعي المفضل.", "أدرس هذا الموضوع.", "تحب مواضيع كثيرة."],
+      "fr": ["Les mathématiques sont ma matière préférée.", "J'étudie cette matière.", "Elle aime beaucoup de matières."],
+      "it": ["La matematica è la mia materia preferita.", "Studio questa materia.", "Lei ama molte materie."],
+      "ru": ["Математика - мой любимый предмет.", "Я изучаю этот предмет.", "Ей нравятся многие предметы."],
+      "es": ["Las matemáticas son mi materia favorita.", "Estudio esta materia.", "A ella le gustan muchas materias."],
+      "pl": ["Matematyka jest moim ulubionym przedmiotem.", "Studiuję ten przedmiot.", "Ona lubi wiele przedmiotów."],
+      "fa": ["ریاضیات درس مورد علاقه من است.", "من این درس را مطالعه می‌کنم.", "او دروس زیادی را دوست دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_698_en",
+    "word": "math",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "math",
+      "de": "Mathematik",
+      "ar": "رياضيات",
+      "fr": "mathématiques",
+      "it": "matematica",
+      "ru": "математика",
+      "es": "matemáticas",
+      "pl": "matematyka",
+      "fa": "ریاضیات"
+    },
+    "explanations": {
+      "en": "The subject where you study numbers, counting, calculating, and solving problems using addition, subtraction, multiplication, and division.",
+      "de": "Das Fach, in dem du Zahlen, Zählen, Rechnen und Problemlösen mit Addition, Subtraktion, Multiplikation und Division studierst.",
+      "ar": "الموضوع الذي تدرس فيه الأرقام والعد والحساب وحل المشاكل باستخدام الجمع والطرح والضرب والقسمة.",
+      "fr": "La matière où vous étudiez les nombres, le comptage, le calcul et la résolution de problèmes en utilisant l'addition, la soustraction, la multiplication et la division.",
+      "it": "La materia in cui studi i numeri, il conteggio, il calcolo e la risoluzione dei problemi usando addizione, sottrazione, moltiplicazione e divisione.",
+      "ru": "Предмет, где вы изучаете числа, счет, вычисления и решение задач с использованием сложения, вычитания, умножения и деления.",
+      "es": "La materia donde estudias números, conteo, cálculo y resolución de problemas usando suma, resta, multiplicación y división.",
+      "pl": "Przedmiot, w którym studiujesz liczby, liczenie, obliczenia i rozwiązywanie problemów za pomocą dodawania, odejmowania, mnożenia i dzielenia.",
+      "fa": "درسی که در آن اعداد، شمارش، محاسبه و حل مسائل با استفاده از جمع، تفریق، ضرب و تقسیم را مطالعه می‌کنید."
+    },
+    "examples": {
+      "en": ["I like math class.", "Math is easy for me.", "We learn math today."],
+      "de": ["Ich mag Mathematikunterricht.", "Mathematik ist einfach für mich.", "Wir lernen heute Mathematik."],
+      "ar": ["أحب درس الرياضيات.", "الرياضيات سهلة بالنسبة لي.", "نتعلم الرياضيات اليوم."],
+      "fr": ["J'aime les cours de mathématiques.", "Les mathématiques sont faciles pour moi.", "Nous apprenons les mathématiques aujourd'hui."],
+      "it": ["Mi piace la lezione di matematica.", "La matematica è facile per me.", "Oggi impariamo matematica."],
+      "ru": ["Мне нравится урок математики.", "Математика легкая для меня.", "Мы учим математику сегодня."],
+      "es": ["Me gusta la clase de matemáticas.", "Las matemáticas son fáciles para mí.", "Aprendemos matemáticas hoy."],
+      "pl": ["Lubię lekcję matematyki.", "Matematyka jest łatwa dla mnie.", "Uczymy się matematyki dzisiaj."],
+      "fa": ["من کلاس ریاضیات را دوست دارم.", "ریاضیات برای من آسان است.", "ما امروز ریاضیات یاد می‌گیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_699_en",
+    "word": "science",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "science",
+      "de": "Wissenschaft",
+      "ar": "علوم",
+      "fr": "science",
+      "it": "scienza",
+      "ru": "наука",
+      "es": "ciencia",
+      "pl": "nauka",
+      "fa": "علوم"
+    },
+    "explanations": {
+      "en": "The subject where you study the natural world, how things work, and learn about plants, animals, the body, and experiments.",
+      "de": "Das Fach, in dem du die natürliche Welt studierst, wie Dinge funktionieren, und über Pflanzen, Tiere, den Körper und Experimente lernst.",
+      "ar": "الموضوع الذي تدرس فيه العالم الطبيعي وكيف تعمل الأشياء وتتعلم عن النباتات والحيوانات والجسم والتجارب.",
+      "fr": "La matière où vous étudiez le monde naturel, comment les choses fonctionnent et apprenez sur les plantes, les animaux, le corps et les expériences.",
+      "it": "La materia in cui studi il mondo naturale, come funzionano le cose e impari su piante, animali, il corpo e gli esperimenti.",
+      "ru": "Предмет, где вы изучаете естественный мир, как работают вещи, и узнаете о растениях, животных, теле и экспериментах.",
+      "es": "La materia donde estudias el mundo natural, cómo funcionan las cosas y aprendes sobre plantas, animales, el cuerpo y experimentos.",
+      "pl": "Przedmiot, w którym studiujesz świat naturalny, jak działają rzeczy i uczysz się o roślinach, zwierzętach, ciele i eksperymentach.",
+      "fa": "درسی که در آن دنیای طبیعی، نحوه کار چیزها را مطالعه می‌کنید و درباره گیاهان، حیوانات، بدن و آزمایش‌ها یاد می‌گیرید."
+    },
+    "examples": {
+      "en": ["I love science class.", "Science is fun.", "We do science experiments."],
+      "de": ["Ich liebe Wissenschaftsunterricht.", "Wissenschaft macht Spaß.", "Wir machen wissenschaftliche Experimente."],
+      "ar": ["أحب درس العلوم.", "العلوم ممتعة.", "نقوم بتجارب علمية."],
+      "fr": ["J'adore les cours de science.", "La science est amusante.", "Nous faisons des expériences scientifiques."],
+      "it": ["Amo la lezione di scienza.", "La scienza è divertente.", "Facciamo esperimenti scientifici."],
+      "ru": ["Я люблю урок науки.", "Наука - это весело.", "Мы делаем научные эксперименты."],
+      "es": ["Amo la clase de ciencia.", "La ciencia es divertida.", "Hacemos experimentos científicos."],
+      "pl": ["Kocham lekcję nauki.", "Nauka jest zabawna.", "Robimy eksperymenty naukowe."],
+      "fa": ["من کلاس علوم را دوست دارم.", "علوم سرگرم کننده است.", "ما آزمایش‌های علمی انجام می‌دهیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_700_en",
+    "word": "history",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "history",
+      "de": "Geschichte",
+      "ar": "تاريخ",
+      "fr": "histoire",
+      "it": "storia",
+      "ru": "история",
+      "es": "historia",
+      "pl": "historia",
+      "fa": "تاریخ"
+    },
+    "explanations": {
+      "en": "The subject where you study events and people from the past to learn about what happened before our time and how people lived.",
+      "de": "Das Fach, in dem du Ereignisse und Menschen aus der Vergangenheit studierst, um zu lernen, was vor unserer Zeit geschah und wie Menschen lebten.",
+      "ar": "الموضوع الذي تدرس فيه الأحداث والأشخاص من الماضي لتتعلم عما حدث قبل زماننا وكيف عاش الناس.",
+      "fr": "La matière où vous étudiez les événements et les personnes du passé pour apprendre ce qui s'est passé avant notre époque et comment les gens vivaient.",
+      "it": "La materia in cui studi eventi e persone del passato per imparare cosa è successo prima del nostro tempo e come vivevano le persone.",
+      "ru": "Предмет, где вы изучаете события и людей из прошлого, чтобы узнать, что произошло до нашего времени и как жили люди.",
+      "es": "La materia donde estudias eventos y personas del pasado para aprender sobre lo que sucedió antes de nuestro tiempo y cómo vivían las personas.",
+      "pl": "Przedmiot, w którym studiujesz wydarzenia i ludzi z przeszłości, aby dowiedzieć się, co wydarzyło się przed naszym czasem i jak żyli ludzie.",
+      "fa": "درسی که در آن رویدادها و افراد گذشته را مطالعه می‌کنید تا درباره آنچه قبل از زمان ما اتفاق افتاده و چگونه مردم زندگی می‌کردند، بیاموزید."
+    },
+    "examples": {
+      "en": ["I study history.", "History is interesting.", "We learn about history."],
+      "de": ["Ich studiere Geschichte.", "Geschichte ist interessant.", "Wir lernen über Geschichte."],
+      "ar": ["أدرس التاريخ.", "التاريخ مثير للاهتمام.", "نتعلم عن التاريخ."],
+      "fr": ["J'étudie l'histoire.", "L'histoire est intéressante.", "Nous apprenons l'histoire."],
+      "it": ["Studio storia.", "La storia è interessante.", "Impariamo la storia."],
+      "ru": ["Я изучаю историю.", "История интересная.", "Мы учим историю."],
+      "es": ["Estudio historia.", "La historia es interesante.", "Aprendemos historia."],
+      "pl": ["Studiuję historię.", "Historia jest interesująca.", "Uczymy się historii."],
+      "fa": ["من تاریخ مطالعه می‌کنم.", "تاریخ جالب است.", "ما درباره تاریخ یاد می‌گیریم."]
+    },
+    "conjugations": null
+  }
+]

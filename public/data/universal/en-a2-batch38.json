@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_741_en",
+    "word": "number",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "number",
+      "de": "Nummer",
+      "ar": "رقم",
+      "fr": "numéro",
+      "it": "numero",
+      "ru": "номер",
+      "es": "número",
+      "pl": "numer",
+      "fa": "شماره"
+    },
+    "explanations": {
+      "en": "A word or symbol used to count or identify something in a sequence.",
+      "de": "Ein Wort oder Symbol zum Zählen oder Identifizieren von etwas in einer Reihenfolge.",
+      "ar": "كلمة أو رمز يستخدم للعد أو تحديد شيء في تسلسل.",
+      "fr": "Un mot ou symbole utilisé pour compter ou identifier quelque chose dans une séquence.",
+      "it": "Una parola o simbolo usato per contare o identificare qualcosa in una sequenza.",
+      "ru": "Слово или символ, используемый для подсчёта или идентификации чего-либо в последовательности.",
+      "es": "Una palabra o símbolo usado para contar o identificar algo en una secuencia.",
+      "pl": "Słowo lub symbol używany do liczenia lub identyfikowania czegoś w sekwencji.",
+      "fa": "کلمه یا نمادی که برای شمردن یا شناسایی چیزی در توالی استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["What is your number?", "I have a new number.", "The number is ten."],
+      "de": ["Was ist deine Nummer?", "Ich habe eine neue Nummer.", "Die Nummer ist zehn."],
+      "ar": ["ما هو رقمك؟", "لدي رقم جديد.", "الرقم هو عشرة."],
+      "fr": ["Quel est ton numéro?", "J'ai un nouveau numéro.", "Le numéro est dix."],
+      "it": ["Qual è il tuo numero?", "Ho un nuovo numero.", "Il numero è dieci."],
+      "ru": ["Какой у тебя номер?", "У меня новый номер.", "Номер - десять."],
+      "es": ["¿Cuál es tu número?", "Tengo un nuevo número.", "El número es diez."],
+      "pl": ["Jaki jest twój numer?", "Mam nowy numer.", "Numer to dziesięć."],
+      "fa": ["شماره تو چیست؟", "من شماره جدیدی دارم.", "شماره ده است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_742_en",
+    "word": "one",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "one",
+      "de": "eins",
+      "ar": "واحد",
+      "fr": "un",
+      "it": "uno",
+      "ru": "один",
+      "es": "uno",
+      "pl": "jeden",
+      "fa": "یک"
+    },
+    "explanations": {
+      "en": "The smallest counting number, representing a single item or unit.",
+      "de": "Die kleinste Zählzahl, die einen einzelnen Gegenstand oder eine Einheit darstellt.",
+      "ar": "أصغر رقم عد، يمثل عنصراً واحداً أو وحدة.",
+      "fr": "Le plus petit nombre de comptage, représentant un seul élément ou unité.",
+      "it": "Il numero di conteggio più piccolo, che rappresenta un singolo elemento o unità.",
+      "ru": "Наименьшее счётное число, представляющее единичный предмет или единицу.",
+      "es": "El número de conteo más pequeño, representando un solo elemento o unidad.",
+      "pl": "Najmniejsza liczba licząca, reprezentująca pojedynczy przedmiot lub jednostkę.",
+      "fa": "کوچکترین عدد شمارش، نمایانگر یک آیتم یا واحد منفرد."
+    },
+    "examples": {
+      "en": ["I have one cat.", "Give me one book.", "One is my number."],
+      "de": ["Ich habe eine Katze.", "Gib mir ein Buch.", "Eins ist meine Nummer."],
+      "ar": ["لدي قطة واحدة.", "أعطني كتاباً واحداً.", "واحد هو رقمي."],
+      "fr": ["J'ai un chat.", "Donne-moi un livre.", "Un est mon numéro."],
+      "it": ["Ho un gatto.", "Dammi un libro.", "Uno è il mio numero."],
+      "ru": ["У меня одна кошка.", "Дай мне одну книгу.", "Один - мой номер."],
+      "es": ["Tengo un gato.", "Dame un libro.", "Uno es mi número."],
+      "pl": ["Mam jednego kota.", "Daj mi jedną książkę.", "Jeden to mój numer."],
+      "fa": ["من یک گربه دارم.", "یک کتاب به من بده.", "یک شماره من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_743_en",
+    "word": "two",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "two",
+      "de": "zwei",
+      "ar": "اثنان",
+      "fr": "deux",
+      "it": "due",
+      "ru": "два",
+      "es": "dos",
+      "pl": "dwa",
+      "fa": "دو"
+    },
+    "explanations": {
+      "en": "The number that comes after one and before three, representing a pair.",
+      "de": "Die Zahl, die nach eins und vor drei kommt und ein Paar darstellt.",
+      "ar": "الرقم الذي يأتي بعد واحد وقبل ثلاثة، يمثل زوجاً.",
+      "fr": "Le nombre qui vient après un et avant trois, représentant une paire.",
+      "it": "Il numero che viene dopo uno e prima di tre, rappresentando una coppia.",
+      "ru": "Число, идущее после одного и перед тремя, представляющее пару.",
+      "es": "El número que viene después de uno y antes de tres, representando un par.",
+      "pl": "Liczba następująca po jeden i przed trzy, reprezentująca parę.",
+      "fa": "عددی که بعد از یک و قبل از سه می‌آید، نمایانگر یک جفت."
+    },
+    "examples": {
+      "en": ["I have two dogs.", "Two is my number.", "Give me two books."],
+      "de": ["Ich habe zwei Hunde.", "Zwei ist meine Nummer.", "Gib mir zwei Bücher."],
+      "ar": ["لدي كلبان.", "اثنان هو رقمي.", "أعطني كتابين."],
+      "fr": ["J'ai deux chiens.", "Deux est mon numéro.", "Donne-moi deux livres."],
+      "it": ["Ho due cani.", "Due è il mio numero.", "Dammi due libri."],
+      "ru": ["У меня две собаки.", "Два - мой номер.", "Дай мне две книги."],
+      "es": ["Tengo dos perros.", "Dos es mi número.", "Dame dos libros."],
+      "pl": ["Mam dwa psy.", "Dwa to mój numer.", "Daj mi dwie książki."],
+      "fa": ["من دو سگ دارم.", "دو شماره من است.", "دو کتاب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_744_en",
+    "word": "three",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "three",
+      "de": "drei",
+      "ar": "ثلاثة",
+      "fr": "trois",
+      "it": "tre",
+      "ru": "три",
+      "es": "tres",
+      "pl": "trzy",
+      "fa": "سه"
+    },
+    "explanations": {
+      "en": "The number that comes after two and before four, one more than two.",
+      "de": "Die Zahl, die nach zwei und vor vier kommt, eins mehr als zwei.",
+      "ar": "الرقم الذي يأتي بعد اثنين وقبل أربعة، واحد أكثر من اثنين.",
+      "fr": "Le nombre qui vient après deux et avant quatre, un de plus que deux.",
+      "it": "Il numero che viene dopo due e prima di quattro, uno in più di due.",
+      "ru": "Число, идущее после двух и перед четырьмя, на один больше двух.",
+      "es": "El número que viene después de dos y antes de cuatro, uno más que dos.",
+      "pl": "Liczba następująca po dwa i przed cztery, o jeden więcej niż dwa.",
+      "fa": "عددی که بعد از دو و قبل از چهار می‌آید، یکی بیشتر از دو."
+    },
+    "examples": {
+      "en": ["I see three cats.", "Three is my number.", "Give me three apples."],
+      "de": ["Ich sehe drei Katzen.", "Drei ist meine Nummer.", "Gib mir drei Äpfel."],
+      "ar": ["أرى ثلاث قطط.", "ثلاثة هو رقمي.", "أعطني ثلاث تفاحات."],
+      "fr": ["Je vois trois chats.", "Trois est mon numéro.", "Donne-moi trois pommes."],
+      "it": ["Vedo tre gatti.", "Tre è il mio numero.", "Dammi tre mele."],
+      "ru": ["Я вижу трёх кошек.", "Три - мой номер.", "Дай мне три яблока."],
+      "es": ["Veo tres gatos.", "Tres es mi número.", "Dame tres manzanas."],
+      "pl": ["Widzę trzy koty.", "Trzy to mój numer.", "Daj mi trzy jabłka."],
+      "fa": ["من سه گربه می‌بینم.", "سه شماره من است.", "سه سیب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_745_en",
+    "word": "four",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "four",
+      "de": "vier",
+      "ar": "أربعة",
+      "fr": "quatre",
+      "it": "quattro",
+      "ru": "четыре",
+      "es": "cuatro",
+      "pl": "cztery",
+      "fa": "چهار"
+    },
+    "explanations": {
+      "en": "The number that comes after three and before five, one more than three.",
+      "de": "Die Zahl, die nach drei und vor fünf kommt, eins mehr als drei.",
+      "ar": "الرقم الذي يأتي بعد ثلاثة وقبل خمسة، واحد أكثر من ثلاثة.",
+      "fr": "Le nombre qui vient après trois et avant cinq, un de plus que trois.",
+      "it": "Il numero che viene dopo tre e prima di cinque, uno in più di tre.",
+      "ru": "Число, идущее после трёх и перед пятью, на один больше трёх.",
+      "es": "El número que viene después de tres y antes de cinco, uno más que tres.",
+      "pl": "Liczba następująca po trzy i przed pięć, o jeden więcej niż trzy.",
+      "fa": "عددی که بعد از سه و قبل از پنج می‌آید، یکی بیشتر از سه."
+    },
+    "examples": {
+      "en": ["I have four chairs.", "Four is my number.", "Give me four books."],
+      "de": ["Ich habe vier Stühle.", "Vier ist meine Nummer.", "Gib mir vier Bücher."],
+      "ar": ["لدي أربعة كراسي.", "أربعة هو رقمي.", "أعطني أربعة كتب."],
+      "fr": ["J'ai quatre chaises.", "Quatre est mon numéro.", "Donne-moi quatre livres."],
+      "it": ["Ho quattro sedie.", "Quattro è il mio numero.", "Dammi quattro libri."],
+      "ru": ["У меня четыре стула.", "Четыре - мой номер.", "Дай мне четыре книги."],
+      "es": ["Tengo cuatro sillas.", "Cuatro es mi número.", "Dame cuatro libros."],
+      "pl": ["Mam cztery krzesła.", "Cztery to mój numer.", "Daj mi cztery książki."],
+      "fa": ["من چهار صندلی دارم.", "چهار شماره من است.", "چهار کتاب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_746_en",
+    "word": "five",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "five",
+      "de": "fünf",
+      "ar": "خمسة",
+      "fr": "cinq",
+      "it": "cinque",
+      "ru": "пять",
+      "es": "cinco",
+      "pl": "pięć",
+      "fa": "پنج"
+    },
+    "explanations": {
+      "en": "The number that comes after four and before six, equal to fingers on one hand.",
+      "de": "Die Zahl, die nach vier und vor sechs kommt, gleich den Fingern an einer Hand.",
+      "ar": "الرقم الذي يأتي بعد أربعة وقبل ستة، يساوي الأصابع على يد واحدة.",
+      "fr": "Le nombre qui vient après quatre et avant six, égal aux doigts d'une main.",
+      "it": "Il numero che viene dopo quattro e prima di sei, uguale alle dita di una mano.",
+      "ru": "Число, идущее после четырёх и перед шестью, равное пальцам на одной руке.",
+      "es": "El número que viene después de cuatro y antes de seis, igual a los dedos de una mano.",
+      "pl": "Liczba następująca po cztery i przed sześć, równa palcom jednej ręki.",
+      "fa": "عددی که بعد از چهار و قبل از شش می‌آید، برابر انگشتان یک دست."
+    },
+    "examples": {
+      "en": ["I have five fingers.", "Five is my number.", "Give me five apples."],
+      "de": ["Ich habe fünf Finger.", "Fünf ist meine Nummer.", "Gib mir fünf Äpfel."],
+      "ar": ["لدي خمسة أصابع.", "خمسة هو رقمي.", "أعطني خمس تفاحات."],
+      "fr": ["J'ai cinq doigts.", "Cinq est mon numéro.", "Donne-moi cinq pommes."],
+      "it": ["Ho cinque dita.", "Cinque è il mio numero.", "Dammi cinque mele."],
+      "ru": ["У меня пять пальцев.", "Пять - мой номер.", "Дай мне пять яблок."],
+      "es": ["Tengo cinco dedos.", "Cinco es mi número.", "Dame cinco manzanas."],
+      "pl": ["Mam pięć palców.", "Pięć to mój numer.", "Daj mi pięć jabłek."],
+      "fa": ["من پنج انگشت دارم.", "پنج شماره من است.", "پنج سیب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_747_en",
+    "word": "six",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "six",
+      "de": "sechs",
+      "ar": "ستة",
+      "fr": "six",
+      "it": "sei",
+      "ru": "шесть",
+      "es": "seis",
+      "pl": "sześć",
+      "fa": "شش"
+    },
+    "explanations": {
+      "en": "The number that comes after five and before seven, one more than five.",
+      "de": "Die Zahl, die nach fünf und vor sieben kommt, eins mehr als fünf.",
+      "ar": "الرقم الذي يأتي بعد خمسة وقبل سبعة، واحد أكثر من خمسة.",
+      "fr": "Le nombre qui vient après cinq et avant sept, un de plus que cinq.",
+      "it": "Il numero che viene dopo cinque e prima di sette, uno in più di cinque.",
+      "ru": "Число, идущее после пяти и перед семью, на один больше пяти.",
+      "es": "El número que viene después de cinco y antes de siete, uno más que cinco.",
+      "pl": "Liczba następująca po pięć i przed siedem, o jeden więcej niż pięć.",
+      "fa": "عددی که بعد از پنج و قبل از هفت می‌آید، یکی بیشتر از پنج."
+    },
+    "examples": {
+      "en": ["I have six eggs.", "Six is my number.", "Give me six books."],
+      "de": ["Ich habe sechs Eier.", "Sechs ist meine Nummer.", "Gib mir sechs Bücher."],
+      "ar": ["لدي ستة بيضات.", "ستة هو رقمي.", "أعطني ستة كتب."],
+      "fr": ["J'ai six œufs.", "Six est mon numéro.", "Donne-moi six livres."],
+      "it": ["Ho sei uova.", "Sei è il mio numero.", "Dammi sei libri."],
+      "ru": ["У меня шесть яиц.", "Шесть - мой номер.", "Дай мне шесть книг."],
+      "es": ["Tengo seis huevos.", "Seis es mi número.", "Dame seis libros."],
+      "pl": ["Mam sześć jajek.", "Sześć to mój numer.", "Daj mi sześć książek."],
+      "fa": ["من شش تخم مرغ دارم.", "شش شماره من است.", "شش کتاب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_748_en",
+    "word": "seven",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "seven",
+      "de": "sieben",
+      "ar": "سبعة",
+      "fr": "sept",
+      "it": "sette",
+      "ru": "семь",
+      "es": "siete",
+      "pl": "siedem",
+      "fa": "هفت"
+    },
+    "explanations": {
+      "en": "The number that comes after six and before eight, one more than six.",
+      "de": "Die Zahl, die nach sechs und vor acht kommt, eins mehr als sechs.",
+      "ar": "الرقم الذي يأتي بعد ستة وقبل ثمانية، واحد أكثر من ستة.",
+      "fr": "Le nombre qui vient après six et avant huit, un de plus que six.",
+      "it": "Il numero che viene dopo sei e prima di otto, uno in più di sei.",
+      "ru": "Число, идущее после шести и перед восемью, на один больше шести.",
+      "es": "El número que viene después de seis y antes de ocho, uno más que seis.",
+      "pl": "Liczba następująca po sześć i przed osiem, o jeden więcej niż sześć.",
+      "fa": "عددی که بعد از شش و قبل از هشت می‌آید، یکی بیشتر از شش."
+    },
+    "examples": {
+      "en": ["I see seven days.", "Seven is my number.", "Give me seven pens."],
+      "de": ["Ich sehe sieben Tage.", "Sieben ist meine Nummer.", "Gib mir sieben Stifte."],
+      "ar": ["أرى سبعة أيام.", "سبعة هو رقمي.", "أعطني سبعة أقلام."],
+      "fr": ["Je vois sept jours.", "Sept est mon numéro.", "Donne-moi sept stylos."],
+      "it": ["Vedo sette giorni.", "Sette è il mio numero.", "Dammi sette penne."],
+      "ru": ["Я вижу семь дней.", "Семь - мой номер.", "Дай мне семь ручек."],
+      "es": ["Veo siete días.", "Siete es mi número.", "Dame siete bolígrafos."],
+      "pl": ["Widzę siedem dni.", "Siedem to mój numer.", "Daj mi siedem długopisów."],
+      "fa": ["من هفت روز می‌بینم.", "هفت شماره من است.", "هفت قلم به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_749_en",
+    "word": "eight",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "eight",
+      "de": "acht",
+      "ar": "ثمانية",
+      "fr": "huit",
+      "it": "otto",
+      "ru": "восемь",
+      "es": "ocho",
+      "pl": "osiem",
+      "fa": "هشت"
+    },
+    "explanations": {
+      "en": "The number that comes after seven and before nine, one more than seven.",
+      "de": "Die Zahl, die nach sieben und vor neun kommt, eins mehr als sieben.",
+      "ar": "الرقم الذي يأتي بعد سبعة وقبل تسعة، واحد أكثر من سبعة.",
+      "fr": "Le nombre qui vient après sept et avant neuf, un de plus que sept.",
+      "it": "Il numero che viene dopo sette e prima di nove, uno in più di sette.",
+      "ru": "Число, идущее после семи и перед девятью, на один больше семи.",
+      "es": "El número que viene después de siete y antes de nueve, uno más que siete.",
+      "pl": "Liczba następująca po siedem i przed dziewięć, o jeden więcej niż siedem.",
+      "fa": "عددی که بعد از هفت و قبل از نه می‌آید، یکی بیشتر از هفت."
+    },
+    "examples": {
+      "en": ["I have eight toys.", "Eight is my number.", "Give me eight coins."],
+      "de": ["Ich habe acht Spielzeuge.", "Acht ist meine Nummer.", "Gib mir acht Münzen."],
+      "ar": ["لدي ثمانية ألعاب.", "ثمانية هو رقمي.", "أعطني ثماني عملات."],
+      "fr": ["J'ai huit jouets.", "Huit est mon numéro.", "Donne-moi huit pièces."],
+      "it": ["Ho otto giocattoli.", "Otto è il mio numero.", "Dammi otto monete."],
+      "ru": ["У меня восемь игрушек.", "Восемь - мой номер.", "Дай мне восемь монет."],
+      "es": ["Tengo ocho juguetes.", "Ocho es mi número.", "Dame ocho monedas."],
+      "pl": ["Mam osiem zabawek.", "Osiem to mój numer.", "Daj mi osiem monet."],
+      "fa": ["من هشت اسباب بازی دارم.", "هشت شماره من است.", "هشت سکه به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_750_en",
+    "word": "nine",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nine",
+      "de": "neun",
+      "ar": "تسعة",
+      "fr": "neuf",
+      "it": "nove",
+      "ru": "девять",
+      "es": "nueve",
+      "pl": "dziewięć",
+      "fa": "نه"
+    },
+    "explanations": {
+      "en": "The number that comes after eight and before ten, one more than eight.",
+      "de": "Die Zahl, die nach acht und vor zehn kommt, eins mehr als acht.",
+      "ar": "الرقم الذي يأتي بعد ثمانية وقبل عشرة، واحد أكثر من ثمانية.",
+      "fr": "Le nombre qui vient après huit et avant dix, un de plus que huit.",
+      "it": "Il numero che viene dopo otto e prima di dieci, uno in più di otto.",
+      "ru": "Число, идущее после восьми и перед десятью, на один больше восьми.",
+      "es": "El número que viene después de ocho y antes de diez, uno más que ocho.",
+      "pl": "Liczba następująca po osiem i przed dziesięć, o jeden więcej niż osiem.",
+      "fa": "عددی که بعد از هشت و قبل از ده می‌آید، یکی بیشتر از هشت."
+    },
+    "examples": {
+      "en": ["I see nine birds.", "Nine is my number.", "Give me nine cookies."],
+      "de": ["Ich sehe neun Vögel.", "Neun ist meine Nummer.", "Gib mir neun Kekse."],
+      "ar": ["أرى تسعة طيور.", "تسعة هو رقمي.", "أعطني تسعة بسكويتات."],
+      "fr": ["Je vois neuf oiseaux.", "Neuf est mon numéro.", "Donne-moi neuf biscuits."],
+      "it": ["Vedo nove uccelli.", "Nove è il mio numero.", "Dammi nove biscotti."],
+      "ru": ["Я вижу девять птиц.", "Девять - мой номер.", "Дай мне девять печений."],
+      "es": ["Veo nueve pájaros.", "Nueve es mi número.", "Dame nueve galletas."],
+      "pl": ["Widzę dziewięć ptaków.", "Dziewięć to mój numer.", "Daj mi dziewięć ciasteczek."],
+      "fa": ["من نه پرنده می‌بینم.", "نه شماره من است.", "نه کلوچه به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_751_en",
+    "word": "ten",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ten",
+      "de": "zehn",
+      "ar": "عشرة",
+      "fr": "dix",
+      "it": "dieci",
+      "ru": "десять",
+      "es": "diez",
+      "pl": "dziesięć",
+      "fa": "ده"
+    },
+    "explanations": {
+      "en": "The number that comes after nine, equal to all fingers on both hands.",
+      "de": "Die Zahl, die nach neun kommt, gleich allen Fingern an beiden Händen.",
+      "ar": "الرقم الذي يأتي بعد تسعة، يساوي جميع الأصابع على كلتا اليدين.",
+      "fr": "Le nombre qui vient après neuf, égal à tous les doigts des deux mains.",
+      "it": "Il numero che viene dopo nove, uguale a tutte le dita di entrambe le mani.",
+      "ru": "Число, идущее после девяти, равное всем пальцам на обеих руках.",
+      "es": "El número que viene después de nueve, igual a todos los dedos de ambas manos.",
+      "pl": "Liczba następująca po dziewięć, równa wszystkim palcom obu rąk.",
+      "fa": "عددی که بعد از نه می‌آید، برابر تمام انگشتان هر دو دست."
+    },
+    "examples": {
+      "en": ["I have ten toys.", "Ten is my number.", "Give me ten books."],
+      "de": ["Ich habe zehn Spielzeuge.", "Zehn ist meine Nummer.", "Gib mir zehn Bücher."],
+      "ar": ["لدي عشرة ألعاب.", "عشرة هو رقمي.", "أعطني عشرة كتب."],
+      "fr": ["J'ai dix jouets.", "Dix est mon numéro.", "Donne-moi dix livres."],
+      "it": ["Ho dieci giocattoli.", "Dieci è il mio numero.", "Dammi dieci libri."],
+      "ru": ["У меня десять игрушек.", "Десять - мой номер.", "Дай мне десять книг."],
+      "es": ["Tengo diez juguetes.", "Diez es mi número.", "Dame diez libros."],
+      "pl": ["Mam dziesięć zabawek.", "Dziesięć to mój numer.", "Daj mi dziesięć książek."],
+      "fa": ["من ده اسباب بازی دارم.", "ده شماره من است.", "ده کتاب به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_752_en",
+    "word": "twenty",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "twenty",
+      "de": "zwanzig",
+      "ar": "عشرون",
+      "fr": "vingt",
+      "it": "venti",
+      "ru": "двадцать",
+      "es": "veinte",
+      "pl": "dwadzieścia",
+      "fa": "بیست"
+    },
+    "explanations": {
+      "en": "The number equal to two times ten, coming after nineteen and before twenty-one.",
+      "de": "Die Zahl gleich zweimal zehn, nach neunzehn und vor einundzwanzig.",
+      "ar": "الرقم المساوي لمرتين عشرة، يأتي بعد تسعة عشر وقبل واحد وعشرين.",
+      "fr": "Le nombre égal à deux fois dix, venant après dix-neuf et avant vingt-et-un.",
+      "it": "Il numero uguale a due volte dieci, che viene dopo diciannove e prima di ventuno.",
+      "ru": "Число, равное двум разам по десять, идущее после девятнадцати и перед двадцатью одним.",
+      "es": "El número igual a dos veces diez, viniendo después de diecinueve y antes de veintiuno.",
+      "pl": "Liczba równa dwukrotności dziesięciu, następująca po dziewiętnaście i przed dwadzieścia jeden.",
+      "fa": "عددی برابر دو برابر ده، بعد از نوزده و قبل از بیست و یک."
+    },
+    "examples": {
+      "en": ["I am twenty years old.", "I have twenty books.", "Twenty is a big number."],
+      "de": ["Ich bin zwanzig Jahre alt.", "Ich habe zwanzig Bücher.", "Zwanzig ist eine große Zahl."],
+      "ar": ["عمري عشرون سنة.", "لدي عشرون كتاباً.", "عشرون رقم كبير."],
+      "fr": ["J'ai vingt ans.", "J'ai vingt livres.", "Vingt est un grand nombre."],
+      "it": ["Ho vent'anni.", "Ho venti libri.", "Venti è un numero grande."],
+      "ru": ["Мне двадцать лет.", "У меня двадцать книг.", "Двадцать - большое число."],
+      "es": ["Tengo veinte años.", "Tengo veinte libros.", "Veinte es un número grande."],
+      "pl": ["Mam dwadzieścia lat.", "Mam dwadzieścia książek.", "Dwadzieścia to duża liczba."],
+      "fa": ["من بیست سال دارم.", "من بیست کتاب دارم.", "بیست یک عدد بزرگ است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_753_en",
+    "word": "thirty",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thirty",
+      "de": "dreißig",
+      "ar": "ثلاثون",
+      "fr": "trente",
+      "it": "trenta",
+      "ru": "тридцать",
+      "es": "treinta",
+      "pl": "trzydzieści",
+      "fa": "سی"
+    },
+    "explanations": {
+      "en": "The number equal to three times ten, coming after twenty-nine and before thirty-one.",
+      "de": "Die Zahl gleich dreimal zehn, nach neunundzwanzig und vor einunddreißig.",
+      "ar": "الرقم المساوي لثلاث مرات عشرة، يأتي بعد تسعة وعشرين وقبل واحد وثلاثين.",
+      "fr": "Le nombre égal à trois fois dix, venant après vingt-neuf et avant trente-et-un.",
+      "it": "Il numero uguale a tre volte dieci, che viene dopo ventinove e prima di trentuno.",
+      "ru": "Число, равное трём разам по десять, идущее после двадцати девяти и перед тридцатью одним.",
+      "es": "El número igual a tres veces diez, viniendo después de veintinueve y antes de treinta y uno.",
+      "pl": "Liczba równa trzykrotności dziesięciu, następująca po dwadzieścia dziewięć i przed trzydzieści jeden.",
+      "fa": "عددی برابر سه برابر ده، بعد از بیست و نه و قبل از سی و یک."
+    },
+    "examples": {
+      "en": ["I am thirty now.", "I need thirty days.", "Thirty is my number."],
+      "de": ["Ich bin jetzt dreißig.", "Ich brauche dreißig Tage.", "Dreißig ist meine Nummer."],
+      "ar": ["أنا الآن في الثلاثين.", "أحتاج ثلاثين يوماً.", "ثلاثون هو رقمي."],
+      "fr": ["J'ai trente ans maintenant.", "J'ai besoin de trente jours.", "Trente est mon numéro."],
+      "it": ["Ho trent'anni ora.", "Ho bisogno di trenta giorni.", "Trenta è il mio numero."],
+      "ru": ["Мне сейчас тридцать.", "Мне нужно тридцать дней.", "Тридцать - мой номер."],
+      "es": ["Tengo treinta ahora.", "Necesito treinta días.", "Treinta es mi número."],
+      "pl": ["Mam teraz trzydzieści lat.", "Potrzebuję trzydziestu dni.", "Trzydzieści to mój numer."],
+      "fa": ["من الان سی سال دارم.", "من سی روز نیاز دارم.", "سی شماره من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_754_en",
+    "word": "hundred",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hundred",
+      "de": "hundert",
+      "ar": "مائة",
+      "fr": "cent",
+      "it": "cento",
+      "ru": "сто",
+      "es": "cien",
+      "pl": "sto",
+      "fa": "صد"
+    },
+    "explanations": {
+      "en": "The number equal to ten times ten, representing one hundred units.",
+      "de": "Die Zahl gleich zehnmal zehn, die einhundert Einheiten darstellt.",
+      "ar": "الرقم المساوي لعشر مرات عشرة، يمثل مائة وحدة.",
+      "fr": "Le nombre égal à dix fois dix, représentant cent unités.",
+      "it": "Il numero uguale a dieci volte dieci, rappresentando cento unità.",
+      "ru": "Число, равное десяти разам по десять, представляющее сто единиц.",
+      "es": "El número igual a diez veces diez, representando cien unidades.",
+      "pl": "Liczba równa dziesięciokrotności dziesięciu, reprezentująca sto jednostek.",
+      "fa": "عددی برابر ده برابر ده، نمایانگر صد واحد."
+    },
+    "examples": {
+      "en": ["I have one hundred books.", "One hundred is big.", "Give me one hundred."],
+      "de": ["Ich habe hundert Bücher.", "Hundert ist groß.", "Gib mir hundert."],
+      "ar": ["لدي مائة كتاب.", "مائة رقم كبير.", "أعطني مائة."],
+      "fr": ["J'ai cent livres.", "Cent est grand.", "Donne-moi cent."],
+      "it": ["Ho cento libri.", "Cento è grande.", "Dammi cento."],
+      "ru": ["У меня сто книг.", "Сто - это много.", "Дай мне сто."],
+      "es": ["Tengo cien libros.", "Cien es grande.", "Dame cien."],
+      "pl": ["Mam sto książek.", "Sto jest dużo.", "Daj mi sto."],
+      "fa": ["من صد کتاب دارم.", "صد بزرگ است.", "صد به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_755_en",
+    "word": "thousand",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thousand",
+      "de": "tausend",
+      "ar": "ألف",
+      "fr": "mille",
+      "it": "mille",
+      "ru": "тысяча",
+      "es": "mil",
+      "pl": "tysiąc",
+      "fa": "هزار"
+    },
+    "explanations": {
+      "en": "The number equal to ten times one hundred, representing one thousand units.",
+      "de": "Die Zahl gleich zehnmal einhundert, die eintausend Einheiten darstellt.",
+      "ar": "الرقم المساوي لعشر مرات مائة، يمثل ألف وحدة.",
+      "fr": "Le nombre égal à dix fois cent, représentant mille unités.",
+      "it": "Il numero uguale a dieci volte cento, rappresentando mille unità.",
+      "ru": "Число, равное десяти разам по сто, представляющее тысячу единиц.",
+      "es": "El número igual a diez veces cien, representando mil unidades.",
+      "pl": "Liczba równa dziesięciokrotności stu, reprezentująca tysiąc jednostek.",
+      "fa": "عددی برابر ده برابر صد، نمایانگر هزار واحد."
+    },
+    "examples": {
+      "en": ["I have one thousand books.", "One thousand is very big.", "Give me one thousand."],
+      "de": ["Ich habe tausend Bücher.", "Tausend ist sehr groß.", "Gib mir tausend."],
+      "ar": ["لدي ألف كتاب.", "ألف رقم كبير جداً.", "أعطني ألفاً."],
+      "fr": ["J'ai mille livres.", "Mille est très grand.", "Donne-moi mille."],
+      "it": ["Ho mille libri.", "Mille è molto grande.", "Dammi mille."],
+      "ru": ["У меня тысяча книг.", "Тысяча - очень много.", "Дай мне тысячу."],
+      "es": ["Tengo mil libros.", "Mil es muy grande.", "Dame mil."],
+      "pl": ["Mam tysiąc książek.", "Tysiąc jest bardzo duże.", "Daj mi tysiąc."],
+      "fa": ["من هزار کتاب دارم.", "هزار خیلی بزرگ است.", "هزار به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_756_en",
+    "word": "first",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "first",
+      "de": "erste",
+      "ar": "أول",
+      "fr": "premier",
+      "it": "primo",
+      "ru": "первый",
+      "es": "primero",
+      "pl": "pierwszy",
+      "fa": "اول"
+    },
+    "explanations": {
+      "en": "Coming before all others in order, position, or time; the number one in a sequence.",
+      "de": "Vor allen anderen in Reihenfolge, Position oder Zeit kommend; die Nummer eins in einer Sequenz.",
+      "ar": "يأتي قبل جميع الآخرين في الترتيب أو الموقع أو الوقت؛ الرقم واحد في تسلسل.",
+      "fr": "Venant avant tous les autres dans l'ordre, la position ou le temps; le numéro un dans une séquence.",
+      "it": "Che viene prima di tutti gli altri in ordine, posizione o tempo; il numero uno in una sequenza.",
+      "ru": "Идущий перед всеми остальными по порядку, позиции или времени; номер один в последовательности.",
+      "es": "Viniendo antes que todos los demás en orden, posición o tiempo; el número uno en una secuencia.",
+      "pl": "Przychodzący przed wszystkimi innymi w kolejności, pozycji lub czasie; numer jeden w sekwencji.",
+      "fa": "قبل از همه دیگران در ترتیب، موقعیت یا زمان؛ شماره یک در توالی."
+    },
+    "examples": {
+      "en": ["I am first in line.", "This is my first day.", "She is the first one."],
+      "de": ["Ich bin der Erste in der Reihe.", "Das ist mein erster Tag.", "Sie ist die Erste."],
+      "ar": ["أنا الأول في الطابور.", "هذا يومي الأول.", "هي الأولى."],
+      "fr": ["Je suis le premier dans la file.", "C'est mon premier jour.", "Elle est la première."],
+      "it": ["Sono il primo in fila.", "Questo è il mio primo giorno.", "Lei è la prima."],
+      "ru": ["Я первый в очереди.", "Это мой первый день.", "Она первая."],
+      "es": ["Soy el primero en la fila.", "Este es mi primer día.", "Ella es la primera."],
+      "pl": ["Jestem pierwszy w kolejce.", "To mój pierwszy dzień.", "Ona jest pierwsza."],
+      "fa": ["من اول صف هستم.", "این اولین روز من است.", "او اولین نفر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_757_en",
+    "word": "second",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "second",
+      "de": "zweite",
+      "ar": "ثاني",
+      "fr": "deuxième",
+      "it": "secondo",
+      "ru": "второй",
+      "es": "segundo",
+      "pl": "drugi",
+      "fa": "دوم"
+    },
+    "explanations": {
+      "en": "Coming after the first in order, position, or time; the number two in a sequence.",
+      "de": "Nach dem Ersten in Reihenfolge, Position oder Zeit kommend; die Nummer zwei in einer Sequenz.",
+      "ar": "يأتي بعد الأول في الترتيب أو الموقع أو الوقت؛ الرقم اثنان في تسلسل.",
+      "fr": "Venant après le premier dans l'ordre, la position ou le temps; le numéro deux dans une séquence.",
+      "it": "Che viene dopo il primo in ordine, posizione o tempo; il numero due in una sequenza.",
+      "ru": "Идущий после первого по порядку, позиции или времени; номер два в последовательности.",
+      "es": "Viniendo después del primero en orden, posición o tiempo; el número dos en una secuencia.",
+      "pl": "Przychodzący po pierwszym w kolejności, pozycji lub czasie; numer dwa w sekwencji.",
+      "fa": "بعد از اول در ترتیب، موقعیت یا زمان؛ شماره دو در توالی."
+    },
+    "examples": {
+      "en": ["I am second now.", "This is my second book.", "She is the second one."],
+      "de": ["Ich bin jetzt Zweiter.", "Das ist mein zweites Buch.", "Sie ist die Zweite."],
+      "ar": ["أنا الثاني الآن.", "هذا كتابي الثاني.", "هي الثانية."],
+      "fr": ["Je suis deuxième maintenant.", "C'est mon deuxième livre.", "Elle est la deuxième."],
+      "it": ["Sono il secondo ora.", "Questo è il mio secondo libro.", "Lei è la seconda."],
+      "ru": ["Я сейчас второй.", "Это моя вторая книга.", "Она вторая."],
+      "es": ["Soy el segundo ahora.", "Este es mi segundo libro.", "Ella es la segunda."],
+      "pl": ["Jestem drugi teraz.", "To moja druga książka.", "Ona jest druga."],
+      "fa": ["من الان دوم هستم.", "این کتاب دوم من است.", "او دومین نفر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_758_en",
+    "word": "third",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "third",
+      "de": "dritte",
+      "ar": "ثالث",
+      "fr": "troisième",
+      "it": "terzo",
+      "ru": "третий",
+      "es": "tercero",
+      "pl": "trzeci",
+      "fa": "سوم"
+    },
+    "explanations": {
+      "en": "Coming after the second in order, position, or time; the number three in a sequence.",
+      "de": "Nach dem Zweiten in Reihenfolge, Position oder Zeit kommend; die Nummer drei in einer Sequenz.",
+      "ar": "يأتي بعد الثاني في الترتيب أو الموقع أو الوقت؛ الرقم ثلاثة في تسلسل.",
+      "fr": "Venant après le deuxième dans l'ordre, la position ou le temps; le numéro trois dans une séquence.",
+      "it": "Che viene dopo il secondo in ordine, posizione o tempo; il numero tre in una sequenza.",
+      "ru": "Идущий после второго по порядку, позиции или времени; номер три в последовательности.",
+      "es": "Viniendo después del segundo en orden, posición o tiempo; el número tres en una secuencia.",
+      "pl": "Przychodzący po drugim w kolejności, pozycji lub czasie; numer trzy w sekwencji.",
+      "fa": "بعد از دوم در ترتیب، موقعیت یا زمان؛ شماره سه در توالی."
+    },
+    "examples": {
+      "en": ["I am third now.", "This is my third day.", "He is the third one."],
+      "de": ["Ich bin jetzt Dritter.", "Das ist mein dritter Tag.", "Er ist der Dritte."],
+      "ar": ["أنا الثالث الآن.", "هذا يومي الثالث.", "هو الثالث."],
+      "fr": ["Je suis troisième maintenant.", "C'est mon troisième jour.", "Il est le troisième."],
+      "it": ["Sono il terzo ora.", "Questo è il mio terzo giorno.", "Lui è il terzo."],
+      "ru": ["Я сейчас третий.", "Это мой третий день.", "Он третий."],
+      "es": ["Soy el tercero ahora.", "Este es mi tercer día.", "Él es el tercero."],
+      "pl": ["Jestem trzeci teraz.", "To mój trzeci dzień.", "On jest trzeci."],
+      "fa": ["من الان سوم هستم.", "این سومین روز من است.", "او سومین نفر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_759_en",
+    "word": "last",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "last",
+      "de": "letzte",
+      "ar": "آخر",
+      "fr": "dernier",
+      "it": "ultimo",
+      "ru": "последний",
+      "es": "último",
+      "pl": "ostatni",
+      "fa": "آخر"
+    },
+    "explanations": {
+      "en": "Coming after all others in order, position, or time; the final one in a sequence.",
+      "de": "Nach allen anderen in Reihenfolge, Position oder Zeit kommend; das letzte in einer Sequenz.",
+      "ar": "يأتي بعد جميع الآخرين في الترتيب أو الموقع أو الوقت؛ الأخير في تسلسل.",
+      "fr": "Venant après tous les autres dans l'ordre, la position ou le temps; le dernier dans une séquence.",
+      "it": "Che viene dopo tutti gli altri in ordine, posizione o tempo; l'ultimo in una sequenza.",
+      "ru": "Идущий после всех остальных по порядку, позиции или времени; последний в последовательности.",
+      "es": "Viniendo después de todos los demás en orden, posición o tiempo; el final en una secuencia.",
+      "pl": "Przychodzący po wszystkich innych w kolejności, pozycji lub czasie; ostatni w sekwencji.",
+      "fa": "بعد از همه دیگران در ترتیب، موقعیت یا زمان؛ آخرین در توالی."
+    },
+    "examples": {
+      "en": ["I am last now.", "This is my last day.", "She is the last one."],
+      "de": ["Ich bin jetzt Letzter.", "Das ist mein letzter Tag.", "Sie ist die Letzte."],
+      "ar": ["أنا الأخير الآن.", "هذا يومي الأخير.", "هي الأخيرة."],
+      "fr": ["Je suis le dernier maintenant.", "C'est mon dernier jour.", "Elle est la dernière."],
+      "it": ["Sono l'ultimo ora.", "Questo è il mio ultimo giorno.", "Lei è l'ultima."],
+      "ru": ["Я сейчас последний.", "Это мой последний день.", "Она последняя."],
+      "es": ["Soy el último ahora.", "Este es mi último día.", "Ella es la última."],
+      "pl": ["Jestem ostatni teraz.", "To mój ostatni dzień.", "Ona jest ostatnia."],
+      "fa": ["من الان آخر هستم.", "این آخرین روز من است.", "او آخرین نفر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_760_en",
+    "word": "next",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "next",
+      "de": "nächste",
+      "ar": "التالي",
+      "fr": "prochain",
+      "it": "prossimo",
+      "ru": "следующий",
+      "es": "próximo",
+      "pl": "następny",
+      "fa": "بعدی"
+    },
+    "explanations": {
+      "en": "Coming immediately after the present one in time, order, or position; the following one.",
+      "de": "Unmittelbar nach dem gegenwärtigen in Zeit, Reihenfolge oder Position kommend; das folgende.",
+      "ar": "يأتي مباشرة بعد الحالي في الوقت أو الترتيب أو الموقع؛ التالي.",
+      "fr": "Venant immédiatement après le présent dans le temps, l'ordre ou la position; le suivant.",
+      "it": "Che viene immediatamente dopo il presente nel tempo, ordine o posizione; il seguente.",
+      "ru": "Идущий сразу после настоящего по времени, порядку или позиции; следующий.",
+      "es": "Viniendo inmediatamente después del presente en tiempo, orden o posición; el siguiente.",
+      "pl": "Przychodzący bezpośrednio po obecnym w czasie, kolejności lub pozycji; następny.",
+      "fa": "بلافاصله بعد از حاضر در زمان، ترتیب یا موقعیت؛ بعدی."
+    },
+    "examples": {
+      "en": ["I am next now.", "This is my next book.", "Who is the next one?"],
+      "de": ["Ich bin jetzt der Nächste.", "Das ist mein nächstes Buch.", "Wer ist der Nächste?"],
+      "ar": ["أنا التالي الآن.", "هذا كتابي التالي.", "من هو التالي؟"],
+      "fr": ["Je suis le prochain maintenant.", "C'est mon prochain livre.", "Qui est le prochain?"],
+      "it": ["Sono il prossimo ora.", "Questo è il mio prossimo libro.", "Chi è il prossimo?"],
+      "ru": ["Я сейчас следующий.", "Это моя следующая книга.", "Кто следующий?"],
+      "es": ["Soy el próximo ahora.", "Este es mi próximo libro.", "¿Quién es el próximo?"],
+      "pl": ["Jestem następny teraz.", "To moja następna książka.", "Kto jest następny?"],
+      "fa": ["من الان بعدی هستم.", "این کتاب بعدی من است.", "بعدی کیست؟"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_821_en",
+    "word": "health",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "health",
+      "de": "Gesundheit",
+      "ar": "صحة",
+      "fr": "santé",
+      "it": "salute",
+      "ru": "здоровье",
+      "es": "salud",
+      "pl": "zdrowie",
+      "fa": "سلامت"
+    },
+    "explanations": {
+      "en": "The condition of your body and mind, especially regarding being free from illness or injury.",
+      "de": "Der Zustand Ihres Körpers und Geistes, besonders bezüglich der Freiheit von Krankheit oder Verletzung.",
+      "ar": "حالة جسمك وعقلك، خاصة فيما يتعلق بالخلو من المرض أو الإصابة.",
+      "fr": "L'état de votre corps et esprit, notamment concernant l'absence de maladie ou blessure.",
+      "it": "La condizione del tuo corpo e mente, specialmente riguardo all'essere liberi da malattia o infortunio.",
+      "ru": "Состояние вашего тела и ума, особенно в отношении отсутствия болезней или травм.",
+      "es": "La condición de tu cuerpo y mente, especialmente respecto a estar libre de enfermedad o lesión.",
+      "pl": "Stan twojego ciała i umysłu, szczególnie dotyczący braku choroby lub urazu.",
+      "fa": "وضعیت بدن و ذهن شما، به ویژه در مورد عاری بودن از بیماری یا آسیب."
+    },
+    "examples": {
+      "en": ["I care about my health.", "Your health is very important.", "How is your health today?"],
+      "de": ["Ich kümmere mich um meine Gesundheit.", "Deine Gesundheit ist sehr wichtig.", "Wie ist deine Gesundheit heute?"],
+      "ar": ["أهتم بصحتي.", "صحتك مهمة جداً.", "كيف صحتك اليوم؟"],
+      "fr": ["Je prends soin de ma santé.", "Ta santé est très importante.", "Comment va ta santé aujourd'hui?"],
+      "it": ["Mi preoccupo della mia salute.", "La tua salute è molto importante.", "Come sta la tua salute oggi?"],
+      "ru": ["Я забочусь о своём здоровье.", "Твоё здоровье очень важно.", "Как твоё здоровье сегодня?"],
+      "es": ["Me preocupo por mi salud.", "Tu salud es muy importante.", "¿Cómo está tu salud hoy?"],
+      "pl": ["Dbam o moje zdrowie.", "Twoje zdrowie jest bardzo ważne.", "Jak jest twoje zdrowie dzisiaj?"],
+      "fa": ["من به سلامتم اهمیت می‌دهم.", "سلامتت خیلی مهم است.", "سلامتت امروز چطور است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_822_en",
+    "word": "sick",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sick",
+      "de": "krank",
+      "ar": "مريض",
+      "fr": "malade",
+      "it": "malato",
+      "ru": "больной",
+      "es": "enfermo",
+      "pl": "chory",
+      "fa": "بیمار"
+    },
+    "explanations": {
+      "en": "Not feeling well or in good health because of an illness or disease affecting your body.",
+      "de": "Sich nicht wohl oder gesund fühlen wegen einer Krankheit oder Erkrankung, die Ihren Körper betrifft.",
+      "ar": "عدم الشعور بالراحة أو بصحة جيدة بسبب مرض يؤثر على جسمك.",
+      "fr": "Ne pas se sentir bien ou en bonne santé à cause d'une maladie affectant votre corps.",
+      "it": "Non sentirsi bene o in buona salute a causa di una malattia che colpisce il corpo.",
+      "ru": "Плохо себя чувствовать или быть нездоровым из-за болезни, поражающей ваше тело.",
+      "es": "No sentirse bien o en buena salud debido a una enfermedad que afecta tu cuerpo.",
+      "pl": "Nie czuć się dobrze lub zdrowo z powodu choroby wpływającej na ciało.",
+      "fa": "احساس خوبی نداشتن یا سالم نبودن به دلیل بیماری که بدن را تحت تاثیر قرار می‌دهد."
+    },
+    "examples": {
+      "en": ["I am sick today.", "She looks very sick now.", "Are you feeling sick?"],
+      "de": ["Ich bin heute krank.", "Sie sieht jetzt sehr krank aus.", "Fühlst du dich krank?"],
+      "ar": ["أنا مريض اليوم.", "تبدو مريضة جداً الآن.", "هل تشعر بالمرض؟"],
+      "fr": ["Je suis malade aujourd'hui.", "Elle a l'air très malade maintenant.", "Te sens-tu malade?"],
+      "it": ["Sono malato oggi.", "Lei sembra molto malata ora.", "Ti senti malato?"],
+      "ru": ["Я болен сегодня.", "Она выглядит очень больной сейчас.", "Ты чувствуешь себя больным?"],
+      "es": ["Estoy enfermo hoy.", "Ella se ve muy enferma ahora.", "¿Te sientes enfermo?"],
+      "pl": ["Jestem chory dzisiaj.", "Ona wygląda bardzo chora teraz.", "Czujesz się chory?"],
+      "fa": ["من امروز بیمارم.", "او الان خیلی بیمار به نظر می‌رسد.", "احساس بیماری می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_823_en",
+    "word": "well",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "well",
+      "de": "gut",
+      "ar": "جيد",
+      "fr": "bien",
+      "it": "bene",
+      "ru": "хорошо",
+      "es": "bien",
+      "pl": "dobrze",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "In good health, feeling healthy and comfortable without any illness or problems.",
+      "de": "Bei guter Gesundheit, sich gesund und wohl fühlen ohne Krankheit oder Probleme.",
+      "ar": "بصحة جيدة، الشعور بالصحة والراحة دون أي مرض أو مشاكل.",
+      "fr": "En bonne santé, se sentir en bonne santé et à l'aise sans maladie ni problèmes.",
+      "it": "In buona salute, sentirsi sani e a proprio agio senza malattia o problemi.",
+      "ru": "В хорошем здоровье, чувствовать себя здоровым и комфортно без какой-либо болезни или проблем.",
+      "es": "En buena salud, sintiéndose saludable y cómodo sin enfermedad o problemas.",
+      "pl": "W dobrym zdrowiu, czując się zdrowo i komfortowo bez choroby lub problemów.",
+      "fa": "در سلامت خوب، احساس سلامتی و راحتی بدون هیچ بیماری یا مشکلی."
+    },
+    "examples": {
+      "en": ["I am very well today.", "She is not well now.", "Are you feeling well?"],
+      "de": ["Mir geht es heute sehr gut.", "Ihr geht es jetzt nicht gut.", "Fühlst du dich gut?"],
+      "ar": ["أنا بخير جداً اليوم.", "هي ليست بخير الآن.", "هل تشعر بخير؟"],
+      "fr": ["Je vais très bien aujourd'hui.", "Elle ne va pas bien maintenant.", "Te sens-tu bien?"],
+      "it": ["Sto molto bene oggi.", "Lei non sta bene ora.", "Ti senti bene?"],
+      "ru": ["Я очень хорошо себя чувствую сегодня.", "Ей нехорошо сейчас.", "Ты чувствуешь себя хорошо?"],
+      "es": ["Estoy muy bien hoy.", "Ella no está bien ahora.", "¿Te sientes bien?"],
+      "pl": ["Czuję się bardzo dobrze dzisiaj.", "Ona nie czuje się dobrze teraz.", "Czujesz się dobrze?"],
+      "fa": ["من امروز خیلی خوبم.", "او الان خوب نیست.", "احساس خوبی داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_824_en",
+    "word": "pain",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pain",
+      "de": "Schmerz",
+      "ar": "ألم",
+      "fr": "douleur",
+      "it": "dolore",
+      "ru": "боль",
+      "es": "dolor",
+      "pl": "ból",
+      "fa": "درد"
+    },
+    "explanations": {
+      "en": "An unpleasant physical feeling caused by illness or injury that hurts your body.",
+      "de": "Ein unangenehmes körperliches Gefühl, das durch Krankheit oder Verletzung verursacht wird und Ihrem Körper wehtut.",
+      "ar": "شعور جسدي غير سار ناتج عن مرض أو إصابة يؤلم جسمك.",
+      "fr": "Une sensation physique désagréable causée par la maladie ou une blessure qui fait mal à votre corps.",
+      "it": "Una sensazione fisica spiacevole causata da malattia o infortunio che fa male al corpo.",
+      "ru": "Неприятное физическое ощущение, вызванное болезнью или травмой, которое причиняет боль вашему телу.",
+      "es": "Una sensación física desagradable causada por enfermedad o lesión que duele tu cuerpo.",
+      "pl": "Nieprzyjemne uczucie fizyczne spowodowane chorobą lub urazem, które boli twoje ciało.",
+      "fa": "احساس جسمی ناخوشایند ناشی از بیماری یا آسیب که به بدن شما آسیب می‌رساند."
+    },
+    "examples": {
+      "en": ["I have pain today.", "This pain is very bad.", "Do you feel any pain?"],
+      "de": ["Ich habe heute Schmerzen.", "Dieser Schmerz ist sehr schlimm.", "Fühlst du Schmerzen?"],
+      "ar": ["لدي ألم اليوم.", "هذا الألم سيء جداً.", "هل تشعر بأي ألم؟"],
+      "fr": ["J'ai mal aujourd'hui.", "Cette douleur est très mauvaise.", "Ressens-tu de la douleur?"],
+      "it": ["Ho dolore oggi.", "Questo dolore è molto brutto.", "Senti dolore?"],
+      "ru": ["У меня боль сегодня.", "Эта боль очень сильная.", "Ты чувствуешь боль?"],
+      "es": ["Tengo dolor hoy.", "Este dolor es muy malo.", "¿Sientes algún dolor?"],
+      "pl": ["Mam ból dzisiaj.", "Ten ból jest bardzo zły.", "Czujesz jakiś ból?"],
+      "fa": ["من امروز درد دارم.", "این درد خیلی بد است.", "درد احساس می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_825_en",
+    "word": "hurt",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hurt",
+      "de": "verletzen",
+      "ar": "يؤلم",
+      "fr": "faire mal",
+      "it": "far male",
+      "ru": "болеть",
+      "es": "doler",
+      "pl": "boleć",
+      "fa": "درد کردن"
+    },
+    "explanations": {
+      "en": "To cause physical pain or injury to part of your body or to someone else.",
+      "de": "Körperlichen Schmerz oder Verletzung einem Teil Ihres Körpers oder jemand anderem zufügen.",
+      "ar": "التسبب في ألم جسدي أو إصابة لجزء من جسمك أو لشخص آخر.",
+      "fr": "Causer de la douleur physique ou une blessure à une partie de votre corps ou à quelqu'un d'autre.",
+      "it": "Causare dolore fisico o lesione a una parte del corpo o a qualcun altro.",
+      "ru": "Причинять физическую боль или травму части вашего тела или кому-то ещё.",
+      "es": "Causar dolor físico o lesión a una parte de tu cuerpo o a alguien más.",
+      "pl": "Powodować ból fizyczny lub uraz części ciała lub komuś innemu.",
+      "fa": "ایجاد درد فیزیکی یا آسیب به قسمتی از بدن یا به شخص دیگری."
+    },
+    "examples": {
+      "en": ["My arm hurts now.", "Does it hurt very much?", "I don't want to hurt."],
+      "de": ["Mein Arm tut jetzt weh.", "Tut es sehr weh?", "Ich will nicht verletzen."],
+      "ar": ["ذراعي يؤلمني الآن.", "هل يؤلم كثيراً؟", "لا أريد أن أتألم."],
+      "fr": ["Mon bras me fait mal maintenant.", "Est-ce que ça fait très mal?", "Je ne veux pas faire mal."],
+      "it": ["Il mio braccio fa male ora.", "Fa molto male?", "Non voglio far male."],
+      "ru": ["Моя рука болит сейчас.", "Это очень больно?", "Я не хочу причинять боль."],
+      "es": ["Me duele el brazo ahora.", "¿Duele mucho?", "No quiero hacer daño."],
+      "pl": ["Moje ramię boli teraz.", "Czy bardzo boli?", "Nie chcę boleć."],
+      "fa": ["بازویم الان درد می‌کند.", "خیلی درد می‌کند؟", "نمی‌خواهم آسیب برسانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_826_en",
+    "word": "doctor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "doctor",
+      "de": "Arzt",
+      "ar": "طبيب",
+      "fr": "médecin",
+      "it": "dottore",
+      "ru": "врач",
+      "es": "médico",
+      "pl": "lekarz",
+      "fa": "پزشک"
+    },
+    "explanations": {
+      "en": "A medical professional trained to examine, diagnose, and treat people who are sick or injured.",
+      "de": "Ein medizinischer Fachmann, der ausgebildet ist, Menschen zu untersuchen, zu diagnostizieren und zu behandeln, die krank oder verletzt sind.",
+      "ar": "محترف طبي مدرب على فحص وتشخيص وعلاج الأشخاص المرضى أو المصابين.",
+      "fr": "Un professionnel médical formé pour examiner, diagnostiquer et traiter les personnes malades ou blessées.",
+      "it": "Un professionista medico addestrato ad esaminare, diagnosticare e curare persone malate o ferite.",
+      "ru": "Медицинский специалист, обученный осматривать, диагностировать и лечить больных или травмированных людей.",
+      "es": "Un profesional médico capacitado para examinar, diagnosticar y tratar a personas enfermas o lesionadas.",
+      "pl": "Specjalista medyczny przeszkolony do badania, diagnozowania i leczenia osób chorych lub rannych.",
+      "fa": "متخصص پزشکی آموزش دیده برای معاینه، تشخیص و درمان افراد بیمار یا مجروح."
+    },
+    "examples": {
+      "en": ["I see the doctor today.", "The doctor is very good.", "Do you need a doctor?"],
+      "de": ["Ich sehe heute den Arzt.", "Der Arzt ist sehr gut.", "Brauchst du einen Arzt?"],
+      "ar": ["أرى الطبيب اليوم.", "الطبيب جيد جداً.", "هل تحتاج طبيباً؟"],
+      "fr": ["Je vois le médecin aujourd'hui.", "Le médecin est très bon.", "As-tu besoin d'un médecin?"],
+      "it": ["Vedo il dottore oggi.", "Il dottore è molto bravo.", "Hai bisogno di un dottore?"],
+      "ru": ["Я иду к врачу сегодня.", "Врач очень хороший.", "Тебе нужен врач?"],
+      "es": ["Veo al médico hoy.", "El médico es muy bueno.", "¿Necesitas un médico?"],
+      "pl": ["Widzę lekarza dzisiaj.", "Lekarz jest bardzo dobry.", "Potrzebujesz lekarza?"],
+      "fa": ["من امروز پزشک را می‌بینم.", "پزشک خیلی خوب است.", "پزشک نیاز داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_827_en",
+    "word": "medicine",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "medicine",
+      "de": "Medizin",
+      "ar": "دواء",
+      "fr": "médicament",
+      "it": "medicina",
+      "ru": "лекарство",
+      "es": "medicina",
+      "pl": "lek",
+      "fa": "دارو"
+    },
+    "explanations": {
+      "en": "A substance or drug you take to cure illness, relieve pain, or improve your health.",
+      "de": "Eine Substanz oder ein Medikament, das Sie einnehmen, um Krankheiten zu heilen, Schmerzen zu lindern oder Ihre Gesundheit zu verbessern.",
+      "ar": "مادة أو دواء تتناوله لعلاج المرض أو تخفيف الألم أو تحسين صحتك.",
+      "fr": "Une substance ou médicament que vous prenez pour guérir la maladie, soulager la douleur ou améliorer votre santé.",
+      "it": "Una sostanza o farmaco che prendi per curare la malattia, alleviare il dolore o migliorare la salute.",
+      "ru": "Вещество или лекарство, которое вы принимаете для лечения болезни, облегчения боли или улучшения здоровья.",
+      "es": "Una sustancia o medicamento que tomas para curar enfermedades, aliviar el dolor o mejorar tu salud.",
+      "pl": "Substancja lub lek, który bierzesz, aby wyleczyć chorobę, złagodzić ból lub poprawić zdrowie.",
+      "fa": "ماده یا دارویی که برای درمان بیماری، تسکین درد یا بهبود سلامتی مصرف می‌کنید."
+    },
+    "examples": {
+      "en": ["I take medicine daily.", "This medicine is very good.", "Do you need any medicine?"],
+      "de": ["Ich nehme täglich Medizin.", "Diese Medizin ist sehr gut.", "Brauchst du Medizin?"],
+      "ar": ["آخذ الدواء يومياً.", "هذا الدواء جيد جداً.", "هل تحتاج أي دواء؟"],
+      "fr": ["Je prends des médicaments quotidiennement.", "Ce médicament est très bon.", "As-tu besoin de médicaments?"],
+      "it": ["Prendo medicina quotidianamente.", "Questa medicina è molto buona.", "Hai bisogno di medicina?"],
+      "ru": ["Я принимаю лекарство ежедневно.", "Это лекарство очень хорошее.", "Тебе нужно лекарство?"],
+      "es": ["Tomo medicina diariamente.", "Esta medicina es muy buena.", "¿Necesitas alguna medicina?"],
+      "pl": ["Biorę lek codziennie.", "Ten lek jest bardzo dobry.", "Potrzebujesz jakiegoś leku?"],
+      "fa": ["من روزانه دارو می‌خورم.", "این دارو خیلی خوب است.", "داروی نیاز داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_828_en",
+    "word": "hospital",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hospital",
+      "de": "Krankenhaus",
+      "ar": "مستشفى",
+      "fr": "hôpital",
+      "it": "ospedale",
+      "ru": "больница",
+      "es": "hospital",
+      "pl": "szpital",
+      "fa": "بیمارستان"
+    },
+    "explanations": {
+      "en": "A large building where doctors and nurses care for people who are sick or injured.",
+      "de": "Ein großes Gebäude, in dem Ärzte und Krankenschwestern Menschen pflegen, die krank oder verletzt sind.",
+      "ar": "مبنى كبير حيث يعتني الأطباء والممرضات بالأشخاص المرضى أو المصابين.",
+      "fr": "Un grand bâtiment où les médecins et infirmières soignent les personnes malades ou blessées.",
+      "it": "Un grande edificio dove dottori e infermieri si prendono cura di persone malate o ferite.",
+      "ru": "Большое здание, где врачи и медсёстры ухаживают за больными или травмированными людьми.",
+      "es": "Un edificio grande donde médicos y enfermeras cuidan a personas enfermas o lesionadas.",
+      "pl": "Duży budynek, w którym lekarze i pielęgniarki opiekują się ludźmi chorymi lub rannymi.",
+      "fa": "ساختمان بزرگی که پزشکان و پرستاران از افراد بیمار یا مجروح مراقبت می‌کنند."
+    },
+    "examples": {
+      "en": ["I go to hospital today.", "The hospital is very big.", "Is she in the hospital?"],
+      "de": ["Ich gehe heute ins Krankenhaus.", "Das Krankenhaus ist sehr groß.", "Ist sie im Krankenhaus?"],
+      "ar": ["أذهب إلى المستشفى اليوم.", "المستشفى كبير جداً.", "هل هي في المستشفى؟"],
+      "fr": ["Je vais à l'hôpital aujourd'hui.", "L'hôpital est très grand.", "Est-elle à l'hôpital?"],
+      "it": ["Vado in ospedale oggi.", "L'ospedale è molto grande.", "È in ospedale?"],
+      "ru": ["Я иду в больницу сегодня.", "Больница очень большая.", "Она в больнице?"],
+      "es": ["Voy al hospital hoy.", "El hospital es muy grande.", "¿Está en el hospital?"],
+      "pl": ["Idę do szpitala dzisiaj.", "Szpital jest bardzo duży.", "Czy ona jest w szpitalu?"],
+      "fa": ["من امروز به بیمارستان می‌روم.", "بیمارستان خیلی بزرگ است.", "او در بیمارستان است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_829_en",
+    "word": "nurse",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nurse",
+      "de": "Krankenschwester",
+      "ar": "ممرض",
+      "fr": "infirmier",
+      "it": "infermiere",
+      "ru": "медсестра",
+      "es": "enfermero",
+      "pl": "pielęgniarka",
+      "fa": "پرستار"
+    },
+    "explanations": {
+      "en": "A person trained to care for sick or injured people, especially in a hospital.",
+      "de": "Eine Person, die ausgebildet ist, sich um kranke oder verletzte Menschen zu kümmern, besonders im Krankenhaus.",
+      "ar": "شخص مدرب للعناية بالأشخاص المرضى أو المصابين، خاصة في المستشفى.",
+      "fr": "Une personne formée pour soigner les personnes malades ou blessées, surtout dans un hôpital.",
+      "it": "Una persona addestrata a prendersi cura di persone malate o ferite, specialmente in ospedale.",
+      "ru": "Человек, обученный ухаживать за больными или травмированными людьми, особенно в больнице.",
+      "es": "Una persona capacitada para cuidar a personas enfermas o lesionadas, especialmente en un hospital.",
+      "pl": "Osoba przeszkolona do opieki nad chorymi lub rannymi, szczególnie w szpitalu.",
+      "fa": "شخصی آموزش دیده برای مراقبت از افراد بیمار یا مجروح، به ویژه در بیمارستان."
+    },
+    "examples": {
+      "en": ["The nurse is very kind.", "I see a nurse today.", "Is the nurse here now?"],
+      "de": ["Die Krankenschwester ist sehr nett.", "Ich sehe heute eine Krankenschwester.", "Ist die Krankenschwester jetzt hier?"],
+      "ar": ["الممرض لطيف جداً.", "أرى ممرضاً اليوم.", "هل الممرض هنا الآن؟"],
+      "fr": ["L'infirmier est très gentil.", "Je vois un infirmier aujourd'hui.", "L'infirmier est-il ici maintenant?"],
+      "it": ["L'infermiere è molto gentile.", "Vedo un infermiere oggi.", "L'infermiere è qui ora?"],
+      "ru": ["Медсестра очень добрая.", "Я вижу медсестру сегодня.", "Медсестра здесь сейчас?"],
+      "es": ["El enfermero es muy amable.", "Veo a un enfermero hoy.", "¿Está el enfermero aquí ahora?"],
+      "pl": ["Pielęgniarka jest bardzo miła.", "Widzę pielęgniarkę dzisiaj.", "Czy pielęgniarka jest tutaj teraz?"],
+      "fa": ["پرستار خیلی مهربان است.", "من امروز پرستار را می‌بینم.", "پرستار الان اینجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_830_en",
+    "word": "patient",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "patient",
+      "de": "Patient",
+      "ar": "مريض",
+      "fr": "patient",
+      "it": "paziente",
+      "ru": "пациент",
+      "es": "paciente",
+      "pl": "pacjent",
+      "fa": "بیمار"
+    },
+    "explanations": {
+      "en": "A person who is receiving medical care or treatment from a doctor or at a hospital.",
+      "de": "Eine Person, die medizinische Versorgung oder Behandlung von einem Arzt oder in einem Krankenhaus erhält.",
+      "ar": "شخص يتلقى رعاية طبية أو علاجاً من طبيب أو في مستشفى.",
+      "fr": "Une personne qui reçoit des soins médicaux ou un traitement d'un médecin ou dans un hôpital.",
+      "it": "Una persona che riceve cure mediche o trattamento da un dottore o in ospedale.",
+      "ru": "Человек, получающий медицинскую помощь или лечение от врача или в больнице.",
+      "es": "Una persona que está recibiendo atención médica o tratamiento de un médico o en un hospital.",
+      "pl": "Osoba otrzymująca opiekę medyczną lub leczenie od lekarza lub w szpitalu.",
+      "fa": "شخصی که مراقبت یا درمان پزشکی را از پزشک یا در بیمارستان دریافت می‌کند."
+    },
+    "examples": {
+      "en": ["I am a patient here.", "The patient is very sick.", "Is the patient better now?"],
+      "de": ["Ich bin hier ein Patient.", "Der Patient ist sehr krank.", "Geht es dem Patienten jetzt besser?"],
+      "ar": ["أنا مريض هنا.", "المريض مريض جداً.", "هل المريض أفضل الآن؟"],
+      "fr": ["Je suis un patient ici.", "Le patient est très malade.", "Le patient va-t-il mieux maintenant?"],
+      "it": ["Sono un paziente qui.", "Il paziente è molto malato.", "Il paziente sta meglio ora?"],
+      "ru": ["Я здесь пациент.", "Пациент очень болен.", "Пациенту лучше сейчас?"],
+      "es": ["Soy un paciente aquí.", "El paciente está muy enfermo.", "¿Está mejor el paciente ahora?"],
+      "pl": ["Jestem pacjentem tutaj.", "Pacjent jest bardzo chory.", "Czy pacjentowi jest lepiej teraz?"],
+      "fa": ["من اینجا بیمار هستم.", "بیمار خیلی بیمار است.", "بیمار الان بهتر است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_831_en",
+    "word": "treatment",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "treatment",
+      "de": "Behandlung",
+      "ar": "علاج",
+      "fr": "traitement",
+      "it": "trattamento",
+      "ru": "лечение",
+      "es": "tratamiento",
+      "pl": "leczenie",
+      "fa": "درمان"
+    },
+    "explanations": {
+      "en": "Medical care or procedures given to cure an illness, injury, or condition and improve health.",
+      "de": "Medizinische Versorgung oder Verfahren zur Heilung einer Krankheit, Verletzung oder eines Zustands und zur Verbesserung der Gesundheit.",
+      "ar": "الرعاية الطبية أو الإجراءات المعطاة لعلاج مرض أو إصابة أو حالة وتحسين الصحة.",
+      "fr": "Soins médicaux ou procédures données pour guérir une maladie, blessure ou condition et améliorer la santé.",
+      "it": "Cure mediche o procedure date per curare una malattia, infortunio o condizione e migliorare la salute.",
+      "ru": "Медицинская помощь или процедуры, направленные на лечение болезни, травмы или состояния и улучшение здоровья.",
+      "es": "Atención médica o procedimientos dados para curar una enfermedad, lesión o condición y mejorar la salud.",
+      "pl": "Opieka medyczna lub procedury podawane w celu wyleczenia choroby, urazu lub stanu i poprawy zdrowia.",
+      "fa": "مراقبت یا روش‌های پزشکی برای درمان بیماری، آسیب یا وضعیت و بهبود سلامتی."
+    },
+    "examples": {
+      "en": ["I get treatment today.", "The treatment is very good.", "Do you need treatment now?"],
+      "de": ["Ich bekomme heute Behandlung.", "Die Behandlung ist sehr gut.", "Brauchst du jetzt Behandlung?"],
+      "ar": ["أتلقى العلاج اليوم.", "العلاج جيد جداً.", "هل تحتاج علاجاً الآن؟"],
+      "fr": ["Je reçois un traitement aujourd'hui.", "Le traitement est très bon.", "As-tu besoin de traitement maintenant?"],
+      "it": ["Ricevo trattamento oggi.", "Il trattamento è molto buono.", "Hai bisogno di trattamento ora?"],
+      "ru": ["Я получаю лечение сегодня.", "Лечение очень хорошее.", "Тебе нужно лечение сейчас?"],
+      "es": ["Recibo tratamiento hoy.", "El tratamiento es muy bueno.", "¿Necesitas tratamiento ahora?"],
+      "pl": ["Dostaję leczenie dzisiaj.", "Leczenie jest bardzo dobre.", "Potrzebujesz leczenia teraz?"],
+      "fa": ["من امروز درمان دریافت می‌کنم.", "درمان خیلی خوب است.", "الان درمان نیاز داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_832_en",
+    "word": "cure",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cure",
+      "de": "heilen",
+      "ar": "يشفي",
+      "fr": "guérir",
+      "it": "curare",
+      "ru": "вылечивать",
+      "es": "curar",
+      "pl": "leczyć",
+      "fa": "درمان کردن"
+    },
+    "explanations": {
+      "en": "To make someone healthy again by treating their illness or disease successfully.",
+      "de": "Jemanden wieder gesund machen, indem man seine Krankheit erfolgreich behandelt.",
+      "ar": "جعل شخص ما بصحة جيدة مرة أخرى من خلال علاج مرضه بنجاح.",
+      "fr": "Rendre quelqu'un en bonne santé à nouveau en traitant sa maladie avec succès.",
+      "it": "Rendere qualcuno di nuovo sano curando la sua malattia con successo.",
+      "ru": "Сделать кого-то здоровым снова, успешно вылечив его болезнь.",
+      "es": "Hacer que alguien esté sano nuevamente tratando su enfermedad exitosamente.",
+      "pl": "Sprawić, aby ktoś znów był zdrowy przez skuteczne leczenie jego choroby.",
+      "fa": "سالم کردن کسی با درمان موفقیت‌آمیز بیماری او."
+    },
+    "examples": {
+      "en": ["Can you cure me now?", "This will cure your pain.", "I want to cure quickly."],
+      "de": ["Kannst du mich jetzt heilen?", "Das wird deinen Schmerz heilen.", "Ich will schnell heilen."],
+      "ar": ["هل يمكنك شفائي الآن؟", "سيشفي هذا ألمك.", "أريد أن أشفى بسرعة."],
+      "fr": ["Peux-tu me guérir maintenant?", "Cela guérira ta douleur.", "Je veux guérir rapidement."],
+      "it": ["Puoi curarmi ora?", "Questo curerà il tuo dolore.", "Voglio curare rapidamente."],
+      "ru": ["Можешь вылечить меня сейчас?", "Это вылечит твою боль.", "Я хочу вылечиться быстро."],
+      "es": ["¿Puedes curarme ahora?", "Esto curará tu dolor.", "Quiero curarme rápidamente."],
+      "pl": ["Możesz mnie wyleczyć teraz?", "To wyleczy twój ból.", "Chcę się szybko wyleczyć."],
+      "fa": ["می‌توانی الان من را درمان کنی؟", "این دردت را درمان می‌کند.", "می‌خواهم سریع بهبود یابم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_833_en",
+    "word": "healthy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "healthy",
+      "de": "gesund",
+      "ar": "صحي",
+      "fr": "sain",
+      "it": "sano",
+      "ru": "здоровый",
+      "es": "saludable",
+      "pl": "zdrowy",
+      "fa": "سالم"
+    },
+    "explanations": {
+      "en": "In good physical and mental condition, free from illness and maintaining good health habits.",
+      "de": "In gutem körperlichem und geistigem Zustand, frei von Krankheit und mit guten Gesundheitsgewohnheiten.",
+      "ar": "في حالة جسدية وعقلية جيدة، خالٍ من المرض ومحافظ على عادات صحية جيدة.",
+      "fr": "En bonne condition physique et mentale, libre de maladie et maintenant de bonnes habitudes de santé.",
+      "it": "In buone condizioni fisiche e mentali, libero da malattia e mantenendo buone abitudini di salute.",
+      "ru": "В хорошем физическом и психическом состоянии, без болезней и с поддержанием хороших привычек здоровья.",
+      "es": "En buena condición física y mental, libre de enfermedad y manteniendo buenos hábitos de salud.",
+      "pl": "W dobrej kondycji fizycznej i psychicznej, wolny od choroby i utrzymujący dobre nawyki zdrowotne.",
+      "fa": "در وضعیت جسمی و ذهنی خوب، عاری از بیماری و حفظ عادات سلامتی خوب."
+    },
+    "examples": {
+      "en": ["I am very healthy now.", "She looks so healthy today.", "Do you feel healthy?"],
+      "de": ["Ich bin jetzt sehr gesund.", "Sie sieht heute so gesund aus.", "Fühlst du dich gesund?"],
+      "ar": ["أنا بصحة جيدة جداً الآن.", "تبدو بصحة جيدة جداً اليوم.", "هل تشعر بصحة جيدة؟"],
+      "fr": ["Je suis très sain maintenant.", "Elle a l'air si saine aujourd'hui.", "Te sens-tu sain?"],
+      "it": ["Sono molto sano ora.", "Lei sembra così sana oggi.", "Ti senti sano?"],
+      "ru": ["Я очень здоровый сейчас.", "Она выглядит так здорово сегодня.", "Ты чувствуешь себя здоровым?"],
+      "es": ["Estoy muy saludable ahora.", "Ella se ve tan saludable hoy.", "¿Te sientes saludable?"],
+      "pl": ["Jestem bardzo zdrowy teraz.", "Ona wygląda tak zdrowo dzisiaj.", "Czujesz się zdrowy?"],
+      "fa": ["من الان خیلی سالم هستم.", "او امروز خیلی سالم به نظر می‌رسد.", "احساس سلامتی می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_834_en",
+    "word": "exercise",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "exercise",
+      "de": "Übung",
+      "ar": "تمرين",
+      "fr": "exercice",
+      "it": "esercizio",
+      "ru": "упражнение",
+      "es": "ejercicio",
+      "pl": "ćwiczenie",
+      "fa": "ورزش"
+    },
+    "explanations": {
+      "en": "Physical activity done to stay healthy, become stronger, or improve fitness and body condition.",
+      "de": "Körperliche Aktivität, um gesund zu bleiben, stärker zu werden oder Fitness und Körperzustand zu verbessern.",
+      "ar": "نشاط بدني يتم للبقاء بصحة جيدة أو أن تصبح أقوى أو لتحسين اللياقة وحالة الجسم.",
+      "fr": "Activité physique faite pour rester en bonne santé, devenir plus fort ou améliorer la condition physique et corporelle.",
+      "it": "Attività fisica fatta per rimanere sani, diventare più forti o migliorare la forma fisica e la condizione corporea.",
+      "ru": "Физическая активность, выполняемая для поддержания здоровья, укрепления или улучшения физической формы и состояния тела.",
+      "es": "Actividad física hecha para mantenerse saludable, volverse más fuerte o mejorar la condición física y corporal.",
+      "pl": "Aktywność fizyczna wykonywana aby pozostać zdrowym, stać się silniejszym lub poprawić kondycję i stan ciała.",
+      "fa": "فعالیت فیزیکی انجام شده برای سالم ماندن، قوی‌تر شدن یا بهبود آمادگی جسمانی و وضعیت بدن."
+    },
+    "examples": {
+      "en": ["I do exercise daily.", "This exercise is very good.", "Do you like exercise?"],
+      "de": ["Ich mache täglich Übungen.", "Diese Übung ist sehr gut.", "Magst du Übungen?"],
+      "ar": ["أمارس التمرين يومياً.", "هذا التمرين جيد جداً.", "هل تحب التمرين؟"],
+      "fr": ["Je fais de l'exercice quotidiennement.", "Cet exercice est très bon.", "Aimes-tu l'exercice?"],
+      "it": ["Faccio esercizio quotidianamente.", "Questo esercizio è molto buono.", "Ti piace l'esercizio?"],
+      "ru": ["Я занимаюсь упражнениями ежедневно.", "Это упражнение очень хорошее.", "Тебе нравятся упражнения?"],
+      "es": ["Hago ejercicio diariamente.", "Este ejercicio es muy bueno.", "¿Te gusta el ejercicio?"],
+      "pl": ["Ćwiczę codziennie.", "To ćwiczenie jest bardzo dobre.", "Lubisz ćwiczenia?"],
+      "fa": ["من روزانه ورزش می‌کنم.", "این ورزش خیلی خوب است.", "ورزش را دوست داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_835_en",
+    "word": "rest",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "rest",
+      "de": "ruhen",
+      "ar": "يستريح",
+      "fr": "se reposer",
+      "it": "riposare",
+      "ru": "отдыхать",
+      "es": "descansar",
+      "pl": "odpoczywać",
+      "fa": "استراحت کردن"
+    },
+    "explanations": {
+      "en": "To relax and stop working or being active to recover energy and reduce tiredness.",
+      "de": "Sich entspannen und aufhören zu arbeiten oder aktiv zu sein, um Energie wiederzugewinnen und Müdigkeit zu reduzieren.",
+      "ar": "الاسترخاء والتوقف عن العمل أو النشاط لاستعادة الطاقة وتقليل التعب.",
+      "fr": "Se détendre et arrêter de travailler ou d'être actif pour récupérer de l'énergie et réduire la fatigue.",
+      "it": "Rilassarsi e smettere di lavorare o essere attivi per recuperare energia e ridurre la stanchezza.",
+      "ru": "Расслабиться и прекратить работать или быть активным, чтобы восстановить энергию и уменьшить усталость.",
+      "es": "Relajarse y dejar de trabajar o estar activo para recuperar energía y reducir el cansancio.",
+      "pl": "Odpoczywać i przestać pracować lub być aktywnym aby odzyskać energię i zmniejszyć zmęczenie.",
+      "fa": "استراحت کردن و متوقف کردن کار یا فعال بودن برای بازیابی انرژی و کاهش خستگی."
+    },
+    "examples": {
+      "en": ["I need to rest now.", "Please rest here today.", "You should rest more."],
+      "de": ["Ich muss jetzt ruhen.", "Bitte ruhe hier heute aus.", "Du solltest mehr ruhen."],
+      "ar": ["أحتاج أن أستريح الآن.", "من فضلك استرح هنا اليوم.", "يجب أن تستريح أكثر."],
+      "fr": ["J'ai besoin de me reposer maintenant.", "Repose-toi ici aujourd'hui s'il te plaît.", "Tu devrais te reposer plus."],
+      "it": ["Ho bisogno di riposare ora.", "Per favore riposa qui oggi.", "Dovresti riposare di più."],
+      "ru": ["Мне нужно отдохнуть сейчас.", "Пожалуйста, отдохни здесь сегодня.", "Тебе следует больше отдыхать."],
+      "es": ["Necesito descansar ahora.", "Por favor descansa aquí hoy.", "Deberías descansar más."],
+      "pl": ["Muszę odpocząć teraz.", "Proszę, odpocznij tutaj dzisiaj.", "Powinieneś więcej odpoczywać."],
+      "fa": ["من الان نیاز به استراحت دارم.", "لطفا امروز اینجا استراحت کن.", "باید بیشتر استراحت کنی."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_836_en",
+    "word": "sleep",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "спать",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "explanations": {
+      "en": "A natural state of rest where your eyes close and you become unconscious for hours.",
+      "de": "Ein natürlicher Ruhezustand, in dem sich Ihre Augen schließen und Sie für Stunden bewusstlos werden.",
+      "ar": "حالة راحة طبيعية حيث تغلق عينيك وتصبح فاقداً للوعي لساعات.",
+      "fr": "Un état de repos naturel où vos yeux se ferment et vous devenez inconscient pendant des heures.",
+      "it": "Uno stato naturale di riposo dove gli occhi si chiudono e diventi incosciente per ore.",
+      "ru": "Естественное состояние отдыха, когда ваши глаза закрываются и вы теряете сознание на часы.",
+      "es": "Un estado natural de descanso donde tus ojos se cierran y te vuelves inconsciente por horas.",
+      "pl": "Naturalny stan odpoczynku, w którym zamykają się oczy i stajesz się nieprzytomny przez godziny.",
+      "fa": "حالت طبیعی استراحت که چشمانتان بسته می‌شود و برای ساعت‌ها بیهوش می‌شوید."
+    },
+    "examples": {
+      "en": ["I sleep eight hours daily.", "I need more sleep now.", "Did you sleep well?"],
+      "de": ["Ich schlafe täglich acht Stunden.", "Ich brauche jetzt mehr Schlaf.", "Hast du gut geschlafen?"],
+      "ar": ["أنام ثماني ساعات يومياً.", "أحتاج المزيد من النوم الآن.", "هل نمت جيداً؟"],
+      "fr": ["Je dors huit heures quotidiennement.", "J'ai besoin de plus de sommeil maintenant.", "As-tu bien dormi?"],
+      "it": ["Dormo otto ore quotidianamente.", "Ho bisogno di più sonno ora.", "Hai dormito bene?"],
+      "ru": ["Я сплю восемь часов ежедневно.", "Мне нужно больше сна сейчас.", "Ты хорошо спал?"],
+      "es": ["Duermo ocho horas diariamente.", "Necesito más sueño ahora.", "¿Dormiste bien?"],
+      "pl": ["Śpię osiem godzin codziennie.", "Potrzebuję więcej snu teraz.", "Czy dobrze spałeś?"],
+      "fa": ["من روزانه هشت ساعت می‌خوابم.", "الان به خواب بیشتری نیاز دارم.", "خوب خوابیدی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_837_en",
+    "word": "energy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "energy",
+      "de": "Energie",
+      "ar": "طاقة",
+      "fr": "énergie",
+      "it": "energia",
+      "ru": "энергия",
+      "es": "energía",
+      "pl": "energia",
+      "fa": "انرژی"
+    },
+    "explanations": {
+      "en": "The physical and mental strength needed to do activities, work, or move around actively.",
+      "de": "Die körperliche und geistige Kraft, die benötigt wird, um Aktivitäten zu tun, zu arbeiten oder sich aktiv zu bewegen.",
+      "ar": "القوة الجسدية والعقلية اللازمة للقيام بالأنشطة أو العمل أو التحرك بنشاط.",
+      "fr": "La force physique et mentale nécessaire pour faire des activités, travailler ou se déplacer activement.",
+      "it": "La forza fisica e mentale necessaria per fare attività, lavorare o muoversi attivamente.",
+      "ru": "Физическая и умственная сила, необходимая для выполнения деятельности, работы или активного передвижения.",
+      "es": "La fuerza física y mental necesaria para hacer actividades, trabajar o moverse activamente.",
+      "pl": "Siła fizyczna i umysłowa potrzebna do wykonywania czynności, pracy lub aktywnego poruszania się.",
+      "fa": "قدرت جسمی و ذهنی مورد نیاز برای انجام فعالیت‌ها، کار یا حرکت فعال."
+    },
+    "examples": {
+      "en": ["I have much energy today.", "I need more energy now.", "Do you have energy?"],
+      "de": ["Ich habe heute viel Energie.", "Ich brauche jetzt mehr Energie.", "Hast du Energie?"],
+      "ar": ["لدي طاقة كثيرة اليوم.", "أحتاج المزيد من الطاقة الآن.", "هل لديك طاقة؟"],
+      "fr": ["J'ai beaucoup d'énergie aujourd'hui.", "J'ai besoin de plus d'énergie maintenant.", "As-tu de l'énergie?"],
+      "it": ["Ho molta energia oggi.", "Ho bisogno di più energia ora.", "Hai energia?"],
+      "ru": ["У меня много энергии сегодня.", "Мне нужно больше энергии сейчас.", "У тебя есть энергия?"],
+      "es": ["Tengo mucha energía hoy.", "Necesito más energía ahora.", "¿Tienes energía?"],
+      "pl": ["Mam dużo energii dzisiaj.", "Potrzebuję więcej energii teraz.", "Masz energię?"],
+      "fa": ["من امروز انرژی زیادی دارم.", "الان به انرژی بیشتری نیاز دارم.", "انرژی داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_838_en",
+    "word": "strong",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "strong",
+      "de": "stark",
+      "ar": "قوي",
+      "fr": "fort",
+      "it": "forte",
+      "ru": "сильный",
+      "es": "fuerte",
+      "pl": "silny",
+      "fa": "قوی"
+    },
+    "explanations": {
+      "en": "Having great physical power, ability to lift heavy things, or resist force effectively.",
+      "de": "Große körperliche Kraft haben, die Fähigkeit schwere Dinge zu heben oder Kraft effektiv widerstehen.",
+      "ar": "امتلاك قوة جسدية كبيرة، القدرة على رفع الأشياء الثقيلة، أو مقاومة القوة بفعالية.",
+      "fr": "Avoir une grande force physique, la capacité de soulever des choses lourdes ou de résister efficacement à la force.",
+      "it": "Avere grande forza fisica, capacità di sollevare cose pesanti o resistere efficacemente alla forza.",
+      "ru": "Обладать большой физической силой, способностью поднимать тяжёлые вещи или эффективно сопротивляться силе.",
+      "es": "Tener gran fuerza física, capacidad para levantar cosas pesadas o resistir la fuerza efectivamente.",
+      "pl": "Mieć wielką siłę fizyczną, zdolność podnoszenia ciężkich rzeczy lub skutecznego opierania się sile.",
+      "fa": "داشتن قدرت جسمی زیاد، توانایی بلند کردن چیزهای سنگین یا مقاومت موثر در برابر نیرو."
+    },
+    "examples": {
+      "en": ["I am very strong now.", "He is so strong today.", "Are you feeling strong?"],
+      "de": ["Ich bin jetzt sehr stark.", "Er ist heute so stark.", "Fühlst du dich stark?"],
+      "ar": ["أنا قوي جداً الآن.", "هو قوي جداً اليوم.", "هل تشعر بالقوة؟"],
+      "fr": ["Je suis très fort maintenant.", "Il est si fort aujourd'hui.", "Te sens-tu fort?"],
+      "it": ["Sono molto forte ora.", "Lui è così forte oggi.", "Ti senti forte?"],
+      "ru": ["Я очень сильный сейчас.", "Он такой сильный сегодня.", "Ты чувствуешь себя сильным?"],
+      "es": ["Soy muy fuerte ahora.", "Él es tan fuerte hoy.", "¿Te sientes fuerte?"],
+      "pl": ["Jestem bardzo silny teraz.", "On jest taki silny dzisiaj.", "Czujesz się silny?"],
+      "fa": ["من الان خیلی قوی هستم.", "او امروز خیلی قوی است.", "احساس قدرت می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_839_en",
+    "word": "weak",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "weak",
+      "de": "schwach",
+      "ar": "ضعيف",
+      "fr": "faible",
+      "it": "debole",
+      "ru": "слабый",
+      "es": "débil",
+      "pl": "słaby",
+      "fa": "ضعیف"
+    },
+    "explanations": {
+      "en": "Not having much physical power, strength, or energy to do things or resist force.",
+      "de": "Nicht viel körperliche Kraft, Stärke oder Energie haben, um Dinge zu tun oder Kraft zu widerstehen.",
+      "ar": "عدم امتلاك قوة جسدية أو قوة أو طاقة كبيرة للقيام بالأشياء أو مقاومة القوة.",
+      "fr": "Ne pas avoir beaucoup de force physique, de puissance ou d'énergie pour faire les choses ou résister à la force.",
+      "it": "Non avere molta forza fisica, potenza o energia per fare cose o resistere alla forza.",
+      "ru": "Не иметь много физической силы, мощи или энергии для выполнения вещей или сопротивления силе.",
+      "es": "No tener mucha fuerza física, poder o energía para hacer cosas o resistir la fuerza.",
+      "pl": "Nie mieć dużo siły fizycznej, mocy lub energii do robienia rzeczy lub opierania się sile.",
+      "fa": "نداشتن قدرت، نیرو یا انرژی جسمی زیاد برای انجام کارها یا مقاومت در برابر نیرو."
+    },
+    "examples": {
+      "en": ["I feel weak today.", "He looks very weak now.", "Are you feeling weak?"],
+      "de": ["Ich fühle mich heute schwach.", "Er sieht jetzt sehr schwach aus.", "Fühlst du dich schwach?"],
+      "ar": ["أشعر بالضعف اليوم.", "يبدو ضعيفاً جداً الآن.", "هل تشعر بالضعف؟"],
+      "fr": ["Je me sens faible aujourd'hui.", "Il a l'air très faible maintenant.", "Te sens-tu faible?"],
+      "it": ["Mi sento debole oggi.", "Lui sembra molto debole ora.", "Ti senti debole?"],
+      "ru": ["Я чувствую себя слабым сегодня.", "Он выглядит очень слабым сейчас.", "Ты чувствуешь себя слабым?"],
+      "es": ["Me siento débil hoy.", "Él se ve muy débil ahora.", "¿Te sientes débil?"],
+      "pl": ["Czuję się słaby dzisiaj.", "On wygląda bardzo słaby teraz.", "Czujesz się słaby?"],
+      "fa": ["من امروز احساس ضعف می‌کنم.", "او الان خیلی ضعیف به نظر می‌رسد.", "احساس ضعف می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_840_en",
+    "word": "tired",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "tired",
+      "de": "müde",
+      "ar": "متعب",
+      "fr": "fatigué",
+      "it": "stanco",
+      "ru": "уставший",
+      "es": "cansado",
+      "pl": "zmęczony",
+      "fa": "خسته"
+    },
+    "explanations": {
+      "en": "Feeling in need of rest or sleep because you have used a lot of energy or worked hard.",
+      "de": "Das Bedürfnis nach Ruhe oder Schlaf fühlen, weil Sie viel Energie verbraucht oder hart gearbeitet haben.",
+      "ar": "الشعور بالحاجة إلى الراحة أو النوم لأنك استخدمت الكثير من الطاقة أو عملت بجد.",
+      "fr": "Se sentir en besoin de repos ou de sommeil parce que vous avez utilisé beaucoup d'énergie ou travaillé dur.",
+      "it": "Sentirsi bisognosi di riposo o sonno perché hai usato molta energia o lavorato duramente.",
+      "ru": "Чувствовать потребность в отдыхе или сне, потому что вы потратили много энергии или тяжело работали.",
+      "es": "Sentirse en necesidad de descanso o sueño porque has usado mucha energía o trabajado duro.",
+      "pl": "Czuć potrzebę odpoczynku lub snu, ponieważ zużyłeś dużo energii lub ciężko pracowałeś.",
+      "fa": "احساس نیاز به استراحت یا خواب چون انرژی زیادی مصرف کرده‌اید یا سخت کار کرده‌اید."
+    },
+    "examples": {
+      "en": ["I am so tired today.", "She looks very tired now.", "Are you feeling tired?"],
+      "de": ["Ich bin heute so müde.", "Sie sieht jetzt sehr müde aus.", "Fühlst du dich müde?"],
+      "ar": ["أنا متعب جداً اليوم.", "تبدو متعبة جداً الآن.", "هل تشعر بالتعب؟"],
+      "fr": ["Je suis si fatigué aujourd'hui.", "Elle a l'air très fatiguée maintenant.", "Te sens-tu fatigué?"],
+      "it": ["Sono così stanco oggi.", "Lei sembra molto stanca ora.", "Ti senti stanco?"],
+      "ru": ["Я так уставший сегодня.", "Она выглядит очень уставшей сейчас.", "Ты чувствуешь себя уставшим?"],
+      "es": ["Estoy tan cansado hoy.", "Ella se ve muy cansada ahora.", "¿Te sientes cansado?"],
+      "pl": ["Jestem tak zmęczony dzisiaj.", "Ona wygląda bardzo zmęczona teraz.", "Czujesz się zmęczony?"],
+      "fa": ["من امروز خیلی خسته هستم.", "او الان خیلی خسته به نظر می‌رسد.", "احساس خستگی می‌کنی؟"]
+    },
+    "conjugations": null
+  }
+]

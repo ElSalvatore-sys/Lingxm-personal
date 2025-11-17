@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_501_en",
+    "word": "walk",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "walk",
+      "de": "gehen",
+      "ar": "يمشي",
+      "fr": "marcher",
+      "it": "camminare",
+      "ru": "ходить",
+      "es": "caminar",
+      "pl": "chodzić",
+      "fa": "راه رفتن"
+    },
+    "explanations": {
+      "en": "To move forward by putting one foot in front of the other at a normal speed.",
+      "de": "Sich vorwärts bewegen, indem man einen Fuß vor den anderen setzt bei normaler Geschwindigkeit.",
+      "ar": "التحرك للأمام بوضع قدم أمام الأخرى بسرعة عادية.",
+      "fr": "Avancer en mettant un pied devant l'autre à une vitesse normale.",
+      "it": "Muoversi in avanti mettendo un piede davanti all'altro a velocità normale.",
+      "ru": "Двигаться вперёд, ставя одну ногу перед другой с нормальной скоростью.",
+      "es": "Moverse hacia adelante poniendo un pie delante del otro a velocidad normal.",
+      "pl": "Poruszać się naprzód stawiając jedną stopę przed drugą z normalną prędkością.",
+      "fa": "حرکت به جلو با قرار دادن یک پا جلوی دیگری با سرعت عادی."
+    },
+    "examples": {
+      "en": ["I walk to school.", "We walk in the park.", "She can walk now."],
+      "de": ["Ich gehe zur Schule.", "Wir gehen im Park.", "Sie kann jetzt gehen."],
+      "ar": ["أمشي إلى المدرسة.", "نمشي في الحديقة.", "يمكنها أن تمشي الآن."],
+      "fr": ["Je marche à l'école.", "Nous marchons dans le parc.", "Elle peut marcher maintenant."],
+      "it": ["Cammino a scuola.", "Camminiamo nel parco.", "Lei può camminare ora."],
+      "ru": ["Я хожу в школу.", "Мы ходим в парке.", "Она может ходить сейчас."],
+      "es": ["Camino a la escuela.", "Caminamos en el parque.", "Ella puede caminar ahora."],
+      "pl": ["Chodzę do szkoły.", "Chodzimy w parku.", "Ona może teraz chodzić."],
+      "fa": ["من به مدرسه راه می‌روم.", "ما در پارک راه می‌رویم.", "او الان می‌تواند راه برود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_502_en",
+    "word": "run",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "run",
+      "de": "rennen",
+      "ar": "يركض",
+      "fr": "courir",
+      "it": "correre",
+      "ru": "бегать",
+      "es": "correr",
+      "pl": "biegać",
+      "fa": "دویدن"
+    },
+    "explanations": {
+      "en": "To move quickly on foot by taking fast steps with both feet leaving the ground.",
+      "de": "Sich schnell zu Fuß bewegen, indem man schnelle Schritte macht mit beiden Füßen vom Boden.",
+      "ar": "التحرك بسرعة على القدمين باتخاذ خطوات سريعة مع رفع كلا القدمين عن الأرض.",
+      "fr": "Se déplacer rapidement à pied en faisant des pas rapides avec les deux pieds quittant le sol.",
+      "it": "Muoversi velocemente a piedi facendo passi veloci con entrambi i piedi che lasciano il suolo.",
+      "ru": "Быстро двигаться на ногах, делая быстрые шаги с отрывом обеих ног от земли.",
+      "es": "Moverse rápidamente a pie dando pasos rápidos con ambos pies dejando el suelo.",
+      "pl": "Poruszać się szybko pieszo robiąc szybkie kroki z obiema stopami opuszczającymi ziemię.",
+      "fa": "حرکت سریع با پا با برداشتن قدم‌های سریع با بلند شدن هر دو پا از زمین."
+    },
+    "examples": {
+      "en": ["I run every day.", "He can run fast.", "Let's run to home."],
+      "de": ["Ich renne jeden Tag.", "Er kann schnell rennen.", "Lass uns nach Hause rennen."],
+      "ar": ["أركض كل يوم.", "يمكنه أن يركض بسرعة.", "دعنا نركض إلى المنزل."],
+      "fr": ["Je cours chaque jour.", "Il peut courir vite.", "Courons à la maison."],
+      "it": ["Corro ogni giorno.", "Lui può correre veloce.", "Corriamo a casa."],
+      "ru": ["Я бегаю каждый день.", "Он может бегать быстро.", "Давай побежим домой."],
+      "es": ["Corro cada día.", "Él puede correr rápido.", "Corramos a casa."],
+      "pl": ["Biegam każdego dnia.", "On może biegać szybko.", "Biegnijmy do domu."],
+      "fa": ["من هر روز می‌دوم.", "او می‌تواند سریع بدود.", "بیا به خانه بدویم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_503_en",
+    "word": "eat",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "eat",
+      "de": "essen",
+      "ar": "يأكل",
+      "fr": "manger",
+      "it": "mangiare",
+      "ru": "есть",
+      "es": "comer",
+      "pl": "jeść",
+      "fa": "خوردن"
+    },
+    "explanations": {
+      "en": "To put food in your mouth, chew it, and swallow it for nutrition.",
+      "de": "Essen in den Mund nehmen, kauen und schlucken zur Ernährung.",
+      "ar": "وضع الطعام في فمك ومضغه وابتلاعه للتغذية.",
+      "fr": "Mettre de la nourriture dans votre bouche, la mâcher et l'avaler pour se nourrir.",
+      "it": "Mettere cibo in bocca, masticarlo e inghiottirlo per nutrizione.",
+      "ru": "Класть еду в рот, жевать её и глотать для питания.",
+      "es": "Poner comida en tu boca, masticarla y tragarla para nutrición.",
+      "pl": "Wkładać jedzenie do ust, żuć je i połykać dla odżywienia.",
+      "fa": "قرار دادن غذا در دهان، جویدن و قورت دادن آن برای تغذیه."
+    },
+    "examples": {
+      "en": ["I eat food now.", "We eat at home.", "Do you want to eat?"],
+      "de": ["Ich esse jetzt.", "Wir essen zu Hause.", "Willst du essen?"],
+      "ar": ["آكل الطعام الآن.", "نأكل في المنزل.", "هل تريد أن تأكل؟"],
+      "fr": ["Je mange maintenant.", "Nous mangeons à la maison.", "Veux-tu manger?"],
+      "it": ["Mangio ora.", "Mangiamo a casa.", "Vuoi mangiare?"],
+      "ru": ["Я ем сейчас.", "Мы едим дома.", "Ты хочешь есть?"],
+      "es": ["Como ahora.", "Comemos en casa.", "¿Quieres comer?"],
+      "pl": ["Jem teraz.", "Jemy w domu.", "Chcesz jeść?"],
+      "fa": ["من الان غذا می‌خورم.", "ما در خانه می‌خوریم.", "می‌خواهی بخوری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_504_en",
+    "word": "drink",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "пить",
+      "es": "beber",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "explanations": {
+      "en": "To take liquid into your mouth and swallow it to satisfy thirst or for enjoyment.",
+      "de": "Flüssigkeit in den Mund nehmen und schlucken um Durst zu stillen oder zum Genuss.",
+      "ar": "أخذ السائل في فمك وابتلاعه لإرواء العطش أو للمتعة.",
+      "fr": "Prendre du liquide dans votre bouche et l'avaler pour satisfaire la soif ou pour le plaisir.",
+      "it": "Prendere liquido in bocca e inghiottirlo per soddisfare la sete o per piacere.",
+      "ru": "Принимать жидкость в рот и глотать её для утоления жажды или удовольствия.",
+      "es": "Tomar líquido en tu boca y tragarlo para satisfacer la sed o por placer.",
+      "pl": "Brać płyn do ust i połykać go aby zaspokoić pragnienie lub dla przyjemności.",
+      "fa": "گرفتن مایع در دهان و قورت دادن آن برای رفع تشنگی یا لذت."
+    },
+    "examples": {
+      "en": ["I drink water.", "She drinks every day.", "Can I drink this?"],
+      "de": ["Ich trinke Wasser.", "Sie trinkt jeden Tag.", "Kann ich das trinken?"],
+      "ar": ["أشرب الماء.", "تشرب كل يوم.", "هل يمكنني شرب هذا؟"],
+      "fr": ["Je bois de l'eau.", "Elle boit chaque jour.", "Puis-je boire ça?"],
+      "it": ["Bevo acqua.", "Lei beve ogni giorno.", "Posso bere questo?"],
+      "ru": ["Я пью воду.", "Она пьёт каждый день.", "Могу я это пить?"],
+      "es": ["Bebo agua.", "Ella bebe cada día.", "¿Puedo beber esto?"],
+      "pl": ["Piję wodę.", "Ona pije każdego dnia.", "Czy mogę to pić?"],
+      "fa": ["من آب می‌نوشم.", "او هر روز می‌نوشد.", "می‌توانم این را بنوشم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_505_en",
+    "word": "sleep",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "спать",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "explanations": {
+      "en": "To rest your body and mind in a state of unconsciousness, usually at night.",
+      "de": "Körper und Geist in einem Zustand der Bewusstlosigkeit ruhen, normalerweise nachts.",
+      "ar": "إراحة جسمك وعقلك في حالة من فقدان الوعي، عادة في الليل.",
+      "fr": "Reposer votre corps et esprit dans un état d'inconscience, généralement la nuit.",
+      "it": "Riposare corpo e mente in uno stato di incoscienza, solitamente di notte.",
+      "ru": "Отдыхать телом и умом в состоянии бессознательности, обычно ночью.",
+      "es": "Descansar tu cuerpo y mente en un estado de inconsciencia, usualmente de noche.",
+      "pl": "Odpoczywać ciałem i umysłem w stanie nieprzytomności, zwykle w nocy.",
+      "fa": "استراحت بدن و ذهن در حالت بیهوشی، معمولا در شب."
+    },
+    "examples": {
+      "en": ["I sleep at night.", "He can sleep here.", "Do you want to sleep?"],
+      "de": ["Ich schlafe nachts.", "Er kann hier schlafen.", "Willst du schlafen?"],
+      "ar": ["أنام في الليل.", "يمكنه أن ينام هنا.", "هل تريد أن تنام؟"],
+      "fr": ["Je dors la nuit.", "Il peut dormir ici.", "Veux-tu dormir?"],
+      "it": ["Dormo di notte.", "Lui può dormire qui.", "Vuoi dormire?"],
+      "ru": ["Я сплю ночью.", "Он может спать здесь.", "Ты хочешь спать?"],
+      "es": ["Duermo de noche.", "Él puede dormir aquí.", "¿Quieres dormir?"],
+      "pl": ["Śpię w nocy.", "On może spać tutaj.", "Chcesz spać?"],
+      "fa": ["من در شب می‌خوابم.", "او می‌تواند اینجا بخوابد.", "می‌خواهی بخوابی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_506_en",
+    "word": "wake",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wake",
+      "de": "aufwachen",
+      "ar": "يستيقظ",
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "ru": "просыпаться",
+      "es": "despertar",
+      "pl": "budzić się",
+      "fa": "بیدار شدن"
+    },
+    "explanations": {
+      "en": "To stop sleeping and become conscious after a period of rest or sleep.",
+      "de": "Aufhören zu schlafen und bewusst werden nach einer Ruhe- oder Schlafphase.",
+      "ar": "التوقف عن النوم وأن تصبح واعياً بعد فترة من الراحة أو النوم.",
+      "fr": "Arrêter de dormir et devenir conscient après une période de repos ou sommeil.",
+      "it": "Smettere di dormire e diventare cosciente dopo un periodo di riposo o sonno.",
+      "ru": "Прекратить спать и стать сознательным после периода отдыха или сна.",
+      "es": "Dejar de dormir y volverse consciente después de un período de descanso o sueño.",
+      "pl": "Przestać spać i stać się świadomym po okresie odpoczynku lub snu.",
+      "fa": "متوقف کردن خواب و هوشیار شدن بعد از دوره استراحت یا خواب."
+    },
+    "examples": {
+      "en": ["I wake at seven.", "She can wake early.", "Please wake me now."],
+      "de": ["Ich wache um sieben auf.", "Sie kann früh aufwachen.", "Bitte weck mich jetzt."],
+      "ar": ["أستيقظ في السابعة.", "يمكنها أن تستيقظ مبكراً.", "من فضلك أيقظني الآن."],
+      "fr": ["Je me réveille à sept heures.", "Elle peut se réveiller tôt.", "Réveille-moi maintenant s'il te plaît."],
+      "it": ["Mi sveglio alle sette.", "Lei può svegliarsi presto.", "Svegliami ora per favore."],
+      "ru": ["Я просыпаюсь в семь.", "Она может проснуться рано.", "Пожалуйста, разбуди меня сейчас."],
+      "es": ["Me despierto a las siete.", "Ella puede despertar temprano.", "Despiértame ahora por favor."],
+      "pl": ["Budzę się o siódmej.", "Ona może budzić się wcześnie.", "Proszę, obudź mnie teraz."],
+      "fa": ["من ساعت هفت بیدار می‌شوم.", "او می‌تواند زود بیدار شود.", "لطفا الان من را بیدار کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_507_en",
+    "word": "study",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "study",
+      "de": "studieren",
+      "ar": "يدرس",
+      "fr": "étudier",
+      "it": "studiare",
+      "ru": "учиться",
+      "es": "estudiar",
+      "pl": "studiować",
+      "fa": "مطالعه کردن"
+    },
+    "explanations": {
+      "en": "To spend time learning about a subject by reading, practicing, or attending classes.",
+      "de": "Zeit damit verbringen, über ein Thema zu lernen durch Lesen, Üben oder Unterricht besuchen.",
+      "ar": "قضاء الوقت في التعلم عن موضوع من خلال القراءة أو الممارسة أو حضور الفصول.",
+      "fr": "Passer du temps à apprendre sur un sujet en lisant, pratiquant ou assistant à des cours.",
+      "it": "Passare tempo imparando su un argomento leggendo, praticando o frequentando lezioni.",
+      "ru": "Проводить время, изучая предмет путём чтения, практики или посещения занятий.",
+      "es": "Pasar tiempo aprendiendo sobre un tema leyendo, practicando o asistiendo a clases.",
+      "pl": "Spędzać czas ucząc się o temacie przez czytanie, praktykowanie lub uczęszczanie na zajęcia.",
+      "fa": "گذراندن زمان برای یادگیری درباره موضوعی با خواندن، تمرین یا شرکت در کلاس‌ها."
+    },
+    "examples": {
+      "en": ["I study every day.", "We study at school.", "She can study here."],
+      "de": ["Ich lerne jeden Tag.", "Wir lernen in der Schule.", "Sie kann hier lernen."],
+      "ar": ["أدرس كل يوم.", "ندرس في المدرسة.", "يمكنها أن تدرس هنا."],
+      "fr": ["J'étudie chaque jour.", "Nous étudions à l'école.", "Elle peut étudier ici."],
+      "it": ["Studio ogni giorno.", "Studiamo a scuola.", "Lei può studiare qui."],
+      "ru": ["Я учусь каждый день.", "Мы учимся в школе.", "Она может учиться здесь."],
+      "es": ["Estudio cada día.", "Estudiamos en la escuela.", "Ella puede estudiar aquí."],
+      "pl": ["Studiuję każdego dnia.", "Studiujemy w szkole.", "Ona może studiować tutaj."],
+      "fa": ["من هر روز مطالعه می‌کنم.", "ما در مدرسه مطالعه می‌کنیم.", "او می‌تواند اینجا مطالعه کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_508_en",
+    "word": "read",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "read",
+      "de": "lesen",
+      "ar": "يقرأ",
+      "fr": "lire",
+      "it": "leggere",
+      "ru": "читать",
+      "es": "leer",
+      "pl": "czytać",
+      "fa": "خواندن"
+    },
+    "explanations": {
+      "en": "To look at written words and understand their meaning by processing the text.",
+      "de": "Geschriebene Wörter ansehen und ihre Bedeutung verstehen durch Verarbeitung des Textes.",
+      "ar": "النظر إلى الكلمات المكتوبة وفهم معناها من خلال معالجة النص.",
+      "fr": "Regarder des mots écrits et comprendre leur sens en traitant le texte.",
+      "it": "Guardare parole scritte e comprendere il loro significato elaborando il testo.",
+      "ru": "Смотреть на написанные слова и понимать их значение, обрабатывая текст.",
+      "es": "Mirar palabras escritas y entender su significado procesando el texto.",
+      "pl": "Patrzeć na napisane słowa i rozumieć ich znaczenie przetwarzając tekst.",
+      "fa": "نگاه کردن به کلمات نوشته شده و درک معنی آنها با پردازش متن."
+    },
+    "examples": {
+      "en": ["I read a book.", "Can you read this?", "We read at home."],
+      "de": ["Ich lese ein Buch.", "Kannst du das lesen?", "Wir lesen zu Hause."],
+      "ar": ["أقرأ كتاباً.", "هل يمكنك قراءة هذا؟", "نقرأ في المنزل."],
+      "fr": ["Je lis un livre.", "Peux-tu lire ça?", "Nous lisons à la maison."],
+      "it": ["Leggo un libro.", "Puoi leggere questo?", "Leggiamo a casa."],
+      "ru": ["Я читаю книгу.", "Ты можешь прочитать это?", "Мы читаем дома."],
+      "es": ["Leo un libro.", "¿Puedes leer esto?", "Leemos en casa."],
+      "pl": ["Czytam książkę.", "Możesz to przeczytać?", "Czytamy w domu."],
+      "fa": ["من کتاب می‌خوانم.", "می‌توانی این را بخوانی؟", "ما در خانه می‌خوانیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_509_en",
+    "word": "write",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "писать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "explanations": {
+      "en": "To make letters, words, or symbols on paper or screen to communicate or record.",
+      "de": "Buchstaben, Wörter oder Symbole auf Papier oder Bildschirm machen zum Kommunizieren oder Aufzeichnen.",
+      "ar": "عمل حروف أو كلمات أو رموز على الورق أو الشاشة للتواصل أو التسجيل.",
+      "fr": "Faire des lettres, mots ou symboles sur papier ou écran pour communiquer ou enregistrer.",
+      "it": "Fare lettere, parole o simboli su carta o schermo per comunicare o registrare.",
+      "ru": "Делать буквы, слова или символы на бумаге или экране для общения или записи.",
+      "es": "Hacer letras, palabras o símbolos en papel o pantalla para comunicar o registrar.",
+      "pl": "Tworzyć litery, słowa lub symbole na papierze lub ekranie aby komunikować lub zapisywać.",
+      "fa": "ساختن حروف، کلمات یا نمادها روی کاغذ یا صفحه برای ارتباط یا ثبت."
+    },
+    "examples": {
+      "en": ["I write every day.", "Can you write this?", "She can write well."],
+      "de": ["Ich schreibe jeden Tag.", "Kannst du das schreiben?", "Sie kann gut schreiben."],
+      "ar": ["أكتب كل يوم.", "هل يمكنك كتابة هذا؟", "يمكنها أن تكتب جيداً."],
+      "fr": ["J'écris chaque jour.", "Peux-tu écrire ça?", "Elle peut bien écrire."],
+      "it": ["Scrivo ogni giorno.", "Puoi scrivere questo?", "Lei può scrivere bene."],
+      "ru": ["Я пишу каждый день.", "Ты можешь написать это?", "Она может писать хорошо."],
+      "es": ["Escribo cada día.", "¿Puedes escribir esto?", "Ella puede escribir bien."],
+      "pl": ["Piszę każdego dnia.", "Możesz to napisać?", "Ona może dobrze pisać."],
+      "fa": ["من هر روز می‌نویسم.", "می‌توانی این را بنویسی؟", "او می‌تواند خوب بنویسد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_510_en",
+    "word": "speak",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "speak",
+      "de": "sprechen",
+      "ar": "يتكلم",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить",
+      "es": "hablar",
+      "pl": "mówić",
+      "fa": "صحبت کردن"
+    },
+    "explanations": {
+      "en": "To say words aloud using your voice to communicate with someone or express thoughts.",
+      "de": "Wörter laut mit der Stimme sagen, um mit jemandem zu kommunizieren oder Gedanken auszudrücken.",
+      "ar": "قول الكلمات بصوت عالٍ باستخدام صوتك للتواصل مع شخص أو التعبير عن الأفكار.",
+      "fr": "Dire des mots à voix haute en utilisant votre voix pour communiquer avec quelqu'un ou exprimer des pensées.",
+      "it": "Dire parole ad alta voce usando la voce per comunicare con qualcuno o esprimere pensieri.",
+      "ru": "Произносить слова вслух голосом для общения с кем-то или выражения мыслей.",
+      "es": "Decir palabras en voz alta usando tu voz para comunicar con alguien o expresar pensamientos.",
+      "pl": "Wypowiadać słowa głośno używając głosu aby komunikować się z kimś lub wyrażać myśli.",
+      "fa": "گفتن کلمات با صدای بلند با استفاده از صدا برای ارتباط با کسی یا بیان افکار."
+    },
+    "examples": {
+      "en": ["I speak English.", "Can you speak now?", "She can speak well."],
+      "de": ["Ich spreche Englisch.", "Kannst du jetzt sprechen?", "Sie kann gut sprechen."],
+      "ar": ["أتكلم الإنجليزية.", "هل يمكنك أن تتكلم الآن؟", "يمكنها أن تتكلم جيداً."],
+      "fr": ["Je parle anglais.", "Peux-tu parler maintenant?", "Elle peut bien parler."],
+      "it": ["Parlo inglese.", "Puoi parlare ora?", "Lei può parlare bene."],
+      "ru": ["Я говорю по-английски.", "Ты можешь говорить сейчас?", "Она может говорить хорошо."],
+      "es": ["Hablo inglés.", "¿Puedes hablar ahora?", "Ella puede hablar bien."],
+      "pl": ["Mówię po angielsku.", "Możesz mówić teraz?", "Ona może dobrze mówić."],
+      "fa": ["من انگلیسی صحبت می‌کنم.", "می‌توانی الان صحبت کنی؟", "او می‌تواند خوب صحبت کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_511_en",
+    "word": "listen",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "listen",
+      "de": "zuhören",
+      "ar": "يستمع",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "ru": "слушать",
+      "es": "escuchar",
+      "pl": "słuchać",
+      "fa": "گوش دادن"
+    },
+    "explanations": {
+      "en": "To pay attention to sounds or someone speaking in order to hear and understand them.",
+      "de": "Auf Geräusche oder jemanden achten, der spricht, um sie zu hören und zu verstehen.",
+      "ar": "الانتباه إلى الأصوات أو شخص يتحدث من أجل سماعه وفهمه.",
+      "fr": "Faire attention aux sons ou à quelqu'un qui parle afin de les entendre et comprendre.",
+      "it": "Prestare attenzione ai suoni o a qualcuno che parla per sentirli e comprenderli.",
+      "ru": "Обращать внимание на звуки или кого-то говорящего, чтобы слышать и понимать их.",
+      "es": "Prestar atención a sonidos o alguien hablando para oírlos y comprenderlos.",
+      "pl": "Zwracać uwagę na dźwięki lub kogoś mówiącego aby ich usłyszeć i zrozumieć.",
+      "fa": "توجه کردن به صداها یا کسی که صحبت می‌کند برای شنیدن و درک آنها."
+    },
+    "examples": {
+      "en": ["I listen to music.", "Please listen to me.", "Can you listen now?"],
+      "de": ["Ich höre Musik zu.", "Bitte hör mir zu.", "Kannst du jetzt zuhören?"],
+      "ar": ["أستمع إلى الموسيقى.", "من فضلك استمع إلي.", "هل يمكنك أن تستمع الآن؟"],
+      "fr": ["J'écoute de la musique.", "Écoute-moi s'il te plaît.", "Peux-tu écouter maintenant?"],
+      "it": ["Ascolto la musica.", "Per favore ascoltami.", "Puoi ascoltare ora?"],
+      "ru": ["Я слушаю музыку.", "Пожалуйста, слушай меня.", "Ты можешь слушать сейчас?"],
+      "es": ["Escucho música.", "Escúchame por favor.", "¿Puedes escuchar ahora?"],
+      "pl": ["Słucham muzyki.", "Proszę, słuchaj mnie.", "Możesz słuchać teraz?"],
+      "fa": ["من به موسیقی گوش می‌دهم.", "لطفا به من گوش کن.", "می‌توانی الان گوش کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_512_en",
+    "word": "understand",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "understand",
+      "de": "verstehen",
+      "ar": "يفهم",
+      "fr": "comprendre",
+      "it": "capire",
+      "ru": "понимать",
+      "es": "entender",
+      "pl": "rozumieć",
+      "fa": "فهمیدن"
+    },
+    "explanations": {
+      "en": "To know the meaning of something or grasp the concept of information being communicated.",
+      "de": "Die Bedeutung von etwas wissen oder das Konzept der kommunizierten Information erfassen.",
+      "ar": "معرفة معنى شيء ما أو إدراك مفهوم المعلومات التي يتم توصيلها.",
+      "fr": "Connaître le sens de quelque chose ou saisir le concept de l'information communiquée.",
+      "it": "Conoscere il significato di qualcosa o afferrare il concetto di informazioni comunicate.",
+      "ru": "Знать значение чего-то или понимать концепцию передаваемой информации.",
+      "es": "Conocer el significado de algo o captar el concepto de información comunicada.",
+      "pl": "Znać znaczenie czegoś lub chwytać pojęcie przekazywanej informacji.",
+      "fa": "دانستن معنی چیزی یا درک مفهوم اطلاعاتی که منتقل می‌شود."
+    },
+    "examples": {
+      "en": ["I understand you.", "Do you understand this?", "She can understand me."],
+      "de": ["Ich verstehe dich.", "Verstehst du das?", "Sie kann mich verstehen."],
+      "ar": ["أفهمك.", "هل تفهم هذا؟", "يمكنها أن تفهمني."],
+      "fr": ["Je te comprends.", "Comprends-tu ça?", "Elle peut me comprendre."],
+      "it": ["Ti capisco.", "Capisci questo?", "Lei può capirmi."],
+      "ru": ["Я понимаю тебя.", "Ты понимаешь это?", "Она может понять меня."],
+      "es": ["Te entiendo.", "¿Entiendes esto?", "Ella puede entenderme."],
+      "pl": ["Rozumiem cię.", "Rozumiesz to?", "Ona może mnie rozumieć."],
+      "fa": ["تو را می‌فهمم.", "این را می‌فهمی؟", "او می‌تواند من را بفهمد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_513_en",
+    "word": "remember",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "remember",
+      "de": "erinnern",
+      "ar": "يتذكر",
+      "fr": "se souvenir",
+      "it": "ricordare",
+      "ru": "помнить",
+      "es": "recordar",
+      "pl": "pamiętać",
+      "fa": "به یاد آوردن"
+    },
+    "explanations": {
+      "en": "To bring back information or events from the past into your mind and think about them.",
+      "de": "Informationen oder Ereignisse aus der Vergangenheit in den Geist zurückbringen und darüber nachdenken.",
+      "ar": "إعادة المعلومات أو الأحداث من الماضي إلى ذهنك والتفكير فيها.",
+      "fr": "Ramener des informations ou événements du passé dans votre esprit et y penser.",
+      "it": "Riportare informazioni o eventi dal passato nella mente e pensarci.",
+      "ru": "Возвращать информацию или события из прошлого в ум и думать о них.",
+      "es": "Traer información o eventos del pasado a tu mente y pensar en ellos.",
+      "pl": "Przywoływać informacje lub wydarzenia z przeszłości do umysłu i myśleć o nich.",
+      "fa": "بازگرداندن اطلاعات یا رویدادها از گذشته به ذهن و فکر کردن درباره آنها."
+    },
+    "examples": {
+      "en": ["I remember you.", "Do you remember this?", "I can't remember now."],
+      "de": ["Ich erinnere mich an dich.", "Erinnerst du dich daran?", "Ich kann mich jetzt nicht erinnern."],
+      "ar": ["أتذكرك.", "هل تتذكر هذا؟", "لا أستطيع أن أتذكر الآن."],
+      "fr": ["Je me souviens de toi.", "Te souviens-tu de ça?", "Je ne me souviens pas maintenant."],
+      "it": ["Ti ricordo.", "Ti ricordi questo?", "Non riesco a ricordare ora."],
+      "ru": ["Я помню тебя.", "Ты помнишь это?", "Я не могу вспомнить сейчас."],
+      "es": ["Te recuerdo.", "¿Recuerdas esto?", "No puedo recordar ahora."],
+      "pl": ["Pamiętam cię.", "Pamiętasz to?", "Nie mogę teraz pamiętać."],
+      "fa": ["تو را به یاد می‌آورم.", "این را به یاد می‌آوری؟", "الان نمی‌توانم به یاد بیاورم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_514_en",
+    "word": "forget",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "forget",
+      "de": "vergessen",
+      "ar": "ينسى",
+      "fr": "oublier",
+      "it": "dimenticare",
+      "ru": "забывать",
+      "es": "olvidar",
+      "pl": "zapominać",
+      "fa": "فراموش کردن"
+    },
+    "explanations": {
+      "en": "To be unable to remember or recall something that was previously known or experienced.",
+      "de": "Unfähig sein, sich an etwas zu erinnern, das zuvor bekannt oder erlebt wurde.",
+      "ar": "عدم القدرة على تذكر أو استرجاع شيء كان معروفاً أو مجرباً سابقاً.",
+      "fr": "Être incapable de se souvenir de quelque chose qui était auparavant connu ou vécu.",
+      "it": "Essere incapace di ricordare qualcosa che era precedentemente conosciuto o sperimentato.",
+      "ru": "Быть неспособным вспомнить что-то, что было ранее известно или пережито.",
+      "es": "Ser incapaz de recordar algo que fue previamente conocido o experimentado.",
+      "pl": "Być niezdolnym do zapamiętania czegoś, co było wcześniej znane lub doświadczone.",
+      "fa": "ناتوانی در به یاد آوردن چیزی که قبلا دانسته یا تجربه شده بود."
+    },
+    "examples": {
+      "en": ["I forget your name.", "Don't forget this.", "I can forget now."],
+      "de": ["Ich vergesse deinen Namen.", "Vergiss das nicht.", "Ich kann jetzt vergessen."],
+      "ar": ["أنسى اسمك.", "لا تنس هذا.", "يمكنني أن أنسى الآن."],
+      "fr": ["J'oublie ton nom.", "N'oublie pas ça.", "Je peux oublier maintenant."],
+      "it": ["Dimentico il tuo nome.", "Non dimenticare questo.", "Posso dimenticare ora."],
+      "ru": ["Я забываю твоё имя.", "Не забывай это.", "Я могу забыть сейчас."],
+      "es": ["Olvido tu nombre.", "No olvides esto.", "Puedo olvidar ahora."],
+      "pl": ["Zapominam twoje imię.", "Nie zapomnij tego.", "Mogę zapomnieć teraz."],
+      "fa": ["اسم تو را فراموش می‌کنم.", "این را فراموش نکن.", "می‌توانم الان فراموش کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_515_en",
+    "word": "believe",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "believe",
+      "de": "glauben",
+      "ar": "يؤمن",
+      "fr": "croire",
+      "it": "credere",
+      "ru": "верить",
+      "es": "creer",
+      "pl": "wierzyć",
+      "fa": "باور کردن"
+    },
+    "explanations": {
+      "en": "To accept that something is true or real, or have confidence and trust in someone.",
+      "de": "Akzeptieren, dass etwas wahr oder real ist, oder Vertrauen in jemanden haben.",
+      "ar": "قبول أن شيئاً ما صحيح أو حقيقي، أو أن يكون لديك ثقة في شخص ما.",
+      "fr": "Accepter que quelque chose soit vrai ou réel, ou avoir confiance en quelqu'un.",
+      "it": "Accettare che qualcosa sia vero o reale, o avere fiducia in qualcuno.",
+      "ru": "Принимать, что что-то истинно или реально, или иметь доверие к кому-то.",
+      "es": "Aceptar que algo es verdadero o real, o tener confianza en alguien.",
+      "pl": "Akceptować, że coś jest prawdziwe lub rzeczywiste, lub mieć zaufanie do kogoś.",
+      "fa": "پذیرفتن اینکه چیزی درست یا واقعی است، یا داشتن اعتماد به کسی."
+    },
+    "examples": {
+      "en": ["I believe you.", "Do you believe this?", "I can't believe it."],
+      "de": ["Ich glaube dir.", "Glaubst du das?", "Ich kann es nicht glauben."],
+      "ar": ["أؤمن بك.", "هل تؤمن بهذا؟", "لا أستطيع أن أصدق ذلك."],
+      "fr": ["Je te crois.", "Crois-tu ça?", "Je ne peux pas le croire."],
+      "it": ["Ti credo.", "Credi questo?", "Non posso crederci."],
+      "ru": ["Я верю тебе.", "Ты веришь в это?", "Я не могу в это поверить."],
+      "es": ["Te creo.", "¿Crees esto?", "No puedo creerlo."],
+      "pl": ["Wierzę ci.", "Wierzysz w to?", "Nie mogę w to uwierzyć."],
+      "fa": ["باورت می‌کنم.", "این را باور می‌کنی؟", "نمی‌توانم باورش کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_516_en",
+    "word": "hope",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hope",
+      "de": "hoffen",
+      "ar": "يأمل",
+      "fr": "espérer",
+      "it": "sperare",
+      "ru": "надеяться",
+      "es": "esperar",
+      "pl": "mieć nadzieję",
+      "fa": "امیدوار بودن"
+    },
+    "explanations": {
+      "en": "To want something to happen or be true and think it is possible or likely.",
+      "de": "Wollen, dass etwas passiert oder wahr ist und denken, es ist möglich oder wahrscheinlich.",
+      "ar": "أن ترغب في حدوث شيء أو أن يكون صحيحاً وتعتقد أنه ممكن أو محتمل.",
+      "fr": "Vouloir que quelque chose arrive ou soit vrai et penser que c'est possible ou probable.",
+      "it": "Volere che qualcosa accada o sia vero e pensare che sia possibile o probabile.",
+      "ru": "Хотеть, чтобы что-то произошло или было правдой, и думать, что это возможно или вероятно.",
+      "es": "Querer que algo suceda o sea verdad y pensar que es posible o probable.",
+      "pl": "Chcieć, aby coś się stało lub było prawdziwe i myśleć, że jest to możliwe lub prawdopodobne.",
+      "fa": "خواستن اینکه چیزی اتفاق بیفتد یا درست باشد و فکر کردن که ممکن یا محتمل است."
+    },
+    "examples": {
+      "en": ["I hope you come.", "I hope for good.", "Do you hope this?"],
+      "de": ["Ich hoffe, du kommst.", "Ich hoffe auf Gutes.", "Hoffst du das?"],
+      "ar": ["آمل أن تأتي.", "آمل في الخير.", "هل تأمل هذا؟"],
+      "fr": ["J'espère que tu viens.", "J'espère du bien.", "Espères-tu ça?"],
+      "it": ["Spero che tu venga.", "Spero nel bene.", "Speri questo?"],
+      "ru": ["Я надеюсь, ты придёшь.", "Я надеюсь на хорошее.", "Ты надеешься на это?"],
+      "es": ["Espero que vengas.", "Espero lo bueno.", "¿Esperas esto?"],
+      "pl": ["Mam nadzieję, że przyjdziesz.", "Mam nadzieję na dobre.", "Masz nadzieję na to?"],
+      "fa": ["امیدوارم بیایی.", "امیدوار به خوبی هستم.", "امیدوار به این هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_517_en",
+    "word": "wish",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wish",
+      "de": "wünschen",
+      "ar": "يتمنى",
+      "fr": "souhaiter",
+      "it": "desiderare",
+      "ru": "желать",
+      "es": "desear",
+      "pl": "życzyć",
+      "fa": "آرزو کردن"
+    },
+    "explanations": {
+      "en": "To want something to happen, especially something that seems difficult or unlikely to achieve.",
+      "de": "Wollen, dass etwas passiert, besonders etwas, das schwierig oder unwahrscheinlich zu erreichen scheint.",
+      "ar": "أن ترغب في حدوث شيء، خاصة شيئاً يبدو صعباً أو غير محتمل تحقيقه.",
+      "fr": "Vouloir que quelque chose arrive, surtout quelque chose qui semble difficile ou improbable à atteindre.",
+      "it": "Volere che qualcosa accada, specialmente qualcosa che sembra difficile o improbabile da raggiungere.",
+      "ru": "Хотеть, чтобы что-то произошло, особенно что-то сложное или маловероятное для достижения.",
+      "es": "Querer que algo suceda, especialmente algo que parece difícil o improbable de lograr.",
+      "pl": "Chcieć, aby coś się stało, szczególnie coś, co wydaje się trudne lub mało prawdopodobne do osiągnięcia.",
+      "fa": "خواستن اتفاق افتادن چیزی، به‌ویژه چیزی که سخت یا بعید به نظر می‌رسد."
+    },
+    "examples": {
+      "en": ["I wish I can.", "I wish you well.", "What do you wish?"],
+      "de": ["Ich wünschte, ich könnte.", "Ich wünsche dir Gutes.", "Was wünschst du?"],
+      "ar": ["أتمنى أن أستطيع.", "أتمنى لك خيراً.", "ماذا تتمنى؟"],
+      "fr": ["Je souhaite pouvoir.", "Je te souhaite du bien.", "Que souhaites-tu?"],
+      "it": ["Vorrei poter.", "Ti auguro il bene.", "Cosa desideri?"],
+      "ru": ["Я желаю, чтобы я мог.", "Я желаю тебе хорошего.", "Что ты желаешь?"],
+      "es": ["Deseo poder.", "Te deseo bien.", "¿Qué deseas?"],
+      "pl": ["Chciałbym móc.", "Życzę ci dobrze.", "Czego życzysz?"],
+      "fa": ["آرزو دارم بتوانم.", "برایت خوبی آرزو می‌کنم.", "چه آرزویی داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_518_en",
+    "word": "decide",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "decide",
+      "de": "entscheiden",
+      "ar": "يقرر",
+      "fr": "décider",
+      "it": "decidere",
+      "ru": "решать",
+      "es": "decidir",
+      "pl": "decydować",
+      "fa": "تصمیم گرفتن"
+    },
+    "explanations": {
+      "en": "To make a choice or judgment about something after thinking about different options or possibilities.",
+      "de": "Eine Wahl oder Entscheidung über etwas treffen nach dem Nachdenken über verschiedene Optionen oder Möglichkeiten.",
+      "ar": "اتخاذ خيار أو حكم بشأن شيء بعد التفكير في خيارات أو احتمالات مختلفة.",
+      "fr": "Faire un choix ou jugement sur quelque chose après avoir pensé à différentes options ou possibilités.",
+      "it": "Fare una scelta o giudizio su qualcosa dopo aver pensato a diverse opzioni o possibilità.",
+      "ru": "Делать выбор или суждение о чём-то после размышления о разных вариантах или возможностях.",
+      "es": "Hacer una elección o juicio sobre algo después de pensar en diferentes opciones o posibilidades.",
+      "pl": "Dokonać wyboru lub osądu o czymś po przemyśleniu różnych opcji lub możliwości.",
+      "fa": "انتخاب یا قضاوت درباره چیزی پس از فکر کردن درباره گزینه‌ها یا احتمالات مختلف."
+    },
+    "examples": {
+      "en": ["I decide to go.", "Can you decide now?", "We can decide this."],
+      "de": ["Ich entscheide zu gehen.", "Kannst du jetzt entscheiden?", "Wir können das entscheiden."],
+      "ar": ["أقرر أن أذهب.", "هل يمكنك أن تقرر الآن؟", "يمكننا أن نقرر هذا."],
+      "fr": ["Je décide d'aller.", "Peux-tu décider maintenant?", "Nous pouvons décider ça."],
+      "it": ["Decido di andare.", "Puoi decidere ora?", "Possiamo decidere questo."],
+      "ru": ["Я решаю идти.", "Ты можешь решить сейчас?", "Мы можем решить это."],
+      "es": ["Decido ir.", "¿Puedes decidir ahora?", "Podemos decidir esto."],
+      "pl": ["Decyduję się iść.", "Możesz zdecydować teraz?", "Możemy to zdecydować."],
+      "fa": ["تصمیم می‌گیرم بروم.", "می‌توانی الان تصمیم بگیری؟", "می‌توانیم این را تصمیم بگیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_519_en",
+    "word": "choose",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "choose",
+      "de": "wählen",
+      "ar": "يختار",
+      "fr": "choisir",
+      "it": "scegliere",
+      "ru": "выбирать",
+      "es": "elegir",
+      "pl": "wybierać",
+      "fa": "انتخاب کردن"
+    },
+    "explanations": {
+      "en": "To pick or select one thing or person from a group of available options.",
+      "de": "Eine Sache oder Person aus einer Gruppe verfügbarer Optionen aussuchen oder auswählen.",
+      "ar": "اختيار شيء أو شخص واحد من مجموعة من الخيارات المتاحة.",
+      "fr": "Choisir ou sélectionner une chose ou personne parmi un groupe d'options disponibles.",
+      "it": "Scegliere o selezionare una cosa o persona da un gruppo di opzioni disponibili.",
+      "ru": "Выбрать одну вещь или человека из группы доступных вариантов.",
+      "es": "Elegir o seleccionar una cosa o persona de un grupo de opciones disponibles.",
+      "pl": "Wybrać jedną rzecz lub osobę z grupy dostępnych opcji.",
+      "fa": "انتخاب یک چیز یا شخص از گروهی از گزینه‌های موجود."
+    },
+    "examples": {
+      "en": ["I choose this one.", "Can you choose now?", "Please choose for me."],
+      "de": ["Ich wähle dieses.", "Kannst du jetzt wählen?", "Bitte wähle für mich."],
+      "ar": ["أختار هذا.", "هل يمكنك أن تختار الآن؟", "من فضلك اختر لي."],
+      "fr": ["Je choisis celui-ci.", "Peux-tu choisir maintenant?", "Choisis pour moi s'il te plaît."],
+      "it": ["Scelgo questo.", "Puoi scegliere ora?", "Per favore scegli per me."],
+      "ru": ["Я выбираю это.", "Ты можешь выбрать сейчас?", "Пожалуйста, выбери для меня."],
+      "es": ["Elijo este.", "¿Puedes elegir ahora?", "Por favor elige por mí."],
+      "pl": ["Wybieram to.", "Możesz wybrać teraz?", "Proszę, wybierz dla mnie."],
+      "fa": ["این را انتخاب می‌کنم.", "می‌توانی الان انتخاب کنی؟", "لطفا برای من انتخاب کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_520_en",
+    "word": "prefer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "prefer",
+      "de": "bevorzugen",
+      "ar": "يفضل",
+      "fr": "préférer",
+      "it": "preferire",
+      "ru": "предпочитать",
+      "es": "preferir",
+      "pl": "woleć",
+      "fa": "ترجیح دادن"
+    },
+    "explanations": {
+      "en": "To like one thing or person better than another and choose it if possible.",
+      "de": "Eine Sache oder Person lieber mögen als eine andere und sie wählen wenn möglich.",
+      "ar": "أن تحب شيئاً أو شخصاً أكثر من آخر وتختاره إن أمكن.",
+      "fr": "Aimer une chose ou personne mieux qu'une autre et la choisir si possible.",
+      "it": "Piacere una cosa o persona più di un'altra e sceglierla se possibile.",
+      "ru": "Любить одну вещь или человека больше, чем другого, и выбрать её, если возможно.",
+      "es": "Gustar una cosa o persona más que otra y elegirla si es posible.",
+      "pl": "Lubić jedną rzecz lub osobę bardziej niż inną i wybrać ją jeśli to możliwe.",
+      "fa": "دوست داشتن یک چیز یا شخص بیشتر از دیگری و انتخاب آن اگر امکان داشته باشد."
+    },
+    "examples": {
+      "en": ["I prefer this one.", "Do you prefer tea?", "I prefer to go."],
+      "de": ["Ich bevorzuge dieses.", "Bevorzugst du Tee?", "Ich bevorzuge zu gehen."],
+      "ar": ["أفضل هذا.", "هل تفضل الشاي؟", "أفضل أن أذهب."],
+      "fr": ["Je préfère celui-ci.", "Préfères-tu le thé?", "Je préfère aller."],
+      "it": ["Preferisco questo.", "Preferisci il tè?", "Preferisco andare."],
+      "ru": ["Я предпочитаю это.", "Ты предпочитаешь чай?", "Я предпочитаю идти."],
+      "es": ["Prefiero este.", "¿Prefieres té?", "Prefiero ir."],
+      "pl": ["Wolę to.", "Wolisz herbatę?", "Wolę iść."],
+      "fa": ["این را ترجیح می‌دهم.", "چای را ترجیح می‌دهی؟", "ترجیح می‌دهم بروم."]
+    },
+    "conjugations": null
+  }
+]

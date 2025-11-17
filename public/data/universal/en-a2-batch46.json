@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_901_en",
+    "word": "problem",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "problem",
+      "de": "Problem",
+      "ar": "مشكلة",
+      "fr": "problème",
+      "it": "problema",
+      "ru": "проблема",
+      "es": "problema",
+      "pl": "problem",
+      "fa": "مشکل"
+    },
+    "explanations": {
+      "en": "A difficulty or situation that needs to be dealt with and solved or fixed.",
+      "de": "Eine Schwierigkeit oder Situation, die angegangen und gelöst oder behoben werden muss.",
+      "ar": "صعوبة أو موقف يحتاج إلى التعامل معه وحله أو إصلاحه.",
+      "fr": "Une difficulté ou situation qui doit être traitée et résolue ou réparée.",
+      "it": "Una difficoltà o situazione che deve essere affrontata e risolta o sistemata.",
+      "ru": "Трудность или ситуация, с которой нужно разобраться и решить или исправить.",
+      "es": "Una dificultad o situación que necesita ser tratada y resuelta o arreglada.",
+      "pl": "Trudność lub sytuacja, która musi być rozwiązana i naprawiona lub załatwiona.",
+      "fa": "مشکل یا موقعیتی که نیاز به برخورد و حل یا درست کردن دارد."
+    },
+    "examples": {
+      "en": ["I have a problem.", "This is a big problem.", "Can you solve problems?"],
+      "de": ["Ich habe ein Problem.", "Das ist ein großes Problem.", "Kannst du Probleme lösen?"],
+      "ar": ["لدي مشكلة.", "هذه مشكلة كبيرة.", "هل يمكنك حل المشاكل؟"],
+      "fr": ["J'ai un problème.", "C'est un gros problème.", "Peux-tu résoudre les problèmes?"],
+      "it": ["Ho un problema.", "Questo è un grosso problema.", "Puoi risolvere problemi?"],
+      "ru": ["У меня есть проблема.", "Это большая проблема.", "Ты можешь решать проблемы?"],
+      "es": ["Tengo un problema.", "Este es un gran problema.", "¿Puedes resolver problemas?"],
+      "pl": ["Mam problem.", "To jest duży problem.", "Możesz rozwiązywać problemy?"],
+      "fa": ["من یک مشکل دارم.", "این یک مشکل بزرگ است.", "می‌توانی مشکلات را حل کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_902_en",
+    "word": "solve",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "solve",
+      "de": "lösen",
+      "ar": "يحل",
+      "fr": "résoudre",
+      "it": "risolvere",
+      "ru": "решать",
+      "es": "resolver",
+      "pl": "rozwiązywać",
+      "fa": "حل کردن"
+    },
+    "explanations": {
+      "en": "To find an answer or way to deal with a problem and make it better.",
+      "de": "Eine Antwort oder einen Weg finden, mit einem Problem umzugehen und es besser zu machen.",
+      "ar": "إيجاد إجابة أو طريقة للتعامل مع مشكلة وجعلها أفضل.",
+      "fr": "Trouver une réponse ou un moyen de traiter un problème et le rendre meilleur.",
+      "it": "Trovare una risposta o modo di affrontare un problema e renderlo migliore.",
+      "ru": "Найти ответ или способ справиться с проблемой и сделать её лучше.",
+      "es": "Encontrar una respuesta o manera de tratar un problema y hacerlo mejor.",
+      "pl": "Znaleźć odpowiedź lub sposób na poradzenie sobie z problemem i uczynić go lepszym.",
+      "fa": "یافتن پاسخ یا راهی برای برخورد با مشکل و بهتر کردن آن."
+    },
+    "examples": {
+      "en": ["I can solve this.", "Let's solve the problem.", "Can you solve it?"],
+      "de": ["Ich kann das lösen.", "Lass uns das Problem lösen.", "Kannst du es lösen?"],
+      "ar": ["يمكنني حل هذا.", "دعنا نحل المشكلة.", "هل يمكنك حله؟"],
+      "fr": ["Je peux résoudre ça.", "Résolvons le problème.", "Peux-tu le résoudre?"],
+      "it": ["Posso risolvere questo.", "Risolviamo il problema.", "Puoi risolverlo?"],
+      "ru": ["Я могу решить это.", "Давай решим проблему.", "Ты можешь решить это?"],
+      "es": ["Puedo resolver esto.", "Resolvamos el problema.", "¿Puedes resolverlo?"],
+      "pl": ["Mogę to rozwiązać.", "Rozwiążmy problem.", "Możesz to rozwiązać?"],
+      "fa": ["می‌توانم این را حل کنم.", "بیا مشکل را حل کنیم.", "می‌توانی آن را حل کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_903_en",
+    "word": "help",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "help",
+      "de": "helfen",
+      "ar": "يساعد",
+      "fr": "aider",
+      "it": "aiutare",
+      "ru": "помогать",
+      "es": "ayudar",
+      "pl": "pomagać",
+      "fa": "کمک کردن"
+    },
+    "explanations": {
+      "en": "To make it easier for someone to do something by doing part of their work or giving support.",
+      "de": "Es jemandem leichter machen, etwas zu tun, indem man einen Teil ihrer Arbeit macht oder Unterstützung gibt.",
+      "ar": "جعل الأمر أسهل لشخص ما لفعل شيء من خلال القيام بجزء من عمله أو تقديم الدعم.",
+      "fr": "Rendre plus facile pour quelqu'un de faire quelque chose en faisant une partie de son travail ou en donnant du soutien.",
+      "it": "Rendere più facile per qualcuno fare qualcosa facendo parte del loro lavoro o dando supporto.",
+      "ru": "Облегчить кому-то что-то сделать, выполнив часть их работы или оказав поддержку.",
+      "es": "Hacer más fácil para alguien hacer algo haciendo parte de su trabajo o dando apoyo.",
+      "pl": "Ułatwić komuś zrobienie czegoś robiąc część jego pracy lub dając wsparcie.",
+      "fa": "آسان‌تر کردن انجام کاری برای کسی با انجام بخشی از کار او یا دادن حمایت."
+    },
+    "examples": {
+      "en": ["Can you help me?", "I need help now.", "Let me help you."],
+      "de": ["Kannst du mir helfen?", "Ich brauche jetzt Hilfe.", "Lass mich dir helfen."],
+      "ar": ["هل يمكنك أن تساعدني؟", "أحتاج إلى المساعدة الآن.", "دعني أساعدك."],
+      "fr": ["Peux-tu m'aider?", "J'ai besoin d'aide maintenant.", "Laisse-moi t'aider."],
+      "it": ["Puoi aiutarmi?", "Ho bisogno di aiuto ora.", "Lasciami aiutarti."],
+      "ru": ["Ты можешь мне помочь?", "Мне нужна помощь сейчас.", "Позволь мне помочь тебе."],
+      "es": ["¿Puedes ayudarme?", "Necesito ayuda ahora.", "Déjame ayudarte."],
+      "pl": ["Możesz mi pomóc?", "Potrzebuję pomocy teraz.", "Pozwól mi ci pomóc."],
+      "fa": ["می‌توانی به من کمک کنی؟", "الان به کمک نیاز دارم.", "بگذار به تو کمک کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_904_en",
+    "word": "need",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "need",
+      "de": "brauchen",
+      "ar": "يحتاج",
+      "fr": "avoir besoin",
+      "it": "aver bisogno",
+      "ru": "нуждаться",
+      "es": "necesitar",
+      "pl": "potrzebować",
+      "fa": "نیاز داشتن"
+    },
+    "explanations": {
+      "en": "To require something because it is essential or very important for a purpose or reason.",
+      "de": "Etwas benötigen, weil es wesentlich oder sehr wichtig für einen Zweck oder Grund ist.",
+      "ar": "أن تتطلب شيئاً لأنه ضروري أو مهم جداً لغرض أو سبب.",
+      "fr": "Avoir besoin de quelque chose parce que c'est essentiel ou très important pour un but ou une raison.",
+      "it": "Richiedere qualcosa perché è essenziale o molto importante per uno scopo o ragione.",
+      "ru": "Требовать чего-то, потому что это важно или очень важно для цели или причины.",
+      "es": "Requerir algo porque es esencial o muy importante para un propósito o razón.",
+      "pl": "Wymagać czegoś, ponieważ jest to istotne lub bardzo ważne dla celu lub powodu.",
+      "fa": "نیاز داشتن به چیزی چون برای یک هدف یا دلیل ضروری یا بسیار مهم است."
+    },
+    "examples": {
+      "en": ["I need water now.", "Do you need help?", "We need more time."],
+      "de": ["Ich brauche jetzt Wasser.", "Brauchst du Hilfe?", "Wir brauchen mehr Zeit."],
+      "ar": ["أحتاج إلى الماء الآن.", "هل تحتاج إلى المساعدة؟", "نحتاج إلى مزيد من الوقت."],
+      "fr": ["J'ai besoin d'eau maintenant.", "As-tu besoin d'aide?", "Nous avons besoin de plus de temps."],
+      "it": ["Ho bisogno di acqua ora.", "Hai bisogno di aiuto?", "Abbiamo bisogno di più tempo."],
+      "ru": ["Мне нужна вода сейчас.", "Тебе нужна помощь?", "Нам нужно больше времени."],
+      "es": ["Necesito agua ahora.", "¿Necesitas ayuda?", "Necesitamos más tiempo."],
+      "pl": ["Potrzebuję wody teraz.", "Potrzebujesz pomocy?", "Potrzebujemy więcej czasu."],
+      "fa": ["الان به آب نیاز دارم.", "به کمک نیاز داری؟", "ما به زمان بیشتری نیاز داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_905_en",
+    "word": "want",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "want",
+      "de": "wollen",
+      "ar": "يريد",
+      "fr": "vouloir",
+      "it": "volere",
+      "ru": "хотеть",
+      "es": "querer",
+      "pl": "chcieć",
+      "fa": "خواستن"
+    },
+    "explanations": {
+      "en": "To have a desire for something or wish to have or do something that you like.",
+      "de": "Ein Verlangen nach etwas haben oder wünschen, etwas zu haben oder zu tun, was man mag.",
+      "ar": "أن يكون لديك رغبة في شيء أو تتمنى أن يكون لديك أو تفعل شيئاً تحبه.",
+      "fr": "Avoir un désir pour quelque chose ou souhaiter avoir ou faire quelque chose que vous aimez.",
+      "it": "Avere un desiderio per qualcosa o desiderare avere o fare qualcosa che ti piace.",
+      "ru": "Иметь желание чего-то или хотеть иметь или делать что-то, что вам нравится.",
+      "es": "Tener un deseo de algo o desear tener o hacer algo que te gusta.",
+      "pl": "Mieć pragnienie czegoś lub chcieć mieć lub zrobić coś, co lubisz.",
+      "fa": "داشتن میل به چیزی یا آرزوی داشتن یا انجام دادن چیزی که دوست دارید."
+    },
+    "examples": {
+      "en": ["I want this now.", "Do you want food?", "What do you want?"],
+      "de": ["Ich will das jetzt.", "Willst du Essen?", "Was willst du?"],
+      "ar": ["أريد هذا الآن.", "هل تريد طعاماً؟", "ماذا تريد؟"],
+      "fr": ["Je veux ça maintenant.", "Veux-tu de la nourriture?", "Que veux-tu?"],
+      "it": ["Voglio questo ora.", "Vuoi cibo?", "Cosa vuoi?"],
+      "ru": ["Я хочу это сейчас.", "Ты хочешь еду?", "Что ты хочешь?"],
+      "es": ["Quiero esto ahora.", "¿Quieres comida?", "¿Qué quieres?"],
+      "pl": ["Chcę tego teraz.", "Chcesz jedzenie?", "Czego chcesz?"],
+      "fa": ["الان این را می‌خواهم.", "غذا می‌خواهی؟", "چه می‌خواهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_906_en",
+    "word": "try",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "try",
+      "de": "versuchen",
+      "ar": "يحاول",
+      "fr": "essayer",
+      "it": "provare",
+      "ru": "пытаться",
+      "es": "intentar",
+      "pl": "próbować",
+      "fa": "سعی کردن"
+    },
+    "explanations": {
+      "en": "To make an effort or attempt to do something even if you might not succeed.",
+      "de": "Eine Anstrengung oder einen Versuch machen, etwas zu tun, auch wenn man vielleicht nicht erfolgreich ist.",
+      "ar": "بذل جهد أو محاولة لفعل شيء حتى لو لم تنجح.",
+      "fr": "Faire un effort ou une tentative pour faire quelque chose même si vous pourriez ne pas réussir.",
+      "it": "Fare uno sforzo o tentativo di fare qualcosa anche se potresti non riuscire.",
+      "ru": "Прилагать усилие или попытку сделать что-то, даже если можешь не преуспеть.",
+      "es": "Hacer un esfuerzo o intento de hacer algo incluso si podrías no tener éxito.",
+      "pl": "Robić wysiłek lub próbę zrobienia czegoś nawet jeśli możesz nie odnieść sukcesu.",
+      "fa": "تلاش یا کوشش برای انجام کاری حتی اگر ممکن است موفق نشوید."
+    },
+    "examples": {
+      "en": ["I will try now.", "Please try this food.", "Can you try again?"],
+      "de": ["Ich werde es jetzt versuchen.", "Bitte probiere dieses Essen.", "Kannst du es nochmal versuchen?"],
+      "ar": ["سأحاول الآن.", "من فضلك جرب هذا الطعام.", "هل يمكنك أن تحاول مرة أخرى؟"],
+      "fr": ["Je vais essayer maintenant.", "Essaie cette nourriture s'il te plaît.", "Peux-tu essayer encore?"],
+      "it": ["Proverò ora.", "Per favore prova questo cibo.", "Puoi provare ancora?"],
+      "ru": ["Я попытаюсь сейчас.", "Пожалуйста, попробуй эту еду.", "Ты можешь попытаться снова?"],
+      "es": ["Intentaré ahora.", "Por favor prueba esta comida.", "¿Puedes intentar otra vez?"],
+      "pl": ["Spróbuję teraz.", "Proszę, spróbuj tego jedzenia.", "Możesz spróbować jeszcze raz?"],
+      "fa": ["الان سعی می‌کنم.", "لطفا این غذا را امتحان کن.", "می‌توانی دوباره سعی کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_907_en",
+    "word": "can",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "can",
+      "de": "können",
+      "ar": "يستطيع",
+      "fr": "pouvoir",
+      "it": "potere",
+      "ru": "мочь",
+      "es": "poder",
+      "pl": "móc",
+      "fa": "توانستن"
+    },
+    "explanations": {
+      "en": "To be able to do something or have the ability, skill, or permission to do it.",
+      "de": "In der Lage sein, etwas zu tun oder die Fähigkeit, Fertigkeit oder Erlaubnis dazu haben.",
+      "ar": "أن تكون قادراً على فعل شيء أو أن يكون لديك القدرة أو المهارة أو الإذن لفعله.",
+      "fr": "Être capable de faire quelque chose ou avoir l'habileté, la compétence ou la permission de le faire.",
+      "it": "Essere in grado di fare qualcosa o avere l'abilità, competenza o permesso di farlo.",
+      "ru": "Быть способным делать что-то или иметь способность, навык или разрешение это делать.",
+      "es": "Ser capaz de hacer algo o tener la habilidad, destreza o permiso para hacerlo.",
+      "pl": "Być w stanie coś zrobić lub mieć zdolność, umiejętność lub pozwolenie to zrobić.",
+      "fa": "قادر بودن به انجام کاری یا داشتن توانایی، مهارت یا اجازه برای انجام آن."
+    },
+    "examples": {
+      "en": ["I can swim well.", "Can you help me?", "She can speak English."],
+      "de": ["Ich kann gut schwimmen.", "Kannst du mir helfen?", "Sie kann Englisch sprechen."],
+      "ar": ["يمكنني أن أسبح جيداً.", "هل يمكنك أن تساعدني؟", "يمكنها أن تتكلم الإنجليزية."],
+      "fr": ["Je peux bien nager.", "Peux-tu m'aider?", "Elle peut parler anglais."],
+      "it": ["Posso nuotare bene.", "Puoi aiutarmi?", "Lei può parlare inglese."],
+      "ru": ["Я могу хорошо плавать.", "Ты можешь мне помочь?", "Она может говорить по-английски."],
+      "es": ["Puedo nadar bien.", "¿Puedes ayudarme?", "Ella puede hablar inglés."],
+      "pl": ["Mogę dobrze pływać.", "Możesz mi pomóc?", "Ona może mówić po angielsku."],
+      "fa": ["می‌توانم خوب شنا کنم.", "می‌توانی به من کمک کنی؟", "او می‌تواند انگلیسی صحبت کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_908_en",
+    "word": "could",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "could",
+      "de": "könnte",
+      "ar": "يمكن أن",
+      "fr": "pourrait",
+      "it": "potrebbe",
+      "ru": "мог бы",
+      "es": "podría",
+      "pl": "mógłby",
+      "fa": "می‌توانست"
+    },
+    "explanations": {
+      "en": "Past tense of can, or used to express possibility or make polite requests.",
+      "de": "Vergangenheitsform von können, oder verwendet um Möglichkeit auszudrücken oder höfliche Bitten zu machen.",
+      "ar": "صيغة الماضي من يستطيع، أو تُستخدم للتعبير عن الاحتمال أو تقديم طلبات مهذبة.",
+      "fr": "Passé de pouvoir, ou utilisé pour exprimer la possibilité ou faire des demandes polies.",
+      "it": "Passato di potere, o usato per esprimere possibilità o fare richieste educate.",
+      "ru": "Прошедшее время от мочь, или используется для выражения возможности или вежливых просьб.",
+      "es": "Pasado de poder, o usado para expresar posibilidad o hacer solicitudes educadas.",
+      "pl": "Czas przeszły od móc, lub używany do wyrażania możliwości lub uprzejmych próśb.",
+      "fa": "زمان گذشته توانستن، یا برای بیان احتمال یا درخواست مودبانه استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I could help you.", "Could you come here?", "This could be good."],
+      "de": ["Ich könnte dir helfen.", "Könntest du herkommen?", "Das könnte gut sein."],
+      "ar": ["يمكن أن أساعدك.", "هل يمكن أن تأتي هنا؟", "هذا يمكن أن يكون جيداً."],
+      "fr": ["Je pourrais t'aider.", "Pourrais-tu venir ici?", "Cela pourrait être bien."],
+      "it": ["Potrei aiutarti.", "Potresti venire qui?", "Questo potrebbe essere buono."],
+      "ru": ["Я мог бы помочь тебе.", "Ты мог бы прийти сюда?", "Это могло бы быть хорошо."],
+      "es": ["Podría ayudarte.", "¿Podrías venir aquí?", "Esto podría ser bueno."],
+      "pl": ["Mógłbym ci pomóc.", "Mógłbyś tu przyjść?", "To mogłoby być dobre."],
+      "fa": ["می‌توانستم به تو کمک کنم.", "می‌توانستی اینجا بیایی؟", "این می‌توانست خوب باشد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_909_en",
+    "word": "should",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "should",
+      "de": "sollte",
+      "ar": "ينبغي",
+      "fr": "devrait",
+      "it": "dovrebbe",
+      "ru": "должен",
+      "es": "debería",
+      "pl": "powinien",
+      "fa": "باید"
+    },
+    "explanations": {
+      "en": "Used to indicate what is the right or sensible thing to do or what is expected.",
+      "de": "Verwendet, um anzuzeigen, was das Richtige oder Vernünftige zu tun ist oder was erwartet wird.",
+      "ar": "يُستخدم للإشارة إلى ما هو الشيء الصحيح أو المعقول للقيام به أو ما هو متوقع.",
+      "fr": "Utilisé pour indiquer ce qui est la chose correcte ou sensée à faire ou ce qui est attendu.",
+      "it": "Usato per indicare cosa è la cosa giusta o sensata da fare o cosa è atteso.",
+      "ru": "Используется для указания того, что правильно или разумно делать или что ожидается.",
+      "es": "Usado para indicar qué es lo correcto o sensato hacer o qué se espera.",
+      "pl": "Używany do wskazania co jest właściwe lub rozsądne do zrobienia lub co jest oczekiwane.",
+      "fa": "برای نشان دادن اینکه چه کاری درست یا منطقی است یا چه چیزی انتظار می‌رود استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["You should eat now.", "I should go home.", "We should be nice."],
+      "de": ["Du solltest jetzt essen.", "Ich sollte nach Hause gehen.", "Wir sollten nett sein."],
+      "ar": ["ينبغي أن تأكل الآن.", "ينبغي أن أذهب إلى المنزل.", "ينبغي أن نكون لطفاء."],
+      "fr": ["Tu devrais manger maintenant.", "Je devrais rentrer à la maison.", "Nous devrions être gentils."],
+      "it": ["Dovresti mangiare ora.", "Dovrei andare a casa.", "Dovremmo essere gentili."],
+      "ru": ["Ты должен есть сейчас.", "Я должен идти домой.", "Мы должны быть милыми."],
+      "es": ["Deberías comer ahora.", "Debería ir a casa.", "Deberíamos ser amables."],
+      "pl": ["Powinieneś jeść teraz.", "Powinienem iść do domu.", "Powinniśmy być mili."],
+      "fa": ["باید الان بخوری.", "باید به خانه بروم.", "باید خوب باشیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_910_en",
+    "word": "must",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "must",
+      "de": "müssen",
+      "ar": "يجب",
+      "fr": "devoir",
+      "it": "dovere",
+      "ru": "должен",
+      "es": "deber",
+      "pl": "musieć",
+      "fa": "باید"
+    },
+    "explanations": {
+      "en": "Used to express that something is necessary or very important and has to be done.",
+      "de": "Verwendet, um auszudrücken, dass etwas notwendig oder sehr wichtig ist und getan werden muss.",
+      "ar": "يُستخدم للتعبير عن أن شيئاً ما ضروري أو مهم جداً ويجب القيام به.",
+      "fr": "Utilisé pour exprimer que quelque chose est nécessaire ou très important et doit être fait.",
+      "it": "Usato per esprimere che qualcosa è necessario o molto importante e deve essere fatto.",
+      "ru": "Используется для выражения того, что что-то необходимо или очень важно и должно быть сделано.",
+      "es": "Usado para expresar que algo es necesario o muy importante y tiene que hacerse.",
+      "pl": "Używany do wyrażenia, że coś jest konieczne lub bardzo ważne i musi być zrobione.",
+      "fa": "برای بیان اینکه چیزی ضروری یا بسیار مهم است و باید انجام شود استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I must go now.", "You must eat this.", "We must be good."],
+      "de": ["Ich muss jetzt gehen.", "Du musst das essen.", "Wir müssen gut sein."],
+      "ar": ["يجب أن أذهب الآن.", "يجب أن تأكل هذا.", "يجب أن نكون جيدين."],
+      "fr": ["Je dois partir maintenant.", "Tu dois manger ça.", "Nous devons être bons."],
+      "it": ["Devo andare ora.", "Devi mangiare questo.", "Dobbiamo essere buoni."],
+      "ru": ["Я должен идти сейчас.", "Ты должен съесть это.", "Мы должны быть хорошими."],
+      "es": ["Debo irme ahora.", "Debes comer esto.", "Debemos ser buenos."],
+      "pl": ["Muszę iść teraz.", "Musisz to zjeść.", "Musimy być dobrzy."],
+      "fa": ["باید الان بروم.", "باید این را بخوری.", "باید خوب باشیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_911_en",
+    "word": "may",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "may",
+      "de": "dürfen",
+      "ar": "ربما",
+      "fr": "peut",
+      "it": "può",
+      "ru": "может",
+      "es": "puede",
+      "pl": "może",
+      "fa": "شاید"
+    },
+    "explanations": {
+      "en": "Used to express possibility or to ask for or give permission to do something.",
+      "de": "Verwendet, um Möglichkeit auszudrücken oder um Erlaubnis zu fragen oder zu geben, etwas zu tun.",
+      "ar": "يُستخدم للتعبير عن الاحتمال أو لطلب أو منح الإذن للقيام بشيء.",
+      "fr": "Utilisé pour exprimer la possibilité ou pour demander ou donner la permission de faire quelque chose.",
+      "it": "Usato per esprimere possibilità o per chiedere o dare permesso di fare qualcosa.",
+      "ru": "Используется для выражения возможности или для просьбы или предоставления разрешения что-то сделать.",
+      "es": "Usado para expresar posibilidad o para pedir o dar permiso para hacer algo.",
+      "pl": "Używany do wyrażania możliwości lub do proszenia lub dawania pozwolenia na zrobienie czegoś.",
+      "fa": "برای بیان احتمال یا درخواست یا دادن اجازه برای انجام کاری استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["It may rain today.", "May I come in?", "This may be good."],
+      "de": ["Es könnte heute regnen.", "Darf ich reinkommen?", "Das könnte gut sein."],
+      "ar": ["ربما تمطر اليوم.", "هل يمكنني أن أدخل؟", "هذا ربما يكون جيداً."],
+      "fr": ["Il peut pleuvoir aujourd'hui.", "Puis-je entrer?", "Cela peut être bien."],
+      "it": ["Può piovere oggi.", "Posso entrare?", "Questo può essere buono."],
+      "ru": ["Сегодня может пойти дождь.", "Могу я войти?", "Это может быть хорошо."],
+      "es": ["Puede llover hoy.", "¿Puedo entrar?", "Esto puede ser bueno."],
+      "pl": ["Może dziś padać.", "Czy mogę wejść?", "To może być dobre."],
+      "fa": ["شاید امروز باران ببارد.", "می‌توانم وارد شوم؟", "این شاید خوب باشد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_912_en",
+    "word": "might",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "might",
+      "de": "könnte",
+      "ar": "قد",
+      "fr": "pourrait",
+      "it": "potrebbe",
+      "ru": "может быть",
+      "es": "podría",
+      "pl": "może",
+      "fa": "ممکن است"
+    },
+    "explanations": {
+      "en": "Used to express a possibility that something may happen or be true but is not certain.",
+      "de": "Verwendet, um eine Möglichkeit auszudrücken, dass etwas passieren könnte oder wahr sein könnte, aber nicht sicher ist.",
+      "ar": "يُستخدم للتعبير عن احتمال أن شيئاً ما قد يحدث أو يكون صحيحاً لكنه غير مؤكد.",
+      "fr": "Utilisé pour exprimer une possibilité que quelque chose puisse arriver ou être vrai mais n'est pas certain.",
+      "it": "Usato per esprimere una possibilità che qualcosa possa accadere o essere vero ma non è certo.",
+      "ru": "Используется для выражения возможности того, что что-то может произойти или быть правдой, но не уверенно.",
+      "es": "Usado para expresar una posibilidad de que algo pueda suceder o ser verdad pero no es seguro.",
+      "pl": "Używany do wyrażenia możliwości, że coś może się zdarzyć lub być prawdą, ale nie jest pewne.",
+      "fa": "برای بیان احتمال اینکه چیزی ممکن است اتفاق بیفتد یا درست باشد اما مطمئن نیست استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["It might rain later.", "I might go there.", "This might work well."],
+      "de": ["Es könnte später regnen.", "Ich könnte dorthin gehen.", "Das könnte gut funktionieren."],
+      "ar": ["قد تمطر لاحقاً.", "قد أذهب إلى هناك.", "هذا قد يعمل جيداً."],
+      "fr": ["Il pourrait pleuvoir plus tard.", "Je pourrais y aller.", "Cela pourrait bien fonctionner."],
+      "it": ["Potrebbe piovere più tardi.", "Potrei andare lì.", "Questo potrebbe funzionare bene."],
+      "ru": ["Позже может пойти дождь.", "Я, может быть, пойду туда.", "Это может хорошо сработать."],
+      "es": ["Podría llover más tarde.", "Podría ir allí.", "Esto podría funcionar bien."],
+      "pl": ["Może później padać.", "Mogę tam pójść.", "To może dobrze działać."],
+      "fa": ["ممکن است بعدا باران ببارد.", "ممکن است به آنجا بروم.", "این ممکن است خوب کار کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_913_en",
+    "word": "able",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "able",
+      "de": "fähig",
+      "ar": "قادر",
+      "fr": "capable",
+      "it": "capace",
+      "ru": "способный",
+      "es": "capaz",
+      "pl": "zdolny",
+      "fa": "قادر"
+    },
+    "explanations": {
+      "en": "Having the power, skill, means, or opportunity to do something successfully or effectively.",
+      "de": "Die Macht, Fähigkeit, Mittel oder Gelegenheit haben, etwas erfolgreich oder effektiv zu tun.",
+      "ar": "امتلاك القوة أو المهارة أو الوسائل أو الفرصة للقيام بشيء بنجاح أو بفعالية.",
+      "fr": "Avoir le pouvoir, la compétence, les moyens ou l'opportunité de faire quelque chose avec succès ou efficacité.",
+      "it": "Avere il potere, l'abilità, i mezzi o l'opportunità di fare qualcosa con successo o efficacemente.",
+      "ru": "Обладать силой, навыком, средствами или возможностью делать что-то успешно или эффективно.",
+      "es": "Tener el poder, habilidad, medios u oportunidad para hacer algo exitosamente o efectivamente.",
+      "pl": "Posiadanie mocy, umiejętności, środków lub możliwości zrobienia czegoś pomyślnie lub skutecznie.",
+      "fa": "داشتن قدرت، مهارت، وسیله یا فرصت برای انجام موفقیت‌آمیز یا مؤثر کاری."
+    },
+    "examples": {
+      "en": ["I am able to swim.", "She is able to help.", "Are you able now?"],
+      "de": ["Ich bin fähig zu schwimmen.", "Sie ist fähig zu helfen.", "Bist du jetzt fähig?"],
+      "ar": ["أنا قادر على السباحة.", "هي قادرة على المساعدة.", "هل أنت قادر الآن؟"],
+      "fr": ["Je suis capable de nager.", "Elle est capable d'aider.", "Es-tu capable maintenant?"],
+      "it": ["Sono capace di nuotare.", "Lei è capace di aiutare.", "Sei capace ora?"],
+      "ru": ["Я способен плавать.", "Она способна помочь.", "Ты способен сейчас?"],
+      "es": ["Soy capaz de nadar.", "Ella es capaz de ayudar.", "¿Eres capaz ahora?"],
+      "pl": ["Jestem zdolny pływać.", "Ona jest zdolna pomóc.", "Jesteś zdolny teraz?"],
+      "fa": ["من قادرم شنا کنم.", "او قادر به کمک است.", "الان قادر هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_914_en",
+    "word": "possible",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "possible",
+      "de": "möglich",
+      "ar": "ممكن",
+      "fr": "possible",
+      "it": "possibile",
+      "ru": "возможный",
+      "es": "posible",
+      "pl": "możliwy",
+      "fa": "ممکن"
+    },
+    "explanations": {
+      "en": "Able to be done or happen, or likely to exist or be true in reality.",
+      "de": "In der Lage, getan zu werden oder zu geschehen, oder wahrscheinlich in der Realität zu existieren oder wahr zu sein.",
+      "ar": "قادر على أن يتم أو يحدث، أو من المحتمل أن يوجد أو يكون صحيحاً في الواقع.",
+      "fr": "Capable d'être fait ou arriver, ou susceptible d'exister ou être vrai dans la réalité.",
+      "it": "Capace di essere fatto o accadere, o probabile di esistere o essere vero nella realtà.",
+      "ru": "Способный быть сделанным или произойти, или вероятно существующий или истинный в реальности.",
+      "es": "Capaz de ser hecho o suceder, o probable de existir o ser verdad en realidad.",
+      "pl": "Zdolny być zrobionym lub się zdarzyć, lub prawdopodobnie istniejący lub prawdziwy w rzeczywistości.",
+      "fa": "قادر به انجام شدن یا اتفاق افتادن، یا احتمالا وجود داشتن یا درست بودن در واقعیت."
+    },
+    "examples": {
+      "en": ["Is this possible now?", "Everything is possible here.", "It's not possible today."],
+      "de": ["Ist das jetzt möglich?", "Alles ist hier möglich.", "Es ist heute nicht möglich."],
+      "ar": ["هل هذا ممكن الآن؟", "كل شيء ممكن هنا.", "إنه ليس ممكناً اليوم."],
+      "fr": ["Est-ce possible maintenant?", "Tout est possible ici.", "Ce n'est pas possible aujourd'hui."],
+      "it": ["È possibile ora?", "Tutto è possibile qui.", "Non è possibile oggi."],
+      "ru": ["Это возможно сейчас?", "Всё возможно здесь.", "Это не возможно сегодня."],
+      "es": ["¿Es esto posible ahora?", "Todo es posible aquí.", "No es posible hoy."],
+      "pl": ["Czy to możliwe teraz?", "Wszystko jest możliwe tutaj.", "To nie jest możliwe dziś."],
+      "fa": ["این الان ممکن است؟", "همه چیز اینجا ممکن است.", "امروز ممکن نیست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_915_en",
+    "word": "impossible",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "impossible",
+      "de": "unmöglich",
+      "ar": "مستحيل",
+      "fr": "impossible",
+      "it": "impossibile",
+      "ru": "невозможный",
+      "es": "imposible",
+      "pl": "niemożliwy",
+      "fa": "غیرممکن"
+    },
+    "explanations": {
+      "en": "Not able to be done, happen, or exist in reality under any circumstances or conditions.",
+      "de": "Nicht in der Lage, getan zu werden, zu geschehen oder in der Realität unter irgendwelchen Umständen oder Bedingungen zu existieren.",
+      "ar": "غير قادر على أن يتم أو يحدث أو يوجد في الواقع تحت أي ظروف أو شروط.",
+      "fr": "Pas capable d'être fait, arriver ou exister dans la réalité sous quelque circonstance ou condition.",
+      "it": "Non capace di essere fatto, accadere o esistere nella realtà sotto qualsiasi circostanza o condizione.",
+      "ru": "Не способный быть сделанным, произойти или существовать в реальности при любых обстоятельствах или условиях.",
+      "es": "No capaz de ser hecho, suceder o existir en realidad bajo ninguna circunstancia o condición.",
+      "pl": "Niezdolny być zrobionym, zdarzyć się lub istnieć w rzeczywistości pod jakimikolwiek okolicznościami lub warunkami.",
+      "fa": "قادر به انجام شدن، اتفاق افتادن یا وجود داشتن در واقعیت تحت هیچ شرایط یا وضعیتی نیست."
+    },
+    "examples": {
+      "en": ["This is impossible now.", "Nothing is impossible here.", "It's impossible for me."],
+      "de": ["Das ist jetzt unmöglich.", "Nichts ist hier unmöglich.", "Es ist unmöglich für mich."],
+      "ar": ["هذا مستحيل الآن.", "لا شيء مستحيل هنا.", "إنه مستحيل بالنسبة لي."],
+      "fr": ["C'est impossible maintenant.", "Rien n'est impossible ici.", "C'est impossible pour moi."],
+      "it": ["Questo è impossibile ora.", "Niente è impossibile qui.", "È impossibile per me."],
+      "ru": ["Это невозможно сейчас.", "Ничто не невозможно здесь.", "Это невозможно для меня."],
+      "es": ["Esto es imposible ahora.", "Nada es imposible aquí.", "Es imposible para mí."],
+      "pl": ["To jest niemożliwe teraz.", "Nic nie jest niemożliwe tutaj.", "To jest niemożliwe dla mnie."],
+      "fa": ["این الان غیرممکن است.", "هیچ چیز اینجا غیرممکن نیست.", "برای من غیرممکن است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_916_en",
+    "word": "difficult",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "difficult",
+      "de": "schwierig",
+      "ar": "صعب",
+      "fr": "difficile",
+      "it": "difficile",
+      "ru": "сложный",
+      "es": "difícil",
+      "pl": "trudny",
+      "fa": "سخت"
+    },
+    "explanations": {
+      "en": "Not easy to do, understand, or deal with, requiring much effort or skill to accomplish.",
+      "de": "Nicht einfach zu tun, zu verstehen oder damit umzugehen, erfordert viel Anstrengung oder Können zum Erreichen.",
+      "ar": "ليس سهلاً القيام به أو فهمه أو التعامل معه، يتطلب الكثير من الجهد أو المهارة للإنجاز.",
+      "fr": "Pas facile à faire, comprendre ou traiter, nécessitant beaucoup d'effort ou de compétence pour accomplir.",
+      "it": "Non facile da fare, capire o affrontare, richiedendo molto sforzo o abilità per realizzare.",
+      "ru": "Не легко сделать, понять или справиться, требующий много усилий или навыков для выполнения.",
+      "es": "No fácil de hacer, entender o tratar, requiriendo mucho esfuerzo o habilidad para lograr.",
+      "pl": "Niełatwy do zrobienia, zrozumienia lub poradzenia sobie, wymagający dużego wysiłku lub umiejętności do osiągnięcia.",
+      "fa": "آسان برای انجام، درک یا برخورد نیست، نیاز به تلاش یا مهارت زیادی برای انجام دارد."
+    },
+    "examples": {
+      "en": ["This is very difficult.", "Math is difficult for me.", "The test was difficult."],
+      "de": ["Das ist sehr schwierig.", "Mathe ist schwierig für mich.", "Der Test war schwierig."],
+      "ar": ["هذا صعب جداً.", "الرياضيات صعبة بالنسبة لي.", "كان الاختبار صعباً."],
+      "fr": ["C'est très difficile.", "Les maths sont difficiles pour moi.", "Le test était difficile."],
+      "it": ["Questo è molto difficile.", "La matematica è difficile per me.", "Il test era difficile."],
+      "ru": ["Это очень сложно.", "Математика сложная для меня.", "Тест был сложным."],
+      "es": ["Esto es muy difícil.", "Las matemáticas son difíciles para mí.", "El examen fue difícil."],
+      "pl": ["To jest bardzo trudne.", "Matematyka jest trudna dla mnie.", "Test był trudny."],
+      "fa": ["این خیلی سخت است.", "ریاضی برای من سخت است.", "آزمون سخت بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_917_en",
+    "word": "easy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "easy",
+      "de": "einfach",
+      "ar": "سهل",
+      "fr": "facile",
+      "it": "facile",
+      "ru": "лёгкий",
+      "es": "fácil",
+      "pl": "łatwy",
+      "fa": "آسان"
+    },
+    "explanations": {
+      "en": "Not difficult to do, understand, or deal with, requiring little effort or skill to accomplish.",
+      "de": "Nicht schwierig zu tun, zu verstehen oder damit umzugehen, erfordert wenig Anstrengung oder Können zum Erreichen.",
+      "ar": "ليس صعباً القيام به أو فهمه أو التعامل معه، يتطلب القليل من الجهد أو المهارة للإنجاز.",
+      "fr": "Pas difficile à faire, comprendre ou traiter, nécessitant peu d'effort ou de compétence pour accomplir.",
+      "it": "Non difficile da fare, capire o affrontare, richiedendo poco sforzo o abilità per realizzare.",
+      "ru": "Не сложно сделать, понять или справиться, требующий мало усилий или навыков для выполнения.",
+      "es": "No difícil de hacer, entender o tratar, requiriendo poco esfuerzo o habilidad para lograr.",
+      "pl": "Niełatrudny do zrobienia, zrozumienia lub poradzenia sobie, wymagający niewielkiego wysiłku lub umiejętności do osiągnięcia.",
+      "fa": "سخت برای انجام، درک یا برخورد نیست، نیاز به تلاش یا مهارت کمی برای انجام دارد."
+    },
+    "examples": {
+      "en": ["This is very easy.", "The test was easy.", "It's easy for me."],
+      "de": ["Das ist sehr einfach.", "Der Test war einfach.", "Es ist einfach für mich."],
+      "ar": ["هذا سهل جداً.", "كان الاختبار سهلاً.", "إنه سهل بالنسبة لي."],
+      "fr": ["C'est très facile.", "Le test était facile.", "C'est facile pour moi."],
+      "it": ["Questo è molto facile.", "Il test era facile.", "È facile per me."],
+      "ru": ["Это очень легко.", "Тест был лёгким.", "Это легко для меня."],
+      "es": ["Esto es muy fácil.", "El examen fue fácil.", "Es fácil para mí."],
+      "pl": ["To jest bardzo łatwe.", "Test był łatwy.", "To jest łatwe dla mnie."],
+      "fa": ["این خیلی آسان است.", "آزمون آسان بود.", "برای من آسان است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_918_en",
+    "word": "hard",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hard",
+      "de": "schwer",
+      "ar": "صعب",
+      "fr": "difficile",
+      "it": "difficile",
+      "ru": "трудный",
+      "es": "duro",
+      "pl": "trudny",
+      "fa": "سخت"
+    },
+    "explanations": {
+      "en": "Requiring a lot of effort, work, or skill to do or understand successfully.",
+      "de": "Viel Anstrengung, Arbeit oder Können erfordert, um es erfolgreich zu tun oder zu verstehen.",
+      "ar": "يتطلب الكثير من الجهد أو العمل أو المهارة للقيام به أو فهمه بنجاح.",
+      "fr": "Nécessitant beaucoup d'effort, de travail ou de compétence pour faire ou comprendre avec succès.",
+      "it": "Richiedendo molto sforzo, lavoro o abilità per fare o capire con successo.",
+      "ru": "Требующий много усилий, работы или навыков для успешного выполнения или понимания.",
+      "es": "Requiriendo mucho esfuerzo, trabajo o habilidad para hacer o entender exitosamente.",
+      "pl": "Wymagający dużo wysiłku, pracy lub umiejętności do zrobienia lub zrozumienia pomyślnie.",
+      "fa": "نیاز به تلاش، کار یا مهارت زیادی برای انجام یا درک موفقیت‌آمیز دارد."
+    },
+    "examples": {
+      "en": ["This work is hard.", "Math is hard for me.", "It's too hard now."],
+      "de": ["Diese Arbeit ist schwer.", "Mathe ist schwer für mich.", "Es ist jetzt zu schwer."],
+      "ar": ["هذا العمل صعب.", "الرياضيات صعبة بالنسبة لي.", "إنه صعب جداً الآن."],
+      "fr": ["Ce travail est difficile.", "Les maths sont difficiles pour moi.", "C'est trop difficile maintenant."],
+      "it": ["Questo lavoro è difficile.", "La matematica è difficile per me.", "È troppo difficile ora."],
+      "ru": ["Эта работа трудная.", "Математика трудная для меня.", "Это слишком трудно сейчас."],
+      "es": ["Este trabajo es duro.", "Las matemáticas son duras para mí.", "Es muy duro ahora."],
+      "pl": ["Ta praca jest trudna.", "Matematyka jest trudna dla mnie.", "To jest za trudne teraz."],
+      "fa": ["این کار سخت است.", "ریاضی برای من سخت است.", "الان خیلی سخت است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_919_en",
+    "word": "simple",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "simple",
+      "de": "einfach",
+      "ar": "بسيط",
+      "fr": "simple",
+      "it": "semplice",
+      "ru": "простой",
+      "es": "simple",
+      "pl": "prosty",
+      "fa": "ساده"
+    },
+    "explanations": {
+      "en": "Easy to understand or do, not complicated or complex with few parts or steps.",
+      "de": "Einfach zu verstehen oder zu tun, nicht kompliziert oder komplex mit wenigen Teilen oder Schritten.",
+      "ar": "سهل الفهم أو القيام به، ليس معقداً أو مركباً مع عدد قليل من الأجزاء أو الخطوات.",
+      "fr": "Facile à comprendre ou faire, pas compliqué ou complexe avec peu de parties ou d'étapes.",
+      "it": "Facile da capire o fare, non complicato o complesso con poche parti o passaggi.",
+      "ru": "Легко понять или сделать, не сложный или комплексный с малым количеством частей или шагов.",
+      "es": "Fácil de entender o hacer, no complicado o complejo con pocas partes o pasos.",
+      "pl": "Łatwy do zrozumienia lub zrobienia, nieskomplikowany lub złożony z niewieloma częściami lub krokami.",
+      "fa": "آسان برای درک یا انجام، پیچیده یا مرکب با بخش‌ها یا مراحل کم نیست."
+    },
+    "examples": {
+      "en": ["This is very simple.", "I like simple things.", "The answer is simple."],
+      "de": ["Das ist sehr einfach.", "Ich mag einfache Dinge.", "Die Antwort ist einfach."],
+      "ar": ["هذا بسيط جداً.", "أحب الأشياء البسيطة.", "الجواب بسيط."],
+      "fr": ["C'est très simple.", "J'aime les choses simples.", "La réponse est simple."],
+      "it": ["Questo è molto semplice.", "Mi piacciono le cose semplici.", "La risposta è semplice."],
+      "ru": ["Это очень просто.", "Я люблю простые вещи.", "Ответ простой."],
+      "es": ["Esto es muy simple.", "Me gustan las cosas simples.", "La respuesta es simple."],
+      "pl": ["To jest bardzo proste.", "Lubię proste rzeczy.", "Odpowiedź jest prosta."],
+      "fa": ["این خیلی ساده است.", "من چیزهای ساده را دوست دارم.", "پاسخ ساده است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_920_en",
+    "word": "complex",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "complex",
+      "de": "komplex",
+      "ar": "معقد",
+      "fr": "complexe",
+      "it": "complesso",
+      "ru": "сложный",
+      "es": "complejo",
+      "pl": "złożony",
+      "fa": "پیچیده"
+    },
+    "explanations": {
+      "en": "Consisting of many different and connected parts, making it difficult to understand or deal with.",
+      "de": "Bestehend aus vielen verschiedenen und verbundenen Teilen, was es schwierig macht zu verstehen oder damit umzugehen.",
+      "ar": "يتكون من العديد من الأجزاء المختلفة والمتصلة، مما يجعل من الصعب فهمه أو التعامل معه.",
+      "fr": "Composé de nombreuses parties différentes et connectées, le rendant difficile à comprendre ou à traiter.",
+      "it": "Composto da molte parti diverse e connesse, rendendolo difficile da capire o affrontare.",
+      "ru": "Состоящий из многих различных и связанных частей, что делает его трудным для понимания или обращения.",
+      "es": "Compuesto de muchas partes diferentes y conectadas, haciéndolo difícil de entender o tratar.",
+      "pl": "Składający się z wielu różnych i połączonych części, co czyni go trudnym do zrozumienia lub poradzenia sobie.",
+      "fa": "متشکل از بخش‌های مختلف و متصل زیاد، که درک یا برخورد با آن را دشوار می‌کند."
+    },
+    "examples": {
+      "en": ["This is too complex.", "The problem is complex.", "I don't like complex things."],
+      "de": ["Das ist zu komplex.", "Das Problem ist komplex.", "Ich mag keine komplexen Dinge."],
+      "ar": ["هذا معقد جداً.", "المشكلة معقدة.", "لا أحب الأشياء المعقدة."],
+      "fr": ["C'est trop complexe.", "Le problème est complexe.", "Je n'aime pas les choses complexes."],
+      "it": ["Questo è troppo complesso.", "Il problema è complesso.", "Non mi piacciono le cose complesse."],
+      "ru": ["Это слишком сложно.", "Проблема сложная.", "Я не люблю сложные вещи."],
+      "es": ["Esto es muy complejo.", "El problema es complejo.", "No me gustan las cosas complejas."],
+      "pl": ["To jest za złożone.", "Problem jest złożony.", "Nie lubię złożonych rzeczy."],
+      "fa": ["این خیلی پیچیده است.", "مشکل پیچیده است.", "من چیزهای پیچیده را دوست ندارم."]
+    },
+    "conjugations": null
+  }
+]

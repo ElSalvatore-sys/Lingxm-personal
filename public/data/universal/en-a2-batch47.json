@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_921_en",
+    "word": "idea",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "idea",
+      "de": "Idee",
+      "ar": "فكرة",
+      "fr": "idée",
+      "it": "idea",
+      "ru": "идея",
+      "es": "idea",
+      "pl": "pomysł",
+      "fa": "ایده"
+    },
+    "explanations": {
+      "en": "A thought or suggestion about what to do or how to solve a problem.",
+      "de": "Ein Gedanke oder Vorschlag darüber, was zu tun ist oder wie ein Problem zu lösen ist.",
+      "ar": "فكرة أو اقتراح حول ما يجب فعله أو كيفية حل مشكلة.",
+      "fr": "Une pensée ou suggestion sur quoi faire ou comment résoudre un problème.",
+      "it": "Un pensiero o suggerimento su cosa fare o come risolvere un problema.",
+      "ru": "Мысль или предложение о том, что делать или как решить проблему.",
+      "es": "Un pensamiento o sugerencia sobre qué hacer o cómo resolver un problema.",
+      "pl": "Myśl lub sugestia o tym, co zrobić lub jak rozwiązać problem.",
+      "fa": "فکر یا پیشنهادی درباره اینکه چه کاری انجام دهید یا چگونه مشکلی را حل کنید."
+    },
+    "examples": {
+      "en": ["I have an idea.", "That's a good idea.", "Do you have ideas?"],
+      "de": ["Ich habe eine Idee.", "Das ist eine gute Idee.", "Hast du Ideen?"],
+      "ar": ["لدي فكرة.", "هذه فكرة جيدة.", "هل لديك أفكار؟"],
+      "fr": ["J'ai une idée.", "C'est une bonne idée.", "As-tu des idées?"],
+      "it": ["Ho un'idea.", "È una buona idea.", "Hai idee?"],
+      "ru": ["У меня есть идея.", "Это хорошая идея.", "У тебя есть идеи?"],
+      "es": ["Tengo una idea.", "Es una buena idea.", "¿Tienes ideas?"],
+      "pl": ["Mam pomysł.", "To dobry pomysł.", "Masz pomysły?"],
+      "fa": ["من یک ایده دارم.", "این یک ایده خوب است.", "ایده داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_922_en",
+    "word": "think",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "think",
+      "de": "denken",
+      "ar": "يفكر",
+      "fr": "penser",
+      "it": "pensare",
+      "ru": "думать",
+      "es": "pensar",
+      "pl": "myśleć",
+      "fa": "فکر کردن"
+    },
+    "explanations": {
+      "en": "To use your mind to form thoughts, ideas, or opinions about something or someone.",
+      "de": "Den Verstand benutzen, um Gedanken, Ideen oder Meinungen über etwas oder jemanden zu bilden.",
+      "ar": "استخدام عقلك لتكوين أفكار أو آراء حول شيء أو شخص ما.",
+      "fr": "Utiliser votre esprit pour former des pensées, idées ou opinions sur quelque chose ou quelqu'un.",
+      "it": "Usare la mente per formare pensieri, idee o opinioni su qualcosa o qualcuno.",
+      "ru": "Использовать ум для формирования мыслей, идей или мнений о чём-то или ком-то.",
+      "es": "Usar tu mente para formar pensamientos, ideas u opiniones sobre algo o alguien.",
+      "pl": "Używać umysłu do formowania myśli, pomysłów lub opinii o czymś lub kimś.",
+      "fa": "استفاده از ذهن برای شکل دادن افکار، ایده‌ها یا نظرات درباره چیزی یا کسی."
+    },
+    "examples": {
+      "en": ["I think about you.", "What do you think?", "Let me think now."],
+      "de": ["Ich denke an dich.", "Was denkst du?", "Lass mich jetzt denken."],
+      "ar": ["أفكر فيك.", "ما رأيك؟", "دعني أفكر الآن."],
+      "fr": ["Je pense à toi.", "Que penses-tu?", "Laisse-moi penser maintenant."],
+      "it": ["Penso a te.", "Cosa pensi?", "Lasciami pensare ora."],
+      "ru": ["Я думаю о тебе.", "Что ты думаешь?", "Позволь мне подумать сейчас."],
+      "es": ["Pienso en ti.", "¿Qué piensas?", "Déjame pensar ahora."],
+      "pl": ["Myślę o tobie.", "Co myślisz?", "Pozwól mi pomyśleć teraz."],
+      "fa": ["درباره تو فکر می‌کنم.", "چه فکر می‌کنی؟", "بگذار الان فکر کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_923_en",
+    "word": "thought",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thought",
+      "de": "Gedanke",
+      "ar": "فكرة",
+      "fr": "pensée",
+      "it": "pensiero",
+      "ru": "мысль",
+      "es": "pensamiento",
+      "pl": "myśl",
+      "fa": "فکر"
+    },
+    "explanations": {
+      "en": "An idea or opinion that you form in your mind about something or someone.",
+      "de": "Eine Idee oder Meinung, die man im Geist über etwas oder jemanden bildet.",
+      "ar": "فكرة أو رأي تشكله في عقلك حول شيء أو شخص ما.",
+      "fr": "Une idée ou opinion que vous formez dans votre esprit sur quelque chose ou quelqu'un.",
+      "it": "Un'idea o opinione che formi nella tua mente su qualcosa o qualcuno.",
+      "ru": "Идея или мнение, которое вы формируете в уме о чём-то или ком-то.",
+      "es": "Una idea u opinión que formas en tu mente sobre algo o alguien.",
+      "pl": "Pomysł lub opinia, którą formujesz w umyśle o czymś lub kimś.",
+      "fa": "ایده یا نظری که در ذهن خود درباره چیزی یا کسی شکل می‌دهید."
+    },
+    "examples": {
+      "en": ["I have a thought.", "What are your thoughts?", "Good thought there."],
+      "de": ["Ich habe einen Gedanken.", "Was sind deine Gedanken?", "Guter Gedanke dort."],
+      "ar": ["لدي فكرة.", "ما هي أفكارك؟", "فكرة جيدة هناك."],
+      "fr": ["J'ai une pensée.", "Quelles sont tes pensées?", "Bonne pensée là."],
+      "it": ["Ho un pensiero.", "Quali sono i tuoi pensieri?", "Buon pensiero lì."],
+      "ru": ["У меня есть мысль.", "Какие твои мысли?", "Хорошая мысль там."],
+      "es": ["Tengo un pensamiento.", "¿Cuáles son tus pensamientos?", "Buen pensamiento ahí."],
+      "pl": ["Mam myśl.", "Jakie są twoje myśli?", "Dobra myśl tam."],
+      "fa": ["من یک فکر دارم.", "افکار تو چیست؟", "فکر خوبی آنجاست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_924_en",
+    "word": "know",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "know",
+      "de": "wissen",
+      "ar": "يعرف",
+      "fr": "savoir",
+      "it": "sapere",
+      "ru": "знать",
+      "es": "saber",
+      "pl": "wiedzieć",
+      "fa": "دانستن"
+    },
+    "explanations": {
+      "en": "To have information or understanding about something through learning or experience or being familiar with someone.",
+      "de": "Informationen oder Verständnis über etwas haben durch Lernen oder Erfahrung oder mit jemandem vertraut sein.",
+      "ar": "أن يكون لديك معلومات أو فهم حول شيء من خلال التعلم أو الخبرة أو أن تكون على دراية بشخص ما.",
+      "fr": "Avoir des informations ou une compréhension de quelque chose par l'apprentissage ou l'expérience ou être familier avec quelqu'un.",
+      "it": "Avere informazioni o comprensione su qualcosa attraverso l'apprendimento o l'esperienza o essere familiare con qualcuno.",
+      "ru": "Иметь информацию или понимание о чём-то через обучение или опыт или быть знакомым с кем-то.",
+      "es": "Tener información o comprensión sobre algo a través del aprendizaje o experiencia o estar familiarizado con alguien.",
+      "pl": "Mieć informacje lub zrozumienie czegoś poprzez naukę lub doświadczenie lub być zaznajomionym z kimś.",
+      "fa": "داشتن اطلاعات یا درک درباره چیزی از طریق یادگیری یا تجربه یا آشنا بودن با کسی."
+    },
+    "examples": {
+      "en": ["I know this now.", "Do you know her?", "I don't know that."],
+      "de": ["Ich weiß das jetzt.", "Kennst du sie?", "Ich weiß das nicht."],
+      "ar": ["أعرف هذا الآن.", "هل تعرفها؟", "لا أعرف ذلك."],
+      "fr": ["Je sais ça maintenant.", "La connais-tu?", "Je ne sais pas ça."],
+      "it": ["Lo so ora.", "La conosci?", "Non lo so."],
+      "ru": ["Я знаю это сейчас.", "Ты знаешь её?", "Я не знаю это."],
+      "es": ["Sé esto ahora.", "¿La conoces?", "No sé eso."],
+      "pl": ["Wiem to teraz.", "Znasz ją?", "Nie wiem tego."],
+      "fa": ["الان این را می‌دانم.", "او را می‌شناسی؟", "آن را نمی‌دانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_925_en",
+    "word": "understand",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "understand",
+      "de": "verstehen",
+      "ar": "يفهم",
+      "fr": "comprendre",
+      "it": "capire",
+      "ru": "понимать",
+      "es": "entender",
+      "pl": "rozumieć",
+      "fa": "فهمیدن"
+    },
+    "explanations": {
+      "en": "To know the meaning of something or grasp the concept of information being communicated.",
+      "de": "Die Bedeutung von etwas wissen oder das Konzept der kommunizierten Information erfassen.",
+      "ar": "معرفة معنى شيء ما أو إدراك مفهوم المعلومات التي يتم توصيلها.",
+      "fr": "Connaître le sens de quelque chose ou saisir le concept de l'information communiquée.",
+      "it": "Conoscere il significato di qualcosa o afferrare il concetto di informazioni comunicate.",
+      "ru": "Знать значение чего-то или понимать концепцию передаваемой информации.",
+      "es": "Conocer el significado de algo o captar el concepto de información comunicada.",
+      "pl": "Znać znaczenie czegoś lub chwytać pojęcie przekazywanej informacji.",
+      "fa": "دانستن معنی چیزی یا درک مفهوم اطلاعاتی که منتقل می‌شود."
+    },
+    "examples": {
+      "en": ["I understand you now.", "Do you understand this?", "I can't understand it."],
+      "de": ["Ich verstehe dich jetzt.", "Verstehst du das?", "Ich kann es nicht verstehen."],
+      "ar": ["أفهمك الآن.", "هل تفهم هذا؟", "لا أستطيع فهمه."],
+      "fr": ["Je te comprends maintenant.", "Comprends-tu ça?", "Je ne peux pas le comprendre."],
+      "it": ["Ti capisco ora.", "Capisci questo?", "Non riesco a capirlo."],
+      "ru": ["Я понимаю тебя сейчас.", "Ты понимаешь это?", "Я не могу понять это."],
+      "es": ["Te entiendo ahora.", "¿Entiendes esto?", "No puedo entenderlo."],
+      "pl": ["Rozumiem cię teraz.", "Rozumiesz to?", "Nie mogę tego zrozumieć."],
+      "fa": ["الان تو را می‌فهمم.", "این را می‌فهمی؟", "نمی‌توانم آن را بفهمم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_926_en",
+    "word": "believe",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "believe",
+      "de": "glauben",
+      "ar": "يؤمن",
+      "fr": "croire",
+      "it": "credere",
+      "ru": "верить",
+      "es": "creer",
+      "pl": "wierzyć",
+      "fa": "باور کردن"
+    },
+    "explanations": {
+      "en": "To accept that something is true or real, or have confidence and trust in someone.",
+      "de": "Akzeptieren, dass etwas wahr oder real ist, oder Vertrauen in jemanden haben.",
+      "ar": "قبول أن شيئاً ما صحيح أو حقيقي، أو أن يكون لديك ثقة في شخص ما.",
+      "fr": "Accepter que quelque chose soit vrai ou réel, ou avoir confiance en quelqu'un.",
+      "it": "Accettare che qualcosa sia vero o reale, o avere fiducia in qualcuno.",
+      "ru": "Принимать, что что-то истинно или реально, или иметь доверие к кому-то.",
+      "es": "Aceptar que algo es verdadero o real, o tener confianza en alguien.",
+      "pl": "Akceptować, że coś jest prawdziwe lub rzeczywiste, lub mieć zaufanie do kogoś.",
+      "fa": "پذیرفتن اینکه چیزی درست یا واقعی است، یا داشتن اعتماد به کسی."
+    },
+    "examples": {
+      "en": ["I believe you now.", "Do you believe this?", "I can't believe it."],
+      "de": ["Ich glaube dir jetzt.", "Glaubst du das?", "Ich kann es nicht glauben."],
+      "ar": ["أؤمن بك الآن.", "هل تؤمن بهذا؟", "لا أستطيع أن أصدق ذلك."],
+      "fr": ["Je te crois maintenant.", "Crois-tu ça?", "Je ne peux pas le croire."],
+      "it": ["Ti credo ora.", "Credi questo?", "Non posso crederci."],
+      "ru": ["Я верю тебе сейчас.", "Ты веришь в это?", "Я не могу в это поверить."],
+      "es": ["Te creo ahora.", "¿Crees esto?", "No puedo creerlo."],
+      "pl": ["Wierzę ci teraz.", "Wierzysz w to?", "Nie mogę w to uwierzyć."],
+      "fa": ["الان باورت می‌کنم.", "این را باور می‌کنی؟", "نمی‌توانم باورش کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_927_en",
+    "word": "remember",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "remember",
+      "de": "erinnern",
+      "ar": "يتذكر",
+      "fr": "se souvenir",
+      "it": "ricordare",
+      "ru": "помнить",
+      "es": "recordar",
+      "pl": "pamiętać",
+      "fa": "به یاد آوردن"
+    },
+    "explanations": {
+      "en": "To bring back information or events from the past into your mind and think about them.",
+      "de": "Informationen oder Ereignisse aus der Vergangenheit in den Geist zurückbringen und darüber nachdenken.",
+      "ar": "إعادة المعلومات أو الأحداث من الماضي إلى ذهنك والتفكير فيها.",
+      "fr": "Ramener des informations ou événements du passé dans votre esprit et y penser.",
+      "it": "Riportare informazioni o eventi dal passato nella mente e pensarci.",
+      "ru": "Возвращать информацию или события из прошлого в ум и думать о них.",
+      "es": "Traer información o eventos del pasado a tu mente y pensar en ellos.",
+      "pl": "Przywoływać informacje lub wydarzenia z przeszłości do umysłu i myśleć o nich.",
+      "fa": "بازگرداندن اطلاعات یا رویدادها از گذشته به ذهن و فکر کردن درباره آنها."
+    },
+    "examples": {
+      "en": ["I remember you well.", "Do you remember this?", "I can't remember now."],
+      "de": ["Ich erinnere mich gut an dich.", "Erinnerst du dich daran?", "Ich kann mich jetzt nicht erinnern."],
+      "ar": ["أتذكرك جيداً.", "هل تتذكر هذا؟", "لا أستطيع أن أتذكر الآن."],
+      "fr": ["Je me souviens bien de toi.", "Te souviens-tu de ça?", "Je ne me souviens pas maintenant."],
+      "it": ["Ti ricordo bene.", "Ti ricordi questo?", "Non riesco a ricordare ora."],
+      "ru": ["Я хорошо помню тебя.", "Ты помнишь это?", "Я не могу вспомнить сейчас."],
+      "es": ["Te recuerdo bien.", "¿Recuerdas esto?", "No puedo recordar ahora."],
+      "pl": ["Pamiętam cię dobrze.", "Pamiętasz to?", "Nie mogę teraz pamiętać."],
+      "fa": ["تو را خوب به یاد می‌آورم.", "این را به یاد می‌آوری؟", "الان نمی‌توانم به یاد بیاورم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_928_en",
+    "word": "forget",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "forget",
+      "de": "vergessen",
+      "ar": "ينسى",
+      "fr": "oublier",
+      "it": "dimenticare",
+      "ru": "забывать",
+      "es": "olvidar",
+      "pl": "zapominać",
+      "fa": "فراموش کردن"
+    },
+    "explanations": {
+      "en": "To be unable to remember or recall something that was previously known or experienced.",
+      "de": "Unfähig sein, sich an etwas zu erinnern, das zuvor bekannt oder erlebt wurde.",
+      "ar": "عدم القدرة على تذكر أو استرجاع شيء كان معروفاً أو مجرباً سابقاً.",
+      "fr": "Être incapable de se souvenir de quelque chose qui était auparavant connu ou vécu.",
+      "it": "Essere incapace di ricordare qualcosa che era precedentemente conosciuto o sperimentato.",
+      "ru": "Быть неспособным вспомнить что-то, что было ранее известно или пережито.",
+      "es": "Ser incapaz de recordar algo que fue previamente conocido o experimentado.",
+      "pl": "Być niezdolnym do zapamiętania czegoś, co było wcześniej znane lub doświadczone.",
+      "fa": "ناتوانی در به یاد آوردن چیزی که قبلا دانسته یا تجربه شده بود."
+    },
+    "examples": {
+      "en": ["I forget your name.", "Don't forget this please.", "I always forget things."],
+      "de": ["Ich vergesse deinen Namen.", "Vergiss das bitte nicht.", "Ich vergesse immer Dinge."],
+      "ar": ["أنسى اسمك.", "لا تنس هذا من فضلك.", "أنسى الأشياء دائماً."],
+      "fr": ["J'oublie ton nom.", "N'oublie pas ça s'il te plaît.", "J'oublie toujours des choses."],
+      "it": ["Dimentico il tuo nome.", "Non dimenticare questo per favore.", "Dimentico sempre cose."],
+      "ru": ["Я забываю твоё имя.", "Не забывай это, пожалуйста.", "Я всегда забываю вещи."],
+      "es": ["Olvido tu nombre.", "No olvides esto por favor.", "Siempre olvido cosas."],
+      "pl": ["Zapominam twoje imię.", "Nie zapomnij tego proszę.", "Zawsze zapominam rzeczy."],
+      "fa": ["اسم تو را فراموش می‌کنم.", "لطفا این را فراموش نکن.", "همیشه چیزها را فراموش می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_929_en",
+    "word": "learn",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "learn",
+      "de": "lernen",
+      "ar": "يتعلم",
+      "fr": "apprendre",
+      "it": "imparare",
+      "ru": "учиться",
+      "es": "aprender",
+      "pl": "uczyć się",
+      "fa": "یاد گرفتن"
+    },
+    "explanations": {
+      "en": "To gain knowledge or skill in something by studying, practicing, or being taught by someone.",
+      "de": "Wissen oder Fähigkeiten in etwas erlangen durch Studieren, Üben oder von jemandem unterrichtet werden.",
+      "ar": "اكتساب المعرفة أو المهارة في شيء من خلال الدراسة أو الممارسة أو التعليم من قبل شخص ما.",
+      "fr": "Acquérir des connaissances ou des compétences dans quelque chose en étudiant, pratiquant ou étant enseigné par quelqu'un.",
+      "it": "Acquisire conoscenza o abilità in qualcosa studiando, praticando o essendo insegnato da qualcuno.",
+      "ru": "Получать знания или навыки в чём-то, изучая, практикуя или будучи обученным кем-то.",
+      "es": "Adquirir conocimiento o habilidad en algo estudiando, practicando o siendo enseñado por alguien.",
+      "pl": "Zdobywać wiedzę lub umiejętność w czymś poprzez studiowanie, praktykowanie lub bycie nauczanym przez kogoś.",
+      "fa": "کسب دانش یا مهارت در چیزی با مطالعه، تمرین یا آموزش دیدن توسط کسی."
+    },
+    "examples": {
+      "en": ["I learn English now.", "Can you learn this?", "We learn every day."],
+      "de": ["Ich lerne jetzt Englisch.", "Kannst du das lernen?", "Wir lernen jeden Tag."],
+      "ar": ["أتعلم الإنجليزية الآن.", "هل يمكنك أن تتعلم هذا؟", "نتعلم كل يوم."],
+      "fr": ["J'apprends l'anglais maintenant.", "Peux-tu apprendre ça?", "Nous apprenons chaque jour."],
+      "it": ["Imparo l'inglese ora.", "Puoi imparare questo?", "Impariamo ogni giorno."],
+      "ru": ["Я учу английский сейчас.", "Ты можешь выучить это?", "Мы учимся каждый день."],
+      "es": ["Aprendo inglés ahora.", "¿Puedes aprender esto?", "Aprendemos cada día."],
+      "pl": ["Uczę się angielskiego teraz.", "Możesz się tego nauczyć?", "Uczymy się każdego dnia."],
+      "fa": ["الان انگلیسی یاد می‌گیرم.", "می‌توانی این را یاد بگیری؟", "ما هر روز یاد می‌گیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_930_en",
+    "word": "teach",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "teach",
+      "de": "unterrichten",
+      "ar": "يعلم",
+      "fr": "enseigner",
+      "it": "insegnare",
+      "ru": "учить",
+      "es": "enseñar",
+      "pl": "uczyć",
+      "fa": "آموزش دادن"
+    },
+    "explanations": {
+      "en": "To give someone knowledge or to show them how to do something by instruction or example.",
+      "de": "Jemandem Wissen geben oder ihm zeigen, wie man etwas tut durch Anleitung oder Beispiel.",
+      "ar": "إعطاء شخص ما المعرفة أو إظهار كيفية القيام بشيء من خلال التعليم أو المثال.",
+      "fr": "Donner des connaissances à quelqu'un ou lui montrer comment faire quelque chose par instruction ou exemple.",
+      "it": "Dare a qualcuno conoscenza o mostrare come fare qualcosa tramite istruzione o esempio.",
+      "ru": "Давать кому-то знания или показывать, как что-то делать, посредством инструкции или примера.",
+      "es": "Dar conocimiento a alguien o mostrarle cómo hacer algo mediante instrucción o ejemplo.",
+      "pl": "Dawać komuś wiedzę lub pokazywać jak coś zrobić poprzez instrukcję lub przykład.",
+      "fa": "دادن دانش به کسی یا نشان دادن چگونگی انجام کاری با آموزش یا مثال."
+    },
+    "examples": {
+      "en": ["I teach English now.", "Can you teach me?", "She can teach well."],
+      "de": ["Ich unterrichte jetzt Englisch.", "Kannst du mich unterrichten?", "Sie kann gut unterrichten."],
+      "ar": ["أعلم الإنجليزية الآن.", "هل يمكنك أن تعلمني؟", "يمكنها أن تعلم جيداً."],
+      "fr": ["J'enseigne l'anglais maintenant.", "Peux-tu m'enseigner?", "Elle peut bien enseigner."],
+      "it": ["Insegno l'inglese ora.", "Puoi insegnarmi?", "Lei può insegnare bene."],
+      "ru": ["Я преподаю английский сейчас.", "Ты можешь научить меня?", "Она может хорошо преподавать."],
+      "es": ["Enseño inglés ahora.", "¿Puedes enseñarme?", "Ella puede enseñar bien."],
+      "pl": ["Uczę angielskiego teraz.", "Możesz mnie uczyć?", "Ona może dobrze uczyć."],
+      "fa": ["الان انگلیسی آموزش می‌دهم.", "می‌توانی به من آموزش دهی؟", "او می‌تواند خوب آموزش دهد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_931_en",
+    "word": "smart",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "smart",
+      "de": "klug",
+      "ar": "ذكي",
+      "fr": "intelligent",
+      "it": "intelligente",
+      "ru": "умный",
+      "es": "inteligente",
+      "pl": "mądry",
+      "fa": "باهوش"
+    },
+    "explanations": {
+      "en": "Having or showing quick intelligence and the ability to think and learn things quickly and well.",
+      "de": "Schnelle Intelligenz haben oder zeigen und die Fähigkeit, Dinge schnell und gut zu denken und zu lernen.",
+      "ar": "امتلاك أو إظهار ذكاء سريع والقدرة على التفكير والتعلم بسرعة وبشكل جيد.",
+      "fr": "Avoir ou montrer une intelligence rapide et la capacité de penser et apprendre des choses rapidement et bien.",
+      "it": "Avere o mostrare intelligenza rapida e la capacità di pensare e imparare cose velocemente e bene.",
+      "ru": "Иметь или проявлять быстрый ум и способность думать и учиться быстро и хорошо.",
+      "es": "Tener o mostrar inteligencia rápida y la capacidad de pensar y aprender cosas rápidamente y bien.",
+      "pl": "Posiadać lub pokazywać szybką inteligencję i zdolność myślenia i uczenia się rzeczy szybko i dobrze.",
+      "fa": "داشتن یا نشان دادن هوش سریع و توانایی فکر کردن و یاد گرفتن چیزها سریع و خوب."
+    },
+    "examples": {
+      "en": ["She is very smart.", "You are smart too.", "Smart people learn fast."],
+      "de": ["Sie ist sehr klug.", "Du bist auch klug.", "Kluge Leute lernen schnell."],
+      "ar": ["هي ذكية جداً.", "أنت ذكي أيضاً.", "الأشخاص الأذكياء يتعلمون بسرعة."],
+      "fr": ["Elle est très intelligente.", "Tu es intelligent aussi.", "Les gens intelligents apprennent vite."],
+      "it": ["Lei è molto intelligente.", "Sei intelligente anche tu.", "Le persone intelligenti imparano velocemente."],
+      "ru": ["Она очень умная.", "Ты тоже умный.", "Умные люди учатся быстро."],
+      "es": ["Ella es muy inteligente.", "Tú también eres inteligente.", "La gente inteligente aprende rápido."],
+      "pl": ["Ona jest bardzo mądra.", "Ty też jesteś mądry.", "Mądrzy ludzie uczą się szybko."],
+      "fa": ["او خیلی باهوش است.", "تو هم باهوش هستی.", "افراد باهوش سریع یاد می‌گیرند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_932_en",
+    "word": "intelligent",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "intelligent",
+      "de": "intelligent",
+      "ar": "ذكي",
+      "fr": "intelligent",
+      "it": "intelligente",
+      "ru": "умный",
+      "es": "inteligente",
+      "pl": "inteligentny",
+      "fa": "هوشمند"
+    },
+    "explanations": {
+      "en": "Having the ability to learn, understand, and think in a logical way about things very well.",
+      "de": "Die Fähigkeit haben, Dinge sehr gut zu lernen, zu verstehen und logisch darüber nachzudenken.",
+      "ar": "امتلاك القدرة على التعلم والفهم والتفكير بطريقة منطقية حول الأشياء بشكل جيد جداً.",
+      "fr": "Avoir la capacité d'apprendre, comprendre et penser de manière logique sur les choses très bien.",
+      "it": "Avere la capacità di imparare, capire e pensare in modo logico sulle cose molto bene.",
+      "ru": "Иметь способность учиться, понимать и думать логически о вещах очень хорошо.",
+      "es": "Tener la capacidad de aprender, entender y pensar de manera lógica sobre las cosas muy bien.",
+      "pl": "Posiadać zdolność uczenia się, rozumienia i myślenia w logiczny sposób o rzeczach bardzo dobrze.",
+      "fa": "داشتن توانایی یادگیری، درک و فکر کردن به روشی منطقی درباره چیزها خیلی خوب."
+    },
+    "examples": {
+      "en": ["He is very intelligent.", "Intelligent people work well.", "Are you intelligent?"],
+      "de": ["Er ist sehr intelligent.", "Intelligente Menschen arbeiten gut.", "Bist du intelligent?"],
+      "ar": ["هو ذكي جداً.", "الأشخاص الأذكياء يعملون جيداً.", "هل أنت ذكي؟"],
+      "fr": ["Il est très intelligent.", "Les gens intelligents travaillent bien.", "Es-tu intelligent?"],
+      "it": ["Lui è molto intelligente.", "Le persone intelligenti lavorano bene.", "Sei intelligente?"],
+      "ru": ["Он очень умный.", "Умные люди работают хорошо.", "Ты умный?"],
+      "es": ["Él es muy inteligente.", "La gente inteligente trabaja bien.", "¿Eres inteligente?"],
+      "pl": ["On jest bardzo inteligentny.", "Inteligentni ludzie pracują dobrze.", "Jesteś inteligentny?"],
+      "fa": ["او خیلی هوشمند است.", "افراد هوشمند خوب کار می‌کنند.", "هوشمند هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_933_en",
+    "word": "stupid",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "stupid",
+      "de": "dumm",
+      "ar": "غبي",
+      "fr": "stupide",
+      "it": "stupido",
+      "ru": "глупый",
+      "es": "estúpido",
+      "pl": "głupi",
+      "fa": "احمق"
+    },
+    "explanations": {
+      "en": "Having or showing a lack of intelligence or good judgment in thinking or actions.",
+      "de": "Einen Mangel an Intelligenz oder gutem Urteilsvermögen im Denken oder Handeln haben oder zeigen.",
+      "ar": "امتلاك أو إظهار نقص في الذكاء أو الحكم الجيد في التفكير أو الأفعال.",
+      "fr": "Avoir ou montrer un manque d'intelligence ou de bon jugement dans la pensée ou les actions.",
+      "it": "Avere o mostrare una mancanza di intelligenza o buon giudizio nel pensare o nelle azioni.",
+      "ru": "Иметь или проявлять недостаток ума или хорошего суждения в мышлении или действиях.",
+      "es": "Tener o mostrar falta de inteligencia o buen juicio en el pensamiento o acciones.",
+      "pl": "Posiadać lub pokazywać brak inteligencji lub dobrego osądu w myśleniu lub działaniach.",
+      "fa": "داشتن یا نشان دادن کمبود هوش یا قضاوت خوب در فکر یا اعمال."
+    },
+    "examples": {
+      "en": ["That was stupid idea.", "Don't be stupid please.", "I feel stupid now."],
+      "de": ["Das war eine dumme Idee.", "Sei bitte nicht dumm.", "Ich fühle mich jetzt dumm."],
+      "ar": ["كانت تلك فكرة غبية.", "لا تكن غبياً من فضلك.", "أشعر بالغباء الآن."],
+      "fr": ["C'était une idée stupide.", "Ne sois pas stupide s'il te plaît.", "Je me sens stupide maintenant."],
+      "it": ["Era un'idea stupida.", "Non essere stupido per favore.", "Mi sento stupido ora."],
+      "ru": ["Это была глупая идея.", "Не будь глупым, пожалуйста.", "Я чувствую себя глупо сейчас."],
+      "es": ["Fue una idea estúpida.", "No seas estúpido por favor.", "Me siento estúpido ahora."],
+      "pl": ["To był głupi pomysł.", "Nie bądź głupi proszę.", "Czuję się głupio teraz."],
+      "fa": ["آن ایده احمقانه بود.", "لطفا احمق نباش.", "الان احساس احمقی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_934_en",
+    "word": "wise",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wise",
+      "de": "weise",
+      "ar": "حكيم",
+      "fr": "sage",
+      "it": "saggio",
+      "ru": "мудрый",
+      "es": "sabio",
+      "pl": "mądry",
+      "fa": "خردمند"
+    },
+    "explanations": {
+      "en": "Having or showing experience, knowledge, and good judgment in making decisions and giving advice.",
+      "de": "Erfahrung, Wissen und gutes Urteilsvermögen bei Entscheidungen und Ratschlägen haben oder zeigen.",
+      "ar": "امتلاك أو إظهار الخبرة والمعرفة والحكم الجيد في اتخاذ القرارات وإعطاء النصائح.",
+      "fr": "Avoir ou montrer de l'expérience, des connaissances et un bon jugement dans la prise de décisions et les conseils.",
+      "it": "Avere o mostrare esperienza, conoscenza e buon giudizio nel prendere decisioni e dare consigli.",
+      "ru": "Иметь или проявлять опыт, знания и хорошее суждение в принятии решений и советов.",
+      "es": "Tener o mostrar experiencia, conocimiento y buen juicio al tomar decisiones y dar consejos.",
+      "pl": "Posiadać lub pokazywać doświadczenie, wiedzę i dobry osąd w podejmowaniu decyzji i dawaniu rad.",
+      "fa": "داشتن یا نشان دادن تجربه، دانش و قضاوت خوب در تصمیم‌گیری و مشاوره دادن."
+    },
+    "examples": {
+      "en": ["He is very wise.", "That was wise decision.", "Wise people think well."],
+      "de": ["Er ist sehr weise.", "Das war eine weise Entscheidung.", "Weise Menschen denken gut."],
+      "ar": ["هو حكيم جداً.", "كان ذلك قراراً حكيماً.", "الأشخاص الحكماء يفكرون جيداً."],
+      "fr": ["Il est très sage.", "C'était une décision sage.", "Les gens sages pensent bien."],
+      "it": ["Lui è molto saggio.", "Fu una decisione saggia.", "Le persone sagge pensano bene."],
+      "ru": ["Он очень мудрый.", "Это было мудрое решение.", "Мудрые люди хорошо думают."],
+      "es": ["Él es muy sabio.", "Fue una decisión sabia.", "La gente sabia piensa bien."],
+      "pl": ["On jest bardzo mądry.", "To była mądra decyzja.", "Mądrzy ludzie myślą dobrze."],
+      "fa": ["او خیلی خردمند است.", "آن تصمیم خردمندانه بود.", "افراد خردمند خوب فکر می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_935_en",
+    "word": "knowledge",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "knowledge",
+      "de": "Wissen",
+      "ar": "معرفة",
+      "fr": "connaissance",
+      "it": "conoscenza",
+      "ru": "знание",
+      "es": "conocimiento",
+      "pl": "wiedza",
+      "fa": "دانش"
+    },
+    "explanations": {
+      "en": "Information and understanding about a subject that you have learned through experience or study.",
+      "de": "Informationen und Verständnis über ein Thema, das man durch Erfahrung oder Studium gelernt hat.",
+      "ar": "المعلومات والفهم حول موضوع تعلمته من خلال الخبرة أو الدراسة.",
+      "fr": "Informations et compréhension sur un sujet que vous avez appris par l'expérience ou l'étude.",
+      "it": "Informazioni e comprensione su un argomento che hai imparato attraverso l'esperienza o lo studio.",
+      "ru": "Информация и понимание о предмете, которое вы узнали через опыт или обучение.",
+      "es": "Información y comprensión sobre un tema que has aprendido a través de la experiencia o el estudio.",
+      "pl": "Informacje i zrozumienie tematu, którego nauczyłeś się poprzez doświadczenie lub studiowanie.",
+      "fa": "اطلاعات و درک درباره موضوعی که از طریق تجربه یا مطالعه یاد گرفته‌اید."
+    },
+    "examples": {
+      "en": ["I have good knowledge.", "Knowledge is power here.", "Share your knowledge please."],
+      "de": ["Ich habe gutes Wissen.", "Wissen ist Macht hier.", "Teile dein Wissen bitte."],
+      "ar": ["لدي معرفة جيدة.", "المعرفة قوة هنا.", "شارك معرفتك من فضلك."],
+      "fr": ["J'ai de bonnes connaissances.", "La connaissance est pouvoir ici.", "Partage tes connaissances s'il te plaît."],
+      "it": ["Ho buona conoscenza.", "La conoscenza è potere qui.", "Condividi la tua conoscenza per favore."],
+      "ru": ["У меня хорошие знания.", "Знание - сила здесь.", "Поделись своими знаниями, пожалуйста."],
+      "es": ["Tengo buen conocimiento.", "El conocimiento es poder aquí.", "Comparte tu conocimiento por favor."],
+      "pl": ["Mam dobrą wiedzę.", "Wiedza to potęga tutaj.", "Podziel się swoją wiedzą proszę."],
+      "fa": ["من دانش خوبی دارم.", "دانش قدرت است اینجا.", "لطفا دانش خود را به اشتراک بگذار."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_936_en",
+    "word": "information",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "information",
+      "de": "Information",
+      "ar": "معلومات",
+      "fr": "information",
+      "it": "informazione",
+      "ru": "информация",
+      "es": "información",
+      "pl": "informacja",
+      "fa": "اطلاعات"
+    },
+    "explanations": {
+      "en": "Facts or details about a subject, person, or event that tell you something you need to know.",
+      "de": "Fakten oder Details über ein Thema, eine Person oder ein Ereignis, die einem etwas sagen, was man wissen muss.",
+      "ar": "حقائق أو تفاصيل حول موضوع أو شخص أو حدث تخبرك بشيء تحتاج إلى معرفته.",
+      "fr": "Faits ou détails sur un sujet, une personne ou un événement qui vous disent quelque chose que vous devez savoir.",
+      "it": "Fatti o dettagli su un argomento, persona o evento che ti dicono qualcosa che devi sapere.",
+      "ru": "Факты или детали о предмете, человеке или событии, которые говорят вам что-то, что вам нужно знать.",
+      "es": "Hechos o detalles sobre un tema, persona o evento que te dicen algo que necesitas saber.",
+      "pl": "Fakty lub szczegóły na temat przedmiotu, osoby lub wydarzenia, które mówią ci coś, co musisz wiedzieć.",
+      "fa": "حقایق یا جزئیات درباره موضوع، شخص یا رویدادی که چیزی را به شما می‌گوید که نیاز به دانستن دارید."
+    },
+    "examples": {
+      "en": ["I need more information.", "This information is good.", "Give me information please."],
+      "de": ["Ich brauche mehr Informationen.", "Diese Information ist gut.", "Gib mir bitte Informationen."],
+      "ar": ["أحتاج إلى مزيد من المعلومات.", "هذه المعلومات جيدة.", "أعطني معلومات من فضلك."],
+      "fr": ["J'ai besoin de plus d'informations.", "Cette information est bonne.", "Donne-moi des informations s'il te plaît."],
+      "it": ["Ho bisogno di più informazioni.", "Questa informazione è buona.", "Dammi informazioni per favore."],
+      "ru": ["Мне нужно больше информации.", "Эта информация хорошая.", "Дай мне информацию, пожалуйста."],
+      "es": ["Necesito más información.", "Esta información es buena.", "Dame información por favor."],
+      "pl": ["Potrzebuję więcej informacji.", "Ta informacja jest dobra.", "Daj mi informacje proszę."],
+      "fa": ["به اطلاعات بیشتری نیاز دارم.", "این اطلاعات خوب است.", "لطفا اطلاعات به من بده."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_937_en",
+    "word": "fact",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fact",
+      "de": "Tatsache",
+      "ar": "حقيقة",
+      "fr": "fait",
+      "it": "fatto",
+      "ru": "факт",
+      "es": "hecho",
+      "pl": "fakt",
+      "fa": "واقعیت"
+    },
+    "explanations": {
+      "en": "Something that is known to be true or to have happened in reality and can be proven.",
+      "de": "Etwas, von dem bekannt ist, dass es wahr ist oder in der Realität passiert ist und bewiesen werden kann.",
+      "ar": "شيء معروف أنه صحيح أو حدث في الواقع ويمكن إثباته.",
+      "fr": "Quelque chose qui est connu pour être vrai ou s'être produit en réalité et peut être prouvé.",
+      "it": "Qualcosa che è noto essere vero o essere accaduto nella realtà e può essere provato.",
+      "ru": "Что-то, что известно как истинное или произошедшее в реальности и может быть доказано.",
+      "es": "Algo que se sabe que es verdad o ha sucedido en realidad y puede ser probado.",
+      "pl": "Coś, co jest znane jako prawdziwe lub zdarzyło się w rzeczywistości i może być udowodnione.",
+      "fa": "چیزی که شناخته شده درست یا در واقعیت اتفاق افتاده و قابل اثبات است."
+    },
+    "examples": {
+      "en": ["This is a fact.", "I know the facts.", "Tell me the facts."],
+      "de": ["Das ist eine Tatsache.", "Ich kenne die Tatsachen.", "Sag mir die Tatsachen."],
+      "ar": ["هذه حقيقة.", "أعرف الحقائق.", "أخبرني الحقائق."],
+      "fr": ["C'est un fait.", "Je connais les faits.", "Dis-moi les faits."],
+      "it": ["Questo è un fatto.", "Conosco i fatti.", "Dimmi i fatti."],
+      "ru": ["Это факт.", "Я знаю факты.", "Скажи мне факты."],
+      "es": ["Esto es un hecho.", "Conozco los hechos.", "Dime los hechos."],
+      "pl": ["To jest fakt.", "Znam fakty.", "Powiedz mi fakty."],
+      "fa": ["این یک واقعیت است.", "من واقعیات را می‌دانم.", "واقعیات را به من بگو."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_938_en",
+    "word": "true",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "true",
+      "de": "wahr",
+      "ar": "صحيح",
+      "fr": "vrai",
+      "it": "vero",
+      "ru": "правда",
+      "es": "verdadero",
+      "pl": "prawdziwy",
+      "fa": "درست"
+    },
+    "explanations": {
+      "en": "Accurate and in accordance with fact or reality, not false or made up.",
+      "de": "Genau und in Übereinstimmung mit Tatsachen oder Realität, nicht falsch oder erfunden.",
+      "ar": "دقيق ووفقاً للحقيقة أو الواقع، ليس خاطئاً أو مختلقاً.",
+      "fr": "Précis et en accord avec les faits ou la réalité, pas faux ou inventé.",
+      "it": "Accurato e in accordo con i fatti o la realtà, non falso o inventato.",
+      "ru": "Точный и соответствующий факту или реальности, не ложный или выдуманный.",
+      "es": "Preciso y de acuerdo con los hechos o la realidad, no falso o inventado.",
+      "pl": "Dokładny i zgodny z faktem lub rzeczywistością, nie fałszywy lub wymyślony.",
+      "fa": "دقیق و مطابق با واقعیت یا حقیقت، نادرست یا ساختگی نیست."
+    },
+    "examples": {
+      "en": ["This is true now.", "Is that story true?", "Tell me true things."],
+      "de": ["Das ist jetzt wahr.", "Ist diese Geschichte wahr?", "Sag mir wahre Dinge."],
+      "ar": ["هذا صحيح الآن.", "هل تلك القصة صحيحة؟", "أخبرني بأشياء صحيحة."],
+      "fr": ["C'est vrai maintenant.", "Cette histoire est-elle vraie?", "Dis-moi des choses vraies."],
+      "it": ["Questo è vero ora.", "Quella storia è vera?", "Dimmi cose vere."],
+      "ru": ["Это правда сейчас.", "Эта история правдива?", "Скажи мне правдивые вещи."],
+      "es": ["Esto es verdad ahora.", "¿Es verdadera esa historia?", "Dime cosas verdaderas."],
+      "pl": ["To jest prawdziwe teraz.", "Czy ta historia jest prawdziwa?", "Powiedz mi prawdziwe rzeczy."],
+      "fa": ["این الان درست است.", "آن داستان درست است؟", "چیزهای درست به من بگو."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_939_en",
+    "word": "false",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "false",
+      "de": "falsch",
+      "ar": "خاطئ",
+      "fr": "faux",
+      "it": "falso",
+      "ru": "ложный",
+      "es": "falso",
+      "pl": "fałszywy",
+      "fa": "نادرست"
+    },
+    "explanations": {
+      "en": "Not true or accurate, not in accordance with fact or reality, or deliberately made to deceive.",
+      "de": "Nicht wahr oder genau, nicht in Übereinstimmung mit Tatsachen oder Realität, oder absichtlich gemacht um zu täuschen.",
+      "ar": "ليس صحيحاً أو دقيقاً، غير متفق مع الحقيقة أو الواقع، أو مصنوع عمداً للخداع.",
+      "fr": "Pas vrai ou précis, pas en accord avec les faits ou la réalité, ou délibérément fait pour tromper.",
+      "it": "Non vero o accurato, non in accordo con i fatti o la realtà, o deliberatamente fatto per ingannare.",
+      "ru": "Не истинный или точный, не соответствующий факту или реальности, или намеренно созданный для обмана.",
+      "es": "No verdadero o preciso, no de acuerdo con los hechos o la realidad, o deliberadamente hecho para engañar.",
+      "pl": "Nieprawdziwy lub niedokładny, niezgodny z faktem lub rzeczywistością, lub celowo zrobiony aby oszukać.",
+      "fa": "درست یا دقیق نیست، مطابق با واقعیت یا حقیقت نیست، یا عمدا برای فریب ساخته شده."
+    },
+    "examples": {
+      "en": ["This is false now.", "That information is false.", "Don't say false things."],
+      "de": ["Das ist jetzt falsch.", "Diese Information ist falsch.", "Sag keine falschen Dinge."],
+      "ar": ["هذا خاطئ الآن.", "تلك المعلومات خاطئة.", "لا تقل أشياء خاطئة."],
+      "fr": ["C'est faux maintenant.", "Cette information est fausse.", "Ne dis pas de fausses choses."],
+      "it": ["Questo è falso ora.", "Quell'informazione è falsa.", "Non dire cose false."],
+      "ru": ["Это ложь сейчас.", "Эта информация ложная.", "Не говори ложных вещей."],
+      "es": ["Esto es falso ahora.", "Esa información es falsa.", "No digas cosas falsas."],
+      "pl": ["To jest fałszywe teraz.", "Ta informacja jest fałszywa.", "Nie mów fałszywych rzeczy."],
+      "fa": ["این الان نادرست است.", "آن اطلاعات نادرست است.", "چیزهای نادرست نگو."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_940_en",
+    "word": "right",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "right",
+      "de": "richtig",
+      "ar": "صحيح",
+      "fr": "correct",
+      "it": "giusto",
+      "ru": "правильный",
+      "es": "correcto",
+      "pl": "prawidłowy",
+      "fa": "درست"
+    },
+    "explanations": {
+      "en": "Correct or accurate, true and in accordance with fact or reason, not wrong.",
+      "de": "Korrekt oder genau, wahr und in Übereinstimmung mit Tatsachen oder Vernunft, nicht falsch.",
+      "ar": "صحيح أو دقيق، صحيح ووفقاً للحقيقة أو العقل، ليس خاطئاً.",
+      "fr": "Correct ou précis, vrai et en accord avec les faits ou la raison, pas faux.",
+      "it": "Corretto o accurato, vero e in accordo con i fatti o la ragione, non sbagliato.",
+      "ru": "Правильный или точный, истинный и соответствующий факту или разуму, не неправильный.",
+      "es": "Correcto o preciso, verdadero y de acuerdo con los hechos o la razón, no incorrecto.",
+      "pl": "Poprawny lub dokładny, prawdziwy i zgodny z faktem lub rozumem, nie błędny.",
+      "fa": "صحیح یا دقیق، درست و مطابق با واقعیت یا منطق، اشتباه نیست."
+    },
+    "examples": {
+      "en": ["You are right now.", "That's the right answer.", "Is this right here?"],
+      "de": ["Du hast jetzt recht.", "Das ist die richtige Antwort.", "Ist das hier richtig?"],
+      "ar": ["أنت محق الآن.", "هذا هو الجواب الصحيح.", "هل هذا صحيح هنا؟"],
+      "fr": ["Tu as raison maintenant.", "C'est la bonne réponse.", "Est-ce correct ici?"],
+      "it": ["Hai ragione ora.", "Questa è la risposta giusta.", "È giusto qui?"],
+      "ru": ["Ты прав сейчас.", "Это правильный ответ.", "Это правильно здесь?"],
+      "es": ["Tienes razón ahora.", "Esa es la respuesta correcta.", "¿Es correcto aquí?"],
+      "pl": ["Masz rację teraz.", "To jest prawidłowa odpowiedź.", "Czy to jest prawidłowe tutaj?"],
+      "fa": ["الان درست می‌گویی.", "این پاسخ درست است.", "این اینجا درست است؟"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_721_en",
+    "word": "left",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "left",
+      "de": "links",
+      "ar": "يسار",
+      "fr": "gauche",
+      "it": "sinistra",
+      "ru": "лево",
+      "es": "izquierda",
+      "pl": "lewo",
+      "fa": "چپ"
+    },
+    "explanations": {
+      "en": "The direction or side that is on the opposite of right, like where your heart is in your body, or the west side when you face north.",
+      "de": "Die Richtung oder Seite, die das Gegenteil von rechts ist, wie dort, wo dein Herz in deinem Körper ist, oder die Westseite, wenn du nach Norden schaust.",
+      "ar": "الاتجاه أو الجانب الذي يكون على عكس اليمين، مثل حيث قلبك في جسمك، أو الجانب الغربي عندما تواجه الشمال.",
+      "fr": "La direction ou le côté qui est à l'opposé de droite, comme là où se trouve votre cœur dans votre corps, ou le côté ouest lorsque vous faites face au nord.",
+      "it": "La direzione o il lato che è opposto alla destra, come dove si trova il tuo cuore nel tuo corpo, o il lato ovest quando guardi a nord.",
+      "ru": "Направление или сторона, которая противоположна правой, как место, где находится ваше сердце в теле, или западная сторона, когда вы смотрите на север.",
+      "es": "La dirección o lado que está opuesto a la derecha, como donde está tu corazón en tu cuerpo, o el lado oeste cuando miras al norte.",
+      "pl": "Kierunek lub strona, która jest przeciwna do prawej, jak miejsce, gdzie jest twoje serce w twoim ciele, lub strona zachodnia, gdy patrzysz na północ.",
+      "fa": "جهت یا سمتی که مخالف راست است، مانند جایی که قلب شما در بدن شماست، یا سمت غربی وقتی به شمال نگاه می‌کنید."
+    },
+    "examples": {
+      "en": ["Turn left here.", "The shop is on left.", "Go to the left."],
+      "de": ["Biegen Sie hier links ab.", "Das Geschäft ist auf der linken Seite.", "Gehen Sie nach links."],
+      "ar": ["انعطف يساراً هنا.", "المحل على اليسار.", "اذهب إلى اليسار."],
+      "fr": ["Tournez à gauche ici.", "Le magasin est à gauche.", "Allez à gauche."],
+      "it": ["Gira a sinistra qui.", "Il negozio è a sinistra.", "Vai a sinistra."],
+      "ru": ["Поверните налево здесь.", "Магазин слева.", "Идите налево."],
+      "es": ["Gira a la izquierda aquí.", "La tienda está a la izquierda.", "Ve a la izquierda."],
+      "pl": ["Skręć w lewo tutaj.", "Sklep jest po lewej.", "Idź w lewo."],
+      "fa": ["اینجا به چپ بپیچید.", "مغازه در سمت چپ است.", "به چپ بروید."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_722_en",
+    "word": "right",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "right",
+      "de": "rechts",
+      "ar": "يمين",
+      "fr": "droite",
+      "it": "destra",
+      "ru": "право",
+      "es": "derecha",
+      "pl": "prawo",
+      "fa": "راست"
+    },
+    "explanations": {
+      "en": "The direction or side that is on the opposite of left, like the hand most people write with, or the east side when you face north.",
+      "de": "Die Richtung oder Seite, die das Gegenteil von links ist, wie die Hand, mit der die meisten Menschen schreiben, oder die Ostseite, wenn du nach Norden schaust.",
+      "ar": "الاتجاه أو الجانب الذي يكون على عكس اليسار، مثل اليد التي يكتب بها معظم الناس، أو الجانب الشرقي عندما تواجه الشمال.",
+      "fr": "La direction ou le côté qui est à l'opposé de gauche, comme la main avec laquelle la plupart des gens écrivent, ou le côté est lorsque vous faites face au nord.",
+      "it": "La direzione o il lato che è opposto alla sinistra, come la mano con cui scrive la maggior parte delle persone, o il lato est quando guardi a nord.",
+      "ru": "Направление или сторона, которая противоположна левой, как рука, которой большинство людей пишут, или восточная сторона, когда вы смотрите на север.",
+      "es": "La dirección o lado que está opuesto a la izquierda, como la mano con la que escribe la mayoría de la gente, o el lado este cuando miras al norte.",
+      "pl": "Kierunek lub strona, która jest przeciwna do lewej, jak ręka, którą większość ludzi pisze, lub strona wschodnia, gdy patrzysz na północ.",
+      "fa": "جهت یا سمتی که مخالف چپ است، مانند دستی که اکثر مردم با آن می‌نویسند، یا سمت شرقی وقتی به شمال نگاه می‌کنید."
+    },
+    "examples": {
+      "en": ["Turn right here.", "The park is on right.", "Go to the right."],
+      "de": ["Biegen Sie hier rechts ab.", "Der Park ist auf der rechten Seite.", "Gehen Sie nach rechts."],
+      "ar": ["انعطف يميناً هنا.", "الحديقة على اليمين.", "اذهب إلى اليمين."],
+      "fr": ["Tournez à droite ici.", "Le parc est à droite.", "Allez à droite."],
+      "it": ["Gira a destra qui.", "Il parco è a destra.", "Vai a destra."],
+      "ru": ["Поверните направо здесь.", "Парк справа.", "Идите направо."],
+      "es": ["Gira a la derecha aquí.", "El parque está a la derecha.", "Ve a la derecha."],
+      "pl": ["Skręć w prawo tutaj.", "Park jest po prawej.", "Idź w prawo."],
+      "fa": ["اینجا به راست بپیچید.", "پارک در سمت راست است.", "به راست بروید."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_723_en",
+    "word": "north",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "north",
+      "de": "Norden",
+      "ar": "شمال",
+      "fr": "nord",
+      "it": "nord",
+      "ru": "север",
+      "es": "norte",
+      "pl": "północ",
+      "fa": "شمال"
+    },
+    "explanations": {
+      "en": "The direction that points toward the top of maps and toward the North Pole, which is the coldest region at the top of Earth.",
+      "de": "Die Richtung, die nach oben auf Karten und zum Nordpol zeigt, der die kälteste Region oben auf der Erde ist.",
+      "ar": "الاتجاه الذي يشير إلى أعلى الخرائط ونحو القطب الشمالي، وهو المنطقة الأكثر برودة في أعلى الأرض.",
+      "fr": "La direction qui pointe vers le haut des cartes et vers le pôle Nord, qui est la région la plus froide au sommet de la Terre.",
+      "it": "La direzione che punta verso la parte superiore delle mappe e verso il Polo Nord, che è la regione più fredda nella parte superiore della Terra.",
+      "ru": "Направление, которое указывает на верх карт и к Северному полюсу, который является самым холодным регионом в верхней части Земли.",
+      "es": "La dirección que apunta hacia la parte superior de los mapas y hacia el Polo Norte, que es la región más fría en la parte superior de la Tierra.",
+      "pl": "Kierunek, który wskazuje na górę map i w stronę bieguna północnego, który jest najzimniejszym regionem na górze Ziemi.",
+      "fa": "جهتی که به بالای نقشه‌ها و به سمت قطب شمال اشاره می‌کند، که سردترین منطقه در بالای زمین است."
+    },
+    "examples": {
+      "en": ["Go north from here.", "The city is in north.", "We travel north."],
+      "de": ["Gehen Sie von hier nach Norden.", "Die Stadt ist im Norden.", "Wir reisen nach Norden."],
+      "ar": ["اذهب شمالاً من هنا.", "المدينة في الشمال.", "نسافر شمالاً."],
+      "fr": ["Allez au nord d'ici.", "La ville est au nord.", "Nous voyageons vers le nord."],
+      "it": ["Vai a nord da qui.", "La città è a nord.", "Viaggiamo verso nord."],
+      "ru": ["Идите на север отсюда.", "Город на севере.", "Мы путешествуем на север."],
+      "es": ["Ve al norte desde aquí.", "La ciudad está en el norte.", "Viajamos al norte."],
+      "pl": ["Idź na północ stąd.", "Miasto jest na północy.", "Podróżujemy na północ."],
+      "fa": ["از اینجا به شمال بروید.", "شهر در شمال است.", "ما به شمال سفر می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_724_en",
+    "word": "south",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "south",
+      "de": "Süden",
+      "ar": "جنوب",
+      "fr": "sud",
+      "it": "sud",
+      "ru": "юг",
+      "es": "sur",
+      "pl": "południe",
+      "fa": "جنوب"
+    },
+    "explanations": {
+      "en": "The direction that points toward the bottom of maps and toward the South Pole, which is the icy region at the bottom of Earth.",
+      "de": "Die Richtung, die nach unten auf Karten und zum Südpol zeigt, der die eisige Region unten auf der Erde ist.",
+      "ar": "الاتجاه الذي يشير إلى أسفل الخرائط ونحو القطب الجنوبي، وهو المنطقة الجليدية في أسفل الأرض.",
+      "fr": "La direction qui pointe vers le bas des cartes et vers le pôle Sud, qui est la région glacée au bas de la Terre.",
+      "it": "La direzione che punta verso la parte inferiore delle mappe e verso il Polo Sud, che è la regione ghiacciata nella parte inferiore della Terra.",
+      "ru": "Направление, которое указывает на низ карт и к Южному полюсу, который является ледяным регионом в нижней части Земли.",
+      "es": "La dirección que apunta hacia la parte inferior de los mapas y hacia el Polo Sur, que es la región helada en la parte inferior de la Tierra.",
+      "pl": "Kierunek, który wskazuje na dół map i w stronę bieguna południowego, który jest lodowatym regionem na dole Ziemi.",
+      "fa": "جهتی که به پایین نقشه‌ها و به سمت قطب جنوب اشاره می‌کند، که منطقه یخی در پایین زمین است."
+    },
+    "examples": {
+      "en": ["Go south from here.", "The beach is in south.", "We travel south."],
+      "de": ["Gehen Sie von hier nach Süden.", "Der Strand ist im Süden.", "Wir reisen nach Süden."],
+      "ar": ["اذهب جنوباً من هنا.", "الشاطئ في الجنوب.", "نسافر جنوباً."],
+      "fr": ["Allez au sud d'ici.", "La plage est au sud.", "Nous voyageons vers le sud."],
+      "it": ["Vai a sud da qui.", "La spiaggia è a sud.", "Viaggiamo verso sud."],
+      "ru": ["Идите на юг отсюда.", "Пляж на юге.", "Мы путешествуем на юг."],
+      "es": ["Ve al sur desde aquí.", "La playa está en el sur.", "Viajamos al sur."],
+      "pl": ["Idź na południe stąd.", "Plaża jest na południu.", "Podróżujemy na południe."],
+      "fa": ["از اینجا به جنوب بروید.", "ساحل در جنوب است.", "ما به جنوب سفر می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_725_en",
+    "word": "east",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "east",
+      "de": "Osten",
+      "ar": "شرق",
+      "fr": "est",
+      "it": "est",
+      "ru": "восток",
+      "es": "este",
+      "pl": "wschód",
+      "fa": "شرق"
+    },
+    "explanations": {
+      "en": "The direction where the sun rises in the morning, pointing to your right when you face north on a map.",
+      "de": "Die Richtung, wo die Sonne am Morgen aufgeht, nach rechts zeigend, wenn du auf einer Karte nach Norden schaust.",
+      "ar": "الاتجاه الذي تشرق فيه الشمس في الصباح، يشير إلى يمينك عندما تواجه الشمال على الخريطة.",
+      "fr": "La direction où le soleil se lève le matin, pointant vers votre droite lorsque vous faites face au nord sur une carte.",
+      "it": "La direzione in cui il sole sorge al mattino, puntando verso destra quando guardi a nord su una mappa.",
+      "ru": "Направление, где восходит солнце утром, указывая вправо, когда вы смотрите на север на карте.",
+      "es": "La dirección donde sale el sol por la mañana, apuntando a tu derecha cuando miras al norte en un mapa.",
+      "pl": "Kierunek, w którym wschodzi słońce rano, wskazując na prawo, gdy patrzysz na północ na mapie.",
+      "fa": "جهتی که خورشید صبح در آن طلوع می‌کند، که به سمت راست شما اشاره می‌کند وقتی در نقشه به شمال نگاه می‌کنید."
+    },
+    "examples": {
+      "en": ["Go east from here.", "The sun rises in east.", "We drive east."],
+      "de": ["Gehen Sie von hier nach Osten.", "Die Sonne geht im Osten auf.", "Wir fahren nach Osten."],
+      "ar": ["اذهب شرقاً من هنا.", "الشمس تشرق في الشرق.", "نقود شرقاً."],
+      "fr": ["Allez à l'est d'ici.", "Le soleil se lève à l'est.", "Nous conduisons vers l'est."],
+      "it": ["Vai a est da qui.", "Il sole sorge a est.", "Guidiamo verso est."],
+      "ru": ["Идите на восток отсюда.", "Солнце восходит на востоке.", "Мы едем на восток."],
+      "es": ["Ve al este desde aquí.", "El sol sale en el este.", "Conducimos al este."],
+      "pl": ["Idź na wschód stąd.", "Słońce wschodzi na wschodzie.", "Jedziemy na wschód."],
+      "fa": ["از اینجا به شرق بروید.", "خورشید در شرق طلوع می‌کند.", "ما به شرق رانندگی می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_726_en",
+    "word": "west",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "west",
+      "de": "Westen",
+      "ar": "غرب",
+      "fr": "ouest",
+      "it": "ovest",
+      "ru": "запад",
+      "es": "oeste",
+      "pl": "zachód",
+      "fa": "غرب"
+    },
+    "explanations": {
+      "en": "The direction where the sun sets in the evening, pointing to your left when you face north on a map.",
+      "de": "Die Richtung, wo die Sonne am Abend untergeht, nach links zeigend, wenn du auf einer Karte nach Norden schaust.",
+      "ar": "الاتجاه الذي تغرب فيه الشمس في المساء، يشير إلى يسارك عندما تواجه الشمال على الخريطة.",
+      "fr": "La direction où le soleil se couche le soir, pointant vers votre gauche lorsque vous faites face au nord sur une carte.",
+      "it": "La direzione in cui il sole tramonta la sera, puntando verso sinistra quando guardi a nord su una mappa.",
+      "ru": "Направление, где заходит солнце вечером, указывая влево, когда вы смотрите на север на карте.",
+      "es": "La dirección donde se pone el sol por la tarde, apuntando a tu izquierda cuando miras al norte en un mapa.",
+      "pl": "Kierunek, w którym zachodzi słońce wieczorem, wskazując na lewo, gdy patrzysz na północ na mapie.",
+      "fa": "جهتی که خورشید عصر در آن غروب می‌کند، که به سمت چپ شما اشاره می‌کند وقتی در نقشه به شمال نگاه می‌کنید."
+    },
+    "examples": {
+      "en": ["Go west from here.", "The sun sets in west.", "We travel west."],
+      "de": ["Gehen Sie von hier nach Westen.", "Die Sonne geht im Westen unter.", "Wir reisen nach Westen."],
+      "ar": ["اذهب غرباً من هنا.", "الشمس تغرب في الغرب.", "نسافر غرباً."],
+      "fr": ["Allez à l'ouest d'ici.", "Le soleil se couche à l'ouest.", "Nous voyageons vers l'ouest."],
+      "it": ["Vai a ovest da qui.", "Il sole tramonta a ovest.", "Viaggiamo verso ovest."],
+      "ru": ["Идите на запад отсюда.", "Солнце заходит на западе.", "Мы путешествуем на запад."],
+      "es": ["Ve al oeste desde aquí.", "El sol se pone en el oeste.", "Viajamos al oeste."],
+      "pl": ["Idź na zachód stąd.", "Słońce zachodzi na zachodzie.", "Podróżujemy na zachód."],
+      "fa": ["از اینجا به غرب بروید.", "خورشید در غرب غروب می‌کند.", "ما به غرب سفر می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_727_en",
+    "word": "up",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "up",
+      "de": "oben",
+      "ar": "أعلى",
+      "fr": "en haut",
+      "it": "su",
+      "ru": "вверх",
+      "es": "arriba",
+      "pl": "w górę",
+      "fa": "بالا"
+    },
+    "explanations": {
+      "en": "Moving or pointing toward a higher position or place, like going toward the sky or to a floor above you.",
+      "de": "Bewegen oder Zeigen in Richtung einer höheren Position oder eines höheren Ortes, wie zum Himmel oder zu einer Etage über dir gehen.",
+      "ar": "التحرك أو الإشارة نحو موضع أو مكان أعلى، مثل الذهاب نحو السماء أو إلى طابق فوقك.",
+      "fr": "Se déplacer ou pointer vers une position ou un endroit plus élevé, comme aller vers le ciel ou vers un étage au-dessus de vous.",
+      "it": "Muoversi o puntare verso una posizione o un luogo più alto, come andare verso il cielo o verso un piano sopra di te.",
+      "ru": "Движение или указание в сторону более высокого положения или места, как идти к небу или на этаж выше вас.",
+      "es": "Moverse o apuntar hacia una posición o lugar más alto, como ir hacia el cielo o a un piso arriba de ti.",
+      "pl": "Poruszanie się lub wskazywanie w kierunku wyższej pozycji lub miejsca, jak idąc w kierunku nieba lub na piętro nad tobą.",
+      "fa": "حرکت یا اشاره به سمت موقعیت یا مکان بالاتر، مانند رفتن به سمت آسمان یا به طبقه بالای شما."
+    },
+    "examples": {
+      "en": ["Look up at sky.", "Go up the stairs.", "The bird flies up."],
+      "de": ["Schaue nach oben zum Himmel.", "Gehe die Treppe hoch.", "Der Vogel fliegt nach oben."],
+      "ar": ["انظر إلى السماء.", "اصعد الدرج.", "الطائر يطير لأعلى."],
+      "fr": ["Regardez en haut vers le ciel.", "Montez les escaliers.", "L'oiseau vole vers le haut."],
+      "it": ["Guarda su verso il cielo.", "Sali le scale.", "L'uccello vola su."],
+      "ru": ["Посмотрите вверх на небо.", "Поднимитесь по лестнице.", "Птица летит вверх."],
+      "es": ["Mira arriba al cielo.", "Sube las escaleras.", "El pájaro vuela arriba."],
+      "pl": ["Spójrz w górę na niebo.", "Idź w górę schodami.", "Ptak leci w górę."],
+      "fa": ["به آسمان بالا نگاه کنید.", "از پله‌ها بالا بروید.", "پرنده بالا پرواز می‌کند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_728_en",
+    "word": "down",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "down",
+      "de": "unten",
+      "ar": "أسفل",
+      "fr": "en bas",
+      "it": "giù",
+      "ru": "вниз",
+      "es": "abajo",
+      "pl": "w dół",
+      "fa": "پایین"
+    },
+    "explanations": {
+      "en": "Moving or pointing toward a lower position or place, like going toward the ground or to a floor below you.",
+      "de": "Bewegen oder Zeigen in Richtung einer niedrigeren Position oder eines niedrigeren Ortes, wie zum Boden oder zu einer Etage unter dir gehen.",
+      "ar": "التحرك أو الإشارة نحو موضع أو مكان أدنى، مثل الذهاب نحو الأرض أو إلى طابق تحتك.",
+      "fr": "Se déplacer ou pointer vers une position ou un endroit plus bas, comme aller vers le sol ou vers un étage en dessous de vous.",
+      "it": "Muoversi o puntare verso una posizione o un luogo più basso, come andare verso il suolo o verso un piano sotto di te.",
+      "ru": "Движение или указание в сторону более низкого положения или места, как идти к земле или на этаж ниже вас.",
+      "es": "Moverse o apuntar hacia una posición o lugar más bajo, como ir hacia el suelo o a un piso debajo de ti.",
+      "pl": "Poruszanie się lub wskazywanie w kierunku niższej pozycji lub miejsca, jak idąc w kierunku ziemi lub na piętro pod tobą.",
+      "fa": "حرکت یا اشاره به سمت موقعیت یا مکان پایین‌تر، مانند رفتن به سمت زمین یا به طبقه زیر شما."
+    },
+    "examples": {
+      "en": ["Look down at ground.", "Go down the stairs.", "The ball falls down."],
+      "de": ["Schaue nach unten zum Boden.", "Gehe die Treppe hinunter.", "Der Ball fällt nach unten."],
+      "ar": ["انظر إلى الأرض.", "انزل الدرج.", "الكرة تسقط لأسفل."],
+      "fr": ["Regardez en bas vers le sol.", "Descendez les escaliers.", "Le ballon tombe vers le bas."],
+      "it": ["Guarda giù verso il suolo.", "Scendi le scale.", "La palla cade giù."],
+      "ru": ["Посмотрите вниз на землю.", "Спуститесь по лестнице.", "Мяч падает вниз."],
+      "es": ["Mira abajo al suelo.", "Baja las escaleras.", "La pelota cae abajo."],
+      "pl": ["Spójrz w dół na ziemię.", "Idź w dół schodami.", "Piłka spada w dół."],
+      "fa": ["به زمین پایین نگاه کنید.", "از پله‌ها پایین بروید.", "توپ پایین می‌افتد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_729_en",
+    "word": "here",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "here",
+      "de": "hier",
+      "ar": "هنا",
+      "fr": "ici",
+      "it": "qui",
+      "ru": "здесь",
+      "es": "aquí",
+      "pl": "tutaj",
+      "fa": "اینجا"
+    },
+    "explanations": {
+      "en": "In or at this place or position where you are now, or the location that is close to you at this moment.",
+      "de": "In oder an diesem Ort oder dieser Position, wo du jetzt bist, oder der Ort, der in diesem Moment nah bei dir ist.",
+      "ar": "في أو عند هذا المكان أو الموضع حيث أنت الآن، أو الموقع القريب منك في هذه اللحظة.",
+      "fr": "Dans ou à cet endroit ou cette position où vous êtes maintenant, ou l'emplacement qui est proche de vous en ce moment.",
+      "it": "In o a questo luogo o posizione dove sei ora, o il luogo che è vicino a te in questo momento.",
+      "ru": "В или на этом месте или позиции, где вы сейчас находитесь, или место, которое находится близко к вам в этот момент.",
+      "es": "En o en este lugar o posición donde estás ahora, o la ubicación que está cerca de ti en este momento.",
+      "pl": "W lub na tym miejscu lub pozycji, gdzie jesteś teraz, lub miejsce, które jest blisko ciebie w tym momencie.",
+      "fa": "در یا در این مکان یا موقعیتی که اکنون هستید، یا مکانی که در این لحظه به شما نزدیک است."
+    },
+    "examples": {
+      "en": ["Come here now.", "I live here.", "The shop is here."],
+      "de": ["Komm jetzt hier.", "Ich lebe hier.", "Das Geschäft ist hier."],
+      "ar": ["تعال هنا الآن.", "أعيش هنا.", "المحل هنا."],
+      "fr": ["Venez ici maintenant.", "Je vis ici.", "Le magasin est ici."],
+      "it": ["Vieni qui ora.", "Vivo qui.", "Il negozio è qui."],
+      "ru": ["Приходи сюда сейчас.", "Я живу здесь.", "Магазин здесь."],
+      "es": ["Ven aquí ahora.", "Vivo aquí.", "La tienda está aquí."],
+      "pl": ["Przyjdź tutaj teraz.", "Mieszkam tutaj.", "Sklep jest tutaj."],
+      "fa": ["الان بیا اینجا.", "من اینجا زندگی می‌کنم.", "مغازه اینجاست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_730_en",
+    "word": "there",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "there",
+      "de": "dort",
+      "ar": "هناك",
+      "fr": "là",
+      "it": "lì",
+      "ru": "там",
+      "es": "allí",
+      "pl": "tam",
+      "fa": "آنجا"
+    },
+    "explanations": {
+      "en": "In or at that place or position which is not here but somewhere else, often a location you can point to or see.",
+      "de": "In oder an diesem Ort oder dieser Position, die nicht hier, sondern woanders ist, oft ein Ort, auf den du zeigen oder den du sehen kannst.",
+      "ar": "في أو عند ذلك المكان أو الموضع الذي ليس هنا ولكن في مكان آخر، غالباً موقع يمكنك الإشارة إليه أو رؤيته.",
+      "fr": "Dans ou à cet endroit ou cette position qui n'est pas ici mais ailleurs, souvent un emplacement que vous pouvez pointer ou voir.",
+      "it": "In o a quel luogo o posizione che non è qui ma da qualche altra parte, spesso un luogo che puoi indicare o vedere.",
+      "ru": "В или на том месте или позиции, которое не здесь, а где-то еще, часто место, на которое вы можете указать или увидеть.",
+      "es": "En o en ese lugar o posición que no está aquí sino en otro lugar, a menudo una ubicación que puedes señalar o ver.",
+      "pl": "W lub na tym miejscu lub pozycji, która nie jest tutaj, ale gdzieś indziej, często miejsce, na które możesz wskazać lub zobaczyć.",
+      "fa": "در یا در آن مکان یا موقعیتی که اینجا نیست بلکه جای دیگری است، اغلب مکانی که می‌توانید به آن اشاره کنید یا ببینید."
+    },
+    "examples": {
+      "en": ["Go there now.", "My house is there.", "The park is there."],
+      "de": ["Gehe jetzt dort hin.", "Mein Haus ist dort.", "Der Park ist dort."],
+      "ar": ["اذهب هناك الآن.", "منزلي هناك.", "الحديقة هناك."],
+      "fr": ["Allez là maintenant.", "Ma maison est là.", "Le parc est là."],
+      "it": ["Vai lì ora.", "La mia casa è lì.", "Il parco è lì."],
+      "ru": ["Иди туда сейчас.", "Мой дом там.", "Парк там."],
+      "es": ["Ve allí ahora.", "Mi casa está allí.", "El parque está allí."],
+      "pl": ["Idź tam teraz.", "Mój dom jest tam.", "Park jest tam."],
+      "fa": ["الان برو آنجا.", "خانه من آنجاست.", "پارک آنجاست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_731_en",
+    "word": "near",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "near",
+      "de": "nahe",
+      "ar": "قريب",
+      "fr": "près",
+      "it": "vicino",
+      "ru": "близко",
+      "es": "cerca",
+      "pl": "blisko",
+      "fa": "نزدیک"
+    },
+    "explanations": {
+      "en": "At a short distance from something or someone, not far away, so you can reach it quickly or easily by walking or moving.",
+      "de": "In kurzer Entfernung von etwas oder jemandem, nicht weit weg, sodass du es schnell oder leicht durch Gehen oder Bewegen erreichen kannst.",
+      "ar": "على مسافة قصيرة من شيء أو شخص، ليس بعيداً، بحيث يمكنك الوصول إليه بسرعة أو بسهولة عن طريق المشي أو الحركة.",
+      "fr": "À une courte distance de quelque chose ou de quelqu'un, pas loin, de sorte que vous pouvez l'atteindre rapidement ou facilement en marchant ou en bougeant.",
+      "it": "A una breve distanza da qualcosa o qualcuno, non lontano, così puoi raggiungerlo rapidamente o facilmente camminando o muovendoti.",
+      "ru": "На небольшом расстоянии от чего-то или кого-то, недалеко, так что вы можете добраться до этого быстро или легко, идя или двигаясь.",
+      "es": "A una corta distancia de algo o alguien, no lejos, para que puedas alcanzarlo rápida o fácilmente caminando o moviéndote.",
+      "pl": "W niewielkiej odległości od czegoś lub kogoś, niedaleko, więc możesz to osiągnąć szybko lub łatwo, chodząc lub poruszając się.",
+      "fa": "در فاصله کوتاهی از چیزی یا کسی، دور نیست، بنابراین می‌توانید به سرعت یا به راحتی با راه رفتن یا حرکت به آن برسید."
+    },
+    "examples": {
+      "en": ["The shop is near here.", "I live near school.", "Come near me."],
+      "de": ["Das Geschäft ist nahe hier.", "Ich lebe nahe der Schule.", "Komm nahe zu mir."],
+      "ar": ["المحل قريب من هنا.", "أعيش بالقرب من المدرسة.", "تعال قريباً مني."],
+      "fr": ["Le magasin est près d'ici.", "Je vis près de l'école.", "Venez près de moi."],
+      "it": ["Il negozio è vicino qui.", "Vivo vicino alla scuola.", "Vieni vicino a me."],
+      "ru": ["Магазин рядом здесь.", "Я живу рядом со школой.", "Подойди ближе ко мне."],
+      "es": ["La tienda está cerca de aquí.", "Vivo cerca de la escuela.", "Ven cerca de mí."],
+      "pl": ["Sklep jest blisko tutaj.", "Mieszkam blisko szkoły.", "Przyjdź blisko mnie."],
+      "fa": ["مغازه نزدیک اینجاست.", "من نزدیک مدرسه زندگی می‌کنم.", "نزدیک من بیا."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_732_en",
+    "word": "far",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "far",
+      "de": "weit",
+      "ar": "بعيد",
+      "fr": "loin",
+      "it": "lontano",
+      "ru": "далеко",
+      "es": "lejos",
+      "pl": "daleko",
+      "fa": "دور"
+    },
+    "explanations": {
+      "en": "At a great distance from something or someone, not close or near, so it takes time to reach by traveling or moving.",
+      "de": "In großer Entfernung von etwas oder jemandem, nicht nah oder nahe, sodass es Zeit braucht, um durch Reisen oder Bewegen zu erreichen.",
+      "ar": "على مسافة كبيرة من شيء أو شخص، ليس قريباً أو قريباً، لذلك يستغرق وقتاً للوصول عن طريق السفر أو الحركة.",
+      "fr": "À une grande distance de quelque chose ou de quelqu'un, pas proche ou près, donc cela prend du temps pour y arriver en voyageant ou en bougeant.",
+      "it": "A una grande distanza da qualcosa o qualcuno, non vicino o vicino, quindi ci vuole tempo per raggiungerlo viaggiando o muovendosi.",
+      "ru": "На большом расстоянии от чего-то или кого-то, не близко или рядом, поэтому требуется время, чтобы добраться, путешествуя или двигаясь.",
+      "es": "A una gran distancia de algo o alguien, no cerca o cerca, por lo que toma tiempo llegar viajando o moviéndose.",
+      "pl": "W dużej odległości od czegoś lub kogoś, nieblisko lub blisko, więc zajmuje czas, aby dotrzeć, podróżując lub poruszając się.",
+      "fa": "در فاصله زیادی از چیزی یا کسی، نزدیک یا نزدیک نیست، بنابراین زمان لازم است تا با سفر یا حرکت به آن برسید."
+    },
+    "examples": {
+      "en": ["The city is far away.", "My home is not far.", "How far is it?"],
+      "de": ["Die Stadt ist weit weg.", "Mein Zuhause ist nicht weit.", "Wie weit ist es?"],
+      "ar": ["المدينة بعيدة.", "منزلي ليس بعيداً.", "كم المسافة؟"],
+      "fr": ["La ville est loin.", "Ma maison n'est pas loin.", "C'est à quelle distance?"],
+      "it": ["La città è lontana.", "La mia casa non è lontana.", "Quanto è lontano?"],
+      "ru": ["Город далеко.", "Мой дом недалеко.", "Как далеко это?"],
+      "es": ["La ciudad está lejos.", "Mi casa no está lejos.", "¿Qué tan lejos está?"],
+      "pl": ["Miasto jest daleko.", "Mój dom nie jest daleko.", "Jak daleko to jest?"],
+      "fa": ["شهر دور است.", "خانه من دور نیست.", "چقدر دور است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_733_en",
+    "word": "next",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "next",
+      "de": "nächste",
+      "ar": "التالي",
+      "fr": "prochain",
+      "it": "prossimo",
+      "ru": "следующий",
+      "es": "siguiente",
+      "pl": "następny",
+      "fa": "بعدی"
+    },
+    "explanations": {
+      "en": "Coming immediately after this one in time, order, or position, or the one that is closest to something or right beside it.",
+      "de": "Unmittelbar nach diesem in Zeit, Reihenfolge oder Position kommend, oder das, was am nächsten zu etwas ist oder direkt daneben.",
+      "ar": "القادم مباشرة بعد هذا في الوقت أو الترتيب أو الموضع، أو الذي هو الأقرب إلى شيء أو بجانبه مباشرة.",
+      "fr": "Venant immédiatement après celui-ci dans le temps, l'ordre ou la position, ou celui qui est le plus proche de quelque chose ou juste à côté.",
+      "it": "Che viene immediatamente dopo questo in tempo, ordine o posizione, o quello che è più vicino a qualcosa o proprio accanto ad esso.",
+      "ru": "Приходящий сразу после этого во времени, порядке или положении, или то, что ближе всего к чему-то или прямо рядом с ним.",
+      "es": "Viniendo inmediatamente después de este en tiempo, orden o posición, o el que está más cerca de algo o justo al lado.",
+      "pl": "Przychodzący natychmiast po tym w czasie, kolejności lub pozycji, lub ten, który jest najbliżej czegoś lub tuż obok.",
+      "fa": "آنچه بلافاصله بعد از این در زمان، ترتیب یا موقعیت می‌آید، یا آنچه که به چیزی نزدیک‌ترین است یا درست کنار آن."
+    },
+    "examples": {
+      "en": ["Next week I go there.", "The shop is next door.", "What comes next?"],
+      "de": ["Nächste Woche gehe ich dorthin.", "Das Geschäft ist nebenan.", "Was kommt als Nächstes?"],
+      "ar": ["الأسبوع المقبل أذهب هناك.", "المحل في الباب المجاور.", "ما القادم؟"],
+      "fr": ["La semaine prochaine, je vais là-bas.", "Le magasin est à côté.", "Qu'est-ce qui vient ensuite?"],
+      "it": ["La prossima settimana vado lì.", "Il negozio è accanto.", "Cosa viene dopo?"],
+      "ru": ["На следующей неделе я иду туда.", "Магазин рядом.", "Что дальше?"],
+      "es": ["La próxima semana voy allí.", "La tienda está al lado.", "¿Qué viene después?"],
+      "pl": ["W przyszłym tygodniu idę tam.", "Sklep jest obok.", "Co dalej?"],
+      "fa": ["هفته آینده من آنجا می‌روم.", "مغازه درب همین است.", "بعدش چی میاد؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_734_en",
+    "word": "between",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "between",
+      "de": "zwischen",
+      "ar": "بين",
+      "fr": "entre",
+      "it": "tra",
+      "ru": "между",
+      "es": "entre",
+      "pl": "między",
+      "fa": "بین"
+    },
+    "explanations": {
+      "en": "In the space or time that separates two things, people, or points, with one on each side or at each end.",
+      "de": "Im Raum oder in der Zeit, die zwei Dinge, Menschen oder Punkte trennt, mit einem auf jeder Seite oder an jedem Ende.",
+      "ar": "في المساحة أو الوقت الذي يفصل شيئين أو شخصين أو نقطتين، مع واحد على كل جانب أو في كل نهاية.",
+      "fr": "Dans l'espace ou le temps qui sépare deux choses, personnes ou points, avec un de chaque côté ou à chaque extrémité.",
+      "it": "Nello spazio o nel tempo che separa due cose, persone o punti, con uno su ciascun lato o a ciascuna estremità.",
+      "ru": "В пространстве или времени, которое разделяет две вещи, людей или точки, с одним на каждой стороне или на каждом конце.",
+      "es": "En el espacio o tiempo que separa dos cosas, personas o puntos, con uno en cada lado o en cada extremo.",
+      "pl": "W przestrzeni lub czasie, który dzieli dwie rzeczy, osoby lub punkty, z jednym po każdej stronie lub na każdym końcu.",
+      "fa": "در فضا یا زمانی که دو چیز، افراد یا نقطه را از هم جدا می‌کند، با یکی در هر طرف یا در هر انتها."
+    },
+    "examples": {
+      "en": ["I sit between them.", "The shop is between two banks.", "Choose between this and that."],
+      "de": ["Ich sitze zwischen ihnen.", "Das Geschäft ist zwischen zwei Banken.", "Wähle zwischen diesem und jenem."],
+      "ar": ["أجلس بينهما.", "المحل بين بنكين.", "اختر بين هذا وذاك."],
+      "fr": ["Je m'assieds entre eux.", "Le magasin est entre deux banques.", "Choisissez entre ceci et cela."],
+      "it": ["Mi siedo tra loro.", "Il negozio è tra due banche.", "Scegli tra questo e quello."],
+      "ru": ["Я сижу между ними.", "Магазин между двумя банками.", "Выберите между этим и тем."],
+      "es": ["Me siento entre ellos.", "La tienda está entre dos bancos.", "Elige entre esto y aquello."],
+      "pl": ["Siedzę między nimi.", "Sklep jest między dwoma bankami.", "Wybierz między tym a tamtym."],
+      "fa": ["من بین آنها می‌نشینم.", "مغازه بین دو بانک است.", "بین این و آن انتخاب کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_735_en",
+    "word": "behind",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "behind",
+      "de": "hinter",
+      "ar": "خلف",
+      "fr": "derrière",
+      "it": "dietro",
+      "ru": "сзади",
+      "es": "detrás",
+      "pl": "za",
+      "fa": "پشت"
+    },
+    "explanations": {
+      "en": "At or toward the back of something or someone, in the position that is on the other side of the front part.",
+      "de": "An oder in Richtung der Rückseite von etwas oder jemandem, in der Position, die auf der anderen Seite des vorderen Teils ist.",
+      "ar": "في أو نحو الجزء الخلفي من شيء أو شخص، في الموضع الذي يكون على الجانب الآخر من الجزء الأمامي.",
+      "fr": "À ou vers l'arrière de quelque chose ou de quelqu'un, dans la position qui est de l'autre côté de la partie avant.",
+      "it": "A o verso la parte posteriore di qualcosa o qualcuno, nella posizione che è dall'altra parte della parte anteriore.",
+      "ru": "В или к задней части чего-то или кого-то, в положении, которое находится на другой стороне передней части.",
+      "es": "En o hacia la parte de atrás de algo o alguien, en la posición que está en el otro lado de la parte delantera.",
+      "pl": "W lub w kierunku tylnej części czegoś lub kogoś, w pozycji, która jest po drugiej stronie przedniej części.",
+      "fa": "در یا به سمت پشت چیزی یا کسی، در موقعیتی که در طرف دیگر قسمت جلو است."
+    },
+    "examples": {
+      "en": ["The cat is behind me.", "Hide behind the door.", "Look behind you."],
+      "de": ["Die Katze ist hinter mir.", "Versteck dich hinter der Tür.", "Schau hinter dich."],
+      "ar": ["القطة خلفي.", "اختبئ خلف الباب.", "انظر خلفك."],
+      "fr": ["Le chat est derrière moi.", "Cachez-vous derrière la porte.", "Regardez derrière vous."],
+      "it": ["Il gatto è dietro di me.", "Nasconditi dietro la porta.", "Guarda dietro di te."],
+      "ru": ["Кошка позади меня.", "Спрячься за дверью.", "Посмотри за собой."],
+      "es": ["El gato está detrás de mí.", "Escóndete detrás de la puerta.", "Mira detrás de ti."],
+      "pl": ["Kot jest za mną.", "Schowaj się za drzwiami.", "Spójrz za siebie."],
+      "fa": ["گربه پشت من است.", "پشت در پنهان شو.", "پشت سرت را نگاه کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_736_en",
+    "word": "front",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "front",
+      "de": "Vorderseite",
+      "ar": "أمام",
+      "fr": "devant",
+      "it": "fronte",
+      "ru": "перед",
+      "es": "frente",
+      "pl": "przód",
+      "fa": "جلو"
+    },
+    "explanations": {
+      "en": "The side or part of something that faces forward or is most visible, or the position ahead of all other things or people.",
+      "de": "Die Seite oder der Teil von etwas, der nach vorne zeigt oder am sichtbarsten ist, oder die Position vor allen anderen Dingen oder Menschen.",
+      "ar": "الجانب أو الجزء من شيء يواجه الأمام أو الأكثر وضوحاً، أو الموضع أمام كل الأشياء أو الناس الآخرين.",
+      "fr": "Le côté ou la partie de quelque chose qui fait face vers l'avant ou qui est le plus visible, ou la position devant toutes les autres choses ou personnes.",
+      "it": "Il lato o la parte di qualcosa che è rivolto in avanti o è più visibile, o la posizione davanti a tutte le altre cose o persone.",
+      "ru": "Сторона или часть чего-то, что обращено вперед или наиболее заметно, или позиция впереди всех других вещей или людей.",
+      "es": "El lado o parte de algo que mira hacia adelante o es más visible, o la posición delante de todas las demás cosas o personas.",
+      "pl": "Strona lub część czegoś, która jest skierowana do przodu lub jest najbardziej widoczna, lub pozycja przed wszystkimi innymi rzeczami lub ludźmi.",
+      "fa": "سمت یا بخشی از چیزی که رو به جلو است یا قابل رؤیت‌ترین است، یا موقعیتی جلوتر از همه چیزها یا افراد دیگر."
+    },
+    "examples": {
+      "en": ["I sit in the front.", "The front door is open.", "Look at the front."],
+      "de": ["Ich sitze vorne.", "Die Vordertür ist offen.", "Schau auf die Vorderseite."],
+      "ar": ["أجلس في الأمام.", "الباب الأمامي مفتوح.", "انظر إلى الأمام."],
+      "fr": ["Je m'assieds à l'avant.", "La porte d'entrée est ouverte.", "Regardez le devant."],
+      "it": ["Mi siedo davanti.", "La porta principale è aperta.", "Guarda davanti."],
+      "ru": ["Я сижу спереди.", "Передняя дверь открыта.", "Посмотри на переднюю часть."],
+      "es": ["Me siento en el frente.", "La puerta delantera está abierta.", "Mira al frente."],
+      "pl": ["Siedzę z przodu.", "Przednie drzwi są otwarte.", "Spójrz na przód."],
+      "fa": ["من جلو می‌نشینم.", "در جلو باز است.", "به جلو نگاه کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_737_en",
+    "word": "back",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "back",
+      "de": "zurück",
+      "ar": "خلف",
+      "fr": "arrière",
+      "it": "indietro",
+      "ru": "назад",
+      "es": "atrás",
+      "pl": "z powrotem",
+      "fa": "پشت"
+    },
+    "explanations": {
+      "en": "The rear part or side of something that is opposite the front, or moving toward where you started from or were before.",
+      "de": "Der hintere Teil oder die Seite von etwas, die der Vorderseite gegenüberliegt, oder Bewegung dorthin, wo du begonnen hast oder vorher warst.",
+      "ar": "الجزء الخلفي أو الجانب من شيء يقابل الأمام، أو التحرك نحو حيث بدأت أو كنت من قبل.",
+      "fr": "La partie arrière ou le côté de quelque chose qui est opposé au devant, ou se déplacer vers l'endroit d'où vous avez commencé ou étiez avant.",
+      "it": "La parte posteriore o il lato di qualcosa che è opposto al fronte, o muoversi verso dove hai iniziato o eri prima.",
+      "ru": "Задняя часть или сторона чего-то, что противоположно передней части, или движение к месту, откуда вы начали или были раньше.",
+      "es": "La parte trasera o lado de algo que es opuesto al frente, o moverse hacia donde comenzaste o estabas antes.",
+      "pl": "Tylna część lub strona czegoś, która jest przeciwna do przodu, lub poruszanie się w kierunku, skąd zacząłeś lub byłeś wcześniej.",
+      "fa": "قسمت یا سمت عقبی چیزی که مخالف جلو است، یا حرکت به سمت جایی که از آنجا شروع کردید یا قبلاً بودید."
+    },
+    "examples": {
+      "en": ["Go back home.", "The back door is locked.", "I come back soon."],
+      "de": ["Geh zurück nach Hause.", "Die Hintertür ist verschlossen.", "Ich komme bald zurück."],
+      "ar": ["ارجع إلى المنزل.", "الباب الخلفي مغلق.", "أعود قريباً."],
+      "fr": ["Rentrez à la maison.", "La porte arrière est verrouillée.", "Je reviens bientôt."],
+      "it": ["Torna a casa.", "La porta posteriore è chiusa a chiave.", "Torno presto."],
+      "ru": ["Вернись домой.", "Задняя дверь закрыта.", "Я скоро вернусь."],
+      "es": ["Vuelve a casa.", "La puerta trasera está cerrada.", "Vuelvo pronto."],
+      "pl": ["Wróć do domu.", "Tylne drzwi są zamknięte.", "Wracam wkrótce."],
+      "fa": ["برگرد خانه.", "در پشتی قفل است.", "من زود برمی‌گردم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_738_en",
+    "word": "inside",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "inside",
+      "de": "innen",
+      "ar": "داخل",
+      "fr": "intérieur",
+      "it": "dentro",
+      "ru": "внутри",
+      "es": "dentro",
+      "pl": "wewnątrz",
+      "fa": "داخل"
+    },
+    "explanations": {
+      "en": "In or into the inner part or space of something like a building, room, or container, not outside or on the exterior.",
+      "de": "In oder in den inneren Teil oder Raum von etwas wie einem Gebäude, Zimmer oder Behälter, nicht draußen oder auf der Außenseite.",
+      "ar": "في أو إلى الجزء الداخلي أو المساحة من شيء مثل مبنى أو غرفة أو حاوية، ليس في الخارج أو على الخارج.",
+      "fr": "Dans ou vers la partie intérieure ou l'espace de quelque chose comme un bâtiment, une pièce ou un conteneur, pas à l'extérieur ou sur l'extérieur.",
+      "it": "In o nella parte interna o nello spazio di qualcosa come un edificio, una stanza o un contenitore, non fuori o sull'esterno.",
+      "ru": "В или во внутреннюю часть или пространство чего-то, как здание, комната или контейнер, не снаружи или на внешней стороне.",
+      "es": "En o hacia la parte interior o espacio de algo como un edificio, habitación o contenedor, no fuera o en el exterior.",
+      "pl": "W lub do wewnętrznej części lub przestrzeni czegoś, takiego jak budynek, pokój lub pojemnik, nie na zewnątrz lub na zewnętrznej stronie.",
+      "fa": "در یا به سمت قسمت یا فضای داخلی چیزی مانند ساختمان، اتاق یا ظرف، نه بیرون یا در خارج."
+    },
+    "examples": {
+      "en": ["Come inside now.", "The cat is inside.", "Look inside the box."],
+      "de": ["Komm jetzt rein.", "Die Katze ist drinnen.", "Schau in die Kiste."],
+      "ar": ["تعال إلى الداخل الآن.", "القطة بالداخل.", "انظر داخل الصندوق."],
+      "fr": ["Entrez maintenant.", "Le chat est à l'intérieur.", "Regardez à l'intérieur de la boîte."],
+      "it": ["Vieni dentro ora.", "Il gatto è dentro.", "Guarda dentro la scatola."],
+      "ru": ["Заходи внутрь сейчас.", "Кошка внутри.", "Посмотри внутрь коробки."],
+      "es": ["Entra ahora.", "El gato está dentro.", "Mira dentro de la caja."],
+      "pl": ["Wejdź teraz.", "Kot jest w środku.", "Spójrz do pudełka."],
+      "fa": ["الان داخل بیا.", "گربه داخل است.", "داخل جعبه را نگاه کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_739_en",
+    "word": "outside",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "outside",
+      "de": "draußen",
+      "ar": "خارج",
+      "fr": "extérieur",
+      "it": "fuori",
+      "ru": "снаружи",
+      "es": "afuera",
+      "pl": "na zewnątrz",
+      "fa": "بیرون"
+    },
+    "explanations": {
+      "en": "Not in or into the inner part but in the open air or exterior area, beyond the walls or boundaries of a building or space.",
+      "de": "Nicht in oder in den inneren Teil, sondern an der frischen Luft oder im äußeren Bereich, jenseits der Wände oder Grenzen eines Gebäudes oder Raumes.",
+      "ar": "ليس في أو إلى الجزء الداخلي ولكن في الهواء الطلق أو المنطقة الخارجية، خارج جدران أو حدود مبنى أو مساحة.",
+      "fr": "Pas dans ou vers la partie intérieure mais en plein air ou dans la zone extérieure, au-delà des murs ou des limites d'un bâtiment ou d'un espace.",
+      "it": "Non in o nella parte interna ma all'aria aperta o nell'area esterna, oltre le mura o i confini di un edificio o spazio.",
+      "ru": "Не в или во внутреннюю часть, а на открытом воздухе или во внешней области, за стенами или границами здания или пространства.",
+      "es": "No en o hacia la parte interior sino al aire libre o en el área exterior, más allá de las paredes o límites de un edificio o espacio.",
+      "pl": "Nie w lub do wewnętrznej części, ale na świeżym powietrzu lub w obszarze zewnętrznym, poza ścianami lub granicami budynku lub przestrzeni.",
+      "fa": "نه در یا به سمت قسمت داخلی بلکه در هوای آزاد یا منطقه بیرونی، فراتر از دیوارها یا مرزهای ساختمان یا فضا."
+    },
+    "examples": {
+      "en": ["Go outside now.", "The dog is outside.", "Play outside today."],
+      "de": ["Geh jetzt raus.", "Der Hund ist draußen.", "Spiel heute draußen."],
+      "ar": ["اخرج الآن.", "الكلب في الخارج.", "العب في الخارج اليوم."],
+      "fr": ["Sortez maintenant.", "Le chien est dehors.", "Jouez dehors aujourd'hui."],
+      "it": ["Esci ora.", "Il cane è fuori.", "Gioca fuori oggi."],
+      "ru": ["Выходи наружу сейчас.", "Собака снаружи.", "Играй снаружи сегодня."],
+      "es": ["Sal afuera ahora.", "El perro está afuera.", "Juega afuera hoy."],
+      "pl": ["Wyjdź teraz.", "Pies jest na zewnątrz.", "Baw się dziś na zewnątrz."],
+      "fa": ["الان برو بیرون.", "سگ بیرون است.", "امروز بیرون بازی کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_740_en",
+    "word": "around",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "around",
+      "de": "um herum",
+      "ar": "حول",
+      "fr": "autour",
+      "it": "intorno",
+      "ru": "вокруг",
+      "es": "alrededor",
+      "pl": "wokół",
+      "fa": "دور و بر"
+    },
+    "explanations": {
+      "en": "On all sides of something or in a circular direction, or in the area near or surrounding a particular place or object.",
+      "de": "Auf allen Seiten von etwas oder in kreisförmiger Richtung, oder in der Gegend nahe oder um einen bestimmten Ort oder Gegenstand herum.",
+      "ar": "على جميع جوانب شيء أو في اتجاه دائري، أو في المنطقة القريبة أو المحيطة بمكان أو شيء معين.",
+      "fr": "De tous les côtés de quelque chose ou dans une direction circulaire, ou dans la zone près ou entourant un lieu ou un objet particulier.",
+      "it": "Su tutti i lati di qualcosa o in una direzione circolare, o nell'area vicina o che circonda un luogo o un oggetto particolare.",
+      "ru": "Со всех сторон чего-то или в круговом направлении, или в области рядом или окружающей определенное место или объект.",
+      "es": "En todos los lados de algo o en una dirección circular, o en el área cerca o rodeando un lugar u objeto particular.",
+      "pl": "Ze wszystkich stron czegoś lub w kierunku okrężnym, lub w obszarze w pobliżu lub otaczającym określone miejsce lub obiekt.",
+      "fa": "در تمام طرفهای چیزی یا در جهت دایره‌ای، یا در منطقه نزدیک یا احاطه کننده مکان یا شیء خاص."
+    },
+    "examples": {
+      "en": ["Walk around the park.", "Look around you.", "Trees are around here."],
+      "de": ["Gehe um den Park herum.", "Schau dich um.", "Bäume sind hier herum."],
+      "ar": ["امش حول الحديقة.", "انظر حولك.", "الأشجار حول هنا."],
+      "fr": ["Marchez autour du parc.", "Regardez autour de vous.", "Les arbres sont autour d'ici."],
+      "it": ["Cammina intorno al parco.", "Guarda intorno a te.", "Gli alberi sono intorno qui."],
+      "ru": ["Гуляй вокруг парка.", "Посмотри вокруг себя.", "Деревья вокруг здесь."],
+      "es": ["Camina alrededor del parque.", "Mira a tu alrededor.", "Los árboles están alrededor de aquí."],
+      "pl": ["Chodź wokół parku.", "Rozejrzyj się wokół siebie.", "Drzewa są wokół tutaj."],
+      "fa": ["دور پارک قدم بزن.", "دور و برت را نگاه کن.", "درختان دور و بر اینجا هستند."]
+    },
+    "conjugations": null
+  }
+]

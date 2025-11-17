@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_601_en",
+    "word": "family",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "family",
+      "de": "Familie",
+      "ar": "عائلة",
+      "fr": "famille",
+      "it": "famiglia",
+      "ru": "семья",
+      "es": "familia",
+      "pl": "rodzina",
+      "fa": "خانواده"
+    },
+    "explanations": {
+      "en": "A group of people related by blood or marriage, living together or connected emotionally.",
+      "de": "Eine Gruppe von Personen, die durch Blut oder Ehe verwandt sind, zusammenleben oder emotional verbunden sind.",
+      "ar": "مجموعة من الناس المرتبطين بالدم أو الزواج، يعيشون معاً أو مترابطون عاطفياً.",
+      "fr": "Un groupe de personnes liées par le sang ou le mariage, vivant ensemble ou connectées émotionnellement.",
+      "it": "Un gruppo di persone legate da sangue o matrimonio, che vivono insieme o connesse emotivamente.",
+      "ru": "Группа людей, связанных кровью или браком, живущих вместе или эмоционально связанных.",
+      "es": "Un grupo de personas relacionadas por sangre o matrimonio, viviendo juntas o conectadas emocionalmente.",
+      "pl": "Grupa ludzi spokrewnionych przez krew lub małżeństwo, żyjących razem lub połączonych emocjonalnie.",
+      "fa": "گروهی از افراد که از نظر خونی یا از طریق ازدواج با هم مرتبط هستند، با هم زندگی می‌کنند یا از نظر عاطفی متصل هستند."
+    },
+    "examples": {
+      "en": ["I love my family.", "This is my family.", "We are big family."],
+      "de": ["Ich liebe meine Familie.", "Das ist meine Familie.", "Wir sind eine große Familie."],
+      "ar": ["أحب عائلتي.", "هذه عائلتي.", "نحن عائلة كبيرة."],
+      "fr": ["J'aime ma famille.", "C'est ma famille.", "Nous sommes une grande famille."],
+      "it": ["Amo la mia famiglia.", "Questa è la mia famiglia.", "Siamo una famiglia grande."],
+      "ru": ["Я люблю свою семью.", "Это моя семья.", "Мы большая семья."],
+      "es": ["Amo a mi familia.", "Esta es mi familia.", "Somos una familia grande."],
+      "pl": ["Kocham moją rodzinę.", "To jest moja rodzina.", "Jesteśmy dużą rodziną."],
+      "fa": ["خانواده‌ام را دوست دارم.", "این خانواده من است.", "ما خانواده بزرگی هستیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_602_en",
+    "word": "parent",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "parent",
+      "de": "Elternteil",
+      "ar": "والد",
+      "fr": "parent",
+      "it": "genitore",
+      "ru": "родитель",
+      "es": "padre",
+      "pl": "rodzic",
+      "fa": "والد"
+    },
+    "explanations": {
+      "en": "A mother or father who has children and takes care of them as they grow.",
+      "de": "Eine Mutter oder ein Vater, der Kinder hat und sich um sie kümmert, während sie wachsen.",
+      "ar": "أم أو أب لديه أطفال ويعتني بهم بينما ينمون.",
+      "fr": "Une mère ou un père qui a des enfants et s'occupe d'eux pendant leur croissance.",
+      "it": "Una madre o un padre che ha figli e si prende cura di loro mentre crescono.",
+      "ru": "Мать или отец, у которых есть дети и которые заботятся о них по мере их роста.",
+      "es": "Una madre o padre que tiene hijos y los cuida mientras crecen.",
+      "pl": "Matka lub ojciec, który ma dzieci i opiekuje się nimi podczas dorastania.",
+      "fa": "مادر یا پدری که فرزند دارد و در حین رشد از آنها مراقبت می‌کند."
+    },
+    "examples": {
+      "en": ["My parent is here.", "I see my parents.", "We have good parents."],
+      "de": ["Mein Elternteil ist hier.", "Ich sehe meine Eltern.", "Wir haben gute Eltern."],
+      "ar": ["والدي هنا.", "أرى والديّ.", "لدينا آباء جيدون."],
+      "fr": ["Mon parent est ici.", "Je vois mes parents.", "Nous avons de bons parents."],
+      "it": ["Il mio genitore è qui.", "Vedo i miei genitori.", "Abbiamo buoni genitori."],
+      "ru": ["Мой родитель здесь.", "Я вижу своих родителей.", "У нас хорошие родители."],
+      "es": ["Mi padre está aquí.", "Veo a mis padres.", "Tenemos buenos padres."],
+      "pl": ["Mój rodzic jest tutaj.", "Widzę moich rodziców.", "Mamy dobrych rodziców."],
+      "fa": ["والدم اینجاست.", "والدینم را می‌بینم.", "والدین خوبی داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_603_en",
+    "word": "father",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "father",
+      "de": "Vater",
+      "ar": "أب",
+      "fr": "père",
+      "it": "padre",
+      "ru": "отец",
+      "es": "padre",
+      "pl": "ojciec",
+      "fa": "پدر"
+    },
+    "explanations": {
+      "en": "A male parent who has a child or children and takes care of them.",
+      "de": "Ein männlicher Elternteil, der ein Kind oder Kinder hat und sich um sie kümmert.",
+      "ar": "والد ذكر لديه طفل أو أطفال ويعتني بهم.",
+      "fr": "Un parent masculin qui a un enfant ou des enfants et s'occupe d'eux.",
+      "it": "Un genitore maschio che ha un figlio o figli e si prende cura di loro.",
+      "ru": "Родитель мужского пола, у которого есть ребёнок или дети, и который заботится о них.",
+      "es": "Un padre masculino que tiene un hijo o hijos y los cuida.",
+      "pl": "Rodzic płci męskiej, który ma dziecko lub dzieci i opiekuje się nimi.",
+      "fa": "والد مردی که فرزند یا فرزندانی دارد و از آنها مراقبت می‌کند."
+    },
+    "examples": {
+      "en": ["My father is good.", "I see my father.", "He is a father."],
+      "de": ["Mein Vater ist gut.", "Ich sehe meinen Vater.", "Er ist ein Vater."],
+      "ar": ["أبي جيد.", "أرى أبي.", "إنه أب."],
+      "fr": ["Mon père est bon.", "Je vois mon père.", "Il est père."],
+      "it": ["Mio padre è buono.", "Vedo mio padre.", "Lui è un padre."],
+      "ru": ["Мой отец хороший.", "Я вижу моего отца.", "Он отец."],
+      "es": ["Mi padre es bueno.", "Veo a mi padre.", "Él es padre."],
+      "pl": ["Mój ojciec jest dobry.", "Widzę mojego ojca.", "On jest ojcem."],
+      "fa": ["پدرم خوب است.", "پدرم را می‌بینم.", "او یک پدر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_604_en",
+    "word": "mother",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mother",
+      "de": "Mutter",
+      "ar": "أم",
+      "fr": "mère",
+      "it": "madre",
+      "ru": "мать",
+      "es": "madre",
+      "pl": "matka",
+      "fa": "مادر"
+    },
+    "explanations": {
+      "en": "A female parent who has a child or children and takes care of them.",
+      "de": "Ein weiblicher Elternteil, der ein Kind oder Kinder hat und sich um sie kümmert.",
+      "ar": "والد أنثى لديها طفل أو أطفال وتعتني بهم.",
+      "fr": "Un parent féminin qui a un enfant ou des enfants et s'occupe d'eux.",
+      "it": "Un genitore femminile che ha un figlio o figli e si prende cura di loro.",
+      "ru": "Родитель женского пола, у которой есть ребёнок или дети, и которая заботится о них.",
+      "es": "Una madre femenina que tiene un hijo o hijos y los cuida.",
+      "pl": "Rodzic płci żeńskiej, który ma dziecko lub dzieci i opiekuje się nimi.",
+      "fa": "والد زنی که فرزند یا فرزندانی دارد و از آنها مراقبت می‌کند."
+    },
+    "examples": {
+      "en": ["My mother is kind.", "I see my mother.", "She is a mother."],
+      "de": ["Meine Mutter ist freundlich.", "Ich sehe meine Mutter.", "Sie ist eine Mutter."],
+      "ar": ["أمي لطيفة.", "أرى أمي.", "إنها أم."],
+      "fr": ["Ma mère est gentille.", "Je vois ma mère.", "Elle est mère."],
+      "it": ["Mia madre è gentile.", "Vedo mia madre.", "Lei è una madre."],
+      "ru": ["Моя мать добрая.", "Я вижу мою мать.", "Она мать."],
+      "es": ["Mi madre es amable.", "Veo a mi madre.", "Ella es madre."],
+      "pl": ["Moja matka jest miła.", "Widzę moją matkę.", "Ona jest matką."],
+      "fa": ["مادرم مهربان است.", "مادرم را می‌بینم.", "او یک مادر است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_605_en",
+    "word": "brother",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "brother",
+      "de": "Bruder",
+      "ar": "أخ",
+      "fr": "frère",
+      "it": "fratello",
+      "ru": "брат",
+      "es": "hermano",
+      "pl": "brat",
+      "fa": "برادر"
+    },
+    "explanations": {
+      "en": "A male sibling who shares the same parents or parent with you in your family.",
+      "de": "Ein männliches Geschwister, das dieselben Eltern oder Elternteil mit Ihnen in Ihrer Familie teilt.",
+      "ar": "شقيق ذكر يشارك نفس الوالدين أو الوالد معك في عائلتك.",
+      "fr": "Un frère masculin qui partage les mêmes parents ou parent avec vous dans votre famille.",
+      "it": "Un fratello maschio che condivide gli stessi genitori o genitore con te nella tua famiglia.",
+      "ru": "Брат мужского пола, который имеет тех же родителей или родителя с вами в вашей семье.",
+      "es": "Un hermano masculino que comparte los mismos padres o padre contigo en tu familia.",
+      "pl": "Brat płci męskiej, który dzieli tych samych rodziców lub rodzica z tobą w twojej rodzinie.",
+      "fa": "برادری مرد که همان والدین یا والد را با شما در خانواده‌تان دارد."
+    },
+    "examples": {
+      "en": ["My brother is tall.", "I see my brother.", "He is my brother."],
+      "de": ["Mein Bruder ist groß.", "Ich sehe meinen Bruder.", "Er ist mein Bruder."],
+      "ar": ["أخي طويل.", "أرى أخي.", "إنه أخي."],
+      "fr": ["Mon frère est grand.", "Je vois mon frère.", "Il est mon frère."],
+      "it": ["Mio fratello è alto.", "Vedo mio fratello.", "Lui è mio fratello."],
+      "ru": ["Мой брат высокий.", "Я вижу моего брата.", "Он мой брат."],
+      "es": ["Mi hermano es alto.", "Veo a mi hermano.", "Él es mi hermano."],
+      "pl": ["Mój brat jest wysoki.", "Widzę mojego brata.", "On jest moim bratem."],
+      "fa": ["برادرم قد بلند است.", "برادرم را می‌بینم.", "او برادر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_606_en",
+    "word": "sister",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sister",
+      "de": "Schwester",
+      "ar": "أخت",
+      "fr": "sœur",
+      "it": "sorella",
+      "ru": "сестра",
+      "es": "hermana",
+      "pl": "siostra",
+      "fa": "خواهر"
+    },
+    "explanations": {
+      "en": "A female sibling who shares the same parents or parent with you in your family.",
+      "de": "Ein weibliches Geschwister, das dieselben Eltern oder Elternteil mit Ihnen in Ihrer Familie teilt.",
+      "ar": "شقيقة أنثى تشارك نفس الوالدين أو الوالد معك في عائلتك.",
+      "fr": "Une sœur féminine qui partage les mêmes parents ou parent avec vous dans votre famille.",
+      "it": "Una sorella femminile che condivide gli stessi genitori o genitore con te nella tua famiglia.",
+      "ru": "Сестра женского пола, которая имеет тех же родителей или родителя с вами в вашей семье.",
+      "es": "Una hermana femenina que comparte los mismos padres o padre contigo en tu familia.",
+      "pl": "Siostra płci żeńskiej, która dzieli tych samych rodziców lub rodzica z tobą w twojej rodzinie.",
+      "fa": "خواهری زن که همان والدین یا والد را با شما در خانواده‌تان دارد."
+    },
+    "examples": {
+      "en": ["My sister is nice.", "I see my sister.", "She is my sister."],
+      "de": ["Meine Schwester ist nett.", "Ich sehe meine Schwester.", "Sie ist meine Schwester."],
+      "ar": ["أختي لطيفة.", "أرى أختي.", "إنها أختي."],
+      "fr": ["Ma sœur est gentille.", "Je vois ma sœur.", "Elle est ma sœur."],
+      "it": ["Mia sorella è carina.", "Vedo mia sorella.", "Lei è mia sorella."],
+      "ru": ["Моя сестра милая.", "Я вижу мою сестру.", "Она моя сестра."],
+      "es": ["Mi hermana es agradable.", "Veo a mi hermana.", "Ella es mi hermana."],
+      "pl": ["Moja siostra jest miła.", "Widzę moją siostrę.", "Ona jest moją siostrą."],
+      "fa": ["خواهرم مهربان است.", "خواهرم را می‌بینم.", "او خواهر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_607_en",
+    "word": "son",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "son",
+      "de": "Sohn",
+      "ar": "ابن",
+      "fr": "fils",
+      "it": "figlio",
+      "ru": "сын",
+      "es": "hijo",
+      "pl": "syn",
+      "fa": "پسر"
+    },
+    "explanations": {
+      "en": "A male child in relation to his parents, their boy or young man.",
+      "de": "Ein männliches Kind in Bezug auf seine Eltern, ihr Junge oder junger Mann.",
+      "ar": "طفل ذكر بالنسبة لوالديه، صبيهم أو شابهم.",
+      "fr": "Un enfant masculin par rapport à ses parents, leur garçon ou jeune homme.",
+      "it": "Un figlio maschio in relazione ai suoi genitori, il loro ragazzo o giovane uomo.",
+      "ru": "Ребёнок мужского пола по отношению к его родителям, их мальчик или молодой человек.",
+      "es": "Un hijo masculino en relación con sus padres, su niño o joven.",
+      "pl": "Dziecko płci męskiej w stosunku do swoich rodziców, ich chłopiec lub młody mężczyzna.",
+      "fa": "فرزند مرد نسبت به والدینش، پسر یا مرد جوان آنها."
+    },
+    "examples": {
+      "en": ["My son is small.", "I see my son.", "He is my son."],
+      "de": ["Mein Sohn ist klein.", "Ich sehe meinen Sohn.", "Er ist mein Sohn."],
+      "ar": ["ابني صغير.", "أرى ابني.", "إنه ابني."],
+      "fr": ["Mon fils est petit.", "Je vois mon fils.", "Il est mon fils."],
+      "it": ["Mio figlio è piccolo.", "Vedo mio figlio.", "Lui è mio figlio."],
+      "ru": ["Мой сын маленький.", "Я вижу моего сына.", "Он мой сын."],
+      "es": ["Mi hijo es pequeño.", "Veo a mi hijo.", "Él es mi hijo."],
+      "pl": ["Mój syn jest mały.", "Widzę mojego syna.", "On jest moim synem."],
+      "fa": ["پسرم کوچک است.", "پسرم را می‌بینم.", "او پسر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_608_en",
+    "word": "daughter",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "daughter",
+      "de": "Tochter",
+      "ar": "ابنة",
+      "fr": "fille",
+      "it": "figlia",
+      "ru": "дочь",
+      "es": "hija",
+      "pl": "córka",
+      "fa": "دختر"
+    },
+    "explanations": {
+      "en": "A female child in relation to her parents, their girl or young woman.",
+      "de": "Ein weibliches Kind in Bezug auf ihre Eltern, ihr Mädchen oder junge Frau.",
+      "ar": "طفلة أنثى بالنسبة لوالديها، فتاتهم أو شابتهم.",
+      "fr": "Un enfant féminin par rapport à ses parents, leur fille ou jeune femme.",
+      "it": "Una figlia femminile in relazione ai suoi genitori, la loro ragazza o giovane donna.",
+      "ru": "Ребёнок женского пола по отношению к её родителям, их девочка или молодая женщина.",
+      "es": "Una hija femenina en relación con sus padres, su niña o joven.",
+      "pl": "Dziecko płci żeńskiej w stosunku do swoich rodziców, ich dziewczynka lub młoda kobieta.",
+      "fa": "فرزند زن نسبت به والدینش، دختر یا زن جوان آنها."
+    },
+    "examples": {
+      "en": ["My daughter is smart.", "I see my daughter.", "She is my daughter."],
+      "de": ["Meine Tochter ist klug.", "Ich sehe meine Tochter.", "Sie ist meine Tochter."],
+      "ar": ["ابنتي ذكية.", "أرى ابنتي.", "إنها ابنتي."],
+      "fr": ["Ma fille est intelligente.", "Je vois ma fille.", "Elle est ma fille."],
+      "it": ["Mia figlia è intelligente.", "Vedo mia figlia.", "Lei è mia figlia."],
+      "ru": ["Моя дочь умная.", "Я вижу мою дочь.", "Она моя дочь."],
+      "es": ["Mi hija es inteligente.", "Veo a mi hija.", "Ella es mi hija."],
+      "pl": ["Moja córka jest mądra.", "Widzę moją córkę.", "Ona jest moją córką."],
+      "fa": ["دخترم باهوش است.", "دخترم را می‌بینم.", "او دختر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_609_en",
+    "word": "child",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "child",
+      "de": "Kind",
+      "ar": "طفل",
+      "fr": "enfant",
+      "it": "bambino",
+      "ru": "ребёнок",
+      "es": "niño",
+      "pl": "dziecko",
+      "fa": "کودک"
+    },
+    "explanations": {
+      "en": "A young person who is not yet an adult, typically from birth to teenage years.",
+      "de": "Eine junge Person, die noch kein Erwachsener ist, typischerweise von Geburt bis zum Teenageralter.",
+      "ar": "شخص صغير ليس بالغاً بعد، عادة من الولادة إلى سنوات المراهقة.",
+      "fr": "Une jeune personne qui n'est pas encore adulte, généralement de la naissance aux années adolescentes.",
+      "it": "Una persona giovane che non è ancora adulta, tipicamente dalla nascita agli anni adolescenziali.",
+      "ru": "Молодой человек, который ещё не взрослый, обычно от рождения до подросткового возраста.",
+      "es": "Una persona joven que aún no es adulta, típicamente desde el nacimiento hasta los años adolescentes.",
+      "pl": "Młoda osoba, która nie jest jeszcze dorosła, zazwyczaj od urodzenia do lat nastoletnich.",
+      "fa": "فرد جوانی که هنوز بزرگسال نیست، معمولا از تولد تا سال‌های نوجوانی."
+    },
+    "examples": {
+      "en": ["This child is happy.", "I see the child.", "We have three children."],
+      "de": ["Dieses Kind ist glücklich.", "Ich sehe das Kind.", "Wir haben drei Kinder."],
+      "ar": ["هذا الطفل سعيد.", "أرى الطفل.", "لدينا ثلاثة أطفال."],
+      "fr": ["Cet enfant est heureux.", "Je vois l'enfant.", "Nous avons trois enfants."],
+      "it": ["Questo bambino è felice.", "Vedo il bambino.", "Abbiamo tre bambini."],
+      "ru": ["Этот ребёнок счастлив.", "Я вижу ребёнка.", "У нас трое детей."],
+      "es": ["Este niño está feliz.", "Veo al niño.", "Tenemos tres niños."],
+      "pl": ["To dziecko jest szczęśliwe.", "Widzę dziecko.", "Mamy troje dzieci."],
+      "fa": ["این کودک خوشحال است.", "کودک را می‌بینم.", "سه کودک داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_610_en",
+    "word": "baby",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "baby",
+      "de": "Baby",
+      "ar": "رضيع",
+      "fr": "bébé",
+      "it": "neonato",
+      "ru": "младенец",
+      "es": "bebé",
+      "pl": "niemowlę",
+      "fa": "نوزاد"
+    },
+    "explanations": {
+      "en": "A very young child, especially one who has not yet learned to walk or talk.",
+      "de": "Ein sehr junges Kind, besonders eines, das noch nicht gelernt hat zu laufen oder zu sprechen.",
+      "ar": "طفل صغير جداً، خاصة الذي لم يتعلم بعد المشي أو التحدث.",
+      "fr": "Un très jeune enfant, surtout un qui n'a pas encore appris à marcher ou parler.",
+      "it": "Un bambino molto piccolo, specialmente uno che non ha ancora imparato a camminare o parlare.",
+      "ru": "Очень маленький ребёнок, особенно тот, который ещё не научился ходить или говорить.",
+      "es": "Un niño muy pequeño, especialmente uno que aún no ha aprendido a caminar o hablar.",
+      "pl": "Bardzo małe dziecko, szczególnie takie, które jeszcze nie nauczyło się chodzić lub mówić.",
+      "fa": "کودک بسیار جوان، به‌ویژه کسی که هنوز یاد راه رفتن یا صحبت کردن نگرفته است."
+    },
+    "examples": {
+      "en": ["This baby is cute.", "I see the baby.", "We have new baby."],
+      "de": ["Dieses Baby ist süß.", "Ich sehe das Baby.", "Wir haben ein neues Baby."],
+      "ar": ["هذا الرضيع لطيف.", "أرى الرضيع.", "لدينا رضيع جديد."],
+      "fr": ["Ce bébé est mignon.", "Je vois le bébé.", "Nous avons un nouveau bébé."],
+      "it": ["Questo neonato è carino.", "Vedo il neonato.", "Abbiamo un neonato nuovo."],
+      "ru": ["Этот младенец милый.", "Я вижу младенца.", "У нас новый младенец."],
+      "es": ["Este bebé es lindo.", "Veo al bebé.", "Tenemos un bebé nuevo."],
+      "pl": ["To niemowlę jest urocze.", "Widzę niemowlę.", "Mamy nowe niemowlę."],
+      "fa": ["این نوزاد بامزه است.", "نوزاد را می‌بینم.", "نوزاد جدید داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_611_en",
+    "word": "husband",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "husband",
+      "de": "Ehemann",
+      "ar": "زوج",
+      "fr": "mari",
+      "it": "marito",
+      "ru": "муж",
+      "es": "esposo",
+      "pl": "mąż",
+      "fa": "شوهر"
+    },
+    "explanations": {
+      "en": "A man who is married to a woman and is her partner in marriage.",
+      "de": "Ein Mann, der mit einer Frau verheiratet ist und ihr Partner in der Ehe ist.",
+      "ar": "رجل متزوج من امرأة وهو شريكها في الزواج.",
+      "fr": "Un homme qui est marié à une femme et est son partenaire dans le mariage.",
+      "it": "Un uomo che è sposato con una donna ed è il suo partner nel matrimonio.",
+      "ru": "Мужчина, который женат на женщине и является её партнёром в браке.",
+      "es": "Un hombre que está casado con una mujer y es su pareja en el matrimonio.",
+      "pl": "Mężczyzna, który jest żonaty z kobietą i jest jej partnerem w małżeństwie.",
+      "fa": "مردی که با زنی ازدواج کرده و شریک او در ازدواج است."
+    },
+    "examples": {
+      "en": ["My husband is kind.", "I see my husband.", "He is my husband."],
+      "de": ["Mein Ehemann ist freundlich.", "Ich sehe meinen Ehemann.", "Er ist mein Ehemann."],
+      "ar": ["زوجي لطيف.", "أرى زوجي.", "إنه زوجي."],
+      "fr": ["Mon mari est gentil.", "Je vois mon mari.", "Il est mon mari."],
+      "it": ["Mio marito è gentile.", "Vedo mio marito.", "Lui è mio marito."],
+      "ru": ["Мой муж добрый.", "Я вижу моего мужа.", "Он мой муж."],
+      "es": ["Mi esposo es amable.", "Veo a mi esposo.", "Él es mi esposo."],
+      "pl": ["Mój mąż jest miły.", "Widzę mojego męża.", "On jest moim mężem."],
+      "fa": ["شوهرم مهربان است.", "شوهرم را می‌بینم.", "او شوهر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_612_en",
+    "word": "wife",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wife",
+      "de": "Ehefrau",
+      "ar": "زوجة",
+      "fr": "femme",
+      "it": "moglie",
+      "ru": "жена",
+      "es": "esposa",
+      "pl": "żona",
+      "fa": "همسر"
+    },
+    "explanations": {
+      "en": "A woman who is married to a man and is his partner in marriage.",
+      "de": "Eine Frau, die mit einem Mann verheiratet ist und seine Partnerin in der Ehe ist.",
+      "ar": "امرأة متزوجة من رجل وهي شريكته في الزواج.",
+      "fr": "Une femme qui est mariée à un homme et est sa partenaire dans le mariage.",
+      "it": "Una donna che è sposata con un uomo ed è la sua partner nel matrimonio.",
+      "ru": "Женщина, которая замужем за мужчиной и является его партнёршей в браке.",
+      "es": "Una mujer que está casada con un hombre y es su pareja en el matrimonio.",
+      "pl": "Kobieta, która jest żoną mężczyzny i jest jego partnerką w małżeństwie.",
+      "fa": "زنی که با مردی ازدواج کرده و شریک او در ازدواج است."
+    },
+    "examples": {
+      "en": ["My wife is nice.", "I see my wife.", "She is my wife."],
+      "de": ["Meine Ehefrau ist nett.", "Ich sehe meine Ehefrau.", "Sie ist meine Ehefrau."],
+      "ar": ["زوجتي لطيفة.", "أرى زوجتي.", "إنها زوجتي."],
+      "fr": ["Ma femme est gentille.", "Je vois ma femme.", "Elle est ma femme."],
+      "it": ["Mia moglie è carina.", "Vedo mia moglie.", "Lei è mia moglie."],
+      "ru": ["Моя жена милая.", "Я вижу мою жену.", "Она моя жена."],
+      "es": ["Mi esposa es agradable.", "Veo a mi esposa.", "Ella es mi esposa."],
+      "pl": ["Moja żona jest miła.", "Widzę moją żonę.", "Ona jest moją żoną."],
+      "fa": ["همسرم مهربان است.", "همسرم را می‌بینم.", "او همسر من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_613_en",
+    "word": "married",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "married",
+      "de": "verheiratet",
+      "ar": "متزوج",
+      "fr": "marié",
+      "it": "sposato",
+      "ru": "женатый",
+      "es": "casado",
+      "pl": "żonaty",
+      "fa": "متاهل"
+    },
+    "explanations": {
+      "en": "Having a husband or wife as a result of a legal or formal wedding ceremony.",
+      "de": "Einen Ehemann oder eine Ehefrau haben als Ergebnis einer rechtlichen oder formellen Hochzeitszeremonie.",
+      "ar": "أن يكون لديك زوج أو زوجة نتيجة لحفل زفاف قانوني أو رسمي.",
+      "fr": "Avoir un mari ou une femme suite à une cérémonie de mariage légale ou formelle.",
+      "it": "Avere un marito o una moglie come risultato di una cerimonia matrimoniale legale o formale.",
+      "ru": "Иметь мужа или жену в результате законной или официальной свадебной церемонии.",
+      "es": "Tener un esposo o esposa como resultado de una ceremonia de boda legal o formal.",
+      "pl": "Mieć męża lub żonę w wyniku prawnej lub formalnej ceremonii ślubnej.",
+      "fa": "داشتن شوهر یا همسر در نتیجه مراسم عروسی قانونی یا رسمی."
+    },
+    "examples": {
+      "en": ["I am married now.", "Are you married?", "We got married today."],
+      "de": ["Ich bin jetzt verheiratet.", "Bist du verheiratet?", "Wir haben heute geheiratet."],
+      "ar": ["أنا متزوج الآن.", "هل أنت متزوج؟", "تزوجنا اليوم."],
+      "fr": ["Je suis marié maintenant.", "Es-tu marié?", "Nous nous sommes mariés aujourd'hui."],
+      "it": ["Sono sposato ora.", "Sei sposato?", "Ci siamo sposati oggi."],
+      "ru": ["Я женат сейчас.", "Ты женат?", "Мы поженились сегодня."],
+      "es": ["Estoy casado ahora.", "¿Estás casado?", "Nos casamos hoy."],
+      "pl": ["Jestem żonaty teraz.", "Jesteś żonaty?", "Pobraliśmy się dziś."],
+      "fa": ["الان متاهل هستم.", "متاهل هستی؟", "امروز ازدواج کردیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_614_en",
+    "word": "single",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "single",
+      "de": "ledig",
+      "ar": "أعزب",
+      "fr": "célibataire",
+      "it": "single",
+      "ru": "одинокий",
+      "es": "soltero",
+      "pl": "samotny",
+      "fa": "مجرد"
+    },
+    "explanations": {
+      "en": "Not married or not in a romantic relationship with anyone at the present time.",
+      "de": "Nicht verheiratet oder nicht in einer romantischen Beziehung mit jemandem zur Zeit.",
+      "ar": "غير متزوج أو ليس في علاقة رومانسية مع أي شخص في الوقت الحالي.",
+      "fr": "Pas marié ou pas dans une relation romantique avec quelqu'un en ce moment.",
+      "it": "Non sposato o non in una relazione romantica con nessuno al momento presente.",
+      "ru": "Не женатый или не состоящий в романтических отношениях с кем-либо в настоящее время.",
+      "es": "No casado o no en una relación romántica con nadie en el momento presente.",
+      "pl": "Niezamężny lub nie w romantycznym związku z kimkolwiek w obecnym czasie.",
+      "fa": "متاهل نبودن یا در رابطه عاشقانه با کسی در حال حاضر نبودن."
+    },
+    "examples": {
+      "en": ["I am single now.", "Are you single?", "He is still single."],
+      "de": ["Ich bin jetzt ledig.", "Bist du ledig?", "Er ist noch ledig."],
+      "ar": ["أنا أعزب الآن.", "هل أنت أعزب؟", "إنه ما زال أعزباً."],
+      "fr": ["Je suis célibataire maintenant.", "Es-tu célibataire?", "Il est encore célibataire."],
+      "it": ["Sono single ora.", "Sei single?", "Lui è ancora single."],
+      "ru": ["Я одинок сейчас.", "Ты одинок?", "Он всё ещё одинок."],
+      "es": ["Soy soltero ahora.", "¿Eres soltero?", "Él todavía es soltero."],
+      "pl": ["Jestem samotny teraz.", "Jesteś samotny?", "On jest wciąż samotny."],
+      "fa": ["الان مجرد هستم.", "مجرد هستی؟", "او هنوز مجرد است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_615_en",
+    "word": "young",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "young",
+      "de": "jung",
+      "ar": "شاب",
+      "fr": "jeune",
+      "it": "giovane",
+      "ru": "молодой",
+      "es": "joven",
+      "pl": "młody",
+      "fa": "جوان"
+    },
+    "explanations": {
+      "en": "Having lived or existed for only a short time; not old or mature yet.",
+      "de": "Nur für kurze Zeit gelebt oder existiert; noch nicht alt oder reif.",
+      "ar": "عاش أو وجد لفترة قصيرة فقط؛ ليس قديماً أو ناضجاً بعد.",
+      "fr": "Ayant vécu ou existé seulement pour peu de temps; pas encore vieux ou mature.",
+      "it": "Avendo vissuto o esistito solo per poco tempo; non ancora vecchio o maturo.",
+      "ru": "Проживший или существовавший только короткое время; ещё не старый или зрелый.",
+      "es": "Haber vivido o existido solo por poco tiempo; aún no viejo o maduro.",
+      "pl": "Żyjący lub istniejący tylko przez krótki czas; jeszcze nie stary lub dojrzały.",
+      "fa": "زندگی یا وجود داشتن فقط برای مدت کوتاه؛ هنوز پیر یا بالغ نیست."
+    },
+    "examples": {
+      "en": ["I am very young.", "This person is young.", "We are young people."],
+      "de": ["Ich bin sehr jung.", "Diese Person ist jung.", "Wir sind junge Leute."],
+      "ar": ["أنا صغير جداً.", "هذا الشخص شاب.", "نحن شباب."],
+      "fr": ["Je suis très jeune.", "Cette personne est jeune.", "Nous sommes jeunes."],
+      "it": ["Sono molto giovane.", "Questa persona è giovane.", "Siamo giovani."],
+      "ru": ["Я очень молодой.", "Этот человек молодой.", "Мы молодые люди."],
+      "es": ["Soy muy joven.", "Esta persona es joven.", "Somos jóvenes."],
+      "pl": ["Jestem bardzo młody.", "Ta osoba jest młoda.", "Jesteśmy młodzi."],
+      "fa": ["من خیلی جوان هستم.", "این شخص جوان است.", "ما افراد جوانی هستیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_616_en",
+    "word": "old",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "old",
+      "de": "alt",
+      "ar": "كبير",
+      "fr": "vieux",
+      "it": "vecchio",
+      "ru": "старый",
+      "es": "viejo",
+      "pl": "stary",
+      "fa": "پیر"
+    },
+    "explanations": {
+      "en": "Having lived or existed for a long time; not young or new anymore.",
+      "de": "Lange Zeit gelebt oder existiert; nicht mehr jung oder neu.",
+      "ar": "عاش أو وجد لفترة طويلة؛ لم يعد شاباً أو جديداً.",
+      "fr": "Ayant vécu ou existé longtemps; plus jeune ou nouveau.",
+      "it": "Avendo vissuto o esistito a lungo; non più giovane o nuovo.",
+      "ru": "Проживший или существовавший долгое время; больше не молодой или новый.",
+      "es": "Haber vivido o existido mucho tiempo; ya no joven o nuevo.",
+      "pl": "Żyjący lub istniejący przez długi czas; już nie młody lub nowy.",
+      "fa": "زندگی یا وجود داشتن برای مدت طولانی؛ دیگر جوان یا نو نیست."
+    },
+    "examples": {
+      "en": ["I am very old.", "This person is old.", "We are old people."],
+      "de": ["Ich bin sehr alt.", "Diese Person ist alt.", "Wir sind alte Leute."],
+      "ar": ["أنا كبير جداً.", "هذا الشخص كبير.", "نحن كبار."],
+      "fr": ["Je suis très vieux.", "Cette personne est vieille.", "Nous sommes vieux."],
+      "it": ["Sono molto vecchio.", "Questa persona è vecchia.", "Siamo vecchi."],
+      "ru": ["Я очень старый.", "Этот человек старый.", "Мы старые люди."],
+      "es": ["Soy muy viejo.", "Esta persona es vieja.", "Somos viejos."],
+      "pl": ["Jestem bardzo stary.", "Ta osoba jest stara.", "Jesteśmy starzy."],
+      "fa": ["من خیلی پیر هستم.", "این شخص پیر است.", "ما افراد پیری هستیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_617_en",
+    "word": "age",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "age",
+      "de": "Alter",
+      "ar": "عمر",
+      "fr": "âge",
+      "it": "età",
+      "ru": "возраст",
+      "es": "edad",
+      "pl": "wiek",
+      "fa": "سن"
+    },
+    "explanations": {
+      "en": "The number of years that a person has lived or something has existed.",
+      "de": "Die Anzahl der Jahre, die eine Person gelebt hat oder etwas existiert hat.",
+      "ar": "عدد السنوات التي عاشها شخص أو وجد شيء ما.",
+      "fr": "Le nombre d'années qu'une personne a vécu ou quelque chose a existé.",
+      "it": "Il numero di anni che una persona ha vissuto o qualcosa è esistito.",
+      "ru": "Количество лет, которые прожил человек или что-то существует.",
+      "es": "El número de años que una persona ha vivido o algo ha existido.",
+      "pl": "Liczba lat, które osoba przeżyła lub coś istniało.",
+      "fa": "تعداد سال‌هایی که فردی زندگی کرده یا چیزی وجود داشته است."
+    },
+    "examples": {
+      "en": ["What is your age?", "I know my age.", "He is my age."],
+      "de": ["Was ist dein Alter?", "Ich kenne mein Alter.", "Er ist in meinem Alter."],
+      "ar": ["ما عمرك؟", "أعرف عمري.", "إنه في عمري."],
+      "fr": ["Quel est ton âge?", "Je connais mon âge.", "Il a mon âge."],
+      "it": ["Qual è la tua età?", "Conosco la mia età.", "Lui ha la mia età."],
+      "ru": ["Какой твой возраст?", "Я знаю свой возраст.", "Он моего возраста."],
+      "es": ["¿Cuál es tu edad?", "Conozco mi edad.", "Él tiene mi edad."],
+      "pl": ["Jaki jest twój wiek?", "Znam mój wiek.", "On ma mój wiek."],
+      "fa": ["سنت چقدر است؟", "سنم را می‌دانم.", "او هم‌سن من است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_618_en",
+    "word": "birth",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "birth",
+      "de": "Geburt",
+      "ar": "ولادة",
+      "fr": "naissance",
+      "it": "nascita",
+      "ru": "рождение",
+      "es": "nacimiento",
+      "pl": "narodziny",
+      "fa": "تولد"
+    },
+    "explanations": {
+      "en": "The time when a baby comes out of its mother's body and begins life.",
+      "de": "Die Zeit, wenn ein Baby aus dem Körper seiner Mutter kommt und das Leben beginnt.",
+      "ar": "الوقت الذي يخرج فيه الطفل من جسم أمه ويبدأ الحياة.",
+      "fr": "Le moment où un bébé sort du corps de sa mère et commence la vie.",
+      "it": "Il momento in cui un neonato esce dal corpo di sua madre e inizia la vita.",
+      "ru": "Время, когда ребёнок выходит из тела матери и начинает жизнь.",
+      "es": "El momento en que un bebé sale del cuerpo de su madre y comienza la vida.",
+      "pl": "Czas, kiedy dziecko wychodzi z ciała matki i zaczyna życie.",
+      "fa": "زمانی که نوزاد از بدن مادرش بیرون می‌آید و زندگی را شروع می‌کند."
+    },
+    "examples": {
+      "en": ["This is my birth.", "I know my birth.", "We celebrate the birth."],
+      "de": ["Das ist meine Geburt.", "Ich kenne meine Geburt.", "Wir feiern die Geburt."],
+      "ar": ["هذه ولادتي.", "أعرف ولادتي.", "نحتفل بالولادة."],
+      "fr": ["C'est ma naissance.", "Je connais ma naissance.", "Nous célébrons la naissance."],
+      "it": ["Questa è la mia nascita.", "Conosco la mia nascita.", "Celebriamo la nascita."],
+      "ru": ["Это моё рождение.", "Я знаю моё рождение.", "Мы празднуем рождение."],
+      "es": ["Este es mi nacimiento.", "Conozco mi nacimiento.", "Celebramos el nacimiento."],
+      "pl": ["To są moje narodziny.", "Znam moje narodziny.", "Świętujemy narodziny."],
+      "fa": ["این تولد من است.", "تولدم را می‌دانم.", "تولد را جشن می‌گیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_619_en",
+    "word": "die",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "die",
+      "de": "sterben",
+      "ar": "يموت",
+      "fr": "mourir",
+      "it": "morire",
+      "ru": "умирать",
+      "es": "morir",
+      "pl": "umierać",
+      "fa": "مردن"
+    },
+    "explanations": {
+      "en": "To stop living permanently when the body ceases to function and life ends.",
+      "de": "Permanent aufhören zu leben, wenn der Körper aufhört zu funktionieren und das Leben endet.",
+      "ar": "التوقف عن العيش بشكل دائم عندما يتوقف الجسم عن العمل وتنتهي الحياة.",
+      "fr": "Cesser de vivre en permanence quand le corps cesse de fonctionner et la vie se termine.",
+      "it": "Smettere di vivere permanentemente quando il corpo cessa di funzionare e la vita finisce.",
+      "ru": "Прекратить жить навсегда, когда тело перестаёт функционировать и жизнь заканчивается.",
+      "es": "Dejar de vivir permanentemente cuando el cuerpo cesa de funcionar y la vida termina.",
+      "pl": "Przestać żyć na stałe, gdy ciało przestaje funkcjonować i życie się kończy.",
+      "fa": "دائما از زندگی متوقف شدن وقتی بدن از کار می‌افتد و زندگی پایان می‌یابد."
+    },
+    "examples": {
+      "en": ["I don't want die.", "People can die here.", "We all will die."],
+      "de": ["Ich will nicht sterben.", "Menschen können hier sterben.", "Wir werden alle sterben."],
+      "ar": ["لا أريد أن أموت.", "يمكن للناس أن يموتوا هنا.", "سنموت جميعاً."],
+      "fr": ["Je ne veux pas mourir.", "Les gens peuvent mourir ici.", "Nous mourrons tous."],
+      "it": ["Non voglio morire.", "Le persone possono morire qui.", "Moriremo tutti."],
+      "ru": ["Я не хочу умирать.", "Люди могут умереть здесь.", "Мы все умрём."],
+      "es": ["No quiero morir.", "La gente puede morir aquí.", "Todos moriremos."],
+      "pl": ["Nie chcę umierać.", "Ludzie mogą tu umrzeć.", "Wszyscy umrzemy."],
+      "fa": ["نمی‌خواهم بمیرم.", "مردم می‌توانند اینجا بمیرند.", "همه ما خواهیم مرد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_620_en",
+    "word": "life",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "life",
+      "de": "Leben",
+      "ar": "حياة",
+      "fr": "vie",
+      "it": "vita",
+      "ru": "жизнь",
+      "es": "vida",
+      "pl": "życie",
+      "fa": "زندگی"
+    },
+    "explanations": {
+      "en": "The period of time when a person, animal, or plant is alive and functioning.",
+      "de": "Der Zeitraum, in dem eine Person, ein Tier oder eine Pflanze lebt und funktioniert.",
+      "ar": "الفترة الزمنية عندما يكون شخص أو حيوان أو نبات على قيد الحياة ويعمل.",
+      "fr": "La période de temps quand une personne, animal ou plante est vivant et fonctionne.",
+      "it": "Il periodo di tempo quando una persona, animale o pianta è viva e funziona.",
+      "ru": "Период времени, когда человек, животное или растение живёт и функционирует.",
+      "es": "El período de tiempo cuando una persona, animal o planta está viva y funciona.",
+      "pl": "Okres czasu, gdy osoba, zwierzę lub roślina żyje i funkcjonuje.",
+      "fa": "دوره زمانی که شخص، حیوان یا گیاه زنده است و کار می‌کند."
+    },
+    "examples": {
+      "en": ["I love my life.", "This is good life.", "We have one life."],
+      "de": ["Ich liebe mein Leben.", "Das ist ein gutes Leben.", "Wir haben ein Leben."],
+      "ar": ["أحب حياتي.", "هذه حياة جيدة.", "لدينا حياة واحدة."],
+      "fr": ["J'aime ma vie.", "C'est une bonne vie.", "Nous avons une vie."],
+      "it": ["Amo la mia vita.", "Questa è una buona vita.", "Abbiamo una vita."],
+      "ru": ["Я люблю свою жизнь.", "Это хорошая жизнь.", "У нас одна жизнь."],
+      "es": ["Amo mi vida.", "Esta es una buena vida.", "Tenemos una vida."],
+      "pl": ["Kocham moje życie.", "To jest dobre życie.", "Mamy jedno życie."],
+      "fa": ["زندگی‌ام را دوست دارم.", "این زندگی خوبی است.", "یک زندگی داریم."]
+    },
+    "conjugations": null
+  }
+]

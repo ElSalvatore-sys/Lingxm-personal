@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_801_en",
+    "word": "computer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "computer",
+      "de": "Computer",
+      "ar": "حاسوب",
+      "fr": "ordinateur",
+      "it": "computer",
+      "ru": "компьютер",
+      "es": "computadora",
+      "pl": "komputer",
+      "fa": "رایانه"
+    },
+    "explanations": {
+      "en": "An electronic machine that can store, process, and retrieve information and run programs.",
+      "de": "Eine elektronische Maschine, die Informationen speichern, verarbeiten und abrufen und Programme ausführen kann.",
+      "ar": "جهاز إلكتروني يمكنه تخزين ومعالجة واسترجاع المعلومات وتشغيل البرامج.",
+      "fr": "Une machine électronique qui peut stocker, traiter et récupérer des informations et exécuter des programmes.",
+      "it": "Una macchina elettronica che può memorizzare, elaborare e recuperare informazioni ed eseguire programmi.",
+      "ru": "Электронная машина, которая может хранить, обрабатывать и извлекать информацию и запускать программы.",
+      "es": "Una máquina electrónica que puede almacenar, procesar y recuperar información y ejecutar programas.",
+      "pl": "Elektroniczna maszyna, która może przechowywać, przetwarzać i odzyskiwać informacje oraz uruchamiać programy.",
+      "fa": "دستگاه الکترونیکی که می‌تواند اطلاعات را ذخیره، پردازش و بازیابی کند و برنامه‌ها را اجرا کند."
+    },
+    "examples": {
+      "en": ["I use my computer daily.", "This computer is very fast.", "Do you have a computer?"],
+      "de": ["Ich benutze meinen Computer täglich.", "Dieser Computer ist sehr schnell.", "Hast du einen Computer?"],
+      "ar": ["أستخدم حاسوبي يومياً.", "هذا الحاسوب سريع جداً.", "هل لديك حاسوب؟"],
+      "fr": ["J'utilise mon ordinateur quotidiennement.", "Cet ordinateur est très rapide.", "As-tu un ordinateur?"],
+      "it": ["Uso il mio computer quotidianamente.", "Questo computer è molto veloce.", "Hai un computer?"],
+      "ru": ["Я использую компьютер ежедневно.", "Этот компьютер очень быстрый.", "У тебя есть компьютер?"],
+      "es": ["Uso mi computadora diariamente.", "Esta computadora es muy rápida.", "¿Tienes una computadora?"],
+      "pl": ["Używam mojego komputera codziennie.", "Ten komputer jest bardzo szybki.", "Masz komputer?"],
+      "fa": ["من روزانه از رایانه‌ام استفاده می‌کنم.", "این رایانه خیلی سریع است.", "رایانه داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_802_en",
+    "word": "phone",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "phone",
+      "de": "Telefon",
+      "ar": "هاتف",
+      "fr": "téléphone",
+      "it": "telefono",
+      "ru": "телефон",
+      "es": "teléfono",
+      "pl": "telefon",
+      "fa": "تلفن"
+    },
+    "explanations": {
+      "en": "A device used to talk to people who are far away by making calls or sending messages.",
+      "de": "Ein Gerät zum Sprechen mit Menschen, die weit weg sind, durch Anrufe oder Nachrichten senden.",
+      "ar": "جهاز يستخدم للتحدث مع الناس البعيدين عن طريق إجراء مكالمات أو إرسال رسائل.",
+      "fr": "Un appareil utilisé pour parler aux gens qui sont loin en passant des appels ou en envoyant des messages.",
+      "it": "Un dispositivo usato per parlare con persone lontane facendo chiamate o inviando messaggi.",
+      "ru": "Устройство для разговора с людьми, которые далеко, совершая звонки или отправляя сообщения.",
+      "es": "Un dispositivo usado para hablar con personas que están lejos haciendo llamadas o enviando mensajes.",
+      "pl": "Urządzenie używane do rozmowy z ludźmi, którzy są daleko, przez wykonywanie połączeń lub wysyłanie wiadomości.",
+      "fa": "دستگاهی که برای صحبت با افراد دور با برقراری تماس یا ارسال پیام استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I use my phone daily.", "This is my new phone.", "Can I use your phone?"],
+      "de": ["Ich benutze mein Telefon täglich.", "Das ist mein neues Telefon.", "Kann ich dein Telefon benutzen?"],
+      "ar": ["أستخدم هاتفي يومياً.", "هذا هاتفي الجديد.", "هل يمكنني استخدام هاتفك؟"],
+      "fr": ["J'utilise mon téléphone quotidiennement.", "C'est mon nouveau téléphone.", "Puis-je utiliser ton téléphone?"],
+      "it": ["Uso il mio telefono quotidianamente.", "Questo è il mio nuovo telefono.", "Posso usare il tuo telefono?"],
+      "ru": ["Я использую телефон ежедневно.", "Это мой новый телефон.", "Могу я использовать твой телефон?"],
+      "es": ["Uso mi teléfono diariamente.", "Este es mi nuevo teléfono.", "¿Puedo usar tu teléfono?"],
+      "pl": ["Używam mojego telefonu codziennie.", "To mój nowy telefon.", "Czy mogę użyć twojego telefonu?"],
+      "fa": ["من روزانه از تلفنم استفاده می‌کنم.", "این تلفن جدید من است.", "می‌توانم از تلفن تو استفاده کنم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_803_en",
+    "word": "internet",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "internet",
+      "de": "Internet",
+      "ar": "إنترنت",
+      "fr": "internet",
+      "it": "internet",
+      "ru": "интернет",
+      "es": "internet",
+      "pl": "internet",
+      "fa": "اینترنت"
+    },
+    "explanations": {
+      "en": "A global network connecting millions of computers allowing people to share information and communicate.",
+      "de": "Ein globales Netzwerk, das Millionen von Computern verbindet und es Menschen ermöglicht, Informationen zu teilen und zu kommunizieren.",
+      "ar": "شبكة عالمية تربط ملايين الحواسيب مما يسمح للناس بتبادل المعلومات والتواصل.",
+      "fr": "Un réseau mondial connectant des millions d'ordinateurs permettant aux gens de partager des informations et de communiquer.",
+      "it": "Una rete globale che collega milioni di computer permettendo alle persone di condividere informazioni e comunicare.",
+      "ru": "Глобальная сеть, соединяющая миллионы компьютеров, позволяющая людям делиться информацией и общаться.",
+      "es": "Una red global conectando millones de computadoras permitiendo a las personas compartir información y comunicarse.",
+      "pl": "Globalna sieć łącząca miliony komputerów pozwalająca ludziom dzielić się informacjami i komunikować.",
+      "fa": "شبکه جهانی که میلیون‌ها رایانه را به هم متصل می‌کند و به مردم اجازه می‌دهد اطلاعات را به اشتراک بگذارند و ارتباط برقرار کنند."
+    },
+    "examples": {
+      "en": ["I use the internet daily.", "The internet is very fast.", "Do you have internet?"],
+      "de": ["Ich nutze das Internet täglich.", "Das Internet ist sehr schnell.", "Hast du Internet?"],
+      "ar": ["أستخدم الإنترنت يومياً.", "الإنترنت سريع جداً.", "هل لديك إنترنت؟"],
+      "fr": ["J'utilise internet quotidiennement.", "L'internet est très rapide.", "As-tu internet?"],
+      "it": ["Uso internet quotidianamente.", "L'internet è molto veloce.", "Hai internet?"],
+      "ru": ["Я использую интернет ежедневно.", "Интернет очень быстрый.", "У тебя есть интернет?"],
+      "es": ["Uso internet diariamente.", "El internet es muy rápido.", "¿Tienes internet?"],
+      "pl": ["Używam internetu codziennie.", "Internet jest bardzo szybki.", "Masz internet?"],
+      "fa": ["من روزانه از اینترنت استفاده می‌کنم.", "اینترنت خیلی سریع است.", "اینترنت داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_804_en",
+    "word": "email",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "email",
+      "de": "E-Mail",
+      "ar": "بريد إلكتروني",
+      "fr": "courriel",
+      "it": "email",
+      "ru": "электронная почта",
+      "es": "correo electrónico",
+      "pl": "email",
+      "fa": "ایمیل"
+    },
+    "explanations": {
+      "en": "Electronic messages sent from one person to another through the internet or computer network.",
+      "de": "Elektronische Nachrichten, die von einer Person zur anderen über das Internet oder Computernetzwerk gesendet werden.",
+      "ar": "رسائل إلكترونية ترسل من شخص إلى آخر عبر الإنترنت أو شبكة الحاسوب.",
+      "fr": "Messages électroniques envoyés d'une personne à une autre via internet ou réseau informatique.",
+      "it": "Messaggi elettronici inviati da una persona all'altra tramite internet o rete informatica.",
+      "ru": "Электронные сообщения, отправленные от одного человека другому через интернет или компьютерную сеть.",
+      "es": "Mensajes electrónicos enviados de una persona a otra a través de internet o red informática.",
+      "pl": "Wiadomości elektroniczne wysyłane od jednej osoby do drugiej przez internet lub sieć komputerową.",
+      "fa": "پیام‌های الکترونیکی که از یک شخص به دیگری از طریق اینترنت یا شبکه رایانه ارسال می‌شوند."
+    },
+    "examples": {
+      "en": ["I send an email daily.", "This is my new email.", "Can you send me email?"],
+      "de": ["Ich sende täglich eine E-Mail.", "Das ist meine neue E-Mail.", "Kannst du mir eine E-Mail senden?"],
+      "ar": ["أرسل بريداً إلكترونياً يومياً.", "هذا بريدي الإلكتروني الجديد.", "هل يمكنك إرسال بريد إلكتروني لي؟"],
+      "fr": ["J'envoie un courriel quotidiennement.", "C'est mon nouveau courriel.", "Peux-tu m'envoyer un courriel?"],
+      "it": ["Invio un'email quotidianamente.", "Questa è la mia nuova email.", "Puoi inviarmi un'email?"],
+      "ru": ["Я отправляю письмо ежедневно.", "Это моя новая электронная почта.", "Можешь отправить мне письмо?"],
+      "es": ["Envío un correo electrónico diariamente.", "Este es mi nuevo correo.", "¿Puedes enviarme un correo?"],
+      "pl": ["Wysyłam email codziennie.", "To mój nowy email.", "Możesz wysłać mi email?"],
+      "fa": ["من روزانه ایمیل می‌فرستم.", "این ایمیل جدید من است.", "می‌توانی برایم ایمیل بفرستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_805_en",
+    "word": "website",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "website",
+      "de": "Website",
+      "ar": "موقع إلكتروني",
+      "fr": "site web",
+      "it": "sito web",
+      "ru": "веб-сайт",
+      "es": "sitio web",
+      "pl": "strona internetowa",
+      "fa": "وب‌سایت"
+    },
+    "explanations": {
+      "en": "A collection of web pages on the internet that you can visit to get information or services.",
+      "de": "Eine Sammlung von Webseiten im Internet, die Sie besuchen können, um Informationen oder Dienstleistungen zu erhalten.",
+      "ar": "مجموعة من صفحات الويب على الإنترنت يمكنك زيارتها للحصول على معلومات أو خدمات.",
+      "fr": "Une collection de pages web sur internet que vous pouvez visiter pour obtenir des informations ou des services.",
+      "it": "Una raccolta di pagine web su internet che puoi visitare per ottenere informazioni o servizi.",
+      "ru": "Коллекция веб-страниц в интернете, которую вы можете посетить для получения информации или услуг.",
+      "es": "Una colección de páginas web en internet que puedes visitar para obtener información o servicios.",
+      "pl": "Zbiór stron internetowych w internecie, które możesz odwiedzić, aby uzyskać informacje lub usługi.",
+      "fa": "مجموعه‌ای از صفحات وب در اینترنت که می‌توانید برای دریافت اطلاعات یا خدمات بازدید کنید."
+    },
+    "examples": {
+      "en": ["I visit this website daily.", "This website is very good.", "Do you know this website?"],
+      "de": ["Ich besuche diese Website täglich.", "Diese Website ist sehr gut.", "Kennst du diese Website?"],
+      "ar": ["أزور هذا الموقع يومياً.", "هذا الموقع جيد جداً.", "هل تعرف هذا الموقع؟"],
+      "fr": ["Je visite ce site web quotidiennement.", "Ce site web est très bon.", "Connais-tu ce site web?"],
+      "it": ["Visito questo sito web quotidianamente.", "Questo sito web è molto buono.", "Conosci questo sito web?"],
+      "ru": ["Я посещаю этот сайт ежедневно.", "Этот сайт очень хороший.", "Ты знаешь этот сайт?"],
+      "es": ["Visito este sitio web diariamente.", "Este sitio web es muy bueno.", "¿Conoces este sitio web?"],
+      "pl": ["Odwiedzam tę stronę codziennie.", "Ta strona jest bardzo dobra.", "Znasz tę stronę?"],
+      "fa": ["من روزانه از این وب‌سایت بازدید می‌کنم.", "این وب‌سایت خیلی خوب است.", "این وب‌سایت را می‌شناسی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_806_en",
+    "word": "online",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "online",
+      "de": "online",
+      "ar": "متصل",
+      "fr": "en ligne",
+      "it": "online",
+      "ru": "онлайн",
+      "es": "en línea",
+      "pl": "online",
+      "fa": "آنلاین"
+    },
+    "explanations": {
+      "en": "Connected to or available through the internet or a computer network.",
+      "de": "Mit dem Internet oder einem Computernetzwerk verbunden oder darüber verfügbar.",
+      "ar": "متصل بالإنترنت أو شبكة حاسوب أو متاح من خلالها.",
+      "fr": "Connecté à ou disponible via internet ou un réseau informatique.",
+      "it": "Connesso a o disponibile tramite internet o una rete informatica.",
+      "ru": "Подключённый к интернету или компьютерной сети или доступный через них.",
+      "es": "Conectado a o disponible a través de internet o una red informática.",
+      "pl": "Połączony z internetem lub siecią komputerową lub dostępny przez nie.",
+      "fa": "متصل به یا در دسترس از طریق اینترنت یا شبکه رایانه."
+    },
+    "examples": {
+      "en": ["I am online now.", "This game is only online.", "Are you online today?"],
+      "de": ["Ich bin jetzt online.", "Dieses Spiel ist nur online.", "Bist du heute online?"],
+      "ar": ["أنا متصل الآن.", "هذه اللعبة متصلة فقط.", "هل أنت متصل اليوم؟"],
+      "fr": ["Je suis en ligne maintenant.", "Ce jeu est seulement en ligne.", "Es-tu en ligne aujourd'hui?"],
+      "it": ["Sono online ora.", "Questo gioco è solo online.", "Sei online oggi?"],
+      "ru": ["Я онлайн сейчас.", "Эта игра только онлайн.", "Ты онлайн сегодня?"],
+      "es": ["Estoy en línea ahora.", "Este juego es solo en línea.", "¿Estás en línea hoy?"],
+      "pl": ["Jestem online teraz.", "Ta gra jest tylko online.", "Jesteś online dzisiaj?"],
+      "fa": ["من الان آنلاین هستم.", "این بازی فقط آنلاین است.", "امروز آنلاین هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_807_en",
+    "word": "message",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "message",
+      "de": "Nachricht",
+      "ar": "رسالة",
+      "fr": "message",
+      "it": "messaggio",
+      "ru": "сообщение",
+      "es": "mensaje",
+      "pl": "wiadomość",
+      "fa": "پیام"
+    },
+    "explanations": {
+      "en": "A piece of information or communication that you send to another person.",
+      "de": "Eine Information oder Kommunikation, die Sie an eine andere Person senden.",
+      "ar": "معلومة أو اتصال ترسله إلى شخص آخر.",
+      "fr": "Une information ou communication que vous envoyez à une autre personne.",
+      "it": "Un'informazione o comunicazione che invii a un'altra persona.",
+      "ru": "Часть информации или сообщения, которое вы отправляете другому человеку.",
+      "es": "Una pieza de información o comunicación que envías a otra persona.",
+      "pl": "Informacja lub komunikat, który wysyłasz do innej osoby.",
+      "fa": "قطعه‌ای از اطلاعات یا ارتباط که به شخص دیگری ارسال می‌کنید."
+    },
+    "examples": {
+      "en": ["I send a message daily.", "This is my new message.", "Can you read my message?"],
+      "de": ["Ich sende täglich eine Nachricht.", "Das ist meine neue Nachricht.", "Kannst du meine Nachricht lesen?"],
+      "ar": ["أرسل رسالة يومياً.", "هذه رسالتي الجديدة.", "هل يمكنك قراءة رسالتي؟"],
+      "fr": ["J'envoie un message quotidiennement.", "C'est mon nouveau message.", "Peux-tu lire mon message?"],
+      "it": ["Invio un messaggio quotidianamente.", "Questo è il mio nuovo messaggio.", "Puoi leggere il mio messaggio?"],
+      "ru": ["Я отправляю сообщение ежедневно.", "Это моё новое сообщение.", "Можешь прочитать моё сообщение?"],
+      "es": ["Envío un mensaje diariamente.", "Este es mi nuevo mensaje.", "¿Puedes leer mi mensaje?"],
+      "pl": ["Wysyłam wiadomość codziennie.", "To moja nowa wiadomość.", "Możesz przeczytać moją wiadomość?"],
+      "fa": ["من روزانه پیام می‌فرستم.", "این پیام جدید من است.", "می‌توانی پیامم را بخوانی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_808_en",
+    "word": "call",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "call",
+      "de": "anrufen",
+      "ar": "يتصل",
+      "fr": "appeler",
+      "it": "chiamare",
+      "ru": "звонить",
+      "es": "llamar",
+      "pl": "dzwonić",
+      "fa": "تماس گرفتن"
+    },
+    "explanations": {
+      "en": "To use a phone to speak to someone who is in a different place.",
+      "de": "Ein Telefon benutzen, um mit jemandem zu sprechen, der an einem anderen Ort ist.",
+      "ar": "استخدام هاتف للتحدث مع شخص في مكان مختلف.",
+      "fr": "Utiliser un téléphone pour parler à quelqu'un qui est dans un endroit différent.",
+      "it": "Usare un telefono per parlare con qualcuno che è in un posto diverso.",
+      "ru": "Использовать телефон, чтобы поговорить с кем-то, кто находится в другом месте.",
+      "es": "Usar un teléfono para hablar con alguien que está en un lugar diferente.",
+      "pl": "Używać telefonu, aby rozmawiać z kimś, kto jest w innym miejscu.",
+      "fa": "استفاده از تلفن برای صحبت با کسی که در مکان دیگری است."
+    },
+    "examples": {
+      "en": ["I call my friend daily.", "Can you call me now?", "I will call you soon."],
+      "de": ["Ich rufe täglich meinen Freund an.", "Kannst du mich jetzt anrufen?", "Ich werde dich bald anrufen."],
+      "ar": ["أتصل بصديقي يومياً.", "هل يمكنك الاتصال بي الآن؟", "سأتصل بك قريباً."],
+      "fr": ["J'appelle mon ami quotidiennement.", "Peux-tu m'appeler maintenant?", "Je t'appellerai bientôt."],
+      "it": ["Chiamo il mio amico quotidianamente.", "Puoi chiamarmi ora?", "Ti chiamerò presto."],
+      "ru": ["Я звоню другу ежедневно.", "Можешь позвонить мне сейчас?", "Я позвоню тебе скоро."],
+      "es": ["Llamo a mi amigo diariamente.", "¿Puedes llamarme ahora?", "Te llamaré pronto."],
+      "pl": ["Dzwonię do mojego przyjaciela codziennie.", "Możesz do mnie zadzwonić teraz?", "Zadzwonię do ciebie wkrótce."],
+      "fa": ["من روزانه به دوستم زنگ می‌زنم.", "می‌توانی الان به من زنگ بزنی؟", "به زودی بهت زنگ می‌زنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_809_en",
+    "word": "text",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "text",
+      "de": "Text",
+      "ar": "نص",
+      "fr": "texte",
+      "it": "testo",
+      "ru": "текст",
+      "es": "texto",
+      "pl": "tekst",
+      "fa": "متن"
+    },
+    "explanations": {
+      "en": "Written words that form a message, story, or piece of information.",
+      "de": "Geschriebene Wörter, die eine Nachricht, Geschichte oder Information bilden.",
+      "ar": "كلمات مكتوبة تشكل رسالة أو قصة أو معلومة.",
+      "fr": "Mots écrits qui forment un message, une histoire ou une information.",
+      "it": "Parole scritte che formano un messaggio, una storia o un'informazione.",
+      "ru": "Написанные слова, образующие сообщение, историю или часть информации.",
+      "es": "Palabras escritas que forman un mensaje, historia o pieza de información.",
+      "pl": "Napisane słowa, które tworzą wiadomość, historię lub informację.",
+      "fa": "کلمات نوشته شده که پیام، داستان یا قطعه‌ای از اطلاعات را تشکیل می‌دهند."
+    },
+    "examples": {
+      "en": ["I read the text daily.", "This text is very long.", "Can you send me text?"],
+      "de": ["Ich lese den Text täglich.", "Dieser Text ist sehr lang.", "Kannst du mir den Text senden?"],
+      "ar": ["أقرأ النص يومياً.", "هذا النص طويل جداً.", "هل يمكنك إرسال النص لي؟"],
+      "fr": ["Je lis le texte quotidiennement.", "Ce texte est très long.", "Peux-tu m'envoyer le texte?"],
+      "it": ["Leggo il testo quotidianamente.", "Questo testo è molto lungo.", "Puoi inviarmi il testo?"],
+      "ru": ["Я читаю текст ежедневно.", "Этот текст очень длинный.", "Можешь отправить мне текст?"],
+      "es": ["Leo el texto diariamente.", "Este texto es muy largo.", "¿Puedes enviarme el texto?"],
+      "pl": ["Czytam tekst codziennie.", "Ten tekst jest bardzo długi.", "Możesz wysłać mi tekst?"],
+      "fa": ["من روزانه متن را می‌خوانم.", "این متن خیلی طولانی است.", "می‌توانی متن را برایم بفرستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_810_en",
+    "word": "app",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "app",
+      "de": "App",
+      "ar": "تطبيق",
+      "fr": "application",
+      "it": "app",
+      "ru": "приложение",
+      "es": "aplicación",
+      "pl": "aplikacja",
+      "fa": "اپلیکیشن"
+    },
+    "explanations": {
+      "en": "A computer program designed to perform specific tasks on phones, tablets, or computers.",
+      "de": "Ein Computerprogramm, das entwickelt wurde, um bestimmte Aufgaben auf Telefonen, Tablets oder Computern auszuführen.",
+      "ar": "برنامج حاسوبي مصمم لأداء مهام محددة على الهواتف أو الأجهزة اللوحية أو الحواسيب.",
+      "fr": "Un programme informatique conçu pour effectuer des tâches spécifiques sur téléphones, tablettes ou ordinateurs.",
+      "it": "Un programma informatico progettato per eseguire compiti specifici su telefoni, tablet o computer.",
+      "ru": "Компьютерная программа, предназначенная для выполнения определённых задач на телефонах, планшетах или компьютерах.",
+      "es": "Un programa informático diseñado para realizar tareas específicas en teléfonos, tabletas o computadoras.",
+      "pl": "Program komputerowy zaprojektowany do wykonywania określonych zadań na telefonach, tabletach lub komputerach.",
+      "fa": "برنامه رایانه‌ای طراحی شده برای انجام وظایف خاص در تلفن‌ها، تبلت‌ها یا رایانه‌ها."
+    },
+    "examples": {
+      "en": ["I use this app daily.", "This is my favorite app.", "Do you have this app?"],
+      "de": ["Ich benutze diese App täglich.", "Das ist meine Lieblings-App.", "Hast du diese App?"],
+      "ar": ["أستخدم هذا التطبيق يومياً.", "هذا تطبيقي المفضل.", "هل لديك هذا التطبيق؟"],
+      "fr": ["J'utilise cette application quotidiennement.", "C'est mon application préférée.", "As-tu cette application?"],
+      "it": ["Uso questa app quotidianamente.", "Questa è la mia app preferita.", "Hai questa app?"],
+      "ru": ["Я использую это приложение ежедневно.", "Это моё любимое приложение.", "У тебя есть это приложение?"],
+      "es": ["Uso esta aplicación diariamente.", "Esta es mi aplicación favorita.", "¿Tienes esta aplicación?"],
+      "pl": ["Używam tej aplikacji codziennie.", "To moja ulubiona aplikacja.", "Masz tę aplikację?"],
+      "fa": ["من روزانه از این اپلیکیشن استفاده می‌کنم.", "این اپلیکیشن مورد علاقه من است.", "این اپلیکیشن را داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_811_en",
+    "word": "screen",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "screen",
+      "de": "Bildschirm",
+      "ar": "شاشة",
+      "fr": "écran",
+      "it": "schermo",
+      "ru": "экран",
+      "es": "pantalla",
+      "pl": "ekran",
+      "fa": "صفحه نمایش"
+    },
+    "explanations": {
+      "en": "The flat surface on a computer, phone, or TV where you see images and information.",
+      "de": "Die flache Oberfläche auf einem Computer, Telefon oder Fernseher, auf der Sie Bilder und Informationen sehen.",
+      "ar": "السطح المسطح على الحاسوب أو الهاتف أو التلفزيون حيث ترى الصور والمعلومات.",
+      "fr": "La surface plate sur un ordinateur, téléphone ou télévision où vous voyez des images et des informations.",
+      "it": "La superficie piatta su un computer, telefono o TV dove vedi immagini e informazioni.",
+      "ru": "Плоская поверхность на компьютере, телефоне или телевизоре, где вы видите изображения и информацию.",
+      "es": "La superficie plana en una computadora, teléfono o TV donde ves imágenes e información.",
+      "pl": "Płaska powierzchnia na komputerze, telefonie lub telewizorze, gdzie widzisz obrazy i informacje.",
+      "fa": "سطح صاف روی رایانه، تلفن یا تلویزیون که تصاویر و اطلاعات را می‌بینید."
+    },
+    "examples": {
+      "en": ["I look at screen daily.", "This screen is very big.", "Can you see my screen?"],
+      "de": ["Ich schaue täglich auf den Bildschirm.", "Dieser Bildschirm ist sehr groß.", "Kannst du meinen Bildschirm sehen?"],
+      "ar": ["أنظر إلى الشاشة يومياً.", "هذه الشاشة كبيرة جداً.", "هل يمكنك رؤية شاشتي؟"],
+      "fr": ["Je regarde l'écran quotidiennement.", "Cet écran est très grand.", "Peux-tu voir mon écran?"],
+      "it": ["Guardo lo schermo quotidianamente.", "Questo schermo è molto grande.", "Puoi vedere il mio schermo?"],
+      "ru": ["Я смотрю на экран ежедневно.", "Этот экран очень большой.", "Можешь увидеть мой экран?"],
+      "es": ["Miro la pantalla diariamente.", "Esta pantalla es muy grande.", "¿Puedes ver mi pantalla?"],
+      "pl": ["Patrzę na ekran codziennie.", "Ten ekran jest bardzo duży.", "Możesz zobaczyć mój ekran?"],
+      "fa": ["من روزانه به صفحه نگاه می‌کنم.", "این صفحه خیلی بزرگ است.", "می‌توانی صفحه من را ببینی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_812_en",
+    "word": "keyboard",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "keyboard",
+      "de": "Tastatur",
+      "ar": "لوحة مفاتيح",
+      "fr": "clavier",
+      "it": "tastiera",
+      "ru": "клавиатура",
+      "es": "teclado",
+      "pl": "klawiatura",
+      "fa": "صفحه کلید"
+    },
+    "explanations": {
+      "en": "A device with buttons you press to type letters, numbers, and symbols on a computer.",
+      "de": "Ein Gerät mit Tasten, die Sie drücken, um Buchstaben, Zahlen und Symbole auf einem Computer zu tippen.",
+      "ar": "جهاز بأزرار تضغط عليها لكتابة الحروف والأرقام والرموز على الحاسوب.",
+      "fr": "Un appareil avec des boutons que vous appuyez pour taper des lettres, chiffres et symboles sur un ordinateur.",
+      "it": "Un dispositivo con pulsanti che premi per digitare lettere, numeri e simboli su un computer.",
+      "ru": "Устройство с кнопками, которые вы нажимаете, чтобы набирать буквы, цифры и символы на компьютере.",
+      "es": "Un dispositivo con botones que presionas para escribir letras, números y símbolos en una computadora.",
+      "pl": "Urządzenie z przyciskami, które naciskasz, aby wpisywać litery, cyfry i symbole na komputerze.",
+      "fa": "دستگاهی با دکمه‌هایی که فشار می‌دهید تا حروف، اعداد و نمادها را در رایانه تایپ کنید."
+    },
+    "examples": {
+      "en": ["I use my keyboard daily.", "This keyboard is very good.", "Can I use your keyboard?"],
+      "de": ["Ich benutze meine Tastatur täglich.", "Diese Tastatur ist sehr gut.", "Kann ich deine Tastatur benutzen?"],
+      "ar": ["أستخدم لوحة مفاتيحي يومياً.", "لوحة المفاتيح هذه جيدة جداً.", "هل يمكنني استخدام لوحة مفاتيحك؟"],
+      "fr": ["J'utilise mon clavier quotidiennement.", "Ce clavier est très bon.", "Puis-je utiliser ton clavier?"],
+      "it": ["Uso la mia tastiera quotidianamente.", "Questa tastiera è molto buona.", "Posso usare la tua tastiera?"],
+      "ru": ["Я использую клавиатуру ежедневно.", "Эта клавиатура очень хорошая.", "Могу я использовать твою клавиатуру?"],
+      "es": ["Uso mi teclado diariamente.", "Este teclado es muy bueno.", "¿Puedo usar tu teclado?"],
+      "pl": ["Używam mojej klawiatury codziennie.", "Ta klawiatura jest bardzo dobra.", "Czy mogę użyć twojej klawiatury?"],
+      "fa": ["من روزانه از صفحه کلیدم استفاده می‌کنم.", "این صفحه کلید خیلی خوب است.", "می‌توانم از صفحه کلید تو استفاده کنم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_813_en",
+    "word": "mouse",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mouse",
+      "de": "Maus",
+      "ar": "فأرة",
+      "fr": "souris",
+      "it": "mouse",
+      "ru": "мышь",
+      "es": "ratón",
+      "pl": "mysz",
+      "fa": "موس"
+    },
+    "explanations": {
+      "en": "A small device you move with your hand to control the cursor on a computer screen.",
+      "de": "Ein kleines Gerät, das Sie mit der Hand bewegen, um den Cursor auf einem Computerbildschirm zu steuern.",
+      "ar": "جهاز صغير تحركه بيدك للتحكم في المؤشر على شاشة الحاسوب.",
+      "fr": "Un petit appareil que vous déplacez avec votre main pour contrôler le curseur sur un écran d'ordinateur.",
+      "it": "Un piccolo dispositivo che muovi con la mano per controllare il cursore su uno schermo del computer.",
+      "ru": "Маленькое устройство, которое вы двигаете рукой для управления курсором на экране компьютера.",
+      "es": "Un pequeño dispositivo que mueves con tu mano para controlar el cursor en una pantalla de computadora.",
+      "pl": "Małe urządzenie, które przesuwasz ręką, aby kontrolować kursor na ekranie komputera.",
+      "fa": "دستگاه کوچکی که با دست حرکت می‌دهید تا نشانگر را روی صفحه رایانه کنترل کنید."
+    },
+    "examples": {
+      "en": ["I use my mouse daily.", "This mouse is very good.", "Can I use your mouse?"],
+      "de": ["Ich benutze meine Maus täglich.", "Diese Maus ist sehr gut.", "Kann ich deine Maus benutzen?"],
+      "ar": ["أستخدم فأرتي يومياً.", "هذه الفأرة جيدة جداً.", "هل يمكنني استخدام فأرتك؟"],
+      "fr": ["J'utilise ma souris quotidiennement.", "Cette souris est très bonne.", "Puis-je utiliser ta souris?"],
+      "it": ["Uso il mio mouse quotidianamente.", "Questo mouse è molto buono.", "Posso usare il tuo mouse?"],
+      "ru": ["Я использую мышь ежедневно.", "Эта мышь очень хорошая.", "Могу я использовать твою мышь?"],
+      "es": ["Uso mi ratón diariamente.", "Este ratón es muy bueno.", "¿Puedo usar tu ratón?"],
+      "pl": ["Używam mojej myszy codziennie.", "Ta mysz jest bardzo dobra.", "Czy mogę użyć twojej myszy?"],
+      "fa": ["من روزانه از موسم استفاده می‌کنم.", "این موس خیلی خوب است.", "می‌توانم از موس تو استفاده کنم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_814_en",
+    "word": "click",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "click",
+      "de": "klicken",
+      "ar": "ينقر",
+      "fr": "cliquer",
+      "it": "cliccare",
+      "ru": "щёлкать",
+      "es": "hacer clic",
+      "pl": "klikać",
+      "fa": "کلیک کردن"
+    },
+    "explanations": {
+      "en": "To press and release a button on a mouse or touch a spot on a screen to select something.",
+      "de": "Eine Taste auf einer Maus drücken und loslassen oder eine Stelle auf einem Bildschirm berühren, um etwas auszuwählen.",
+      "ar": "الضغط على زر في الفأرة أو لمس نقطة على الشاشة لاختيار شيء.",
+      "fr": "Appuyer et relâcher un bouton sur une souris ou toucher un endroit sur un écran pour sélectionner quelque chose.",
+      "it": "Premere e rilasciare un pulsante su un mouse o toccare un punto su uno schermo per selezionare qualcosa.",
+      "ru": "Нажать и отпустить кнопку на мыши или коснуться места на экране, чтобы выбрать что-то.",
+      "es": "Presionar y soltar un botón en un ratón o tocar un punto en una pantalla para seleccionar algo.",
+      "pl": "Nacisnąć i puścić przycisk na myszy lub dotknąć miejsca na ekranie, aby wybrać coś.",
+      "fa": "فشار دادن و رها کردن دکمه روی موس یا لمس نقطه‌ای روی صفحه برای انتخاب چیزی."
+    },
+    "examples": {
+      "en": ["I click on this button.", "Please click here now.", "Can you click that?"],
+      "de": ["Ich klicke auf diesen Button.", "Bitte klicke jetzt hier.", "Kannst du das klicken?"],
+      "ar": ["أنقر على هذا الزر.", "من فضلك انقر هنا الآن.", "هل يمكنك النقر على ذلك؟"],
+      "fr": ["Je clique sur ce bouton.", "Clique ici maintenant s'il te plaît.", "Peux-tu cliquer là?"],
+      "it": ["Clicco su questo pulsante.", "Per favore clicca qui ora.", "Puoi cliccare quello?"],
+      "ru": ["Я щёлкаю на эту кнопку.", "Пожалуйста, щёлкни здесь сейчас.", "Можешь щёлкнуть на это?"],
+      "es": ["Hago clic en este botón.", "Por favor haz clic aquí ahora.", "¿Puedes hacer clic en eso?"],
+      "pl": ["Klikam na ten przycisk.", "Proszę, kliknij tutaj teraz.", "Możesz to kliknąć?"],
+      "fa": ["من روی این دکمه کلیک می‌کنم.", "لطفا الان اینجا کلیک کن.", "می‌توانی آن را کلیک کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_815_en",
+    "word": "type",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "type",
+      "de": "tippen",
+      "ar": "يكتب",
+      "fr": "taper",
+      "it": "digitare",
+      "ru": "печатать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "تایپ کردن"
+    },
+    "explanations": {
+      "en": "To write words or text using a keyboard by pressing the keys with your fingers.",
+      "de": "Wörter oder Text mit einer Tastatur schreiben, indem man die Tasten mit den Fingern drückt.",
+      "ar": "كتابة الكلمات أو النص باستخدام لوحة المفاتيح بالضغط على المفاتيح بأصابعك.",
+      "fr": "Écrire des mots ou du texte en utilisant un clavier en appuyant sur les touches avec vos doigts.",
+      "it": "Scrivere parole o testo usando una tastiera premendo i tasti con le dita.",
+      "ru": "Писать слова или текст с помощью клавиатуры, нажимая клавиши пальцами.",
+      "es": "Escribir palabras o texto usando un teclado presionando las teclas con tus dedos.",
+      "pl": "Pisać słowa lub tekst używając klawiatury przez naciskanie klawiszy palcami.",
+      "fa": "نوشتن کلمات یا متن با استفاده از صفحه کلید با فشار دادن کلیدها با انگشتان."
+    },
+    "examples": {
+      "en": ["I type every day.", "Can you type fast now?", "Please type your name."],
+      "de": ["Ich tippe jeden Tag.", "Kannst du jetzt schnell tippen?", "Bitte tippe deinen Namen."],
+      "ar": ["أكتب كل يوم.", "هل يمكنك الكتابة بسرعة الآن؟", "من فضلك اكتب اسمك."],
+      "fr": ["Je tape chaque jour.", "Peux-tu taper vite maintenant?", "Tape ton nom s'il te plaît."],
+      "it": ["Digito ogni giorno.", "Puoi digitare veloce ora?", "Per favore digita il tuo nome."],
+      "ru": ["Я печатаю каждый день.", "Можешь печатать быстро сейчас?", "Пожалуйста, напечатай своё имя."],
+      "es": ["Escribo cada día.", "¿Puedes escribir rápido ahora?", "Por favor escribe tu nombre."],
+      "pl": ["Piszę każdego dnia.", "Możesz pisać szybko teraz?", "Proszę, wpisz swoje imię."],
+      "fa": ["من هر روز تایپ می‌کنم.", "می‌توانی الان سریع تایپ کنی؟", "لطفا اسمت را تایپ کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_816_en",
+    "word": "download",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "download",
+      "de": "herunterladen",
+      "ar": "يحمل",
+      "fr": "télécharger",
+      "it": "scaricare",
+      "ru": "скачивать",
+      "es": "descargar",
+      "pl": "pobierać",
+      "fa": "دانلود کردن"
+    },
+    "explanations": {
+      "en": "To copy files or data from the internet or another computer to your own device.",
+      "de": "Dateien oder Daten aus dem Internet oder einem anderen Computer auf Ihr eigenes Gerät kopieren.",
+      "ar": "نسخ الملفات أو البيانات من الإنترنت أو حاسوب آخر إلى جهازك الخاص.",
+      "fr": "Copier des fichiers ou données d'internet ou d'un autre ordinateur vers votre propre appareil.",
+      "it": "Copiare file o dati da internet o da un altro computer sul tuo dispositivo.",
+      "ru": "Копировать файлы или данные из интернета или другого компьютера на ваше устройство.",
+      "es": "Copiar archivos o datos de internet o de otra computadora a tu propio dispositivo.",
+      "pl": "Kopiować pliki lub dane z internetu lub innego komputera na własne urządzenie.",
+      "fa": "کپی کردن فایل‌ها یا داده‌ها از اینترنت یا رایانه دیگر به دستگاه خود."
+    },
+    "examples": {
+      "en": ["I download files daily.", "Can you download this app?", "Please download the file now."],
+      "de": ["Ich lade täglich Dateien herunter.", "Kannst du diese App herunterladen?", "Bitte lade die Datei jetzt herunter."],
+      "ar": ["أحمل ملفات يومياً.", "هل يمكنك تحميل هذا التطبيق؟", "من فضلك حمل الملف الآن."],
+      "fr": ["Je télécharge des fichiers quotidiennement.", "Peux-tu télécharger cette application?", "Télécharge le fichier maintenant s'il te plaît."],
+      "it": ["Scarico file quotidianamente.", "Puoi scaricare questa app?", "Per favore scarica il file ora."],
+      "ru": ["Я скачиваю файлы ежедневно.", "Можешь скачать это приложение?", "Пожалуйста, скачай файл сейчас."],
+      "es": ["Descargo archivos diariamente.", "¿Puedes descargar esta aplicación?", "Por favor descarga el archivo ahora."],
+      "pl": ["Pobieram pliki codziennie.", "Możesz pobrać tę aplikację?", "Proszę, pobierz plik teraz."],
+      "fa": ["من روزانه فایل دانلود می‌کنم.", "می‌توانی این اپلیکیشن را دانلود کنی؟", "لطفا الان فایل را دانلود کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_817_en",
+    "word": "upload",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "upload",
+      "de": "hochladen",
+      "ar": "يرفع",
+      "fr": "téléverser",
+      "it": "caricare",
+      "ru": "загружать",
+      "es": "subir",
+      "pl": "przesyłać",
+      "fa": "آپلود کردن"
+    },
+    "explanations": {
+      "en": "To send or transfer files or data from your device to the internet or another computer.",
+      "de": "Dateien oder Daten von Ihrem Gerät ins Internet oder auf einen anderen Computer senden oder übertragen.",
+      "ar": "إرسال أو نقل الملفات أو البيانات من جهازك إلى الإنترنت أو حاسوب آخر.",
+      "fr": "Envoyer ou transférer des fichiers ou données de votre appareil vers internet ou un autre ordinateur.",
+      "it": "Inviare o trasferire file o dati dal tuo dispositivo a internet o a un altro computer.",
+      "ru": "Отправлять или передавать файлы или данные с вашего устройства в интернет или на другой компьютер.",
+      "es": "Enviar o transferir archivos o datos desde tu dispositivo a internet o a otra computadora.",
+      "pl": "Wysyłać lub przenosić pliki lub dane z twojego urządzenia do internetu lub na inny komputer.",
+      "fa": "ارسال یا انتقال فایل‌ها یا داده‌ها از دستگاه شما به اینترنت یا رایانه دیگر."
+    },
+    "examples": {
+      "en": ["I upload photos daily.", "Can you upload this file?", "Please upload the photo now."],
+      "de": ["Ich lade täglich Fotos hoch.", "Kannst du diese Datei hochladen?", "Bitte lade das Foto jetzt hoch."],
+      "ar": ["أرفع الصور يومياً.", "هل يمكنك رفع هذا الملف؟", "من فضلك ارفع الصورة الآن."],
+      "fr": ["Je téléverse des photos quotidiennement.", "Peux-tu téléverser ce fichier?", "Téléverse la photo maintenant s'il te plaît."],
+      "it": ["Carico foto quotidianamente.", "Puoi caricare questo file?", "Per favore carica la foto ora."],
+      "ru": ["Я загружаю фото ежедневно.", "Можешь загрузить этот файл?", "Пожалуйста, загрузи фото сейчас."],
+      "es": ["Subo fotos diariamente.", "¿Puedes subir este archivo?", "Por favor sube la foto ahora."],
+      "pl": ["Przesyłam zdjęcia codziennie.", "Możesz przesłać ten plik?", "Proszę, prześlij zdjęcie teraz."],
+      "fa": ["من روزانه عکس آپلود می‌کنم.", "می‌توانی این فایل را آپلود کنی؟", "لطفا الان عکس را آپلود کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_818_en",
+    "word": "connect",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "connect",
+      "de": "verbinden",
+      "ar": "يربط",
+      "fr": "connecter",
+      "it": "collegare",
+      "ru": "соединять",
+      "es": "conectar",
+      "pl": "łączyć",
+      "fa": "متصل کردن"
+    },
+    "explanations": {
+      "en": "To join or link two or more things together so they can work or communicate with each other.",
+      "de": "Zwei oder mehr Dinge miteinander verbinden, damit sie zusammenarbeiten oder miteinander kommunizieren können.",
+      "ar": "ربط شيئين أو أكثر معاً حتى يتمكنوا من العمل أو التواصل مع بعضهم البعض.",
+      "fr": "Joindre ou lier deux choses ou plus ensemble pour qu'elles puissent fonctionner ou communiquer entre elles.",
+      "it": "Unire o collegare due o più cose insieme in modo che possano funzionare o comunicare tra loro.",
+      "ru": "Соединить или связать две или более вещи вместе, чтобы они могли работать или общаться друг с другом.",
+      "es": "Unir o enlazar dos o más cosas juntas para que puedan funcionar o comunicarse entre sí.",
+      "pl": "Połączyć dwie lub więcej rzeczy razem, aby mogły współpracować lub komunikować się ze sobą.",
+      "fa": "پیوستن یا اتصال دو یا چند چیز به هم تا بتوانند با یکدیگر کار کنند یا ارتباط برقرار کنند."
+    },
+    "examples": {
+      "en": ["I connect to internet daily.", "Can you connect this now?", "Please connect the phone here."],
+      "de": ["Ich verbinde mich täglich mit dem Internet.", "Kannst du das jetzt verbinden?", "Bitte verbinde das Telefon hier."],
+      "ar": ["أتصل بالإنترنت يومياً.", "هل يمكنك ربط هذا الآن؟", "من فضلك اربط الهاتف هنا."],
+      "fr": ["Je me connecte à internet quotidiennement.", "Peux-tu connecter cela maintenant?", "Connecte le téléphone ici s'il te plaît."],
+      "it": ["Mi collego a internet quotidianamente.", "Puoi collegare questo ora?", "Per favore collega il telefono qui."],
+      "ru": ["Я подключаюсь к интернету ежедневно.", "Можешь подключить это сейчас?", "Пожалуйста, подключи телефон здесь."],
+      "es": ["Me conecto a internet diariamente.", "¿Puedes conectar esto ahora?", "Por favor conecta el teléfono aquí."],
+      "pl": ["Łączę się z internetem codziennie.", "Możesz połączyć to teraz?", "Proszę, podłącz telefon tutaj."],
+      "fa": ["من روزانه به اینترنت متصل می‌شوم.", "می‌توانی این را الان متصل کنی؟", "لطفا تلفن را اینجا متصل کن."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_819_en",
+    "word": "wifi",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wifi",
+      "de": "WLAN",
+      "ar": "واي فاي",
+      "fr": "wifi",
+      "it": "wifi",
+      "ru": "вайфай",
+      "es": "wifi",
+      "pl": "wifi",
+      "fa": "وای‌فای"
+    },
+    "explanations": {
+      "en": "A technology that allows devices to connect to the internet wirelessly without using cables.",
+      "de": "Eine Technologie, die es Geräten ermöglicht, sich drahtlos ohne Kabel mit dem Internet zu verbinden.",
+      "ar": "تقنية تسمح للأجهزة بالاتصال بالإنترنت لاسلكياً دون استخدام الكابلات.",
+      "fr": "Une technologie qui permet aux appareils de se connecter à internet sans fil sans utiliser de câbles.",
+      "it": "Una tecnologia che permette ai dispositivi di connettersi a internet senza fili senza usare cavi.",
+      "ru": "Технология, позволяющая устройствам подключаться к интернету беспроводно без использования кабелей.",
+      "es": "Una tecnología que permite a los dispositivos conectarse a internet de forma inalámbrica sin usar cables.",
+      "pl": "Technologia pozwalająca urządzeniom łączyć się z internetem bezprzewodowo bez używania kabli.",
+      "fa": "فناوری که به دستگاه‌ها اجازه می‌دهد بدون استفاده از کابل به صورت بی‌سیم به اینترنت متصل شوند."
+    },
+    "examples": {
+      "en": ["I use wifi every day.", "This wifi is very fast.", "Do you have wifi here?"],
+      "de": ["Ich benutze täglich WLAN.", "Dieses WLAN ist sehr schnell.", "Hast du hier WLAN?"],
+      "ar": ["أستخدم الواي فاي كل يوم.", "هذا الواي فاي سريع جداً.", "هل لديك واي فاي هنا؟"],
+      "fr": ["J'utilise le wifi chaque jour.", "Ce wifi est très rapide.", "As-tu du wifi ici?"],
+      "it": ["Uso il wifi ogni giorno.", "Questo wifi è molto veloce.", "Hai wifi qui?"],
+      "ru": ["Я использую вайфай каждый день.", "Этот вайфай очень быстрый.", "У тебя есть вайфай здесь?"],
+      "es": ["Uso wifi cada día.", "Este wifi es muy rápido.", "¿Tienes wifi aquí?"],
+      "pl": ["Używam wifi każdego dnia.", "To wifi jest bardzo szybkie.", "Masz wifi tutaj?"],
+      "fa": ["من هر روز از وای‌فای استفاده می‌کنم.", "این وای‌فای خیلی سریع است.", "اینجا وای‌فای داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_820_en",
+    "word": "data",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "data",
+      "de": "Daten",
+      "ar": "بيانات",
+      "fr": "données",
+      "it": "dati",
+      "ru": "данные",
+      "es": "datos",
+      "pl": "dane",
+      "fa": "داده"
+    },
+    "explanations": {
+      "en": "Information, facts, or numbers collected and stored in computers or used for reference or analysis.",
+      "de": "Informationen, Fakten oder Zahlen, die in Computern gesammelt und gespeichert oder für Referenz oder Analyse verwendet werden.",
+      "ar": "معلومات أو حقائق أو أرقام يتم جمعها وتخزينها في الحواسيب أو استخدامها للمرجع أو التحليل.",
+      "fr": "Informations, faits ou nombres collectés et stockés dans des ordinateurs ou utilisés pour référence ou analyse.",
+      "it": "Informazioni, fatti o numeri raccolti e memorizzati in computer o usati per riferimento o analisi.",
+      "ru": "Информация, факты или числа, собранные и хранящиеся в компьютерах или используемые для справки или анализа.",
+      "es": "Información, hechos o números recopilados y almacenados en computadoras o usados para referencia o análisis.",
+      "pl": "Informacje, fakty lub liczby zebrane i przechowywane w komputerach lub używane do odniesienia lub analizy.",
+      "fa": "اطلاعات، حقایق یا اعداد جمع‌آوری شده و ذخیره شده در رایانه‌ها یا استفاده شده برای مرجع یا تحلیل."
+    },
+    "examples": {
+      "en": ["I collect data every day.", "This data is very important.", "Do you have the data?"],
+      "de": ["Ich sammle täglich Daten.", "Diese Daten sind sehr wichtig.", "Hast du die Daten?"],
+      "ar": ["أجمع البيانات كل يوم.", "هذه البيانات مهمة جداً.", "هل لديك البيانات؟"],
+      "fr": ["Je collecte des données chaque jour.", "Ces données sont très importantes.", "As-tu les données?"],
+      "it": ["Raccolgo dati ogni giorno.", "Questi dati sono molto importanti.", "Hai i dati?"],
+      "ru": ["Я собираю данные каждый день.", "Эти данные очень важные.", "У тебя есть данные?"],
+      "es": ["Recopilo datos cada día.", "Estos datos son muy importantes.", "¿Tienes los datos?"],
+      "pl": ["Zbieram dane każdego dnia.", "Te dane są bardzo ważne.", "Masz dane?"],
+      "fa": ["من هر روز داده جمع‌آوری می‌کنم.", "این داده خیلی مهم است.", "داده را داری؟"]
+    },
+    "conjugations": null
+  }
+]

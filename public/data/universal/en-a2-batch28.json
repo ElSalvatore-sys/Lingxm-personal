@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_541_en",
+    "word": "buy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "buy",
+      "de": "kaufen",
+      "ar": "يشتري",
+      "fr": "acheter",
+      "it": "comprare",
+      "ru": "покупать",
+      "es": "comprar",
+      "pl": "kupować",
+      "fa": "خریدن"
+    },
+    "explanations": {
+      "en": "To get something by paying money for it in exchange for ownership or use.",
+      "de": "Etwas bekommen, indem man Geld dafür bezahlt im Austausch für Besitz oder Nutzung.",
+      "ar": "الحصول على شيء من خلال دفع المال له مقابل الملكية أو الاستخدام.",
+      "fr": "Obtenir quelque chose en payant de l'argent pour cela en échange de propriété ou usage.",
+      "it": "Ottenere qualcosa pagando denaro per esso in cambio di proprietà o uso.",
+      "ru": "Получать что-то, платя деньги за это в обмен на владение или использование.",
+      "es": "Obtener algo pagando dinero por ello a cambio de propiedad o uso.",
+      "pl": "Uzyskać coś płacąc za to pieniądze w zamian za własność lub użytkowanie.",
+      "fa": "گرفتن چیزی با پرداخت پول برای آن در ازای مالکیت یا استفاده."
+    },
+    "examples": {
+      "en": ["I buy this book.", "Can you buy food?", "We buy at shop."],
+      "de": ["Ich kaufe dieses Buch.", "Kannst du Essen kaufen?", "Wir kaufen im Geschäft."],
+      "ar": ["أشتري هذا الكتاب.", "هل يمكنك شراء الطعام؟", "نشتري في المتجر."],
+      "fr": ["J'achète ce livre.", "Peux-tu acheter de la nourriture?", "Nous achetons au magasin."],
+      "it": ["Compro questo libro.", "Puoi comprare cibo?", "Compriamo al negozio."],
+      "ru": ["Я покупаю эту книгу.", "Ты можешь купить еду?", "Мы покупаем в магазине."],
+      "es": ["Compro este libro.", "¿Puedes comprar comida?", "Compramos en la tienda."],
+      "pl": ["Kupuję tę książkę.", "Możesz kupić jedzenie?", "Kupujemy w sklepie."],
+      "fa": ["این کتاب را می‌خرم.", "می‌توانی غذا بخری؟", "در فروشگاه می‌خریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_542_en",
+    "word": "sell",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sell",
+      "de": "verkaufen",
+      "ar": "يبيع",
+      "fr": "vendre",
+      "it": "vendere",
+      "ru": "продавать",
+      "es": "vender",
+      "pl": "sprzedawać",
+      "fa": "فروختن"
+    },
+    "explanations": {
+      "en": "To give something to someone in exchange for money that they pay to you.",
+      "de": "Jemandem etwas geben im Austausch für Geld, das sie an Sie zahlen.",
+      "ar": "إعطاء شيء لشخص ما مقابل المال الذي يدفعه لك.",
+      "fr": "Donner quelque chose à quelqu'un en échange d'argent qu'il vous paie.",
+      "it": "Dare qualcosa a qualcuno in cambio di denaro che ti paga.",
+      "ru": "Давать что-то кому-то в обмен на деньги, которые они платят вам.",
+      "es": "Dar algo a alguien a cambio de dinero que te paga.",
+      "pl": "Dać coś komuś w zamian za pieniądze, które ci płaci.",
+      "fa": "دادن چیزی به کسی در ازای پولی که به شما می‌پردازد."
+    },
+    "examples": {
+      "en": ["I sell my car.", "Do you sell food?", "We sell it here."],
+      "de": ["Ich verkaufe mein Auto.", "Verkaufst du Essen?", "Wir verkaufen es hier."],
+      "ar": ["أبيع سيارتي.", "هل تبيع الطعام؟", "نبيعه هنا."],
+      "fr": ["Je vends ma voiture.", "Vends-tu de la nourriture?", "Nous le vendons ici."],
+      "it": ["Vendo la mia auto.", "Vendi cibo?", "Lo vendiamo qui."],
+      "ru": ["Я продаю свою машину.", "Ты продаёшь еду?", "Мы продаём это здесь."],
+      "es": ["Vendo mi coche.", "¿Vendes comida?", "Lo vendemos aquí."],
+      "pl": ["Sprzedaję mój samochód.", "Sprzedajesz jedzenie?", "Sprzedajemy to tutaj."],
+      "fa": ["ماشینم را می‌فروشم.", "غذا می‌فروشی؟", "آن را اینجا می‌فروشیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_543_en",
+    "word": "pay",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pay",
+      "de": "bezahlen",
+      "ar": "يدفع",
+      "fr": "payer",
+      "it": "pagare",
+      "ru": "платить",
+      "es": "pagar",
+      "pl": "płacić",
+      "fa": "پرداخت کردن"
+    },
+    "explanations": {
+      "en": "To give money to someone for goods, services, or because you owe them something.",
+      "de": "Jemandem Geld geben für Waren, Dienstleistungen oder weil man ihnen etwas schuldet.",
+      "ar": "إعطاء المال لشخص ما مقابل السلع أو الخدمات أو لأنك مدين له بشيء.",
+      "fr": "Donner de l'argent à quelqu'un pour des biens, services ou parce que vous lui devez quelque chose.",
+      "it": "Dare denaro a qualcuno per beni, servizi o perché gli devi qualcosa.",
+      "ru": "Давать деньги кому-то за товары, услуги или потому что вы должны им что-то.",
+      "es": "Dar dinero a alguien por bienes, servicios o porque le debes algo.",
+      "pl": "Dawać pieniądze komuś za towary, usługi lub ponieważ jesteś mu coś winien.",
+      "fa": "دادن پول به کسی برای کالاها، خدمات یا چون چیزی به او بدهکار هستید."
+    },
+    "examples": {
+      "en": ["I pay for food.", "Can you pay now?", "We pay at home."],
+      "de": ["Ich bezahle für Essen.", "Kannst du jetzt bezahlen?", "Wir bezahlen zu Hause."],
+      "ar": ["أدفع ثمن الطعام.", "هل يمكنك الدفع الآن؟", "ندفع في المنزل."],
+      "fr": ["Je paie pour la nourriture.", "Peux-tu payer maintenant?", "Nous payons à la maison."],
+      "it": ["Pago per il cibo.", "Puoi pagare ora?", "Paghiamo a casa."],
+      "ru": ["Я плачу за еду.", "Ты можешь заплатить сейчас?", "Мы платим дома."],
+      "es": ["Pago por la comida.", "¿Puedes pagar ahora?", "Pagamos en casa."],
+      "pl": ["Płacę za jedzenie.", "Możesz zapłacić teraz?", "Płacimy w domu."],
+      "fa": ["برای غذا پرداخت می‌کنم.", "می‌توانی الان پرداخت کنی؟", "در خانه پرداخت می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_544_en",
+    "word": "cost",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cost",
+      "de": "kosten",
+      "ar": "يكلف",
+      "fr": "coûter",
+      "it": "costare",
+      "ru": "стоить",
+      "es": "costar",
+      "pl": "kosztować",
+      "fa": "هزینه داشتن"
+    },
+    "explanations": {
+      "en": "To require a certain amount of money to be paid for something you want to get.",
+      "de": "Einen bestimmten Geldbetrag erfordern, um für etwas bezahlt zu werden, das man bekommen will.",
+      "ar": "أن يتطلب مبلغاً معيناً من المال ليتم دفعه مقابل شيء تريد الحصول عليه.",
+      "fr": "Nécessiter un certain montant d'argent à payer pour quelque chose que vous voulez obtenir.",
+      "it": "Richiedere una certa somma di denaro da pagare per qualcosa che vuoi ottenere.",
+      "ru": "Требовать определённую сумму денег для оплаты чего-то, что вы хотите получить.",
+      "es": "Requerir una cierta cantidad de dinero para pagar por algo que quieres obtener.",
+      "pl": "Wymagać określonej kwoty pieniędzy do zapłacenia za coś, co chcesz uzyskać.",
+      "fa": "نیاز به مقدار معینی پول برای پرداخت بابت چیزی که می‌خواهید بگیرید."
+    },
+    "examples": {
+      "en": ["This can cost five.", "How much does it cost?", "It cost a lot."],
+      "de": ["Das kann fünf kosten.", "Wie viel kostet es?", "Es kostete viel."],
+      "ar": ["يمكن أن يكلف هذا خمسة.", "كم يكلف؟", "كلف كثيراً."],
+      "fr": ["Ça peut coûter cinq.", "Combien ça coûte?", "Ça a coûté beaucoup."],
+      "it": ["Questo può costare cinque.", "Quanto costa?", "È costato molto."],
+      "ru": ["Это может стоить пять.", "Сколько это стоит?", "Это стоило много."],
+      "es": ["Esto puede costar cinco.", "¿Cuánto cuesta?", "Costó mucho."],
+      "pl": ["To może kosztować pięć.", "Ile to kosztuje?", "Kosztowało dużo."],
+      "fa": ["این می‌تواند پنج هزینه داشته باشد.", "چقدر هزینه دارد؟", "خیلی هزینه داشت."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_545_en",
+    "word": "spend",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "spend",
+      "de": "ausgeben",
+      "ar": "ينفق",
+      "fr": "dépenser",
+      "it": "spendere",
+      "ru": "тратить",
+      "es": "gastar",
+      "pl": "wydawać",
+      "fa": "خرج کردن"
+    },
+    "explanations": {
+      "en": "To use money to pay for things you want or need to buy.",
+      "de": "Geld verwenden, um für Dinge zu bezahlen, die man will oder kaufen muss.",
+      "ar": "استخدام المال لدفع ثمن الأشياء التي تريدها أو تحتاج إلى شرائها.",
+      "fr": "Utiliser de l'argent pour payer des choses que vous voulez ou avez besoin d'acheter.",
+      "it": "Usare denaro per pagare cose che vuoi o hai bisogno di comprare.",
+      "ru": "Использовать деньги, чтобы платить за вещи, которые вы хотите или должны купить.",
+      "es": "Usar dinero para pagar cosas que quieres o necesitas comprar.",
+      "pl": "Używać pieniędzy aby zapłacić za rzeczy, które chcesz lub musisz kupić.",
+      "fa": "استفاده از پول برای پرداخت بابت چیزهایی که می‌خواهید یا نیاز دارید بخرید."
+    },
+    "examples": {
+      "en": ["I spend my money.", "Don't spend too much.", "We can spend here."],
+      "de": ["Ich gebe mein Geld aus.", "Gib nicht zu viel aus.", "Wir können hier ausgeben."],
+      "ar": ["أنفق مالي.", "لا تنفق كثيراً.", "يمكننا أن ننفق هنا."],
+      "fr": ["Je dépense mon argent.", "Ne dépense pas trop.", "Nous pouvons dépenser ici."],
+      "it": ["Spendo i miei soldi.", "Non spendere troppo.", "Possiamo spendere qui."],
+      "ru": ["Я трачу свои деньги.", "Не трать слишком много.", "Мы можем тратить здесь."],
+      "es": ["Gasto mi dinero.", "No gastes demasiado.", "Podemos gastar aquí."],
+      "pl": ["Wydaję moje pieniądze.", "Nie wydawaj za dużo.", "Możemy wydawać tutaj."],
+      "fa": ["پولم را خرج می‌کنم.", "زیاد خرج نکن.", "می‌توانیم اینجا خرج کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_546_en",
+    "word": "save",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "save",
+      "de": "sparen",
+      "ar": "يوفر",
+      "fr": "économiser",
+      "it": "risparmiare",
+      "ru": "экономить",
+      "es": "ahorrar",
+      "pl": "oszczędzać",
+      "fa": "پس‌انداز کردن"
+    },
+    "explanations": {
+      "en": "To keep money instead of spending it, or to rescue someone or something from danger.",
+      "de": "Geld behalten anstatt es auszugeben, oder jemanden oder etwas vor Gefahr retten.",
+      "ar": "الاحتفاظ بالمال بدلاً من إنفاقه، أو إنقاذ شخص أو شيء من الخطر.",
+      "fr": "Garder de l'argent au lieu de le dépenser, ou sauver quelqu'un ou quelque chose du danger.",
+      "it": "Mantenere denaro invece di spenderlo, o salvare qualcuno o qualcosa dal pericolo.",
+      "ru": "Хранить деньги вместо траты, или спасать кого-то или что-то от опасности.",
+      "es": "Guardar dinero en lugar de gastarlo, o rescatar a alguien o algo del peligro.",
+      "pl": "Zachować pieniądze zamiast je wydawać, lub uratować kogoś lub coś przed niebezpieczeństwem.",
+      "fa": "نگه داشتن پول به جای خرج کردن آن، یا نجات دادن کسی یا چیزی از خطر."
+    },
+    "examples": {
+      "en": ["I save my money.", "Can you save this?", "We need to save."],
+      "de": ["Ich spare mein Geld.", "Kannst du das sparen?", "Wir müssen sparen."],
+      "ar": ["أوفر مالي.", "هل يمكنك توفير هذا؟", "نحتاج إلى التوفير."],
+      "fr": ["J'économise mon argent.", "Peux-tu économiser ça?", "Nous devons économiser."],
+      "it": ["Risparmio i miei soldi.", "Puoi risparmiare questo?", "Dobbiamo risparmiare."],
+      "ru": ["Я экономлю свои деньги.", "Ты можешь сохранить это?", "Нам нужно экономить."],
+      "es": ["Ahorro mi dinero.", "¿Puedes ahorrar esto?", "Necesitamos ahorrar."],
+      "pl": ["Oszczędzam moje pieniądze.", "Możesz to oszczędzić?", "Musimy oszczędzać."],
+      "fa": ["پولم را پس‌انداز می‌کنم.", "می‌توانی این را پس‌انداز کنی؟", "باید پس‌انداز کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_547_en",
+    "word": "earn",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "earn",
+      "de": "verdienen",
+      "ar": "يكسب",
+      "fr": "gagner",
+      "it": "guadagnare",
+      "ru": "зарабатывать",
+      "es": "ganar",
+      "pl": "zarabiać",
+      "fa": "درآمد داشتن"
+    },
+    "explanations": {
+      "en": "To receive money as payment for work you do or services you provide to others.",
+      "de": "Geld als Bezahlung für Arbeit erhalten, die man tut oder Dienstleistungen, die man anderen bietet.",
+      "ar": "الحصول على المال كدفع مقابل العمل الذي تقوم به أو الخدمات التي تقدمها للآخرين.",
+      "fr": "Recevoir de l'argent comme paiement pour le travail que vous faites ou les services que vous fournissez aux autres.",
+      "it": "Ricevere denaro come pagamento per il lavoro che fai o i servizi che fornisci agli altri.",
+      "ru": "Получать деньги в качестве оплаты за работу, которую вы делаете, или услуги, которые вы предоставляете другим.",
+      "es": "Recibir dinero como pago por el trabajo que haces o servicios que proporcionas a otros.",
+      "pl": "Otrzymywać pieniądze jako zapłatę za pracę, którą wykonujesz lub usługi, które świadczysz innym.",
+      "fa": "دریافت پول به عنوان پرداخت برای کاری که انجام می‌دهید یا خدماتی که به دیگران ارائه می‌دهید."
+    },
+    "examples": {
+      "en": ["I earn good money.", "How do you earn?", "We can earn here."],
+      "de": ["Ich verdiene gutes Geld.", "Wie verdienst du?", "Wir können hier verdienen."],
+      "ar": ["أكسب مالاً جيداً.", "كيف تكسب؟", "يمكننا أن نكسب هنا."],
+      "fr": ["Je gagne bien.", "Comment gagnes-tu?", "Nous pouvons gagner ici."],
+      "it": ["Guadagno bene.", "Come guadagni?", "Possiamo guadagnare qui."],
+      "ru": ["Я зарабатываю хорошие деньги.", "Как ты зарабатываешь?", "Мы можем зарабатывать здесь."],
+      "es": ["Gano buen dinero.", "¿Cómo ganas?", "Podemos ganar aquí."],
+      "pl": ["Zarabiam dobrze.", "Jak zarabiasz?", "Możemy zarabiać tutaj."],
+      "fa": ["پول خوبی درآمد دارم.", "چطوری درآمد داری؟", "می‌توانیم اینجا درآمد داشته باشیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_548_en",
+    "word": "work",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "work",
+      "de": "Arbeit",
+      "ar": "عمل",
+      "fr": "travail",
+      "it": "lavoro",
+      "ru": "работа",
+      "es": "trabajo",
+      "pl": "praca",
+      "fa": "کار"
+    },
+    "explanations": {
+      "en": "An activity or job that someone does regularly to earn money or achieve something.",
+      "de": "Eine Aktivität oder ein Job, den jemand regelmäßig macht, um Geld zu verdienen oder etwas zu erreichen.",
+      "ar": "نشاط أو وظيفة يقوم بها شخص ما بانتظام لكسب المال أو تحقيق شيء ما.",
+      "fr": "Une activité ou travail que quelqu'un fait régulièrement pour gagner de l'argent ou réaliser quelque chose.",
+      "it": "Un'attività o lavoro che qualcuno fa regolarmente per guadagnare denaro o raggiungere qualcosa.",
+      "ru": "Деятельность или работа, которую кто-то делает регулярно, чтобы зарабатывать деньги или достигать чего-то.",
+      "es": "Una actividad o trabajo que alguien hace regularmente para ganar dinero o lograr algo.",
+      "pl": "Aktywność lub praca, którą ktoś wykonuje regularnie aby zarabiać pieniądze lub osiągnąć coś.",
+      "fa": "فعالیت یا شغلی که کسی به طور منظم انجام می‌دهد تا پول دربیاورد یا به چیزی دست یابد."
+    },
+    "examples": {
+      "en": ["I have good work.", "This is my work.", "Do you like work?"],
+      "de": ["Ich habe gute Arbeit.", "Das ist meine Arbeit.", "Magst du Arbeit?"],
+      "ar": ["لدي عمل جيد.", "هذا عملي.", "هل تحب العمل؟"],
+      "fr": ["J'ai un bon travail.", "C'est mon travail.", "Aimes-tu le travail?"],
+      "it": ["Ho un buon lavoro.", "Questo è il mio lavoro.", "Ti piace il lavoro?"],
+      "ru": ["У меня хорошая работа.", "Это моя работа.", "Тебе нравится работа?"],
+      "es": ["Tengo buen trabajo.", "Este es mi trabajo.", "¿Te gusta el trabajo?"],
+      "pl": ["Mam dobrą pracę.", "To jest moja praca.", "Lubisz pracę?"],
+      "fa": ["کار خوبی دارم.", "این کار من است.", "کار را دوست داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_549_en",
+    "word": "job",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "job",
+      "de": "Job",
+      "ar": "وظيفة",
+      "fr": "emploi",
+      "it": "lavoro",
+      "ru": "работа",
+      "es": "empleo",
+      "pl": "praca",
+      "fa": "شغل"
+    },
+    "explanations": {
+      "en": "A regular paid position of employment where you perform specific tasks or duties.",
+      "de": "Eine regelmäßige bezahlte Beschäftigung, bei der man bestimmte Aufgaben oder Pflichten erfüllt.",
+      "ar": "منصب عمل مدفوع بانتظام حيث تؤدي مهام أو واجبات محددة.",
+      "fr": "Un poste rémunéré régulier d'emploi où vous effectuez des tâches ou devoirs spécifiques.",
+      "it": "Una posizione retribuita regolare di impiego dove esegui compiti o doveri specifici.",
+      "ru": "Регулярная оплачиваемая должность, где вы выполняете конкретные задачи или обязанности.",
+      "es": "Un puesto remunerado regular de empleo donde realizas tareas o deberes específicos.",
+      "pl": "Regularne płatne stanowisko pracy, gdzie wykonujesz określone zadania lub obowiązki.",
+      "fa": "موقعیت شغلی با حقوق منظم که در آن وظایف یا کارهای خاصی انجام می‌دهید."
+    },
+    "examples": {
+      "en": ["I have a job.", "This is my job.", "Do you want job?"],
+      "de": ["Ich habe einen Job.", "Das ist mein Job.", "Willst du einen Job?"],
+      "ar": ["لدي وظيفة.", "هذه وظيفتي.", "هل تريد وظيفة؟"],
+      "fr": ["J'ai un emploi.", "C'est mon emploi.", "Veux-tu un emploi?"],
+      "it": ["Ho un lavoro.", "Questo è il mio lavoro.", "Vuoi un lavoro?"],
+      "ru": ["У меня есть работа.", "Это моя работа.", "Ты хочешь работу?"],
+      "es": ["Tengo un empleo.", "Este es mi empleo.", "¿Quieres empleo?"],
+      "pl": ["Mam pracę.", "To jest moja praca.", "Chcesz pracę?"],
+      "fa": ["من شغل دارم.", "این شغل من است.", "شغل می‌خواهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_550_en",
+    "word": "money",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "money",
+      "de": "Geld",
+      "ar": "مال",
+      "fr": "argent",
+      "it": "denaro",
+      "ru": "деньги",
+      "es": "dinero",
+      "pl": "pieniądze",
+      "fa": "پول"
+    },
+    "explanations": {
+      "en": "Coins or paper bills used as a medium of exchange to buy things or pay for services.",
+      "de": "Münzen oder Geldscheine, die als Tauschmittel verwendet werden, um Dinge zu kaufen oder für Dienstleistungen zu bezahlen.",
+      "ar": "عملات معدنية أو أوراق نقدية تستخدم كوسيلة للتبادل لشراء الأشياء أو الدفع مقابل الخدمات.",
+      "fr": "Pièces ou billets de banque utilisés comme moyen d'échange pour acheter des choses ou payer des services.",
+      "it": "Monete o banconote usate come mezzo di scambio per comprare cose o pagare servizi.",
+      "ru": "Монеты или бумажные купюры, используемые как средство обмена для покупки вещей или оплаты услуг.",
+      "es": "Monedas o billetes de papel usados como medio de intercambio para comprar cosas o pagar servicios.",
+      "pl": "Monety lub banknoty używane jako środek wymiany do kupowania rzeczy lub płacenia za usługi.",
+      "fa": "سکه‌ها یا اسکناس‌های کاغذی که به عنوان وسیله مبادله برای خرید چیزها یا پرداخت بابت خدمات استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I have no money.", "Can you give money?", "I need some money."],
+      "de": ["Ich habe kein Geld.", "Kannst du Geld geben?", "Ich brauche etwas Geld."],
+      "ar": ["ليس لدي مال.", "هل يمكنك إعطاء المال؟", "أحتاج بعض المال."],
+      "fr": ["Je n'ai pas d'argent.", "Peux-tu donner de l'argent?", "J'ai besoin d'argent."],
+      "it": ["Non ho denaro.", "Puoi dare denaro?", "Ho bisogno di denaro."],
+      "ru": ["У меня нет денег.", "Ты можешь дать деньги?", "Мне нужны деньги."],
+      "es": ["No tengo dinero.", "¿Puedes dar dinero?", "Necesito dinero."],
+      "pl": ["Nie mam pieniędzy.", "Możesz dać pieniądze?", "Potrzebuję pieniędzy."],
+      "fa": ["پول ندارم.", "می‌توانی پول بدهی؟", "به پول نیاز دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_551_en",
+    "word": "price",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "price",
+      "de": "Preis",
+      "ar": "سعر",
+      "fr": "prix",
+      "it": "prezzo",
+      "ru": "цена",
+      "es": "precio",
+      "pl": "cena",
+      "fa": "قیمت"
+    },
+    "explanations": {
+      "en": "The amount of money that you must pay to buy something or receive a service.",
+      "de": "Der Geldbetrag, den man zahlen muss, um etwas zu kaufen oder eine Dienstleistung zu erhalten.",
+      "ar": "مقدار المال الذي يجب عليك دفعه لشراء شيء أو الحصول على خدمة.",
+      "fr": "Le montant d'argent que vous devez payer pour acheter quelque chose ou recevoir un service.",
+      "it": "La somma di denaro che devi pagare per comprare qualcosa o ricevere un servizio.",
+      "ru": "Сумма денег, которую вы должны заплатить, чтобы купить что-то или получить услугу.",
+      "es": "La cantidad de dinero que debes pagar para comprar algo o recibir un servicio.",
+      "pl": "Kwota pieniędzy, którą musisz zapłacić aby kupić coś lub otrzymać usługę.",
+      "fa": "مقدار پولی که باید بپردازید تا چیزی بخرید یا خدمتی دریافت کنید."
+    },
+    "examples": {
+      "en": ["What is the price?", "This price is good.", "I know the price."],
+      "de": ["Was ist der Preis?", "Dieser Preis ist gut.", "Ich kenne den Preis."],
+      "ar": ["ما هو السعر؟", "هذا السعر جيد.", "أعرف السعر."],
+      "fr": ["Quel est le prix?", "Ce prix est bon.", "Je connais le prix."],
+      "it": ["Qual è il prezzo?", "Questo prezzo è buono.", "Conosco il prezzo."],
+      "ru": ["Какая цена?", "Эта цена хорошая.", "Я знаю цену."],
+      "es": ["¿Cuál es el precio?", "Este precio es bueno.", "Conozco el precio."],
+      "pl": ["Jaka jest cena?", "Ta cena jest dobra.", "Znam cenę."],
+      "fa": ["قیمت چقدر است؟", "این قیمت خوب است.", "قیمت را می‌دانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_552_en",
+    "word": "free",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "free",
+      "de": "kostenlos",
+      "ar": "مجاني",
+      "fr": "gratuit",
+      "it": "gratuito",
+      "ru": "бесплатный",
+      "es": "gratis",
+      "pl": "bezpłatny",
+      "fa": "رایگان"
+    },
+    "explanations": {
+      "en": "Not costing any money, or not having to pay for something you receive.",
+      "de": "Kein Geld kosten, oder nicht für etwas bezahlen müssen, das man erhält.",
+      "ar": "لا يكلف أي مال، أو عدم الحاجة إلى الدفع مقابل شيء تحصل عليه.",
+      "fr": "Ne coûtant pas d'argent, ou ne pas avoir à payer pour quelque chose que vous recevez.",
+      "it": "Non costare denaro, o non dover pagare per qualcosa che ricevi.",
+      "ru": "Не стоящий денег, или не требующий платы за то, что вы получаете.",
+      "es": "No costar dinero, o no tener que pagar por algo que recibes.",
+      "pl": "Nie kosztować pieniędzy, lub nie musieć płacić za coś, co otrzymujesz.",
+      "fa": "هزینه‌ای نداشتن، یا مجبور نبودن به پرداخت برای چیزی که دریافت می‌کنید."
+    },
+    "examples": {
+      "en": ["This is free today.", "I get it free.", "Is this food free?"],
+      "de": ["Das ist heute kostenlos.", "Ich bekomme es kostenlos.", "Ist dieses Essen kostenlos?"],
+      "ar": ["هذا مجاني اليوم.", "أحصل عليه مجاناً.", "هل هذا الطعام مجاني؟"],
+      "fr": ["C'est gratuit aujourd'hui.", "Je l'obtiens gratuit.", "Cette nourriture est gratuite?"],
+      "it": ["Questo è gratuito oggi.", "Lo ottengo gratis.", "Questo cibo è gratuito?"],
+      "ru": ["Это бесплатно сегодня.", "Я получаю это бесплатно.", "Эта еда бесплатная?"],
+      "es": ["Esto es gratis hoy.", "Lo obtengo gratis.", "¿Esta comida es gratis?"],
+      "pl": ["To jest dzisiaj bezpłatne.", "Dostaję to bezpłatnie.", "To jedzenie jest bezpłatne?"],
+      "fa": ["این امروز رایگان است.", "آن را رایگان می‌گیرم.", "این غذا رایگان است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_553_en",
+    "word": "cheap",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cheap",
+      "de": "billig",
+      "ar": "رخيص",
+      "fr": "bon marché",
+      "it": "economico",
+      "ru": "дешёвый",
+      "es": "barato",
+      "pl": "tani",
+      "fa": "ارزان"
+    },
+    "explanations": {
+      "en": "Costing little money or less than expected, making it affordable for most people.",
+      "de": "Wenig Geld kosten oder weniger als erwartet, wodurch es für die meisten Menschen erschwinglich wird.",
+      "ar": "يكلف القليل من المال أو أقل من المتوقع، مما يجعله في متناول معظم الناس.",
+      "fr": "Coûtant peu d'argent ou moins que prévu, le rendant abordable pour la plupart des gens.",
+      "it": "Costare poco denaro o meno del previsto, rendendolo accessibile per la maggior parte delle persone.",
+      "ru": "Стоящий мало денег или меньше, чем ожидалось, что делает его доступным для большинства людей.",
+      "es": "Costar poco dinero o menos de lo esperado, haciéndolo asequible para la mayoría de la gente.",
+      "pl": "Kosztować mało pieniędzy lub mniej niż oczekiwano, czyniąc to przystępnym dla większości ludzi.",
+      "fa": "هزینه کم داشتن یا کمتر از حد انتظار، که آن را برای اکثر مردم مقرون به صرفه می‌کند."
+    },
+    "examples": {
+      "en": ["This is very cheap.", "I buy cheap food.", "It is not cheap."],
+      "de": ["Das ist sehr billig.", "Ich kaufe billiges Essen.", "Es ist nicht billig."],
+      "ar": ["هذا رخيص جداً.", "أشتري طعاماً رخيصاً.", "إنه ليس رخيصاً."],
+      "fr": ["C'est très bon marché.", "J'achète de la nourriture bon marché.", "Ce n'est pas bon marché."],
+      "it": ["Questo è molto economico.", "Compro cibo economico.", "Non è economico."],
+      "ru": ["Это очень дешёво.", "Я покупаю дешёвую еду.", "Это не дешёво."],
+      "es": ["Esto es muy barato.", "Compro comida barata.", "No es barato."],
+      "pl": ["To jest bardzo tanie.", "Kupuję tanie jedzenie.", "To nie jest tanie."],
+      "fa": ["این خیلی ارزان است.", "غذای ارزان می‌خرم.", "ارزان نیست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_554_en",
+    "word": "expensive",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "expensive",
+      "de": "teuer",
+      "ar": "غالي",
+      "fr": "cher",
+      "it": "costoso",
+      "ru": "дорогой",
+      "es": "caro",
+      "pl": "drogi",
+      "fa": "گران"
+    },
+    "explanations": {
+      "en": "Costing a lot of money or more than expected, making it difficult for many people to afford.",
+      "de": "Viel Geld kosten oder mehr als erwartet, wodurch es für viele Menschen schwierig wird, es sich zu leisten.",
+      "ar": "يكلف الكثير من المال أو أكثر من المتوقع، مما يجعل من الصعب على كثير من الناس تحمله.",
+      "fr": "Coûtant beaucoup d'argent ou plus que prévu, rendant difficile pour beaucoup de gens de se le permettre.",
+      "it": "Costare molto denaro o più del previsto, rendendo difficile per molte persone permetterselo.",
+      "ru": "Стоящий много денег или больше, чем ожидалось, что затрудняет покупку для многих людей.",
+      "es": "Costar mucho dinero o más de lo esperado, haciendo difícil para muchas personas permitírselo.",
+      "pl": "Kosztować dużo pieniędzy lub więcej niż oczekiwano, utrudniając wielu ludziom na to pozwolić.",
+      "fa": "هزینه زیاد داشتن یا بیشتر از حد انتظار، که خرید آن را برای بسیاری مشکل می‌کند."
+    },
+    "examples": {
+      "en": ["This is too expensive.", "I can't buy expensive.", "It is very expensive."],
+      "de": ["Das ist zu teuer.", "Ich kann nicht teuer kaufen.", "Es ist sehr teuer."],
+      "ar": ["هذا غالٍ جداً.", "لا أستطيع شراء الغالي.", "إنه غالٍ جداً."],
+      "fr": ["C'est trop cher.", "Je ne peux pas acheter cher.", "C'est très cher."],
+      "it": ["Questo è troppo costoso.", "Non posso comprare costoso.", "È molto costoso."],
+      "ru": ["Это слишком дорого.", "Я не могу купить дорогое.", "Это очень дорого."],
+      "es": ["Esto es demasiado caro.", "No puedo comprar caro.", "Es muy caro."],
+      "pl": ["To jest za drogie.", "Nie mogę kupić drogiego.", "Jest bardzo drogie."],
+      "fa": ["این خیلی گران است.", "نمی‌توانم گران بخرم.", "خیلی گران است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_555_en",
+    "word": "shop",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shop",
+      "de": "Geschäft",
+      "ar": "متجر",
+      "fr": "magasin",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "فروشگاه"
+    },
+    "explanations": {
+      "en": "A building or room where goods are sold to customers who come to buy them.",
+      "de": "Ein Gebäude oder Raum, wo Waren an Kunden verkauft werden, die kommen, um sie zu kaufen.",
+      "ar": "مبنى أو غرفة حيث تُباع السلع للعملاء الذين يأتون لشرائها.",
+      "fr": "Un bâtiment ou pièce où des marchandises sont vendues aux clients qui viennent les acheter.",
+      "it": "Un edificio o stanza dove le merci sono vendute ai clienti che vengono a comprarle.",
+      "ru": "Здание или комната, где товары продаются клиентам, которые приходят их купить.",
+      "es": "Un edificio o habitación donde se venden bienes a clientes que vienen a comprarlos.",
+      "pl": "Budynek lub pomieszczenie, gdzie towary są sprzedawane klientom, którzy przychodzą je kupić.",
+      "fa": "ساختمان یا اتاقی که در آن کالاها به مشتریانی که می‌آیند تا بخرند، فروخته می‌شود."
+    },
+    "examples": {
+      "en": ["I go to shop.", "This shop is good.", "Is that a shop?"],
+      "de": ["Ich gehe zum Geschäft.", "Dieses Geschäft ist gut.", "Ist das ein Geschäft?"],
+      "ar": ["أذهب إلى المتجر.", "هذا المتجر جيد.", "هل ذلك متجر؟"],
+      "fr": ["Je vais au magasin.", "Ce magasin est bon.", "Est-ce un magasin?"],
+      "it": ["Vado al negozio.", "Questo negozio è buono.", "È un negozio?"],
+      "ru": ["Я иду в магазин.", "Этот магазин хороший.", "Это магазин?"],
+      "es": ["Voy a la tienda.", "Esta tienda es buena.", "¿Es eso una tienda?"],
+      "pl": ["Idę do sklepu.", "Ten sklep jest dobry.", "Czy to sklep?"],
+      "fa": ["به فروشگاه می‌روم.", "این فروشگاه خوب است.", "آن فروشگاه است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_556_en",
+    "word": "store",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "store",
+      "de": "Laden",
+      "ar": "متجر",
+      "fr": "magasin",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "مغازه"
+    },
+    "explanations": {
+      "en": "A place where goods are kept and sold, often larger than a shop.",
+      "de": "Ein Ort, wo Waren aufbewahrt und verkauft werden, oft größer als ein Geschäft.",
+      "ar": "مكان حيث يتم الاحتفاظ بالسلع وبيعها، غالباً أكبر من متجر.",
+      "fr": "Un endroit où des marchandises sont gardées et vendues, souvent plus grand qu'un magasin.",
+      "it": "Un luogo dove le merci sono tenute e vendute, spesso più grande di un negozio.",
+      "ru": "Место, где товары хранятся и продаются, часто больше, чем магазин.",
+      "es": "Un lugar donde se guardan y venden bienes, a menudo más grande que una tienda.",
+      "pl": "Miejsce, gdzie towary są przechowywane i sprzedawane, często większe niż sklep.",
+      "fa": "جایی که کالاها نگهداری و فروخته می‌شوند، اغلب بزرگتر از فروشگاه."
+    },
+    "examples": {
+      "en": ["I go to store.", "This store is big.", "Where is the store?"],
+      "de": ["Ich gehe zum Laden.", "Dieser Laden ist groß.", "Wo ist der Laden?"],
+      "ar": ["أذهب إلى المتجر.", "هذا المتجر كبير.", "أين المتجر؟"],
+      "fr": ["Je vais au magasin.", "Ce magasin est grand.", "Où est le magasin?"],
+      "it": ["Vado al negozio.", "Questo negozio è grande.", "Dov'è il negozio?"],
+      "ru": ["Я иду в магазин.", "Этот магазин большой.", "Где магазин?"],
+      "es": ["Voy a la tienda.", "Esta tienda es grande.", "¿Dónde está la tienda?"],
+      "pl": ["Idę do sklepu.", "Ten sklep jest duży.", "Gdzie jest sklep?"],
+      "fa": ["به مغازه می‌روم.", "این مغازه بزرگ است.", "مغازه کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_557_en",
+    "word": "market",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "market",
+      "de": "Markt",
+      "ar": "سوق",
+      "fr": "marché",
+      "it": "mercato",
+      "ru": "рынок",
+      "es": "mercado",
+      "pl": "rynek",
+      "fa": "بازار"
+    },
+    "explanations": {
+      "en": "A place where people buy and sell goods, often with many different sellers in one area.",
+      "de": "Ein Ort, wo Menschen Waren kaufen und verkaufen, oft mit vielen verschiedenen Verkäufern in einem Bereich.",
+      "ar": "مكان حيث يشتري ويبيع الناس السلع، غالباً مع العديد من البائعين المختلفين في منطقة واحدة.",
+      "fr": "Un endroit où les gens achètent et vendent des marchandises, souvent avec de nombreux vendeurs différents dans une zone.",
+      "it": "Un luogo dove le persone comprano e vendono merci, spesso con molti venditori diversi in un'area.",
+      "ru": "Место, где люди покупают и продают товары, часто с множеством разных продавцов в одной области.",
+      "es": "Un lugar donde la gente compra y vende bienes, a menudo con muchos vendedores diferentes en una área.",
+      "pl": "Miejsce, gdzie ludzie kupują i sprzedają towary, często z wieloma różnymi sprzedawcami w jednym obszarze.",
+      "fa": "جایی که مردم کالاها را می‌خرند و می‌فروشند، اغلب با فروشندگان مختلف زیاد در یک منطقه."
+    },
+    "examples": {
+      "en": ["I go to market.", "The market is open.", "Is this a market?"],
+      "de": ["Ich gehe zum Markt.", "Der Markt ist offen.", "Ist das ein Markt?"],
+      "ar": ["أذهب إلى السوق.", "السوق مفتوح.", "هل هذا سوق؟"],
+      "fr": ["Je vais au marché.", "Le marché est ouvert.", "Est-ce un marché?"],
+      "it": ["Vado al mercato.", "Il mercato è aperto.", "È un mercato?"],
+      "ru": ["Я иду на рынок.", "Рынок открыт.", "Это рынок?"],
+      "es": ["Voy al mercado.", "El mercado está abierto.", "¿Es esto un mercado?"],
+      "pl": ["Idę na rynek.", "Rynek jest otwarty.", "Czy to rynek?"],
+      "fa": ["به بازار می‌روم.", "بازار باز است.", "این بازار است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_558_en",
+    "word": "customer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "customer",
+      "de": "Kunde",
+      "ar": "زبون",
+      "fr": "client",
+      "it": "cliente",
+      "ru": "клиент",
+      "es": "cliente",
+      "pl": "klient",
+      "fa": "مشتری"
+    },
+    "explanations": {
+      "en": "A person who buys goods or services from a shop, business, or company.",
+      "de": "Eine Person, die Waren oder Dienstleistungen von einem Geschäft, Unternehmen oder Firma kauft.",
+      "ar": "شخص يشتري سلعاً أو خدمات من متجر أو شركة أو مؤسسة.",
+      "fr": "Une personne qui achète des biens ou services d'un magasin, entreprise ou compagnie.",
+      "it": "Una persona che compra beni o servizi da un negozio, azienda o impresa.",
+      "ru": "Человек, который покупает товары или услуги в магазине, бизнесе или компании.",
+      "es": "Una persona que compra bienes o servicios de una tienda, negocio o empresa.",
+      "pl": "Osoba, która kupuje towary lub usługi ze sklepu, firmy lub przedsiębiorstwa.",
+      "fa": "شخصی که کالاها یا خدمات را از فروشگاه، کسب‌وکار یا شرکت می‌خرد."
+    },
+    "examples": {
+      "en": ["I am a customer.", "The customer is here.", "We have good customers."],
+      "de": ["Ich bin ein Kunde.", "Der Kunde ist hier.", "Wir haben gute Kunden."],
+      "ar": ["أنا زبون.", "الزبون هنا.", "لدينا زبائن جيدون."],
+      "fr": ["Je suis un client.", "Le client est ici.", "Nous avons de bons clients."],
+      "it": ["Sono un cliente.", "Il cliente è qui.", "Abbiamo buoni clienti."],
+      "ru": ["Я клиент.", "Клиент здесь.", "У нас хорошие клиенты."],
+      "es": ["Soy un cliente.", "El cliente está aquí.", "Tenemos buenos clientes."],
+      "pl": ["Jestem klientem.", "Klient jest tutaj.", "Mamy dobrych klientów."],
+      "fa": ["من یک مشتری هستم.", "مشتری اینجاست.", "ما مشتری‌های خوبی داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_559_en",
+    "word": "product",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "product",
+      "de": "Produkt",
+      "ar": "منتج",
+      "fr": "produit",
+      "it": "prodotto",
+      "ru": "продукт",
+      "es": "producto",
+      "pl": "produkt",
+      "fa": "محصول"
+    },
+    "explanations": {
+      "en": "Something that is made or grown to be sold to people who want or need it.",
+      "de": "Etwas, das hergestellt oder angebaut wird, um an Menschen verkauft zu werden, die es wollen oder brauchen.",
+      "ar": "شيء يتم صنعه أو زراعته ليتم بيعه لأشخاص يريدونه أو يحتاجونه.",
+      "fr": "Quelque chose qui est fabriqué ou cultivé pour être vendu aux gens qui le veulent ou en ont besoin.",
+      "it": "Qualcosa che è fatto o coltivato per essere venduto a persone che lo vogliono o ne hanno bisogno.",
+      "ru": "Что-то, что сделано или выращено для продажи людям, которые хотят или нуждаются в этом.",
+      "es": "Algo que se fabrica o cultiva para ser vendido a personas que lo quieren o lo necesitan.",
+      "pl": "Coś, co jest zrobione lub uprawiane aby być sprzedanym ludziom, którzy tego chcą lub potrzebują.",
+      "fa": "چیزی که ساخته یا رشد داده می‌شود تا به افرادی که آن را می‌خواهند یا نیاز دارند فروخته شود."
+    },
+    "examples": {
+      "en": ["This is good product.", "I buy this product.", "We sell many products."],
+      "de": ["Das ist ein gutes Produkt.", "Ich kaufe dieses Produkt.", "Wir verkaufen viele Produkte."],
+      "ar": ["هذا منتج جيد.", "أشتري هذا المنتج.", "نبيع منتجات كثيرة."],
+      "fr": ["C'est un bon produit.", "J'achète ce produit.", "Nous vendons beaucoup de produits."],
+      "it": ["Questo è un buon prodotto.", "Compro questo prodotto.", "Vendiamo molti prodotti."],
+      "ru": ["Это хороший продукт.", "Я покупаю этот продукт.", "Мы продаём много продуктов."],
+      "es": ["Este es un buen producto.", "Compro este producto.", "Vendemos muchos productos."],
+      "pl": ["To jest dobry produkt.", "Kupuję ten produkt.", "Sprzedajemy wiele produktów."],
+      "fa": ["این محصول خوبی است.", "این محصول را می‌خرم.", "ما محصولات زیادی می‌فروشیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_560_en",
+    "word": "service",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "service",
+      "de": "Dienstleistung",
+      "ar": "خدمة",
+      "fr": "service",
+      "it": "servizio",
+      "ru": "услуга",
+      "es": "servicio",
+      "pl": "usługa",
+      "fa": "خدمت"
+    },
+    "explanations": {
+      "en": "Work that someone does for you or help that is provided to meet your needs.",
+      "de": "Arbeit, die jemand für Sie tut oder Hilfe, die bereitgestellt wird, um Ihre Bedürfnisse zu erfüllen.",
+      "ar": "عمل يقوم به شخص ما من أجلك أو مساعدة يتم تقديمها لتلبية احتياجاتك.",
+      "fr": "Travail que quelqu'un fait pour vous ou aide fournie pour répondre à vos besoins.",
+      "it": "Lavoro che qualcuno fa per te o aiuto fornito per soddisfare le tue esigenze.",
+      "ru": "Работа, которую кто-то делает для вас, или помощь, предоставляемая для удовлетворения ваших потребностей.",
+      "es": "Trabajo que alguien hace por ti o ayuda que se proporciona para satisfacer tus necesidades.",
+      "pl": "Praca, którą ktoś wykonuje dla ciebie lub pomoc, która jest zapewniana aby spełnić twoje potrzeby.",
+      "fa": "کاری که کسی برای شما انجام می‌دهد یا کمکی که برای برآوردن نیازهای شما ارائه می‌شود."
+    },
+    "examples": {
+      "en": ["This is good service.", "I need this service.", "We provide good service."],
+      "de": ["Das ist guter Service.", "Ich brauche diesen Service.", "Wir bieten guten Service."],
+      "ar": ["هذه خدمة جيدة.", "أحتاج هذه الخدمة.", "نقدم خدمة جيدة."],
+      "fr": ["C'est un bon service.", "J'ai besoin de ce service.", "Nous fournissons un bon service."],
+      "it": ["Questo è un buon servizio.", "Ho bisogno di questo servizio.", "Forniamo un buon servizio."],
+      "ru": ["Это хорошая услуга.", "Мне нужна эта услуга.", "Мы предоставляем хорошую услугу."],
+      "es": ["Este es un buen servicio.", "Necesito este servicio.", "Proporcionamos buen servicio."],
+      "pl": ["To jest dobra usługa.", "Potrzebuję tej usługi.", "Świadczymy dobrą usługę."],
+      "fa": ["این خدمت خوبی است.", "به این خدمت نیاز دارم.", "ما خدمت خوبی ارائه می‌دهیم."]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_521_en",
+    "word": "start",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "start",
+      "de": "anfangen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "iniziare",
+      "ru": "начинать",
+      "es": "empezar",
+      "pl": "zaczynać",
+      "fa": "شروع کردن"
+    },
+    "explanations": {
+      "en": "To begin doing something or to cause something to begin happening or operating.",
+      "de": "Anfangen, etwas zu tun oder etwas zum Beginnen oder Funktionieren bringen.",
+      "ar": "البدء في فعل شيء أو التسبب في بدء حدوث شيء أو تشغيله.",
+      "fr": "Commencer à faire quelque chose ou faire en sorte que quelque chose commence à se produire ou fonctionner.",
+      "it": "Iniziare a fare qualcosa o far sì che qualcosa inizi a succedere o funzionare.",
+      "ru": "Начинать делать что-то или заставлять что-то начать происходить или работать.",
+      "es": "Empezar a hacer algo o causar que algo empiece a suceder o funcionar.",
+      "pl": "Zacząć coś robić lub spowodować, że coś zaczyna się dziać lub działać.",
+      "fa": "شروع کردن انجام کاری یا باعث شدن که چیزی شروع به اتفاق افتادن یا کار کند."
+    },
+    "examples": {
+      "en": ["I start work now.", "Let's start this.", "Can we start today?"],
+      "de": ["Ich fange jetzt an zu arbeiten.", "Lass uns das anfangen.", "Können wir heute anfangen?"],
+      "ar": ["أبدأ العمل الآن.", "لنبدأ هذا.", "هل يمكننا أن نبدأ اليوم؟"],
+      "fr": ["Je commence le travail maintenant.", "Commençons ça.", "Pouvons-nous commencer aujourd'hui?"],
+      "it": ["Inizio il lavoro ora.", "Iniziamo questo.", "Possiamo iniziare oggi?"],
+      "ru": ["Я начинаю работу сейчас.", "Давай начнём это.", "Можем мы начать сегодня?"],
+      "es": ["Empiezo el trabajo ahora.", "Empecemos esto.", "¿Podemos empezar hoy?"],
+      "pl": ["Zaczynam pracę teraz.", "Zacznijmy to.", "Czy możemy zacząć dziś?"],
+      "fa": ["من الان کار را شروع می‌کنم.", "بیا این را شروع کنیم.", "می‌توانیم امروز شروع کنیم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_522_en",
+    "word": "stop",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "stop",
+      "de": "aufhören",
+      "ar": "يتوقف",
+      "fr": "arrêter",
+      "it": "fermare",
+      "ru": "останавливать",
+      "es": "parar",
+      "pl": "zatrzymywać",
+      "fa": "متوقف کردن"
+    },
+    "explanations": {
+      "en": "To end an action or activity, or to cause something to cease moving or operating.",
+      "de": "Eine Handlung oder Aktivität beenden oder etwas zum Stillstand oder Ende bringen.",
+      "ar": "إنهاء فعل أو نشاط، أو التسبب في توقف شيء عن الحركة أو العمل.",
+      "fr": "Terminer une action ou activité, ou faire en sorte que quelque chose cesse de bouger ou fonctionner.",
+      "it": "Terminare un'azione o attività, o far sì che qualcosa smetta di muoversi o funzionare.",
+      "ru": "Заканчивать действие или деятельность, или заставлять что-то прекратить движение или работу.",
+      "es": "Terminar una acción o actividad, o hacer que algo cese de moverse o funcionar.",
+      "pl": "Zakończyć akcję lub aktywność, lub spowodować, że coś przestanie się ruszać lub działać.",
+      "fa": "پایان دادن به عمل یا فعالیت، یا باعث شدن که چیزی از حرکت یا کار متوقف شود."
+    },
+    "examples": {
+      "en": ["Please stop here.", "I stop work now.", "Can you stop this?"],
+      "de": ["Bitte hör hier auf.", "Ich höre jetzt auf zu arbeiten.", "Kannst du das stoppen?"],
+      "ar": ["من فضلك توقف هنا.", "أتوقف عن العمل الآن.", "هل يمكنك إيقاف هذا؟"],
+      "fr": ["Arrête-toi ici s'il te plaît.", "J'arrête le travail maintenant.", "Peux-tu arrêter ça?"],
+      "it": ["Per favore fermati qui.", "Smetto il lavoro ora.", "Puoi fermare questo?"],
+      "ru": ["Пожалуйста, останови здесь.", "Я останавливаю работу сейчас.", "Ты можешь остановить это?"],
+      "es": ["Para aquí por favor.", "Paro el trabajo ahora.", "¿Puedes parar esto?"],
+      "pl": ["Proszę, zatrzymaj się tutaj.", "Zatrzymuję pracę teraz.", "Możesz to zatrzymać?"],
+      "fa": ["لطفا اینجا متوقف شو.", "من الان کار را متوقف می‌کنم.", "می‌توانی این را متوقف کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_523_en",
+    "word": "begin",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "begin",
+      "de": "beginnen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "cominciare",
+      "ru": "начинать",
+      "es": "comenzar",
+      "pl": "zaczynać",
+      "fa": "آغاز کردن"
+    },
+    "explanations": {
+      "en": "To start doing something or to take the first step in an action or process.",
+      "de": "Anfangen, etwas zu tun oder den ersten Schritt in einer Aktion oder einem Prozess machen.",
+      "ar": "البدء في فعل شيء أو اتخاذ الخطوة الأولى في عمل أو عملية.",
+      "fr": "Commencer à faire quelque chose ou faire le premier pas dans une action ou processus.",
+      "it": "Iniziare a fare qualcosa o fare il primo passo in un'azione o processo.",
+      "ru": "Начинать делать что-то или делать первый шаг в действии или процессе.",
+      "es": "Comenzar a hacer algo o dar el primer paso en una acción o proceso.",
+      "pl": "Zacząć coś robić lub wykonać pierwszy krok w akcji lub procesie.",
+      "fa": "شروع کردن انجام کاری یا برداشتن اولین قدم در عمل یا فرآیند."
+    },
+    "examples": {
+      "en": ["Let's begin now.", "I begin to work.", "We can begin here."],
+      "de": ["Lass uns jetzt beginnen.", "Ich beginne zu arbeiten.", "Wir können hier beginnen."],
+      "ar": ["لنبدأ الآن.", "أبدأ في العمل.", "يمكننا أن نبدأ هنا."],
+      "fr": ["Commençons maintenant.", "Je commence à travailler.", "Nous pouvons commencer ici."],
+      "it": ["Cominciamo ora.", "Comincio a lavorare.", "Possiamo cominciare qui."],
+      "ru": ["Давай начнём сейчас.", "Я начинаю работать.", "Мы можем начать здесь."],
+      "es": ["Comencemos ahora.", "Comienzo a trabajar.", "Podemos comenzar aquí."],
+      "pl": ["Zacznijmy teraz.", "Zaczynam pracować.", "Możemy zacząć tutaj."],
+      "fa": ["بیا الان آغاز کنیم.", "شروع به کار می‌کنم.", "می‌توانیم اینجا آغاز کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_524_en",
+    "word": "end",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "end",
+      "de": "enden",
+      "ar": "ينتهي",
+      "fr": "finir",
+      "it": "finire",
+      "ru": "заканчивать",
+      "es": "terminar",
+      "pl": "kończyć",
+      "fa": "پایان دادن"
+    },
+    "explanations": {
+      "en": "To finish or bring something to a conclusion or to reach the final point.",
+      "de": "Etwas beenden oder zu einem Abschluss bringen oder den Endpunkt erreichen.",
+      "ar": "إنهاء شيء أو إحضاره إلى خاتمة أو الوصول إلى النقطة النهائية.",
+      "fr": "Terminer ou amener quelque chose à une conclusion ou atteindre le point final.",
+      "it": "Terminare o portare qualcosa a una conclusione o raggiungere il punto finale.",
+      "ru": "Заканчивать или приводить что-то к завершению или достигать конечной точки.",
+      "es": "Terminar o llevar algo a una conclusión o alcanzar el punto final.",
+      "pl": "Zakończyć lub doprowadzić coś do wniosku lub osiągnąć punkt końcowy.",
+      "fa": "پایان دادن یا رساندن چیزی به نتیجه یا رسیدن به نقطه پایانی."
+    },
+    "examples": {
+      "en": ["The work can end.", "I end this now.", "When does it end?"],
+      "de": ["Die Arbeit kann enden.", "Ich beende das jetzt.", "Wann endet es?"],
+      "ar": ["يمكن أن ينتهي العمل.", "أنهي هذا الآن.", "متى ينتهي؟"],
+      "fr": ["Le travail peut finir.", "Je termine ça maintenant.", "Quand ça finit?"],
+      "it": ["Il lavoro può finire.", "Finisco questo ora.", "Quando finisce?"],
+      "ru": ["Работа может закончиться.", "Я заканчиваю это сейчас.", "Когда это закончится?"],
+      "es": ["El trabajo puede terminar.", "Termino esto ahora.", "¿Cuándo termina?"],
+      "pl": ["Praca może się skończyć.", "Kończę to teraz.", "Kiedy się kończy?"],
+      "fa": ["کار می‌تواند پایان یابد.", "الان این را پایان می‌دهم.", "کی پایان می‌یابد؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_525_en",
+    "word": "continue",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "continue",
+      "de": "fortsetzen",
+      "ar": "يستمر",
+      "fr": "continuer",
+      "it": "continuare",
+      "ru": "продолжать",
+      "es": "continuar",
+      "pl": "kontynuować",
+      "fa": "ادامه دادن"
+    },
+    "explanations": {
+      "en": "To keep doing something without stopping or to maintain an action over time.",
+      "de": "Etwas weiter tun ohne aufzuhören oder eine Aktion über Zeit aufrechterhalten.",
+      "ar": "الاستمرار في فعل شيء دون توقف أو الحفاظ على عمل مع مرور الوقت.",
+      "fr": "Continuer à faire quelque chose sans arrêter ou maintenir une action dans le temps.",
+      "it": "Continuare a fare qualcosa senza fermarsi o mantenere un'azione nel tempo.",
+      "ru": "Продолжать делать что-то без остановки или поддерживать действие во времени.",
+      "es": "Seguir haciendo algo sin parar o mantener una acción a lo largo del tiempo.",
+      "pl": "Kontynuować robienie czegoś bez zatrzymywania się lub utrzymywać akcję w czasie.",
+      "fa": "ادامه دادن انجام کاری بدون توقف یا حفظ عمل در طول زمان."
+    },
+    "examples": {
+      "en": ["I continue to work.", "Please continue this.", "Can we continue now?"],
+      "de": ["Ich setze die Arbeit fort.", "Bitte setze das fort.", "Können wir jetzt fortsetzen?"],
+      "ar": ["أستمر في العمل.", "من فضلك استمر في هذا.", "هل يمكننا أن نستمر الآن؟"],
+      "fr": ["Je continue à travailler.", "Continue ça s'il te plaît.", "Pouvons-nous continuer maintenant?"],
+      "it": ["Continuo a lavorare.", "Per favore continua questo.", "Possiamo continuare ora?"],
+      "ru": ["Я продолжаю работать.", "Пожалуйста, продолжай это.", "Можем мы продолжить сейчас?"],
+      "es": ["Continúo trabajando.", "Por favor continúa esto.", "¿Podemos continuar ahora?"],
+      "pl": ["Kontynuuję pracę.", "Proszę, kontynuuj to.", "Czy możemy kontynuować teraz?"],
+      "fa": ["به کار ادامه می‌دهم.", "لطفا به این ادامه بده.", "می‌توانیم الان ادامه دهیم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_526_en",
+    "word": "finish",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "finish",
+      "de": "beenden",
+      "ar": "ينهي",
+      "fr": "finir",
+      "it": "finire",
+      "ru": "заканчивать",
+      "es": "terminar",
+      "pl": "kończyć",
+      "fa": "تمام کردن"
+    },
+    "explanations": {
+      "en": "To complete something and bring it to an end after doing all required parts.",
+      "de": "Etwas vervollständigen und beenden nach Erledigung aller erforderlichen Teile.",
+      "ar": "إكمال شيء وإنهائه بعد القيام بجميع الأجزاء المطلوبة.",
+      "fr": "Compléter quelque chose et l'amener à sa fin après avoir fait toutes les parties requises.",
+      "it": "Completare qualcosa e portarlo a termine dopo aver fatto tutte le parti richieste.",
+      "ru": "Завершать что-то и доводить до конца после выполнения всех необходимых частей.",
+      "es": "Completar algo y llevarlo a su fin después de hacer todas las partes requeridas.",
+      "pl": "Ukończyć coś i doprowadzić do końca po wykonaniu wszystkich wymaganych części.",
+      "fa": "کامل کردن چیزی و رساندن آن به پایان پس از انجام همه بخش‌های لازم."
+    },
+    "examples": {
+      "en": ["I finish my work.", "Can you finish this?", "We finish at five."],
+      "de": ["Ich beende meine Arbeit.", "Kannst du das beenden?", "Wir sind um fünf fertig."],
+      "ar": ["أنهي عملي.", "هل يمكنك إنهاء هذا؟", "ننتهي في الخامسة."],
+      "fr": ["Je finis mon travail.", "Peux-tu finir ça?", "Nous finissons à cinq heures."],
+      "it": ["Finisco il mio lavoro.", "Puoi finire questo?", "Finiamo alle cinque."],
+      "ru": ["Я заканчиваю свою работу.", "Ты можешь закончить это?", "Мы заканчиваем в пять."],
+      "es": ["Termino mi trabajo.", "¿Puedes terminar esto?", "Terminamos a las cinco."],
+      "pl": ["Kończę moją pracę.", "Możesz to skończyć?", "Kończymy o piątej."],
+      "fa": ["کارم را تمام می‌کنم.", "می‌توانی این را تمام کنی؟", "ساعت پنج تمام می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_527_en",
+    "word": "change",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "change",
+      "de": "ändern",
+      "ar": "يغير",
+      "fr": "changer",
+      "it": "cambiare",
+      "ru": "менять",
+      "es": "cambiar",
+      "pl": "zmieniać",
+      "fa": "تغییر دادن"
+    },
+    "explanations": {
+      "en": "To make something different from what it was before or to become different.",
+      "de": "Etwas anders machen als es vorher war oder anders werden.",
+      "ar": "جعل شيء مختلفاً عما كان عليه من قبل أو أن يصبح مختلفاً.",
+      "fr": "Rendre quelque chose différent de ce qu'il était avant ou devenir différent.",
+      "it": "Rendere qualcosa diverso da com'era prima o diventare diverso.",
+      "ru": "Делать что-то отличным от того, что было раньше, или становиться другим.",
+      "es": "Hacer algo diferente de lo que era antes o volverse diferente.",
+      "pl": "Uczynić coś innym niż było wcześniej lub stać się innym.",
+      "fa": "متفاوت کردن چیزی از آنچه قبلا بود یا متفاوت شدن."
+    },
+    "examples": {
+      "en": ["I can change this.", "We change it now.", "Things can change fast."],
+      "de": ["Ich kann das ändern.", "Wir ändern es jetzt.", "Dinge können sich schnell ändern."],
+      "ar": ["يمكنني تغيير هذا.", "نغيره الآن.", "يمكن أن تتغير الأشياء بسرعة."],
+      "fr": ["Je peux changer ça.", "Nous le changeons maintenant.", "Les choses peuvent changer vite."],
+      "it": ["Posso cambiare questo.", "Lo cambiamo ora.", "Le cose possono cambiare velocemente."],
+      "ru": ["Я могу изменить это.", "Мы меняем это сейчас.", "Вещи могут меняться быстро."],
+      "es": ["Puedo cambiar esto.", "Lo cambiamos ahora.", "Las cosas pueden cambiar rápido."],
+      "pl": ["Mogę to zmienić.", "Zmieniamy to teraz.", "Rzeczy mogą szybko się zmieniać."],
+      "fa": ["می‌توانم این را تغییر دهم.", "الان آن را تغییر می‌دهیم.", "چیزها می‌توانند سریع تغییر کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_528_en",
+    "word": "move",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "move",
+      "de": "bewegen",
+      "ar": "يتحرك",
+      "fr": "bouger",
+      "it": "muovere",
+      "ru": "двигать",
+      "es": "mover",
+      "pl": "ruszać",
+      "fa": "حرکت کردن"
+    },
+    "explanations": {
+      "en": "To change position or location, or to cause something to change its position.",
+      "de": "Die Position oder den Ort ändern oder etwas seine Position ändern lassen.",
+      "ar": "تغيير الموضع أو الموقع، أو التسبب في تغيير موضع شيء ما.",
+      "fr": "Changer de position ou d'emplacement, ou faire en sorte que quelque chose change de position.",
+      "it": "Cambiare posizione o luogo, o far sì che qualcosa cambi la sua posizione.",
+      "ru": "Изменять позицию или местоположение, или заставлять что-то изменить свою позицию.",
+      "es": "Cambiar de posición o ubicación, o hacer que algo cambie su posición.",
+      "pl": "Zmieniać pozycję lub lokalizację, lub sprawiać, że coś zmienia swoją pozycję.",
+      "fa": "تغییر موقعیت یا مکان، یا باعث شدن که چیزی موقعیتش را تغییر دهد."
+    },
+    "examples": {
+      "en": ["I move to London.", "Can you move this?", "Let's move it here."],
+      "de": ["Ich ziehe nach London.", "Kannst du das bewegen?", "Lass es uns hier hinbewegen."],
+      "ar": ["أنتقل إلى لندن.", "هل يمكنك تحريك هذا؟", "لننقله هنا."],
+      "fr": ["Je déménage à Londres.", "Peux-tu bouger ça?", "Bougeons-le ici."],
+      "it": ["Mi trasferisco a Londra.", "Puoi muovere questo?", "Spostiamolo qui."],
+      "ru": ["Я переезжаю в Лондон.", "Ты можешь передвинуть это?", "Давай переместим это сюда."],
+      "es": ["Me mudo a Londres.", "¿Puedes mover esto?", "Movámoslo aquí."],
+      "pl": ["Przeprowadzam się do Londynu.", "Możesz to ruszyć?", "Przenieśmy to tutaj."],
+      "fa": ["به لندن نقل مکان می‌کنم.", "می‌توانی این را جابجا کنی؟", "بیا آن را اینجا ببریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_529_en",
+    "word": "stay",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "stay",
+      "de": "bleiben",
+      "ar": "يبقى",
+      "fr": "rester",
+      "it": "restare",
+      "ru": "оставаться",
+      "es": "quedarse",
+      "pl": "zostawać",
+      "fa": "ماندن"
+    },
+    "explanations": {
+      "en": "To remain in one place or position without leaving or moving away from it.",
+      "de": "An einem Ort oder Position bleiben ohne wegzugehen oder sich davon zu entfernen.",
+      "ar": "البقاء في مكان أو موضع واحد دون المغادرة أو الابتعاد عنه.",
+      "fr": "Rester dans un endroit ou position sans le quitter ou s'en éloigner.",
+      "it": "Rimanere in un luogo o posizione senza lasciarlo o allontanarsi da esso.",
+      "ru": "Оставаться в одном месте или позиции без ухода или удаления от него.",
+      "es": "Permanecer en un lugar o posición sin salir o alejarse de él.",
+      "pl": "Pozostawać w jednym miejscu lub pozycji bez opuszczania go lub oddalania się od niego.",
+      "fa": "ماندن در یک مکان یا موقعیت بدون ترک کردن یا دور شدن از آن."
+    },
+    "examples": {
+      "en": ["I stay at home.", "Please stay here now.", "Can you stay today?"],
+      "de": ["Ich bleibe zu Hause.", "Bitte bleib jetzt hier.", "Kannst du heute bleiben?"],
+      "ar": ["أبقى في المنزل.", "من فضلك ابق هنا الآن.", "هل يمكنك أن تبقى اليوم؟"],
+      "fr": ["Je reste à la maison.", "Reste ici maintenant s'il te plaît.", "Peux-tu rester aujourd'hui?"],
+      "it": ["Resto a casa.", "Per favore resta qui ora.", "Puoi restare oggi?"],
+      "ru": ["Я остаюсь дома.", "Пожалуйста, оставайся здесь сейчас.", "Ты можешь остаться сегодня?"],
+      "es": ["Me quedo en casa.", "Quédate aquí ahora por favor.", "¿Puedes quedarte hoy?"],
+      "pl": ["Zostaję w domu.", "Proszę, zostań tutaj teraz.", "Możesz zostać dziś?"],
+      "fa": ["در خانه می‌مانم.", "لطفا الان اینجا بمان.", "می‌توانی امروز بمانی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_530_en",
+    "word": "leave",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "leave",
+      "de": "verlassen",
+      "ar": "يغادر",
+      "fr": "partir",
+      "it": "partire",
+      "ru": "уходить",
+      "es": "salir",
+      "pl": "wyjeżdżać",
+      "fa": "ترک کردن"
+    },
+    "explanations": {
+      "en": "To go away from a place or person, or to stop being in a location.",
+      "de": "Von einem Ort oder Person weggehen oder aufhören, an einem Ort zu sein.",
+      "ar": "الابتعاد عن مكان أو شخص، أو التوقف عن التواجد في موقع.",
+      "fr": "S'éloigner d'un endroit ou personne, ou arrêter d'être dans un lieu.",
+      "it": "Andare via da un luogo o persona, o smettere di essere in una posizione.",
+      "ru": "Уходить от места или человека, или переставать находиться в локации.",
+      "es": "Irse de un lugar o persona, o dejar de estar en una ubicación.",
+      "pl": "Odchodzić od miejsca lub osoby, lub przestać być w lokalizacji.",
+      "fa": "رفتن از یک مکان یا شخص، یا متوقف کردن حضور در محل."
+    },
+    "examples": {
+      "en": ["I leave at five.", "Can you leave now?", "We leave for home."],
+      "de": ["Ich gehe um fünf.", "Kannst du jetzt gehen?", "Wir gehen nach Hause."],
+      "ar": ["أغادر في الخامسة.", "هل يمكنك أن تغادر الآن؟", "نغادر إلى المنزل."],
+      "fr": ["Je pars à cinq heures.", "Peux-tu partir maintenant?", "Nous partons pour la maison."],
+      "it": ["Parto alle cinque.", "Puoi partire ora?", "Partiamo per casa."],
+      "ru": ["Я ухожу в пять.", "Ты можешь уйти сейчас?", "Мы уходим домой."],
+      "es": ["Salgo a las cinco.", "¿Puedes salir ahora?", "Salimos para casa."],
+      "pl": ["Wyjeżdżam o piątej.", "Możesz wyjechać teraz?", "Wyjeżdżamy do domu."],
+      "fa": ["ساعت پنج می‌روم.", "می‌توانی الان بروی؟", "به خانه می‌رویم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_531_en",
+    "word": "arrive",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "arrive",
+      "de": "ankommen",
+      "ar": "يصل",
+      "fr": "arriver",
+      "it": "arrivare",
+      "ru": "прибывать",
+      "es": "llegar",
+      "pl": "przyjeżdżać",
+      "fa": "رسیدن"
+    },
+    "explanations": {
+      "en": "To reach a destination or place after traveling or moving toward it successfully.",
+      "de": "Ein Ziel oder einen Ort erreichen nach erfolgreichem Reisen oder sich darauf zubewegen.",
+      "ar": "الوصول إلى وجهة أو مكان بعد السفر أو التحرك نحوه بنجاح.",
+      "fr": "Atteindre une destination ou lieu après avoir voyagé ou s'être déplacé vers lui avec succès.",
+      "it": "Raggiungere una destinazione o luogo dopo aver viaggiato o essersi mosso verso di esso con successo.",
+      "ru": "Достигать места назначения или места после путешествия или движения к нему успешно.",
+      "es": "Alcanzar un destino o lugar después de viajar o moverse hacia él con éxito.",
+      "pl": "Dotrzeć do celu lub miejsca po podróżowaniu lub poruszaniu się w jego kierunku pomyślnie.",
+      "fa": "رسیدن به مقصد یا مکانی پس از سفر یا حرکت موفق به سمت آن."
+    },
+    "examples": {
+      "en": ["I arrive at home.", "When do you arrive?", "We arrive at five."],
+      "de": ["Ich komme zu Hause an.", "Wann kommst du an?", "Wir kommen um fünf an."],
+      "ar": ["أصل إلى المنزل.", "متى تصل؟", "نصل في الخامسة."],
+      "fr": ["J'arrive à la maison.", "Quand arrives-tu?", "Nous arrivons à cinq heures."],
+      "it": ["Arrivo a casa.", "Quando arrivi?", "Arriviamo alle cinque."],
+      "ru": ["Я прибываю домой.", "Когда ты прибываешь?", "Мы прибываем в пять."],
+      "es": ["Llego a casa.", "¿Cuándo llegas?", "Llegamos a las cinco."],
+      "pl": ["Przyjazd do domu.", "Kiedy przyjedziesz?", "Przyjeżdżamy o piątej."],
+      "fa": ["به خانه می‌رسم.", "کی می‌رسی؟", "ساعت پنج می‌رسیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_532_en",
+    "word": "enter",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "enter",
+      "de": "betreten",
+      "ar": "يدخل",
+      "fr": "entrer",
+      "it": "entrare",
+      "ru": "входить",
+      "es": "entrar",
+      "pl": "wchodzić",
+      "fa": "وارد شدن"
+    },
+    "explanations": {
+      "en": "To go or come into a place or space by passing through an opening.",
+      "de": "In einen Ort oder Raum gehen oder kommen durch ein Durchgang passieren.",
+      "ar": "الدخول إلى مكان أو فضاء من خلال المرور عبر فتحة.",
+      "fr": "Aller ou venir dans un endroit ou espace en passant par une ouverture.",
+      "it": "Andare o venire in un luogo o spazio passando attraverso un'apertura.",
+      "ru": "Идти или приходить в место или пространство, проходя через отверстие.",
+      "es": "Ir o venir a un lugar o espacio pasando por una abertura.",
+      "pl": "Iść lub przyjść do miejsca lub przestrzeni przechodząc przez otwór.",
+      "fa": "رفتن یا آمدن به مکان یا فضایی با عبور از یک دهانه."
+    },
+    "examples": {
+      "en": ["I enter the room.", "Can you enter here?", "Please enter now."],
+      "de": ["Ich betrete das Zimmer.", "Kannst du hier eintreten?", "Bitte tritt jetzt ein."],
+      "ar": ["أدخل الغرفة.", "هل يمكنك الدخول هنا؟", "من فضلك ادخل الآن."],
+      "fr": ["J'entre dans la pièce.", "Peux-tu entrer ici?", "Entre maintenant s'il te plaît."],
+      "it": ["Entro nella stanza.", "Puoi entrare qui?", "Per favore entra ora."],
+      "ru": ["Я вхожу в комнату.", "Ты можешь войти сюда?", "Пожалуйста, войди сейчас."],
+      "es": ["Entro en la habitación.", "¿Puedes entrar aquí?", "Entra ahora por favor."],
+      "pl": ["Wchodzę do pokoju.", "Możesz wejść tutaj?", "Proszę, wejdź teraz."],
+      "fa": ["وارد اتاق می‌شوم.", "می‌توانی اینجا وارد شوی؟", "لطفا الان وارد شو."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_533_en",
+    "word": "exit",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "exit",
+      "de": "verlassen",
+      "ar": "يخرج",
+      "fr": "sortir",
+      "it": "uscire",
+      "ru": "выходить",
+      "es": "salir",
+      "pl": "wychodzić",
+      "fa": "خارج شدن"
+    },
+    "explanations": {
+      "en": "To go out or leave a place by passing through a door or opening.",
+      "de": "Hinausgehen oder einen Ort verlassen durch eine Tür oder Öffnung passieren.",
+      "ar": "الخروج أو مغادرة مكان من خلال المرور عبر باب أو فتحة.",
+      "fr": "Sortir ou quitter un endroit en passant par une porte ou ouverture.",
+      "it": "Uscire o lasciare un luogo passando attraverso una porta o apertura.",
+      "ru": "Выходить или покидать место, проходя через дверь или отверстие.",
+      "es": "Salir o abandonar un lugar pasando por una puerta o abertura.",
+      "pl": "Wyjść lub opuścić miejsce przechodząc przez drzwi lub otwór.",
+      "fa": "بیرون رفتن یا ترک مکان با عبور از در یا دهانه."
+    },
+    "examples": {
+      "en": ["I exit the room.", "Please exit here now.", "Can we exit fast?"],
+      "de": ["Ich verlasse das Zimmer.", "Bitte geh jetzt hier raus.", "Können wir schnell rausgehen?"],
+      "ar": ["أخرج من الغرفة.", "من فضلك اخرج من هنا الآن.", "هل يمكننا الخروج بسرعة؟"],
+      "fr": ["Je sors de la pièce.", "Sors d'ici maintenant s'il te plaît.", "Pouvons-nous sortir vite?"],
+      "it": ["Esco dalla stanza.", "Per favore esci qui ora.", "Possiamo uscire velocemente?"],
+      "ru": ["Я выхожу из комнаты.", "Пожалуйста, выходи отсюда сейчас.", "Можем мы выйти быстро?"],
+      "es": ["Salgo de la habitación.", "Sal de aquí ahora por favor.", "¿Podemos salir rápido?"],
+      "pl": ["Wychodzę z pokoju.", "Proszę, wyjdź stąd teraz.", "Czy możemy wyjść szybko?"],
+      "fa": ["از اتاق خارج می‌شوم.", "لطفا الان از اینجا خارج شو.", "می‌توانیم سریع خارج شویم؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_534_en",
+    "word": "open",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "open",
+      "de": "öffnen",
+      "ar": "يفتح",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "ru": "открывать",
+      "es": "abrir",
+      "pl": "otwierać",
+      "fa": "باز کردن"
+    },
+    "explanations": {
+      "en": "To move something to create an opening or make access possible to the inside.",
+      "de": "Etwas bewegen um eine Öffnung zu schaffen oder Zugang zum Inneren zu ermöglichen.",
+      "ar": "تحريك شيء لإنشاء فتحة أو جعل الوصول إلى الداخل ممكناً.",
+      "fr": "Déplacer quelque chose pour créer une ouverture ou rendre l'accès à l'intérieur possible.",
+      "it": "Muovere qualcosa per creare un'apertura o rendere possibile l'accesso all'interno.",
+      "ru": "Двигать что-то, чтобы создать отверстие или сделать доступ внутрь возможным.",
+      "es": "Mover algo para crear una abertura o hacer posible el acceso al interior.",
+      "pl": "Przesunąć coś aby stworzyć otwór lub umożliwić dostęp do wnętrza.",
+      "fa": "جابجا کردن چیزی برای ایجاد دهانه یا امکان دسترسی به داخل."
+    },
+    "examples": {
+      "en": ["Please open the door.", "I can open this.", "Can you open it?"],
+      "de": ["Bitte öffne die Tür.", "Ich kann das öffnen.", "Kannst du es öffnen?"],
+      "ar": ["من فضلك افتح الباب.", "يمكنني فتح هذا.", "هل يمكنك فتحه؟"],
+      "fr": ["Ouvre la porte s'il te plaît.", "Je peux ouvrir ça.", "Peux-tu l'ouvrir?"],
+      "it": ["Per favore apri la porta.", "Posso aprire questo.", "Puoi aprirlo?"],
+      "ru": ["Пожалуйста, открой дверь.", "Я могу открыть это.", "Ты можешь открыть это?"],
+      "es": ["Abre la puerta por favor.", "Puedo abrir esto.", "¿Puedes abrirlo?"],
+      "pl": ["Proszę, otwórz drzwi.", "Mogę to otworzyć.", "Możesz to otworzyć?"],
+      "fa": ["لطفا در را باز کن.", "می‌توانم این را باز کنم.", "می‌توانی آن را باز کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_535_en",
+    "word": "close",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "close",
+      "de": "schließen",
+      "ar": "يغلق",
+      "fr": "fermer",
+      "it": "chiudere",
+      "ru": "закрывать",
+      "es": "cerrar",
+      "pl": "zamykać",
+      "fa": "بستن"
+    },
+    "explanations": {
+      "en": "To move something to block an opening or prevent access to the inside.",
+      "de": "Etwas bewegen um eine Öffnung zu blockieren oder Zugang zum Inneren zu verhindern.",
+      "ar": "تحريك شيء لحجب فتحة أو منع الوصول إلى الداخل.",
+      "fr": "Déplacer quelque chose pour bloquer une ouverture ou empêcher l'accès à l'intérieur.",
+      "it": "Muovere qualcosa per bloccare un'apertura o impedire l'accesso all'interno.",
+      "ru": "Двигать что-то, чтобы заблокировать отверстие или предотвратить доступ внутрь.",
+      "es": "Mover algo para bloquear una abertura o impedir el acceso al interior.",
+      "pl": "Przesunąć coś aby zablokować otwór lub uniemożliwić dostęp do wnętrza.",
+      "fa": "جابجا کردن چیزی برای مسدود کردن دهانه یا جلوگیری از دسترسی به داخل."
+    },
+    "examples": {
+      "en": ["Please close the door.", "I close it now.", "Can you close this?"],
+      "de": ["Bitte schließe die Tür.", "Ich schließe es jetzt.", "Kannst du das schließen?"],
+      "ar": ["من فضلك أغلق الباب.", "أغلقه الآن.", "هل يمكنك إغلاق هذا؟"],
+      "fr": ["Ferme la porte s'il te plaît.", "Je le ferme maintenant.", "Peux-tu fermer ça?"],
+      "it": ["Per favore chiudi la porta.", "Lo chiudo ora.", "Puoi chiudere questo?"],
+      "ru": ["Пожалуйста, закрой дверь.", "Я закрываю это сейчас.", "Ты можешь закрыть это?"],
+      "es": ["Cierra la puerta por favor.", "Lo cierro ahora.", "¿Puedes cerrar esto?"],
+      "pl": ["Proszę, zamknij drzwi.", "Zamykam to teraz.", "Możesz to zamknąć?"],
+      "fa": ["لطفا در را ببند.", "الان آن را می‌بندم.", "می‌توانی این را ببندی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_536_en",
+    "word": "push",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "push",
+      "de": "drücken",
+      "ar": "يدفع",
+      "fr": "pousser",
+      "it": "spingere",
+      "ru": "толкать",
+      "es": "empujar",
+      "pl": "pchać",
+      "fa": "هل دادن"
+    },
+    "explanations": {
+      "en": "To use force to move something away from you or in a direction.",
+      "de": "Kraft verwenden um etwas von sich wegzubewegen oder in eine Richtung zu bewegen.",
+      "ar": "استخدام القوة لتحريك شيء بعيداً عنك أو في اتجاه معين.",
+      "fr": "Utiliser la force pour déplacer quelque chose loin de vous ou dans une direction.",
+      "it": "Usare la forza per muovere qualcosa lontano da te o in una direzione.",
+      "ru": "Использовать силу, чтобы переместить что-то от себя или в направлении.",
+      "es": "Usar fuerza para mover algo lejos de ti o en una dirección.",
+      "pl": "Użyć siły aby przesunąć coś od siebie lub w kierunku.",
+      "fa": "استفاده از نیرو برای جابجا کردن چیزی دور از خود یا در یک جهت."
+    },
+    "examples": {
+      "en": ["Please push the door.", "I can push this.", "Can you push it?"],
+      "de": ["Bitte drück die Tür.", "Ich kann das drücken.", "Kannst du es drücken?"],
+      "ar": ["من فضلك ادفع الباب.", "يمكنني دفع هذا.", "هل يمكنك دفعه؟"],
+      "fr": ["Pousse la porte s'il te plaît.", "Je peux pousser ça.", "Peux-tu le pousser?"],
+      "it": ["Per favore spingi la porta.", "Posso spingere questo.", "Puoi spingerlo?"],
+      "ru": ["Пожалуйста, толкни дверь.", "Я могу толкнуть это.", "Ты можешь толкнуть это?"],
+      "es": ["Empuja la puerta por favor.", "Puedo empujar esto.", "¿Puedes empujarlo?"],
+      "pl": ["Proszę, popchnij drzwi.", "Mogę to pchnąć.", "Możesz to pchnąć?"],
+      "fa": ["لطفا در را هل بده.", "می‌توانم این را هل بدهم.", "می‌توانی آن را هل بدهی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_537_en",
+    "word": "pull",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pull",
+      "de": "ziehen",
+      "ar": "يسحب",
+      "fr": "tirer",
+      "it": "tirare",
+      "ru": "тянуть",
+      "es": "tirar",
+      "pl": "ciągnąć",
+      "fa": "کشیدن"
+    },
+    "explanations": {
+      "en": "To use force to move something toward you or in your direction.",
+      "de": "Kraft verwenden um etwas zu sich oder in die eigene Richtung zu bewegen.",
+      "ar": "استخدام القوة لتحريك شيء نحوك أو في اتجاهك.",
+      "fr": "Utiliser la force pour déplacer quelque chose vers vous ou dans votre direction.",
+      "it": "Usare la forza per muovere qualcosa verso di te o nella tua direzione.",
+      "ru": "Использовать силу, чтобы переместить что-то к себе или в вашем направлении.",
+      "es": "Usar fuerza para mover algo hacia ti o en tu dirección.",
+      "pl": "Użyć siły aby przesunąć coś w stronę siebie lub w swoim kierunku.",
+      "fa": "استفاده از نیرو برای جابجا کردن چیزی به سمت خود یا در جهت خود."
+    },
+    "examples": {
+      "en": ["Please pull the door.", "I can pull this.", "Can you pull it?"],
+      "de": ["Bitte zieh die Tür.", "Ich kann das ziehen.", "Kannst du es ziehen?"],
+      "ar": ["من فضلك اسحب الباب.", "يمكنني سحب هذا.", "هل يمكنك سحبه؟"],
+      "fr": ["Tire la porte s'il te plaît.", "Je peux tirer ça.", "Peux-tu le tirer?"],
+      "it": ["Per favore tira la porta.", "Posso tirare questo.", "Puoi tirarlo?"],
+      "ru": ["Пожалуйста, потяни дверь.", "Я могу потянуть это.", "Ты можешь потянуть это?"],
+      "es": ["Tira de la puerta por favor.", "Puedo tirar de esto.", "¿Puedes tirarlo?"],
+      "pl": ["Proszę, pociągnij drzwi.", "Mogę to pociągnąć.", "Możesz to pociągnąć?"],
+      "fa": ["لطفا در را بکش.", "می‌توانم این را بکشم.", "می‌توانی آن را بکشی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_538_en",
+    "word": "carry",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "carry",
+      "de": "tragen",
+      "ar": "يحمل",
+      "fr": "porter",
+      "it": "portare",
+      "ru": "нести",
+      "es": "llevar",
+      "pl": "nosić",
+      "fa": "حمل کردن"
+    },
+    "explanations": {
+      "en": "To hold something and move it from one place to another while supporting its weight.",
+      "de": "Etwas halten und von einem Ort zum anderen bewegen während man sein Gewicht trägt.",
+      "ar": "حمل شيء ونقله من مكان إلى آخر مع دعم وزنه.",
+      "fr": "Tenir quelque chose et le déplacer d'un endroit à un autre tout en supportant son poids.",
+      "it": "Tenere qualcosa e spostarlo da un luogo all'altro sostenendone il peso.",
+      "ru": "Держать что-то и перемещать из одного места в другое, поддерживая его вес.",
+      "es": "Sostener algo y moverlo de un lugar a otro mientras se soporta su peso.",
+      "pl": "Trzymać coś i przenosić z jednego miejsca do drugiego podtrzymując jego wagę.",
+      "fa": "نگه داشتن چیزی و جابجا کردن آن از یک مکان به دیگری در حالی که وزنش را تحمل می‌کنیم."
+    },
+    "examples": {
+      "en": ["I carry this bag.", "Can you carry it?", "Please carry this home."],
+      "de": ["Ich trage diese Tasche.", "Kannst du es tragen?", "Bitte trage das nach Hause."],
+      "ar": ["أحمل هذه الحقيبة.", "هل يمكنك حملها؟", "من فضلك احمل هذا إلى المنزل."],
+      "fr": ["Je porte ce sac.", "Peux-tu le porter?", "Porte ça à la maison s'il te plaît."],
+      "it": ["Porto questa borsa.", "Puoi portarlo?", "Per favore porta questo a casa."],
+      "ru": ["Я несу эту сумку.", "Ты можешь нести это?", "Пожалуйста, неси это домой."],
+      "es": ["Llevo esta bolsa.", "¿Puedes llevarlo?", "Por favor lleva esto a casa."],
+      "pl": ["Noszę tę torbę.", "Możesz to nieść?", "Proszę, zanieś to do domu."],
+      "fa": ["این کیف را حمل می‌کنم.", "می‌توانی آن را حمل کنی؟", "لطفا این را به خانه ببر."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_539_en",
+    "word": "hold",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hold",
+      "de": "halten",
+      "ar": "يمسك",
+      "fr": "tenir",
+      "it": "tenere",
+      "ru": "держать",
+      "es": "sostener",
+      "pl": "trzymać",
+      "fa": "نگه داشتن"
+    },
+    "explanations": {
+      "en": "To have something in your hands or arms and keep it there firmly.",
+      "de": "Etwas in den Händen oder Armen haben und es fest dort halten.",
+      "ar": "أن يكون لديك شيء في يديك أو ذراعيك وتبقيه هناك بإحكام.",
+      "fr": "Avoir quelque chose dans vos mains ou bras et le garder là fermement.",
+      "it": "Avere qualcosa nelle mani o braccia e tenerlo lì saldamente.",
+      "ru": "Иметь что-то в руках и держать это там крепко.",
+      "es": "Tener algo en tus manos o brazos y mantenerlo allí firmemente.",
+      "pl": "Mieć coś w rękach lub ramionach i trzymać to tam mocno.",
+      "fa": "داشتن چیزی در دستان یا بازوها و نگه داشتن آن در آنجا محکم."
+    },
+    "examples": {
+      "en": ["Please hold this bag.", "I can hold it.", "Can you hold this?"],
+      "de": ["Bitte halte diese Tasche.", "Ich kann es halten.", "Kannst du das halten?"],
+      "ar": ["من فضلك أمسك هذه الحقيبة.", "يمكنني مسكها.", "هل يمكنك مسك هذا؟"],
+      "fr": ["Tiens ce sac s'il te plaît.", "Je peux le tenir.", "Peux-tu tenir ça?"],
+      "it": ["Per favore tieni questa borsa.", "Posso tenerlo.", "Puoi tenere questo?"],
+      "ru": ["Пожалуйста, держи эту сумку.", "Я могу держать это.", "Ты можешь держать это?"],
+      "es": ["Sostén esta bolsa por favor.", "Puedo sostenerlo.", "¿Puedes sostener esto?"],
+      "pl": ["Proszę, trzymaj tę torbę.", "Mogę to trzymać.", "Możesz to trzymać?"],
+      "fa": ["لطفا این کیف را نگه دار.", "می‌توانم آن را نگه دارم.", "می‌توانی این را نگه داری؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_540_en",
+    "word": "drop",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "drop",
+      "de": "fallen lassen",
+      "ar": "يسقط",
+      "fr": "laisser tomber",
+      "it": "far cadere",
+      "ru": "ронять",
+      "es": "dejar caer",
+      "pl": "upuszczać",
+      "fa": "انداختن"
+    },
+    "explanations": {
+      "en": "To let something fall from your hand or from a higher position to a lower one.",
+      "de": "Etwas aus der Hand oder von einer höheren Position zu einer niedrigeren fallen lassen.",
+      "ar": "ترك شيء يسقط من يدك أو من موضع أعلى إلى موضع أدنى.",
+      "fr": "Laisser quelque chose tomber de votre main ou d'une position plus haute vers une plus basse.",
+      "it": "Lasciare cadere qualcosa dalla mano o da una posizione più alta a una più bassa.",
+      "ru": "Позволить чему-то упасть из руки или с более высокой позиции на более низкую.",
+      "es": "Dejar caer algo de tu mano o de una posición más alta a una más baja.",
+      "pl": "Pozwolić czemuś spaść z ręki lub z wyższej pozycji na niższą.",
+      "fa": "اجازه دادن به چیزی که از دستت یا از موقعیت بالاتر به پایین‌تر بیفتد."
+    },
+    "examples": {
+      "en": ["Don't drop this!", "I can drop it.", "Did you drop that?"],
+      "de": ["Lass das nicht fallen!", "Ich kann es fallen lassen.", "Hast du das fallen lassen?"],
+      "ar": ["لا تسقط هذا!", "يمكنني إسقاطه.", "هل أسقطت ذلك؟"],
+      "fr": ["Ne laisse pas tomber ça!", "Je peux le laisser tomber.", "As-tu laissé tomber ça?"],
+      "it": ["Non far cadere questo!", "Posso farlo cadere.", "Hai fatto cadere quello?"],
+      "ru": ["Не роняй это!", "Я могу уронить это.", "Ты уронил то?"],
+      "es": ["¡No dejes caer esto!", "Puedo dejarlo caer.", "¿Dejaste caer eso?"],
+      "pl": ["Nie upuszczaj tego!", "Mogę to upuścić.", "Upuściłeś to?"],
+      "fa": ["این را نینداز!", "می‌توانم آن را بیندازم.", "آن را انداختی؟"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,813 @@
+[
+  {
+    "id": "universal_a2_981_en",
+    "word": "future",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "future",
+      "de": "Zukunft",
+      "ar": "مستقبل",
+      "fr": "futur",
+      "it": "futuro",
+      "ru": "будущее",
+      "es": "futuro",
+      "pl": "przyszłość",
+      "fa": "آینده"
+    },
+    "explanations": {
+      "en": "The time that is yet to come or will happen after the present moment passes.",
+      "de": "Die Zeit, die noch kommen wird oder nach dem gegenwärtigen Moment geschehen wird.",
+      "ar": "الوقت الذي لم يأتِ بعد أو سيحدث بعد مرور اللحظة الحالية.",
+      "fr": "Le temps qui est encore à venir ou qui arrivera après le passage du moment présent.",
+      "it": "Il tempo che deve ancora venire o accadrà dopo il passaggio del momento presente.",
+      "ru": "Время, которое ещё наступит или произойдёт после прохождения настоящего момента.",
+      "es": "El tiempo que aún está por venir o sucederá después de que pase el momento presente.",
+      "pl": "Czas, który jeszcze nadejdzie lub wydarzy się po upływie obecnej chwili.",
+      "fa": "زمانی که هنوز نیامده یا پس از گذشتن لحظه حال اتفاق خواهد افتاد."
+    },
+    "examples": {
+      "en": ["Think about the future.", "I plan my future.", "The future is bright."],
+      "de": ["Denk an die Zukunft.", "Ich plane meine Zukunft.", "Die Zukunft ist hell."],
+      "ar": ["فكر في المستقبل.", "أخطط لمستقبلي.", "المستقبل مشرق."],
+      "fr": ["Pense au futur.", "Je planifie mon futur.", "Le futur est lumineux."],
+      "it": ["Pensa al futuro.", "Pianifico il mio futuro.", "Il futuro è luminoso."],
+      "ru": ["Думай о будущем.", "Я планирую своё будущее.", "Будущее светлое."],
+      "es": ["Piensa en el futuro.", "Planifico mi futuro.", "El futuro es brillante."],
+      "pl": ["Myśl o przyszłości.", "Planuję moją przyszłość.", "Przyszłość jest jasna."],
+      "fa": ["درباره آینده فکر کن.", "آینده‌ام را برنامه‌ریزی می‌کنم.", "آینده روشن است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_982_en",
+    "word": "past",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "past",
+      "de": "Vergangenheit",
+      "ar": "ماضٍ",
+      "fr": "passé",
+      "it": "passato",
+      "ru": "прошлое",
+      "es": "pasado",
+      "pl": "przeszłość",
+      "fa": "گذشته"
+    },
+    "explanations": {
+      "en": "The time before now that has already happened and can no longer be changed or undone.",
+      "de": "Die Zeit vor jetzt, die bereits geschehen ist und nicht mehr geändert oder rückgängig gemacht werden kann.",
+      "ar": "الوقت قبل الآن الذي حدث بالفعل ولا يمكن تغييره أو التراجع عنه بعد الآن.",
+      "fr": "Le temps avant maintenant qui s'est déjà produit et ne peut plus être changé ou défait.",
+      "it": "Il tempo prima di adesso che è già accaduto e non può più essere cambiato o annullato.",
+      "ru": "Время до настоящего, которое уже произошло и не может быть изменено или отменено.",
+      "es": "El tiempo antes de ahora que ya sucedió y ya no puede ser cambiado o deshecho.",
+      "pl": "Czas przed teraz, który już się wydarzył i nie może być już zmieniony lub cofnięty.",
+      "fa": "زمان قبل از حالا که قبلا اتفاق افتاده و دیگر نمی‌توان آن را تغییر یا برگرداند."
+    },
+    "examples": {
+      "en": ["Think about the past.", "I remember my past.", "The past is gone."],
+      "de": ["Denk an die Vergangenheit.", "Ich erinnere mich an meine Vergangenheit.", "Die Vergangenheit ist vorbei."],
+      "ar": ["فكر في الماضي.", "أتذكر ماضيي.", "الماضي قد ذهب."],
+      "fr": ["Pense au passé.", "Je me souviens de mon passé.", "Le passé est parti."],
+      "it": ["Pensa al passato.", "Ricordo il mio passato.", "Il passato è andato."],
+      "ru": ["Думай о прошлом.", "Я помню своё прошлое.", "Прошлое ушло."],
+      "es": ["Piensa en el pasado.", "Recuerdo mi pasado.", "El pasado se fue."],
+      "pl": ["Myśl o przeszłości.", "Pamiętam moją przeszłość.", "Przeszłość odeszła."],
+      "fa": ["درباره گذشته فکر کن.", "گذشته‌ام را به یاد می‌آورم.", "گذشته رفته است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_983_en",
+    "word": "present",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "present",
+      "de": "Gegenwart",
+      "ar": "حاضر",
+      "fr": "présent",
+      "it": "presente",
+      "ru": "настоящее",
+      "es": "presente",
+      "pl": "teraźniejszość",
+      "fa": "حال"
+    },
+    "explanations": {
+      "en": "The time happening now, this very moment or current period we are experiencing right now.",
+      "de": "Die Zeit, die jetzt geschieht, dieser genau Moment oder die aktuelle Periode, die wir gerade erleben.",
+      "ar": "الوقت الذي يحدث الآن، هذه اللحظة بالذات أو الفترة الحالية التي نعيشها الآن.",
+      "fr": "Le temps qui se passe maintenant, ce moment même ou période actuelle que nous vivons maintenant.",
+      "it": "Il tempo che accade ora, questo momento stesso o periodo attuale che stiamo vivendo adesso.",
+      "ru": "Время, происходящее сейчас, этот самый момент или текущий период, который мы переживаем прямо сейчас.",
+      "es": "El tiempo que sucede ahora, este mismo momento o período actual que estamos experimentando ahora.",
+      "pl": "Czas dziejący się teraz, ten sam moment lub obecny okres, który przeżywamy teraz.",
+      "fa": "زمانی که اکنون اتفاق می‌افتد، همین لحظه یا دوره کنونی که الان تجربه می‌کنیم."
+    },
+    "examples": {
+      "en": ["Live in the present.", "I enjoy my present.", "The present is here."],
+      "de": ["Lebe in der Gegenwart.", "Ich genieße meine Gegenwart.", "Die Gegenwart ist hier."],
+      "ar": ["عش في الحاضر.", "أستمتع بحاضري.", "الحاضر هنا."],
+      "fr": ["Vis dans le présent.", "J'apprécie mon présent.", "Le présent est ici."],
+      "it": ["Vivi nel presente.", "Godo del mio presente.", "Il presente è qui."],
+      "ru": ["Живи в настоящем.", "Я наслаждаюсь своим настоящим.", "Настоящее здесь."],
+      "es": ["Vive en el presente.", "Disfruto mi presente.", "El presente está aquí."],
+      "pl": ["Żyj w teraźniejszości.", "Cieszę się moją teraźniejszością.", "Teraźniejszość jest tutaj."],
+      "fa": ["در حال زندگی کن.", "از حال خود لذت می‌برم.", "حال اینجاست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_984_en",
+    "word": "history",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "history",
+      "de": "Geschichte",
+      "ar": "تاريخ",
+      "fr": "histoire",
+      "it": "storia",
+      "ru": "история",
+      "es": "historia",
+      "pl": "historia",
+      "fa": "تاریخ"
+    },
+    "explanations": {
+      "en": "The study of past events and the record of what happened in earlier times of human existence.",
+      "de": "Das Studium vergangener Ereignisse und die Aufzeichnung dessen, was in früheren Zeiten der menschlichen Existenz geschah.",
+      "ar": "دراسة الأحداث الماضية وسجل ما حدث في أوقات سابقة من الوجود البشري.",
+      "fr": "L'étude des événements passés et l'enregistrement de ce qui s'est passé dans les temps antérieurs de l'existence humaine.",
+      "it": "Lo studio di eventi passati e la registrazione di ciò che è accaduto in tempi precedenti dell'esistenza umana.",
+      "ru": "Изучение прошлых событий и запись того, что произошло в более ранние времена человеческого существования.",
+      "es": "El estudio de eventos pasados y el registro de lo que sucedió en tiempos anteriores de la existencia humana.",
+      "pl": "Badanie przeszłych wydarzeń i zapis tego, co się wydarzyło we wcześniejszych czasach ludzkiej egzystencji.",
+      "fa": "مطالعه رویدادهای گذشته و ثبت آنچه در زمان‌های قبلی وجود انسان اتفاق افتاد."
+    },
+    "examples": {
+      "en": ["I study history now.", "History is very interesting.", "We learn from history."],
+      "de": ["Ich studiere jetzt Geschichte.", "Geschichte ist sehr interessant.", "Wir lernen aus der Geschichte."],
+      "ar": ["أدرس التاريخ الآن.", "التاريخ مثير للاهتمام جداً.", "نتعلم من التاريخ."],
+      "fr": ["J'étudie l'histoire maintenant.", "L'histoire est très intéressante.", "Nous apprenons de l'histoire."],
+      "it": ["Studio la storia ora.", "La storia è molto interessante.", "Impariamo dalla storia."],
+      "ru": ["Я изучаю историю сейчас.", "История очень интересная.", "Мы учимся на истории."],
+      "es": ["Estudio historia ahora.", "La historia es muy interesante.", "Aprendemos de la historia."],
+      "pl": ["Studiuję historię teraz.", "Historia jest bardzo interesująca.", "Uczymy się z historii."],
+      "fa": ["الان تاریخ مطالعه می‌کنم.", "تاریخ خیلی جالب است.", "از تاریخ یاد می‌گیریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_985_en",
+    "word": "modern",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "modern",
+      "de": "modern",
+      "ar": "حديث",
+      "fr": "moderne",
+      "it": "moderno",
+      "ru": "современный",
+      "es": "moderno",
+      "pl": "nowoczesny",
+      "fa": "مدرن"
+    },
+    "explanations": {
+      "en": "Relating to the present or recent times, using new methods or ideas rather than old traditional ones.",
+      "de": "Bezogen auf die Gegenwart oder jüngste Zeit, neue Methoden oder Ideen verwendend statt alter traditioneller.",
+      "ar": "متعلق بالحاضر أو الأوقات الحديثة، باستخدام أساليب أو أفكار جديدة بدلاً من القديمة التقليدية.",
+      "fr": "Relatif au présent ou aux temps récents, utilisant de nouvelles méthodes ou idées plutôt que les anciennes traditionnelles.",
+      "it": "Relativo al presente o ai tempi recenti, usando nuovi metodi o idee piuttosto che quelli tradizionali vecchi.",
+      "ru": "Относящийся к настоящему или недавнему времени, использующий новые методы или идеи, а не старые традиционные.",
+      "es": "Relacionado con el presente o tiempos recientes, usando nuevos métodos o ideas en lugar de los antiguos tradicionales.",
+      "pl": "Odnoszący się do teraźniejszości lub ostatnich czasów, używający nowych metod lub pomysłów zamiast starych tradycyjnych.",
+      "fa": "مربوط به حال یا زمان‌های اخیر، استفاده از روش‌ها یا ایده‌های جدید به جای قدیمی‌های سنتی."
+    },
+    "examples": {
+      "en": ["This is modern technology.", "I like modern art.", "Modern life is fast."],
+      "de": ["Das ist moderne Technologie.", "Ich mag moderne Kunst.", "Modernes Leben ist schnell."],
+      "ar": ["هذه تكنولوجيا حديثة.", "أحب الفن الحديث.", "الحياة الحديثة سريعة."],
+      "fr": ["C'est de la technologie moderne.", "J'aime l'art moderne.", "La vie moderne est rapide."],
+      "it": ["Questa è tecnologia moderna.", "Mi piace l'arte moderna.", "La vita moderna è veloce."],
+      "ru": ["Это современная технология.", "Я люблю современное искусство.", "Современная жизнь быстрая."],
+      "es": ["Esta es tecnología moderna.", "Me gusta el arte moderno.", "La vida moderna es rápida."],
+      "pl": ["To jest nowoczesna technologia.", "Lubię nowoczesną sztukę.", "Nowoczesne życie jest szybkie."],
+      "fa": ["این فناوری مدرن است.", "من هنر مدرن را دوست دارم.", "زندگی مدرن سریع است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_986_en",
+    "word": "ancient",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ancient",
+      "de": "antik",
+      "ar": "قديم",
+      "fr": "ancien",
+      "it": "antico",
+      "ru": "древний",
+      "es": "antiguo",
+      "pl": "starożytny",
+      "fa": "باستانی"
+    },
+    "explanations": {
+      "en": "Belonging to a time very long ago in the distant past, especially before the Middle Ages.",
+      "de": "Zu einer Zeit vor sehr langer Zeit in der fernen Vergangenheit gehörend, besonders vor dem Mittelalter.",
+      "ar": "ينتمي إلى وقت طويل جداً في الماضي البعيد، خاصة قبل العصور الوسطى.",
+      "fr": "Appartenant à un temps très ancien dans le passé lointain, surtout avant le Moyen Âge.",
+      "it": "Appartenente a un tempo molto tempo fa nel passato lontano, specialmente prima del Medioevo.",
+      "ru": "Принадлежащий ко времени очень давно в далёком прошлом, особенно до Средневековья.",
+      "es": "Perteneciente a un tiempo hace mucho tiempo en el pasado distante, especialmente antes de la Edad Media.",
+      "pl": "Należący do czasu bardzo dawno temu w odległej przeszłości, szczególnie przed średniowieczem.",
+      "fa": "متعلق به زمانی خیلی دور در گذشته دور، به ویژه قبل از قرون وسطی."
+    },
+    "examples": {
+      "en": ["I study ancient history.", "This is ancient building.", "Ancient people were wise."],
+      "de": ["Ich studiere antike Geschichte.", "Das ist ein antikes Gebäude.", "Antike Menschen waren weise."],
+      "ar": ["أدرس التاريخ القديم.", "هذا مبنى قديم.", "الناس القدماء كانوا حكماء."],
+      "fr": ["J'étudie l'histoire ancienne.", "C'est un bâtiment ancien.", "Les gens anciens étaient sages."],
+      "it": ["Studio la storia antica.", "Questo è un edificio antico.", "Le persone antiche erano sagge."],
+      "ru": ["Я изучаю древнюю историю.", "Это древнее здание.", "Древние люди были мудрыми."],
+      "es": ["Estudio historia antigua.", "Este es un edificio antiguo.", "La gente antigua era sabia."],
+      "pl": ["Studiuję starożytną historię.", "To jest starożytny budynek.", "Starożytni ludzie byli mądrzy."],
+      "fa": ["من تاریخ باستان مطالعه می‌کنم.", "این ساختمان باستانی است.", "مردم باستان خردمند بودند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_987_en",
+    "word": "new",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "new",
+      "de": "neu",
+      "ar": "جديد",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "ru": "новый",
+      "es": "nuevo",
+      "pl": "nowy",
+      "fa": "جدید"
+    },
+    "explanations": {
+      "en": "Recently made, created, or discovered, not existing before or not used or owned previously by anyone.",
+      "de": "Kürzlich gemacht, erstellt oder entdeckt, nicht vorher existierend oder nicht zuvor von jemandem benutzt oder besessen.",
+      "ar": "تم صنعه أو إنشاؤه أو اكتشافه مؤخراً، لم يكن موجوداً من قبل أو لم يُستخدم أو يمتلكه أحد سابقاً.",
+      "fr": "Récemment fait, créé ou découvert, n'existant pas avant ou pas utilisé ou possédé précédemment par quiconque.",
+      "it": "Recentemente fatto, creato o scoperto, non esistente prima o non usato o posseduto precedentemente da nessuno.",
+      "ru": "Недавно сделанный, созданный или обнаруженный, не существовавший ранее или не использованный или принадлежавший кому-то ранее.",
+      "es": "Recientemente hecho, creado o descubierto, no existente antes o no usado o poseído previamente por nadie.",
+      "pl": "Niedawno zrobiony, stworzony lub odkryty, nieistniejący wcześniej lub nieużywany lub nieposiadany wcześniej przez nikogo.",
+      "fa": "اخیرا ساخته، ایجاد یا کشف شده، قبلا وجود نداشته یا قبلا توسط کسی استفاده یا مالکیت نشده."
+    },
+    "examples": {
+      "en": ["I have new shoes.", "This is a new car.", "I learned something new."],
+      "de": ["Ich habe neue Schuhe.", "Das ist ein neues Auto.", "Ich habe etwas Neues gelernt."],
+      "ar": ["لدي أحذية جديدة.", "هذه سيارة جديدة.", "تعلمت شيئاً جديداً."],
+      "fr": ["J'ai de nouvelles chaussures.", "C'est une nouvelle voiture.", "J'ai appris quelque chose de nouveau."],
+      "it": ["Ho scarpe nuove.", "Questa è una macchina nuova.", "Ho imparato qualcosa di nuovo."],
+      "ru": ["У меня новые туфли.", "Это новая машина.", "Я узнал что-то новое."],
+      "es": ["Tengo zapatos nuevos.", "Este es un auto nuevo.", "Aprendí algo nuevo."],
+      "pl": ["Mam nowe buty.", "To jest nowy samochód.", "Nauczyłem się czegoś nowego."],
+      "fa": ["من کفش جدید دارم.", "این یک ماشین جدید است.", "چیز جدیدی یاد گرفتم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_988_en",
+    "word": "old",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "old",
+      "de": "alt",
+      "ar": "قديم",
+      "fr": "vieux",
+      "it": "vecchio",
+      "ru": "старый",
+      "es": "viejo",
+      "pl": "stary",
+      "fa": "قدیمی"
+    },
+    "explanations": {
+      "en": "Having existed for a long time or no longer new, used, or worn for many years.",
+      "de": "Seit langer Zeit existierend oder nicht mehr neu, viele Jahre benutzt oder getragen.",
+      "ar": "موجود منذ فترة طويلة أو لم يعد جديداً، مستخدماً أو مرتدياً لسنوات عديدة.",
+      "fr": "Existant depuis longtemps ou n'étant plus nouveau, utilisé ou porté pendant de nombreuses années.",
+      "it": "Esistente da molto tempo o non più nuovo, usato o indossato per molti anni.",
+      "ru": "Существующий долгое время или больше не новый, использованный или ношенный много лет.",
+      "es": "Existente durante mucho tiempo o ya no nuevo, usado o llevado durante muchos años.",
+      "pl": "Istniejący od dawna lub już nie nowy, używany lub noszony przez wiele lat.",
+      "fa": "برای مدت طولانی وجود داشته یا دیگر جدید نیست، برای سال‌های زیادی استفاده یا پوشیده شده."
+    },
+    "examples": {
+      "en": ["I have old shoes.", "This is an old car.", "My friend is old."],
+      "de": ["Ich habe alte Schuhe.", "Das ist ein altes Auto.", "Mein Freund ist alt."],
+      "ar": ["لدي أحذية قديمة.", "هذه سيارة قديمة.", "صديقي عجوز."],
+      "fr": ["J'ai de vieilles chaussures.", "C'est une vieille voiture.", "Mon ami est vieux."],
+      "it": ["Ho scarpe vecchie.", "Questa è una macchina vecchia.", "Il mio amico è vecchio."],
+      "ru": ["У меня старые туфли.", "Это старая машина.", "Мой друг старый."],
+      "es": ["Tengo zapatos viejos.", "Este es un auto viejo.", "Mi amigo es viejo."],
+      "pl": ["Mam stare buty.", "To jest stary samochód.", "Mój przyjaciel jest stary."],
+      "fa": ["من کفش قدیمی دارم.", "این یک ماشین قدیمی است.", "دوست من مسن است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_989_en",
+    "word": "recent",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "recent",
+      "de": "neulich",
+      "ar": "حديث",
+      "fr": "récent",
+      "it": "recente",
+      "ru": "недавний",
+      "es": "reciente",
+      "pl": "niedawny",
+      "fa": "اخیر"
+    },
+    "explanations": {
+      "en": "Having happened, begun, or been done not long ago in the very near past.",
+      "de": "Nicht vor langer Zeit in der sehr nahen Vergangenheit geschehen, begonnen oder getan worden.",
+      "ar": "حدث أو بدأ أو تم القيام به منذ وقت ليس ببعيد في الماضي القريب جداً.",
+      "fr": "S'étant produit, commencé ou été fait il n'y a pas longtemps dans le passé très proche.",
+      "it": "Accaduto, iniziato o fatto non molto tempo fa nel passato molto vicino.",
+      "ru": "Произошедший, начавшийся или сделанный не так давно в очень недавнем прошлом.",
+      "es": "Habiendo sucedido, comenzado o sido hecho no hace mucho en el pasado muy cercano.",
+      "pl": "Zdarzony, rozpoczęty lub zrobiony niedawno w bardzo bliskiej przeszłości.",
+      "fa": "اتفاق افتاده، شروع شده یا انجام شده نه خیلی دور در گذشته بسیار نزدیک."
+    },
+    "examples": {
+      "en": ["This is recent news.", "I saw recent photos.", "In recent times now."],
+      "de": ["Das sind neuliche Nachrichten.", "Ich sah neuliche Fotos.", "In neulichen Zeiten jetzt."],
+      "ar": ["هذه أخبار حديثة.", "رأيت صوراً حديثة.", "في الأوقات الحديثة الآن."],
+      "fr": ["Ce sont des nouvelles récentes.", "J'ai vu des photos récentes.", "Dans les temps récents maintenant."],
+      "it": ["Queste sono notizie recenti.", "Ho visto foto recenti.", "Nei tempi recenti ora."],
+      "ru": ["Это недавние новости.", "Я видел недавние фотографии.", "В недавние времена сейчас."],
+      "es": ["Estas son noticias recientes.", "Vi fotos recientes.", "En tiempos recientes ahora."],
+      "pl": ["To są niedawne wiadomości.", "Widziałem niedawne zdjęcia.", "W niedawnych czasach teraz."],
+      "fa": ["این اخبار اخیر است.", "عکس‌های اخیر دیدم.", "در زمان‌های اخیر الان."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_990_en",
+    "word": "ago",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ago",
+      "de": "vor",
+      "ar": "منذ",
+      "fr": "il y a",
+      "it": "fa",
+      "ru": "назад",
+      "es": "hace",
+      "pl": "temu",
+      "fa": "پیش"
+    },
+    "explanations": {
+      "en": "Used to indicate how far back in the past something happened from the present time.",
+      "de": "Verwendet, um anzuzeigen, wie weit in der Vergangenheit etwas von der Gegenwart geschah.",
+      "ar": "يُستخدم للإشارة إلى المدة الزمنية في الماضي التي حدث فيها شيء من الوقت الحالي.",
+      "fr": "Utilisé pour indiquer combien de temps dans le passé quelque chose s'est produit depuis le temps présent.",
+      "it": "Usato per indicare quanto tempo fa nel passato è successo qualcosa dal tempo presente.",
+      "ru": "Используется для указания, как далеко в прошлом что-то произошло от настоящего времени.",
+      "es": "Usado para indicar cuánto tiempo atrás en el pasado sucedió algo desde el tiempo presente.",
+      "pl": "Używany do wskazania jak dawno temu w przeszłości coś się wydarzyło od teraźniejszości.",
+      "fa": "برای نشان دادن اینکه چقدر در گذشته چیزی از زمان حال اتفاق افتاده استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I saw you three days ago.", "He left two hours ago.", "That was long ago."],
+      "de": ["Ich sah dich vor drei Tagen.", "Er ging vor zwei Stunden.", "Das war vor langer Zeit."],
+      "ar": ["رأيتك منذ ثلاثة أيام.", "غادر منذ ساعتين.", "كان ذلك منذ زمن طويل."],
+      "fr": ["Je t'ai vu il y a trois jours.", "Il est parti il y a deux heures.", "C'était il y a longtemps."],
+      "it": ["Ti ho visto tre giorni fa.", "È partito due ore fa.", "Era molto tempo fa."],
+      "ru": ["Я видел тебя три дня назад.", "Он ушёл два часа назад.", "Это было давно."],
+      "es": ["Te vi hace tres días.", "Se fue hace dos horas.", "Eso fue hace mucho tiempo."],
+      "pl": ["Widziałem cię trzy dni temu.", "Wyszedł dwie godziny temu.", "To było dawno temu."],
+      "fa": ["سه روز پیش تو را دیدم.", "او دو ساعت پیش رفت.", "آن خیلی وقت پیش بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_991_en",
+    "word": "soon",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "soon",
+      "de": "bald",
+      "ar": "قريباً",
+      "fr": "bientôt",
+      "it": "presto",
+      "ru": "скоро",
+      "es": "pronto",
+      "pl": "wkrótce",
+      "fa": "به زودی"
+    },
+    "explanations": {
+      "en": "In the near future or after a short time from now, not taking much time to happen.",
+      "de": "In der nahen Zukunft oder nach kurzer Zeit von jetzt, nicht viel Zeit brauchend um zu geschehen.",
+      "ar": "في المستقبل القريب أو بعد وقت قصير من الآن، لا يستغرق وقتاً طويلاً ليحدث.",
+      "fr": "Dans un proche avenir ou après un court laps de temps à partir de maintenant, ne prenant pas beaucoup de temps pour se produire.",
+      "it": "Nel prossimo futuro o dopo poco tempo da adesso, non impiegando molto tempo ad accadere.",
+      "ru": "В ближайшем будущем или через короткое время от сейчас, не занимая много времени, чтобы произойти.",
+      "es": "En el futuro cercano o después de poco tiempo desde ahora, sin tomar mucho tiempo para suceder.",
+      "pl": "W niedalekiej przyszłości lub po krótkim czasie od teraz, nie zajmując dużo czasu aby się wydarzyć.",
+      "fa": "در آینده نزدیک یا پس از مدت کوتاهی از الان، زمان زیادی برای اتفاق افتادن نمی‌برد."
+    },
+    "examples": {
+      "en": ["I will come soon.", "See you very soon.", "This will happen soon."],
+      "de": ["Ich werde bald kommen.", "Bis bald.", "Das wird bald geschehen."],
+      "ar": ["سآتي قريباً.", "أراك قريباً جداً.", "سيحدث هذا قريباً."],
+      "fr": ["Je viendrai bientôt.", "À très bientôt.", "Cela va arriver bientôt."],
+      "it": ["Verrò presto.", "A presto.", "Questo accadrà presto."],
+      "ru": ["Я приду скоро.", "До скорого.", "Это произойдёт скоро."],
+      "es": ["Vendré pronto.", "Nos vemos muy pronto.", "Esto sucederá pronto."],
+      "pl": ["Przyjdę wkrótce.", "Do zobaczenia wkrótce.", "To się wkrótce wydarzy."],
+      "fa": ["به زودی می‌آیم.", "خیلی زود می‌بینمت.", "این به زودی اتفاق می‌افتد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_992_en",
+    "word": "later",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "later",
+      "de": "später",
+      "ar": "لاحقاً",
+      "fr": "plus tard",
+      "it": "dopo",
+      "ru": "позже",
+      "es": "después",
+      "pl": "później",
+      "fa": "بعدا"
+    },
+    "explanations": {
+      "en": "At a time in the future or after the present moment or another specified time has passed.",
+      "de": "Zu einem Zeitpunkt in der Zukunft oder nachdem der gegenwärtige Moment oder eine andere festgelegte Zeit vergangen ist.",
+      "ar": "في وقت في المستقبل أو بعد مرور اللحظة الحالية أو وقت محدد آخر.",
+      "fr": "À un moment dans le futur ou après le passage du moment présent ou d'un autre temps spécifié.",
+      "it": "In un momento nel futuro o dopo il passaggio del momento presente o di un altro tempo specificato.",
+      "ru": "В момент в будущем или после прохождения настоящего момента или другого указанного времени.",
+      "es": "En un momento en el futuro o después de que pase el momento presente u otro tiempo especificado.",
+      "pl": "W momencie w przyszłości lub po upływie obecnej chwili lub innego określonego czasu.",
+      "fa": "در لحظه‌ای در آینده یا پس از گذشتن لحظه حال یا زمان مشخص دیگری."
+    },
+    "examples": {
+      "en": ["I will come later.", "See you later now.", "We can talk later."],
+      "de": ["Ich werde später kommen.", "Bis später.", "Wir können später reden."],
+      "ar": ["سآتي لاحقاً.", "أراك لاحقاً الآن.", "يمكننا أن نتحدث لاحقاً."],
+      "fr": ["Je viendrai plus tard.", "À plus tard maintenant.", "Nous pouvons parler plus tard."],
+      "it": ["Verrò dopo.", "Ci vediamo dopo ora.", "Possiamo parlare dopo."],
+      "ru": ["Я приду позже.", "До встречи позже сейчас.", "Мы можем поговорить позже."],
+      "es": ["Vendré después.", "Nos vemos después ahora.", "Podemos hablar después."],
+      "pl": ["Przyjdę później.", "Do zobaczenia później teraz.", "Możemy porozmawiać później."],
+      "fa": ["بعدا می‌آیم.", "الان بعدا می‌بینمت.", "می‌توانیم بعدا حرف بزنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_993_en",
+    "word": "tomorrow",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "tomorrow",
+      "de": "morgen",
+      "ar": "غداً",
+      "fr": "demain",
+      "it": "domani",
+      "ru": "завтра",
+      "es": "mañana",
+      "pl": "jutro",
+      "fa": "فردا"
+    },
+    "explanations": {
+      "en": "The day after today or the day that comes next after the current day ends.",
+      "de": "Der Tag nach heute oder der Tag, der als nächstes kommt, nachdem der aktuelle Tag endet.",
+      "ar": "اليوم الذي يلي اليوم أو اليوم الذي يأتي بعد انتهاء اليوم الحالي.",
+      "fr": "Le jour après aujourd'hui ou le jour qui vient ensuite après la fin du jour actuel.",
+      "it": "Il giorno dopo oggi o il giorno che viene dopo la fine del giorno corrente.",
+      "ru": "День после сегодняшнего или день, который наступит после окончания текущего дня.",
+      "es": "El día después de hoy o el día que viene después de que termine el día actual.",
+      "pl": "Dzień po dzisiejszym lub dzień, który nadchodzi po zakończeniu obecnego dnia.",
+      "fa": "روز بعد از امروز یا روزی که بعد از پایان روز کنونی می‌آید."
+    },
+    "examples": {
+      "en": ["I go tomorrow morning.", "See you tomorrow here.", "Tomorrow is a new day."],
+      "de": ["Ich gehe morgen früh.", "Bis morgen hier.", "Morgen ist ein neuer Tag."],
+      "ar": ["أذهب غداً صباحاً.", "أراك غداً هنا.", "الغد يوم جديد."],
+      "fr": ["Je pars demain matin.", "À demain ici.", "Demain est un nouveau jour."],
+      "it": ["Vado domani mattina.", "Ci vediamo domani qui.", "Domani è un nuovo giorno."],
+      "ru": ["Я иду завтра утром.", "До завтра здесь.", "Завтра новый день."],
+      "es": ["Voy mañana por la mañana.", "Nos vemos mañana aquí.", "Mañana es un nuevo día."],
+      "pl": ["Idę jutro rano.", "Do zobaczenia jutro tutaj.", "Jutro jest nowy dzień."],
+      "fa": ["من فردا صبح می‌روم.", "فردا اینجا می‌بینمت.", "فردا یک روز جدید است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_994_en",
+    "word": "yesterday",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "yesterday",
+      "de": "gestern",
+      "ar": "أمس",
+      "fr": "hier",
+      "it": "ieri",
+      "ru": "вчера",
+      "es": "ayer",
+      "pl": "wczoraj",
+      "fa": "دیروز"
+    },
+    "explanations": {
+      "en": "The day before today or the day that came right before the current day started.",
+      "de": "Der Tag vor heute oder der Tag, der direkt kam, bevor der aktuelle Tag begann.",
+      "ar": "اليوم الذي قبل اليوم أو اليوم الذي جاء مباشرة قبل بداية اليوم الحالي.",
+      "fr": "Le jour avant aujourd'hui ou le jour qui est venu juste avant que le jour actuel ne commence.",
+      "it": "Il giorno prima di oggi o il giorno venuto proprio prima dell'inizio del giorno corrente.",
+      "ru": "День до сегодняшнего или день, который был прямо перед началом текущего дня.",
+      "es": "El día antes de hoy o el día que vino justo antes de que comenzara el día actual.",
+      "pl": "Dzień przed dzisiejszym lub dzień, który przyszedł tuż przed rozpoczęciem obecnego dnia.",
+      "fa": "روز قبل از امروز یا روزی که درست قبل از شروع روز کنونی آمد."
+    },
+    "examples": {
+      "en": ["I saw you yesterday.", "Yesterday was a good day.", "I came here yesterday."],
+      "de": ["Ich sah dich gestern.", "Gestern war ein guter Tag.", "Ich kam gestern hierher."],
+      "ar": ["رأيتك أمس.", "كان الأمس يوماً جيداً.", "جئت إلى هنا أمس."],
+      "fr": ["Je t'ai vu hier.", "Hier était un bon jour.", "Je suis venu ici hier."],
+      "it": ["Ti ho visto ieri.", "Ieri è stato un buon giorno.", "Sono venuto qui ieri."],
+      "ru": ["Я видел тебя вчера.", "Вчера был хороший день.", "Я пришёл сюда вчера."],
+      "es": ["Te vi ayer.", "Ayer fue un buen día.", "Vine aquí ayer."],
+      "pl": ["Widziałem cię wczoraj.", "Wczoraj był dobry dzień.", "Przyszedłem tutaj wczoraj."],
+      "fa": ["دیروز تو را دیدم.", "دیروز روز خوبی بود.", "من دیروز اینجا آمدم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_995_en",
+    "word": "today",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "today",
+      "de": "heute",
+      "ar": "اليوم",
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "ru": "сегодня",
+      "es": "hoy",
+      "pl": "dzisiaj",
+      "fa": "امروز"
+    },
+    "explanations": {
+      "en": "This present day we are currently experiencing or living through right now at this moment.",
+      "de": "Dieser gegenwärtige Tag, den wir gerade erleben oder durchleben genau jetzt in diesem Moment.",
+      "ar": "هذا اليوم الحالي الذي نعيشه حالياً أو نمر به الآن في هذه اللحظة.",
+      "fr": "Ce jour présent que nous vivons actuellement ou traversons maintenant en ce moment.",
+      "it": "Questo giorno presente che stiamo attualmente vivendo o attraversando proprio ora in questo momento.",
+      "ru": "Этот настоящий день, который мы сейчас переживаем или проживаем прямо сейчас в этот момент.",
+      "es": "Este día presente que estamos experimentando o viviendo ahora mismo en este momento.",
+      "pl": "Ten obecny dzień, który obecnie przeżywamy lub przez który przechodzimy teraz w tym momencie.",
+      "fa": "این روز حاضری که در حال حاضر تجربه یا زندگی می‌کنیم همین الان در این لحظه."
+    },
+    "examples": {
+      "en": ["I feel good today.", "Today is a nice day.", "What are you doing today?"],
+      "de": ["Ich fühle mich heute gut.", "Heute ist ein schöner Tag.", "Was machst du heute?"],
+      "ar": ["أشعر بشعور جيد اليوم.", "اليوم يوم جميل.", "ماذا تفعل اليوم؟"],
+      "fr": ["Je me sens bien aujourd'hui.", "Aujourd'hui est une belle journée.", "Que fais-tu aujourd'hui?"],
+      "it": ["Mi sento bene oggi.", "Oggi è una bella giornata.", "Cosa stai facendo oggi?"],
+      "ru": ["Я чувствую себя хорошо сегодня.", "Сегодня хороший день.", "Что ты делаешь сегодня?"],
+      "es": ["Me siento bien hoy.", "Hoy es un día bonito.", "¿Qué estás haciendo hoy?"],
+      "pl": ["Czuję się dobrze dzisiaj.", "Dzisiaj jest ładny dzień.", "Co robisz dzisiaj?"],
+      "fa": ["امروز احساس خوبی دارم.", "امروز روز خوبی است.", "امروز چه می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_996_en",
+    "word": "already",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "already",
+      "de": "schon",
+      "ar": "بالفعل",
+      "fr": "déjà",
+      "it": "già",
+      "ru": "уже",
+      "es": "ya",
+      "pl": "już",
+      "fa": "قبلا"
+    },
+    "explanations": {
+      "en": "Before or by now, or sooner than expected, indicating that something has happened before this time.",
+      "de": "Vorher oder bis jetzt, oder früher als erwartet, anzeigend dass etwas vor dieser Zeit geschehen ist.",
+      "ar": "قبل أو بحلول الآن، أو أسرع من المتوقع، يشير إلى أن شيئاً ما حدث قبل هذا الوقت.",
+      "fr": "Avant ou d'ici maintenant, ou plus tôt que prévu, indiquant que quelque chose s'est passé avant ce moment.",
+      "it": "Prima o entro ora, o prima del previsto, indicando che qualcosa è accaduto prima di questo momento.",
+      "ru": "До или к настоящему времени, или раньше, чем ожидалось, указывая, что что-то произошло до этого времени.",
+      "es": "Antes o para ahora, o antes de lo esperado, indicando que algo ha sucedido antes de este momento.",
+      "pl": "Wcześniej lub do teraz, lub wcześniej niż oczekiwano, wskazując, że coś wydarzyło się przed tym czasem.",
+      "fa": "قبل یا تا الان، یا زودتر از حد انتظار، نشان می‌دهد که چیزی قبل از این زمان اتفاق افتاده."
+    },
+    "examples": {
+      "en": ["I already know this.", "We already finished work.", "He left already."],
+      "de": ["Ich weiß das schon.", "Wir haben die Arbeit schon beendet.", "Er ist schon gegangen."],
+      "ar": ["أعرف هذا بالفعل.", "لقد أنهينا العمل بالفعل.", "لقد غادر بالفعل."],
+      "fr": ["Je sais déjà ça.", "Nous avons déjà fini le travail.", "Il est déjà parti."],
+      "it": ["So già questo.", "Abbiamo già finito il lavoro.", "È già partito."],
+      "ru": ["Я уже знаю это.", "Мы уже закончили работу.", "Он уже ушёл."],
+      "es": ["Ya sé esto.", "Ya terminamos el trabajo.", "Ya se fue."],
+      "pl": ["Już to wiem.", "Już skończyliśmy pracę.", "On już wyszedł."],
+      "fa": ["من قبلا این را می‌دانم.", "ما قبلا کار را تمام کردیم.", "او قبلا رفت."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_997_en",
+    "word": "yet",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "yet",
+      "de": "noch",
+      "ar": "بعد",
+      "fr": "encore",
+      "it": "ancora",
+      "ru": "ещё",
+      "es": "todavía",
+      "pl": "jeszcze",
+      "fa": "هنوز"
+    },
+    "explanations": {
+      "en": "Up until now or up to this time, used to indicate something has not happened but is expected to.",
+      "de": "Bis jetzt oder bis zu dieser Zeit, verwendet um anzuzeigen, dass etwas nicht geschehen ist, aber erwartet wird.",
+      "ar": "حتى الآن أو حتى هذا الوقت، يُستخدم للإشارة إلى أن شيئاً ما لم يحدث ولكن من المتوقع أن يحدث.",
+      "fr": "Jusqu'à maintenant ou jusqu'à ce moment, utilisé pour indiquer que quelque chose ne s'est pas produit mais est attendu.",
+      "it": "Fino ad ora o fino a questo momento, usato per indicare che qualcosa non è accaduto ma è atteso.",
+      "ru": "До сих пор или до этого времени, используется для указания, что что-то не произошло, но ожидается.",
+      "es": "Hasta ahora o hasta este momento, usado para indicar que algo no ha sucedido pero se espera que suceda.",
+      "pl": "Do teraz lub do tego czasu, używane do wskazania, że coś się nie wydarzyło, ale jest oczekiwane.",
+      "fa": "تا الان یا تا این زمان، برای نشان دادن اینکه چیزی اتفاق نیافتاده اما انتظار می‌رود استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["I don't know yet.", "Have you finished yet?", "Not yet, I'm sorry."],
+      "de": ["Ich weiß noch nicht.", "Bist du schon fertig?", "Noch nicht, tut mir leid."],
+      "ar": ["لا أعرف بعد.", "هل انتهيت بعد؟", "ليس بعد، أنا آسف."],
+      "fr": ["Je ne sais pas encore.", "As-tu fini encore?", "Pas encore, je suis désolé."],
+      "it": ["Non so ancora.", "Hai finito ancora?", "Non ancora, mi dispiace."],
+      "ru": ["Я ещё не знаю.", "Ты уже закончил?", "Ещё нет, извини."],
+      "es": ["No sé todavía.", "¿Ya terminaste?", "Todavía no, lo siento."],
+      "pl": ["Jeszcze nie wiem.", "Skończyłeś już?", "Jeszcze nie, przepraszam."],
+      "fa": ["هنوز نمی‌دانم.", "تمام کردی هنوز؟", "هنوز نه، متاسفم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_998_en",
+    "word": "still",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "still",
+      "de": "noch",
+      "ar": "ما زال",
+      "fr": "encore",
+      "it": "ancora",
+      "ru": "всё ещё",
+      "es": "todavía",
+      "pl": "nadal",
+      "fa": "هنوز"
+    },
+    "explanations": {
+      "en": "Continuing up to the present time or continuing without stopping or changing despite what has happened.",
+      "de": "Bis zur Gegenwart fortfahrend oder ohne Stoppen oder Ändern fortfahrend trotz dessen, was geschehen ist.",
+      "ar": "الاستمرار حتى الوقت الحالي أو الاستمرار دون توقف أو تغيير على الرغم مما حدث.",
+      "fr": "Continuant jusqu'au temps présent ou continuant sans s'arrêter ou changer malgré ce qui s'est passé.",
+      "it": "Continuando fino al tempo presente o continuando senza fermarsi o cambiare nonostante quello che è successo.",
+      "ru": "Продолжающийся до настоящего времени или продолжающийся без остановки или изменения несмотря на то, что произошло.",
+      "es": "Continuando hasta el tiempo presente o continuando sin parar o cambiar a pesar de lo que ha sucedido.",
+      "pl": "Kontynuujący się do czasu teraźniejszego lub kontynuujący bez zatrzymania lub zmiany pomimo tego, co się wydarzyło.",
+      "fa": "ادامه دادن تا زمان حال یا ادامه دادن بدون توقف یا تغییر علی‌رغم آنچه اتفاق افتاده."
+    },
+    "examples": {
+      "en": ["I still love you.", "Is he still here?", "We are still working."],
+      "de": ["Ich liebe dich noch.", "Ist er noch hier?", "Wir arbeiten noch."],
+      "ar": ["ما زلت أحبك.", "هل ما زال هنا؟", "ما زلنا نعمل."],
+      "fr": ["Je t'aime encore.", "Est-il encore ici?", "Nous travaillons encore."],
+      "it": ["Ti amo ancora.", "È ancora qui?", "Stiamo ancora lavorando."],
+      "ru": ["Я всё ещё люблю тебя.", "Он всё ещё здесь?", "Мы всё ещё работаем."],
+      "es": ["Todavía te amo.", "¿Todavía está aquí?", "Todavía estamos trabajando."],
+      "pl": ["Nadal cię kocham.", "Czy on nadal jest tutaj?", "Nadal pracujemy."],
+      "fa": ["هنوز دوستت دارم.", "او هنوز اینجاست؟", "ما هنوز کار می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_999_en",
+    "word": "always",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "always",
+      "de": "immer",
+      "ar": "دائماً",
+      "fr": "toujours",
+      "it": "sempre",
+      "ru": "всегда",
+      "es": "siempre",
+      "pl": "zawsze",
+      "fa": "همیشه"
+    },
+    "explanations": {
+      "en": "At all times or on every occasion without exception, happening continuously or repeatedly throughout time.",
+      "de": "Zu allen Zeiten oder bei jeder Gelegenheit ohne Ausnahme, kontinuierlich oder wiederholt im Laufe der Zeit geschehend.",
+      "ar": "في جميع الأوقات أو في كل مناسبة بدون استثناء، يحدث بشكل مستمر أو متكرر طوال الوقت.",
+      "fr": "À tous les moments ou à chaque occasion sans exception, se produisant continuellement ou de manière répétée dans le temps.",
+      "it": "In tutti i momenti o in ogni occasione senza eccezione, accadendo continuamente o ripetutamente nel tempo.",
+      "ru": "Всё время или при каждом случае без исключения, происходящее постоянно или повторно на протяжении времени.",
+      "es": "En todo momento o en cada ocasión sin excepción, sucediendo continuamente o repetidamente a lo largo del tiempo.",
+      "pl": "Przez cały czas lub przy każdej okazji bez wyjątku, dzieje się ciągle lub wielokrotnie w czasie.",
+      "fa": "در تمام اوقات یا در هر مناسبتی بدون استثنا، به طور مداوم یا مکرر در طول زمان اتفاق می‌افتد."
+    },
+    "examples": {
+      "en": ["I always wake early.", "She is always happy.", "We always eat together."],
+      "de": ["Ich wache immer früh auf.", "Sie ist immer glücklich.", "Wir essen immer zusammen."],
+      "ar": ["أستيقظ دائماً مبكراً.", "هي دائماً سعيدة.", "نأكل دائماً معاً."],
+      "fr": ["Je me réveille toujours tôt.", "Elle est toujours heureuse.", "Nous mangeons toujours ensemble."],
+      "it": ["Mi sveglio sempre presto.", "Lei è sempre felice.", "Mangiamo sempre insieme."],
+      "ru": ["Я всегда просыпаюсь рано.", "Она всегда счастлива.", "Мы всегда едим вместе."],
+      "es": ["Siempre me despierto temprano.", "Ella siempre está feliz.", "Siempre comemos juntos."],
+      "pl": ["Zawsze budzę się wcześnie.", "Ona jest zawsze szczęśliwa.", "Zawsze jemy razem."],
+      "fa": ["همیشه زود بیدار می‌شوم.", "او همیشه خوشحال است.", "ما همیشه با هم غذا می‌خوریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_1000_en",
+    "word": "never",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "never",
+      "de": "niemals",
+      "ar": "أبداً",
+      "fr": "jamais",
+      "it": "mai",
+      "ru": "никогда",
+      "es": "nunca",
+      "pl": "nigdy",
+      "fa": "هرگز"
+    },
+    "explanations": {
+      "en": "Not at any time or not on any occasion, not ever happening or being done at all.",
+      "de": "Zu keiner Zeit oder bei keiner Gelegenheit, niemals überhaupt geschehend oder getan werdend.",
+      "ar": "ليس في أي وقت أو ليس في أي مناسبة، لا يحدث أو يتم على الإطلاق.",
+      "fr": "Pas à aucun moment ou pas à aucune occasion, ne se produisant ou n'étant fait du tout.",
+      "it": "Non in nessun momento o non in nessuna occasione, non accade mai o viene fatto affatto.",
+      "ru": "Ни в какое время или ни при каких обстоятельствах, никогда не происходящее или не делающееся вообще.",
+      "es": "No en ningún momento o no en ninguna ocasión, nunca sucediendo o siendo hecho en absoluto.",
+      "pl": "Nie w żadnym czasie lub nie przy żadnej okazji, nigdy się nie wydarza lub nie jest robione wcale.",
+      "fa": "در هیچ زمانی یا در هیچ مناسبتی نه، هرگز اتفاق نمی‌افتد یا انجام نمی‌شود."
+    },
+    "explanations": {
+      "en": "Not at any time or not on any occasion, not ever happening or being done at all.",
+      "de": "Zu keiner Zeit oder bei keiner Gelegenheit, niemals überhaupt geschehend oder getan werdend.",
+      "ar": "ليس في أي وقت أو ليس في أي مناسبة، لا يحدث أو يتم على الإطلاق.",
+      "fr": "Pas à aucun moment ou pas à aucune occasion, ne se produisant ou n'étant fait du tout.",
+      "it": "Non in nessun momento o non in nessuna occasione, non accade mai o viene fatto affatto.",
+      "ru": "Ни в какое время или ни при каких обстоятельствах, никогда не происходящее или не делающееся вообще.",
+      "es": "No en ningún momento o no en ninguna ocasión, nunca sucediendo o siendo hecho en absoluto.",
+      "pl": "Nie w żadnym czasie lub nie przy żadnej okazji, nigdy się nie wydarza lub nie jest robione wcale.",
+      "fa": "در هیچ زمانی یا در هیچ مناسبتی نه، هرگز اتفاق نمی‌افتد یا انجام نمی‌شود."
+    },
+    "examples": {
+      "en": ["I never wake late.", "She is never sad.", "We never give up."],
+      "de": ["Ich wache niemals spät auf.", "Sie ist niemals traurig.", "Wir geben niemals auf."],
+      "ar": ["لا أستيقظ متأخراً أبداً.", "هي ليست حزينة أبداً.", "لا نستسلم أبداً."],
+      "fr": ["Je ne me réveille jamais tard.", "Elle n'est jamais triste.", "Nous n'abandonnons jamais."],
+      "it": ["Non mi sveglio mai tardi.", "Lei non è mai triste.", "Non ci arrendiamo mai."],
+      "ru": ["Я никогда не просыпаюсь поздно.", "Она никогда не грустная.", "Мы никогда не сдаёмся."],
+      "es": ["Nunca me despierto tarde.", "Ella nunca está triste.", "Nunca nos rendimos."],
+      "pl": ["Nigdy nie budzę się późno.", "Ona nigdy nie jest smutna.", "Nigdy się nie poddajemy."],
+      "fa": ["هرگز دیر بیدار نمی‌شوم.", "او هرگز غمگین نیست.", "ما هرگز تسلیم نمی‌شویم."]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_661_en",
+    "word": "weather",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "weather",
+      "de": "Wetter",
+      "ar": "طقس",
+      "fr": "temps",
+      "it": "tempo",
+      "ru": "погода",
+      "es": "clima",
+      "pl": "pogoda",
+      "fa": "آب و هوا"
+    },
+    "explanations": {
+      "en": "The condition of the air outside at a certain time, such as if it is sunny, rainy, hot, or cold.",
+      "de": "Der Zustand der Luft draußen zu einer bestimmten Zeit, z.B. ob es sonnig, regnerisch, heiß oder kalt ist.",
+      "ar": "حالة الهواء في الخارج في وقت معين، مثل ما إذا كان مشمساً أو ممطراً أو حاراً أو بارداً.",
+      "fr": "La condition de l'air à l'extérieur à un certain moment, comme s'il fait soleil, pluie, chaud ou froid.",
+      "it": "La condizione dell'aria all'esterno in un certo momento, come se è soleggiato, piovoso, caldo o freddo.",
+      "ru": "Состояние воздуха снаружи в определенное время, например, солнечно ли, дождливо, жарко или холодно.",
+      "es": "La condición del aire afuera en un momento determinado, como si hace sol, lluvia, calor o frío.",
+      "pl": "Stan powietrza na zewnątrz w określonym czasie, na przykład czy jest słonecznie, deszczowo, gorąco czy zimno.",
+      "fa": "وضعیت هوا در بیرون در زمان خاصی، مانند اینکه آفتابی، بارانی، گرم یا سرد است."
+    },
+    "examples": {
+      "en": ["The weather is nice today.", "I like good weather.", "What is the weather?"],
+      "de": ["Das Wetter ist heute schön.", "Ich mag gutes Wetter.", "Wie ist das Wetter?"],
+      "ar": ["الطقس جميل اليوم.", "أحب الطقس الجيد.", "ما هو الطقس؟"],
+      "fr": ["Le temps est beau aujourd'hui.", "J'aime le beau temps.", "Quel est le temps?"],
+      "it": ["Il tempo è bello oggi.", "Mi piace il bel tempo.", "Com'è il tempo?"],
+      "ru": ["Сегодня хорошая погода.", "Мне нравится хорошая погода.", "Какая погода?"],
+      "es": ["El clima es agradable hoy.", "Me gusta el buen clima.", "¿Cómo está el clima?"],
+      "pl": ["Pogoda jest ładna dzisiaj.", "Lubię dobrą pogodę.", "Jaka jest pogoda?"],
+      "fa": ["امروز هوا خوب است.", "من هوای خوب را دوست دارم.", "هوا چطور است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_662_en",
+    "word": "sun",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sun",
+      "de": "Sonne",
+      "ar": "شمس",
+      "fr": "soleil",
+      "it": "sole",
+      "ru": "солнце",
+      "es": "sol",
+      "pl": "słońce",
+      "fa": "خورشید"
+    },
+    "explanations": {
+      "en": "The bright star in the sky that gives us light and heat during the day and makes the day bright and warm.",
+      "de": "Der helle Stern am Himmel, der uns tagsüber Licht und Wärme gibt und den Tag hell und warm macht.",
+      "ar": "النجم الساطع في السماء الذي يعطينا الضوء والحرارة أثناء النهار ويجعل النهار مشرقاً ودافئاً.",
+      "fr": "L'étoile brillante dans le ciel qui nous donne de la lumière et de la chaleur pendant la journée et rend le jour lumineux et chaud.",
+      "it": "La stella luminosa nel cielo che ci dà luce e calore durante il giorno e rende il giorno luminoso e caldo.",
+      "ru": "Яркая звезда на небе, которая дает нам свет и тепло днем и делает день ярким и теплым.",
+      "es": "La estrella brillante en el cielo que nos da luz y calor durante el día y hace que el día sea brillante y cálido.",
+      "pl": "Jasna gwiazda na niebie, która daje nam światło i ciepło w ciągu dnia i sprawia, że dzień jest jasny i ciepły.",
+      "fa": "ستاره درخشانی در آسمان که در طول روز به ما نور و گرما می‌دهد و روز را روشن و گرم می‌کند."
+    },
+    "examples": {
+      "en": ["The sun is bright.", "I see the sun.", "We need sun."],
+      "de": ["Die Sonne ist hell.", "Ich sehe die Sonne.", "Wir brauchen Sonne."],
+      "ar": ["الشمس ساطعة.", "أرى الشمس.", "نحتاج الشمس."],
+      "fr": ["Le soleil est brillant.", "Je vois le soleil.", "Nous avons besoin de soleil."],
+      "it": ["Il sole è luminoso.", "Vedo il sole.", "Abbiamo bisogno di sole."],
+      "ru": ["Солнце яркое.", "Я вижу солнце.", "Нам нужно солнце."],
+      "es": ["El sol es brillante.", "Veo el sol.", "Necesitamos sol."],
+      "pl": ["Słońce jest jasne.", "Widzę słońce.", "Potrzebujemy słońca."],
+      "fa": ["خورشید درخشان است.", "من خورشید را می‌بینم.", "ما به خورشید نیاز داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_663_en",
+    "word": "rain",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "rain",
+      "de": "Regen",
+      "ar": "مطر",
+      "fr": "pluie",
+      "it": "pioggia",
+      "ru": "дождь",
+      "es": "lluvia",
+      "pl": "deszcz",
+      "fa": "باران"
+    },
+    "explanations": {
+      "en": "Water that falls from clouds in the sky in small drops, making the ground wet and helping plants to grow.",
+      "de": "Wasser, das in kleinen Tropfen aus Wolken am Himmel fällt, den Boden nass macht und Pflanzen beim Wachsen hilft.",
+      "ar": "الماء الذي يسقط من الغيوم في السماء على شكل قطرات صغيرة، يجعل الأرض رطبة ويساعد النباتات على النمو.",
+      "fr": "L'eau qui tombe des nuages dans le ciel en petites gouttes, rendant le sol humide et aidant les plantes à pousser.",
+      "it": "L'acqua che cade dalle nuvole nel cielo in piccole gocce, rendendo il terreno umido e aiutando le piante a crescere.",
+      "ru": "Вода, которая падает из облаков на небе маленькими каплями, делая землю мокрой и помогая растениям расти.",
+      "es": "El agua que cae de las nubes en el cielo en pequeñas gotas, mojando el suelo y ayudando a las plantas a crecer.",
+      "pl": "Woda, która spada z chmur na niebie w małych kropelkach, robiąc ziemię mokrą i pomagając roślinom rosnąć.",
+      "fa": "آبی که از ابرها در آسمان به صورت قطرات کوچک می‌بارد، زمین را خیس می‌کند و به گیاهان کمک می‌کند تا رشد کنند."
+    },
+    "examples": {
+      "en": ["I see the rain.", "The rain is cold.", "We need rain."],
+      "de": ["Ich sehe den Regen.", "Der Regen ist kalt.", "Wir brauchen Regen."],
+      "ar": ["أرى المطر.", "المطر بارد.", "نحتاج المطر."],
+      "fr": ["Je vois la pluie.", "La pluie est froide.", "Nous avons besoin de pluie."],
+      "it": ["Vedo la pioggia.", "La pioggia è fredda.", "Abbiamo bisogno di pioggia."],
+      "ru": ["Я вижу дождь.", "Дождь холодный.", "Нам нужен дождь."],
+      "es": ["Veo la lluvia.", "La lluvia es fría.", "Necesitamos lluvia."],
+      "pl": ["Widzę deszcz.", "Deszcz jest zimny.", "Potrzebujemy deszczu."],
+      "fa": ["من باران را می‌بینم.", "باران سرد است.", "ما به باران نیاز داریم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_664_en",
+    "word": "snow",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "snow",
+      "de": "Schnee",
+      "ar": "ثلج",
+      "fr": "neige",
+      "it": "neve",
+      "ru": "снег",
+      "es": "nieve",
+      "pl": "śnieg",
+      "fa": "برف"
+    },
+    "explanations": {
+      "en": "Soft white frozen water that falls from the sky in cold weather and covers the ground like a white blanket.",
+      "de": "Weiches weißes gefrorenes Wasser, das bei kaltem Wetter vom Himmel fällt und den Boden wie eine weiße Decke bedeckt.",
+      "ar": "ماء أبيض ناعم متجمد يسقط من السماء في الطقس البارد ويغطي الأرض مثل بطانية بيضاء.",
+      "fr": "De l'eau gelée blanche et douce qui tombe du ciel par temps froid et couvre le sol comme une couverture blanche.",
+      "it": "Acqua ghiacciata bianca e morbida che cade dal cielo con il freddo e copre il terreno come una coperta bianca.",
+      "ru": "Мягкая белая замерзшая вода, которая падает с неба в холодную погоду и покрывает землю как белое одеяло.",
+      "es": "Agua congelada blanca y suave que cae del cielo en clima frío y cubre el suelo como una manta blanca.",
+      "pl": "Miękka biała zamarznięta woda, która spada z nieba w zimną pogodę i pokrywa ziemię jak biały koc.",
+      "fa": "آب یخ زده سفید و نرمی که در هوای سرد از آسمان می‌بارد و زمین را مانند پتوی سفیدی می‌پوشاند."
+    },
+    "examples": {
+      "en": ["I see white snow.", "The snow is cold.", "We play in snow."],
+      "de": ["Ich sehe weißen Schnee.", "Der Schnee ist kalt.", "Wir spielen im Schnee."],
+      "ar": ["أرى ثلجاً أبيض.", "الثلج بارد.", "نلعب في الثلج."],
+      "fr": ["Je vois de la neige blanche.", "La neige est froide.", "Nous jouons dans la neige."],
+      "it": ["Vedo neve bianca.", "La neve è fredda.", "Giochiamo nella neve."],
+      "ru": ["Я вижу белый снег.", "Снег холодный.", "Мы играем в снегу."],
+      "es": ["Veo nieve blanca.", "La nieve es fría.", "Jugamos en la nieve."],
+      "pl": ["Widzę biały śnieg.", "Śnieg jest zimny.", "Bawimy się w śniegu."],
+      "fa": ["من برف سفید می‌بینم.", "برف سرد است.", "ما در برف بازی می‌کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_665_en",
+    "word": "wind",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wind",
+      "de": "Wind",
+      "ar": "رياح",
+      "fr": "vent",
+      "it": "vento",
+      "ru": "ветер",
+      "es": "viento",
+      "pl": "wiatr",
+      "fa": "باد"
+    },
+    "explanations": {
+      "en": "Moving air that you can feel on your face and body, which can be gentle or strong and makes leaves and trees move.",
+      "de": "Bewegende Luft, die du auf deinem Gesicht und Körper spüren kannst, die sanft oder stark sein kann und Blätter und Bäume bewegt.",
+      "ar": "الهواء المتحرك الذي يمكنك أن تشعر به على وجهك وجسمك، والذي يمكن أن يكون لطيفاً أو قوياً ويجعل الأوراق والأشجار تتحرك.",
+      "fr": "L'air en mouvement que vous pouvez sentir sur votre visage et votre corps, qui peut être doux ou fort et fait bouger les feuilles et les arbres.",
+      "it": "Aria in movimento che puoi sentire sul tuo viso e corpo, che può essere delicata o forte e fa muovere le foglie e gli alberi.",
+      "ru": "Движущийся воздух, который вы можете почувствовать на лице и теле, который может быть легким или сильным и заставляет листья и деревья двигаться.",
+      "es": "Aire en movimiento que puedes sentir en tu cara y cuerpo, que puede ser suave o fuerte y hace que las hojas y los árboles se muevan.",
+      "pl": "Poruszające się powietrze, które możesz poczuć na twarzy i ciele, które może być delikatne lub silne i sprawia, że liście i drzewa się poruszają.",
+      "fa": "هوای در حال حرکتی که می‌توانید بر روی صورت و بدن خود حس کنید، که می‌تواند ملایم یا قوی باشد و باعث حرکت برگ‌ها و درختان می‌شود."
+    },
+    "examples": {
+      "en": ["The wind is strong.", "I feel the wind.", "Wind moves trees."],
+      "de": ["Der Wind ist stark.", "Ich spüre den Wind.", "Wind bewegt Bäume."],
+      "ar": ["الرياح قوية.", "أشعر بالرياح.", "الرياح تحرك الأشجار."],
+      "fr": ["Le vent est fort.", "Je sens le vent.", "Le vent déplace les arbres."],
+      "it": ["Il vento è forte.", "Sento il vento.", "Il vento muove gli alberi."],
+      "ru": ["Ветер сильный.", "Я чувствую ветер.", "Ветер двигает деревья."],
+      "es": ["El viento es fuerte.", "Siento el viento.", "El viento mueve los árboles."],
+      "pl": ["Wiatr jest silny.", "Czuję wiatr.", "Wiatr porusza drzewami."],
+      "fa": ["باد قوی است.", "من باد را حس می‌کنم.", "باد درختان را حرکت می‌دهد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_666_en",
+    "word": "cloud",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cloud",
+      "de": "Wolke",
+      "ar": "سحابة",
+      "fr": "nuage",
+      "it": "nuvola",
+      "ru": "облако",
+      "es": "nube",
+      "pl": "chmura",
+      "fa": "ابر"
+    },
+    "explanations": {
+      "en": "A white or gray mass of water drops or ice that floats high in the sky and can bring rain or snow.",
+      "de": "Eine weiße oder graue Masse aus Wassertropfen oder Eis, die hoch am Himmel schwebt und Regen oder Schnee bringen kann.",
+      "ar": "كتلة بيضاء أو رمادية من قطرات الماء أو الجليد تطفو عالياً في السماء ويمكن أن تجلب المطر أو الثلج.",
+      "fr": "Une masse blanche ou grise de gouttes d'eau ou de glace qui flotte haut dans le ciel et peut apporter de la pluie ou de la neige.",
+      "it": "Una massa bianca o grigia di gocce d'acqua o ghiaccio che galleggia in alto nel cielo e può portare pioggia o neve.",
+      "ru": "Белая или серая масса водяных капель или льда, которая плавает высоко в небе и может принести дождь или снег.",
+      "es": "Una masa blanca o gris de gotas de agua o hielo que flota alto en el cielo y puede traer lluvia o nieve.",
+      "pl": "Biała lub szara masa kropel wody lub lodu, która unosi się wysoko na niebie i może przynieść deszcz lub śnieg.",
+      "fa": "توده‌ای سفید یا خاکستری از قطرات آب یا یخ که در آسمان بالا شناور است و می‌تواند باران یا برف بیاورد."
+    },
+    "examples": {
+      "en": ["I see white clouds.", "The cloud is big.", "Clouds cover the sun."],
+      "de": ["Ich sehe weiße Wolken.", "Die Wolke ist groß.", "Wolken bedecken die Sonne."],
+      "ar": ["أرى سحباً بيضاء.", "السحابة كبيرة.", "السحب تغطي الشمس."],
+      "fr": ["Je vois des nuages blancs.", "Le nuage est grand.", "Les nuages couvrent le soleil."],
+      "it": ["Vedo nuvole bianche.", "La nuvola è grande.", "Le nuvole coprono il sole."],
+      "ru": ["Я вижу белые облака.", "Облако большое.", "Облака закрывают солнце."],
+      "es": ["Veo nubes blancas.", "La nube es grande.", "Las nubes cubren el sol."],
+      "pl": ["Widzę białe chmury.", "Chmura jest duża.", "Chmury zakrywają słońce."],
+      "fa": ["من ابرهای سفید می‌بینم.", "ابر بزرگ است.", "ابرها خورشید را می‌پوشانند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_667_en",
+    "word": "hot",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hot",
+      "de": "heiß",
+      "ar": "حار",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "горячий",
+      "es": "caliente",
+      "pl": "gorący",
+      "fa": "گرم"
+    },
+    "explanations": {
+      "en": "Having a very high temperature that makes you feel warm or uncomfortable, like fire or the summer sun makes you feel.",
+      "de": "Eine sehr hohe Temperatur haben, die dich warm oder unwohl fühlen lässt, wie Feuer oder die Sommersonne dich fühlen lässt.",
+      "ar": "أن يكون لديك درجة حرارة عالية جداً تجعلك تشعر بالدفء أو عدم الراحة، مثلما يجعلك النار أو شمس الصيف تشعر.",
+      "fr": "Avoir une température très élevée qui vous fait sentir chaud ou inconfortable, comme le feu ou le soleil d'été vous fait sentir.",
+      "it": "Avere una temperatura molto alta che ti fa sentire caldo o a disagio, come il fuoco o il sole estivo ti fa sentire.",
+      "ru": "Иметь очень высокую температуру, которая заставляет вас чувствовать тепло или дискомфорт, как огонь или летнее солнце заставляет вас чувствовать.",
+      "es": "Tener una temperatura muy alta que te hace sentir caliente o incómodo, como el fuego o el sol de verano te hace sentir.",
+      "pl": "Mieć bardzo wysoką temperaturę, która sprawia, że czujesz się ciepło lub nieprzyjemnie, jak ogień lub letnie słońce sprawia, że się czujesz.",
+      "fa": "داشتن دمای بسیار بالایی که باعث می‌شود گرم یا ناراحت احساس کنید، مانند آتش یا خورشید تابستانی که باعث می‌شود احساس کنید."
+    },
+    "examples": {
+      "en": ["Today is very hot.", "The sun is hot.", "I drink hot tea."],
+      "de": ["Heute ist sehr heiß.", "Die Sonne ist heiß.", "Ich trinke heißen Tee."],
+      "ar": ["اليوم حار جداً.", "الشمس حارة.", "أشرب شاياً حاراً."],
+      "fr": ["Aujourd'hui il fait très chaud.", "Le soleil est chaud.", "Je bois du thé chaud."],
+      "it": ["Oggi fa molto caldo.", "Il sole è caldo.", "Bevo tè caldo."],
+      "ru": ["Сегодня очень жарко.", "Солнце горячее.", "Я пью горячий чай."],
+      "es": ["Hoy hace mucho calor.", "El sol está caliente.", "Bebo té caliente."],
+      "pl": ["Dzisiaj jest bardzo gorąco.", "Słońce jest gorące.", "Piję gorącą herbatę."],
+      "fa": ["امروز خیلی گرم است.", "خورشید گرم است.", "من چای گرم می‌نوشم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_668_en",
+    "word": "cold",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cold",
+      "de": "kalt",
+      "ar": "بارد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холодный",
+      "es": "frío",
+      "pl": "zimny",
+      "fa": "سرد"
+    },
+    "explanations": {
+      "en": "Having a low temperature that makes you feel cool or makes you want to wear warm clothes, like ice or winter makes you feel.",
+      "de": "Eine niedrige Temperatur haben, die dich kühl fühlen lässt oder dich warme Kleidung tragen lassen möchte, wie Eis oder Winter dich fühlen lässt.",
+      "ar": "أن يكون لديك درجة حرارة منخفضة تجعلك تشعر بالبرودة أو تجعلك ترغب في ارتداء ملابس دافئة، مثلما يجعلك الجليد أو الشتاء تشعر.",
+      "fr": "Avoir une basse température qui vous fait sentir frais ou vous donne envie de porter des vêtements chauds, comme la glace ou l'hiver vous fait sentir.",
+      "it": "Avere una bassa temperatura che ti fa sentire fresco o ti fa voler indossare vestiti caldi, come il ghiaccio o l'inverno ti fa sentire.",
+      "ru": "Иметь низкую температуру, которая заставляет вас чувствовать прохладу или хотеть надеть теплую одежду, как лед или зима заставляет вас чувствовать.",
+      "es": "Tener una temperatura baja que te hace sentir fresco o te hace querer usar ropa caliente, como el hielo o el invierno te hace sentir.",
+      "pl": "Mieć niską temperaturę, która sprawia, że czujesz się chłodno lub sprawia, że chcesz nosić ciepłe ubrania, jak lód lub zima sprawia, że się czujesz.",
+      "fa": "داشتن دمای پایینی که باعث می‌شود خنک احساس کنید یا بخواهید لباس‌های گرم بپوشید، مانند یخ یا زمستان که باعث می‌شود احساس کنید."
+    },
+    "examples": {
+      "en": ["Today is very cold.", "The water is cold.", "I wear cold clothes."],
+      "de": ["Heute ist sehr kalt.", "Das Wasser ist kalt.", "Ich trage kalte Kleidung."],
+      "ar": ["اليوم بارد جداً.", "الماء بارد.", "أرتدي ملابس باردة."],
+      "fr": ["Aujourd'hui il fait très froid.", "L'eau est froide.", "Je porte des vêtements froids."],
+      "it": ["Oggi fa molto freddo.", "L'acqua è fredda.", "Indosso vestiti freddi."],
+      "ru": ["Сегодня очень холодно.", "Вода холодная.", "Я ношу холодную одежду."],
+      "es": ["Hoy hace mucho frío.", "El agua está fría.", "Uso ropa fría."],
+      "pl": ["Dzisiaj jest bardzo zimno.", "Woda jest zimna.", "Noszę zimne ubrania."],
+      "fa": ["امروز خیلی سرد است.", "آب سرد است.", "من لباس‌های سرد می‌پوشم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_669_en",
+    "word": "warm",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "warm",
+      "de": "warm",
+      "ar": "دافئ",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "теплый",
+      "es": "cálido",
+      "pl": "ciepły",
+      "fa": "گرم"
+    },
+    "explanations": {
+      "en": "Having a pleasant temperature that is not too hot and not too cold, making you feel comfortable and cozy.",
+      "de": "Eine angenehme Temperatur haben, die nicht zu heiß und nicht zu kalt ist, sodass du dich wohl und gemütlich fühlst.",
+      "ar": "أن يكون لديك درجة حرارة لطيفة ليست ساخنة جداً وليست باردة جداً، تجعلك تشعر بالراحة والدفء.",
+      "fr": "Avoir une température agréable qui n'est ni trop chaude ni trop froide, vous faisant sentir confortable et douillet.",
+      "it": "Avere una temperatura piacevole che non è né troppo calda né troppo fredda, facendoti sentire comodo e accogliente.",
+      "ru": "Иметь приятную температуру, которая не слишком горячая и не слишком холодная, заставляя вас чувствовать себя комфортно и уютно.",
+      "es": "Tener una temperatura agradable que no es demasiado caliente ni demasiado fría, haciéndote sentir cómodo y acogedor.",
+      "pl": "Mieć przyjemną temperaturę, która nie jest zbyt gorąca ani zbyt zimna, sprawiając, że czujesz się komfortowo i przytulnie.",
+      "fa": "داشتن دمای دلپذیری که نه خیلی گرم است و نه خیلی سرد، باعث می‌شود راحت و دنج احساس کنید."
+    },
+    "examples": {
+      "en": ["The day is warm.", "I like warm weather.", "This is warm water."],
+      "de": ["Der Tag ist warm.", "Ich mag warmes Wetter.", "Das ist warmes Wasser."],
+      "ar": ["اليوم دافئ.", "أحب الطقس الدافئ.", "هذا ماء دافئ."],
+      "fr": ["Le jour est chaud.", "J'aime le temps chaud.", "C'est de l'eau chaude."],
+      "it": ["Il giorno è caldo.", "Mi piace il tempo caldo.", "Questa è acqua calda."],
+      "ru": ["День теплый.", "Мне нравится теплая погода.", "Это теплая вода."],
+      "es": ["El día es cálido.", "Me gusta el clima cálido.", "Esta es agua caliente."],
+      "pl": ["Dzień jest ciepły.", "Lubię ciepłą pogodę.", "To jest ciepła woda."],
+      "fa": ["روز گرم است.", "من هوای گرم را دوست دارم.", "این آب گرم است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_670_en",
+    "word": "cool",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cool",
+      "de": "kühl",
+      "ar": "بارد",
+      "fr": "frais",
+      "it": "fresco",
+      "ru": "прохладный",
+      "es": "fresco",
+      "pl": "chłodny",
+      "fa": "خنک"
+    },
+    "explanations": {
+      "en": "Having a temperature that is a little cold but pleasant and comfortable, like the air on a nice spring or autumn day.",
+      "de": "Eine Temperatur haben, die ein wenig kalt aber angenehm und komfortabel ist, wie die Luft an einem schönen Frühlings- oder Herbsttag.",
+      "ar": "أن يكون لديك درجة حرارة باردة قليلاً لكنها لطيفة ومريحة، مثل الهواء في يوم ربيع أو خريف جميل.",
+      "fr": "Avoir une température qui est un peu froide mais agréable et confortable, comme l'air lors d'une belle journée de printemps ou d'automne.",
+      "it": "Avere una temperatura che è un po' fredda ma piacevole e confortevole, come l'aria in una bella giornata di primavera o autunno.",
+      "ru": "Иметь температуру, которая немного холодная, но приятная и комфортная, как воздух в хороший весенний или осенний день.",
+      "es": "Tener una temperatura que es un poco fría pero agradable y cómoda, como el aire en un bonito día de primavera u otoño.",
+      "pl": "Mieć temperaturę, która jest trochę zimna, ale przyjemna i komfortowa, jak powietrze w ładny wiosenny lub jesienny dzień.",
+      "fa": "داشتن دمایی که کمی سرد است اما دلپذیر و راحت، مانند هوا در یک روز زیبای بهار یا پاییز."
+    },
+    "examples": {
+      "en": ["The night is cool.", "I like cool air.", "This water is cool."],
+      "de": ["Die Nacht ist kühl.", "Ich mag kühle Luft.", "Dieses Wasser ist kühl."],
+      "ar": ["الليل بارد.", "أحب الهواء البارد.", "هذا الماء بارد."],
+      "fr": ["La nuit est fraîche.", "J'aime l'air frais.", "Cette eau est fraîche."],
+      "it": ["La notte è fresca.", "Mi piace l'aria fresca.", "Quest'acqua è fresca."],
+      "ru": ["Ночь прохладная.", "Мне нравится прохладный воздух.", "Эта вода прохладная."],
+      "es": ["La noche es fresca.", "Me gusta el aire fresco.", "Esta agua es fresca."],
+      "pl": ["Noc jest chłodna.", "Lubię chłodne powietrze.", "Ta woda jest chłodna."],
+      "fa": ["شب خنک است.", "من هوای خنک را دوست دارم.", "این آب خنک است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_671_en",
+    "word": "dry",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dry",
+      "de": "trocken",
+      "ar": "جاف",
+      "fr": "sec",
+      "it": "asciutto",
+      "ru": "сухой",
+      "es": "seco",
+      "pl": "suchy",
+      "fa": "خشک"
+    },
+    "explanations": {
+      "en": "Not wet or not having water on something, like clothes after they are washed and hang in the sun to remove water.",
+      "de": "Nicht nass oder kein Wasser auf etwas haben, wie Kleidung nachdem sie gewaschen wurde und in der Sonne hängt, um Wasser zu entfernen.",
+      "ar": "غير رطب أو عدم وجود ماء على شيء، مثل الملابس بعد غسلها وتعليقها في الشمس لإزالة الماء.",
+      "fr": "Pas mouillé ou ne pas avoir d'eau sur quelque chose, comme les vêtements après qu'ils soient lavés et suspendus au soleil pour enlever l'eau.",
+      "it": "Non bagnato o non avere acqua su qualcosa, come i vestiti dopo che sono stati lavati e appesi al sole per rimuovere l'acqua.",
+      "ru": "Не мокрый или не имеющий воды на чем-то, как одежда после стирки, которую вешают на солнце, чтобы удалить воду.",
+      "es": "No mojado o no tener agua en algo, como la ropa después de lavarse y colgarla al sol para quitar el agua.",
+      "pl": "Nie mokry lub nie mający wody na czymś, jak ubrania po praniu i powieszeniu na słońcu, aby usunąć wodę.",
+      "fa": "خیس نبودن یا نداشتن آب روی چیزی، مانند لباس‌ها پس از شستن و آویزان کردن در آفتاب برای برداشتن آب."
+    },
+    "examples": {
+      "en": ["My clothes are dry.", "The ground is dry.", "I need dry towel."],
+      "de": ["Meine Kleidung ist trocken.", "Der Boden ist trocken.", "Ich brauche trockenes Handtuch."],
+      "ar": ["ملابسي جافة.", "الأرض جافة.", "أحتاج منشفة جافة."],
+      "fr": ["Mes vêtements sont secs.", "Le sol est sec.", "J'ai besoin d'une serviette sèche."],
+      "it": ["I miei vestiti sono asciutti.", "Il terreno è asciutto.", "Ho bisogno di un asciugamano asciutto."],
+      "ru": ["Моя одежда сухая.", "Земля сухая.", "Мне нужно сухое полотенце."],
+      "es": ["Mi ropa está seca.", "El suelo está seco.", "Necesito una toalla seca."],
+      "pl": ["Moje ubrania są suche.", "Ziemia jest sucha.", "Potrzebuję suchego ręcznika."],
+      "fa": ["لباس‌های من خشک هستند.", "زمین خشک است.", "من به حوله خشک نیاز دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_672_en",
+    "word": "wet",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wet",
+      "de": "nass",
+      "ar": "رطب",
+      "fr": "mouillé",
+      "it": "bagnato",
+      "ru": "мокрый",
+      "es": "mojado",
+      "pl": "mokry",
+      "fa": "خیس"
+    },
+    "explanations": {
+      "en": "Having water or another liquid on something or being covered with water, like your hair after you wash it or take a shower.",
+      "de": "Wasser oder eine andere Flüssigkeit auf etwas haben oder mit Wasser bedeckt sein, wie deine Haare nachdem du sie wäschst oder duschst.",
+      "ar": "وجود ماء أو سائل آخر على شيء أو أن تكون مغطى بالماء، مثل شعرك بعد أن تغسله أو تأخذ دشاً.",
+      "fr": "Avoir de l'eau ou un autre liquide sur quelque chose ou être couvert d'eau, comme vos cheveux après les avoir lavés ou pris une douche.",
+      "it": "Avere acqua o un altro liquido su qualcosa o essere coperto d'acqua, come i tuoi capelli dopo averli lavati o fatto la doccia.",
+      "ru": "Иметь воду или другую жидкость на чем-то или быть покрытым водой, как ваши волосы после того, как вы их вымыли или приняли душ.",
+      "es": "Tener agua u otro líquido en algo o estar cubierto de agua, como tu cabello después de lavarlo o tomar una ducha.",
+      "pl": "Mieć wodę lub inny płyn na czymś lub być pokrytym wodą, jak twoje włosy po umyciu ich lub wzięciu prysznica.",
+      "fa": "داشتن آب یا مایع دیگر روی چیزی یا پوشیده شدن با آب، مانند موهای شما پس از شستن یا دوش گرفتن."
+    },
+    "examples": {
+      "en": ["My hair is wet.", "The ground is wet.", "I have wet clothes."],
+      "de": ["Meine Haare sind nass.", "Der Boden ist nass.", "Ich habe nasse Kleidung."],
+      "ar": ["شعري رطب.", "الأرض رطبة.", "لدي ملابس رطبة."],
+      "fr": ["Mes cheveux sont mouillés.", "Le sol est mouillé.", "J'ai des vêtements mouillés."],
+      "it": ["I miei capelli sono bagnati.", "Il terreno è bagnato.", "Ho vestiti bagnati."],
+      "ru": ["Мои волосы мокрые.", "Земля мокрая.", "У меня мокрая одежда."],
+      "es": ["Mi cabello está mojado.", "El suelo está mojado.", "Tengo ropa mojada."],
+      "pl": ["Moje włosy są mokre.", "Ziemia jest mokra.", "Mam mokre ubrania."],
+      "fa": ["موهای من خیس است.", "زمین خیس است.", "من لباس‌های خیس دارم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_673_en",
+    "word": "sunny",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sunny",
+      "de": "sonnig",
+      "ar": "مشمس",
+      "fr": "ensoleillé",
+      "it": "soleggiato",
+      "ru": "солнечный",
+      "es": "soleado",
+      "pl": "słoneczny",
+      "fa": "آفتابی"
+    },
+    "explanations": {
+      "en": "Having bright light from the sun with clear sky and no clouds blocking the sunshine on a beautiful day.",
+      "de": "Helles Licht von der Sonne mit klarem Himmel und keinen Wolken, die den Sonnenschein an einem schönen Tag blockieren.",
+      "ar": "وجود ضوء ساطع من الشمس مع سماء صافية وعدم وجود غيوم تحجب أشعة الشمس في يوم جميل.",
+      "fr": "Avoir une lumière vive du soleil avec un ciel clair et aucun nuage bloquant le soleil lors d'une belle journée.",
+      "it": "Avere luce brillante dal sole con cielo sereno e nessuna nuvola che blocca il sole in una bella giornata.",
+      "ru": "Иметь яркий свет от солнца с ясным небом и без облаков, блокирующих солнечный свет в прекрасный день.",
+      "es": "Tener luz brillante del sol con cielo despejado y sin nubes bloqueando el sol en un día hermoso.",
+      "pl": "Mieć jasne światło ze słońca z czystym niebem i bez chmur blokujących słońce w piękny dzień.",
+      "fa": "داشتن نور روشن از خورشید با آسمان صاف و بدون ابر که نور خورشید را در یک روز زیبا مسدود کند."
+    },
+    "examples": {
+      "en": ["Today is sunny.", "I like sunny days.", "The weather is sunny."],
+      "de": ["Heute ist sonnig.", "Ich mag sonnige Tage.", "Das Wetter ist sonnig."],
+      "ar": ["اليوم مشمس.", "أحب الأيام المشمسة.", "الطقس مشمس."],
+      "fr": ["Aujourd'hui est ensoleillé.", "J'aime les jours ensoleillés.", "Le temps est ensoleillé."],
+      "it": ["Oggi è soleggiato.", "Mi piacciono le giornate soleggiate.", "Il tempo è soleggiato."],
+      "ru": ["Сегодня солнечно.", "Мне нравятся солнечные дни.", "Погода солнечная."],
+      "es": ["Hoy está soleado.", "Me gustan los días soleados.", "El clima está soleado."],
+      "pl": ["Dzisiaj jest słonecznie.", "Lubię słoneczne dni.", "Pogoda jest słoneczna."],
+      "fa": ["امروز آفتابی است.", "من روزهای آفتابی را دوست دارم.", "هوا آفتابی است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_674_en",
+    "word": "cloudy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cloudy",
+      "de": "bewölkt",
+      "ar": "غائم",
+      "fr": "nuageux",
+      "it": "nuvoloso",
+      "ru": "облачный",
+      "es": "nublado",
+      "pl": "pochmurny",
+      "fa": "ابری"
+    },
+    "explanations": {
+      "en": "Having many clouds in the sky that cover the sun and make the day darker and less bright than a sunny day.",
+      "de": "Viele Wolken am Himmel haben, die die Sonne bedecken und den Tag dunkler und weniger hell machen als einen sonnigen Tag.",
+      "ar": "وجود العديد من الغيوم في السماء التي تغطي الشمس وتجعل اليوم أغمق وأقل سطوعاً من يوم مشمس.",
+      "fr": "Avoir beaucoup de nuages dans le ciel qui couvrent le soleil et rendent le jour plus sombre et moins lumineux qu'un jour ensoleillé.",
+      "it": "Avere molte nuvole nel cielo che coprono il sole e rendono il giorno più scuro e meno luminoso di un giorno soleggiato.",
+      "ru": "Иметь много облаков на небе, которые покрывают солнце и делают день темнее и менее ярким, чем солнечный день.",
+      "es": "Tener muchas nubes en el cielo que cubren el sol y hacen que el día sea más oscuro y menos brillante que un día soleado.",
+      "pl": "Mieć wiele chmur na niebie, które zakrywają słońce i sprawiają, że dzień jest ciemniejszy i mniej jasny niż słoneczny dzień.",
+      "fa": "داشتن ابرهای زیاد در آسمان که خورشید را می‌پوشانند و روز را تاریک‌تر و کم‌نورتر از یک روز آفتابی می‌کنند."
+    },
+    "examples": {
+      "en": ["Today is cloudy.", "The sky is cloudy.", "I see cloudy weather."],
+      "de": ["Heute ist bewölkt.", "Der Himmel ist bewölkt.", "Ich sehe bewölktes Wetter."],
+      "ar": ["اليوم غائم.", "السماء غائمة.", "أرى طقساً غائماً."],
+      "fr": ["Aujourd'hui est nuageux.", "Le ciel est nuageux.", "Je vois un temps nuageux."],
+      "it": ["Oggi è nuvoloso.", "Il cielo è nuvoloso.", "Vedo tempo nuvoloso."],
+      "ru": ["Сегодня облачно.", "Небо облачное.", "Я вижу облачную погоду."],
+      "es": ["Hoy está nublado.", "El cielo está nublado.", "Veo clima nublado."],
+      "pl": ["Dzisiaj jest pochmurnie.", "Niebo jest pochmurne.", "Widzę pochmurną pogodę."],
+      "fa": ["امروز ابری است.", "آسمان ابری است.", "من هوای ابری می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_675_en",
+    "word": "windy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "windy",
+      "de": "windig",
+      "ar": "عاصف",
+      "fr": "venteux",
+      "it": "ventoso",
+      "ru": "ветреный",
+      "es": "ventoso",
+      "pl": "wietrzny",
+      "fa": "بادی"
+    },
+    "explanations": {
+      "en": "Having a lot of wind blowing in the air that you can feel strongly and makes things move around outside.",
+      "de": "Viel Wind haben, der in der Luft weht, den du stark spüren kannst und der Dinge draußen bewegt.",
+      "ar": "وجود الكثير من الرياح تهب في الهواء التي يمكنك أن تشعر بها بقوة وتجعل الأشياء تتحرك في الخارج.",
+      "fr": "Avoir beaucoup de vent qui souffle dans l'air que vous pouvez sentir fortement et qui fait bouger les choses dehors.",
+      "it": "Avere molto vento che soffia nell'aria che puoi sentire fortemente e fa muovere le cose fuori.",
+      "ru": "Иметь много ветра, дующего в воздухе, который вы можете сильно чувствовать и который заставляет вещи двигаться снаружи.",
+      "es": "Tener mucho viento soplando en el aire que puedes sentir fuertemente y hace que las cosas se muevan afuera.",
+      "pl": "Mieć dużo wiatru wiejącego w powietrzu, który możesz silnie poczuć i sprawia, że rzeczy poruszają się na zewnątrz.",
+      "fa": "داشتن باد زیادی که در هوا می‌وزد و می‌توانید به شدت حس کنید و باعث حرکت چیزها در بیرون می‌شود."
+    },
+    "examples": {
+      "en": ["Today is windy.", "The day is very windy.", "I see windy weather."],
+      "de": ["Heute ist windig.", "Der Tag ist sehr windig.", "Ich sehe windiges Wetter."],
+      "ar": ["اليوم عاصف.", "اليوم عاصف جداً.", "أرى طقساً عاصفاً."],
+      "fr": ["Aujourd'hui est venteux.", "Le jour est très venteux.", "Je vois un temps venteux."],
+      "it": ["Oggi è ventoso.", "Il giorno è molto ventoso.", "Vedo tempo ventoso."],
+      "ru": ["Сегодня ветрено.", "День очень ветреный.", "Я вижу ветреную погоду."],
+      "es": ["Hoy está ventoso.", "El día es muy ventoso.", "Veo clima ventoso."],
+      "pl": ["Dzisiaj jest wietrznie.", "Dzień jest bardzo wietrzny.", "Widzę wietrzną pogodę."],
+      "fa": ["امروز بادی است.", "روز خیلی بادی است.", "من هوای بادی می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_676_en",
+    "word": "rainy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "rainy",
+      "de": "regnerisch",
+      "ar": "ممطر",
+      "fr": "pluvieux",
+      "it": "piovoso",
+      "ru": "дождливый",
+      "es": "lluvioso",
+      "pl": "deszczowy",
+      "fa": "بارانی"
+    },
+    "explanations": {
+      "en": "Having rain falling from the sky with water drops coming down that make everything outside wet and slippery.",
+      "de": "Regen haben, der vom Himmel fällt mit Wassertropfen, die herunterkommen und alles draußen nass und rutschig machen.",
+      "ar": "وجود مطر يسقط من السماء مع قطرات ماء تنزل تجعل كل شيء في الخارج رطباً وزلقاً.",
+      "fr": "Avoir de la pluie qui tombe du ciel avec des gouttes d'eau qui descendent et rendent tout dehors mouillé et glissant.",
+      "it": "Avere pioggia che cade dal cielo con gocce d'acqua che scendono e rendono tutto fuori bagnato e scivoloso.",
+      "ru": "Иметь дождь, падающий с неба, с каплями воды, которые спускаются и делают все снаружи мокрым и скользким.",
+      "es": "Tener lluvia cayendo del cielo con gotas de agua bajando que hacen que todo afuera esté mojado y resbaladizo.",
+      "pl": "Mieć deszcz padający z nieba z kropelkami wody spadającymi, które sprawiają, że wszystko na zewnątrz jest mokre i śliskie.",
+      "fa": "داشتن بارانی که از آسمان می‌بارد با قطرات آبی که پایین می‌آیند و همه چیز را در بیرون خیس و لغزنده می‌کنند."
+    },
+    "examples": {
+      "en": ["Today is rainy.", "The day is very rainy.", "I see rainy weather."],
+      "de": ["Heute ist regnerisch.", "Der Tag ist sehr regnerisch.", "Ich sehe regnerisches Wetter."],
+      "ar": ["اليوم ممطر.", "اليوم ممطر جداً.", "أرى طقساً ممطراً."],
+      "fr": ["Aujourd'hui est pluvieux.", "Le jour est très pluvieux.", "Je vois un temps pluvieux."],
+      "it": ["Oggi è piovoso.", "Il giorno è molto piovoso.", "Vedo tempo piovoso."],
+      "ru": ["Сегодня дождливо.", "День очень дождливый.", "Я вижу дождливую погоду."],
+      "es": ["Hoy está lluvioso.", "El día es muy lluvioso.", "Veo clima lluvioso."],
+      "pl": ["Dzisiaj jest deszczowo.", "Dzień jest bardzo deszczowy.", "Widzę deszczową pogodę."],
+      "fa": ["امروز بارانی است.", "روز خیلی بارانی است.", "من هوای بارانی می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_677_en",
+    "word": "snowy",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "snowy",
+      "de": "schneereich",
+      "ar": "ثلجي",
+      "fr": "neigeux",
+      "it": "nevoso",
+      "ru": "снежный",
+      "es": "nevado",
+      "pl": "śnieżny",
+      "fa": "برفی"
+    },
+    "explanations": {
+      "en": "Having snow falling from the sky or having snow on the ground that covers everything in white like a soft blanket.",
+      "de": "Schnee haben, der vom Himmel fällt oder Schnee am Boden haben, der alles weiß bedeckt wie eine weiche Decke.",
+      "ar": "وجود ثلج يسقط من السماء أو وجود ثلج على الأرض يغطي كل شيء باللون الأبيض مثل بطانية ناعمة.",
+      "fr": "Avoir de la neige qui tombe du ciel ou avoir de la neige sur le sol qui couvre tout en blanc comme une couverture douce.",
+      "it": "Avere neve che cade dal cielo o avere neve sul terreno che copre tutto di bianco come una coperta morbida.",
+      "ru": "Иметь снег, падающий с неба, или иметь снег на земле, который покрывает все белым, как мягкое одеяло.",
+      "es": "Tener nieve cayendo del cielo o tener nieve en el suelo que cubre todo de blanco como una manta suave.",
+      "pl": "Mieć śnieg padający z nieba lub mieć śnieg na ziemi, który pokrywa wszystko na biało jak miękki koc.",
+      "fa": "داشتن برفی که از آسمان می‌بارد یا داشتن برف روی زمین که همه چیز را سفید مانند پتوی نرمی می‌پوشاند."
+    },
+    "examples": {
+      "en": ["Today is snowy.", "The day is very snowy.", "I see snowy weather."],
+      "de": ["Heute ist schneereich.", "Der Tag ist sehr schneereich.", "Ich sehe schneereches Wetter."],
+      "ar": ["اليوم ثلجي.", "اليوم ثلجي جداً.", "أرى طقساً ثلجياً."],
+      "fr": ["Aujourd'hui est neigeux.", "Le jour est très neigeux.", "Je vois un temps neigeux."],
+      "it": ["Oggi è nevoso.", "Il giorno è molto nevoso.", "Vedo tempo nevoso."],
+      "ru": ["Сегодня снежно.", "День очень снежный.", "Я вижу снежную погоду."],
+      "es": ["Hoy está nevado.", "El día es muy nevado.", "Veo clima nevado."],
+      "pl": ["Dzisiaj jest śnieżnie.", "Dzień jest bardzo śnieżny.", "Widzę śnieżną pogodę."],
+      "fa": ["امروز برفی است.", "روز خیلی برفی است.", "من هوای برفی می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_678_en",
+    "word": "season",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "season",
+      "de": "Jahreszeit",
+      "ar": "موسم",
+      "fr": "saison",
+      "it": "stagione",
+      "ru": "сезон",
+      "es": "estación",
+      "pl": "pora roku",
+      "fa": "فصل"
+    },
+    "explanations": {
+      "en": "One of the four parts of the year (spring, summer, autumn, winter) that have different weather and temperature patterns.",
+      "de": "Einer der vier Teile des Jahres (Frühling, Sommer, Herbst, Winter), die unterschiedliche Wetter- und Temperaturmuster haben.",
+      "ar": "أحد الأجزاء الأربعة من السنة (الربيع، الصيف، الخريف، الشتاء) التي لها أنماط طقس ودرجات حرارة مختلفة.",
+      "fr": "L'une des quatre parties de l'année (printemps, été, automne, hiver) qui ont des schémas de temps et de température différents.",
+      "it": "Una delle quattro parti dell'anno (primavera, estate, autunno, inverno) che hanno diversi schemi di tempo e temperatura.",
+      "ru": "Одна из четырех частей года (весна, лето, осень, зима), которые имеют разные модели погоды и температуры.",
+      "es": "Una de las cuatro partes del año (primavera, verano, otoño, invierno) que tienen diferentes patrones de clima y temperatura.",
+      "pl": "Jedna z czterech części roku (wiosna, lato, jesień, zima), które mają różne wzorce pogody i temperatury.",
+      "fa": "یکی از چهار بخش سال (بهار، تابستان، پاییز، زمستان) که الگوهای مختلف هوا و دما دارند."
+    },
+    "examples": {
+      "en": ["I like this season.", "Summer is my favorite season.", "What season is it?"],
+      "de": ["Ich mag diese Jahreszeit.", "Sommer ist meine Lieblingsjahreszeit.", "Welche Jahreszeit ist es?"],
+      "ar": ["أحب هذا الموسم.", "الصيف هو موسمي المفضل.", "ما الموسم؟"],
+      "fr": ["J'aime cette saison.", "L'été est ma saison préférée.", "Quelle saison est-ce?"],
+      "it": ["Mi piace questa stagione.", "L'estate è la mia stagione preferita.", "Che stagione è?"],
+      "ru": ["Мне нравится этот сезон.", "Лето - мой любимый сезон.", "Какой это сезон?"],
+      "es": ["Me gusta esta estación.", "El verano es mi estación favorita.", "¿Qué estación es?"],
+      "pl": ["Lubię tę porę roku.", "Lato to moja ulubiona pora roku.", "Jaka to pora roku?"],
+      "fa": ["من این فصل را دوست دارم.", "تابستان فصل مورد علاقه من است.", "چه فصلی است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_679_en",
+    "word": "spring",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "spring",
+      "de": "Frühling",
+      "ar": "ربيع",
+      "fr": "printemps",
+      "it": "primavera",
+      "ru": "весна",
+      "es": "primavera",
+      "pl": "wiosna",
+      "fa": "بهار"
+    },
+    "explanations": {
+      "en": "The season between winter and summer when plants start to grow, flowers bloom, and the weather becomes warmer and more pleasant.",
+      "de": "Die Jahreszeit zwischen Winter und Sommer, wenn Pflanzen zu wachsen beginnen, Blumen blühen und das Wetter wärmer und angenehmer wird.",
+      "ar": "الموسم بين الشتاء والصيف عندما تبدأ النباتات في النمو، وتزهر الأزهار، ويصبح الطقس أكثر دفئاً ومتعة.",
+      "fr": "La saison entre l'hiver et l'été lorsque les plantes commencent à pousser, les fleurs fleurissent et le temps devient plus chaud et plus agréable.",
+      "it": "La stagione tra l'inverno e l'estate quando le piante iniziano a crescere, i fiori sbocciano e il tempo diventa più caldo e piacevole.",
+      "ru": "Сезон между зимой и летом, когда растения начинают расти, цветы расцветают, а погода становится теплее и приятнее.",
+      "es": "La estación entre el invierno y el verano cuando las plantas comienzan a crecer, las flores florecen y el clima se vuelve más cálido y agradable.",
+      "pl": "Pora roku między zimą a latem, kiedy rośliny zaczynają rosnąć, kwitną kwiaty, a pogoda staje się cieplejsza i przyjemniejsza.",
+      "fa": "فصل بین زمستان و تابستان که گیاهان شروع به رشد می‌کنند، گل‌ها شکوفه می‌زنند و هوا گرم‌تر و دلپذیرتر می‌شود."
+    },
+    "examples": {
+      "en": ["I like spring.", "Spring is warm.", "Flowers grow in spring."],
+      "de": ["Ich mag Frühling.", "Frühling ist warm.", "Blumen wachsen im Frühling."],
+      "ar": ["أحب الربيع.", "الربيع دافئ.", "الأزهار تنمو في الربيع."],
+      "fr": ["J'aime le printemps.", "Le printemps est chaud.", "Les fleurs poussent au printemps."],
+      "it": ["Mi piace la primavera.", "La primavera è calda.", "I fiori crescono in primavera."],
+      "ru": ["Мне нравится весна.", "Весна теплая.", "Цветы растут весной."],
+      "es": ["Me gusta la primavera.", "La primavera es cálida.", "Las flores crecen en primavera."],
+      "pl": ["Lubię wiosnę.", "Wiosna jest ciepła.", "Kwiaty rosną wiosną."],
+      "fa": ["من بهار را دوست دارم.", "بهار گرم است.", "گل‌ها در بهار رشد می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_680_en",
+    "word": "summer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "summer",
+      "de": "Sommer",
+      "ar": "صيف",
+      "fr": "été",
+      "it": "estate",
+      "ru": "лето",
+      "es": "verano",
+      "pl": "lato",
+      "fa": "تابستان"
+    },
+    "explanations": {
+      "en": "The warmest season of the year that comes after spring, when the days are long, the sun is bright, and people enjoy outdoor activities.",
+      "de": "Die wärmste Jahreszeit, die nach dem Frühling kommt, wenn die Tage lang sind, die Sonne hell ist und Menschen Outdoor-Aktivitäten genießen.",
+      "ar": "الموسم الأكثر دفئاً في السنة الذي يأتي بعد الربيع، عندما تكون الأيام طويلة، والشمس ساطعة، ويستمتع الناس بالأنشطة الخارجية.",
+      "fr": "La saison la plus chaude de l'année qui vient après le printemps, lorsque les jours sont longs, le soleil est brillant et les gens apprécient les activités de plein air.",
+      "it": "La stagione più calda dell'anno che viene dopo la primavera, quando i giorni sono lunghi, il sole è luminoso e le persone godono delle attività all'aperto.",
+      "ru": "Самый теплый сезон года, который наступает после весны, когда дни длинные, солнце яркое, и люди наслаждаются занятиями на открытом воздухе.",
+      "es": "La estación más cálida del año que viene después de la primavera, cuando los días son largos, el sol es brillante y la gente disfruta de actividades al aire libre.",
+      "pl": "Najcieplejsza pora roku, która przychodzi po wiośnie, kiedy dni są długie, słońce jest jasne, a ludzie cieszą się zajęciami na świeżym powietrzu.",
+      "fa": "گرم‌ترین فصل سال که بعد از بهار می‌آید، که روزها بلند هستند، خورشید درخشان است و مردم از فعالیت‌های فضای باز لذت می‌برند."
+    },
+    "examples": {
+      "en": ["I love summer.", "Summer is hot.", "We swim in summer."],
+      "de": ["Ich liebe Sommer.", "Sommer ist heiß.", "Wir schwimmen im Sommer."],
+      "ar": ["أحب الصيف.", "الصيف حار.", "نسبح في الصيف."],
+      "fr": ["J'adore l'été.", "L'été est chaud.", "Nous nageons en été."],
+      "it": ["Amo l'estate.", "L'estate è calda.", "Nuotiamo in estate."],
+      "ru": ["Я люблю лето.", "Лето жаркое.", "Мы плаваем летом."],
+      "es": ["Amo el verano.", "El verano es caliente.", "Nadamos en verano."],
+      "pl": ["Kocham lato.", "Lato jest gorące.", "Pływamy latem."],
+      "fa": ["من تابستان را دوست دارم.", "تابستان گرم است.", "ما در تابستان شنا می‌کنیم."]
+    },
+    "conjugations": null
+  }
+]

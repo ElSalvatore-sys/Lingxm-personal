@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_941_en",
+    "word": "beautiful",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "beautiful",
+      "de": "schön",
+      "ar": "جميل",
+      "fr": "beau",
+      "it": "bello",
+      "ru": "красивый",
+      "es": "hermoso",
+      "pl": "piękny",
+      "fa": "زیبا"
+    },
+    "explanations": {
+      "en": "Very pleasing and attractive to look at, giving great pleasure or delight to see or hear.",
+      "de": "Sehr angenehm und attraktiv anzusehen, großes Vergnügen oder Freude beim Sehen oder Hören gebend.",
+      "ar": "ممتع جداً وجذاب للنظر، يعطي متعة أو سروراً كبيراً عند الرؤية أو السماع.",
+      "fr": "Très agréable et attrayant à regarder, donnant un grand plaisir ou une grande joie à voir ou entendre.",
+      "it": "Molto piacevole e attraente da guardare, dando grande piacere o gioia da vedere o sentire.",
+      "ru": "Очень приятный и привлекательный для взгляда, доставляющий большое удовольствие или радость видеть или слышать.",
+      "es": "Muy agradable y atractivo a la vista, dando gran placer o deleite al ver u oír.",
+      "pl": "Bardzo przyjemny i atrakcyjny do patrzenia, dający wielką przyjemność lub radość widzenia lub słuchania.",
+      "fa": "بسیار دلپذیر و جذاب برای نگاه کردن، لذت یا شادی زیادی به دیدن یا شنیدن می‌دهد."
+    },
+    "examples": {
+      "en": ["She is very beautiful.", "What a beautiful day!", "This place is beautiful."],
+      "de": ["Sie ist sehr schön.", "Was für ein schöner Tag!", "Dieser Ort ist schön."],
+      "ar": ["هي جميلة جداً.", "يا له من يوم جميل!", "هذا المكان جميل."],
+      "fr": ["Elle est très belle.", "Quelle belle journée!", "Cet endroit est beau."],
+      "it": ["Lei è molto bella.", "Che bella giornata!", "Questo posto è bello."],
+      "ru": ["Она очень красивая.", "Какой красивый день!", "Это место красивое."],
+      "es": ["Ella es muy hermosa.", "¡Qué hermoso día!", "Este lugar es hermoso."],
+      "pl": ["Ona jest bardzo piękna.", "Co za piękny dzień!", "To miejsce jest piękne."],
+      "fa": ["او خیلی زیباست.", "چه روز زیبایی!", "این مکان زیباست."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_942_en",
+    "word": "ugly",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ugly",
+      "de": "hässlich",
+      "ar": "قبيح",
+      "fr": "laid",
+      "it": "brutto",
+      "ru": "уродливый",
+      "es": "feo",
+      "pl": "brzydki",
+      "fa": "زشت"
+    },
+    "explanations": {
+      "en": "Not pleasing or attractive to look at, unpleasant or repulsive in appearance to the eyes.",
+      "de": "Nicht angenehm oder attraktiv anzusehen, unangenehm oder abstoßend im Aussehen für die Augen.",
+      "ar": "غير ممتع أو جذاب للنظر، غير سار أو مثير للاشمئزاز في المظهر للعيون.",
+      "fr": "Pas agréable ou attrayant à regarder, désagréable ou repoussant en apparence pour les yeux.",
+      "it": "Non piacevole o attraente da guardare, spiacevole o ripugnante nell'aspetto agli occhi.",
+      "ru": "Не приятный или привлекательный для взгляда, неприятный или отталкивающий по виду для глаз.",
+      "es": "No agradable o atractivo a la vista, desagradable o repulsivo en apariencia a los ojos.",
+      "pl": "Nieprzyjemny lub nieatrakcyjny do patrzenia, nieprzyjemny lub odpychający w wyglądzie dla oczu.",
+      "fa": "دلپذیر یا جذاب برای نگاه کردن نیست، ناخوشایند یا نفرت‌انگیز در ظاهر برای چشم‌ها."
+    },
+    "examples": {
+      "en": ["That's an ugly building.", "I don't like ugly things.", "This is very ugly."],
+      "de": ["Das ist ein hässliches Gebäude.", "Ich mag keine hässlichen Dinge.", "Das ist sehr hässlich."],
+      "ar": ["ذلك مبنى قبيح.", "لا أحب الأشياء القبيحة.", "هذا قبيح جداً."],
+      "fr": ["C'est un laid bâtiment.", "Je n'aime pas les choses laides.", "C'est très laid."],
+      "it": ["Quello è un edificio brutto.", "Non mi piacciono le cose brutte.", "Questo è molto brutto."],
+      "ru": ["Это уродливое здание.", "Я не люблю уродливые вещи.", "Это очень уродливо."],
+      "es": ["Ese es un edificio feo.", "No me gustan las cosas feas.", "Esto es muy feo."],
+      "pl": ["To jest brzydki budynek.", "Nie lubię brzydkich rzeczy.", "To jest bardzo brzydkie."],
+      "fa": ["آن یک ساختمان زشت است.", "من چیزهای زشت را دوست ندارم.", "این خیلی زشت است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_943_en",
+    "word": "pretty",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pretty",
+      "de": "hübsch",
+      "ar": "جميل",
+      "fr": "joli",
+      "it": "carino",
+      "ru": "милый",
+      "es": "bonito",
+      "pl": "ładny",
+      "fa": "قشنگ"
+    },
+    "explanations": {
+      "en": "Attractive in a delicate or graceful way without being truly beautiful or striking.",
+      "de": "Attraktiv auf eine zarte oder anmutige Weise, ohne wirklich schön oder auffallend zu sein.",
+      "ar": "جذاب بطريقة رقيقة أو رشيقة دون أن يكون جميلاً حقاً أو لافتاً.",
+      "fr": "Attrayant de manière délicate ou gracieuse sans être vraiment beau ou frappant.",
+      "it": "Attraente in modo delicato o aggraziato senza essere veramente bello o sorprendente.",
+      "ru": "Привлекательный тонким или изящным образом, не будучи по-настоящему красивым или поразительным.",
+      "es": "Atractivo de manera delicada o elegante sin ser verdaderamente hermoso o llamativo.",
+      "pl": "Atrakcyjny w delikatny lub wdzięczny sposób bez bycia naprawdę pięknym lub uderzającym.",
+      "fa": "جذاب به شیوه‌ای ظریف یا زیبا بدون اینکه واقعا زیبا یا چشمگیر باشد."
+    },
+    "examples": {
+      "en": ["She is very pretty.", "What a pretty dress!", "That's pretty good now."],
+      "de": ["Sie ist sehr hübsch.", "Was für ein hübsches Kleid!", "Das ist jetzt ziemlich gut."],
+      "ar": ["هي جميلة جداً.", "يا له من فستان جميل!", "هذا جيد جداً الآن."],
+      "fr": ["Elle est très jolie.", "Quelle jolie robe!", "C'est plutôt bien maintenant."],
+      "it": ["Lei è molto carina.", "Che vestito carino!", "È abbastanza buono ora."],
+      "ru": ["Она очень милая.", "Какое милое платье!", "Это довольно хорошо сейчас."],
+      "es": ["Ella es muy bonita.", "¡Qué vestido bonito!", "Eso está bastante bien ahora."],
+      "pl": ["Ona jest bardzo ładna.", "Co za ładna sukienka!", "To jest całkiem dobre teraz."],
+      "fa": ["او خیلی قشنگ است.", "چه لباس قشنگی!", "این الان خیلی خوب است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_944_en",
+    "word": "handsome",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "handsome",
+      "de": "gutaussehend",
+      "ar": "وسيم",
+      "fr": "beau",
+      "it": "bello",
+      "ru": "красивый",
+      "es": "guapo",
+      "pl": "przystojny",
+      "fa": "خوش‌تیپ"
+    },
+    "explanations": {
+      "en": "Pleasing and attractive in appearance, especially used to describe men who look good physically.",
+      "de": "Angenehm und attraktiv im Aussehen, besonders verwendet um Männer zu beschreiben, die physisch gut aussehen.",
+      "ar": "ممتع وجذاب في المظهر، خاصة يُستخدم لوصف الرجال الذين يبدون جيدين جسدياً.",
+      "fr": "Agréable et attrayant en apparence, surtout utilisé pour décrire les hommes qui ont l'air bien physiquement.",
+      "it": "Piacevole e attraente nell'aspetto, specialmente usato per descrivere uomini che appaiono bene fisicamente.",
+      "ru": "Приятный и привлекательный по виду, особенно используется для описания мужчин, которые хорошо выглядят физически.",
+      "es": "Agradable y atractivo en apariencia, especialmente usado para describir hombres que se ven bien físicamente.",
+      "pl": "Przyjemny i atrakcyjny w wyglądzie, szczególnie używany do opisania mężczyzn, którzy wyglądają dobrze fizycznie.",
+      "fa": "دلپذیر و جذاب در ظاهر، به ویژه برای توصیف مردانی که از نظر فیزیکی خوب به نظر می‌رسند استفاده می‌شود."
+    },
+    "examples": {
+      "en": ["He is very handsome.", "What a handsome man!", "You look handsome today."],
+      "de": ["Er ist sehr gutaussehend.", "Was für ein gutaussehender Mann!", "Du siehst heute gutaussehend aus."],
+      "ar": ["هو وسيم جداً.", "يا له من رجل وسيم!", "تبدو وسيماً اليوم."],
+      "fr": ["Il est très beau.", "Quel bel homme!", "Tu as l'air beau aujourd'hui."],
+      "it": ["Lui è molto bello.", "Che bell'uomo!", "Sembri bello oggi."],
+      "ru": ["Он очень красивый.", "Какой красивый мужчина!", "Ты выглядишь красиво сегодня."],
+      "es": ["Él es muy guapo.", "¡Qué hombre guapo!", "Te ves guapo hoy."],
+      "pl": ["On jest bardzo przystojny.", "Co za przystojny mężczyzna!", "Wyglądasz przystojnie dziś."],
+      "fa": ["او خیلی خوش‌تیپ است.", "چه مرد خوش‌تیپی!", "امروز خوش‌تیپ به نظر می‌رسی."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_945_en",
+    "word": "nice",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nice",
+      "de": "nett",
+      "ar": "لطيف",
+      "fr": "gentil",
+      "it": "carino",
+      "ru": "хороший",
+      "es": "agradable",
+      "pl": "miły",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "Pleasant, agreeable, or satisfactory in nature or appearance, giving enjoyment or satisfaction to people.",
+      "de": "Angenehm, erfreulich oder zufriedenstellend in Natur oder Aussehen, den Menschen Genuss oder Zufriedenheit gebend.",
+      "ar": "ممتع أو مرضٍ أو مقبول في الطبيعة أو المظهر، يعطي المتعة أو الرضا للناس.",
+      "fr": "Agréable, plaisant ou satisfaisant par nature ou apparence, donnant du plaisir ou de la satisfaction aux gens.",
+      "it": "Piacevole, gradevole o soddisfacente per natura o aspetto, dando godimento o soddisfazione alle persone.",
+      "ru": "Приятный, согласный или удовлетворительный по природе или виду, доставляющий удовольствие или удовлетворение людям.",
+      "es": "Agradable, placentero o satisfactorio en naturaleza o apariencia, dando disfrute o satisfacción a la gente.",
+      "pl": "Przyjemny, miły lub zadowalający w naturze lub wyglądzie, dający przyjemność lub satysfakcję ludziom.",
+      "fa": "خوشایند، موافق یا رضایت‌بخش در ماهیت یا ظاهر، لذت یا رضایت به مردم می‌دهد."
+    },
+    "examples": {
+      "en": ["This is very nice.", "Have a nice day!", "She is nice person."],
+      "de": ["Das ist sehr nett.", "Hab einen schönen Tag!", "Sie ist ein netter Mensch."],
+      "ar": ["هذا لطيف جداً.", "أتمنى لك يوماً لطيفاً!", "هي شخص لطيف."],
+      "fr": ["C'est très gentil.", "Passe une bonne journée!", "Elle est une personne gentille."],
+      "it": ["Questo è molto carino.", "Buona giornata!", "Lei è una persona carina."],
+      "ru": ["Это очень хорошо.", "Хорошего дня!", "Она хороший человек."],
+      "es": ["Esto es muy agradable.", "¡Que tengas un buen día!", "Ella es una persona agradable."],
+      "pl": ["To jest bardzo miłe.", "Miłego dnia!", "Ona jest miłą osobą."],
+      "fa": ["این خیلی خوب است.", "روز خوبی داشته باش!", "او شخص خوبی است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_946_en",
+    "word": "lovely",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lovely",
+      "de": "lieblich",
+      "ar": "جميل",
+      "fr": "charmant",
+      "it": "adorabile",
+      "ru": "прелестный",
+      "es": "encantador",
+      "pl": "uroczy",
+      "fa": "دوست‌داشتنی"
+    },
+    "explanations": {
+      "en": "Very beautiful, attractive, or pleasant in a way that makes people feel happy and warm.",
+      "de": "Sehr schön, attraktiv oder angenehm auf eine Weise, die Menschen glücklich und warm fühlen lässt.",
+      "ar": "جميل جداً أو جذاب أو ممتع بطريقة تجعل الناس يشعرون بالسعادة والدفء.",
+      "fr": "Très beau, attrayant ou agréable d'une manière qui fait que les gens se sentent heureux et chaleureux.",
+      "it": "Molto bello, attraente o piacevole in un modo che fa sentire le persone felici e calde.",
+      "ru": "Очень красивый, привлекательный или приятный таким образом, который заставляет людей чувствовать себя счастливыми и тёплыми.",
+      "es": "Muy hermoso, atractivo o agradable de una manera que hace que la gente se sienta feliz y cálida.",
+      "pl": "Bardzo piękny, atrakcyjny lub przyjemny w sposób, który sprawia, że ludzie czują się szczęśliwi i ciepło.",
+      "fa": "بسیار زیبا، جذاب یا دلپذیر به گونه‌ای که مردم احساس شادی و گرما می‌کنند."
+    },
+    "examples": {
+      "en": ["What a lovely day!", "She is lovely girl.", "This is lovely place."],
+      "de": ["Was für ein lieblicher Tag!", "Sie ist ein liebliches Mädchen.", "Das ist ein lieblicher Ort."],
+      "ar": ["يا له من يوم جميل!", "هي فتاة جميلة.", "هذا مكان جميل."],
+      "fr": ["Quelle charmante journée!", "Elle est une charmante fille.", "C'est un endroit charmant."],
+      "it": ["Che giornata adorabile!", "Lei è una ragazza adorabile.", "Questo è un posto adorabile."],
+      "ru": ["Какой прелестный день!", "Она прелестная девушка.", "Это прелестное место."],
+      "es": ["¡Qué día encantador!", "Ella es una chica encantadora.", "Este es un lugar encantador."],
+      "pl": ["Co za uroczy dzień!", "Ona jest uroczą dziewczyną.", "To jest urocze miejsce."],
+      "fa": ["چه روز دوست‌داشتنی!", "او دختر دوست‌داشتنی است.", "این مکان دوست‌داشتنی است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_947_en",
+    "word": "cute",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cute",
+      "de": "süß",
+      "ar": "لطيف",
+      "fr": "mignon",
+      "it": "carino",
+      "ru": "милый",
+      "es": "lindo",
+      "pl": "śliczny",
+      "fa": "بامزه"
+    },
+    "explanations": {
+      "en": "Attractive in a pretty or endearing way, especially in a small or youthful manner that makes people smile.",
+      "de": "Attraktiv auf eine hübsche oder liebenswerte Weise, besonders auf kleine oder jugendliche Weise, die Menschen lächeln lässt.",
+      "ar": "جذاب بطريقة جميلة أو محببة، خاصة بطريقة صغيرة أو شبابية تجعل الناس يبتسمون.",
+      "fr": "Attrayant de manière jolie ou attachante, surtout de façon petite ou juvénile qui fait sourire les gens.",
+      "it": "Attraente in modo carino o accattivante, specialmente in modo piccolo o giovanile che fa sorridere le persone.",
+      "ru": "Привлекательный милым или обаятельным образом, особенно маленьким или юным способом, который заставляет людей улыбаться.",
+      "es": "Atractivo de manera bonita o entrañable, especialmente de forma pequeña o juvenil que hace sonreír a la gente.",
+      "pl": "Atrakcyjny w ładny lub ujmujący sposób, szczególnie w mały lub młodzieńczy sposób, który sprawia, że ludzie się uśmiechają.",
+      "fa": "جذاب به شیوه‌ای قشنگ یا دوست‌داشتنی، به ویژه به شیوه‌ای کوچک یا جوان که مردم را به لبخند وا می‌دارد."
+    },
+    "examples": {
+      "en": ["This baby is cute.", "What a cute dog!", "You look cute today."],
+      "de": ["Dieses Baby ist süß.", "Was für ein süßer Hund!", "Du siehst heute süß aus."],
+      "ar": ["هذا الطفل لطيف.", "يا له من كلب لطيف!", "تبدو لطيفاً اليوم."],
+      "fr": ["Ce bébé est mignon.", "Quel chien mignon!", "Tu as l'air mignon aujourd'hui."],
+      "it": ["Questo bambino è carino.", "Che cane carino!", "Sembri carino oggi."],
+      "ru": ["Этот малыш милый.", "Какая милая собака!", "Ты выглядишь мило сегодня."],
+      "es": ["Este bebé es lindo.", "¡Qué perro lindo!", "Te ves lindo hoy."],
+      "pl": ["To dziecko jest śliczne.", "Co za śliczny pies!", "Wyglądasz ślicznie dziś."],
+      "fa": ["این بچه بامزه است.", "چه سگ بامزه‌ای!", "امروز بامزه به نظر می‌رسی."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_948_en",
+    "word": "attractive",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "attractive",
+      "de": "attraktiv",
+      "ar": "جذاب",
+      "fr": "attrayant",
+      "it": "attraente",
+      "ru": "привлекательный",
+      "es": "atractivo",
+      "pl": "atrakcyjny",
+      "fa": "جذاب"
+    },
+    "explanations": {
+      "en": "Pleasing or appealing to the senses, especially to sight, in a way that draws interest or attention.",
+      "de": "Angenehm oder ansprechend für die Sinne, besonders für das Sehen, auf eine Weise, die Interesse oder Aufmerksamkeit anzieht.",
+      "ar": "ممتع أو جذاب للحواس، خاصة للبصر، بطريقة تجذب الاهتمام أو الانتباه.",
+      "fr": "Agréable ou attrayant pour les sens, surtout pour la vue, d'une manière qui attire l'intérêt ou l'attention.",
+      "it": "Piacevole o attraente per i sensi, specialmente per la vista, in modo da attirare interesse o attenzione.",
+      "ru": "Приятный или привлекательный для чувств, особенно для зрения, способом, который привлекает интерес или внимание.",
+      "es": "Agradable o atractivo a los sentidos, especialmente a la vista, de manera que atrae interés o atención.",
+      "pl": "Przyjemny lub atrakcyjny dla zmysłów, szczególnie dla wzroku, w sposób, który przyciąga zainteresowanie lub uwagę.",
+      "fa": "خوشایند یا جذاب برای حواس، به ویژه برای بینایی، به گونه‌ای که علاقه یا توجه جلب می‌کند."
+    },
+    "examples": {
+      "en": ["She is very attractive.", "This is attractive offer.", "He finds her attractive."],
+      "de": ["Sie ist sehr attraktiv.", "Das ist ein attraktives Angebot.", "Er findet sie attraktiv."],
+      "ar": ["هي جذابة جداً.", "هذا عرض جذاب.", "يجدها جذابة."],
+      "fr": ["Elle est très attrayante.", "C'est une offre attrayante.", "Il la trouve attrayante."],
+      "it": ["Lei è molto attraente.", "Questa è un'offerta attraente.", "La trova attraente."],
+      "ru": ["Она очень привлекательная.", "Это привлекательное предложение.", "Он находит её привлекательной."],
+      "es": ["Ella es muy atractiva.", "Esta es una oferta atractiva.", "Él la encuentra atractiva."],
+      "pl": ["Ona jest bardzo atrakcyjna.", "To jest atrakcyjna oferta.", "On uważa ją za atrakcyjną."],
+      "fa": ["او خیلی جذاب است.", "این پیشنهاد جذاب است.", "او را جذاب می‌یابد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_949_en",
+    "word": "look",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "look",
+      "de": "aussehen",
+      "ar": "يبدو",
+      "fr": "avoir l'air",
+      "it": "sembrare",
+      "ru": "выглядеть",
+      "es": "parecer",
+      "pl": "wyglądać",
+      "fa": "به نظر رسیدن"
+    },
+    "explanations": {
+      "en": "To have a particular appearance or seem to be something in a certain way to someone observing.",
+      "de": "Ein bestimmtes Aussehen haben oder jemandem, der beobachtet, auf eine bestimmte Weise erscheinen.",
+      "ar": "أن يكون لديك مظهر معين أو تبدو كشيء بطريقة معينة لشخص يراقب.",
+      "fr": "Avoir une apparence particulière ou sembler être quelque chose d'une certaine manière pour quelqu'un qui observe.",
+      "it": "Avere un aspetto particolare o sembrare essere qualcosa in un certo modo per qualcuno che osserva.",
+      "ru": "Иметь определённый вид или казаться чем-то определённым образом для наблюдающего.",
+      "es": "Tener una apariencia particular o parecer ser algo de cierta manera para alguien que observa.",
+      "pl": "Mieć określony wygląd lub wydawać się czymś w określony sposób dla kogoś obserwującego.",
+      "fa": "داشتن ظاهر خاص یا به نظر رسیدن چیزی به شیوه خاصی برای کسی که مشاهده می‌کند."
+    },
+    "examples": {
+      "en": ["You look happy today.", "This looks good now.", "I look tired today."],
+      "de": ["Du siehst heute glücklich aus.", "Das sieht jetzt gut aus.", "Ich sehe heute müde aus."],
+      "ar": ["تبدو سعيداً اليوم.", "هذا يبدو جيداً الآن.", "أبدو متعباً اليوم."],
+      "fr": ["Tu as l'air heureux aujourd'hui.", "Ça a l'air bien maintenant.", "J'ai l'air fatigué aujourd'hui."],
+      "it": ["Sembri felice oggi.", "Questo sembra buono ora.", "Sembro stanco oggi."],
+      "ru": ["Ты выглядишь счастливым сегодня.", "Это выглядит хорошо сейчас.", "Я выгляжу уставшим сегодня."],
+      "es": ["Pareces feliz hoy.", "Esto parece bueno ahora.", "Parezco cansado hoy."],
+      "pl": ["Wyglądasz szczęśliwie dziś.", "To wygląda dobrze teraz.", "Wyglądam zmęczony dziś."],
+      "fa": ["امروز خوشحال به نظر می‌رسی.", "این الان خوب به نظر می‌رسد.", "امروز خسته به نظر می‌رسم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_950_en",
+    "word": "appear",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "appear",
+      "de": "erscheinen",
+      "ar": "يظهر",
+      "fr": "apparaître",
+      "it": "apparire",
+      "ru": "появляться",
+      "es": "aparecer",
+      "pl": "pojawiać się",
+      "fa": "ظاهر شدن"
+    },
+    "explanations": {
+      "en": "To become visible or come into sight, or to seem to be a particular way.",
+      "de": "Sichtbar werden oder in Sicht kommen, oder auf eine bestimmte Weise zu erscheinen.",
+      "ar": "أن تصبح مرئياً أو تدخل في مجال الرؤية، أو أن تبدو بطريقة معينة.",
+      "fr": "Devenir visible ou entrer en vue, ou sembler être d'une manière particulière.",
+      "it": "Diventare visibile o entrare in vista, o sembrare essere in un modo particolare.",
+      "ru": "Стать видимым или войти в поле зрения, или казаться определённым образом.",
+      "es": "Hacerse visible o entrar en vista, o parecer ser de una manera particular.",
+      "pl": "Stać się widocznym lub wejść w pole widzenia, lub wydawać się być w określony sposób.",
+      "fa": "قابل مشاهده شدن یا وارد دید شدن، یا به نظر رسیدن به شیوه خاصی."
+    },
+    "examples": {
+      "en": ["Stars appear at night.", "He appears very happy.", "When did you appear?"],
+      "de": ["Sterne erscheinen nachts.", "Er erscheint sehr glücklich.", "Wann bist du erschienen?"],
+      "ar": ["تظهر النجوم في الليل.", "يظهر سعيداً جداً.", "متى ظهرت؟"],
+      "fr": ["Les étoiles apparaissent la nuit.", "Il apparaît très heureux.", "Quand es-tu apparu?"],
+      "it": ["Le stelle appaiono di notte.", "Lui appare molto felice.", "Quando sei apparso?"],
+      "ru": ["Звёзды появляются ночью.", "Он выглядит очень счастливым.", "Когда ты появился?"],
+      "es": ["Las estrellas aparecen de noche.", "Él aparece muy feliz.", "¿Cuándo apareciste?"],
+      "pl": ["Gwiazdy pojawiają się w nocy.", "On wydaje się bardzo szczęśliwy.", "Kiedy się pojawiłeś?"],
+      "fa": ["ستاره‌ها در شب ظاهر می‌شوند.", "او خیلی خوشحال به نظر می‌رسد.", "کی ظاهر شدی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_951_en",
+    "word": "seem",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "seem",
+      "de": "scheinen",
+      "ar": "يبدو",
+      "fr": "sembler",
+      "it": "sembrare",
+      "ru": "казаться",
+      "es": "parecer",
+      "pl": "wydawać się",
+      "fa": "به نظر رسیدن"
+    },
+    "explanations": {
+      "en": "To give the impression of being or appearing to be something without being certain about it.",
+      "de": "Den Eindruck erwecken, etwas zu sein oder zu erscheinen, ohne sicher darüber zu sein.",
+      "ar": "إعطاء انطباع بأن تكون أو تظهر كشيء دون أن تكون متأكداً منه.",
+      "fr": "Donner l'impression d'être ou de paraître quelque chose sans en être certain.",
+      "it": "Dare l'impressione di essere o apparire qualcosa senza esserne certi.",
+      "ru": "Создавать впечатление быть или казаться чем-то без уверенности в этом.",
+      "es": "Dar la impresión de ser o parecer algo sin estar seguro de ello.",
+      "pl": "Sprawiać wrażenie bycia lub wydawania się czymś bez pewności co do tego.",
+      "fa": "تاثیر بودن یا به نظر رسیدن چیزی را بدون اطمینان از آن دادن."
+    },
+    "examples": {
+      "en": ["You seem happy now.", "This seems good today.", "It seems like rain."],
+      "de": ["Du scheinst jetzt glücklich.", "Das scheint heute gut.", "Es scheint zu regnen."],
+      "ar": ["تبدو سعيداً الآن.", "هذا يبدو جيداً اليوم.", "يبدو أنها ستمطر."],
+      "fr": ["Tu sembles heureux maintenant.", "Ça semble bien aujourd'hui.", "Il semble qu'il va pleuvoir."],
+      "it": ["Sembri felice ora.", "Questo sembra buono oggi.", "Sembra che pioverà."],
+      "ru": ["Ты кажешься счастливым сейчас.", "Это кажется хорошим сегодня.", "Кажется, будет дождь."],
+      "es": ["Pareces feliz ahora.", "Esto parece bueno hoy.", "Parece que va a llover."],
+      "pl": ["Wydajesz się szczęśliwy teraz.", "To wydaje się dobre dziś.", "Wydaje się, że będzie padać."],
+      "fa": ["الان خوشحال به نظر می‌رسی.", "این امروز خوب به نظر می‌رسد.", "به نظر می‌رسد باران ببارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_952_en",
+    "word": "show",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "show",
+      "de": "zeigen",
+      "ar": "يظهر",
+      "fr": "montrer",
+      "it": "mostrare",
+      "ru": "показывать",
+      "es": "mostrar",
+      "pl": "pokazywać",
+      "fa": "نشان دادن"
+    },
+    "explanations": {
+      "en": "To make something visible or allow someone to see it by displaying or presenting it.",
+      "de": "Etwas sichtbar machen oder jemandem erlauben, es zu sehen, indem man es zeigt oder präsentiert.",
+      "ar": "جعل شيء مرئياً أو السماح لشخص ما برؤيته من خلال عرضه أو تقديمه.",
+      "fr": "Rendre quelque chose visible ou permettre à quelqu'un de le voir en l'affichant ou le présentant.",
+      "it": "Rendere qualcosa visibile o permettere a qualcuno di vederlo mostrandolo o presentandolo.",
+      "ru": "Делать что-то видимым или позволять кому-то увидеть это, показывая или представляя это.",
+      "es": "Hacer algo visible o permitir que alguien lo vea mostrándolo o presentándolo.",
+      "pl": "Uczynić coś widocznym lub pozwolić komuś to zobaczyć poprzez pokazanie lub zaprezentowanie tego.",
+      "fa": "قابل مشاهده کردن چیزی یا اجازه دادن به کسی برای دیدن آن با نمایش یا ارائه آن."
+    },
+    "examples": {
+      "en": ["Show me this please.", "I can show you.", "Let me show now."],
+      "de": ["Zeig mir das bitte.", "Ich kann es dir zeigen.", "Lass mich jetzt zeigen."],
+      "ar": ["أرني هذا من فضلك.", "يمكنني أن أريك.", "دعني أريك الآن."],
+      "fr": ["Montre-moi ça s'il te plaît.", "Je peux te montrer.", "Laisse-moi montrer maintenant."],
+      "it": ["Mostrami questo per favore.", "Posso mostrarti.", "Lasciami mostrare ora."],
+      "ru": ["Покажи мне это, пожалуйста.", "Я могу показать тебе.", "Позволь мне показать сейчас."],
+      "es": ["Muéstrame esto por favor.", "Puedo mostrarte.", "Déjame mostrar ahora."],
+      "pl": ["Pokaż mi to proszę.", "Mogę ci pokazać.", "Pozwól mi pokazać teraz."],
+      "fa": ["لطفا این را به من نشان بده.", "می‌توانم به تو نشان بدهم.", "بگذار الان نشان بدهم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_953_en",
+    "word": "hide",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hide",
+      "de": "verstecken",
+      "ar": "يخفي",
+      "fr": "cacher",
+      "it": "nascondere",
+      "ru": "прятать",
+      "es": "esconder",
+      "pl": "chować",
+      "fa": "پنهان کردن"
+    },
+    "explanations": {
+      "en": "To put or keep something in a place where it cannot be seen or found by others.",
+      "de": "Etwas an einem Ort aufbewahren oder legen, wo es von anderen nicht gesehen oder gefunden werden kann.",
+      "ar": "وضع أو الاحتفاظ بشيء في مكان لا يمكن للآخرين رؤيته أو العثور عليه.",
+      "fr": "Mettre ou garder quelque chose dans un endroit où il ne peut pas être vu ou trouvé par les autres.",
+      "it": "Mettere o tenere qualcosa in un posto dove non può essere visto o trovato da altri.",
+      "ru": "Положить или держать что-то в месте, где это не может быть увидено или найдено другими.",
+      "es": "Poner o mantener algo en un lugar donde no puede ser visto o encontrado por otros.",
+      "pl": "Umieścić lub trzymać coś w miejscu, gdzie nie może być zobaczone lub znalezione przez innych.",
+      "fa": "قرار دادن یا نگه داشتن چیزی در مکانی که توسط دیگران دیده یا پیدا نشود."
+    },
+    "examples": {
+      "en": ["Hide this for me.", "I can hide here.", "Don't hide from me."],
+      "de": ["Versteck das für mich.", "Ich kann mich hier verstecken.", "Versteck dich nicht vor mir."],
+      "ar": ["اخف هذا من أجلي.", "يمكنني أن أختبئ هنا.", "لا تختبئ مني."],
+      "fr": ["Cache ça pour moi.", "Je peux me cacher ici.", "Ne te cache pas de moi."],
+      "it": ["Nascondi questo per me.", "Posso nascondermi qui.", "Non nasconderti da me."],
+      "ru": ["Спрячь это для меня.", "Я могу спрятаться здесь.", "Не прячься от меня."],
+      "es": ["Esconde esto por mí.", "Puedo esconderme aquí.", "No te escondas de mí."],
+      "pl": ["Schowaj to dla mnie.", "Mogę się tu schować.", "Nie chowaj się przede mną."],
+      "fa": ["این را برای من پنهان کن.", "می‌توانم اینجا پنهان شوم.", "از من پنهان نشو."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_954_en",
+    "word": "see",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "see",
+      "de": "sehen",
+      "ar": "يرى",
+      "fr": "voir",
+      "it": "vedere",
+      "ru": "видеть",
+      "es": "ver",
+      "pl": "widzieć",
+      "fa": "دیدن"
+    },
+    "explanations": {
+      "en": "To perceive with your eyes or become aware of something by using your sense of sight.",
+      "de": "Mit den Augen wahrnehmen oder sich etwas bewusst werden durch die Nutzung des Sehsinns.",
+      "ar": "إدراك بعينيك أو أن تصبح على دراية بشيء باستخدام حاسة البصر.",
+      "fr": "Percevoir avec vos yeux ou prendre conscience de quelque chose en utilisant votre sens de la vue.",
+      "it": "Percepire con gli occhi o diventare consapevole di qualcosa usando il senso della vista.",
+      "ru": "Воспринимать глазами или становиться осведомлённым о чём-то, используя зрение.",
+      "es": "Percibir con tus ojos o tomar conciencia de algo usando tu sentido de la vista.",
+      "pl": "Postrzegać oczami lub uświadomić sobie coś używając zmysłu wzroku.",
+      "fa": "درک کردن با چشمان یا آگاه شدن از چیزی با استفاده از حس بینایی."
+    },
+    "examples": {
+      "en": ["I can see you.", "Do you see this?", "I see a bird."],
+      "de": ["Ich kann dich sehen.", "Siehst du das?", "Ich sehe einen Vogel."],
+      "ar": ["يمكنني أن أراك.", "هل ترى هذا؟", "أرى طائراً."],
+      "fr": ["Je peux te voir.", "Vois-tu ça?", "Je vois un oiseau."],
+      "it": ["Posso vederti.", "Vedi questo?", "Vedo un uccello."],
+      "ru": ["Я могу видеть тебя.", "Ты видишь это?", "Я вижу птицу."],
+      "es": ["Puedo verte.", "¿Ves esto?", "Veo un pájaro."],
+      "pl": ["Mogę cię widzieć.", "Widzisz to?", "Widzę ptaka."],
+      "fa": ["می‌توانم تو را ببینم.", "این را می‌بینی؟", "پرنده‌ای می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_955_en",
+    "word": "watch",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "watch",
+      "de": "beobachten",
+      "ar": "يشاهد",
+      "fr": "regarder",
+      "it": "guardare",
+      "ru": "смотреть",
+      "es": "mirar",
+      "pl": "oglądać",
+      "fa": "تماشا کردن"
+    },
+    "explanations": {
+      "en": "To look at something carefully and attentively for a period of time with focused attention.",
+      "de": "Etwas sorgfältig und aufmerksam für eine Zeit lang mit fokussierter Aufmerksamkeit ansehen.",
+      "ar": "النظر إلى شيء بعناية وانتباه لفترة من الوقت مع انتباه مركز.",
+      "fr": "Regarder quelque chose attentivement et avec attention pendant une période avec une attention concentrée.",
+      "it": "Guardare qualcosa attentamente e con attenzione per un periodo di tempo con attenzione focalizzata.",
+      "ru": "Смотреть на что-то внимательно и сосредоточенно в течение периода времени с целенаправленным вниманием.",
+      "es": "Mirar algo cuidadosamente y atentamente durante un período de tiempo con atención enfocada.",
+      "pl": "Patrzeć na coś uważnie i z uwagą przez okres czasu z skupioną uwagą.",
+      "fa": "نگاه کردن به چیزی با دقت و توجه برای مدتی با توجه متمرکز."
+    },
+    "examples": {
+      "en": ["I watch TV now.", "Watch this please.", "Let's watch together."],
+      "de": ["Ich schaue jetzt fern.", "Schau das bitte an.", "Lass uns zusammen schauen."],
+      "ar": ["أشاهد التلفاز الآن.", "شاهد هذا من فضلك.", "دعنا نشاهد معاً."],
+      "fr": ["Je regarde la télé maintenant.", "Regarde ça s'il te plaît.", "Regardons ensemble."],
+      "it": ["Guardo la TV ora.", "Guarda questo per favore.", "Guardiamo insieme."],
+      "ru": ["Я смотрю телевизор сейчас.", "Посмотри это, пожалуйста.", "Давай посмотрим вместе."],
+      "es": ["Veo TV ahora.", "Mira esto por favor.", "Miremos juntos."],
+      "pl": ["Oglądam TV teraz.", "Obejrzyj to proszę.", "Oglądajmy razem."],
+      "fa": ["الان تلویزیون تماشا می‌کنم.", "لطفا این را تماشا کن.", "بیا با هم تماشا کنیم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_956_en",
+    "word": "view",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "view",
+      "de": "Aussicht",
+      "ar": "منظر",
+      "fr": "vue",
+      "it": "vista",
+      "ru": "вид",
+      "es": "vista",
+      "pl": "widok",
+      "fa": "منظره"
+    },
+    "explanations": {
+      "en": "What you can see from a particular place, or the ability to see something from somewhere.",
+      "de": "Was man von einem bestimmten Ort sehen kann, oder die Fähigkeit, etwas von irgendwo zu sehen.",
+      "ar": "ما يمكنك رؤيته من مكان معين، أو القدرة على رؤية شيء من مكان ما.",
+      "fr": "Ce que vous pouvez voir d'un endroit particulier, ou la capacité de voir quelque chose de quelque part.",
+      "it": "Ciò che puoi vedere da un luogo particolare, o la capacità di vedere qualcosa da qualche parte.",
+      "ru": "То, что вы можете видеть с определённого места, или способность видеть что-то откуда-то.",
+      "es": "Lo que puedes ver desde un lugar particular, o la capacidad de ver algo desde algún lugar.",
+      "pl": "To, co możesz zobaczyć z określonego miejsca, lub zdolność zobaczenia czegoś z gdzieś.",
+      "fa": "آنچه می‌توانید از مکان خاصی ببینید، یا توانایی دیدن چیزی از جایی."
+    },
+    "examples": {
+      "en": ["The view is nice.", "I have good view.", "This room has view."],
+      "de": ["Die Aussicht ist schön.", "Ich habe gute Aussicht.", "Dieses Zimmer hat Aussicht."],
+      "ar": ["المنظر جميل.", "لدي منظر جيد.", "هذه الغرفة لديها منظر."],
+      "fr": ["La vue est belle.", "J'ai une bonne vue.", "Cette chambre a une vue."],
+      "it": ["La vista è bella.", "Ho una bella vista.", "Questa stanza ha vista."],
+      "ru": ["Вид красивый.", "У меня хороший вид.", "В этой комнате есть вид."],
+      "es": ["La vista es linda.", "Tengo buena vista.", "Esta habitación tiene vista."],
+      "pl": ["Widok jest ładny.", "Mam dobry widok.", "Ten pokój ma widok."],
+      "fa": ["منظره قشنگ است.", "من منظره خوبی دارم.", "این اتاق منظره دارد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_957_en",
+    "word": "sight",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sight",
+      "de": "Sicht",
+      "ar": "بصر",
+      "fr": "vue",
+      "it": "vista",
+      "ru": "зрение",
+      "es": "vista",
+      "pl": "wzrok",
+      "fa": "بینایی"
+    },
+    "explanations": {
+      "en": "The ability to see with your eyes, or something that you see or can be seen.",
+      "de": "Die Fähigkeit, mit den Augen zu sehen, oder etwas, das man sieht oder gesehen werden kann.",
+      "ar": "القدرة على الرؤية بعينيك، أو شيء تراه أو يمكن رؤيته.",
+      "fr": "La capacité de voir avec vos yeux, ou quelque chose que vous voyez ou qui peut être vu.",
+      "it": "La capacità di vedere con gli occhi, o qualcosa che vedi o può essere visto.",
+      "ru": "Способность видеть глазами, или что-то, что вы видите или может быть увидено.",
+      "es": "La capacidad de ver con tus ojos, o algo que ves o puede ser visto.",
+      "pl": "Zdolność widzenia oczami, lub coś, co widzisz lub może być widziane.",
+      "fa": "توانایی دیدن با چشمان، یا چیزی که می‌بینید یا قابل دیدن است."
+    },
+    "examples": {
+      "en": ["I have good sight.", "What a nice sight!", "He lost his sight."],
+      "de": ["Ich habe gute Sicht.", "Was für ein schöner Anblick!", "Er verlor seine Sicht."],
+      "ar": ["لدي بصر جيد.", "يا له من منظر جميل!", "فقد بصره."],
+      "fr": ["J'ai une bonne vue.", "Quelle belle vue!", "Il a perdu la vue."],
+      "it": ["Ho una buona vista.", "Che bella vista!", "Ha perso la vista."],
+      "ru": ["У меня хорошее зрение.", "Какой прекрасный вид!", "Он потерял зрение."],
+      "es": ["Tengo buena vista.", "¡Qué linda vista!", "Perdió la vista."],
+      "pl": ["Mam dobry wzrok.", "Co za ładny widok!", "Stracił wzrok."],
+      "fa": ["من بینایی خوبی دارم.", "چه منظره قشنگی!", "او بینایی خود را از دست داد."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_958_en",
+    "word": "image",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "image",
+      "de": "Bild",
+      "ar": "صورة",
+      "fr": "image",
+      "it": "immagine",
+      "ru": "изображение",
+      "es": "imagen",
+      "pl": "obraz",
+      "fa": "تصویر"
+    },
+    "explanations": {
+      "en": "A representation or copy of something shown as a picture, drawing, or photograph on a surface.",
+      "de": "Eine Darstellung oder Kopie von etwas, das als Bild, Zeichnung oder Foto auf einer Oberfläche gezeigt wird.",
+      "ar": "تمثيل أو نسخة من شيء يُظهر كصورة أو رسم أو صورة فوتوغرافية على سطح.",
+      "fr": "Une représentation ou copie de quelque chose montré comme une image, un dessin ou une photographie sur une surface.",
+      "it": "Una rappresentazione o copia di qualcosa mostrato come immagine, disegno o fotografia su una superficie.",
+      "ru": "Представление или копия чего-то, показанного как картина, рисунок или фотография на поверхности.",
+      "es": "Una representación o copia de algo mostrado como imagen, dibujo o fotografía en una superficie.",
+      "pl": "Reprezentacja lub kopia czegoś pokazanego jako obraz, rysunek lub fotografia na powierzchni.",
+      "fa": "نمایش یا کپی چیزی که به عنوان عکس، طراحی یا عکس بر روی سطح نشان داده شده."
+    },
+    "examples": {
+      "en": ["Look at this image.", "The image is clear.", "I see your image."],
+      "de": ["Schau dir dieses Bild an.", "Das Bild ist klar.", "Ich sehe dein Bild."],
+      "ar": ["انظر إلى هذه الصورة.", "الصورة واضحة.", "أرى صورتك."],
+      "fr": ["Regarde cette image.", "L'image est claire.", "Je vois ton image."],
+      "it": ["Guarda questa immagine.", "L'immagine è chiara.", "Vedo la tua immagine."],
+      "ru": ["Посмотри на это изображение.", "Изображение чёткое.", "Я вижу твоё изображение."],
+      "es": ["Mira esta imagen.", "La imagen es clara.", "Veo tu imagen."],
+      "pl": ["Spójrz na ten obraz.", "Obraz jest wyraźny.", "Widzę twój obraz."],
+      "fa": ["به این تصویر نگاه کن.", "تصویر واضح است.", "تصویر تو را می‌بینم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_959_en",
+    "word": "picture",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "picture",
+      "de": "Bild",
+      "ar": "صورة",
+      "fr": "image",
+      "it": "immagine",
+      "ru": "картина",
+      "es": "imagen",
+      "pl": "zdjęcie",
+      "fa": "عکس"
+    },
+    "explanations": {
+      "en": "A painting, drawing, or photograph that shows what someone or something looks like on paper or screen.",
+      "de": "Ein Gemälde, eine Zeichnung oder ein Foto, das zeigt, wie jemand oder etwas auf Papier oder Bildschirm aussieht.",
+      "ar": "لوحة أو رسم أو صورة فوتوغرافية تُظهر كيف يبدو شخص أو شيء على الورق أو الشاشة.",
+      "fr": "Une peinture, un dessin ou une photographie qui montre à quoi ressemble quelqu'un ou quelque chose sur papier ou écran.",
+      "it": "Un dipinto, disegno o fotografia che mostra come appare qualcuno o qualcosa su carta o schermo.",
+      "ru": "Картина, рисунок или фотография, показывающая как кто-то или что-то выглядит на бумаге или экране.",
+      "es": "Una pintura, dibujo o fotografía que muestra cómo se ve alguien o algo en papel o pantalla.",
+      "pl": "Obraz, rysunek lub fotografia, która pokazuje jak ktoś lub coś wygląda na papierze lub ekranie.",
+      "fa": "نقاشی، طراحی یا عکسی که نشان می‌دهد کسی یا چیزی چگونه روی کاغذ یا صفحه به نظر می‌رسد."
+    },
+    "examples": {
+      "en": ["I have a picture.", "Take a picture please.", "This picture is nice."],
+      "de": ["Ich habe ein Bild.", "Mach bitte ein Bild.", "Dieses Bild ist schön."],
+      "ar": ["لدي صورة.", "التقط صورة من فضلك.", "هذه الصورة جميلة."],
+      "fr": ["J'ai une image.", "Prends une photo s'il te plaît.", "Cette image est belle."],
+      "it": ["Ho un'immagine.", "Fai una foto per favore.", "Questa immagine è bella."],
+      "ru": ["У меня есть картина.", "Сделай фотографию, пожалуйста.", "Эта картина красивая."],
+      "es": ["Tengo una imagen.", "Toma una foto por favor.", "Esta imagen es linda."],
+      "pl": ["Mam zdjęcie.", "Zrób zdjęcie proszę.", "To zdjęcie jest ładne."],
+      "fa": ["من یک عکس دارم.", "لطفا عکس بگیر.", "این عکس قشنگ است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_960_en",
+    "word": "photo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "photo",
+      "de": "Foto",
+      "ar": "صورة",
+      "fr": "photo",
+      "it": "foto",
+      "ru": "фотография",
+      "es": "foto",
+      "pl": "zdjęcie",
+      "fa": "عکس"
+    },
+    "explanations": {
+      "en": "A picture made using a camera that captures and records light from a real scene or subject.",
+      "de": "Ein Bild, das mit einer Kamera gemacht wurde, die Licht von einer echten Szene oder einem Motiv einfängt und aufzeichnet.",
+      "ar": "صورة مصنوعة باستخدام كاميرا تلتقط وتسجل الضوء من مشهد أو موضوع حقيقي.",
+      "fr": "Une image faite en utilisant un appareil photo qui capture et enregistre la lumière d'une scène ou sujet réel.",
+      "it": "Un'immagine fatta usando una fotocamera che cattura e registra la luce da una scena o soggetto reale.",
+      "ru": "Картина, сделанная с помощью камеры, которая захватывает и записывает свет от реальной сцены или объекта.",
+      "es": "Una imagen hecha usando una cámara que captura y registra la luz de una escena o sujeto real.",
+      "pl": "Obraz zrobiony przy użyciu aparatu, który przechwytuje i rejestruje światło z rzeczywistej sceny lub obiektu.",
+      "fa": "تصویری که با استفاده از دوربین ساخته شده که نور از صحنه یا موضوع واقعی را ضبط و ثبت می‌کند."
+    },
+    "examples": {
+      "en": ["I took a photo.", "Look at this photo.", "Send me your photo."],
+      "de": ["Ich habe ein Foto gemacht.", "Schau dir dieses Foto an.", "Schick mir dein Foto."],
+      "ar": ["التقطت صورة.", "انظر إلى هذه الصورة.", "أرسل لي صورتك."],
+      "fr": ["J'ai pris une photo.", "Regarde cette photo.", "Envoie-moi ta photo."],
+      "it": ["Ho fatto una foto.", "Guarda questa foto.", "Mandami la tua foto."],
+      "ru": ["Я сделал фотографию.", "Посмотри на это фото.", "Пришли мне своё фото."],
+      "es": ["Tomé una foto.", "Mira esta foto.", "Envíame tu foto."],
+      "pl": ["Zrobiłem zdjęcie.", "Spójrz na to zdjęcie.", "Wyślij mi swoje zdjęcie."],
+      "fa": ["من یک عکس گرفتم.", "به این عکس نگاه کن.", "عکست را برایم بفرست."]
+    },
+    "conjugations": null
+  }
+]

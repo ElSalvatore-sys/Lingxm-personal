@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_961_en",
+    "word": "important",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "important",
+      "de": "wichtig",
+      "ar": "مهم",
+      "fr": "important",
+      "it": "importante",
+      "ru": "важный",
+      "es": "importante",
+      "pl": "ważny",
+      "fa": "مهم"
+    },
+    "explanations": {
+      "en": "Having great value, significance, or meaning that deserves attention and should not be ignored or neglected.",
+      "de": "Von großem Wert, Bedeutung oder Sinn, der Aufmerksamkeit verdient und nicht ignoriert oder vernachlässigt werden sollte.",
+      "ar": "ذو قيمة أو أهمية أو معنى كبير يستحق الانتباه ولا ينبغي تجاهله أو إهماله.",
+      "fr": "Ayant une grande valeur, importance ou signification qui mérite attention et ne devrait pas être ignoré ou négligé.",
+      "it": "Avere grande valore, significato o importanza che merita attenzione e non dovrebbe essere ignorato o trascurato.",
+      "ru": "Имеющий большую ценность, значение или смысл, заслуживающий внимания и не должен быть проигнорирован или пренебрежён.",
+      "es": "Tener gran valor, significado o importancia que merece atención y no debe ser ignorado o descuidado.",
+      "pl": "Posiadający wielką wartość, znaczenie lub sens, który zasługuje na uwagę i nie powinien być ignorowany lub zaniedbany.",
+      "fa": "داشتن ارزش، اهمیت یا معنی زیادی که شایسته توجه است و نباید نادیده گرفته یا مورد بی‌توجهی قرار گیرد."
+    },
+    "examples": {
+      "en": ["This is very important.", "It's important for me.", "Important things come first."],
+      "de": ["Das ist sehr wichtig.", "Es ist wichtig für mich.", "Wichtige Dinge kommen zuerst."],
+      "ar": ["هذا مهم جداً.", "إنه مهم بالنسبة لي.", "الأشياء المهمة تأتي أولاً."],
+      "fr": ["C'est très important.", "C'est important pour moi.", "Les choses importantes viennent d'abord."],
+      "it": ["Questo è molto importante.", "È importante per me.", "Le cose importanti vengono prima."],
+      "ru": ["Это очень важно.", "Это важно для меня.", "Важные вещи на первом месте."],
+      "es": ["Esto es muy importante.", "Es importante para mí.", "Las cosas importantes vienen primero."],
+      "pl": ["To jest bardzo ważne.", "To jest ważne dla mnie.", "Ważne rzeczy są pierwsze."],
+      "fa": ["این خیلی مهم است.", "برای من مهم است.", "چیزهای مهم اول می‌آیند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_962_en",
+    "word": "necessary",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "necessary",
+      "de": "notwendig",
+      "ar": "ضروري",
+      "fr": "nécessaire",
+      "it": "necessario",
+      "ru": "необходимый",
+      "es": "necesario",
+      "pl": "konieczny",
+      "fa": "ضروری"
+    },
+    "explanations": {
+      "en": "Needed or required for a purpose or reason, essential and cannot be done without it.",
+      "de": "Für einen Zweck oder Grund benötigt oder erforderlich, wesentlich und kann nicht ohne es getan werden.",
+      "ar": "مطلوب أو ضروري لغرض أو سبب، أساسي ولا يمكن الاستغناء عنه.",
+      "fr": "Nécessaire ou requis pour un but ou une raison, essentiel et ne peut pas être fait sans lui.",
+      "it": "Necessario o richiesto per uno scopo o ragione, essenziale e non può essere fatto senza di esso.",
+      "ru": "Нужный или требуемый для цели или причины, существенный и не может быть сделан без него.",
+      "es": "Necesario o requerido para un propósito o razón, esencial y no se puede hacer sin él.",
+      "pl": "Potrzebny lub wymagany do celu lub powodu, niezbędny i nie może być zrobiony bez tego.",
+      "fa": "مورد نیاز یا لازم برای یک هدف یا دلیل، ضروری و نمی‌توان بدون آن انجام داد."
+    },
+    "examples": {
+      "en": ["This is very necessary.", "Food is necessary here.", "Is this necessary now?"],
+      "de": ["Das ist sehr notwendig.", "Essen ist hier notwendig.", "Ist das jetzt notwendig?"],
+      "ar": ["هذا ضروري جداً.", "الطعام ضروري هنا.", "هل هذا ضروري الآن؟"],
+      "fr": ["C'est très nécessaire.", "La nourriture est nécessaire ici.", "Est-ce nécessaire maintenant?"],
+      "it": ["Questo è molto necessario.", "Il cibo è necessario qui.", "È necessario ora?"],
+      "ru": ["Это очень необходимо.", "Еда необходима здесь.", "Это необходимо сейчас?"],
+      "es": ["Esto es muy necesario.", "La comida es necesaria aquí.", "¿Es necesario ahora?"],
+      "pl": ["To jest bardzo konieczne.", "Jedzenie jest konieczne tutaj.", "Czy to jest konieczne teraz?"],
+      "fa": ["این خیلی ضروری است.", "غذا اینجا ضروری است.", "این الان ضروری است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_963_en",
+    "word": "need",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "need",
+      "de": "Bedürfnis",
+      "ar": "حاجة",
+      "fr": "besoin",
+      "it": "bisogno",
+      "ru": "потребность",
+      "es": "necesidad",
+      "pl": "potrzeba",
+      "fa": "نیاز"
+    },
+    "explanations": {
+      "en": "Something that is necessary or required for a particular purpose, often essential for survival or well-being.",
+      "de": "Etwas, das für einen bestimmten Zweck notwendig oder erforderlich ist, oft wesentlich für Überleben oder Wohlbefinden.",
+      "ar": "شيء ضروري أو مطلوب لغرض معين، غالباً أساسي للبقاء أو الرفاهية.",
+      "fr": "Quelque chose qui est nécessaire ou requis pour un but particulier, souvent essentiel pour la survie ou le bien-être.",
+      "it": "Qualcosa che è necessario o richiesto per uno scopo particolare, spesso essenziale per la sopravvivenza o il benessere.",
+      "ru": "Что-то необходимое или требуемое для конкретной цели, часто существенное для выживания или благополучия.",
+      "es": "Algo que es necesario o requerido para un propósito particular, a menudo esencial para la supervivencia o el bienestar.",
+      "pl": "Coś, co jest konieczne lub wymagane do określonego celu, często niezbędne do przetrwania lub dobrostanu.",
+      "fa": "چیزی که برای هدف خاصی ضروری یا لازم است، اغلب برای بقا یا رفاه ضروری است."
+    },
+    "examples": {
+      "en": ["I have a need.", "Water is basic need.", "What are your needs?"],
+      "de": ["Ich habe ein Bedürfnis.", "Wasser ist ein Grundbedürfnis.", "Was sind deine Bedürfnisse?"],
+      "ar": ["لدي حاجة.", "الماء حاجة أساسية.", "ما هي احتياجاتك؟"],
+      "fr": ["J'ai un besoin.", "L'eau est un besoin de base.", "Quels sont tes besoins?"],
+      "it": ["Ho un bisogno.", "L'acqua è un bisogno di base.", "Quali sono i tuoi bisogni?"],
+      "ru": ["У меня есть потребность.", "Вода - базовая потребность.", "Каковы твои потребности?"],
+      "es": ["Tengo una necesidad.", "El agua es una necesidad básica.", "¿Cuáles son tus necesidades?"],
+      "pl": ["Mam potrzebę.", "Woda jest podstawową potrzebą.", "Jakie są twoje potrzeby?"],
+      "fa": ["من یک نیاز دارم.", "آب یک نیاز اساسی است.", "نیازهای تو چیست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_964_en",
+    "word": "useful",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "useful",
+      "de": "nützlich",
+      "ar": "مفيد",
+      "fr": "utile",
+      "it": "utile",
+      "ru": "полезный",
+      "es": "útil",
+      "pl": "użyteczny",
+      "fa": "مفید"
+    },
+    "explanations": {
+      "en": "Able to be used for a practical purpose or helpful in getting things done effectively.",
+      "de": "In der Lage, für einen praktischen Zweck verwendet zu werden oder hilfreich bei der effektiven Erledigung von Dingen.",
+      "ar": "قادر على أن يُستخدم لغرض عملي أو مفيد في إنجاز الأشياء بفعالية.",
+      "fr": "Capable d'être utilisé pour un but pratique ou utile pour faire les choses efficacement.",
+      "it": "Capace di essere usato per uno scopo pratico o utile nel fare le cose efficacemente.",
+      "ru": "Способный быть использованным для практической цели или полезный в эффективном выполнении вещей.",
+      "es": "Capaz de ser usado para un propósito práctico o útil para hacer las cosas efectivamente.",
+      "pl": "Zdolny być użytym do praktycznego celu lub pomocny w efektywnym robieniu rzeczy.",
+      "fa": "قادر به استفاده برای هدف عملی یا کمک‌کننده در انجام مؤثر کارها."
+    },
+    "examples": {
+      "en": ["This is very useful.", "Books are useful things.", "That was useful advice."],
+      "de": ["Das ist sehr nützlich.", "Bücher sind nützliche Dinge.", "Das war ein nützlicher Rat."],
+      "ar": ["هذا مفيد جداً.", "الكتب أشياء مفيدة.", "كانت تلك نصيحة مفيدة."],
+      "fr": ["C'est très utile.", "Les livres sont des choses utiles.", "C'était un conseil utile."],
+      "it": ["Questo è molto utile.", "I libri sono cose utili.", "Era un consiglio utile."],
+      "ru": ["Это очень полезно.", "Книги - полезные вещи.", "Это был полезный совет."],
+      "es": ["Esto es muy útil.", "Los libros son cosas útiles.", "Fue un consejo útil."],
+      "pl": ["To jest bardzo użyteczne.", "Książki są użytecznymi rzeczami.", "To była użyteczna rada."],
+      "fa": ["این خیلی مفید است.", "کتاب‌ها چیزهای مفید هستند.", "آن مشاوره مفیدی بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_965_en",
+    "word": "useless",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "useless",
+      "de": "nutzlos",
+      "ar": "عديم الفائدة",
+      "fr": "inutile",
+      "it": "inutile",
+      "ru": "бесполезный",
+      "es": "inútil",
+      "pl": "bezużyteczny",
+      "fa": "بی‌فایده"
+    },
+    "explanations": {
+      "en": "Not able to be used for any practical purpose or not helpful in any way at all.",
+      "de": "Nicht in der Lage, für irgendeinen praktischen Zweck verwendet zu werden oder überhaupt nicht hilfreich.",
+      "ar": "غير قادر على أن يُستخدم لأي غرض عملي أو غير مفيد بأي شكل على الإطلاق.",
+      "fr": "Pas capable d'être utilisé pour un but pratique ou pas utile du tout.",
+      "it": "Non capace di essere usato per alcuno scopo pratico o non utile in alcun modo.",
+      "ru": "Не способный быть использованным для какой-либо практической цели или совсем не полезный.",
+      "es": "No capaz de ser usado para ningún propósito práctico o no útil de ninguna manera.",
+      "pl": "Niezdolny być użytym do żadnego praktycznego celu lub w ogóle niepomocny.",
+      "fa": "قادر به استفاده برای هیچ هدف عملی نیست یا به هیچ وجه کمک‌کننده نیست."
+    },
+    "examples": {
+      "en": ["This is very useless.", "That was useless idea.", "I feel useless now."],
+      "de": ["Das ist sehr nutzlos.", "Das war eine nutzlose Idee.", "Ich fühle mich jetzt nutzlos."],
+      "ar": ["هذا عديم الفائدة جداً.", "كانت تلك فكرة عديمة الفائدة.", "أشعر بأنني عديم الفائدة الآن."],
+      "fr": ["C'est très inutile.", "C'était une idée inutile.", "Je me sens inutile maintenant."],
+      "it": ["Questo è molto inutile.", "Era un'idea inutile.", "Mi sento inutile ora."],
+      "ru": ["Это очень бесполезно.", "Это была бесполезная идея.", "Я чувствую себя бесполезным сейчас."],
+      "es": ["Esto es muy inútil.", "Fue una idea inútil.", "Me siento inútil ahora."],
+      "pl": ["To jest bardzo bezużyteczne.", "To był bezużyteczny pomysł.", "Czuję się bezużyteczny teraz."],
+      "fa": ["این خیلی بی‌فایده است.", "آن ایده بی‌فایده بود.", "الان احساس بی‌فایدگی می‌کنم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_966_en",
+    "word": "value",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "value",
+      "de": "Wert",
+      "ar": "قيمة",
+      "fr": "valeur",
+      "it": "valore",
+      "ru": "ценность",
+      "es": "valor",
+      "pl": "wartość",
+      "fa": "ارزش"
+    },
+    "explanations": {
+      "en": "The importance, worth, or usefulness of something to someone in terms of money or significance.",
+      "de": "Die Bedeutung, der Wert oder die Nützlichkeit von etwas für jemanden in Bezug auf Geld oder Bedeutung.",
+      "ar": "الأهمية أو القيمة أو الفائدة لشيء ما بالنسبة لشخص ما من حيث المال أو الأهمية.",
+      "fr": "L'importance, la valeur ou l'utilité de quelque chose pour quelqu'un en termes d'argent ou de signification.",
+      "it": "L'importanza, valore o utilità di qualcosa per qualcuno in termini di denaro o significato.",
+      "ru": "Важность, ценность или полезность чего-то для кого-то с точки зрения денег или значения.",
+      "es": "La importancia, valor o utilidad de algo para alguien en términos de dinero o significado.",
+      "pl": "Znaczenie, wartość lub użyteczność czegoś dla kogoś pod względem pieniędzy lub znaczenia.",
+      "fa": "اهمیت، ارزش یا سودمندی چیزی برای کسی از نظر پول یا اهمیت."
+    },
+    "examples": {
+      "en": ["This has great value.", "What is its value?", "I know your value."],
+      "de": ["Das hat großen Wert.", "Was ist sein Wert?", "Ich kenne deinen Wert."],
+      "ar": ["لهذا قيمة كبيرة.", "ما هي قيمته؟", "أعرف قيمتك."],
+      "fr": ["Cela a une grande valeur.", "Quelle est sa valeur?", "Je connais ta valeur."],
+      "it": ["Questo ha grande valore.", "Qual è il suo valore?", "Conosco il tuo valore."],
+      "ru": ["Это имеет большую ценность.", "Какова его ценность?", "Я знаю твою ценность."],
+      "es": ["Esto tiene gran valor.", "¿Cuál es su valor?", "Conozco tu valor."],
+      "pl": ["To ma wielką wartość.", "Jaka jest jego wartość?", "Znam twoją wartość."],
+      "fa": ["این ارزش زیادی دارد.", "ارزش آن چیست؟", "ارزش تو را می‌دانم."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_967_en",
+    "word": "worth",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "worth",
+      "de": "wert",
+      "ar": "يستحق",
+      "fr": "valoir",
+      "it": "valere",
+      "ru": "стоить",
+      "es": "valer",
+      "pl": "wart",
+      "fa": "ارزش داشتن"
+    },
+    "explanations": {
+      "en": "Having a value of a certain amount or deserving of time, effort, or attention given to it.",
+      "de": "Einen Wert von einem bestimmten Betrag haben oder Zeit, Mühe oder Aufmerksamkeit verdienen, die ihm gegeben wird.",
+      "ar": "امتلاك قيمة بمقدار معين أو يستحق الوقت أو الجهد أو الاهتمام المبذول له.",
+      "fr": "Avoir une valeur d'un certain montant ou mériter le temps, l'effort ou l'attention qui lui est donné.",
+      "it": "Avere un valore di una certa quantità o meritare il tempo, lo sforzo o l'attenzione dedicata ad esso.",
+      "ru": "Иметь ценность определённой суммы или заслуживать время, усилия или внимание, уделённое этому.",
+      "es": "Tener un valor de cierta cantidad o merecer el tiempo, esfuerzo o atención dado a ello.",
+      "pl": "Posiadający wartość pewnej kwoty lub zasługujący na czas, wysiłek lub uwagę mu poświęconą.",
+      "fa": "داشتن ارزش مقدار خاصی یا شایسته زمان، تلاش یا توجه داده شده به آن."
+    },
+    "examples": {
+      "en": ["Is this worth it?", "It's worth the money.", "You are worth more."],
+      "de": ["Ist es das wert?", "Es ist das Geld wert.", "Du bist mehr wert."],
+      "ar": ["هل هذا يستحق؟", "إنه يستحق المال.", "أنت تستحق أكثر."],
+      "fr": ["Est-ce que ça vaut le coup?", "Ça vaut l'argent.", "Tu vaux plus."],
+      "it": ["Ne vale la pena?", "Vale i soldi.", "Vali di più."],
+      "ru": ["Это стоит того?", "Это стоит денег.", "Ты стоишь больше."],
+      "es": ["¿Vale la pena?", "Vale el dinero.", "Vales más."],
+      "pl": ["Czy to jest warte?", "Jest warte pieniędzy.", "Jesteś wart więcej."],
+      "fa": ["این ارزشش را دارد؟", "ارزش پول را دارد.", "تو ارزش بیشتری داری."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_968_en",
+    "word": "quality",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "quality",
+      "de": "Qualität",
+      "ar": "جودة",
+      "fr": "qualité",
+      "it": "qualità",
+      "ru": "качество",
+      "es": "calidad",
+      "pl": "jakość",
+      "fa": "کیفیت"
+    },
+    "explanations": {
+      "en": "How good or bad something is, or the standard of excellence of a particular thing or person.",
+      "de": "Wie gut oder schlecht etwas ist, oder der Standard der Exzellenz einer bestimmten Sache oder Person.",
+      "ar": "مدى جودة أو سوء شيء ما، أو معيار التميز لشيء أو شخص معين.",
+      "fr": "À quel point quelque chose est bon ou mauvais, ou le standard d'excellence d'une chose ou personne particulière.",
+      "it": "Quanto è buono o cattivo qualcosa, o lo standard di eccellenza di una cosa o persona particolare.",
+      "ru": "Насколько что-то хорошо или плохо, или стандарт превосходства конкретной вещи или человека.",
+      "es": "Qué tan bueno o malo es algo, o el estándar de excelencia de una cosa o persona particular.",
+      "pl": "Jak dobre lub złe jest coś, lub standard doskonałości konkretnej rzeczy lub osoby.",
+      "fa": "چقدر چیزی خوب یا بد است، یا استاندارد عالی بودن چیز یا شخص خاصی."
+    },
+    "examples": {
+      "en": ["This is good quality.", "I like high quality.", "Quality is very important."],
+      "de": ["Das ist gute Qualität.", "Ich mag hohe Qualität.", "Qualität ist sehr wichtig."],
+      "ar": ["هذه جودة جيدة.", "أحب الجودة العالية.", "الجودة مهمة جداً."],
+      "fr": ["C'est de bonne qualité.", "J'aime la haute qualité.", "La qualité est très importante."],
+      "it": ["Questa è buona qualità.", "Mi piace l'alta qualità.", "La qualità è molto importante."],
+      "ru": ["Это хорошее качество.", "Я люблю высокое качество.", "Качество очень важно."],
+      "es": ["Esto es buena calidad.", "Me gusta la alta calidad.", "La calidad es muy importante."],
+      "pl": ["To jest dobra jakość.", "Lubię wysoką jakość.", "Jakość jest bardzo ważna."],
+      "fa": ["این کیفیت خوب است.", "من کیفیت بالا را دوست دارم.", "کیفیت خیلی مهم است."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_969_en",
+    "word": "good",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "good",
+      "de": "gut",
+      "ar": "جيد",
+      "fr": "bon",
+      "it": "buono",
+      "ru": "хороший",
+      "es": "bueno",
+      "pl": "dobry",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "Of high quality, satisfactory, or pleasant in nature, or morally right and proper in behavior.",
+      "de": "Von hoher Qualität, zufriedenstellend oder angenehm in der Natur, oder moralisch richtig und angemessen im Verhalten.",
+      "ar": "ذو جودة عالية أو مرضٍ أو ممتع في الطبيعة، أو صحيح أخلاقياً ولائق في السلوك.",
+      "fr": "De haute qualité, satisfaisant ou agréable par nature, ou moralement correct et approprié dans le comportement.",
+      "it": "Di alta qualità, soddisfacente o piacevole per natura, o moralmente giusto e appropriato nel comportamento.",
+      "ru": "Высокого качества, удовлетворительный или приятный по природе, или морально правильный и надлежащий в поведении.",
+      "es": "De alta calidad, satisfactorio o agradable por naturaleza, o moralmente correcto y apropiado en comportamiento.",
+      "pl": "Wysokiej jakości, zadowalający lub przyjemny z natury, lub moralnie słuszny i właściwy w zachowaniu.",
+      "fa": "با کیفیت بالا، رضایت‌بخش یا دلپذیر در ماهیت، یا از نظر اخلاقی درست و مناسب در رفتار."
+    },
+    "examples": {
+      "en": ["This is very good.", "I feel good today.", "Good people help others."],
+      "de": ["Das ist sehr gut.", "Ich fühle mich heute gut.", "Gute Menschen helfen anderen."],
+      "ar": ["هذا جيد جداً.", "أشعر بشعور جيد اليوم.", "الأشخاص الجيدون يساعدون الآخرين."],
+      "fr": ["C'est très bon.", "Je me sens bien aujourd'hui.", "Les bonnes personnes aident les autres."],
+      "it": ["Questo è molto buono.", "Mi sento bene oggi.", "Le persone buone aiutano gli altri."],
+      "ru": ["Это очень хорошо.", "Я чувствую себя хорошо сегодня.", "Хорошие люди помогают другим."],
+      "es": ["Esto es muy bueno.", "Me siento bien hoy.", "La gente buena ayuda a otros."],
+      "pl": ["To jest bardzo dobre.", "Czuję się dobrze dziś.", "Dobrzy ludzie pomagają innym."],
+      "fa": ["این خیلی خوب است.", "امروز احساس خوبی دارم.", "افراد خوب به دیگران کمک می‌کنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_970_en",
+    "word": "bad",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bad",
+      "de": "schlecht",
+      "ar": "سيئ",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "ru": "плохой",
+      "es": "malo",
+      "pl": "zły",
+      "fa": "بد"
+    },
+    "explanations": {
+      "en": "Of poor quality, unsatisfactory, or unpleasant in nature, or morally wrong and harmful in behavior.",
+      "de": "Von schlechter Qualität, unbefriedigend oder unangenehm in der Natur, oder moralisch falsch und schädlich im Verhalten.",
+      "ar": "ذو جودة رديئة أو غير مرضٍ أو غير ممتع في الطبيعة، أو خاطئ أخلاقياً وضار في السلوك.",
+      "fr": "De mauvaise qualité, insatisfaisant ou désagréable par nature, ou moralement incorrect et nuisible dans le comportement.",
+      "it": "Di scarsa qualità, insoddisfacente o spiacevole per natura, o moralmente sbagliato e dannoso nel comportamento.",
+      "ru": "Низкого качества, неудовлетворительный или неприятный по природе, или морально неправильный и вредный в поведении.",
+      "es": "De mala calidad, insatisfactorio o desagradable por naturaleza, o moralmente incorrecto y dañino en comportamiento.",
+      "pl": "Niskiej jakości, niezadowalający lub nieprzyjemny z natury, lub moralnie niewłaściwy i szkodliwy w zachowaniu.",
+      "fa": "با کیفیت پایین، نارضایت‌بخش یا ناخوشایند در ماهیت، یا از نظر اخلاقی اشتباه و مضر در رفتار."
+    },
+    "examples": {
+      "en": ["This is very bad.", "I feel bad today.", "Bad people hurt others."],
+      "de": ["Das ist sehr schlecht.", "Ich fühle mich heute schlecht.", "Schlechte Menschen verletzen andere."],
+      "ar": ["هذا سيئ جداً.", "أشعر بشعور سيئ اليوم.", "الأشخاص السيئون يؤذون الآخرين."],
+      "fr": ["C'est très mauvais.", "Je me sens mal aujourd'hui.", "Les mauvaises personnes blessent les autres."],
+      "it": ["Questo è molto cattivo.", "Mi sento male oggi.", "Le persone cattive feriscono gli altri."],
+      "ru": ["Это очень плохо.", "Я чувствую себя плохо сегодня.", "Плохие люди вредят другим."],
+      "es": ["Esto es muy malo.", "Me siento mal hoy.", "La gente mala lastima a otros."],
+      "pl": ["To jest bardzo złe.", "Czuję się źle dziś.", "Źli ludzie krzywdzą innych."],
+      "fa": ["این خیلی بد است.", "امروز احساس بدی دارم.", "افراد بد به دیگران آسیب می‌زنند."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_971_en",
+    "word": "better",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "better",
+      "de": "besser",
+      "ar": "أفضل",
+      "fr": "meilleur",
+      "it": "migliore",
+      "ru": "лучше",
+      "es": "mejor",
+      "pl": "lepszy",
+      "fa": "بهتر"
+    },
+    "explanations": {
+      "en": "Of higher quality or more desirable than another thing when comparing two or more things.",
+      "de": "Von höherer Qualität oder wünschenswerter als eine andere Sache beim Vergleich von zwei oder mehr Dingen.",
+      "ar": "ذو جودة أعلى أو أكثر استحساناً من شيء آخر عند مقارنة شيئين أو أكثر.",
+      "fr": "De meilleure qualité ou plus désirable qu'une autre chose lors de la comparaison de deux ou plusieurs choses.",
+      "it": "Di qualità superiore o più desiderabile di un'altra cosa quando si confrontano due o più cose.",
+      "ru": "Более высокого качества или более желательный, чем другая вещь при сравнении двух или более вещей.",
+      "es": "De mayor calidad o más deseable que otra cosa al comparar dos o más cosas.",
+      "pl": "Wyższej jakości lub bardziej pożądany niż inna rzecz przy porównywaniu dwóch lub więcej rzeczy.",
+      "fa": "با کیفیت بالاتر یا مطلوب‌تر از چیز دیگری هنگام مقایسه دو یا چند چیز."
+    },
+    "examples": {
+      "en": ["This is better now.", "I feel better today.", "Which one is better?"],
+      "de": ["Das ist jetzt besser.", "Ich fühle mich heute besser.", "Welches ist besser?"],
+      "ar": ["هذا أفضل الآن.", "أشعر بشعور أفضل اليوم.", "أيهما أفضل؟"],
+      "fr": ["C'est mieux maintenant.", "Je me sens mieux aujourd'hui.", "Lequel est meilleur?"],
+      "it": ["Questo è meglio ora.", "Mi sento meglio oggi.", "Quale è migliore?"],
+      "ru": ["Это лучше сейчас.", "Я чувствую себя лучше сегодня.", "Какой лучше?"],
+      "es": ["Esto es mejor ahora.", "Me siento mejor hoy.", "¿Cuál es mejor?"],
+      "pl": ["To jest lepsze teraz.", "Czuję się lepiej dziś.", "Który jest lepszy?"],
+      "fa": ["این الان بهتر است.", "امروز احساس بهتری دارم.", "کدام بهتر است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_972_en",
+    "word": "worse",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "worse",
+      "de": "schlechter",
+      "ar": "أسوأ",
+      "fr": "pire",
+      "it": "peggiore",
+      "ru": "хуже",
+      "es": "peor",
+      "pl": "gorszy",
+      "fa": "بدتر"
+    },
+    "explanations": {
+      "en": "Of lower quality or less desirable than another thing when comparing two or more things.",
+      "de": "Von niedrigerer Qualität oder weniger wünschenswert als eine andere Sache beim Vergleich von zwei oder mehr Dingen.",
+      "ar": "ذو جودة أقل أو أقل استحساناً من شيء آخر عند مقارنة شيئين أو أكثر.",
+      "fr": "De moindre qualité ou moins désirable qu'une autre chose lors de la comparaison de deux ou plusieurs choses.",
+      "it": "Di qualità inferiore o meno desiderabile di un'altra cosa quando si confrontano due o più cose.",
+      "ru": "Более низкого качества или менее желательный, чем другая вещь при сравнении двух или более вещей.",
+      "es": "De menor calidad o menos deseable que otra cosa al comparar dos o más cosas.",
+      "pl": "Niższej jakości lub mniej pożądany niż inna rzecz przy porównywaniu dwóch lub więcej rzeczy.",
+      "fa": "با کیفیت پایین‌تر یا کمتر مطلوب از چیز دیگری هنگام مقایسه دو یا چند چیز."
+    },
+    "examples": {
+      "en": ["This is worse now.", "I feel worse today.", "Which one is worse?"],
+      "de": ["Das ist jetzt schlechter.", "Ich fühle mich heute schlechter.", "Welches ist schlechter?"],
+      "ar": ["هذا أسوأ الآن.", "أشعر بشعور أسوأ اليوم.", "أيهما أسوأ؟"],
+      "fr": ["C'est pire maintenant.", "Je me sens pire aujourd'hui.", "Lequel est pire?"],
+      "it": ["Questo è peggio ora.", "Mi sento peggio oggi.", "Quale è peggiore?"],
+      "ru": ["Это хуже сейчас.", "Я чувствую себя хуже сегодня.", "Какой хуже?"],
+      "es": ["Esto es peor ahora.", "Me siento peor hoy.", "¿Cuál es peor?"],
+      "pl": ["To jest gorsze teraz.", "Czuję się gorzej dziś.", "Który jest gorszy?"],
+      "fa": ["این الان بدتر است.", "امروز احساس بدتری دارم.", "کدام بدتر است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_973_en",
+    "word": "best",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "best",
+      "de": "beste",
+      "ar": "أفضل",
+      "fr": "meilleur",
+      "it": "migliore",
+      "ru": "лучший",
+      "es": "mejor",
+      "pl": "najlepszy",
+      "fa": "بهترین"
+    },
+    "explanations": {
+      "en": "Of the highest quality or most desirable among all things being compared or considered together.",
+      "de": "Von der höchsten Qualität oder am meisten wünschenswert unter allen Dingen, die verglichen oder gemeinsam betrachtet werden.",
+      "ar": "ذو أعلى جودة أو الأكثر استحساناً بين جميع الأشياء التي تتم مقارنتها أو النظر فيها معاً.",
+      "fr": "De la plus haute qualité ou le plus désirable parmi toutes les choses comparées ou considérées ensemble.",
+      "it": "Della qualità più alta o più desiderabile tra tutte le cose confrontate o considerate insieme.",
+      "ru": "Самого высокого качества или наиболее желательный среди всех вещей, сравниваемых или рассматриваемых вместе.",
+      "es": "De la más alta calidad o más deseable entre todas las cosas comparadas o consideradas juntas.",
+      "pl": "Najwyższej jakości lub najbardziej pożądany spośród wszystkich rzeczy porównywanych lub rozważanych razem.",
+      "fa": "با بالاترین کیفیت یا مطلوب‌ترین در میان همه چیزهایی که مقایسه یا با هم در نظر گرفته می‌شوند."
+    },
+    "examples": {
+      "en": ["This is the best.", "You are my best friend.", "What's the best way?"],
+      "de": ["Das ist das Beste.", "Du bist mein bester Freund.", "Was ist der beste Weg?"],
+      "ar": ["هذا هو الأفضل.", "أنت أفضل صديق لي.", "ما هي أفضل طريقة؟"],
+      "fr": ["C'est le meilleur.", "Tu es mon meilleur ami.", "Quelle est la meilleure façon?"],
+      "it": ["Questo è il migliore.", "Sei il mio migliore amico.", "Qual è il modo migliore?"],
+      "ru": ["Это лучшее.", "Ты мой лучший друг.", "Какой лучший способ?"],
+      "es": ["Esto es lo mejor.", "Eres mi mejor amigo.", "¿Cuál es la mejor manera?"],
+      "pl": ["To jest najlepsze.", "Jesteś moim najlepszym przyjacielem.", "Jaki jest najlepszy sposób?"],
+      "fa": ["این بهترین است.", "تو بهترین دوست من هستی.", "بهترین راه چیست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_974_en",
+    "word": "worst",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "worst",
+      "de": "schlechteste",
+      "ar": "أسوأ",
+      "fr": "pire",
+      "it": "peggiore",
+      "ru": "худший",
+      "es": "peor",
+      "pl": "najgorszy",
+      "fa": "بدترین"
+    },
+    "explanations": {
+      "en": "Of the lowest quality or least desirable among all things being compared or considered together.",
+      "de": "Von der niedrigsten Qualität oder am wenigsten wünschenswert unter allen Dingen, die verglichen oder gemeinsam betrachtet werden.",
+      "ar": "ذو أدنى جودة أو الأقل استحساناً بين جميع الأشياء التي تتم مقارنتها أو النظر فيها معاً.",
+      "fr": "De la plus basse qualité ou le moins désirable parmi toutes les choses comparées ou considérées ensemble.",
+      "it": "Della qualità più bassa o meno desiderabile tra tutte le cose confrontate o considerate insieme.",
+      "ru": "Самого низкого качества или наименее желательный среди всех вещей, сравниваемых или рассматриваемых вместе.",
+      "es": "De la más baja calidad o menos deseable entre todas las cosas comparadas o consideradas juntas.",
+      "pl": "Najniższej jakości lub najmniej pożądany spośród wszystkich rzeczy porównywanych lub rozważanych razem.",
+      "fa": "با پایین‌ترین کیفیت یا کمتر مطلوب در میان همه چیزهایی که مقایسه یا با هم در نظر گرفته می‌شوند."
+    },
+    "examples": {
+      "en": ["This is the worst.", "That's my worst day.", "What's the worst thing?"],
+      "de": ["Das ist das Schlechteste.", "Das ist mein schlechtester Tag.", "Was ist das Schlechteste?"],
+      "ar": ["هذا هو الأسوأ.", "ذلك أسوأ يوم لي.", "ما هو أسوأ شيء؟"],
+      "fr": ["C'est le pire.", "C'est mon pire jour.", "Quelle est la pire chose?"],
+      "it": ["Questo è il peggiore.", "Quello è il mio giorno peggiore.", "Qual è la cosa peggiore?"],
+      "ru": ["Это худшее.", "Это мой худший день.", "Что худшее?"],
+      "es": ["Esto es lo peor.", "Ese es mi peor día.", "¿Cuál es la peor cosa?"],
+      "pl": ["To jest najgorsze.", "To mój najgorszy dzień.", "Jaka jest najgorsza rzecz?"],
+      "fa": ["این بدترین است.", "آن بدترین روز من است.", "بدترین چیز چیست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_975_en",
+    "word": "excellent",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "excellent",
+      "de": "ausgezeichnet",
+      "ar": "ممتاز",
+      "fr": "excellent",
+      "it": "eccellente",
+      "ru": "отличный",
+      "es": "excelente",
+      "pl": "doskonały",
+      "fa": "عالی"
+    },
+    "explanations": {
+      "en": "Extremely good or of the very highest quality, better than what is usual or expected.",
+      "de": "Extrem gut oder von der allerhöchsten Qualität, besser als was üblich oder erwartet ist.",
+      "ar": "جيد للغاية أو ذو أعلى جودة، أفضل مما هو معتاد أو متوقع.",
+      "fr": "Extrêmement bon ou de la plus haute qualité, meilleur que ce qui est habituel ou attendu.",
+      "it": "Estremamente buono o della qualità più alta, migliore di ciò che è usuale o atteso.",
+      "ru": "Чрезвычайно хороший или самого высокого качества, лучше, чем обычно или ожидается.",
+      "es": "Extremadamente bueno o de la más alta calidad, mejor de lo que es usual o esperado.",
+      "pl": "Niezwykle dobry lub najwyższej jakości, lepszy niż to, co zwykłe lub oczekiwane.",
+      "fa": "فوق‌العاده خوب یا با بالاترین کیفیت، بهتر از آنچه معمول یا انتظار می‌رود."
+    },
+    "examples": {
+      "en": ["This is excellent work.", "You did excellent job.", "Excellent idea there!"],
+      "de": ["Das ist ausgezeichnete Arbeit.", "Du hast ausgezeichnete Arbeit geleistet.", "Ausgezeichnete Idee dort!"],
+      "ar": ["هذا عمل ممتاز.", "لقد قمت بعمل ممتاز.", "فكرة ممتازة هناك!"],
+      "fr": ["C'est un excellent travail.", "Tu as fait un excellent travail.", "Excellente idée là!"],
+      "it": ["Questo è un lavoro eccellente.", "Hai fatto un lavoro eccellente.", "Idea eccellente lì!"],
+      "ru": ["Это отличная работа.", "Ты сделал отличную работу.", "Отличная идея там!"],
+      "es": ["Este es un trabajo excelente.", "Hiciste un trabajo excelente.", "¡Excelente idea ahí!"],
+      "pl": ["To jest doskonała praca.", "Wykonałeś doskonałą pracę.", "Doskonały pomysł tam!"],
+      "fa": ["این کار عالی است.", "کار عالی انجام دادی.", "ایده عالی آنجا!"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_976_en",
+    "word": "terrible",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "terrible",
+      "de": "schrecklich",
+      "ar": "فظيع",
+      "fr": "terrible",
+      "it": "terribile",
+      "ru": "ужасный",
+      "es": "terrible",
+      "pl": "okropny",
+      "fa": "وحشتناک"
+    },
+    "explanations": {
+      "en": "Extremely bad or unpleasant in quality, causing distress or fear to people who experience it.",
+      "de": "Extrem schlecht oder unangenehm in der Qualität, verursacht Stress oder Angst bei Menschen, die es erleben.",
+      "ar": "سيئ للغاية أو غير ممتع في الجودة، يسبب الضيق أو الخوف للأشخاص الذين يختبرونه.",
+      "fr": "Extrêmement mauvais ou désagréable en qualité, causant de la détresse ou de la peur aux gens qui le vivent.",
+      "it": "Estremamente cattivo o spiacevole in qualità, causando angoscia o paura alle persone che lo sperimentano.",
+      "ru": "Чрезвычайно плохой или неприятный по качеству, вызывающий беспокойство или страх у людей, которые это испытывают.",
+      "es": "Extremadamente malo o desagradable en calidad, causando angustia o miedo a las personas que lo experimentan.",
+      "pl": "Niezwykle zły lub nieprzyjemny w jakości, powodujący niepokój lub strach u ludzi, którzy tego doświadczają.",
+      "fa": "فوق‌العاده بد یا ناخوشایند در کیفیت، باعث ناراحتی یا ترس در افرادی که آن را تجربه می‌کنند."
+    },
+    "examples": {
+      "en": ["This is terrible news.", "I feel terrible today.", "That was terrible mistake."],
+      "de": ["Das sind schreckliche Nachrichten.", "Ich fühle mich heute schrecklich.", "Das war ein schrecklicher Fehler."],
+      "ar": ["هذا خبر فظيع.", "أشعر بشعور فظيع اليوم.", "كان ذلك خطأ فظيعاً."],
+      "fr": ["C'est une terrible nouvelle.", "Je me sens terrible aujourd'hui.", "C'était une terrible erreur."],
+      "it": ["Questa è una notizia terribile.", "Mi sento terribile oggi.", "Quello era un errore terribile."],
+      "ru": ["Это ужасная новость.", "Я чувствую себя ужасно сегодня.", "Это была ужасная ошибка."],
+      "es": ["Esta es una noticia terrible.", "Me siento terrible hoy.", "Fue un error terrible."],
+      "pl": ["To okropna wiadomość.", "Czuję się okropnie dziś.", "To był okropny błąd."],
+      "fa": ["این خبر وحشتناک است.", "امروز احساس وحشتناکی دارم.", "آن اشتباه وحشتناکی بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_977_en",
+    "word": "perfect",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "perfect",
+      "de": "perfekt",
+      "ar": "مثالي",
+      "fr": "parfait",
+      "it": "perfetto",
+      "ru": "идеальный",
+      "es": "perfecto",
+      "pl": "doskonały",
+      "fa": "کامل"
+    },
+    "explanations": {
+      "en": "Having no faults, flaws, or mistakes, being as good as it could possibly be in every way.",
+      "de": "Keine Fehler, Mängel oder Irrtümer haben, so gut sein wie es nur möglich sein könnte in jeder Hinsicht.",
+      "ar": "لا يوجد به أخطاء أو عيوب أو أغلاط، يكون جيداً قدر الإمكان من جميع النواحي.",
+      "fr": "N'ayant aucun défaut, faille ou erreur, étant aussi bon que possible de toutes les manières.",
+      "it": "Non avere difetti, imperfezioni o errori, essere buono quanto possibile in ogni modo.",
+      "ru": "Не имеющий недостатков, изъянов или ошибок, быть настолько хорошим, насколько это возможно во всех отношениях.",
+      "es": "No tener fallos, defectos o errores, siendo tan bueno como podría ser de todas las maneras.",
+      "pl": "Nie mający wad, błędów lub pomyłek, będący tak dobrym, jak to tylko możliwe pod każdym względem.",
+      "fa": "نداشتن خطا، نقص یا اشتباه، بودن به خوبی که ممکن است از هر نظر."
+    },
+    "examples": {
+      "en": ["This is perfect now.", "You are perfect person.", "That was perfect answer."],
+      "de": ["Das ist jetzt perfekt.", "Du bist ein perfekter Mensch.", "Das war eine perfekte Antwort."],
+      "ar": ["هذا مثالي الآن.", "أنت شخص مثالي.", "كان ذلك جواباً مثالياً."],
+      "fr": ["C'est parfait maintenant.", "Tu es une personne parfaite.", "C'était une réponse parfaite."],
+      "it": ["Questo è perfetto ora.", "Sei una persona perfetta.", "Era una risposta perfetta."],
+      "ru": ["Это идеально сейчас.", "Ты идеальный человек.", "Это был идеальный ответ."],
+      "es": ["Esto es perfecto ahora.", "Eres una persona perfecta.", "Fue una respuesta perfecta."],
+      "pl": ["To jest doskonałe teraz.", "Jesteś doskonałą osobą.", "To była doskonała odpowiedź."],
+      "fa": ["این الان کامل است.", "تو فرد کاملی هستی.", "آن پاسخ کاملی بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_978_en",
+    "word": "wrong",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wrong",
+      "de": "falsch",
+      "ar": "خاطئ",
+      "fr": "faux",
+      "it": "sbagliato",
+      "ru": "неправильный",
+      "es": "incorrecto",
+      "pl": "błędny",
+      "fa": "اشتباه"
+    },
+    "explanations": {
+      "en": "Not correct or accurate, or not morally right or acceptable according to social standards or rules.",
+      "de": "Nicht korrekt oder genau, oder nicht moralisch richtig oder akzeptabel nach sozialen Standards oder Regeln.",
+      "ar": "غير صحيح أو دقيق، أو ليس صحيحاً أخلاقياً أو مقبولاً وفقاً للمعايير أو القواعد الاجتماعية.",
+      "fr": "Pas correct ou précis, ou pas moralement correct ou acceptable selon les normes ou règles sociales.",
+      "it": "Non corretto o accurato, o non moralmente giusto o accettabile secondo gli standard o regole sociali.",
+      "ru": "Не правильный или точный, или не морально правильный или приемлемый согласно социальным стандартам или правилам.",
+      "es": "No correcto o preciso, o no moralmente correcto o aceptable según estándares o reglas sociales.",
+      "pl": "Niepoprawny lub niedokładny, lub niemoralnie słuszny lub akceptowalny zgodnie ze standardami lub regułami społecznymi.",
+      "fa": "صحیح یا دقیق نیست، یا از نظر اخلاقی درست یا قابل قبول طبق استانداردها یا قوانین اجتماعی نیست."
+    },
+    "examples": {
+      "en": ["This is wrong answer.", "You are wrong here.", "That was wrong choice."],
+      "de": ["Das ist eine falsche Antwort.", "Du liegst hier falsch.", "Das war eine falsche Wahl."],
+      "ar": ["هذا جواب خاطئ.", "أنت مخطئ هنا.", "كان ذلك اختياراً خاطئاً."],
+      "fr": ["C'est une mauvaise réponse.", "Tu as tort ici.", "C'était un mauvais choix."],
+      "it": ["Questa è una risposta sbagliata.", "Hai torto qui.", "Era una scelta sbagliata."],
+      "ru": ["Это неправильный ответ.", "Ты неправ здесь.", "Это был неправильный выбор."],
+      "es": ["Esta es una respuesta incorrecta.", "Estás equivocado aquí.", "Fue una elección incorrecta."],
+      "pl": ["To jest błędna odpowiedź.", "Mylisz się tutaj.", "To był błędny wybór."],
+      "fa": ["این پاسخ اشتباه است.", "اینجا اشتباه می‌کنی.", "آن انتخاب اشتباهی بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_979_en",
+    "word": "correct",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "correct",
+      "de": "richtig",
+      "ar": "صحيح",
+      "fr": "correct",
+      "it": "corretto",
+      "ru": "правильный",
+      "es": "correcto",
+      "pl": "poprawny",
+      "fa": "صحیح"
+    },
+    "explanations": {
+      "en": "Accurate and true without any errors or mistakes, conforming to facts or accepted standards of behavior.",
+      "de": "Genau und wahr ohne Fehler oder Irrtümer, entsprechend Fakten oder akzeptierten Verhaltensstandards.",
+      "ar": "دقيق وصحيح بدون أي أخطاء أو أغلاط، يتوافق مع الحقائق أو معايير السلوك المقبولة.",
+      "fr": "Précis et vrai sans aucune erreur, conforme aux faits ou aux normes de comportement acceptées.",
+      "it": "Accurato e vero senza alcun errore, conforme ai fatti o agli standard di comportamento accettati.",
+      "ru": "Точный и истинный без ошибок, соответствующий фактам или принятым стандартам поведения.",
+      "es": "Preciso y verdadero sin errores, conforme a los hechos o estándares de comportamiento aceptados.",
+      "pl": "Dokładny i prawdziwy bez żadnych błędów, zgodny z faktami lub akceptowanymi standardami zachowania.",
+      "fa": "دقیق و درست بدون هیچ خطایی، مطابق با واقعیات یا استانداردهای پذیرفته شده رفتار."
+    },
+    "examples": {
+      "en": ["This is correct answer.", "You are correct here.", "That was correct choice."],
+      "de": ["Das ist eine richtige Antwort.", "Du hast hier recht.", "Das war eine richtige Wahl."],
+      "ar": ["هذا جواب صحيح.", "أنت محق هنا.", "كان ذلك اختياراً صحيحاً."],
+      "fr": ["C'est une réponse correcte.", "Tu as raison ici.", "C'était un choix correct."],
+      "it": ["Questa è una risposta corretta.", "Hai ragione qui.", "Era una scelta corretta."],
+      "ru": ["Это правильный ответ.", "Ты прав здесь.", "Это был правильный выбор."],
+      "es": ["Esta es una respuesta correcta.", "Estás en lo correcto aquí.", "Fue una elección correcta."],
+      "pl": ["To jest poprawna odpowiedź.", "Masz rację tutaj.", "To był poprawny wybór."],
+      "fa": ["این پاسخ صحیح است.", "اینجا درست می‌گویی.", "آن انتخاب صحیحی بود."]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_980_en",
+    "word": "right",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "right",
+      "de": "richtig",
+      "ar": "صحيح",
+      "fr": "correct",
+      "it": "giusto",
+      "ru": "правильный",
+      "es": "correcto",
+      "pl": "prawidłowy",
+      "fa": "درست"
+    },
+    "explanations": {
+      "en": "Correct or true in accordance with fact, reason, or accepted standards, not mistaken or wrong.",
+      "de": "Korrekt oder wahr in Übereinstimmung mit Fakten, Vernunft oder akzeptierten Standards, nicht fehlerhaft oder falsch.",
+      "ar": "صحيح أو صادق وفقاً للحقيقة أو العقل أو المعايير المقبولة، ليس خاطئاً أو مخطئاً.",
+      "fr": "Correct ou vrai conformément aux faits, à la raison ou aux normes acceptées, pas erroné ou faux.",
+      "it": "Corretto o vero in accordo con i fatti, la ragione o gli standard accettati, non sbagliato o errato.",
+      "ru": "Правильный или истинный в соответствии с фактом, разумом или принятыми стандартами, не ошибочный или неправильный.",
+      "es": "Correcto o verdadero de acuerdo con los hechos, la razón o estándares aceptados, no equivocado o incorrecto.",
+      "pl": "Poprawny lub prawdziwy zgodnie z faktem, rozsądkiem lub akceptowanymi standardami, nie błędny lub niewłaściwy.",
+      "fa": "صحیح یا درست مطابق با واقعیت، منطق یا استانداردهای پذیرفته شده، اشتباه یا نادرست نیست."
+    },
+    "examples": {
+      "en": ["This is the right way.", "You are right now.", "That was right decision."],
+      "de": ["Das ist der richtige Weg.", "Du hast jetzt recht.", "Das war eine richtige Entscheidung."],
+      "ar": ["هذا هو الطريق الصحيح.", "أنت محق الآن.", "كان ذلك قراراً صحيحاً."],
+      "fr": ["C'est la bonne voie.", "Tu as raison maintenant.", "C'était la bonne décision."],
+      "it": ["Questa è la strada giusta.", "Hai ragione ora.", "Era la decisione giusta."],
+      "ru": ["Это правильный путь.", "Ты прав сейчас.", "Это было правильное решение."],
+      "es": ["Este es el camino correcto.", "Tienes razón ahora.", "Fue la decisión correcta."],
+      "pl": ["To jest właściwa droga.", "Masz rację teraz.", "To była prawidłowa decyzja."],
+      "fa": ["این راه درست است.", "الان درست می‌گویی.", "آن تصمیم درستی بود."]
+    },
+    "conjugations": null
+  }
+]
