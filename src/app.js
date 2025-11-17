@@ -7,6 +7,7 @@ import { AnalyticsManager } from './utils/analytics.js';
 import { PositionManager } from './utils/positionManager.js';
 import { dbManager } from './utils/database.js';
 import { sentenceManager } from './utils/sentenceManager.js';
+import { HapticManager } from './utils/haptics.js';
 
 // ============================================
 // Global Database Initialization
@@ -141,6 +142,7 @@ class LingXMApp {
 
     // Theme toggle
     document.getElementById('theme-toggle')?.addEventListener('change', (e) => {
+      HapticManager.selectionChanged();
       this.currentTheme = e.target.checked ? 'light' : 'dark';
       this.applyTheme();
       this.saveThemeSetting();
@@ -148,6 +150,7 @@ class LingXMApp {
 
     // Auto-play toggle
     document.getElementById('autoplay-toggle')?.addEventListener('change', (e) => {
+      HapticManager.selectionChanged();
       this.autoPlayEnabled = e.target.checked;
       this.saveAutoPlaySetting();
     });
@@ -287,12 +290,16 @@ class LingXMApp {
     const card = document.getElementById('word-card');
     const wordMain = document.querySelector('.word-main');
     let touchStartX = 0;
+    let touchStartY = 0;
     let touchEndX = 0;
     let currentX = 0;
     let isSwiping = false;
+    const threshold = 50; // More responsive
+    const verticalThreshold = 30; // Prevent accidental vertical scrolls
 
     card.addEventListener('touchstart', (e) => {
       touchStartX = e.changedTouches[0].screenX;
+      touchStartY = e.changedTouches[0].screenY;
       currentX = 0;
       isSwiping = false;
       wordMain.style.transition = 'none';
@@ -301,31 +308,48 @@ class LingXMApp {
     card.addEventListener('touchmove', (e) => {
       if (!touchStartX) return;
 
+      const currentY = e.changedTouches[0].screenY;
       currentX = e.changedTouches[0].screenX - touchStartX;
-      isSwiping = Math.abs(currentX) > 10;
+      const diffY = Math.abs(currentY - touchStartY);
 
-      if (isSwiping) {
-        const progress = Math.min(Math.abs(currentX) / 200, 1);
-        const opacity = 1 - (progress * 0.3);
+      // Only swipe horizontally if not scrolling vertically
+      if (Math.abs(currentX) > diffY && Math.abs(currentX) > verticalThreshold) {
+        isSwiping = true;
 
-        wordMain.style.transform = `translateX(${currentX}px)`;
-        wordMain.style.opacity = opacity;
+        // Visual feedback during swipe
+        const rotation = currentX * 0.05; // Subtle rotation
+        const opacity = 1 - Math.abs(currentX) / 400;
+
+        wordMain.style.transform = `translateX(${currentX}px) rotate(${rotation}deg)`;
+        wordMain.style.opacity = Math.max(0.5, opacity);
       }
     });
 
     card.addEventListener('touchend', (e) => {
       touchEndX = e.changedTouches[0].screenX;
+      const diff = touchEndX - touchStartX;
 
       // Reset transform
-      wordMain.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
+      wordMain.style.transition = 'transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease';
       wordMain.style.transform = '';
-      wordMain.style.opacity = '';
+      wordMain.style.opacity = '1';
 
-      if (isSwiping) {
-        this.handleSwipe(touchStartX, touchEndX);
+      if (isSwiping && Math.abs(diff) > threshold) {
+        // Haptic feedback
+        HapticManager.light();
+
+        if (diff > 0) {
+          // Swipe right - previous word
+          this.handleSwipe(touchStartX, touchEndX);
+        } else {
+          // Swipe left - next word
+          this.handleSwipe(touchStartX, touchEndX);
+        }
       }
 
+      // Reset
       touchStartX = 0;
+      touchStartY = 0;
       touchEndX = 0;
       currentX = 0;
       isSwiping = false;
@@ -412,6 +436,9 @@ class LingXMApp {
   }
 
   async selectProfile(profileKey) {
+    // Haptic feedback for profile selection
+    HapticManager.medium();
+
     // Ensure database is ready before any profile operations
     await ensureDatabaseReady();
     console.log('✅ [SELECT_PROFILE] Database ready for profile:', profileKey);
@@ -737,6 +764,9 @@ class LingXMApp {
     // Update mastery display and increment review count
     this.updateMasteryDisplay();
     this.incrementMastery();
+
+    // Update vocabulary progress bar
+    this.updateVocabularyProgress();
   }
 
   showProgressBar() {
@@ -775,6 +805,9 @@ class LingXMApp {
     const words = this.wordData[lang.code];
 
     if (this.currentWordIndex < words.length - 1) {
+      // Haptic feedback for navigation
+      HapticManager.light();
+
       this.currentWordIndex++;
 
       // SAVE POSITION (debounced for rapid navigation)
@@ -790,6 +823,9 @@ class LingXMApp {
 
   async previousWord() {
     if (this.currentWordIndex > 0) {
+      // Haptic feedback for navigation
+      HapticManager.light();
+
       this.currentWordIndex--;
 
       // SAVE POSITION (debounced for rapid navigation)
@@ -929,6 +965,11 @@ class LingXMApp {
     } else {
       document.body.classList.remove('profile-selection-active');
       document.getElementById('app').classList.remove('profile-selection-active');
+    }
+
+    // Update daily goals widget when showing home screen
+    if (screenId === 'home-screen') {
+      this.updateDailyGoals();
     }
   }
 
@@ -1708,6 +1749,9 @@ class LingXMApp {
   }
 
   showAchievementCelebration(achievement) {
+    // Haptic feedback for achievement unlock
+    HapticManager.success();
+
     const popup = document.createElement('div');
     popup.className = 'achievement-popup show';
     popup.innerHTML = `
@@ -3509,8 +3553,10 @@ class LingXMApp {
 
     // Update session stats
     if (isCorrect) {
+      HapticManager.success();
       session.correctCount++;
     } else {
+      HapticManager.error();
       session.incorrectCount++;
     }
 
@@ -3694,6 +3740,96 @@ class LingXMApp {
   showComingSoonModal(featureName) {
     alert(`${featureName} is coming soon! 🚀\n\nThis feature is currently in development and will be available in a future update.`);
     this.analyticsManager.trackEvent('coming_soon_viewed', { feature: featureName });
+  }
+
+  // =============================================
+  // PHASE 1: QUICK WINS - Daily Goals & Progress
+  // =============================================
+
+  async updateDailyGoals() {
+    if (!this.currentProfile) return;
+
+    const today = new Date().toLocaleDateString('en-US', {
+      weekday: 'short',
+      month: 'short',
+      day: 'numeric'
+    });
+
+    const todayDateEl = document.getElementById('today-date');
+    if (todayDateEl) {
+      todayDateEl.textContent = today;
+    }
+
+    // Get today's stats from database
+    try {
+      const todayStr = new Date().toISOString().split('T')[0];
+      const stats = await dbManager.getDailyStats(
+        this.profileKey,
+        todayStr
+      );
+
+      const goals = {
+        words: { current: stats?.words_learned || 0, target: 20 },
+        time: { current: Math.floor((stats?.time_spent || 0) / 60), target: 15 },
+        accuracy: { current: stats?.accuracy || 0, target: 100 }
+      };
+
+      // Update ring progress
+      this.animateRing('words-ring', (goals.words.current / goals.words.target) * 100);
+      this.animateRing('time-ring', (goals.time.current / goals.time.target) * 100);
+      this.animateRing('accuracy-ring', goals.accuracy.current);
+
+      // Update legend text
+      const wordsGoalEl = document.getElementById('words-goal');
+      const timeGoalEl = document.getElementById('time-goal');
+      const accuracyGoalEl = document.getElementById('accuracy-goal');
+
+      if (wordsGoalEl) {
+        wordsGoalEl.textContent = `${goals.words.current}/${goals.words.target}`;
+      }
+      if (timeGoalEl) {
+        timeGoalEl.textContent = `${goals.time.current}/${goals.time.target}min`;
+      }
+      if (accuracyGoalEl) {
+        accuracyGoalEl.textContent = `${Math.round(goals.accuracy.current)}%`;
+      }
+    } catch (error) {
+      console.warn('[Daily Goals] Failed to load stats:', error);
+    }
+  }
+
+  animateRing(ringId, percentage) {
+    const ring = document.getElementById(ringId);
+    if (!ring) return;
+
+    const radius = parseFloat(ring.getAttribute('r'));
+    const circumference = 2 * Math.PI * radius;
+
+    ring.style.strokeDasharray = circumference;
+    ring.style.strokeDashoffset = circumference - (circumference * Math.min(percentage, 100) / 100);
+  }
+
+  updateVocabularyProgress() {
+    const lang = this.currentProfile?.learningLanguages[this.currentLanguageIndex];
+    if (!lang) return;
+
+    const words = this.wordData[lang.code];
+    if (!words) return;
+
+    const total = words.length;
+    const current = this.currentWordIndex + 1;
+    const percentage = (current / total) * 100;
+
+    const fillElement = document.getElementById('vocab-progress-fill');
+    const textElement = document.getElementById('vocab-progress-text');
+
+    if (fillElement) {
+      fillElement.style.width = `${percentage}%`;
+    }
+
+    if (textElement) {
+      textElement.textContent = `${current} / ${total}`;
+    }
   }
 }
 

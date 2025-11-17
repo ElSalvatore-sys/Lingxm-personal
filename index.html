@@ -480,6 +480,66 @@
                     <!-- Populated by JavaScript -->
                 </div>
 
+                <!-- Daily Goals Widget -->
+                <div class="daily-goals-widget">
+                    <div class="goals-header">
+                        <h3>Today's Progress</h3>
+                        <span class="goals-date" id="today-date"></span>
+                    </div>
+
+                    <div class="goal-rings-container">
+                        <!-- Apple Watch-style rings -->
+                        <svg class="goal-rings-svg" viewBox="0 0 120 120" width="120" height="120">
+                            <defs>
+                                <linearGradient id="gradient-words" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" style="stop-color: #10b981;" />
+                                    <stop offset="100%" style="stop-color: #34d399;" />
+                                </linearGradient>
+                                <linearGradient id="gradient-time" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" style="stop-color: #f59e0b;" />
+                                    <stop offset="100%" style="stop-color: #fbbf24;" />
+                                </linearGradient>
+                                <linearGradient id="gradient-accuracy" x1="0%" y1="0%" x2="100%" y2="100%">
+                                    <stop offset="0%" style="stop-color: #ef4444;" />
+                                    <stop offset="100%" style="stop-color: #f87171;" />
+                                </linearGradient>
+                            </defs>
+                            <!-- Words ring (outer) -->
+                            <circle class="ring-bg" cx="60" cy="60" r="52" />
+                            <circle class="ring-progress ring-words" cx="60" cy="60" r="52"
+                                    id="words-ring" data-progress="0" />
+
+                            <!-- Time ring (middle) -->
+                            <circle class="ring-bg" cx="60" cy="60" r="42" />
+                            <circle class="ring-progress ring-time" cx="60" cy="60" r="42"
+                                    id="time-ring" data-progress="0" />
+
+                            <!-- Accuracy ring (inner) -->
+                            <circle class="ring-bg" cx="60" cy="60" r="32" />
+                            <circle class="ring-progress ring-accuracy" cx="60" cy="60" r="32"
+                                    id="accuracy-ring" data-progress="0" />
+                        </svg>
+
+                        <div class="goals-legend">
+                            <div class="goal-item">
+                                <span class="goal-icon">📚</span>
+                                <span class="goal-label">Words</span>
+                                <span class="goal-value" id="words-goal">0/20</span>
+                            </div>
+                            <div class="goal-item">
+                                <span class="goal-icon">⏱️</span>
+                                <span class="goal-label">Time</span>
+                                <span class="goal-value" id="time-goal">0/15min</span>
+                            </div>
+                            <div class="goal-item">
+                                <span class="goal-icon">🎯</span>
+                                <span class="goal-label">Accuracy</span>
+                                <span class="goal-value" id="accuracy-goal">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="home-cards-grid">
                     <!-- Vocabulary Practice Card -->
                     <button class="home-card" data-section="vocabulary">
@@ -554,6 +614,12 @@
                     </button>
                     <button id="settings-btn" class="icon-btn">⚙️</button>
                     <button id="save-word-btn" class="icon-btn">⭐</button>
+                </div>
+
+                <!-- NEW: Progress Bar -->
+                <div class="learning-progress-bar">
+                    <div class="progress-fill" id="vocab-progress-fill"></div>
+                    <span class="progress-text" id="vocab-progress-text">0 / 0</span>
                 </div>
             </div>
 
