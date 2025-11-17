@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_501_es",
+    "word": "caminar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to walk",
+      "de": "gehen, laufen",
+      "ar": "يمشي",
+      "fr": "marcher",
+      "it": "camminare",
+      "ru": "ходить, гулять",
+      "es": "caminar",
+      "pl": "chodzić",
+      "fa": "راه رفتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of moving on foot at a regular pace",
+      "de": "Verb für die Handlung, sich zu Fuß in regelmäßigem Tempo zu bewegen",
+      "ar": "فعل يعبر عن الحركة على الأقدام بوتيرة منتظمة",
+      "fr": "Verbe exprimant l'action de se déplacer à pied à un rythme régulier",
+      "it": "Verbo che esprime l'azione di muoversi a piedi a passo regolare",
+      "ru": "Глагол, выражающий действие передвижения пешком в обычном темпе",
+      "es": "Verbo que expresa la acción de moverse a pie a paso regular",
+      "pl": "Czasownik wyrażający czynność poruszania się pieszo w regularnym tempie",
+      "fa": "فعلی که عمل حرکت کردن با پا در سرعت عادی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I walk every day", "She walks to work", "We walk in the park"],
+      "de": ["Ich gehe jeden Tag", "Sie geht zur Arbeit", "Wir gehen im Park"],
+      "ar": ["أمشي كل يوم", "هي تمشي إلى العمل", "نحن نمشي في الحديقة"],
+      "fr": ["Je marche tous les jours", "Elle marche au travail", "Nous marchons au parc"],
+      "it": ["Cammino ogni giorno", "Lei cammina al lavoro", "Camminiamo nel parco"],
+      "ru": ["Я хожу каждый день", "Она идёт на работу", "Мы гуляем в парке"],
+      "es": ["Yo camino todos los días", "Ella camina al trabajo", "Nosotros caminamos en el parque"],
+      "pl": ["Chodzę codziennie", "Ona chodzi do pracy", "Chodzimy w parku"],
+      "fa": ["من هر روز راه می‌روم", "او به سر کار راه می‌رود", "ما در پارک راه می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_502_es",
+    "word": "correr",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to run",
+      "de": "laufen, rennen",
+      "ar": "يركض",
+      "fr": "courir",
+      "it": "correre",
+      "ru": "бегать, бежать",
+      "es": "correr",
+      "pl": "biegać",
+      "fa": "دویدن"
+    },
+    "explanations": {
+      "en": "Verb expressing rapid movement on foot",
+      "de": "Verb für schnelle Bewegung zu Fuß",
+      "ar": "فعل يعبر عن الحركة السريعة على الأقدام",
+      "fr": "Verbe exprimant un mouvement rapide à pied",
+      "it": "Verbo che esprime movimento rapido a piedi",
+      "ru": "Глагол, выражающий быстрое передвижение пешком",
+      "es": "Verbo que expresa movimiento rápido a pie",
+      "pl": "Czasownik wyrażający szybki ruch pieszo",
+      "fa": "فعلی که حرکت سریع با پا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I run in the morning", "He runs fast", "We run together"],
+      "de": ["Ich laufe am Morgen", "Er läuft schnell", "Wir laufen zusammen"],
+      "ar": ["أركض في الصباح", "هو يركض بسرعة", "نحن نركض معاً"],
+      "fr": ["Je cours le matin", "Il court vite", "Nous courons ensemble"],
+      "it": ["Corro la mattina", "Lui corre veloce", "Corriamo insieme"],
+      "ru": ["Я бегаю утром", "Он бежит быстро", "Мы бежим вместе"],
+      "es": ["Yo corro por la mañana", "Él corre rápido", "Nosotros corremos juntos"],
+      "pl": ["Biegam rano", "On biega szybko", "Biegamy razem"],
+      "fa": ["من صبح می‌دوم", "او سریع می‌دود", "ما با هم می‌دویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_503_es",
+    "word": "comer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to eat",
+      "de": "essen",
+      "ar": "يأكل",
+      "fr": "manger",
+      "it": "mangiare",
+      "ru": "есть, кушать",
+      "es": "comer",
+      "pl": "jeść",
+      "fa": "خوردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of consuming food",
+      "de": "Verb für die Handlung, Nahrung zu sich zu nehmen",
+      "ar": "فعل يعبر عن فعل تناول الطعام",
+      "fr": "Verbe exprimant l'action de consommer de la nourriture",
+      "it": "Verbo che esprime l'azione di consumare cibo",
+      "ru": "Глагол, выражающий действие употребления пищи",
+      "es": "Verbo que expresa la acción de consumir alimentos",
+      "pl": "Czasownik wyrażający czynność spożywania jedzenia",
+      "fa": "فعلی که عمل خوردن غذا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I eat breakfast", "She eats vegetables", "We eat together"],
+      "de": ["Ich esse Frühstück", "Sie isst Gemüse", "Wir essen zusammen"],
+      "ar": ["آكل الإفطار", "هي تأكل الخضروات", "نحن نأكل معاً"],
+      "fr": ["Je mange le petit-déjeuner", "Elle mange des légumes", "Nous mangeons ensemble"],
+      "it": ["Mangio la colazione", "Lei mangia verdure", "Mangiamo insieme"],
+      "ru": ["Я ем завтрак", "Она ест овощи", "Мы едим вместе"],
+      "es": ["Yo como el desayuno", "Ella come verduras", "Nosotros comemos juntos"],
+      "pl": ["Jem śniadanie", "Ona je warzywa", "Jemy razem"],
+      "fa": ["من صبحانه می‌خورم", "او سبزیجات می‌خورد", "ما با هم می‌خوریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_504_es",
+    "word": "beber",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "пить",
+      "es": "beber",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of consuming liquids",
+      "de": "Verb für die Handlung, Flüssigkeiten zu sich zu nehmen",
+      "ar": "فعل يعبر عن فعل تناول السوائل",
+      "fr": "Verbe exprimant l'action de consommer des liquides",
+      "it": "Verbo che esprime l'azione di consumare liquidi",
+      "ru": "Глагол, выражающий действие употребления жидкостей",
+      "es": "Verbo que expresa la acción de consumir líquidos",
+      "pl": "Czasownik wyrażający czynność spożywania płynów",
+      "fa": "فعلی که عمل نوشیدن مایعات را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I drink water", "He drinks coffee", "We drink tea"],
+      "de": ["Ich trinke Wasser", "Er trinkt Kaffee", "Wir trinken Tee"],
+      "ar": ["أشرب الماء", "هو يشرب القهوة", "نحن نشرب الشاي"],
+      "fr": ["Je bois de l'eau", "Il boit du café", "Nous buvons du thé"],
+      "it": ["Bevo acqua", "Lui beve caffè", "Beviamo tè"],
+      "ru": ["Я пью воду", "Он пьёт кофе", "Мы пьём чай"],
+      "es": ["Yo bebo agua", "Él bebe café", "Nosotros bebemos té"],
+      "pl": ["Piję wodę", "On pije kawę", "Pijemy herbatę"],
+      "fa": ["من آب می‌نوشم", "او قهوه می‌نوشد", "ما چای می‌نوشیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_505_es",
+    "word": "dormir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "спать",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing the state of rest with suspended consciousness",
+      "de": "Verb für den Zustand der Ruhe mit ausgesetztem Bewusstsein",
+      "ar": "فعل يعبر عن حالة الراحة مع توقف الوعي",
+      "fr": "Verbe exprimant l'état de repos avec conscience suspendue",
+      "it": "Verbo che esprime lo stato di riposo con coscienza sospesa",
+      "ru": "Глагол, выражающий состояние отдыха с приостановленным сознанием",
+      "es": "Verbo que expresa el estado de descanso con conciencia suspendida",
+      "pl": "Czasownik wyrażający stan odpoczynku z zawieszoną świadomością",
+      "fa": "فعلی که حالت استراحت با هوشیاری معلق را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I sleep eight hours", "She sleeps well", "We sleep at night"],
+      "de": ["Ich schlafe acht Stunden", "Sie schläft gut", "Wir schlafen nachts"],
+      "ar": ["أنام ثماني ساعات", "هي تنام جيداً", "نحن ننام في الليل"],
+      "fr": ["Je dors huit heures", "Elle dort bien", "Nous dormons la nuit"],
+      "it": ["Dormo otto ore", "Lei dorme bene", "Dormiamo di notte"],
+      "ru": ["Я сплю восемь часов", "Она спит хорошо", "Мы спим ночью"],
+      "es": ["Yo duermo ocho horas", "Ella duerme bien", "Nosotros dormimos de noche"],
+      "pl": ["Śpię osiem godzin", "Ona śpi dobrze", "Śpimy w nocy"],
+      "fa": ["من هشت ساعت می‌خوابم", "او خوب می‌خوابد", "ما شب می‌خوابیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_506_es",
+    "word": "despertar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to wake up",
+      "de": "aufwachen",
+      "ar": "يستيقظ",
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "ru": "просыпаться",
+      "es": "despertar",
+      "pl": "budzić się",
+      "fa": "بیدار شدن"
+    },
+    "explanations": {
+      "en": "Verb expressing the transition from sleep to wakefulness",
+      "de": "Verb für den Übergang vom Schlaf zur Wachheit",
+      "ar": "فعل يعبر عن الانتقال من النوم إلى اليقظة",
+      "fr": "Verbe exprimant la transition du sommeil à l'éveil",
+      "it": "Verbo che esprime la transizione dal sonno alla veglia",
+      "ru": "Глагол, выражающий переход от сна к бодрствованию",
+      "es": "Verbo que expresa la transición del sueño a la vigilia",
+      "pl": "Czasownik wyrażający przejście ze snu do czuwania",
+      "fa": "فعلی که انتقال از خواب به بیداری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I wake up early", "He wakes at seven", "We wake together"],
+      "de": ["Ich wache früh auf", "Er wacht um sieben auf", "Wir wachen zusammen auf"],
+      "ar": ["أستيقظ مبكراً", "هو يستيقظ في السابعة", "نحن نستيقظ معاً"],
+      "fr": ["Je me réveille tôt", "Il se réveille à sept heures", "Nous nous réveillons ensemble"],
+      "it": ["Mi sveglio presto", "Lui si sveglia alle sette", "Ci svegliamo insieme"],
+      "ru": ["Я просыпаюсь рано", "Он просыпается в семь", "Мы просыпаемся вместе"],
+      "es": ["Yo me despierto temprano", "Él se despierta a las siete", "Nosotros nos despertamos juntos"],
+      "pl": ["Budzę się wcześnie", "On budzi się o siódmej", "Budzimy się razem"],
+      "fa": ["من زود بیدار می‌شوم", "او ساعت هفت بیدار می‌شود", "ما با هم بیدار می‌شویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_507_es",
+    "word": "estudiar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to study",
+      "de": "studieren, lernen",
+      "ar": "يدرس",
+      "fr": "étudier",
+      "it": "studiare",
+      "ru": "учиться, изучать",
+      "es": "estudiar",
+      "pl": "studiować, uczyć się",
+      "fa": "مطالعه کردن، درس خواندن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of learning through reading and practice",
+      "de": "Verb für die Handlung des Lernens durch Lesen und Üben",
+      "ar": "فعل يعبر عن فعل التعلم من خلال القراءة والممارسة",
+      "fr": "Verbe exprimant l'action d'apprendre par la lecture et la pratique",
+      "it": "Verbo che esprime l'azione di imparare attraverso lettura e pratica",
+      "ru": "Глагол, выражающий действие обучения через чтение и практику",
+      "es": "Verbo que expresa la acción de aprender mediante lectura y práctica",
+      "pl": "Czasownik wyrażający czynność uczenia się przez czytanie i praktykę",
+      "fa": "فعلی که عمل یادگیری از طریق خواندن و تمرین را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I study Spanish", "She studies every day", "We study together"],
+      "de": ["Ich lerne Spanisch", "Sie lernt jeden Tag", "Wir lernen zusammen"],
+      "ar": ["أدرس الإسبانية", "هي تدرس كل يوم", "نحن ندرس معاً"],
+      "fr": ["J'étudie l'espagnol", "Elle étudie tous les jours", "Nous étudions ensemble"],
+      "it": ["Studio spagnolo", "Lei studia ogni giorno", "Studiamo insieme"],
+      "ru": ["Я изучаю испанский", "Она учится каждый день", "Мы учимся вместе"],
+      "es": ["Yo estudio español", "Ella estudia todos los días", "Nosotros estudiamos juntos"],
+      "pl": ["Uczę się hiszpańskiego", "Ona studiuje codziennie", "Studiujemy razem"],
+      "fa": ["من اسپانیایی مطالعه می‌کنم", "او هر روز درس می‌خواند", "ما با هم مطالعه می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_508_es",
+    "word": "leer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to read",
+      "de": "lesen",
+      "ar": "يقرأ",
+      "fr": "lire",
+      "it": "leggere",
+      "ru": "читать",
+      "es": "leer",
+      "pl": "czytać",
+      "fa": "خواندن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of interpreting written text",
+      "de": "Verb für die Handlung, geschriebenen Text zu interpretieren",
+      "ar": "فعل يعبر عن فعل تفسير النص المكتوب",
+      "fr": "Verbe exprimant l'action d'interpréter un texte écrit",
+      "it": "Verbo che esprime l'azione di interpretare testo scritto",
+      "ru": "Глагол, выражающий действие интерпретации письменного текста",
+      "es": "Verbo que expresa la acción de interpretar texto escrito",
+      "pl": "Czasownik wyrażający czynność interpretowania tekstu pisanego",
+      "fa": "فعلی که عمل تفسیر متن نوشته شده را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I read books", "He reads the news", "We read at night"],
+      "de": ["Ich lese Bücher", "Er liest die Nachrichten", "Wir lesen nachts"],
+      "ar": ["أقرأ الكتب", "هو يقرأ الأخبار", "نحن نقرأ ليلاً"],
+      "fr": ["Je lis des livres", "Il lit les nouvelles", "Nous lisons la nuit"],
+      "it": ["Leggo libri", "Lui legge le notizie", "Leggiamo di notte"],
+      "ru": ["Я читаю книги", "Он читает новости", "Мы читаем ночью"],
+      "es": ["Yo leo libros", "Él lee las noticias", "Nosotros leemos de noche"],
+      "pl": ["Czytam książki", "On czyta wiadomości", "Czytamy w nocy"],
+      "fa": ["من کتاب می‌خوانم", "او اخبار می‌خواند", "ما شب می‌خوانیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_509_es",
+    "word": "escribir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "писать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of creating written text",
+      "de": "Verb für die Handlung, geschriebenen Text zu erstellen",
+      "ar": "فعل يعبر عن فعل إنشاء نص مكتوب",
+      "fr": "Verbe exprimant l'action de créer du texte écrit",
+      "it": "Verbo che esprime l'azione di creare testo scritto",
+      "ru": "Глагол, выражающий действие создания письменного текста",
+      "es": "Verbo que expresa la acción de crear texto escrito",
+      "pl": "Czasownik wyrażający czynność tworzenia tekstu pisanego",
+      "fa": "فعلی که عمل ایجاد متن نوشته شده را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I write emails", "She writes stories", "We write letters"],
+      "de": ["Ich schreibe E-Mails", "Sie schreibt Geschichten", "Wir schreiben Briefe"],
+      "ar": ["أكتب رسائل البريد الإلكتروني", "هي تكتب القصص", "نحن نكتب الرسائل"],
+      "fr": ["J'écris des e-mails", "Elle écrit des histoires", "Nous écrivons des lettres"],
+      "it": ["Scrivo e-mail", "Lei scrive storie", "Scriviamo lettere"],
+      "ru": ["Я пишу письма", "Она пишет истории", "Мы пишем письма"],
+      "es": ["Yo escribo correos", "Ella escribe historias", "Nosotros escribimos cartas"],
+      "pl": ["Piszę e-maile", "Ona pisze historie", "Piszemy listy"],
+      "fa": ["من ایمیل می‌نویسم", "او داستان می‌نویسد", "ما نامه می‌نویسیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_510_es",
+    "word": "hablar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to speak, to talk",
+      "de": "sprechen, reden",
+      "ar": "يتكلم",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить, разговаривать",
+      "es": "hablar",
+      "pl": "mówić, rozmawiać",
+      "fa": "صحبت کردن، حرف زدن"
+    },
+    "explanations": {
+      "en": "Verb expressing oral communication using language",
+      "de": "Verb für mündliche Kommunikation unter Verwendung von Sprache",
+      "ar": "فعل يعبر عن التواصل الشفهي باستخدام اللغة",
+      "fr": "Verbe exprimant la communication orale utilisant le langage",
+      "it": "Verbo che esprime comunicazione orale usando il linguaggio",
+      "ru": "Глагол, выражающий устную коммуникацию с использованием языка",
+      "es": "Verbo que expresa comunicación oral usando el lenguaje",
+      "pl": "Czasownik wyrażający komunikację ustną przy użyciu języka",
+      "fa": "فعلی که ارتباط شفاهی با استفاده از زبان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I speak Spanish", "He talks a lot", "We speak quietly"],
+      "de": ["Ich spreche Spanisch", "Er redet viel", "Wir sprechen leise"],
+      "ar": ["أتكلم الإسبانية", "هو يتكلم كثيراً", "نحن نتكلم بهدوء"],
+      "fr": ["Je parle espagnol", "Il parle beaucoup", "Nous parlons doucement"],
+      "it": ["Parlo spagnolo", "Lui parla molto", "Parliamo piano"],
+      "ru": ["Я говорю по-испански", "Он много говорит", "Мы говорим тихо"],
+      "es": ["Yo hablo español", "Él habla mucho", "Nosotros hablamos bajo"],
+      "pl": ["Mówię po hiszpańsku", "On dużo mówi", "Mówimy cicho"],
+      "fa": ["من اسپانیایی صحبت می‌کنم", "او زیاد حرف می‌زند", "ما آرام صحبت می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_511_es",
+    "word": "escuchar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to listen",
+      "de": "zuhören",
+      "ar": "يستمع",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "ru": "слушать",
+      "es": "escuchar",
+      "pl": "słuchać",
+      "fa": "گوش دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of paying attention to sounds",
+      "de": "Verb für die Handlung, Geräuschen Aufmerksamkeit zu schenken",
+      "ar": "فعل يعبر عن فعل الاستماع إلى الأصوات",
+      "fr": "Verbe exprimant l'action de prêter attention aux sons",
+      "it": "Verbo che esprime l'azione di prestare attenzione ai suoni",
+      "ru": "Глагол, выражающий действие обращения внимания на звуки",
+      "es": "Verbo que expresa la acción de prestar atención a sonidos",
+      "pl": "Czasownik wyrażający czynność zwracania uwagi na dźwięki",
+      "fa": "فعلی که عمل توجه کردن به صداها را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I listen to music", "She listens carefully", "We listen to you"],
+      "de": ["Ich höre Musik", "Sie hört aufmerksam zu", "Wir hören dir zu"],
+      "ar": ["أستمع إلى الموسيقى", "هي تستمع بعناية", "نحن نستمع إليك"],
+      "fr": ["J'écoute de la musique", "Elle écoute attentivement", "Nous t'écoutons"],
+      "it": ["Ascolto musica", "Lei ascolta attentamente", "Ti ascoltiamo"],
+      "ru": ["Я слушаю музыку", "Она слушает внимательно", "Мы тебя слушаем"],
+      "es": ["Yo escucho música", "Ella escucha con atención", "Nosotros te escuchamos"],
+      "pl": ["Słucham muzyki", "Ona słucha uważnie", "Słuchamy cię"],
+      "fa": ["من به موسیقی گوش می‌دهم", "او با دقت گوش می‌دهد", "ما به تو گوش می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_512_es",
+    "word": "entender",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to understand",
+      "de": "verstehen",
+      "ar": "يفهم",
+      "fr": "comprendre",
+      "it": "capire",
+      "ru": "понимать",
+      "es": "entender",
+      "pl": "rozumieć",
+      "fa": "فهمیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing comprehension of meaning or ideas",
+      "de": "Verb für das Verständnis von Bedeutung oder Ideen",
+      "ar": "فعل يعبر عن فهم المعنى أو الأفكار",
+      "fr": "Verbe exprimant la compréhension du sens ou des idées",
+      "it": "Verbo che esprime comprensione di significato o idee",
+      "ru": "Глагол, выражающий понимание смысла или идей",
+      "es": "Verbo que expresa comprensión de significado o ideas",
+      "pl": "Czasownik wyrażający zrozumienie znaczenia lub idei",
+      "fa": "فعلی که درک معنی یا ایده‌ها را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I understand Spanish", "He understands the lesson", "We understand you"],
+      "de": ["Ich verstehe Spanisch", "Er versteht die Lektion", "Wir verstehen dich"],
+      "ar": ["أفهم الإسبانية", "هو يفهم الدرس", "نحن نفهمك"],
+      "fr": ["Je comprends l'espagnol", "Il comprend la leçon", "Nous te comprenons"],
+      "it": ["Capisco lo spagnolo", "Lui capisce la lezione", "Ti capiamo"],
+      "ru": ["Я понимаю испанский", "Он понимает урок", "Мы тебя понимаем"],
+      "es": ["Yo entiendo español", "Él entiende la lección", "Nosotros te entendemos"],
+      "pl": ["Rozumiem hiszpański", "On rozumie lekcję", "Rozumiemy cię"],
+      "fa": ["من اسپانیایی می‌فهمم", "او درس را می‌فهمد", "ما تو را می‌فهمیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_513_es",
+    "word": "recordar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to remember",
+      "de": "sich erinnern",
+      "ar": "يتذكر",
+      "fr": "se souvenir",
+      "it": "ricordare",
+      "ru": "помнить, вспоминать",
+      "es": "recordar",
+      "pl": "pamiętać",
+      "fa": "به یاد آوردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the ability to recall past information or experiences",
+      "de": "Verb für die Fähigkeit, vergangene Informationen oder Erfahrungen zu erinnern",
+      "ar": "فعل يعبر عن القدرة على استرجاع المعلومات أو التجارب الماضية",
+      "fr": "Verbe exprimant la capacité de se rappeler informations ou expériences passées",
+      "it": "Verbo che esprime la capacità di ricordare informazioni o esperienze passate",
+      "ru": "Глагол, выражающий способность вспоминать прошлую информацию или опыт",
+      "es": "Verbo que expresa la capacidad de recordar información o experiencias pasadas",
+      "pl": "Czasownik wyrażający zdolność przypominania sobie informacji lub doświadczeń z przeszłości",
+      "fa": "فعلی که توانایی یادآوری اطلاعات یا تجربیات گذشته را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I remember your name", "She remembers everything", "We remember that day"],
+      "de": ["Ich erinnere mich an deinen Namen", "Sie erinnert sich an alles", "Wir erinnern uns an diesen Tag"],
+      "ar": ["أتذكر اسمك", "هي تتذكر كل شيء", "نحن نتذكر ذلك اليوم"],
+      "fr": ["Je me souviens de ton nom", "Elle se souvient de tout", "Nous nous souvenons de ce jour"],
+      "it": ["Ricordo il tuo nome", "Lei ricorda tutto", "Ricordiamo quel giorno"],
+      "ru": ["Я помню твоё имя", "Она помнит всё", "Мы помним тот день"],
+      "es": ["Yo recuerdo tu nombre", "Ella recuerda todo", "Nosotros recordamos ese día"],
+      "pl": ["Pamiętam twoje imię", "Ona pamięta wszystko", "Pamiętamy ten dzień"],
+      "fa": ["من اسم تو را به یاد می‌آورم", "او همه چیز را به یاد می‌آورد", "ما آن روز را به یاد می‌آوریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_514_es",
+    "word": "olvidar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to forget",
+      "de": "vergessen",
+      "ar": "ينسى",
+      "fr": "oublier",
+      "it": "dimenticare",
+      "ru": "забывать",
+      "es": "olvidar",
+      "pl": "zapominać",
+      "fa": "فراموش کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the loss of memory or information",
+      "de": "Verb für den Verlust von Erinnerung oder Information",
+      "ar": "فعل يعبر عن فقدان الذاكرة أو المعلومات",
+      "fr": "Verbe exprimant la perte de mémoire ou d'information",
+      "it": "Verbo che esprime la perdita di memoria o informazione",
+      "ru": "Глагол, выражающий потерю памяти или информации",
+      "es": "Verbo que expresa la pérdida de memoria o información",
+      "pl": "Czasownik wyrażający utratę pamięci lub informacji",
+      "fa": "فعلی که از دست دادن حافظه یا اطلاعات را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I forget names", "He forgets things", "We forget sometimes"],
+      "de": ["Ich vergesse Namen", "Er vergisst Dinge", "Wir vergessen manchmal"],
+      "ar": ["أنسى الأسماء", "هو ينسى الأشياء", "نحن ننسى أحياناً"],
+      "fr": ["J'oublie les noms", "Il oublie des choses", "Nous oublions parfois"],
+      "it": ["Dimentico i nomi", "Lui dimentica le cose", "Dimentichiamo a volte"],
+      "ru": ["Я забываю имена", "Он забывает вещи", "Мы иногда забываем"],
+      "es": ["Yo olvido los nombres", "Él olvida las cosas", "Nosotros olvidamos a veces"],
+      "pl": ["Zapominam imiona", "On zapomina rzeczy", "Zapominamy czasami"],
+      "fa": ["من اسم‌ها را فراموش می‌کنم", "او چیزها را فراموش می‌کند", "ما گاهی فراموش می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_515_es",
+    "word": "creer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to believe, to think",
+      "de": "glauben, denken",
+      "ar": "يعتقد، يؤمن",
+      "fr": "croire, penser",
+      "it": "credere, pensare",
+      "ru": "верить, думать",
+      "es": "creer",
+      "pl": "wierzyć, myśleć",
+      "fa": "باور کردن، فکر کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing acceptance of something as true or having faith",
+      "de": "Verb für die Annahme von etwas als wahr oder Glaube haben",
+      "ar": "فعل يعبر عن قبول شيء كحقيقة أو وجود إيمان",
+      "fr": "Verbe exprimant l'acceptation de quelque chose comme vrai ou avoir la foi",
+      "it": "Verbo che esprime l'accettazione di qualcosa come vero o avere fede",
+      "ru": "Глагол, выражающий принятие чего-либо как истинного или наличие веры",
+      "es": "Verbo que expresa aceptación de algo como verdadero o tener fe",
+      "pl": "Czasownik wyrażający akceptację czegoś jako prawdziwego lub posiadanie wiary",
+      "fa": "فعلی که پذیرش چیزی به عنوان واقعیت یا داشتن ایمان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I believe you", "She thinks it's true", "We believe in you"],
+      "de": ["Ich glaube dir", "Sie denkt, es ist wahr", "Wir glauben an dich"],
+      "ar": ["أصدقك", "هي تعتقد أنه صحيح", "نحن نؤمن بك"],
+      "fr": ["Je te crois", "Elle pense que c'est vrai", "Nous croyons en toi"],
+      "it": ["Ti credo", "Lei pensa che sia vero", "Crediamo in te"],
+      "ru": ["Я тебе верю", "Она думает, это правда", "Мы верим в тебя"],
+      "es": ["Yo te creo", "Ella cree que es verdad", "Nosotros creemos en ti"],
+      "pl": ["Wierzę ci", "Ona myśli, że to prawda", "Wierzymy w ciebie"],
+      "fa": ["من به تو باور دارم", "او فکر می‌کند درست است", "ما به تو ایمان داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_516_es",
+    "word": "esperar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to wait, to hope",
+      "de": "warten, hoffen",
+      "ar": "ينتظر، يأمل",
+      "fr": "attendre, espérer",
+      "it": "aspettare, sperare",
+      "ru": "ждать, надеяться",
+      "es": "esperar",
+      "pl": "czekać, mieć nadzieję",
+      "fa": "منتظر ماندن، امیدوار بودن"
+    },
+    "explanations": {
+      "en": "Verb expressing waiting for something or having hope",
+      "de": "Verb für das Warten auf etwas oder Hoffnung haben",
+      "ar": "فعل يعبر عن انتظار شيء ما أو وجود أمل",
+      "fr": "Verbe exprimant l'attente de quelque chose ou avoir de l'espoir",
+      "it": "Verbo che esprime l'attesa di qualcosa o avere speranza",
+      "ru": "Глагол, выражающий ожидание чего-либо или наличие надежды",
+      "es": "Verbo que expresa esperar algo o tener esperanza",
+      "pl": "Czasownik wyrażający czekanie na coś lub posiadanie nadziei",
+      "fa": "فعلی که انتظار چیزی یا داشتن امید را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I wait here", "She hopes to win", "We wait for you"],
+      "de": ["Ich warte hier", "Sie hofft zu gewinnen", "Wir warten auf dich"],
+      "ar": ["أنتظر هنا", "هي تأمل في الفوز", "نحن ننتظرك"],
+      "fr": ["J'attends ici", "Elle espère gagner", "Nous t'attendons"],
+      "it": ["Aspetto qui", "Lei spera di vincere", "Ti aspettiamo"],
+      "ru": ["Я жду здесь", "Она надеется победить", "Мы тебя ждём"],
+      "es": ["Yo espero aquí", "Ella espera ganar", "Nosotros te esperamos"],
+      "pl": ["Czekam tutaj", "Ona ma nadzieję wygrać", "Czekamy na ciebie"],
+      "fa": ["من اینجا منتظرم", "او امیدوار است برنده شود", "ما منتظر تو هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_517_es",
+    "word": "desear",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to wish, to desire",
+      "de": "wünschen, begehren",
+      "ar": "يتمنى، يرغب",
+      "fr": "souhaiter, désirer",
+      "it": "desiderare",
+      "ru": "желать",
+      "es": "desear",
+      "pl": "życzyć, pragnąć",
+      "fa": "آرزو کردن، خواستن"
+    },
+    "explanations": {
+      "en": "Verb expressing a strong want or longing for something",
+      "de": "Verb für einen starken Wunsch oder Sehnsucht nach etwas",
+      "ar": "فعل يعبر عن رغبة قوية أو شوق لشيء ما",
+      "fr": "Verbe exprimant un fort désir ou aspiration pour quelque chose",
+      "it": "Verbo che esprime un forte desiderio o anelito per qualcosa",
+      "ru": "Глагол, выражающий сильное желание или стремление к чему-либо",
+      "es": "Verbo que expresa un fuerte deseo o anhelo por algo",
+      "pl": "Czasownik wyrażający silne pragnienie lub tęsknotę za czymś",
+      "fa": "فعلی که خواسته یا اشتیاق قوی برای چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I wish good luck", "He desires success", "We wish you well"],
+      "de": ["Ich wünsche viel Glück", "Er wünscht sich Erfolg", "Wir wünschen dir alles Gute"],
+      "ar": ["أتمنى لك حظاً سعيداً", "هو يرغب في النجاح", "نحن نتمنى لك الخير"],
+      "fr": ["Je souhaite bonne chance", "Il désire le succès", "Nous te souhaitons du bien"],
+      "it": ["Desidero buona fortuna", "Lui desidera il successo", "Ti auguriamo il meglio"],
+      "ru": ["Я желаю удачи", "Он желает успеха", "Мы желаем тебе добра"],
+      "es": ["Yo deseo buena suerte", "Él desea el éxito", "Nosotros te deseamos lo mejor"],
+      "pl": ["Życzę powodzenia", "On pragnie sukcesu", "Życzymy ci dobrze"],
+      "fa": ["من موفقیت آرزو می‌کنم", "او موفقیت می‌خواهد", "ما برای تو خوبی آرزو می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_518_es",
+    "word": "decidir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to decide",
+      "de": "entscheiden",
+      "ar": "يقرر",
+      "fr": "décider",
+      "it": "decidere",
+      "ru": "решать",
+      "es": "decidir",
+      "pl": "decydować",
+      "fa": "تصمیم گرفتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the act of making a choice or determination",
+      "de": "Verb für die Handlung, eine Wahl oder Entscheidung zu treffen",
+      "ar": "فعل يعبر عن فعل اتخاذ خيار أو قرار",
+      "fr": "Verbe exprimant l'acte de faire un choix ou une détermination",
+      "it": "Verbo che esprime l'atto di fare una scelta o determinazione",
+      "ru": "Глагол, выражающий действие принятия выбора или решения",
+      "es": "Verbo que expresa el acto de hacer una elección o determinación",
+      "pl": "Czasownik wyrażający czynność dokonywania wyboru lub decyzji",
+      "fa": "فعلی که عمل انتخاب یا تصمیم‌گیری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I decide quickly", "She decides tomorrow", "We decide together"],
+      "de": ["Ich entscheide schnell", "Sie entscheidet morgen", "Wir entscheiden zusammen"],
+      "ar": ["أقرر بسرعة", "هي تقرر غداً", "نحن نقرر معاً"],
+      "fr": ["Je décide vite", "Elle décide demain", "Nous décidons ensemble"],
+      "it": ["Decido velocemente", "Lei decide domani", "Decidiamo insieme"],
+      "ru": ["Я решаю быстро", "Она решает завтра", "Мы решаем вместе"],
+      "es": ["Yo decido rápido", "Ella decide mañana", "Nosotros decidimos juntos"],
+      "pl": ["Decyduję szybko", "Ona decyduje jutro", "Decydujemy razem"],
+      "fa": ["من سریع تصمیم می‌گیرم", "او فردا تصمیم می‌گیرد", "ما با هم تصمیم می‌گیریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_519_es",
+    "word": "elegir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to choose, to select",
+      "de": "wählen, auswählen",
+      "ar": "يختار",
+      "fr": "choisir, sélectionner",
+      "it": "scegliere, selezionare",
+      "ru": "выбирать",
+      "es": "elegir",
+      "pl": "wybierać",
+      "fa": "انتخاب کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the act of picking one option from several",
+      "de": "Verb für die Handlung, eine Option aus mehreren auszuwählen",
+      "ar": "فعل يعبر عن فعل اختيار خيار واحد من عدة خيارات",
+      "fr": "Verbe exprimant l'acte de choisir une option parmi plusieurs",
+      "it": "Verbo che esprime l'atto di scegliere un'opzione tra diverse",
+      "ru": "Глагол, выражающий действие выбора одного варианта из нескольких",
+      "es": "Verbo que expresa el acto de escoger una opción entre varias",
+      "pl": "Czasownik wyrażający czynność wybierania jednej opcji spośród kilku",
+      "fa": "فعلی که عمل انتخاب یک گزینه از چند گزینه را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I choose this one", "He selects the best", "We choose carefully"],
+      "de": ["Ich wähle dieses", "Er wählt das Beste", "Wir wählen sorgfältig"],
+      "ar": ["أختار هذا", "هو يختار الأفضل", "نحن نختار بعناية"],
+      "fr": ["Je choisis celui-ci", "Il sélectionne le meilleur", "Nous choisissons soigneusement"],
+      "it": ["Scelgo questo", "Lui seleziona il migliore", "Scegliamo con cura"],
+      "ru": ["Я выбираю это", "Он выбирает лучшее", "Мы выбираем тщательно"],
+      "es": ["Yo elijo este", "Él elige el mejor", "Nosotros elegimos con cuidado"],
+      "pl": ["Wybieram to", "On wybiera najlepsze", "Wybieramy ostrożnie"],
+      "fa": ["من این را انتخاب می‌کنم", "او بهترین را انتخاب می‌کند", "ما با دقت انتخاب می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_520_es",
+    "word": "preferir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to prefer",
+      "de": "vorziehen, bevorzugen",
+      "ar": "يفضل",
+      "fr": "préférer",
+      "it": "preferire",
+      "ru": "предпочитать",
+      "es": "preferir",
+      "pl": "woleć",
+      "fa": "ترجیح دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing a greater liking for one option over another",
+      "de": "Verb für eine größere Vorliebe für eine Option gegenüber einer anderen",
+      "ar": "فعل يعبر عن تفضيل خيار على آخر",
+      "fr": "Verbe exprimant une plus grande préférence pour une option par rapport à une autre",
+      "it": "Verbo che esprime una maggiore preferenza per un'opzione rispetto ad un'altra",
+      "ru": "Глагол, выражающий большее предпочтение одного варианта другому",
+      "es": "Verbo que expresa mayor preferencia por una opción sobre otra",
+      "pl": "Czasownik wyrażający większe upodobanie do jednej opcji nad inną",
+      "fa": "فعلی که علاقه بیشتر به یک گزینه نسبت به دیگری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I prefer coffee", "She prefers tea", "We prefer this restaurant"],
+      "de": ["Ich bevorzuge Kaffee", "Sie bevorzugt Tee", "Wir bevorzugen dieses Restaurant"],
+      "ar": ["أفضل القهوة", "هي تفضل الشاي", "نحن نفضل هذا المطعم"],
+      "fr": ["Je préfère le café", "Elle préfère le thé", "Nous préférons ce restaurant"],
+      "it": ["Preferisco il caffè", "Lei preferisce il tè", "Preferiamo questo ristorante"],
+      "ru": ["Я предпочитаю кофе", "Она предпочитает чай", "Мы предпочитаем этот ресторан"],
+      "es": ["Yo prefiero el café", "Ella prefiere el té", "Nosotros preferimos este restaurante"],
+      "pl": ["Wolę kawę", "Ona woli herbatę", "Wolimy tę restaurację"],
+      "fa": ["من قهوه را ترجیح می‌دهم", "او چای را ترجیح می‌دهد", "ما این رستوران را ترجیح می‌دهیم"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_661_es",
+    "word": "tiempo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "weather, time",
+      "de": "Wetter, Zeit",
+      "ar": "طقس، وقت",
+      "fr": "temps (météo), temps",
+      "it": "tempo (meteo), tempo",
+      "ru": "погода, время",
+      "es": "tiempo",
+      "pl": "pogoda, czas",
+      "fa": "آب و هوا، زمان"
+    },
+    "explanations": {
+      "en": "The atmospheric conditions or the passage of moments",
+      "de": "Die atmosphärischen Bedingungen oder der Ablauf von Momenten",
+      "ar": "الظروف الجوية أو مرور اللحظات",
+      "fr": "Les conditions atmosphériques ou le passage des moments",
+      "it": "Le condizioni atmosferiche o il passare dei momenti",
+      "ru": "Атмосферные условия или течение времени",
+      "es": "Las condiciones atmosféricas o el paso de momentos",
+      "pl": "Warunki atmosferyczne lub upływ momentów",
+      "fa": "شرایط جوی یا گذر لحظات"
+    },
+    "examples": {
+      "en": ["The weather is nice", "What is the weather?", "I have no time"],
+      "de": ["Das Wetter ist schön", "Wie ist das Wetter?", "Ich habe keine Zeit"],
+      "ar": ["الطقس لطيف", "كيف الطقس؟", "ليس لدي وقت"],
+      "fr": ["Le temps est beau", "Quel temps fait-il?", "Je n'ai pas temps"],
+      "it": ["Il tempo è bello", "Che tempo fa?", "Non ho tempo"],
+      "ru": ["Погода хорошая", "Какая погода?", "У меня нет времени"],
+      "es": ["El tiempo es bueno", "¿Cómo está el tiempo?", "No tengo tiempo"],
+      "pl": ["Pogoda jest ładna", "Jaka jest pogoda?", "Nie mam czasu"],
+      "fa": ["هوا خوب است", "هوا چطور است؟", "من وقت ندارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_662_es",
+    "word": "calor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "heat, warmth",
+      "de": "Hitze, Wärme",
+      "ar": "حرارة، دفء",
+      "fr": "chaleur",
+      "it": "calore",
+      "ru": "жара, тепло",
+      "es": "calor",
+      "pl": "ciepło, gorąco",
+      "fa": "گرما"
+    },
+    "explanations": {
+      "en": "High temperature or warm condition",
+      "de": "Hohe Temperatur oder warme Bedingung",
+      "ar": "درجة حرارة عالية أو حالة دافئة",
+      "fr": "Température élevée ou condition chaude",
+      "it": "Temperatura alta o condizione calda",
+      "ru": "Высокая температура или тёплое состояние",
+      "es": "Temperatura alta o condición cálida",
+      "pl": "Wysoka temperatura lub ciepły stan",
+      "fa": "دمای بالا یا شرایط گرم"
+    },
+    "examples": {
+      "en": ["It is very hot", "I feel the heat", "The heat is strong"],
+      "de": ["Es ist sehr heiß", "Ich fühle die Hitze", "Die Hitze ist stark"],
+      "ar": ["الجو حار جدا", "أشعر بالحرارة", "الحرارة قوية"],
+      "fr": ["Il fait très chaud", "Je sens la chaleur", "La chaleur est forte"],
+      "it": ["Fa molto caldo", "Sento il calore", "Il calore è forte"],
+      "ru": ["Очень жарко", "Я чувствую жару", "Жара сильная"],
+      "es": ["Hace mucho calor", "Yo siento el calor", "El calor es fuerte"],
+      "pl": ["Jest bardzo gorąco", "Czuję ciepło", "Ciepło jest silne"],
+      "fa": ["خیلی گرم است", "من گرما را احساس می‌کنم", "گرما قوی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_663_es",
+    "word": "frío",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cold",
+      "de": "kalt, Kälte",
+      "ar": "بارد، برد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холодный, холод",
+      "es": "frío",
+      "pl": "zimny, zimno",
+      "fa": "سرد، سرما"
+    },
+    "explanations": {
+      "en": "Low temperature or cold condition",
+      "de": "Niedrige Temperatur oder kalte Bedingung",
+      "ar": "درجة حرارة منخفضة أو حالة باردة",
+      "fr": "Température basse ou condition froide",
+      "it": "Temperatura bassa o condizione fredda",
+      "ru": "Низкая температура или холодное состояние",
+      "es": "Temperatura baja o condición fría",
+      "pl": "Niska temperatura lub zimny stan",
+      "fa": "دمای پایین یا شرایط سرد"
+    },
+    "examples": {
+      "en": ["It is very cold", "I feel the cold", "The cold is strong"],
+      "de": ["Es ist sehr kalt", "Ich fühle die Kälte", "Die Kälte ist stark"],
+      "ar": ["الجو بارد جدا", "أشعر بالبرد", "البرد قوي"],
+      "fr": ["Il fait très froid", "Je sens le froid", "Le froid est fort"],
+      "it": ["Fa molto freddo", "Sento il freddo", "Il freddo è forte"],
+      "ru": ["Очень холодно", "Я чувствую холод", "Холод сильный"],
+      "es": ["Hace mucho frío", "Yo siento el frío", "El frío es fuerte"],
+      "pl": ["Jest bardzo zimno", "Czuję zimno", "Zimno jest silne"],
+      "fa": ["خیلی سرد است", "من سرما را احساس می‌کنم", "سرما قوی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_664_es",
+    "word": "caliente",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hot, warm",
+      "de": "heiß, warm",
+      "ar": "ساخن",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "горячий, тёплый",
+      "es": "caliente",
+      "pl": "gorący, ciepły",
+      "fa": "داغ، گرم"
+    },
+    "explanations": {
+      "en": "Having a high temperature",
+      "de": "Eine hohe Temperatur habend",
+      "ar": "ذو درجة حرارة عالية",
+      "fr": "Ayant une température élevée",
+      "it": "Avendo una temperatura alta",
+      "ru": "Имеющий высокую температуру",
+      "es": "Teniendo una temperatura alta",
+      "pl": "Mający wysoką temperaturę",
+      "fa": "داشتن دمای بالا"
+    },
+    "examples": {
+      "en": ["The water is hot", "The soup is hot", "This coffee is hot"],
+      "de": ["Das Wasser ist heiß", "Die Suppe ist heiß", "Dieser Kaffee ist heiß"],
+      "ar": ["الماء ساخن", "الحساء ساخن", "هذا القهوة ساخنة"],
+      "fr": ["L'eau est chaude", "La soupe est chaude", "Ce café est chaud"],
+      "it": ["L'acqua è calda", "La zuppa è calda", "Questo caffè è caldo"],
+      "ru": ["Вода горячая", "Суп горячий", "Этот кофе горячий"],
+      "es": ["El agua está caliente", "La sopa está caliente", "Este café está caliente"],
+      "pl": ["Woda jest gorąca", "Zupa jest gorąca", "Ta kawa jest gorąca"],
+      "fa": ["آب داغ است", "سوپ داغ است", "این قهوه داغ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_665_es",
+    "word": "fresco",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cool, fresh",
+      "de": "kühl, frisch",
+      "ar": "بارد، طازج",
+      "fr": "frais",
+      "it": "fresco",
+      "ru": "прохладный, свежий",
+      "es": "fresco",
+      "pl": "chłodny, świeży",
+      "fa": "خنک، تازه"
+    },
+    "explanations": {
+      "en": "Moderately cold or recently made",
+      "de": "Mäßig kalt oder kürzlich gemacht",
+      "ar": "بارد معتدل أو صنع حديثا",
+      "fr": "Modérément froid ou récemment fait",
+      "it": "Moderatamente freddo o recentemente fatto",
+      "ru": "Умеренно холодный или недавно сделанный",
+      "es": "Moderadamente frío o recientemente hecho",
+      "pl": "Umiarkowanie zimny lub niedawno zrobiony",
+      "fa": "نسبتاً سرد یا تازه ساخته شده"
+    },
+    "examples": {
+      "en": ["The air is cool", "The bread is fresh", "It is fresh today"],
+      "de": ["Die Luft ist kühl", "Das Brot ist frisch", "Es ist frisch heute"],
+      "ar": ["الهواء بارد", "الخبز طازج", "الجو منعش اليوم"],
+      "fr": ["L'air est frais", "Le pain est frais", "Il fait frais aujourd'hui"],
+      "it": ["L'aria è fresca", "Il pane è fresco", "È fresco oggi"],
+      "ru": ["Воздух прохладный", "Хлеб свежий", "Сегодня свежо"],
+      "es": ["El aire está fresco", "El pan es fresco", "Está fresco hoy"],
+      "pl": ["Powietrze jest chłodne", "Chleb jest świeży", "Jest chłodno dzisiaj"],
+      "fa": ["هوا خنک است", "نان تازه است", "امروز خنک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_666_es",
+    "word": "sol",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sun",
+      "de": "Sonne",
+      "ar": "شمس",
+      "fr": "soleil",
+      "it": "sole",
+      "ru": "солнце",
+      "es": "sol",
+      "pl": "słońce",
+      "fa": "خورشید"
+    },
+    "explanations": {
+      "en": "The star at the center of our solar system",
+      "de": "Der Stern im Zentrum unseres Sonnensystems",
+      "ar": "النجم في مركز نظامنا الشمسي",
+      "fr": "L'étoile au centre de notre système solaire",
+      "it": "La stella al centro del nostro sistema solare",
+      "ru": "Звезда в центре нашей солнечной системы",
+      "es": "La estrella en el centro de nuestro sistema solar",
+      "pl": "Gwiazda w centrum naszego układu słonecznego",
+      "fa": "ستاره در مرکز منظومه شمسی ما"
+    },
+    "examples": {
+      "en": ["The sun is bright", "I see the sun", "The sun is hot"],
+      "de": ["Die Sonne ist hell", "Ich sehe die Sonne", "Die Sonne ist heiß"],
+      "ar": ["الشمس ساطعة", "أرى الشمس", "الشمس حارة"],
+      "fr": ["Le soleil est brillant", "Je vois le soleil", "Le soleil est chaud"],
+      "it": ["Il sole è luminoso", "Vedo il sole", "Il sole è caldo"],
+      "ru": ["Солнце яркое", "Я вижу солнце", "Солнце горячее"],
+      "es": ["El sol es brillante", "Yo veo el sol", "El sol está caliente"],
+      "pl": ["Słońce jest jasne", "Widzę słońce", "Słońce jest gorące"],
+      "fa": ["خورشید درخشان است", "من خورشید را می‌بینم", "خورشید داغ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_667_es",
+    "word": "soleado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sunny",
+      "de": "sonnig",
+      "ar": "مشمس",
+      "fr": "ensoleillé",
+      "it": "soleggiato",
+      "ru": "солнечный",
+      "es": "soleado",
+      "pl": "słoneczny",
+      "fa": "آفتابی"
+    },
+    "explanations": {
+      "en": "Bright with sunlight",
+      "de": "Hell mit Sonnenlicht",
+      "ar": "مشرق بضوء الشمس",
+      "fr": "Lumineux avec lumière du soleil",
+      "it": "Luminoso con luce del sole",
+      "ru": "Яркий с солнечным светом",
+      "es": "Brillante con luz solar",
+      "pl": "Jasny ze światłem słonecznym",
+      "fa": "روشن با نور خورشید"
+    },
+    "examples": {
+      "en": ["Today is sunny day", "The weather is sunny", "It is sunny outside"],
+      "de": ["Heute ist sonniger Tag", "Das Wetter ist sonnig", "Es ist sonnig draußen"],
+      "ar": ["اليوم يوم مشمس", "الطقس مشمس", "الجو مشمس بالخارج"],
+      "fr": ["Aujourd'hui est jour ensoleillé", "Le temps est ensoleillé", "Il fait ensoleillé dehors"],
+      "it": ["Oggi è giorno soleggiato", "Il tempo è soleggiato", "È soleggiato fuori"],
+      "ru": ["Сегодня солнечный день", "Погода солнечная", "На улице солнечно"],
+      "es": ["Hoy es día soleado", "El tiempo está soleado", "Está soleado afuera"],
+      "pl": ["Dzisiaj jest słoneczny dzień", "Pogoda jest słoneczna", "Jest słonecznie na zewnątrz"],
+      "fa": ["امروز روز آفتابی است", "هوا آفتابی است", "بیرون آفتابی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_668_es",
+    "word": "lluvia",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "rain",
+      "de": "Regen",
+      "ar": "مطر",
+      "fr": "pluie",
+      "it": "pioggia",
+      "ru": "дождь",
+      "es": "lluvia",
+      "pl": "deszcz",
+      "fa": "باران"
+    },
+    "explanations": {
+      "en": "Water falling from clouds in drops",
+      "de": "Wasser, das in Tropfen aus Wolken fällt",
+      "ar": "الماء الذي يسقط من السحب في قطرات",
+      "fr": "Eau tombant des nuages en gouttes",
+      "it": "Acqua che cade dalle nuvole in gocce",
+      "ru": "Вода, падающая из облаков каплями",
+      "es": "Agua cayendo de las nubes en gotas",
+      "pl": "Woda spadająca z chmur w kroplach",
+      "fa": "آب که از ابرها به صورت قطره می‌بارد"
+    },
+    "examples": {
+      "en": ["The rain is heavy", "I like the rain", "Rain falls from sky"],
+      "de": ["Der Regen ist stark", "Ich mag den Regen", "Regen fällt vom Himmel"],
+      "ar": ["المطر غزير", "أحب المطر", "المطر يسقط من السماء"],
+      "fr": ["La pluie est forte", "J'aime la pluie", "La pluie tombe du ciel"],
+      "it": ["La pioggia è forte", "Mi piace la pioggia", "La pioggia cade dal cielo"],
+      "ru": ["Дождь сильный", "Мне нравится дождь", "Дождь падает с неба"],
+      "es": ["La lluvia es fuerte", "Me gusta la lluvia", "La lluvia cae del cielo"],
+      "pl": ["Deszcz jest mocny", "Lubię deszcz", "Deszcz pada z nieba"],
+      "fa": ["باران شدید است", "من باران را دوست دارم", "باران از آسمان می‌بارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_669_es",
+    "word": "lluvioso",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "rainy",
+      "de": "regnerisch",
+      "ar": "ممطر",
+      "fr": "pluvieux",
+      "it": "piovoso",
+      "ru": "дождливый",
+      "es": "lluvioso",
+      "pl": "deszczowy",
+      "fa": "بارانی"
+    },
+    "explanations": {
+      "en": "Characterized by rain",
+      "de": "Durch Regen gekennzeichnet",
+      "ar": "يتميز بالمطر",
+      "fr": "Caractérisé par la pluie",
+      "it": "Caratterizzato da pioggia",
+      "ru": "Характеризуемый дождём",
+      "es": "Caracterizado por lluvia",
+      "pl": "Charakteryzujący się deszczem",
+      "fa": "مشخص شده با باران"
+    },
+    "examples": {
+      "en": ["Today is rainy day", "The weather is rainy", "It is rainy outside"],
+      "de": ["Heute ist regnerischer Tag", "Das Wetter ist regnerisch", "Es ist regnerisch draußen"],
+      "ar": ["اليوم يوم ممطر", "الطقس ممطر", "الجو ممطر بالخارج"],
+      "fr": ["Aujourd'hui est jour pluvieux", "Le temps est pluvieux", "Il fait pluvieux dehors"],
+      "it": ["Oggi è giorno piovoso", "Il tempo è piovoso", "È piovoso fuori"],
+      "ru": ["Сегодня дождливый день", "Погода дождливая", "На улице дождливо"],
+      "es": ["Hoy es día lluvioso", "El tiempo está lluvioso", "Está lluvioso afuera"],
+      "pl": ["Dzisiaj jest deszczowy dzień", "Pogoda jest deszczowa", "Jest deszczowo na zewnątrz"],
+      "fa": ["امروز روز بارانی است", "هوا بارانی است", "بیرون بارانی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_670_es",
+    "word": "nieve",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "snow",
+      "de": "Schnee",
+      "ar": "ثلج",
+      "fr": "neige",
+      "it": "neve",
+      "ru": "снег",
+      "es": "nieve",
+      "pl": "śnieg",
+      "fa": "برف"
+    },
+    "explanations": {
+      "en": "Frozen water falling from clouds as white flakes",
+      "de": "Gefrorenes Wasser, das als weiße Flocken aus Wolken fällt",
+      "ar": "الماء المجمد الذي يسقط من السحب كرقائق بيضاء",
+      "fr": "Eau gelée tombant des nuages comme flocons blancs",
+      "it": "Acqua ghiacciata che cade dalle nuvole come fiocchi bianchi",
+      "ru": "Замёрзшая вода, падающая из облаков белыми хлопьями",
+      "es": "Agua congelada cayendo de las nubes como copos blancos",
+      "pl": "Zamarznięta woda spadająca z chmur jako białe płatki",
+      "fa": "آب یخ زده که به صورت دانه‌های سفید از ابرها می‌بارد"
+    },
+    "examples": {
+      "en": ["The snow is white", "I love the snow", "Snow falls in winter"],
+      "de": ["Der Schnee ist weiß", "Ich liebe den Schnee", "Schnee fällt im Winter"],
+      "ar": ["الثلج أبيض", "أحب الثلج", "الثلج يسقط في الشتاء"],
+      "fr": ["La neige est blanche", "J'aime la neige", "La neige tombe en hiver"],
+      "it": ["La neve è bianca", "Amo la neve", "La neve cade in inverno"],
+      "ru": ["Снег белый", "Я люблю снег", "Снег падает зимой"],
+      "es": ["La nieve es blanca", "Me encanta la nieve", "La nieve cae en invierno"],
+      "pl": ["Śnieg jest biały", "Kocham śnieg", "Śnieg pada zimą"],
+      "fa": ["برف سفید است", "من برف را دوست دارم", "برف در زمستان می‌بارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_671_es",
+    "word": "nevado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "snowy",
+      "de": "verschneit",
+      "ar": "مثلج",
+      "fr": "neigeux",
+      "it": "nevoso",
+      "ru": "снежный",
+      "es": "nevado",
+      "pl": "śnieżny",
+      "fa": "برفی"
+    },
+    "explanations": {
+      "en": "Covered with or characterized by snow",
+      "de": "Mit Schnee bedeckt oder durch Schnee gekennzeichnet",
+      "ar": "مغطى بالثلج أو يتميز بالثلج",
+      "fr": "Couvert de ou caractérisé par neige",
+      "it": "Coperto di o caratterizzato da neve",
+      "ru": "Покрытый снегом или характеризуемый снегом",
+      "es": "Cubierto de o caracterizado por nieve",
+      "pl": "Pokryty śniegiem lub charakteryzujący się śniegiem",
+      "fa": "پوشیده شده یا مشخص شده با برف"
+    },
+    "examples": {
+      "en": ["Today is snowy day", "The mountain is snowy", "It is snowy outside"],
+      "de": ["Heute ist schneereicher Tag", "Der Berg ist verschneit", "Es ist verschneit draußen"],
+      "ar": ["اليوم يوم مثلج", "الجبل مثلج", "الجو مثلج بالخارج"],
+      "fr": ["Aujourd'hui est jour neigeux", "La montagne est neigeuse", "Il fait neigeux dehors"],
+      "it": ["Oggi è giorno nevoso", "La montagna è nevosa", "È nevoso fuori"],
+      "ru": ["Сегодня снежный день", "Гора снежная", "На улице снежно"],
+      "es": ["Hoy es día nevado", "La montaña está nevada", "Está nevado afuera"],
+      "pl": ["Dzisiaj jest śnieżny dzień", "Góra jest śnieżna", "Jest śnieżnie na zewnątrz"],
+      "fa": ["امروز روز برفی است", "کوه برفی است", "بیرون برفی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_672_es",
+    "word": "viento",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wind",
+      "de": "Wind",
+      "ar": "رياح",
+      "fr": "vent",
+      "it": "vento",
+      "ru": "ветер",
+      "es": "viento",
+      "pl": "wiatr",
+      "fa": "باد"
+    },
+    "explanations": {
+      "en": "Moving air in the atmosphere",
+      "de": "Sich bewegende Luft in der Atmosphäre",
+      "ar": "الهواء المتحرك في الغلاف الجوي",
+      "fr": "Air en mouvement dans l'atmosphère",
+      "it": "Aria in movimento nell'atmosfera",
+      "ru": "Движущийся воздух в атмосфере",
+      "es": "Aire en movimiento en la atmósfera",
+      "pl": "Poruszające się powietrze w atmosferze",
+      "fa": "هوای در حال حرکت در جو"
+    },
+    "examples": {
+      "en": ["The wind is strong", "I feel the wind", "Wind blows from north"],
+      "de": ["Der Wind ist stark", "Ich fühle den Wind", "Wind weht von Norden"],
+      "ar": ["الرياح قوية", "أشعر بالرياح", "الرياح تهب من الشمال"],
+      "fr": ["Le vent est fort", "Je sens le vent", "Le vent souffle du nord"],
+      "it": ["Il vento è forte", "Sento il vento", "Il vento soffia da nord"],
+      "ru": ["Ветер сильный", "Я чувствую ветер", "Ветер дует с севера"],
+      "es": ["El viento es fuerte", "Yo siento el viento", "El viento sopla del norte"],
+      "pl": ["Wiatr jest silny", "Czuję wiatr", "Wiatr wieje z północy"],
+      "fa": ["باد قوی است", "من باد را احساس می‌کنم", "باد از شمال می‌وزد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_673_es",
+    "word": "ventoso",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "windy",
+      "de": "windig",
+      "ar": "عاصف",
+      "fr": "venteux",
+      "it": "ventoso",
+      "ru": "ветреный",
+      "es": "ventoso",
+      "pl": "wietrzny",
+      "fa": "بادی"
+    },
+    "explanations": {
+      "en": "Characterized by strong winds",
+      "de": "Durch starke Winde gekennzeichnet",
+      "ar": "يتميز برياح قوية",
+      "fr": "Caractérisé par vents forts",
+      "it": "Caratterizzato da venti forti",
+      "ru": "Характеризуемый сильными ветрами",
+      "es": "Caracterizado por vientos fuertes",
+      "pl": "Charakteryzujący się silnymi wiatrami",
+      "fa": "مشخص شده با بادهای قوی"
+    },
+    "examples": {
+      "en": ["Today is windy day", "The weather is windy", "It is windy outside"],
+      "de": ["Heute ist windiger Tag", "Das Wetter ist windig", "Es ist windig draußen"],
+      "ar": ["اليوم يوم عاصف", "الطقس عاصف", "الجو عاصف بالخارج"],
+      "fr": ["Aujourd'hui est jour venteux", "Le temps est venteux", "Il fait venteux dehors"],
+      "it": ["Oggi è giorno ventoso", "Il tempo è ventoso", "È ventoso fuori"],
+      "ru": ["Сегодня ветреный день", "Погода ветреная", "На улице ветрено"],
+      "es": ["Hoy es día ventoso", "El tiempo está ventoso", "Está ventoso afuera"],
+      "pl": ["Dzisiaj jest wietrzny dzień", "Pogoda jest wietrzna", "Jest wietrznie na zewnątrz"],
+      "fa": ["امروز روز بادی است", "هوا بادی است", "بیرون بادی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_674_es",
+    "word": "nube",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cloud",
+      "de": "Wolke",
+      "ar": "سحابة",
+      "fr": "nuage",
+      "it": "nuvola",
+      "ru": "облако",
+      "es": "nube",
+      "pl": "chmura",
+      "fa": "ابر"
+    },
+    "explanations": {
+      "en": "A visible mass of water droplets in the sky",
+      "de": "Eine sichtbare Masse von Wassertropfen am Himmel",
+      "ar": "كتلة مرئية من قطرات الماء في السماء",
+      "fr": "Une masse visible de gouttelettes d'eau dans le ciel",
+      "it": "Una massa visibile di gocce d'acqua nel cielo",
+      "ru": "Видимая масса капель воды в небе",
+      "es": "Una masa visible de gotas de agua en el cielo",
+      "pl": "Widoczna masa kropelek wody na niebie",
+      "fa": "توده قابل مشاهده قطرات آب در آسمان"
+    },
+    "examples": {
+      "en": ["The cloud is white", "I see many clouds", "Clouds cover the sky"],
+      "de": ["Die Wolke ist weiß", "Ich sehe viele Wolken", "Wolken bedecken den Himmel"],
+      "ar": ["السحابة بيضاء", "أرى سحب كثيرة", "السحب تغطي السماء"],
+      "fr": ["Le nuage est blanc", "Je vois beaucoup nuages", "Les nuages couvrent le ciel"],
+      "it": ["La nuvola è bianca", "Vedo molte nuvole", "Le nuvole coprono il cielo"],
+      "ru": ["Облако белое", "Я вижу много облаков", "Облака покрывают небо"],
+      "es": ["La nube es blanca", "Yo veo muchas nubes", "Las nubes cubren el cielo"],
+      "pl": ["Chmura jest biała", "Widzę wiele chmur", "Chmury pokrywają niebo"],
+      "fa": ["ابر سفید است", "من ابرهای زیادی می‌بینم", "ابرها آسمان را می‌پوشانند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_675_es",
+    "word": "nublado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cloudy",
+      "de": "bewölkt",
+      "ar": "غائم",
+      "fr": "nuageux",
+      "it": "nuvoloso",
+      "ru": "облачный",
+      "es": "nublado",
+      "pl": "pochmurny",
+      "fa": "ابری"
+    },
+    "explanations": {
+      "en": "Covered with clouds",
+      "de": "Mit Wolken bedeckt",
+      "ar": "مغطى بالسحب",
+      "fr": "Couvert de nuages",
+      "it": "Coperto di nuvole",
+      "ru": "Покрытый облаками",
+      "es": "Cubierto de nubes",
+      "pl": "Pokryty chmurami",
+      "fa": "پوشیده شده با ابرها"
+    },
+    "examples": {
+      "en": ["Today is cloudy day", "The sky is cloudy", "It is cloudy outside"],
+      "de": ["Heute ist bewölkter Tag", "Der Himmel ist bewölkt", "Es ist bewölkt draußen"],
+      "ar": ["اليوم يوم غائم", "السماء غائمة", "الجو غائم بالخارج"],
+      "fr": ["Aujourd'hui est jour nuageux", "Le ciel est nuageux", "Il fait nuageux dehors"],
+      "it": ["Oggi è giorno nuvoloso", "Il cielo è nuvoloso", "È nuvoloso fuori"],
+      "ru": ["Сегодня облачный день", "Небо облачное", "На улице облачно"],
+      "es": ["Hoy es día nublado", "El cielo está nublado", "Está nublado afuera"],
+      "pl": ["Dzisiaj jest pochmurny dzień", "Niebo jest pochmurne", "Jest pochmurnie na zewnątrz"],
+      "fa": ["امروز روز ابری است", "آسمان ابری است", "بیرون ابری است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_676_es",
+    "word": "tormenta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "storm",
+      "de": "Sturm",
+      "ar": "عاصفة",
+      "fr": "tempête, orage",
+      "it": "tempesta",
+      "ru": "буря, шторм",
+      "es": "tormenta",
+      "pl": "burza",
+      "fa": "طوفان"
+    },
+    "explanations": {
+      "en": "Violent weather with strong winds and rain",
+      "de": "Gewalttätiges Wetter mit starken Winden und Regen",
+      "ar": "طقس عنيف مع رياح قوية ومطر",
+      "fr": "Temps violent avec vents forts et pluie",
+      "it": "Tempo violento con venti forti e pioggia",
+      "ru": "Сильная погода с сильными ветрами и дождём",
+      "es": "Tiempo violento con vientos fuertes y lluvia",
+      "pl": "Gwałtowna pogoda z silnymi wiatrami i deszczem",
+      "fa": "آب و هوای خشن با بادهای قوی و باران"
+    },
+    "examples": {
+      "en": ["The storm is coming", "I fear the storm", "Storm brings heavy rain"],
+      "de": ["Der Sturm kommt", "Ich fürchte den Sturm", "Sturm bringt starken Regen"],
+      "ar": ["العاصفة قادمة", "أخاف من العاصفة", "العاصفة تجلب مطر غزير"],
+      "fr": ["La tempête arrive", "Je crains la tempête", "La tempête apporte pluie forte"],
+      "it": ["La tempesta sta arrivando", "Temo la tempesta", "La tempesta porta pioggia forte"],
+      "ru": ["Буря приближается", "Я боюсь бури", "Буря приносит сильный дождь"],
+      "es": ["La tormenta viene", "Yo temo la tormenta", "La tormenta trae lluvia fuerte"],
+      "pl": ["Burza nadchodzi", "Boję się burzy", "Burza przynosi mocny deszcz"],
+      "fa": ["طوفان می‌آید", "من از طوفان می‌ترسم", "طوفان باران شدیدی می‌آورد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_677_es",
+    "word": "temperatura",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "temperature",
+      "de": "Temperatur",
+      "ar": "درجة حرارة",
+      "fr": "température",
+      "it": "temperatura",
+      "ru": "температура",
+      "es": "temperatura",
+      "pl": "temperatura",
+      "fa": "دما"
+    },
+    "explanations": {
+      "en": "The degree of heat or cold",
+      "de": "Der Grad von Hitze oder Kälte",
+      "ar": "درجة الحرارة أو البرودة",
+      "fr": "Le degré de chaleur ou froid",
+      "it": "Il grado di calore o freddo",
+      "ru": "Степень тепла или холода",
+      "es": "El grado de calor o frío",
+      "pl": "Stopień ciepła lub zimna",
+      "fa": "درجه گرما یا سرما"
+    },
+    "examples": {
+      "en": ["The temperature is high", "Check the temperature now", "Temperature drops at night"],
+      "de": ["Die Temperatur ist hoch", "Prüf die Temperatur jetzt", "Temperatur sinkt nachts"],
+      "ar": ["درجة الحرارة عالية", "تحقق من درجة الحرارة الآن", "الحرارة تنخفض ليلا"],
+      "fr": ["La température est haute", "Vérifie la température maintenant", "La température baisse la nuit"],
+      "it": ["La temperatura è alta", "Controlla la temperatura ora", "La temperatura scende di notte"],
+      "ru": ["Температура высокая", "Проверь температуру сейчас", "Температура падает ночью"],
+      "es": ["La temperatura es alta", "Verifica la temperatura ahora", "La temperatura baja de noche"],
+      "pl": ["Temperatura jest wysoka", "Sprawdź temperaturę teraz", "Temperatura spada w nocy"],
+      "fa": ["دما بالا است", "الان دما را چک کن", "دما شب پایین می‌آید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_678_es",
+    "word": "estación",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "season, station",
+      "de": "Jahreszeit, Bahnhof",
+      "ar": "فصل، محطة",
+      "fr": "saison, gare",
+      "it": "stagione, stazione",
+      "ru": "сезон, станция",
+      "es": "estación",
+      "pl": "sezon, stacja",
+      "fa": "فصل، ایستگاه"
+    },
+    "explanations": {
+      "en": "A period of the year or a stopping place",
+      "de": "Eine Periode des Jahres oder ein Halteplatz",
+      "ar": "فترة من السنة أو مكان توقف",
+      "fr": "Une période de l'année ou un lieu d'arrêt",
+      "it": "Un periodo dell'anno o un luogo di sosta",
+      "ru": "Период года или место остановки",
+      "es": "Un período del año o un lugar de parada",
+      "pl": "Okres roku lub miejsce postoju",
+      "fa": "دوره‌ای از سال یا محل توقف"
+    },
+    "examples": {
+      "en": ["Summer is my season", "I like this season", "The train station here"],
+      "de": ["Sommer ist meine Jahreszeit", "Ich mag diese Jahreszeit", "Der Bahnhof hier"],
+      "ar": ["الصيف هو فصلي", "أحب هذا الفصل", "محطة القطار هنا"],
+      "fr": ["L'été est ma saison", "J'aime cette saison", "La gare ici"],
+      "it": ["L'estate è la mia stagione", "Mi piace questa stagione", "La stazione qui"],
+      "ru": ["Лето мой сезон", "Мне нравится этот сезон", "Станция здесь"],
+      "es": ["El verano es mi estación", "Me gusta esta estación", "La estación del tren aquí"],
+      "pl": ["Lato to mój sezon", "Lubię ten sezon", "Stacja kolejowa tutaj"],
+      "fa": ["تابستان فصل من است", "من این فصل را دوست دارم", "ایستگاه قطار اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_679_es",
+    "word": "verano",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "summer",
+      "de": "Sommer",
+      "ar": "صيف",
+      "fr": "été",
+      "it": "estate",
+      "ru": "лето",
+      "es": "verano",
+      "pl": "lato",
+      "fa": "تابستان"
+    },
+    "explanations": {
+      "en": "The warmest season of the year",
+      "de": "Die wärmste Jahreszeit des Jahres",
+      "ar": "الفصل الأكثر دفئا من السنة",
+      "fr": "La saison la plus chaude de l'année",
+      "it": "La stagione più calda dell'anno",
+      "ru": "Самый тёплый сезон года",
+      "es": "La estación más cálida del año",
+      "pl": "Najcieplejszy sezon roku",
+      "fa": "گرم‌ترین فصل سال"
+    },
+    "examples": {
+      "en": ["I love the summer", "Summer is very hot", "We swim in summer"],
+      "de": ["Ich liebe den Sommer", "Sommer ist sehr heiß", "Wir schwimmen im Sommer"],
+      "ar": ["أحب الصيف", "الصيف حار جدا", "نحن نسبح في الصيف"],
+      "fr": ["J'aime l'été", "L'été est très chaud", "Nous nageons en été"],
+      "it": ["Amo l'estate", "L'estate è molto calda", "Nuotiamo in estate"],
+      "ru": ["Я люблю лето", "Лето очень жаркое", "Мы плаваем летом"],
+      "es": ["Yo amo el verano", "El verano es muy caliente", "Nosotros nadamos en verano"],
+      "pl": ["Kocham lato", "Lato jest bardzo gorące", "Pływamy latem"],
+      "fa": ["من تابستان را دوست دارم", "تابستان خیلی گرم است", "ما در تابستان شنا می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_680_es",
+    "word": "invierno",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "winter",
+      "de": "Winter",
+      "ar": "شتاء",
+      "fr": "hiver",
+      "it": "inverno",
+      "ru": "зима",
+      "es": "invierno",
+      "pl": "zima",
+      "fa": "زمستان"
+    },
+    "explanations": {
+      "en": "The coldest season of the year",
+      "de": "Die kälteste Jahreszeit des Jahres",
+      "ar": "الفصل الأكثر برودة من السنة",
+      "fr": "La saison la plus froide de l'année",
+      "it": "La stagione più fredda dell'anno",
+      "ru": "Самый холодный сезон года",
+      "es": "La estación más fría del año",
+      "pl": "Najzimniejszy sezon roku",
+      "fa": "سردترین فصل سال"
+    },
+    "examples": {
+      "en": ["Winter is very cold", "I like the winter", "Snow falls in winter"],
+      "de": ["Winter ist sehr kalt", "Ich mag den Winter", "Schnee fällt im Winter"],
+      "ar": ["الشتاء بارد جدا", "أحب الشتاء", "الثلج يسقط في الشتاء"],
+      "fr": ["L'hiver est très froid", "J'aime l'hiver", "La neige tombe en hiver"],
+      "it": ["L'inverno è molto freddo", "Mi piace l'inverno", "La neve cade in inverno"],
+      "ru": ["Зима очень холодная", "Мне нравится зима", "Снег падает зимой"],
+      "es": ["El invierno es muy frío", "Me gusta el invierno", "La nieve cae en invierno"],
+      "pl": ["Zima jest bardzo zimna", "Lubię zimę", "Śnieg pada zimą"],
+      "fa": ["زمستان خیلی سرد است", "من زمستان را دوست دارم", "برف در زمستان می‌بارد"]
+    },
+    "conjugations": null
+  }
+]

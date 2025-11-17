@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_701_es",
+    "word": "ciudad",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "city",
+      "de": "Stadt",
+      "ar": "مدينة",
+      "fr": "ville",
+      "it": "città",
+      "ru": "город",
+      "es": "ciudad",
+      "pl": "miasto",
+      "fa": "شهر"
+    },
+    "explanations": {
+      "en": "Large urban area with many buildings and people",
+      "de": "Großes städtisches Gebiet mit vielen Gebäuden und Menschen",
+      "ar": "منطقة حضرية كبيرة بها العديد من المباني والناس",
+      "fr": "Grande zone urbaine avec de nombreux bâtiments et habitants",
+      "it": "Grande area urbana con molti edifici e persone",
+      "ru": "Большая городская территория со многими зданиями и людьми",
+      "es": "Área urbana grande con muchos edificios y personas",
+      "pl": "Duży obszar miejski z wieloma budynkami i ludźmi",
+      "fa": "منطقه شهری بزرگ با ساختمان‌ها و مردم زیاد"
+    },
+    "examples": {
+      "en": ["The city is big", "I live in the city", "She works in the city"],
+      "de": ["Die Stadt ist groß", "Ich wohne in der Stadt", "Sie arbeitet in der Stadt"],
+      "ar": ["المدينة كبيرة", "أنا أعيش في المدينة", "هي تعمل في المدينة"],
+      "fr": ["La ville est grande", "Je vis en ville", "Elle travaille en ville"],
+      "it": ["La città è grande", "Vivo in città", "Lei lavora in città"],
+      "ru": ["Город большой", "Я живу в городе", "Она работает в городе"],
+      "es": ["La ciudad es grande", "Yo vivo en la ciudad", "Ella trabaja en la ciudad"],
+      "pl": ["Miasto jest duże", "Mieszkam w mieście", "Ona pracuje w mieście"],
+      "fa": ["شهر بزرگ است", "من در شهر زندگی می‌کنم", "او در شهر کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_702_es",
+    "word": "pueblo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "town, village",
+      "de": "Dorf, Kleinstadt",
+      "ar": "بلدة، قرية",
+      "fr": "village, petite ville",
+      "it": "paese, villaggio",
+      "ru": "город, деревня",
+      "es": "pueblo",
+      "pl": "wieś, miasteczko",
+      "fa": "شهر کوچک، روستا"
+    },
+    "explanations": {
+      "en": "Small settlement smaller than a city",
+      "de": "Kleine Siedlung kleiner als eine Stadt",
+      "ar": "مستوطنة صغيرة أصغر من المدينة",
+      "fr": "Petite agglomération plus petite qu'une ville",
+      "it": "Piccolo insediamento più piccolo di una città",
+      "ru": "Небольшое поселение меньше города",
+      "es": "Asentamiento pequeño menor que una ciudad",
+      "pl": "Małe osiedle mniejsze niż miasto",
+      "fa": "سکونتگاه کوچک کوچکتر از شهر"
+    },
+    "examples": {
+      "en": ["My town is small", "I am from a village", "The town has a church"],
+      "de": ["Meine Stadt ist klein", "Ich komme aus einem Dorf", "Die Stadt hat eine Kirche"],
+      "ar": ["بلدتي صغيرة", "أنا من قرية", "البلدة بها كنيسة"],
+      "fr": ["Mon village est petit", "Je viens d'un village", "Le village a une église"],
+      "it": ["Il mio paese è piccolo", "Vengo da un villaggio", "Il paese ha una chiesa"],
+      "ru": ["Мой город маленький", "Я из деревни", "В городе есть церковь"],
+      "es": ["Mi pueblo es pequeño", "Yo soy de un pueblo", "El pueblo tiene una iglesia"],
+      "pl": ["Moja wieś jest mała", "Jestem ze wsi", "Wieś ma kościół"],
+      "fa": ["شهر کوچک من کوچک است", "من از یک روستا هستم", "شهر یک کلیسا دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_703_es",
+    "word": "aldea",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hamlet, small village",
+      "de": "Weiler, kleines Dorf",
+      "ar": "قرية صغيرة",
+      "fr": "hameau, petit village",
+      "it": "borgo, piccolo villaggio",
+      "ru": "деревушка, маленькая деревня",
+      "es": "aldea",
+      "pl": "wioska, mała wieś",
+      "fa": "ده، روستای کوچک"
+    },
+    "explanations": {
+      "en": "Very small rural settlement with few houses",
+      "de": "Sehr kleine ländliche Siedlung mit wenigen Häusern",
+      "ar": "مستوطنة ريفية صغيرة جداً بها منازل قليلة",
+      "fr": "Très petit établissement rural avec peu de maisons",
+      "it": "Insediamento rurale molto piccolo con poche case",
+      "ru": "Очень маленькое сельское поселение с несколькими домами",
+      "es": "Asentamiento rural muy pequeño con pocas casas",
+      "pl": "Bardzo mała osada wiejska z kilkoma domami",
+      "fa": "سکونتگاه روستایی بسیار کوچک با خانه‌های کم"
+    },
+    "examples": {
+      "en": ["The hamlet is quiet", "He lives in a hamlet", "Our hamlet has ten houses"],
+      "de": ["Der Weiler ist ruhig", "Er wohnt in einem Weiler", "Unser Weiler hat zehn Häuser"],
+      "ar": ["القرية هادئة", "هو يعيش في قرية صغيرة", "قريتنا بها عشرة منازل"],
+      "fr": ["Le hameau est calme", "Il habite dans un hameau", "Notre hameau a dix maisons"],
+      "it": ["Il borgo è tranquillo", "Lui vive in un borgo", "Il nostro borgo ha dieci case"],
+      "ru": ["Деревушка тихая", "Он живёт в деревушке", "В нашей деревушке десять домов"],
+      "es": ["La aldea es tranquila", "Él vive en una aldea", "Nuestra aldea tiene diez casas"],
+      "pl": ["Wioska jest cicha", "On mieszka w wiosce", "Nasza wioska ma dziesięć domów"],
+      "fa": ["ده آرام است", "او در یک ده زندگی می‌کند", "ده ما ده خانه دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_704_es",
+    "word": "calle",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "street",
+      "de": "Straße",
+      "ar": "شارع",
+      "fr": "rue",
+      "it": "strada",
+      "ru": "улица",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "explanations": {
+      "en": "Public road in a city or town",
+      "de": "Öffentliche Straße in einer Stadt",
+      "ar": "طريق عام في مدينة أو بلدة",
+      "fr": "Voie publique dans une ville",
+      "it": "Via pubblica in una città",
+      "ru": "Общественная дорога в городе",
+      "es": "Vía pública en una ciudad o pueblo",
+      "pl": "Droga publiczna w mieście",
+      "fa": "جاده عمومی در شهر"
+    },
+    "examples": {
+      "en": ["The street is long", "I walk on the street", "This street has many shops"],
+      "de": ["Die Straße ist lang", "Ich gehe auf der Straße", "Diese Straße hat viele Geschäfte"],
+      "ar": ["الشارع طويل", "أنا أمشي في الشارع", "هذا الشارع به محلات كثيرة"],
+      "fr": ["La rue est longue", "Je marche dans la rue", "Cette rue a beaucoup de magasins"],
+      "it": ["La strada è lunga", "Cammino per strada", "Questa strada ha molti negozi"],
+      "ru": ["Улица длинная", "Я иду по улице", "На этой улице много магазинов"],
+      "es": ["La calle es larga", "Yo camino en la calle", "Esta calle tiene muchas tiendas"],
+      "pl": ["Ulica jest długa", "Idę ulicą", "Ta ulica ma wiele sklepów"],
+      "fa": ["خیابان بلند است", "من در خیابان راه می‌روم", "این خیابان فروشگاه‌های زیادی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_705_es",
+    "word": "carretera",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "highway, road",
+      "de": "Autobahn, Landstraße",
+      "ar": "طريق سريع، طريق",
+      "fr": "autoroute, route",
+      "it": "autostrada, strada",
+      "ru": "шоссе, дорога",
+      "es": "carretera",
+      "pl": "autostrada, droga",
+      "fa": "بزرگراه، جاده"
+    },
+    "explanations": {
+      "en": "Major road connecting cities or towns",
+      "de": "Hauptstraße, die Städte verbindet",
+      "ar": "طريق رئيسي يربط المدن أو البلدات",
+      "fr": "Route principale reliant des villes",
+      "it": "Strada principale che collega città",
+      "ru": "Основная дорога, соединяющая города",
+      "es": "Vía principal que conecta ciudades o pueblos",
+      "pl": "Główna droga łącząca miasta",
+      "fa": "جاده اصلی که شهرها را به هم وصل می‌کند"
+    },
+    "examples": {
+      "en": ["The highway is fast", "We drive on the road", "This road goes to Madrid"],
+      "de": ["Die Autobahn ist schnell", "Wir fahren auf der Straße", "Diese Straße führt nach Madrid"],
+      "ar": ["الطريق السريع سريع", "نحن نقود على الطريق", "هذا الطريق يذهب إلى مدريد"],
+      "fr": ["L'autoroute est rapide", "Nous roulons sur la route", "Cette route va à Madrid"],
+      "it": ["L'autostrada è veloce", "Guidiamo sulla strada", "Questa strada va a Madrid"],
+      "ru": ["Шоссе быстрое", "Мы едем по дороге", "Эта дорога идёт в Мадрид"],
+      "es": ["La carretera es rápida", "Nosotros vamos en la carretera", "Esta carretera va a Madrid"],
+      "pl": ["Autostrada jest szybka", "Jedziemy drogą", "Ta droga prowadzi do Madrytu"],
+      "fa": ["بزرگراه سریع است", "ما در جاده رانندگی می‌کنیم", "این جاده به مادرید می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_706_es",
+    "word": "edificio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "building",
+      "de": "Gebäude",
+      "ar": "مبنى",
+      "fr": "bâtiment",
+      "it": "edificio",
+      "ru": "здание",
+      "es": "edificio",
+      "pl": "budynek",
+      "fa": "ساختمان"
+    },
+    "explanations": {
+      "en": "Structure with walls and roof for people or activities",
+      "de": "Struktur mit Wänden und Dach für Menschen oder Aktivitäten",
+      "ar": "هيكل له جدران وسقف للناس أو الأنشطة",
+      "fr": "Structure avec des murs et un toit pour personnes ou activités",
+      "it": "Struttura con pareti e tetto per persone o attività",
+      "ru": "Сооружение со стенами и крышей для людей или деятельности",
+      "es": "Estructura con paredes y techo para personas o actividades",
+      "pl": "Konstrukcja ze ścianami i dachem dla ludzi lub działalności",
+      "fa": "سازه‌ای با دیوارها و سقف برای مردم یا فعالیت‌ها"
+    },
+    "examples": {
+      "en": ["The building is tall", "I work in that building", "This building is new"],
+      "de": ["Das Gebäude ist hoch", "Ich arbeite in dem Gebäude", "Dieses Gebäude ist neu"],
+      "ar": ["المبنى طويل", "أنا أعمل في ذلك المبنى", "هذا المبنى جديد"],
+      "fr": ["Le bâtiment est haut", "Je travaille dans ce bâtiment", "Ce bâtiment est nouveau"],
+      "it": ["L'edificio è alto", "Lavoro in quell'edificio", "Questo edificio è nuovo"],
+      "ru": ["Здание высокое", "Я работаю в том здании", "Это здание новое"],
+      "es": ["El edificio es alto", "Yo trabajo en ese edificio", "Este edificio es nuevo"],
+      "pl": ["Budynek jest wysoki", "Pracuję w tym budynku", "Ten budynek jest nowy"],
+      "fa": ["ساختمان بلند است", "من در آن ساختمان کار می‌کنم", "این ساختمان جدید است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_707_es",
+    "word": "puente",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bridge",
+      "de": "Brücke",
+      "ar": "جسر",
+      "fr": "pont",
+      "it": "ponte",
+      "ru": "мост",
+      "es": "puente",
+      "pl": "most",
+      "fa": "پل"
+    },
+    "explanations": {
+      "en": "Structure built over water or road for crossing",
+      "de": "Bauwerk über Wasser oder Straße zum Überqueren",
+      "ar": "هيكل مبني فوق الماء أو الطريق للعبور",
+      "fr": "Structure construite au-dessus de l'eau ou d'une route",
+      "it": "Struttura costruita sopra acqua o strada per attraversare",
+      "ru": "Сооружение, построенное над водой или дорогой для перехода",
+      "es": "Estructura construida sobre agua o carretera para cruzar",
+      "pl": "Konstrukcja zbudowana nad wodą lub drogą do przekraczania",
+      "fa": "سازه‌ای که روی آب یا جاده برای عبور ساخته شده"
+    },
+    "examples": {
+      "en": ["The bridge is long", "We cross the bridge", "This bridge is old"],
+      "de": ["Die Brücke ist lang", "Wir überqueren die Brücke", "Diese Brücke ist alt"],
+      "ar": ["الجسر طويل", "نحن نعبر الجسر", "هذا الجسر قديم"],
+      "fr": ["Le pont est long", "Nous traversons le pont", "Ce pont est vieux"],
+      "it": ["Il ponte è lungo", "Attraversiamo il ponte", "Questo ponte è vecchio"],
+      "ru": ["Мост длинный", "Мы переходим мост", "Этот мост старый"],
+      "es": ["El puente es largo", "Nosotros cruzamos el puente", "Este puente es viejo"],
+      "pl": ["Most jest długi", "Przechodzimy przez most", "Ten most jest stary"],
+      "fa": ["پل بلند است", "ما از پل عبور می‌کنیم", "این پل قدیمی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_708_es",
+    "word": "parque",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "park",
+      "de": "Park",
+      "ar": "حديقة",
+      "fr": "parc",
+      "it": "parco",
+      "ru": "парк",
+      "es": "parque",
+      "pl": "park",
+      "fa": "پارک"
+    },
+    "explanations": {
+      "en": "Public green space for recreation and relaxation",
+      "de": "Öffentliche Grünfläche zur Erholung und Entspannung",
+      "ar": "مساحة خضراء عامة للترفيه والاسترخاء",
+      "fr": "Espace vert public pour loisirs et détente",
+      "it": "Spazio verde pubblico per svago e relax",
+      "ru": "Общественная зелёная зона для отдыха и релаксации",
+      "es": "Espacio verde público para recreación y relajación",
+      "pl": "Publiczny teren zielony do rekreacji i relaksu",
+      "fa": "فضای سبز عمومی برای تفریح و استراحت"
+    },
+    "examples": {
+      "en": ["The park is beautiful", "I walk in the park", "Children play in the park"],
+      "de": ["Der Park ist schön", "Ich gehe im Park", "Kinder spielen im Park"],
+      "ar": ["الحديقة جميلة", "أنا أمشي في الحديقة", "الأطفال يلعبون في الحديقة"],
+      "fr": ["Le parc est beau", "Je marche dans le parc", "Les enfants jouent dans le parc"],
+      "it": ["Il parco è bello", "Cammino nel parco", "I bambini giocano nel parco"],
+      "ru": ["Парк красивый", "Я гуляю в парке", "Дети играют в парке"],
+      "es": ["El parque es bonito", "Yo camino en el parque", "Los niños juegan en el parque"],
+      "pl": ["Park jest piękny", "Spaceruję w parku", "Dzieci bawią się w parku"],
+      "fa": ["پارک زیباست", "من در پارک راه می‌روم", "بچه‌ها در پارک بازی می‌کنند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_709_es",
+    "word": "tienda",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shop, store",
+      "de": "Laden, Geschäft",
+      "ar": "متجر",
+      "fr": "magasin, boutique",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "فروشگاه، مغازه"
+    },
+    "explanations": {
+      "en": "Place where goods are sold to customers",
+      "de": "Ort, wo Waren an Kunden verkauft werden",
+      "ar": "مكان يتم فيه بيع البضائع للعملاء",
+      "fr": "Lieu où les marchandises sont vendues aux clients",
+      "it": "Luogo dove le merci vengono vendute ai clienti",
+      "ru": "Место, где товары продаются покупателям",
+      "es": "Lugar donde se venden productos a clientes",
+      "pl": "Miejsce, gdzie towary są sprzedawane klientom",
+      "fa": "جایی که کالاها به مشتریان فروخته می‌شود"
+    },
+    "examples": {
+      "en": ["The store is open", "I buy in this shop", "She works in a store"],
+      "de": ["Der Laden ist offen", "Ich kaufe in diesem Geschäft", "Sie arbeitet in einem Laden"],
+      "ar": ["المتجر مفتوح", "أنا أشتري في هذا المتجر", "هي تعمل في متجر"],
+      "fr": ["Le magasin est ouvert", "J'achète dans cette boutique", "Elle travaille dans un magasin"],
+      "it": ["Il negozio è aperto", "Compro in questo negozio", "Lei lavora in un negozio"],
+      "ru": ["Магазин открыт", "Я покупаю в этом магазине", "Она работает в магазине"],
+      "es": ["La tienda está abierta", "Yo compro en esta tienda", "Ella trabaja en una tienda"],
+      "pl": ["Sklep jest otwarty", "Kupuję w tym sklepie", "Ona pracuje w sklepie"],
+      "fa": ["فروشگاه باز است", "من در این مغازه خرید می‌کنم", "او در فروشگاه کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_710_es",
+    "word": "restaurante",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "restaurant",
+      "de": "Restaurant",
+      "ar": "مطعم",
+      "fr": "restaurant",
+      "it": "ristorante",
+      "ru": "ресторан",
+      "es": "restaurante",
+      "pl": "restauracja",
+      "fa": "رستوران"
+    },
+    "explanations": {
+      "en": "Place where meals are prepared and served",
+      "de": "Ort, wo Mahlzeiten zubereitet und serviert werden",
+      "ar": "مكان يتم فيه إعداد وتقديم الوجبات",
+      "fr": "Lieu où les repas sont préparés et servis",
+      "it": "Luogo dove i pasti vengono preparati e serviti",
+      "ru": "Место, где готовятся и подаются блюда",
+      "es": "Lugar donde se preparan y sirven comidas",
+      "pl": "Miejsce, gdzie posiłki są przygotowywane i podawane",
+      "fa": "جایی که غذاها آماده و سرو می‌شوند"
+    },
+    "examples": {
+      "en": ["The restaurant is good", "We eat at the restaurant", "This restaurant has good food"],
+      "de": ["Das Restaurant ist gut", "Wir essen im Restaurant", "Dieses Restaurant hat gutes Essen"],
+      "ar": ["المطعم جيد", "نحن نأكل في المطعم", "هذا المطعم لديه طعام جيد"],
+      "fr": ["Le restaurant est bon", "Nous mangeons au restaurant", "Ce restaurant a bonne nourriture"],
+      "it": ["Il ristorante è buono", "Mangiamo al ristorante", "Questo ristorante ha buon cibo"],
+      "ru": ["Ресторан хороший", "Мы едим в ресторане", "В этом ресторане хорошая еда"],
+      "es": ["El restaurante es bueno", "Nosotros comemos en el restaurante", "Este restaurante tiene buena comida"],
+      "pl": ["Restauracja jest dobra", "Jemy w restauracji", "Ta restauracja ma dobre jedzenie"],
+      "fa": ["رستوران خوب است", "ما در رستوران غذا می‌خوریم", "این رستوران غذای خوبی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_711_es",
+    "word": "hotel",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hotel",
+      "de": "Hotel",
+      "ar": "فندق",
+      "fr": "hôtel",
+      "it": "hotel",
+      "ru": "отель",
+      "es": "hotel",
+      "pl": "hotel",
+      "fa": "هتل"
+    },
+    "explanations": {
+      "en": "Building where travelers pay to stay overnight",
+      "de": "Gebäude, wo Reisende für Übernachtung bezahlen",
+      "ar": "مبنى حيث يدفع المسافرون للبقاء طوال الليل",
+      "fr": "Bâtiment où les voyageurs paient pour passer la nuit",
+      "it": "Edificio dove i viaggiatori pagano per pernottare",
+      "ru": "Здание, где путешественники платят за ночлег",
+      "es": "Edificio donde viajeros pagan para quedarse de noche",
+      "pl": "Budynek, gdzie podróżni płacą za nocleg",
+      "fa": "ساختمانی که مسافران برای اقامت شبانه پول می‌پردازند"
+    },
+    "examples": {
+      "en": ["The hotel is nice", "We stay at a hotel", "This hotel is expensive"],
+      "de": ["Das Hotel ist schön", "Wir übernachten in einem Hotel", "Dieses Hotel ist teuer"],
+      "ar": ["الفندق جميل", "نحن نقيم في فندق", "هذا الفندق غالي"],
+      "fr": ["L'hôtel est agréable", "Nous restons à l'hôtel", "Cet hôtel est cher"],
+      "it": ["L'hotel è carino", "Alloggiamo in un hotel", "Questo hotel è costoso"],
+      "ru": ["Отель хороший", "Мы остановились в отеле", "Этот отель дорогой"],
+      "es": ["El hotel es bonito", "Nosotros nos quedamos en un hotel", "Este hotel es caro"],
+      "pl": ["Hotel jest ładny", "Zatrzymujemy się w hotelu", "Ten hotel jest drogi"],
+      "fa": ["هتل خوب است", "ما در هتل می‌مانیم", "این هتل گران است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_712_es",
+    "word": "hospital",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hospital",
+      "de": "Krankenhaus",
+      "ar": "مستشفى",
+      "fr": "hôpital",
+      "it": "ospedale",
+      "ru": "больница",
+      "es": "hospital",
+      "pl": "szpital",
+      "fa": "بیمارستان"
+    },
+    "explanations": {
+      "en": "Medical facility where sick people receive treatment",
+      "de": "Medizinische Einrichtung, wo kranke Menschen behandelt werden",
+      "ar": "منشأة طبية حيث يتلقى المرضى العلاج",
+      "fr": "Établissement médical où les malades reçoivent des soins",
+      "it": "Struttura medica dove i malati ricevono cure",
+      "ru": "Медицинское учреждение, где больные получают лечение",
+      "es": "Instalación médica donde personas enfermas reciben tratamiento",
+      "pl": "Placówka medyczna, gdzie chorzy otrzymują leczenie",
+      "fa": "مرکز پزشکی که بیماران درمان می‌شوند"
+    },
+    "examples": {
+      "en": ["The hospital is big", "He is in the hospital", "She works at a hospital"],
+      "de": ["Das Krankenhaus ist groß", "Er ist im Krankenhaus", "Sie arbeitet in einem Krankenhaus"],
+      "ar": ["المستشفى كبير", "هو في المستشفى", "هي تعمل في مستشفى"],
+      "fr": ["L'hôpital est grand", "Il est à l'hôpital", "Elle travaille à l'hôpital"],
+      "it": ["L'ospedale è grande", "Lui è in ospedale", "Lei lavora in ospedale"],
+      "ru": ["Больница большая", "Он в больнице", "Она работает в больнице"],
+      "es": ["El hospital es grande", "Él está en el hospital", "Ella trabaja en un hospital"],
+      "pl": ["Szpital jest duży", "On jest w szpitalu", "Ona pracuje w szpitalu"],
+      "fa": ["بیمارستان بزرگ است", "او در بیمارستان است", "او در بیمارستان کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_713_es",
+    "word": "banco",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bank, bench",
+      "de": "Bank",
+      "ar": "بنك، مقعد",
+      "fr": "banque, banc",
+      "it": "banca, panchina",
+      "ru": "банк, скамейка",
+      "es": "banco",
+      "pl": "bank, ławka",
+      "fa": "بانک، نیمکت"
+    },
+    "explanations": {
+      "en": "Financial institution or seat for sitting",
+      "de": "Finanzinstitut oder Sitzgelegenheit",
+      "ar": "مؤسسة مالية أو مقعد للجلوس",
+      "fr": "Institution financière ou siège pour s'asseoir",
+      "it": "Istituto finanziario o sedile per sedersi",
+      "ru": "Финансовое учреждение или место для сидения",
+      "es": "Institución financiera o asiento para sentarse",
+      "pl": "Instytucja finansowa lub siedzisko do siedzenia",
+      "fa": "موسسه مالی یا صندلی برای نشستن"
+    },
+    "examples": {
+      "en": ["The bank is open", "I sit on the bench", "She goes to the bank"],
+      "de": ["Die Bank ist offen", "Ich sitze auf der Bank", "Sie geht zur Bank"],
+      "ar": ["البنك مفتوح", "أنا أجلس على المقعد", "هي تذهب إلى البنك"],
+      "fr": ["La banque est ouverte", "Je m'assieds sur le banc", "Elle va à la banque"],
+      "it": ["La banca è aperta", "Mi siedo sulla panchina", "Lei va in banca"],
+      "ru": ["Банк открыт", "Я сижу на скамейке", "Она идёт в банк"],
+      "es": ["El banco está abierto", "Yo me siento en el banco", "Ella va al banco"],
+      "pl": ["Bank jest otwarty", "Siedzę na ławce", "Ona idzie do banku"],
+      "fa": ["بانک باز است", "من روی نیمکت می‌نشینم", "او به بانک می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_714_es",
+    "word": "correo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "post office, mail",
+      "de": "Post, Mail",
+      "ar": "مكتب البريد، البريد",
+      "fr": "poste, courrier",
+      "it": "posta, mail",
+      "ru": "почта",
+      "es": "correo",
+      "pl": "poczta, mail",
+      "fa": "اداره پست، پست"
+    },
+    "explanations": {
+      "en": "Postal service or electronic messages",
+      "de": "Postdienst oder elektronische Nachrichten",
+      "ar": "خدمة البريد أو الرسائل الإلكترونية",
+      "fr": "Service postal ou messages électroniques",
+      "it": "Servizio postale o messaggi elettronici",
+      "ru": "Почтовая служба или электронные сообщения",
+      "es": "Servicio postal o mensajes electrónicos",
+      "pl": "Usługa pocztowa lub wiadomości elektroniczne",
+      "fa": "خدمات پستی یا پیام‌های الکترونیکی"
+    },
+    "examples": {
+      "en": ["The post office is near", "I send mail today", "She checks her email"],
+      "de": ["Die Post ist nah", "Ich schicke Post heute", "Sie prüft ihre E-Mail"],
+      "ar": ["مكتب البريد قريب", "أنا أرسل البريد اليوم", "هي تفحص بريدها الإلكتروني"],
+      "fr": ["La poste est proche", "J'envoie du courrier aujourd'hui", "Elle vérifie son mail"],
+      "it": ["La posta è vicina", "Mando posta oggi", "Lei controlla la sua mail"],
+      "ru": ["Почта близко", "Я отправляю почту сегодня", "Она проверяет свою почту"],
+      "es": ["El correo está cerca", "Yo envío correo hoy", "Ella revisa su correo electrónico"],
+      "pl": ["Poczta jest blisko", "Wysyłam pocztę dziś", "Ona sprawdza swoją pocztę"],
+      "fa": ["اداره پست نزدیک است", "من امروز پست می‌فرستم", "او ایمیلش را چک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_715_es",
+    "word": "oficina",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "office",
+      "de": "Büro",
+      "ar": "مكتب",
+      "fr": "bureau",
+      "it": "ufficio",
+      "ru": "офис",
+      "es": "oficina",
+      "pl": "biuro",
+      "fa": "دفتر"
+    },
+    "explanations": {
+      "en": "Room or building where business work is done",
+      "de": "Raum oder Gebäude, wo geschäftliche Arbeit erledigt wird",
+      "ar": "غرفة أو مبنى حيث يتم العمل التجاري",
+      "fr": "Pièce ou bâtiment où le travail de bureau est fait",
+      "it": "Stanza o edificio dove si svolge lavoro d'ufficio",
+      "ru": "Помещение или здание, где выполняется деловая работа",
+      "es": "Habitación o edificio donde se hace trabajo de negocios",
+      "pl": "Pokój lub budynek, gdzie wykonywana jest praca biurowa",
+      "fa": "اتاق یا ساختمانی که کار اداری انجام می‌شود"
+    },
+    "examples": {
+      "en": ["The office is clean", "I work in an office", "Her office is big"],
+      "de": ["Das Büro ist sauber", "Ich arbeite in einem Büro", "Ihr Büro ist groß"],
+      "ar": ["المكتب نظيف", "أنا أعمل في مكتب", "مكتبها كبير"],
+      "fr": ["Le bureau est propre", "Je travaille dans un bureau", "Son bureau est grand"],
+      "it": ["L'ufficio è pulito", "Lavoro in un ufficio", "Il suo ufficio è grande"],
+      "ru": ["Офис чистый", "Я работаю в офисе", "Её офис большой"],
+      "es": ["La oficina está limpia", "Yo trabajo en una oficina", "Su oficina es grande"],
+      "pl": ["Biuro jest czyste", "Pracuję w biurze", "Jej biuro jest duże"],
+      "fa": ["دفتر تمیز است", "من در دفتر کار می‌کنم", "دفتر او بزرگ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_716_es",
+    "word": "estación",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "station, season",
+      "de": "Bahnhof, Jahreszeit",
+      "ar": "محطة، فصل",
+      "fr": "gare, saison",
+      "it": "stazione, stagione",
+      "ru": "станция, сезон",
+      "es": "estación",
+      "pl": "stacja, pora roku",
+      "fa": "ایستگاه، فصل"
+    },
+    "explanations": {
+      "en": "Place for trains or buses, or period of year",
+      "de": "Ort für Züge oder Busse, oder Jahreszeit",
+      "ar": "مكان للقطارات أو الحافلات، أو فترة من السنة",
+      "fr": "Lieu pour trains ou bus, ou période de l'année",
+      "it": "Luogo per treni o autobus, o periodo dell'anno",
+      "ru": "Место для поездов или автобусов, или период года",
+      "es": "Lugar para trenes o autobuses, o período del año",
+      "pl": "Miejsce dla pociągów lub autobusów, lub okres roku",
+      "fa": "محل قطارها یا اتوبوس‌ها، یا دوره‌ای از سال"
+    },
+    "examples": {
+      "en": ["The station is near", "I wait at the station", "Summer is my favorite season"],
+      "de": ["Der Bahnhof ist nah", "Ich warte am Bahnhof", "Sommer ist meine Lieblingsjahreszeit"],
+      "ar": ["المحطة قريبة", "أنا أنتظر في المحطة", "الصيف هو فصلي المفضل"],
+      "fr": ["La gare est proche", "J'attends à la gare", "L'été est ma saison préférée"],
+      "it": ["La stazione è vicina", "Aspetto alla stazione", "L'estate è la mia stagione preferita"],
+      "ru": ["Станция близко", "Я жду на станции", "Лето мой любимый сезон"],
+      "es": ["La estación está cerca", "Yo espero en la estación", "El verano es mi estación favorita"],
+      "pl": ["Stacja jest blisko", "Czekam na stacji", "Lato jest moją ulubioną porą roku"],
+      "fa": ["ایستگاه نزدیک است", "من در ایستگاه منتظرم", "تابستان فصل محبوب من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_717_es",
+    "word": "aeropuerto",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "airport",
+      "de": "Flughafen",
+      "ar": "مطار",
+      "fr": "aéroport",
+      "it": "aeroporto",
+      "ru": "аэропорт",
+      "es": "aeropuerto",
+      "pl": "lotnisko",
+      "fa": "فرودگاه"
+    },
+    "explanations": {
+      "en": "Place where airplanes take off and land",
+      "de": "Ort, wo Flugzeuge starten und landen",
+      "ar": "مكان حيث تقلع وتهبط الطائرات",
+      "fr": "Lieu où les avions décollent et atterrissent",
+      "it": "Luogo dove gli aerei decollano e atterrano",
+      "ru": "Место, где самолёты взлетают и приземляются",
+      "es": "Lugar donde aviones despegan y aterrizan",
+      "pl": "Miejsce, gdzie samoloty startują i lądują",
+      "fa": "جایی که هواپیماها بلند و فرود می‌آیند"
+    },
+    "examples": {
+      "en": ["The airport is busy", "We go to the airport", "This airport is international"],
+      "de": ["Der Flughafen ist voll", "Wir fahren zum Flughafen", "Dieser Flughafen ist international"],
+      "ar": ["المطار مزدحم", "نحن نذهب إلى المطار", "هذا المطار دولي"],
+      "fr": ["L'aéroport est occupé", "Nous allons à l'aéroport", "Cet aéroport est international"],
+      "it": ["L'aeroporto è affollato", "Andiamo all'aeroporto", "Questo aeroporto è internazionale"],
+      "ru": ["Аэропорт занят", "Мы едем в аэропорт", "Этот аэропорт международный"],
+      "es": ["El aeropuerto está lleno", "Nosotros vamos al aeropuerto", "Este aeropuerto es internacional"],
+      "pl": ["Lotnisko jest zajęte", "Jedziemy na lotnisko", "To lotnisko jest międzynarodowe"],
+      "fa": ["فرودگاه شلوغ است", "ما به فرودگاه می‌رویم", "این فرودگاه بین‌المللی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_718_es",
+    "word": "autobús",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bus",
+      "de": "Bus",
+      "ar": "حافلة",
+      "fr": "bus, autobus",
+      "it": "autobus",
+      "ru": "автобус",
+      "es": "autobús",
+      "pl": "autobus",
+      "fa": "اتوبوس"
+    },
+    "explanations": {
+      "en": "Large vehicle for transporting many passengers",
+      "de": "Großes Fahrzeug zum Transport vieler Passagiere",
+      "ar": "مركبة كبيرة لنقل العديد من الركاب",
+      "fr": "Grand véhicule pour transporter de nombreux passagers",
+      "it": "Veicolo grande per trasportare molti passeggeri",
+      "ru": "Большой транспорт для перевозки многих пассажиров",
+      "es": "Vehículo grande para transportar muchos pasajeros",
+      "pl": "Duży pojazd do przewozu wielu pasażerów",
+      "fa": "وسیله نقلیه بزرگ برای حمل مسافران زیاد"
+    },
+    "examples": {
+      "en": ["The bus is late", "I take the bus", "This bus goes downtown"],
+      "de": ["Der Bus ist spät", "Ich nehme den Bus", "Dieser Bus fährt in die Stadt"],
+      "ar": ["الحافلة متأخرة", "أنا آخذ الحافلة", "هذه الحافلة تذهب إلى وسط المدينة"],
+      "fr": ["Le bus est en retard", "Je prends le bus", "Ce bus va au centre-ville"],
+      "it": ["L'autobus è in ritardo", "Prendo l'autobus", "Questo autobus va in centro"],
+      "ru": ["Автобус опаздывает", "Я еду на автобусе", "Этот автобус идёт в центр"],
+      "es": ["El autobús llega tarde", "Yo tomo el autobús", "Este autobús va al centro"],
+      "pl": ["Autobus się spóźnia", "Jadę autobusem", "Ten autobus jedzie do centrum"],
+      "fa": ["اتوبوس دیر کرده", "من با اتوبوس می‌روم", "این اتوبوس به مرکز شهر می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_719_es",
+    "word": "tren",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "train",
+      "de": "Zug",
+      "ar": "قطار",
+      "fr": "train",
+      "it": "treno",
+      "ru": "поезд",
+      "es": "tren",
+      "pl": "pociąg",
+      "fa": "قطار"
+    },
+    "explanations": {
+      "en": "Rail vehicle for transporting passengers or goods",
+      "de": "Schienenfahrzeug zum Transport von Passagieren oder Gütern",
+      "ar": "مركبة سكة حديد لنقل الركاب أو البضائع",
+      "fr": "Véhicule ferroviaire pour transporter passagers ou marchandises",
+      "it": "Veicolo ferroviario per trasportare passeggeri o merci",
+      "ru": "Железнодорожный транспорт для перевозки пассажиров или грузов",
+      "es": "Vehículo ferroviario para transportar pasajeros o mercancías",
+      "pl": "Pojazd szynowy do przewozu pasażerów lub towarów",
+      "fa": "وسیله نقلیه ریلی برای حمل مسافر یا کالا"
+    },
+    "examples": {
+      "en": ["The train is fast", "We travel by train", "This train goes to Paris"],
+      "de": ["Der Zug ist schnell", "Wir reisen mit dem Zug", "Dieser Zug fährt nach Paris"],
+      "ar": ["القطار سريع", "نحن نسافر بالقطار", "هذا القطار يذهب إلى باريس"],
+      "fr": ["Le train est rapide", "Nous voyageons en train", "Ce train va à Paris"],
+      "it": ["Il treno è veloce", "Viaggiamo in treno", "Questo treno va a Parigi"],
+      "ru": ["Поезд быстрый", "Мы путешествуем поездом", "Этот поезд идёт в Париж"],
+      "es": ["El tren es rápido", "Nosotros viajamos en tren", "Este tren va a París"],
+      "pl": ["Pociąg jest szybki", "Podróżujemy pociągiem", "Ten pociąg jedzie do Paryża"],
+      "fa": ["قطار سریع است", "ما با قطار سفر می‌کنیم", "این قطار به پاریس می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_720_es",
+    "word": "metro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "subway, metro, meter",
+      "de": "U-Bahn, Metro, Meter",
+      "ar": "مترو، متر",
+      "fr": "métro, mètre",
+      "it": "metropolitana, metro",
+      "ru": "метро, метр",
+      "es": "metro",
+      "pl": "metro",
+      "fa": "مترو، متر"
+    },
+    "explanations": {
+      "en": "Underground train system or unit of length",
+      "de": "Untergrundbahnanlage oder Längeneinheit",
+      "ar": "نظام القطار تحت الأرض أو وحدة الطول",
+      "fr": "Système de train souterrain ou unité de longueur",
+      "it": "Sistema ferroviario sotterraneo o unità di lunghezza",
+      "ru": "Подземная железная дорога или единица длины",
+      "es": "Sistema de tren subterráneo o unidad de longitud",
+      "pl": "Podziemny system kolejowy lub jednostka długości",
+      "fa": "سیستم قطار زیرزمینی یا واحد طول"
+    },
+    "examples": {
+      "en": ["The metro is fast", "I use the subway", "This is one meter long"],
+      "de": ["Die U-Bahn ist schnell", "Ich benutze die Metro", "Das ist ein Meter lang"],
+      "ar": ["المترو سريع", "أنا أستخدم المترو", "هذا طوله متر واحد"],
+      "fr": ["Le métro est rapide", "J'utilise le métro", "Ceci mesure un mètre"],
+      "it": ["La metropolitana è veloce", "Uso la metro", "Questo è lungo un metro"],
+      "ru": ["Метро быстрое", "Я езжу на метро", "Это один метр длиной"],
+      "es": ["El metro es rápido", "Yo uso el metro", "Esto mide un metro de largo"],
+      "pl": ["Metro jest szybkie", "Korzystam z metra", "To ma jeden metr długości"],
+      "fa": ["مترو سریع است", "من از مترو استفاده می‌کنم", "این یک متر طول دارد"]
+    },
+    "conjugations": null
+  }
+]

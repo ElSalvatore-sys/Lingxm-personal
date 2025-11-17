@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_761_es",
+    "word": "feliz",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "happy",
+      "de": "glücklich",
+      "ar": "سعيد",
+      "fr": "heureux",
+      "it": "felice",
+      "ru": "счастливый",
+      "es": "feliz",
+      "pl": "szczęśliwy",
+      "fa": "خوشحال"
+    },
+    "explanations": {
+      "en": "Feeling or showing pleasure and contentment",
+      "de": "Freude und Zufriedenheit fühlen oder zeigen",
+      "ar": "الشعور أو إظهار السرور والرضا",
+      "fr": "Ressentir ou montrer du plaisir et de la satisfaction",
+      "it": "Sentire o mostrare piacere e contentezza",
+      "ru": "Чувствовать или показывать удовольствие и удовлетворение",
+      "es": "Sentir o mostrar placer y satisfacción",
+      "pl": "Odczuwanie lub pokazywanie przyjemności i zadowolenia",
+      "fa": "احساس یا نشان دادن لذت و رضایت"
+    },
+    "examples": {
+      "en": ["I am happy today", "She is very happy", "We are happy here"],
+      "de": ["Ich bin heute glücklich", "Sie ist sehr glücklich", "Wir sind hier glücklich"],
+      "ar": ["أنا سعيد اليوم", "هي سعيدة جداً", "نحن سعداء هنا"],
+      "fr": ["Je suis heureux aujourd'hui", "Elle est très heureuse", "Nous sommes heureux ici"],
+      "it": ["Sono felice oggi", "Lei è molto felice", "Siamo felici qui"],
+      "ru": ["Я счастлив сегодня", "Она очень счастлива", "Мы счастливы здесь"],
+      "es": ["Yo estoy feliz hoy", "Ella está muy feliz", "Nosotros estamos felices aquí"],
+      "pl": ["Jestem szczęśliwy dziś", "Ona jest bardzo szczęśliwa", "Jesteśmy szczęśliwi tutaj"],
+      "fa": ["من امروز خوشحالم", "او خیلی خوشحال است", "ما اینجا خوشحالیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_762_es",
+    "word": "triste",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sad",
+      "de": "traurig",
+      "ar": "حزين",
+      "fr": "triste",
+      "it": "triste",
+      "ru": "грустный",
+      "es": "triste",
+      "pl": "smutny",
+      "fa": "غمگین"
+    },
+    "explanations": {
+      "en": "Feeling or showing sorrow and unhappiness",
+      "de": "Trauer und Unglück fühlen oder zeigen",
+      "ar": "الشعور أو إظهار الحزن والتعاسة",
+      "fr": "Ressentir ou montrer du chagrin et du malheur",
+      "it": "Sentire o mostrare dolore e infelicità",
+      "ru": "Чувствовать или показывать печаль и несчастье",
+      "es": "Sentir o mostrar pena e infelicidad",
+      "pl": "Odczuwanie lub pokazywanie smutku i nieszczęścia",
+      "fa": "احساس یا نشان دادن غم و ناخوشی"
+    },
+    "examples": {
+      "en": ["I am sad today", "He is very sad", "Why are you sad?"],
+      "de": ["Ich bin heute traurig", "Er ist sehr traurig", "Warum bist du traurig?"],
+      "ar": ["أنا حزين اليوم", "هو حزين جداً", "لماذا أنت حزين؟"],
+      "fr": ["Je suis triste aujourd'hui", "Il est très triste", "Pourquoi es-tu triste?"],
+      "it": ["Sono triste oggi", "Lui è molto triste", "Perché sei triste?"],
+      "ru": ["Я грустный сегодня", "Он очень грустный", "Почему ты грустный?"],
+      "es": ["Yo estoy triste hoy", "Él está muy triste", "¿Por qué estás triste?"],
+      "pl": ["Jestem smutny dziś", "On jest bardzo smutny", "Dlaczego jesteś smutny?"],
+      "fa": ["من امروز غمگینم", "او خیلی غمگین است", "چرا غمگینی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_763_es",
+    "word": "enojado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "angry, mad",
+      "de": "wütend, böse",
+      "ar": "غاضب",
+      "fr": "en colère, fâché",
+      "it": "arrabbiato",
+      "ru": "злой, сердитый",
+      "es": "enojado",
+      "pl": "zły, wściekły",
+      "fa": "عصبانی"
+    },
+    "explanations": {
+      "en": "Feeling or showing strong displeasure or hostility",
+      "de": "Starkes Missfallen oder Feindseligkeit fühlen oder zeigen",
+      "ar": "الشعور أو إظهار استياء شديد أو عداء",
+      "fr": "Ressentir ou montrer un fort mécontentement ou hostilité",
+      "it": "Sentire o mostrare forte dispiacere o ostilità",
+      "ru": "Чувствовать или показывать сильное недовольство или враждебность",
+      "es": "Sentir o mostrar fuerte disgusto u hostilidad",
+      "pl": "Odczuwanie lub pokazywanie silnego niezadowolenia lub wrogości",
+      "fa": "احساس یا نشان دادن نارضایتی یا خصومت شدید"
+    },
+    "examples": {
+      "en": ["I am angry now", "She is very angry", "He is angry with me"],
+      "de": ["Ich bin jetzt wütend", "Sie ist sehr wütend", "Er ist wütend auf mich"],
+      "ar": ["أنا غاضب الآن", "هي غاضبة جداً", "هو غاضب مني"],
+      "fr": ["Je suis en colère maintenant", "Elle est très en colère", "Il est fâché contre moi"],
+      "it": ["Sono arrabbiato ora", "Lei è molto arrabbiata", "Lui è arrabbiato con me"],
+      "ru": ["Я злой сейчас", "Она очень злая", "Он зол на меня"],
+      "es": ["Yo estoy enojado ahora", "Ella está muy enojada", "Él está enojado conmigo"],
+      "pl": ["Jestem zły teraz", "Ona jest bardzo zła", "On jest zły na mnie"],
+      "fa": ["من الان عصبانی هستم", "او خیلی عصبانی است", "او از من عصبانی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_764_es",
+    "word": "asustado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "scared, frightened",
+      "de": "verängstigt, erschrocken",
+      "ar": "خائف، مذعور",
+      "fr": "effrayé, apeuré",
+      "it": "spaventato",
+      "ru": "испуганный",
+      "es": "asustado",
+      "pl": "przestraszony",
+      "fa": "ترسیده"
+    },
+    "explanations": {
+      "en": "Feeling fear or anxiety about something",
+      "de": "Angst oder Besorgnis über etwas fühlen",
+      "ar": "الشعور بالخوف أو القلق من شيء ما",
+      "fr": "Ressentir de la peur ou de l'anxiété à propos de quelque chose",
+      "it": "Sentire paura o ansia riguardo a qualcosa",
+      "ru": "Чувствовать страх или тревогу о чём-то",
+      "es": "Sentir miedo o ansiedad sobre algo",
+      "pl": "Odczuwanie strachu lub niepokoju o coś",
+      "fa": "احساس ترس یا اضطراب درباره چیزی"
+    },
+    "examples": {
+      "en": ["I am scared now", "She is very scared", "The child is scared"],
+      "de": ["Ich bin jetzt verängstigt", "Sie ist sehr verängstigt", "Das Kind ist verängstigt"],
+      "ar": ["أنا خائف الآن", "هي خائفة جداً", "الطفل خائف"],
+      "fr": ["J'ai peur maintenant", "Elle a très peur", "L'enfant a peur"],
+      "it": ["Sono spaventato ora", "Lei è molto spaventata", "Il bambino è spaventato"],
+      "ru": ["Я испуган сейчас", "Она очень испугана", "Ребёнок испуган"],
+      "es": ["Yo estoy asustado ahora", "Ella está muy asustada", "El niño está asustado"],
+      "pl": ["Jestem przestraszony teraz", "Ona jest bardzo przestraszona", "Dziecko jest przestraszone"],
+      "fa": ["من الان ترسیده‌ام", "او خیلی ترسیده", "کودک ترسیده است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_765_es",
+    "word": "emocionado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "excited",
+      "de": "aufgeregt, begeistert",
+      "ar": "متحمس",
+      "fr": "excité, enthousiaste",
+      "it": "emozionato, eccitato",
+      "ru": "взволнованный",
+      "es": "emocionado",
+      "pl": "podekscytowany",
+      "fa": "هیجان‌زده"
+    },
+    "explanations": {
+      "en": "Feeling great enthusiasm and eagerness",
+      "de": "Große Begeisterung und Eifer fühlen",
+      "ar": "الشعور بحماس وشغف كبير",
+      "fr": "Ressentir un grand enthousiasme et empressement",
+      "it": "Sentire grande entusiasmo e desiderio",
+      "ru": "Чувствовать большой энтузиазм и рвение",
+      "es": "Sentir gran entusiasmo y afán",
+      "pl": "Odczuwanie wielkiego entuzjazmu i zapału",
+      "fa": "احساس اشتیاق و حرص زیاد"
+    },
+    "examples": {
+      "en": ["I am excited today", "She is very excited", "We are excited about the trip"],
+      "de": ["Ich bin heute aufgeregt", "Sie ist sehr aufgeregt", "Wir sind aufgeregt über die Reise"],
+      "ar": ["أنا متحمس اليوم", "هي متحمسة جداً", "نحن متحمسون للرحلة"],
+      "fr": ["Je suis excité aujourd'hui", "Elle est très excitée", "Nous sommes excités pour le voyage"],
+      "it": ["Sono emozionato oggi", "Lei è molto emozionata", "Siamo emozionati per il viaggio"],
+      "ru": ["Я взволнован сегодня", "Она очень взволнована", "Мы взволнованы поездкой"],
+      "es": ["Yo estoy emocionado hoy", "Ella está muy emocionada", "Nosotros estamos emocionados por el viaje"],
+      "pl": ["Jestem podekscytowany dziś", "Ona jest bardzo podekscytowana", "Jesteśmy podekscytowani podróżą"],
+      "fa": ["من امروز هیجان‌زده‌ام", "او خیلی هیجان‌زده است", "ما برای سفر هیجان‌زده‌ایم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_766_es",
+    "word": "preocupado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "worried, concerned",
+      "de": "besorgt",
+      "ar": "قلق، مهتم",
+      "fr": "inquiet, préoccupé",
+      "it": "preoccupato",
+      "ru": "обеспокоенный",
+      "es": "preocupado",
+      "pl": "zmartwiony, zaniepokojony",
+      "fa": "نگران"
+    },
+    "explanations": {
+      "en": "Feeling anxiety or concern about something",
+      "de": "Angst oder Sorge über etwas fühlen",
+      "ar": "الشعور بالقلق أو الاهتمام بشأن شيء ما",
+      "fr": "Ressentir de l'anxiété ou de l'inquiétude à propos de quelque chose",
+      "it": "Sentire ansia o preoccupazione riguardo a qualcosa",
+      "ru": "Чувствовать беспокойство или тревогу о чём-то",
+      "es": "Sentir ansiedad o preocupación por algo",
+      "pl": "Odczuwanie niepokoju lub troski o coś",
+      "fa": "احساس اضطراب یا نگرانی درباره چیزی"
+    },
+    "examples": {
+      "en": ["I am worried now", "She is very worried", "He is worried about the test"],
+      "de": ["Ich bin jetzt besorgt", "Sie ist sehr besorgt", "Er ist besorgt über den Test"],
+      "ar": ["أنا قلق الآن", "هي قلقة جداً", "هو قلق بشأن الاختبار"],
+      "fr": ["Je suis inquiet maintenant", "Elle est très inquiète", "Il est inquiet pour le test"],
+      "it": ["Sono preoccupato ora", "Lei è molto preoccupata", "Lui è preoccupato per il test"],
+      "ru": ["Я обеспокоен сейчас", "Она очень обеспокоена", "Он обеспокоен тестом"],
+      "es": ["Yo estoy preocupado ahora", "Ella está muy preocupada", "Él está preocupado por el examen"],
+      "pl": ["Jestem zmartwiony teraz", "Ona jest bardzo zmartwiona", "On jest zmartwiony testem"],
+      "fa": ["من الان نگرانم", "او خیلی نگران است", "او درباره امتحان نگران است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_767_es",
+    "word": "cansado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "tired, weary",
+      "de": "müde",
+      "ar": "متعب",
+      "fr": "fatigué",
+      "it": "stanco",
+      "ru": "усталый",
+      "es": "cansado",
+      "pl": "zmęczony",
+      "fa": "خسته"
+    },
+    "explanations": {
+      "en": "Feeling need for rest or sleep",
+      "de": "Bedürfnis nach Ruhe oder Schlaf fühlen",
+      "ar": "الشعور بالحاجة إلى الراحة أو النوم",
+      "fr": "Ressentir le besoin de repos ou de sommeil",
+      "it": "Sentire bisogno di riposo o sonno",
+      "ru": "Чувствовать потребность в отдыхе или сне",
+      "es": "Sentir necesidad de descanso o sueño",
+      "pl": "Odczuwanie potrzeby odpoczynku lub snu",
+      "fa": "احساس نیاز به استراحت یا خواب"
+    },
+    "examples": {
+      "en": ["I am tired today", "She is very tired", "We are tired from work"],
+      "de": ["Ich bin heute müde", "Sie ist sehr müde", "Wir sind müde von der Arbeit"],
+      "ar": ["أنا متعب اليوم", "هي متعبة جداً", "نحن متعبون من العمل"],
+      "fr": ["Je suis fatigué aujourd'hui", "Elle est très fatiguée", "Nous sommes fatigués du travail"],
+      "it": ["Sono stanco oggi", "Lei è molto stanca", "Siamo stanchi dal lavoro"],
+      "ru": ["Я усталый сегодня", "Она очень усталая", "Мы усталые от работы"],
+      "es": ["Yo estoy cansado hoy", "Ella está muy cansada", "Nosotros estamos cansados del trabajo"],
+      "pl": ["Jestem zmęczony dziś", "Ona jest bardzo zmęczona", "Jesteśmy zmęczeni pracą"],
+      "fa": ["من امروز خسته‌ام", "او خیلی خسته است", "ما از کار خسته هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_768_es",
+    "word": "aburrido",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bored, boring",
+      "de": "gelangweilt, langweilig",
+      "ar": "ملل، ممل",
+      "fr": "ennuyé, ennuyeux",
+      "it": "annoiato, noioso",
+      "ru": "скучающий, скучный",
+      "es": "aburrido",
+      "pl": "znudzony, nudny",
+      "fa": "خسته، کسل‌کننده"
+    },
+    "explanations": {
+      "en": "Feeling weary from lack of interest or engagement",
+      "de": "Sich wegen mangelndem Interesse oder Engagement gelangweilt fühlen",
+      "ar": "الشعور بالملل من نقص الاهتمام أو المشاركة",
+      "fr": "Se sentir las par manque d'intérêt ou d'engagement",
+      "it": "Sentirsi stanchi per mancanza di interesse o coinvolgimento",
+      "ru": "Чувствовать скуку от недостатка интереса или вовлечённости",
+      "es": "Sentirse hastiado por falta de interés o participación",
+      "pl": "Odczuwanie znużenia z powodu braku zainteresowania lub zaangażowania",
+      "fa": "احساس خستگی از عدم علاقه یا مشارکت"
+    },
+    "examples": {
+      "en": ["I am bored now", "This class is boring", "He is very bored"],
+      "de": ["Ich bin jetzt gelangweilt", "Diese Klasse ist langweilig", "Er ist sehr gelangweilt"],
+      "ar": ["أنا ملل الآن", "هذا الصف ممل", "هو ملل جداً"],
+      "fr": ["Je m'ennuie maintenant", "Ce cours est ennuyeux", "Il est très ennuyé"],
+      "it": ["Sono annoiato ora", "Questa classe è noiosa", "Lui è molto annoiato"],
+      "ru": ["Мне скучно сейчас", "Этот класс скучный", "Ему очень скучно"],
+      "es": ["Yo estoy aburrido ahora", "Esta clase es aburrida", "Él está muy aburrido"],
+      "pl": ["Jestem znudzony teraz", "Ta klasa jest nudna", "On jest bardzo znudzony"],
+      "fa": ["من الان خسته‌ام", "این کلاس کسل‌کننده است", "او خیلی خسته است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_769_es",
+    "word": "interesado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "interested",
+      "de": "interessiert",
+      "ar": "مهتم",
+      "fr": "intéressé",
+      "it": "interessato",
+      "ru": "заинтересованный",
+      "es": "interesado",
+      "pl": "zainteresowany",
+      "fa": "علاقه‌مند"
+    },
+    "explanations": {
+      "en": "Showing curiosity or concern about something",
+      "de": "Neugier oder Interesse an etwas zeigen",
+      "ar": "إظهار الفضول أو الاهتمام بشيء ما",
+      "fr": "Montrer de la curiosité ou de l'intérêt pour quelque chose",
+      "it": "Mostrare curiosità o interesse per qualcosa",
+      "ru": "Проявлять любопытство или интерес к чему-то",
+      "es": "Mostrar curiosidad o interés por algo",
+      "pl": "Pokazywanie ciekawości lub zainteresowania czymś",
+      "fa": "نشان دادن کنجکاوی یا علاقه به چیزی"
+    },
+    "examples": {
+      "en": ["I am interested now", "She is very interested", "He is interested in music"],
+      "de": ["Ich bin jetzt interessiert", "Sie ist sehr interessiert", "Er ist an Musik interessiert"],
+      "ar": ["أنا مهتم الآن", "هي مهتمة جداً", "هو مهتم بالموسيقى"],
+      "fr": ["Je suis intéressé maintenant", "Elle est très intéressée", "Il est intéressé par la musique"],
+      "it": ["Sono interessato ora", "Lei è molto interessata", "Lui è interessato alla musica"],
+      "ru": ["Я заинтересован сейчас", "Она очень заинтересована", "Он заинтересован музыкой"],
+      "es": ["Yo estoy interesado ahora", "Ella está muy interesada", "Él está interesado en la música"],
+      "pl": ["Jestem zainteresowany teraz", "Ona jest bardzo zainteresowana", "On jest zainteresowany muzyką"],
+      "fa": ["من الان علاقه‌مندم", "او خیلی علاقه‌مند است", "او به موسیقی علاقه‌مند است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_770_es",
+    "word": "sorprendido",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "surprised",
+      "de": "überrascht",
+      "ar": "مندهش",
+      "fr": "surpris",
+      "it": "sorpreso",
+      "ru": "удивлённый",
+      "es": "sorprendido",
+      "pl": "zaskoczony",
+      "fa": "شگفت‌زده"
+    },
+    "explanations": {
+      "en": "Feeling wonder from unexpected event or information",
+      "de": "Staunen über unerwartetes Ereignis oder Information fühlen",
+      "ar": "الشعور بالدهشة من حدث أو معلومات غير متوقعة",
+      "fr": "Ressentir de l'étonnement d'un événement ou information inattendue",
+      "it": "Sentire meraviglia da evento o informazione inaspettata",
+      "ru": "Чувствовать удивление от неожиданного события или информации",
+      "es": "Sentir asombro por evento o información inesperada",
+      "pl": "Odczuwanie zdumienia z nieoczekiwanego wydarzenia lub informacji",
+      "fa": "احساس شگفتی از رویداد یا اطلاعات غیرمنتظره"
+    },
+    "examples": {
+      "en": ["I am surprised now", "She is very surprised", "We are surprised by this"],
+      "de": ["Ich bin jetzt überrascht", "Sie ist sehr überrascht", "Wir sind davon überrascht"],
+      "ar": ["أنا مندهش الآن", "هي مندهشة جداً", "نحن مندهشون من هذا"],
+      "fr": ["Je suis surpris maintenant", "Elle est très surprise", "Nous sommes surpris par cela"],
+      "it": ["Sono sorpreso ora", "Lei è molto sorpresa", "Siamo sorpresi da questo"],
+      "ru": ["Я удивлён сейчас", "Она очень удивлена", "Мы удивлены этим"],
+      "es": ["Yo estoy sorprendido ahora", "Ella está muy sorprendida", "Nosotros estamos sorprendidos por esto"],
+      "pl": ["Jestem zaskoczony teraz", "Ona jest bardzo zaskoczona", "Jesteśmy zaskoczeni tym"],
+      "fa": ["من الان شگفت‌زده‌ام", "او خیلی شگفت‌زده است", "ما از این شگفت‌زده هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_771_es",
+    "word": "sonrisa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "smile",
+      "de": "Lächeln",
+      "ar": "ابتسامة",
+      "fr": "sourire",
+      "it": "sorriso",
+      "ru": "улыбка",
+      "es": "sonrisa",
+      "pl": "uśmiech",
+      "fa": "لبخند"
+    },
+    "explanations": {
+      "en": "Facial expression showing pleasure or amusement",
+      "de": "Gesichtsausdruck, der Freude oder Belustigung zeigt",
+      "ar": "تعبير وجه يظهر السرور أو التسلية",
+      "fr": "Expression faciale montrant le plaisir ou l'amusement",
+      "it": "Espressione facciale che mostra piacere o divertimento",
+      "ru": "Выражение лица, показывающее удовольствие или веселье",
+      "es": "Expresión facial que muestra placer o diversión",
+      "pl": "Wyraz twarzy pokazujący przyjemność lub rozbawienie",
+      "fa": "حالت چهره که لذت یا سرگرمی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have a smile", "Her smile is beautiful", "Give me a smile"],
+      "de": ["Ich habe ein Lächeln", "Ihr Lächeln ist schön", "Gib mir ein Lächeln"],
+      "ar": ["لدي ابتسامة", "ابتسامتها جميلة", "أعطني ابتسامة"],
+      "fr": ["J'ai un sourire", "Son sourire est beau", "Donne-moi un sourire"],
+      "it": ["Ho un sorriso", "Il suo sorriso è bello", "Dammi un sorriso"],
+      "ru": ["У меня улыбка", "Её улыбка красивая", "Дай мне улыбку"],
+      "es": ["Yo tengo una sonrisa", "Su sonrisa es bonita", "Dame una sonrisa"],
+      "pl": ["Mam uśmiech", "Jej uśmiech jest piękny", "Daj mi uśmiech"],
+      "fa": ["من یک لبخند دارم", "لبخند او زیباست", "به من یک لبخند بده"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_772_es",
+    "word": "reír",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to laugh",
+      "de": "lachen",
+      "ar": "يضحك",
+      "fr": "rire",
+      "it": "ridere",
+      "ru": "смеяться",
+      "es": "reír",
+      "pl": "śmiać się",
+      "fa": "خندیدن"
+    },
+    "explanations": {
+      "en": "To make sounds showing amusement or joy",
+      "de": "Laute machen, die Belustigung oder Freude zeigen",
+      "ar": "إصدار أصوات تظهر التسلية أو الفرح",
+      "fr": "Faire des sons montrant l'amusement ou la joie",
+      "it": "Fare suoni che mostrano divertimento o gioia",
+      "ru": "Издавать звуки, показывающие веселье или радость",
+      "es": "Hacer sonidos mostrando diversión o alegría",
+      "pl": "Wydawać dźwięki pokazujące rozbawienie lub radość",
+      "fa": "صداهایی را که سرگرمی یا شادی را نشان می‌دهد تولید کردن"
+    },
+    "examples": {
+      "en": ["I laugh a lot", "She likes to laugh", "We laugh together"],
+      "de": ["Ich lache viel", "Sie lacht gern", "Wir lachen zusammen"],
+      "ar": ["أنا أضحك كثيراً", "هي تحب أن تضحك", "نحن نضحك معاً"],
+      "fr": ["Je ris beaucoup", "Elle aime rire", "Nous rions ensemble"],
+      "it": ["Rido molto", "Lei ama ridere", "Ridiamo insieme"],
+      "ru": ["Я много смеюсь", "Она любит смеяться", "Мы смеёмся вместе"],
+      "es": ["Yo río mucho", "A ella le gusta reír", "Nosotros reímos juntos"],
+      "pl": ["Dużo się śmieję", "Ona lubi się śmiać", "Śmiejemy się razem"],
+      "fa": ["من زیاد می‌خندم", "او دوست دارد بخندد", "ما با هم می‌خندیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_773_es",
+    "word": "llorar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to cry, to weep",
+      "de": "weinen",
+      "ar": "يبكي",
+      "fr": "pleurer",
+      "it": "piangere",
+      "ru": "плакать",
+      "es": "llorar",
+      "pl": "płakać",
+      "fa": "گریه کردن"
+    },
+    "explanations": {
+      "en": "To shed tears from emotion or pain",
+      "de": "Tränen aus Emotion oder Schmerz vergießen",
+      "ar": "ذرف الدموع من العاطفة أو الألم",
+      "fr": "Verser des larmes d'émotion ou de douleur",
+      "it": "Versare lacrime da emozione o dolore",
+      "ru": "Проливать слёзы от эмоций или боли",
+      "es": "Derramar lágrimas por emoción o dolor",
+      "pl": "Ronić łzy z emocji lub bólu",
+      "fa": "ریختن اشک از احساسات یا درد"
+    },
+    "examples": {
+      "en": ["I cry sometimes", "She is crying now", "Why do you cry?"],
+      "de": ["Ich weine manchmal", "Sie weint jetzt", "Warum weinst du?"],
+      "ar": ["أنا أبكي أحياناً", "هي تبكي الآن", "لماذا تبكي؟"],
+      "fr": ["Je pleure parfois", "Elle pleure maintenant", "Pourquoi pleures-tu?"],
+      "it": ["Piango a volte", "Lei sta piangendo ora", "Perché piangi?"],
+      "ru": ["Я плачу иногда", "Она плачет сейчас", "Почему ты плачешь?"],
+      "es": ["Yo lloro a veces", "Ella está llorando ahora", "¿Por qué lloras?"],
+      "pl": ["Czasami płaczę", "Ona płacze teraz", "Dlaczego płaczesz?"],
+      "fa": ["من گاهی گریه می‌کنم", "او الان گریه می‌کند", "چرا گریه می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_774_es",
+    "word": "sentir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to feel, to sense",
+      "de": "fühlen, empfinden",
+      "ar": "يشعر، يحس",
+      "fr": "sentir, ressentir",
+      "it": "sentire",
+      "ru": "чувствовать",
+      "es": "sentir",
+      "pl": "czuć, odczuwać",
+      "fa": "احساس کردن"
+    },
+    "explanations": {
+      "en": "To experience emotion or physical sensation",
+      "de": "Emotion oder körperliche Empfindung erleben",
+      "ar": "تجربة العاطفة أو الإحساس الجسدي",
+      "fr": "Éprouver une émotion ou une sensation physique",
+      "it": "Sperimentare emozione o sensazione fisica",
+      "ru": "Испытывать эмоцию или физическое ощущение",
+      "es": "Experimentar emoción o sensación física",
+      "pl": "Doświadczać emocji lub wrażenia fizycznego",
+      "fa": "تجربه احساس یا حس فیزیکی"
+    },
+    "examples": {
+      "en": ["I feel happy", "She feels cold", "We feel good here"],
+      "de": ["Ich fühle mich glücklich", "Sie fühlt sich kalt", "Wir fühlen uns gut hier"],
+      "ar": ["أنا أشعر بالسعادة", "هي تشعر بالبرد", "نحن نشعر بالراحة هنا"],
+      "fr": ["Je me sens heureux", "Elle a froid", "Nous nous sentons bien ici"],
+      "it": ["Mi sento felice", "Lei ha freddo", "Ci sentiamo bene qui"],
+      "ru": ["Я чувствую себя счастливым", "Ей холодно", "Мы чувствуем себя хорошо здесь"],
+      "es": ["Yo me siento feliz", "Ella siente frío", "Nosotros nos sentimos bien aquí"],
+      "pl": ["Czuję się szczęśliwy", "Ona czuje zimno", "Czujemy się dobrze tutaj"],
+      "fa": ["من احساس خوشحالی می‌کنم", "او احساس سرما می‌کند", "ما اینجا احساس خوبی داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_775_es",
+    "word": "emoción",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "emotion, feeling",
+      "de": "Emotion, Gefühl",
+      "ar": "عاطفة، شعور",
+      "fr": "émotion, sentiment",
+      "it": "emozione, sentimento",
+      "ru": "эмоция, чувство",
+      "es": "emoción",
+      "pl": "emocja, uczucie",
+      "fa": "احساس، عاطفه"
+    },
+    "explanations": {
+      "en": "Strong feeling from circumstances or mood",
+      "de": "Starkes Gefühl aus Umständen oder Stimmung",
+      "ar": "شعور قوي من الظروف أو المزاج",
+      "fr": "Sentiment fort des circonstances ou de l'humeur",
+      "it": "Sentimento forte da circostanze o umore",
+      "ru": "Сильное чувство от обстоятельств или настроения",
+      "es": "Sentimiento fuerte por circunstancias o estado de ánimo",
+      "pl": "Silne uczucie z okoliczności lub nastroju",
+      "fa": "احساس قوی از شرایط یا خلق و خو"
+    },
+    "examples": {
+      "en": ["I have strong emotions", "This feeling is good", "Love is an emotion"],
+      "de": ["Ich habe starke Emotionen", "Dieses Gefühl ist gut", "Liebe ist eine Emotion"],
+      "ar": ["لدي عواطف قوية", "هذا الشعور جيد", "الحب عاطفة"],
+      "fr": ["J'ai des émotions fortes", "Ce sentiment est bon", "L'amour est une émotion"],
+      "it": ["Ho emozioni forti", "Questo sentimento è buono", "L'amore è un'emozione"],
+      "ru": ["У меня сильные эмоции", "Это чувство хорошее", "Любовь это эмоция"],
+      "es": ["Yo tengo emociones fuertes", "Este sentimiento es bueno", "El amor es una emoción"],
+      "pl": ["Mam silne emocje", "To uczucie jest dobre", "Miłość to emocja"],
+      "fa": ["من احساسات قوی دارم", "این احساس خوب است", "عشق یک احساس است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_776_es",
+    "word": "humor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "humor, mood",
+      "de": "Humor, Laune",
+      "ar": "فكاهة، مزاج",
+      "fr": "humour, humeur",
+      "it": "umorismo, umore",
+      "ru": "юмор, настроение",
+      "es": "humor",
+      "pl": "humor, nastrój",
+      "fa": "شوخ‌طبعی، خلق و خو"
+    },
+    "explanations": {
+      "en": "Quality of being amusing or current state of mind",
+      "de": "Eigenschaft, amüsant zu sein oder aktueller Geisteszustand",
+      "ar": "صفة أن تكون مسلياً أو الحالة الذهنية الحالية",
+      "fr": "Qualité d'être amusant ou état d'esprit actuel",
+      "it": "Qualità di essere divertente o stato d'animo attuale",
+      "ru": "Качество быть забавным или текущее состояние ума",
+      "es": "Calidad de ser divertido o estado mental actual",
+      "pl": "Jakość bycia zabawnym lub obecny stan umysłu",
+      "fa": "کیفیت سرگرم‌کننده بودن یا حالت فعلی ذهن"
+    },
+    "examples": {
+      "en": ["I have good humor", "She is in bad mood", "This has a lot of humor"],
+      "de": ["Ich habe gute Laune", "Sie ist in schlechter Laune", "Das hat viel Humor"],
+      "ar": ["لدي مزاج جيد", "هي في مزاج سيء", "هذا لديه الكثير من الفكاهة"],
+      "fr": ["J'ai bonne humeur", "Elle est de mauvaise humeur", "Cela a beaucoup d'humour"],
+      "it": ["Ho buon umore", "Lei è di cattivo umore", "Questo ha molto umorismo"],
+      "ru": ["У меня хорошее настроение", "Она в плохом настроении", "В этом много юмора"],
+      "es": ["Yo tengo buen humor", "Ella está de mal humor", "Esto tiene mucho humor"],
+      "pl": ["Mam dobry humor", "Ona jest w złym humorze", "To ma dużo humoru"],
+      "fa": ["من خلق خوبی دارم", "او خلق بدی دارد", "این شوخ‌طبعی زیادی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_777_es",
+    "word": "alegre",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cheerful, joyful",
+      "de": "fröhlich, heiter",
+      "ar": "مبتهج، مرح",
+      "fr": "joyeux, gai",
+      "it": "allegro, gioioso",
+      "ru": "весёлый, радостный",
+      "es": "alegre",
+      "pl": "wesoły, radosny",
+      "fa": "شاد، خوشحال"
+    },
+    "explanations": {
+      "en": "Showing happiness and optimism",
+      "de": "Glück und Optimismus zeigen",
+      "ar": "إظهار السعادة والتفاؤل",
+      "fr": "Montrant le bonheur et l'optimisme",
+      "it": "Mostrare felicità e ottimismo",
+      "ru": "Показывать счастье и оптимизм",
+      "es": "Mostrar felicidad y optimismo",
+      "pl": "Pokazywanie szczęścia i optymizmu",
+      "fa": "نشان دادن شادی و خوش‌بینی"
+    },
+    "examples": {
+      "en": ["I am cheerful today", "She is very cheerful", "We have cheerful friends"],
+      "de": ["Ich bin heute fröhlich", "Sie ist sehr fröhlich", "Wir haben fröhliche Freunde"],
+      "ar": ["أنا مبتهج اليوم", "هي مبتهجة جداً", "لدينا أصدقاء مبتهجون"],
+      "fr": ["Je suis joyeux aujourd'hui", "Elle est très joyeuse", "Nous avons des amis joyeux"],
+      "it": ["Sono allegro oggi", "Lei è molto allegra", "Abbiamo amici allegri"],
+      "ru": ["Я весёлый сегодня", "Она очень весёлая", "У нас весёлые друзья"],
+      "es": ["Yo estoy alegre hoy", "Ella está muy alegre", "Nosotros tenemos amigos alegres"],
+      "pl": ["Jestem wesoły dziś", "Ona jest bardzo wesoła", "Mamy wesołych przyjaciół"],
+      "fa": ["من امروز شادم", "او خیلی شاد است", "ما دوستان شادی داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_778_es",
+    "word": "nervioso",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nervous",
+      "de": "nervös",
+      "ar": "عصبي",
+      "fr": "nerveux",
+      "it": "nervoso",
+      "ru": "нервный",
+      "es": "nervioso",
+      "pl": "nerwowy",
+      "fa": "عصبی"
+    },
+    "explanations": {
+      "en": "Feeling anxious or uneasy about something",
+      "de": "Sich ängstlich oder unwohl über etwas fühlen",
+      "ar": "الشعور بالقلق أو عدم الارتياح بشأن شيء ما",
+      "fr": "Se sentir anxieux ou mal à l'aise à propos de quelque chose",
+      "it": "Sentirsi ansioso o a disagio riguardo a qualcosa",
+      "ru": "Чувствовать тревогу или беспокойство о чём-то",
+      "es": "Sentirse ansioso o inquieto por algo",
+      "pl": "Odczuwanie niepokoju lub dyskomfortu o coś",
+      "fa": "احساس اضطراب یا ناراحتی درباره چیزی"
+    },
+    "examples": {
+      "en": ["I am nervous now", "She is very nervous", "He feels nervous about the exam"],
+      "de": ["Ich bin jetzt nervös", "Sie ist sehr nervös", "Er fühlt sich nervös wegen der Prüfung"],
+      "ar": ["أنا عصبي الآن", "هي عصبية جداً", "هو يشعر بالعصبية بشأن الامتحان"],
+      "fr": ["Je suis nerveux maintenant", "Elle est très nerveuse", "Il se sent nerveux pour l'examen"],
+      "it": ["Sono nervoso ora", "Lei è molto nervosa", "Lui si sente nervoso per l'esame"],
+      "ru": ["Я нервный сейчас", "Она очень нервная", "Он нервничает из-за экзамена"],
+      "es": ["Yo estoy nervioso ahora", "Ella está muy nerviosa", "Él se siente nervioso por el examen"],
+      "pl": ["Jestem nerwowy teraz", "Ona jest bardzo nerwowa", "On czuje się nerwowy z powodu egzaminu"],
+      "fa": ["من الان عصبی هستم", "او خیلی عصبی است", "او درباره امتحان عصبی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_779_es",
+    "word": "tranquilo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "calm, peaceful, quiet",
+      "de": "ruhig, friedlich",
+      "ar": "هادئ، مسالم",
+      "fr": "calme, paisible, tranquille",
+      "it": "tranquillo, calmo",
+      "ru": "спокойный, тихий",
+      "es": "tranquilo",
+      "pl": "spokojny, cichy",
+      "fa": "آرام، ساکت"
+    },
+    "explanations": {
+      "en": "Free from disturbance or agitation",
+      "de": "Frei von Störung oder Aufregung",
+      "ar": "خالي من الإزعاج أو الاضطراب",
+      "fr": "Libre de perturbation ou d'agitation",
+      "it": "Libero da disturbo o agitazione",
+      "ru": "Свободный от беспокойства или волнения",
+      "es": "Libre de perturbación o agitación",
+      "pl": "Wolny od zakłóceń lub niepokoju",
+      "fa": "عاری از اختلال یا آشفتگی"
+    },
+    "examples": {
+      "en": ["I am calm now", "This place is peaceful", "She is very quiet"],
+      "de": ["Ich bin jetzt ruhig", "Dieser Ort ist friedlich", "Sie ist sehr ruhig"],
+      "ar": ["أنا هادئ الآن", "هذا المكان مسالم", "هي هادئة جداً"],
+      "fr": ["Je suis calme maintenant", "Cet endroit est paisible", "Elle est très tranquille"],
+      "it": ["Sono calmo ora", "Questo posto è tranquillo", "Lei è molto tranquilla"],
+      "ru": ["Я спокойный сейчас", "Это место спокойное", "Она очень тихая"],
+      "es": ["Yo estoy tranquilo ahora", "Este lugar es tranquilo", "Ella está muy tranquila"],
+      "pl": ["Jestem spokojny teraz", "To miejsce jest spokojne", "Ona jest bardzo spokojna"],
+      "fa": ["من الان آرامم", "این مکان آرام است", "او خیلی آرام است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_780_es",
+    "word": "contento",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "content, glad, pleased",
+      "de": "zufrieden, froh",
+      "ar": "راضي، مسرور",
+      "fr": "content, satisfait",
+      "it": "contento, soddisfatto",
+      "ru": "довольный, рад",
+      "es": "contento",
+      "pl": "zadowolony, rad",
+      "fa": "راضی، خشنود"
+    },
+    "explanations": {
+      "en": "Satisfied with what one has or situation",
+      "de": "Zufrieden mit dem, was man hat oder der Situation",
+      "ar": "راضي عما لديه أو الوضع",
+      "fr": "Satisfait de ce qu'on a ou de la situation",
+      "it": "Soddisfatto di ciò che si ha o della situazione",
+      "ru": "Довольный тем, что есть или ситуацией",
+      "es": "Satisfecho con lo que uno tiene o situación",
+      "pl": "Zadowolony z tego, co się ma lub sytuacji",
+      "fa": "راضی از آنچه دارد یا موقعیت"
+    },
+    "examples": {
+      "en": ["I am content here", "She is glad today", "We are pleased with this"],
+      "de": ["Ich bin hier zufrieden", "Sie ist heute froh", "Wir sind damit zufrieden"],
+      "ar": ["أنا راضي هنا", "هي مسرورة اليوم", "نحن راضون عن هذا"],
+      "fr": ["Je suis content ici", "Elle est contente aujourd'hui", "Nous sommes satisfaits de cela"],
+      "it": ["Sono contento qui", "Lei è contenta oggi", "Siamo contenti di questo"],
+      "ru": ["Я доволен здесь", "Она рада сегодня", "Мы довольны этим"],
+      "es": ["Yo estoy contento aquí", "Ella está contenta hoy", "Nosotros estamos contentos con esto"],
+      "pl": ["Jestem zadowolony tutaj", "Ona jest zadowolona dziś", "Jesteśmy zadowoleni z tego"],
+      "fa": ["من اینجا راضی هستم", "او امروز خوشحال است", "ما از این راضی هستیم"]
+    },
+    "conjugations": null
+  }
+]

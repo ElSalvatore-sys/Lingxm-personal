@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_581_es",
+    "word": "casa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "house, home",
+      "de": "Haus, Zuhause",
+      "ar": "بيت، منزل",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "explanations": {
+      "en": "Noun referring to a building where people live",
+      "de": "Substantiv für ein Gebäude, in dem Menschen wohnen",
+      "ar": "اسم يشير إلى مبنى يعيش فيه الناس",
+      "fr": "Nom désignant un bâtiment où les gens vivent",
+      "it": "Sostantivo che si riferisce a un edificio dove vivono le persone",
+      "ru": "Существительное, обозначающее здание, в котором живут люди",
+      "es": "Sustantivo que se refiere a un edificio donde vive la gente",
+      "pl": "Rzeczownik odnoszący się do budynku, w którym mieszkają ludzie",
+      "fa": "اسمی که به ساختمانی که مردم در آن زندگی می‌کنند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I live in a house", "My home is big", "Beautiful house here"],
+      "de": ["Ich wohne in einem Haus", "Mein Zuhause ist groß", "Schönes Haus hier"],
+      "ar": ["أعيش في بيت", "منزلي كبير", "بيت جميل هنا"],
+      "fr": ["J'habite dans une maison", "Ma maison est grande", "Belle maison ici"],
+      "it": ["Vivo in una casa", "La mia casa è grande", "Bella casa qui"],
+      "ru": ["Я живу в доме", "Мой дом большой", "Красивый дом здесь"],
+      "es": ["Yo vivo en una casa", "Mi casa es grande", "Casa bonita aquí"],
+      "pl": ["Mieszkam w domu", "Mój dom jest duży", "Piękny dom tutaj"],
+      "fa": ["من در خانه زندگی می‌کنم", "خانه من بزرگ است", "خانه زیبا اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_582_es",
+    "word": "apartamento",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "apartment, flat",
+      "de": "Wohnung",
+      "ar": "شقة",
+      "fr": "appartement",
+      "it": "appartamento",
+      "ru": "квартира",
+      "es": "apartamento",
+      "pl": "mieszkanie",
+      "fa": "آپارتمان"
+    },
+    "explanations": {
+      "en": "Noun referring to a self-contained housing unit in a larger building",
+      "de": "Substantiv für eine eigenständige Wohneinheit in einem größeren Gebäude",
+      "ar": "اسم يشير إلى وحدة سكنية مستقلة في مبنى أكبر",
+      "fr": "Nom désignant une unité de logement autonome dans un bâtiment plus grand",
+      "it": "Sostantivo che si riferisce a un'unità abitativa autonoma in un edificio più grande",
+      "ru": "Существительное, обозначающее автономную жилую единицу в большом здании",
+      "es": "Sustantivo que se refiere a una unidad de vivienda independiente en un edificio mayor",
+      "pl": "Rzeczownik odnoszący się do samodzielnej jednostki mieszkalnej w większym budynku",
+      "fa": "اسمی که به واحد مسکونی مستقل در ساختمان بزرگتر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I rent an apartment", "Small apartment here", "The flat is nice"],
+      "de": ["Ich miete eine Wohnung", "Kleine Wohnung hier", "Die Wohnung ist schön"],
+      "ar": ["أستأجر شقة", "شقة صغيرة هنا", "الشقة جميلة"],
+      "fr": ["Je loue un appartement", "Petit appartement ici", "L'appartement est joli"],
+      "it": ["Affitto un appartamento", "Piccolo appartamento qui", "L'appartamento è carino"],
+      "ru": ["Я снимаю квартиру", "Маленькая квартира здесь", "Квартира красивая"],
+      "es": ["Yo alquilo un apartamento", "Apartamento pequeño aquí", "El apartamento es lindo"],
+      "pl": ["Wynajmuję mieszkanie", "Małe mieszkanie tutaj", "Mieszkanie jest ładne"],
+      "fa": ["من آپارتمان اجاره می‌کنم", "آپارتمان کوچک اینجا", "آپارتمان قشنگ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_583_es",
+    "word": "habitación",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "room",
+      "de": "Zimmer, Raum",
+      "ar": "غرفة",
+      "fr": "chambre, pièce",
+      "it": "stanza, camera",
+      "ru": "комната",
+      "es": "habitación",
+      "pl": "pokój",
+      "fa": "اتاق"
+    },
+    "explanations": {
+      "en": "Noun referring to a space enclosed by walls within a building",
+      "de": "Substantiv für einen von Wänden umschlossenen Raum in einem Gebäude",
+      "ar": "اسم يشير إلى مساحة محاطة بجدران داخل مبنى",
+      "fr": "Nom désignant un espace clos par des murs dans un bâtiment",
+      "it": "Sostantivo che si riferisce a uno spazio racchiuso da muri in un edificio",
+      "ru": "Существительное, обозначающее пространство, ограниченное стенами в здании",
+      "es": "Sustantivo que se refiere a un espacio cerrado por paredes dentro de un edificio",
+      "pl": "Rzeczownik odnoszący się do przestrzeni zamkniętej ścianami w budynku",
+      "fa": "اسمی که به فضای محصور شده توسط دیوارها در ساختمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["My room is clean", "Big room here", "I enter the room"],
+      "de": ["Mein Zimmer ist sauber", "Großes Zimmer hier", "Ich betrete das Zimmer"],
+      "ar": ["غرفتي نظيفة", "غرفة كبيرة هنا", "أدخل الغرفة"],
+      "fr": ["Ma chambre est propre", "Grande pièce ici", "J'entre dans la chambre"],
+      "it": ["La mia camera è pulita", "Stanza grande qui", "Entro nella stanza"],
+      "ru": ["Моя комната чистая", "Большая комната здесь", "Я вхожу в комнату"],
+      "es": ["Mi habitación está limpia", "Habitación grande aquí", "Yo entro a la habitación"],
+      "pl": ["Mój pokój jest czysty", "Duży pokój tutaj", "Wchodzę do pokoju"],
+      "fa": ["اتاق من تمیز است", "اتاق بزرگ اینجا", "من وارد اتاق می‌شوم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_584_es",
+    "word": "dormitorio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bedroom",
+      "de": "Schlafzimmer",
+      "ar": "غرفة نوم",
+      "fr": "chambre à coucher",
+      "it": "camera da letto",
+      "ru": "спальня",
+      "es": "dormitorio",
+      "pl": "sypialnia",
+      "fa": "اتاق خواب"
+    },
+    "explanations": {
+      "en": "Noun referring to a room used primarily for sleeping",
+      "de": "Substantiv für einen Raum, der hauptsächlich zum Schlafen verwendet wird",
+      "ar": "اسم يشير إلى غرفة تستخدم بشكل أساسي للنوم",
+      "fr": "Nom désignant une pièce utilisée principalement pour dormir",
+      "it": "Sostantivo che si riferisce a una stanza usata principalmente per dormire",
+      "ru": "Существительное, обозначающее комнату, используемую в основном для сна",
+      "es": "Sustantivo que se refiere a una habitación usada principalmente para dormir",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia używanego głównie do spania",
+      "fa": "اسمی که به اتاقی که عمدتاً برای خواب استفاده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["I sleep in the bedroom", "Clean bedroom here", "Two bedrooms in house"],
+      "de": ["Ich schlafe im Schlafzimmer", "Sauberes Schlafzimmer hier", "Zwei Schlafzimmer im Haus"],
+      "ar": ["أنام في غرفة النوم", "غرفة نوم نظيفة هنا", "غرفتا نوم في البيت"],
+      "fr": ["Je dors dans la chambre", "Chambre propre ici", "Deux chambres dans la maison"],
+      "it": ["Dormo in camera da letto", "Camera pulita qui", "Due camere in casa"],
+      "ru": ["Я сплю в спальне", "Чистая спальня здесь", "Две спальни в доме"],
+      "es": ["Yo duermo en el dormitorio", "Dormitorio limpio aquí", "Dos dormitorios en la casa"],
+      "pl": ["Śpię w sypialni", "Czysta sypialnia tutaj", "Dwie sypialnie w domu"],
+      "fa": ["من در اتاق خواب می‌خوابم", "اتاق خواب تمیز اینجا", "دو اتاق خواب در خانه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_585_es",
+    "word": "baño",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bathroom",
+      "de": "Badezimmer, Bad",
+      "ar": "حمام",
+      "fr": "salle de bain",
+      "it": "bagno",
+      "ru": "ванная, туалет",
+      "es": "baño",
+      "pl": "łazienka",
+      "fa": "حمام"
+    },
+    "explanations": {
+      "en": "Noun referring to a room with facilities for bathing and using the toilet",
+      "de": "Substantiv für einen Raum mit Einrichtungen zum Baden und für die Toilette",
+      "ar": "اسم يشير إلى غرفة مع مرافق للاستحمام واستخدام المرحاض",
+      "fr": "Nom désignant une pièce avec des installations pour se baigner et utiliser les toilettes",
+      "it": "Sostantivo che si riferisce a una stanza con servizi per il bagno e l'uso del gabinetto",
+      "ru": "Существительное, обозначающее комнату с удобствами для купания и туалета",
+      "es": "Sustantivo que se refiere a una habitación con instalaciones para bañarse y usar el inodoro",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia z urządzeniami do kąpieli i korzystania z toalety",
+      "fa": "اسمی که به اتاقی با امکانات حمام و توالت اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to the bathroom", "Clean bathroom here", "The bathroom is small"],
+      "de": ["Ich gehe ins Badezimmer", "Sauberes Badezimmer hier", "Das Badezimmer ist klein"],
+      "ar": ["أذهب إلى الحمام", "حمام نظيف هنا", "الحمام صغير"],
+      "fr": ["Je vais à la salle de bain", "Salle de bain propre ici", "La salle de bain est petite"],
+      "it": ["Vado in bagno", "Bagno pulito qui", "Il bagno è piccolo"],
+      "ru": ["Я иду в ванную", "Чистая ванная здесь", "Ванная маленькая"],
+      "es": ["Yo voy al baño", "Baño limpio aquí", "El baño es pequeño"],
+      "pl": ["Idę do łazienki", "Czysta łazienka tutaj", "Łazienka jest mała"],
+      "fa": ["من به حمام می‌روم", "حمام تمیز اینجا", "حمام کوچک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_586_es",
+    "word": "sala",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "living room, lounge",
+      "de": "Wohnzimmer",
+      "ar": "صالة، غرفة معيشة",
+      "fr": "salon, salle de séjour",
+      "it": "soggiorno, salotto",
+      "ru": "гостиная, зал",
+      "es": "sala",
+      "pl": "salon, pokój dzienny",
+      "fa": "اتاق نشیمن، هال"
+    },
+    "explanations": {
+      "en": "Noun referring to a room for relaxing and socializing",
+      "de": "Substantiv für einen Raum zum Entspannen und geselligen Beisammensein",
+      "ar": "اسم يشير إلى غرفة للاسترخاء والتواصل الاجتماعي",
+      "fr": "Nom désignant une pièce pour se détendre et socialiser",
+      "it": "Sostantivo che si riferisce a una stanza per rilassarsi e socializzare",
+      "ru": "Существительное, обозначающее комнату для отдыха и общения",
+      "es": "Sustantivo que se refiere a una habitación para relajarse y socializar",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia do relaksu i spotkań towarzyskich",
+      "fa": "اسمی که به اتاقی برای استراحت و معاشرت اشاره دارد"
+    },
+    "examples": {
+      "en": ["I sit in the living room", "Big lounge here", "We watch TV in the sala"],
+      "de": ["Ich sitze im Wohnzimmer", "Großes Wohnzimmer hier", "Wir schauen TV im Wohnzimmer"],
+      "ar": ["أجلس في غرفة المعيشة", "صالة كبيرة هنا", "نحن نشاهد التلفاز في الصالة"],
+      "fr": ["Je m'assieds dans le salon", "Grand salon ici", "Nous regardons la télé dans le salon"],
+      "it": ["Mi siedo nel soggiorno", "Grande soggiorno qui", "Guardiamo la TV nel soggiorno"],
+      "ru": ["Я сижу в гостиной", "Большая гостиная здесь", "Мы смотрим ТВ в гостиной"],
+      "es": ["Yo me siento en la sala", "Sala grande aquí", "Nosotros vemos televisión en la sala"],
+      "pl": ["Siedzę w salonie", "Duży salon tutaj", "Oglądamy TV w salonie"],
+      "fa": ["من در هال می‌نشینم", "اتاق نشیمن بزرگ اینجا", "ما در هال تلویزیون تماشا می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_587_es",
+    "word": "puerta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "door",
+      "de": "Tür",
+      "ar": "باب",
+      "fr": "porte",
+      "it": "porta",
+      "ru": "дверь",
+      "es": "puerta",
+      "pl": "drzwi",
+      "fa": "در"
+    },
+    "explanations": {
+      "en": "Noun referring to a movable barrier for closing an entrance",
+      "de": "Substantiv für eine bewegliche Barriere zum Verschließen eines Eingangs",
+      "ar": "اسم يشير إلى حاجز متحرك لإغلاق مدخل",
+      "fr": "Nom désignant une barrière mobile pour fermer une entrée",
+      "it": "Sostantivo che si riferisce a una barriera mobile per chiudere un ingresso",
+      "ru": "Существительное, обозначающее подвижный барьер для закрытия входа",
+      "es": "Sustantivo que se refiere a una barrera móvil para cerrar una entrada",
+      "pl": "Rzeczownik odnoszący się do ruchomej bariery zamykającej wejście",
+      "fa": "اسمی که به مانع متحرک برای بستن ورودی اشاره دارد"
+    },
+    "examples": {
+      "en": ["I open the door", "Close the door please", "The door is blue"],
+      "de": ["Ich öffne die Tür", "Schließ bitte die Tür", "Die Tür ist blau"],
+      "ar": ["أفتح الباب", "أغلق الباب من فضلك", "الباب أزرق"],
+      "fr": ["J'ouvre la porte", "Ferme la porte s'il te plaît", "La porte est bleue"],
+      "it": ["Apro la porta", "Chiudi la porta per favore", "La porta è blu"],
+      "ru": ["Я открываю дверь", "Закрой дверь пожалуйста", "Дверь синяя"],
+      "es": ["Yo abro la puerta", "Cierra la puerta por favor", "La puerta es azul"],
+      "pl": ["Otwieram drzwi", "Zamknij drzwi proszę", "Drzwi są niebieskie"],
+      "fa": ["من در را باز می‌کنم", "لطفاً در را ببند", "در آبی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_588_es",
+    "word": "ventana",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "window",
+      "de": "Fenster",
+      "ar": "نافذة",
+      "fr": "fenêtre",
+      "it": "finestra",
+      "ru": "окно",
+      "es": "ventana",
+      "pl": "okno",
+      "fa": "پنجره"
+    },
+    "explanations": {
+      "en": "Noun referring to an opening in a wall for light and air",
+      "de": "Substantiv für eine Öffnung in einer Wand für Licht und Luft",
+      "ar": "اسم يشير إلى فتحة في جدار للضوء والهواء",
+      "fr": "Nom désignant une ouverture dans un mur pour la lumière et l'air",
+      "it": "Sostantivo che si riferisce a un'apertura in una parete per luce e aria",
+      "ru": "Существительное, обозначающее отверстие в стене для света и воздуха",
+      "es": "Sustantivo que se refiere a una abertura en una pared para luz y aire",
+      "pl": "Rzeczownik odnoszący się do otworu w ścianie dla światła i powietrza",
+      "fa": "اسمی که به بازشو در دیوار برای نور و هوا اشاره دارد"
+    },
+    "examples": {
+      "en": ["I open the window", "Look through the window", "Clean window here"],
+      "de": ["Ich öffne das Fenster", "Schau durch das Fenster", "Sauberes Fenster hier"],
+      "ar": ["أفتح النافذة", "انظر من النافذة", "نافذة نظيفة هنا"],
+      "fr": ["J'ouvre la fenêtre", "Regarde par la fenêtre", "Fenêtre propre ici"],
+      "it": ["Apro la finestra", "Guarda dalla finestra", "Finestra pulita qui"],
+      "ru": ["Я открываю окно", "Смотри в окно", "Чистое окно здесь"],
+      "es": ["Yo abro la ventana", "Mira por la ventana", "Ventana limpia aquí"],
+      "pl": ["Otwieram okno", "Patrz przez okno", "Czyste okno tutaj"],
+      "fa": ["من پنجره را باز می‌کنم", "از پنجره نگاه کن", "پنجره تمیز اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_589_es",
+    "word": "pared",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wall",
+      "de": "Wand, Mauer",
+      "ar": "حائط، جدار",
+      "fr": "mur",
+      "it": "parete, muro",
+      "ru": "стена",
+      "es": "pared",
+      "pl": "ściana",
+      "fa": "دیوار"
+    },
+    "explanations": {
+      "en": "Noun referring to a vertical structure that encloses a space",
+      "de": "Substantiv für eine vertikale Struktur, die einen Raum einschließt",
+      "ar": "اسم يشير إلى بنية عمودية تحيط بمساحة",
+      "fr": "Nom désignant une structure verticale qui entoure un espace",
+      "it": "Sostantivo che si riferisce a una struttura verticale che racchiude uno spazio",
+      "ru": "Существительное, обозначающее вертикальную структуру, ограждающую пространство",
+      "es": "Sustantivo que se refiere a una estructura vertical que cierra un espacio",
+      "pl": "Rzeczownik odnoszący się do pionowej struktury otaczającej przestrzeń",
+      "fa": "اسمی که به ساختار عمودی که فضا را محصور می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["The wall is white", "I paint the wall", "Big wall here"],
+      "de": ["Die Wand ist weiß", "Ich streiche die Wand", "Große Wand hier"],
+      "ar": ["الحائط أبيض", "أطلي الحائط", "حائط كبير هنا"],
+      "fr": ["Le mur est blanc", "Je peins le mur", "Grand mur ici"],
+      "it": ["La parete è bianca", "Dipingo la parete", "Parete grande qui"],
+      "ru": ["Стена белая", "Я крашу стену", "Большая стена здесь"],
+      "es": ["La pared es blanca", "Yo pinto la pared", "Pared grande aquí"],
+      "pl": ["Ściana jest biała", "Maluję ścianę", "Duża ściana tutaj"],
+      "fa": ["دیوار سفید است", "من دیوار را رنگ می‌کنم", "دیوار بزرگ اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_590_es",
+    "word": "suelo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "floor, ground",
+      "de": "Boden, Fußboden",
+      "ar": "أرضية، أرض",
+      "fr": "sol, plancher",
+      "it": "pavimento, suolo",
+      "ru": "пол, земля",
+      "es": "suelo",
+      "pl": "podłoga",
+      "fa": "کف، زمین"
+    },
+    "explanations": {
+      "en": "Noun referring to the lower surface of a room",
+      "de": "Substantiv für die untere Oberfläche eines Raums",
+      "ar": "اسم يشير إلى السطح السفلي للغرفة",
+      "fr": "Nom désignant la surface inférieure d'une pièce",
+      "it": "Sostantivo che si riferisce alla superficie inferiore di una stanza",
+      "ru": "Существительное, обозначающее нижнюю поверхность комнаты",
+      "es": "Sustantivo que se refiere a la superficie inferior de una habitación",
+      "pl": "Rzeczownik odnoszący się do dolnej powierzchni pomieszczenia",
+      "fa": "اسمی که به سطح پایینی اتاق اشاره دارد"
+    },
+    "examples": {
+      "en": ["The floor is clean", "I walk on the floor", "Wood floor here"],
+      "de": ["Der Boden ist sauber", "Ich laufe auf dem Boden", "Holzboden hier"],
+      "ar": ["الأرضية نظيفة", "أمشي على الأرضية", "أرضية خشبية هنا"],
+      "fr": ["Le sol est propre", "Je marche sur le sol", "Sol en bois ici"],
+      "it": ["Il pavimento è pulito", "Cammino sul pavimento", "Pavimento in legno qui"],
+      "ru": ["Пол чистый", "Я хожу по полу", "Деревянный пол здесь"],
+      "es": ["El suelo está limpio", "Yo camino por el suelo", "Suelo de madera aquí"],
+      "pl": ["Podłoga jest czysta", "Chodzę po podłodze", "Drewniana podłoga tutaj"],
+      "fa": ["کف تمیز است", "من روی کف راه می‌روم", "کف چوبی اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_591_es",
+    "word": "techo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ceiling, roof",
+      "de": "Decke, Dach",
+      "ar": "سقف",
+      "fr": "plafond, toit",
+      "it": "soffitto, tetto",
+      "ru": "потолок, крыша",
+      "es": "techo",
+      "pl": "sufit, dach",
+      "fa": "سقف"
+    },
+    "explanations": {
+      "en": "Noun referring to the upper interior surface of a room or building cover",
+      "de": "Substantiv für die obere Innenfläche eines Raums oder Gebäudeabdeckung",
+      "ar": "اسم يشير إلى السطح الداخلي العلوي لغرفة أو غطاء المبنى",
+      "fr": "Nom désignant la surface intérieure supérieure d'une pièce ou la couverture d'un bâtiment",
+      "it": "Sostantivo che si riferisce alla superficie interna superiore di una stanza o copertura dell'edificio",
+      "ru": "Существительное, обозначающее верхнюю внутреннюю поверхность комнаты или покрытие здания",
+      "es": "Sustantivo que se refiere a la superficie interior superior de una habitación o cubierta del edificio",
+      "pl": "Rzeczownik odnoszący się do górnej wewnętrznej powierzchni pomieszczenia lub pokrycia budynku",
+      "fa": "اسمی که به سطح داخلی بالای اتاق یا پوشش ساختمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["The ceiling is high", "I look at the ceiling", "White ceiling here"],
+      "de": ["Die Decke ist hoch", "Ich schaue zur Decke", "Weiße Decke hier"],
+      "ar": ["السقف عالٍ", "أنظر إلى السقف", "سقف أبيض هنا"],
+      "fr": ["Le plafond est haut", "Je regarde le plafond", "Plafond blanc ici"],
+      "it": ["Il soffitto è alto", "Guardo il soffitto", "Soffitto bianco qui"],
+      "ru": ["Потолок высокий", "Я смотрю на потолок", "Белый потолок здесь"],
+      "es": ["El techo es alto", "Yo miro el techo", "Techo blanco aquí"],
+      "pl": ["Sufit jest wysoki", "Patrzę na sufit", "Biały sufit tutaj"],
+      "fa": ["سقف بلند است", "من به سقف نگاه می‌کنم", "سقف سفید اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_592_es",
+    "word": "escalera",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "stairs, staircase",
+      "de": "Treppe",
+      "ar": "سلم، درج",
+      "fr": "escalier",
+      "it": "scala",
+      "ru": "лестница",
+      "es": "escalera",
+      "pl": "schody",
+      "fa": "پله"
+    },
+    "explanations": {
+      "en": "Noun referring to a series of steps for going between floors",
+      "de": "Substantiv für eine Reihe von Stufen zum Wechseln zwischen Stockwerken",
+      "ar": "اسم يشير إلى سلسلة من الدرجات للتنقل بين الطوابق",
+      "fr": "Nom désignant une série de marches pour passer entre les étages",
+      "it": "Sostantivo che si riferisce a una serie di gradini per spostarsi tra i piani",
+      "ru": "Существительное, обозначающее ряд ступеней для перемещения между этажами",
+      "es": "Sustantivo que se refiere a una serie de escalones para ir entre pisos",
+      "pl": "Rzeczownik odnoszący się do serii stopni do przechodzenia między piętrami",
+      "fa": "اسمی که به سری از پله‌ها برای رفتن بین طبقات اشاره دارد"
+    },
+    "examples": {
+      "en": ["I climb the stairs", "The staircase is long", "Go down the stairs"],
+      "de": ["Ich steige die Treppe hoch", "Die Treppe ist lang", "Geh die Treppe runter"],
+      "ar": ["أصعد السلم", "السلم طويل", "انزل الدرج"],
+      "fr": ["Je monte les escaliers", "L'escalier est long", "Descends les escaliers"],
+      "it": ["Salgo le scale", "La scala è lunga", "Scendi le scale"],
+      "ru": ["Я поднимаюсь по лестнице", "Лестница длинная", "Спускайся по лестнице"],
+      "es": ["Yo subo la escalera", "La escalera es larga", "Baja la escalera"],
+      "pl": ["Wchodzę po schodach", "Schody są długie", "Zejdź po schodach"],
+      "fa": ["من از پله بالا می‌روم", "پله بلند است", "از پله پایین برو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_593_es",
+    "word": "muebles",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "furniture",
+      "de": "Möbel",
+      "ar": "أثاث",
+      "fr": "meubles",
+      "it": "mobili",
+      "ru": "мебель",
+      "es": "muebles",
+      "pl": "meble",
+      "fa": "مبلمان"
+    },
+    "explanations": {
+      "en": "Noun referring to movable objects used to make a room functional",
+      "de": "Substantiv für bewegliche Gegenstände, die einen Raum funktional machen",
+      "ar": "اسم يشير إلى أشياء متحركة تستخدم لجعل الغرفة وظيفية",
+      "fr": "Nom désignant des objets mobiles utilisés pour rendre une pièce fonctionnelle",
+      "it": "Sostantivo che si riferisce a oggetti mobili usati per rendere funzionale una stanza",
+      "ru": "Существительное, обозначающее подвижные объекты, используемые для функционирования комнаты",
+      "es": "Sustantivo que se refiere a objetos móviles usados para hacer funcional una habitación",
+      "pl": "Rzeczownik odnoszący się do ruchomych przedmiotów używanych do uczynienia pomieszczenia funkcjonalnym",
+      "fa": "اسمی که به اشیای متحرک برای کارآمد کردن اتاق اشاره دارد"
+    },
+    "examples": {
+      "en": ["I buy new furniture", "The furniture is nice", "Old furniture here"],
+      "de": ["Ich kaufe neue Möbel", "Die Möbel sind schön", "Alte Möbel hier"],
+      "ar": ["أشتري أثاثاً جديداً", "الأثاث جميل", "أثاث قديم هنا"],
+      "fr": ["J'achète de nouveaux meubles", "Les meubles sont beaux", "Vieux meubles ici"],
+      "it": ["Compro mobili nuovi", "I mobili sono belli", "Mobili vecchi qui"],
+      "ru": ["Я покупаю новую мебель", "Мебель красивая", "Старая мебель здесь"],
+      "es": ["Yo compro muebles nuevos", "Los muebles son bonitos", "Muebles viejos aquí"],
+      "pl": ["Kupuję nowe meble", "Meble są ładne", "Stare meble tutaj"],
+      "fa": ["من مبلمان جدید می‌خرم", "مبلمان قشنگ است", "مبلمان قدیمی اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_594_es",
+    "word": "cama",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bed",
+      "de": "Bett",
+      "ar": "سرير",
+      "fr": "lit",
+      "it": "letto",
+      "ru": "кровать",
+      "es": "cama",
+      "pl": "łóżko",
+      "fa": "تخت"
+    },
+    "explanations": {
+      "en": "Noun referring to furniture for sleeping",
+      "de": "Substantiv für Möbel zum Schlafen",
+      "ar": "اسم يشير إلى أثاث للنوم",
+      "fr": "Nom désignant un meuble pour dormir",
+      "it": "Sostantivo che si riferisce a mobile per dormire",
+      "ru": "Существительное, обозначающее мебель для сна",
+      "es": "Sustantivo que se refiere a mueble para dormir",
+      "pl": "Rzeczownik odnoszący się do mebla do spania",
+      "fa": "اسمی که به مبلمان برای خواب اشاره دارد"
+    },
+    "examples": {
+      "en": ["I sleep in the bed", "The bed is comfortable", "Big bed here"],
+      "de": ["Ich schlafe im Bett", "Das Bett ist bequem", "Großes Bett hier"],
+      "ar": ["أنام في السرير", "السرير مريح", "سرير كبير هنا"],
+      "fr": ["Je dors dans le lit", "Le lit est confortable", "Grand lit ici"],
+      "it": ["Dormo nel letto", "Il letto è comodo", "Letto grande qui"],
+      "ru": ["Я сплю в кровати", "Кровать удобная", "Большая кровать здесь"],
+      "es": ["Yo duermo en la cama", "La cama es cómoda", "Cama grande aquí"],
+      "pl": ["Śpię w łóżku", "Łóżko jest wygodne", "Duże łóżko tutaj"],
+      "fa": ["من در تخت می‌خوابم", "تخت راحت است", "تخت بزرگ اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_595_es",
+    "word": "sofá",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sofa, couch",
+      "de": "Sofa, Couch",
+      "ar": "أريكة",
+      "fr": "canapé",
+      "it": "divano",
+      "ru": "диван",
+      "es": "sofá",
+      "pl": "sofa, kanapa",
+      "fa": "مبل، کاناپه"
+    },
+    "explanations": {
+      "en": "Noun referring to a long upholstered seat for multiple people",
+      "de": "Substantiv für einen langen gepolsterten Sitz für mehrere Personen",
+      "ar": "اسم يشير إلى مقعد مبطن طويل لعدة أشخاص",
+      "fr": "Nom désignant un siège rembourré long pour plusieurs personnes",
+      "it": "Sostantivo che si riferisce a una seduta imbottita lunga per più persone",
+      "ru": "Существительное, обозначающее длинное мягкое сиденье для нескольких человек",
+      "es": "Sustantivo que se refiere a un asiento tapizado largo para varias personas",
+      "pl": "Rzeczownik odnoszący się do długiego tapicerowanego siedzenia dla kilku osób",
+      "fa": "اسمی که به صندلی روکش‌دار بلند برای چند نفر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I sit on the sofa", "Comfortable couch here", "The sofa is new"],
+      "de": ["Ich sitze auf dem Sofa", "Bequemes Sofa hier", "Das Sofa ist neu"],
+      "ar": ["أجلس على الأريكة", "أريكة مريحة هنا", "الأريكة جديدة"],
+      "fr": ["Je m'assieds sur le canapé", "Canapé confortable ici", "Le canapé est neuf"],
+      "it": ["Mi siedo sul divano", "Divano comodo qui", "Il divano è nuovo"],
+      "ru": ["Я сижу на диване", "Удобный диван здесь", "Диван новый"],
+      "es": ["Yo me siento en el sofá", "Sofá cómodo aquí", "El sofá es nuevo"],
+      "pl": ["Siedzę na sofie", "Wygodna kanapa tutaj", "Sofa jest nowa"],
+      "fa": ["من روی مبل می‌نشینم", "کاناپه راحت اینجا", "مبل جدید است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_596_es",
+    "word": "escritorio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "desk",
+      "de": "Schreibtisch",
+      "ar": "مكتب، طاولة مكتب",
+      "fr": "bureau",
+      "it": "scrivania",
+      "ru": "письменный стол",
+      "es": "escritorio",
+      "pl": "biurko",
+      "fa": "میز تحریر"
+    },
+    "explanations": {
+      "en": "Noun referring to a table for writing or working",
+      "de": "Substantiv für einen Tisch zum Schreiben oder Arbeiten",
+      "ar": "اسم يشير إلى طاولة للكتابة أو العمل",
+      "fr": "Nom désignant une table pour écrire ou travailler",
+      "it": "Sostantivo che si riferisce a un tavolo per scrivere o lavorare",
+      "ru": "Существительное, обозначающее стол для письма или работы",
+      "es": "Sustantivo que se refiere a una mesa para escribir o trabajar",
+      "pl": "Rzeczownik odnoszący się do stołu do pisania lub pracy",
+      "fa": "اسمی که به میز برای نوشتن یا کار کردن اشاره دارد"
+    },
+    "examples": {
+      "en": ["I work at the desk", "My desk is clean", "Big desk here"],
+      "de": ["Ich arbeite am Schreibtisch", "Mein Schreibtisch ist sauber", "Großer Schreibtisch hier"],
+      "ar": ["أعمل على المكتب", "مكتبي نظيف", "مكتب كبير هنا"],
+      "fr": ["Je travaille au bureau", "Mon bureau est propre", "Grand bureau ici"],
+      "it": ["Lavoro alla scrivania", "La mia scrivania è pulita", "Scrivania grande qui"],
+      "ru": ["Я работаю за столом", "Мой стол чистый", "Большой стол здесь"],
+      "es": ["Yo trabajo en el escritorio", "Mi escritorio está limpio", "Escritorio grande aquí"],
+      "pl": ["Pracuję przy biurku", "Moje biurko jest czyste", "Duże biurko tutaj"],
+      "fa": ["من پشت میز تحریر کار می‌کنم", "میز من تمیز است", "میز تحریر بزرگ اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_597_es",
+    "word": "estante",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shelf, bookshelf",
+      "de": "Regal, Bücherregal",
+      "ar": "رف",
+      "fr": "étagère",
+      "it": "scaffale, mensola",
+      "ru": "полка, стеллаж",
+      "es": "estante",
+      "pl": "półka, regał",
+      "fa": "قفسه"
+    },
+    "explanations": {
+      "en": "Noun referring to a horizontal surface for storing items",
+      "de": "Substantiv für eine horizontale Fläche zum Aufbewahren von Gegenständen",
+      "ar": "اسم يشير إلى سطح أفقي لتخزين العناصر",
+      "fr": "Nom désignant une surface horizontale pour ranger des objets",
+      "it": "Sostantivo che si riferisce a una superficie orizzontale per conservare oggetti",
+      "ru": "Существительное, обозначающее горизонтальную поверхность для хранения предметов",
+      "es": "Sustantivo que se refiere a una superficie horizontal para guardar artículos",
+      "pl": "Rzeczownik odnoszący się do poziomej powierzchni do przechowywania przedmiotów",
+      "fa": "اسمی که به سطح افقی برای نگهداری اقلام اشاره دارد"
+    },
+    "examples": {
+      "en": ["I put books on the shelf", "The bookshelf is full", "New shelf here"],
+      "de": ["Ich lege Bücher ins Regal", "Das Bücherregal ist voll", "Neues Regal hier"],
+      "ar": ["أضع الكتب على الرف", "رف الكتب ممتلئ", "رف جديد هنا"],
+      "fr": ["Je mets des livres sur l'étagère", "L'étagère est pleine", "Nouvelle étagère ici"],
+      "it": ["Metto libri sullo scaffale", "Lo scaffale è pieno", "Scaffale nuovo qui"],
+      "ru": ["Я ставлю книги на полку", "Полка заполнена", "Новая полка здесь"],
+      "es": ["Yo pongo libros en el estante", "El estante está lleno", "Estante nuevo aquí"],
+      "pl": ["Kładę książki na półce", "Półka jest pełna", "Nowa półka tutaj"],
+      "fa": ["من کتاب‌ها را روی قفسه می‌گذارم", "قفسه پر است", "قفسه جدید اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_598_es",
+    "word": "lámpara",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lamp",
+      "de": "Lampe",
+      "ar": "مصباح",
+      "fr": "lampe",
+      "it": "lampada",
+      "ru": "лампа",
+      "es": "lámpara",
+      "pl": "lampa",
+      "fa": "لامپ، چراغ"
+    },
+    "explanations": {
+      "en": "Noun referring to a device that produces light",
+      "de": "Substantiv für ein Gerät, das Licht erzeugt",
+      "ar": "اسم يشير إلى جهاز ينتج الضوء",
+      "fr": "Nom désignant un appareil qui produit de la lumière",
+      "it": "Sostantivo che si riferisce a un dispositivo che produce luce",
+      "ru": "Существительное, обозначающее устройство, производящее свет",
+      "es": "Sustantivo que se refiere a un dispositivo que produce luz",
+      "pl": "Rzeczownik odnoszący się do urządzenia produkującego światło",
+      "fa": "اسمی که به دستگاهی که نور تولید می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I turn on the lamp", "The lamp is bright", "New lamp here"],
+      "de": ["Ich schalte die Lampe ein", "Die Lampe ist hell", "Neue Lampe hier"],
+      "ar": ["أشغل المصباح", "المصباح ساطع", "مصباح جديد هنا"],
+      "fr": ["J'allume la lampe", "La lampe est lumineuse", "Nouvelle lampe ici"],
+      "it": ["Accendo la lampada", "La lampada è luminosa", "Lampada nuova qui"],
+      "ru": ["Я включаю лампу", "Лампа яркая", "Новая лампа здесь"],
+      "es": ["Yo enciendo la lámpara", "La lámpara es brillante", "Lámpara nueva aquí"],
+      "pl": ["Włączam lampę", "Lampa jest jasna", "Nowa lampa tutaj"],
+      "fa": ["من لامپ را روشن می‌کنم", "لامپ روشن است", "لامپ جدید اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_599_es",
+    "word": "limpio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "clean",
+      "de": "sauber, rein",
+      "ar": "نظيف",
+      "fr": "propre",
+      "it": "pulito",
+      "ru": "чистый",
+      "es": "limpio",
+      "pl": "czysty",
+      "fa": "تمیز"
+    },
+    "explanations": {
+      "en": "Adjective describing something free from dirt or contamination",
+      "de": "Adjektiv, das etwas beschreibt, das frei von Schmutz oder Verunreinigung ist",
+      "ar": "صفة تصف شيئاً خالياً من الأوساخ أو التلوث",
+      "fr": "Adjectif décrivant quelque chose exempt de saleté ou de contamination",
+      "it": "Aggettivo che descrive qualcosa privo di sporco o contaminazione",
+      "ru": "Прилагательное, описывающее что-либо без грязи или загрязнения",
+      "es": "Adjetivo que describe algo libre de suciedad o contaminación",
+      "pl": "Przymiotnik opisujący coś wolnego od brudu lub zanieczyszczenia",
+      "fa": "صفتی که چیزی را که عاری از کثیفی یا آلودگی است توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The house is clean", "I have clean hands", "Very clean here"],
+      "de": ["Das Haus ist sauber", "Ich habe saubere Hände", "Sehr sauber hier"],
+      "ar": ["البيت نظيف", "لدي يدان نظيفتان", "نظيف جداً هنا"],
+      "fr": ["La maison est propre", "J'ai les mains propres", "Très propre ici"],
+      "it": ["La casa è pulita", "Ho le mani pulite", "Molto pulito qui"],
+      "ru": ["Дом чистый", "У меня чистые руки", "Очень чисто здесь"],
+      "es": ["La casa está limpia", "Yo tengo las manos limpias", "Muy limpio aquí"],
+      "pl": ["Dom jest czysty", "Mam czyste ręce", "Bardzo czysto tutaj"],
+      "fa": ["خانه تمیز است", "من دست‌های تمیز دارم", "خیلی تمیز اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_600_es",
+    "word": "sucio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dirty",
+      "de": "schmutzig, dreckig",
+      "ar": "قذر، متسخ",
+      "fr": "sale",
+      "it": "sporco",
+      "ru": "грязный",
+      "es": "sucio",
+      "pl": "brudny",
+      "fa": "کثیف"
+    },
+    "explanations": {
+      "en": "Adjective describing something covered with or containing dirt",
+      "de": "Adjektiv, das etwas beschreibt, das mit Schmutz bedeckt ist oder ihn enthält",
+      "ar": "صفة تصف شيئاً مغطى بالأوساخ أو يحتوي عليها",
+      "fr": "Adjectif décrivant quelque chose couvert de saleté ou en contenant",
+      "it": "Aggettivo che descrive qualcosa coperto di sporco o che lo contiene",
+      "ru": "Прилагательное, описывающее что-либо покрытое грязью или содержащее её",
+      "es": "Adjetivo que describe algo cubierto de suciedad o que la contiene",
+      "pl": "Przymiotnik opisujący coś pokrytego brudem lub go zawierającego",
+      "fa": "صفتی که چیزی را که با کثیفی پوشیده یا آن را دارد توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The floor is dirty", "I have dirty shoes", "Very dirty here"],
+      "de": ["Der Boden ist schmutzig", "Ich habe schmutzige Schuhe", "Sehr schmutzig hier"],
+      "ar": ["الأرضية قذرة", "لدي أحذية متسخة", "قذر جداً هنا"],
+      "fr": ["Le sol est sale", "J'ai des chaussures sales", "Très sale ici"],
+      "it": ["Il pavimento è sporco", "Ho scarpe sporche", "Molto sporco qui"],
+      "ru": ["Пол грязный", "У меня грязная обувь", "Очень грязно здесь"],
+      "es": ["El suelo está sucio", "Yo tengo los zapatos sucios", "Muy sucio aquí"],
+      "pl": ["Podłoga jest brudna", "Mam brudne buty", "Bardzo brudno tutaj"],
+      "fa": ["کف کثیف است", "من کفش‌های کثیف دارم", "خیلی کثیف اینجا"]
+    },
+    "conjugations": null
+  }
+]

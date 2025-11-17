@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_741_es",
+    "word": "número",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "number",
+      "de": "Nummer, Zahl",
+      "ar": "رقم",
+      "fr": "numéro, nombre",
+      "it": "numero",
+      "ru": "номер, число",
+      "es": "número",
+      "pl": "numer, liczba",
+      "fa": "شماره، عدد"
+    },
+    "explanations": {
+      "en": "Mathematical value or identifying digit sequence",
+      "de": "Mathematischer Wert oder identifizierende Ziffernfolge",
+      "ar": "قيمة رياضية أو تسلسل أرقام معرف",
+      "fr": "Valeur mathématique ou séquence de chiffres d'identification",
+      "it": "Valore matematico o sequenza di cifre identificativa",
+      "ru": "Математическое значение или идентифицирующая последовательность цифр",
+      "es": "Valor matemático o secuencia de dígitos identificadora",
+      "pl": "Wartość matematyczna lub sekwencja cyfr identyfikacyjnych",
+      "fa": "مقدار ریاضی یا دنباله ارقام شناسایی"
+    },
+    "examples": {
+      "en": ["What is your number?", "I like this number", "The number is five"],
+      "de": ["Was ist deine Nummer?", "Ich mag diese Zahl", "Die Nummer ist fünf"],
+      "ar": ["ما هو رقمك؟", "أنا أحب هذا الرقم", "الرقم هو خمسة"],
+      "fr": ["Quel est ton numéro?", "J'aime ce nombre", "Le numéro est cinq"],
+      "it": ["Qual è il tuo numero?", "Mi piace questo numero", "Il numero è cinque"],
+      "ru": ["Какой твой номер?", "Мне нравится это число", "Номер пять"],
+      "es": ["¿Cuál es tu número?", "Me gusta este número", "El número es cinco"],
+      "pl": ["Jaki jest twój numer?", "Lubię tę liczbę", "Numer to pięć"],
+      "fa": ["شماره تو چیست؟", "من این عدد را دوست دارم", "شماره پنج است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_742_es",
+    "word": "uno",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "one",
+      "de": "eins",
+      "ar": "واحد",
+      "fr": "un",
+      "it": "uno",
+      "ru": "один",
+      "es": "uno",
+      "pl": "jeden",
+      "fa": "یک"
+    },
+    "explanations": {
+      "en": "Number representing single unit or item",
+      "de": "Zahl, die eine einzelne Einheit oder ein Objekt darstellt",
+      "ar": "رقم يمثل وحدة أو عنصر واحد",
+      "fr": "Nombre représentant une unité ou un élément unique",
+      "it": "Numero che rappresenta un'unità o elemento singolo",
+      "ru": "Число, представляющее одну единицу или предмет",
+      "es": "Número que representa una unidad o artículo individual",
+      "pl": "Liczba reprezentująca pojedynczą jednostkę lub przedmiot",
+      "fa": "عددی که یک واحد یا مورد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have one book", "One is a number", "I am one person"],
+      "de": ["Ich habe ein Buch", "Eins ist eine Zahl", "Ich bin eine Person"],
+      "ar": ["لدي كتاب واحد", "واحد هو رقم", "أنا شخص واحد"],
+      "fr": ["J'ai un livre", "Un est un nombre", "Je suis une personne"],
+      "it": ["Ho un libro", "Uno è un numero", "Sono una persona"],
+      "ru": ["У меня одна книга", "Один это число", "Я один человек"],
+      "es": ["Yo tengo un libro", "Uno es un número", "Yo soy una persona"],
+      "pl": ["Mam jedną książkę", "Jeden jest liczbą", "Jestem jedną osobą"],
+      "fa": ["من یک کتاب دارم", "یک یک عدد است", "من یک نفر هستم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_743_es",
+    "word": "dos",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "two",
+      "de": "zwei",
+      "ar": "اثنان",
+      "fr": "deux",
+      "it": "due",
+      "ru": "два",
+      "es": "dos",
+      "pl": "dwa",
+      "fa": "دو"
+    },
+    "explanations": {
+      "en": "Number representing pair of units or items",
+      "de": "Zahl, die ein Paar von Einheiten oder Objekten darstellt",
+      "ar": "رقم يمثل زوج من الوحدات أو العناصر",
+      "fr": "Nombre représentant une paire d'unités ou d'éléments",
+      "it": "Numero che rappresenta una coppia di unità o elementi",
+      "ru": "Число, представляющее пару единиц или предметов",
+      "es": "Número que representa un par de unidades o artículos",
+      "pl": "Liczba reprezentująca parę jednostek lub przedmiotów",
+      "fa": "عددی که یک جفت واحد یا مورد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have two cats", "Two is a number", "We are two people"],
+      "de": ["Ich habe zwei Katzen", "Zwei ist eine Zahl", "Wir sind zwei Personen"],
+      "ar": ["لدي قطتان", "اثنان هو رقم", "نحن شخصان"],
+      "fr": ["J'ai deux chats", "Deux est un nombre", "Nous sommes deux personnes"],
+      "it": ["Ho due gatti", "Due è un numero", "Siamo due persone"],
+      "ru": ["У меня две кошки", "Два это число", "Мы два человека"],
+      "es": ["Yo tengo dos gatos", "Dos es un número", "Nosotros somos dos personas"],
+      "pl": ["Mam dwa koty", "Dwa jest liczbą", "Jesteśmy dwiema osobami"],
+      "fa": ["من دو گربه دارم", "دو یک عدد است", "ما دو نفر هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_744_es",
+    "word": "tres",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "three",
+      "de": "drei",
+      "ar": "ثلاثة",
+      "fr": "trois",
+      "it": "tre",
+      "ru": "три",
+      "es": "tres",
+      "pl": "trzy",
+      "fa": "سه"
+    },
+    "explanations": {
+      "en": "Number after two and before four",
+      "de": "Zahl nach zwei und vor vier",
+      "ar": "رقم بعد الاثنين وقبل الأربعة",
+      "fr": "Nombre après deux et avant quatre",
+      "it": "Numero dopo due e prima di quattro",
+      "ru": "Число после двух и перед четырьмя",
+      "es": "Número después de dos y antes de cuatro",
+      "pl": "Liczba po dwóch i przed czterema",
+      "fa": "عدد بعد از دو و قبل از چهار"
+    },
+    "examples": {
+      "en": ["I have three dogs", "Three is a number", "We eat three times"],
+      "de": ["Ich habe drei Hunde", "Drei ist eine Zahl", "Wir essen drei Mal"],
+      "ar": ["لدي ثلاثة كلاب", "ثلاثة هو رقم", "نحن نأكل ثلاث مرات"],
+      "fr": ["J'ai trois chiens", "Trois est un nombre", "Nous mangeons trois fois"],
+      "it": ["Ho tre cani", "Tre è un numero", "Mangiamo tre volte"],
+      "ru": ["У меня три собаки", "Три это число", "Мы едим три раза"],
+      "es": ["Yo tengo tres perros", "Tres es un número", "Nosotros comemos tres veces"],
+      "pl": ["Mam trzy psy", "Trzy jest liczbą", "Jemy trzy razy"],
+      "fa": ["من سه سگ دارم", "سه یک عدد است", "ما سه بار غذا می‌خوریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_745_es",
+    "word": "cuatro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "four",
+      "de": "vier",
+      "ar": "أربعة",
+      "fr": "quatre",
+      "it": "quattro",
+      "ru": "четыре",
+      "es": "cuatro",
+      "pl": "cztery",
+      "fa": "چهار"
+    },
+    "explanations": {
+      "en": "Number after three and before five",
+      "de": "Zahl nach drei und vor fünf",
+      "ar": "رقم بعد الثلاثة وقبل الخمسة",
+      "fr": "Nombre après trois et avant cinq",
+      "it": "Numero dopo tre e prima di cinque",
+      "ru": "Число после трёх и перед пятью",
+      "es": "Número después de tres y antes de cinco",
+      "pl": "Liczba po trzech i przed pięcioma",
+      "fa": "عدد بعد از سه و قبل از پنج"
+    },
+    "examples": {
+      "en": ["I have four chairs", "Four is a number", "We are four friends"],
+      "de": ["Ich habe vier Stühle", "Vier ist eine Zahl", "Wir sind vier Freunde"],
+      "ar": ["لدي أربعة كراسي", "أربعة هو رقم", "نحن أربعة أصدقاء"],
+      "fr": ["J'ai quatre chaises", "Quatre est un nombre", "Nous sommes quatre amis"],
+      "it": ["Ho quattro sedie", "Quattro è un numero", "Siamo quattro amici"],
+      "ru": ["У меня четыре стула", "Четыре это число", "Мы четыре друга"],
+      "es": ["Yo tengo cuatro sillas", "Cuatro es un número", "Nosotros somos cuatro amigos"],
+      "pl": ["Mam cztery krzesła", "Cztery jest liczbą", "Jesteśmy czworgiem przyjaciół"],
+      "fa": ["من چهار صندلی دارم", "چهار یک عدد است", "ما چهار دوست هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_746_es",
+    "word": "cinco",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "five",
+      "de": "fünf",
+      "ar": "خمسة",
+      "fr": "cinq",
+      "it": "cinque",
+      "ru": "пять",
+      "es": "cinco",
+      "pl": "pięć",
+      "fa": "پنج"
+    },
+    "explanations": {
+      "en": "Number after four and before six",
+      "de": "Zahl nach vier und vor sechs",
+      "ar": "رقم بعد الأربعة وقبل الستة",
+      "fr": "Nombre après quatre et avant six",
+      "it": "Numero dopo quattro e prima di sei",
+      "ru": "Число после четырёх и перед шестью",
+      "es": "Número después de cuatro y antes de seis",
+      "pl": "Liczba po czterech i przed sześcioma",
+      "fa": "عدد بعد از چهار و قبل از شش"
+    },
+    "examples": {
+      "en": ["I have five pens", "Five is a number", "We work five days"],
+      "de": ["Ich habe fünf Stifte", "Fünf ist eine Zahl", "Wir arbeiten fünf Tage"],
+      "ar": ["لدي خمسة أقلام", "خمسة هو رقم", "نحن نعمل خمسة أيام"],
+      "fr": ["J'ai cinq stylos", "Cinq est un nombre", "Nous travaillons cinq jours"],
+      "it": ["Ho cinque penne", "Cinque è un numero", "Lavoriamo cinque giorni"],
+      "ru": ["У меня пять ручек", "Пять это число", "Мы работаем пять дней"],
+      "es": ["Yo tengo cinco bolígrafos", "Cinco es un número", "Nosotros trabajamos cinco días"],
+      "pl": ["Mam pięć długopisów", "Pięć jest liczbą", "Pracujemy pięć dni"],
+      "fa": ["من پنج خودکار دارم", "پنج یک عدد است", "ما پنج روز کار می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_747_es",
+    "word": "diez",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ten",
+      "de": "zehn",
+      "ar": "عشرة",
+      "fr": "dix",
+      "it": "dieci",
+      "ru": "десять",
+      "es": "diez",
+      "pl": "dziesięć",
+      "fa": "ده"
+    },
+    "explanations": {
+      "en": "Number representing one complete set of digits",
+      "de": "Zahl, die einen vollständigen Satz von Ziffern darstellt",
+      "ar": "رقم يمثل مجموعة كاملة من الأرقام",
+      "fr": "Nombre représentant un ensemble complet de chiffres",
+      "it": "Numero che rappresenta un set completo di cifre",
+      "ru": "Число, представляющее один полный набор цифр",
+      "es": "Número que representa un conjunto completo de dígitos",
+      "pl": "Liczba reprezentująca kompletny zestaw cyfr",
+      "fa": "عددی که یک مجموعه کامل ارقام را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have ten fingers", "Ten is a number", "We are ten students"],
+      "de": ["Ich habe zehn Finger", "Zehn ist eine Zahl", "Wir sind zehn Studenten"],
+      "ar": ["لدي عشرة أصابع", "عشرة هو رقم", "نحن عشرة طلاب"],
+      "fr": ["J'ai dix doigts", "Dix est un nombre", "Nous sommes dix étudiants"],
+      "it": ["Ho dieci dita", "Dieci è un numero", "Siamo dieci studenti"],
+      "ru": ["У меня десять пальцев", "Десять это число", "Мы десять студентов"],
+      "es": ["Yo tengo diez dedos", "Diez es un número", "Nosotros somos diez estudiantes"],
+      "pl": ["Mam dziesięć palców", "Dziesięć jest liczbą", "Jesteśmy dziesięcioma studentami"],
+      "fa": ["من ده انگشت دارم", "ده یک عدد است", "ما ده دانشجو هستیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_748_es",
+    "word": "veinte",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "twenty",
+      "de": "zwanzig",
+      "ar": "عشرون",
+      "fr": "vingt",
+      "it": "venti",
+      "ru": "двадцать",
+      "es": "veinte",
+      "pl": "dwadzieścia",
+      "fa": "بیست"
+    },
+    "explanations": {
+      "en": "Number representing two tens or score",
+      "de": "Zahl, die zwei Zehner darstellt",
+      "ar": "رقم يمثل اثنين من العشرات",
+      "fr": "Nombre représentant deux dizaines",
+      "it": "Numero che rappresenta due decine",
+      "ru": "Число, представляющее два десятка",
+      "es": "Número que representa dos decenas",
+      "pl": "Liczba reprezentująca dwie dziesiątki",
+      "fa": "عددی که دو ده را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am twenty years old", "Twenty is a number", "We have twenty chairs"],
+      "de": ["Ich bin zwanzig Jahre alt", "Zwanzig ist eine Zahl", "Wir haben zwanzig Stühle"],
+      "ar": ["أنا عمري عشرون سنة", "عشرون هو رقم", "لدينا عشرون كرسي"],
+      "fr": ["J'ai vingt ans", "Vingt est un nombre", "Nous avons vingt chaises"],
+      "it": ["Ho vent'anni", "Venti è un numero", "Abbiamo venti sedie"],
+      "ru": ["Мне двадцать лет", "Двадцать это число", "У нас двадцать стульев"],
+      "es": ["Yo tengo veinte años", "Veinte es un número", "Nosotros tenemos veinte sillas"],
+      "pl": ["Mam dwadzieścia lat", "Dwadzieścia jest liczbą", "Mamy dwadzieścia krzeseł"],
+      "fa": ["من بیست سال دارم", "بیست یک عدد است", "ما بیست صندلی داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_749_es",
+    "word": "treinta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thirty",
+      "de": "dreißig",
+      "ar": "ثلاثون",
+      "fr": "trente",
+      "it": "trenta",
+      "ru": "тридцать",
+      "es": "treinta",
+      "pl": "trzydzieści",
+      "fa": "سی"
+    },
+    "explanations": {
+      "en": "Number representing three tens",
+      "de": "Zahl, die drei Zehner darstellt",
+      "ar": "رقم يمثل ثلاثة من العشرات",
+      "fr": "Nombre représentant trois dizaines",
+      "it": "Numero che rappresenta tre decine",
+      "ru": "Число, представляющее три десятка",
+      "es": "Número que representa tres decenas",
+      "pl": "Liczba reprezentująca trzy dziesiątki",
+      "fa": "عددی که سه ده را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am thirty years old", "Thirty is a number", "The class has thirty students"],
+      "de": ["Ich bin dreißig Jahre alt", "Dreißig ist eine Zahl", "Die Klasse hat dreißig Studenten"],
+      "ar": ["أنا عمري ثلاثون سنة", "ثلاثون هو رقم", "الصف لديه ثلاثون طالب"],
+      "fr": ["J'ai trente ans", "Trente est un nombre", "La classe a trente étudiants"],
+      "it": ["Ho trent'anni", "Trenta è un numero", "La classe ha trenta studenti"],
+      "ru": ["Мне тридцать лет", "Тридцать это число", "В классе тридцать студентов"],
+      "es": ["Yo tengo treinta años", "Treinta es un número", "La clase tiene treinta estudiantes"],
+      "pl": ["Mam trzydzieści lat", "Trzydzieści jest liczbą", "Klasa ma trzydziestu studentów"],
+      "fa": ["من سی سال دارم", "سی یک عدد است", "کلاس سی دانشجو دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_750_es",
+    "word": "cuarenta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "forty",
+      "de": "vierzig",
+      "ar": "أربعون",
+      "fr": "quarante",
+      "it": "quaranta",
+      "ru": "сорок",
+      "es": "cuarenta",
+      "pl": "czterdzieści",
+      "fa": "چهل"
+    },
+    "explanations": {
+      "en": "Number representing four tens",
+      "de": "Zahl, die vier Zehner darstellt",
+      "ar": "رقم يمثل أربعة من العشرات",
+      "fr": "Nombre représentant quatre dizaines",
+      "it": "Numero che rappresenta quattro decine",
+      "ru": "Число, представляющее четыре десятка",
+      "es": "Número que representa cuatro decenas",
+      "pl": "Liczba reprezentująca cztery dziesiątki",
+      "fa": "عددی که چهار ده را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["She is forty years old", "Forty is a number", "We work forty hours"],
+      "de": ["Sie ist vierzig Jahre alt", "Vierzig ist eine Zahl", "Wir arbeiten vierzig Stunden"],
+      "ar": ["هي عمرها أربعون سنة", "أربعون هو رقم", "نحن نعمل أربعون ساعة"],
+      "fr": ["Elle a quarante ans", "Quarante est un nombre", "Nous travaillons quarante heures"],
+      "it": ["Lei ha quarant'anni", "Quaranta è un numero", "Lavoriamo quaranta ore"],
+      "ru": ["Ей сорок лет", "Сорок это число", "Мы работаем сорок часов"],
+      "es": ["Ella tiene cuarenta años", "Cuarenta es un número", "Nosotros trabajamos cuarenta horas"],
+      "pl": ["Ona ma czterdzieści lat", "Czterdzieści jest liczbą", "Pracujemy czterdzieści godzin"],
+      "fa": ["او چهل سال دارد", "چهل یک عدد است", "ما چهل ساعت کار می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_751_es",
+    "word": "cincuenta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fifty",
+      "de": "fünfzig",
+      "ar": "خمسون",
+      "fr": "cinquante",
+      "it": "cinquanta",
+      "ru": "пятьдесят",
+      "es": "cincuenta",
+      "pl": "pięćdziesiąt",
+      "fa": "پنجاه"
+    },
+    "explanations": {
+      "en": "Number representing five tens or half hundred",
+      "de": "Zahl, die fünf Zehner oder halbes Hundert darstellt",
+      "ar": "رقم يمثل خمسة من العشرات أو نصف مائة",
+      "fr": "Nombre représentant cinq dizaines ou demi-centaine",
+      "it": "Numero che rappresenta cinque decine o mezzo centinaio",
+      "ru": "Число, представляющее пять десятков или половину сотни",
+      "es": "Número que representa cinco decenas o medio centenar",
+      "pl": "Liczba reprezentująca pięć dziesiątek lub pół setki",
+      "fa": "عددی که پنج ده یا نیم صد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["He is fifty years old", "Fifty is a number", "The book has fifty pages"],
+      "de": ["Er ist fünfzig Jahre alt", "Fünfzig ist eine Zahl", "Das Buch hat fünfzig Seiten"],
+      "ar": ["هو عمره خمسون سنة", "خمسون هو رقم", "الكتاب لديه خمسون صفحة"],
+      "fr": ["Il a cinquante ans", "Cinquante est un nombre", "Le livre a cinquante pages"],
+      "it": ["Lui ha cinquant'anni", "Cinquanta è un numero", "Il libro ha cinquanta pagine"],
+      "ru": ["Ему пятьдесят лет", "Пятьдесят это число", "В книге пятьдесят страниц"],
+      "es": ["Él tiene cincuenta años", "Cincuenta es un número", "El libro tiene cincuenta páginas"],
+      "pl": ["On ma pięćdziesiąt lat", "Pięćdziesiąt jest liczbą", "Książka ma pięćdziesiąt stron"],
+      "fa": ["او پنجاه سال دارد", "پنجاه یک عدد است", "کتاب پنجاه صفحه دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_752_es",
+    "word": "cien",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "one hundred",
+      "de": "hundert",
+      "ar": "مائة",
+      "fr": "cent",
+      "it": "cento",
+      "ru": "сто",
+      "es": "cien",
+      "pl": "sto",
+      "fa": "صد"
+    },
+    "explanations": {
+      "en": "Number representing ten tens or full century",
+      "de": "Zahl, die zehn Zehner oder volles Jahrhundert darstellt",
+      "ar": "رقم يمثل عشرة من العشرات أو قرن كامل",
+      "fr": "Nombre représentant dix dizaines ou siècle complet",
+      "it": "Numero che rappresenta dieci decine o secolo completo",
+      "ru": "Число, представляющее десять десятков или полное столетие",
+      "es": "Número que representa diez decenas o siglo completo",
+      "pl": "Liczba reprezentująca dziesięć dziesiątek lub pełne stulecie",
+      "fa": "عددی که ده ده یا یک قرن کامل را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have one hundred euros", "One hundred is a number", "The building is one hundred meters"],
+      "de": ["Ich habe hundert Euro", "Hundert ist eine Zahl", "Das Gebäude ist hundert Meter"],
+      "ar": ["لدي مائة يورو", "مائة هو رقم", "المبنى مائة متر"],
+      "fr": ["J'ai cent euros", "Cent est un nombre", "Le bâtiment fait cent mètres"],
+      "it": ["Ho cento euro", "Cento è un numero", "L'edificio è cento metri"],
+      "ru": ["У меня сто евро", "Сто это число", "Здание сто метров"],
+      "es": ["Yo tengo cien euros", "Cien es un número", "El edificio mide cien metros"],
+      "pl": ["Mam sto euro", "Sto jest liczbą", "Budynek ma sto metrów"],
+      "fa": ["من صد یورو دارم", "صد یک عدد است", "ساختمان صد متر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_753_es",
+    "word": "mil",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "one thousand",
+      "de": "tausend",
+      "ar": "ألف",
+      "fr": "mille",
+      "it": "mille",
+      "ru": "тысяча",
+      "es": "mil",
+      "pl": "tysiąc",
+      "fa": "هزار"
+    },
+    "explanations": {
+      "en": "Number representing ten hundreds",
+      "de": "Zahl, die zehn Hunderte darstellt",
+      "ar": "رقم يمثل عشر مئات",
+      "fr": "Nombre représentant dix centaines",
+      "it": "Numero che rappresenta dieci centinaia",
+      "ru": "Число, представляющее десять сотен",
+      "es": "Número que representa diez centenas",
+      "pl": "Liczba reprezentująca dziesięć setek",
+      "fa": "عددی که ده صد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have one thousand books", "One thousand is a number", "The city has one thousand people"],
+      "de": ["Ich habe tausend Bücher", "Tausend ist eine Zahl", "Die Stadt hat tausend Menschen"],
+      "ar": ["لدي ألف كتاب", "ألف هو رقم", "المدينة لديها ألف شخص"],
+      "fr": ["J'ai mille livres", "Mille est un nombre", "La ville a mille personnes"],
+      "it": ["Ho mille libri", "Mille è un numero", "La città ha mille persone"],
+      "ru": ["У меня тысяча книг", "Тысяча это число", "В городе тысяча человек"],
+      "es": ["Yo tengo mil libros", "Mil es un número", "La ciudad tiene mil personas"],
+      "pl": ["Mam tysiąc książek", "Tysiąc jest liczbą", "Miasto ma tysiąc ludzi"],
+      "fa": ["من هزار کتاب دارم", "هزار یک عدد است", "شهر هزار نفر دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_754_es",
+    "word": "millón",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "million",
+      "de": "Million",
+      "ar": "مليون",
+      "fr": "million",
+      "it": "milione",
+      "ru": "миллион",
+      "es": "millón",
+      "pl": "milion",
+      "fa": "میلیون"
+    },
+    "explanations": {
+      "en": "Number representing one thousand thousands",
+      "de": "Zahl, die tausend Tausende darstellt",
+      "ar": "رقم يمثل ألف ألف",
+      "fr": "Nombre représentant mille milliers",
+      "it": "Numero che rappresenta mille migliaia",
+      "ru": "Число, представляющее тысячу тысяч",
+      "es": "Número que representa mil miles",
+      "pl": "Liczba reprezentująca tysiąc tysięcy",
+      "fa": "عددی که هزار هزار را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["One million is big", "I want a million euros", "The city has one million people"],
+      "de": ["Eine Million ist groß", "Ich will eine Million Euro", "Die Stadt hat eine Million Menschen"],
+      "ar": ["المليون كبير", "أنا أريد مليون يورو", "المدينة لديها مليون شخص"],
+      "fr": ["Un million est grand", "Je veux un million d'euros", "La ville a un million de personnes"],
+      "it": ["Un milione è grande", "Voglio un milione di euro", "La città ha un milione di persone"],
+      "ru": ["Миллион большой", "Я хочу миллион евро", "В городе миллион человек"],
+      "es": ["Un millón es grande", "Yo quiero un millón de euros", "La ciudad tiene un millón de personas"],
+      "pl": ["Milion jest duży", "Chcę milion euro", "Miasto ma milion ludzi"],
+      "fa": ["یک میلیون بزرگ است", "من یک میلیون یورو می‌خواهم", "شهر یک میلیون نفر دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_755_es",
+    "word": "primero",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "first",
+      "de": "erste",
+      "ar": "أول",
+      "fr": "premier",
+      "it": "primo",
+      "ru": "первый",
+      "es": "primero",
+      "pl": "pierwszy",
+      "fa": "اول"
+    },
+    "explanations": {
+      "en": "Ordinal number indicating position at beginning",
+      "de": "Ordnungszahl, die Position am Anfang anzeigt",
+      "ar": "رقم ترتيبي يشير إلى الموضع في البداية",
+      "fr": "Nombre ordinal indiquant la position au début",
+      "it": "Numero ordinale che indica posizione all'inizio",
+      "ru": "Порядковое числительное, указывающее позицию в начале",
+      "es": "Número ordinal que indica posición al principio",
+      "pl": "Liczba porządkowa wskazująca pozycję na początku",
+      "fa": "عدد ترتیبی که موقعیت در ابتدا را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am first", "This is my first book", "She is the first person"],
+      "de": ["Ich bin Erste", "Das ist mein erstes Buch", "Sie ist die erste Person"],
+      "ar": ["أنا الأول", "هذا كتابي الأول", "هي الشخص الأول"],
+      "fr": ["Je suis premier", "C'est mon premier livre", "Elle est la première personne"],
+      "it": ["Sono primo", "Questo è il mio primo libro", "Lei è la prima persona"],
+      "ru": ["Я первый", "Это моя первая книга", "Она первый человек"],
+      "es": ["Yo soy el primero", "Este es mi primer libro", "Ella es la primera persona"],
+      "pl": ["Jestem pierwszy", "To jest moja pierwsza książka", "Ona jest pierwszą osobą"],
+      "fa": ["من اول هستم", "این اولین کتاب من است", "او اولین نفر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_756_es",
+    "word": "segundo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "second",
+      "de": "zweite",
+      "ar": "ثاني",
+      "fr": "deuxième, seconde",
+      "it": "secondo",
+      "ru": "второй",
+      "es": "segundo",
+      "pl": "drugi",
+      "fa": "دوم"
+    },
+    "explanations": {
+      "en": "Ordinal number after first or unit of time",
+      "de": "Ordnungszahl nach erste oder Zeiteinheit",
+      "ar": "رقم ترتيبي بعد الأول أو وحدة الزمن",
+      "fr": "Nombre ordinal après premier ou unité de temps",
+      "it": "Numero ordinale dopo primo o unità di tempo",
+      "ru": "Порядковое числительное после первого или единица времени",
+      "es": "Número ordinal después de primero o unidad de tiempo",
+      "pl": "Liczba porządkowa po pierwszym lub jednostka czasu",
+      "fa": "عدد ترتیبی بعد از اول یا واحد زمان"
+    },
+    "examples": {
+      "en": ["I am second", "This is my second book", "Wait one second please"],
+      "de": ["Ich bin Zweite", "Das ist mein zweites Buch", "Warte eine Sekunde bitte"],
+      "ar": ["أنا الثاني", "هذا كتابي الثاني", "انتظر ثانية واحدة من فضلك"],
+      "fr": ["Je suis deuxième", "C'est mon deuxième livre", "Attends une seconde s'il te plaît"],
+      "it": ["Sono secondo", "Questo è il mio secondo libro", "Aspetta un secondo per favore"],
+      "ru": ["Я второй", "Это моя вторая книга", "Подожди секунду пожалуйста"],
+      "es": ["Yo soy el segundo", "Este es mi segundo libro", "Espera un segundo por favor"],
+      "pl": ["Jestem drugi", "To jest moja druga książka", "Poczekaj sekundę proszę"],
+      "fa": ["من دوم هستم", "این دومین کتاب من است", "لطفاً یک ثانیه صبر کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_757_es",
+    "word": "tercero",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "third",
+      "de": "dritte",
+      "ar": "ثالث",
+      "fr": "troisième",
+      "it": "terzo",
+      "ru": "третий",
+      "es": "tercero",
+      "pl": "trzeci",
+      "fa": "سوم"
+    },
+    "explanations": {
+      "en": "Ordinal number indicating third position",
+      "de": "Ordnungszahl, die dritte Position anzeigt",
+      "ar": "رقم ترتيبي يشير إلى الموضع الثالث",
+      "fr": "Nombre ordinal indiquant la troisième position",
+      "it": "Numero ordinale che indica terza posizione",
+      "ru": "Порядковое числительное, указывающее третью позицию",
+      "es": "Número ordinal que indica tercera posición",
+      "pl": "Liczba porządkowa wskazująca trzecią pozycję",
+      "fa": "عدد ترتیبی که موقعیت سوم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am third", "This is my third book", "He is the third person"],
+      "de": ["Ich bin Dritte", "Das ist mein drittes Buch", "Er ist die dritte Person"],
+      "ar": ["أنا الثالث", "هذا كتابي الثالث", "هو الشخص الثالث"],
+      "fr": ["Je suis troisième", "C'est mon troisième livre", "Il est la troisième personne"],
+      "it": ["Sono terzo", "Questo è il mio terzo libro", "Lui è la terza persona"],
+      "ru": ["Я третий", "Это моя третья книга", "Он третий человек"],
+      "es": ["Yo soy el tercero", "Este es mi tercer libro", "Él es la tercera persona"],
+      "pl": ["Jestem trzeci", "To jest moja trzecia książka", "On jest trzecią osobą"],
+      "fa": ["من سوم هستم", "این سومین کتاب من است", "او سومین نفر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_758_es",
+    "word": "último",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "last, final",
+      "de": "letzte",
+      "ar": "أخير",
+      "fr": "dernier",
+      "it": "ultimo",
+      "ru": "последний",
+      "es": "último",
+      "pl": "ostatni",
+      "fa": "آخرین"
+    },
+    "explanations": {
+      "en": "Ordinal indicating final position in sequence",
+      "de": "Ordnungszahl, die Endposition in Reihenfolge anzeigt",
+      "ar": "ترتيبي يشير إلى الموضع النهائي في التسلسل",
+      "fr": "Ordinal indiquant la position finale dans la séquence",
+      "it": "Ordinale che indica posizione finale nella sequenza",
+      "ru": "Порядковое, указывающее последнюю позицию в последовательности",
+      "es": "Ordinal que indica posición final en secuencia",
+      "pl": "Liczba porządkowa wskazująca końcową pozycję w sekwencji",
+      "fa": "ترتیبی که موقعیت نهایی در توالی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am last", "This is my last book", "She is the last person"],
+      "de": ["Ich bin Letzte", "Das ist mein letztes Buch", "Sie ist die letzte Person"],
+      "ar": ["أنا الأخير", "هذا كتابي الأخير", "هي الشخص الأخير"],
+      "fr": ["Je suis dernier", "C'est mon dernier livre", "Elle est la dernière personne"],
+      "it": ["Sono ultimo", "Questo è il mio ultimo libro", "Lei è l'ultima persona"],
+      "ru": ["Я последний", "Это моя последняя книга", "Она последний человек"],
+      "es": ["Yo soy el último", "Este es mi último libro", "Ella es la última persona"],
+      "pl": ["Jestem ostatni", "To jest moja ostatnia książka", "Ona jest ostatnią osobą"],
+      "fa": ["من آخرین هستم", "این آخرین کتاب من است", "او آخرین نفر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_759_es",
+    "word": "próximo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "next, near",
+      "de": "nächste",
+      "ar": "قادم، قريب",
+      "fr": "prochain",
+      "it": "prossimo",
+      "ru": "следующий, близкий",
+      "es": "próximo",
+      "pl": "następny, bliski",
+      "fa": "بعدی، نزدیک"
+    },
+    "explanations": {
+      "en": "Coming immediately after in time or position",
+      "de": "Unmittelbar danach kommend in Zeit oder Position",
+      "ar": "يأتي مباشرة بعد ذلك في الوقت أو الموضع",
+      "fr": "Venant immédiatement après dans le temps ou la position",
+      "it": "Che viene immediatamente dopo nel tempo o posizione",
+      "ru": "Следующий непосредственно после во времени или позиции",
+      "es": "Que viene inmediatamente después en tiempo o posición",
+      "pl": "Nadchodzący bezpośrednio po w czasie lub pozycji",
+      "fa": "که بلافاصله بعد در زمان یا موقعیت می‌آید"
+    },
+    "examples": {
+      "en": ["Next week is important", "I am the next person", "The next bus comes soon"],
+      "de": ["Nächste Woche ist wichtig", "Ich bin die nächste Person", "Der nächste Bus kommt bald"],
+      "ar": ["الأسبوع القادم مهم", "أنا الشخص القادم", "الحافلة القادمة تأتي قريباً"],
+      "fr": ["La semaine prochaine est importante", "Je suis la prochaine personne", "Le prochain bus arrive bientôt"],
+      "it": ["La prossima settimana è importante", "Sono la prossima persona", "Il prossimo autobus arriva presto"],
+      "ru": ["Следующая неделя важная", "Я следующий человек", "Следующий автобус скоро"],
+      "es": ["La próxima semana es importante", "Yo soy la próxima persona", "El próximo autobús viene pronto"],
+      "pl": ["Następny tydzień jest ważny", "Jestem następną osobą", "Następny autobus przyjdzie wkrótce"],
+      "fa": ["هفته بعد مهم است", "من نفر بعدی هستم", "اتوبوس بعدی زود می‌آید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_760_es",
+    "word": "siguiente",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "following, next",
+      "de": "folgend, nächste",
+      "ar": "تالي، قادم",
+      "fr": "suivant",
+      "it": "seguente",
+      "ru": "следующий",
+      "es": "siguiente",
+      "pl": "następny",
+      "fa": "بعدی"
+    },
+    "explanations": {
+      "en": "Coming after or as a result of",
+      "de": "Danach kommend oder als Ergebnis von",
+      "ar": "يأتي بعد أو نتيجة لـ",
+      "fr": "Venant après ou en conséquence de",
+      "it": "Che viene dopo o come risultato di",
+      "ru": "Идущий после или в результате",
+      "es": "Que viene después o como resultado de",
+      "pl": "Nadchodzący po lub w wyniku",
+      "fa": "که بعد می‌آید یا در نتیجه"
+    },
+    "examples": {
+      "en": ["The following day is important", "I am the next student", "Read the following text"],
+      "de": ["Der folgende Tag ist wichtig", "Ich bin der nächste Student", "Lies den folgenden Text"],
+      "ar": ["اليوم التالي مهم", "أنا الطالب التالي", "اقرأ النص التالي"],
+      "fr": ["Le jour suivant est important", "Je suis l'étudiant suivant", "Lis le texte suivant"],
+      "it": ["Il giorno seguente è importante", "Sono il prossimo studente", "Leggi il testo seguente"],
+      "ru": ["Следующий день важный", "Я следующий студент", "Прочитай следующий текст"],
+      "es": ["El día siguiente es importante", "Yo soy el siguiente estudiante", "Lee el siguiente texto"],
+      "pl": ["Następny dzień jest ważny", "Jestem następnym studentem", "Przeczytaj następny tekst"],
+      "fa": ["روز بعد مهم است", "من دانشجوی بعدی هستم", "متن بعدی را بخوان"]
+    },
+    "conjugations": null
+  }
+]

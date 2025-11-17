@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_861_es",
+    "word": "animal",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "animal",
+      "de": "Tier",
+      "ar": "حيوان",
+      "fr": "animal",
+      "it": "animale",
+      "ru": "животное",
+      "es": "animal",
+      "pl": "zwierzę",
+      "fa": "حیوان"
+    },
+    "explanations": {
+      "en": "Living creature that is not a plant",
+      "de": "Lebewesen, das keine Pflanze ist",
+      "ar": "مخلوق حي ليس نباتًا",
+      "fr": "Créature vivante qui n'est pas une plante",
+      "it": "Creatura vivente che non è una pianta",
+      "ru": "Живое существо, которое не является растением",
+      "es": "Criatura viviente que no es una planta",
+      "pl": "Żywa istota, która nie jest rośliną",
+      "fa": "موجود زنده‌ای که گیاه نیست"
+    },
+    "examples": {
+      "en": ["I see an animal", "This animal is big", "She loves all animals"],
+      "de": ["Ich sehe ein Tier", "Dieses Tier ist groß", "Sie liebt alle Tiere"],
+      "ar": ["أرى حيوانًا", "هذا الحيوان كبير", "هي تحب جميع الحيوانات"],
+      "fr": ["Je vois un animal", "Cet animal est grand", "Elle aime tous les animaux"],
+      "it": ["Vedo un animale", "Questo animale è grande", "Lei ama tutti gli animali"],
+      "ru": ["Я вижу животное", "Это животное большое", "Она любит всех животных"],
+      "es": ["Yo veo un animal", "Este animal es grande", "Ella ama todos los animales"],
+      "pl": ["Widzę zwierzę", "To zwierzę jest duże", "Ona kocha wszystkie zwierzęta"],
+      "fa": ["من یک حیوان می‌بینم", "این حیوان بزرگ است", "او همه حیوانات را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_862_es",
+    "word": "perro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dog",
+      "de": "Hund",
+      "ar": "كلب",
+      "fr": "chien",
+      "it": "cane",
+      "ru": "собака",
+      "es": "perro",
+      "pl": "pies",
+      "fa": "سگ"
+    },
+    "explanations": {
+      "en": "Common domestic animal kept as pet",
+      "de": "Häufiges Haustier als Haustier gehalten",
+      "ar": "حيوان أليف شائع يُحفظ كحيوان أليف",
+      "fr": "Animal domestique commun gardé comme animal de compagnie",
+      "it": "Animale domestico comune tenuto come animale da compagnia",
+      "ru": "Обычное домашнее животное, содержащееся как питомец",
+      "es": "Animal doméstico común mantenido como mascota",
+      "pl": "Powszechne zwierzę domowe trzymane jako zwierzę domowe",
+      "fa": "حیوان خانگی رایج که به عنوان حیوان خانگی نگهداری می‌شود"
+    },
+    "examples": {
+      "en": ["I have a dog", "The dog is friendly", "She walks her dog"],
+      "de": ["Ich habe einen Hund", "Der Hund ist freundlich", "Sie geht mit ihrem Hund"],
+      "ar": ["لدي كلب", "الكلب ودود", "هي تمشي مع كلبها"],
+      "fr": ["J'ai un chien", "Le chien est amical", "Elle promène son chien"],
+      "it": ["Ho un cane", "Il cane è amichevole", "Lei porta a spasso il suo cane"],
+      "ru": ["У меня есть собака", "Собака дружелюбная", "Она гуляет со своей собакой"],
+      "es": ["Yo tengo un perro", "El perro es amigable", "Ella pasea su perro"],
+      "pl": ["Mam psa", "Pies jest przyjazny", "Ona spaceruje ze swoim psem"],
+      "fa": ["من یک سگ دارم", "سگ دوستانه است", "او با سگش قدم می‌زند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_863_es",
+    "word": "gato",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cat",
+      "de": "Katze",
+      "ar": "قطة",
+      "fr": "chat",
+      "it": "gatto",
+      "ru": "кот, кошка",
+      "es": "gato",
+      "pl": "kot",
+      "fa": "گربه"
+    },
+    "explanations": {
+      "en": "Small furry domestic animal often kept as pet",
+      "de": "Kleines pelziges Haustier, oft als Haustier gehalten",
+      "ar": "حيوان أليف صغير فروي غالبًا ما يُحفظ كحيوان أليف",
+      "fr": "Petit animal domestique à fourrure souvent gardé comme animal de compagnie",
+      "it": "Piccolo animale domestico peloso spesso tenuto come animale da compagnia",
+      "ru": "Маленькое пушистое домашнее животное, часто содержащееся как питомец",
+      "es": "Animal doméstico pequeño peludo a menudo mantenido como mascota",
+      "pl": "Małe futrzane zwierzę domowe często trzymane jako zwierzę domowe",
+      "fa": "حیوان خانگی کوچک پشمالو که اغلب به عنوان حیوان خانگی نگهداری می‌شود"
+    },
+    "examples": {
+      "en": ["I have a cat", "The cat is sleeping", "She feeds her cat"],
+      "de": ["Ich habe eine Katze", "Die Katze schläft", "Sie füttert ihre Katze"],
+      "ar": ["لدي قطة", "القطة نائمة", "هي تطعم قطتها"],
+      "fr": ["J'ai un chat", "Le chat dort", "Elle nourrit son chat"],
+      "it": ["Ho un gatto", "Il gatto sta dormendo", "Lei nutre il suo gatto"],
+      "ru": ["У меня есть кот", "Кот спит", "Она кормит свою кошку"],
+      "es": ["Yo tengo un gato", "El gato está durmiendo", "Ella alimenta su gato"],
+      "pl": ["Mam kota", "Kot śpi", "Ona karmi swojego kota"],
+      "fa": ["من یک گربه دارم", "گربه خوابیده است", "او به گربه‌اش غذا می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_864_es",
+    "word": "pájaro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bird",
+      "de": "Vogel",
+      "ar": "طائر",
+      "fr": "oiseau",
+      "it": "uccello",
+      "ru": "птица",
+      "es": "pájaro",
+      "pl": "ptak",
+      "fa": "پرنده"
+    },
+    "explanations": {
+      "en": "Animal with wings and feathers that can fly",
+      "de": "Tier mit Flügeln und Federn, das fliegen kann",
+      "ar": "حيوان له أجنحة وريش يمكنه الطيران",
+      "fr": "Animal avec des ailes et des plumes qui peut voler",
+      "it": "Animale con ali e piume che può volare",
+      "ru": "Животное с крыльями и перьями, которое может летать",
+      "es": "Animal con alas y plumas que puede volar",
+      "pl": "Zwierzę ze skrzydłami i piórami, które może latać",
+      "fa": "حیوانی با بال و پر که می‌تواند پرواز کند"
+    },
+    "examples": {
+      "en": ["I see a bird", "The bird is singing", "She watches the birds"],
+      "de": ["Ich sehe einen Vogel", "Der Vogel singt", "Sie beobachtet die Vögel"],
+      "ar": ["أرى طائرًا", "الطائر يغرد", "هي تشاهد الطيور"],
+      "fr": ["Je vois un oiseau", "L'oiseau chante", "Elle regarde les oiseaux"],
+      "it": ["Vedo un uccello", "L'uccello sta cantando", "Lei guarda gli uccelli"],
+      "ru": ["Я вижу птицу", "Птица поёт", "Она наблюдает за птицами"],
+      "es": ["Yo veo un pájaro", "El pájaro está cantando", "Ella mira los pájaros"],
+      "pl": ["Widzę ptaka", "Ptak śpiewa", "Ona obserwuje ptaki"],
+      "fa": ["من یک پرنده می‌بینم", "پرنده آواز می‌خواند", "او پرنده‌ها را تماشا می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_865_es",
+    "word": "pez",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fish",
+      "de": "Fisch",
+      "ar": "سمكة",
+      "fr": "poisson",
+      "it": "pesce",
+      "ru": "рыба",
+      "es": "pez",
+      "pl": "ryba",
+      "fa": "ماهی"
+    },
+    "explanations": {
+      "en": "Water animal that lives and swims underwater",
+      "de": "Wassertier, das unter Wasser lebt und schwimmt",
+      "ar": "حيوان مائي يعيش ويسبح تحت الماء",
+      "fr": "Animal aquatique qui vit et nage sous l'eau",
+      "it": "Animale acquatico che vive e nuota sott'acqua",
+      "ru": "Водное животное, которое живёт и плавает под водой",
+      "es": "Animal acuático que vive y nada bajo el agua",
+      "pl": "Zwierzę wodne, które żyje i pływa pod wodą",
+      "fa": "حیوان آبی که زیر آب زندگی و شنا می‌کند"
+    },
+    "examples": {
+      "en": ["I catch a fish", "The fish is small", "She has many fish"],
+      "de": ["Ich fange einen Fisch", "Der Fisch ist klein", "Sie hat viele Fische"],
+      "ar": ["أصطاد سمكة", "السمكة صغيرة", "لديها أسماك كثيرة"],
+      "fr": ["J'attrape un poisson", "Le poisson est petit", "Elle a beaucoup de poissons"],
+      "it": ["Prendo un pesce", "Il pesce è piccolo", "Lei ha molti pesci"],
+      "ru": ["Я ловлю рыбу", "Рыба маленькая", "У неё много рыб"],
+      "es": ["Yo atrapo un pez", "El pez es pequeño", "Ella tiene muchos peces"],
+      "pl": ["Łapię rybę", "Ryba jest mała", "Ona ma wiele ryb"],
+      "fa": ["من یک ماهی می‌گیرم", "ماهی کوچک است", "او ماهی‌های زیادی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_866_es",
+    "word": "caballo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "horse",
+      "de": "Pferd",
+      "ar": "حصان",
+      "fr": "cheval",
+      "it": "cavallo",
+      "ru": "лошадь",
+      "es": "caballo",
+      "pl": "koń",
+      "fa": "اسب"
+    },
+    "explanations": {
+      "en": "Large four-legged animal used for riding",
+      "de": "Großes vierbeiniges Tier zum Reiten",
+      "ar": "حيوان كبير ذو أربعة أرجل يستخدم للركوب",
+      "fr": "Grand animal à quatre pattes utilisé pour monter",
+      "it": "Grande animale a quattro zampe usato per cavalcare",
+      "ru": "Большое четвероногое животное для верховой езды",
+      "es": "Animal grande de cuatro patas usado para montar",
+      "pl": "Duże czworonożne zwierzę używane do jazdy",
+      "fa": "حیوان بزرگ چهارپا برای سواری"
+    },
+    "examples": {
+      "en": ["I ride a horse", "The horse is fast", "She loves the horse"],
+      "de": ["Ich reite ein Pferd", "Das Pferd ist schnell", "Sie liebt das Pferd"],
+      "ar": ["أركب حصانًا", "الحصان سريع", "هي تحب الحصان"],
+      "fr": ["Je monte un cheval", "Le cheval est rapide", "Elle aime le cheval"],
+      "it": ["Cavalco un cavallo", "Il cavallo è veloce", "Lei ama il cavallo"],
+      "ru": ["Я езжу на лошади", "Лошадь быстрая", "Она любит лошадь"],
+      "es": ["Yo monto un caballo", "El caballo es rápido", "Ella ama el caballo"],
+      "pl": ["Jeżdżę na koniu", "Koń jest szybki", "Ona kocha konia"],
+      "fa": ["من سوار اسب می‌شوم", "اسب سریع است", "او اسب را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_867_es",
+    "word": "vaca",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cow",
+      "de": "Kuh",
+      "ar": "بقرة",
+      "fr": "vache",
+      "it": "mucca",
+      "ru": "корова",
+      "es": "vaca",
+      "pl": "krowa",
+      "fa": "گاو"
+    },
+    "explanations": {
+      "en": "Large farm animal that produces milk",
+      "de": "Großes Nutztier, das Milch produziert",
+      "ar": "حيوان مزرعة كبير ينتج الحليب",
+      "fr": "Grand animal de ferme qui produit du lait",
+      "it": "Grande animale da fattoria che produce latte",
+      "ru": "Большое сельскохозяйственное животное, дающее молоко",
+      "es": "Animal grande de granja que produce leche",
+      "pl": "Duże zwierzę gospodarskie produkujące mleko",
+      "fa": "حیوان بزرگ مزرعه که شیر تولید می‌کند"
+    },
+    "examples": {
+      "en": ["I see a cow", "The cow gives milk", "She milks the cow"],
+      "de": ["Ich sehe eine Kuh", "Die Kuh gibt Milch", "Sie melkt die Kuh"],
+      "ar": ["أرى بقرة", "البقرة تعطي حليبًا", "هي تحلب البقرة"],
+      "fr": ["Je vois une vache", "La vache donne du lait", "Elle trait la vache"],
+      "it": ["Vedo una mucca", "La mucca dà latte", "Lei munge la mucca"],
+      "ru": ["Я вижу корову", "Корова даёт молоко", "Она доит корову"],
+      "es": ["Yo veo una vaca", "La vaca da leche", "Ella ordeña la vaca"],
+      "pl": ["Widzę krowę", "Krowa daje mleko", "Ona doi krowę"],
+      "fa": ["من یک گاو می‌بینم", "گاو شیر می‌دهد", "او گاو را می‌دوشد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_868_es",
+    "word": "oveja",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sheep",
+      "de": "Schaf",
+      "ar": "خروف",
+      "fr": "mouton",
+      "it": "pecora",
+      "ru": "овца",
+      "es": "oveja",
+      "pl": "owca",
+      "fa": "گوسفند"
+    },
+    "explanations": {
+      "en": "Farm animal with wool that is raised for meat",
+      "de": "Nutztier mit Wolle, das für Fleisch gezüchtet wird",
+      "ar": "حيوان مزرعة بصوف يُربى من أجل اللحم",
+      "fr": "Animal de ferme avec laine élevé pour la viande",
+      "it": "Animale da fattoria con lana allevato per la carne",
+      "ru": "Сельскохозяйственное животное с шерстью, выращиваемое на мясо",
+      "es": "Animal de granja con lana criado para carne",
+      "pl": "Zwierzę gospodarskie z wełną hodowane na mięso",
+      "fa": "حیوان مزرعه با پشم که برای گوشت پرورش داده می‌شود"
+    },
+    "examples": {
+      "en": ["I see many sheep", "The sheep is white", "She counts the sheep"],
+      "de": ["Ich sehe viele Schafe", "Das Schaf ist weiß", "Sie zählt die Schafe"],
+      "ar": ["أرى خرافًا كثيرة", "الخروف أبيض", "هي تعد الخراف"],
+      "fr": ["Je vois beaucoup de moutons", "Le mouton est blanc", "Elle compte les moutons"],
+      "it": ["Vedo molte pecore", "La pecora è bianca", "Lei conta le pecore"],
+      "ru": ["Я вижу много овец", "Овца белая", "Она считает овец"],
+      "es": ["Yo veo muchas ovejas", "La oveja es blanca", "Ella cuenta las ovejas"],
+      "pl": ["Widzę wiele owiec", "Owca jest biała", "Ona liczy owce"],
+      "fa": ["من گوسفندان زیادی می‌بینم", "گوسفند سفید است", "او گوسفندان را می‌شمارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_869_es",
+    "word": "cerdo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pig",
+      "de": "Schwein",
+      "ar": "خنزير",
+      "fr": "cochon",
+      "it": "maiale",
+      "ru": "свинья",
+      "es": "cerdo",
+      "pl": "świnia",
+      "fa": "خوک"
+    },
+    "explanations": {
+      "en": "Farm animal raised for meat",
+      "de": "Nutztier, das für Fleisch gezüchtet wird",
+      "ar": "حيوان مزرعة يُربى من أجل اللحم",
+      "fr": "Animal de ferme élevé pour la viande",
+      "it": "Animale da fattoria allevato per la carne",
+      "ru": "Сельскохозяйственное животное, выращиваемое на мясо",
+      "es": "Animal de granja criado para carne",
+      "pl": "Zwierzę gospodarskie hodowane na mięso",
+      "fa": "حیوان مزرعه که برای گوشت پرورش داده می‌شود"
+    },
+    "examples": {
+      "en": ["I see a pig", "The pig is pink", "She feeds the pigs"],
+      "de": ["Ich sehe ein Schwein", "Das Schwein ist rosa", "Sie füttert die Schweine"],
+      "ar": ["أرى خنزيرًا", "الخنزير وردي", "هي تطعم الخنازير"],
+      "fr": ["Je vois un cochon", "Le cochon est rose", "Elle nourrit les cochons"],
+      "it": ["Vedo un maiale", "Il maiale è rosa", "Lei nutre i maiali"],
+      "ru": ["Я вижу свинью", "Свинья розовая", "Она кормит свиней"],
+      "es": ["Yo veo un cerdo", "El cerdo es rosado", "Ella alimenta los cerdos"],
+      "pl": ["Widzę świnię", "Świnia jest różowa", "Ona karmi świnie"],
+      "fa": ["من یک خوک می‌بینم", "خوک صورتی است", "او به خوک‌ها غذا می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_870_es",
+    "word": "pollo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "chicken",
+      "de": "Huhn",
+      "ar": "دجاجة",
+      "fr": "poulet",
+      "it": "pollo",
+      "ru": "курица",
+      "es": "pollo",
+      "pl": "kurczak",
+      "fa": "مرغ"
+    },
+    "explanations": {
+      "en": "Common farm bird raised for eggs and meat",
+      "de": "Häufiger Bauernvogel für Eier und Fleisch gezüchtet",
+      "ar": "طائر مزرعة شائع يُربى من أجل البيض واللحم",
+      "fr": "Oiseau de ferme commun élevé pour les œufs et la viande",
+      "it": "Uccello da fattoria comune allevato per uova e carne",
+      "ru": "Обычная сельскохозяйственная птица для яиц и мяса",
+      "es": "Ave de granja común criada para huevos y carne",
+      "pl": "Powszechny ptak gospodarczy hodowany na jaja i mięso",
+      "fa": "پرنده رایج مزرعه که برای تخم و گوشت پرورش داده می‌شود"
+    },
+    "examples": {
+      "en": ["I have many chickens", "The chicken lays eggs", "She cooks the chicken"],
+      "de": ["Ich habe viele Hühner", "Das Huhn legt Eier", "Sie kocht das Huhn"],
+      "ar": ["لدي دجاجات كثيرة", "الدجاجة تبيض", "هي تطبخ الدجاجة"],
+      "fr": ["J'ai beaucoup de poulets", "Le poulet pond des œufs", "Elle cuisine le poulet"],
+      "it": ["Ho molti polli", "Il pollo depone uova", "Lei cucina il pollo"],
+      "ru": ["У меня много кур", "Курица несёт яйца", "Она готовит курицу"],
+      "es": ["Yo tengo muchos pollos", "El pollo pone huevos", "Ella cocina el pollo"],
+      "pl": ["Mam wiele kurczaków", "Kurczak składa jaja", "Ona gotuje kurczaka"],
+      "fa": ["من مرغ‌های زیادی دارم", "مرغ تخم می‌گذارد", "او مرغ را می‌پزد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_871_es",
+    "word": "mascota",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pet",
+      "de": "Haustier",
+      "ar": "حيوان أليف",
+      "fr": "animal de compagnie",
+      "it": "animale domestico",
+      "ru": "домашнее животное",
+      "es": "mascota",
+      "pl": "zwierzę domowe",
+      "fa": "حیوان خانگی"
+    },
+    "explanations": {
+      "en": "Animal kept for companionship and enjoyment",
+      "de": "Tier, das für Gesellschaft und Freude gehalten wird",
+      "ar": "حيوان يُحفظ للرفقة والمتعة",
+      "fr": "Animal gardé pour la compagnie et le plaisir",
+      "it": "Animale tenuto per compagnia e divertimento",
+      "ru": "Животное, содержащееся для общения и удовольствия",
+      "es": "Animal mantenido para compañía y disfrute",
+      "pl": "Zwierzę trzymane dla towarzystwa i przyjemności",
+      "fa": "حیوانی که برای همدمی و لذت نگهداری می‌شود"
+    },
+    "examples": {
+      "en": ["I have a pet", "My pet is friendly", "She loves her pet"],
+      "de": ["Ich habe ein Haustier", "Mein Haustier ist freundlich", "Sie liebt ihr Haustier"],
+      "ar": ["لدي حيوان أليف", "حيواني الأليف ودود", "هي تحب حيوانها الأليف"],
+      "fr": ["J'ai un animal de compagnie", "Mon animal est amical", "Elle aime son animal"],
+      "it": ["Ho un animale domestico", "Il mio animale è amichevole", "Lei ama il suo animale"],
+      "ru": ["У меня есть питомец", "Мой питомец дружелюбный", "Она любит своего питомца"],
+      "es": ["Yo tengo una mascota", "Mi mascota es amigable", "Ella ama su mascota"],
+      "pl": ["Mam zwierzę domowe", "Moje zwierzę jest przyjazne", "Ona kocha swoje zwierzę"],
+      "fa": ["من یک حیوان خانگی دارم", "حیوان خانگی من دوستانه است", "او حیوان خانگی‌اش را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_872_es",
+    "word": "salvaje",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wild",
+      "de": "wild",
+      "ar": "بري",
+      "fr": "sauvage",
+      "it": "selvaggio",
+      "ru": "дикий",
+      "es": "salvaje",
+      "pl": "dziki",
+      "fa": "وحشی"
+    },
+    "explanations": {
+      "en": "Living in nature, not tamed or domesticated",
+      "de": "In der Natur lebend, nicht gezähmt oder domestiziert",
+      "ar": "يعيش في الطبيعة، غير مستأنس أو مدجن",
+      "fr": "Vivant dans la nature, non apprivoisé ou domestiqué",
+      "it": "Vivente in natura, non addomesticato",
+      "ru": "Живущий в природе, не прирученный или одомашненный",
+      "es": "Viviendo en la naturaleza, no domesticado",
+      "pl": "Żyjący w naturze, nie oswojony lub udomowiony",
+      "fa": "زندگی در طبیعت، اهلی نشده"
+    },
+    "examples": {
+      "en": ["I see wild animals", "This animal is wild", "She studies wild nature"],
+      "de": ["Ich sehe wilde Tiere", "Dieses Tier ist wild", "Sie studiert wilde Natur"],
+      "ar": ["أرى حيوانات برية", "هذا الحيوان بري", "هي تدرس الطبيعة البرية"],
+      "fr": ["Je vois des animaux sauvages", "Cet animal est sauvage", "Elle étudie la nature sauvage"],
+      "it": ["Vedo animali selvaggi", "Questo animale è selvaggio", "Lei studia la natura selvaggia"],
+      "ru": ["Я вижу диких животных", "Это животное дикое", "Она изучает дикую природу"],
+      "es": ["Yo veo animales salvajes", "Este animal es salvaje", "Ella estudia la naturaleza salvaje"],
+      "pl": ["Widzę dzikie zwierzęta", "To zwierzę jest dzikie", "Ona studiuje dziką naturę"],
+      "fa": ["من حیوانات وحشی می‌بینم", "این حیوان وحشی است", "او طبیعت وحشی مطالعه می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_873_es",
+    "word": "zoológico",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "zoo",
+      "de": "Zoo",
+      "ar": "حديقة حيوان",
+      "fr": "zoo",
+      "it": "zoo",
+      "ru": "зоопарк",
+      "es": "zoológico",
+      "pl": "zoo",
+      "fa": "باغ وحش"
+    },
+    "explanations": {
+      "en": "Place where animals are kept for public viewing",
+      "de": "Ort, wo Tiere zur öffentlichen Besichtigung gehalten werden",
+      "ar": "مكان يُحفظ فيه الحيوانات للعرض العام",
+      "fr": "Endroit où les animaux sont gardés pour le public",
+      "it": "Luogo dove gli animali sono tenuti per visione pubblica",
+      "ru": "Место, где животных содержат для публичного просмотра",
+      "es": "Lugar donde se mantienen animales para vista pública",
+      "pl": "Miejsce, gdzie zwierzęta są trzymane do publicznego oglądania",
+      "fa": "مکانی که حیوانات برای بازدید عمومی نگهداری می‌شوند"
+    },
+    "examples": {
+      "en": ["I visit the zoo", "The zoo is big", "She loves the zoo"],
+      "de": ["Ich besuche den Zoo", "Der Zoo ist groß", "Sie liebt den Zoo"],
+      "ar": ["أزور حديقة الحيوان", "حديقة الحيوان كبيرة", "هي تحب حديقة الحيوان"],
+      "fr": ["Je visite le zoo", "Le zoo est grand", "Elle aime le zoo"],
+      "it": ["Visito lo zoo", "Lo zoo è grande", "Lei ama lo zoo"],
+      "ru": ["Я посещаю зоопарк", "Зоопарк большой", "Она любит зоопарк"],
+      "es": ["Yo visito el zoológico", "El zoológico es grande", "Ella ama el zoológico"],
+      "pl": ["Odwiedzam zoo", "Zoo jest duże", "Ona kocha zoo"],
+      "fa": ["من از باغ وحش بازدید می‌کنم", "باغ وحش بزرگ است", "او باغ وحش را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_874_es",
+    "word": "granja",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "farm",
+      "de": "Bauernhof",
+      "ar": "مزرعة",
+      "fr": "ferme",
+      "it": "fattoria",
+      "ru": "ферма",
+      "es": "granja",
+      "pl": "gospodarstwo",
+      "fa": "مزرعه"
+    },
+    "explanations": {
+      "en": "Land used for growing crops or raising animals",
+      "de": "Land zum Anbau von Pflanzen oder zur Tierhaltung",
+      "ar": "أرض تستخدم لزراعة المحاصيل أو تربية الحيوانات",
+      "fr": "Terre utilisée pour cultiver ou élever des animaux",
+      "it": "Terra usata per coltivare o allevare animali",
+      "ru": "Земля для выращивания культур или животных",
+      "es": "Tierra usada para cultivar o criar animales",
+      "pl": "Ziemia używana do uprawy roślin lub hodowli zwierząt",
+      "fa": "زمین برای کشت محصول یا پرورش حیوانات"
+    },
+    "examples": {
+      "en": ["I live on farm", "The farm is big", "She works on farm"],
+      "de": ["Ich lebe auf Bauernhof", "Der Bauernhof ist groß", "Sie arbeitet auf Bauernhof"],
+      "ar": ["أعيش في المزرعة", "المزرعة كبيرة", "هي تعمل في المزرعة"],
+      "fr": ["Je vis à la ferme", "La ferme est grande", "Elle travaille à la ferme"],
+      "it": ["Vivo in fattoria", "La fattoria è grande", "Lei lavora in fattoria"],
+      "ru": ["Я живу на ферме", "Ферма большая", "Она работает на ферме"],
+      "es": ["Yo vivo en la granja", "La granja es grande", "Ella trabaja en la granja"],
+      "pl": ["Mieszkam na gospodarstwie", "Gospodarstwo jest duże", "Ona pracuje na gospodarstwie"],
+      "fa": ["من در مزرعه زندگی می‌کنم", "مزرعه بزرگ است", "او در مزرعه کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_875_es",
+    "word": "alimentar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to feed",
+      "de": "füttern",
+      "ar": "يطعم",
+      "fr": "nourrir",
+      "it": "nutrire",
+      "ru": "кормить",
+      "es": "alimentar",
+      "pl": "karmić",
+      "fa": "غذا دادن"
+    },
+    "explanations": {
+      "en": "To give food to person or animal",
+      "de": "Einer Person oder einem Tier Essen geben",
+      "ar": "إعطاء الطعام لشخص أو حيوان",
+      "fr": "Donner de la nourriture à une personne ou un animal",
+      "it": "Dare cibo a persona o animale",
+      "ru": "Давать еду человеку или животному",
+      "es": "Dar comida a persona o animal",
+      "pl": "Dawać jedzenie osobie lub zwierzęciu",
+      "fa": "به انسان یا حیوان غذا دادن"
+    },
+    "examples": {
+      "en": ["I feed my dog", "Feed the cat now", "She feeds the birds"],
+      "de": ["Ich füttere meinen Hund", "Füttere die Katze jetzt", "Sie füttert die Vögel"],
+      "ar": ["أطعم كلبي", "أطعم القطة الآن", "هي تطعم الطيور"],
+      "fr": ["Je nourris mon chien", "Nourris le chat maintenant", "Elle nourrit les oiseaux"],
+      "it": ["Nutro il mio cane", "Nutri il gatto adesso", "Lei nutre gli uccelli"],
+      "ru": ["Я кормлю свою собаку", "Покорми кота сейчас", "Она кормит птиц"],
+      "es": ["Yo alimento a mi perro", "Alimenta al gato ahora", "Ella alimenta a los pájaros"],
+      "pl": ["Karmię mojego psa", "Nakarm kota teraz", "Ona karmi ptaki"],
+      "fa": ["من به سگم غذا می‌دهم", "حالا به گربه غذا بده", "او به پرنده‌ها غذا می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_876_es",
+    "word": "cazar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to hunt",
+      "de": "jagen",
+      "ar": "يصطاد",
+      "fr": "chasser",
+      "it": "cacciare",
+      "ru": "охотиться",
+      "es": "cazar",
+      "pl": "polować",
+      "fa": "شکار کردن"
+    },
+    "explanations": {
+      "en": "To pursue and catch wild animals",
+      "de": "Wilde Tiere verfolgen und fangen",
+      "ar": "مطاردة والقبض على الحيوانات البرية",
+      "fr": "Poursuivre et attraper des animaux sauvages",
+      "it": "Inseguire e catturare animali selvatici",
+      "ru": "Преследовать и ловить диких животных",
+      "es": "Perseguir y atrapar animales salvajes",
+      "pl": "Ścigać i łapać dzikie zwierzęta",
+      "fa": "تعقیب و گرفتن حیوانات وحشی"
+    },
+    "examples": {
+      "en": ["I hunt in forest", "They hunt wild animals", "She doesn't hunt now"],
+      "de": ["Ich jage im Wald", "Sie jagen wilde Tiere", "Sie jagt jetzt nicht"],
+      "ar": ["أصطاد في الغابة", "يصطادون حيوانات برية", "هي لا تصطاد الآن"],
+      "fr": ["Je chasse dans la forêt", "Ils chassent des animaux sauvages", "Elle ne chasse pas maintenant"],
+      "it": ["Caccio nella foresta", "Cacciano animali selvatici", "Lei non caccia adesso"],
+      "ru": ["Я охочусь в лесу", "Они охотятся на диких животных", "Она не охотится сейчас"],
+      "es": ["Yo cazo en el bosque", "Ellos cazan animales salvajes", "Ella no caza ahora"],
+      "pl": ["Poluję w lesie", "Oni polują na dzikie zwierzęta", "Ona nie poluje teraz"],
+      "fa": ["من در جنگل شکار می‌کنم", "آنها حیوانات وحشی شکار می‌کنند", "او حالا شکار نمی‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_877_es",
+    "word": "volar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to fly",
+      "de": "fliegen",
+      "ar": "يطير",
+      "fr": "voler",
+      "it": "volare",
+      "ru": "летать",
+      "es": "volar",
+      "pl": "latać",
+      "fa": "پرواز کردن"
+    },
+    "explanations": {
+      "en": "To move through air with wings",
+      "de": "Sich mit Flügeln durch die Luft bewegen",
+      "ar": "التحرك في الهواء بالأجنحة",
+      "fr": "Se déplacer dans l'air avec des ailes",
+      "it": "Muoversi nell'aria con ali",
+      "ru": "Двигаться по воздуху с крыльями",
+      "es": "Moverse por el aire con alas",
+      "pl": "Poruszać się w powietrzu ze skrzydłami",
+      "fa": "حرکت در هوا با بال"
+    },
+    "examples": {
+      "en": ["I see birds fly", "Birds fly very high", "She watches them fly"],
+      "de": ["Ich sehe Vögel fliegen", "Vögel fliegen sehr hoch", "Sie sieht sie fliegen"],
+      "ar": ["أرى الطيور تطير", "الطيور تطير عاليًا جدًا", "هي تشاهدها تطير"],
+      "fr": ["Je vois des oiseaux voler", "Les oiseaux volent très haut", "Elle les regarde voler"],
+      "it": ["Vedo uccelli volare", "Gli uccelli volano molto alto", "Lei li guarda volare"],
+      "ru": ["Я вижу, как птицы летают", "Птицы летают очень высоко", "Она смотрит, как они летают"],
+      "es": ["Yo veo pájaros volar", "Los pájaros vuelan muy alto", "Ella los mira volar"],
+      "pl": ["Widzę ptaki latać", "Ptaki latają bardzo wysoko", "Ona patrzy, jak latają"],
+      "fa": ["من پرنده‌ها را پرواز می‌بینم", "پرنده‌ها خیلی بالا پرواز می‌کنند", "او آنها را پرواز می‌بیند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_878_es",
+    "word": "nadar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to swim",
+      "de": "schwimmen",
+      "ar": "يسبح",
+      "fr": "nager",
+      "it": "nuotare",
+      "ru": "плавать",
+      "es": "nadar",
+      "pl": "pływać",
+      "fa": "شنا کردن"
+    },
+    "explanations": {
+      "en": "To move through water using body",
+      "de": "Sich mit dem Körper durch Wasser bewegen",
+      "ar": "التحرك في الماء باستخدام الجسم",
+      "fr": "Se déplacer dans l'eau en utilisant le corps",
+      "it": "Muoversi nell'acqua usando il corpo",
+      "ru": "Двигаться по воде, используя тело",
+      "es": "Moverse por el agua usando el cuerpo",
+      "pl": "Poruszać się w wodzie używając ciała",
+      "fa": "حرکت در آب با استفاده از بدن"
+    },
+    "examples": {
+      "en": ["I swim every day", "Fish swim in water", "She swims very well"],
+      "de": ["Ich schwimme jeden Tag", "Fische schwimmen im Wasser", "Sie schwimmt sehr gut"],
+      "ar": ["أسبح كل يوم", "الأسماك تسبح في الماء", "هي تسبح جيدًا جدًا"],
+      "fr": ["Je nage tous les jours", "Les poissons nagent dans l'eau", "Elle nage très bien"],
+      "it": ["Nuoto ogni giorno", "I pesci nuotano nell'acqua", "Lei nuota molto bene"],
+      "ru": ["Я плаваю каждый день", "Рыбы плавают в воде", "Она плавает очень хорошо"],
+      "es": ["Yo nado cada día", "Los peces nadan en el agua", "Ella nada muy bien"],
+      "pl": ["Pływam codziennie", "Ryby pływają w wodzie", "Ona pływa bardzo dobrze"],
+      "fa": ["من هر روز شنا می‌کنم", "ماهی‌ها در آب شنا می‌کنند", "او خیلی خوب شنا می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_879_es",
+    "word": "correr",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to run",
+      "de": "rennen, laufen",
+      "ar": "يركض",
+      "fr": "courir",
+      "it": "correre",
+      "ru": "бегать",
+      "es": "correr",
+      "pl": "biegać",
+      "fa": "دویدن"
+    },
+    "explanations": {
+      "en": "To move quickly on foot",
+      "de": "Sich schnell zu Fuß bewegen",
+      "ar": "التحرك بسرعة على الأقدام",
+      "fr": "Se déplacer rapidement à pied",
+      "it": "Muoversi velocemente a piedi",
+      "ru": "Двигаться быстро пешком",
+      "es": "Moverse rápidamente a pie",
+      "pl": "Poruszać się szybko pieszo",
+      "fa": "حرکت سریع با پا"
+    },
+    "examples": {
+      "en": ["I run every morning", "Dogs run very fast", "She runs in park"],
+      "de": ["Ich laufe jeden Morgen", "Hunde rennen sehr schnell", "Sie läuft im Park"],
+      "ar": ["أركض كل صباح", "الكلاب تركض بسرعة كبيرة", "هي تركض في الحديقة"],
+      "fr": ["Je cours tous les matins", "Les chiens courent très vite", "Elle court dans le parc"],
+      "it": ["Corro ogni mattina", "I cani corrono molto veloce", "Lei corre nel parco"],
+      "ru": ["Я бегаю каждое утро", "Собаки бегают очень быстро", "Она бегает в парке"],
+      "es": ["Yo corro cada mañana", "Los perros corren muy rápido", "Ella corre en el parque"],
+      "pl": ["Biegam każdego ranka", "Psy biegają bardzo szybko", "Ona biega w parku"],
+      "fa": ["من هر صبح می‌دوم", "سگ‌ها خیلی سریع می‌دوند", "او در پارک می‌دود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_880_es",
+    "word": "saltar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to jump",
+      "de": "springen",
+      "ar": "يقفز",
+      "fr": "sauter",
+      "it": "saltare",
+      "ru": "прыгать",
+      "es": "saltar",
+      "pl": "skakać",
+      "fa": "پریدن"
+    },
+    "explanations": {
+      "en": "To push yourself off ground into air",
+      "de": "Sich vom Boden in die Luft abstoßen",
+      "ar": "دفع نفسك من الأرض إلى الهواء",
+      "fr": "Se pousser du sol dans l'air",
+      "it": "Spingersi dal suolo nell'aria",
+      "ru": "Оттолкнуться от земли в воздух",
+      "es": "Impulsarse del suelo al aire",
+      "pl": "Odepchnąć się od ziemi w powietrze",
+      "fa": "خود را از زمین به هوا پرتاب کردن"
+    },
+    "examples": {
+      "en": ["I jump very high", "The cat jumps well", "She jumps on bed"],
+      "de": ["Ich springe sehr hoch", "Die Katze springt gut", "Sie springt auf Bett"],
+      "ar": ["أقفز عاليًا جدًا", "القطة تقفز جيدًا", "هي تقفز على السرير"],
+      "fr": ["Je saute très haut", "Le chat saute bien", "Elle saute sur le lit"],
+      "it": ["Salto molto alto", "Il gatto salta bene", "Lei salta sul letto"],
+      "ru": ["Я прыгаю очень высоко", "Кот прыгает хорошо", "Она прыгает на кровать"],
+      "es": ["Yo salto muy alto", "El gato salta bien", "Ella salta en la cama"],
+      "pl": ["Skaczę bardzo wysoko", "Kot skacze dobrze", "Ona skacze na łóżko"],
+      "fa": ["من خیلی بالا می‌پرم", "گربه خوب می‌پرد", "او روی تخت می‌پرد"]
+    },
+    "conjugations": null
+  }
+]

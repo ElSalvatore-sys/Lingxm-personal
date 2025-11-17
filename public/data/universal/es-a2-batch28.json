@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_541_es",
+    "word": "comprar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to buy",
+      "de": "kaufen",
+      "ar": "يشتري",
+      "fr": "acheter",
+      "it": "comprare",
+      "ru": "покупать",
+      "es": "comprar",
+      "pl": "kupować",
+      "fa": "خریدن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of acquiring goods or services in exchange for money",
+      "de": "Verb für die Handlung, Waren oder Dienstleistungen gegen Geld zu erwerben",
+      "ar": "فعل يعبر عن فعل الحصول على سلع أو خدمات مقابل المال",
+      "fr": "Verbe exprimant l'action d'acquérir des biens ou services en échange d'argent",
+      "it": "Verbo che esprime l'azione di acquisire beni o servizi in cambio di denaro",
+      "ru": "Глагол, выражающий действие приобретения товаров или услуг в обмен на деньги",
+      "es": "Verbo que expresa la acción de adquirir bienes o servicios a cambio de dinero",
+      "pl": "Czasownik wyrażający czynność nabywania towarów lub usług w zamian za pieniądze",
+      "fa": "فعلی که عمل خرید کالا یا خدمات در ازای پول را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I buy bread", "She buys a book", "We buy groceries"],
+      "de": ["Ich kaufe Brot", "Sie kauft ein Buch", "Wir kaufen Lebensmittel"],
+      "ar": ["أشتري الخبز", "هي تشتري كتاباً", "نحن نشتري البقالة"],
+      "fr": ["J'achète du pain", "Elle achète un livre", "Nous achetons des courses"],
+      "it": ["Compro il pane", "Lei compra un libro", "Compriamo la spesa"],
+      "ru": ["Я покупаю хлеб", "Она покупает книгу", "Мы покупаем продукты"],
+      "es": ["Yo compro pan", "Ella compra un libro", "Nosotros compramos comida"],
+      "pl": ["Kupuję chleb", "Ona kupuje książkę", "Kupujemy zakupy"],
+      "fa": ["من نان می‌خرم", "او کتاب می‌خرد", "ما خواربار می‌خریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_542_es",
+    "word": "vender",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to sell",
+      "de": "verkaufen",
+      "ar": "يبيع",
+      "fr": "vendre",
+      "it": "vendere",
+      "ru": "продавать",
+      "es": "vender",
+      "pl": "sprzedawać",
+      "fa": "فروختن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of giving goods or services in exchange for money",
+      "de": "Verb für die Handlung, Waren oder Dienstleistungen gegen Geld zu geben",
+      "ar": "فعل يعبر عن فعل تقديم سلع أو خدمات مقابل المال",
+      "fr": "Verbe exprimant l'action de donner des biens ou services en échange d'argent",
+      "it": "Verbo che esprime l'azione di dare beni o servizi in cambio di denaro",
+      "ru": "Глагол, выражающий действие передачи товаров или услуг в обмен на деньги",
+      "es": "Verbo que expresa la acción de dar bienes o servicios a cambio de dinero",
+      "pl": "Czasownik wyrażający czynność oddawania towarów lub usług w zamian za pieniądze",
+      "fa": "فعلی که عمل ارائه کالا یا خدمات در ازای پول را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I sell my car", "He sells books", "We sell flowers"],
+      "de": ["Ich verkaufe mein Auto", "Er verkauft Bücher", "Wir verkaufen Blumen"],
+      "ar": ["أبيع سيارتي", "هو يبيع الكتب", "نحن نبيع الزهور"],
+      "fr": ["Je vends ma voiture", "Il vend des livres", "Nous vendons des fleurs"],
+      "it": ["Vendo la mia auto", "Lui vende libri", "Vendiamo fiori"],
+      "ru": ["Я продаю машину", "Он продаёт книги", "Мы продаём цветы"],
+      "es": ["Yo vendo mi coche", "Él vende libros", "Nosotros vendemos flores"],
+      "pl": ["Sprzedaję mój samochód", "On sprzedaje książki", "Sprzedajemy kwiaty"],
+      "fa": ["من ماشینم را می‌فروشم", "او کتاب می‌فروشد", "ما گل می‌فروشیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_543_es",
+    "word": "pagar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to pay",
+      "de": "bezahlen",
+      "ar": "يدفع",
+      "fr": "payer",
+      "it": "pagare",
+      "ru": "платить",
+      "es": "pagar",
+      "pl": "płacić",
+      "fa": "پرداخت کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of giving money in exchange for goods or services",
+      "de": "Verb für die Handlung, Geld im Austausch für Waren oder Dienstleistungen zu geben",
+      "ar": "فعل يعبر عن فعل دفع المال مقابل السلع أو الخدمات",
+      "fr": "Verbe exprimant l'action de donner de l'argent en échange de biens ou services",
+      "it": "Verbo che esprime l'azione di dare denaro in cambio di beni o servizi",
+      "ru": "Глагол, выражающий действие передачи денег в обмен на товары или услуги",
+      "es": "Verbo que expresa la acción de dar dinero a cambio de bienes o servicios",
+      "pl": "Czasownik wyrażający czynność oddawania pieniędzy w zamian za towary lub usługi",
+      "fa": "فعلی که عمل پرداخت پول در ازای کالا یا خدمات را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I pay cash", "She pays the bill", "We pay together"],
+      "de": ["Ich zahle bar", "Sie bezahlt die Rechnung", "Wir zahlen zusammen"],
+      "ar": ["أدفع نقداً", "هي تدفع الفاتورة", "نحن ندفع معاً"],
+      "fr": ["Je paie en espèces", "Elle paie la facture", "Nous payons ensemble"],
+      "it": ["Pago in contanti", "Lei paga il conto", "Paghiamo insieme"],
+      "ru": ["Я плачу наличными", "Она платит счёт", "Мы платим вместе"],
+      "es": ["Yo pago en efectivo", "Ella paga la cuenta", "Nosotros pagamos juntos"],
+      "pl": ["Płacę gotówką", "Ona płaci rachunek", "Płacimy razem"],
+      "fa": ["من نقدی پرداخت می‌کنم", "او صورتحساب را پرداخت می‌کند", "ما با هم پرداخت می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_544_es",
+    "word": "costar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to cost",
+      "de": "kosten",
+      "ar": "يكلف",
+      "fr": "coûter",
+      "it": "costare",
+      "ru": "стоить",
+      "es": "costar",
+      "pl": "kosztować",
+      "fa": "قیمت داشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the price or value of something",
+      "de": "Verb für den Preis oder Wert von etwas",
+      "ar": "فعل يعبر عن سعر أو قيمة شيء ما",
+      "fr": "Verbe exprimant le prix ou la valeur de quelque chose",
+      "it": "Verbo che esprime il prezzo o il valore di qualcosa",
+      "ru": "Глагол, выражающий цену или стоимость чего-либо",
+      "es": "Verbo que expresa el precio o valor de algo",
+      "pl": "Czasownik wyrażający cenę lub wartość czegoś",
+      "fa": "فعلی که قیمت یا ارزش چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["It costs ten euros", "This book costs much", "How much does it cost?"],
+      "de": ["Es kostet zehn Euro", "Dieses Buch kostet viel", "Wie viel kostet es?"],
+      "ar": ["يكلف عشرة يورو", "هذا الكتاب يكلف كثيراً", "كم يكلف؟"],
+      "fr": ["Ça coûte dix euros", "Ce livre coûte cher", "Combien ça coûte?"],
+      "it": ["Costa dieci euro", "Questo libro costa molto", "Quanto costa?"],
+      "ru": ["Это стоит десять евро", "Эта книга стоит дорого", "Сколько это стоит?"],
+      "es": ["Cuesta diez euros", "Este libro cuesta mucho", "¿Cuánto cuesta esto?"],
+      "pl": ["To kosztuje dziesięć euro", "Ta książka kosztuje dużo", "Ile to kosztuje?"],
+      "fa": ["این ده یورو قیمت دارد", "این کتاب زیاد قیمت دارد", "چقدر قیمت دارد؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_545_es",
+    "word": "gastar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to spend",
+      "de": "ausgeben",
+      "ar": "ينفق",
+      "fr": "dépenser",
+      "it": "spendere",
+      "ru": "тратить",
+      "es": "gastar",
+      "pl": "wydawać",
+      "fa": "خرج کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of using money to buy things",
+      "de": "Verb für die Handlung, Geld für den Kauf von Dingen zu verwenden",
+      "ar": "فعل يعبر عن فعل استخدام المال لشراء الأشياء",
+      "fr": "Verbe exprimant l'action d'utiliser de l'argent pour acheter des choses",
+      "it": "Verbo che esprime l'azione di usare denaro per comprare cose",
+      "ru": "Глагол, выражающий действие использования денег для покупки вещей",
+      "es": "Verbo que expresa la acción de usar dinero para comprar cosas",
+      "pl": "Czasownik wyrażający czynność używania pieniędzy do kupowania rzeczy",
+      "fa": "فعلی که عمل استفاده از پول برای خرید چیزها را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I spend too much", "He spends his money", "We spend wisely"],
+      "de": ["Ich gebe zu viel aus", "Er gibt sein Geld aus", "Wir geben klug aus"],
+      "ar": ["أنفق كثيراً", "هو ينفق ماله", "نحن ننفق بحكمة"],
+      "fr": ["Je dépense trop", "Il dépense son argent", "Nous dépensons sagement"],
+      "it": ["Spendo troppo", "Lui spende i suoi soldi", "Spendiamo saggiamente"],
+      "ru": ["Я трачу слишком много", "Он тратит деньги", "Мы тратим разумно"],
+      "es": ["Yo gasto mucho dinero", "Él gasta su dinero", "Nosotros gastamos con prudencia"],
+      "pl": ["Wydaję za dużo", "On wydaje swoje pieniądze", "Wydajemy mądrze"],
+      "fa": ["من زیاد خرج می‌کنم", "او پولش را خرج می‌کند", "ما عاقلانه خرج می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_546_es",
+    "word": "ahorrar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to save",
+      "de": "sparen",
+      "ar": "يوفر، يدخر",
+      "fr": "économiser, épargner",
+      "it": "risparmiare",
+      "ru": "копить, экономить",
+      "es": "ahorrar",
+      "pl": "oszczędzać",
+      "fa": "پس‌انداز کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of keeping money instead of spending it",
+      "de": "Verb für die Handlung, Geld zu behalten anstatt es auszugeben",
+      "ar": "فعل يعبر عن فعل الاحتفاظ بالمال بدلاً من إنفاقه",
+      "fr": "Verbe exprimant l'action de garder de l'argent au lieu de le dépenser",
+      "it": "Verbo che esprime l'azione di conservare denaro invece di spenderlo",
+      "ru": "Глагол, выражающий действие сохранения денег вместо их траты",
+      "es": "Verbo que expresa la acción de guardar dinero en lugar de gastarlo",
+      "pl": "Czasownik wyrażający czynność zachowywania pieniędzy zamiast ich wydawania",
+      "fa": "فعلی که عمل نگه داشتن پول به جای خرج کردن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I save money", "She saves every month", "We save for vacation"],
+      "de": ["Ich spare Geld", "Sie spart jeden Monat", "Wir sparen für den Urlaub"],
+      "ar": ["أوفر المال", "هي توفر كل شهر", "نحن نوفر للإجازة"],
+      "fr": ["J'économise de l'argent", "Elle épargne chaque mois", "Nous économisons pour les vacances"],
+      "it": ["Risparmio denaro", "Lei risparmia ogni mese", "Risparmiamo per le vacanze"],
+      "ru": ["Я коплю деньги", "Она копит каждый месяц", "Мы копим на отпуск"],
+      "es": ["Yo ahorro dinero", "Ella ahorra cada mes", "Nosotros ahorramos para las vacaciones"],
+      "pl": ["Oszczędzam pieniądze", "Ona oszczędza co miesiąc", "Oszczędzamy na wakacje"],
+      "fa": ["من پول پس‌انداز می‌کنم", "او هر ماه پس‌انداز می‌کند", "ما برای تعطیلات پس‌انداز می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_547_es",
+    "word": "ganar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to earn, to win",
+      "de": "verdienen, gewinnen",
+      "ar": "يكسب، يربح",
+      "fr": "gagner",
+      "it": "guadagnare, vincere",
+      "ru": "зарабатывать, выигрывать",
+      "es": "ganar",
+      "pl": "zarabiać, wygrywać",
+      "fa": "درآمد داشتن، برنده شدن"
+    },
+    "explanations": {
+      "en": "Verb expressing earning money through work or winning a competition",
+      "de": "Verb für das Verdienen von Geld durch Arbeit oder Gewinnen eines Wettbewerbs",
+      "ar": "فعل يعبر عن كسب المال من خلال العمل أو الفوز في منافسة",
+      "fr": "Verbe exprimant gagner de l'argent par le travail ou gagner une compétition",
+      "it": "Verbo che esprime guadagnare denaro tramite lavoro o vincere una competizione",
+      "ru": "Глагол, выражающий зарабатывание денег через работу или победу в соревновании",
+      "es": "Verbo que expresa ganar dinero mediante trabajo o ganar una competición",
+      "pl": "Czasownik wyrażający zarabianie pieniędzy przez pracę lub wygrywanie zawodów",
+      "fa": "فعلی که درآمد پول از طریق کار یا برنده شدن در مسابقه را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I earn good money", "He wins the game", "We earn our salary"],
+      "de": ["Ich verdiene gutes Geld", "Er gewinnt das Spiel", "Wir verdienen unser Gehalt"],
+      "ar": ["أكسب مالاً جيداً", "هو يربح اللعبة", "نحن نكسب راتبنا"],
+      "fr": ["Je gagne bien ma vie", "Il gagne le jeu", "Nous gagnons notre salaire"],
+      "it": ["Guadagno bene", "Lui vince la partita", "Guadagniamo il nostro stipendio"],
+      "ru": ["Я зарабатываю хорошо", "Он выигрывает игру", "Мы зарабатываем зарплату"],
+      "es": ["Yo gano buen dinero", "Él gana el juego", "Nosotros ganamos nuestro sueldo"],
+      "pl": ["Zarabiam dobre pieniądze", "On wygrywa grę", "Zarabiamy nasze pensje"],
+      "fa": ["من پول خوبی درآمد دارم", "او بازی را می‌برد", "ما حقوقمان را درآمد داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_548_es",
+    "word": "trabajar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to work",
+      "de": "arbeiten",
+      "ar": "يعمل",
+      "fr": "travailler",
+      "it": "lavorare",
+      "ru": "работать",
+      "es": "trabajar",
+      "pl": "pracować",
+      "fa": "کار کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of performing tasks or duties for money",
+      "de": "Verb für die Handlung, Aufgaben oder Pflichten gegen Geld auszuführen",
+      "ar": "فعل يعبر عن فعل أداء المهام أو الواجبات مقابل المال",
+      "fr": "Verbe exprimant l'action d'effectuer des tâches ou des devoirs pour de l'argent",
+      "it": "Verbo che esprime l'azione di svolgere compiti o doveri per denaro",
+      "ru": "Глагол, выражающий действие выполнения задач или обязанностей за деньги",
+      "es": "Verbo que expresa la acción de realizar tareas o deberes por dinero",
+      "pl": "Czasownik wyrażający czynność wykonywania zadań lub obowiązków za pieniądze",
+      "fa": "فعلی که عمل انجام وظایف یا تکالیف برای پول را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I work every day", "She works at home", "We work together"],
+      "de": ["Ich arbeite jeden Tag", "Sie arbeitet zu Hause", "Wir arbeiten zusammen"],
+      "ar": ["أعمل كل يوم", "هي تعمل في المنزل", "نحن نعمل معاً"],
+      "fr": ["Je travaille tous les jours", "Elle travaille à la maison", "Nous travaillons ensemble"],
+      "it": ["Lavoro ogni giorno", "Lei lavora a casa", "Lavoriamo insieme"],
+      "ru": ["Я работаю каждый день", "Она работает дома", "Мы работаем вместе"],
+      "es": ["Yo trabajo todos los días", "Ella trabaja en casa", "Nosotros trabajamos juntos"],
+      "pl": ["Pracuję codziennie", "Ona pracuje w domu", "Pracujemy razem"],
+      "fa": ["من هر روز کار می‌کنم", "او در خانه کار می‌کند", "ما با هم کار می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_549_es",
+    "word": "trabajo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "work, job",
+      "de": "Arbeit, Job",
+      "ar": "عمل، وظيفة",
+      "fr": "travail, emploi",
+      "it": "lavoro",
+      "ru": "работа",
+      "es": "trabajo",
+      "pl": "praca",
+      "fa": "کار، شغل"
+    },
+    "explanations": {
+      "en": "Noun referring to employment or tasks performed for money",
+      "de": "Substantiv für Beschäftigung oder Aufgaben, die gegen Geld ausgeführt werden",
+      "ar": "اسم يشير إلى التوظيف أو المهام المنجزة مقابل المال",
+      "fr": "Nom désignant l'emploi ou les tâches effectuées pour de l'argent",
+      "it": "Sostantivo che si riferisce all'impiego o ai compiti svolti per denaro",
+      "ru": "Существительное, обозначающее занятость или задачи, выполняемые за деньги",
+      "es": "Sustantivo que se refiere al empleo o tareas realizadas por dinero",
+      "pl": "Rzeczownik odnoszący się do zatrudnienia lub zadań wykonywanych za pieniądze",
+      "fa": "اسمی که به اشتغال یا وظایف انجام شده برای پول اشاره دارد"
+    },
+    "examples": {
+      "en": ["I have work", "She likes her job", "Good work today"],
+      "de": ["Ich habe Arbeit", "Sie mag ihren Job", "Gute Arbeit heute"],
+      "ar": ["لدي عمل", "هي تحب وظيفتها", "عمل جيد اليوم"],
+      "fr": ["J'ai du travail", "Elle aime son emploi", "Bon travail aujourd'hui"],
+      "it": ["Ho lavoro", "Lei ama il suo lavoro", "Buon lavoro oggi"],
+      "ru": ["У меня есть работа", "Ей нравится её работа", "Хорошая работа сегодня"],
+      "es": ["Yo tengo trabajo", "Ella ama su trabajo", "Buen trabajo hoy"],
+      "pl": ["Mam pracę", "Ona lubi swoją pracę", "Dobra praca dzisiaj"],
+      "fa": ["من کار دارم", "او شغلش را دوست دارد", "کار خوب امروز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_550_es",
+    "word": "dinero",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "money",
+      "de": "Geld",
+      "ar": "مال، نقود",
+      "fr": "argent",
+      "it": "denaro, soldi",
+      "ru": "деньги",
+      "es": "dinero",
+      "pl": "pieniądze",
+      "fa": "پول"
+    },
+    "explanations": {
+      "en": "Noun referring to currency used to buy goods and services",
+      "de": "Substantiv für Währung, die zum Kauf von Waren und Dienstleistungen verwendet wird",
+      "ar": "اسم يشير إلى العملة المستخدمة لشراء السلع والخدمات",
+      "fr": "Nom désignant la monnaie utilisée pour acheter des biens et services",
+      "it": "Sostantivo che si riferisce alla valuta usata per comprare beni e servizi",
+      "ru": "Существительное, обозначающее валюту, используемую для покупки товаров и услуг",
+      "es": "Sustantivo que se refiere a la moneda usada para comprar bienes y servicios",
+      "pl": "Rzeczownik odnoszący się do waluty używanej do kupowania towarów i usług",
+      "fa": "اسمی که به ارز مورد استفاده برای خرید کالا و خدمات اشاره دارد"
+    },
+    "examples": {
+      "en": ["I need money", "She has enough money", "Money is important"],
+      "de": ["Ich brauche Geld", "Sie hat genug Geld", "Geld ist wichtig"],
+      "ar": ["أحتاج المال", "لديها مال كافٍ", "المال مهم"],
+      "fr": ["J'ai besoin d'argent", "Elle a assez d'argent", "L'argent est important"],
+      "it": ["Ho bisogno di soldi", "Lei ha abbastanza denaro", "Il denaro è importante"],
+      "ru": ["Мне нужны деньги", "У неё достаточно денег", "Деньги важны"],
+      "es": ["Yo necesito dinero", "Ella tiene suficiente dinero", "El dinero es importante"],
+      "pl": ["Potrzebuję pieniędzy", "Ona ma wystarczająco pieniędzy", "Pieniądze są ważne"],
+      "fa": ["من به پول نیاز دارم", "او پول کافی دارد", "پول مهم است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_551_es",
+    "word": "precio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "price",
+      "de": "Preis",
+      "ar": "سعر",
+      "fr": "prix",
+      "it": "prezzo",
+      "ru": "цена",
+      "es": "precio",
+      "pl": "cena",
+      "fa": "قیمت"
+    },
+    "explanations": {
+      "en": "Noun referring to the amount of money required to purchase something",
+      "de": "Substantiv für den Geldbetrag, der zum Kauf von etwas erforderlich ist",
+      "ar": "اسم يشير إلى مبلغ المال المطلوب لشراء شيء ما",
+      "fr": "Nom désignant le montant d'argent nécessaire pour acheter quelque chose",
+      "it": "Sostantivo che si riferisce all'importo di denaro richiesto per acquistare qualcosa",
+      "ru": "Существительное, обозначающее сумму денег, необходимую для покупки чего-либо",
+      "es": "Sustantivo que se refiere a la cantidad de dinero requerida para comprar algo",
+      "pl": "Rzeczownik odnoszący się do kwoty pieniędzy wymaganej do zakupu czegoś",
+      "fa": "اسمی که به مقدار پول مورد نیاز برای خرید چیزی اشاره دارد"
+    },
+    "examples": {
+      "en": ["What's the price?", "The price is high", "Good price today"],
+      "de": ["Was ist der Preis?", "Der Preis ist hoch", "Guter Preis heute"],
+      "ar": ["ما السعر؟", "السعر مرتفع", "سعر جيد اليوم"],
+      "fr": ["Quel est le prix?", "Le prix est élevé", "Bon prix aujourd'hui"],
+      "it": ["Qual è il prezzo?", "Il prezzo è alto", "Buon prezzo oggi"],
+      "ru": ["Какая цена?", "Цена высокая", "Хорошая цена сегодня"],
+      "es": ["¿Cuál es el precio?", "El precio es alto", "Buen precio hoy"],
+      "pl": ["Jaka jest cena?", "Cena jest wysoka", "Dobra cena dzisiaj"],
+      "fa": ["قیمت چقدر است؟", "قیمت بالاست", "قیمت خوب امروز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_552_es",
+    "word": "gratis",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "free",
+      "de": "gratis, kostenlos",
+      "ar": "مجاني",
+      "fr": "gratuit",
+      "it": "gratis, gratuito",
+      "ru": "бесплатно",
+      "es": "gratis",
+      "pl": "za darmo, gratis",
+      "fa": "رایگان"
+    },
+    "explanations": {
+      "en": "Adjective or adverb meaning without cost or payment",
+      "de": "Adjektiv oder Adverb, das ohne Kosten oder Bezahlung bedeutet",
+      "ar": "صفة أو ظرف يعني بدون تكلفة أو دفع",
+      "fr": "Adjectif ou adverbe signifiant sans frais ou paiement",
+      "it": "Aggettivo o avverbio che significa senza costo o pagamento",
+      "ru": "Прилагательное или наречие, означающее без стоимости или оплаты",
+      "es": "Adjetivo o adverbio que significa sin costo o pago",
+      "pl": "Przymiotnik lub przysłówek oznaczający bez kosztów lub płatności",
+      "fa": "صفت یا قید که به معنای بدون هزینه یا پرداخت است"
+    },
+    "examples": {
+      "en": ["It's free today", "Free entrance here", "I got it free"],
+      "de": ["Es ist heute gratis", "Freier Eintritt hier", "Ich habe es gratis bekommen"],
+      "ar": ["إنه مجاني اليوم", "دخول مجاني هنا", "حصلت عليه مجاناً"],
+      "fr": ["C'est gratuit aujourd'hui", "Entrée gratuite ici", "Je l'ai eu gratuit"],
+      "it": ["È gratis oggi", "Ingresso gratuito qui", "L'ho avuto gratis"],
+      "ru": ["Сегодня бесплатно", "Вход бесплатный здесь", "Я получил это бесплатно"],
+      "es": ["Es gratis hoy", "Entrada gratis aquí", "Lo tengo gratis"],
+      "pl": ["Dzisiaj jest za darmo", "Wstęp wolny tutaj", "Dostałem to gratis"],
+      "fa": ["امروز رایگان است", "ورود رایگان اینجا", "من آن را رایگان گرفتم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_553_es",
+    "word": "barato",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cheap, inexpensive",
+      "de": "billig, günstig",
+      "ar": "رخيص",
+      "fr": "bon marché, pas cher",
+      "it": "economico, a buon mercato",
+      "ru": "дешёвый",
+      "es": "barato",
+      "pl": "tani",
+      "fa": "ارزان"
+    },
+    "explanations": {
+      "en": "Adjective describing something with a low price",
+      "de": "Adjektiv, das etwas mit niedrigem Preis beschreibt",
+      "ar": "صفة تصف شيئاً ذا سعر منخفض",
+      "fr": "Adjectif décrivant quelque chose à bas prix",
+      "it": "Aggettivo che descrive qualcosa con un prezzo basso",
+      "ru": "Прилагательное, описывающее что-либо с низкой ценой",
+      "es": "Adjetivo que describe algo con precio bajo",
+      "pl": "Przymiotnik opisujący coś o niskiej cenie",
+      "fa": "صفتی که چیزی با قیمت پایین را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["This is cheap", "Very cheap price", "Cheap and good"],
+      "de": ["Das ist billig", "Sehr günstiger Preis", "Billig und gut"],
+      "ar": ["هذا رخيص", "سعر رخيص جداً", "رخيص وجيد"],
+      "fr": ["C'est bon marché", "Prix très bas", "Pas cher et bon"],
+      "it": ["Questo è economico", "Prezzo molto basso", "Economico e buono"],
+      "ru": ["Это дешёво", "Очень низкая цена", "Дёшево и хорошо"],
+      "es": ["Esto es barato", "Precio muy barato", "Barato y bueno"],
+      "pl": ["To jest tanie", "Bardzo niska cena", "Tanie i dobre"],
+      "fa": ["این ارزان است", "قیمت خیلی ارزان", "ارزان و خوب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_554_es",
+    "word": "caro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "expensive, dear",
+      "de": "teuer",
+      "ar": "غالي، مكلف",
+      "fr": "cher",
+      "it": "caro, costoso",
+      "ru": "дорогой",
+      "es": "caro",
+      "pl": "drogi",
+      "fa": "گران"
+    },
+    "explanations": {
+      "en": "Adjective describing something with a high price",
+      "de": "Adjektiv, das etwas mit hohem Preis beschreibt",
+      "ar": "صفة تصف شيئاً ذا سعر مرتفع",
+      "fr": "Adjectif décrivant quelque chose à prix élevé",
+      "it": "Aggettivo che descrive qualcosa con un prezzo alto",
+      "ru": "Прилагательное, описывающее что-либо с высокой ценой",
+      "es": "Adjetivo que describe algo con precio alto",
+      "pl": "Przymiotnik opisujący coś o wysokiej cenie",
+      "fa": "صفتی که چیزی با قیمت بالا را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["This is expensive", "Very high price", "Too expensive for me"],
+      "de": ["Das ist teuer", "Sehr hoher Preis", "Zu teuer für mich"],
+      "ar": ["هذا غالي", "سعر مرتفع جداً", "غالي جداً بالنسبة لي"],
+      "fr": ["C'est cher", "Prix très élevé", "Trop cher pour moi"],
+      "it": ["Questo è caro", "Prezzo molto alto", "Troppo caro per me"],
+      "ru": ["Это дорого", "Очень высокая цена", "Слишком дорого для меня"],
+      "es": ["Esto es caro", "Precio muy alto", "Demasiado caro para mí"],
+      "pl": ["To jest drogie", "Bardzo wysoka cena", "Za drogie dla mnie"],
+      "fa": ["این گران است", "قیمت خیلی بالا", "برای من خیلی گران"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_555_es",
+    "word": "tienda",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "store, shop",
+      "de": "Laden, Geschäft",
+      "ar": "متجر، محل",
+      "fr": "magasin, boutique",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "فروشگاه، مغازه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where goods are sold",
+      "de": "Substantiv für einen Ort, an dem Waren verkauft werden",
+      "ar": "اسم يشير إلى مكان تباع فيه البضائع",
+      "fr": "Nom désignant un endroit où des marchandises sont vendues",
+      "it": "Sostantivo che si riferisce a un luogo dove vengono vendute merci",
+      "ru": "Существительное, обозначающее место, где продаются товары",
+      "es": "Sustantivo que se refiere a un lugar donde se venden mercancías",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie sprzedawane są towary",
+      "fa": "اسمی که به مکانی که کالا فروخته می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to the store", "The shop is open", "Small clothing store"],
+      "de": ["Ich gehe zum Laden", "Das Geschäft ist offen", "Kleines Bekleidungsgeschäft"],
+      "ar": ["أذهب إلى المتجر", "المحل مفتوح", "متجر ملابس صغير"],
+      "fr": ["Je vais au magasin", "La boutique est ouverte", "Petit magasin de vêtements"],
+      "it": ["Vado al negozio", "Il negozio è aperto", "Piccolo negozio di abbigliamento"],
+      "ru": ["Я иду в магазин", "Магазин открыт", "Небольшой магазин одежды"],
+      "es": ["Yo voy a la tienda", "La tienda está abierta", "Tienda pequeña de ropa"],
+      "pl": ["Idę do sklepu", "Sklep jest otwarty", "Mały sklep odzieżowy"],
+      "fa": ["من به فروشگاه می‌روم", "فروشگاه باز است", "فروشگاه کوچک لباس"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_556_es",
+    "word": "mercado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "market",
+      "de": "Markt",
+      "ar": "سوق",
+      "fr": "marché",
+      "it": "mercato",
+      "ru": "рынок",
+      "es": "mercado",
+      "pl": "rynek, targ",
+      "fa": "بازار"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where various goods are bought and sold",
+      "de": "Substantiv für einen Ort, an dem verschiedene Waren gekauft und verkauft werden",
+      "ar": "اسم يشير إلى مكان تشترى وتباع فيه سلع مختلفة",
+      "fr": "Nom désignant un lieu où diverses marchandises sont achetées et vendues",
+      "it": "Sostantivo che si riferisce a un luogo dove varie merci vengono comprate e vendute",
+      "ru": "Существительное, обозначающее место, где покупаются и продаются различные товары",
+      "es": "Sustantivo que se refiere a un lugar donde se compran y venden diversos productos",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie kupowane i sprzedawane są różne towary",
+      "fa": "اسمی که به مکانی که کالاهای مختلف خرید و فروش می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to the market", "Fresh market today", "The market is busy"],
+      "de": ["Ich gehe zum Markt", "Frischer Markt heute", "Der Markt ist voll"],
+      "ar": ["أذهب إلى السوق", "سوق طازج اليوم", "السوق مزدحم"],
+      "fr": ["Je vais au marché", "Marché frais aujourd'hui", "Le marché est animé"],
+      "it": ["Vado al mercato", "Mercato fresco oggi", "Il mercato è affollato"],
+      "ru": ["Я иду на рынок", "Свежий рынок сегодня", "Рынок занят"],
+      "es": ["Yo voy al mercado", "Mercado fresco hoy", "El mercado está lleno"],
+      "pl": ["Idę na rynek", "Świeży targ dzisiaj", "Rynek jest zatłoczony"],
+      "fa": ["من به بازار می‌روم", "بازار تازه امروز", "بازار شلوغ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_557_es",
+    "word": "cliente",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "customer, client",
+      "de": "Kunde, Kundin",
+      "ar": "زبون، عميل",
+      "fr": "client",
+      "it": "cliente",
+      "ru": "клиент, покупатель",
+      "es": "cliente",
+      "pl": "klient",
+      "fa": "مشتری"
+    },
+    "explanations": {
+      "en": "Noun referring to a person who buys goods or services",
+      "de": "Substantiv für eine Person, die Waren oder Dienstleistungen kauft",
+      "ar": "اسم يشير إلى شخص يشتري السلع أو الخدمات",
+      "fr": "Nom désignant une personne qui achète des biens ou des services",
+      "it": "Sostantivo che si riferisce a una persona che compra beni o servizi",
+      "ru": "Существительное, обозначающее человека, который покупает товары или услуги",
+      "es": "Sustantivo que se refiere a una persona que compra bienes o servicios",
+      "pl": "Rzeczownik odnoszący się do osoby, która kupuje towary lub usługi",
+      "fa": "اسمی که به شخصی که کالا یا خدمات می‌خرد اشاره دارد"
+    },
+    "examples": {
+      "en": ["The customer is happy", "Good client service", "Many customers today"],
+      "de": ["Der Kunde ist zufrieden", "Guter Kundenservice", "Viele Kunden heute"],
+      "ar": ["الزبون سعيد", "خدمة عملاء جيدة", "زبائن كثيرون اليوم"],
+      "fr": ["Le client est content", "Bon service client", "Beaucoup de clients aujourd'hui"],
+      "it": ["Il cliente è felice", "Buon servizio clienti", "Molti clienti oggi"],
+      "ru": ["Клиент доволен", "Хорошее обслуживание клиентов", "Много клиентов сегодня"],
+      "es": ["El cliente está contento", "Buen servicio al cliente", "Muchos clientes hoy"],
+      "pl": ["Klient jest zadowolony", "Dobra obsługa klienta", "Wielu klientów dzisiaj"],
+      "fa": ["مشتری راضی است", "خدمات خوب مشتری", "امروز مشتریان زیادی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_558_es",
+    "word": "producto",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "product",
+      "de": "Produkt, Ware",
+      "ar": "منتج",
+      "fr": "produit",
+      "it": "prodotto",
+      "ru": "продукт, товар",
+      "es": "producto",
+      "pl": "produkt",
+      "fa": "محصول"
+    },
+    "explanations": {
+      "en": "Noun referring to an item made or sold",
+      "de": "Substantiv für einen hergestellten oder verkauften Artikel",
+      "ar": "اسم يشير إلى عنصر مصنوع أو مباع",
+      "fr": "Nom désignant un article fabriqué ou vendu",
+      "it": "Sostantivo che si riferisce a un articolo prodotto o venduto",
+      "ru": "Существительное, обозначающее изготовленный или проданный товар",
+      "es": "Sustantivo que se refiere a un artículo fabricado o vendido",
+      "pl": "Rzeczownik odnoszący się do przedmiotu wyprodukowanego lub sprzedawanego",
+      "fa": "اسمی که به کالای ساخته شده یا فروخته شده اشاره دارد"
+    },
+    "examples": {
+      "en": ["New product today", "Good quality product", "This product is great"],
+      "de": ["Neues Produkt heute", "Produkt guter Qualität", "Dieses Produkt ist toll"],
+      "ar": ["منتج جديد اليوم", "منتج ذو جودة جيدة", "هذا المنتج رائع"],
+      "fr": ["Nouveau produit aujourd'hui", "Produit de bonne qualité", "Ce produit est excellent"],
+      "it": ["Nuovo prodotto oggi", "Prodotto di buona qualità", "Questo prodotto è ottimo"],
+      "ru": ["Новый продукт сегодня", "Товар хорошего качества", "Этот продукт отличный"],
+      "es": ["Producto nuevo hoy", "Producto de buena calidad", "Este producto es excelente"],
+      "pl": ["Nowy produkt dzisiaj", "Produkt dobrej jakości", "Ten produkt jest świetny"],
+      "fa": ["محصول جدید امروز", "محصول با کیفیت خوب", "این محصول عالی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_559_es",
+    "word": "servicio",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "service",
+      "de": "Dienst, Service",
+      "ar": "خدمة",
+      "fr": "service",
+      "it": "servizio",
+      "ru": "услуга, сервис",
+      "es": "servicio",
+      "pl": "usługa, serwis",
+      "fa": "خدمات"
+    },
+    "explanations": {
+      "en": "Noun referring to work done for others or assistance provided",
+      "de": "Substantiv für Arbeit, die für andere geleistet wird oder bereitgestellte Hilfe",
+      "ar": "اسم يشير إلى العمل المنجز للآخرين أو المساعدة المقدمة",
+      "fr": "Nom désignant un travail effectué pour d'autres ou une assistance fournie",
+      "it": "Sostantivo che si riferisce a lavoro svolto per altri o assistenza fornita",
+      "ru": "Существительное, обозначающее работу, выполняемую для других или оказываемую помощь",
+      "es": "Sustantivo que se refiere a trabajo realizado para otros o asistencia proporcionada",
+      "pl": "Rzeczownik odnoszący się do pracy wykonywanej dla innych lub świadczonej pomocy",
+      "fa": "اسمی که به کار انجام شده برای دیگران یا کمک ارائه شده اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good service here", "Customer service available", "Fast delivery service"],
+      "de": ["Guter Service hier", "Kundenservice verfügbar", "Schneller Lieferservice"],
+      "ar": ["خدمة جيدة هنا", "خدمة العملاء متاحة", "خدمة توصيل سريعة"],
+      "fr": ["Bon service ici", "Service client disponible", "Service de livraison rapide"],
+      "it": ["Buon servizio qui", "Servizio clienti disponibile", "Servizio di consegna veloce"],
+      "ru": ["Хороший сервис здесь", "Обслуживание клиентов доступно", "Быстрая служба доставки"],
+      "es": ["Buen servicio aquí", "Servicio al cliente disponible", "Servicio de entrega rápido"],
+      "pl": ["Dobra obsługa tutaj", "Serwis klienta dostępny", "Szybka usługa dostawy"],
+      "fa": ["خدمات خوب اینجا", "خدمات مشتری موجود", "خدمات تحویل سریع"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_560_es",
+    "word": "compra",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "purchase, shopping",
+      "de": "Einkauf, Kauf",
+      "ar": "شراء، تسوق",
+      "fr": "achat, emplette",
+      "it": "acquisto, spesa",
+      "ru": "покупка",
+      "es": "compra",
+      "pl": "zakup",
+      "fa": "خرید"
+    },
+    "explanations": {
+      "en": "Noun referring to the act of buying or things bought",
+      "de": "Substantiv für den Akt des Kaufens oder gekaufte Dinge",
+      "ar": "اسم يشير إلى فعل الشراء أو الأشياء المشتراة",
+      "fr": "Nom désignant l'acte d'acheter ou les choses achetées",
+      "it": "Sostantivo che si riferisce all'atto di comprare o cose comprate",
+      "ru": "Существительное, обозначающее акт покупки или купленные вещи",
+      "es": "Sustantivo que se refiere al acto de comprar o cosas compradas",
+      "pl": "Rzeczownik odnoszący się do aktu kupowania lub kupionych rzeczy",
+      "fa": "اسمی که به عمل خریدن یا چیزهای خریداری شده اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good purchase today", "I make the purchase", "Shopping is fun"],
+      "de": ["Guter Kauf heute", "Ich tätige den Kauf", "Einkaufen macht Spaß"],
+      "ar": ["شراء جيد اليوم", "أقوم بالشراء", "التسوق ممتع"],
+      "fr": ["Bon achat aujourd'hui", "Je fais l'achat", "Faire des achats est amusant"],
+      "it": ["Buon acquisto oggi", "Faccio l'acquisto", "Fare shopping è divertente"],
+      "ru": ["Хорошая покупка сегодня", "Я совершаю покупку", "Шопинг - это весело"],
+      "es": ["Buena compra hoy", "Yo hago la compra", "Comprar es divertido"],
+      "pl": ["Dobry zakup dzisiaj", "Dokonuję zakupu", "Zakupy są zabawne"],
+      "fa": ["خرید خوب امروز", "من خرید می‌کنم", "خرید کردن سرگرم‌کننده است"]
+    },
+    "conjugations": null
+  }
+]

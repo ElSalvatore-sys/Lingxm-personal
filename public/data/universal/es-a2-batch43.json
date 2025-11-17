@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_841_es",
+    "word": "naturaleza",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nature",
+      "de": "Natur",
+      "ar": "طبيعة",
+      "fr": "nature",
+      "it": "natura",
+      "ru": "природа",
+      "es": "naturaleza",
+      "pl": "natura",
+      "fa": "طبیعت"
+    },
+    "explanations": {
+      "en": "Physical world including plants, animals, and landscapes",
+      "de": "Physische Welt einschließlich Pflanzen, Tiere und Landschaften",
+      "ar": "العالم المادي بما في ذلك النباتات والحيوانات والمناظر الطبيعية",
+      "fr": "Monde physique incluant plantes, animaux et paysages",
+      "it": "Mondo fisico che include piante, animali e paesaggi",
+      "ru": "Физический мир, включая растения, животных и ландшафты",
+      "es": "Mundo físico que incluye plantas, animales y paisajes",
+      "pl": "Świat fizyczny obejmujący rośliny, zwierzęta i krajobrazy",
+      "fa": "دنیای فیزیکی شامل گیاهان، حیوانات و مناظر"
+    },
+    "examples": {
+      "en": ["I love nature much", "Nature is very beautiful", "She enjoys the nature"],
+      "de": ["Ich liebe die Natur sehr", "Die Natur ist sehr schön", "Sie genießt die Natur"],
+      "ar": ["أحب الطبيعة كثيرًا", "الطبيعة جميلة جدًا", "هي تستمتع بالطبيعة"],
+      "fr": ["J'aime beaucoup la nature", "La nature est très belle", "Elle profite de la nature"],
+      "it": ["Amo molto la natura", "La natura è molto bella", "Lei gode della natura"],
+      "ru": ["Я очень люблю природу", "Природа очень красивая", "Она наслаждается природой"],
+      "es": ["Yo amo mucho la naturaleza", "La naturaleza es muy hermosa", "Ella disfruta la naturaleza"],
+      "pl": ["Bardzo kocham naturę", "Natura jest bardzo piękna", "Ona cieszy się naturą"],
+      "fa": ["من طبیعت را خیلی دوست دارم", "طبیعت خیلی زیباست", "او از طبیعت لذت می‌برد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_842_es",
+    "word": "árbol",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "tree",
+      "de": "Baum",
+      "ar": "شجرة",
+      "fr": "arbre",
+      "it": "albero",
+      "ru": "дерево",
+      "es": "árbol",
+      "pl": "drzewo",
+      "fa": "درخت"
+    },
+    "explanations": {
+      "en": "Large plant with trunk and branches",
+      "de": "Große Pflanze mit Stamm und Ästen",
+      "ar": "نبات كبير له جذع وفروع",
+      "fr": "Grande plante avec tronc et branches",
+      "it": "Grande pianta con tronco e rami",
+      "ru": "Большое растение со стволом и ветвями",
+      "es": "Planta grande con tronco y ramas",
+      "pl": "Duża roślina z pniem i gałęziami",
+      "fa": "گیاه بزرگ با تنه و شاخه‌ها"
+    },
+    "examples": {
+      "en": ["I see a tree", "The tree is tall", "She climbs the tree"],
+      "de": ["Ich sehe einen Baum", "Der Baum ist groß", "Sie klettert auf den Baum"],
+      "ar": ["أرى شجرة", "الشجرة طويلة", "هي تتسلق الشجرة"],
+      "fr": ["Je vois un arbre", "L'arbre est grand", "Elle grimpe l'arbre"],
+      "it": ["Vedo un albero", "L'albero è alto", "Lei si arrampica sull'albero"],
+      "ru": ["Я вижу дерево", "Дерево высокое", "Она лазает по дереву"],
+      "es": ["Yo veo un árbol", "El árbol es alto", "Ella trepa el árbol"],
+      "pl": ["Widzę drzewo", "Drzewo jest wysokie", "Ona wspina się na drzewo"],
+      "fa": ["من یک درخت می‌بینم", "درخت بلند است", "او از درخت بالا می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_843_es",
+    "word": "flor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "flower",
+      "de": "Blume",
+      "ar": "زهرة",
+      "fr": "fleur",
+      "it": "fiore",
+      "ru": "цветок",
+      "es": "flor",
+      "pl": "kwiat",
+      "fa": "گل"
+    },
+    "explanations": {
+      "en": "Colorful part of plant that produces seeds",
+      "de": "Bunter Teil der Pflanze, der Samen produziert",
+      "ar": "جزء ملون من النبات ينتج البذور",
+      "fr": "Partie colorée de la plante qui produit des graines",
+      "it": "Parte colorata della pianta che produce semi",
+      "ru": "Красочная часть растения, производящая семена",
+      "es": "Parte colorida de la planta que produce semillas",
+      "pl": "Kolorowa część rośliny, która produkuje nasiona",
+      "fa": "بخش رنگی گیاه که دانه تولید می‌کند"
+    },
+    "examples": {
+      "en": ["I give a flower", "The flower is beautiful", "She picks the flowers"],
+      "de": ["Ich gebe eine Blume", "Die Blume ist schön", "Sie pflückt die Blumen"],
+      "ar": ["أعطي زهرة", "الزهرة جميلة", "هي تقطف الزهور"],
+      "fr": ["Je donne une fleur", "La fleur est belle", "Elle cueille les fleurs"],
+      "it": ["Do un fiore", "Il fiore è bello", "Lei coglie i fiori"],
+      "ru": ["Я даю цветок", "Цветок красивый", "Она собирает цветы"],
+      "es": ["Yo doy una flor", "La flor es hermosa", "Ella recoge las flores"],
+      "pl": ["Daję kwiat", "Kwiat jest piękny", "Ona zbiera kwiaty"],
+      "fa": ["من یک گل می‌دهم", "گل زیباست", "او گل‌ها را می‌چیند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_844_es",
+    "word": "planta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "plant",
+      "de": "Pflanze",
+      "ar": "نبات",
+      "fr": "plante",
+      "it": "pianta",
+      "ru": "растение",
+      "es": "planta",
+      "pl": "roślina",
+      "fa": "گیاه"
+    },
+    "explanations": {
+      "en": "Living organism that grows in earth",
+      "de": "Lebender Organismus, der in der Erde wächst",
+      "ar": "كائن حي ينمو في الأرض",
+      "fr": "Organisme vivant qui pousse dans la terre",
+      "it": "Organismo vivente che cresce nella terra",
+      "ru": "Живой организм, растущий в земле",
+      "es": "Organismo vivo que crece en la tierra",
+      "pl": "Żywy organizm rosnący w ziemi",
+      "fa": "موجود زنده‌ای که در زمین رشد می‌کند"
+    },
+    "examples": {
+      "en": ["I have many plants", "This plant is green", "She waters the plants"],
+      "de": ["Ich habe viele Pflanzen", "Diese Pflanze ist grün", "Sie gießt die Pflanzen"],
+      "ar": ["لدي نباتات كثيرة", "هذا النبات أخضر", "هي تسقي النباتات"],
+      "fr": ["J'ai beaucoup de plantes", "Cette plante est verte", "Elle arrose les plantes"],
+      "it": ["Ho molte piante", "Questa pianta è verde", "Lei innaffia le piante"],
+      "ru": ["У меня много растений", "Это растение зелёное", "Она поливает растения"],
+      "es": ["Yo tengo muchas plantas", "Esta planta es verde", "Ella riega las plantas"],
+      "pl": ["Mam wiele roślin", "Ta roślina jest zielona", "Ona podlewa rośliny"],
+      "fa": ["من گیاهان زیادی دارم", "این گیاه سبز است", "او گیاهان را آب می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_845_es",
+    "word": "hierba",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "grass, herb",
+      "de": "Gras, Kraut",
+      "ar": "عشب",
+      "fr": "herbe",
+      "it": "erba",
+      "ru": "трава",
+      "es": "hierba",
+      "pl": "trawa",
+      "fa": "علف"
+    },
+    "explanations": {
+      "en": "Small green plants covering ground",
+      "de": "Kleine grüne Pflanzen, die den Boden bedecken",
+      "ar": "نباتات خضراء صغيرة تغطي الأرض",
+      "fr": "Petites plantes vertes couvrant le sol",
+      "it": "Piccole piante verdi che coprono il terreno",
+      "ru": "Маленькие зелёные растения, покрывающие землю",
+      "es": "Plantas verdes pequeñas que cubren el suelo",
+      "pl": "Małe zielone rośliny pokrywające ziemię",
+      "fa": "گیاهان کوچک سبز که زمین را می‌پوشانند"
+    },
+    "examples": {
+      "en": ["I walk on grass", "The grass is green", "She cuts the grass"],
+      "de": ["Ich gehe auf Gras", "Das Gras ist grün", "Sie schneidet das Gras"],
+      "ar": ["أمشي على العشب", "العشب أخضر", "هي تقص العشب"],
+      "fr": ["Je marche sur l'herbe", "L'herbe est verte", "Elle coupe l'herbe"],
+      "it": ["Cammino sull'erba", "L'erba è verde", "Lei taglia l'erba"],
+      "ru": ["Я иду по траве", "Трава зелёная", "Она косит траву"],
+      "es": ["Yo camino en la hierba", "La hierba es verde", "Ella corta la hierba"],
+      "pl": ["Chodzę po trawie", "Trawa jest zielona", "Ona tnie trawę"],
+      "fa": ["من روی علف راه می‌روم", "علف سبز است", "او علف را می‌برد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_846_es",
+    "word": "bosque",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "forest, woods",
+      "de": "Wald",
+      "ar": "غابة",
+      "fr": "forêt",
+      "it": "bosco",
+      "ru": "лес",
+      "es": "bosque",
+      "pl": "las",
+      "fa": "جنگل"
+    },
+    "explanations": {
+      "en": "Large area covered with trees",
+      "de": "Großes Gebiet bedeckt mit Bäumen",
+      "ar": "منطقة كبيرة مغطاة بالأشجار",
+      "fr": "Grande zone couverte d'arbres",
+      "it": "Grande area coperta di alberi",
+      "ru": "Большая территория, покрытая деревьями",
+      "es": "Área grande cubierta de árboles",
+      "pl": "Duży obszar pokryty drzewami",
+      "fa": "منطقه بزرگی پوشیده از درختان"
+    },
+    "examples": {
+      "en": ["I walk in forest", "The forest is big", "She loves the forest"],
+      "de": ["Ich gehe im Wald", "Der Wald ist groß", "Sie liebt den Wald"],
+      "ar": ["أمشي في الغابة", "الغابة كبيرة", "هي تحب الغابة"],
+      "fr": ["Je marche dans la forêt", "La forêt est grande", "Elle aime la forêt"],
+      "it": ["Cammino nel bosco", "Il bosco è grande", "Lei ama il bosco"],
+      "ru": ["Я гуляю в лесу", "Лес большой", "Она любит лес"],
+      "es": ["Yo camino en el bosque", "El bosque es grande", "Ella ama el bosque"],
+      "pl": ["Chodzę w lesie", "Las jest duży", "Ona kocha las"],
+      "fa": ["من در جنگل راه می‌روم", "جنگل بزرگ است", "او جنگل را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_847_es",
+    "word": "montaña",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mountain",
+      "de": "Berg",
+      "ar": "جبل",
+      "fr": "montagne",
+      "it": "montagna",
+      "ru": "гора",
+      "es": "montaña",
+      "pl": "góra",
+      "fa": "کوه"
+    },
+    "explanations": {
+      "en": "Very high natural elevation of earth",
+      "de": "Sehr hohe natürliche Erhebung der Erde",
+      "ar": "ارتفاع طبيعي عالٍ جدًا للأرض",
+      "fr": "Très haute élévation naturelle de terre",
+      "it": "Elevazione naturale molto alta della terra",
+      "ru": "Очень высокая естественная возвышенность земли",
+      "es": "Elevación natural muy alta de la tierra",
+      "pl": "Bardzo wysokie naturalne wzniesienie ziemi",
+      "fa": "ارتفاع طبیعی بسیار بالای زمین"
+    },
+    "examples": {
+      "en": ["I climb the mountain", "The mountain is high", "She sees big mountains"],
+      "de": ["Ich klettere auf den Berg", "Der Berg ist hoch", "Sie sieht große Berge"],
+      "ar": ["أتسلق الجبل", "الجبل عالٍ", "هي ترى جبالًا كبيرة"],
+      "fr": ["Je grimpe la montagne", "La montagne est haute", "Elle voit de grandes montagnes"],
+      "it": ["Scalo la montagna", "La montagna è alta", "Lei vede grandi montagne"],
+      "ru": ["Я поднимаюсь на гору", "Гора высокая", "Она видит большие горы"],
+      "es": ["Yo escalo la montaña", "La montaña es alta", "Ella ve montañas grandes"],
+      "pl": ["Wspinam się na górę", "Góra jest wysoka", "Ona widzi duże góry"],
+      "fa": ["من از کوه بالا می‌روم", "کوه بلند است", "او کوه‌های بزرگ می‌بیند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_848_es",
+    "word": "río",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "river",
+      "de": "Fluss",
+      "ar": "نهر",
+      "fr": "rivière",
+      "it": "fiume",
+      "ru": "река",
+      "es": "río",
+      "pl": "rzeka",
+      "fa": "رودخانه"
+    },
+    "explanations": {
+      "en": "Large natural stream of water flowing",
+      "de": "Großer natürlicher Wasserstrom, der fließt",
+      "ar": "مجرى مائي طبيعي كبير يتدفق",
+      "fr": "Grand courant d'eau naturel qui coule",
+      "it": "Grande corso d'acqua naturale che scorre",
+      "ru": "Большой естественный поток воды",
+      "es": "Gran corriente natural de agua que fluye",
+      "pl": "Duży naturalny strumień wody płynącej",
+      "fa": "جریان بزرگ طبیعی آب در حال جریان"
+    },
+    "examples": {
+      "en": ["I swim in river", "The river is long", "She crosses the river"],
+      "de": ["Ich schwimme im Fluss", "Der Fluss ist lang", "Sie überquert den Fluss"],
+      "ar": ["أسبح في النهر", "النهر طويل", "هي تعبر النهر"],
+      "fr": ["Je nage dans la rivière", "La rivière est longue", "Elle traverse la rivière"],
+      "it": ["Nuoto nel fiume", "Il fiume è lungo", "Lei attraversa il fiume"],
+      "ru": ["Я плаваю в реке", "Река длинная", "Она переходит реку"],
+      "es": ["Yo nado en el río", "El río es largo", "Ella cruza el río"],
+      "pl": ["Pływam w rzece", "Rzeka jest długa", "Ona przekracza rzekę"],
+      "fa": ["من در رودخانه شنا می‌کنم", "رودخانه بلند است", "او از رودخانه عبور می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_849_es",
+    "word": "lago",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lake",
+      "de": "See",
+      "ar": "بحيرة",
+      "fr": "lac",
+      "it": "lago",
+      "ru": "озеро",
+      "es": "lago",
+      "pl": "jezioro",
+      "fa": "دریاچه"
+    },
+    "explanations": {
+      "en": "Large body of water surrounded by land",
+      "de": "Großer Wasserkörper umgeben von Land",
+      "ar": "مسطح مائي كبير محاط بالأرض",
+      "fr": "Grande étendue d'eau entourée de terre",
+      "it": "Grande massa d'acqua circondata da terra",
+      "ru": "Большой водоём, окружённый сушей",
+      "es": "Gran masa de agua rodeada de tierra",
+      "pl": "Duży zbiornik wodny otoczony lądem",
+      "fa": "توده بزرگ آب احاطه شده توسط خشکی"
+    },
+    "examples": {
+      "en": ["I visit the lake", "The lake is beautiful", "She swims in lake"],
+      "de": ["Ich besuche den See", "Der See ist schön", "Sie schwimmt im See"],
+      "ar": ["أزور البحيرة", "البحيرة جميلة", "هي تسبح في البحيرة"],
+      "fr": ["Je visite le lac", "Le lac est beau", "Elle nage dans le lac"],
+      "it": ["Visito il lago", "Il lago è bello", "Lei nuota nel lago"],
+      "ru": ["Я посещаю озеро", "Озеро красивое", "Она плавает в озере"],
+      "es": ["Yo visito el lago", "El lago es hermoso", "Ella nada en el lago"],
+      "pl": ["Odwiedzam jezioro", "Jezioro jest piękne", "Ona pływa w jeziorze"],
+      "fa": ["من از دریاچه بازدید می‌کنم", "دریاچه زیباست", "او در دریاچه شنا می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_850_es",
+    "word": "mar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sea",
+      "de": "Meer",
+      "ar": "بحر",
+      "fr": "mer",
+      "it": "mare",
+      "ru": "море",
+      "es": "mar",
+      "pl": "morze",
+      "fa": "دریا"
+    },
+    "explanations": {
+      "en": "Large body of salt water",
+      "de": "Großer Salzwasserkörper",
+      "ar": "مسطح مائي كبير من المياه المالحة",
+      "fr": "Grande étendue d'eau salée",
+      "it": "Grande massa d'acqua salata",
+      "ru": "Большой водоём с солёной водой",
+      "es": "Gran masa de agua salada",
+      "pl": "Duży zbiornik słonej wody",
+      "fa": "توده بزرگ آب شور"
+    },
+    "examples": {
+      "en": ["I love the sea", "The sea is blue", "She swims in sea"],
+      "de": ["Ich liebe das Meer", "Das Meer ist blau", "Sie schwimmt im Meer"],
+      "ar": ["أحب البحر", "البحر أزرق", "هي تسبح في البحر"],
+      "fr": ["J'aime la mer", "La mer est bleue", "Elle nage dans la mer"],
+      "it": ["Amo il mare", "Il mare è blu", "Lei nuota nel mare"],
+      "ru": ["Я люблю море", "Море синее", "Она плавает в море"],
+      "es": ["Yo amo el mar", "El mar es azul", "Ella nada en el mar"],
+      "pl": ["Kocham morze", "Morze jest niebieskie", "Ona pływa w morzu"],
+      "fa": ["من دریا را دوست دارم", "دریا آبی است", "او در دریا شنا می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_851_es",
+    "word": "playa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "beach",
+      "de": "Strand",
+      "ar": "شاطئ",
+      "fr": "plage",
+      "it": "spiaggia",
+      "ru": "пляж",
+      "es": "playa",
+      "pl": "plaża",
+      "fa": "ساحل"
+    },
+    "explanations": {
+      "en": "Sandy shore beside sea or lake",
+      "de": "Sandiger Ufer neben Meer oder See",
+      "ar": "شاطئ رملي بجانب البحر أو البحيرة",
+      "fr": "Rivage sablonneux au bord de la mer ou du lac",
+      "it": "Riva sabbiosa vicino al mare o al lago",
+      "ru": "Песчаный берег у моря или озера",
+      "es": "Orilla arenosa junto al mar o lago",
+      "pl": "Piaszczyste wybrzeże przy morzu lub jeziorze",
+      "fa": "ساحل شنی کنار دریا یا دریاچه"
+    },
+    "examples": {
+      "en": ["I go to beach", "The beach is clean", "She walks on beach"],
+      "de": ["Ich gehe zum Strand", "Der Strand ist sauber", "Sie geht am Strand"],
+      "ar": ["أذهب إلى الشاطئ", "الشاطئ نظيف", "هي تمشي على الشاطئ"],
+      "fr": ["Je vais à la plage", "La plage est propre", "Elle marche sur la plage"],
+      "it": ["Vado alla spiaggia", "La spiaggia è pulita", "Lei cammina sulla spiaggia"],
+      "ru": ["Я иду на пляж", "Пляж чистый", "Она гуляет по пляжу"],
+      "es": ["Yo voy a la playa", "La playa está limpia", "Ella camina en la playa"],
+      "pl": ["Idę na plażę", "Plaża jest czysta", "Ona spaceruje po plaży"],
+      "fa": ["من به ساحل می‌روم", "ساحل تمیز است", "او روی ساحل راه می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_852_es",
+    "word": "isla",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "island",
+      "de": "Insel",
+      "ar": "جزيرة",
+      "fr": "île",
+      "it": "isola",
+      "ru": "остров",
+      "es": "isla",
+      "pl": "wyspa",
+      "fa": "جزیره"
+    },
+    "explanations": {
+      "en": "Land surrounded by water",
+      "de": "Land umgeben von Wasser",
+      "ar": "أرض محاطة بالماء",
+      "fr": "Terre entourée d'eau",
+      "it": "Terra circondata dall'acqua",
+      "ru": "Земля, окружённая водой",
+      "es": "Tierra rodeada de agua",
+      "pl": "Ląd otoczony wodą",
+      "fa": "زمین احاطه شده توسط آب"
+    },
+    "examples": {
+      "en": ["I visit an island", "The island is small", "She lives on island"],
+      "de": ["Ich besuche eine Insel", "Die Insel ist klein", "Sie lebt auf Insel"],
+      "ar": ["أزور جزيرة", "الجزيرة صغيرة", "هي تعيش على جزيرة"],
+      "fr": ["Je visite une île", "L'île est petite", "Elle vit sur l'île"],
+      "it": ["Visito un'isola", "L'isola è piccola", "Lei vive sull'isola"],
+      "ru": ["Я посещаю остров", "Остров маленький", "Она живёт на острове"],
+      "es": ["Yo visito una isla", "La isla es pequeña", "Ella vive en la isla"],
+      "pl": ["Odwiedzam wyspę", "Wyspa jest mała", "Ona mieszka na wyspie"],
+      "fa": ["من از جزیره بازدید می‌کنم", "جزیره کوچک است", "او در جزیره زندگی می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_853_es",
+    "word": "cielo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sky, heaven",
+      "de": "Himmel",
+      "ar": "سماء",
+      "fr": "ciel",
+      "it": "cielo",
+      "ru": "небо",
+      "es": "cielo",
+      "pl": "niebo",
+      "fa": "آسمان"
+    },
+    "explanations": {
+      "en": "Space above earth where clouds appear",
+      "de": "Raum über der Erde, wo Wolken erscheinen",
+      "ar": "الفضاء فوق الأرض حيث تظهر الغيوم",
+      "fr": "Espace au-dessus de la terre où les nuages apparaissent",
+      "it": "Spazio sopra la terra dove appaiono le nuvole",
+      "ru": "Пространство над землёй, где появляются облака",
+      "es": "Espacio sobre la tierra donde aparecen las nubes",
+      "pl": "Przestrzeń nad ziemią, gdzie pojawiają się chmury",
+      "fa": "فضای بالای زمین که ابرها ظاهر می‌شوند"
+    },
+    "examples": {
+      "en": ["I look at sky", "The sky is blue", "She sees clear sky"],
+      "de": ["Ich schaue zum Himmel", "Der Himmel ist blau", "Sie sieht klaren Himmel"],
+      "ar": ["أنظر إلى السماء", "السماء زرقاء", "هي ترى سماء صافية"],
+      "fr": ["Je regarde le ciel", "Le ciel est bleu", "Elle voit un ciel clair"],
+      "it": ["Guardo il cielo", "Il cielo è blu", "Lei vede cielo chiaro"],
+      "ru": ["Я смотрю на небо", "Небо синее", "Она видит ясное небо"],
+      "es": ["Yo miro el cielo", "El cielo es azul", "Ella ve cielo despejado"],
+      "pl": ["Patrzę na niebo", "Niebo jest niebieskie", "Ona widzi czyste niebo"],
+      "fa": ["من به آسمان نگاه می‌کنم", "آسمان آبی است", "او آسمان صاف می‌بیند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_854_es",
+    "word": "estrella",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "star",
+      "de": "Stern",
+      "ar": "نجمة",
+      "fr": "étoile",
+      "it": "stella",
+      "ru": "звезда",
+      "es": "estrella",
+      "pl": "gwiazda",
+      "fa": "ستاره"
+    },
+    "explanations": {
+      "en": "Bright point of light in night sky",
+      "de": "Heller Lichtpunkt am Nachthimmel",
+      "ar": "نقطة ضوء ساطعة في السماء الليلية",
+      "fr": "Point lumineux brillant dans le ciel nocturne",
+      "it": "Punto luminoso brillante nel cielo notturno",
+      "ru": "Яркая точка света на ночном небе",
+      "es": "Punto brillante de luz en el cielo nocturno",
+      "pl": "Jasny punkt światła na nocnym niebie",
+      "fa": "نقطه درخشان نور در آسمان شب"
+    },
+    "examples": {
+      "en": ["I see a star", "The stars are bright", "She counts the stars"],
+      "de": ["Ich sehe einen Stern", "Die Sterne sind hell", "Sie zählt die Sterne"],
+      "ar": ["أرى نجمة", "النجوم ساطعة", "هي تعد النجوم"],
+      "fr": ["Je vois une étoile", "Les étoiles sont brillantes", "Elle compte les étoiles"],
+      "it": ["Vedo una stella", "Le stelle sono luminose", "Lei conta le stelle"],
+      "ru": ["Я вижу звезду", "Звёзды яркие", "Она считает звёзды"],
+      "es": ["Yo veo una estrella", "Las estrellas son brillantes", "Ella cuenta las estrellas"],
+      "pl": ["Widzę gwiazdę", "Gwiazdy są jasne", "Ona liczy gwiazdy"],
+      "fa": ["من یک ستاره می‌بینم", "ستاره‌ها درخشان هستند", "او ستاره‌ها را می‌شمارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_855_es",
+    "word": "luna",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "moon",
+      "de": "Mond",
+      "ar": "قمر",
+      "fr": "lune",
+      "it": "luna",
+      "ru": "луна",
+      "es": "luna",
+      "pl": "księżyc",
+      "fa": "ماه"
+    },
+    "explanations": {
+      "en": "Natural satellite that orbits Earth",
+      "de": "Natürlicher Satellit, der die Erde umkreist",
+      "ar": "القمر الصناعي الطبيعي الذي يدور حول الأرض",
+      "fr": "Satellite naturel qui orbite autour de la Terre",
+      "it": "Satellite naturale che orbita intorno alla Terra",
+      "ru": "Естественный спутник, вращающийся вокруг Земли",
+      "es": "Satélite natural que orbita la Tierra",
+      "pl": "Naturalny satelita, który krąży wokół Ziemi",
+      "fa": "ماهواره طبیعی که به دور زمین می‌چرخد"
+    },
+    "examples": {
+      "en": ["I see the moon", "The moon is full", "She loves the moon"],
+      "de": ["Ich sehe den Mond", "Der Mond ist voll", "Sie liebt den Mond"],
+      "ar": ["أرى القمر", "القمر مكتمل", "هي تحب القمر"],
+      "fr": ["Je vois la lune", "La lune est pleine", "Elle aime la lune"],
+      "it": ["Vedo la luna", "La luna è piena", "Lei ama la luna"],
+      "ru": ["Я вижу луну", "Луна полная", "Она любит луну"],
+      "es": ["Yo veo la luna", "La luna está llena", "Ella ama la luna"],
+      "pl": ["Widzę księżyc", "Księżyc jest pełny", "Ona kocha księżyc"],
+      "fa": ["من ماه را می‌بینم", "ماه کامل است", "او ماه را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_856_es",
+    "word": "sol",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sun",
+      "de": "Sonne",
+      "ar": "شمس",
+      "fr": "soleil",
+      "it": "sole",
+      "ru": "солнце",
+      "es": "sol",
+      "pl": "słońce",
+      "fa": "خورشید"
+    },
+    "explanations": {
+      "en": "Star that provides light and heat to Earth",
+      "de": "Stern, der der Erde Licht und Wärme liefert",
+      "ar": "نجم يوفر الضوء والحرارة للأرض",
+      "fr": "Étoile qui fournit lumière et chaleur à la Terre",
+      "it": "Stella che fornisce luce e calore alla Terra",
+      "ru": "Звезда, которая даёт свет и тепло Земле",
+      "es": "Estrella que proporciona luz y calor a la Tierra",
+      "pl": "Gwiazda, która dostarcza światło i ciepło Ziemi",
+      "fa": "ستاره‌ای که نور و گرما به زمین می‌دهد"
+    },
+    "examples": {
+      "en": ["I see the sun", "The sun is bright", "She loves the sun"],
+      "de": ["Ich sehe die Sonne", "Die Sonne ist hell", "Sie liebt die Sonne"],
+      "ar": ["أرى الشمس", "الشمس ساطعة", "هي تحب الشمس"],
+      "fr": ["Je vois le soleil", "Le soleil est brillant", "Elle aime le soleil"],
+      "it": ["Vedo il sole", "Il sole è luminoso", "Lei ama il sole"],
+      "ru": ["Я вижу солнце", "Солнце яркое", "Она любит солнце"],
+      "es": ["Yo veo el sol", "El sol es brillante", "Ella ama el sol"],
+      "pl": ["Widzę słońce", "Słońce jest jasne", "Ona kocha słońce"],
+      "fa": ["من خورشید را می‌بینم", "خورشید درخشان است", "او خورشید را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_857_es",
+    "word": "tierra",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "earth, land, soil",
+      "de": "Erde, Land, Boden",
+      "ar": "أرض، تراب",
+      "fr": "terre, sol",
+      "it": "terra, suolo",
+      "ru": "земля, почва",
+      "es": "tierra",
+      "pl": "ziemia, gleba",
+      "fa": "زمین، خاک"
+    },
+    "explanations": {
+      "en": "Planet we live on or ground surface",
+      "de": "Planet auf dem wir leben oder Erdoberfläche",
+      "ar": "الكوكب الذي نعيش عليه أو سطح الأرض",
+      "fr": "Planète sur laquelle nous vivons ou surface du sol",
+      "it": "Pianeta su cui viviamo o superficie del suolo",
+      "ru": "Планета, на которой мы живём, или поверхность земли",
+      "es": "Planeta en el que vivimos o superficie del suelo",
+      "pl": "Planeta, na której żyjemy, lub powierzchnia ziemi",
+      "fa": "سیاره‌ای که روی آن زندگی می‌کنیم یا سطح زمین"
+    },
+    "examples": {
+      "en": ["I dig the earth", "The earth is brown", "She plants in earth"],
+      "de": ["Ich grabe die Erde", "Die Erde ist braun", "Sie pflanzt in Erde"],
+      "ar": ["أحفر الأرض", "الأرض بنية", "هي تزرع في الأرض"],
+      "fr": ["Je creuse la terre", "La terre est brune", "Elle plante dans la terre"],
+      "it": ["Scavo la terra", "La terra è marrone", "Lei pianta nella terra"],
+      "ru": ["Я копаю землю", "Земля коричневая", "Она сажает в землю"],
+      "es": ["Yo cavo la tierra", "La tierra es marrón", "Ella planta en la tierra"],
+      "pl": ["Kopię ziemię", "Ziemia jest brązowa", "Ona sadzi w ziemi"],
+      "fa": ["من زمین را می‌کنم", "زمین قهوه‌ای است", "او در زمین می‌کارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_858_es",
+    "word": "aire",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "air",
+      "de": "Luft",
+      "ar": "هواء",
+      "fr": "air",
+      "it": "aria",
+      "ru": "воздух",
+      "es": "aire",
+      "pl": "powietrze",
+      "fa": "هوا"
+    },
+    "explanations": {
+      "en": "Mixture of gases we breathe",
+      "de": "Mischung von Gasen, die wir atmen",
+      "ar": "خليط من الغازات التي نتنفسها",
+      "fr": "Mélange de gaz que nous respirons",
+      "it": "Miscela di gas che respiriamo",
+      "ru": "Смесь газов, которыми мы дышим",
+      "es": "Mezcla de gases que respiramos",
+      "pl": "Mieszanina gazów, którymi oddychamy",
+      "fa": "مخلوط گازهایی که نفس می‌کشیم"
+    },
+    "examples": {
+      "en": ["I breathe fresh air", "The air is clean", "She needs good air"],
+      "de": ["Ich atme frische Luft", "Die Luft ist sauber", "Sie braucht gute Luft"],
+      "ar": ["أتنفس هواء نقيًا", "الهواء نظيف", "هي تحتاج هواء جيدًا"],
+      "fr": ["Je respire de l'air frais", "L'air est propre", "Elle a besoin de bon air"],
+      "it": ["Respiro aria fresca", "L'aria è pulita", "Lei ha bisogno di buona aria"],
+      "ru": ["Я дышу свежим воздухом", "Воздух чистый", "Ей нужен хороший воздух"],
+      "es": ["Yo respiro aire fresco", "El aire está limpio", "Ella necesita buen aire"],
+      "pl": ["Oddycham świeżym powietrzem", "Powietrze jest czyste", "Ona potrzebuje dobrego powietrza"],
+      "fa": ["من هوای تازه نفس می‌کشم", "هوا تمیز است", "او به هوای خوب نیاز دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_859_es",
+    "word": "agua",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "water",
+      "de": "Wasser",
+      "ar": "ماء",
+      "fr": "eau",
+      "it": "acqua",
+      "ru": "вода",
+      "es": "agua",
+      "pl": "woda",
+      "fa": "آب"
+    },
+    "explanations": {
+      "en": "Clear liquid essential for life",
+      "de": "Klare Flüssigkeit, die für das Leben essentiell ist",
+      "ar": "سائل صافٍ ضروري للحياة",
+      "fr": "Liquide clair essentiel à la vie",
+      "it": "Liquido chiaro essenziale per la vita",
+      "ru": "Прозрачная жидкость, необходимая для жизни",
+      "es": "Líquido claro esencial para la vida",
+      "pl": "Klarowna ciecz niezbędna do życia",
+      "fa": "مایع شفاف ضروری برای زندگی"
+    },
+    "examples": {
+      "en": ["I drink cold water", "Water is very important", "She needs more water"],
+      "de": ["Ich trinke kaltes Wasser", "Wasser ist sehr wichtig", "Sie braucht mehr Wasser"],
+      "ar": ["أشرب ماء باردًا", "الماء مهم جدًا", "هي تحتاج المزيد من الماء"],
+      "fr": ["Je bois de l'eau froide", "L'eau est très importante", "Elle a besoin de plus d'eau"],
+      "it": ["Bevo acqua fredda", "L'acqua è molto importante", "Lei ha bisogno di più acqua"],
+      "ru": ["Я пью холодную воду", "Вода очень важна", "Ей нужно больше воды"],
+      "es": ["Yo bebo agua fría", "El agua es muy importante", "Ella necesita más agua"],
+      "pl": ["Piję zimną wodę", "Woda jest bardzo ważna", "Ona potrzebuje więcej wody"],
+      "fa": ["من آب سرد می‌نوشم", "آب خیلی مهم است", "او به آب بیشتر نیاز دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_860_es",
+    "word": "fuego",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fire",
+      "de": "Feuer",
+      "ar": "نار",
+      "fr": "feu",
+      "it": "fuoco",
+      "ru": "огонь",
+      "es": "fuego",
+      "pl": "ogień",
+      "fa": "آتش"
+    },
+    "explanations": {
+      "en": "Burning process producing heat and light",
+      "de": "Brennprozess, der Hitze und Licht erzeugt",
+      "ar": "عملية حرق تنتج الحرارة والضوء",
+      "fr": "Processus de combustion produisant chaleur et lumière",
+      "it": "Processo di combustione che produce calore e luce",
+      "ru": "Процесс горения, производящий тепло и свет",
+      "es": "Proceso de combustión que produce calor y luz",
+      "pl": "Proces spalania wytwarzający ciepło i światło",
+      "fa": "فرآیند سوختن که گرما و نور تولید می‌کند"
+    },
+    "examples": {
+      "en": ["I make a fire", "The fire is hot", "She sees the fire"],
+      "de": ["Ich mache ein Feuer", "Das Feuer ist heiß", "Sie sieht das Feuer"],
+      "ar": ["أشعل نارًا", "النار ساخنة", "هي ترى النار"],
+      "fr": ["Je fais un feu", "Le feu est chaud", "Elle voit le feu"],
+      "it": ["Faccio un fuoco", "Il fuoco è caldo", "Lei vede il fuoco"],
+      "ru": ["Я делаю огонь", "Огонь горячий", "Она видит огонь"],
+      "es": ["Yo hago un fuego", "El fuego es caliente", "Ella ve el fuego"],
+      "pl": ["Robię ogień", "Ogień jest gorący", "Ona widzi ogień"],
+      "fa": ["من آتش درست می‌کنم", "آتش داغ است", "او آتش را می‌بیند"]
+    },
+    "conjugations": null
+  }
+]

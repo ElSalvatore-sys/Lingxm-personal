@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_881_es",
+    "word": "pregunta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "question",
+      "de": "Frage",
+      "ar": "سؤال",
+      "fr": "question",
+      "it": "domanda",
+      "ru": "вопрос",
+      "es": "pregunta",
+      "pl": "pytanie",
+      "fa": "سؤال"
+    },
+    "explanations": {
+      "en": "Sentence asking for information",
+      "de": "Satz, der nach Informationen fragt",
+      "ar": "جملة تطلب معلومات",
+      "fr": "Phrase demandant des informations",
+      "it": "Frase che chiede informazioni",
+      "ru": "Предложение, запрашивающее информацию",
+      "es": "Oración que pide información",
+      "pl": "Zdanie pytające o informacje",
+      "fa": "جمله‌ای که اطلاعات می‌خواهد"
+    },
+    "examples": {
+      "en": ["I have a question", "This question is hard", "She answers the question"],
+      "de": ["Ich habe eine Frage", "Diese Frage ist schwer", "Sie beantwortet die Frage"],
+      "ar": ["لدي سؤال", "هذا السؤال صعب", "هي تجيب على السؤال"],
+      "fr": ["J'ai une question", "Cette question est difficile", "Elle répond à la question"],
+      "it": ["Ho una domanda", "Questa domanda è difficile", "Lei risponde alla domanda"],
+      "ru": ["У меня есть вопрос", "Этот вопрос трудный", "Она отвечает на вопрос"],
+      "es": ["Yo tengo una pregunta", "Esta pregunta es difícil", "Ella responde la pregunta"],
+      "pl": ["Mam pytanie", "To pytanie jest trudne", "Ona odpowiada na pytanie"],
+      "fa": ["من یک سؤال دارم", "این سؤال سخت است", "او به سؤال پاسخ می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_882_es",
+    "word": "preguntar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to ask",
+      "de": "fragen",
+      "ar": "يسأل",
+      "fr": "demander",
+      "it": "chiedere",
+      "ru": "спрашивать",
+      "es": "preguntar",
+      "pl": "pytać",
+      "fa": "پرسیدن"
+    },
+    "explanations": {
+      "en": "To request information from someone",
+      "de": "Informationen von jemandem anfordern",
+      "ar": "طلب المعلومات من شخص ما",
+      "fr": "Demander des informations à quelqu'un",
+      "it": "Richiedere informazioni a qualcuno",
+      "ru": "Запрашивать информацию у кого-либо",
+      "es": "Solicitar información a alguien",
+      "pl": "Prosić kogoś o informacje",
+      "fa": "درخواست اطلاعات از کسی"
+    },
+    "examples": {
+      "en": ["I ask many questions", "Ask me anything now", "She asks the teacher"],
+      "de": ["Ich frage viele Fragen", "Frag mich jetzt alles", "Sie fragt den Lehrer"],
+      "ar": ["أسأل أسئلة كثيرة", "اسألني أي شيء الآن", "هي تسأل المعلم"],
+      "fr": ["Je demande beaucoup de questions", "Demande-moi n'importe quoi maintenant", "Elle demande au professeur"],
+      "it": ["Faccio molte domande", "Chiedimi qualsiasi cosa adesso", "Lei chiede all'insegnante"],
+      "ru": ["Я задаю много вопросов", "Спроси меня что угодно сейчас", "Она спрашивает учителя"],
+      "es": ["Yo hago muchas preguntas", "Pregúntame cualquier cosa ahora", "Ella pregunta al profesor"],
+      "pl": ["Zadaję wiele pytań", "Zapytaj mnie o cokolwiek teraz", "Ona pyta nauczyciela"],
+      "fa": ["من سؤالات زیادی می‌پرسم", "حالا از من هر چیزی بپرس", "او از معلم می‌پرسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_883_es",
+    "word": "respuesta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "answer, response",
+      "de": "Antwort",
+      "ar": "إجابة",
+      "fr": "réponse",
+      "it": "risposta",
+      "ru": "ответ",
+      "es": "respuesta",
+      "pl": "odpowiedź",
+      "fa": "پاسخ"
+    },
+    "explanations": {
+      "en": "Reply to a question or statement",
+      "de": "Antwort auf eine Frage oder Aussage",
+      "ar": "رد على سؤال أو بيان",
+      "fr": "Réponse à une question ou déclaration",
+      "it": "Risposta a una domanda o affermazione",
+      "ru": "Ответ на вопрос или утверждение",
+      "es": "Respuesta a una pregunta o declaración",
+      "pl": "Odpowiedź na pytanie lub stwierdzenie",
+      "fa": "پاسخ به سؤال یا بیانیه"
+    },
+    "examples": {
+      "en": ["I know the answer", "This answer is correct", "She gives good answers"],
+      "de": ["Ich kenne die Antwort", "Diese Antwort ist richtig", "Sie gibt gute Antworten"],
+      "ar": ["أعرف الإجابة", "هذه الإجابة صحيحة", "هي تعطي إجابات جيدة"],
+      "fr": ["Je connais la réponse", "Cette réponse est correcte", "Elle donne de bonnes réponses"],
+      "it": ["Conosco la risposta", "Questa risposta è corretta", "Lei dà buone risposte"],
+      "ru": ["Я знаю ответ", "Этот ответ правильный", "Она даёт хорошие ответы"],
+      "es": ["Yo sé la respuesta", "Esta respuesta es correcta", "Ella da buenas respuestas"],
+      "pl": ["Znam odpowiedź", "Ta odpowiedź jest poprawna", "Ona daje dobre odpowiedzi"],
+      "fa": ["من پاسخ را می‌دانم", "این پاسخ درست است", "او پاسخ‌های خوب می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_884_es",
+    "word": "responder",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to answer, to respond",
+      "de": "antworten",
+      "ar": "يجيب",
+      "fr": "répondre",
+      "it": "rispondere",
+      "ru": "отвечать",
+      "es": "responder",
+      "pl": "odpowiadać",
+      "fa": "پاسخ دادن"
+    },
+    "explanations": {
+      "en": "To give answer to question or request",
+      "de": "Antwort auf Frage oder Anfrage geben",
+      "ar": "إعطاء إجابة على سؤال أو طلب",
+      "fr": "Donner réponse à question ou demande",
+      "it": "Dare risposta a domanda o richiesta",
+      "ru": "Давать ответ на вопрос или запрос",
+      "es": "Dar respuesta a pregunta o solicitud",
+      "pl": "Udzielić odpowiedzi na pytanie lub prośbę",
+      "fa": "پاسخ دادن به سؤال یا درخواست"
+    },
+    "examples": {
+      "en": ["I answer the question", "Answer me right now", "She responds very well"],
+      "de": ["Ich beantworte die Frage", "Antworte mir jetzt", "Sie antwortet sehr gut"],
+      "ar": ["أجيب على السؤال", "أجبني الآن", "هي تجيب جيدًا جدًا"],
+      "fr": ["Je réponds à la question", "Réponds-moi maintenant", "Elle répond très bien"],
+      "it": ["Rispondo alla domanda", "Rispondimi adesso", "Lei risponde molto bene"],
+      "ru": ["Я отвечаю на вопрос", "Ответь мне сейчас", "Она отвечает очень хорошо"],
+      "es": ["Yo respondo la pregunta", "Respóndeme ahora mismo", "Ella responde muy bien"],
+      "pl": ["Odpowiadam na pytanie", "Odpowiedz mi teraz", "Ona odpowiada bardzo dobrze"],
+      "fa": ["من به سؤال پاسخ می‌دهم", "حالا به من پاسخ بده", "او خیلی خوب پاسخ می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_885_es",
+    "word": "decir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to say, to tell",
+      "de": "sagen",
+      "ar": "يقول",
+      "fr": "dire",
+      "it": "dire",
+      "ru": "говорить, сказать",
+      "es": "decir",
+      "pl": "mówić, powiedzieć",
+      "fa": "گفتن"
+    },
+    "explanations": {
+      "en": "To express something with words",
+      "de": "Etwas mit Worten ausdrücken",
+      "ar": "التعبير عن شيء بالكلمات",
+      "fr": "Exprimer quelque chose avec des mots",
+      "it": "Esprimere qualcosa con parole",
+      "ru": "Выразить что-то словами",
+      "es": "Expresar algo con palabras",
+      "pl": "Wyrazić coś słowami",
+      "fa": "بیان چیزی با کلمات"
+    },
+    "examples": {
+      "en": ["I say the truth", "Say it again now", "She tells me everything"],
+      "de": ["Ich sage die Wahrheit", "Sag es nochmal jetzt", "Sie erzählt mir alles"],
+      "ar": ["أقول الحقيقة", "قلها مرة أخرى الآن", "هي تخبرني بكل شيء"],
+      "fr": ["Je dis la vérité", "Dis-le encore maintenant", "Elle me dit tout"],
+      "it": ["Dico la verità", "Dillo di nuovo adesso", "Lei mi dice tutto"],
+      "ru": ["Я говорю правду", "Скажи это снова сейчас", "Она говорит мне всё"],
+      "es": ["Yo digo la verdad", "Dilo otra vez ahora", "Ella me dice todo"],
+      "pl": ["Mówię prawdę", "Powiedz to znowu teraz", "Ona mówi mi wszystko"],
+      "fa": ["من حقیقت را می‌گویم", "حالا دوباره بگو", "او همه چیز را به من می‌گوید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_886_es",
+    "word": "hablar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to speak, to talk",
+      "de": "sprechen, reden",
+      "ar": "يتحدث",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить, разговаривать",
+      "es": "hablar",
+      "pl": "mówić, rozmawiać",
+      "fa": "صحبت کردن"
+    },
+    "explanations": {
+      "en": "To communicate using voice and words",
+      "de": "Mit Stimme und Worten kommunizieren",
+      "ar": "التواصل باستخدام الصوت والكلمات",
+      "fr": "Communiquer en utilisant voix et mots",
+      "it": "Comunicare usando voce e parole",
+      "ru": "Общаться голосом и словами",
+      "es": "Comunicarse usando voz y palabras",
+      "pl": "Komunikować się głosem i słowami",
+      "fa": "ارتباط با استفاده از صدا و کلمات"
+    },
+    "examples": {
+      "en": ["I speak Spanish well", "Speak louder right now", "She talks to me"],
+      "de": ["Ich spreche gut Spanisch", "Sprich jetzt lauter", "Sie spricht mit mir"],
+      "ar": ["أتحدث الإسبانية جيدًا", "تحدث بصوت أعلى الآن", "هي تتحدث معي"],
+      "fr": ["Je parle bien espagnol", "Parle plus fort maintenant", "Elle me parle"],
+      "it": ["Parlo bene spagnolo", "Parla più forte adesso", "Lei parla con me"],
+      "ru": ["Я говорю хорошо по-испански", "Говори громче сейчас", "Она говорит со мной"],
+      "es": ["Yo hablo español bien", "Habla más fuerte ahora", "Ella habla conmigo"],
+      "pl": ["Mówię dobrze po hiszpańsku", "Mów głośniej teraz", "Ona rozmawia ze mną"],
+      "fa": ["من خوب اسپانیایی صحبت می‌کنم", "حالا بلندتر صحبت کن", "او با من صحبت می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_887_es",
+    "word": "conversar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to converse, to chat",
+      "de": "sich unterhalten",
+      "ar": "يتحادث",
+      "fr": "converser",
+      "it": "conversare",
+      "ru": "беседовать",
+      "es": "conversar",
+      "pl": "rozmawiać",
+      "fa": "گفتگو کردن"
+    },
+    "explanations": {
+      "en": "To have informal conversation with someone",
+      "de": "Informelles Gespräch mit jemandem führen",
+      "ar": "إجراء محادثة غير رسمية مع شخص ما",
+      "fr": "Avoir conversation informelle avec quelqu'un",
+      "it": "Avere conversazione informale con qualcuno",
+      "ru": "Вести неформальную беседу с кем-либо",
+      "es": "Tener conversación informal con alguien",
+      "pl": "Prowadzić nieformalną rozmowę z kimś",
+      "fa": "گفتگوی غیررسمی با کسی داشتن"
+    },
+    "examples": {
+      "en": ["I chat with friends", "We chat every day", "She chats with me"],
+      "de": ["Ich unterhalte mich mit Freunden", "Wir unterhalten uns jeden Tag", "Sie unterhält sich mit mir"],
+      "ar": ["أتحادث مع الأصدقاء", "نتحادث كل يوم", "هي تتحادث معي"],
+      "fr": ["Je converse avec des amis", "Nous conversons tous les jours", "Elle converse avec moi"],
+      "it": ["Converso con amici", "Conversiamo ogni giorno", "Lei conversa con me"],
+      "ru": ["Я беседую с друзьями", "Мы беседуем каждый день", "Она беседует со мной"],
+      "es": ["Yo converso con amigos", "Nosotros conversamos cada día", "Ella conversa conmigo"],
+      "pl": ["Rozmawiam z przyjaciółmi", "Rozmawiamy codziennie", "Ona rozmawia ze mną"],
+      "fa": ["من با دوستان گفتگو می‌کنم", "ما هر روز گفتگو می‌کنیم", "او با من گفتگو می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_888_es",
+    "word": "escuchar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to listen",
+      "de": "zuhören",
+      "ar": "يستمع",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "ru": "слушать",
+      "es": "escuchar",
+      "pl": "słuchać",
+      "fa": "گوش دادن"
+    },
+    "explanations": {
+      "en": "To pay attention to sounds or speech",
+      "de": "Auf Geräusche oder Sprache achten",
+      "ar": "الانتباه إلى الأصوات أو الكلام",
+      "fr": "Prêter attention aux sons ou paroles",
+      "it": "Prestare attenzione a suoni o parole",
+      "ru": "Обращать внимание на звуки или речь",
+      "es": "Prestar atención a sonidos o habla",
+      "pl": "Zwracać uwagę na dźwięki lub mowę",
+      "fa": "توجه به صداها یا گفتار"
+    },
+    "examples": {
+      "en": ["I listen to music", "Listen to me now", "She listens very well"],
+      "de": ["Ich höre Musik", "Hör mir jetzt zu", "Sie hört sehr gut zu"],
+      "ar": ["أستمع إلى الموسيقى", "استمع إلي الآن", "هي تستمع جيدًا جدًا"],
+      "fr": ["J'écoute de la musique", "Écoute-moi maintenant", "Elle écoute très bien"],
+      "it": ["Ascolto musica", "Ascoltami adesso", "Lei ascolta molto bene"],
+      "ru": ["Я слушаю музыку", "Послушай меня сейчас", "Она слушает очень хорошо"],
+      "es": ["Yo escucho música", "Escúchame ahora", "Ella escucha muy bien"],
+      "pl": ["Słucham muzyki", "Posłuchaj mnie teraz", "Ona słucha bardzo dobrze"],
+      "fa": ["من به موسیقی گوش می‌دهم", "حالا به من گوش بده", "او خیلی خوب گوش می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_889_es",
+    "word": "oír",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to hear",
+      "de": "hören",
+      "ar": "يسمع",
+      "fr": "entendre",
+      "it": "sentire",
+      "ru": "слышать",
+      "es": "oír",
+      "pl": "słyszeć",
+      "fa": "شنیدن"
+    },
+    "explanations": {
+      "en": "To perceive sounds with ears",
+      "de": "Geräusche mit den Ohren wahrnehmen",
+      "ar": "إدراك الأصوات بالأذنين",
+      "fr": "Percevoir des sons avec les oreilles",
+      "it": "Percepire suoni con le orecchie",
+      "ru": "Воспринимать звуки ушами",
+      "es": "Percibir sonidos con los oídos",
+      "pl": "Postrzegać dźwięki uszami",
+      "fa": "درک صداها با گوش‌ها"
+    },
+    "examples": {
+      "en": ["I hear the music", "Can you hear me", "She hears everything well"],
+      "de": ["Ich höre die Musik", "Kannst du mich hören", "Sie hört alles gut"],
+      "ar": ["أسمع الموسيقى", "هل تسمعني", "هي تسمع كل شيء جيدًا"],
+      "fr": ["J'entends la musique", "Peux-tu m'entendre", "Elle entend tout bien"],
+      "it": ["Sento la musica", "Puoi sentirmi", "Lei sente tutto bene"],
+      "ru": ["Я слышу музыку", "Ты меня слышишь", "Она слышит всё хорошо"],
+      "es": ["Yo oigo la música", "Puedes oírme", "Ella oye todo bien"],
+      "pl": ["Słyszę muzykę", "Czy mnie słyszysz", "Ona słyszy wszystko dobrze"],
+      "fa": ["من موسیقی را می‌شنوم", "می‌توانی مرا بشنوی", "او همه چیز را خوب می‌شنود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_890_es",
+    "word": "voz",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "voice",
+      "de": "Stimme",
+      "ar": "صوت",
+      "fr": "voix",
+      "it": "voce",
+      "ru": "голос",
+      "es": "voz",
+      "pl": "głos",
+      "fa": "صدا"
+    },
+    "explanations": {
+      "en": "Sound produced by speaking or singing",
+      "de": "Klang, der durch Sprechen oder Singen erzeugt wird",
+      "ar": "الصوت الناتج عن التحدث أو الغناء",
+      "fr": "Son produit en parlant ou chantant",
+      "it": "Suono prodotto parlando o cantando",
+      "ru": "Звук, производимый говорением или пением",
+      "es": "Sonido producido al hablar o cantar",
+      "pl": "Dźwięk wytwarzany przez mówienie lub śpiewanie",
+      "fa": "صدایی که با صحبت یا آواز تولید می‌شود"
+    },
+    "examples": {
+      "en": ["I have loud voice", "Your voice is beautiful", "She uses her voice"],
+      "de": ["Ich habe laute Stimme", "Deine Stimme ist schön", "Sie benutzt ihre Stimme"],
+      "ar": ["لدي صوت عالٍ", "صوتك جميل", "هي تستخدم صوتها"],
+      "fr": ["J'ai une voix forte", "Ta voix est belle", "Elle utilise sa voix"],
+      "it": ["Ho voce forte", "La tua voce è bella", "Lei usa la sua voce"],
+      "ru": ["У меня громкий голос", "Твой голос красивый", "Она использует свой голос"],
+      "es": ["Yo tengo voz fuerte", "Tu voz es hermosa", "Ella usa su voz"],
+      "pl": ["Mam głośny głos", "Twój głos jest piękny", "Ona używa swojego głosu"],
+      "fa": ["من صدای بلندی دارم", "صدای تو زیباست", "او از صدایش استفاده می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_891_es",
+    "word": "sonido",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sound",
+      "de": "Klang, Geräusch",
+      "ar": "صوت",
+      "fr": "son",
+      "it": "suono",
+      "ru": "звук",
+      "es": "sonido",
+      "pl": "dźwięk",
+      "fa": "صدا"
+    },
+    "explanations": {
+      "en": "Vibration that travels through air and can be heard",
+      "de": "Schwingung, die durch Luft wandert und gehört werden kann",
+      "ar": "اهتزاز ينتقل عبر الهواء ويمكن سماعه",
+      "fr": "Vibration qui voyage dans l'air et peut être entendue",
+      "it": "Vibrazione che viaggia nell'aria e può essere sentita",
+      "ru": "Вибрация, которая проходит через воздух и может быть услышана",
+      "es": "Vibración que viaja por el aire y puede ser oída",
+      "pl": "Wibracja, która podróżuje przez powietrze i może być słyszana",
+      "fa": "ارتعاشی که از هوا عبور می‌کند و قابل شنیدن است"
+    },
+    "examples": {
+      "en": ["I hear a sound", "This sound is loud", "She likes this sound"],
+      "de": ["Ich höre ein Geräusch", "Dieses Geräusch ist laut", "Sie mag dieses Geräusch"],
+      "ar": ["أسمع صوتًا", "هذا الصوت عالٍ", "هي تحب هذا الصوت"],
+      "fr": ["J'entends un son", "Ce son est fort", "Elle aime ce son"],
+      "it": ["Sento un suono", "Questo suono è forte", "Lei ama questo suono"],
+      "ru": ["Я слышу звук", "Этот звук громкий", "Она любит этот звук"],
+      "es": ["Yo oigo un sonido", "Este sonido es fuerte", "A ella le gusta este sonido"],
+      "pl": ["Słyszę dźwięk", "Ten dźwięk jest głośny", "Ona lubi ten dźwięk"],
+      "fa": ["من یک صدا می‌شنوم", "این صدا بلند است", "او این صدا را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_892_es",
+    "word": "alto",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "loud, high, tall",
+      "de": "laut, hoch",
+      "ar": "عالٍ، مرتفع",
+      "fr": "fort, haut",
+      "it": "forte, alto",
+      "ru": "громкий, высокий",
+      "es": "alto",
+      "pl": "głośny, wysoki",
+      "fa": "بلند"
+    },
+    "explanations": {
+      "en": "Making much sound or having great height",
+      "de": "Viel Geräusch machend oder große Höhe habend",
+      "ar": "إصدار صوت كثير أو له ارتفاع كبير",
+      "fr": "Faisant beaucoup de bruit ou ayant grande hauteur",
+      "it": "Che fa molto rumore o ha grande altezza",
+      "ru": "Издающий много звука или имеющий большую высоту",
+      "es": "Que hace mucho sonido o tiene gran altura",
+      "pl": "Wydający dużo dźwięku lub mający dużą wysokość",
+      "fa": "صدای زیاد یا ارتفاع زیاد داشتن"
+    },
+    "examples": {
+      "en": ["I speak very loud", "This music is loud", "She is very tall"],
+      "de": ["Ich spreche sehr laut", "Diese Musik ist laut", "Sie ist sehr groß"],
+      "ar": ["أتحدث بصوت عالٍ جدًا", "هذه الموسيقى عالية", "هي طويلة جدًا"],
+      "fr": ["Je parle très fort", "Cette musique est forte", "Elle est très grande"],
+      "it": ["Parlo molto forte", "Questa musica è forte", "Lei è molto alta"],
+      "ru": ["Я говорю очень громко", "Эта музыка громкая", "Она очень высокая"],
+      "es": ["Yo hablo muy alto", "Esta música es alta", "Ella es muy alta"],
+      "pl": ["Mówię bardzo głośno", "Ta muzyka jest głośna", "Ona jest bardzo wysoka"],
+      "fa": ["من خیلی بلند صحبت می‌کنم", "این موسیقی بلند است", "او خیلی بلند است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_893_es",
+    "word": "silencioso",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "quiet, silent",
+      "de": "leise, still",
+      "ar": "هادئ، صامت",
+      "fr": "silencieux",
+      "it": "silenzioso",
+      "ru": "тихий, молчаливый",
+      "es": "silencioso",
+      "pl": "cichy",
+      "fa": "ساکت"
+    },
+    "explanations": {
+      "en": "Making little or no sound",
+      "de": "Wenig oder kein Geräusch machend",
+      "ar": "يصدر صوتًا قليلاً أو لا يصدر",
+      "fr": "Faisant peu ou pas de bruit",
+      "it": "Che fa poco o nessun rumore",
+      "ru": "Издающий мало или совсем не издающий звука",
+      "es": "Que hace poco o ningún sonido",
+      "pl": "Wydający mało lub wcale dźwięku",
+      "fa": "صدای کم یا بدون صدا"
+    },
+    "examples": {
+      "en": ["I am very quiet", "This room is quiet", "She is so quiet"],
+      "de": ["Ich bin sehr leise", "Dieses Zimmer ist leise", "Sie ist so leise"],
+      "ar": ["أنا هادئ جدًا", "هذه الغرفة هادئة", "هي هادئة جدًا"],
+      "fr": ["Je suis très silencieux", "Cette pièce est silencieuse", "Elle est si silencieuse"],
+      "it": ["Sono molto silenzioso", "Questa stanza è silenziosa", "Lei è così silenziosa"],
+      "ru": ["Я очень тихий", "Эта комната тихая", "Она такая тихая"],
+      "es": ["Yo soy muy silencioso", "Esta habitación es silenciosa", "Ella es tan silenciosa"],
+      "pl": ["Jestem bardzo cichy", "Ten pokój jest cichy", "Ona jest taka cicha"],
+      "fa": ["من خیلی ساکتم", "این اتاق ساکت است", "او خیلی ساکت است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_894_es",
+    "word": "ruido",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "noise",
+      "de": "Lärm",
+      "ar": "ضوضاء",
+      "fr": "bruit",
+      "it": "rumore",
+      "ru": "шум",
+      "es": "ruido",
+      "pl": "hałas",
+      "fa": "سر و صدا"
+    },
+    "explanations": {
+      "en": "Unwanted or unpleasant loud sound",
+      "de": "Unerwünschter oder unangenehmer lauter Klang",
+      "ar": "صوت عالٍ غير مرغوب فيه أو غير سار",
+      "fr": "Son fort indésirable ou désagréable",
+      "it": "Suono forte indesiderato o spiacevole",
+      "ru": "Нежелательный или неприятный громкий звук",
+      "es": "Sonido fuerte no deseado o desagradable",
+      "pl": "Niechciany lub nieprzyjemny głośny dźwięk",
+      "fa": "صدای بلند ناخواسته یا ناخوشایند"
+    },
+    "examples": {
+      "en": ["I hear much noise", "The noise is bad", "She hates the noise"],
+      "de": ["Ich höre viel Lärm", "Der Lärm ist schlecht", "Sie hasst den Lärm"],
+      "ar": ["أسمع ضوضاء كثيرة", "الضوضاء سيئة", "هي تكره الضوضاء"],
+      "fr": ["J'entends beaucoup de bruit", "Le bruit est mauvais", "Elle déteste le bruit"],
+      "it": ["Sento molto rumore", "Il rumore è brutto", "Lei odia il rumore"],
+      "ru": ["Я слышу много шума", "Шум плохой", "Она ненавидит шум"],
+      "es": ["Yo oigo mucho ruido", "El ruido es malo", "Ella odia el ruido"],
+      "pl": ["Słyszę dużo hałasu", "Hałas jest zły", "Ona nienawidzi hałasu"],
+      "fa": ["من سر و صدای زیادی می‌شنوم", "سر و صدا بد است", "او از سر و صدا متنفر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_895_es",
+    "word": "palabra",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "word",
+      "de": "Wort",
+      "ar": "كلمة",
+      "fr": "mot",
+      "it": "parola",
+      "ru": "слово",
+      "es": "palabra",
+      "pl": "słowo",
+      "fa": "کلمه"
+    },
+    "explanations": {
+      "en": "Single unit of language with meaning",
+      "de": "Einzelne Einheit der Sprache mit Bedeutung",
+      "ar": "وحدة واحدة من اللغة ذات معنى",
+      "fr": "Unité unique de langue avec signification",
+      "it": "Singola unità di linguaggio con significato",
+      "ru": "Единица языка со значением",
+      "es": "Unidad única de lenguaje con significado",
+      "pl": "Pojedyncza jednostka języka ze znaczeniem",
+      "fa": "واحد منفرد زبان با معنی"
+    },
+    "examples": {
+      "en": ["I learn new words", "This word is hard", "She writes many words"],
+      "de": ["Ich lerne neue Wörter", "Dieses Wort ist schwer", "Sie schreibt viele Wörter"],
+      "ar": ["أتعلم كلمات جديدة", "هذه الكلمة صعبة", "هي تكتب كلمات كثيرة"],
+      "fr": ["J'apprends de nouveaux mots", "Ce mot est difficile", "Elle écrit beaucoup de mots"],
+      "it": ["Imparo parole nuove", "Questa parola è difficile", "Lei scrive molte parole"],
+      "ru": ["Я учу новые слова", "Это слово трудное", "Она пишет много слов"],
+      "es": ["Yo aprendo palabras nuevas", "Esta palabra es difícil", "Ella escribe muchas palabras"],
+      "pl": ["Uczę się nowych słów", "To słowo jest trudne", "Ona pisze wiele słów"],
+      "fa": ["من کلمات جدید یاد می‌گیرم", "این کلمه سخت است", "او کلمات زیادی می‌نویسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_896_es",
+    "word": "oración",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sentence, prayer",
+      "de": "Satz, Gebet",
+      "ar": "جملة، صلاة",
+      "fr": "phrase, prière",
+      "it": "frase, preghiera",
+      "ru": "предложение, молитва",
+      "es": "oración",
+      "pl": "zdanie, modlitwa",
+      "fa": "جمله، دعا"
+    },
+    "explanations": {
+      "en": "Group of words expressing complete thought",
+      "de": "Gruppe von Wörtern, die einen vollständigen Gedanken ausdrücken",
+      "ar": "مجموعة من الكلمات تعبر عن فكرة كاملة",
+      "fr": "Groupe de mots exprimant une pensée complète",
+      "it": "Gruppo di parole che esprime pensiero completo",
+      "ru": "Группа слов, выражающих полную мысль",
+      "es": "Grupo de palabras que expresa pensamiento completo",
+      "pl": "Grupa słów wyrażających kompletną myśl",
+      "fa": "گروهی از کلمات که یک فکر کامل را بیان می‌کنند"
+    },
+    "examples": {
+      "en": ["I write a sentence", "This sentence is good", "She reads the sentence"],
+      "de": ["Ich schreibe einen Satz", "Dieser Satz ist gut", "Sie liest den Satz"],
+      "ar": ["أكتب جملة", "هذه الجملة جيدة", "هي تقرأ الجملة"],
+      "fr": ["J'écris une phrase", "Cette phrase est bonne", "Elle lit la phrase"],
+      "it": ["Scrivo una frase", "Questa frase è buona", "Lei legge la frase"],
+      "ru": ["Я пишу предложение", "Это предложение хорошее", "Она читает предложение"],
+      "es": ["Yo escribo una oración", "Esta oración es buena", "Ella lee la oración"],
+      "pl": ["Piszę zdanie", "To zdanie jest dobre", "Ona czyta zdanie"],
+      "fa": ["من یک جمله می‌نویسم", "این جمله خوب است", "او جمله را می‌خواند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_897_es",
+    "word": "idioma",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "language",
+      "de": "Sprache",
+      "ar": "لغة",
+      "fr": "langue",
+      "it": "lingua",
+      "ru": "язык",
+      "es": "idioma",
+      "pl": "język",
+      "fa": "زبان"
+    },
+    "explanations": {
+      "en": "System of communication used by people",
+      "de": "Kommunikationssystem, das von Menschen verwendet wird",
+      "ar": "نظام التواصل الذي يستخدمه الناس",
+      "fr": "Système de communication utilisé par les gens",
+      "it": "Sistema di comunicazione usato dalle persone",
+      "ru": "Система общения, используемая людьми",
+      "es": "Sistema de comunicación usado por personas",
+      "pl": "System komunikacji używany przez ludzi",
+      "fa": "سیستم ارتباطی که توسط مردم استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["I speak two languages", "Spanish is my language", "She learns new languages"],
+      "de": ["Ich spreche zwei Sprachen", "Spanisch ist meine Sprache", "Sie lernt neue Sprachen"],
+      "ar": ["أتحدث لغتين", "الإسبانية هي لغتي", "هي تتعلم لغات جديدة"],
+      "fr": ["Je parle deux langues", "L'espagnol est ma langue", "Elle apprend de nouvelles langues"],
+      "it": ["Parlo due lingue", "Lo spagnolo è la mia lingua", "Lei impara nuove lingue"],
+      "ru": ["Я говорю на двух языках", "Испанский мой язык", "Она учит новые языки"],
+      "es": ["Yo hablo dos idiomas", "El español es mi idioma", "Ella aprende idiomas nuevos"],
+      "pl": ["Mówię w dwóch językach", "Hiszpański jest moim językiem", "Ona uczy się nowych języków"],
+      "fa": ["من دو زبان صحبت می‌کنم", "اسپانیایی زبان من است", "او زبان‌های جدید یاد می‌گیرد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_898_es",
+    "word": "traducir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to translate",
+      "de": "übersetzen",
+      "ar": "يترجم",
+      "fr": "traduire",
+      "it": "tradurre",
+      "ru": "переводить",
+      "es": "traducir",
+      "pl": "tłumaczyć",
+      "fa": "ترجمه کردن"
+    },
+    "explanations": {
+      "en": "To express words from one language to another",
+      "de": "Wörter von einer Sprache in eine andere ausdrücken",
+      "ar": "التعبير عن الكلمات من لغة إلى أخرى",
+      "fr": "Exprimer des mots d'une langue à une autre",
+      "it": "Esprimere parole da una lingua a un'altra",
+      "ru": "Выражать слова из одного языка на другой",
+      "es": "Expresar palabras de un idioma a otro",
+      "pl": "Wyrażać słowa z jednego języka na inny",
+      "fa": "بیان کلمات از یک زبان به زبان دیگر"
+    },
+    "examples": {
+      "en": ["I translate this text", "Translate it to English", "She translates every day"],
+      "de": ["Ich übersetze diesen Text", "Übersetze es ins Englische", "Sie übersetzt jeden Tag"],
+      "ar": ["أترجم هذا النص", "ترجمه إلى الإنجليزية", "هي تترجم كل يوم"],
+      "fr": ["Je traduis ce texte", "Traduis-le en anglais", "Elle traduit tous les jours"],
+      "it": ["Traduco questo testo", "Traducilo in inglese", "Lei traduce ogni giorno"],
+      "ru": ["Я перевожу этот текст", "Переведи это на английский", "Она переводит каждый день"],
+      "es": ["Yo traduzco este texto", "Tradúcelo al inglés", "Ella traduce cada día"],
+      "pl": ["Tłumaczę ten tekst", "Przetłumacz to na angielski", "Ona tłumaczy codziennie"],
+      "fa": ["من این متن را ترجمه می‌کنم", "آن را به انگلیسی ترجمه کن", "او هر روز ترجمه می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_899_es",
+    "word": "significar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to mean",
+      "de": "bedeuten",
+      "ar": "يعني",
+      "fr": "signifier",
+      "it": "significare",
+      "ru": "означать",
+      "es": "significar",
+      "pl": "znaczyć",
+      "fa": "به معنی بودن"
+    },
+    "explanations": {
+      "en": "To have as meaning or definition",
+      "de": "Als Bedeutung oder Definition haben",
+      "ar": "أن يكون له معنى أو تعريف",
+      "fr": "Avoir comme signification ou définition",
+      "it": "Avere come significato o definizione",
+      "ru": "Иметь в качестве значения или определения",
+      "es": "Tener como significado o definición",
+      "pl": "Mieć jako znaczenie lub definicję",
+      "fa": "به عنوان معنی یا تعریف داشتن"
+    },
+    "examples": {
+      "en": ["I know what means", "This word means hello", "What does it mean"],
+      "de": ["Ich weiß was bedeutet", "Dieses Wort bedeutet hallo", "Was bedeutet es"],
+      "ar": ["أعرف ما يعني", "هذه الكلمة تعني مرحبًا", "ماذا يعني"],
+      "fr": ["Je sais ce que signifie", "Ce mot signifie bonjour", "Qu'est-ce que ça signifie"],
+      "it": ["So cosa significa", "Questa parola significa ciao", "Cosa significa"],
+      "ru": ["Я знаю, что означает", "Это слово означает привет", "Что это означает"],
+      "es": ["Yo sé qué significa", "Esta palabra significa hola", "Qué significa esto"],
+      "pl": ["Wiem, co znaczy", "To słowo znaczy cześć", "Co to znaczy"],
+      "fa": ["من می‌دانم چه معنی می‌دهد", "این کلمه به معنی سلام است", "چه معنی می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_900_es",
+    "word": "explicar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to explain",
+      "de": "erklären",
+      "ar": "يشرح",
+      "fr": "expliquer",
+      "it": "spiegare",
+      "ru": "объяснять",
+      "es": "explicar",
+      "pl": "wyjaśniać",
+      "fa": "توضیح دادن"
+    },
+    "explanations": {
+      "en": "To make something clear or easy to understand",
+      "de": "Etwas klar oder leicht verständlich machen",
+      "ar": "جعل شيء واضحًا أو سهل الفهم",
+      "fr": "Rendre quelque chose clair ou facile à comprendre",
+      "it": "Rendere qualcosa chiaro o facile da capire",
+      "ru": "Сделать что-то ясным или легким для понимания",
+      "es": "Hacer algo claro o fácil de entender",
+      "pl": "Uczynić coś jasnym lub łatwym do zrozumienia",
+      "fa": "چیزی را واضح یا آسان برای فهمیدن کردن"
+    },
+    "examples": {
+      "en": ["I explain the lesson", "Explain it to me", "She explains very well"],
+      "de": ["Ich erkläre die Lektion", "Erklär es mir", "Sie erklärt sehr gut"],
+      "ar": ["أشرح الدرس", "اشرحه لي", "هي تشرح جيدًا جدًا"],
+      "fr": ["J'explique la leçon", "Explique-le-moi", "Elle explique très bien"],
+      "it": ["Spiego la lezione", "Spiegamelo", "Lei spiega molto bene"],
+      "ru": ["Я объясняю урок", "Объясни мне это", "Она объясняет очень хорошо"],
+      "es": ["Yo explico la lección", "Explícamelo", "Ella explica muy bien"],
+      "pl": ["Wyjaśniam lekcję", "Wyjaśnij mi to", "Ona wyjaśnia bardzo dobrze"],
+      "fa": ["من درس را توضیح می‌دهم", "آن را برای من توضیح بده", "او خیلی خوب توضیح می‌دهد"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_561_es",
+    "word": "mañana",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "morning",
+      "de": "Morgen",
+      "ar": "صباح",
+      "fr": "matin",
+      "it": "mattina, mattino",
+      "ru": "утро",
+      "es": "mañana",
+      "pl": "ranek, poranek",
+      "fa": "صبح"
+    },
+    "explanations": {
+      "en": "Noun referring to the early part of the day from sunrise to noon",
+      "de": "Substantiv für den frühen Teil des Tages von Sonnenaufgang bis Mittag",
+      "ar": "اسم يشير إلى الجزء المبكر من اليوم من شروق الشمس حتى الظهر",
+      "fr": "Nom désignant la première partie de la journée du lever du soleil à midi",
+      "it": "Sostantivo che si riferisce alla parte iniziale del giorno dall'alba a mezzogiorno",
+      "ru": "Существительное, обозначающее раннюю часть дня от рассвета до полудня",
+      "es": "Sustantivo que se refiere a la parte temprana del día desde el amanecer hasta el mediodía",
+      "pl": "Rzeczownik odnoszący się do wczesnej części dnia od wschodu słońca do południa",
+      "fa": "اسمی که به بخش اولیه روز از طلوع آفتاب تا ظهر اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good morning today", "I wake in the morning", "Every morning I run"],
+      "de": ["Guten Morgen heute", "Ich wache morgens auf", "Jeden Morgen laufe ich"],
+      "ar": ["صباح الخير اليوم", "أستيقظ في الصباح", "كل صباح أركض"],
+      "fr": ["Bonjour ce matin", "Je me réveille le matin", "Chaque matin je cours"],
+      "it": ["Buongiorno oggi", "Mi sveglio la mattina", "Ogni mattina corro"],
+      "ru": ["Доброе утро сегодня", "Я просыпаюсь утром", "Каждое утро я бегаю"],
+      "es": ["Buenos días hoy", "Yo me despierto por la mañana", "Cada mañana yo corro"],
+      "pl": ["Dzień dobry dzisiaj", "Budzę się rano", "Każdego ranka biegam"],
+      "fa": ["صبح بخیر امروز", "من صبح بیدار می‌شوم", "هر صبح من می‌دوم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_562_es",
+    "word": "tarde",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "afternoon, evening",
+      "de": "Nachmittag, Abend",
+      "ar": "بعد الظهر، مساء",
+      "fr": "après-midi, soirée",
+      "it": "pomeriggio, sera",
+      "ru": "день, вечер",
+      "es": "tarde",
+      "pl": "popołudnie, wieczór",
+      "fa": "بعدازظهر، عصر"
+    },
+    "explanations": {
+      "en": "Noun referring to the period from noon to evening",
+      "de": "Substantiv für die Zeit von Mittag bis zum Abend",
+      "ar": "اسم يشير إلى الفترة من الظهر إلى المساء",
+      "fr": "Nom désignant la période de midi au soir",
+      "it": "Sostantivo che si riferisce al periodo da mezzogiorno alla sera",
+      "ru": "Существительное, обозначающее период от полудня до вечера",
+      "es": "Sustantivo que se refiere al periodo desde el mediodía hasta la noche",
+      "pl": "Rzeczownik odnoszący się do okresu od południa do wieczoru",
+      "fa": "اسمی که به دوره از ظهر تا عصر اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good afternoon here", "I work in the afternoon", "This afternoon is nice"],
+      "de": ["Guten Tag hier", "Ich arbeite nachmittags", "Dieser Nachmittag ist schön"],
+      "ar": ["مساء الخير هنا", "أعمل بعد الظهر", "هذا المساء لطيف"],
+      "fr": ["Bon après-midi ici", "Je travaille l'après-midi", "Cet après-midi est agréable"],
+      "it": ["Buon pomeriggio qui", "Lavoro il pomeriggio", "Questo pomeriggio è bello"],
+      "ru": ["Добрый день здесь", "Я работаю днём", "Этот день хороший"],
+      "es": ["Buenas tardes aquí", "Yo trabajo por la tarde", "Esta tarde es linda"],
+      "pl": ["Dzień dobry tutaj", "Pracuję po południu", "To popołudnie jest ładne"],
+      "fa": ["عصر بخیر اینجا", "من بعدازظهر کار می‌کنم", "این بعدازظهر خوب است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_563_es",
+    "word": "noche",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "night",
+      "de": "Nacht",
+      "ar": "ليل",
+      "fr": "nuit",
+      "it": "notte",
+      "ru": "ночь",
+      "es": "noche",
+      "pl": "noc",
+      "fa": "شب"
+    },
+    "explanations": {
+      "en": "Noun referring to the period of darkness between sunset and sunrise",
+      "de": "Substantiv für die Dunkelheitsperiode zwischen Sonnenuntergang und Sonnenaufgang",
+      "ar": "اسم يشير إلى فترة الظلام بين غروب الشمس وشروقها",
+      "fr": "Nom désignant la période d'obscurité entre le coucher et le lever du soleil",
+      "it": "Sostantivo che si riferisce al periodo di oscurità tra il tramonto e l'alba",
+      "ru": "Существительное, обозначающее период темноты между закатом и восходом",
+      "es": "Sustantivo que se refiere al periodo de oscuridad entre la puesta y la salida del sol",
+      "pl": "Rzeczownik odnoszący się do okresu ciemności między zachodem a wschodem słońca",
+      "fa": "اسمی که به دوره تاریکی بین غروب و طلوع آفتاب اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good night everyone", "I sleep at night", "The night is dark"],
+      "de": ["Gute Nacht allerseits", "Ich schlafe nachts", "Die Nacht ist dunkel"],
+      "ar": ["ليلة سعيدة للجميع", "أنام ليلاً", "الليل مظلم"],
+      "fr": ["Bonne nuit à tous", "Je dors la nuit", "La nuit est sombre"],
+      "it": ["Buonanotte a tutti", "Dormo di notte", "La notte è buia"],
+      "ru": ["Спокойной ночи всем", "Я сплю ночью", "Ночь тёмная"],
+      "es": ["Buenas noches a todos", "Yo duermo de noche", "La noche está oscura"],
+      "pl": ["Dobranoc wszystkim", "Śpię w nocy", "Noc jest ciemna"],
+      "fa": ["شب بخیر به همه", "من شب می‌خوابم", "شب تاریک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_564_es",
+    "word": "desayuno",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "breakfast",
+      "de": "Frühstück",
+      "ar": "إفطار",
+      "fr": "petit-déjeuner",
+      "it": "colazione",
+      "ru": "завтрак",
+      "es": "desayuno",
+      "pl": "śniadanie",
+      "fa": "صبحانه"
+    },
+    "explanations": {
+      "en": "Noun referring to the first meal of the day",
+      "de": "Substantiv für die erste Mahlzeit des Tages",
+      "ar": "اسم يشير إلى الوجبة الأولى في اليوم",
+      "fr": "Nom désignant le premier repas de la journée",
+      "it": "Sostantivo che si riferisce al primo pasto della giornata",
+      "ru": "Существительное, обозначающее первый приём пищи в день",
+      "es": "Sustantivo que se refiere a la primera comida del día",
+      "pl": "Rzeczownik odnoszący się do pierwszego posiłku dnia",
+      "fa": "اسمی که به اولین وعده غذایی روز اشاره دارد"
+    },
+    "examples": {
+      "en": ["I eat breakfast", "Good breakfast today", "Breakfast is ready"],
+      "de": ["Ich esse Frühstück", "Gutes Frühstück heute", "Frühstück ist fertig"],
+      "ar": ["آكل الإفطار", "إفطار جيد اليوم", "الإفطار جاهز"],
+      "fr": ["Je prends le petit-déjeuner", "Bon petit-déjeuner aujourd'hui", "Le petit-déjeuner est prêt"],
+      "it": ["Faccio colazione", "Buona colazione oggi", "La colazione è pronta"],
+      "ru": ["Я ем завтрак", "Хороший завтрак сегодня", "Завтрак готов"],
+      "es": ["Yo como el desayuno", "Buen desayuno hoy", "El desayuno está listo"],
+      "pl": ["Jem śniadanie", "Dobre śniadanie dzisiaj", "Śniadanie jest gotowe"],
+      "fa": ["من صبحانه می‌خورم", "صبحانه خوب امروز", "صبحانه آماده است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_565_es",
+    "word": "almuerzo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "lunch",
+      "de": "Mittagessen",
+      "ar": "غداء",
+      "fr": "déjeuner",
+      "it": "pranzo",
+      "ru": "обед",
+      "es": "almuerzo",
+      "pl": "obiad",
+      "fa": "ناهار"
+    },
+    "explanations": {
+      "en": "Noun referring to the midday meal",
+      "de": "Substantiv für die Mittagsmahlzeit",
+      "ar": "اسم يشير إلى وجبة منتصف النهار",
+      "fr": "Nom désignant le repas de midi",
+      "it": "Sostantivo che si riferisce al pasto di mezzogiorno",
+      "ru": "Существительное, обозначающее дневной приём пищи",
+      "es": "Sustantivo que se refiere a la comida del mediodía",
+      "pl": "Rzeczownik odnoszący się do posiłku w południe",
+      "fa": "اسمی که به وعده غذایی نیمروز اشاره دارد"
+    },
+    "examples": {
+      "en": ["I eat lunch", "Lunch is ready", "Good lunch today"],
+      "de": ["Ich esse Mittag", "Mittagessen ist fertig", "Gutes Mittagessen heute"],
+      "ar": ["آكل الغداء", "الغداء جاهز", "غداء جيد اليوم"],
+      "fr": ["Je déjeune", "Le déjeuner est prêt", "Bon déjeuner aujourd'hui"],
+      "it": ["Pranzo", "Il pranzo è pronto", "Buon pranzo oggi"],
+      "ru": ["Я обедаю", "Обед готов", "Хороший обед сегодня"],
+      "es": ["Yo como el almuerzo", "El almuerzo está listo", "Buen almuerzo hoy"],
+      "pl": ["Jem obiad", "Obiad jest gotowy", "Dobry obiad dzisiaj"],
+      "fa": ["من ناهار می‌خورم", "ناهار آماده است", "ناهار خوب امروز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_566_es",
+    "word": "cena",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dinner, supper",
+      "de": "Abendessen",
+      "ar": "عشاء",
+      "fr": "dîner",
+      "it": "cena",
+      "ru": "ужин",
+      "es": "cena",
+      "pl": "kolacja",
+      "fa": "شام"
+    },
+    "explanations": {
+      "en": "Noun referring to the evening meal",
+      "de": "Substantiv für die Abendmahlzeit",
+      "ar": "اسم يشير إلى وجبة المساء",
+      "fr": "Nom désignant le repas du soir",
+      "it": "Sostantivo che si riferisce al pasto serale",
+      "ru": "Существительное, обозначающее вечерний приём пищи",
+      "es": "Sustantivo que se refiere a la comida de la noche",
+      "pl": "Rzeczownik odnoszący się do wieczornego posiłku",
+      "fa": "اسمی که به وعده غذایی شب اشاره دارد"
+    },
+    "examples": {
+      "en": ["I eat dinner", "Dinner is ready", "Good dinner tonight"],
+      "de": ["Ich esse Abendessen", "Abendessen ist fertig", "Gutes Abendessen heute Abend"],
+      "ar": ["آكل العشاء", "العشاء جاهز", "عشاء جيد الليلة"],
+      "fr": ["Je dîne", "Le dîner est prêt", "Bon dîner ce soir"],
+      "it": ["Ceno", "La cena è pronta", "Buona cena stasera"],
+      "ru": ["Я ужинаю", "Ужин готов", "Хороший ужин сегодня"],
+      "es": ["Yo como la cena", "La cena está lista", "Buena cena esta noche"],
+      "pl": ["Jem kolację", "Kolacja jest gotowa", "Dobra kolacja dzisiaj"],
+      "fa": ["من شام می‌خورم", "شام آماده است", "شام خوب امشب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_567_es",
+    "word": "comida",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "food, meal",
+      "de": "Essen, Mahlzeit",
+      "ar": "طعام، وجبة",
+      "fr": "nourriture, repas",
+      "it": "cibo, pasto",
+      "ru": "еда, пища",
+      "es": "comida",
+      "pl": "jedzenie, posiłek",
+      "fa": "غذا، وعده غذایی"
+    },
+    "explanations": {
+      "en": "Noun referring to sustenance or a meal",
+      "de": "Substantiv für Nahrung oder eine Mahlzeit",
+      "ar": "اسم يشير إلى الغذاء أو الوجبة",
+      "fr": "Nom désignant la nourriture ou un repas",
+      "it": "Sostantivo che si riferisce al nutrimento o a un pasto",
+      "ru": "Существительное, обозначающее пищу или приём пищи",
+      "es": "Sustantivo que se refiere al sustento o una comida",
+      "pl": "Rzeczownik odnoszący się do pożywienia lub posiłku",
+      "fa": "اسمی که به غذا یا وعده غذایی اشاره دارد"
+    },
+    "examples": {
+      "en": ["I like this food", "The meal is good", "We need more food"],
+      "de": ["Ich mag dieses Essen", "Die Mahlzeit ist gut", "Wir brauchen mehr Essen"],
+      "ar": ["أحب هذا الطعام", "الوجبة جيدة", "نحتاج المزيد من الطعام"],
+      "fr": ["J'aime cette nourriture", "Le repas est bon", "Nous avons besoin de plus de nourriture"],
+      "it": ["Mi piace questo cibo", "Il pasto è buono", "Abbiamo bisogno di più cibo"],
+      "ru": ["Мне нравится эта еда", "Еда хорошая", "Нам нужно больше еды"],
+      "es": ["Me gusta esta comida", "La comida es buena", "Necesitamos más comida"],
+      "pl": ["Lubię to jedzenie", "Posiłek jest dobry", "Potrzebujemy więcej jedzenia"],
+      "fa": ["من این غذا را دوست دارم", "وعده غذایی خوب است", "ما به غذای بیشتری نیاز داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_568_es",
+    "word": "alimento",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "food, nourishment",
+      "de": "Nahrungsmittel, Lebensmittel",
+      "ar": "غذاء، طعام مغذي",
+      "fr": "aliment, nourriture",
+      "it": "alimento, nutrimento",
+      "ru": "пища, питание",
+      "es": "alimento",
+      "pl": "pokarm, żywność",
+      "fa": "مواد غذایی، تغذیه"
+    },
+    "explanations": {
+      "en": "Noun referring to nutritious substances consumed for sustenance",
+      "de": "Substantiv für nahrhafte Substanzen, die zur Ernährung verzehrt werden",
+      "ar": "اسم يشير إلى المواد المغذية المستهلكة للحصول على القوت",
+      "fr": "Nom désignant des substances nutritives consommées pour se sustenter",
+      "it": "Sostantivo che si riferisce a sostanze nutritive consumate per il sostentamento",
+      "ru": "Существительное, обозначающее питательные вещества, потребляемые для пропитания",
+      "es": "Sustantivo que se refiere a sustancias nutritivas consumidas para el sustento",
+      "pl": "Rzeczownik odnoszący się do substancji odżywczych spożywanych dla wyżywienia",
+      "fa": "اسمی که به مواد مغذی مصرف شده برای تغذیه اشاره دارد"
+    },
+    "examples": {
+      "en": ["Healthy food is good", "We need fresh food", "This is good nourishment"],
+      "de": ["Gesundes Essen ist gut", "Wir brauchen frische Nahrung", "Das ist gute Ernährung"],
+      "ar": ["الطعام الصحي جيد", "نحتاج طعاماً طازجاً", "هذا غذاء جيد"],
+      "fr": ["La nourriture saine est bonne", "Nous avons besoin de nourriture fraîche", "C'est une bonne alimentation"],
+      "it": ["Il cibo sano è buono", "Abbiamo bisogno di cibo fresco", "Questo è buon nutrimento"],
+      "ru": ["Здоровая пища хороша", "Нам нужна свежая еда", "Это хорошее питание"],
+      "es": ["El alimento saludable es bueno", "Necesitamos alimento fresco", "Este es buen alimento"],
+      "pl": ["Zdrowe jedzenie jest dobre", "Potrzebujemy świeżej żywności", "To dobry pokarm"],
+      "fa": ["غذای سالم خوب است", "ما به غذای تازه نیاز داریم", "این تغذیه خوبی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_569_es",
+    "word": "hambre",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hunger",
+      "de": "Hunger",
+      "ar": "جوع",
+      "fr": "faim",
+      "it": "fame",
+      "ru": "голод",
+      "es": "hambre",
+      "pl": "głód",
+      "fa": "گرسنگی"
+    },
+    "explanations": {
+      "en": "Noun referring to the feeling of needing food",
+      "de": "Substantiv für das Gefühl, Nahrung zu brauchen",
+      "ar": "اسم يشير إلى الشعور بالحاجة إلى الطعام",
+      "fr": "Nom désignant la sensation de besoin de nourriture",
+      "it": "Sostantivo che si riferisce alla sensazione di bisogno di cibo",
+      "ru": "Существительное, обозначающее ощущение потребности в пище",
+      "es": "Sustantivo que se refiere a la sensación de necesitar comida",
+      "pl": "Rzeczownik odnoszący się do uczucia potrzeby jedzenia",
+      "fa": "اسمی که به احساس نیاز به غذا اشاره دارد"
+    },
+    "examples": {
+      "en": ["I have hunger", "She feels hungry", "Hunger is strong"],
+      "de": ["Ich habe Hunger", "Sie fühlt sich hungrig", "Hunger ist stark"],
+      "ar": ["أنا جائع", "هي تشعر بالجوع", "الجوع شديد"],
+      "fr": ["J'ai faim", "Elle a faim", "La faim est forte"],
+      "it": ["Ho fame", "Lei ha fame", "La fame è forte"],
+      "ru": ["Я голоден", "Она голодна", "Голод сильный"],
+      "es": ["Yo tengo hambre", "Ella tiene hambre", "El hambre es fuerte"],
+      "pl": ["Jestem głodny", "Ona jest głodna", "Głód jest silny"],
+      "fa": ["من گرسنه هستم", "او گرسنه است", "گرسنگی زیاد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_570_es",
+    "word": "sed",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "thirst",
+      "de": "Durst",
+      "ar": "عطش",
+      "fr": "soif",
+      "it": "sete",
+      "ru": "жажда",
+      "es": "sed",
+      "pl": "pragnienie",
+      "fa": "تشنگی"
+    },
+    "explanations": {
+      "en": "Noun referring to the feeling of needing to drink",
+      "de": "Substantiv für das Gefühl, trinken zu müssen",
+      "ar": "اسم يشير إلى الشعور بالحاجة إلى الشرب",
+      "fr": "Nom désignant la sensation de besoin de boire",
+      "it": "Sostantivo che si riferisce alla sensazione di bisogno di bere",
+      "ru": "Существительное, обозначающее ощущение потребности в питье",
+      "es": "Sustantivo que se refiere a la sensación de necesitar beber",
+      "pl": "Rzeczownik odnoszący się do uczucia potrzeby picia",
+      "fa": "اسمی که به احساس نیاز به نوشیدن اشاره دارد"
+    },
+    "examples": {
+      "en": ["I have thirst", "He feels thirsty", "Thirst is strong"],
+      "de": ["Ich habe Durst", "Er fühlt sich durstig", "Durst ist stark"],
+      "ar": ["أنا عطشان", "هو يشعر بالعطش", "العطش شديد"],
+      "fr": ["J'ai soif", "Il a soif", "La soif est forte"],
+      "it": ["Ho sete", "Lui ha sete", "La sete è forte"],
+      "ru": ["Я хочу пить", "Он хочет пить", "Жажда сильная"],
+      "es": ["Yo tengo sed", "Él tiene sed", "La sed es fuerte"],
+      "pl": ["Jestem spragniony", "On jest spragniony", "Pragnienie jest silne"],
+      "fa": ["من تشنه هستم", "او تشنه است", "تشنگی زیاد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_571_es",
+    "word": "sabor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "taste, flavor",
+      "de": "Geschmack",
+      "ar": "طعم، نكهة",
+      "fr": "goût, saveur",
+      "it": "sapore, gusto",
+      "ru": "вкус",
+      "es": "sabor",
+      "pl": "smak",
+      "fa": "طعم، مزه"
+    },
+    "explanations": {
+      "en": "Noun referring to the sensation or quality of food detected by taste",
+      "de": "Substantiv für die Empfindung oder Qualität von Nahrung, die durch Schmecken wahrgenommen wird",
+      "ar": "اسم يشير إلى الإحساس أو جودة الطعام المكتشفة بالذوق",
+      "fr": "Nom désignant la sensation ou la qualité de nourriture détectée par le goût",
+      "it": "Sostantivo che si riferisce alla sensazione o qualità del cibo rilevata dal gusto",
+      "ru": "Существительное, обозначающее ощущение или качество пищи, определяемое вкусом",
+      "es": "Sustantivo que se refiere a la sensación o calidad de comida detectada por el gusto",
+      "pl": "Rzeczownik odnoszący się do wrażenia lub jakości jedzenia wykrywanej przez smak",
+      "fa": "اسمی که به احساس یا کیفیت غذا که توسط چشایی تشخیص داده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["Good taste here", "Sweet flavor today", "I like this taste"],
+      "de": ["Guter Geschmack hier", "Süßer Geschmack heute", "Ich mag diesen Geschmack"],
+      "ar": ["طعم جيد هنا", "نكهة حلوة اليوم", "أحب هذا الطعم"],
+      "fr": ["Bon goût ici", "Saveur douce aujourd'hui", "J'aime ce goût"],
+      "it": ["Buon sapore qui", "Gusto dolce oggi", "Mi piace questo sapore"],
+      "ru": ["Хороший вкус здесь", "Сладкий вкус сегодня", "Мне нравится этот вкус"],
+      "es": ["Buen sabor aquí", "Sabor dulce hoy", "Me gusta este sabor"],
+      "pl": ["Dobry smak tutaj", "Słodki smak dzisiaj", "Lubię ten smak"],
+      "fa": ["طعم خوب اینجا", "مزه شیرین امروز", "من این طعم را دوست دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_572_es",
+    "word": "cocinar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to cook",
+      "de": "kochen",
+      "ar": "يطبخ",
+      "fr": "cuisiner",
+      "it": "cucinare",
+      "ru": "готовить",
+      "es": "cocinar",
+      "pl": "gotować",
+      "fa": "آشپزی کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of preparing food by heating",
+      "de": "Verb für die Handlung, Essen durch Erhitzen zuzubereiten",
+      "ar": "فعل يعبر عن فعل إعداد الطعام بالتسخين",
+      "fr": "Verbe exprimant l'action de préparer de la nourriture en chauffant",
+      "it": "Verbo che esprime l'azione di preparare cibo mediante riscaldamento",
+      "ru": "Глагол, выражающий действие приготовления пищи путём нагревания",
+      "es": "Verbo que expresa la acción de preparar comida mediante calor",
+      "pl": "Czasownik wyrażający czynność przygotowywania jedzenia poprzez podgrzewanie",
+      "fa": "فعلی که عمل آماده کردن غذا با حرارت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I cook dinner", "She cooks well", "We cook together"],
+      "de": ["Ich koche Abendessen", "Sie kocht gut", "Wir kochen zusammen"],
+      "ar": ["أطبخ العشاء", "هي تطبخ جيداً", "نحن نطبخ معاً"],
+      "fr": ["Je cuisine le dîner", "Elle cuisine bien", "Nous cuisinons ensemble"],
+      "it": ["Cucino la cena", "Lei cucina bene", "Cuciniamo insieme"],
+      "ru": ["Я готовлю ужин", "Она хорошо готовит", "Мы готовим вместе"],
+      "es": ["Yo cocino la cena", "Ella cocina bien", "Nosotros cocinamos juntos"],
+      "pl": ["Gotuję kolację", "Ona gotuje dobrze", "Gotujemy razem"],
+      "fa": ["من شام درست می‌کنم", "او خوب آشپزی می‌کند", "ما با هم آشپزی می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_573_es",
+    "word": "cocina",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "kitchen",
+      "de": "Küche",
+      "ar": "مطبخ",
+      "fr": "cuisine",
+      "it": "cucina",
+      "ru": "кухня",
+      "es": "cocina",
+      "pl": "kuchnia",
+      "fa": "آشپزخانه"
+    },
+    "explanations": {
+      "en": "Noun referring to a room where food is prepared",
+      "de": "Substantiv für einen Raum, in dem Essen zubereitet wird",
+      "ar": "اسم يشير إلى غرفة يتم فيها إعداد الطعام",
+      "fr": "Nom désignant une pièce où la nourriture est préparée",
+      "it": "Sostantivo che si riferisce a una stanza dove viene preparato il cibo",
+      "ru": "Существительное, обозначающее комнату, где готовится еда",
+      "es": "Sustantivo que se refiere a una habitación donde se prepara la comida",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia, w którym przygotowuje się jedzenie",
+      "fa": "اسمی که به اتاقی که غذا در آن آماده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["The kitchen is clean", "I work in the kitchen", "Big kitchen here"],
+      "de": ["Die Küche ist sauber", "Ich arbeite in der Küche", "Große Küche hier"],
+      "ar": ["المطبخ نظيف", "أعمل في المطبخ", "مطبخ كبير هنا"],
+      "fr": ["La cuisine est propre", "Je travaille dans la cuisine", "Grande cuisine ici"],
+      "it": ["La cucina è pulita", "Lavoro in cucina", "Cucina grande qui"],
+      "ru": ["Кухня чистая", "Я работаю на кухне", "Большая кухня здесь"],
+      "es": ["La cocina está limpia", "Yo trabajo en la cocina", "Cocina grande aquí"],
+      "pl": ["Kuchnia jest czysta", "Pracuję w kuchni", "Duża kuchnia tutaj"],
+      "fa": ["آشپزخانه تمیز است", "من در آشپزخانه کار می‌کنم", "آشپزخانه بزرگ اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_574_es",
+    "word": "mesa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "table",
+      "de": "Tisch",
+      "ar": "طاولة، مائدة",
+      "fr": "table",
+      "it": "tavolo, tavola",
+      "ru": "стол",
+      "es": "mesa",
+      "pl": "stół",
+      "fa": "میز"
+    },
+    "explanations": {
+      "en": "Noun referring to furniture with a flat top for eating or working",
+      "de": "Substantiv für Möbel mit flacher Oberfläche zum Essen oder Arbeiten",
+      "ar": "اسم يشير إلى قطعة أثاث ذات سطح مسطح للأكل أو العمل",
+      "fr": "Nom désignant un meuble avec un dessus plat pour manger ou travailler",
+      "it": "Sostantivo che si riferisce a mobile con superficie piatta per mangiare o lavorare",
+      "ru": "Существительное, обозначающее мебель с плоской поверхностью для еды или работы",
+      "es": "Sustantivo que se refiere a mueble con superficie plana para comer o trabajar",
+      "pl": "Rzeczownik odnoszący się do mebla z płaską powierzchnią do jedzenia lub pracy",
+      "fa": "اسمی که به مبل با سطح صاف برای خوردن یا کار اشاره دارد"
+    },
+    "examples": {
+      "en": ["The table is ready", "I sit at the table", "Big table here"],
+      "de": ["Der Tisch ist bereit", "Ich sitze am Tisch", "Großer Tisch hier"],
+      "ar": ["الطاولة جاهزة", "أجلس على الطاولة", "طاولة كبيرة هنا"],
+      "fr": ["La table est prête", "Je m'assieds à table", "Grande table ici"],
+      "it": ["Il tavolo è pronto", "Mi siedo al tavolo", "Tavolo grande qui"],
+      "ru": ["Стол готов", "Я сижу за столом", "Большой стол здесь"],
+      "es": ["La mesa está lista", "Yo me siento en la mesa", "Mesa grande aquí"],
+      "pl": ["Stół jest gotowy", "Siedzę przy stole", "Duży stół tutaj"],
+      "fa": ["میز آماده است", "من پشت میز می‌نشینم", "میز بزرگ اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_575_es",
+    "word": "silla",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "стул",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "explanations": {
+      "en": "Noun referring to a seat with a back for one person",
+      "de": "Substantiv für einen Sitz mit Rückenlehne für eine Person",
+      "ar": "اسم يشير إلى مقعد مع ظهر لشخص واحد",
+      "fr": "Nom désignant un siège avec un dossier pour une personne",
+      "it": "Sostantivo che si riferisce a una seduta con schienale per una persona",
+      "ru": "Существительное, обозначающее сиденье со спинкой для одного человека",
+      "es": "Sustantivo que se refiere a un asiento con respaldo para una persona",
+      "pl": "Rzeczownik odnoszący się do siedzenia z oparciem dla jednej osoby",
+      "fa": "اسمی که به صندلی با پشتی برای یک نفر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I sit on the chair", "The chair is comfortable", "New chair here"],
+      "de": ["Ich sitze auf dem Stuhl", "Der Stuhl ist bequem", "Neuer Stuhl hier"],
+      "ar": ["أجلس على الكرسي", "الكرسي مريح", "كرسي جديد هنا"],
+      "fr": ["Je m'assieds sur la chaise", "La chaise est confortable", "Nouvelle chaise ici"],
+      "it": ["Mi siedo sulla sedia", "La sedia è comoda", "Sedia nuova qui"],
+      "ru": ["Я сижу на стуле", "Стул удобный", "Новый стул здесь"],
+      "es": ["Yo me siento en la silla", "La silla es cómoda", "Silla nueva aquí"],
+      "pl": ["Siedzę na krześle", "Krzesło jest wygodne", "Nowe krzesło tutaj"],
+      "fa": ["من روی صندلی می‌نشینم", "صندلی راحت است", "صندلی جدید اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_576_es",
+    "word": "plato",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "plate, dish",
+      "de": "Teller, Gericht",
+      "ar": "طبق، صحن",
+      "fr": "assiette, plat",
+      "it": "piatto",
+      "ru": "тарелка, блюдо",
+      "es": "plato",
+      "pl": "talerz, danie",
+      "fa": "بشقاب، ظرف"
+    },
+    "explanations": {
+      "en": "Noun referring to a flat dish for serving food",
+      "de": "Substantiv für ein flaches Geschirr zum Servieren von Speisen",
+      "ar": "اسم يشير إلى طبق مسطح لتقديم الطعام",
+      "fr": "Nom désignant un plat plat pour servir la nourriture",
+      "it": "Sostantivo che si riferisce a un piatto piano per servire il cibo",
+      "ru": "Существительное, обозначающее плоскую посуду для подачи еды",
+      "es": "Sustantivo que se refiere a un plato plano para servir comida",
+      "pl": "Rzeczownik odnoszący się do płaskiego naczynia do serwowania jedzenia",
+      "fa": "اسمی که به بشقاب صاف برای سرو غذا اشاره دارد"
+    },
+    "examples": {
+      "en": ["Clean plate here", "I wash the dishes", "Good dish today"],
+      "de": ["Sauberer Teller hier", "Ich wasche das Geschirr", "Gutes Gericht heute"],
+      "ar": ["طبق نظيف هنا", "أغسل الأطباق", "طبق جيد اليوم"],
+      "fr": ["Assiette propre ici", "Je lave la vaisselle", "Bon plat aujourd'hui"],
+      "it": ["Piatto pulito qui", "Lavo i piatti", "Buon piatto oggi"],
+      "ru": ["Чистая тарелка здесь", "Я мою посуду", "Хорошее блюдо сегодня"],
+      "es": ["Plato limpio aquí", "Yo lavo los platos", "Buen plato hoy"],
+      "pl": ["Czysty talerz tutaj", "Zmywam naczynia", "Dobre danie dzisiaj"],
+      "fa": ["بشقاب تمیز اینجا", "من ظرف‌ها را می‌شویم", "غذای خوب امروز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_577_es",
+    "word": "taza",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "cup, mug",
+      "de": "Tasse, Becher",
+      "ar": "كوب، فنجان",
+      "fr": "tasse",
+      "it": "tazza",
+      "ru": "чашка, кружка",
+      "es": "taza",
+      "pl": "filiżanka, kubek",
+      "fa": "فنجان"
+    },
+    "explanations": {
+      "en": "Noun referring to a small container for drinking beverages",
+      "de": "Substantiv für einen kleinen Behälter zum Trinken von Getränken",
+      "ar": "اسم يشير إلى وعاء صغير لشرب المشروبات",
+      "fr": "Nom désignant un petit récipient pour boire des boissons",
+      "it": "Sostantivo che si riferisce a un piccolo contenitore per bere bevande",
+      "ru": "Существительное, обозначающее небольшую ёмкость для питья напитков",
+      "es": "Sustantivo que se refiere a un recipiente pequeño para beber bebidas",
+      "pl": "Rzeczownik odnoszący się do małego pojemnika do picia napojów",
+      "fa": "اسمی که به ظرف کوچک برای نوشیدن نوشیدنی‌ها اشاره دارد"
+    },
+    "examples": {
+      "en": ["I drink from the cup", "Hot coffee cup", "Clean cup here"],
+      "de": ["Ich trinke aus der Tasse", "Heiße Kaffeetasse", "Saubere Tasse hier"],
+      "ar": ["أشرب من الكوب", "كوب قهوة ساخن", "كوب نظيف هنا"],
+      "fr": ["Je bois dans la tasse", "Tasse de café chaud", "Tasse propre ici"],
+      "it": ["Bevo dalla tazza", "Tazza di caffè caldo", "Tazza pulita qui"],
+      "ru": ["Я пью из чашки", "Чашка горячего кофе", "Чистая чашка здесь"],
+      "es": ["Yo bebo de la taza", "Taza de café caliente", "Taza limpia aquí"],
+      "pl": ["Piję z filiżanki", "Filiżanka gorącej kawy", "Czysta filiżanka tutaj"],
+      "fa": ["من از فنجان می‌نوشم", "فنجان قهوه داغ", "فنجان تمیز اینجا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_578_es",
+    "word": "cuchara",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "spoon",
+      "de": "Löffel",
+      "ar": "ملعقة",
+      "fr": "cuillère",
+      "it": "cucchiaio",
+      "ru": "ложка",
+      "es": "cuchara",
+      "pl": "łyżka",
+      "fa": "قاشق"
+    },
+    "explanations": {
+      "en": "Noun referring to an eating utensil with a bowl-shaped end",
+      "de": "Substantiv für ein Essbesteck mit einem schüsselförmigen Ende",
+      "ar": "اسم يشير إلى أداة طعام ذات نهاية على شكل وعاء",
+      "fr": "Nom désignant un ustensile de table avec une extrémité en forme de bol",
+      "it": "Sostantivo che si riferisce a una posata con un'estremità a forma di ciotola",
+      "ru": "Существительное, обозначающее столовый прибор с чашеобразным концом",
+      "es": "Sustantivo que se refiere a un utensilio de comida con extremo en forma de cuenco",
+      "pl": "Rzeczownik odnoszący się do sztućca z zakończeniem w kształcie miseczki",
+      "fa": "اسمی که به قاشق غذا با انتهای کاسه‌ای شکل اشاره دارد"
+    },
+    "examples": {
+      "en": ["I eat with a spoon", "Clean spoon here", "Big soup spoon"],
+      "de": ["Ich esse mit einem Löffel", "Sauberer Löffel hier", "Großer Suppenlöffel"],
+      "ar": ["آكل بالملعقة", "ملعقة نظيفة هنا", "ملعقة حساء كبيرة"],
+      "fr": ["Je mange avec une cuillère", "Cuillère propre ici", "Grande cuillère à soupe"],
+      "it": ["Mangio con un cucchiaio", "Cucchiaio pulito qui", "Grosso cucchiaio da zuppa"],
+      "ru": ["Я ем ложкой", "Чистая ложка здесь", "Большая суповая ложка"],
+      "es": ["Yo como con una cuchara", "Cuchara limpia aquí", "Cuchara grande de sopa"],
+      "pl": ["Jem łyżką", "Czysta łyżka tutaj", "Duża łyżka do zupy"],
+      "fa": ["من با قاشق می‌خورم", "قاشق تمیز اینجا", "قاشق بزرگ سوپ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_579_es",
+    "word": "cuchillo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "knife",
+      "de": "Messer",
+      "ar": "سكين",
+      "fr": "couteau",
+      "it": "coltello",
+      "ru": "нож",
+      "es": "cuchillo",
+      "pl": "nóż",
+      "fa": "چاقو"
+    },
+    "explanations": {
+      "en": "Noun referring to a cutting tool with a sharp blade",
+      "de": "Substantiv für ein Schneidewerkzeug mit scharfer Klinge",
+      "ar": "اسم يشير إلى أداة قطع بشفرة حادة",
+      "fr": "Nom désignant un outil de coupe avec une lame tranchante",
+      "it": "Sostantivo che si riferisce a uno strumento da taglio con lama affilata",
+      "ru": "Существительное, обозначающее режущий инструмент с острым лезвием",
+      "es": "Sustantivo que se refiere a una herramienta de corte con hoja afilada",
+      "pl": "Rzeczownik odnoszący się do narzędzia tnącego z ostrym ostrzem",
+      "fa": "اسمی که به ابزار برش با تیغه تیز اشاره دارد"
+    },
+    "examples": {
+      "en": ["I cut with the knife", "Sharp knife here", "Kitchen knife clean"],
+      "de": ["Ich schneide mit dem Messer", "Scharfes Messer hier", "Küchenmesser sauber"],
+      "ar": ["أقطع بالسكين", "سكين حادة هنا", "سكين المطبخ نظيفة"],
+      "fr": ["Je coupe avec le couteau", "Couteau tranchant ici", "Couteau de cuisine propre"],
+      "it": ["Taglio col coltello", "Coltello affilato qui", "Coltello da cucina pulito"],
+      "ru": ["Я режу ножом", "Острый нож здесь", "Кухонный нож чистый"],
+      "es": ["Yo corto con el cuchillo", "Cuchillo afilado aquí", "Cuchillo de cocina limpio"],
+      "pl": ["Kroję nożem", "Ostry nóż tutaj", "Nóż kuchenny czysty"],
+      "fa": ["من با چاقو می‌برم", "چاقوی تیز اینجا", "چاقوی آشپزخانه تمیز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_580_es",
+    "word": "tenedor",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fork",
+      "de": "Gabel",
+      "ar": "شوكة",
+      "fr": "fourchette",
+      "it": "forchetta",
+      "ru": "вилка",
+      "es": "tenedor",
+      "pl": "widelec",
+      "fa": "چنگال"
+    },
+    "explanations": {
+      "en": "Noun referring to an eating utensil with prongs",
+      "de": "Substantiv für ein Essbesteck mit Zinken",
+      "ar": "اسم يشير إلى أداة طعام ذات أسنان",
+      "fr": "Nom désignant un ustensile de table avec des dents",
+      "it": "Sostantivo che si riferisce a una posata con rebbi",
+      "ru": "Существительное, обозначающее столовый прибор с зубцами",
+      "es": "Sustantivo que se refiere a un utensilio de comida con púas",
+      "pl": "Rzeczownik odnoszący się do sztućca z zębami",
+      "fa": "اسمی که به قاشق غذا با شاخک‌ها اشاره دارد"
+    },
+    "examples": {
+      "en": ["I eat with a fork", "Clean fork here", "Three forks on table"],
+      "de": ["Ich esse mit einer Gabel", "Saubere Gabel hier", "Drei Gabeln auf dem Tisch"],
+      "ar": ["آكل بالشوكة", "شوكة نظيفة هنا", "ثلاث شوك على الطاولة"],
+      "fr": ["Je mange avec une fourchette", "Fourchette propre ici", "Trois fourchettes sur la table"],
+      "it": ["Mangio con una forchetta", "Forchetta pulita qui", "Tre forchette sul tavolo"],
+      "ru": ["Я ем вилкой", "Чистая вилка здесь", "Три вилки на столе"],
+      "es": ["Yo como con un tenedor", "Tenedor limpio aquí", "Tres tenedores en la mesa"],
+      "pl": ["Jem widelcem", "Czysty widelec tutaj", "Trzy widelce na stole"],
+      "fa": ["من با چنگال می‌خورم", "چنگال تمیز اینجا", "سه چنگال روی میز"]
+    },
+    "conjugations": null
+  }
+]

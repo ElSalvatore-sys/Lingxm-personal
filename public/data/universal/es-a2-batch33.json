@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_641_es",
+    "word": "ropa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "clothes, clothing",
+      "de": "Kleidung",
+      "ar": "ملابس",
+      "fr": "vêtements",
+      "it": "vestiti, abbigliamento",
+      "ru": "одежда",
+      "es": "ropa",
+      "pl": "ubrania, odzież",
+      "fa": "لباس"
+    },
+    "explanations": {
+      "en": "Items worn to cover the body",
+      "de": "Gegenstände, die getragen werden, um den Körper zu bedecken",
+      "ar": "أشياء يتم ارتداؤها لتغطية الجسم",
+      "fr": "Articles portés pour couvrir le corps",
+      "it": "Articoli indossati per coprire il corpo",
+      "ru": "Предметы, которые носят для покрытия тела",
+      "es": "Artículos usados para cubrir el cuerpo",
+      "pl": "Przedmioty noszone do pokrycia ciała",
+      "fa": "وسایلی که برای پوشاندن بدن پوشیده می‌شوند"
+    },
+    "examples": {
+      "en": ["I buy new clothes", "My clothes are clean", "Wash your clothes daily"],
+      "de": ["Ich kaufe neue Kleidung", "Meine Kleidung ist sauber", "Wasch deine Kleidung täglich"],
+      "ar": ["أشتري ملابس جديدة", "ملابسي نظيفة", "اغسل ملابسك يوميا"],
+      "fr": ["J'achète nouveaux vêtements", "Mes vêtements sont propres", "Lave tes vêtements quotidiennement"],
+      "it": ["Compro vestiti nuovi", "I miei vestiti sono puliti", "Lava i tuoi vestiti quotidianamente"],
+      "ru": ["Я покупаю новую одежду", "Моя одежда чистая", "Стирай свою одежду ежедневно"],
+      "es": ["Yo compro ropa nueva", "Mi ropa está limpia", "Lava tu ropa diariamente"],
+      "pl": ["Kupuję nowe ubrania", "Moje ubrania są czyste", "Piorę swoje ubrania codziennie"],
+      "fa": ["من لباس جدید می‌خرم", "لباس‌های من تمیز است", "روزانه لباس‌هایت را بشور"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_642_es",
+    "word": "llevar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to wear, to carry",
+      "de": "tragen",
+      "ar": "يرتدي، يحمل",
+      "fr": "porter",
+      "it": "indossare, portare",
+      "ru": "носить, нести",
+      "es": "llevar",
+      "pl": "nosić",
+      "fa": "پوشیدن، حمل کردن"
+    },
+    "explanations": {
+      "en": "To have clothing on the body or to transport something",
+      "de": "Kleidung am Körper haben oder etwas transportieren",
+      "ar": "ارتداء ملابس على الجسم أو نقل شيء",
+      "fr": "Avoir des vêtements sur le corps ou transporter quelque chose",
+      "it": "Avere vestiti sul corpo o trasportare qualcosa",
+      "ru": "Иметь одежду на теле или транспортировать что-то",
+      "es": "Tener ropa en el cuerpo o transportar algo",
+      "pl": "Mieć ubrania na ciele lub transportować coś",
+      "fa": "داشتن لباس روی بدن یا حمل چیزی"
+    },
+    "examples": {
+      "en": ["I wear blue shirt", "She wears nice dress", "He carries big bag"],
+      "de": ["Ich trage blaues Hemd", "Sie trägt schönes Kleid", "Er trägt große Tasche"],
+      "ar": ["أرتدي قميصا أزرق", "ترتدي فستانا جميلا", "يحمل حقيبة كبيرة"],
+      "fr": ["Je porte chemise bleue", "Elle porte jolie robe", "Il porte grand sac"],
+      "it": ["Indosso camicia blu", "Lei indossa bel vestito", "Lui porta grande borsa"],
+      "ru": ["Я ношу синюю рубашку", "Она носит красивое платье", "Он несёт большую сумку"],
+      "es": ["Yo llevo camisa azul", "Ella lleva vestido bonito", "Él lleva bolsa grande"],
+      "pl": ["Noszę niebieską koszulę", "Ona nosi ładną sukienkę", "On niesie dużą torbę"],
+      "fa": ["من پیراهن آبی می‌پوشم", "او لباس قشنگی می‌پوشد", "او کیف بزرگی حمل می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_643_es",
+    "word": "camisa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shirt",
+      "de": "Hemd",
+      "ar": "قميص",
+      "fr": "chemise",
+      "it": "camicia",
+      "ru": "рубашка",
+      "es": "camisa",
+      "pl": "koszula",
+      "fa": "پیراهن"
+    },
+    "explanations": {
+      "en": "A garment for the upper body with sleeves",
+      "de": "Ein Kleidungsstück für den Oberkörper mit Ärmeln",
+      "ar": "قطعة ملابس للجزء العلوي من الجسم مع أكمام",
+      "fr": "Un vêtement pour le haut du corps avec manches",
+      "it": "Un indumento per la parte superiore del corpo con maniche",
+      "ru": "Предмет одежды для верхней части тела с рукавами",
+      "es": "Una prenda para la parte superior del cuerpo con mangas",
+      "pl": "Ubranie na górną część ciała z rękawami",
+      "fa": "لباسی برای بالا تنه با آستین"
+    },
+    "examples": {
+      "en": ["I have white shirt", "His shirt is new", "Buy a blue shirt"],
+      "de": ["Ich habe weißes Hemd", "Sein Hemd ist neu", "Kauf ein blaues Hemd"],
+      "ar": ["لدي قميص أبيض", "قميصه جديد", "اشتر قميصا أزرق"],
+      "fr": ["J'ai chemise blanche", "Sa chemise est nouvelle", "Achète une chemise bleue"],
+      "it": ["Ho camicia bianca", "La sua camicia è nuova", "Compra una camicia blu"],
+      "ru": ["У меня белая рубашка", "Его рубашка новая", "Купи синюю рубашку"],
+      "es": ["Yo tengo camisa blanca", "Su camisa es nueva", "Compra una camisa azul"],
+      "pl": ["Mam białą koszulę", "Jego koszula jest nowa", "Kup niebieską koszulę"],
+      "fa": ["من پیراهن سفیدی دارم", "پیراهن او جدید است", "یک پیراهن آبی بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_644_es",
+    "word": "pantalones",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pants, trousers",
+      "de": "Hose",
+      "ar": "بنطلون",
+      "fr": "pantalon",
+      "it": "pantaloni",
+      "ru": "брюки, штаны",
+      "es": "pantalones",
+      "pl": "spodnie",
+      "fa": "شلوار"
+    },
+    "explanations": {
+      "en": "A garment covering the body from waist to ankles",
+      "de": "Ein Kleidungsstück, das den Körper von der Taille bis zu den Knöcheln bedeckt",
+      "ar": "قطعة ملابس تغطي الجسم من الخصر إلى الكاحلين",
+      "fr": "Un vêtement couvrant le corps de la taille aux chevilles",
+      "it": "Un indumento che copre il corpo dalla vita alle caviglie",
+      "ru": "Предмет одежды, покрывающий тело от талии до лодыжек",
+      "es": "Una prenda que cubre el cuerpo de la cintura a los tobillos",
+      "pl": "Ubranie pokrywające ciało od talii do kostek",
+      "fa": "لباسی که بدن را از کمر تا مچ پا می‌پوشاند"
+    },
+    "examples": {
+      "en": ["I wear black pants", "His pants are long", "Buy new blue pants"],
+      "de": ["Ich trage schwarze Hose", "Seine Hose ist lang", "Kauf neue blaue Hose"],
+      "ar": ["أرتدي بنطلونا أسود", "بنطلونه طويل", "اشتر بنطلونا أزرق جديد"],
+      "fr": ["Je porte pantalon noir", "Son pantalon est long", "Achète nouveau pantalon bleu"],
+      "it": ["Indosso pantaloni neri", "I suoi pantaloni sono lunghi", "Compra nuovi pantaloni blu"],
+      "ru": ["Я ношу чёрные брюки", "Его брюки длинные", "Купи новые синие брюки"],
+      "es": ["Yo llevo pantalones negros", "Sus pantalones son largos", "Compra pantalones azules nuevos"],
+      "pl": ["Noszę czarne spodnie", "Jego spodnie są długie", "Kup nowe niebieskie spodnie"],
+      "fa": ["من شلوار سیاه می‌پوشم", "شلوار او بلند است", "شلوار آبی جدید بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_645_es",
+    "word": "vestido",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dress",
+      "de": "Kleid",
+      "ar": "فستان",
+      "fr": "robe",
+      "it": "vestito",
+      "ru": "платье",
+      "es": "vestido",
+      "pl": "sukienka",
+      "fa": "لباس، پیراهن"
+    },
+    "explanations": {
+      "en": "A one-piece garment for women or girls",
+      "de": "Ein einteiliges Kleidungsstück für Frauen oder Mädchen",
+      "ar": "قطعة ملابس من قطعة واحدة للنساء أو الفتيات",
+      "fr": "Un vêtement d'une pièce pour femmes ou filles",
+      "it": "Un indumento di un pezzo per donne o ragazze",
+      "ru": "Цельное одеяние для женщин или девочек",
+      "es": "Una prenda de una pieza para mujeres o niñas",
+      "pl": "Jednoczęściowa odzież dla kobiet lub dziewcząt",
+      "fa": "لباس یک‌تکه برای زنان یا دختران"
+    },
+    "examples": {
+      "en": ["She wears pretty dress", "My dress is red", "Buy a white dress"],
+      "de": ["Sie trägt hübsches Kleid", "Mein Kleid ist rot", "Kauf ein weißes Kleid"],
+      "ar": ["ترتدي فستانا جميلا", "فستاني أحمر", "اشتري فستانا أبيض"],
+      "fr": ["Elle porte jolie robe", "Ma robe est rouge", "Achète une robe blanche"],
+      "it": ["Lei indossa bel vestito", "Il mio vestito è rosso", "Compra un vestito bianco"],
+      "ru": ["Она носит красивое платье", "Моё платье красное", "Купи белое платье"],
+      "es": ["Ella lleva vestido bonito", "Mi vestido es rojo", "Compra un vestido blanco"],
+      "pl": ["Ona nosi ładną sukienkę", "Moja sukienka jest czerwona", "Kup białą sukienkę"],
+      "fa": ["او لباس قشنگی می‌پوشد", "لباس من قرمز است", "یک لباس سفید بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_646_es",
+    "word": "falda",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "skirt",
+      "de": "Rock",
+      "ar": "تنورة",
+      "fr": "jupe",
+      "it": "gonna",
+      "ru": "юбка",
+      "es": "falda",
+      "pl": "spódnica",
+      "fa": "دامن"
+    },
+    "explanations": {
+      "en": "A garment hanging from the waist for women",
+      "de": "Ein Kleidungsstück, das von der Taille hängt, für Frauen",
+      "ar": "قطعة ملابس معلقة من الخصر للنساء",
+      "fr": "Un vêtement pendant de la taille pour femmes",
+      "it": "Un indumento che pende dalla vita per donne",
+      "ru": "Предмет одежды, висящий от талии, для женщин",
+      "es": "Una prenda que cuelga de la cintura para mujeres",
+      "pl": "Ubranie wiszące od talii dla kobiet",
+      "fa": "لباسی که از کمر آویزان است برای زنان"
+    },
+    "examples": {
+      "en": ["She wears short skirt", "My skirt is blue", "The skirt is new"],
+      "de": ["Sie trägt kurzen Rock", "Mein Rock ist blau", "Der Rock ist neu"],
+      "ar": ["ترتدي تنورة قصيرة", "تنورتي زرقاء", "التنورة جديدة"],
+      "fr": ["Elle porte jupe courte", "Ma jupe est bleue", "La jupe est nouvelle"],
+      "it": ["Lei indossa gonna corta", "La mia gonna è blu", "La gonna è nuova"],
+      "ru": ["Она носит короткую юбку", "Моя юбка синяя", "Юбка новая"],
+      "es": ["Ella lleva falda corta", "Mi falda es azul", "La falda es nueva"],
+      "pl": ["Ona nosi krótką spódnicę", "Moja spódnica jest niebieska", "Spódnica jest nowa"],
+      "fa": ["او دامن کوتاهی می‌پوشد", "دامن من آبی است", "دامن جدید است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_647_es",
+    "word": "zapatos",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shoes",
+      "de": "Schuhe",
+      "ar": "أحذية",
+      "fr": "chaussures",
+      "it": "scarpe",
+      "ru": "туфли, обувь",
+      "es": "zapatos",
+      "pl": "buty",
+      "fa": "کفش"
+    },
+    "explanations": {
+      "en": "Footwear covering and protecting the feet",
+      "de": "Schuhwerk, das die Füße bedeckt und schützt",
+      "ar": "أحذية تغطي وتحمي القدمين",
+      "fr": "Chaussures couvrant et protégeant les pieds",
+      "it": "Calzature che coprono e proteggono i piedi",
+      "ru": "Обувь, покрывающая и защищающая ноги",
+      "es": "Calzado que cubre y protege los pies",
+      "pl": "Obuwie pokrywające i chroniące stopy",
+      "fa": "کفشی که پاها را می‌پوشاند و محافظت می‌کند"
+    },
+    "examples": {
+      "en": ["I have black shoes", "My shoes are new", "Buy comfortable shoes please"],
+      "de": ["Ich habe schwarze Schuhe", "Meine Schuhe sind neu", "Kauf bequeme Schuhe bitte"],
+      "ar": ["لدي أحذية سوداء", "أحذيتي جديدة", "اشتر أحذية مريحة من فضلك"],
+      "fr": ["J'ai chaussures noires", "Mes chaussures sont nouvelles", "Achète chaussures confortables s'il te plaît"],
+      "it": ["Ho scarpe nere", "Le mie scarpe sono nuove", "Compra scarpe comode per favore"],
+      "ru": ["У меня чёрные туфли", "Мои туфли новые", "Купи удобную обувь пожалуйста"],
+      "es": ["Yo tengo zapatos negros", "Mis zapatos son nuevos", "Compra zapatos cómodos por favor"],
+      "pl": ["Mam czarne buty", "Moje buty są nowe", "Kup wygodne buty proszę"],
+      "fa": ["من کفش‌های سیاهی دارم", "کفش‌های من جدید است", "لطفاً کفش‌های راحت بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_648_es",
+    "word": "calcetines",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "socks",
+      "de": "Socken",
+      "ar": "جوارب",
+      "fr": "chaussettes",
+      "it": "calzini",
+      "ru": "носки",
+      "es": "calcetines",
+      "pl": "skarpetki",
+      "fa": "جوراب"
+    },
+    "explanations": {
+      "en": "Soft covering worn on the feet under shoes",
+      "de": "Weiche Bedeckung, die an den Füßen unter Schuhen getragen wird",
+      "ar": "غطاء ناعم يرتدى على القدمين تحت الأحذية",
+      "fr": "Couverture douce portée sur les pieds sous chaussures",
+      "it": "Copertura morbida indossata sui piedi sotto scarpe",
+      "ru": "Мягкое покрытие, носимое на ногах под обувью",
+      "es": "Cubierta suave usada en los pies bajo zapatos",
+      "pl": "Miękkie pokrycie noszone na stopach pod butami",
+      "fa": "پوشش نرم که روی پاها زیر کفش پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear white socks", "My socks are clean", "Buy new warm socks"],
+      "de": ["Ich trage weiße Socken", "Meine Socken sind sauber", "Kauf neue warme Socken"],
+      "ar": ["أرتدي جوارب بيضاء", "جواربي نظيفة", "اشتر جوارب دافئة جديدة"],
+      "fr": ["Je porte chaussettes blanches", "Mes chaussettes sont propres", "Achète nouvelles chaussettes chaudes"],
+      "it": ["Indosso calzini bianchi", "I miei calzini sono puliti", "Compra nuovi calzini caldi"],
+      "ru": ["Я ношу белые носки", "Мои носки чистые", "Купи новые тёплые носки"],
+      "es": ["Yo llevo calcetines blancos", "Mis calcetines están limpios", "Compra calcetines nuevos calientes"],
+      "pl": ["Noszę białe skarpetki", "Moje skarpetki są czyste", "Kup nowe ciepłe skarpetki"],
+      "fa": ["من جوراب‌های سفیدی می‌پوشم", "جوراب‌های من تمیز است", "جوراب‌های گرم جدید بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_649_es",
+    "word": "abrigo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "coat, overcoat",
+      "de": "Mantel",
+      "ar": "معطف",
+      "fr": "manteau",
+      "it": "cappotto",
+      "ru": "пальто",
+      "es": "abrigo",
+      "pl": "płaszcz",
+      "fa": "پالتو"
+    },
+    "explanations": {
+      "en": "A long outer garment worn for warmth",
+      "de": "Ein langes Außenkleidungsstück, das für Wärme getragen wird",
+      "ar": "قطعة ملابس خارجية طويلة ترتدى للدفء",
+      "fr": "Un long vêtement extérieur porté pour la chaleur",
+      "it": "Un lungo indumento esterno indossato per il calore",
+      "ru": "Длинная верхняя одежда, носимая для тепла",
+      "es": "Una prenda exterior larga usada para calor",
+      "pl": "Długa odzież wierzchnia noszona dla ciepła",
+      "fa": "لباس بیرونی بلند که برای گرمی پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear warm coat", "My coat is black", "Take your coat outside"],
+      "de": ["Ich trage warmen Mantel", "Mein Mantel ist schwarz", "Nimm deinen Mantel draußen"],
+      "ar": ["أرتدي معطفا دافئا", "معطفي أسود", "خذ معطفك للخارج"],
+      "fr": ["Je porte manteau chaud", "Mon manteau est noir", "Prends ton manteau dehors"],
+      "it": ["Indosso cappotto caldo", "Il mio cappotto è nero", "Prendi il tuo cappotto fuori"],
+      "ru": ["Я ношу тёплое пальто", "Моё пальто чёрное", "Возьми своё пальто наружу"],
+      "es": ["Yo llevo abrigo caliente", "Mi abrigo es negro", "Toma tu abrigo afuera"],
+      "pl": ["Noszę ciepły płaszcz", "Mój płaszcz jest czarny", "Weź swój płaszcz na zewnątrz"],
+      "fa": ["من پالتوی گرمی می‌پوشم", "پالتوی من سیاه است", "پالتویت را بیرون ببر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_650_es",
+    "word": "chaqueta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "jacket",
+      "de": "Jacke",
+      "ar": "سترة",
+      "fr": "veste",
+      "it": "giacca",
+      "ru": "куртка, пиджак",
+      "es": "chaqueta",
+      "pl": "kurtka, marynarka",
+      "fa": "کت، ژاکت"
+    },
+    "explanations": {
+      "en": "A short coat typically worn over other clothes",
+      "de": "Ein kurzer Mantel, typischerweise über anderen Kleidern getragen",
+      "ar": "معطف قصير يرتدى عادة فوق الملابس الأخرى",
+      "fr": "Un manteau court typiquement porté sur d'autres vêtements",
+      "it": "Un cappotto corto tipicamente indossato sopra altri vestiti",
+      "ru": "Короткое пальто, обычно носимое поверх другой одежды",
+      "es": "Un abrigo corto típicamente usado sobre otra ropa",
+      "pl": "Krótki płaszcz typowo noszony na innych ubraniach",
+      "fa": "پالتوی کوتاه که معمولاً روی لباس‌های دیگر پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear blue jacket", "His jacket is new", "Take off your jacket"],
+      "de": ["Ich trage blaue Jacke", "Seine Jacke ist neu", "Zieh deine Jacke aus"],
+      "ar": ["أرتدي سترة زرقاء", "سترته جديدة", "اخلع سترتك"],
+      "fr": ["Je porte veste bleue", "Sa veste est nouvelle", "Enlève ta veste"],
+      "it": ["Indosso giacca blu", "La sua giacca è nuova", "Togli la tua giacca"],
+      "ru": ["Я ношу синюю куртку", "Его куртка новая", "Сними свою куртку"],
+      "es": ["Yo llevo chaqueta azul", "Su chaqueta es nueva", "Quítate tu chaqueta"],
+      "pl": ["Noszę niebieską kurtkę", "Jego kurtka jest nowa", "Zdejmij swoją kurtkę"],
+      "fa": ["من کت آبی می‌پوشم", "کت او جدید است", "کتت را در بیاور"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_651_es",
+    "word": "sombrero",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hat",
+      "de": "Hut",
+      "ar": "قبعة",
+      "fr": "chapeau",
+      "it": "cappello",
+      "ru": "шляпа",
+      "es": "sombrero",
+      "pl": "kapelusz",
+      "fa": "کلاه"
+    },
+    "explanations": {
+      "en": "A covering worn on the head",
+      "de": "Eine Bedeckung, die auf dem Kopf getragen wird",
+      "ar": "غطاء يرتدى على الرأس",
+      "fr": "Une couverture portée sur la tête",
+      "it": "Una copertura indossata sulla testa",
+      "ru": "Покрытие, носимое на голове",
+      "es": "Una cubierta usada en la cabeza",
+      "pl": "Pokrycie noszone na głowie",
+      "fa": "پوششی که روی سر پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear big hat", "My hat is red", "Take off your hat"],
+      "de": ["Ich trage großen Hut", "Mein Hut ist rot", "Nimm deinen Hut ab"],
+      "ar": ["أرتدي قبعة كبيرة", "قبعتي حمراء", "اخلع قبعتك"],
+      "fr": ["Je porte grand chapeau", "Mon chapeau est rouge", "Enlève ton chapeau"],
+      "it": ["Indosso cappello grande", "Il mio cappello è rosso", "Togli il tuo cappello"],
+      "ru": ["Я ношу большую шляпу", "Моя шляпа красная", "Сними свою шляпу"],
+      "es": ["Yo llevo sombrero grande", "Mi sombrero es rojo", "Quítate tu sombrero"],
+      "pl": ["Noszę duży kapelusz", "Mój kapelusz jest czerwony", "Zdejmij swój kapelusz"],
+      "fa": ["من کلاه بزرگی می‌پوشم", "کلاه من قرمز است", "کلاهت را بردار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_652_es",
+    "word": "guantes",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "gloves",
+      "de": "Handschuhe",
+      "ar": "قفازات",
+      "fr": "gants",
+      "it": "guanti",
+      "ru": "перчатки",
+      "es": "guantes",
+      "pl": "rękawiczki",
+      "fa": "دستکش"
+    },
+    "explanations": {
+      "en": "Coverings worn on the hands for warmth or protection",
+      "de": "Bedeckungen, die an den Händen für Wärme oder Schutz getragen werden",
+      "ar": "أغطية ترتدى على اليدين للدفء أو الحماية",
+      "fr": "Couvertures portées sur les mains pour chaleur ou protection",
+      "it": "Coperture indossate sulle mani per calore o protezione",
+      "ru": "Покрытия, носимые на руках для тепла или защиты",
+      "es": "Cubiertas usadas en las manos para calor o protección",
+      "pl": "Pokrycia noszone na rękach dla ciepła lub ochrony",
+      "fa": "پوشش‌هایی که روی دست‌ها برای گرمی یا محافظت پوشیده می‌شوند"
+    },
+    "examples": {
+      "en": ["I wear warm gloves", "My gloves are black", "Buy winter gloves now"],
+      "de": ["Ich trage warme Handschuhe", "Meine Handschuhe sind schwarz", "Kauf Winterhandschuhe jetzt"],
+      "ar": ["أرتدي قفازات دافئة", "قفازاتي سوداء", "اشتر قفازات شتوية الآن"],
+      "fr": ["Je porte gants chauds", "Mes gants sont noirs", "Achète gants d'hiver maintenant"],
+      "it": ["Indosso guanti caldi", "I miei guanti sono neri", "Compra guanti invernali ora"],
+      "ru": ["Я ношу тёплые перчатки", "Мои перчатки чёрные", "Купи зимние перчатки сейчас"],
+      "es": ["Yo llevo guantes calientes", "Mis guantes son negros", "Compra guantes de invierno ahora"],
+      "pl": ["Noszę ciepłe rękawiczki", "Moje rękawiczki są czarne", "Kup zimowe rękawiczki teraz"],
+      "fa": ["من دستکش‌های گرمی می‌پوشم", "دستکش‌های من سیاه است", "الان دستکش‌های زمستانی بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_653_es",
+    "word": "bolsillo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "pocket",
+      "de": "Tasche",
+      "ar": "جيب",
+      "fr": "poche",
+      "it": "tasca",
+      "ru": "карман",
+      "es": "bolsillo",
+      "pl": "kieszeń",
+      "fa": "جیب"
+    },
+    "explanations": {
+      "en": "A small bag sewn into clothing for carrying items",
+      "de": "Eine kleine Tasche, die in Kleidung eingenäht ist, um Gegenstände zu tragen",
+      "ar": "حقيبة صغيرة مخيطة في الملابس لحمل الأشياء",
+      "fr": "Un petit sac cousu dans vêtements pour porter articles",
+      "it": "Una piccola borsa cucita nei vestiti per portare oggetti",
+      "ru": "Маленькая сумка, пришитая к одежде для ношения предметов",
+      "es": "Una pequeña bolsa cosida en ropa para llevar artículos",
+      "pl": "Mała torba wszyła w ubrania do noszenia przedmiotów",
+      "fa": "کیسه کوچکی که در لباس دوخته شده برای حمل اشیا"
+    },
+    "examples": {
+      "en": ["Put in your pocket", "My pocket is empty", "The pocket has money"],
+      "de": ["Steck in deine Tasche", "Meine Tasche ist leer", "Die Tasche hat Geld"],
+      "ar": ["ضع في جيبك", "جيبي فارغ", "الجيب فيه مال"],
+      "fr": ["Mets dans ta poche", "Ma poche est vide", "La poche a argent"],
+      "it": ["Metti nella tua tasca", "La mia tasca è vuota", "La tasca ha soldi"],
+      "ru": ["Положи в свой карман", "Мой карман пустой", "В кармане есть деньги"],
+      "es": ["Pon en tu bolsillo", "Mi bolsillo está vacío", "El bolsillo tiene dinero"],
+      "pl": ["Włóż do swojej kieszeni", "Moja kieszeń jest pusta", "Kieszeń ma pieniądze"],
+      "fa": ["در جیبت بگذار", "جیب من خالی است", "جیب پول دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_654_es",
+    "word": "botón",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "button",
+      "de": "Knopf",
+      "ar": "زر",
+      "fr": "bouton",
+      "it": "bottone",
+      "ru": "пуговица, кнопка",
+      "es": "botón",
+      "pl": "guzik",
+      "fa": "دکمه"
+    },
+    "explanations": {
+      "en": "A small disc used to fasten clothing",
+      "de": "Eine kleine Scheibe zum Befestigen von Kleidung",
+      "ar": "قرص صغير يستخدم لتثبيت الملابس",
+      "fr": "Un petit disque utilisé pour attacher vêtements",
+      "it": "Un piccolo disco usato per fissare vestiti",
+      "ru": "Маленький диск, используемый для застегивания одежды",
+      "es": "Un pequeño disco usado para abrochar ropa",
+      "pl": "Mały dysk używany do zapinania ubrań",
+      "fa": "دیسک کوچکی که برای بستن لباس استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["The button is small", "Sew the button here", "My button fell off"],
+      "de": ["Der Knopf ist klein", "Näh den Knopf hier", "Mein Knopf fiel ab"],
+      "ar": ["الزر صغير", "خيط الزر هنا", "زري سقط"],
+      "fr": ["Le bouton est petit", "Couds le bouton ici", "Mon bouton est tombé"],
+      "it": ["Il bottone è piccolo", "Cuci il bottone qui", "Il mio bottone è caduto"],
+      "ru": ["Пуговица маленькая", "Пришей пуговицу здесь", "Моя пуговица отпала"],
+      "es": ["El botón es pequeño", "Cose el botón aquí", "Mi botón se cayó"],
+      "pl": ["Guzik jest mały", "Przyszyj guzik tutaj", "Mój guzik odpadł"],
+      "fa": ["دکمه کوچک است", "دکمه را اینجا بدوز", "دکمه من افتاد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_655_es",
+    "word": "collar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "necklace",
+      "de": "Halskette",
+      "ar": "قلادة",
+      "fr": "collier",
+      "it": "collana",
+      "ru": "ожерелье",
+      "es": "collar",
+      "pl": "naszyjnik",
+      "fa": "گردنبند"
+    },
+    "explanations": {
+      "en": "A piece of jewelry worn around the neck",
+      "de": "Ein Schmuckstück, das um den Hals getragen wird",
+      "ar": "قطعة مجوهرات ترتدى حول الرقبة",
+      "fr": "Un bijou porté autour du cou",
+      "it": "Un gioiello indossato intorno al collo",
+      "ru": "Украшение, носимое вокруг шеи",
+      "es": "Una joya usada alrededor del cuello",
+      "pl": "Biżuteria noszona wokół szyi",
+      "fa": "جواهراتی که دور گردن پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["She wears gold necklace", "My necklace is beautiful", "Buy a silver necklace"],
+      "de": ["Sie trägt goldene Halskette", "Meine Halskette ist schön", "Kauf eine silberne Halskette"],
+      "ar": ["ترتدي قلادة ذهبية", "قلادتي جميلة", "اشتر قلادة فضية"],
+      "fr": ["Elle porte collier en or", "Mon collier est beau", "Achète un collier en argent"],
+      "it": ["Lei indossa collana d'oro", "La mia collana è bella", "Compra una collana d'argento"],
+      "ru": ["Она носит золотое ожерелье", "Моё ожерелье красивое", "Купи серебряное ожерелье"],
+      "es": ["Ella lleva collar de oro", "Mi collar es hermoso", "Compra un collar de plata"],
+      "pl": ["Ona nosi złoty naszyjnik", "Mój naszyjnik jest piękny", "Kup srebrny naszyjnik"],
+      "fa": ["او گردنبند طلا می‌پوشد", "گردنبند من زیبا است", "یک گردنبند نقره بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_656_es",
+    "word": "anillo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ring",
+      "de": "Ring",
+      "ar": "خاتم",
+      "fr": "bague, anneau",
+      "it": "anello",
+      "ru": "кольцо",
+      "es": "anillo",
+      "pl": "pierścionek",
+      "fa": "انگشتر"
+    },
+    "explanations": {
+      "en": "A circular band worn on the finger as jewelry",
+      "de": "Ein kreisförmiges Band, das am Finger als Schmuck getragen wird",
+      "ar": "شريط دائري يرتدى على الإصبع كمجوهرات",
+      "fr": "Un anneau circulaire porté sur doigt comme bijou",
+      "it": "Una fascia circolare indossata sul dito come gioiello",
+      "ru": "Круглое кольцо, носимое на пальце как украшение",
+      "es": "Una banda circular usada en el dedo como joya",
+      "pl": "Okrągła obrączka noszona na palcu jako biżuteria",
+      "fa": "حلقه دایره‌ای که روی انگشت به عنوان جواهرات پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear gold ring", "Her ring is pretty", "The ring is expensive"],
+      "de": ["Ich trage goldenen Ring", "Ihr Ring ist hübsch", "Der Ring ist teuer"],
+      "ar": ["أرتدي خاتم ذهبي", "خاتمها جميل", "الخاتم غالي"],
+      "fr": ["Je porte bague en or", "Sa bague est jolie", "La bague est chère"],
+      "it": ["Indosso anello d'oro", "Il suo anello è carino", "L'anello è costoso"],
+      "ru": ["Я ношу золотое кольцо", "Её кольцо красивое", "Кольцо дорогое"],
+      "es": ["Yo llevo anillo de oro", "Su anillo es bonito", "El anillo es caro"],
+      "pl": ["Noszę złoty pierścionek", "Jej pierścionek jest ładny", "Pierścionek jest drogi"],
+      "fa": ["من انگشتر طلا می‌پوشم", "انگشتر او قشنگ است", "انگشتر گران است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_657_es",
+    "word": "pulsera",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "bracelet",
+      "de": "Armband",
+      "ar": "سوار",
+      "fr": "bracelet",
+      "it": "braccialetto",
+      "ru": "браслет",
+      "es": "pulsera",
+      "pl": "bransoletka",
+      "fa": "دستبند"
+    },
+    "explanations": {
+      "en": "A piece of jewelry worn around the wrist",
+      "de": "Ein Schmuckstück, das um das Handgelenk getragen wird",
+      "ar": "قطعة مجوهرات ترتدى حول المعصم",
+      "fr": "Un bijou porté autour du poignet",
+      "it": "Un gioiello indossato intorno al polso",
+      "ru": "Украшение, носимое вокруг запястья",
+      "es": "Una joya usada alrededor de la muñeca",
+      "pl": "Biżuteria noszona wokół nadgarstka",
+      "fa": "جواهراتی که دور مچ دست پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["She wears silver bracelet", "My bracelet is new", "The bracelet is beautiful"],
+      "de": ["Sie trägt silbernes Armband", "Mein Armband ist neu", "Das Armband ist schön"],
+      "ar": ["ترتدي سوار فضي", "سواري جديد", "السوار جميل"],
+      "fr": ["Elle porte bracelet en argent", "Mon bracelet est nouveau", "Le bracelet est beau"],
+      "it": ["Lei indossa braccialetto d'argento", "Il mio braccialetto è nuovo", "Il braccialetto è bello"],
+      "ru": ["Она носит серебряный браслет", "Мой браслет новый", "Браслет красивый"],
+      "es": ["Ella lleva pulsera de plata", "Mi pulsera es nueva", "La pulsera es hermosa"],
+      "pl": ["Ona nosi srebrną bransoletkę", "Moja bransoletka jest nowa", "Bransoletka jest piękna"],
+      "fa": ["او دستبند نقره می‌پوشد", "دستبند من جدید است", "دستبند زیبا است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_658_es",
+    "word": "cinturón",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "belt",
+      "de": "Gürtel",
+      "ar": "حزام",
+      "fr": "ceinture",
+      "it": "cintura",
+      "ru": "ремень, пояс",
+      "es": "cinturón",
+      "pl": "pasek",
+      "fa": "کمربند"
+    },
+    "explanations": {
+      "en": "A strip of material worn around the waist",
+      "de": "Ein Materialstreifen, der um die Taille getragen wird",
+      "ar": "شريط من المواد يرتدى حول الخصر",
+      "fr": "Une bande de matériau portée autour de la taille",
+      "it": "Una striscia di materiale indossata intorno alla vita",
+      "ru": "Полоса материала, носимая вокруг талии",
+      "es": "Una tira de material usada alrededor de la cintura",
+      "pl": "Pasek materiału noszony wokół talii",
+      "fa": "نواری از مواد که دور کمر پوشیده می‌شود"
+    },
+    "examples": {
+      "en": ["I wear black belt", "My belt is leather", "Buy a new belt"],
+      "de": ["Ich trage schwarzen Gürtel", "Mein Gürtel ist Leder", "Kauf einen neuen Gürtel"],
+      "ar": ["أرتدي حزام أسود", "حزامي جلدي", "اشتر حزام جديد"],
+      "fr": ["Je porte ceinture noire", "Ma ceinture est cuir", "Achète une nouvelle ceinture"],
+      "it": ["Indosso cintura nera", "La mia cintura è pelle", "Compra una nuova cintura"],
+      "ru": ["Я ношу чёрный ремень", "Мой ремень кожаный", "Купи новый ремень"],
+      "es": ["Yo llevo cinturón negro", "Mi cinturón es de cuero", "Compra un cinturón nuevo"],
+      "pl": ["Noszę czarny pasek", "Mój pasek jest skórzany", "Kup nowy pasek"],
+      "fa": ["من کمربند سیاه می‌پوشم", "کمربند من چرمی است", "یک کمربند جدید بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_659_es",
+    "word": "talla",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "size (clothing)",
+      "de": "Größe (Kleidung)",
+      "ar": "مقاس (ملابس)",
+      "fr": "taille (vêtement)",
+      "it": "taglia (abbigliamento)",
+      "ru": "размер (одежды)",
+      "es": "talla",
+      "pl": "rozmiar (ubranie)",
+      "fa": "سایز (لباس)"
+    },
+    "explanations": {
+      "en": "The measurement of clothing items",
+      "de": "Die Messung von Kleidungsstücken",
+      "ar": "قياس قطع الملابس",
+      "fr": "La mesure des articles de vêtements",
+      "it": "La misurazione di articoli di abbigliamento",
+      "ru": "Измерение предметов одежды",
+      "es": "La medida de artículos de ropa",
+      "pl": "Pomiar elementów ubrań",
+      "fa": "اندازه‌گیری لباس‌ها"
+    },
+    "examples": {
+      "en": ["What is your size?", "My size is medium", "This size fits well"],
+      "de": ["Was ist deine Größe?", "Meine Größe ist mittel", "Diese Größe passt gut"],
+      "ar": ["ما هو مقاسك؟", "مقاسي متوسط", "هذا المقاس يناسب جيدا"],
+      "fr": ["Quelle est ta taille?", "Ma taille est moyenne", "Cette taille va bien"],
+      "it": ["Qual è la tua taglia?", "La mia taglia è media", "Questa taglia va bene"],
+      "ru": ["Какой твой размер?", "Мой размер средний", "Этот размер хорошо подходит"],
+      "es": ["¿Cuál es tu talla?", "Mi talla es mediana", "Esta talla queda bien"],
+      "pl": ["Jaki jest twój rozmiar?", "Mój rozmiar jest średni", "Ten rozmiar pasuje dobrze"],
+      "fa": ["سایز شما چقدر است؟", "سایز من متوسط است", "این سایز خوب است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_660_es",
+    "word": "moda",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fashion",
+      "de": "Mode",
+      "ar": "موضة",
+      "fr": "mode",
+      "it": "moda",
+      "ru": "мода",
+      "es": "moda",
+      "pl": "moda",
+      "fa": "مد"
+    },
+    "explanations": {
+      "en": "A popular style of clothing or behavior",
+      "de": "Ein beliebter Stil von Kleidung oder Verhalten",
+      "ar": "نمط شائع من الملابس أو السلوك",
+      "fr": "Un style populaire de vêtements ou comportement",
+      "it": "Uno stile popolare di abbigliamento o comportamento",
+      "ru": "Популярный стиль одежды или поведения",
+      "es": "Un estilo popular de ropa o comportamiento",
+      "pl": "Popularny styl ubrań lub zachowania",
+      "fa": "سبک محبوب لباس یا رفتار"
+    },
+    "examples": {
+      "en": ["Fashion changes quickly today", "She loves new fashion", "Follow the latest fashion"],
+      "de": ["Mode ändert sich schnell heute", "Sie liebt neue Mode", "Folge der neuesten Mode"],
+      "ar": ["الموضة تتغير بسرعة اليوم", "هي تحب الموضة الجديدة", "اتبع أحدث موضة"],
+      "fr": ["La mode change vite aujourd'hui", "Elle aime nouvelle mode", "Suis la dernière mode"],
+      "it": ["La moda cambia veloce oggi", "Lei ama nuova moda", "Segui l'ultima moda"],
+      "ru": ["Мода меняется быстро сегодня", "Она любит новую моду", "Следуй последней моде"],
+      "es": ["La moda cambia rápido hoy", "Ella ama la moda nueva", "Sigue la última moda"],
+      "pl": ["Moda zmienia się szybko dzisiaj", "Ona kocha nową modę", "Podążaj za ostatnią modą"],
+      "fa": ["مد امروز سریع تغییر می‌کند", "او مد جدید را دوست دارد", "آخرین مد را دنبال کن"]
+    },
+    "conjugations": null
+  }
+]

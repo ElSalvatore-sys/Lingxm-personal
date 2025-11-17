@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_721_es",
+    "word": "país",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "country",
+      "de": "Land",
+      "ar": "بلد",
+      "fr": "pays",
+      "it": "paese",
+      "ru": "страна",
+      "es": "país",
+      "pl": "kraj",
+      "fa": "کشور"
+    },
+    "explanations": {
+      "en": "Nation or territory with its own government",
+      "de": "Nation oder Gebiet mit eigener Regierung",
+      "ar": "دولة أو إقليم له حكومة خاصة به",
+      "fr": "Nation ou territoire avec son propre gouvernement",
+      "it": "Nazione o territorio con proprio governo",
+      "ru": "Нация или территория со своим правительством",
+      "es": "Nación o territorio con su propio gobierno",
+      "pl": "Naród lub terytorium z własnym rządem",
+      "fa": "ملت یا قلمرو با دولت خودش"
+    },
+    "examples": {
+      "en": ["My country is big", "I love this country", "Spain is a beautiful country"],
+      "de": ["Mein Land ist groß", "Ich liebe dieses Land", "Spanien ist ein schönes Land"],
+      "ar": ["بلدي كبير", "أنا أحب هذا البلد", "إسبانيا بلد جميل"],
+      "fr": ["Mon pays est grand", "J'aime ce pays", "L'Espagne est un beau pays"],
+      "it": ["Il mio paese è grande", "Amo questo paese", "La Spagna è un bel paese"],
+      "ru": ["Моя страна большая", "Я люблю эту страну", "Испания красивая страна"],
+      "es": ["Mi país es grande", "Yo amo este país", "España es un país bonito"],
+      "pl": ["Mój kraj jest duży", "Kocham ten kraj", "Hiszpania jest pięknym krajem"],
+      "fa": ["کشور من بزرگ است", "من این کشور را دوست دارم", "اسپانیا کشور زیبایی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_722_es",
+    "word": "mundo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "world",
+      "de": "Welt",
+      "ar": "عالم",
+      "fr": "monde",
+      "it": "mondo",
+      "ru": "мир",
+      "es": "mundo",
+      "pl": "świat",
+      "fa": "جهان"
+    },
+    "explanations": {
+      "en": "Earth and all its inhabitants and countries",
+      "de": "Erde und alle ihre Bewohner und Länder",
+      "ar": "الأرض وجميع سكانها ودولها",
+      "fr": "Terre et tous ses habitants et pays",
+      "it": "Terra e tutti i suoi abitanti e paesi",
+      "ru": "Земля и все её жители и страны",
+      "es": "Tierra y todos sus habitantes y países",
+      "pl": "Ziemia i wszyscy jej mieszkańcy i kraje",
+      "fa": "زمین و همه ساکنان و کشورهایش"
+    },
+    "examples": {
+      "en": ["The world is beautiful", "I travel around the world", "People live in the world"],
+      "de": ["Die Welt ist schön", "Ich reise um die Welt", "Menschen leben in der Welt"],
+      "ar": ["العالم جميل", "أنا أسافر حول العالم", "الناس يعيشون في العالم"],
+      "fr": ["Le monde est beau", "Je voyage autour du monde", "Les gens vivent dans le monde"],
+      "it": ["Il mondo è bello", "Viaggio intorno al mondo", "La gente vive nel mondo"],
+      "ru": ["Мир красивый", "Я путешествую по миру", "Люди живут в мире"],
+      "es": ["El mundo es bonito", "Yo viajo por el mundo", "Las personas viven en el mundo"],
+      "pl": ["Świat jest piękny", "Podróżuję po świecie", "Ludzie żyją na świecie"],
+      "fa": ["جهان زیباست", "من دور دنیا سفر می‌کنم", "مردم در جهان زندگی می‌کنند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_723_es",
+    "word": "lugar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "place, location",
+      "de": "Ort, Platz",
+      "ar": "مكان، موقع",
+      "fr": "lieu, endroit",
+      "it": "luogo, posto",
+      "ru": "место",
+      "es": "lugar",
+      "pl": "miejsce",
+      "fa": "مکان، جا"
+    },
+    "explanations": {
+      "en": "Particular position, point, or area",
+      "de": "Bestimmte Position, Punkt oder Bereich",
+      "ar": "موقع أو نقطة أو منطقة معينة",
+      "fr": "Position, point ou zone particulière",
+      "it": "Posizione, punto o area particolare",
+      "ru": "Определённое положение, точка или область",
+      "es": "Posición, punto o área particular",
+      "pl": "Szczególna pozycja, punkt lub obszar",
+      "fa": "موقعیت، نقطه یا ناحیه خاص"
+    },
+    "examples": {
+      "en": ["This place is nice", "I know that place", "We go to a good place"],
+      "de": ["Dieser Ort ist schön", "Ich kenne diesen Ort", "Wir gehen zu einem guten Ort"],
+      "ar": ["هذا المكان جميل", "أنا أعرف ذلك المكان", "نحن نذهب إلى مكان جيد"],
+      "fr": ["Cet endroit est agréable", "Je connais cet endroit", "Nous allons à un bon endroit"],
+      "it": ["Questo posto è carino", "Conosco quel posto", "Andiamo in un buon posto"],
+      "ru": ["Это место красивое", "Я знаю то место", "Мы идём в хорошее место"],
+      "es": ["Este lugar es bonito", "Yo conozco ese lugar", "Nosotros vamos a un buen lugar"],
+      "pl": ["To miejsce jest ładne", "Znam to miejsce", "Idziemy w dobre miejsce"],
+      "fa": ["این مکان خوب است", "من آن مکان را می‌شناسم", "ما به جای خوبی می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_724_es",
+    "word": "área",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "area, zone",
+      "de": "Gebiet, Zone",
+      "ar": "منطقة",
+      "fr": "zone, région",
+      "it": "area, zona",
+      "ru": "область, зона",
+      "es": "área",
+      "pl": "obszar, strefa",
+      "fa": "منطقه، ناحیه"
+    },
+    "explanations": {
+      "en": "Region or part of a space or surface",
+      "de": "Region oder Teil eines Raumes oder einer Oberfläche",
+      "ar": "منطقة أو جزء من مساحة أو سطح",
+      "fr": "Région ou partie d'un espace ou d'une surface",
+      "it": "Regione o parte di uno spazio o superficie",
+      "ru": "Регион или часть пространства или поверхности",
+      "es": "Región o parte de un espacio o superficie",
+      "pl": "Region lub część przestrzeni lub powierzchni",
+      "fa": "منطقه یا بخشی از فضا یا سطح"
+    },
+    "examples": {
+      "en": ["This area is quiet", "The park has a big area", "I live in this area"],
+      "de": ["Dieses Gebiet ist ruhig", "Der Park hat ein großes Gebiet", "Ich wohne in diesem Gebiet"],
+      "ar": ["هذه المنطقة هادئة", "الحديقة لها منطقة كبيرة", "أنا أعيش في هذه المنطقة"],
+      "fr": ["Cette zone est calme", "Le parc a une grande zone", "Je vis dans cette zone"],
+      "it": ["Quest'area è tranquilla", "Il parco ha un'area grande", "Vivo in quest'area"],
+      "ru": ["Эта область тихая", "У парка большая площадь", "Я живу в этой области"],
+      "es": ["Esta área es tranquila", "El parque tiene un área grande", "Yo vivo en esta área"],
+      "pl": ["Ten obszar jest cichy", "Park ma duży obszar", "Mieszkam w tym obszarze"],
+      "fa": ["این منطقه آرام است", "پارک منطقه بزرگی دارد", "من در این منطقه زندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_725_es",
+    "word": "región",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "region",
+      "de": "Region",
+      "ar": "إقليم",
+      "fr": "région",
+      "it": "regione",
+      "ru": "регион",
+      "es": "región",
+      "pl": "region",
+      "fa": "منطقه"
+    },
+    "explanations": {
+      "en": "Large area of land with common features",
+      "de": "Großes Gebiet mit gemeinsamen Merkmalen",
+      "ar": "منطقة كبيرة من الأرض ذات خصائص مشتركة",
+      "fr": "Grande zone de terre avec caractéristiques communes",
+      "it": "Grande area di terra con caratteristiche comuni",
+      "ru": "Большая территория с общими характеристиками",
+      "es": "Área grande de tierra con características comunes",
+      "pl": "Duży obszar ziemi o wspólnych cechach",
+      "fa": "منطقه بزرگی از زمین با ویژگی‌های مشترک"
+    },
+    "examples": {
+      "en": ["This region is mountainous", "I know that region well", "The region has many cities"],
+      "de": ["Diese Region ist bergig", "Ich kenne diese Region gut", "Die Region hat viele Städte"],
+      "ar": ["هذا الإقليم جبلي", "أنا أعرف ذلك الإقليم جيداً", "الإقليم لديه مدن كثيرة"],
+      "fr": ["Cette région est montagneuse", "Je connais bien cette région", "La région a beaucoup de villes"],
+      "it": ["Questa regione è montuosa", "Conosco bene quella regione", "La regione ha molte città"],
+      "ru": ["Этот регион гористый", "Я хорошо знаю тот регион", "В регионе много городов"],
+      "es": ["Esta región es montañosa", "Yo conozco bien esa región", "La región tiene muchas ciudades"],
+      "pl": ["Ten region jest górzysty", "Znam dobrze ten region", "Region ma wiele miast"],
+      "fa": ["این منطقه کوهستانی است", "من آن منطقه را خوب می‌شناسم", "منطقه شهرهای زیادی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_726_es",
+    "word": "norte",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "north",
+      "de": "Norden",
+      "ar": "شمال",
+      "fr": "nord",
+      "it": "nord",
+      "ru": "север",
+      "es": "norte",
+      "pl": "północ",
+      "fa": "شمال"
+    },
+    "explanations": {
+      "en": "Cardinal direction opposite to south",
+      "de": "Himmelsrichtung entgegengesetzt zu Süden",
+      "ar": "الاتجاه الأساسي المعاكس للجنوب",
+      "fr": "Direction cardinale opposée au sud",
+      "it": "Direzione cardinale opposta al sud",
+      "ru": "Кардинальное направление противоположное югу",
+      "es": "Dirección cardinal opuesta al sur",
+      "pl": "Kierunek kardynalny przeciwny do południa",
+      "fa": "جهت اصلی مخالف جنوب"
+    },
+    "examples": {
+      "en": ["Go to the north", "The north is cold", "I live in the north"],
+      "de": ["Geh nach Norden", "Der Norden ist kalt", "Ich wohne im Norden"],
+      "ar": ["اذهب إلى الشمال", "الشمال بارد", "أنا أعيش في الشمال"],
+      "fr": ["Allez au nord", "Le nord est froid", "Je vis au nord"],
+      "it": ["Vai a nord", "Il nord è freddo", "Vivo al nord"],
+      "ru": ["Иди на север", "Север холодный", "Я живу на севере"],
+      "es": ["Ve al norte", "El norte es frío", "Yo vivo en el norte"],
+      "pl": ["Idź na północ", "Północ jest zimna", "Mieszkam na północy"],
+      "fa": ["به شمال برو", "شمال سرد است", "من در شمال زندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_727_es",
+    "word": "sur",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "south",
+      "de": "Süden",
+      "ar": "جنوب",
+      "fr": "sud",
+      "it": "sud",
+      "ru": "юг",
+      "es": "sur",
+      "pl": "południe",
+      "fa": "جنوب"
+    },
+    "explanations": {
+      "en": "Cardinal direction opposite to north",
+      "de": "Himmelsrichtung entgegengesetzt zu Norden",
+      "ar": "الاتجاه الأساسي المعاكس للشمال",
+      "fr": "Direction cardinale opposée au nord",
+      "it": "Direzione cardinale opposta al nord",
+      "ru": "Кардинальное направление противоположное северу",
+      "es": "Dirección cardinal opuesta al norte",
+      "pl": "Kierunek kardynalny przeciwny do północy",
+      "fa": "جهت اصلی مخالف شمال"
+    },
+    "examples": {
+      "en": ["Go to the south", "The south is warm", "She lives in the south"],
+      "de": ["Geh nach Süden", "Der Süden ist warm", "Sie wohnt im Süden"],
+      "ar": ["اذهب إلى الجنوب", "الجنوب دافئ", "هي تعيش في الجنوب"],
+      "fr": ["Allez au sud", "Le sud est chaud", "Elle vit au sud"],
+      "it": ["Vai a sud", "Il sud è caldo", "Lei vive al sud"],
+      "ru": ["Иди на юг", "Юг тёплый", "Она живёт на юге"],
+      "es": ["Ve al sur", "El sur es cálido", "Ella vive en el sur"],
+      "pl": ["Idź na południe", "Południe jest ciepłe", "Ona mieszka na południu"],
+      "fa": ["به جنوب برو", "جنوب گرم است", "او در جنوب زندگی می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_728_es",
+    "word": "este",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "east, this",
+      "de": "Osten, dieser",
+      "ar": "شرق، هذا",
+      "fr": "est, ce",
+      "it": "est, questo",
+      "ru": "восток, этот",
+      "es": "este",
+      "pl": "wschód, ten",
+      "fa": "شرق، این"
+    },
+    "explanations": {
+      "en": "Cardinal direction or demonstrative pronoun",
+      "de": "Himmelsrichtung oder Demonstrativpronomen",
+      "ar": "الاتجاه الأساسي أو ضمير الإشارة",
+      "fr": "Direction cardinale ou pronom démonstratif",
+      "it": "Direzione cardinale o pronome dimostrativo",
+      "ru": "Кардинальное направление или указательное местоимение",
+      "es": "Dirección cardinal o pronombre demostrativo",
+      "pl": "Kierunek kardynalny lub zaimek wskazujący",
+      "fa": "جهت اصلی یا ضمیر اشاره"
+    },
+    "examples": {
+      "en": ["Go to the east", "This is my house", "The sun rises in the east"],
+      "de": ["Geh nach Osten", "Das ist mein Haus", "Die Sonne geht im Osten auf"],
+      "ar": ["اذهب إلى الشرق", "هذا بيتي", "الشمس تشرق في الشرق"],
+      "fr": ["Allez à l'est", "C'est ma maison", "Le soleil se lève à l'est"],
+      "it": ["Vai a est", "Questa è la mia casa", "Il sole sorge a est"],
+      "ru": ["Иди на восток", "Это мой дом", "Солнце встаёт на востоке"],
+      "es": ["Ve al este", "Esta es mi casa", "El sol sale en el este"],
+      "pl": ["Idź na wschód", "To jest mój dom", "Słońce wschodzi na wschodzie"],
+      "fa": ["به شرق برو", "این خانه من است", "خورشید از شرق طلوع می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_729_es",
+    "word": "oeste",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "west",
+      "de": "Westen",
+      "ar": "غرب",
+      "fr": "ouest",
+      "it": "ovest",
+      "ru": "запад",
+      "es": "oeste",
+      "pl": "zachód",
+      "fa": "غرب"
+    },
+    "explanations": {
+      "en": "Cardinal direction opposite to east",
+      "de": "Himmelsrichtung entgegengesetzt zu Osten",
+      "ar": "الاتجاه الأساسي المعاكس للشرق",
+      "fr": "Direction cardinale opposée à l'est",
+      "it": "Direzione cardinale opposta all'est",
+      "ru": "Кардинальное направление противоположное востоку",
+      "es": "Dirección cardinal opuesta al este",
+      "pl": "Kierunek kardynalny przeciwny do wschodu",
+      "fa": "جهت اصلی مخالف شرق"
+    },
+    "examples": {
+      "en": ["Go to the west", "The west is beautiful", "He lives in the west"],
+      "de": ["Geh nach Westen", "Der Westen ist schön", "Er wohnt im Westen"],
+      "ar": ["اذهب إلى الغرب", "الغرب جميل", "هو يعيش في الغرب"],
+      "fr": ["Allez à l'ouest", "L'ouest est beau", "Il vit à l'ouest"],
+      "it": ["Vai a ovest", "L'ovest è bello", "Lui vive all'ovest"],
+      "ru": ["Иди на запад", "Запад красивый", "Он живёт на западе"],
+      "es": ["Ve al oeste", "El oeste es bonito", "Él vive en el oeste"],
+      "pl": ["Idź na zachód", "Zachód jest piękny", "On mieszka na zachodzie"],
+      "fa": ["به غرب برو", "غرب زیباست", "او در غرب زندگی می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_730_es",
+    "word": "izquierda",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "left",
+      "de": "links",
+      "ar": "يسار",
+      "fr": "gauche",
+      "it": "sinistra",
+      "ru": "левый",
+      "es": "izquierda",
+      "pl": "lewy",
+      "fa": "چپ"
+    },
+    "explanations": {
+      "en": "Side or direction opposite to right",
+      "de": "Seite oder Richtung entgegengesetzt zu rechts",
+      "ar": "الجانب أو الاتجاه المعاكس لليمين",
+      "fr": "Côté ou direction opposée à droite",
+      "it": "Lato o direzione opposta a destra",
+      "ru": "Сторона или направление противоположное правому",
+      "es": "Lado o dirección opuesta a la derecha",
+      "pl": "Strona lub kierunek przeciwny do prawego",
+      "fa": "سمت یا جهت مخالف راست"
+    },
+    "examples": {
+      "en": ["Turn to the left", "My left hand hurts", "The door is on the left"],
+      "de": ["Biege nach links ab", "Meine linke Hand tut weh", "Die Tür ist links"],
+      "ar": ["انعطف إلى اليسار", "يدي اليسرى تؤلمني", "الباب على اليسار"],
+      "fr": ["Tournez à gauche", "Ma main gauche fait mal", "La porte est à gauche"],
+      "it": ["Gira a sinistra", "La mia mano sinistra fa male", "La porta è a sinistra"],
+      "ru": ["Поверни налево", "Моя левая рука болит", "Дверь слева"],
+      "es": ["Gira a la izquierda", "Me duele la mano izquierda", "La puerta está a la izquierda"],
+      "pl": ["Skręć w lewo", "Boli mnie lewa ręka", "Drzwi są po lewej"],
+      "fa": ["به چپ بپیچ", "دست چپم درد می‌کند", "در سمت چپ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_731_es",
+    "word": "derecha",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "right",
+      "de": "rechts",
+      "ar": "يمين",
+      "fr": "droite",
+      "it": "destra",
+      "ru": "правый",
+      "es": "derecha",
+      "pl": "prawy",
+      "fa": "راست"
+    },
+    "explanations": {
+      "en": "Side or direction opposite to left",
+      "de": "Seite oder Richtung entgegengesetzt zu links",
+      "ar": "الجانب أو الاتجاه المعاكس لليسار",
+      "fr": "Côté ou direction opposée à gauche",
+      "it": "Lato o direzione opposta a sinistra",
+      "ru": "Сторона или направление противоположное левому",
+      "es": "Lado o dirección opuesta a la izquierda",
+      "pl": "Strona lub kierunek przeciwny do lewego",
+      "fa": "سمت یا جهت مخالف چپ"
+    },
+    "examples": {
+      "en": ["Turn to the right", "My right hand is strong", "The shop is on the right"],
+      "de": ["Biege nach rechts ab", "Meine rechte Hand ist stark", "Der Laden ist rechts"],
+      "ar": ["انعطف إلى اليمين", "يدي اليمنى قوية", "المتجر على اليمين"],
+      "fr": ["Tournez à droite", "Ma main droite est forte", "Le magasin est à droite"],
+      "it": ["Gira a destra", "La mia mano destra è forte", "Il negozio è a destra"],
+      "ru": ["Поверни направо", "Моя правая рука сильная", "Магазин справа"],
+      "es": ["Gira a la derecha", "Mi mano derecha es fuerte", "La tienda está a la derecha"],
+      "pl": ["Skręć w prawo", "Moja prawa ręka jest silna", "Sklep jest po prawej"],
+      "fa": ["به راست بپیچ", "دست راستم قوی است", "مغازه سمت راست است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_732_es",
+    "word": "centro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "center, downtown",
+      "de": "Zentrum, Mitte",
+      "ar": "مركز، وسط المدينة",
+      "fr": "centre",
+      "it": "centro",
+      "ru": "центр",
+      "es": "centro",
+      "pl": "centrum, środek",
+      "fa": "مرکز"
+    },
+    "explanations": {
+      "en": "Middle point or main area of city",
+      "de": "Mittelpunkt oder Hauptbereich der Stadt",
+      "ar": "النقطة الوسطى أو المنطقة الرئيسية للمدينة",
+      "fr": "Point central ou zone principale de la ville",
+      "it": "Punto centrale o area principale della città",
+      "ru": "Центральная точка или главная область города",
+      "es": "Punto medio o área principal de la ciudad",
+      "pl": "Punkt środkowy lub główny obszar miasta",
+      "fa": "نقطه میانی یا منطقه اصلی شهر"
+    },
+    "examples": {
+      "en": ["The center is busy", "I go to the center", "This is the city center"],
+      "de": ["Das Zentrum ist voll", "Ich gehe ins Zentrum", "Das ist das Stadtzentrum"],
+      "ar": ["المركز مزدحم", "أنا أذهب إلى المركز", "هذا هو مركز المدينة"],
+      "fr": ["Le centre est occupé", "Je vais au centre", "C'est le centre-ville"],
+      "it": ["Il centro è affollato", "Vado al centro", "Questo è il centro città"],
+      "ru": ["Центр занятой", "Я иду в центр", "Это центр города"],
+      "es": ["El centro está lleno", "Yo voy al centro", "Este es el centro de la ciudad"],
+      "pl": ["Centrum jest zajęte", "Idę do centrum", "To jest centrum miasta"],
+      "fa": ["مرکز شلوغ است", "من به مرکز می‌روم", "این مرکز شهر است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_733_es",
+    "word": "cerca",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "near, close",
+      "de": "nah, in der Nähe",
+      "ar": "قريب",
+      "fr": "près, proche",
+      "it": "vicino",
+      "ru": "близко",
+      "es": "cerca",
+      "pl": "blisko",
+      "fa": "نزدیک"
+    },
+    "explanations": {
+      "en": "At a short distance in space or time",
+      "de": "In kurzer Entfernung in Raum oder Zeit",
+      "ar": "على مسافة قصيرة في المكان أو الزمان",
+      "fr": "À courte distance dans l'espace ou le temps",
+      "it": "A breve distanza nello spazio o nel tempo",
+      "ru": "На коротком расстоянии в пространстве или времени",
+      "es": "A corta distancia en espacio o tiempo",
+      "pl": "W krótkiej odległości w przestrzeni lub czasie",
+      "fa": "در فاصله کوتاه در فضا یا زمان"
+    },
+    "examples": {
+      "en": ["The store is near", "I live close to here", "My house is very near"],
+      "de": ["Der Laden ist nah", "Ich wohne nah hier", "Mein Haus ist sehr nah"],
+      "ar": ["المتجر قريب", "أنا أعيش قريباً من هنا", "بيتي قريب جداً"],
+      "fr": ["Le magasin est proche", "J'habite près d'ici", "Ma maison est très proche"],
+      "it": ["Il negozio è vicino", "Vivo vicino a qui", "La mia casa è molto vicina"],
+      "ru": ["Магазин близко", "Я живу близко отсюда", "Мой дом очень близко"],
+      "es": ["La tienda está cerca", "Yo vivo cerca de aquí", "Mi casa está muy cerca"],
+      "pl": ["Sklep jest blisko", "Mieszkam blisko stąd", "Mój dom jest bardzo blisko"],
+      "fa": ["مغازه نزدیک است", "من نزدیک اینجا زندگی می‌کنم", "خانه من خیلی نزدیک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_734_es",
+    "word": "lejos",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "far, distant",
+      "de": "weit, fern",
+      "ar": "بعيد",
+      "fr": "loin, éloigné",
+      "it": "lontano",
+      "ru": "далеко",
+      "es": "lejos",
+      "pl": "daleko",
+      "fa": "دور"
+    },
+    "explanations": {
+      "en": "At a great distance in space or time",
+      "de": "In großer Entfernung in Raum oder Zeit",
+      "ar": "على مسافة كبيرة في المكان أو الزمان",
+      "fr": "À grande distance dans l'espace ou le temps",
+      "it": "A grande distanza nello spazio o nel tempo",
+      "ru": "На большом расстоянии в пространстве или времени",
+      "es": "A gran distancia en espacio o tiempo",
+      "pl": "W dużej odległości w przestrzeni lub czasie",
+      "fa": "در فاصله زیاد در فضا یا زمان"
+    },
+    "examples": {
+      "en": ["The city is far", "I live far from here", "The school is very far"],
+      "de": ["Die Stadt ist weit", "Ich wohne weit von hier", "Die Schule ist sehr weit"],
+      "ar": ["المدينة بعيدة", "أنا أعيش بعيداً من هنا", "المدرسة بعيدة جداً"],
+      "fr": ["La ville est loin", "J'habite loin d'ici", "L'école est très loin"],
+      "it": ["La città è lontana", "Vivo lontano da qui", "La scuola è molto lontana"],
+      "ru": ["Город далеко", "Я живу далеко отсюда", "Школа очень далеко"],
+      "es": ["La ciudad está lejos", "Yo vivo lejos de aquí", "La escuela está muy lejos"],
+      "pl": ["Miasto jest daleko", "Mieszkam daleko stąd", "Szkoła jest bardzo daleko"],
+      "fa": ["شهر دور است", "من دور از اینجا زندگی می‌کنم", "مدرسه خیلی دور است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_735_es",
+    "word": "aquí",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "here",
+      "de": "hier",
+      "ar": "هنا",
+      "fr": "ici",
+      "it": "qui",
+      "ru": "здесь",
+      "es": "aquí",
+      "pl": "tutaj",
+      "fa": "اینجا"
+    },
+    "explanations": {
+      "en": "In, at, or to this place or position",
+      "de": "An, bei oder zu diesem Ort oder dieser Position",
+      "ar": "في أو عند أو إلى هذا المكان أو الموقع",
+      "fr": "Dans, à ou vers cet endroit ou cette position",
+      "it": "In, a o verso questo luogo o posizione",
+      "ru": "В, на или к этому месту или позиции",
+      "es": "En, a o hacia este lugar o posición",
+      "pl": "W, przy lub do tego miejsca lub pozycji",
+      "fa": "در، نزد یا به این مکان یا موقعیت"
+    },
+    "examples": {
+      "en": ["I am here", "Come here please", "Here is my book"],
+      "de": ["Ich bin hier", "Komm bitte hier", "Hier ist mein Buch"],
+      "ar": ["أنا هنا", "تعال هنا من فضلك", "هنا كتابي"],
+      "fr": ["Je suis ici", "Viens ici s'il te plaît", "Voici mon livre"],
+      "it": ["Io sono qui", "Vieni qui per favore", "Ecco il mio libro"],
+      "ru": ["Я здесь", "Приходи сюда пожалуйста", "Вот моя книга"],
+      "es": ["Yo estoy aquí", "Ven aquí por favor", "Aquí está mi libro"],
+      "pl": ["Jestem tutaj", "Przyjdź tu proszę", "Oto moja książka"],
+      "fa": ["من اینجا هستم", "لطفاً بیا اینجا", "این کتاب من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_736_es",
+    "word": "allí",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "there",
+      "de": "dort",
+      "ar": "هناك",
+      "fr": "là, là-bas",
+      "it": "lì, là",
+      "ru": "там",
+      "es": "allí",
+      "pl": "tam",
+      "fa": "آنجا"
+    },
+    "explanations": {
+      "en": "In, at, or to that place or position",
+      "de": "An, bei oder zu jenem Ort oder jener Position",
+      "ar": "في أو عند أو إلى ذلك المكان أو الموقع",
+      "fr": "Dans, à ou vers cet endroit ou cette position",
+      "it": "In, a o verso quel luogo o posizione",
+      "ru": "В, на или к тому месту или позиции",
+      "es": "En, a o hacia ese lugar o posición",
+      "pl": "W, przy lub do tamtego miejsca lub pozycji",
+      "fa": "در، نزد یا به آن مکان یا موقعیت"
+    },
+    "examples": {
+      "en": ["He is there", "Go there please", "There is my house"],
+      "de": ["Er ist dort", "Geh bitte dort", "Dort ist mein Haus"],
+      "ar": ["هو هناك", "اذهب هناك من فضلك", "هناك بيتي"],
+      "fr": ["Il est là-bas", "Va là-bas s'il te plaît", "Là-bas est ma maison"],
+      "it": ["Lui è lì", "Vai lì per favore", "Lì è la mia casa"],
+      "ru": ["Он там", "Иди туда пожалуйста", "Там мой дом"],
+      "es": ["Él está allí", "Ve allí por favor", "Allí está mi casa"],
+      "pl": ["On jest tam", "Idź tam proszę", "Tam jest mój dom"],
+      "fa": ["او آنجاست", "لطفاً برو آنجا", "آنجا خانه من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_737_es",
+    "word": "dónde",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "where",
+      "de": "wo",
+      "ar": "أين",
+      "fr": "où",
+      "it": "dove",
+      "ru": "где",
+      "es": "dónde",
+      "pl": "gdzie",
+      "fa": "کجا"
+    },
+    "explanations": {
+      "en": "Question word asking about place or location",
+      "de": "Fragewort nach Ort oder Standort",
+      "ar": "كلمة استفهام تسأل عن المكان أو الموقع",
+      "fr": "Mot interrogatif demandant le lieu ou l'emplacement",
+      "it": "Parola interrogativa che chiede luogo o posizione",
+      "ru": "Вопросительное слово о месте или местоположении",
+      "es": "Palabra interrogativa que pregunta sobre lugar o ubicación",
+      "pl": "Słowo pytające o miejsce lub lokalizację",
+      "fa": "کلمه پرسشی که درباره مکان یا موقعیت می‌پرسد"
+    },
+    "examples": {
+      "en": ["Where are you?", "Where is my book?", "Where do you live?"],
+      "de": ["Wo bist du?", "Wo ist mein Buch?", "Wo wohnst du?"],
+      "ar": ["أين أنت؟", "أين كتابي؟", "أين تعيش؟"],
+      "fr": ["Où es-tu?", "Où est mon livre?", "Où habites-tu?"],
+      "it": ["Dove sei?", "Dov'è il mio libro?", "Dove abiti?"],
+      "ru": ["Где ты?", "Где моя книга?", "Где ты живёшь?"],
+      "es": ["¿Dónde estás?", "¿Dónde está mi libro?", "¿Dónde vives?"],
+      "pl": ["Gdzie jesteś?", "Gdzie jest moja książka?", "Gdzie mieszkasz?"],
+      "fa": ["کجایی؟", "کتاب من کجاست؟", "کجا زندگی می‌کنی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_738_es",
+    "word": "dirección",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "direction, address",
+      "de": "Richtung, Adresse",
+      "ar": "اتجاه، عنوان",
+      "fr": "direction, adresse",
+      "it": "direzione, indirizzo",
+      "ru": "направление, адрес",
+      "es": "dirección",
+      "pl": "kierunek, adres",
+      "fa": "جهت، آدرس"
+    },
+    "explanations": {
+      "en": "Way to go or location details of place",
+      "de": "Weg zu gehen oder Ortsangaben eines Platzes",
+      "ar": "الطريق للذهاب أو تفاصيل موقع المكان",
+      "fr": "Chemin à suivre ou détails de localisation d'un lieu",
+      "it": "Via da seguire o dettagli di posizione di un luogo",
+      "ru": "Путь движения или детали местоположения места",
+      "es": "Camino a seguir o detalles de ubicación de un lugar",
+      "pl": "Droga do podążania lub szczegóły lokalizacji miejsca",
+      "fa": "راه رفتن یا جزئیات مکان"
+    },
+    "examples": {
+      "en": ["What is your address?", "Go in this direction", "I need the address"],
+      "de": ["Was ist deine Adresse?", "Geh in diese Richtung", "Ich brauche die Adresse"],
+      "ar": ["ما هو عنوانك؟", "اذهب في هذا الاتجاه", "أنا أحتاج العنوان"],
+      "fr": ["Quelle est ton adresse?", "Va dans cette direction", "J'ai besoin de l'adresse"],
+      "it": ["Qual è il tuo indirizzo?", "Vai in questa direzione", "Ho bisogno dell'indirizzo"],
+      "ru": ["Какой твой адрес?", "Иди в этом направлении", "Мне нужен адрес"],
+      "es": ["¿Cuál es tu dirección?", "Ve en esta dirección", "Yo necesito la dirección"],
+      "pl": ["Jaki jest twój adres?", "Idź w tym kierunku", "Potrzebuję adresu"],
+      "fa": ["آدرس تو چیست؟", "در این جهت برو", "من به آدرس نیاز دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_739_es",
+    "word": "mapa",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "map",
+      "de": "Karte, Landkarte",
+      "ar": "خريطة",
+      "fr": "carte",
+      "it": "mappa",
+      "ru": "карта",
+      "es": "mapa",
+      "pl": "mapa",
+      "fa": "نقشه"
+    },
+    "explanations": {
+      "en": "Drawing showing geographical features and locations",
+      "de": "Zeichnung mit geografischen Merkmalen und Standorten",
+      "ar": "رسم يظهر المعالم الجغرافية والمواقع",
+      "fr": "Dessin montrant caractéristiques géographiques et emplacements",
+      "it": "Disegno che mostra caratteristiche geografiche e posizioni",
+      "ru": "Рисунок, показывающий географические особенности и места",
+      "es": "Dibujo que muestra características geográficas y ubicaciones",
+      "pl": "Rysunek pokazujący cechy geograficzne i lokalizacje",
+      "fa": "نقشه‌ای که ویژگی‌های جغرافیایی و مکان‌ها را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have a map", "Look at the map", "This map is old"],
+      "de": ["Ich habe eine Karte", "Schau auf die Karte", "Diese Karte ist alt"],
+      "ar": ["لدي خريطة", "انظر إلى الخريطة", "هذه الخريطة قديمة"],
+      "fr": ["J'ai une carte", "Regarde la carte", "Cette carte est vieille"],
+      "it": ["Ho una mappa", "Guarda la mappa", "Questa mappa è vecchia"],
+      "ru": ["У меня есть карта", "Посмотри на карту", "Эта карта старая"],
+      "es": ["Yo tengo un mapa", "Mira el mapa", "Este mapa es viejo"],
+      "pl": ["Mam mapę", "Spójrz na mapę", "Ta mapa jest stara"],
+      "fa": ["من یک نقشه دارم", "به نقشه نگاه کن", "این نقشه قدیمی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_740_es",
+    "word": "viaje",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "trip, journey, travel",
+      "de": "Reise",
+      "ar": "رحلة، سفر",
+      "fr": "voyage",
+      "it": "viaggio",
+      "ru": "поездка, путешествие",
+      "es": "viaje",
+      "pl": "podróż",
+      "fa": "سفر"
+    },
+    "explanations": {
+      "en": "Act of traveling from one place to another",
+      "de": "Handlung des Reisens von einem Ort zum anderen",
+      "ar": "فعل السفر من مكان إلى آخر",
+      "fr": "Action de voyager d'un endroit à un autre",
+      "it": "Atto di viaggiare da un luogo a un altro",
+      "ru": "Действие путешествия из одного места в другое",
+      "es": "Acto de viajar de un lugar a otro",
+      "pl": "Czynność podróżowania z jednego miejsca do drugiego",
+      "fa": "عمل سفر از یک مکان به مکان دیگر"
+    },
+    "examples": {
+      "en": ["The trip is long", "I love to travel", "This journey is beautiful"],
+      "de": ["Die Reise ist lang", "Ich liebe es zu reisen", "Diese Reise ist schön"],
+      "ar": ["الرحلة طويلة", "أنا أحب السفر", "هذه الرحلة جميلة"],
+      "fr": ["Le voyage est long", "J'aime voyager", "Ce voyage est beau"],
+      "it": ["Il viaggio è lungo", "Amo viaggiare", "Questo viaggio è bello"],
+      "ru": ["Поездка длинная", "Я люблю путешествовать", "Это путешествие красивое"],
+      "es": ["El viaje es largo", "Yo amo viajar", "Este viaje es bonito"],
+      "pl": ["Podróż jest długa", "Uwielbiam podróżować", "Ta podróż jest piękna"],
+      "fa": ["سفر طولانی است", "من سفر کردن را دوست دارم", "این سفر زیباست"]
+    },
+    "conjugations": null
+  }
+]

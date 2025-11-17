@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_621_es",
+    "word": "cuerpo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "body",
+      "de": "Körper",
+      "ar": "جسم",
+      "fr": "corps",
+      "it": "corpo",
+      "ru": "тело",
+      "es": "cuerpo",
+      "pl": "ciało",
+      "fa": "بدن"
+    },
+    "explanations": {
+      "en": "The physical structure of a person or animal",
+      "de": "Die physische Struktur einer Person oder eines Tieres",
+      "ar": "البنية الجسدية للإنسان أو الحيوان",
+      "fr": "La structure physique d'une personne ou d'un animal",
+      "it": "La struttura fisica di una persona o animale",
+      "ru": "Физическая структура человека или животного",
+      "es": "La estructura física de una persona o animal",
+      "pl": "Fizyczna struktura osoby lub zwierzęcia",
+      "fa": "ساختار فیزیکی یک شخص یا حیوان"
+    },
+    "examples": {
+      "en": ["The human body", "My body is healthy", "Exercise helps your body"],
+      "de": ["Der menschliche Körper", "Mein Körper ist gesund", "Übung hilft deinem Körper"],
+      "ar": ["الجسم البشري", "جسمي صحي", "التمرين يساعد جسمك"],
+      "fr": ["Le corps humain", "Mon corps est sain", "L'exercice aide ton corps"],
+      "it": ["Il corpo umano", "Il mio corpo è sano", "L'esercizio aiuta il tuo corpo"],
+      "ru": ["Человеческое тело", "Моё тело здорово", "Упражнения помогают твоему телу"],
+      "es": ["El cuerpo humano", "Mi cuerpo es sano", "El ejercicio ayuda tu cuerpo"],
+      "pl": ["Ludzkie ciało", "Moje ciało jest zdrowe", "Ćwiczenie pomaga twojemu ciału"],
+      "fa": ["بدن انسان", "بدن من سالم است", "ورزش به بدن شما کمک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_622_es",
+    "word": "cabeza",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "head",
+      "de": "Kopf",
+      "ar": "رأس",
+      "fr": "tête",
+      "it": "testa",
+      "ru": "голова",
+      "es": "cabeza",
+      "pl": "głowa",
+      "fa": "سر"
+    },
+    "explanations": {
+      "en": "The upper part of the body containing the brain",
+      "de": "Der obere Teil des Körpers, der das Gehirn enthält",
+      "ar": "الجزء العلوي من الجسم الذي يحتوي على الدماغ",
+      "fr": "La partie supérieure du corps contenant le cerveau",
+      "it": "La parte superiore del corpo contenente il cervello",
+      "ru": "Верхняя часть тела, содержащая мозг",
+      "es": "La parte superior del cuerpo que contiene el cerebro",
+      "pl": "Górna część ciała zawierająca mózg",
+      "fa": "بخش بالایی بدن که مغز را دارد"
+    },
+    "examples": {
+      "en": ["My head hurts today", "He has big head", "She nods her head"],
+      "de": ["Mein Kopf tut weh heute", "Er hat großen Kopf", "Sie nickt ihren Kopf"],
+      "ar": ["رأسي يؤلمني اليوم", "لديه رأس كبير", "هي تومئ برأسها"],
+      "fr": ["Ma tête fait mal aujourd'hui", "Il a grosse tête", "Elle hoche sa tête"],
+      "it": ["La mia testa fa male oggi", "Lui ha testa grande", "Lei annuisce la sua testa"],
+      "ru": ["Моя голова болит сегодня", "У него большая голова", "Она кивает головой"],
+      "es": ["Mi cabeza duele hoy", "Él tiene cabeza grande", "Ella mueve su cabeza"],
+      "pl": ["Moja głowa boli dzisiaj", "On ma dużą głowę", "Ona kiwa głową"],
+      "fa": ["سر من امروز درد می‌کند", "او سر بزرگی دارد", "او سرش را تکان می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_623_es",
+    "word": "cara",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "face",
+      "de": "Gesicht",
+      "ar": "وجه",
+      "fr": "visage",
+      "it": "faccia, viso",
+      "ru": "лицо",
+      "es": "cara",
+      "pl": "twarz",
+      "fa": "صورت"
+    },
+    "explanations": {
+      "en": "The front part of the head with eyes, nose, and mouth",
+      "de": "Der vordere Teil des Kopfes mit Augen, Nase und Mund",
+      "ar": "الجزء الأمامي من الرأس مع العيون والأنف والفم",
+      "fr": "La partie avant de la tête avec yeux, nez et bouche",
+      "it": "La parte anteriore della testa con occhi, naso e bocca",
+      "ru": "Передняя часть головы с глазами, носом и ртом",
+      "es": "La parte frontal de la cabeza con ojos, nariz y boca",
+      "pl": "Przednia część głowy z oczami, nosem i ustami",
+      "fa": "بخش جلوی سر با چشم‌ها، بینی و دهان"
+    },
+    "examples": {
+      "en": ["She has pretty face", "Wash your face well", "His face is happy"],
+      "de": ["Sie hat hübsches Gesicht", "Wasch dein Gesicht gut", "Sein Gesicht ist glücklich"],
+      "ar": ["لديها وجه جميل", "اغسل وجهك جيدا", "وجهه سعيد"],
+      "fr": ["Elle a joli visage", "Lave ton visage bien", "Son visage est heureux"],
+      "it": ["Lei ha bella faccia", "Lava la tua faccia bene", "La sua faccia è felice"],
+      "ru": ["У неё красивое лицо", "Умой своё лицо хорошо", "Его лицо счастливое"],
+      "es": ["Ella tiene cara bonita", "Lava tu cara bien", "Su cara es feliz"],
+      "pl": ["Ona ma ładną twarz", "Umyj swoją twarz dobrze", "Jego twarz jest szczęśliwa"],
+      "fa": ["او صورت قشنگی دارد", "صورتت را خوب بشور", "صورت او شاد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_624_es",
+    "word": "ojo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "eye",
+      "de": "Auge",
+      "ar": "عين",
+      "fr": "œil",
+      "it": "occhio",
+      "ru": "глаз",
+      "es": "ojo",
+      "pl": "oko",
+      "fa": "چشم"
+    },
+    "explanations": {
+      "en": "The organ of sight in the face",
+      "de": "Das Sehorgan im Gesicht",
+      "ar": "عضو الرؤية في الوجه",
+      "fr": "L'organe de la vue dans le visage",
+      "it": "L'organo della vista nel viso",
+      "ru": "Орган зрения на лице",
+      "es": "El órgano de la vista en la cara",
+      "pl": "Organ wzroku na twarzy",
+      "fa": "عضو بینایی در صورت"
+    },
+    "examples": {
+      "en": ["She has blue eyes", "My eye hurts now", "Close your eyes please"],
+      "de": ["Sie hat blaue Augen", "Mein Auge tut weh jetzt", "Schließ deine Augen bitte"],
+      "ar": ["لديها عيون زرقاء", "عيني تؤلمني الآن", "أغلق عينيك من فضلك"],
+      "fr": ["Elle a yeux bleus", "Mon œil fait mal maintenant", "Ferme tes yeux s'il te plaît"],
+      "it": ["Lei ha occhi blu", "Il mio occhio fa male ora", "Chiudi i tuoi occhi per favore"],
+      "ru": ["У неё голубые глаза", "Мой глаз болит сейчас", "Закрой свои глаза пожалуйста"],
+      "es": ["Ella tiene ojos azules", "Mi ojo duele ahora", "Cierra tus ojos por favor"],
+      "pl": ["Ona ma niebieskie oczy", "Moje oko boli teraz", "Zamknij swoje oczy proszę"],
+      "fa": ["او چشم‌های آبی دارد", "چشم من الان درد می‌کند", "لطفاً چشم‌هایت را ببند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_625_es",
+    "word": "oreja",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "ear",
+      "de": "Ohr",
+      "ar": "أذن",
+      "fr": "oreille",
+      "it": "orecchio",
+      "ru": "ухо",
+      "es": "oreja",
+      "pl": "ucho",
+      "fa": "گوش"
+    },
+    "explanations": {
+      "en": "The organ of hearing on the side of the head",
+      "de": "Das Hörorgan an der Seite des Kopfes",
+      "ar": "عضو السمع على جانب الرأس",
+      "fr": "L'organe de l'ouïe sur le côté de la tête",
+      "it": "L'organo dell'udito sul lato della testa",
+      "ru": "Орган слуха на стороне головы",
+      "es": "El órgano de la audición en el lado de la cabeza",
+      "pl": "Organ słuchu z boku głowy",
+      "fa": "عضو شنوایی در طرف سر"
+    },
+    "examples": {
+      "en": ["He has big ears", "My ear hurts today", "She cleans her ears"],
+      "de": ["Er hat große Ohren", "Mein Ohr tut weh heute", "Sie reinigt ihre Ohren"],
+      "ar": ["لديه آذان كبيرة", "أذني تؤلمني اليوم", "هي تنظف أذنيها"],
+      "fr": ["Il a grandes oreilles", "Mon oreille fait mal aujourd'hui", "Elle nettoie ses oreilles"],
+      "it": ["Lui ha orecchie grandi", "Il mio orecchio fa male oggi", "Lei pulisce le sue orecchie"],
+      "ru": ["У него большие уши", "Моё ухо болит сегодня", "Она чистит свои уши"],
+      "es": ["Él tiene orejas grandes", "Mi oreja duele hoy", "Ella limpia sus orejas"],
+      "pl": ["On ma duże uszy", "Moje ucho boli dzisiaj", "Ona czyści swoje uszy"],
+      "fa": ["او گوش‌های بزرگی دارد", "گوش من امروز درد می‌کند", "او گوش‌هایش را تمیز می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_626_es",
+    "word": "nariz",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nose",
+      "de": "Nase",
+      "ar": "أنف",
+      "fr": "nez",
+      "it": "naso",
+      "ru": "нос",
+      "es": "nariz",
+      "pl": "nos",
+      "fa": "بینی"
+    },
+    "explanations": {
+      "en": "The organ of smell in the center of the face",
+      "de": "Das Geruchsorgan in der Mitte des Gesichts",
+      "ar": "عضو الشم في وسط الوجه",
+      "fr": "L'organe de l'odorat au centre du visage",
+      "it": "L'organo dell'olfatto al centro del viso",
+      "ru": "Орган обоняния в центре лица",
+      "es": "El órgano del olfato en el centro de la cara",
+      "pl": "Organ węchu w centrum twarzy",
+      "fa": "عضو بویایی در مرکز صورت"
+    },
+    "examples": {
+      "en": ["My nose is cold", "She has small nose", "The nose can smell"],
+      "de": ["Meine Nase ist kalt", "Sie hat kleine Nase", "Die Nase kann riechen"],
+      "ar": ["أنفي بارد", "لديها أنف صغير", "الأنف يمكن أن يشم"],
+      "fr": ["Mon nez est froid", "Elle a petit nez", "Le nez peut sentir"],
+      "it": ["Il mio naso è freddo", "Lei ha naso piccolo", "Il naso può odorare"],
+      "ru": ["Мой нос холодный", "У неё маленький нос", "Нос может нюхать"],
+      "es": ["Mi nariz está fría", "Ella tiene nariz pequeña", "La nariz puede oler"],
+      "pl": ["Mój nos jest zimny", "Ona ma mały nos", "Nos może wąchać"],
+      "fa": ["بینی من سرد است", "او بینی کوچکی دارد", "بینی می‌تواند بو کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_627_es",
+    "word": "boca",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mouth",
+      "de": "Mund",
+      "ar": "فم",
+      "fr": "bouche",
+      "it": "bocca",
+      "ru": "рот",
+      "es": "boca",
+      "pl": "usta",
+      "fa": "دهان"
+    },
+    "explanations": {
+      "en": "The opening in the face for eating and speaking",
+      "de": "Die Öffnung im Gesicht zum Essen und Sprechen",
+      "ar": "الفتحة في الوجه للأكل والكلام",
+      "fr": "L'ouverture dans le visage pour manger et parler",
+      "it": "L'apertura nel viso per mangiare e parlare",
+      "ru": "Отверстие на лице для еды и речи",
+      "es": "La abertura en la cara para comer y hablar",
+      "pl": "Otwór na twarzy do jedzenia i mówienia",
+      "fa": "دهانه در صورت برای خوردن و صحبت کردن"
+    },
+    "examples": {
+      "en": ["Open your mouth please", "My mouth is dry", "She has big mouth"],
+      "de": ["Öffne deinen Mund bitte", "Mein Mund ist trocken", "Sie hat großen Mund"],
+      "ar": ["افتح فمك من فضلك", "فمي جاف", "لديها فم كبير"],
+      "fr": ["Ouvre ta bouche s'il te plaît", "Ma bouche est sèche", "Elle a grande bouche"],
+      "it": ["Apri la tua bocca per favore", "La mia bocca è secca", "Lei ha bocca grande"],
+      "ru": ["Открой свой рот пожалуйста", "Мой рот сухой", "У неё большой рот"],
+      "es": ["Abre tu boca por favor", "Mi boca está seca", "Ella tiene boca grande"],
+      "pl": ["Otwórz swoje usta proszę", "Moje usta są suche", "Ona ma duże usta"],
+      "fa": ["لطفاً دهانت را باز کن", "دهان من خشک است", "او دهان بزرگی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_628_es",
+    "word": "diente",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "tooth",
+      "de": "Zahn",
+      "ar": "سن",
+      "fr": "dent",
+      "it": "dente",
+      "ru": "зуб",
+      "es": "diente",
+      "pl": "ząb",
+      "fa": "دندان"
+    },
+    "explanations": {
+      "en": "Hard white structure in the mouth for biting",
+      "de": "Harte weiße Struktur im Mund zum Beißen",
+      "ar": "بنية بيضاء صلبة في الفم للعض",
+      "fr": "Structure blanche dure dans la bouche pour mordre",
+      "it": "Struttura bianca dura nella bocca per mordere",
+      "ru": "Твердая белая структура во рту для кусания",
+      "es": "Estructura blanca dura en la boca para morder",
+      "pl": "Twarda biała struktura w ustach do gryzienia",
+      "fa": "ساختار سفید سخت در دهان برای گاز گرفتن"
+    },
+    "examples": {
+      "en": ["Brush your teeth daily", "My tooth hurts badly", "She has white teeth"],
+      "de": ["Putze deine Zähne täglich", "Mein Zahn tut sehr weh", "Sie hat weiße Zähne"],
+      "ar": ["اغسل أسنانك يوميا", "سني يؤلمني بشدة", "لديها أسنان بيضاء"],
+      "fr": ["Brosse tes dents quotidiennement", "Ma dent fait très mal", "Elle a dents blanches"],
+      "it": ["Spazzola i tuoi denti quotidianamente", "Il mio dente fa molto male", "Lei ha denti bianchi"],
+      "ru": ["Чисти свои зубы ежедневно", "Мой зуб очень болит", "У неё белые зубы"],
+      "es": ["Cepilla tus dientes diariamente", "Mi diente duele mucho", "Ella tiene dientes blancos"],
+      "pl": ["Myj swoje zęby codziennie", "Mój ząb bardzo boli", "Ona ma białe zęby"],
+      "fa": ["روزانه دندان‌هایت را مسواک بزن", "دندان من خیلی درد می‌کند", "او دندان‌های سفیدی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_629_es",
+    "word": "pelo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hair",
+      "de": "Haar",
+      "ar": "شعر",
+      "fr": "cheveux",
+      "it": "capelli",
+      "ru": "волосы",
+      "es": "pelo",
+      "pl": "włosy",
+      "fa": "مو"
+    },
+    "explanations": {
+      "en": "The strands growing from the head or body",
+      "de": "Die Strähnen, die vom Kopf oder Körper wachsen",
+      "ar": "الخيوط التي تنمو من الرأس أو الجسم",
+      "fr": "Les mèches qui poussent de la tête ou du corps",
+      "it": "I fili che crescono dalla testa o dal corpo",
+      "ru": "Пряди, растущие из головы или тела",
+      "es": "Los hilos que crecen de la cabeza o cuerpo",
+      "pl": "Pasma rosnące z głowy lub ciała",
+      "fa": "رشته‌هایی که از سر یا بدن رشد می‌کنند"
+    },
+    "examples": {
+      "en": ["She has long hair", "My hair is black", "Cut your hair tomorrow"],
+      "de": ["Sie hat langes Haar", "Mein Haar ist schwarz", "Schneide dein Haar morgen"],
+      "ar": ["لديها شعر طويل", "شعري أسود", "قص شعرك غدا"],
+      "fr": ["Elle a cheveux longs", "Mes cheveux sont noirs", "Coupe tes cheveux demain"],
+      "it": ["Lei ha capelli lunghi", "I miei capelli sono neri", "Taglia i tuoi capelli domani"],
+      "ru": ["У неё длинные волосы", "Мои волосы чёрные", "Подстриги свои волосы завтра"],
+      "es": ["Ella tiene pelo largo", "Mi pelo es negro", "Corta tu pelo mañana"],
+      "pl": ["Ona ma długie włosy", "Moje włosy są czarne", "Obetnij swoje włosy jutro"],
+      "fa": ["او موی بلندی دارد", "موی من سیاه است", "فردا موهایت را کوتاه کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_630_es",
+    "word": "cuello",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "neck",
+      "de": "Hals",
+      "ar": "رقبة",
+      "fr": "cou",
+      "it": "collo",
+      "ru": "шея",
+      "es": "cuello",
+      "pl": "szyja",
+      "fa": "گردن"
+    },
+    "explanations": {
+      "en": "The part connecting the head to the body",
+      "de": "Der Teil, der den Kopf mit dem Körper verbindet",
+      "ar": "الجزء الذي يربط الرأس بالجسم",
+      "fr": "La partie reliant la tête au corps",
+      "it": "La parte che collega la testa al corpo",
+      "ru": "Часть, соединяющая голову с телом",
+      "es": "La parte que conecta la cabeza con el cuerpo",
+      "pl": "Część łącząca głowę z ciałem",
+      "fa": "قسمتی که سر را به بدن متصل می‌کند"
+    },
+    "examples": {
+      "en": ["My neck hurts today", "She has long neck", "Turn your neck slowly"],
+      "de": ["Mein Hals tut weh heute", "Sie hat langen Hals", "Dreh deinen Hals langsam"],
+      "ar": ["رقبتي تؤلمني اليوم", "لديها رقبة طويلة", "أدر رقبتك ببطء"],
+      "fr": ["Mon cou fait mal aujourd'hui", "Elle a long cou", "Tourne ton cou lentement"],
+      "it": ["Il mio collo fa male oggi", "Lei ha collo lungo", "Gira il tuo collo lentamente"],
+      "ru": ["Моя шея болит сегодня", "У неё длинная шея", "Поверни свою шею медленно"],
+      "es": ["Mi cuello duele hoy", "Ella tiene cuello largo", "Gira tu cuello despacio"],
+      "pl": ["Moja szyja boli dzisiaj", "Ona ma długą szyję", "Obróć swoją szyję powoli"],
+      "fa": ["گردن من امروز درد می‌کند", "او گردن بلندی دارد", "گردنت را آهسته بچرخان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_631_es",
+    "word": "hombro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "shoulder",
+      "de": "Schulter",
+      "ar": "كتف",
+      "fr": "épaule",
+      "it": "spalla",
+      "ru": "плечо",
+      "es": "hombro",
+      "pl": "ramię",
+      "fa": "شانه"
+    },
+    "explanations": {
+      "en": "The joint connecting the arm to the body",
+      "de": "Das Gelenk, das den Arm mit dem Körper verbindet",
+      "ar": "المفصل الذي يربط الذراع بالجسم",
+      "fr": "L'articulation reliant le bras au corps",
+      "it": "L'articolazione che collega il braccio al corpo",
+      "ru": "Сустав, соединяющий руку с телом",
+      "es": "La articulación que conecta el brazo con el cuerpo",
+      "pl": "Staw łączący ramię z ciałem",
+      "fa": "مفصلی که بازو را به بدن متصل می‌کند"
+    },
+    "examples": {
+      "en": ["My shoulder hurts badly", "He has broad shoulders", "Put on your shoulder"],
+      "de": ["Meine Schulter tut sehr weh", "Er hat breite Schultern", "Leg auf deine Schulter"],
+      "ar": ["كتفي يؤلمني بشدة", "لديه أكتاف عريضة", "ضع على كتفك"],
+      "fr": ["Mon épaule fait très mal", "Il a larges épaules", "Mets sur ton épaule"],
+      "it": ["La mia spalla fa molto male", "Lui ha spalle larghe", "Metti sulla tua spalla"],
+      "ru": ["Моё плечо очень болит", "У него широкие плечи", "Положи на своё плечо"],
+      "es": ["Mi hombro duele mucho", "Él tiene hombros anchos", "Pon en tu hombro"],
+      "pl": ["Moje ramię bardzo boli", "On ma szerokie ramiona", "Połóż na swoim ramieniu"],
+      "fa": ["شانه من خیلی درد می‌کند", "او شانه‌های پهنی دارد", "روی شانه‌ات بگذار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_632_es",
+    "word": "brazo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "arm",
+      "de": "Arm",
+      "ar": "ذراع",
+      "fr": "bras",
+      "it": "braccio",
+      "ru": "рука (от плеча)",
+      "es": "brazo",
+      "pl": "ramię",
+      "fa": "بازو"
+    },
+    "explanations": {
+      "en": "The upper limb from shoulder to hand",
+      "de": "Die obere Gliedmaße von Schulter bis Hand",
+      "ar": "الطرف العلوي من الكتف إلى اليد",
+      "fr": "Le membre supérieur de l'épaule à la main",
+      "it": "L'arto superiore dalla spalla alla mano",
+      "ru": "Верхняя конечность от плеча до руки",
+      "es": "El miembro superior del hombro a la mano",
+      "pl": "Kończyna górna od ramienia do ręki",
+      "fa": "اندام فوقانی از شانه تا دست"
+    },
+    "examples": {
+      "en": ["Raise your arm high", "My arm is strong", "She has long arms"],
+      "de": ["Heb deinen Arm hoch", "Mein Arm ist stark", "Sie hat lange Arme"],
+      "ar": ["ارفع ذراعك عاليا", "ذراعي قوي", "لديها أذرع طويلة"],
+      "fr": ["Lève ton bras haut", "Mon bras est fort", "Elle a longs bras"],
+      "it": ["Alza il tuo braccio alto", "Il mio braccio è forte", "Lei ha braccia lunghe"],
+      "ru": ["Подними свою руку высоко", "Моя рука сильная", "У неё длинные руки"],
+      "es": ["Levanta tu brazo alto", "Mi brazo es fuerte", "Ella tiene brazos largos"],
+      "pl": ["Podnieś swoje ramię wysoko", "Moje ramię jest silne", "Ona ma długie ramiona"],
+      "fa": ["بازویت را بالا ببر", "بازوی من قوی است", "او بازوهای بلندی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_633_es",
+    "word": "mano",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hand",
+      "de": "Hand",
+      "ar": "يد",
+      "fr": "main",
+      "it": "mano",
+      "ru": "рука (кисть)",
+      "es": "mano",
+      "pl": "dłoń, ręka",
+      "fa": "دست"
+    },
+    "explanations": {
+      "en": "The end part of the arm with fingers",
+      "de": "Der Endteil des Arms mit Fingern",
+      "ar": "الجزء النهائي من الذراع مع الأصابع",
+      "fr": "La partie finale du bras avec doigts",
+      "it": "La parte finale del braccio con dita",
+      "ru": "Конечная часть руки с пальцами",
+      "es": "La parte final del brazo con dedos",
+      "pl": "Końcowa część ramienia z palcami",
+      "fa": "بخش انتهایی بازو با انگشتان"
+    },
+    "examples": {
+      "en": ["Wash your hands well", "Give me your hand", "My hand is cold"],
+      "de": ["Wasch deine Hände gut", "Gib mir deine Hand", "Meine Hand ist kalt"],
+      "ar": ["اغسل يديك جيدا", "أعطني يدك", "يدي باردة"],
+      "fr": ["Lave tes mains bien", "Donne-moi ta main", "Ma main est froide"],
+      "it": ["Lava le tue mani bene", "Dammi la tua mano", "La mia mano è fredda"],
+      "ru": ["Помой свои руки хорошо", "Дай мне свою руку", "Моя рука холодная"],
+      "es": ["Lava tus manos bien", "Dame tu mano", "Mi mano está fría"],
+      "pl": ["Umyj swoje ręce dobrze", "Daj mi swoją rękę", "Moja ręka jest zimna"],
+      "fa": ["دست‌هایت را خوب بشور", "دستت را به من بده", "دست من سرد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_634_es",
+    "word": "dedo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "finger, toe",
+      "de": "Finger, Zehe",
+      "ar": "إصبع",
+      "fr": "doigt, orteil",
+      "it": "dito",
+      "ru": "палец",
+      "es": "dedo",
+      "pl": "palec",
+      "fa": "انگشت"
+    },
+    "explanations": {
+      "en": "One of the five digits on a hand or foot",
+      "de": "Einer der fünf Finger an einer Hand oder einem Fuß",
+      "ar": "واحد من الأصابع الخمسة على اليد أو القدم",
+      "fr": "Un des cinq doigts d'une main ou d'un pied",
+      "it": "Una delle cinque dita di una mano o piede",
+      "ru": "Один из пяти пальцев на руке или ноге",
+      "es": "Uno de los cinco dedos en una mano o pie",
+      "pl": "Jeden z pięciu palców na dłoni lub stopie",
+      "fa": "یکی از پنج انگشت روی دست یا پا"
+    },
+    "examples": {
+      "en": ["I have ten fingers", "My finger hurts now", "Point with your finger"],
+      "de": ["Ich habe zehn Finger", "Mein Finger tut weh jetzt", "Zeig mit deinem Finger"],
+      "ar": ["لدي عشرة أصابع", "إصبعي يؤلمني الآن", "أشر بإصبعك"],
+      "fr": ["J'ai dix doigts", "Mon doigt fait mal maintenant", "Pointe avec ton doigt"],
+      "it": ["Ho dieci dita", "Il mio dito fa male ora", "Indica con il tuo dito"],
+      "ru": ["У меня десять пальцев", "Мой палец болит сейчас", "Укажи своим пальцем"],
+      "es": ["Yo tengo diez dedos", "Mi dedo duele ahora", "Señala con tu dedo"],
+      "pl": ["Mam dziesięć palców", "Mój palec boli teraz", "Wskaż swoim palcem"],
+      "fa": ["من ده انگشت دارم", "انگشت من الان درد می‌کند", "با انگشتت اشاره کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_635_es",
+    "word": "pierna",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "leg",
+      "de": "Bein",
+      "ar": "ساق، رجل",
+      "fr": "jambe",
+      "it": "gamba",
+      "ru": "нога (от бедра)",
+      "es": "pierna",
+      "pl": "noga",
+      "fa": "پا"
+    },
+    "explanations": {
+      "en": "The lower limb from hip to foot",
+      "de": "Die untere Gliedmaße von Hüfte bis Fuß",
+      "ar": "الطرف السفلي من الورك إلى القدم",
+      "fr": "Le membre inférieur de la hanche au pied",
+      "it": "L'arto inferiore dall'anca al piede",
+      "ru": "Нижняя конечность от бедра до стопы",
+      "es": "El miembro inferior de la cadera al pie",
+      "pl": "Kończyna dolna od biodra do stopy",
+      "fa": "اندام تحتانی از لگن تا پا"
+    },
+    "examples": {
+      "en": ["My leg hurts today", "She has long legs", "Cross your legs please"],
+      "de": ["Mein Bein tut weh heute", "Sie hat lange Beine", "Kreuz deine Beine bitte"],
+      "ar": ["ساقي تؤلمني اليوم", "لديها سيقان طويلة", "اعقد ساقيك من فضلك"],
+      "fr": ["Ma jambe fait mal aujourd'hui", "Elle a longues jambes", "Croise tes jambes s'il te plaît"],
+      "it": ["La mia gamba fa male oggi", "Lei ha gambe lunghe", "Incrocia le tue gambe per favore"],
+      "ru": ["Моя нога болит сегодня", "У неё длинные ноги", "Скрести свои ноги пожалуйста"],
+      "es": ["Mi pierna duele hoy", "Ella tiene piernas largas", "Cruza tus piernas por favor"],
+      "pl": ["Moja noga boli dzisiaj", "Ona ma długie nogi", "Skrzyżuj swoje nogi proszę"],
+      "fa": ["پای من امروز درد می‌کند", "او پاهای بلندی دارد", "لطفاً پاهایت را روی هم بگذار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_636_es",
+    "word": "pie",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "foot",
+      "de": "Fuß",
+      "ar": "قدم",
+      "fr": "pied",
+      "it": "piede",
+      "ru": "стопа, нога",
+      "es": "pie",
+      "pl": "stopa",
+      "fa": "پا"
+    },
+    "explanations": {
+      "en": "The lower part of the leg for standing and walking",
+      "de": "Der untere Teil des Beins zum Stehen und Gehen",
+      "ar": "الجزء السفلي من الساق للوقوف والمشي",
+      "fr": "La partie inférieure de la jambe pour se tenir et marcher",
+      "it": "La parte inferiore della gamba per stare in piedi e camminare",
+      "ru": "Нижняя часть ноги для стояния и ходьбы",
+      "es": "La parte inferior de la pierna para estar de pie y caminar",
+      "pl": "Dolna część nogi do stania i chodzenia",
+      "fa": "بخش پایینی پا برای ایستادن و راه رفتن"
+    },
+    "examples": {
+      "en": ["My foot hurts badly", "She has small feet", "Wash your feet daily"],
+      "de": ["Mein Fuß tut sehr weh", "Sie hat kleine Füße", "Wasch deine Füße täglich"],
+      "ar": ["قدمي تؤلمني بشدة", "لديها أقدام صغيرة", "اغسل قدميك يوميا"],
+      "fr": ["Mon pied fait très mal", "Elle a petits pieds", "Lave tes pieds quotidiennement"],
+      "it": ["Il mio piede fa molto male", "Lei ha piedi piccoli", "Lava i tuoi piedi quotidianamente"],
+      "ru": ["Моя стопа очень болит", "У неё маленькие ноги", "Мой свои ноги ежедневно"],
+      "es": ["Mi pie duele mucho", "Ella tiene pies pequeños", "Lava tus pies diariamente"],
+      "pl": ["Moja stopa bardzo boli", "Ona ma małe stopy", "Myj swoje stopy codziennie"],
+      "fa": ["پای من خیلی درد می‌کند", "او پاهای کوچکی دارد", "روزانه پاهایت را بشور"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_637_es",
+    "word": "uña",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "nail, fingernail",
+      "de": "Nagel, Fingernagel",
+      "ar": "ظفر",
+      "fr": "ongle",
+      "it": "unghia",
+      "ru": "ноготь",
+      "es": "uña",
+      "pl": "paznokieć",
+      "fa": "ناخن"
+    },
+    "explanations": {
+      "en": "The hard covering at the end of fingers and toes",
+      "de": "Die harte Abdeckung am Ende von Fingern und Zehen",
+      "ar": "الغطاء الصلب في نهاية الأصابع والأقدام",
+      "fr": "Le revêtement dur au bout des doigts et orteils",
+      "it": "Il rivestimento duro alla fine delle dita",
+      "ru": "Твёрдое покрытие на концах пальцев рук и ног",
+      "es": "La cubierta dura al final de los dedos",
+      "pl": "Twarde pokrycie na końcach palców",
+      "fa": "پوشش سخت در انتهای انگشتان"
+    },
+    "examples": {
+      "en": ["Cut your nails please", "My nail is broken", "She has long nails"],
+      "de": ["Schneide deine Nägel bitte", "Mein Nagel ist gebrochen", "Sie hat lange Nägel"],
+      "ar": ["قص أظافرك من فضلك", "ظفري مكسور", "لديها أظافر طويلة"],
+      "fr": ["Coupe tes ongles s'il te plaît", "Mon ongle est cassé", "Elle a longs ongles"],
+      "it": ["Taglia le tue unghie per favore", "La mia unghia è rotta", "Lei ha unghie lunghe"],
+      "ru": ["Подстриги свои ногти пожалуйста", "Мой ноготь сломан", "У неё длинные ногти"],
+      "es": ["Corta tus uñas por favor", "Mi uña está rota", "Ella tiene uñas largas"],
+      "pl": ["Obetnij swoje paznokcie proszę", "Mój paznokieć jest złamany", "Ona ma długie paznokcie"],
+      "fa": ["لطفاً ناخن‌هایت را کوتاه کن", "ناخن من شکسته است", "او ناخن‌های بلندی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_638_es",
+    "word": "piel",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "skin",
+      "de": "Haut",
+      "ar": "جلد، بشرة",
+      "fr": "peau",
+      "it": "pelle",
+      "ru": "кожа",
+      "es": "piel",
+      "pl": "skóra",
+      "fa": "پوست"
+    },
+    "explanations": {
+      "en": "The outer covering of the body",
+      "de": "Die äußere Bedeckung des Körpers",
+      "ar": "الغطاء الخارجي للجسم",
+      "fr": "Le revêtement extérieur du corps",
+      "it": "Il rivestimento esterno del corpo",
+      "ru": "Внешнее покрытие тела",
+      "es": "La cubierta exterior del cuerpo",
+      "pl": "Zewnętrzne pokrycie ciała",
+      "fa": "پوشش بیرونی بدن"
+    },
+    "examples": {
+      "en": ["She has soft skin", "Protect your skin daily", "My skin is dry"],
+      "de": ["Sie hat weiche Haut", "Schütze deine Haut täglich", "Meine Haut ist trocken"],
+      "ar": ["لديها جلد ناعم", "احم بشرتك يوميا", "جلدي جاف"],
+      "fr": ["Elle a peau douce", "Protège ta peau quotidiennement", "Ma peau est sèche"],
+      "it": ["Lei ha pelle morbida", "Proteggi la tua pelle quotidianamente", "La mia pelle è secca"],
+      "ru": ["У неё мягкая кожа", "Защищай свою кожу ежедневно", "Моя кожа сухая"],
+      "es": ["Ella tiene piel suave", "Protege tu piel diariamente", "Mi piel está seca"],
+      "pl": ["Ona ma miękką skórę", "Chroń swoją skórę codziennie", "Moja skóra jest sucha"],
+      "fa": ["او پوست نرمی دارد", "روزانه از پوستت محافظت کن", "پوست من خشک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_639_es",
+    "word": "sangre",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "blood",
+      "de": "Blut",
+      "ar": "دم",
+      "fr": "sang",
+      "it": "sangue",
+      "ru": "кровь",
+      "es": "sangre",
+      "pl": "krew",
+      "fa": "خون"
+    },
+    "explanations": {
+      "en": "The red fluid circulating in the body",
+      "de": "Die rote Flüssigkeit, die im Körper zirkuliert",
+      "ar": "السائل الأحمر الذي يدور في الجسم",
+      "fr": "Le fluide rouge circulant dans le corps",
+      "it": "Il fluido rosso che circola nel corpo",
+      "ru": "Красная жидкость, циркулирующая в теле",
+      "es": "El fluido rojo que circula en el cuerpo",
+      "pl": "Czerwony płyn krążący w ciele",
+      "fa": "مایع قرمز در گردش در بدن"
+    },
+    "examples": {
+      "en": ["Blood is red color", "I donate blood yearly", "Blood is very important"],
+      "de": ["Blut ist rot", "Ich spende Blut jährlich", "Blut ist sehr wichtig"],
+      "ar": ["الدم أحمر اللون", "أتبرع بالدم سنويا", "الدم مهم جدا"],
+      "fr": ["Le sang est rouge", "Je donne sang annuellement", "Le sang est très important"],
+      "it": ["Il sangue è rosso", "Dono sangue annualmente", "Il sangue è molto importante"],
+      "ru": ["Кровь красного цвета", "Я сдаю кровь ежегодно", "Кровь очень важна"],
+      "es": ["La sangre es roja", "Yo dono sangre anualmente", "La sangre es muy importante"],
+      "pl": ["Krew jest czerwona", "Oddaję krew rocznie", "Krew jest bardzo ważna"],
+      "fa": ["خون قرمز است", "من سالانه خون اهدا می‌کنم", "خون خیلی مهم است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_640_es",
+    "word": "corazón",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "heart",
+      "de": "Herz",
+      "ar": "قلب",
+      "fr": "cœur",
+      "it": "cuore",
+      "ru": "сердце",
+      "es": "corazón",
+      "pl": "serce",
+      "fa": "قلب"
+    },
+    "explanations": {
+      "en": "The organ that pumps blood through the body",
+      "de": "Das Organ, das Blut durch den Körper pumpt",
+      "ar": "العضو الذي يضخ الدم عبر الجسم",
+      "fr": "L'organe qui pompe le sang à travers le corps",
+      "it": "L'organo che pompa il sangue attraverso il corpo",
+      "ru": "Орган, который качает кровь по телу",
+      "es": "El órgano que bombea sangre a través del cuerpo",
+      "pl": "Organ, który pompuje krew przez ciało",
+      "fa": "عضوی که خون را در بدن پمپاژ می‌کند"
+    },
+    "examples": {
+      "en": ["My heart is healthy", "The heart beats fast", "Love comes from heart"],
+      "de": ["Mein Herz ist gesund", "Das Herz schlägt schnell", "Liebe kommt vom Herzen"],
+      "ar": ["قلبي صحي", "القلب ينبض بسرعة", "الحب يأتي من القلب"],
+      "fr": ["Mon cœur est sain", "Le cœur bat vite", "L'amour vient du cœur"],
+      "it": ["Il mio cuore è sano", "Il cuore batte veloce", "L'amore viene dal cuore"],
+      "ru": ["Моё сердце здорово", "Сердце бьётся быстро", "Любовь идёт от сердца"],
+      "es": ["Mi corazón es sano", "El corazón late rápido", "El amor viene del corazón"],
+      "pl": ["Moje serce jest zdrowe", "Serce bije szybko", "Miłość pochodzi z serca"],
+      "fa": ["قلب من سالم است", "قلب سریع می‌زند", "عشق از قلب می‌آید"]
+    },
+    "conjugations": null
+  }
+]

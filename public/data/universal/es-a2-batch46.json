@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_901_es",
+    "word": "problema",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "problem",
+      "de": "Problem",
+      "ar": "مشكلة",
+      "fr": "problème",
+      "it": "problema",
+      "ru": "проблема",
+      "es": "problema",
+      "pl": "problem",
+      "fa": "مشکل"
+    },
+    "explanations": {
+      "en": "Noun expressing a difficult situation or matter requiring a solution",
+      "de": "Substantiv für eine schwierige Situation oder Angelegenheit, die eine Lösung erfordert",
+      "ar": "اسم يعبر عن موقف صعب أو مسألة تتطلب حلاً",
+      "fr": "Nom exprimant une situation difficile ou une question nécessitant une solution",
+      "it": "Nome che esprime una situazione difficile o questione che richiede una soluzione",
+      "ru": "Существительное, выражающее трудную ситуацию или вопрос, требующий решения",
+      "es": "Sustantivo que expresa una situación difícil o asunto que requiere solución",
+      "pl": "Rzeczownik wyrażający trudną sytuację lub sprawę wymagającą rozwiązania",
+      "fa": "اسمی که موقعیت دشوار یا موضوعی را که نیاز به راه‌حل دارد بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have a problem", "This is a big problem", "We solve the problem together"],
+      "de": ["Ich habe ein Problem", "Das ist ein großes Problem", "Wir lösen das Problem zusammen"],
+      "ar": ["لدي مشكلة", "هذه مشكلة كبيرة", "نحن نحل المشكلة معاً"],
+      "fr": ["J'ai un problème", "C'est un gros problème", "Nous résolvons le problème ensemble"],
+      "it": ["Ho un problema", "Questo è un grande problema", "Risolviamo il problema insieme"],
+      "ru": ["У меня проблема", "Это большая проблема", "Мы решаем проблему вместе"],
+      "es": ["Yo tengo un problema", "Este es un problema grande", "Nosotros resolvemos el problema juntos"],
+      "pl": ["Mam problem", "To jest duży problem", "Rozwiązujemy problem razem"],
+      "fa": ["من مشکل دارم", "این یک مشکل بزرگ است", "ما مشکل را با هم حل می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_902_es",
+    "word": "resolver",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to solve, to resolve",
+      "de": "lösen, auflösen",
+      "ar": "يحل",
+      "fr": "résoudre",
+      "it": "risolvere",
+      "ru": "решать, разрешать",
+      "es": "resolver",
+      "pl": "rozwiązywać",
+      "fa": "حل کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of finding a solution to a problem",
+      "de": "Verb für die Handlung, eine Lösung für ein Problem zu finden",
+      "ar": "فعل يعبر عن فعل إيجاد حل لمشكلة",
+      "fr": "Verbe exprimant l'action de trouver une solution à un problème",
+      "it": "Verbo che esprime l'azione di trovare una soluzione a un problema",
+      "ru": "Глагол, выражающий действие нахождения решения проблемы",
+      "es": "Verbo que expresa la acción de encontrar solución a un problema",
+      "pl": "Czasownik wyrażający czynność znajdowania rozwiązania problemu",
+      "fa": "فعلی که عمل یافتن راه‌حل برای مشکل را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I resolve the issue", "She solves problems quickly", "We can resolve this"],
+      "de": ["Ich löse das Problem", "Sie löst Probleme schnell", "Wir können das lösen"],
+      "ar": ["أحل المشكلة", "هي تحل المشاكل بسرعة", "يمكننا حل هذا"],
+      "fr": ["Je résous le problème", "Elle résout les problèmes rapidement", "Nous pouvons résoudre cela"],
+      "it": ["Risolvo il problema", "Lei risolve i problemi velocemente", "Possiamo risolvere questo"],
+      "ru": ["Я решаю проблему", "Она решает проблемы быстро", "Мы можем решить это"],
+      "es": ["Yo resuelvo el problema", "Ella resuelve problemas rápido", "Nosotros podemos resolver esto"],
+      "pl": ["Rozwiązuję problem", "Ona rozwiązuje problemy szybko", "Możemy to rozwiązać"],
+      "fa": ["من مشکل را حل می‌کنم", "او مشکلات را سریع حل می‌کند", "ما می‌توانیم این را حل کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_903_es",
+    "word": "solución",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "solution",
+      "de": "Lösung",
+      "ar": "حل",
+      "fr": "solution",
+      "it": "soluzione",
+      "ru": "решение",
+      "es": "solución",
+      "pl": "rozwiązanie",
+      "fa": "راه‌حل"
+    },
+    "explanations": {
+      "en": "Noun expressing an answer or way to solve a problem",
+      "de": "Substantiv für eine Antwort oder einen Weg, ein Problem zu lösen",
+      "ar": "اسم يعبر عن إجابة أو طريقة لحل مشكلة",
+      "fr": "Nom exprimant une réponse ou un moyen de résoudre un problème",
+      "it": "Nome che esprime una risposta o modo di risolvere un problema",
+      "ru": "Существительное, выражающее ответ или способ решения проблемы",
+      "es": "Sustantivo que expresa una respuesta o forma de resolver un problema",
+      "pl": "Rzeczownik wyrażający odpowiedź lub sposób na rozwiązanie problemu",
+      "fa": "اسمی که پاسخ یا راهی برای حل مشکل را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have a solution", "This is the best solution", "We need a solution now"],
+      "de": ["Ich habe eine Lösung", "Das ist die beste Lösung", "Wir brauchen jetzt eine Lösung"],
+      "ar": ["لدي حل", "هذا هو الحل الأفضل", "نحن بحاجة إلى حل الآن"],
+      "fr": ["J'ai une solution", "C'est la meilleure solution", "Nous avons besoin d'une solution maintenant"],
+      "it": ["Ho una soluzione", "Questa è la soluzione migliore", "Abbiamo bisogno di una soluzione ora"],
+      "ru": ["У меня есть решение", "Это лучшее решение", "Нам нужно решение сейчас"],
+      "es": ["Yo tengo una solución", "Esta es la mejor solución", "Nosotros necesitamos una solución ahora"],
+      "pl": ["Mam rozwiązanie", "To jest najlepsze rozwiązanie", "Potrzebujemy rozwiązania teraz"],
+      "fa": ["من راه‌حل دارم", "این بهترین راه‌حل است", "ما الان به راه‌حل نیاز داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_904_es",
+    "word": "ayudar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to help",
+      "de": "helfen",
+      "ar": "يساعد",
+      "fr": "aider",
+      "it": "aiutare",
+      "ru": "помогать",
+      "es": "ayudar",
+      "pl": "pomagać",
+      "fa": "کمک کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of providing assistance or support",
+      "de": "Verb für die Handlung, Hilfe oder Unterstützung zu leisten",
+      "ar": "فعل يعبر عن فعل تقديم المساعدة أو الدعم",
+      "fr": "Verbe exprimant l'action de fournir assistance ou soutien",
+      "it": "Verbo che esprime l'azione di fornire assistenza o supporto",
+      "ru": "Глагол, выражающий действие оказания помощи или поддержки",
+      "es": "Verbo que expresa la acción de proporcionar ayuda o apoyo",
+      "pl": "Czasownik wyrażający czynność udzielania pomocy lub wsparcia",
+      "fa": "فعلی که عمل ارائه کمک یا حمایت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I help my friends", "She helps me every day", "We help each other"],
+      "de": ["Ich helfe meinen Freunden", "Sie hilft mir jeden Tag", "Wir helfen einander"],
+      "ar": ["أساعد أصدقائي", "هي تساعدني كل يوم", "نحن نساعد بعضنا البعض"],
+      "fr": ["J'aide mes amis", "Elle m'aide tous les jours", "Nous nous entraidons"],
+      "it": ["Aiuto i miei amici", "Lei mi aiuta ogni giorno", "Ci aiutiamo a vicenda"],
+      "ru": ["Я помогаю друзьям", "Она помогает мне каждый день", "Мы помогаем друг другу"],
+      "es": ["Yo ayudo a mis amigos", "Ella me ayuda todos los días", "Nosotros nos ayudamos"],
+      "pl": ["Pomagam moim przyjaciołom", "Ona pomaga mi codziennie", "Pomagamy sobie nawzajem"],
+      "fa": ["من به دوستانم کمک می‌کنم", "او هر روز به من کمک می‌کند", "ما به هم کمک می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_905_es",
+    "word": "necesitar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to need",
+      "de": "brauchen, benötigen",
+      "ar": "يحتاج",
+      "fr": "avoir besoin",
+      "it": "aver bisogno",
+      "ru": "нуждаться",
+      "es": "necesitar",
+      "pl": "potrzebować",
+      "fa": "نیاز داشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the requirement or necessity for something",
+      "de": "Verb für die Anforderung oder Notwendigkeit von etwas",
+      "ar": "فعل يعبر عن الحاجة أو الضرورة لشيء ما",
+      "fr": "Verbe exprimant le besoin ou la nécessité de quelque chose",
+      "it": "Verbo che esprime il bisogno o la necessità di qualcosa",
+      "ru": "Глагол, выражающий потребность или необходимость в чём-либо",
+      "es": "Verbo que expresa la necesidad o requerimiento de algo",
+      "pl": "Czasownik wyrażający zapotrzebowanie lub konieczność czegoś",
+      "fa": "فعلی که نیاز یا ضرورت برای چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I need help", "She needs more time", "We need to go now"],
+      "de": ["Ich brauche Hilfe", "Sie braucht mehr Zeit", "Wir müssen jetzt gehen"],
+      "ar": ["أحتاج إلى مساعدة", "هي تحتاج إلى مزيد من الوقت", "نحن بحاجة للذهاب الآن"],
+      "fr": ["J'ai besoin d'aide", "Elle a besoin de plus de temps", "Nous devons partir maintenant"],
+      "it": ["Ho bisogno di aiuto", "Lei ha bisogno di più tempo", "Dobbiamo andare ora"],
+      "ru": ["Мне нужна помощь", "Ей нужно больше времени", "Нам нужно идти сейчас"],
+      "es": ["Yo necesito ayuda", "Ella necesita más tiempo", "Nosotros necesitamos ir ahora"],
+      "pl": ["Potrzebuję pomocy", "Ona potrzebuje więcej czasu", "Musimy iść teraz"],
+      "fa": ["من به کمک نیاز دارم", "او به زمان بیشتری نیاز دارد", "ما باید الان برویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_906_es",
+    "word": "querer",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to want, to love",
+      "de": "wollen, lieben",
+      "ar": "يريد، يحب",
+      "fr": "vouloir, aimer",
+      "it": "volere, amare",
+      "ru": "хотеть, любить",
+      "es": "querer",
+      "pl": "chcieć, kochać",
+      "fa": "خواستن، دوست داشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing desire or affection",
+      "de": "Verb für Wunsch oder Zuneigung",
+      "ar": "فعل يعبر عن الرغبة أو المودة",
+      "fr": "Verbe exprimant le désir ou l'affection",
+      "it": "Verbo che esprime desiderio o affetto",
+      "ru": "Глагол, выражающий желание или привязанность",
+      "es": "Verbo que expresa deseo o afecto",
+      "pl": "Czasownik wyrażający pragnienie lub uczucie",
+      "fa": "فعلی که خواسته یا محبت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I want to help", "She loves her family", "We want to learn"],
+      "de": ["Ich will helfen", "Sie liebt ihre Familie", "Wir wollen lernen"],
+      "ar": ["أريد المساعدة", "هي تحب عائلتها", "نريد أن نتعلم"],
+      "fr": ["Je veux aider", "Elle aime sa famille", "Nous voulons apprendre"],
+      "it": ["Voglio aiutare", "Lei ama la sua famiglia", "Vogliamo imparare"],
+      "ru": ["Я хочу помочь", "Она любит свою семью", "Мы хотим учиться"],
+      "es": ["Yo quiero ayudar", "Ella quiere a su familia", "Nosotros queremos aprender"],
+      "pl": ["Chcę pomóc", "Ona kocha swoją rodzinę", "Chcemy się uczyć"],
+      "fa": ["من می‌خواهم کمک کنم", "او خانواده‌اش را دوست دارد", "ما می‌خواهیم یاد بگیریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_907_es",
+    "word": "intentar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to try, to attempt",
+      "de": "versuchen",
+      "ar": "يحاول",
+      "fr": "essayer, tenter",
+      "it": "provare, tentare",
+      "ru": "пытаться",
+      "es": "intentar",
+      "pl": "próbować",
+      "fa": "تلاش کردن، کوشیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of making an effort to do something",
+      "de": "Verb für die Handlung, sich zu bemühen, etwas zu tun",
+      "ar": "فعل يعبر عن فعل بذل جهد للقيام بشيء ما",
+      "fr": "Verbe exprimant l'action de faire un effort pour faire quelque chose",
+      "it": "Verbo che esprime l'azione di fare uno sforzo per fare qualcosa",
+      "ru": "Глагол, выражающий действие приложения усилий для выполнения чего-либо",
+      "es": "Verbo que expresa la acción de hacer un esfuerzo para hacer algo",
+      "pl": "Czasownik wyrażający czynność podejmowania wysiłku, aby coś zrobić",
+      "fa": "فعلی که عمل تلاش برای انجام کاری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I try to help", "She attempts to solve it", "We try every day"],
+      "de": ["Ich versuche zu helfen", "Sie versucht es zu lösen", "Wir versuchen jeden Tag"],
+      "ar": ["أحاول المساعدة", "هي تحاول حلها", "نحن نحاول كل يوم"],
+      "fr": ["J'essaie d'aider", "Elle tente de le résoudre", "Nous essayons chaque jour"],
+      "it": ["Provo ad aiutare", "Lei tenta di risolverlo", "Proviamo ogni giorno"],
+      "ru": ["Я пытаюсь помочь", "Она пытается решить это", "Мы пытаемся каждый день"],
+      "es": ["Yo intento ayudar", "Ella intenta resolver esto", "Nosotros intentamos todos los días"],
+      "pl": ["Próbuję pomóc", "Ona próbuje to rozwiązać", "Próbujemy codziennie"],
+      "fa": ["من سعی می‌کنم کمک کنم", "او سعی می‌کند آن را حل کند", "ما هر روز تلاش می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_908_es",
+    "word": "poder",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to be able to, can",
+      "de": "können",
+      "ar": "يستطيع",
+      "fr": "pouvoir",
+      "it": "potere",
+      "ru": "мочь",
+      "es": "poder",
+      "pl": "móc",
+      "fa": "توانستن"
+    },
+    "explanations": {
+      "en": "Modal verb expressing ability or possibility",
+      "de": "Modalverb für Fähigkeit oder Möglichkeit",
+      "ar": "فعل مساعد يعبر عن القدرة أو الإمكانية",
+      "fr": "Verbe modal exprimant la capacité ou la possibilité",
+      "it": "Verbo modale che esprime capacità o possibilità",
+      "ru": "Модальный глагол, выражающий способность или возможность",
+      "es": "Verbo modal que expresa habilidad o posibilidad",
+      "pl": "Czasownik modalny wyrażający zdolność lub możliwość",
+      "fa": "فعل کمکی که توانایی یا امکان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I can help you", "You can do it", "We can try"],
+      "de": ["Ich kann dir helfen", "Du kannst es tun", "Wir können versuchen"],
+      "ar": ["أستطيع مساعدتك", "تستطيع فعل ذلك", "يمكننا المحاولة"],
+      "fr": ["Je peux t'aider", "Tu peux le faire", "Nous pouvons essayer"],
+      "it": ["Posso aiutarti", "Puoi farlo", "Possiamo provare"],
+      "ru": ["Я могу тебе помочь", "Ты можешь это сделать", "Мы можем попробовать"],
+      "es": ["Yo puedo ayudarte", "Tú puedes hacer esto", "Nosotros podemos intentar"],
+      "pl": ["Mogę ci pomóc", "Możesz to zrobić", "Możemy spróbować"],
+      "fa": ["من می‌توانم به تو کمک کنم", "تو می‌توانی این کار را انجام دهی", "ما می‌توانیم امتحان کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_909_es",
+    "word": "deber",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "must, should",
+      "de": "müssen, sollen",
+      "ar": "يجب",
+      "fr": "devoir",
+      "it": "dovere",
+      "ru": "должен",
+      "es": "deber",
+      "pl": "musieć, powinien",
+      "fa": "باید"
+    },
+    "explanations": {
+      "en": "Modal verb expressing obligation or necessity",
+      "de": "Modalverb für Verpflichtung oder Notwendigkeit",
+      "ar": "فعل مساعد يعبر عن الالتزام أو الضرورة",
+      "fr": "Verbe modal exprimant l'obligation ou la nécessité",
+      "it": "Verbo modale che esprime obbligo o necessità",
+      "ru": "Модальный глагол, выражающий обязательство или необходимость",
+      "es": "Verbo modal que expresa obligación o necesidad",
+      "pl": "Czasownik modalny wyrażający obowiązek lub konieczność",
+      "fa": "فعل کمکی که تعهد یا ضرورت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I must study", "You should help", "He must go"],
+      "de": ["Ich muss lernen", "Du sollst helfen", "Er muss gehen"],
+      "ar": ["يجب أن أدرس", "يجب أن تساعد", "يجب أن يذهب"],
+      "fr": ["Je dois étudier", "Tu dois aider", "Il doit partir"],
+      "it": ["Devo studiare", "Devi aiutare", "Deve andare"],
+      "ru": ["Я должен учиться", "Ты должен помочь", "Он должен идти"],
+      "es": ["Yo debo estudiar", "Tú debes ayudar", "Él debe ir"],
+      "pl": ["Muszę się uczyć", "Powinieneś pomóc", "On musi iść"],
+      "fa": ["من باید درس بخوانم", "تو باید کمک کنی", "او باید برود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_910_es",
+    "word": "tener que",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to have to, must",
+      "de": "müssen",
+      "ar": "يجب أن",
+      "fr": "devoir",
+      "it": "dovere",
+      "ru": "должен, нужно",
+      "es": "tener que",
+      "pl": "musieć",
+      "fa": "مجبور بودن"
+    },
+    "explanations": {
+      "en": "Verbal expression indicating obligation or necessity to do something",
+      "de": "Verbaler Ausdruck für Verpflichtung oder Notwendigkeit, etwas zu tun",
+      "ar": "تعبير فعلي يشير إلى الالتزام أو الضرورة للقيام بشيء ما",
+      "fr": "Expression verbale indiquant l'obligation ou la nécessité de faire quelque chose",
+      "it": "Espressione verbale che indica obbligo o necessità di fare qualcosa",
+      "ru": "Глагольное выражение, указывающее на обязательство или необходимость что-то сделать",
+      "es": "Expresión verbal que indica obligación o necesidad de hacer algo",
+      "pl": "Wyrażenie czasownikowe wskazujące obowiązek lub konieczność zrobienia czegoś",
+      "fa": "عبارت فعلی که تعهد یا ضرورت انجام کاری را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have to go", "She must study", "We have to work"],
+      "de": ["Ich muss gehen", "Sie muss lernen", "Wir müssen arbeiten"],
+      "ar": ["يجب أن أذهب", "يجب أن تدرس", "يجب أن نعمل"],
+      "fr": ["Je dois partir", "Elle doit étudier", "Nous devons travailler"],
+      "it": ["Devo andare", "Lei deve studiare", "Dobbiamo lavorare"],
+      "ru": ["Я должен идти", "Она должна учиться", "Мы должны работать"],
+      "es": ["Yo tengo que ir", "Ella tiene que estudiar", "Nosotros tenemos que trabajar"],
+      "pl": ["Muszę iść", "Ona musi się uczyć", "Musimy pracować"],
+      "fa": ["من باید بروم", "او باید درس بخواند", "ما باید کار کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_911_es",
+    "word": "puede",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "can, he/she can",
+      "de": "kann, er/sie kann",
+      "ar": "يمكن، هو/هي يمكن",
+      "fr": "peut, il/elle peut",
+      "it": "può, lui/lei può",
+      "ru": "может, он/она может",
+      "es": "puede",
+      "pl": "może, on/ona może",
+      "fa": "می‌تواند، او می‌تواند"
+    },
+    "explanations": {
+      "en": "Third person singular conjugation of poder expressing ability or possibility",
+      "de": "Dritte Person Singular von poder für Fähigkeit oder Möglichkeit",
+      "ar": "صيغة المفرد الثالث من poder تعبر عن القدرة أو الإمكانية",
+      "fr": "Troisième personne du singulier de poder exprimant la capacité ou la possibilité",
+      "it": "Terza persona singolare di poder che esprime capacità o possibilità",
+      "ru": "Третье лицо единственного числа глагола poder, выражающее способность или возможность",
+      "es": "Tercera persona singular de poder que expresa habilidad o posibilidad",
+      "pl": "Trzecia osoba liczby pojedynczej od poder wyrażająca zdolność lub możliwość",
+      "fa": "سوم شخص مفرد فعل poder که توانایی یا امکان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["He can do it", "She can help you", "It can happen today"],
+      "de": ["Er kann es tun", "Sie kann dir helfen", "Es kann heute passieren"],
+      "ar": ["يمكنه فعل ذلك", "يمكنها مساعدتك", "يمكن أن يحدث اليوم"],
+      "fr": ["Il peut le faire", "Elle peut t'aider", "Ça peut arriver aujourd'hui"],
+      "it": ["Lui può farlo", "Lei può aiutarti", "Può succedere oggi"],
+      "ru": ["Он может это сделать", "Она может тебе помочь", "Это может случиться сегодня"],
+      "es": ["Él puede hacer esto", "Ella puede ayudarte", "Puede pasar hoy"],
+      "pl": ["On może to zrobić", "Ona może ci pomóc", "To może się dzisiaj wydarzyć"],
+      "fa": ["او می‌تواند این کار را انجام دهد", "او می‌تواند به تو کمک کند", "امروز می‌تواند اتفاق بیفتد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_912_es",
+    "word": "podría",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "could, might",
+      "de": "könnte",
+      "ar": "يمكن، قد",
+      "fr": "pourrait",
+      "it": "potrebbe",
+      "ru": "мог бы, может",
+      "es": "podría",
+      "pl": "mógłby",
+      "fa": "می‌توانست، شاید"
+    },
+    "explanations": {
+      "en": "Conditional form of poder expressing possibility or polite request",
+      "de": "Konditionalform von poder für Möglichkeit oder höfliche Bitte",
+      "ar": "صيغة الشرط من poder تعبر عن الإمكانية أو الطلب المهذب",
+      "fr": "Forme conditionnelle de poder exprimant la possibilité ou la demande polie",
+      "it": "Forma condizionale di poder che esprime possibilità o richiesta gentile",
+      "ru": "Условная форма глагола poder, выражающая возможность или вежливую просьбу",
+      "es": "Forma condicional de poder que expresa posibilidad o petición cortés",
+      "pl": "Forma warunkowa od poder wyrażająca możliwość lub uprzejmą prośbę",
+      "fa": "فرم شرطی فعل poder که امکان یا درخواست مؤدبانه را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I could help", "You could try this", "We could go tomorrow"],
+      "de": ["Ich könnte helfen", "Du könntest das versuchen", "Wir könnten morgen gehen"],
+      "ar": ["يمكنني المساعدة", "يمكنك تجربة هذا", "يمكننا الذهاب غداً"],
+      "fr": ["Je pourrais aider", "Tu pourrais essayer ceci", "Nous pourrions partir demain"],
+      "it": ["Potrei aiutare", "Potresti provare questo", "Potremmo andare domani"],
+      "ru": ["Я мог бы помочь", "Ты мог бы попробовать это", "Мы могли бы пойти завтра"],
+      "es": ["Yo podría ayudar", "Tú podrías intentar esto", "Nosotros podríamos ir mañana"],
+      "pl": ["Mógłbym pomóc", "Mógłbyś spróbować tego", "Moglibyśmy pójść jutro"],
+      "fa": ["من می‌توانستم کمک کنم", "تو می‌توانستی این را امتحان کنی", "ما می‌توانستیم فردا برویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_913_es",
+    "word": "debería",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "should, ought to",
+      "de": "sollte",
+      "ar": "يجب أن، ينبغي",
+      "fr": "devrait",
+      "it": "dovrebbe",
+      "ru": "следует, должен бы",
+      "es": "debería",
+      "pl": "powinien",
+      "fa": "باید، شایسته است"
+    },
+    "explanations": {
+      "en": "Conditional form of deber expressing recommendation or advice",
+      "de": "Konditionalform von deber für Empfehlung oder Rat",
+      "ar": "صيغة الشرط من deber تعبر عن التوصية أو النصيحة",
+      "fr": "Forme conditionnelle de deber exprimant la recommandation ou le conseil",
+      "it": "Forma condizionale di deber che esprime raccomandazione o consiglio",
+      "ru": "Условная форма глагола deber, выражающая рекомендацию или совет",
+      "es": "Forma condicional de deber que expresa recomendación o consejo",
+      "pl": "Forma warunkowa od deber wyrażająca rekomendację lub radę",
+      "fa": "فرم شرطی فعل deber که توصیه یا مشاوره را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I should study more", "You should rest today", "We should help them"],
+      "de": ["Ich sollte mehr lernen", "Du solltest heute ausruhen", "Wir sollten ihnen helfen"],
+      "ar": ["يجب أن أدرس أكثر", "يجب أن ترتاح اليوم", "يجب أن نساعدهم"],
+      "fr": ["Je devrais étudier plus", "Tu devrais te reposer aujourd'hui", "Nous devrions les aider"],
+      "it": ["Dovrei studiare di più", "Dovresti riposare oggi", "Dovremmo aiutarli"],
+      "ru": ["Мне следует больше учиться", "Тебе следует отдохнуть сегодня", "Нам следует им помочь"],
+      "es": ["Yo debería estudiar más", "Tú deberías descansar hoy", "Nosotros deberíamos ayudarlos"],
+      "pl": ["Powinienem więcej się uczyć", "Powinieneś dzisiaj odpocząć", "Powinniśmy im pomóc"],
+      "fa": ["من باید بیشتر درس بخوانم", "تو باید امروز استراحت کنی", "ما باید به آنها کمک کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_914_es",
+    "word": "capaz",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "capable, able",
+      "de": "fähig, imstande",
+      "ar": "قادر",
+      "fr": "capable",
+      "it": "capace",
+      "ru": "способный",
+      "es": "capaz",
+      "pl": "zdolny",
+      "fa": "قادر، توانا"
+    },
+    "explanations": {
+      "en": "Adjective expressing the ability or capacity to do something",
+      "de": "Adjektiv für die Fähigkeit oder Kapazität, etwas zu tun",
+      "ar": "صفة تعبر عن القدرة أو السعة للقيام بشيء ما",
+      "fr": "Adjectif exprimant la capacité ou l'aptitude à faire quelque chose",
+      "it": "Aggettivo che esprime la capacità o l'abilità di fare qualcosa",
+      "ru": "Прилагательное, выражающее способность или возможность что-то сделать",
+      "es": "Adjetivo que expresa la habilidad o capacidad para hacer algo",
+      "pl": "Przymiotnik wyrażający zdolność lub możliwość zrobienia czegoś",
+      "fa": "صفتی که توانایی یا ظرفیت انجام کاری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["She is very capable", "I am capable of learning", "They are capable people"],
+      "de": ["Sie ist sehr fähig", "Ich bin fähig zu lernen", "Sie sind fähige Leute"],
+      "ar": ["هي قادرة جداً", "أنا قادر على التعلم", "هم أشخاص أكفاء"],
+      "fr": ["Elle est très capable", "Je suis capable d'apprendre", "Ce sont des gens capables"],
+      "it": ["Lei è molto capace", "Sono capace di imparare", "Sono persone capaci"],
+      "ru": ["Она очень способная", "Я способен учиться", "Они способные люди"],
+      "es": ["Ella es muy capaz", "Yo soy capaz de aprender", "Ellos son personas capaces"],
+      "pl": ["Ona jest bardzo zdolna", "Jestem zdolny się uczyć", "Oni są zdolnymi ludźmi"],
+      "fa": ["او بسیار قادر است", "من قادر به یادگیری هستم", "آنها افراد قادری هستند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_915_es",
+    "word": "posible",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "possible",
+      "de": "möglich",
+      "ar": "ممكن",
+      "fr": "possible",
+      "it": "possibile",
+      "ru": "возможный",
+      "es": "posible",
+      "pl": "możliwy",
+      "fa": "ممکن"
+    },
+    "explanations": {
+      "en": "Adjective expressing that something can happen or be done",
+      "de": "Adjektiv dafür, dass etwas passieren oder getan werden kann",
+      "ar": "صفة تعبر عن أن شيئاً ما يمكن أن يحدث أو يتم",
+      "fr": "Adjectif exprimant que quelque chose peut arriver ou être fait",
+      "it": "Aggettivo che esprime che qualcosa può accadere o essere fatto",
+      "ru": "Прилагательное, выражающее, что что-то может произойти или быть сделано",
+      "es": "Adjetivo que expresa que algo puede suceder o hacerse",
+      "pl": "Przymiotnik wyrażający, że coś może się wydarzyć lub zostać zrobione",
+      "fa": "صفتی که بیان می‌کند چیزی می‌تواند اتفاق بیفتد یا انجام شود"
+    },
+    "examples": {
+      "en": ["It is possible", "Everything is possible", "Is it possible to go?"],
+      "de": ["Es ist möglich", "Alles ist möglich", "Ist es möglich zu gehen?"],
+      "ar": ["إنه ممكن", "كل شيء ممكن", "هل من الممكن الذهاب؟"],
+      "fr": ["C'est possible", "Tout est possible", "Est-il possible d'y aller?"],
+      "it": ["È possibile", "Tutto è possibile", "È possibile andare?"],
+      "ru": ["Это возможно", "Всё возможно", "Возможно ли пойти?"],
+      "es": ["Es posible", "Todo es posible", "¿Es posible ir?"],
+      "pl": ["To jest możliwe", "Wszystko jest możliwe", "Czy można iść?"],
+      "fa": ["ممکن است", "همه چیز ممکن است", "آیا رفتن ممکن است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_916_es",
+    "word": "imposible",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "impossible",
+      "de": "unmöglich",
+      "ar": "مستحيل",
+      "fr": "impossible",
+      "it": "impossibile",
+      "ru": "невозможный",
+      "es": "imposible",
+      "pl": "niemożliwy",
+      "fa": "غیرممکن"
+    },
+    "explanations": {
+      "en": "Adjective expressing that something cannot happen or be done",
+      "de": "Adjektiv dafür, dass etwas nicht passieren oder getan werden kann",
+      "ar": "صفة تعبر عن أن شيئاً ما لا يمكن أن يحدث أو يتم",
+      "fr": "Adjectif exprimant que quelque chose ne peut pas arriver ou être fait",
+      "it": "Aggettivo che esprime che qualcosa non può accadere o essere fatto",
+      "ru": "Прилагательное, выражающее, что что-то не может произойти или быть сделано",
+      "es": "Adjetivo que expresa que algo no puede suceder o hacerse",
+      "pl": "Przymiotnik wyrażający, że coś nie może się wydarzyć lub zostać zrobione",
+      "fa": "صفتی که بیان می‌کند چیزی نمی‌تواند اتفاق بیفتد یا انجام شود"
+    },
+    "examples": {
+      "en": ["It is impossible", "Nothing is impossible", "This seems impossible"],
+      "de": ["Es ist unmöglich", "Nichts ist unmöglich", "Das scheint unmöglich"],
+      "ar": ["إنه مستحيل", "لا شيء مستحيل", "هذا يبدو مستحيلاً"],
+      "fr": ["C'est impossible", "Rien n'est impossible", "Cela semble impossible"],
+      "it": ["È impossibile", "Niente è impossibile", "Questo sembra impossibile"],
+      "ru": ["Это невозможно", "Ничто не невозможно", "Это кажется невозможным"],
+      "es": ["Es imposible", "Nada es imposible", "Esto parece imposible"],
+      "pl": ["To jest niemożliwe", "Nic nie jest niemożliwe", "To wydaje się niemożliwe"],
+      "fa": ["غیرممکن است", "هیچ چیز غیرممکن نیست", "این غیرممکن به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_917_es",
+    "word": "difícil",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "difficult, hard",
+      "de": "schwierig, schwer",
+      "ar": "صعب",
+      "fr": "difficile",
+      "it": "difficile",
+      "ru": "трудный, сложный",
+      "es": "difícil",
+      "pl": "trudny",
+      "fa": "دشوار، سخت"
+    },
+    "explanations": {
+      "en": "Adjective expressing that something requires much effort or skill",
+      "de": "Adjektiv dafür, dass etwas viel Aufwand oder Geschick erfordert",
+      "ar": "صفة تعبر عن أن شيئاً ما يتطلب جهداً كبيراً أو مهارة",
+      "fr": "Adjectif exprimant que quelque chose nécessite beaucoup d'effort ou de compétence",
+      "it": "Aggettivo che esprime che qualcosa richiede molto sforzo o abilità",
+      "ru": "Прилагательное, выражающее, что что-то требует много усилий или навыков",
+      "es": "Adjetivo que expresa que algo requiere mucho esfuerzo o habilidad",
+      "pl": "Przymiotnik wyrażający, że coś wymaga dużego wysiłku lub umiejętności",
+      "fa": "صفتی که بیان می‌کند چیزی نیاز به تلاش یا مهارت زیادی دارد"
+    },
+    "examples": {
+      "en": ["This is difficult", "The test is very hard", "Learning is difficult sometimes"],
+      "de": ["Das ist schwierig", "Der Test ist sehr schwer", "Lernen ist manchmal schwierig"],
+      "ar": ["هذا صعب", "الاختبار صعب جداً", "التعلم صعب أحياناً"],
+      "fr": ["C'est difficile", "Le test est très dur", "Apprendre est difficile parfois"],
+      "it": ["Questo è difficile", "Il test è molto difficile", "Imparare è difficile a volte"],
+      "ru": ["Это трудно", "Тест очень сложный", "Учиться иногда трудно"],
+      "es": ["Esto es difícil", "El examen es muy difícil", "Aprender es difícil a veces"],
+      "pl": ["To jest trudne", "Test jest bardzo trudny", "Uczenie się jest czasami trudne"],
+      "fa": ["این دشوار است", "آزمون خیلی سخت است", "یادگیری گاهی دشوار است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_918_es",
+    "word": "fácil",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "easy",
+      "de": "leicht, einfach",
+      "ar": "سهل",
+      "fr": "facile",
+      "it": "facile",
+      "ru": "лёгкий, простой",
+      "es": "fácil",
+      "pl": "łatwy",
+      "fa": "آسان"
+    },
+    "explanations": {
+      "en": "Adjective expressing that something requires little effort or skill",
+      "de": "Adjektiv dafür, dass etwas wenig Aufwand oder Geschick erfordert",
+      "ar": "صفة تعبر عن أن شيئاً ما يتطلب جهداً قليلاً أو مهارة",
+      "fr": "Adjectif exprimant que quelque chose nécessite peu d'effort ou de compétence",
+      "it": "Aggettivo che esprime che qualcosa richiede poco sforzo o abilità",
+      "ru": "Прилагательное, выражающее, что что-то требует мало усилий или навыков",
+      "es": "Adjetivo que expresa que algo requiere poco esfuerzo o habilidad",
+      "pl": "Przymiotnik wyrażający, że coś wymaga niewielkiego wysiłku lub umiejętności",
+      "fa": "صفتی که بیان می‌کند چیزی نیاز به تلاش یا مهارت کمی دارد"
+    },
+    "examples": {
+      "en": ["This is easy", "The test is very easy", "It is easy to learn"],
+      "de": ["Das ist leicht", "Der Test ist sehr einfach", "Es ist leicht zu lernen"],
+      "ar": ["هذا سهل", "الاختبار سهل جداً", "من السهل التعلم"],
+      "fr": ["C'est facile", "Le test est très facile", "C'est facile d'apprendre"],
+      "it": ["Questo è facile", "Il test è molto facile", "È facile imparare"],
+      "ru": ["Это легко", "Тест очень лёгкий", "Легко учиться"],
+      "es": ["Esto es fácil", "El examen es muy fácil", "Es fácil aprender"],
+      "pl": ["To jest łatwe", "Test jest bardzo łatwy", "Łatwo się uczyć"],
+      "fa": ["این آسان است", "آزمون خیلی آسان است", "یادگیری آسان است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_919_es",
+    "word": "duro",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "hard, tough",
+      "de": "hart, schwer",
+      "ar": "صلب، قاسٍ",
+      "fr": "dur",
+      "it": "duro",
+      "ru": "твёрдый, тяжёлый",
+      "es": "duro",
+      "pl": "twardy",
+      "fa": "سخت، محکم"
+    },
+    "explanations": {
+      "en": "Adjective expressing hardness in texture or difficulty",
+      "de": "Adjektiv für Härte in der Textur oder Schwierigkeit",
+      "ar": "صفة تعبر عن الصلابة في الملمس أو الصعوبة",
+      "fr": "Adjectif exprimant la dureté dans la texture ou la difficulté",
+      "it": "Aggettivo che esprime durezza nella consistenza o difficoltà",
+      "ru": "Прилагательное, выражающее твёрдость в текстуре или трудность",
+      "es": "Adjetivo que expresa dureza en textura o dificultad",
+      "pl": "Przymiotnik wyrażający twardość w strukturze lub trudność",
+      "fa": "صفتی که سختی در بافت یا دشواری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["The work is hard", "This bread is very hard", "Life can be tough"],
+      "de": ["Die Arbeit ist hart", "Dieses Brot ist sehr hart", "Das Leben kann schwer sein"],
+      "ar": ["العمل صعب", "هذا الخبز صلب جداً", "الحياة يمكن أن تكون قاسية"],
+      "fr": ["Le travail est dur", "Ce pain est très dur", "La vie peut être dure"],
+      "it": ["Il lavoro è duro", "Questo pane è molto duro", "La vita può essere dura"],
+      "ru": ["Работа тяжёлая", "Этот хлеб очень твёрдый", "Жизнь может быть тяжёлой"],
+      "es": ["El trabajo es duro", "Este pan es muy duro", "La vida puede ser dura"],
+      "pl": ["Praca jest ciężka", "Ten chleb jest bardzo twardy", "Życie może być trudne"],
+      "fa": ["کار سخت است", "این نان خیلی سفت است", "زندگی می‌تواند سخت باشد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_920_es",
+    "word": "simple",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "simple",
+      "de": "einfach",
+      "ar": "بسيط",
+      "fr": "simple",
+      "it": "semplice",
+      "ru": "простой",
+      "es": "simple",
+      "pl": "prosty",
+      "fa": "ساده"
+    },
+    "explanations": {
+      "en": "Adjective expressing lack of complexity or ease of understanding",
+      "de": "Adjektiv für fehlende Komplexität oder leichte Verständlichkeit",
+      "ar": "صفة تعبر عن عدم التعقيد أو سهولة الفهم",
+      "fr": "Adjectif exprimant l'absence de complexité ou la facilité de compréhension",
+      "it": "Aggettivo che esprime mancanza di complessità o facilità di comprensione",
+      "ru": "Прилагательное, выражающее отсутствие сложности или лёгкость понимания",
+      "es": "Adjetivo que expresa falta de complejidad o facilidad de comprensión",
+      "pl": "Przymiotnik wyrażający brak złożoności lub łatwość zrozumienia",
+      "fa": "صفتی که فقدان پیچیدگی یا سهولت درک را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["It is very simple", "The solution is simple", "I like simple things"],
+      "de": ["Es ist sehr einfach", "Die Lösung ist einfach", "Ich mag einfache Dinge"],
+      "ar": ["إنه بسيط جداً", "الحل بسيط", "أحب الأشياء البسيطة"],
+      "fr": ["C'est très simple", "La solution est simple", "J'aime les choses simples"],
+      "it": ["È molto semplice", "La soluzione è semplice", "Mi piacciono le cose semplici"],
+      "ru": ["Это очень просто", "Решение простое", "Я люблю простые вещи"],
+      "es": ["Es muy simple", "La solución es simple", "Me gustan las cosas simples"],
+      "pl": ["To jest bardzo proste", "Rozwiązanie jest proste", "Lubię proste rzeczy"],
+      "fa": ["خیلی ساده است", "راه‌حل ساده است", "من چیزهای ساده را دوست دارم"]
+    },
+    "conjugations": null
+  }
+]

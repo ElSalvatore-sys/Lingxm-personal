@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_781_es",
+    "word": "amigo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "friend",
+      "de": "Freund",
+      "ar": "صديق",
+      "fr": "ami",
+      "it": "amico",
+      "ru": "друг",
+      "es": "amigo",
+      "pl": "przyjaciel",
+      "fa": "دوست"
+    },
+    "explanations": {
+      "en": "Person with whom one has mutual affection",
+      "de": "Person, mit der man gegenseitige Zuneigung hat",
+      "ar": "شخص لديه معه مودة متبادلة",
+      "fr": "Personne avec qui on a une affection mutuelle",
+      "it": "Persona con cui si ha affetto reciproco",
+      "ru": "Человек, с которым есть взаимная привязанность",
+      "es": "Persona con quien uno tiene afecto mutuo",
+      "pl": "Osoba, z którą ma się wzajemną sympatię",
+      "fa": "شخصی که با او محبت دوطرفه دارد"
+    },
+    "examples": {
+      "en": ["He is my friend", "I have many friends", "My friend is nice"],
+      "de": ["Er ist mein Freund", "Ich habe viele Freunde", "Mein Freund ist nett"],
+      "ar": ["هو صديقي", "لدي أصدقاء كثيرون", "صديقي لطيف"],
+      "fr": ["Il est mon ami", "J'ai beaucoup d'amis", "Mon ami est gentil"],
+      "it": ["Lui è il mio amico", "Ho molti amici", "Il mio amico è simpatico"],
+      "ru": ["Он мой друг", "У меня много друзей", "Мой друг хороший"],
+      "es": ["Él es mi amigo", "Yo tengo muchos amigos", "Mi amigo es bueno"],
+      "pl": ["On jest moim przyjacielem", "Mam wielu przyjaciół", "Mój przyjaciel jest miły"],
+      "fa": ["او دوست من است", "من دوستان زیادی دارم", "دوست من خوب است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_782_es",
+    "word": "encontrar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to find, to meet",
+      "de": "finden, treffen",
+      "ar": "يجد، يلتقي",
+      "fr": "trouver, rencontrer",
+      "it": "trovare, incontrare",
+      "ru": "находить, встречать",
+      "es": "encontrar",
+      "pl": "znaleźć, spotkać",
+      "fa": "پیدا کردن، ملاقات کردن"
+    },
+    "explanations": {
+      "en": "To discover or come across by chance or meet",
+      "de": "Entdecken oder zufällig treffen oder begegnen",
+      "ar": "اكتشاف أو مصادفة بالصدفة أو اللقاء",
+      "fr": "Découvrir ou rencontrer par hasard ou se rencontrer",
+      "it": "Scoprire o imbattersi per caso o incontrare",
+      "ru": "Обнаружить или встретить случайно или встретиться",
+      "es": "Descubrir o encontrarse por casualidad o reunirse",
+      "pl": "Odkryć lub natknąć się przypadkiem lub spotkać",
+      "fa": "کشف کردن یا تصادفی برخورد کردن یا ملاقات کردن"
+    },
+    "examples": {
+      "en": ["I find my book", "We meet at the park", "She finds good friends"],
+      "de": ["Ich finde mein Buch", "Wir treffen uns im Park", "Sie findet gute Freunde"],
+      "ar": ["أنا أجد كتابي", "نحن نلتقي في الحديقة", "هي تجد أصدقاء جيدين"],
+      "fr": ["Je trouve mon livre", "Nous nous rencontrons au parc", "Elle trouve de bons amis"],
+      "it": ["Trovo il mio libro", "Ci incontriamo al parco", "Lei trova buoni amici"],
+      "ru": ["Я нахожу свою книгу", "Мы встречаемся в парке", "Она находит хороших друзей"],
+      "es": ["Yo encuentro mi libro", "Nosotros nos encontramos en el parque", "Ella encuentra buenos amigos"],
+      "pl": ["Znajduję moją książkę", "Spotykamy się w parku", "Ona znajduje dobrych przyjaciół"],
+      "fa": ["من کتابم را پیدا می‌کنم", "ما در پارک ملاقات می‌کنیم", "او دوستان خوبی پیدا می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_783_es",
+    "word": "visitar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to visit",
+      "de": "besuchen",
+      "ar": "يزور",
+      "fr": "visiter, rendre visite",
+      "it": "visitare",
+      "ru": "посещать",
+      "es": "visitar",
+      "pl": "odwiedzać",
+      "fa": "دیدن، بازدید کردن"
+    },
+    "explanations": {
+      "en": "To go see person or place temporarily",
+      "de": "Eine Person oder einen Ort vorübergehend besuchen",
+      "ar": "الذهاب لرؤية شخص أو مكان مؤقتاً",
+      "fr": "Aller voir une personne ou un lieu temporairement",
+      "it": "Andare a vedere persona o luogo temporaneamente",
+      "ru": "Навестить человека или место временно",
+      "es": "Ir a ver persona o lugar temporalmente",
+      "pl": "Odwiedzić osobę lub miejsce tymczasowo",
+      "fa": "رفتن برای دیدن شخص یا مکان موقتاً"
+    },
+    "examples": {
+      "en": ["I visit my friend", "We visit the museum", "She visits her family"],
+      "de": ["Ich besuche meinen Freund", "Wir besuchen das Museum", "Sie besucht ihre Familie"],
+      "ar": ["أنا أزور صديقي", "نحن نزور المتحف", "هي تزور عائلتها"],
+      "fr": ["Je rends visite à mon ami", "Nous visitons le musée", "Elle rend visite à sa famille"],
+      "it": ["Visito il mio amico", "Visitiamo il museo", "Lei visita la sua famiglia"],
+      "ru": ["Я навещаю своего друга", "Мы посещаем музей", "Она навещает свою семью"],
+      "es": ["Yo visito a mi amigo", "Nosotros visitamos el museo", "Ella visita a su familia"],
+      "pl": ["Odwiedzam mojego przyjaciela", "Odwiedzamy muzeum", "Ona odwiedza swoją rodzinę"],
+      "fa": ["من دوستم را می‌بینم", "ما از موزه بازدید می‌کنیم", "او خانواده‌اش را می‌بیند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_784_es",
+    "word": "invitar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to invite",
+      "de": "einladen",
+      "ar": "يدعو",
+      "fr": "inviter",
+      "it": "invitare",
+      "ru": "приглашать",
+      "es": "invitar",
+      "pl": "zapraszać",
+      "fa": "دعوت کردن"
+    },
+    "explanations": {
+      "en": "To request someone's presence at event or place",
+      "de": "Jemandes Anwesenheit bei Ereignis oder Ort erbitten",
+      "ar": "طلب حضور شخص ما في حدث أو مكان",
+      "fr": "Demander la présence de quelqu'un à un événement ou lieu",
+      "it": "Richiedere la presenza di qualcuno a evento o luogo",
+      "ru": "Попросить чьего-то присутствия на событии или месте",
+      "es": "Solicitar la presencia de alguien en evento o lugar",
+      "pl": "Poprosić o czyjaś obecność na wydarzeniu lub miejscu",
+      "fa": "درخواست حضور کسی در رویداد یا مکان"
+    },
+    "examples": {
+      "en": ["I invite my friends", "She invites me today", "We invite you home"],
+      "de": ["Ich lade meine Freunde ein", "Sie lädt mich heute ein", "Wir laden dich nach Hause ein"],
+      "ar": ["أنا أدعو أصدقائي", "هي تدعوني اليوم", "نحن ندعوك إلى المنزل"],
+      "fr": ["J'invite mes amis", "Elle m'invite aujourd'hui", "Nous t'invitons à la maison"],
+      "it": ["Invito i miei amici", "Lei mi invita oggi", "Ti invitiamo a casa"],
+      "ru": ["Я приглашаю своих друзей", "Она приглашает меня сегодня", "Мы приглашаем тебя домой"],
+      "es": ["Yo invito a mis amigos", "Ella me invita hoy", "Nosotros te invitamos a casa"],
+      "pl": ["Zapraszam moich przyjaciół", "Ona zaprasza mnie dziś", "Zapraszamy cię do domu"],
+      "fa": ["من دوستانم را دعوت می‌کنم", "او امروز من را دعوت می‌کند", "ما تو را به خانه دعوت می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_785_es",
+    "word": "fiesta",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "party, celebration",
+      "de": "Party, Feier",
+      "ar": "حفلة، احتفال",
+      "fr": "fête, célébration",
+      "it": "festa, celebrazione",
+      "ru": "вечеринка, праздник",
+      "es": "fiesta",
+      "pl": "przyjęcie, uroczystość",
+      "fa": "مهمانی، جشن"
+    },
+    "explanations": {
+      "en": "Social gathering for celebration and enjoyment",
+      "de": "Soziale Zusammenkunft zum Feiern und Genießen",
+      "ar": "تجمع اجتماعي للاحتفال والاستمتاع",
+      "fr": "Rassemblement social pour célébration et plaisir",
+      "it": "Raduno sociale per celebrazione e divertimento",
+      "ru": "Социальное собрание для празднования и наслаждения",
+      "es": "Reunión social para celebración y disfrute",
+      "pl": "Spotkanie towarzyskie dla świętowania i zabawy",
+      "fa": "جمع اجتماعی برای جشن و لذت"
+    },
+    "examples": {
+      "en": ["The party is fun", "I go to the party", "We have a big celebration"],
+      "de": ["Die Party ist lustig", "Ich gehe zur Party", "Wir haben eine große Feier"],
+      "ar": ["الحفلة ممتعة", "أنا أذهب إلى الحفلة", "لدينا احتفال كبير"],
+      "fr": ["La fête est amusante", "Je vais à la fête", "Nous avons une grande célébration"],
+      "it": ["La festa è divertente", "Vado alla festa", "Abbiamo una grande celebrazione"],
+      "ru": ["Вечеринка весёлая", "Я иду на вечеринку", "У нас большой праздник"],
+      "es": ["La fiesta es divertida", "Yo voy a la fiesta", "Nosotros tenemos una gran celebración"],
+      "pl": ["Przyjęcie jest zabawne", "Idę na przyjęcie", "Mamy wielką uroczystość"],
+      "fa": ["مهمانی سرگرم‌کننده است", "من به مهمانی می‌روم", "ما جشن بزرگی داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_786_es",
+    "word": "celebrar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to celebrate",
+      "de": "feiern",
+      "ar": "يحتفل",
+      "fr": "célébrer",
+      "it": "celebrare",
+      "ru": "праздновать",
+      "es": "celebrar",
+      "pl": "świętować",
+      "fa": "جشن گرفتن"
+    },
+    "explanations": {
+      "en": "To mark special occasion with enjoyable activity",
+      "de": "Besonderen Anlass mit angenehmer Aktivität begehen",
+      "ar": "الاحتفال بمناسبة خاصة بنشاط ممتع",
+      "fr": "Marquer une occasion spéciale avec une activité agréable",
+      "it": "Festeggiare occasione speciale con attività piacevole",
+      "ru": "Отмечать особый случай приятной деятельностью",
+      "es": "Marcar ocasión especial con actividad agradable",
+      "pl": "Świętować specjalną okazję przyjemną aktywnością",
+      "fa": "جشن گرفتن مناسبت خاص با فعالیت لذت‌بخش"
+    },
+    "examples": {
+      "en": ["We celebrate today", "I celebrate my birthday", "They celebrate Christmas"],
+      "de": ["Wir feiern heute", "Ich feiere meinen Geburtstag", "Sie feiern Weihnachten"],
+      "ar": ["نحن نحتفل اليوم", "أنا أحتفل بعيد ميلادي", "هم يحتفلون بعيد الميلاد"],
+      "fr": ["Nous célébrons aujourd'hui", "Je célèbre mon anniversaire", "Ils célèbrent Noël"],
+      "it": ["Celebriamo oggi", "Celebro il mio compleanno", "Loro celebrano Natale"],
+      "ru": ["Мы празднуем сегодня", "Я праздную свой день рождения", "Они празднуют Рождество"],
+      "es": ["Nosotros celebramos hoy", "Yo celebro mi cumpleaños", "Ellos celebran la Navidad"],
+      "pl": ["Świętujemy dziś", "Świętuję moje urodziny", "Oni świętują Boże Narodzenie"],
+      "fa": ["ما امروز جشن می‌گیریم", "من تولدم را جشن می‌گیرم", "آنها کریسمس را جشن می‌گیرند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_787_es",
+    "word": "regalo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "gift, present",
+      "de": "Geschenk",
+      "ar": "هدية",
+      "fr": "cadeau",
+      "it": "regalo",
+      "ru": "подарок",
+      "es": "regalo",
+      "pl": "prezent",
+      "fa": "هدیه"
+    },
+    "explanations": {
+      "en": "Thing given to someone without payment",
+      "de": "Sache, die jemandem ohne Bezahlung gegeben wird",
+      "ar": "شيء يُعطى لشخص ما دون دفع",
+      "fr": "Chose donnée à quelqu'un sans paiement",
+      "it": "Cosa data a qualcuno senza pagamento",
+      "ru": "Вещь, данная кому-то без оплаты",
+      "es": "Cosa dada a alguien sin pago",
+      "pl": "Rzecz dana komuś bez płatności",
+      "fa": "چیزی که بدون پرداخت به کسی داده می‌شود"
+    },
+    "examples": {
+      "en": ["This is a gift", "I give you a present", "She likes her gift"],
+      "de": ["Das ist ein Geschenk", "Ich gebe dir ein Geschenk", "Sie mag ihr Geschenk"],
+      "ar": ["هذه هدية", "أنا أعطيك هدية", "هي تحب هديتها"],
+      "fr": ["C'est un cadeau", "Je te donne un cadeau", "Elle aime son cadeau"],
+      "it": ["Questo è un regalo", "Ti do un regalo", "Lei ama il suo regalo"],
+      "ru": ["Это подарок", "Я дарю тебе подарок", "Ей нравится её подарок"],
+      "es": ["Este es un regalo", "Yo te doy un regalo", "A ella le gusta su regalo"],
+      "pl": ["To jest prezent", "Daję ci prezent", "Ona lubi swój prezent"],
+      "fa": ["این یک هدیه است", "من به تو هدیه می‌دهم", "او هدیه‌اش را دوست دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_788_es",
+    "word": "diversión",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "fun, amusement",
+      "de": "Spaß, Vergnügen",
+      "ar": "متعة، تسلية",
+      "fr": "amusement, divertissement",
+      "it": "divertimento",
+      "ru": "веселье, развлечение",
+      "es": "diversión",
+      "pl": "zabawa, rozrywka",
+      "fa": "سرگرمی، تفریح"
+    },
+    "explanations": {
+      "en": "Enjoyment or lighthearted pleasure",
+      "de": "Genuss oder unbeschwerte Freude",
+      "ar": "استمتاع أو متعة خفيفة",
+      "fr": "Plaisir ou amusement léger",
+      "it": "Godimento o piacere spensierato",
+      "ru": "Удовольствие или беззаботное веселье",
+      "es": "Disfrute o placer desenfadado",
+      "pl": "Przyjemność lub beztroska zabawa",
+      "fa": "لذت یا سرگرمی بی‌دغدغه"
+    },
+    "examples": {
+      "en": ["This is fun", "I have much amusement", "The party has good fun"],
+      "de": ["Das ist Spaß", "Ich habe viel Vergnügen", "Die Party hat guten Spaß"],
+      "ar": ["هذا ممتع", "لدي الكثير من التسلية", "الحفلة فيها متعة جيدة"],
+      "fr": ["C'est amusant", "J'ai beaucoup d'amusement", "La fête a bon amusement"],
+      "it": ["Questo è divertente", "Ho molto divertimento", "La festa ha buon divertimento"],
+      "ru": ["Это весело", "У меня много веселья", "На вечеринке хорошее веселье"],
+      "es": ["Esto es divertido", "Yo tengo mucha diversión", "La fiesta tiene buena diversión"],
+      "pl": ["To jest zabawne", "Mam dużo zabawy", "Przyjęcie ma dobrą zabawę"],
+      "fa": ["این سرگرم‌کننده است", "من سرگرمی زیادی دارم", "مهمانی سرگرمی خوبی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_789_es",
+    "word": "disfrutar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to enjoy",
+      "de": "genießen",
+      "ar": "يستمتع",
+      "fr": "profiter, apprécier",
+      "it": "godere, divertirsi",
+      "ru": "наслаждаться",
+      "es": "disfrutar",
+      "pl": "cieszyć się",
+      "fa": "لذت بردن"
+    },
+    "explanations": {
+      "en": "To take pleasure or satisfaction in something",
+      "de": "Freude oder Zufriedenheit an etwas haben",
+      "ar": "الحصول على المتعة أو الرضا من شيء ما",
+      "fr": "Prendre plaisir ou satisfaction dans quelque chose",
+      "it": "Trarre piacere o soddisfazione da qualcosa",
+      "ru": "Получать удовольствие или удовлетворение от чего-то",
+      "es": "Obtener placer o satisfacción en algo",
+      "pl": "Czerpać przyjemność lub satysfakcję z czegoś",
+      "fa": "لذت یا رضایت از چیزی بردن"
+    },
+    "examples": {
+      "en": ["I enjoy this music", "We enjoy the party", "She enjoys her vacation"],
+      "de": ["Ich genieße diese Musik", "Wir genießen die Party", "Sie genießt ihren Urlaub"],
+      "ar": ["أنا أستمتع بهذه الموسيقى", "نحن نستمتع بالحفلة", "هي تستمتع بعطلتها"],
+      "fr": ["J'apprécie cette musique", "Nous profitons de la fête", "Elle profite de ses vacances"],
+      "it": ["Mi piace questa musica", "Godiamo la festa", "Lei gode le sue vacanze"],
+      "ru": ["Мне нравится эта музыка", "Мы наслаждаемся вечеринкой", "Она наслаждается своим отпуском"],
+      "es": ["Yo disfruto esta música", "Nosotros disfrutamos la fiesta", "Ella disfruta sus vacaciones"],
+      "pl": ["Lubię tę muzykę", "Cieszymy się przyjęciem", "Ona cieszy się swoimi wakacjami"],
+      "fa": ["من از این موسیقی لذت می‌برم", "ما از مهمانی لذت می‌بریم", "او از تعطیلاتش لذت می‌برد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_790_es",
+    "word": "entretenimiento",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "entertainment",
+      "de": "Unterhaltung",
+      "ar": "ترفيه",
+      "fr": "divertissement",
+      "it": "intrattenimento",
+      "ru": "развлечение",
+      "es": "entretenimiento",
+      "pl": "rozrywka",
+      "fa": "سرگرمی"
+    },
+    "explanations": {
+      "en": "Activity providing amusement or enjoyment",
+      "de": "Aktivität, die Vergnügen oder Genuss bietet",
+      "ar": "نشاط يوفر التسلية أو الاستمتاع",
+      "fr": "Activité procurant amusement ou plaisir",
+      "it": "Attività che fornisce divertimento o godimento",
+      "ru": "Деятельность, обеспечивающая веселье или удовольствие",
+      "es": "Actividad que proporciona diversión o disfrute",
+      "pl": "Aktywność zapewniająca rozrywkę lub przyjemność",
+      "fa": "فعالیتی که سرگرمی یا لذت فراهم می‌کند"
+    },
+    "examples": {
+      "en": ["This is good entertainment", "I like this entertainment", "The show has much entertainment"],
+      "de": ["Das ist gute Unterhaltung", "Ich mag diese Unterhaltung", "Die Show hat viel Unterhaltung"],
+      "ar": ["هذا ترفيه جيد", "أنا أحب هذا الترفيه", "العرض لديه ترفيه كثير"],
+      "fr": ["C'est bon divertissement", "J'aime ce divertissement", "Le spectacle a beaucoup de divertissement"],
+      "it": ["Questo è buon intrattenimento", "Mi piace questo intrattenimento", "Lo spettacolo ha molto intrattenimento"],
+      "ru": ["Это хорошее развлечение", "Мне нравится это развлечение", "В шоу много развлечений"],
+      "es": ["Este es buen entretenimiento", "Me gusta este entretenimiento", "El show tiene mucho entretenimiento"],
+      "pl": ["To jest dobra rozrywka", "Lubię tę rozrywkę", "Przedstawienie ma dużo rozrywki"],
+      "fa": ["این سرگرمی خوبی است", "من این سرگرمی را دوست دارم", "نمایش سرگرمی زیادی دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_791_es",
+    "word": "música",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "music",
+      "de": "Musik",
+      "ar": "موسيقى",
+      "fr": "musique",
+      "it": "musica",
+      "ru": "музыка",
+      "es": "música",
+      "pl": "muzyka",
+      "fa": "موسیقی"
+    },
+    "explanations": {
+      "en": "Art of combining sounds in pleasing way",
+      "de": "Kunst, Klänge auf angenehme Weise zu kombinieren",
+      "ar": "فن الجمع بين الأصوات بطريقة ممتعة",
+      "fr": "Art de combiner des sons de manière agréable",
+      "it": "Arte di combinare suoni in modo piacevole",
+      "ru": "Искусство комбинирования звуков приятным образом",
+      "es": "Arte de combinar sonidos de manera agradable",
+      "pl": "Sztuka łączenia dźwięków w przyjemny sposób",
+      "fa": "هنر ترکیب صداها به شیوه‌ای دلپذیر"
+    },
+    "examples": {
+      "en": ["I like music", "This music is beautiful", "We listen to music"],
+      "de": ["Ich mag Musik", "Diese Musik ist schön", "Wir hören Musik"],
+      "ar": ["أنا أحب الموسيقى", "هذه الموسيقى جميلة", "نحن نستمع للموسيقى"],
+      "fr": ["J'aime la musique", "Cette musique est belle", "Nous écoutons de la musique"],
+      "it": ["Mi piace la musica", "Questa musica è bella", "Ascoltiamo musica"],
+      "ru": ["Я люблю музыку", "Эта музыка красивая", "Мы слушаем музыку"],
+      "es": ["Me gusta la música", "Esta música es bonita", "Nosotros escuchamos música"],
+      "pl": ["Lubię muzykę", "Ta muzyka jest piękna", "Słuchamy muzyki"],
+      "fa": ["من موسیقی دوست دارم", "این موسیقی زیباست", "ما به موسیقی گوش می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_792_es",
+    "word": "canción",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "song",
+      "de": "Lied",
+      "ar": "أغنية",
+      "fr": "chanson",
+      "it": "canzone",
+      "ru": "песня",
+      "es": "canción",
+      "pl": "piosenka",
+      "fa": "آهنگ"
+    },
+    "explanations": {
+      "en": "Short piece of music with words",
+      "de": "Kurzes Musikstück mit Worten",
+      "ar": "قطعة موسيقية قصيرة مع كلمات",
+      "fr": "Morceau de musique court avec des paroles",
+      "it": "Breve pezzo di musica con parole",
+      "ru": "Короткое музыкальное произведение со словами",
+      "es": "Pieza corta de música con palabras",
+      "pl": "Krótki utwór muzyczny ze słowami",
+      "fa": "قطعه کوتاه موسیقی با کلمات"
+    },
+    "examples": {
+      "en": ["I like this song", "She sings a song", "This is my favorite song"],
+      "de": ["Ich mag dieses Lied", "Sie singt ein Lied", "Das ist mein Lieblingslied"],
+      "ar": ["أنا أحب هذه الأغنية", "هي تغني أغنية", "هذه أغنيتي المفضلة"],
+      "fr": ["J'aime cette chanson", "Elle chante une chanson", "C'est ma chanson préférée"],
+      "it": ["Mi piace questa canzone", "Lei canta una canzone", "Questa è la mia canzone preferita"],
+      "ru": ["Мне нравится эта песня", "Она поёт песню", "Это моя любимая песня"],
+      "es": ["Me gusta esta canción", "Ella canta una canción", "Esta es mi canción favorita"],
+      "pl": ["Lubię tę piosenkę", "Ona śpiewa piosenkę", "To jest moja ulubiona piosenka"],
+      "fa": ["من این آهنگ را دوست دارم", "او آهنگ می‌خواند", "این آهنگ محبوب من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_793_es",
+    "word": "baile",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "dance, dancing",
+      "de": "Tanz",
+      "ar": "رقص",
+      "fr": "danse",
+      "it": "ballo, danza",
+      "ru": "танец",
+      "es": "baile",
+      "pl": "taniec",
+      "fa": "رقص"
+    },
+    "explanations": {
+      "en": "Movement of body rhythmically to music",
+      "de": "Rhythmische Körperbewegung zur Musik",
+      "ar": "حركة الجسم بإيقاع للموسيقى",
+      "fr": "Mouvement du corps rythmiquement avec la musique",
+      "it": "Movimento del corpo ritmicamente con la musica",
+      "ru": "Ритмичное движение тела под музыку",
+      "es": "Movimiento del cuerpo rítmicamente con música",
+      "pl": "Ruch ciała rytmicznie do muzyki",
+      "fa": "حرکت موزون بدن با موسیقی"
+    },
+    "examples": {
+      "en": ["I like to dance", "This dance is fun", "We go to the dance"],
+      "de": ["Ich tanze gern", "Dieser Tanz ist lustig", "Wir gehen zum Tanz"],
+      "ar": ["أنا أحب الرقص", "هذا الرقص ممتع", "نحن نذهب إلى الرقص"],
+      "fr": ["J'aime danser", "Cette danse est amusante", "Nous allons à la danse"],
+      "it": ["Mi piace ballare", "Questo ballo è divertente", "Andiamo al ballo"],
+      "ru": ["Я люблю танцевать", "Этот танец весёлый", "Мы идём на танцы"],
+      "es": ["Me gusta bailar", "Este baile es divertido", "Nosotros vamos al baile"],
+      "pl": ["Lubię tańczyć", "Ten taniec jest zabawny", "Idziemy na taniec"],
+      "fa": ["من رقصیدن را دوست دارم", "این رقص سرگرم‌کننده است", "ما به رقص می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_794_es",
+    "word": "jugar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to play",
+      "de": "spielen",
+      "ar": "يلعب",
+      "fr": "jouer",
+      "it": "giocare",
+      "ru": "играть",
+      "es": "jugar",
+      "pl": "grać, bawić się",
+      "fa": "بازی کردن"
+    },
+    "explanations": {
+      "en": "To engage in activity for enjoyment",
+      "de": "Sich an Aktivität zum Vergnügen beteiligen",
+      "ar": "الانخراط في نشاط للاستمتاع",
+      "fr": "S'engager dans une activité pour le plaisir",
+      "it": "Impegnarsi in attività per divertimento",
+      "ru": "Заниматься деятельностью для удовольствия",
+      "es": "Participar en actividad para disfrute",
+      "pl": "Angażować się w aktywność dla przyjemności",
+      "fa": "شرکت در فعالیت برای لذت"
+    },
+    "examples": {
+      "en": ["I play football", "Children like to play", "We play together"],
+      "de": ["Ich spiele Fußball", "Kinder spielen gern", "Wir spielen zusammen"],
+      "ar": ["أنا ألعب كرة القدم", "الأطفال يحبون اللعب", "نحن نلعب معاً"],
+      "fr": ["Je joue au football", "Les enfants aiment jouer", "Nous jouons ensemble"],
+      "it": ["Gioco a calcio", "I bambini amano giocare", "Giochiamo insieme"],
+      "ru": ["Я играю в футбол", "Дети любят играть", "Мы играем вместе"],
+      "es": ["Yo juego al fútbol", "A los niños les gusta jugar", "Nosotros jugamos juntos"],
+      "pl": ["Gram w piłkę nożną", "Dzieci lubią się bawić", "Gramy razem"],
+      "fa": ["من فوتبال بازی می‌کنم", "بچه‌ها دوست دارند بازی کنند", "ما با هم بازی می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_795_es",
+    "word": "juego",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "game, play",
+      "de": "Spiel",
+      "ar": "لعبة",
+      "fr": "jeu",
+      "it": "gioco",
+      "ru": "игра",
+      "es": "juego",
+      "pl": "gra, zabawa",
+      "fa": "بازی"
+    },
+    "explanations": {
+      "en": "Activity with rules for entertainment or competition",
+      "de": "Aktivität mit Regeln für Unterhaltung oder Wettbewerb",
+      "ar": "نشاط بقواعد للترفيه أو المنافسة",
+      "fr": "Activité avec règles pour divertissement ou compétition",
+      "it": "Attività con regole per intrattenimento o competizione",
+      "ru": "Деятельность с правилами для развлечения или соревнования",
+      "es": "Actividad con reglas para entretenimiento o competencia",
+      "pl": "Aktywność z zasadami dla rozrywki lub rywalizacji",
+      "fa": "فعالیتی با قوانین برای سرگرمی یا مسابقه"
+    },
+    "examples": {
+      "en": ["This is a fun game", "I like this game", "We play a game"],
+      "de": ["Das ist ein lustiges Spiel", "Ich mag dieses Spiel", "Wir spielen ein Spiel"],
+      "ar": ["هذه لعبة ممتعة", "أنا أحب هذه اللعبة", "نحن نلعب لعبة"],
+      "fr": ["C'est un jeu amusant", "J'aime ce jeu", "Nous jouons à un jeu"],
+      "it": ["Questo è un gioco divertente", "Mi piace questo gioco", "Giochiamo un gioco"],
+      "ru": ["Это весёлая игра", "Мне нравится эта игра", "Мы играем в игру"],
+      "es": ["Este es un juego divertido", "Me gusta este juego", "Nosotros jugamos un juego"],
+      "pl": ["To jest zabawna gra", "Lubię tę grę", "Gramy w grę"],
+      "fa": ["این یک بازی سرگرم‌کننده است", "من این بازی را دوست دارم", "ما یک بازی انجام می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_796_es",
+    "word": "deporte",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "sport",
+      "de": "Sport",
+      "ar": "رياضة",
+      "fr": "sport",
+      "it": "sport",
+      "ru": "спорт",
+      "es": "deporte",
+      "pl": "sport",
+      "fa": "ورزش"
+    },
+    "explanations": {
+      "en": "Physical activity involving skill and competition",
+      "de": "Körperliche Aktivität mit Geschick und Wettbewerb",
+      "ar": "نشاط بدني يتضمن المهارة والمنافسة",
+      "fr": "Activité physique impliquant habileté et compétition",
+      "it": "Attività fisica che coinvolge abilità e competizione",
+      "ru": "Физическая деятельность, включающая навык и соревнование",
+      "es": "Actividad física que involucra habilidad y competencia",
+      "pl": "Aktywność fizyczna obejmująca umiejętności i rywalizację",
+      "fa": "فعالیت بدنی شامل مهارت و رقابت"
+    },
+    "examples": {
+      "en": ["I like this sport", "Football is a sport", "We play sports today"],
+      "de": ["Ich mag diesen Sport", "Fußball ist ein Sport", "Wir machen heute Sport"],
+      "ar": ["أنا أحب هذه الرياضة", "كرة القدم رياضة", "نحن نلعب الرياضة اليوم"],
+      "fr": ["J'aime ce sport", "Le football est un sport", "Nous faisons du sport aujourd'hui"],
+      "it": ["Mi piace questo sport", "Il calcio è uno sport", "Facciamo sport oggi"],
+      "ru": ["Мне нравится этот спорт", "Футбол это спорт", "Мы занимаемся спортом сегодня"],
+      "es": ["Me gusta este deporte", "El fútbol es un deporte", "Nosotros hacemos deportes hoy"],
+      "pl": ["Lubię ten sport", "Piłka nożna to sport", "Uprawiamy sport dziś"],
+      "fa": ["من این ورزش را دوست دارم", "فوتبال یک ورزش است", "ما امروز ورزش می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_797_es",
+    "word": "equipo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "team, equipment",
+      "de": "Team, Ausrüstung",
+      "ar": "فريق، معدات",
+      "fr": "équipe, équipement",
+      "it": "squadra, attrezzatura",
+      "ru": "команда, оборудование",
+      "es": "equipo",
+      "pl": "zespół, sprzęt",
+      "fa": "تیم، تجهیزات"
+    },
+    "explanations": {
+      "en": "Group working together or tools for activity",
+      "de": "Gruppe, die zusammenarbeitet oder Werkzeuge für Aktivität",
+      "ar": "مجموعة تعمل معاً أو أدوات للنشاط",
+      "fr": "Groupe travaillant ensemble ou outils pour activité",
+      "it": "Gruppo che lavora insieme o strumenti per attività",
+      "ru": "Группа, работающая вместе или инструменты для деятельности",
+      "es": "Grupo trabajando juntos o herramientas para actividad",
+      "pl": "Grupa pracująca razem lub narzędzia do działania",
+      "fa": "گروهی که با هم کار می‌کنند یا ابزار برای فعالیت"
+    },
+    "examples": {
+      "en": ["My team is good", "I have the equipment", "Our team plays today"],
+      "de": ["Mein Team ist gut", "Ich habe die Ausrüstung", "Unser Team spielt heute"],
+      "ar": ["فريقي جيد", "لدي المعدات", "فريقنا يلعب اليوم"],
+      "fr": ["Mon équipe est bonne", "J'ai l'équipement", "Notre équipe joue aujourd'hui"],
+      "it": ["La mia squadra è buona", "Ho l'attrezzatura", "La nostra squadra gioca oggi"],
+      "ru": ["Моя команда хорошая", "У меня есть оборудование", "Наша команда играет сегодня"],
+      "es": ["Mi equipo es bueno", "Yo tengo el equipo", "Nuestro equipo juega hoy"],
+      "pl": ["Mój zespół jest dobry", "Mam sprzęt", "Nasz zespół gra dziś"],
+      "fa": ["تیم من خوب است", "من تجهیزات دارم", "تیم ما امروز بازی می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_798_es",
+    "word": "ganar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to win, to earn",
+      "de": "gewinnen, verdienen",
+      "ar": "يفوز، يكسب",
+      "fr": "gagner",
+      "it": "vincere, guadagnare",
+      "ru": "выигрывать, зарабатывать",
+      "es": "ganar",
+      "pl": "wygrywać, zarabiać",
+      "fa": "برنده شدن، درآمد داشتن"
+    },
+    "explanations": {
+      "en": "To achieve victory or obtain money through work",
+      "de": "Sieg erreichen oder Geld durch Arbeit erhalten",
+      "ar": "تحقيق النصر أو الحصول على المال من خلال العمل",
+      "fr": "Remporter victoire ou obtenir argent par le travail",
+      "it": "Ottenere vittoria o ottenere denaro tramite lavoro",
+      "ru": "Достичь победы или получить деньги через работу",
+      "es": "Lograr victoria u obtener dinero mediante trabajo",
+      "pl": "Osiągnąć zwycięstwo lub zdobyć pieniądze przez pracę",
+      "fa": "رسیدن به پیروزی یا به دست آوردن پول از طریق کار"
+    },
+    "examples": {
+      "en": ["We win the game", "I earn good money", "Our team wins today"],
+      "de": ["Wir gewinnen das Spiel", "Ich verdiene gutes Geld", "Unser Team gewinnt heute"],
+      "ar": ["نحن نفوز باللعبة", "أنا أكسب مالاً جيداً", "فريقنا يفوز اليوم"],
+      "fr": ["Nous gagnons le jeu", "Je gagne bien ma vie", "Notre équipe gagne aujourd'hui"],
+      "it": ["Vinciamo il gioco", "Guadagno buoni soldi", "La nostra squadra vince oggi"],
+      "ru": ["Мы выигрываем игру", "Я зарабатываю хорошие деньги", "Наша команда выигрывает сегодня"],
+      "es": ["Nosotros ganamos el juego", "Yo gano buen dinero", "Nuestro equipo gana hoy"],
+      "pl": ["Wygrywamy grę", "Zarabiam dobre pieniądze", "Nasz zespół wygrywa dziś"],
+      "fa": ["ما بازی را می‌بریم", "من پول خوبی درمی‌آورم", "تیم ما امروز می‌برد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_799_es",
+    "word": "perder",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to lose",
+      "de": "verlieren",
+      "ar": "يخسر، يضيع",
+      "fr": "perdre",
+      "it": "perdere",
+      "ru": "терять, проигрывать",
+      "es": "perder",
+      "pl": "przegrywać, gubić",
+      "fa": "باختن، گم کردن"
+    },
+    "explanations": {
+      "en": "To fail to win or be unable to find",
+      "de": "Nicht gewinnen oder nicht finden können",
+      "ar": "الفشل في الفوز أو عدم القدرة على العثور",
+      "fr": "Échouer à gagner ou être incapable de trouver",
+      "it": "Non riuscire a vincere o non riuscire a trovare",
+      "ru": "Не суметь выиграть или не суметь найти",
+      "es": "No lograr ganar o no poder encontrar",
+      "pl": "Nie wygrać lub nie móc znaleźć",
+      "fa": "شکست خوردن یا نتوانستن پیدا کردن"
+    },
+    "examples": {
+      "en": ["We lose the game", "I lose my keys", "Don't lose this book"],
+      "de": ["Wir verlieren das Spiel", "Ich verliere meine Schlüssel", "Verliere dieses Buch nicht"],
+      "ar": ["نحن نخسر اللعبة", "أنا أضيع مفاتيحي", "لا تضيع هذا الكتاب"],
+      "fr": ["Nous perdons le jeu", "Je perds mes clés", "Ne perds pas ce livre"],
+      "it": ["Perdiamo il gioco", "Perdo le mie chiavi", "Non perdere questo libro"],
+      "ru": ["Мы проигрываем игру", "Я теряю свои ключи", "Не теряй эту книгу"],
+      "es": ["Nosotros perdemos el juego", "Yo pierdo mis llaves", "No pierdas este libro"],
+      "pl": ["Przegrywamy grę", "Gubię moje klucze", "Nie zgub tej książki"],
+      "fa": ["ما بازی را می‌بازیم", "من کلیدهایم را گم می‌کنم", "این کتاب را گم نکن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_800_es",
+    "word": "competencia",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "competition, competence",
+      "de": "Wettbewerb, Kompetenz",
+      "ar": "منافسة، كفاءة",
+      "fr": "compétition, compétence",
+      "it": "competizione, competenza",
+      "ru": "соревнование, компетенция",
+      "es": "competencia",
+      "pl": "konkurencja, kompetencja",
+      "fa": "رقابت، صلاحیت"
+    },
+    "explanations": {
+      "en": "Event where people compete or ability to do something",
+      "de": "Ereignis, bei dem Menschen konkurrieren oder Fähigkeit, etwas zu tun",
+      "ar": "حدث حيث يتنافس الناس أو القدرة على فعل شيء ما",
+      "fr": "Événement où les gens rivalisent ou capacité de faire quelque chose",
+      "it": "Evento dove persone competono o capacità di fare qualcosa",
+      "ru": "Событие, где люди соревнуются или способность делать что-то",
+      "es": "Evento donde personas compiten o habilidad para hacer algo",
+      "pl": "Wydarzenie, gdzie ludzie rywalizują lub umiejętność zrobienia czegoś",
+      "fa": "رویدادی که مردم رقابت می‌کنند یا توانایی انجام کاری"
+    },
+    "examples": {
+      "en": ["The competition is tough", "I have good competence", "We join the competition"],
+      "de": ["Der Wettbewerb ist hart", "Ich habe gute Kompetenz", "Wir nehmen am Wettbewerb teil"],
+      "ar": ["المنافسة صعبة", "لدي كفاءة جيدة", "نحن نشارك في المنافسة"],
+      "fr": ["La compétition est difficile", "J'ai bonne compétence", "Nous rejoignons la compétition"],
+      "it": ["La competizione è dura", "Ho buona competenza", "Partecipiamo alla competizione"],
+      "ru": ["Соревнование жёсткое", "У меня хорошая компетенция", "Мы участвуем в соревновании"],
+      "es": ["La competencia es difícil", "Yo tengo buena competencia", "Nosotros entramos en la competencia"],
+      "pl": ["Konkurencja jest trudna", "Mam dobrą kompetencję", "Dołączamy do konkurencji"],
+      "fa": ["رقابت سخت است", "من صلاحیت خوبی دارم", "ما به رقابت می‌پیوندیم"]
+    },
+    "conjugations": null
+  }
+]

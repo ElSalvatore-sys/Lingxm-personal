@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_801_es",
+    "word": "computadora",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "computer",
+      "de": "Computer",
+      "ar": "حاسوب",
+      "fr": "ordinateur",
+      "it": "computer",
+      "ru": "компьютер",
+      "es": "computadora",
+      "pl": "komputer",
+      "fa": "رایانه"
+    },
+    "explanations": {
+      "en": "Electronic device for processing and storing data",
+      "de": "Elektronisches Gerät zur Verarbeitung und Speicherung von Daten",
+      "ar": "جهاز إلكتروني لمعالجة البيانات وتخزينها",
+      "fr": "Appareil électronique pour traiter et stocker des données",
+      "it": "Dispositivo elettronico per elaborare e memorizzare dati",
+      "ru": "Электронное устройство для обработки и хранения данных",
+      "es": "Dispositivo electrónico para procesar y almacenar datos",
+      "pl": "Urządzenie elektroniczne do przetwarzania i przechowywania danych",
+      "fa": "دستگاه الکترونیکی برای پردازش و ذخیره داده‌ها"
+    },
+    "examples": {
+      "en": ["I use my computer", "The computer is new", "She has a computer"],
+      "de": ["Ich benutze meinen Computer", "Der Computer ist neu", "Sie hat einen Computer"],
+      "ar": ["أستخدم حاسوبي", "الحاسوب جديد", "لديها حاسوب"],
+      "fr": ["J'utilise mon ordinateur", "L'ordinateur est neuf", "Elle a un ordinateur"],
+      "it": ["Uso il mio computer", "Il computer è nuovo", "Lei ha un computer"],
+      "ru": ["Я использую мой компьютер", "Компьютер новый", "У неё есть компьютер"],
+      "es": ["Yo uso mi computadora", "La computadora es nueva", "Ella tiene una computadora"],
+      "pl": ["Używam mojego komputera", "Komputer jest nowy", "Ona ma komputer"],
+      "fa": ["من از رایانه‌ام استفاده می‌کنم", "رایانه جدید است", "او رایانه دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_802_es",
+    "word": "teléfono",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "telephone, phone",
+      "de": "Telefon",
+      "ar": "هاتف",
+      "fr": "téléphone",
+      "it": "telefono",
+      "ru": "телефон",
+      "es": "teléfono",
+      "pl": "telefon",
+      "fa": "تلفن"
+    },
+    "explanations": {
+      "en": "Device for voice communication over distance",
+      "de": "Gerät für Sprachkommunikation über Entfernung",
+      "ar": "جهاز للتواصل الصوتي عن بعد",
+      "fr": "Appareil de communication vocale à distance",
+      "it": "Dispositivo per comunicazione vocale a distanza",
+      "ru": "Устройство для голосовой связи на расстоянии",
+      "es": "Dispositivo para comunicación de voz a distancia",
+      "pl": "Urządzenie do komunikacji głosowej na odległość",
+      "fa": "دستگاه برای ارتباط صوتی از راه دور"
+    },
+    "examples": {
+      "en": ["My phone is new", "I call with phone", "Where is the phone"],
+      "de": ["Mein Telefon ist neu", "Ich rufe mit Telefon", "Wo ist das Telefon"],
+      "ar": ["هاتفي جديد", "أتصل بالهاتف", "أين الهاتف"],
+      "fr": ["Mon téléphone est neuf", "J'appelle avec téléphone", "Où est le téléphone"],
+      "it": ["Il mio telefono è nuovo", "Chiamo con telefono", "Dov'è il telefono"],
+      "ru": ["Мой телефон новый", "Я звоню с телефона", "Где телефон"],
+      "es": ["Mi teléfono es nuevo", "Yo llamo con teléfono", "Dónde está el teléfono"],
+      "pl": ["Mój telefon jest nowy", "Dzwonię telefonem", "Gdzie jest telefon"],
+      "fa": ["تلفن من جدید است", "من با تلفن زنگ می‌زنم", "تلفن کجاست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_803_es",
+    "word": "internet",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "internet",
+      "de": "Internet",
+      "ar": "إنترنت",
+      "fr": "internet",
+      "it": "internet",
+      "ru": "интернет",
+      "es": "internet",
+      "pl": "internet",
+      "fa": "اینترنت"
+    },
+    "explanations": {
+      "en": "Global network of connected computers",
+      "de": "Globales Netzwerk verbundener Computer",
+      "ar": "شبكة عالمية من أجهزة الكمبيوتر المتصلة",
+      "fr": "Réseau mondial d'ordinateurs connectés",
+      "it": "Rete globale di computer connessi",
+      "ru": "Глобальная сеть связанных компьютеров",
+      "es": "Red global de computadoras conectadas",
+      "pl": "Globalna sieć połączonych komputerów",
+      "fa": "شبکه جهانی رایانه‌های متصل"
+    },
+    "examples": {
+      "en": ["I use the internet", "Internet is fast here", "She works on internet"],
+      "de": ["Ich benutze das Internet", "Internet ist schnell hier", "Sie arbeitet im Internet"],
+      "ar": ["أستخدم الإنترنت", "الإنترنت سريع هنا", "هي تعمل على الإنترنت"],
+      "fr": ["J'utilise l'internet", "L'internet est rapide ici", "Elle travaille sur internet"],
+      "it": ["Uso l'internet", "L'internet è veloce qui", "Lei lavora su internet"],
+      "ru": ["Я использую интернет", "Интернет быстрый здесь", "Она работает в интернете"],
+      "es": ["Yo uso el internet", "El internet es rápido aquí", "Ella trabaja en internet"],
+      "pl": ["Używam internetu", "Internet jest szybki tutaj", "Ona pracuje w internecie"],
+      "fa": ["من از اینترنت استفاده می‌کنم", "اینترنت اینجا سریع است", "او در اینترنت کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_804_es",
+    "word": "correo",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mail, email",
+      "de": "Post, E-Mail",
+      "ar": "بريد",
+      "fr": "courrier, email",
+      "it": "posta, email",
+      "ru": "почта, электронная почта",
+      "es": "correo",
+      "pl": "poczta, email",
+      "fa": "پست، ایمیل"
+    },
+    "explanations": {
+      "en": "System for sending letters or electronic messages",
+      "de": "System zum Senden von Briefen oder elektronischen Nachrichten",
+      "ar": "نظام لإرسال الرسائل أو الرسائل الإلكترونية",
+      "fr": "Système d'envoi de lettres ou messages électroniques",
+      "it": "Sistema per inviare lettere o messaggi elettronici",
+      "ru": "Система для отправки писем или электронных сообщений",
+      "es": "Sistema para enviar cartas o mensajes electrónicos",
+      "pl": "System do wysyłania listów lub wiadomości elektronicznych",
+      "fa": "سیستم برای ارسال نامه یا پیام‌های الکترونیکی"
+    },
+    "examples": {
+      "en": ["I send an email", "Check your mail today", "The mail is here"],
+      "de": ["Ich sende eine E-Mail", "Prüfe deine Post heute", "Die Post ist hier"],
+      "ar": ["أرسل بريدًا إلكترونيًا", "تحقق من بريدك اليوم", "البريد هنا"],
+      "fr": ["J'envoie un email", "Vérifie ton courrier aujourd'hui", "Le courrier est ici"],
+      "it": ["Invio un email", "Controlla la tua posta oggi", "La posta è qui"],
+      "ru": ["Я отправляю email", "Проверь свою почту сегодня", "Почта здесь"],
+      "es": ["Yo envío un correo", "Revisa tu correo hoy", "El correo está aquí"],
+      "pl": ["Wysyłam email", "Sprawdź swoją pocztę dzisiaj", "Poczta jest tutaj"],
+      "fa": ["من یک ایمیل می‌فرستم", "امروز پست خود را بررسی کن", "پست اینجاست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_805_es",
+    "word": "sitio web",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "website",
+      "de": "Webseite",
+      "ar": "موقع إلكتروني",
+      "fr": "site web",
+      "it": "sito web",
+      "ru": "веб-сайт",
+      "es": "sitio web",
+      "pl": "strona internetowa",
+      "fa": "وب‌سایت"
+    },
+    "explanations": {
+      "en": "Collection of web pages on the internet",
+      "de": "Sammlung von Webseiten im Internet",
+      "ar": "مجموعة من صفحات الويب على الإنترنت",
+      "fr": "Collection de pages web sur internet",
+      "it": "Collezione di pagine web su internet",
+      "ru": "Коллекция веб-страниц в интернете",
+      "es": "Colección de páginas web en internet",
+      "pl": "Zbiór stron internetowych w internecie",
+      "fa": "مجموعه‌ای از صفحات وب در اینترنت"
+    },
+    "examples": {
+      "en": ["This website is good", "I visit the website", "She creates a website"],
+      "de": ["Diese Webseite ist gut", "Ich besuche die Webseite", "Sie erstellt eine Webseite"],
+      "ar": ["هذا الموقع جيد", "أزور الموقع", "هي تنشئ موقعًا"],
+      "fr": ["Ce site web est bon", "Je visite le site web", "Elle crée un site web"],
+      "it": ["Questo sito web è buono", "Visito il sito web", "Lei crea un sito web"],
+      "ru": ["Этот веб-сайт хороший", "Я посещаю веб-сайт", "Она создаёт веб-сайт"],
+      "es": ["Este sitio web es bueno", "Yo visito el sitio web", "Ella crea un sitio web"],
+      "pl": ["Ta strona internetowa jest dobra", "Odwiedzam stronę internetową", "Ona tworzy stronę internetową"],
+      "fa": ["این وب‌سایت خوب است", "من از وب‌سایت بازدید می‌کنم", "او یک وب‌سایت ایجاد می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_806_es",
+    "word": "en línea",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "online",
+      "de": "online",
+      "ar": "على الإنترنت",
+      "fr": "en ligne",
+      "it": "online",
+      "ru": "онлайн",
+      "es": "en línea",
+      "pl": "online",
+      "fa": "آنلاین"
+    },
+    "explanations": {
+      "en": "Connected to the internet or available on the internet",
+      "de": "Mit dem Internet verbunden oder im Internet verfügbar",
+      "ar": "متصل بالإنترنت أو متاح على الإنترنت",
+      "fr": "Connecté à internet ou disponible sur internet",
+      "it": "Connesso a internet o disponibile su internet",
+      "ru": "Подключенный к интернету или доступный в интернете",
+      "es": "Conectado a internet o disponible en internet",
+      "pl": "Połączony z internetem lub dostępny w internecie",
+      "fa": "متصل به اینترنت یا در اینترنت موجود"
+    },
+    "examples": {
+      "en": ["I work online now", "The store is online", "She studies online today"],
+      "de": ["Ich arbeite jetzt online", "Der Laden ist online", "Sie studiert heute online"],
+      "ar": ["أعمل على الإنترنت الآن", "المتجر متاح على الإنترنت", "هي تدرس على الإنترنت اليوم"],
+      "fr": ["Je travaille en ligne maintenant", "Le magasin est en ligne", "Elle étudie en ligne aujourd'hui"],
+      "it": ["Lavoro online adesso", "Il negozio è online", "Lei studia online oggi"],
+      "ru": ["Я работаю онлайн сейчас", "Магазин онлайн", "Она учится онлайн сегодня"],
+      "es": ["Yo trabajo en línea ahora", "La tienda está en línea", "Ella estudia en línea hoy"],
+      "pl": ["Pracuję online teraz", "Sklep jest online", "Ona studiuje online dzisiaj"],
+      "fa": ["من الان آنلاین کار می‌کنم", "فروشگاه آنلاین است", "او امروز آنلاین درس می‌خواند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_807_es",
+    "word": "mensaje",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "message",
+      "de": "Nachricht",
+      "ar": "رسالة",
+      "fr": "message",
+      "it": "messaggio",
+      "ru": "сообщение",
+      "es": "mensaje",
+      "pl": "wiadomość",
+      "fa": "پیام"
+    },
+    "explanations": {
+      "en": "Communication sent from one person to another",
+      "de": "Kommunikation von einer Person an eine andere",
+      "ar": "اتصال يُرسَل من شخص إلى آخر",
+      "fr": "Communication envoyée d'une personne à une autre",
+      "it": "Comunicazione inviata da una persona a un'altra",
+      "ru": "Сообщение, отправленное от одного человека другому",
+      "es": "Comunicación enviada de una persona a otra",
+      "pl": "Komunikacja wysłana od jednej osoby do drugiej",
+      "fa": "ارتباطی که از یک نفر به دیگری ارسال می‌شود"
+    },
+    "examples": {
+      "en": ["I send a message", "Read this message now", "She has new messages"],
+      "de": ["Ich sende eine Nachricht", "Lies diese Nachricht jetzt", "Sie hat neue Nachrichten"],
+      "ar": ["أرسل رسالة", "اقرأ هذه الرسالة الآن", "لديها رسائل جديدة"],
+      "fr": ["J'envoie un message", "Lis ce message maintenant", "Elle a de nouveaux messages"],
+      "it": ["Invio un messaggio", "Leggi questo messaggio adesso", "Lei ha nuovi messaggi"],
+      "ru": ["Я отправляю сообщение", "Прочитай это сообщение сейчас", "У неё новые сообщения"],
+      "es": ["Yo envío un mensaje", "Lee este mensaje ahora", "Ella tiene mensajes nuevos"],
+      "pl": ["Wysyłam wiadomość", "Przeczytaj tę wiadomość teraz", "Ona ma nowe wiadomości"],
+      "fa": ["من یک پیام می‌فرستم", "این پیام را حالا بخوان", "او پیام‌های جدید دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_808_es",
+    "word": "llamar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to call",
+      "de": "anrufen",
+      "ar": "يتصل",
+      "fr": "appeler",
+      "it": "chiamare",
+      "ru": "звонить",
+      "es": "llamar",
+      "pl": "dzwonić",
+      "fa": "زنگ زدن"
+    },
+    "explanations": {
+      "en": "To contact someone by phone or to shout to get attention",
+      "de": "Jemanden telefonisch kontaktieren oder rufen",
+      "ar": "الاتصال بشخص ما عبر الهاتف أو الصراخ للفت الانتباه",
+      "fr": "Contacter quelqu'un par téléphone ou crier pour attirer l'attention",
+      "it": "Contattare qualcuno per telefono o gridare per attirare attenzione",
+      "ru": "Связаться с кем-то по телефону или кричать для привлечения внимания",
+      "es": "Contactar a alguien por teléfono o gritar para llamar la atención",
+      "pl": "Skontaktować się z kimś telefonicznie lub krzyczeć aby zwrócić uwagę",
+      "fa": "با کسی تماس تلفنی گرفتن یا برای جلب توجه فریاد زدن"
+    },
+    "examples": {
+      "en": ["I call my friend", "Call me later today", "She calls her mother"],
+      "de": ["Ich rufe meinen Freund an", "Ruf mich später heute an", "Sie ruft ihre Mutter an"],
+      "ar": ["أتصل بصديقي", "اتصل بي لاحقًا اليوم", "هي تتصل بأمها"],
+      "fr": ["J'appelle mon ami", "Appelle-moi plus tard aujourd'hui", "Elle appelle sa mère"],
+      "it": ["Chiamo il mio amico", "Chiamami più tardi oggi", "Lei chiama sua madre"],
+      "ru": ["Я звоню своему другу", "Позвони мне позже сегодня", "Она звонит своей матери"],
+      "es": ["Yo llamo a mi amigo", "Llámame más tarde hoy", "Ella llama a su madre"],
+      "pl": ["Dzwonię do mojego przyjaciela", "Zadzwoń do mnie później dzisiaj", "Ona dzwoni do swojej matki"],
+      "fa": ["من به دوستم زنگ می‌زنم", "بعدا امروز به من زنگ بزن", "او به مادرش زنگ می‌زند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_809_es",
+    "word": "texto",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "text",
+      "de": "Text",
+      "ar": "نص",
+      "fr": "texte",
+      "it": "testo",
+      "ru": "текст",
+      "es": "texto",
+      "pl": "tekst",
+      "fa": "متن"
+    },
+    "explanations": {
+      "en": "Written or printed words",
+      "de": "Geschriebene oder gedruckte Wörter",
+      "ar": "كلمات مكتوبة أو مطبوعة",
+      "fr": "Mots écrits ou imprimés",
+      "it": "Parole scritte o stampate",
+      "ru": "Написанные или напечатанные слова",
+      "es": "Palabras escritas o impresas",
+      "pl": "Słowa pisane lub drukowane",
+      "fa": "کلمات نوشته شده یا چاپ شده"
+    },
+    "examples": {
+      "en": ["Read the text here", "I write a text", "This text is long"],
+      "de": ["Lies den Text hier", "Ich schreibe einen Text", "Dieser Text ist lang"],
+      "ar": ["اقرأ النص هنا", "أكتب نصًا", "هذا النص طويل"],
+      "fr": ["Lis le texte ici", "J'écris un texte", "Ce texte est long"],
+      "it": ["Leggi il testo qui", "Scrivo un testo", "Questo testo è lungo"],
+      "ru": ["Прочитай текст здесь", "Я пишу текст", "Этот текст длинный"],
+      "es": ["Lee el texto aquí", "Yo escribo un texto", "Este texto es largo"],
+      "pl": ["Przeczytaj tekst tutaj", "Piszę tekst", "Ten tekst jest długi"],
+      "fa": ["متن را اینجا بخوان", "من یک متن می‌نویسم", "این متن بلند است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_810_es",
+    "word": "aplicación",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "application, app",
+      "de": "Anwendung, App",
+      "ar": "تطبيق",
+      "fr": "application",
+      "it": "applicazione",
+      "ru": "приложение",
+      "es": "aplicación",
+      "pl": "aplikacja",
+      "fa": "برنامه، اپلیکیشن"
+    },
+    "explanations": {
+      "en": "Software program designed for a specific purpose",
+      "de": "Softwareprogramm für einen bestimmten Zweck",
+      "ar": "برنامج مصمم لغرض محدد",
+      "fr": "Programme logiciel conçu pour un but spécifique",
+      "it": "Programma software progettato per uno scopo specifico",
+      "ru": "Программное обеспечение для конкретной цели",
+      "es": "Programa informático diseñado para un propósito específico",
+      "pl": "Program komputerowy zaprojektowany do konkretnego celu",
+      "fa": "برنامه نرم‌افزاری طراحی شده برای هدف خاص"
+    },
+    "examples": {
+      "en": ["I download an app", "This app is good", "She uses the app"],
+      "de": ["Ich lade eine App herunter", "Diese App ist gut", "Sie benutzt die App"],
+      "ar": ["أقوم بتنزيل تطبيق", "هذا التطبيق جيد", "هي تستخدم التطبيق"],
+      "fr": ["Je télécharge une application", "Cette application est bonne", "Elle utilise l'application"],
+      "it": ["Scarico un'applicazione", "Questa applicazione è buona", "Lei usa l'applicazione"],
+      "ru": ["Я скачиваю приложение", "Это приложение хорошее", "Она использует приложение"],
+      "es": ["Yo descargo una aplicación", "Esta aplicación es buena", "Ella usa la aplicación"],
+      "pl": ["Pobieram aplikację", "Ta aplikacja jest dobra", "Ona używa aplikacji"],
+      "fa": ["من یک اپلیکیشن دانلود می‌کنم", "این اپلیکیشن خوب است", "او از اپلیکیشن استفاده می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_811_es",
+    "word": "pantalla",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "screen",
+      "de": "Bildschirm",
+      "ar": "شاشة",
+      "fr": "écran",
+      "it": "schermo",
+      "ru": "экран",
+      "es": "pantalla",
+      "pl": "ekran",
+      "fa": "صفحه نمایش"
+    },
+    "explanations": {
+      "en": "Display surface of electronic device",
+      "de": "Anzeigefläche eines elektronischen Geräts",
+      "ar": "سطح عرض الجهاز الإلكتروني",
+      "fr": "Surface d'affichage d'un appareil électronique",
+      "it": "Superficie di visualizzazione di dispositivo elettronico",
+      "ru": "Поверхность дисплея электронного устройства",
+      "es": "Superficie de visualización de dispositivo electrónico",
+      "pl": "Powierzchnia wyświetlacza urządzenia elektronicznego",
+      "fa": "سطح نمایشگر دستگاه الکترونیکی"
+    },
+    "examples": {
+      "en": ["The screen is big", "I look at screen", "Clean the screen now"],
+      "de": ["Der Bildschirm ist groß", "Ich schaue auf Bildschirm", "Reinige den Bildschirm jetzt"],
+      "ar": ["الشاشة كبيرة", "أنظر إلى الشاشة", "نظف الشاشة الآن"],
+      "fr": ["L'écran est grand", "Je regarde l'écran", "Nettoie l'écran maintenant"],
+      "it": ["Lo schermo è grande", "Guardo lo schermo", "Pulisci lo schermo adesso"],
+      "ru": ["Экран большой", "Я смотрю на экран", "Очисти экран сейчас"],
+      "es": ["La pantalla es grande", "Yo miro la pantalla", "Limpia la pantalla ahora"],
+      "pl": ["Ekran jest duży", "Patrzę na ekran", "Wyczyść ekran teraz"],
+      "fa": ["صفحه نمایش بزرگ است", "من به صفحه نگاه می‌کنم", "حالا صفحه را تمیز کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_812_es",
+    "word": "teclado",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "keyboard",
+      "de": "Tastatur",
+      "ar": "لوحة مفاتيح",
+      "fr": "clavier",
+      "it": "tastiera",
+      "ru": "клавиатура",
+      "es": "teclado",
+      "pl": "klawiatura",
+      "fa": "صفحه کلید"
+    },
+    "explanations": {
+      "en": "Input device with keys for typing",
+      "de": "Eingabegerät mit Tasten zum Tippen",
+      "ar": "جهاز إدخال به مفاتيح للكتابة",
+      "fr": "Dispositif d'entrée avec touches pour taper",
+      "it": "Dispositivo di input con tasti per digitare",
+      "ru": "Устройство ввода с клавишами для набора текста",
+      "es": "Dispositivo de entrada con teclas para escribir",
+      "pl": "Urządzenie wejściowe z klawiszami do pisania",
+      "fa": "دستگاه ورودی با کلیدها برای تایپ"
+    },
+    "examples": {
+      "en": ["I use the keyboard", "The keyboard is new", "Type with this keyboard"],
+      "de": ["Ich benutze die Tastatur", "Die Tastatur ist neu", "Tippe mit dieser Tastatur"],
+      "ar": ["أستخدم لوحة المفاتيح", "لوحة المفاتيح جديدة", "اكتب بهذه اللوحة"],
+      "fr": ["J'utilise le clavier", "Le clavier est neuf", "Tape avec ce clavier"],
+      "it": ["Uso la tastiera", "La tastiera è nuova", "Digita con questa tastiera"],
+      "ru": ["Я использую клавиатуру", "Клавиатура новая", "Печатай этой клавиатурой"],
+      "es": ["Yo uso el teclado", "El teclado es nuevo", "Escribe con este teclado"],
+      "pl": ["Używam klawiatury", "Klawiatura jest nowa", "Pisz tą klawiaturą"],
+      "fa": ["من از صفحه کلید استفاده می‌کنم", "صفحه کلید جدید است", "با این صفحه کلید تایپ کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_813_es",
+    "word": "ratón",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "mouse (computer)",
+      "de": "Maus (Computer)",
+      "ar": "فأرة (كمبيوتر)",
+      "fr": "souris (ordinateur)",
+      "it": "mouse (computer)",
+      "ru": "мышь (компьютерная)",
+      "es": "ratón",
+      "pl": "mysz (komputerowa)",
+      "fa": "موس (رایانه)"
+    },
+    "explanations": {
+      "en": "Hand-held pointing device for computer",
+      "de": "Handheld-Zeigegerät für Computer",
+      "ar": "جهاز تأشير محمول باليد للكمبيوتر",
+      "fr": "Dispositif de pointage tenu à la main pour ordinateur",
+      "it": "Dispositivo di puntamento portatile per computer",
+      "ru": "Ручное указательное устройство для компьютера",
+      "es": "Dispositivo señalador de mano para computadora",
+      "pl": "Ręczne urządzenie wskazujące do komputera",
+      "fa": "دستگاه اشاره‌گر دستی برای رایانه"
+    },
+    "examples": {
+      "en": ["I use the mouse", "The mouse is small", "Move the mouse here"],
+      "de": ["Ich benutze die Maus", "Die Maus ist klein", "Bewege die Maus hier"],
+      "ar": ["أستخدم الفأرة", "الفأرة صغيرة", "حرك الفأرة هنا"],
+      "fr": ["J'utilise la souris", "La souris est petite", "Bouge la souris ici"],
+      "it": ["Uso il mouse", "Il mouse è piccolo", "Muovi il mouse qui"],
+      "ru": ["Я использую мышь", "Мышь маленькая", "Двигай мышь сюда"],
+      "es": ["Yo uso el ratón", "El ratón es pequeño", "Mueve el ratón aquí"],
+      "pl": ["Używam myszy", "Mysz jest mała", "Przesuń mysz tutaj"],
+      "fa": ["من از موس استفاده می‌کنم", "موس کوچک است", "موس را اینجا حرکت بده"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_814_es",
+    "word": "hacer clic",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to click",
+      "de": "klicken",
+      "ar": "ينقر",
+      "fr": "cliquer",
+      "it": "cliccare",
+      "ru": "кликать",
+      "es": "hacer clic",
+      "pl": "klikać",
+      "fa": "کلیک کردن"
+    },
+    "explanations": {
+      "en": "To press a button on a computer mouse",
+      "de": "Eine Taste an einer Computermaus drücken",
+      "ar": "الضغط على زر في فأرة الكمبيوتر",
+      "fr": "Appuyer sur un bouton de souris d'ordinateur",
+      "it": "Premere un pulsante su un mouse del computer",
+      "ru": "Нажать кнопку на компьютерной мыши",
+      "es": "Presionar un botón en el ratón de computadora",
+      "pl": "Nacisnąć przycisk na myszy komputerowej",
+      "fa": "فشار دادن دکمه روی موس رایانه"
+    },
+    "examples": {
+      "en": ["Click here now", "I click the button", "She clicks the link"],
+      "de": ["Klicke hier jetzt", "Ich klicke den Button", "Sie klickt den Link"],
+      "ar": ["انقر هنا الآن", "أنقر على الزر", "هي تنقر على الرابط"],
+      "fr": ["Clique ici maintenant", "Je clique le bouton", "Elle clique le lien"],
+      "it": ["Clicca qui adesso", "Clicco il pulsante", "Lei clicca il collegamento"],
+      "ru": ["Кликни здесь сейчас", "Я кликаю кнопку", "Она кликает ссылку"],
+      "es": ["Haz clic aquí ahora", "Yo hago clic en el botón", "Ella hace clic en el enlace"],
+      "pl": ["Kliknij tutaj teraz", "Klikam przycisk", "Ona klika link"],
+      "fa": ["حالا اینجا کلیک کن", "من دکمه را کلیک می‌کنم", "او لینک را کلیک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_815_es",
+    "word": "escribir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to write, to type",
+      "de": "schreiben, tippen",
+      "ar": "يكتب",
+      "fr": "écrire, taper",
+      "it": "scrivere, digitare",
+      "ru": "писать, печатать",
+      "es": "escribir",
+      "pl": "pisać, wpisywać",
+      "fa": "نوشتن، تایپ کردن"
+    },
+    "explanations": {
+      "en": "To create text with pen or keyboard",
+      "de": "Text mit Stift oder Tastatur erstellen",
+      "ar": "إنشاء نص بالقلم أو لوحة المفاتيح",
+      "fr": "Créer du texte avec stylo ou clavier",
+      "it": "Creare testo con penna o tastiera",
+      "ru": "Создавать текст ручкой или клавиатурой",
+      "es": "Crear texto con pluma o teclado",
+      "pl": "Tworzyć tekst długopisem lub klawiaturą",
+      "fa": "ایجاد متن با قلم یا صفحه کلید"
+    },
+    "examples": {
+      "en": ["I write a letter", "Write your name here", "She writes every day"],
+      "de": ["Ich schreibe einen Brief", "Schreibe deinen Namen hier", "Sie schreibt jeden Tag"],
+      "ar": ["أكتب رسالة", "اكتب اسمك هنا", "هي تكتب كل يوم"],
+      "fr": ["J'écris une lettre", "Écris ton nom ici", "Elle écrit chaque jour"],
+      "it": ["Scrivo una lettera", "Scrivi il tuo nome qui", "Lei scrive ogni giorno"],
+      "ru": ["Я пишу письмо", "Напиши своё имя здесь", "Она пишет каждый день"],
+      "es": ["Yo escribo una carta", "Escribe tu nombre aquí", "Ella escribe cada día"],
+      "pl": ["Piszę list", "Napisz swoje imię tutaj", "Ona pisze codziennie"],
+      "fa": ["من یک نامه می‌نویسم", "اسمت را اینجا بنویس", "او هر روز می‌نویسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_816_es",
+    "word": "descargar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to download",
+      "de": "herunterladen",
+      "ar": "يحمّل",
+      "fr": "télécharger",
+      "it": "scaricare",
+      "ru": "скачивать",
+      "es": "descargar",
+      "pl": "pobierać",
+      "fa": "دانلود کردن"
+    },
+    "explanations": {
+      "en": "To transfer data from internet to computer",
+      "de": "Daten vom Internet auf Computer übertragen",
+      "ar": "نقل البيانات من الإنترنت إلى الكمبيوتر",
+      "fr": "Transférer des données d'internet vers ordinateur",
+      "it": "Trasferire dati da internet a computer",
+      "ru": "Передавать данные из интернета на компьютер",
+      "es": "Transferir datos de internet a computadora",
+      "pl": "Przenosić dane z internetu na komputer",
+      "fa": "انتقال داده از اینترنت به رایانه"
+    },
+    "examples": {
+      "en": ["I download a file", "Download this app now", "She downloads music today"],
+      "de": ["Ich lade eine Datei herunter", "Lade diese App jetzt herunter", "Sie lädt heute Musik herunter"],
+      "ar": ["أحمّل ملفًا", "حمّل هذا التطبيق الآن", "هي تحمّل موسيقى اليوم"],
+      "fr": ["Je télécharge un fichier", "Télécharge cette application maintenant", "Elle télécharge de la musique aujourd'hui"],
+      "it": ["Scarico un file", "Scarica questa applicazione adesso", "Lei scarica musica oggi"],
+      "ru": ["Я скачиваю файл", "Скачай это приложение сейчас", "Она скачивает музыку сегодня"],
+      "es": ["Yo descargo un archivo", "Descarga esta aplicación ahora", "Ella descarga música hoy"],
+      "pl": ["Pobieram plik", "Pobierz tę aplikację teraz", "Ona pobiera muzykę dzisiaj"],
+      "fa": ["من یک فایل دانلود می‌کنم", "حالا این اپلیکیشن را دانلود کن", "او امروز موسیقی دانلود می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_817_es",
+    "word": "subir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to upload, to go up",
+      "de": "hochladen, hinaufgehen",
+      "ar": "يرفع، يصعد",
+      "fr": "téléverser, monter",
+      "it": "caricare, salire",
+      "ru": "загружать, подниматься",
+      "es": "subir",
+      "pl": "przesyłać, iść w górę",
+      "fa": "آپلود کردن، بالا رفتن"
+    },
+    "explanations": {
+      "en": "To transfer data to internet or to move upward",
+      "de": "Daten ins Internet übertragen oder nach oben bewegen",
+      "ar": "نقل البيانات إلى الإنترنت أو التحرك لأعلى",
+      "fr": "Transférer des données vers internet ou monter",
+      "it": "Trasferire dati su internet o muoversi verso l'alto",
+      "ru": "Передавать данные в интернет или двигаться вверх",
+      "es": "Transferir datos a internet o moverse hacia arriba",
+      "pl": "Przesyłać dane do internetu lub ruszać się w górę",
+      "fa": "انتقال داده به اینترنت یا حرکت به بالا"
+    },
+    "examples": {
+      "en": ["I upload a photo", "Upload the file now", "She goes up stairs"],
+      "de": ["Ich lade ein Foto hoch", "Lade die Datei jetzt hoch", "Sie geht Treppen hoch"],
+      "ar": ["أرفع صورة", "ارفع الملف الآن", "هي تصعد السلالم"],
+      "fr": ["Je téléverse une photo", "Téléverse le fichier maintenant", "Elle monte les escaliers"],
+      "it": ["Carico una foto", "Carica il file adesso", "Lei sale le scale"],
+      "ru": ["Я загружаю фото", "Загрузи файл сейчас", "Она поднимается по лестнице"],
+      "es": ["Yo subo una foto", "Sube el archivo ahora", "Ella sube las escaleras"],
+      "pl": ["Przesyłam zdjęcie", "Prześlij plik teraz", "Ona wchodzi po schodach"],
+      "fa": ["من یک عکس آپلود می‌کنم", "حالا فایل را آپلود کن", "او از پله‌ها بالا می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_818_es",
+    "word": "conectar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to connect",
+      "de": "verbinden",
+      "ar": "يصل",
+      "fr": "connecter",
+      "it": "connettere",
+      "ru": "соединять",
+      "es": "conectar",
+      "pl": "łączyć",
+      "fa": "متصل کردن"
+    },
+    "explanations": {
+      "en": "To join or link two or more things together",
+      "de": "Zwei oder mehr Dinge zusammenfügen oder verbinden",
+      "ar": "ربط أو وصل شيئين أو أكثر معًا",
+      "fr": "Joindre ou relier deux choses ou plus ensemble",
+      "it": "Unire o collegare due o più cose insieme",
+      "ru": "Соединить или связать две или более вещи вместе",
+      "es": "Unir o vincular dos o más cosas juntas",
+      "pl": "Połączyć lub połączyć dwie lub więcej rzeczy razem",
+      "fa": "پیوستن یا اتصال دو یا چند چیز با هم"
+    },
+    "examples": {
+      "en": ["I connect to wifi", "Connect the cable here", "She connects the phone"],
+      "de": ["Ich verbinde mit WLAN", "Verbinde das Kabel hier", "Sie verbindet das Telefon"],
+      "ar": ["أتصل بالواي فاي", "صل الكابل هنا", "هي تصل الهاتف"],
+      "fr": ["Je me connecte au wifi", "Connecte le câble ici", "Elle connecte le téléphone"],
+      "it": ["Mi connetto al wifi", "Connetti il cavo qui", "Lei connette il telefono"],
+      "ru": ["Я подключаюсь к wifi", "Подключи кабель сюда", "Она подключает телефон"],
+      "es": ["Yo conecto al wifi", "Conecta el cable aquí", "Ella conecta el teléfono"],
+      "pl": ["Łączę się z wifi", "Połącz kabel tutaj", "Ona łączy telefon"],
+      "fa": ["من به وای‌فای متصل می‌شوم", "کابل را اینجا وصل کن", "او تلفن را وصل می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_819_es",
+    "word": "wifi",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "wifi",
+      "de": "WLAN",
+      "ar": "واي فاي",
+      "fr": "wifi",
+      "it": "wifi",
+      "ru": "вайфай",
+      "es": "wifi",
+      "pl": "wifi",
+      "fa": "وای‌فای"
+    },
+    "explanations": {
+      "en": "Wireless network technology for internet connection",
+      "de": "Drahtlose Netzwerktechnologie für Internetverbindung",
+      "ar": "تقنية شبكة لاسلكية للاتصال بالإنترنت",
+      "fr": "Technologie de réseau sans fil pour connexion internet",
+      "it": "Tecnologia di rete wireless per connessione internet",
+      "ru": "Беспроводная сетевая технология для интернет-соединения",
+      "es": "Tecnología de red inalámbrica para conexión a internet",
+      "pl": "Technologia sieci bezprzewodowej do połączenia internetowego",
+      "fa": "فناوری شبکه بی‌سیم برای اتصال اینترنت"
+    },
+    "examples": {
+      "en": ["The wifi is fast", "I need wifi here", "Connect to wifi now"],
+      "de": ["Das WLAN ist schnell", "Ich brauche WLAN hier", "Verbinde mit WLAN jetzt"],
+      "ar": ["الواي فاي سريع", "أحتاج واي فاي هنا", "اتصل بالواي فاي الآن"],
+      "fr": ["Le wifi est rapide", "J'ai besoin de wifi ici", "Connecte-toi au wifi maintenant"],
+      "it": ["Il wifi è veloce", "Ho bisogno di wifi qui", "Connettiti al wifi adesso"],
+      "ru": ["Вайфай быстрый", "Мне нужен вайфай здесь", "Подключись к вайфаю сейчас"],
+      "es": ["El wifi es rápido", "Yo necesito wifi aquí", "Conéctate al wifi ahora"],
+      "pl": ["Wifi jest szybkie", "Potrzebuję wifi tutaj", "Połącz się z wifi teraz"],
+      "fa": ["وای‌فای سریع است", "من اینجا به وای‌فای نیاز دارم", "حالا به وای‌فای وصل شو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_820_es",
+    "word": "datos",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "data",
+      "de": "Daten",
+      "ar": "بيانات",
+      "fr": "données",
+      "it": "dati",
+      "ru": "данные",
+      "es": "datos",
+      "pl": "dane",
+      "fa": "داده‌ها"
+    },
+    "explanations": {
+      "en": "Facts or information used for reference or analysis",
+      "de": "Fakten oder Informationen zur Referenz oder Analyse",
+      "ar": "حقائق أو معلومات تستخدم للمرجع أو التحليل",
+      "fr": "Faits ou informations utilisés pour référence ou analyse",
+      "it": "Fatti o informazioni usati per riferimento o analisi",
+      "ru": "Факты или информация для справки или анализа",
+      "es": "Hechos o información usados para referencia o análisis",
+      "pl": "Fakty lub informacje używane do odniesienia lub analizy",
+      "fa": "حقایق یا اطلاعات برای مرجع یا تحلیل"
+    },
+    "examples": {
+      "en": ["I save my data", "The data is important", "She checks the data"],
+      "de": ["Ich speichere meine Daten", "Die Daten sind wichtig", "Sie prüft die Daten"],
+      "ar": ["أحفظ بياناتي", "البيانات مهمة", "هي تفحص البيانات"],
+      "fr": ["Je sauvegarde mes données", "Les données sont importantes", "Elle vérifie les données"],
+      "it": ["Salvo i miei dati", "I dati sono importanti", "Lei controlla i dati"],
+      "ru": ["Я сохраняю мои данные", "Данные важные", "Она проверяет данные"],
+      "es": ["Yo guardo mis datos", "Los datos son importantes", "Ella revisa los datos"],
+      "pl": ["Zapisuję moje dane", "Dane są ważne", "Ona sprawdza dane"],
+      "fa": ["من داده‌هایم را ذخیره می‌کنم", "داده‌ها مهم هستند", "او داده‌ها را بررسی می‌کند"]
+    },
+    "conjugations": null
+  }
+]

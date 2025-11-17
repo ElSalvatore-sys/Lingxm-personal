@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a2_521_es",
+    "word": "empezar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to start, to begin",
+      "de": "anfangen, beginnen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "iniziare, cominciare",
+      "ru": "начинать",
+      "es": "empezar",
+      "pl": "zaczynać",
+      "fa": "شروع کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the initiation of an action or process",
+      "de": "Verb für den Beginn einer Handlung oder eines Prozesses",
+      "ar": "فعل يعبر عن بدء إجراء أو عملية",
+      "fr": "Verbe exprimant l'initiation d'une action ou d'un processus",
+      "it": "Verbo che esprime l'inizio di un'azione o processo",
+      "ru": "Глагол, выражающий начало действия или процесса",
+      "es": "Verbo que expresa el inicio de una acción o proceso",
+      "pl": "Czasownik wyrażający rozpoczęcie działania lub procesu",
+      "fa": "فعلی که آغاز یک عمل یا فرآیند را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I start now", "She begins work", "We start the class"],
+      "de": ["Ich fange jetzt an", "Sie beginnt die Arbeit", "Wir beginnen den Unterricht"],
+      "ar": ["أبدأ الآن", "هي تبدأ العمل", "نحن نبدأ الدرس"],
+      "fr": ["Je commence maintenant", "Elle commence le travail", "Nous commençons le cours"],
+      "it": ["Inizio ora", "Lei inizia il lavoro", "Iniziamo la lezione"],
+      "ru": ["Я начинаю сейчас", "Она начинает работу", "Мы начинаем урок"],
+      "es": ["Yo empiezo ahora", "Ella empieza el trabajo", "Nosotros empezamos la clase"],
+      "pl": ["Zaczynam teraz", "Ona zaczyna pracę", "Zaczynamy lekcję"],
+      "fa": ["من الان شروع می‌کنم", "او کار را شروع می‌کند", "ما کلاس را شروع می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_522_es",
+    "word": "parar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to stop",
+      "de": "aufhören, anhalten",
+      "ar": "يتوقف",
+      "fr": "arrêter",
+      "it": "fermare",
+      "ru": "останавливать, прекращать",
+      "es": "parar",
+      "pl": "zatrzymywać, przestawać",
+      "fa": "متوقف کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the cessation of movement or action",
+      "de": "Verb für das Beenden von Bewegung oder Handlung",
+      "ar": "فعل يعبر عن وقف الحركة أو الإجراء",
+      "fr": "Verbe exprimant l'arrêt du mouvement ou de l'action",
+      "it": "Verbo che esprime la cessazione del movimento o dell'azione",
+      "ru": "Глагол, выражающий прекращение движения или действия",
+      "es": "Verbo que expresa el cese de movimiento o acción",
+      "pl": "Czasownik wyrażający zakończenie ruchu lub działania",
+      "fa": "فعلی که توقف حرکت یا عمل را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I stop here", "He stops the car", "We stop working"],
+      "de": ["Ich halte hier an", "Er hält das Auto an", "Wir hören auf zu arbeiten"],
+      "ar": ["أتوقف هنا", "هو يوقف السيارة", "نحن نتوقف عن العمل"],
+      "fr": ["Je m'arrête ici", "Il arrête la voiture", "Nous arrêtons de travailler"],
+      "it": ["Mi fermo qui", "Lui ferma la macchina", "Smettiamo di lavorare"],
+      "ru": ["Я останавливаюсь здесь", "Он останавливает машину", "Мы прекращаем работать"],
+      "es": ["Yo paro aquí", "Él para el coche", "Nosotros paramos de trabajar"],
+      "pl": ["Zatrzymuję się tutaj", "On zatrzymuje samochód", "Przestajemy pracować"],
+      "fa": ["من اینجا متوقف می‌شوم", "او ماشین را متوقف می‌کند", "ما کار را متوقف می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_523_es",
+    "word": "comenzar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to begin, to commence",
+      "de": "beginnen, anfangen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "cominciare",
+      "ru": "начинать",
+      "es": "comenzar",
+      "pl": "rozpoczynać",
+      "fa": "آغاز کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the start of something, synonym of empezar",
+      "de": "Verb für den Beginn von etwas, Synonym von empezar",
+      "ar": "فعل يعبر عن بدء شيء ما، مرادف لـ empezar",
+      "fr": "Verbe exprimant le début de quelque chose, synonyme d'empezar",
+      "it": "Verbo che esprime l'inizio di qualcosa, sinonimo di empezar",
+      "ru": "Глагол, выражающий начало чего-либо, синоним empezar",
+      "es": "Verbo que expresa el inicio de algo, sinónimo de empezar",
+      "pl": "Czasownik wyrażający początek czegoś, synonim empezar",
+      "fa": "فعلی که شروع چیزی را بیان می‌کند، مترادف empezar"
+    },
+    "examples": {
+      "en": ["I begin today", "She commences the project", "We begin at nine"],
+      "de": ["Ich beginne heute", "Sie beginnt das Projekt", "Wir beginnen um neun"],
+      "ar": ["أبدأ اليوم", "هي تبدأ المشروع", "نحن نبدأ في التاسعة"],
+      "fr": ["Je commence aujourd'hui", "Elle commence le projet", "Nous commençons à neuf heures"],
+      "it": ["Comincio oggi", "Lei comincia il progetto", "Cominciamo alle nove"],
+      "ru": ["Я начинаю сегодня", "Она начинает проект", "Мы начинаем в девять"],
+      "es": ["Yo comienzo hoy", "Ella comienza el proyecto", "Nosotros comenzamos a las nueve"],
+      "pl": ["Rozpoczynam dziś", "Ona rozpoczyna projekt", "Rozpoczynamy o dziewiątej"],
+      "fa": ["من امروز شروع می‌کنم", "او پروژه را شروع می‌کند", "ما ساعت نه شروع می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_524_es",
+    "word": "terminar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to finish, to end",
+      "de": "beenden, fertigstellen",
+      "ar": "ينهي، يكمل",
+      "fr": "finir, terminer",
+      "it": "finire, terminare",
+      "ru": "заканчивать, завершать",
+      "es": "terminar",
+      "pl": "kończyć",
+      "fa": "تمام کردن، پایان دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing completion or conclusion of something",
+      "de": "Verb für die Vollendung oder den Abschluss von etwas",
+      "ar": "فعل يعبر عن إكمال أو اختتام شيء ما",
+      "fr": "Verbe exprimant l'achèvement ou la conclusion de quelque chose",
+      "it": "Verbo che esprime il completamento o la conclusione di qualcosa",
+      "ru": "Глагол, выражающий завершение или окончание чего-либо",
+      "es": "Verbo que expresa la culminación o conclusión de algo",
+      "pl": "Czasownik wyrażający ukończenie lub zakończenie czegoś",
+      "fa": "فعلی که تکمیل یا نتیجه‌گیری چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I finish my work", "He ends the meeting", "We finish at five"],
+      "de": ["Ich beende meine Arbeit", "Er beendet die Besprechung", "Wir enden um fünf"],
+      "ar": ["أنهي عملي", "هو ينهي الاجتماع", "نحن ننتهي في الخامسة"],
+      "fr": ["Je termine mon travail", "Il termine la réunion", "Nous finissons à cinq heures"],
+      "it": ["Finisco il mio lavoro", "Lui termina la riunione", "Finiamo alle cinque"],
+      "ru": ["Я заканчиваю работу", "Он заканчивает встречу", "Мы заканчиваем в пять"],
+      "es": ["Yo termino mi trabajo", "Él termina la reunión", "Nosotros terminamos a las cinco"],
+      "pl": ["Kończę moją pracę", "On kończy spotkanie", "Kończymy o piątej"],
+      "fa": ["من کارم را تمام می‌کنم", "او جلسه را تمام می‌کند", "ما ساعت پنج تمام می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_525_es",
+    "word": "continuar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to continue",
+      "de": "weitermachen, fortsetzen",
+      "ar": "يستمر",
+      "fr": "continuer",
+      "it": "continuare",
+      "ru": "продолжать",
+      "es": "continuar",
+      "pl": "kontynuować",
+      "fa": "ادامه دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing ongoing action without interruption",
+      "de": "Verb für fortlaufende Handlung ohne Unterbrechung",
+      "ar": "فعل يعبر عن إجراء مستمر دون انقطاع",
+      "fr": "Verbe exprimant une action continue sans interruption",
+      "it": "Verbo che esprime azione continua senza interruzione",
+      "ru": "Глагол, выражающий продолжающееся действие без прерывания",
+      "es": "Verbo que expresa acción continua sin interrupción",
+      "pl": "Czasownik wyrażający trwające działanie bez przerwy",
+      "fa": "فعلی که عمل مداوم بدون وقفه را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I continue studying", "She continues working", "We continue the journey"],
+      "de": ["Ich lerne weiter", "Sie arbeitet weiter", "Wir setzen die Reise fort"],
+      "ar": ["أستمر في الدراسة", "هي تستمر في العمل", "نحن نستمر في الرحلة"],
+      "fr": ["Je continue à étudier", "Elle continue à travailler", "Nous continuons le voyage"],
+      "it": ["Continuo a studiare", "Lei continua a lavorare", "Continuiamo il viaggio"],
+      "ru": ["Я продолжаю учиться", "Она продолжает работать", "Мы продолжаем путешествие"],
+      "es": ["Yo continúo estudiando", "Ella continúa trabajando", "Nosotros continuamos el viaje"],
+      "pl": ["Kontynuuję naukę", "Ona kontynuuje pracę", "Kontynuujemy podróż"],
+      "fa": ["من به مطالعه ادامه می‌دهم", "او به کار ادامه می‌دهد", "ما به سفر ادامه می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_526_es",
+    "word": "acabar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to finish, to end",
+      "de": "beenden, aufhören",
+      "ar": "ينتهي، يكمل",
+      "fr": "finir, achever",
+      "it": "finire, completare",
+      "ru": "заканчивать",
+      "es": "acabar",
+      "pl": "kończyć, skończyć",
+      "fa": "تمام شدن"
+    },
+    "explanations": {
+      "en": "Verb expressing conclusion or completion, synonym of terminar",
+      "de": "Verb für Abschluss oder Vollendung, Synonym von terminar",
+      "ar": "فعل يعبر عن الختام أو الإكمال، مرادف لـ terminar",
+      "fr": "Verbe exprimant la conclusion ou l'achèvement, synonyme de terminar",
+      "it": "Verbo che esprime conclusione o completamento, sinonimo di terminar",
+      "ru": "Глагол, выражающий завершение или окончание, синоним terminar",
+      "es": "Verbo que expresa conclusión o terminación, sinónimo de terminar",
+      "pl": "Czasownik wyrażający zakończenie lub ukończenie, synonim terminar",
+      "fa": "فعلی که نتیجه‌گیری یا تکمیل را بیان می‌کند، مترادف terminar"
+    },
+    "examples": {
+      "en": ["I just finished", "He finishes soon", "We finish the task"],
+      "de": ["Ich bin gerade fertig", "Er ist bald fertig", "Wir beenden die Aufgabe"],
+      "ar": ["لقد انتهيت للتو", "هو ينتهي قريباً", "نحن ننهي المهمة"],
+      "fr": ["Je viens de finir", "Il finit bientôt", "Nous finissons la tâche"],
+      "it": ["Ho appena finito", "Lui finisce presto", "Finiamo il compito"],
+      "ru": ["Я только что закончил", "Он скоро закончит", "Мы заканчиваем задачу"],
+      "es": ["Yo acabo de terminar", "Él acaba pronto", "Nosotros acabamos la tarea"],
+      "pl": ["Właśnie skończyłem", "On kończy wkrótce", "Kończymy zadanie"],
+      "fa": ["من تازه تمام کردم", "او زود تمام می‌کند", "ما کار را تمام می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_527_es",
+    "word": "cambiar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to change",
+      "de": "ändern, wechseln",
+      "ar": "يغير",
+      "fr": "changer",
+      "it": "cambiare",
+      "ru": "менять, изменять",
+      "es": "cambiar",
+      "pl": "zmieniać",
+      "fa": "تغییر دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing alteration or transformation",
+      "de": "Verb für Änderung oder Transformation",
+      "ar": "فعل يعبر عن التغيير أو التحول",
+      "fr": "Verbe exprimant l'altération ou la transformation",
+      "it": "Verbo che esprime alterazione o trasformazione",
+      "ru": "Глагол, выражающий изменение или трансформацию",
+      "es": "Verbo que expresa alteración o transformación",
+      "pl": "Czasownik wyrażający zmianę lub transformację",
+      "fa": "فعلی که تغییر یا تحول را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I change my mind", "She changes clothes", "We change the plan"],
+      "de": ["Ich ändere meine Meinung", "Sie wechselt die Kleidung", "Wir ändern den Plan"],
+      "ar": ["أغير رأيي", "هي تغير الملابس", "نحن نغير الخطة"],
+      "fr": ["Je change d'avis", "Elle change de vêtements", "Nous changeons le plan"],
+      "it": ["Cambio idea", "Lei cambia vestiti", "Cambiamo il piano"],
+      "ru": ["Я меняю мнение", "Она меняет одежду", "Мы меняем план"],
+      "es": ["Yo cambio de opinión", "Ella cambia de ropa", "Nosotros cambiamos el plan"],
+      "pl": ["Zmieniam zdanie", "Ona zmienia ubranie", "Zmieniamy plan"],
+      "fa": ["من نظرم را عوض می‌کنم", "او لباسش را عوض می‌کند", "ما برنامه را تغییر می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_528_es",
+    "word": "mover",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to move",
+      "de": "bewegen",
+      "ar": "يحرك",
+      "fr": "bouger, déplacer",
+      "it": "muovere, spostare",
+      "ru": "двигать, перемещать",
+      "es": "mover",
+      "pl": "ruszać, przenosić",
+      "fa": "حرکت دادن، جابجا کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing change of position or location",
+      "de": "Verb für Änderung der Position oder des Standorts",
+      "ar": "فعل يعبر عن تغيير الموقع أو المكان",
+      "fr": "Verbe exprimant le changement de position ou d'emplacement",
+      "it": "Verbo che esprime cambio di posizione o ubicazione",
+      "ru": "Глагол, выражающий изменение позиции или местоположения",
+      "es": "Verbo que expresa cambio de posición o ubicación",
+      "pl": "Czasownik wyrażający zmianę pozycji lub lokalizacji",
+      "fa": "فعلی که تغییر موقعیت یا مکان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I move the chair", "He moves quickly", "We move the table"],
+      "de": ["Ich bewege den Stuhl", "Er bewegt sich schnell", "Wir bewegen den Tisch"],
+      "ar": ["أحرك الكرسي", "هو يتحرك بسرعة", "نحن نحرك الطاولة"],
+      "fr": ["Je déplace la chaise", "Il bouge rapidement", "Nous déplaçons la table"],
+      "it": ["Muovo la sedia", "Lui si muove velocemente", "Spostiamo il tavolo"],
+      "ru": ["Я двигаю стул", "Он двигается быстро", "Мы двигаем стол"],
+      "es": ["Yo muevo la silla", "Él se mueve rápido", "Nosotros movemos la mesa"],
+      "pl": ["Ruszam krzesłem", "On rusza się szybko", "Przesuwamy stół"],
+      "fa": ["من صندلی را جابجا می‌کنم", "او سریع حرکت می‌کند", "ما میز را جابجا می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_529_es",
+    "word": "quedarse",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to stay, to remain",
+      "de": "bleiben",
+      "ar": "يبقى",
+      "fr": "rester",
+      "it": "restare, rimanere",
+      "ru": "оставаться",
+      "es": "quedarse",
+      "pl": "zostawać, pozostawać",
+      "fa": "ماندن"
+    },
+    "explanations": {
+      "en": "Reflexive verb expressing remaining in a place or state",
+      "de": "Reflexives Verb für das Verbleiben an einem Ort oder in einem Zustand",
+      "ar": "فعل انعكاسي يعبر عن البقاء في مكان أو حالة",
+      "fr": "Verbe réfléchi exprimant le fait de rester dans un lieu ou un état",
+      "it": "Verbo riflessivo che esprime il rimanere in un luogo o stato",
+      "ru": "Возвратный глагол, выражающий пребывание в месте или состоянии",
+      "es": "Verbo reflexivo que expresa permanecer en un lugar o estado",
+      "pl": "Czasownik zwrotny wyrażający pozostawanie w miejscu lub stanie",
+      "fa": "فعل انعکاسی که ماندن در مکان یا حالت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I stay home", "She stays here", "We stay together"],
+      "de": ["Ich bleibe zu Hause", "Sie bleibt hier", "Wir bleiben zusammen"],
+      "ar": ["أبقى في المنزل", "هي تبقى هنا", "نحن نبقى معاً"],
+      "fr": ["Je reste à la maison", "Elle reste ici", "Nous restons ensemble"],
+      "it": ["Resto a casa", "Lei resta qui", "Restiamo insieme"],
+      "ru": ["Я остаюсь дома", "Она остаётся здесь", "Мы остаёмся вместе"],
+      "es": ["Yo me quedo en casa", "Ella se queda aquí", "Nosotros nos quedamos juntos"],
+      "pl": ["Zostaję w domu", "Ona zostaje tutaj", "Zostajemy razem"],
+      "fa": ["من خانه می‌مانم", "او اینجا می‌ماند", "ما با هم می‌مانیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_530_es",
+    "word": "regresar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to return, to go back",
+      "de": "zurückkehren, zurückgehen",
+      "ar": "يعود، يرجع",
+      "fr": "retourner, revenir",
+      "it": "tornare, ritornare",
+      "ru": "возвращаться",
+      "es": "regresar",
+      "pl": "wracać",
+      "fa": "برگشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing return to a previous place or state",
+      "de": "Verb für die Rückkehr zu einem früheren Ort oder Zustand",
+      "ar": "فعل يعبر عن العودة إلى مكان أو حالة سابقة",
+      "fr": "Verbe exprimant le retour à un lieu ou un état précédent",
+      "it": "Verbo che esprime il ritorno a un luogo o stato precedente",
+      "ru": "Глагол, выражающий возвращение в предыдущее место или состояние",
+      "es": "Verbo que expresa regreso a un lugar o estado previo",
+      "pl": "Czasownik wyrażający powrót do poprzedniego miejsca lub stanu",
+      "fa": "فعلی که بازگشت به مکان یا حالت قبلی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I return home", "He goes back tomorrow", "We return on Monday"],
+      "de": ["Ich kehre nach Hause zurück", "Er geht morgen zurück", "Wir kehren am Montag zurück"],
+      "ar": ["أعود إلى المنزل", "هو يعود غداً", "نحن نعود يوم الاثنين"],
+      "fr": ["Je retourne à la maison", "Il revient demain", "Nous revenons lundi"],
+      "it": ["Torno a casa", "Lui torna domani", "Torniamo lunedì"],
+      "ru": ["Я возвращаюсь домой", "Он возвращается завтра", "Мы возвращаемся в понедельник"],
+      "es": ["Yo regreso a casa", "Él regresa mañana", "Nosotros regresamos el lunes"],
+      "pl": ["Wracam do domu", "On wraca jutro", "Wracamy w poniedziałek"],
+      "fa": ["من به خانه برمی‌گردم", "او فردا برمی‌گردد", "ما دوشنبه برمی‌گردیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_531_es",
+    "word": "llegar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to arrive, to reach",
+      "de": "ankommen, erreichen",
+      "ar": "يصل",
+      "fr": "arriver",
+      "it": "arrivare",
+      "ru": "прибывать, достигать",
+      "es": "llegar",
+      "pl": "przybywać, docierać",
+      "fa": "رسیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing arrival at a destination or achievement of a goal",
+      "de": "Verb für Ankunft an einem Ziel oder Erreichung eines Ziels",
+      "ar": "فعل يعبر عن الوصول إلى وجهة أو تحقيق هدف",
+      "fr": "Verbe exprimant l'arrivée à une destination ou la réalisation d'un objectif",
+      "it": "Verbo che esprime arrivo a una destinazione o raggiungimento di un obiettivo",
+      "ru": "Глагол, выражающий прибытие в пункт назначения или достижение цели",
+      "es": "Verbo que expresa llegada a un destino o logro de un objetivo",
+      "pl": "Czasownik wyrażający przybycie do miejsca docelowego lub osiągnięcie celu",
+      "fa": "فعلی که رسیدن به مقصد یا دستیابی به هدف را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I arrive at eight", "She reaches the station", "We arrive on time"],
+      "de": ["Ich komme um acht an", "Sie erreicht den Bahnhof", "Wir kommen pünktlich an"],
+      "ar": ["أصل في الثامنة", "هي تصل إلى المحطة", "نحن نصل في الموعد"],
+      "fr": ["J'arrive à huit heures", "Elle arrive à la gare", "Nous arrivons à l'heure"],
+      "it": ["Arrivo alle otto", "Lei arriva alla stazione", "Arriviamo in orario"],
+      "ru": ["Я прибываю в восемь", "Она достигает станции", "Мы прибываем вовремя"],
+      "es": ["Yo llego a las ocho", "Ella llega a la estación", "Nosotros llegamos a tiempo"],
+      "pl": ["Przybywam o ósmej", "Ona dociera na stację", "Przybywamy na czas"],
+      "fa": ["من ساعت هشت می‌رسم", "او به ایستگاه می‌رسد", "ما سر وقت می‌رسیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_532_es",
+    "word": "entrar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to enter, to go in",
+      "de": "eintreten, hineingehen",
+      "ar": "يدخل",
+      "fr": "entrer",
+      "it": "entrare",
+      "ru": "входить",
+      "es": "entrar",
+      "pl": "wchodzić",
+      "fa": "وارد شدن"
+    },
+    "explanations": {
+      "en": "Verb expressing movement into a place or space",
+      "de": "Verb für Bewegung in einen Ort oder Raum",
+      "ar": "فعل يعبر عن الدخول إلى مكان أو فضاء",
+      "fr": "Verbe exprimant le mouvement dans un lieu ou un espace",
+      "it": "Verbo che esprime movimento in un luogo o spazio",
+      "ru": "Глагол, выражающий движение в место или пространство",
+      "es": "Verbo que expresa movimiento hacia un lugar o espacio",
+      "pl": "Czasownik wyrażający ruch do miejsca lub przestrzeni",
+      "fa": "فعلی که حرکت به داخل مکان یا فضا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I enter the room", "He goes in first", "We enter together"],
+      "de": ["Ich betrete das Zimmer", "Er geht zuerst hinein", "Wir gehen zusammen hinein"],
+      "ar": ["أدخل الغرفة", "هو يدخل أولاً", "نحن ندخل معاً"],
+      "fr": ["J'entre dans la pièce", "Il entre en premier", "Nous entrons ensemble"],
+      "it": ["Entro nella stanza", "Lui entra per primo", "Entriamo insieme"],
+      "ru": ["Я вхожу в комнату", "Он входит первым", "Мы входим вместе"],
+      "es": ["Yo entro a la habitación", "Él entra primero", "Nosotros entramos juntos"],
+      "pl": ["Wchodzę do pokoju", "On wchodzi pierwszy", "Wchodzimy razem"],
+      "fa": ["من وارد اتاق می‌شوم", "او اول وارد می‌شود", "ما با هم وارد می‌شویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_533_es",
+    "word": "partir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to leave, to depart",
+      "de": "weggehen, abreisen",
+      "ar": "يغادر، يرحل",
+      "fr": "partir",
+      "it": "partire",
+      "ru": "уходить, уезжать",
+      "es": "partir",
+      "pl": "wyjeżdżać, odchodzić",
+      "fa": "حرکت کردن، رفتن"
+    },
+    "explanations": {
+      "en": "Verb expressing departure from a place",
+      "de": "Verb für die Abfahrt von einem Ort",
+      "ar": "فعل يعبر عن المغادرة من مكان",
+      "fr": "Verbe exprimant le départ d'un lieu",
+      "it": "Verbo che esprime la partenza da un luogo",
+      "ru": "Глагол, выражающий отъезд из места",
+      "es": "Verbo que expresa salida de un lugar",
+      "pl": "Czasownik wyrażający wyjazd z miejsca",
+      "fa": "فعلی که خروج از مکان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I leave tomorrow", "The train departs now", "We leave at noon"],
+      "de": ["Ich gehe morgen weg", "Der Zug fährt jetzt ab", "Wir fahren mittags ab"],
+      "ar": ["أغادر غداً", "القطار يغادر الآن", "نحن نغادر الظهر"],
+      "fr": ["Je pars demain", "Le train part maintenant", "Nous partons à midi"],
+      "it": ["Parto domani", "Il treno parte ora", "Partiamo a mezzogiorno"],
+      "ru": ["Я уезжаю завтра", "Поезд отправляется сейчас", "Мы уезжаем в полдень"],
+      "es": ["Yo parto mañana", "El tren parte ahora", "Nosotros partimos al mediodía"],
+      "pl": ["Wyjeżdżam jutro", "Pociąg odjeżdża teraz", "Wyjeżdżamy w południe"],
+      "fa": ["من فردا حرکت می‌کنم", "قطار الان حرکت می‌کند", "ما ظهر حرکت می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_534_es",
+    "word": "abrir",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to open",
+      "de": "öffnen",
+      "ar": "يفتح",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "ru": "открывать",
+      "es": "abrir",
+      "pl": "otwierać",
+      "fa": "باز کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of making something accessible or visible",
+      "de": "Verb für die Handlung, etwas zugänglich oder sichtbar zu machen",
+      "ar": "فعل يعبر عن فعل جعل شيء متاحاً أو مرئياً",
+      "fr": "Verbe exprimant l'action de rendre quelque chose accessible ou visible",
+      "it": "Verbo che esprime l'azione di rendere qualcosa accessibile o visibile",
+      "ru": "Глагол, выражающий действие открывания чего-либо",
+      "es": "Verbo que expresa la acción de hacer algo accesible o visible",
+      "pl": "Czasownik wyrażający czynność udostępniania lub uwidaczniania czegoś",
+      "fa": "فعلی که عمل در دسترس یا قابل رویت کردن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I open the door", "She opens the window", "We open the store"],
+      "de": ["Ich öffne die Tür", "Sie öffnet das Fenster", "Wir öffnen das Geschäft"],
+      "ar": ["أفتح الباب", "هي تفتح النافذة", "نحن نفتح المتجر"],
+      "fr": ["J'ouvre la porte", "Elle ouvre la fenêtre", "Nous ouvrons le magasin"],
+      "it": ["Apro la porta", "Lei apre la finestra", "Apriamo il negozio"],
+      "ru": ["Я открываю дверь", "Она открывает окно", "Мы открываем магазин"],
+      "es": ["Yo abro la puerta", "Ella abre la ventana", "Nosotros abrimos la tienda"],
+      "pl": ["Otwieram drzwi", "Ona otwiera okno", "Otwieramy sklep"],
+      "fa": ["من در را باز می‌کنم", "او پنجره را باز می‌کند", "ما فروشگاه را باز می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_535_es",
+    "word": "cerrar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to close",
+      "de": "schließen",
+      "ar": "يغلق",
+      "fr": "fermer",
+      "it": "chiudere",
+      "ru": "закрывать",
+      "es": "cerrar",
+      "pl": "zamykać",
+      "fa": "بستن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of making something inaccessible or shut",
+      "de": "Verb für die Handlung, etwas unzugänglich oder geschlossen zu machen",
+      "ar": "فعل يعبر عن فعل جعل شيء غير متاح أو مغلق",
+      "fr": "Verbe exprimant l'action de rendre quelque chose inaccessible ou fermé",
+      "it": "Verbo che esprime l'azione di rendere qualcosa inaccessibile o chiuso",
+      "ru": "Глагол, выражающий действие закрывания чего-либо",
+      "es": "Verbo que expresa la acción de hacer algo inaccesible o cerrado",
+      "pl": "Czasownik wyrażający czynność zamykania lub uniemożliwiania dostępu do czegoś",
+      "fa": "فعلی که عمل غیرقابل دسترس یا بسته کردن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I close the door", "He closes the book", "We close at nine"],
+      "de": ["Ich schließe die Tür", "Er schließt das Buch", "Wir schließen um neun"],
+      "ar": ["أغلق الباب", "هو يغلق الكتاب", "نحن نغلق في التاسعة"],
+      "fr": ["Je ferme la porte", "Il ferme le livre", "Nous fermons à neuf heures"],
+      "it": ["Chiudo la porta", "Lui chiude il libro", "Chiudiamo alle nove"],
+      "ru": ["Я закрываю дверь", "Он закрывает книгу", "Мы закрываемся в девять"],
+      "es": ["Yo cierro la puerta", "Él cierra el libro", "Nosotros cerramos a las nueve"],
+      "pl": ["Zamykam drzwi", "On zamyka książkę", "Zamykamy o dziewiątej"],
+      "fa": ["من در را می‌بندم", "او کتاب را می‌بندد", "ما ساعت نه می‌بندیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_536_es",
+    "word": "empujar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to push",
+      "de": "schieben, drücken",
+      "ar": "يدفع",
+      "fr": "pousser",
+      "it": "spingere",
+      "ru": "толкать",
+      "es": "empujar",
+      "pl": "pchać",
+      "fa": "هل دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of applying force to move something away",
+      "de": "Verb für die Handlung, Kraft aufzuwenden, um etwas wegzubewegen",
+      "ar": "فعل يعبر عن فعل تطبيق القوة لتحريك شيء بعيداً",
+      "fr": "Verbe exprimant l'action d'appliquer une force pour éloigner quelque chose",
+      "it": "Verbo che esprime l'azione di applicare forza per allontanare qualcosa",
+      "ru": "Глагол, выражающий действие применения силы для перемещения чего-либо",
+      "es": "Verbo que expresa la acción de aplicar fuerza para mover algo",
+      "pl": "Czasownik wyrażający czynność wywierania siły w celu przesunięcia czegoś",
+      "fa": "فعلی که عمل اعمال نیرو برای حرکت دادن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I push the door", "He pushes the cart", "We push together"],
+      "de": ["Ich drücke die Tür", "Er schiebt den Wagen", "Wir schieben zusammen"],
+      "ar": ["أدفع الباب", "هو يدفع العربة", "نحن ندفع معاً"],
+      "fr": ["Je pousse la porte", "Il pousse le chariot", "Nous poussons ensemble"],
+      "it": ["Spingo la porta", "Lui spinge il carrello", "Spingiamo insieme"],
+      "ru": ["Я толкаю дверь", "Он толкает тележку", "Мы толкаем вместе"],
+      "es": ["Yo empujo la puerta", "Él empuja el carro", "Nosotros empujamos juntos"],
+      "pl": ["Pcham drzwi", "On pcha wózek", "Pchamy razem"],
+      "fa": ["من در را هل می‌دهم", "او چرخ دستی را هل می‌دهد", "ما با هم هل می‌دهیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_537_es",
+    "word": "tirar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to pull, to throw",
+      "de": "ziehen, werfen",
+      "ar": "يسحب، يرمي",
+      "fr": "tirer, jeter",
+      "it": "tirare, gettare",
+      "ru": "тянуть, бросать",
+      "es": "tirar",
+      "pl": "ciągnąć, rzucać",
+      "fa": "کشیدن، پرتاب کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing pulling toward oneself or throwing something",
+      "de": "Verb für das Ziehen zu sich selbst oder Werfen von etwas",
+      "ar": "فعل يعبر عن السحب نحو النفس أو رمي شيء",
+      "fr": "Verbe exprimant le fait de tirer vers soi ou de jeter quelque chose",
+      "it": "Verbo che esprime il tirare verso di sé o lanciare qualcosa",
+      "ru": "Глагол, выражающий притягивание к себе или бросание чего-либо",
+      "es": "Verbo que expresa jalar hacia uno o lanzar algo",
+      "pl": "Czasownik wyrażający ciągnięcie do siebie lub rzucanie czymś",
+      "fa": "فعلی که کشیدن به سمت خود یا پرتاب کردن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I pull the rope", "She throws the ball", "We pull together"],
+      "de": ["Ich ziehe das Seil", "Sie wirft den Ball", "Wir ziehen zusammen"],
+      "ar": ["أسحب الحبل", "هي ترمي الكرة", "نحن نسحب معاً"],
+      "fr": ["Je tire la corde", "Elle jette la balle", "Nous tirons ensemble"],
+      "it": ["Tiro la corda", "Lei lancia la palla", "Tiriamo insieme"],
+      "ru": ["Я тяну верёвку", "Она бросает мяч", "Мы тянем вместе"],
+      "es": ["Yo tiro de la cuerda", "Ella tira la pelota", "Nosotros tiramos juntos"],
+      "pl": ["Ciągnę linę", "Ona rzuca piłkę", "Ciągniemy razem"],
+      "fa": ["من طناب را می‌کشم", "او توپ را پرتاب می‌کند", "ما با هم می‌کشیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_538_es",
+    "word": "llevar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to carry, to take",
+      "de": "tragen, bringen",
+      "ar": "يحمل، يأخذ",
+      "fr": "porter, emmener",
+      "it": "portare",
+      "ru": "нести, носить",
+      "es": "llevar",
+      "pl": "nosić, zabierać",
+      "fa": "حمل کردن، بردن"
+    },
+    "explanations": {
+      "en": "Verb expressing transporting or wearing something",
+      "de": "Verb für das Transportieren oder Tragen von etwas",
+      "ar": "فعل يعبر عن نقل أو ارتداء شيء",
+      "fr": "Verbe exprimant le transport ou le port de quelque chose",
+      "it": "Verbo che esprime il trasporto o l'indossare qualcosa",
+      "ru": "Глагол, выражающий перенос или ношение чего-либо",
+      "es": "Verbo que expresa transportar o usar algo",
+      "pl": "Czasownik wyrażający transportowanie lub noszenie czegoś",
+      "fa": "فعلی که انتقال یا پوشیدن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I carry the bag", "He wears a hat", "We take the books"],
+      "de": ["Ich trage die Tasche", "Er trägt einen Hut", "Wir bringen die Bücher"],
+      "ar": ["أحمل الحقيبة", "هو يرتدي قبعة", "نحن نأخذ الكتب"],
+      "fr": ["Je porte le sac", "Il porte un chapeau", "Nous emmenons les livres"],
+      "it": ["Porto la borsa", "Lui porta un cappello", "Portiamo i libri"],
+      "ru": ["Я несу сумку", "Он носит шляпу", "Мы берём книги"],
+      "es": ["Yo llevo la bolsa", "Él lleva un sombrero", "Nosotros llevamos los libros"],
+      "pl": ["Noszę torbę", "On nosi kapelusz", "Zabieramy książki"],
+      "fa": ["من کیف را حمل می‌کنم", "او کلاه می‌پوشد", "ما کتاب‌ها را می‌بریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_539_es",
+    "word": "sostener",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to hold, to support",
+      "de": "halten, stützen",
+      "ar": "يمسك، يدعم",
+      "fr": "tenir, soutenir",
+      "it": "tenere, sostenere",
+      "ru": "держать, поддерживать",
+      "es": "sostener",
+      "pl": "trzymać, podtrzymywać",
+      "fa": "نگه داشتن، حمایت کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing keeping something in position or providing support",
+      "de": "Verb für das Halten von etwas in Position oder Unterstützung bieten",
+      "ar": "فعل يعبر عن إبقاء شيء في موضعه أو تقديم الدعم",
+      "fr": "Verbe exprimant le maintien de quelque chose en position ou le soutien",
+      "it": "Verbo che esprime il mantenere qualcosa in posizione o fornire supporto",
+      "ru": "Глагол, выражающий удержание чего-либо в положении или оказание поддержки",
+      "es": "Verbo que expresa mantener algo en posición o dar apoyo",
+      "pl": "Czasownik wyrażający trzymanie czegoś w pozycji lub zapewnianie wsparcia",
+      "fa": "فعلی که نگه داشتن چیزی در موقعیت یا ارائه پشتیبانی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I hold the baby", "She supports her friend", "We hold hands"],
+      "de": ["Ich halte das Baby", "Sie unterstützt ihre Freundin", "Wir halten Hände"],
+      "ar": ["أمسك الطفل", "هي تدعم صديقتها", "نحن نمسك أيدينا"],
+      "fr": ["Je tiens le bébé", "Elle soutient son amie", "Nous tenons nos mains"],
+      "it": ["Tengo il bambino", "Lei sostiene la sua amica", "Teniamo le mani"],
+      "ru": ["Я держу ребёнка", "Она поддерживает подругу", "Мы держимся за руки"],
+      "es": ["Yo sostengo al bebé", "Ella sostiene a su amiga", "Nosotros sostenemos las manos"],
+      "pl": ["Trzymam dziecko", "Ona wspiera przyjaciółkę", "Trzymamy się za ręce"],
+      "fa": ["من نوزاد را نگه می‌دارم", "او از دوستش حمایت می‌کند", "ما دست‌ها را نگه می‌داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a2_540_es",
+    "word": "soltar",
+    "level": "a2",
+    "cefrLevel": "A2",
+    "translations": {
+      "en": "to release, to let go",
+      "de": "loslassen, freigeben",
+      "ar": "يطلق، يترك",
+      "fr": "lâcher, libérer",
+      "it": "lasciare, rilasciare",
+      "ru": "отпускать, освобождать",
+      "es": "soltar",
+      "pl": "puszczać, zwalniać",
+      "fa": "رها کردن، ول کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing releasing something from grip or restraint",
+      "de": "Verb für das Loslassen von etwas aus dem Griff oder der Zurückhaltung",
+      "ar": "فعل يعبر عن إطلاق شيء من القبضة أو القيد",
+      "fr": "Verbe exprimant la libération de quelque chose de l'emprise ou de la contrainte",
+      "it": "Verbo che esprime il rilascio di qualcosa dalla presa o dal vincolo",
+      "ru": "Глагол, выражающий освобождение чего-либо из захвата или удержания",
+      "es": "Verbo que expresa liberar algo del agarre o restricción",
+      "pl": "Czasownik wyrażający puszczanie czegoś z chwytu lub ograniczenia",
+      "fa": "فعلی که رها کردن چیزی از چنگ یا محدودیت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I let go now", "He releases the bird", "We let go together"],
+      "de": ["Ich lasse jetzt los", "Er lässt den Vogel frei", "Wir lassen zusammen los"],
+      "ar": ["أترك الآن", "هو يطلق الطائر", "نحن نترك معاً"],
+      "fr": ["Je lâche maintenant", "Il libère l'oiseau", "Nous lâchons ensemble"],
+      "it": ["Lascio ora", "Lui rilascia l'uccello", "Lasciamo insieme"],
+      "ru": ["Я отпускаю сейчас", "Он освобождает птицу", "Мы отпускаем вместе"],
+      "es": ["Yo suelto ahora", "Él suelta el pájaro", "Nosotros soltamos juntos"],
+      "pl": ["Puszczam teraz", "On puszcza ptaka", "Puszczamy razem"],
+      "fa": ["من الان ول می‌کنم", "او پرنده را رها می‌کند", "ما با هم ول می‌کنیم"]
+    },
+    "conjugations": null
+  }
+]
