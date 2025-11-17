@@ -1,0 +1,377 @@
+name: Auto-Update Project Memory + Data Validation
+
+on:
+  push:
+    branches: [ main, master, develop ]
+    paths:
+      - 'src/data/**'  # Trigger on data file changes
+      - '**.js'
+      - '**.json'
+  pull_request:
+    types: [ closed ]
+    branches: [ main, master ]
+  schedule:
+    # Weekly summary + data validation every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  validate-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install gitpython jsonschema
+          
+      - name: Validate Data Quality
+        id: validate
+        run: |
+          python << 'EOF'
+          import json
+          import os
+          from collections import defaultdict
+          
+          # Expected schema for vocabulary
+          EXPECTED_FIELDS = [
+              'word', 'translation', 'part_of_speech', 'difficulty',
+              'category', 'pronunciation_ipa', 'audio_filename',
+              'example_sentences'
+          ]
+          
+          LANGUAGES = ['english', 'german', 'arabic', 'polish', 'french', 
+                       'italian', 'russian', 'spanish', 'persian']
+          
+          results = {
+              'languages': {},
+              'total_words': 0,
+              'total_audio_files': 0,
+              'schema_violations': 0,
+              'missing_batches': [],
+              'incomplete_languages': []
+          }
+          
+          # Validate each language
+          for lang in LANGUAGES:
+              lang_path = f'src/data/languages/{lang}'
+              
+              if not os.path.exists(lang_path):
+                  results['languages'][lang] = {'status': 'missing', 'words': 0}
+                  continue
+              
+              lang_data = {
+                  'batches_found': 0,
+                  'words': 0,
+                  'audio_files': 0,
+                  'schema_violations': 0,
+                  'missing_batches': []
+              }
+              
+              # Check batches 1-10
+              for batch_num in range(1, 11):
+                  batch_file = f'{lang_path}/batches/batch_{batch_num}.json'
+                  
+                  if os.path.exists(batch_file):
+                      lang_data['batches_found'] += 1
+                      
+                      try:
+                          with open(batch_file, 'r', encoding='utf-8') as f:
+                              batch_data = json.load(f)
+                          
+                          # Validate schema
+                          for entry in batch_data:
+                              lang_data['words'] += 1
+                              
+                              # Check for required fields
+                              missing_fields = [f for f in EXPECTED_FIELDS if f not in entry]
+                              if missing_fields:
+                                  lang_data['schema_violations'] += 1
+                              
+                              # Count audio references
+                              if 'audio_filename' in entry and entry['audio_filename']:
+                                  lang_data['audio_files'] += 1
+                                  
+                      except json.JSONDecodeError:
+                          print(f"❌ Invalid JSON in {batch_file}")
+                          lang_data['schema_violations'] += 1
+                  else:
+                      lang_data['missing_batches'].append(batch_num)
+              
+              # Determine status
+              if lang_data['batches_found'] == 10 and lang_data['schema_violations'] == 0:
+                  status = 'complete'
+              elif lang_data['schema_violations'] > 0:
+                  status = 'schema_errors'
+              elif lang_data['batches_found'] < 10:
+                  status = 'incomplete'
+              else:
+                  status = 'unknown'
+              
+              lang_data['status'] = status
+              results['languages'][lang] = lang_data
+              
+              # Update totals
+              results['total_words'] += lang_data['words']
+              results['total_audio_files'] += lang_data['audio_files']
+              results['schema_violations'] += lang_data['schema_violations']
+              
+              if lang_data['missing_batches']:
+                  results['missing_batches'].append({
+                      'language': lang,
+                      'batches': lang_data['missing_batches']
+                  })
+              
+              if lang_data['batches_found'] < 10:
+                  results['incomplete_languages'].append(lang)
+          
+          # Save validation results
+          with open('data_validation.json', 'w') as f:
+              json.dump(results, f, indent=2)
+          
+          # Print summary
+          print(f"✅ Validated {len(LANGUAGES)} languages")
+          print(f"   Total words: {results['total_words']}")
+          print(f"   Schema violations: {results['schema_violations']}")
+          print(f"   Incomplete languages: {len(results['incomplete_languages'])}")
+          
+          # Set status for next steps
+          if results['schema_violations'] > 0:
+              exit(1)  # Fail workflow if schema errors found
+          EOF
+          
+      - name: Analyze Recent Changes
+        run: |
+          python << 'EOF'
+          import git
+          import json
+          from datetime import datetime, timedelta
+          
+          repo = git.Repo('.')
+          since_date = datetime.now() - timedelta(days=7)
+          recent_commits = list(repo.iter_commits('HEAD', since=since_date, max_count=50))
+          
+          commit_messages = []
+          data_file_changes = 0
+          
+          for commit in recent_commits:
+              commit_messages.append({
+                  'hash': commit.hexsha[:7],
+                  'message': commit.message.strip().split('\n')[0],
+                  'date': commit.committed_datetime.strftime('%Y-%m-%d %H:%M')
+              })
+              
+              # Count data file changes
+              for item in commit.stats.files:
+                  if 'src/data/' in item or item.endswith('.json'):
+                      data_file_changes += 1
+          
+          analysis = {
+              'commit_count': len(recent_commits),
+              'commits': commit_messages[:10],
+              'data_file_changes': data_file_changes,
+              'analysis_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+          }
+          
+          with open('commit_analysis.json', 'w') as f:
+              json.dump(analysis, f, indent=2)
+          
+          print(f"Analyzed {len(recent_commits)} commits")
+          print(f"Data file changes: {data_file_changes}")
+          EOF
+          
+      - name: Update Project Memory
+        run: |
+          python << 'EOF'
+          import json
+          import re
+          from datetime import datetime
+          
+          # Load validation results
+          with open('data_validation.json', 'r') as f:
+              validation = json.load(f)
+          
+          with open('commit_analysis.json', 'r') as f:
+              analysis = json.load(f)
+          
+          # Read current memory
+          memory_file = 'CLAUDE_PROJECT_MEMORY.md'
+          try:
+              with open(memory_file, 'r') as f:
+                  memory_content = f.read()
+          except FileNotFoundError:
+              print("Memory file not found")
+              exit(1)
+          
+          # Update timestamp
+          timestamp = datetime.now().strftime('%B %d, %Y')
+          memory_content = re.sub(
+              r'\*\*Last Updated:\*\* .+?  ',
+              f'**Last Updated:** {timestamp} (Auto-generated)  ',
+              memory_content
+          )
+          
+          # Calculate completion percentage
+          total_possible_words = len(validation['languages']) * 500  # 9 languages × 500 words
+          completion_pct = (validation['total_words'] / total_possible_words * 100) if total_possible_words > 0 else 0
+          
+          # Update project status
+          if validation['schema_violations'] > 0:
+              status = f"{completion_pct:.0f}% Complete - Data Quality Issues Block Production"
+          elif validation['incomplete_languages']:
+              status = f"{completion_pct:.0f}% Complete - Incomplete Languages"
+          else:
+              status = "100% Complete - Production Ready"
+          
+          memory_content = re.sub(
+              r'\*\*Project Status:\*\* .+?  ',
+              f'**Project Status:** {status}  ',
+              memory_content
+          )
+          
+          # Update language coverage table
+          table_header = """| Language | Vocabulary | Batches | Audio | Status |
+|----------|------------|---------|-------|--------|"""
+          
+          table_rows = []
+          for lang, data in validation['languages'].items():
+              lang_name = lang.capitalize()
+              vocab = f"{data.get('words', 0)}/500"
+              batches = f"{data.get('batches_found', 0)}/10"
+              
+              # Status emoji
+              if data['status'] == 'complete':
+                  status_emoji = '✅ Ready'
+              elif data['status'] == 'schema_errors':
+                  status_emoji = '❌ Blocked'
+              elif data['status'] == 'incomplete':
+                  status_emoji = '❌ Blocked'
+              else:
+                  status_emoji = '⚠️ Unknown'
+              
+              # Audio status
+              if data.get('audio_files', 0) >= data.get('words', 0):
+                  audio = '✅ Complete'
+              elif data.get('missing_batches'):
+                  audio = f"⚠️ Batch {data['missing_batches'][0]} missing"
+              else:
+                  audio = f"⚠️ {data.get('audio_files', 0)} files"
+              
+              table_rows.append(f"| {lang_name}  | {vocab}    | {batches}   | {audio} | {status_emoji} |")
+          
+          language_table = table_header + '\n' + '\n'.join(table_rows)
+          language_table += f"\n\n**Overall Completion:** {completion_pct:.0f}% ({validation['total_words']} / {total_possible_words} words functional)"
+          
+          # Replace language coverage table
+          if '| Language | Vocabulary |' in memory_content:
+              memory_content = re.sub(
+                  r'\| Language \| Vocabulary \|.*?\n\n\*\*Overall Completion:\*\*.*',
+                  language_table,
+                  memory_content,
+                  flags=re.DOTALL
+              )
+          
+          # Update recent activity
+          recent_activity_md = "### Recent Activity (Last 7 Days)\n"
+          for commit in analysis['commits'][:5]:
+              recent_activity_md += f"- {commit['date']} - {commit['message']}\n"
+          
+          memory_content = re.sub(
+              r'### Recent Activity \(Last \d+ Days\)(.*?)(?=\n##|\Z)',
+              recent_activity_md,
+              memory_content,
+              flags=re.DOTALL
+          )
+          
+          # Write updated memory
+          with open(memory_file, 'w') as f:
+              f.write(memory_content)
+          
+          print(f"✅ Updated {memory_file}")
+          print(f"   - Completion: {completion_pct:.0f}%")
+          print(f"   - Schema violations: {validation['schema_violations']}")
+          EOF
+          
+      - name: Generate Data Quality Report
+        if: always()
+        run: |
+          python << 'EOF'
+          import json
+          from datetime import datetime
+          
+          with open('data_validation.json', 'r') as f:
+              validation = json.load(f)
+          
+          report = f"""# Data Quality Report - {datetime.now().strftime('%B %d, %Y')}
+          
+## Summary
+- **Total Words:** {validation['total_words']} / {len(validation['languages']) * 500}
+- **Schema Violations:** {validation['schema_violations']}
+- **Complete Languages:** {sum(1 for l in validation['languages'].values() if l['status'] == 'complete')} / {len(validation['languages'])}
+          
+## Issues Found
+"""
+          
+          if validation['schema_violations'] > 0:
+              report += "\n### Schema Violations\n"
+              for lang, data in validation['languages'].items():
+                  if data.get('schema_violations', 0) > 0:
+                      report += f"- **{lang.capitalize()}**: {data['schema_violations']} violations\n"
+          
+          if validation['missing_batches']:
+              report += "\n### Missing Batches\n"
+              for item in validation['missing_batches']:
+                  report += f"- **{item['language'].capitalize()}**: Batches {item['batches']}\n"
+          
+          if validation['incomplete_languages']:
+              report += "\n### Incomplete Languages\n"
+              for lang in validation['incomplete_languages']:
+                  data = validation['languages'][lang]
+                  report += f"- **{lang.capitalize()}**: {data['batches_found']}/10 batches, {data['words']} words\n"
+          
+          # Save report
+          with open('data_quality_report.md', 'w') as f:
+              f.write(report)
+          
+          print("✅ Generated data quality report")
+          EOF
+          
+      - name: Commit Memory Updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          if git diff --quiet CLAUDE_PROJECT_MEMORY.md; then
+            echo "No changes to project memory"
+          else
+            git add CLAUDE_PROJECT_MEMORY.md
+            git commit -m "🤖 Auto-update project memory + data validation [skip ci]"
+            git push
+            echo "✅ Memory updated"
+          fi
+          
+      - name: Archive Reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: quality-reports
+          path: |
+            data_validation.json
+            data_quality_report.md
+            commit_analysis.json
+          retention-days: 30
+          
+      - name: Fail if Schema Violations
+        if: steps.validate.outcome == 'failure'
+        run: |
+          echo "❌ Data quality issues found! Check artifacts for details."
+          exit 1
