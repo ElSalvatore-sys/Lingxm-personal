@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "universal_a1_041_it",
+    "word": "anno",
+    "translations": {
+      "en": "year",
+      "fa": "سال",
+      "de": "Jahr",
+      "ru": "год",
+      "ar": "سنة",
+      "es": "año",
+      "fr": "an, année",
+      "pt": "ano",
+      "zh": "年"
+    },
+    "examples": {
+      "en": [
+        "Ho venti anni.",
+        "I am twenty years old.",
+        "Quest'anno studio italiano.",
+        "This year I study Italian.",
+        "L'anno prossimo vado in Italia.",
+        "Next year I go to Italy."
+      ],
+      "fa": [
+        "Ho venti anni.",
+        "من بیست سال دارم.",
+        "Quest'anno studio italiano.",
+        "امسال ایتالیایی می‌خوانم.",
+        "L'anno prossimo vado in Italia.",
+        "سال آینده به ایتالیا می‌روم."
+      ],
+      "de": [
+        "Ho venti anni.",
+        "Ich bin zwanzig Jahre alt.",
+        "Quest'anno studio italiano.",
+        "Dieses Jahr lerne ich Italienisch.",
+        "L'anno prossimo vado in Italia.",
+        "Nächstes Jahr fahre ich nach Italien."
+      ],
+      "ru": [
+        "Ho venti anni.",
+        "Мне двадцать лет.",
+        "Quest'anno studio italiano.",
+        "В этом году я изучаю итальянский.",
+        "L'anno prossimo vado in Italia.",
+        "В следующем году я еду в Италию."
+      ],
+      "ar": [
+        "Ho venti anni.",
+        "عمري عشرون سنة.",
+        "Quest'anno studio italiano.",
+        "هذا العام أدرس الإيطالية.",
+        "L'anno prossimo vado in Italia.",
+        "العام القادم سأذهب إلى إيطاليا."
+      ],
+      "es": [
+        "Ho venti anni.",
+        "Tengo veinte años.",
+        "Quest'anno studio italiano.",
+        "Este año estudio italiano.",
+        "L'anno prossimo vado in Italia.",
+        "El año próximo voy a Italia."
+      ],
+      "fr": [
+        "Ho venti anni.",
+        "J'ai vingt ans.",
+        "Quest'anno studio italiano.",
+        "Cette année j'étudie l'italien.",
+        "L'anno prossimo vado in Italia.",
+        "L'année prochaine je vais en Italie."
+      ],
+      "pt": [
+        "Ho venti anni.",
+        "Eu tenho vinte anos.",
+        "Quest'anno studio italiano.",
+        "Este ano estudo italiano.",
+        "L'anno prossimo vado in Italia.",
+        "No próximo ano vou para a Itália."
+      ],
+      "zh": [
+        "Ho venti anni.",
+        "我二十岁。",
+        "Quest'anno studio italiano.",
+        "今年我学习意大利语。",
+        "L'anno prossimo vado in Italia.",
+        "明年我去意大利。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_042_it",
+    "word": "volta",
+    "translations": {
+      "en": "time (occurrence)",
+      "fa": "بار، دفعه",
+      "de": "Mal",
+      "ru": "раз",
+      "ar": "مرة",
+      "es": "vez",
+      "fr": "fois",
+      "pt": "vez",
+      "zh": "次"
+    },
+    "examples": {
+      "en": [
+        "Una volta sono andato a Roma.",
+        "Once I went to Rome.",
+        "Questa è la prima volta.",
+        "This is the first time.",
+        "Mangio due volte al giorno.",
+        "I eat twice a day."
+      ],
+      "fa": [
+        "Una volta sono andato a Roma.",
+        "یک بار به رم رفتم.",
+        "Questa è la prima volta.",
+        "این اولین بار است.",
+        "Mangio due volte al giorno.",
+        "من روزی دو بار غذا می‌خورم."
+      ],
+      "de": [
+        "Una volta sono andato a Roma.",
+        "Einmal bin ich nach Rom gefahren.",
+        "Questa è la prima volta.",
+        "Das ist das erste Mal.",
+        "Mangio due volte al giorno.",
+        "Ich esse zweimal am Tag."
+      ],
+      "ru": [
+        "Una volta sono andato a Roma.",
+        "Однажды я ездил в Рим.",
+        "Questa è la prima volta.",
+        "Это первый раз.",
+        "Mangio due volte al giorno.",
+        "Я ем два раза в день."
+      ],
+      "ar": [
+        "Una volta sono andato a Roma.",
+        "مرة واحدة ذهبت إلى روما.",
+        "Questa è la prima volta.",
+        "هذه هي المرة الأولى.",
+        "Mangio due volte al giorno.",
+        "آكل مرتين في اليوم."
+      ],
+      "es": [
+        "Una volta sono andato a Roma.",
+        "Una vez fui a Roma.",
+        "Questa è la prima volta.",
+        "Esta es la primera vez.",
+        "Mangio due volte al giorno.",
+        "Como dos veces al día."
+      ],
+      "fr": [
+        "Una volta sono andato a Roma.",
+        "Une fois je suis allé à Rome.",
+        "Questa è la prima volta.",
+        "C'est la première fois.",
+        "Mangio due volte al giorno.",
+        "Je mange deux fois par jour."
+      ],
+      "pt": [
+        "Una volta sono andato a Roma.",
+        "Uma vez fui a Roma.",
+        "Questa è la prima volta.",
+        "Esta é a primeira vez.",
+        "Mangio due volte al giorno.",
+        "Eu como duas vezes por dia."
+      ],
+      "zh": [
+        "Una volta sono andato a Roma.",
+        "有一次我去了罗马。",
+        "Questa è la prima volta.",
+        "这是第一次。",
+        "Mangio due volte al giorno.",
+        "我一天吃两次。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_043_it",
+    "word": "giorno",
+    "translations": {
+      "en": "day",
+      "fa": "روز",
+      "de": "Tag",
+      "ru": "день",
+      "ar": "يوم",
+      "es": "día",
+      "fr": "jour",
+      "pt": "dia",
+      "zh": "天"
+    },
+    "examples": {
+      "en": [
+        "Oggi è un bel giorno.",
+        "Today is a beautiful day.",
+        "Buon giorno!",
+        "Good morning!",
+        "Ogni giorno studio italiano.",
+        "Every day I study Italian."
+      ],
+      "fa": [
+        "Oggi è un bel giorno.",
+        "امروز روز زیبایی است.",
+        "Buon giorno!",
+        "روز بخیر!",
+        "Ogni giorno studio italiano.",
+        "هر روز ایتالیایی می‌خوانم."
+      ],
+      "de": [
+        "Oggi è un bel giorno.",
+        "Heute ist ein schöner Tag.",
+        "Buon giorno!",
+        "Guten Tag!",
+        "Ogni giorno studio italiano.",
+        "Jeden Tag lerne ich Italienisch."
+      ],
+      "ru": [
+        "Oggi è un bel giorno.",
+        "Сегодня прекрасный день.",
+        "Buon giorno!",
+        "Добрый день!",
+        "Ogni giorno studio italiano.",
+        "Каждый день я изучаю итальянский."
+      ],
+      "ar": [
+        "Oggi è un bel giorno.",
+        "اليوم يوم جميل.",
+        "Buon giorno!",
+        "يوم جيد!",
+        "Ogni giorno studio italiano.",
+        "كل يوم أدرس الإيطالية."
+      ],
+      "es": [
+        "Oggi è un bel giorno.",
+        "Hoy es un día bonito.",
+        "Buon giorno!",
+        "¡Buenos días!",
+        "Ogni giorno studio italiano.",
+        "Cada día estudio italiano."
+      ],
+      "fr": [
+        "Oggi è un bel giorno.",
+        "Aujourd'hui c'est une belle journée.",
+        "Buon giorno!",
+        "Bonjour!",
+        "Ogni giorno studio italiano.",
+        "Chaque jour j'étudie l'italien."
+      ],
+      "pt": [
+        "Oggi è un bel giorno.",
+        "Hoje é um dia bonito.",
+        "Buon giorno!",
+        "Bom dia!",
+        "Ogni giorno studio italiano.",
+        "Todo dia estudo italiano."
+      ],
+      "zh": [
+        "Oggi è un bel giorno.",
+        "今天是美好的一天。",
+        "Buon giorno!",
+        "早上好！",
+        "Ogni giorno studio italiano.",
+        "我每天学习意大利语。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_044_it",
+    "word": "parte",
+    "translations": {
+      "en": "part",
+      "fa": "قسمت، بخش",
+      "de": "Teil",
+      "ru": "часть",
+      "ar": "جزء",
+      "es": "parte",
+      "fr": "partie",
+      "pt": "parte",
+      "zh": "部分"
+    },
+    "examples": {
+      "en": [
+        "Questa è la parte importante.",
+        "This is the important part.",
+        "Faccio parte della famiglia.",
+        "I'm part of the family.",
+        "La prima parte è facile.",
+        "The first part is easy."
+      ],
+      "fa": [
+        "Questa è la parte importante.",
+        "این قسمت مهم است.",
+        "Faccio parte della famiglia.",
+        "من بخشی از خانواده هستم.",
+        "La prima parte è facile.",
+        "قسمت اول آسان است."
+      ],
+      "de": [
+        "Questa è la parte importante.",
+        "Das ist der wichtige Teil.",
+        "Faccio parte della famiglia.",
+        "Ich bin Teil der Familie.",
+        "La prima parte è facile.",
+        "Der erste Teil ist leicht."
+      ],
+      "ru": [
+        "Questa è la parte importante.",
+        "Это важная часть.",
+        "Faccio parte della famiglia.",
+        "Я часть семьи.",
+        "La prima parte è facile.",
+        "Первая часть легкая."
+      ],
+      "ar": [
+        "Questa è la parte importante.",
+        "هذا هو الجزء المهم.",
+        "Faccio parte della famiglia.",
+        "أنا جزء من العائلة.",
+        "La prima parte è facile.",
+        "الجزء الأول سهل."
+      ],
+      "es": [
+        "Questa è la parte importante.",
+        "Esta es la parte importante.",
+        "Faccio parte della famiglia.",
+        "Soy parte de la familia.",
+        "La prima parte è facile.",
+        "La primera parte es fácil."
+      ],
+      "fr": [
+        "Questa è la parte importante.",
+        "C'est la partie importante.",
+        "Faccio parte della famiglia.",
+        "Je fais partie de la famille.",
+        "La prima parte è facile.",
+        "La première partie est facile."
+      ],
+      "pt": [
+        "Questa è la parte importante.",
+        "Esta é a parte importante.",
+        "Faccio parte della famiglia.",
+        "Eu faço parte da família.",
+        "La prima parte è facile.",
+        "A primeira parte é fácil."
+      ],
+      "zh": [
+        "Questa è la parte importante.",
+        "这是重要的部分。",
+        "Faccio parte della famiglia.",
+        "我是家庭的一员。",
+        "La prima parte è facile.",
+        "第一部分很容易。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_045_it",
+    "word": "caso",
+    "translations": {
+      "en": "case, chance",
+      "fa": "مورد، حالت",
+      "de": "Fall",
+      "ru": "случай",
+      "ar": "حالة",
+      "es": "caso",
+      "fr": "cas",
+      "pt": "caso",
+      "zh": "情况"
+    },
+    "examples": {
+      "en": [
+        "In questo caso, va bene.",
+        "In this case, it's fine.",
+        "Per caso hai tempo?",
+        "Do you happen to have time?",
+        "È un caso difficile.",
+        "It's a difficult case."
+      ],
+      "fa": [
+        "In questo caso, va bene.",
+        "در این مورد، خوب است.",
+        "Per caso hai tempo?",
+        "تصادفاً وقت داری؟",
+        "È un caso difficile.",
+        "این مورد دشواری است."
+      ],
+      "de": [
+        "In questo caso, va bene.",
+        "In diesem Fall ist es gut.",
+        "Per caso hai tempo?",
+        "Hast du zufällig Zeit?",
+        "È un caso difficile.",
+        "Das ist ein schwieriger Fall."
+      ],
+      "ru": [
+        "In questo caso, va bene.",
+        "В этом случае всё хорошо.",
+        "Per caso hai tempo?",
+        "У тебя случайно есть время?",
+        "È un caso difficile.",
+        "Это сложный случай."
+      ],
+      "ar": [
+        "In questo caso, va bene.",
+        "في هذه الحالة، الأمر جيد.",
+        "Per caso hai tempo?",
+        "هل لديك وقت بالصدفة؟",
+        "È un caso difficile.",
+        "إنها حالة صعبة."
+      ],
+      "es": [
+        "In questo caso, va bene.",
+        "En este caso, está bien.",
+        "Per caso hai tempo?",
+        "¿Por casualidad tienes tiempo?",
+        "È un caso difficile.",
+        "Es un caso difícil."
+      ],
+      "fr": [
+        "In questo caso, va bene.",
+        "Dans ce cas, c'est bien.",
+        "Per caso hai tempo?",
+        "Par hasard, as-tu du temps?",
+        "È un caso difficile.",
+        "C'est un cas difficile."
+      ],
+      "pt": [
+        "In questo caso, va bene.",
+        "Neste caso, está bem.",
+        "Per caso hai tempo?",
+        "Por acaso você tem tempo?",
+        "È un caso difficile.",
+        "É um caso difícil."
+      ],
+      "zh": [
+        "In questo caso, va bene.",
+        "在这种情况下，没问题。",
+        "Per caso hai tempo?",
+        "你碰巧有时间吗？",
+        "È un caso difficile.",
+        "这是一个困难的情况。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_046_it",
+    "word": "mano",
+    "translations": {
+      "en": "hand",
+      "fa": "دست",
+      "de": "Hand",
+      "ru": "рука",
+      "ar": "يد",
+      "es": "mano",
+      "fr": "main",
+      "pt": "mão",
+      "zh": "手"
+    },
+    "examples": {
+      "en": [
+        "Ho la mano grande.",
+        "I have a big hand.",
+        "Dammi la mano.",
+        "Give me your hand.",
+        "Scrivo con la mano destra.",
+        "I write with my right hand."
+      ],
+      "fa": [
+        "Ho la mano grande.",
+        "من دست بزرگی دارم.",
+        "Dammi la mano.",
+        "دستت را به من بده.",
+        "Scrivo con la mano destra.",
+        "با دست راستم می‌نویسم."
+      ],
+      "de": [
+        "Ho la mano grande.",
+        "Ich habe eine große Hand.",
+        "Dammi la mano.",
+        "Gib mir deine Hand.",
+        "Scrivo con la mano destra.",
+        "Ich schreibe mit der rechten Hand."
+      ],
+      "ru": [
+        "Ho la mano grande.",
+        "У меня большая рука.",
+        "Dammi la mano.",
+        "Дай мне руку.",
+        "Scrivo con la mano destra.",
+        "Я пишу правой рукой."
+      ],
+      "ar": [
+        "Ho la mano grande.",
+        "لدي يد كبيرة.",
+        "Dammi la mano.",
+        "أعطني يدك.",
+        "Scrivo con la mano destra.",
+        "أكتب باليد اليمنى."
+      ],
+      "es": [
+        "Ho la mano grande.",
+        "Tengo la mano grande.",
+        "Dammi la mano.",
+        "Dame la mano.",
+        "Scrivo con la mano destra.",
+        "Escribo con la mano derecha."
+      ],
+      "fr": [
+        "Ho la mano grande.",
+        "J'ai une grande main.",
+        "Dammi la mano.",
+        "Donne-moi la main.",
+        "Scrivo con la mano destra.",
+        "J'écris avec la main droite."
+      ],
+      "pt": [
+        "Ho la mano grande.",
+        "Eu tenho a mão grande.",
+        "Dammi la mano.",
+        "Me dê a mão.",
+        "Scrivo con la mano destra.",
+        "Escrevo com a mão direita."
+      ],
+      "zh": [
+        "Ho la mano grande.",
+        "我的手很大。",
+        "Dammi la mano.",
+        "把你的手给我。",
+        "Scrivo con la mano destra.",
+        "我用右手写字。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_047_it",
+    "word": "mondo",
+    "translations": {
+      "en": "world",
+      "fa": "جهان، دنیا",
+      "de": "Welt",
+      "ru": "мир",
+      "ar": "عالم",
+      "es": "mundo",
+      "fr": "monde",
+      "pt": "mundo",
+      "zh": "世界"
+    },
+    "examples": {
+      "en": [
+        "Il mondo è grande.",
+        "The world is big.",
+        "Voglio vedere il mondo.",
+        "I want to see the world.",
+        "È il più grande del mondo.",
+        "It's the biggest in the world."
+      ],
+      "fa": [
+        "Il mondo è grande.",
+        "جهان بزرگ است.",
+        "Voglio vedere il mondo.",
+        "می‌خواهم جهان را ببینم.",
+        "È il più grande del mondo.",
+        "این بزرگترین در جهان است."
+      ],
+      "de": [
+        "Il mondo è grande.",
+        "Die Welt ist groß.",
+        "Voglio vedere il mondo.",
+        "Ich möchte die Welt sehen.",
+        "È il più grande del mondo.",
+        "Es ist das größte der Welt."
+      ],
+      "ru": [
+        "Il mondo è grande.",
+        "Мир большой.",
+        "Voglio vedere il mondo.",
+        "Я хочу увидеть мир.",
+        "È il più grande del mondo.",
+        "Это самое большое в мире."
+      ],
+      "ar": [
+        "Il mondo è grande.",
+        "العالم كبير.",
+        "Voglio vedere il mondo.",
+        "أريد أن أرى العالم.",
+        "È il più grande del mondo.",
+        "إنه الأكبر في العالم."
+      ],
+      "es": [
+        "Il mondo è grande.",
+        "El mundo es grande.",
+        "Voglio vedere il mondo.",
+        "Quiero ver el mundo.",
+        "È il più grande del mondo.",
+        "Es el más grande del mundo."
+      ],
+      "fr": [
+        "Il mondo è grande.",
+        "Le monde est grand.",
+        "Voglio vedere il mondo.",
+        "Je veux voir le monde.",
+        "È il più grande del mondo.",
+        "C'est le plus grand du monde."
+      ],
+      "pt": [
+        "Il mondo è grande.",
+        "O mundo é grande.",
+        "Voglio vedere il mondo.",
+        "Quero ver o mundo.",
+        "È il più grande del mondo.",
+        "É o maior do mundo."
+      ],
+      "zh": [
+        "Il mondo è grande.",
+        "世界很大。",
+        "Voglio vedere il mondo.",
+        "我想看看世界。",
+        "È il più grande del mondo.",
+        "这是世界上最大的。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_048_it",
+    "word": "vita",
+    "translations": {
+      "en": "life",
+      "fa": "زندگی",
+      "de": "Leben",
+      "ru": "жизнь",
+      "ar": "حياة",
+      "es": "vida",
+      "fr": "vie",
+      "pt": "vida",
+      "zh": "生活"
+    },
+    "examples": {
+      "en": [
+        "La vita è bella.",
+        "Life is beautiful.",
+        "Amo la mia vita.",
+        "I love my life.",
+        "Questa è la mia vita.",
+        "This is my life."
+      ],
+      "fa": [
+        "La vita è bella.",
+        "زندگی زیباست.",
+        "Amo la mia vita.",
+        "زندگی‌ام را دوست دارم.",
+        "Questa è la mia vita.",
+        "این زندگی من است."
+      ],
+      "de": [
+        "La vita è bella.",
+        "Das Leben ist schön.",
+        "Amo la mia vita.",
+        "Ich liebe mein Leben.",
+        "Questa è la mia vita.",
+        "Das ist mein Leben."
+      ],
+      "ru": [
+        "La vita è bella.",
+        "Жизнь прекрасна.",
+        "Amo la mia vita.",
+        "Я люблю свою жизнь.",
+        "Questa è la mia vita.",
+        "Это моя жизнь."
+      ],
+      "ar": [
+        "La vita è bella.",
+        "الحياة جميلة.",
+        "Amo la mia vita.",
+        "أحب حياتي.",
+        "Questa è la mia vita.",
+        "هذه هي حياتي."
+      ],
+      "es": [
+        "La vita è bella.",
+        "La vida es bella.",
+        "Amo la mia vita.",
+        "Amo mi vida.",
+        "Questa è la mia vita.",
+        "Esta es mi vida."
+      ],
+      "fr": [
+        "La vita è bella.",
+        "La vie est belle.",
+        "Amo la mia vita.",
+        "J'aime ma vie.",
+        "Questa è la mia vita.",
+        "C'est ma vie."
+      ],
+      "pt": [
+        "La vita è bella.",
+        "A vida é bela.",
+        "Amo la mia vita.",
+        "Amo minha vida.",
+        "Questa è la mia vita.",
+        "Esta é minha vida."
+      ],
+      "zh": [
+        "La vita è bella.",
+        "生活是美好的。",
+        "Amo la mia vita.",
+        "我爱我的生活。",
+        "Questa è la mia vita.",
+        "这是我的生活。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_049_it",
+    "word": "tempo",
+    "translations": {
+      "en": "time, weather",
+      "fa": "زمان، وقت، هوا",
+      "de": "Zeit, Wetter",
+      "ru": "время, погода",
+      "ar": "وقت، طقس",
+      "es": "tiempo",
+      "fr": "temps",
+      "pt": "tempo",
+      "zh": "时间，天气"
+    },
+    "examples": {
+      "en": [
+        "Non ho tempo.",
+        "I don't have time.",
+        "Che tempo fa?",
+        "What's the weather like?",
+        "Il tempo è bello.",
+        "The weather is nice."
+      ],
+      "fa": [
+        "Non ho tempo.",
+        "وقت ندارم.",
+        "Che tempo fa?",
+        "هوا چطور است؟",
+        "Il tempo è bello.",
+        "هوا خوب است."
+      ],
+      "de": [
+        "Non ho tempo.",
+        "Ich habe keine Zeit.",
+        "Che tempo fa?",
+        "Wie ist das Wetter?",
+        "Il tempo è bello.",
+        "Das Wetter ist schön."
+      ],
+      "ru": [
+        "Non ho tempo.",
+        "У меня нет времени.",
+        "Che tempo fa?",
+        "Какая погода?",
+        "Il tempo è bello.",
+        "Погода хорошая."
+      ],
+      "ar": [
+        "Non ho tempo.",
+        "ليس لدي وقت.",
+        "Che tempo fa?",
+        "كيف الطقس؟",
+        "Il tempo è bello.",
+        "الطقس جميل."
+      ],
+      "es": [
+        "Non ho tempo.",
+        "No tengo tiempo.",
+        "Che tempo fa?",
+        "¿Qué tiempo hace?",
+        "Il tempo è bello.",
+        "El tiempo es bonito."
+      ],
+      "fr": [
+        "Non ho tempo.",
+        "Je n'ai pas le temps.",
+        "Che tempo fa?",
+        "Quel temps fait-il?",
+        "Il tempo è bello.",
+        "Le temps est beau."
+      ],
+      "pt": [
+        "Non ho tempo.",
+        "Não tenho tempo.",
+        "Che tempo fa?",
+        "Como está o tempo?",
+        "Il tempo è bello.",
+        "O tempo está bonito."
+      ],
+      "zh": [
+        "Non ho tempo.",
+        "我没有时间。",
+        "Che tempo fa?",
+        "天气怎么样？",
+        "Il tempo è bello.",
+        "天气很好。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_050_it",
+    "word": "casa",
+    "translations": {
+      "en": "house, home",
+      "fa": "خانه",
+      "de": "Haus",
+      "ru": "дом",
+      "ar": "بيت",
+      "es": "casa",
+      "fr": "maison",
+      "pt": "casa",
+      "zh": "房子"
+    },
+    "examples": {
+      "en": [
+        "Vado a casa.",
+        "I'm going home.",
+        "La mia casa è grande.",
+        "My house is big.",
+        "Sono a casa.",
+        "I'm at home."
+      ],
+      "fa": [
+        "Vado a casa.",
+        "به خانه می‌روم.",
+        "La mia casa è grande.",
+        "خانه‌ام بزرگ است.",
+        "Sono a casa.",
+        "در خانه هستم."
+      ],
+      "de": [
+        "Vado a casa.",
+        "Ich gehe nach Hause.",
+        "La mia casa è grande.",
+        "Mein Haus ist groß.",
+        "Sono a casa.",
+        "Ich bin zu Hause."
+      ],
+      "ru": [
+        "Vado a casa.",
+        "Я иду домой.",
+        "La mia casa è grande.",
+        "Мой дом большой.",
+        "Sono a casa.",
+        "Я дома."
+      ],
+      "ar": [
+        "Vado a casa.",
+        "أنا ذاهب إلى البيت.",
+        "La mia casa è grande.",
+        "بيتي كبير.",
+        "Sono a casa.",
+        "أنا في البيت."
+      ],
+      "es": [
+        "Vado a casa.",
+        "Voy a casa.",
+        "La mia casa è grande.",
+        "Mi casa es grande.",
+        "Sono a casa.",
+        "Estoy en casa."
+      ],
+      "fr": [
+        "Vado a casa.",
+        "Je rentre à la maison.",
+        "La mia casa è grande.",
+        "Ma maison est grande.",
+        "Sono a casa.",
+        "Je suis à la maison."
+      ],
+      "pt": [
+        "Vado a casa.",
+        "Vou para casa.",
+        "La mia casa è grande.",
+        "Minha casa é grande.",
+        "Sono a casa.",
+        "Estou em casa."
+      ],
+      "zh": [
+        "Vado a casa.",
+        "我要回家。",
+        "La mia casa è grande.",
+        "我的房子很大。",
+        "Sono a casa.",
+        "我在家。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_051_it",
+    "word": "cosa",
+    "translations": {
+      "en": "thing",
+      "fa": "چیز",
+      "de": "Ding, Sache",
+      "ru": "вещь",
+      "ar": "شيء",
+      "es": "cosa",
+      "fr": "chose",
+      "pt": "coisa",
+      "zh": "东西"
+    },
+    "examples": {
+      "en": [
+        "Che cosa fai?",
+        "What are you doing?",
+        "È una bella cosa.",
+        "It's a nice thing.",
+        "Questa cosa è mia.",
+        "This thing is mine."
+      ],
+      "fa": [
+        "Che cosa fai?",
+        "چه کار می‌کنی؟",
+        "È una bella cosa.",
+        "این چیز زیبایی است.",
+        "Questa cosa è mia.",
+        "این چیز مال من است."
+      ],
+      "de": [
+        "Che cosa fai?",
+        "Was machst du?",
+        "È una bella cosa.",
+        "Das ist eine schöne Sache.",
+        "Questa cosa è mia.",
+        "Diese Sache gehört mir."
+      ],
+      "ru": [
+        "Che cosa fai?",
+        "Что ты делаешь?",
+        "È una bella cosa.",
+        "Это хорошая вещь.",
+        "Questa cosa è mia.",
+        "Эта вещь моя."
+      ],
+      "ar": [
+        "Che cosa fai?",
+        "ماذا تفعل؟",
+        "È una bella cosa.",
+        "إنه شيء جميل.",
+        "Questa cosa è mia.",
+        "هذا الشيء لي."
+      ],
+      "es": [
+        "Che cosa fai?",
+        "¿Qué haces?",
+        "È una bella cosa.",
+        "Es una cosa bonita.",
+        "Questa cosa è mia.",
+        "Esta cosa es mía."
+      ],
+      "fr": [
+        "Che cosa fai?",
+        "Que fais-tu?",
+        "È una bella cosa.",
+        "C'est une belle chose.",
+        "Questa cosa è mia.",
+        "Cette chose est à moi."
+      ],
+      "pt": [
+        "Che cosa fai?",
+        "O que você está fazendo?",
+        "È una bella cosa.",
+        "É uma coisa bonita.",
+        "Questa cosa è mia.",
+        "Esta coisa é minha."
+      ],
+      "zh": [
+        "Che cosa fai?",
+        "你在做什么？",
+        "È una bella cosa.",
+        "这是件好事。",
+        "Questa cosa è mia.",
+        "这个东西是我的。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_052_it",
+    "word": "uomo",
+    "translations": {
+      "en": "man",
+      "fa": "مرد",
+      "de": "Mann",
+      "ru": "мужчина",
+      "ar": "رجل",
+      "es": "hombre",
+      "fr": "homme",
+      "pt": "homem",
+      "zh": "男人"
+    },
+    "examples": {
+      "en": [
+        "L'uomo è alto.",
+        "The man is tall.",
+        "È un uomo gentile.",
+        "He's a kind man.",
+        "Quell'uomo parla italiano.",
+        "That man speaks Italian."
+      ],
+      "fa": [
+        "L'uomo è alto.",
+        "آن مرد بلند است.",
+        "È un uomo gentile.",
+        "او مرد مهربانی است.",
+        "Quell'uomo parla italiano.",
+        "آن مرد ایتالیایی صحبت می‌کند."
+      ],
+      "de": [
+        "L'uomo è alto.",
+        "Der Mann ist groß.",
+        "È un uomo gentile.",
+        "Er ist ein freundlicher Mann.",
+        "Quell'uomo parla italiano.",
+        "Dieser Mann spricht Italienisch."
+      ],
+      "ru": [
+        "L'uomo è alto.",
+        "Мужчина высокий.",
+        "È un uomo gentile.",
+        "Он добрый человек.",
+        "Quell'uomo parla italiano.",
+        "Тот мужчина говорит по-итальянски."
+      ],
+      "ar": [
+        "L'uomo è alto.",
+        "الرجل طويل.",
+        "È un uomo gentile.",
+        "إنه رجل لطيف.",
+        "Quell'uomo parla italiano.",
+        "ذلك الرجل يتحدث الإيطالية."
+      ],
+      "es": [
+        "L'uomo è alto.",
+        "El hombre es alto.",
+        "È un uomo gentile.",
+        "Es un hombre amable.",
+        "Quell'uomo parla italiano.",
+        "Ese hombre habla italiano."
+      ],
+      "fr": [
+        "L'uomo è alto.",
+        "L'homme est grand.",
+        "È un uomo gentile.",
+        "C'est un homme gentil.",
+        "Quell'uomo parla italiano.",
+        "Cet homme parle italien."
+      ],
+      "pt": [
+        "L'uomo è alto.",
+        "O homem é alto.",
+        "È un uomo gentile.",
+        "Ele é um homem gentil.",
+        "Quell'uomo parla italiano.",
+        "Aquele homem fala italiano."
+      ],
+      "zh": [
+        "L'uomo è alto.",
+        "那个男人很高。",
+        "È un uomo gentile.",
+        "他是个善良的人。",
+        "Quell'uomo parla italiano.",
+        "那个男人说意大利语。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_053_it",
+    "word": "donna",
+    "translations": {
+      "en": "woman",
+      "fa": "زن",
+      "de": "Frau",
+      "ru": "женщина",
+      "ar": "امرأة",
+      "es": "mujer",
+      "fr": "femme",
+      "pt": "mulher",
+      "zh": "女人"
+    },
+    "examples": {
+      "en": [
+        "La donna è bella.",
+        "The woman is beautiful.",
+        "È una donna intelligente.",
+        "She's an intelligent woman.",
+        "Quella donna legge un libro.",
+        "That woman is reading a book."
+      ],
+      "fa": [
+        "La donna è bella.",
+        "آن زن زیباست.",
+        "È una donna intelligente.",
+        "او زن باهوشی است.",
+        "Quella donna legge un libro.",
+        "آن زن کتاب می‌خواند."
+      ],
+      "de": [
+        "La donna è bella.",
+        "Die Frau ist schön.",
+        "È una donna intelligente.",
+        "Sie ist eine intelligente Frau.",
+        "Quella donna legge un libro.",
+        "Diese Frau liest ein Buch."
+      ],
+      "ru": [
+        "La donna è bella.",
+        "Женщина красивая.",
+        "È una donna intelligente.",
+        "Она умная женщина.",
+        "Quella donna legge un libro.",
+        "Та женщина читает книгу."
+      ],
+      "ar": [
+        "La donna è bella.",
+        "المرأة جميلة.",
+        "È una donna intelligente.",
+        "إنها امرأة ذكية.",
+        "Quella donna legge un libro.",
+        "تلك المرأة تقرأ كتابًا."
+      ],
+      "es": [
+        "La donna è bella.",
+        "La mujer es bella.",
+        "È una donna intelligente.",
+        "Es una mujer inteligente.",
+        "Quella donna legge un libro.",
+        "Esa mujer lee un libro."
+      ],
+      "fr": [
+        "La donna è bella.",
+        "La femme est belle.",
+        "È una donna intelligente.",
+        "C'est une femme intelligente.",
+        "Quella donna legge un libro.",
+        "Cette femme lit un livre."
+      ],
+      "pt": [
+        "La donna è bella.",
+        "A mulher é bonita.",
+        "È una donna intelligente.",
+        "Ela é uma mulher inteligente.",
+        "Quella donna legge un libro.",
+        "Aquela mulher está lendo um livro."
+      ],
+      "zh": [
+        "La donna è bella.",
+        "那个女人很美。",
+        "È una donna intelligente.",
+        "她是个聪明的女人。",
+        "Quella donna legge un libro.",
+        "那个女人在看书。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_054_it",
+    "word": "bambino",
+    "translations": {
+      "en": "child, kid",
+      "fa": "بچه، کودک",
+      "de": "Kind",
+      "ru": "ребёнок",
+      "ar": "طفل",
+      "es": "niño",
+      "fr": "enfant",
+      "pt": "criança",
+      "zh": "孩子"
+    },
+    "examples": {
+      "en": [
+        "Il bambino gioca.",
+        "The child is playing.",
+        "È un bambino felice.",
+        "He's a happy child.",
+        "Il bambino mangia.",
+        "The child is eating."
+      ],
+      "fa": [
+        "Il bambino gioca.",
+        "بچه بازی می‌کند.",
+        "È un bambino felice.",
+        "او بچه‌ی شادی است.",
+        "Il bambino mangia.",
+        "بچه غذا می‌خورد."
+      ],
+      "de": [
+        "Il bambino gioca.",
+        "Das Kind spielt.",
+        "È un bambino felice.",
+        "Er ist ein glückliches Kind.",
+        "Il bambino mangia.",
+        "Das Kind isst."
+      ],
+      "ru": [
+        "Il bambino gioca.",
+        "Ребёнок играет.",
+        "È un bambino felice.",
+        "Он счастливый ребёнок.",
+        "Il bambino mangia.",
+        "Ребёнок ест."
+      ],
+      "ar": [
+        "Il bambino gioca.",
+        "الطفل يلعب.",
+        "È un bambino felice.",
+        "إنه طفل سعيد.",
+        "Il bambino mangia.",
+        "الطفل يأكل."
+      ],
+      "es": [
+        "Il bambino gioca.",
+        "El niño juega.",
+        "È un bambino felice.",
+        "Es un niño feliz.",
+        "Il bambino mangia.",
+        "El niño come."
+      ],
+      "fr": [
+        "Il bambino gioca.",
+        "L'enfant joue.",
+        "È un bambino felice.",
+        "C'est un enfant heureux.",
+        "Il bambino mangia.",
+        "L'enfant mange."
+      ],
+      "pt": [
+        "Il bambino gioca.",
+        "A criança está brincando.",
+        "È un bambino felice.",
+        "Ele é uma criança feliz.",
+        "Il bambino mangia.",
+        "A criança está comendo."
+      ],
+      "zh": [
+        "Il bambino gioca.",
+        "孩子在玩。",
+        "È un bambino felice.",
+        "他是个快乐的孩子。",
+        "Il bambino mangia.",
+        "孩子在吃东西。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_055_it",
+    "word": "paese",
+    "translations": {
+      "en": "country, village",
+      "fa": "کشور، روستا",
+      "de": "Land, Dorf",
+      "ru": "страна, деревня",
+      "ar": "بلد، قرية",
+      "es": "país, pueblo",
+      "fr": "pays, village",
+      "pt": "país, aldeia",
+      "zh": "国家，村庄"
+    },
+    "examples": {
+      "en": [
+        "L'Italia è un bel paese.",
+        "Italy is a beautiful country.",
+        "Vivo in un piccolo paese.",
+        "I live in a small village.",
+        "Qual è il tuo paese?",
+        "What's your country?"
+      ],
+      "fa": [
+        "L'Italia è un bel paese.",
+        "ایتالیا کشور زیبایی است.",
+        "Vivo in un piccolo paese.",
+        "من در یک روستای کوچک زندگی می‌کنم.",
+        "Qual è il tuo paese?",
+        "کشور تو کجاست؟"
+      ],
+      "de": [
+        "L'Italia è un bel paese.",
+        "Italien ist ein schönes Land.",
+        "Vivo in un piccolo paese.",
+        "Ich lebe in einem kleinen Dorf.",
+        "Qual è il tuo paese?",
+        "Was ist dein Land?"
+      ],
+      "ru": [
+        "L'Italia è un bel paese.",
+        "Италия - красивая страна.",
+        "Vivo in un piccolo paese.",
+        "Я живу в маленькой деревне.",
+        "Qual è il tuo paese?",
+        "Какая твоя страна?"
+      ],
+      "ar": [
+        "L'Italia è un bel paese.",
+        "إيطاليا بلد جميل.",
+        "Vivo in un piccolo paese.",
+        "أعيش في قرية صغيرة.",
+        "Qual è il tuo paese?",
+        "ما هو بلدك؟"
+      ],
+      "es": [
+        "L'Italia è un bel paese.",
+        "Italia es un país hermoso.",
+        "Vivo in un piccolo paese.",
+        "Vivo en un pueblo pequeño.",
+        "Qual è il tuo paese?",
+        "¿Cuál es tu país?"
+      ],
+      "fr": [
+        "L'Italia è un bel paese.",
+        "L'Italie est un beau pays.",
+        "Vivo in un piccolo paese.",
+        "Je vis dans un petit village.",
+        "Qual è il tuo paese?",
+        "Quel est ton pays?"
+      ],
+      "pt": [
+        "L'Italia è un bel paese.",
+        "A Itália é um país bonito.",
+        "Vivo in un piccolo paese.",
+        "Eu moro em uma aldeia pequena.",
+        "Qual è il tuo paese?",
+        "Qual é o seu país?"
+      ],
+      "zh": [
+        "L'Italia è un bel paese.",
+        "意大利是个美丽的国家。",
+        "Vivo in un piccolo paese.",
+        "我住在一个小村庄。",
+        "Qual è il tuo paese?",
+        "你的国家是哪里？"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_056_it",
+    "word": "problema",
+    "translations": {
+      "en": "problem",
+      "fa": "مشکل",
+      "de": "Problem",
+      "ru": "проблема",
+      "ar": "مشكلة",
+      "es": "problema",
+      "fr": "problème",
+      "pt": "problema",
+      "zh": "问题"
+    },
+    "examples": {
+      "en": [
+        "Ho un problema.",
+        "I have a problem.",
+        "Non c'è problema.",
+        "There's no problem.",
+        "Questo è un problema.",
+        "This is a problem."
+      ],
+      "fa": [
+        "Ho un problema.",
+        "من یک مشکل دارم.",
+        "Non c'è problema.",
+        "مشکلی نیست.",
+        "Questo è un problema.",
+        "این یک مشکل است."
+      ],
+      "de": [
+        "Ho un problema.",
+        "Ich habe ein Problem.",
+        "Non c'è problema.",
+        "Es gibt kein Problem.",
+        "Questo è un problema.",
+        "Das ist ein Problem."
+      ],
+      "ru": [
+        "Ho un problema.",
+        "У меня проблема.",
+        "Non c'è problema.",
+        "Нет проблемы.",
+        "Questo è un problema.",
+        "Это проблема."
+      ],
+      "ar": [
+        "Ho un problema.",
+        "لدي مشكلة.",
+        "Non c'è problema.",
+        "لا توجد مشكلة.",
+        "Questo è un problema.",
+        "هذه مشكلة."
+      ],
+      "es": [
+        "Ho un problema.",
+        "Tengo un problema.",
+        "Non c'è problema.",
+        "No hay problema.",
+        "Questo è un problema.",
+        "Este es un problema."
+      ],
+      "fr": [
+        "Ho un problema.",
+        "J'ai un problème.",
+        "Non c'è problema.",
+        "Il n'y a pas de problème.",
+        "Questo è un problema.",
+        "C'est un problème."
+      ],
+      "pt": [
+        "Ho un problema.",
+        "Eu tenho um problema.",
+        "Non c'è problema.",
+        "Não há problema.",
+        "Questo è un problema.",
+        "Este é um problema."
+      ],
+      "zh": [
+        "Ho un problema.",
+        "我有一个问题。",
+        "Non c'è problema.",
+        "没有问题。",
+        "Questo è un problema.",
+        "这是个问题。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_057_it",
+    "word": "luogo",
+    "translations": {
+      "en": "place",
+      "fa": "مکان، جا",
+      "de": "Ort",
+      "ru": "место",
+      "ar": "مكان",
+      "es": "lugar",
+      "fr": "lieu",
+      "pt": "lugar",
+      "zh": "地方"
+    },
+    "examples": {
+      "en": [
+        "Questo è un bel luogo.",
+        "This is a nice place.",
+        "È un luogo tranquillo.",
+        "It's a quiet place.",
+        "Conosco questo luogo.",
+        "I know this place."
+      ],
+      "fa": [
+        "Questo è un bel luogo.",
+        "این مکان زیبایی است.",
+        "È un luogo tranquillo.",
+        "این مکان آرامی است.",
+        "Conosco questo luogo.",
+        "من این مکان را می‌شناسم."
+      ],
+      "de": [
+        "Questo è un bel luogo.",
+        "Das ist ein schöner Ort.",
+        "È un luogo tranquillo.",
+        "Es ist ein ruhiger Ort.",
+        "Conosco questo luogo.",
+        "Ich kenne diesen Ort."
+      ],
+      "ru": [
+        "Questo è un bel luogo.",
+        "Это красивое место.",
+        "È un luogo tranquillo.",
+        "Это тихое место.",
+        "Conosco questo luogo.",
+        "Я знаю это место."
+      ],
+      "ar": [
+        "Questo è un bel luogo.",
+        "هذا مكان جميل.",
+        "È un luogo tranquillo.",
+        "إنه مكان هادئ.",
+        "Conosco questo luogo.",
+        "أعرف هذا المكان."
+      ],
+      "es": [
+        "Questo è un bel luogo.",
+        "Este es un lugar bonito.",
+        "È un luogo tranquillo.",
+        "Es un lugar tranquilo.",
+        "Conosco questo luogo.",
+        "Conozco este lugar."
+      ],
+      "fr": [
+        "Questo è un bel luogo.",
+        "C'est un bel endroit.",
+        "È un luogo tranquillo.",
+        "C'est un endroit calme.",
+        "Conosco questo luogo.",
+        "Je connais cet endroit."
+      ],
+      "pt": [
+        "Questo è un bel luogo.",
+        "Este é um lugar bonito.",
+        "È un luogo tranquillo.",
+        "É um lugar tranquilo.",
+        "Conosco questo luogo.",
+        "Eu conheço este lugar."
+      ],
+      "zh": [
+        "Questo è un bel luogo.",
+        "这是个美丽的地方。",
+        "È un luogo tranquillo.",
+        "这是个安静的地方。",
+        "Conosco questo luogo.",
+        "我知道这个地方。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_058_it",
+    "word": "momento",
+    "translations": {
+      "en": "moment",
+      "fa": "لحظه",
+      "de": "Moment",
+      "ru": "момент",
+      "ar": "لحظة",
+      "es": "momento",
+      "fr": "moment",
+      "pt": "momento",
+      "zh": "时刻"
+    },
+    "examples": {
+      "en": [
+        "Un momento, per favore.",
+        "One moment, please.",
+        "In questo momento sono a casa.",
+        "At this moment I'm at home.",
+        "È un bel momento.",
+        "It's a nice moment."
+      ],
+      "fa": [
+        "Un momento, per favore.",
+        "یک لحظه، لطفاً.",
+        "In questo momento sono a casa.",
+        "در این لحظه در خانه هستم.",
+        "È un bel momento.",
+        "این لحظه‌ی زیبایی است."
+      ],
+      "de": [
+        "Un momento, per favore.",
+        "Einen Moment, bitte.",
+        "In questo momento sono a casa.",
+        "In diesem Moment bin ich zu Hause.",
+        "È un bel momento.",
+        "Es ist ein schöner Moment."
+      ],
+      "ru": [
+        "Un momento, per favore.",
+        "Один момент, пожалуйста.",
+        "In questo momento sono a casa.",
+        "В этот момент я дома.",
+        "È un bel momento.",
+        "Это прекрасный момент."
+      ],
+      "ar": [
+        "Un momento, per favore.",
+        "لحظة من فضلك.",
+        "In questo momento sono a casa.",
+        "في هذه اللحظة أنا في البيت.",
+        "È un bel momento.",
+        "إنها لحظة جميلة."
+      ],
+      "es": [
+        "Un momento, per favore.",
+        "Un momento, por favor.",
+        "In questo momento sono a casa.",
+        "En este momento estoy en casa.",
+        "È un bel momento.",
+        "Es un momento bonito."
+      ],
+      "fr": [
+        "Un momento, per favore.",
+        "Un moment, s'il vous plaît.",
+        "In questo momento sono a casa.",
+        "En ce moment je suis à la maison.",
+        "È un bel momento.",
+        "C'est un beau moment."
+      ],
+      "pt": [
+        "Un momento, per favore.",
+        "Um momento, por favor.",
+        "In questo momento sono a casa.",
+        "Neste momento estou em casa.",
+        "È un bel momento.",
+        "É um momento bonito."
+      ],
+      "zh": [
+        "Un momento, per favore.",
+        "请稍等。",
+        "In questo momento sono a casa.",
+        "此刻我在家。",
+        "È un bel momento.",
+        "这是个美好的时刻。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_059_it",
+    "word": "forma",
+    "translations": {
+      "en": "form, shape",
+      "fa": "شکل، فرم",
+      "de": "Form",
+      "ru": "форма",
+      "ar": "شكل",
+      "es": "forma",
+      "fr": "forme",
+      "pt": "forma",
+      "zh": "形状"
+    },
+    "examples": {
+      "en": [
+        "Questa forma è bella.",
+        "This shape is beautiful.",
+        "Ha una forma rotonda.",
+        "It has a round shape.",
+        "Sono in forma.",
+        "I'm in shape."
+      ],
+      "fa": [
+        "Questa forma è bella.",
+        "این شکل زیباست.",
+        "Ha una forma rotonda.",
+        "شکل گردی دارد.",
+        "Sono in forma.",
+        "من در فرم هستم."
+      ],
+      "de": [
+        "Questa forma è bella.",
+        "Diese Form ist schön.",
+        "Ha una forma rotonda.",
+        "Es hat eine runde Form.",
+        "Sono in forma.",
+        "Ich bin in Form."
+      ],
+      "ru": [
+        "Questa forma è bella.",
+        "Эта форма красивая.",
+        "Ha una forma rotonda.",
+        "Она имеет круглую форму.",
+        "Sono in forma.",
+        "Я в форме."
+      ],
+      "ar": [
+        "Questa forma è bella.",
+        "هذا الشكل جميل.",
+        "Ha una forma rotonda.",
+        "له شكل دائري.",
+        "Sono in forma.",
+        "أنا في حالة جيدة."
+      ],
+      "es": [
+        "Questa forma è bella.",
+        "Esta forma es bella.",
+        "Ha una forma rotonda.",
+        "Tiene una forma redonda.",
+        "Sono in forma.",
+        "Estoy en forma."
+      ],
+      "fr": [
+        "Questa forma è bella.",
+        "Cette forme est belle.",
+        "Ha una forma rotonda.",
+        "Elle a une forme ronde.",
+        "Sono in forma.",
+        "Je suis en forme."
+      ],
+      "pt": [
+        "Questa forma è bella.",
+        "Esta forma é bonita.",
+        "Ha una forma rotonda.",
+        "Tem uma forma redonda.",
+        "Sono in forma.",
+        "Estou em forma."
+      ],
+      "zh": [
+        "Questa forma è bella.",
+        "这个形状很美。",
+        "Ha una forma rotonda.",
+        "它有一个圆形。",
+        "Sono in forma.",
+        "我身体很好。"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_060_it",
+    "word": "acqua",
+    "translations": {
+      "en": "water",
+      "fa": "آب",
+      "de": "Wasser",
+      "ru": "вода",
+      "ar": "ماء",
+      "es": "agua",
+      "fr": "eau",
+      "pt": "água",
+      "zh": "水"
+    },
+    "examples": {
+      "en": [
+        "Bevo acqua ogni giorno.",
+        "I drink water every day.",
+        "L'acqua è fredda.",
+        "The water is cold.",
+        "Vorrei un bicchiere d'acqua.",
+        "I would like a glass of water."
+      ],
+      "fa": [
+        "Bevo acqua ogni giorno.",
+        "من هر روز آب می‌نوشم.",
+        "L'acqua è fredda.",
+        "آب سرد است.",
+        "Vorrei un bicchiere d'acqua.",
+        "یک لیوان آب می‌خواهم."
+      ],
+      "de": [
+        "Bevo acqua ogni giorno.",
+        "Ich trinke jeden Tag Wasser.",
+        "L'acqua è fredda.",
+        "Das Wasser ist kalt.",
+        "Vorrei un bicchiere d'acqua.",
+        "Ich möchte ein Glas Wasser."
+      ],
+      "ru": [
+        "Bevo acqua ogni giorno.",
+        "Я пью воду каждый день.",
+        "L'acqua è fredda.",
+        "Вода холодная.",
+        "Vorrei un bicchiere d'acqua.",
+        "Я хотел бы стакан воды."
+      ],
+      "ar": [
+        "Bevo acqua ogni giorno.",
+        "أشرب الماء كل يوم.",
+        "L'acqua è fredda.",
+        "الماء بارد.",
+        "Vorrei un bicchiere d'acqua.",
+        "أود كوبًا من الماء."
+      ],
+      "es": [
+        "Bevo acqua ogni giorno.",
+        "Bebo agua cada día.",
+        "L'acqua è fredda.",
+        "El agua está fría.",
+        "Vorrei un bicchiere d'acqua.",
+        "Quisiera un vaso de agua."
+      ],
+      "fr": [
+        "Bevo acqua ogni giorno.",
+        "Je bois de l'eau chaque jour.",
+        "L'acqua è fredda.",
+        "L'eau est froide.",
+        "Vorrei un bicchiere d'acqua.",
+        "Je voudrais un verre d'eau."
+      ],
+      "pt": [
+        "Bevo acqua ogni giorno.",
+        "Eu bebo água todo dia.",
+        "L'acqua è fredda.",
+        "A água está fria.",
+        "Vorrei un bicchiere d'acqua.",
+        "Eu gostaria de um copo de água."
+      ],
+      "zh": [
+        "Bevo acqua ogni giorno.",
+        "我每天喝水。",
+        "L'acqua è fredda.",
+        "水很凉。",
+        "Vorrei un bicchiere d'acqua.",
+        "我想要一杯水。"
+      ]
+    }
+  }
+]
