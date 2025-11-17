@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_421_fr",
+    "word": "qui",
+    "translations": {
+      "en": "who",
+      "de": "wer",
+      "ar": "من",
+      "fr": "qui",
+      "it": "chi",
+      "ru": "кто",
+      "es": "quién",
+      "pl": "kto",
+      "fa": "چه کسی"
+    },
+    "examples": {
+      "en": ["Who is that?", "Who are you?", "Who is coming?"],
+      "de": ["Wer ist das?", "Wer bist du?", "Wer kommt?"],
+      "ar": ["من هذا؟", "من أنت؟", "من يأتي؟"],
+      "fr": ["Qui est-ce?", "Qui es-tu?", "Qui vient?"],
+      "it": ["Chi è?", "Chi sei?", "Chi viene?"],
+      "ru": ["Кто это?", "Кто ты?", "Кто приходит?"],
+      "es": ["¿Quién es?", "¿Quién eres?", "¿Quién viene?"],
+      "pl": ["Kto to jest?", "Kto jesteś?", "Kto przychodzi?"],
+      "fa": ["این کیست؟", "تو کی هستی؟", "چه کسی می‌آید؟"]
+    }
+  },
+  {
+    "id": "universal_a1_422_fr",
+    "word": "quoi",
+    "translations": {
+      "en": "what",
+      "de": "was",
+      "ar": "ماذا",
+      "fr": "quoi",
+      "it": "cosa",
+      "ru": "что",
+      "es": "qué",
+      "pl": "co",
+      "fa": "چه"
+    },
+    "examples": {
+      "en": ["What is that?", "What do you want?", "What time is it?"],
+      "de": ["Was ist das?", "Was möchtest du?", "Wie spät ist es?"],
+      "ar": ["ما هذا؟", "ماذا تريد؟", "كم الساعة؟"],
+      "fr": ["Qu'est-ce que c'est?", "Que veux-tu?", "Quelle heure est-il?"],
+      "it": ["Cos'è?", "Cosa vuoi?", "Che ore sono?"],
+      "ru": ["Что это?", "Что ты хочешь?", "Который час?"],
+      "es": ["¿Qué es eso?", "¿Qué quieres?", "¿Qué hora es?"],
+      "pl": ["Co to jest?", "Co chcesz?", "Która godzina?"],
+      "fa": ["این چیست؟", "چه می‌خواهی؟", "ساعت چند است؟"]
+    }
+  },
+  {
+    "id": "universal_a1_423_fr",
+    "word": "où",
+    "translations": {
+      "en": "where",
+      "de": "wo",
+      "ar": "أين",
+      "fr": "où",
+      "it": "dove",
+      "ru": "где",
+      "es": "dónde",
+      "pl": "gdzie",
+      "fa": "کجا"
+    },
+    "examples": {
+      "en": ["Where are you?", "Where is the school?", "Where do you live?"],
+      "de": ["Wo bist du?", "Wo ist die Schule?", "Wo wohnst du?"],
+      "ar": ["أين أنت؟", "أين المدرسة؟", "أين تعيش؟"],
+      "fr": ["Où es-tu?", "Où est l'école?", "Où habites-tu?"],
+      "it": ["Dove sei?", "Dov'è la scuola?", "Dove abiti?"],
+      "ru": ["Где ты?", "Где школа?", "Где ты живешь?"],
+      "es": ["¿Dónde estás?", "¿Dónde está la escuela?", "¿Dónde vives?"],
+      "pl": ["Gdzie jesteś?", "Gdzie jest szkoła?", "Gdzie mieszkasz?"],
+      "fa": ["کجایی؟", "مدرسه کجاست؟", "کجا زندگی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_424_fr",
+    "word": "quand",
+    "translations": {
+      "en": "when",
+      "de": "wann",
+      "ar": "متى",
+      "fr": "quand",
+      "it": "quando",
+      "ru": "когда",
+      "es": "cuándo",
+      "pl": "kiedy",
+      "fa": "کی"
+    },
+    "examples": {
+      "en": ["When is the party?", "When do you arrive?", "When is your birthday?"],
+      "de": ["Wann ist die Party?", "Wann kommst du an?", "Wann ist dein Geburtstag?"],
+      "ar": ["متى الحفلة؟", "متى تصل؟", "متى عيد ميلادك؟"],
+      "fr": ["Quand est la fête?", "Quand arrives-tu?", "Quand est ton anniversaire?"],
+      "it": ["Quando è la festa?", "Quando arrivi?", "Quando è il tuo compleanno?"],
+      "ru": ["Когда вечеринка?", "Когда ты приезжаешь?", "Когда твой день рождения?"],
+      "es": ["¿Cuándo es la fiesta?", "¿Cuándo llegas?", "¿Cuándo es tu cumpleaños?"],
+      "pl": ["Kiedy jest impreza?", "Kiedy przybywasz?", "Kiedy są twoje urodziny?"],
+      "fa": ["مهمانی کی است؟", "کی می‌رسی؟", "تولدت کی است؟"]
+    }
+  },
+  {
+    "id": "universal_a1_425_fr",
+    "word": "pourquoi",
+    "translations": {
+      "en": "why",
+      "de": "warum",
+      "ar": "لماذا",
+      "fr": "pourquoi",
+      "it": "perché",
+      "ru": "почему",
+      "es": "por qué",
+      "pl": "dlaczego",
+      "fa": "چرا"
+    },
+    "examples": {
+      "en": ["Why are you sad?", "Why not?", "Why is he late?"],
+      "de": ["Warum bist du traurig?", "Warum nicht?", "Warum ist er spät?"],
+      "ar": ["لماذا أنت حزين؟", "لماذا لا؟", "لماذا هو متأخر؟"],
+      "fr": ["Pourquoi es-tu triste?", "Pourquoi pas?", "Pourquoi est-il en retard?"],
+      "it": ["Perché sei triste?", "Perché no?", "Perché è in ritardo?"],
+      "ru": ["Почему ты грустный?", "Почему нет?", "Почему он опаздывает?"],
+      "es": ["¿Por qué estás triste?", "¿Por qué no?", "¿Por qué llega tarde?"],
+      "pl": ["Dlaczego jesteś smutny?", "Dlaczego nie?", "Dlaczego się spóźnia?"],
+      "fa": ["چرا غمگینی؟", "چرا نه؟", "چرا دیر می‌کند؟"]
+    }
+  },
+  {
+    "id": "universal_a1_426_fr",
+    "word": "comment",
+    "translations": {
+      "en": "how",
+      "de": "wie",
+      "ar": "كيف",
+      "fr": "comment",
+      "it": "come",
+      "ru": "как",
+      "es": "cómo",
+      "pl": "jak",
+      "fa": "چطور"
+    },
+    "examples": {
+      "en": ["How are you?", "How do you say that?", "How much is it?"],
+      "de": ["Wie geht es dir?", "Wie sagt man das?", "Wie viel kostet das?"],
+      "ar": ["كيف حالك؟", "كيف تقول ذلك؟", "كم ثمنه؟"],
+      "fr": ["Comment vas-tu?", "Comment dit-on ça?", "Combien ça coûte?"],
+      "it": ["Come stai?", "Come si dice?", "Quanto costa?"],
+      "ru": ["Как дела?", "Как это сказать?", "Сколько это стоит?"],
+      "es": ["¿Cómo estás?", "¿Cómo se dice eso?", "¿Cuánto cuesta?"],
+      "pl": ["Jak się masz?", "Jak się to mówi?", "Ile to kosztuje?"],
+      "fa": ["چطوری؟", "چطور می‌گویی؟", "چقدر است؟"]
+    }
+  },
+  {
+    "id": "universal_a1_427_fr",
+    "word": "combien",
+    "translations": {
+      "en": "how much",
+      "de": "wie viel",
+      "ar": "كم",
+      "fr": "combien",
+      "it": "quanto",
+      "ru": "сколько",
+      "es": "cuánto",
+      "pl": "ile",
+      "fa": "چقدر"
+    },
+    "examples": {
+      "en": ["How much does it cost?", "How many people?", "How much time?"],
+      "de": ["Wie viel kostet es?", "Wie viele Leute?", "Wie viel Zeit?"],
+      "ar": ["كم ثمنه؟", "كم شخصاً؟", "كم من الوقت؟"],
+      "fr": ["Combien ça coûte?", "Combien de personnes?", "Combien de temps?"],
+      "it": ["Quanto costa?", "Quante persone?", "Quanto tempo?"],
+      "ru": ["Сколько это стоит?", "Сколько людей?", "Сколько времени?"],
+      "es": ["¿Cuánto cuesta?", "¿Cuántas personas?", "¿Cuánto tiempo?"],
+      "pl": ["Ile to kosztuje?", "Ile osób?", "Ile czasu?"],
+      "fa": ["چقدر هزینه دارد؟", "چند نفر؟", "چقدر زمان؟"]
+    }
+  },
+  {
+    "id": "universal_a1_428_fr",
+    "word": "quel",
+    "translations": {
+      "en": "which",
+      "de": "welcher",
+      "ar": "أي",
+      "fr": "quel",
+      "it": "quale",
+      "ru": "который",
+      "es": "cuál",
+      "pl": "który",
+      "fa": "کدام"
+    },
+    "examples": {
+      "en": ["Which one?", "Which book do you want?", "What is your name?"],
+      "de": ["Welcher?", "Welches Buch möchtest du?", "Wie heißt du?"],
+      "ar": ["أيهما؟", "أي كتاب تريد؟", "ما اسمك؟"],
+      "fr": ["Lequel?", "Quel livre veux-tu?", "Quel est ton nom?"],
+      "it": ["Quale?", "Quale libro vuoi?", "Qual è il tuo nome?"],
+      "ru": ["Который?", "Какую книгу ты хочешь?", "Как тебя зовут?"],
+      "es": ["¿Cuál?", "¿Qué libro quieres?", "¿Cuál es tu nombre?"],
+      "pl": ["Który?", "Którą książkę chcesz?", "Jak się nazywasz?"],
+      "fa": ["کدام؟", "کدام کتاب می‌خواهی؟", "اسمت چیست؟"]
+    }
+  },
+  {
+    "id": "universal_a1_429_fr",
+    "word": "et",
+    "translations": {
+      "en": "and",
+      "de": "und",
+      "ar": "و",
+      "fr": "et",
+      "it": "e",
+      "ru": "и",
+      "es": "y",
+      "pl": "i",
+      "fa": "و"
+    },
+    "examples": {
+      "en": ["You and I.", "Tea and coffee.", "Big and small."],
+      "de": ["Du und ich.", "Tee und Kaffee.", "Groß und klein."],
+      "ar": ["أنت وأنا.", "شاي وقهوة.", "كبير وصغير."],
+      "fr": ["Toi et moi.", "Thé et café.", "Grand et petit."],
+      "it": ["Tu ed io.", "Tè e caffè.", "Grande e piccolo."],
+      "ru": ["Ты и я.", "Чай и кофе.", "Большой и маленький."],
+      "es": ["Tú y yo.", "Té y café.", "Grande y pequeño."],
+      "pl": ["Ty i ja.", "Herbata i kawa.", "Duży i mały."],
+      "fa": ["تو و من.", "چای و قهوه.", "بزرگ و کوچک."]
+    }
+  },
+  {
+    "id": "universal_a1_430_fr",
+    "word": "ou",
+    "translations": {
+      "en": "or",
+      "de": "oder",
+      "ar": "أو",
+      "fr": "ou",
+      "it": "o",
+      "ru": "или",
+      "es": "o",
+      "pl": "lub",
+      "fa": "یا"
+    },
+    "examples": {
+      "en": ["Tea or coffee?", "Today or tomorrow?", "You or me?"],
+      "de": ["Tee oder Kaffee?", "Heute oder morgen?", "Du oder ich?"],
+      "ar": ["شاي أو قهوة؟", "اليوم أو غداً؟", "أنت أو أنا؟"],
+      "fr": ["Thé ou café?", "Aujourd'hui ou demain?", "Toi ou moi?"],
+      "it": ["Tè o caffè?", "Oggi o domani?", "Tu o io?"],
+      "ru": ["Чай или кофе?", "Сегодня или завтра?", "Ты или я?"],
+      "es": ["¿Té o café?", "¿Hoy o mañana?", "¿Tú o yo?"],
+      "pl": ["Herbata czy kawa?", "Dzisiaj czy jutro?", "Ty czy ja?"],
+      "fa": ["چای یا قهوه؟", "امروز یا فردا؟", "تو یا من؟"]
+    }
+  },
+  {
+    "id": "universal_a1_431_fr",
+    "word": "mais",
+    "translations": {
+      "en": "but",
+      "de": "aber",
+      "ar": "لكن",
+      "fr": "mais",
+      "it": "ma",
+      "ru": "но",
+      "es": "pero",
+      "pl": "ale",
+      "fa": "اما"
+    },
+    "examples": {
+      "en": ["I like it, but it's expensive.", "Small but strong.", "Yes, but why?"],
+      "de": ["Ich mag es, aber es ist teuer.", "Klein aber stark.", "Ja, aber warum?"],
+      "ar": ["أحبه، لكنه غالي.", "صغير لكن قوي.", "نعم، لكن لماذا؟"],
+      "fr": ["Je l'aime, mais c'est cher.", "Petit mais fort.", "Oui, mais pourquoi?"],
+      "it": ["Mi piace, ma è caro.", "Piccolo ma forte.", "Sì, ma perché?"],
+      "ru": ["Мне нравится, но это дорого.", "Маленький но сильный.", "Да, но почему?"],
+      "es": ["Me gusta, pero es caro.", "Pequeño pero fuerte.", "Sí, ¿pero por qué?"],
+      "pl": ["Lubię to, ale jest drogie.", "Mały ale silny.", "Tak, ale dlaczego?"],
+      "fa": ["دوستش دارم، اما گران است.", "کوچک اما قوی.", "بله، اما چرا؟"]
+    }
+  },
+  {
+    "id": "universal_a1_432_fr",
+    "word": "parce que",
+    "translations": {
+      "en": "because",
+      "de": "weil",
+      "ar": "لأن",
+      "fr": "parce que",
+      "it": "perché",
+      "ru": "потому что",
+      "es": "porque",
+      "pl": "ponieważ",
+      "fa": "چون"
+    },
+    "examples": {
+      "en": ["I stay because I like it.", "She is happy because it's Friday.", "I eat because I am hungry."],
+      "de": ["Ich bleibe, weil ich es mag.", "Sie ist glücklich, weil Freitag ist.", "Ich esse, weil ich hungrig bin."],
+      "ar": ["أبقى لأنني أحبه.", "هي سعيدة لأنه يوم الجمعة.", "آكل لأنني جائع."],
+      "fr": ["Je reste parce que je l'aime.", "Elle est heureuse parce que c'est vendredi.", "Je mange parce que j'ai faim."],
+      "it": ["Resto perché mi piace.", "Lei è felice perché è venerdì.", "Mangio perché ho fame."],
+      "ru": ["Я остаюсь, потому что мне нравится.", "Она счастлива, потому что пятница.", "Я ем, потому что я голоден."],
+      "es": ["Me quedo porque me gusta.", "Ella está feliz porque es viernes.", "Como porque tengo hambre."],
+      "pl": ["Zostaję, ponieważ lubię to.", "Ona jest szczęśliwa, ponieważ jest piątek.", "Jem, ponieważ jestem głodny."],
+      "fa": ["می‌مانم چون دوستش دارم.", "او خوشحال است چون جمعه است.", "می‌خورم چون گرسنه‌ام."]
+    }
+  },
+  {
+    "id": "universal_a1_433_fr",
+    "word": "si",
+    "translations": {
+      "en": "if",
+      "de": "wenn",
+      "ar": "إذا",
+      "fr": "si",
+      "it": "se",
+      "ru": "если",
+      "es": "si",
+      "pl": "jeśli",
+      "fa": "اگر"
+    },
+    "examples": {
+      "en": ["If you want.", "If it rains.", "Call me if you need."],
+      "de": ["Wenn du möchtest.", "Wenn es regnet.", "Ruf mich an, wenn du brauchst."],
+      "ar": ["إذا أردت.", "إذا أمطرت.", "اتصل بي إذا احتجت."],
+      "fr": ["Si tu veux.", "S'il pleut.", "Appelle-moi si tu as besoin."],
+      "it": ["Se vuoi.", "Se piove.", "Chiamami se hai bisogno."],
+      "ru": ["Если хочешь.", "Если дождь.", "Позвони мне, если нужно."],
+      "es": ["Si quieres.", "Si llueve.", "Llámame si necesitas."],
+      "pl": ["Jeśli chcesz.", "Jeśli pada.", "Zadzwoń, jeśli potrzebujesz."],
+      "fa": ["اگر بخواهی.", "اگر باران ببارد.", "اگر نیاز داشتی زنگ بزن."]
+    }
+  },
+  {
+    "id": "universal_a1_434_fr",
+    "word": "avec",
+    "translations": {
+      "en": "with",
+      "de": "mit",
+      "ar": "مع",
+      "fr": "avec",
+      "it": "con",
+      "ru": "с",
+      "es": "con",
+      "pl": "z",
+      "fa": "با"
+    },
+    "examples": {
+      "en": ["I am with my friend.", "Coffee with milk.", "Come with me."],
+      "de": ["Ich bin mit meinem Freund.", "Kaffee mit Milch.", "Komm mit mir."],
+      "ar": ["أنا مع صديقي.", "قهوة مع حليب.", "تعال معي."],
+      "fr": ["Je suis avec mon ami.", "Café avec du lait.", "Viens avec moi."],
+      "it": ["Sono con il mio amico.", "Caffè con latte.", "Vieni con me."],
+      "ru": ["Я с моим другом.", "Кофе с молоком.", "Пойдем со мной."],
+      "es": ["Estoy con mi amigo.", "Café con leche.", "Ven conmigo."],
+      "pl": ["Jestem z moim przyjacielem.", "Kawa z mlekiem.", "Chodź ze mną."],
+      "fa": ["با دوستم هستم.", "قهوه با شیر.", "با من بیا."]
+    }
+  },
+  {
+    "id": "universal_a1_435_fr",
+    "word": "sans",
+    "translations": {
+      "en": "without",
+      "de": "ohne",
+      "ar": "بدون",
+      "fr": "sans",
+      "it": "senza",
+      "ru": "без",
+      "es": "sin",
+      "pl": "bez",
+      "fa": "بدون"
+    },
+    "examples": {
+      "en": ["Coffee without sugar.", "I am without money.", "A day without sun."],
+      "de": ["Kaffee ohne Zucker.", "Ich bin ohne Geld.", "Ein Tag ohne Sonne."],
+      "ar": ["قهوة بدون سكر.", "أنا بدون مال.", "يوم بدون شمس."],
+      "fr": ["Café sans sucre.", "Je suis sans argent.", "Un jour sans soleil."],
+      "it": ["Caffè senza zucchero.", "Sono senza soldi.", "Un giorno senza sole."],
+      "ru": ["Кофе без сахара.", "Я без денег.", "День без солнца."],
+      "es": ["Café sin azúcar.", "Estoy sin dinero.", "Un día sin sol."],
+      "pl": ["Kawa bez cukru.", "Jestem bez pieniędzy.", "Dzień bez słońca."],
+      "fa": ["قهوه بدون شکر.", "بدون پول هستم.", "روزی بدون خورشید."]
+    }
+  },
+  {
+    "id": "universal_a1_436_fr",
+    "word": "pour",
+    "translations": {
+      "en": "for",
+      "de": "für",
+      "ar": "لـ",
+      "fr": "pour",
+      "it": "per",
+      "ru": "для",
+      "es": "para",
+      "pl": "dla",
+      "fa": "برای"
+    },
+    "examples": {
+      "en": ["This is for you.", "A gift for my mother.", "I work for money."],
+      "de": ["Das ist für dich.", "Ein Geschenk für meine Mutter.", "Ich arbeite für Geld."],
+      "ar": ["هذا لك.", "هدية لأمي.", "أعمل من أجل المال."],
+      "fr": ["C'est pour toi.", "Un cadeau pour ma mère.", "Je travaille pour l'argent."],
+      "it": ["Questo è per te.", "Un regalo per mia madre.", "Lavoro per soldi."],
+      "ru": ["Это для тебя.", "Подарок для моей матери.", "Я работаю за деньги."],
+      "es": ["Esto es para ti.", "Un regalo para mi madre.", "Trabajo por dinero."],
+      "pl": ["To jest dla ciebie.", "Prezent dla mojej matki.", "Pracuję dla pieniędzy."],
+      "fa": ["این برای توست.", "هدیه‌ای برای مادرم.", "برای پول کار می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a1_437_fr",
+    "word": "dans",
+    "translations": {
+      "en": "in",
+      "de": "in",
+      "ar": "في",
+      "fr": "dans",
+      "it": "in",
+      "ru": "в",
+      "es": "en",
+      "pl": "w",
+      "fa": "در"
+    },
+    "examples": {
+      "en": ["I am in the house.", "In the morning.", "Put it in the box."],
+      "de": ["Ich bin im Haus.", "Am Morgen.", "Leg es in die Schachtel."],
+      "ar": ["أنا في المنزل.", "في الصباح.", "ضعه في الصندوق."],
+      "fr": ["Je suis dans la maison.", "Le matin.", "Mets-le dans la boîte."],
+      "it": ["Sono in casa.", "Al mattino.", "Mettilo nella scatola."],
+      "ru": ["Я в доме.", "Утром.", "Положи это в коробку."],
+      "es": ["Estoy en la casa.", "Por la mañana.", "Ponlo en la caja."],
+      "pl": ["Jestem w domu.", "Rano.", "Włóż to do pudełka."],
+      "fa": ["در خانه هستم.", "صبح.", "آن را در جعبه بگذار."]
+    }
+  },
+  {
+    "id": "universal_a1_438_fr",
+    "word": "sur",
+    "translations": {
+      "en": "on",
+      "de": "auf",
+      "ar": "على",
+      "fr": "sur",
+      "it": "su",
+      "ru": "на",
+      "es": "sobre",
+      "pl": "na",
+      "fa": "روی"
+    },
+    "examples": {
+      "en": ["The book is on the table.", "On Monday.", "Sit on the chair."],
+      "de": ["Das Buch ist auf dem Tisch.", "Am Montag.", "Sitz auf dem Stuhl."],
+      "ar": ["الكتاب على الطاولة.", "يوم الاثنين.", "اجلس على الكرسي."],
+      "fr": ["Le livre est sur la table.", "Lundi.", "Assieds-toi sur la chaise."],
+      "it": ["Il libro è sul tavolo.", "Lunedì.", "Siediti sulla sedia."],
+      "ru": ["Книга на столе.", "В понедельник.", "Сядь на стул."],
+      "es": ["El libro está sobre la mesa.", "El lunes.", "Siéntate en la silla."],
+      "pl": ["Książka jest na stole.", "W poniedziałek.", "Usiądź na krześle."],
+      "fa": ["کتاب روی میز است.", "دوشنبه.", "روی صندلی بنشین."]
+    }
+  },
+  {
+    "id": "universal_a1_439_fr",
+    "word": "sous",
+    "translations": {
+      "en": "under",
+      "de": "unter",
+      "ar": "تحت",
+      "fr": "sous",
+      "it": "sotto",
+      "ru": "под",
+      "es": "bajo",
+      "pl": "pod",
+      "fa": "زیر"
+    },
+    "examples": {
+      "en": ["The cat is under the table.", "Under the bed.", "It's under the book."],
+      "de": ["Die Katze ist unter dem Tisch.", "Unter dem Bett.", "Es ist unter dem Buch."],
+      "ar": ["القطة تحت الطاولة.", "تحت السرير.", "إنه تحت الكتاب."],
+      "fr": ["Le chat est sous la table.", "Sous le lit.", "C'est sous le livre."],
+      "it": ["Il gatto è sotto il tavolo.", "Sotto il letto.", "È sotto il libro."],
+      "ru": ["Кот под столом.", "Под кроватью.", "Это под книгой."],
+      "es": ["El gato está bajo la mesa.", "Bajo la cama.", "Está bajo el libro."],
+      "pl": ["Kot jest pod stołem.", "Pod łóżkiem.", "Jest pod książką."],
+      "fa": ["گربه زیر میز است.", "زیر تخت.", "زیر کتاب است."]
+    }
+  },
+  {
+    "id": "universal_a1_440_fr",
+    "word": "devant",
+    "translations": {
+      "en": "in front of",
+      "de": "vor",
+      "ar": "أمام",
+      "fr": "devant",
+      "it": "davanti",
+      "ru": "перед",
+      "es": "delante de",
+      "pl": "przed",
+      "fa": "جلوی"
+    },
+    "examples": {
+      "en": ["I am in front of the house.", "Stand in front of me.", "The car is in front."],
+      "de": ["Ich bin vor dem Haus.", "Steh vor mir.", "Das Auto ist vorne."],
+      "ar": ["أنا أمام المنزل.", "قف أمامي.", "السيارة في الأمام."],
+      "fr": ["Je suis devant la maison.", "Tiens-toi devant moi.", "La voiture est devant."],
+      "it": ["Sono davanti alla casa.", "Stai davanti a me.", "L'auto è davanti."],
+      "ru": ["Я перед домом.", "Стой передо мной.", "Машина впереди."],
+      "es": ["Estoy delante de la casa.", "Ponte delante de mí.", "El coche está delante."],
+      "pl": ["Jestem przed domem.", "Stań przede mną.", "Samochód jest z przodu."],
+      "fa": ["جلوی خانه هستم.", "جلوی من بایست.", "ماشین جلو است."]
+    }
+  }
+]

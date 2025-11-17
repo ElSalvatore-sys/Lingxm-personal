@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_101_fr",
+    "word": "un",
+    "translations": {
+      "en": "one",
+      "de": "eins",
+      "ar": "واحد",
+      "fr": "un",
+      "it": "uno",
+      "ru": "один",
+      "es": "uno",
+      "pl": "jeden",
+      "fa": "یک"
+    },
+    "examples": {
+      "en": ["I have one book.", "One apple.", "Number one."],
+      "de": ["Ich habe ein Buch.", "Ein Apfel.", "Nummer eins."],
+      "ar": ["لدي كتاب واحد.", "تفاحة واحدة.", "رقم واحد."],
+      "fr": ["J'ai un livre.", "Une pomme.", "Numéro un."],
+      "it": ["Io ho un libro.", "Una mela.", "Numero uno."],
+      "ru": ["У меня одна книга.", "Одно яблоко.", "Номер один."],
+      "es": ["Yo tengo un libro.", "Una manzana.", "Número uno."],
+      "pl": ["Ja mam jedną książkę.", "Jedno jabłko.", "Numer jeden."],
+      "fa": ["من یک کتاب دارم.", "یک سیب.", "شماره یک."]
+    }
+  },
+  {
+    "id": "universal_a1_102_fr",
+    "word": "deux",
+    "translations": {
+      "en": "two",
+      "de": "zwei",
+      "ar": "اثنان",
+      "fr": "deux",
+      "it": "due",
+      "ru": "два",
+      "es": "dos",
+      "pl": "dwa",
+      "fa": "دو"
+    },
+    "examples": {
+      "en": ["I have two cats.", "Two people.", "Number two."],
+      "de": ["Ich habe zwei Katzen.", "Zwei Personen.", "Nummer zwei."],
+      "ar": ["لدي قطتان.", "شخصان.", "رقم اثنان."],
+      "fr": ["J'ai deux chats.", "Deux personnes.", "Numéro deux."],
+      "it": ["Io ho due gatti.", "Due persone.", "Numero due."],
+      "ru": ["У меня две кошки.", "Два человека.", "Номер два."],
+      "es": ["Yo tengo dos gatos.", "Dos personas.", "Número dos."],
+      "pl": ["Ja mam dwa koty.", "Dwie osoby.", "Numer dwa."],
+      "fa": ["من دو گربه دارم.", "دو نفر.", "شماره دو."]
+    }
+  },
+  {
+    "id": "universal_a1_103_fr",
+    "word": "trois",
+    "translations": {
+      "en": "three",
+      "de": "drei",
+      "ar": "ثلاثة",
+      "fr": "trois",
+      "it": "tre",
+      "ru": "три",
+      "es": "tres",
+      "pl": "trzy",
+      "fa": "سه"
+    },
+    "examples": {
+      "en": ["Three chairs.", "I am three years old.", "Number three."],
+      "de": ["Drei Stühle.", "Ich bin drei Jahre alt.", "Nummer drei."],
+      "ar": ["ثلاثة كراسي.", "أنا عمري ثلاث سنوات.", "رقم ثلاثة."],
+      "fr": ["Trois chaises.", "J'ai trois ans.", "Numéro trois."],
+      "it": ["Tre sedie.", "Io ho tre anni.", "Numero tre."],
+      "ru": ["Три стула.", "Мне три года.", "Номер три."],
+      "es": ["Tres sillas.", "Yo tengo tres años.", "Número tres."],
+      "pl": ["Trzy krzesła.", "Ja mam trzy lata.", "Numer trzy."],
+      "fa": ["سه صندلی.", "من سه سال دارم.", "شماره سه."]
+    }
+  },
+  {
+    "id": "universal_a1_104_fr",
+    "word": "quatre",
+    "translations": {
+      "en": "four",
+      "de": "vier",
+      "ar": "أربعة",
+      "fr": "quatre",
+      "it": "quattro",
+      "ru": "четыре",
+      "es": "cuatro",
+      "pl": "cztery",
+      "fa": "چهار"
+    },
+    "examples": {
+      "en": ["Four doors.", "Four people.", "Number four."],
+      "de": ["Vier Türen.", "Vier Personen.", "Nummer vier."],
+      "ar": ["أربعة أبواب.", "أربعة أشخاص.", "رقم أربعة."],
+      "fr": ["Quatre portes.", "Quatre personnes.", "Numéro quatre."],
+      "it": ["Quattro porte.", "Quattro persone.", "Numero quattro."],
+      "ru": ["Четыре двери.", "Четыре человека.", "Номер четыре."],
+      "es": ["Cuatro puertas.", "Cuatro personas.", "Número cuatro."],
+      "pl": ["Cztery drzwi.", "Cztery osoby.", "Numer cztery."],
+      "fa": ["چهار در.", "چهار نفر.", "شماره چهار."]
+    }
+  },
+  {
+    "id": "universal_a1_105_fr",
+    "word": "cinq",
+    "translations": {
+      "en": "five",
+      "de": "fünf",
+      "ar": "خمسة",
+      "fr": "cinq",
+      "it": "cinque",
+      "ru": "пять",
+      "es": "cinco",
+      "pl": "pięć",
+      "fa": "پنج"
+    },
+    "examples": {
+      "en": ["Five fingers.", "Five minutes.", "Number five."],
+      "de": ["Fünf Finger.", "Fünf Minuten.", "Nummer fünf."],
+      "ar": ["خمسة أصابع.", "خمس دقائق.", "رقم خمسة."],
+      "fr": ["Cinq doigts.", "Cinq minutes.", "Numéro cinq."],
+      "it": ["Cinque dita.", "Cinque minuti.", "Numero cinque."],
+      "ru": ["Пять пальцев.", "Пять минут.", "Номер пять."],
+      "es": ["Cinco dedos.", "Cinco minutos.", "Número cinco."],
+      "pl": ["Pięć palców.", "Pięć minut.", "Numer pięć."],
+      "fa": ["پنج انگشت.", "پنج دقیقه.", "شماره پنج."]
+    }
+  },
+  {
+    "id": "universal_a1_106_fr",
+    "word": "six",
+    "translations": {
+      "en": "six",
+      "de": "sechs",
+      "ar": "ستة",
+      "fr": "six",
+      "it": "sei",
+      "ru": "шесть",
+      "es": "seis",
+      "pl": "sześć",
+      "fa": "شش"
+    },
+    "examples": {
+      "en": ["Six bottles.", "Six hours.", "Number six."],
+      "de": ["Sechs Flaschen.", "Sechs Stunden.", "Nummer sechs."],
+      "ar": ["ستة زجاجات.", "ست ساعات.", "رقم ستة."],
+      "fr": ["Six bouteilles.", "Six heures.", "Numéro six."],
+      "it": ["Sei bottiglie.", "Sei ore.", "Numero sei."],
+      "ru": ["Шесть бутылок.", "Шесть часов.", "Номер шесть."],
+      "es": ["Seis botellas.", "Seis horas.", "Número seis."],
+      "pl": ["Sześć butelek.", "Sześć godzin.", "Numer sześć."],
+      "fa": ["شش بطری.", "شش ساعت.", "شماره شش."]
+    }
+  },
+  {
+    "id": "universal_a1_107_fr",
+    "word": "sept",
+    "translations": {
+      "en": "seven",
+      "de": "sieben",
+      "ar": "سبعة",
+      "fr": "sept",
+      "it": "sette",
+      "ru": "семь",
+      "es": "siete",
+      "pl": "siedem",
+      "fa": "هفت"
+    },
+    "examples": {
+      "en": ["Seven days.", "Seven colors.", "Number seven."],
+      "de": ["Sieben Tage.", "Sieben Farben.", "Nummer sieben."],
+      "ar": ["سبعة أيام.", "سبعة ألوان.", "رقم سبعة."],
+      "fr": ["Sept jours.", "Sept couleurs.", "Numéro sept."],
+      "it": ["Sette giorni.", "Sette colori.", "Numero sette."],
+      "ru": ["Семь дней.", "Семь цветов.", "Номер семь."],
+      "es": ["Siete días.", "Siete colores.", "Número siete."],
+      "pl": ["Siedem dni.", "Siedem kolorów.", "Numer siedem."],
+      "fa": ["هفت روز.", "هفت رنگ.", "شماره هفت."]
+    }
+  },
+  {
+    "id": "universal_a1_108_fr",
+    "word": "huit",
+    "translations": {
+      "en": "eight",
+      "de": "acht",
+      "ar": "ثمانية",
+      "fr": "huit",
+      "it": "otto",
+      "ru": "восемь",
+      "es": "ocho",
+      "pl": "osiem",
+      "fa": "هشت"
+    },
+    "examples": {
+      "en": ["Eight months.", "Eight students.", "Number eight."],
+      "de": ["Acht Monate.", "Acht Studenten.", "Nummer acht."],
+      "ar": ["ثمانية أشهر.", "ثمانية طلاب.", "رقم ثمانية."],
+      "fr": ["Huit mois.", "Huit étudiants.", "Numéro huit."],
+      "it": ["Otto mesi.", "Otto studenti.", "Numero otto."],
+      "ru": ["Восемь месяцев.", "Восемь студентов.", "Номер восемь."],
+      "es": ["Ocho meses.", "Ocho estudiantes.", "Número ocho."],
+      "pl": ["Osiem miesięcy.", "Ośmiu studentów.", "Numer osiem."],
+      "fa": ["هشت ماه.", "هشت دانشجو.", "شماره هشت."]
+    }
+  },
+  {
+    "id": "universal_a1_109_fr",
+    "word": "neuf",
+    "translations": {
+      "en": "nine",
+      "de": "neun",
+      "ar": "تسعة",
+      "fr": "neuf",
+      "it": "nove",
+      "ru": "девять",
+      "es": "nueve",
+      "pl": "dziewięć",
+      "fa": "نه"
+    },
+    "examples": {
+      "en": ["Nine cars.", "Nine o'clock.", "Number nine."],
+      "de": ["Neun Autos.", "Neun Uhr.", "Nummer neun."],
+      "ar": ["تسع سيارات.", "الساعة التاسعة.", "رقم تسعة."],
+      "fr": ["Neuf voitures.", "Neuf heures.", "Numéro neuf."],
+      "it": ["Nove macchine.", "Le nove.", "Numero nove."],
+      "ru": ["Девять машин.", "Девять часов.", "Номер девять."],
+      "es": ["Nueve coches.", "Las nueve.", "Número nueve."],
+      "pl": ["Dziewięć samochodów.", "Dziewiąta.", "Numer dziewięć."],
+      "fa": ["نه ماشین.", "ساعت نه.", "شماره نه."]
+    }
+  },
+  {
+    "id": "universal_a1_110_fr",
+    "word": "dix",
+    "translations": {
+      "en": "ten",
+      "de": "zehn",
+      "ar": "عشرة",
+      "fr": "dix",
+      "it": "dieci",
+      "ru": "десять",
+      "es": "diez",
+      "pl": "dziesięć",
+      "fa": "ده"
+    },
+    "examples": {
+      "en": ["Ten euros.", "Ten years.", "Number ten."],
+      "de": ["Zehn Euro.", "Zehn Jahre.", "Nummer zehn."],
+      "ar": ["عشرة يورو.", "عشر سنوات.", "رقم عشرة."],
+      "fr": ["Dix euros.", "Dix ans.", "Numéro dix."],
+      "it": ["Dieci euro.", "Dieci anni.", "Numero dieci."],
+      "ru": ["Десять евро.", "Десять лет.", "Номер десять."],
+      "es": ["Diez euros.", "Diez años.", "Número diez."],
+      "pl": ["Dziesięć euro.", "Dziesięć lat.", "Numer dziesięć."],
+      "fa": ["ده یورو.", "ده سال.", "شماره ده."]
+    }
+  },
+  {
+    "id": "universal_a1_111_fr",
+    "word": "oui",
+    "translations": {
+      "en": "yes",
+      "de": "ja",
+      "ar": "نعم",
+      "fr": "oui",
+      "it": "sì",
+      "ru": "да",
+      "es": "sí",
+      "pl": "tak",
+      "fa": "بله"
+    },
+    "examples": {
+      "en": ["Yes, I agree.", "Yes, please.", "Yes or no?"],
+      "de": ["Ja, ich stimme zu.", "Ja, bitte.", "Ja oder nein?"],
+      "ar": ["نعم، أوافق.", "نعم، من فضلك.", "نعم أم لا؟"],
+      "fr": ["Oui, je suis d'accord.", "Oui, s'il vous plaît.", "Oui ou non?"],
+      "it": ["Sì, sono d'accordo.", "Sì, per favore.", "Sì o no?"],
+      "ru": ["Да, я согласен.", "Да, пожалуйста.", "Да или нет?"],
+      "es": ["Sí, estoy de acuerdo.", "Sí, por favor.", "¿Sí o no?"],
+      "pl": ["Tak, zgadzam się.", "Tak, proszę.", "Tak czy nie?"],
+      "fa": ["بله، موافقم.", "بله، لطفاً.", "بله یا خیر؟"]
+    }
+  },
+  {
+    "id": "universal_a1_112_fr",
+    "word": "non",
+    "translations": {
+      "en": "no",
+      "de": "nein",
+      "ar": "لا",
+      "fr": "non",
+      "it": "no",
+      "ru": "нет",
+      "es": "no",
+      "pl": "nie",
+      "fa": "نه، خیر"
+    },
+    "examples": {
+      "en": ["No, thank you.", "No problem.", "Yes or no?"],
+      "de": ["Nein, danke.", "Kein Problem.", "Ja oder nein?"],
+      "ar": ["لا، شكراً.", "لا مشكلة.", "نعم أم لا؟"],
+      "fr": ["Non, merci.", "Pas de problème.", "Oui ou non?"],
+      "it": ["No, grazie.", "Nessun problema.", "Sì o no?"],
+      "ru": ["Нет, спасибо.", "Без проблем.", "Да или нет?"],
+      "es": ["No, gracias.", "No hay problema.", "¿Sí o no?"],
+      "pl": ["Nie, dziękuję.", "Nie ma problemu.", "Tak czy nie?"],
+      "fa": ["نه، متشکرم.", "مشکلی نیست.", "بله یا خیر؟"]
+    }
+  },
+  {
+    "id": "universal_a1_113_fr",
+    "word": "merci",
+    "translations": {
+      "en": "thank you, thanks",
+      "de": "danke",
+      "ar": "شكراً",
+      "fr": "merci",
+      "it": "grazie",
+      "ru": "спасибо",
+      "es": "gracias",
+      "pl": "dziękuję",
+      "fa": "متشکرم"
+    },
+    "examples": {
+      "en": ["Thank you very much.", "Thanks for help.", "Thank you!"],
+      "de": ["Vielen Dank.", "Danke für die Hilfe.", "Danke!"],
+      "ar": ["شكراً جزيلاً.", "شكراً على المساعدة.", "شكراً!"],
+      "fr": ["Merci beaucoup.", "Merci pour l'aide.", "Merci!"],
+      "it": ["Grazie mille.", "Grazie per l'aiuto.", "Grazie!"],
+      "ru": ["Большое спасибо.", "Спасибо за помощь.", "Спасибо!"],
+      "es": ["Muchas gracias.", "Gracias por la ayuda.", "¡Gracias!"],
+      "pl": ["Dziękuję bardzo.", "Dziękuję za pomoc.", "Dziękuję!"],
+      "fa": ["خیلی متشکرم.", "ممنون از کمک.", "متشکرم!"]
+    }
+  },
+  {
+    "id": "universal_a1_114_fr",
+    "word": "bonjour",
+    "translations": {
+      "en": "hello, good morning",
+      "de": "guten Tag, hallo",
+      "ar": "مرحباً، صباح الخير",
+      "fr": "bonjour",
+      "it": "buongiorno, ciao",
+      "ru": "здравствуйте, добрый день",
+      "es": "hola, buenos días",
+      "pl": "dzień dobry, cześć",
+      "fa": "سلام، صبح بخیر"
+    },
+    "examples": {
+      "en": ["Hello, how are you?", "Good morning!", "Hello everyone."],
+      "de": ["Hallo, wie geht es dir?", "Guten Morgen!", "Hallo zusammen."],
+      "ar": ["مرحباً، كيف حالك؟", "صباح الخير!", "مرحباً بالجميع."],
+      "fr": ["Bonjour, comment vas-tu?", "Bonjour!", "Bonjour à tous."],
+      "it": ["Ciao, come stai?", "Buongiorno!", "Ciao a tutti."],
+      "ru": ["Здравствуйте, как дела?", "Доброе утро!", "Всем привет."],
+      "es": ["Hola, ¿cómo estás?", "¡Buenos días!", "Hola a todos."],
+      "pl": ["Cześć, jak się masz?", "Dzień dobry!", "Cześć wszystkim."],
+      "fa": ["سلام، حالت چطوره؟", "صبح بخیر!", "سلام به همه."]
+    }
+  },
+  {
+    "id": "universal_a1_115_fr",
+    "word": "bonsoir",
+    "translations": {
+      "en": "good evening",
+      "de": "guten Abend",
+      "ar": "مساء الخير",
+      "fr": "bonsoir",
+      "it": "buonasera",
+      "ru": "добрый вечер",
+      "es": "buenas tardes",
+      "pl": "dobry wieczór",
+      "fa": "عصر بخیر"
+    },
+    "examples": {
+      "en": ["Good evening, sir.", "Good evening!", "Good evening everyone."],
+      "de": ["Guten Abend, Herr.", "Guten Abend!", "Guten Abend zusammen."],
+      "ar": ["مساء الخير يا سيدي.", "مساء الخير!", "مساء الخير للجميع."],
+      "fr": ["Bonsoir, monsieur.", "Bonsoir!", "Bonsoir à tous."],
+      "it": ["Buonasera, signore.", "Buonasera!", "Buonasera a tutti."],
+      "ru": ["Добрый вечер, господин.", "Добрый вечер!", "Всем добрый вечер."],
+      "es": ["Buenas tardes, señor.", "¡Buenas tardes!", "Buenas tardes a todos."],
+      "pl": ["Dobry wieczór, panie.", "Dobry wieczór!", "Dobry wieczór wszystkim."],
+      "fa": ["عصر بخیر، آقا.", "عصر بخیر!", "عصر بخیر به همه."]
+    }
+  },
+  {
+    "id": "universal_a1_116_fr",
+    "word": "salut",
+    "translations": {
+      "en": "hi, bye (informal)",
+      "de": "hallo, tschüss",
+      "ar": "مرحباً، وداعاً",
+      "fr": "salut",
+      "it": "ciao",
+      "ru": "привет, пока",
+      "es": "hola, adiós",
+      "pl": "cześć, pa",
+      "fa": "سلام، خداحافظ"
+    },
+    "examples": {
+      "en": ["Hi, friend!", "Bye, see you!", "Hi there!"],
+      "de": ["Hallo, Freund!", "Tschüss, bis bald!", "Hallo!"],
+      "ar": ["مرحباً يا صديقي!", "وداعاً، أراك لاحقاً!", "مرحباً!"],
+      "fr": ["Salut, ami!", "Salut, à bientôt!", "Salut!"],
+      "it": ["Ciao, amico!", "Ciao, ci vediamo!", "Ciao!"],
+      "ru": ["Привет, друг!", "Пока, увидимся!", "Привет!"],
+      "es": ["¡Hola, amigo!", "¡Adiós, nos vemos!", "¡Hola!"],
+      "pl": ["Cześć, przyjacielu!", "Pa, do zobaczenia!", "Cześć!"],
+      "fa": ["سلام، دوست!", "خداحافظ، می‌بینمت!", "سلام!"]
+    }
+  },
+  {
+    "id": "universal_a1_117_fr",
+    "word": "au revoir",
+    "translations": {
+      "en": "goodbye",
+      "de": "auf Wiedersehen",
+      "ar": "وداعاً",
+      "fr": "au revoir",
+      "it": "arrivederci",
+      "ru": "до свидания",
+      "es": "adiós",
+      "pl": "do widzenia",
+      "fa": "خداحافظ"
+    },
+    "examples": {
+      "en": ["Goodbye, have a nice day!", "Goodbye everyone.", "Goodbye, see you tomorrow."],
+      "de": ["Auf Wiedersehen, schönen Tag!", "Auf Wiedersehen zusammen.", "Auf Wiedersehen, bis morgen."],
+      "ar": ["وداعاً، يوم سعيد!", "وداعاً للجميع.", "وداعاً، أراك غداً."],
+      "fr": ["Au revoir, bonne journée!", "Au revoir à tous.", "Au revoir, à demain."],
+      "it": ["Arrivederci, buona giornata!", "Arrivederci a tutti.", "Arrivederci, a domani."],
+      "ru": ["До свидания, хорошего дня!", "До свидания всем.", "До свидания, до завтра."],
+      "es": ["Adiós, ¡que tengas un buen día!", "Adiós a todos.", "Adiós, hasta mañana."],
+      "pl": ["Do widzenia, miłego dnia!", "Do widzenia wszystkim.", "Do widzenia, do jutra."],
+      "fa": ["خداحافظ، روز خوبی داشته باشید!", "خداحافظ به همه.", "خداحافظ، فردا می‌بینمت."]
+    }
+  },
+  {
+    "id": "universal_a1_118_fr",
+    "word": "s'il vous plaît",
+    "translations": {
+      "en": "please (formal)",
+      "de": "bitte",
+      "ar": "من فضلك (رسمي)",
+      "fr": "s'il vous plaît",
+      "it": "per favore",
+      "ru": "пожалуйста",
+      "es": "por favor",
+      "pl": "proszę",
+      "fa": "لطفاً"
+    },
+    "examples": {
+      "en": ["Water, please.", "Please help me.", "Yes, please."],
+      "de": ["Wasser, bitte.", "Bitte hilf mir.", "Ja, bitte."],
+      "ar": ["ماء، من فضلك.", "من فضلك ساعدني.", "نعم، من فضلك."],
+      "fr": ["De l'eau, s'il vous plaît.", "Aidez-moi, s'il vous plaît.", "Oui, s'il vous plaît."],
+      "it": ["Acqua, per favore.", "Per favore aiutami.", "Sì, per favore."],
+      "ru": ["Воду, пожалуйста.", "Помогите мне, пожалуйста.", "Да, пожалуйста."],
+      "es": ["Agua, por favor.", "Por favor ayúdame.", "Sí, por favor."],
+      "pl": ["Wodę, proszę.", "Proszę mi pomóc.", "Tak, proszę."],
+      "fa": ["آب، لطفاً.", "لطفاً به من کمک کنید.", "بله، لطفاً."]
+    }
+  },
+  {
+    "id": "universal_a1_119_fr",
+    "word": "pardon",
+    "translations": {
+      "en": "sorry, excuse me",
+      "de": "Entschuldigung",
+      "ar": "عفواً، آسف",
+      "fr": "pardon",
+      "it": "scusa, scusi",
+      "ru": "извините, простите",
+      "es": "perdón, disculpa",
+      "pl": "przepraszam",
+      "fa": "ببخشید، معذرت"
+    },
+    "examples": {
+      "en": ["Sorry, I am late.", "Excuse me, sir.", "Pardon me."],
+      "de": ["Entschuldigung, ich bin spät.", "Entschuldigung, Herr.", "Verzeihung."],
+      "ar": ["آسف، أنا متأخر.", "عفواً يا سيدي.", "عفواً."],
+      "fr": ["Pardon, je suis en retard.", "Pardon, monsieur.", "Pardon."],
+      "it": ["Scusa, sono in ritardo.", "Scusi, signore.", "Scusa."],
+      "ru": ["Простите, я опоздал.", "Извините, господин.", "Простите."],
+      "es": ["Perdón, llego tarde.", "Disculpe, señor.", "Perdón."],
+      "pl": ["Przepraszam, jestem spóźniony.", "Przepraszam, panie.", "Przepraszam."],
+      "fa": ["ببخشید، دیر کردم.", "ببخشید، آقا.", "ببخشید."]
+    }
+  },
+  {
+    "id": "universal_a1_120_fr",
+    "word": "comment",
+    "translations": {
+      "en": "how",
+      "de": "wie",
+      "ar": "كيف",
+      "fr": "comment",
+      "it": "come",
+      "ru": "как",
+      "es": "cómo",
+      "pl": "jak",
+      "fa": "چطور، چگونه"
+    },
+    "examples": {
+      "en": ["How are you?", "How does it work?", "How much?"],
+      "de": ["Wie geht es dir?", "Wie funktioniert das?", "Wie viel?"],
+      "ar": ["كيف حالك؟", "كيف يعمل؟", "كم؟"],
+      "fr": ["Comment vas-tu?", "Comment ça marche?", "Combien?"],
+      "it": ["Come stai?", "Come funziona?", "Quanto?"],
+      "ru": ["Как дела?", "Как это работает?", "Сколько?"],
+      "es": ["¿Cómo estás?", "¿Cómo funciona?", "¿Cuánto?"],
+      "pl": ["Jak się masz?", "Jak to działa?", "Ile?"],
+      "fa": ["حالت چطوره؟", "چطور کار می‌کند؟", "چقدر؟"]
+    }
+  }
+]

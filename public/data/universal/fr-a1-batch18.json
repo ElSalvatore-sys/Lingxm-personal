@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_341_fr",
+    "word": "personne",
+    "translations": {
+      "en": "person",
+      "de": "Person",
+      "ar": "شخص",
+      "fr": "personne",
+      "it": "persona",
+      "ru": "человек",
+      "es": "persona",
+      "pl": "osoba",
+      "fa": "شخص، فرد"
+    },
+    "examples": {
+      "en": ["Nice person.", "One person.", "Important person."],
+      "de": ["Nette Person.", "Eine Person.", "Wichtige Person."],
+      "ar": ["شخص لطيف.", "شخص واحد.", "شخص مهم."],
+      "fr": ["Personne gentille.", "Une personne.", "Personne importante."],
+      "it": ["Persona gentile.", "Una persona.", "Persona importante."],
+      "ru": ["Милый человек.", "Один человек.", "Важный человек."],
+      "es": ["Persona amable.", "Una persona.", "Persona importante."],
+      "pl": ["Miła osoba.", "Jedna osoba.", "Ważna osoba."],
+      "fa": ["شخص مهربان.", "یک نفر.", "شخص مهم."]
+    }
+  },
+  {
+    "id": "universal_a1_342_fr",
+    "word": "homme",
+    "translations": {
+      "en": "man",
+      "de": "Mann",
+      "ar": "رجل",
+      "fr": "homme",
+      "it": "uomo",
+      "ru": "мужчина, человек",
+      "es": "hombre",
+      "pl": "mężczyzna",
+      "fa": "مرد"
+    },
+    "examples": {
+      "en": ["Young man.", "Old man.", "Tall man."],
+      "de": ["Junger Mann.", "Alter Mann.", "Großer Mann."],
+      "ar": ["رجل شاب.", "رجل عجوز.", "رجل طويل."],
+      "fr": ["Jeune homme.", "Vieil homme.", "Grand homme."],
+      "it": ["Uomo giovane.", "Uomo vecchio.", "Uomo alto."],
+      "ru": ["Молодой мужчина.", "Старый мужчина.", "Высокий мужчина."],
+      "es": ["Hombre joven.", "Hombre viejo.", "Hombre alto."],
+      "pl": ["Młody mężczyzna.", "Stary mężczyzna.", "Wysoki mężczyzna."],
+      "fa": ["مرد جوان.", "مرد پیر.", "مرد قد بلند."]
+    }
+  },
+  {
+    "id": "universal_a1_343_fr",
+    "word": "femme",
+    "translations": {
+      "en": "woman, wife",
+      "de": "Frau",
+      "ar": "امرأة، زوجة",
+      "fr": "femme",
+      "it": "donna, moglie",
+      "ru": "женщина, жена",
+      "es": "mujer, esposa",
+      "pl": "kobieta, żona",
+      "fa": "زن، همسر"
+    },
+    "examples": {
+      "en": ["Young woman.", "My wife.", "Beautiful woman."],
+      "de": ["Junge Frau.", "Meine Frau.", "Schöne Frau."],
+      "ar": ["امرأة شابة.", "زوجتي.", "امرأة جميلة."],
+      "fr": ["Jeune femme.", "Ma femme.", "Belle femme."],
+      "it": ["Donna giovane.", "Mia moglie.", "Bella donna."],
+      "ru": ["Молодая женщина.", "Моя жена.", "Красивая женщина."],
+      "es": ["Mujer joven.", "Mi esposa.", "Mujer bonita."],
+      "pl": ["Młoda kobieta.", "Moja żona.", "Piękna kobieta."],
+      "fa": ["زن جوان.", "همسرم.", "زن زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_344_fr",
+    "word": "enfant",
+    "translations": {
+      "en": "child",
+      "de": "Kind",
+      "ar": "طفل",
+      "fr": "enfant",
+      "it": "bambino",
+      "ru": "ребенок",
+      "es": "niño",
+      "pl": "dziecko",
+      "fa": "کودک، بچه"
+    },
+    "examples": {
+      "en": ["Small child.", "My child.", "Happy child."],
+      "de": ["Kleines Kind.", "Mein Kind.", "Glückliches Kind."],
+      "ar": ["طفل صغير.", "طفلي.", "طفل سعيد."],
+      "fr": ["Petit enfant.", "Mon enfant.", "Enfant heureux."],
+      "it": ["Bambino piccolo.", "Mio figlio.", "Bambino felice."],
+      "ru": ["Маленький ребенок.", "Мой ребенок.", "Счастливый ребенок."],
+      "es": ["Niño pequeño.", "Mi hijo.", "Niño feliz."],
+      "pl": ["Małe dziecko.", "Moje dziecko.", "Szczęśliwe dziecko."],
+      "fa": ["کودک کوچک.", "بچه من.", "کودک خوشحال."]
+    }
+  },
+  {
+    "id": "universal_a1_345_fr",
+    "word": "garçon",
+    "translations": {
+      "en": "boy",
+      "de": "Junge",
+      "ar": "ولد، صبي",
+      "fr": "garçon",
+      "it": "ragazzo",
+      "ru": "мальчик",
+      "es": "niño, chico",
+      "pl": "chłopiec",
+      "fa": "پسر"
+    },
+    "examples": {
+      "en": ["Little boy.", "Young boy.", "Smart boy."],
+      "de": ["Kleiner Junge.", "Junger Junge.", "Kluger Junge."],
+      "ar": ["ولد صغير.", "صبي شاب.", "ولد ذكي."],
+      "fr": ["Petit garçon.", "Jeune garçon.", "Garçon intelligent."],
+      "it": ["Bambino piccolo.", "Ragazzo giovane.", "Ragazzo intelligente."],
+      "ru": ["Маленький мальчик.", "Молодой мальчик.", "Умный мальчик."],
+      "es": ["Niño pequeño.", "Chico joven.", "Niño inteligente."],
+      "pl": ["Mały chłopiec.", "Młody chłopiec.", "Mądry chłopiec."],
+      "fa": ["پسر کوچک.", "پسر جوان.", "پسر باهوش."]
+    }
+  },
+  {
+    "id": "universal_a1_346_fr",
+    "word": "fille",
+    "translations": {
+      "en": "girl, daughter",
+      "de": "Mädchen, Tochter",
+      "ar": "بنت، فتاة",
+      "fr": "fille",
+      "it": "ragazza, figlia",
+      "ru": "девочка, дочь",
+      "es": "niña, hija",
+      "pl": "dziewczyna, córka",
+      "fa": "دختر"
+    },
+    "examples": {
+      "en": ["Little girl.", "My daughter.", "Pretty girl."],
+      "de": ["Kleines Mädchen.", "Meine Tochter.", "Hübsches Mädchen."],
+      "ar": ["بنت صغيرة.", "ابنتي.", "فتاة جميلة."],
+      "fr": ["Petite fille.", "Ma fille.", "Jolie fille."],
+      "it": ["Bambina piccola.", "Mia figlia.", "Bella ragazza."],
+      "ru": ["Маленькая девочка.", "Моя дочь.", "Красивая девочка."],
+      "es": ["Niña pequeña.", "Mi hija.", "Niña bonita."],
+      "pl": ["Mała dziewczynka.", "Moja córka.", "Ładna dziewczyna."],
+      "fa": ["دختر کوچک.", "دخترم.", "دختر قشنگ."]
+    }
+  },
+  {
+    "id": "universal_a1_347_fr",
+    "word": "bébé",
+    "translations": {
+      "en": "baby",
+      "de": "Baby",
+      "ar": "رضيع",
+      "fr": "bébé",
+      "it": "bebè, neonato",
+      "ru": "младенец, малыш",
+      "es": "bebé",
+      "pl": "niemowlę",
+      "fa": "نوزاد"
+    },
+    "examples": {
+      "en": ["Cute baby.", "My baby.", "Baby sleeps."],
+      "de": ["Süßes Baby.", "Mein Baby.", "Baby schläft."],
+      "ar": ["رضيع لطيف.", "رضيعي.", "الرضيع ينام."],
+      "fr": ["Joli bébé.", "Mon bébé.", "Le bébé dort."],
+      "it": ["Bebè carino.", "Mio bebè.", "Il bebè dorme."],
+      "ru": ["Милый малыш.", "Мой малыш.", "Малыш спит."],
+      "es": ["Bebé lindo.", "Mi bebé.", "El bebé duerme."],
+      "pl": ["Słodkie niemowlę.", "Moje niemowlę.", "Niemowlę śpi."],
+      "fa": ["نوزاد بامزه.", "نوزاد من.", "نوزاد می‌خوابد."]
+    }
+  },
+  {
+    "id": "universal_a1_348_fr",
+    "word": "famille",
+    "translations": {
+      "en": "family",
+      "de": "Familie",
+      "ar": "عائلة، أسرة",
+      "fr": "famille",
+      "it": "famiglia",
+      "ru": "семья",
+      "es": "familia",
+      "pl": "rodzina",
+      "fa": "خانواده"
+    },
+    "examples": {
+      "en": ["My family.", "Big family.", "Happy family."],
+      "de": ["Meine Familie.", "Große Familie.", "Glückliche Familie."],
+      "ar": ["عائلتي.", "عائلة كبيرة.", "عائلة سعيدة."],
+      "fr": ["Ma famille.", "Grande famille.", "Famille heureuse."],
+      "it": ["La mia famiglia.", "Famiglia grande.", "Famiglia felice."],
+      "ru": ["Моя семья.", "Большая семья.", "Счастливая семья."],
+      "es": ["Mi familia.", "Familia grande.", "Familia feliz."],
+      "pl": ["Moja rodzina.", "Duża rodzina.", "Szczęśliwa rodzina."],
+      "fa": ["خانواده من.", "خانواده بزرگ.", "خانواده خوشحال."]
+    }
+  },
+  {
+    "id": "universal_a1_349_fr",
+    "word": "père",
+    "translations": {
+      "en": "father",
+      "de": "Vater",
+      "ar": "أب، والد",
+      "fr": "père",
+      "it": "padre",
+      "ru": "отец",
+      "es": "padre",
+      "pl": "ojciec",
+      "fa": "پدر"
+    },
+    "examples": {
+      "en": ["My father.", "Good father.", "Father works."],
+      "de": ["Mein Vater.", "Guter Vater.", "Vater arbeitet."],
+      "ar": ["أبي.", "أب جيد.", "الأب يعمل."],
+      "fr": ["Mon père.", "Bon père.", "Le père travaille."],
+      "it": ["Mio padre.", "Buon padre.", "Il padre lavora."],
+      "ru": ["Мой отец.", "Хороший отец.", "Отец работает."],
+      "es": ["Mi padre.", "Buen padre.", "El padre trabaja."],
+      "pl": ["Mój ojciec.", "Dobry ojciec.", "Ojciec pracuje."],
+      "fa": ["پدرم.", "پدر خوب.", "پدر کار می‌کند."]
+    }
+  },
+  {
+    "id": "universal_a1_350_fr",
+    "word": "mère",
+    "translations": {
+      "en": "mother",
+      "de": "Mutter",
+      "ar": "أم، والدة",
+      "fr": "mère",
+      "it": "madre",
+      "ru": "мать",
+      "es": "madre",
+      "pl": "matka",
+      "fa": "مادر"
+    },
+    "examples": {
+      "en": ["My mother.", "Good mother.", "Mother cooks."],
+      "de": ["Meine Mutter.", "Gute Mutter.", "Mutter kocht."],
+      "ar": ["أمي.", "أم جيدة.", "الأم تطبخ."],
+      "fr": ["Ma mère.", "Bonne mère.", "La mère cuisine."],
+      "it": ["Mia madre.", "Buona madre.", "La madre cucina."],
+      "ru": ["Моя мать.", "Хорошая мать.", "Мать готовит."],
+      "es": ["Mi madre.", "Buena madre.", "La madre cocina."],
+      "pl": ["Moja matka.", "Dobra matka.", "Matka gotuje."],
+      "fa": ["مادرم.", "مادر خوب.", "مادر آشپزی می‌کند."]
+    }
+  },
+  {
+    "id": "universal_a1_351_fr",
+    "word": "frère",
+    "translations": {
+      "en": "brother",
+      "de": "Bruder",
+      "ar": "أخ",
+      "fr": "frère",
+      "it": "fratello",
+      "ru": "брат",
+      "es": "hermano",
+      "pl": "brat",
+      "fa": "برادر"
+    },
+    "examples": {
+      "en": ["My brother.", "Little brother.", "Big brother."],
+      "de": ["Mein Bruder.", "Kleiner Bruder.", "Großer Bruder."],
+      "ar": ["أخي.", "أخ صغير.", "أخ كبير."],
+      "fr": ["Mon frère.", "Petit frère.", "Grand frère."],
+      "it": ["Mio fratello.", "Fratello piccolo.", "Fratello grande."],
+      "ru": ["Мой брат.", "Младший брат.", "Старший брат."],
+      "es": ["Mi hermano.", "Hermano pequeño.", "Hermano mayor."],
+      "pl": ["Mój brat.", "Mały brat.", "Duży brat."],
+      "fa": ["برادرم.", "برادر کوچک.", "برادر بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_352_fr",
+    "word": "sœur",
+    "translations": {
+      "en": "sister",
+      "de": "Schwester",
+      "ar": "أخت",
+      "fr": "sœur",
+      "it": "sorella",
+      "ru": "сестра",
+      "es": "hermana",
+      "pl": "siostra",
+      "fa": "خواهر"
+    },
+    "examples": {
+      "en": ["My sister.", "Little sister.", "Big sister."],
+      "de": ["Meine Schwester.", "Kleine Schwester.", "Große Schwester."],
+      "ar": ["أختي.", "أخت صغيرة.", "أخت كبيرة."],
+      "fr": ["Ma sœur.", "Petite sœur.", "Grande sœur."],
+      "it": ["Mia sorella.", "Sorella piccola.", "Sorella grande."],
+      "ru": ["Моя сестра.", "Младшая сестра.", "Старшая сестра."],
+      "es": ["Mi hermana.", "Hermana pequeña.", "Hermana mayor."],
+      "pl": ["Moja siostra.", "Mała siostra.", "Duża siostra."],
+      "fa": ["خواهرم.", "خواهر کوچک.", "خواهر بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_353_fr",
+    "word": "mari",
+    "translations": {
+      "en": "husband",
+      "de": "Ehemann",
+      "ar": "زوج",
+      "fr": "mari",
+      "it": "marito",
+      "ru": "муж",
+      "es": "marido, esposo",
+      "pl": "mąż",
+      "fa": "شوهر، همسر"
+    },
+    "examples": {
+      "en": ["My husband.", "Good husband.", "Husband works."],
+      "de": ["Mein Ehemann.", "Guter Ehemann.", "Ehemann arbeitet."],
+      "ar": ["زوجي.", "زوج جيد.", "الزوج يعمل."],
+      "fr": ["Mon mari.", "Bon mari.", "Le mari travaille."],
+      "it": ["Mio marito.", "Buon marito.", "Il marito lavora."],
+      "ru": ["Мой муж.", "Хороший муж.", "Муж работает."],
+      "es": ["Mi marido.", "Buen marido.", "El marido trabaja."],
+      "pl": ["Mój mąż.", "Dobry mąż.", "Mąż pracuje."],
+      "fa": ["شوهرم.", "شوهر خوب.", "شوهر کار می‌کند."]
+    }
+  },
+  {
+    "id": "universal_a1_354_fr",
+    "word": "fils",
+    "translations": {
+      "en": "son",
+      "de": "Sohn",
+      "ar": "ابن",
+      "fr": "fils",
+      "it": "figlio",
+      "ru": "сын",
+      "es": "hijo",
+      "pl": "syn",
+      "fa": "پسر"
+    },
+    "examples": {
+      "en": ["My son.", "Young son.", "Good son."],
+      "de": ["Mein Sohn.", "Junger Sohn.", "Guter Sohn."],
+      "ar": ["ابني.", "ابن شاب.", "ابن جيد."],
+      "fr": ["Mon fils.", "Jeune fils.", "Bon fils."],
+      "it": ["Mio figlio.", "Figlio giovane.", "Buon figlio."],
+      "ru": ["Мой сын.", "Молодой сын.", "Хороший сын."],
+      "es": ["Mi hijo.", "Hijo joven.", "Buen hijo."],
+      "pl": ["Mój syn.", "Młody syn.", "Dobry syn."],
+      "fa": ["پسرم.", "پسر جوان.", "پسر خوب."]
+    }
+  },
+  {
+    "id": "universal_a1_355_fr",
+    "word": "ami",
+    "translations": {
+      "en": "friend (male)",
+      "de": "Freund",
+      "ar": "صديق",
+      "fr": "ami",
+      "it": "amico",
+      "ru": "друг",
+      "es": "amigo",
+      "pl": "przyjaciel",
+      "fa": "دوست"
+    },
+    "examples": {
+      "en": ["My friend.", "Good friend.", "Best friend."],
+      "de": ["Mein Freund.", "Guter Freund.", "Bester Freund."],
+      "ar": ["صديقي.", "صديق جيد.", "أفضل صديق."],
+      "fr": ["Mon ami.", "Bon ami.", "Meilleur ami."],
+      "it": ["Mio amico.", "Buon amico.", "Migliore amico."],
+      "ru": ["Мой друг.", "Хороший друг.", "Лучший друг."],
+      "es": ["Mi amigo.", "Buen amigo.", "Mejor amigo."],
+      "pl": ["Mój przyjaciel.", "Dobry przyjaciel.", "Najlepszy przyjaciel."],
+      "fa": ["دوستم.", "دوست خوب.", "بهترین دوست."]
+    }
+  },
+  {
+    "id": "universal_a1_356_fr",
+    "word": "amie",
+    "translations": {
+      "en": "friend (female)",
+      "de": "Freundin",
+      "ar": "صديقة",
+      "fr": "amie",
+      "it": "amica",
+      "ru": "подруга",
+      "es": "amiga",
+      "pl": "przyjaciółka",
+      "fa": "دوست"
+    },
+    "examples": {
+      "en": ["My friend.", "Good friend.", "Best friend."],
+      "de": ["Meine Freundin.", "Gute Freundin.", "Beste Freundin."],
+      "ar": ["صديقتي.", "صديقة جيدة.", "أفضل صديقة."],
+      "fr": ["Mon amie.", "Bonne amie.", "Meilleure amie."],
+      "it": ["Mia amica.", "Buona amica.", "Migliore amica."],
+      "ru": ["Моя подруга.", "Хорошая подруга.", "Лучшая подруга."],
+      "es": ["Mi amiga.", "Buena amiga.", "Mejor amiga."],
+      "pl": ["Moja przyjaciółka.", "Dobra przyjaciółka.", "Najlepsza przyjaciółka."],
+      "fa": ["دوستم.", "دوست خوب.", "بهترین دوست."]
+    }
+  },
+  {
+    "id": "universal_a1_357_fr",
+    "word": "professeur",
+    "translations": {
+      "en": "teacher, professor",
+      "de": "Lehrer, Professor",
+      "ar": "أستاذ، معلم",
+      "fr": "professeur",
+      "it": "professore, insegnante",
+      "ru": "учитель, профессор",
+      "es": "profesor",
+      "pl": "nauczyciel, profesor",
+      "fa": "معلم، استاد"
+    },
+    "examples": {
+      "en": ["My teacher.", "Good teacher.", "Math teacher."],
+      "de": ["Mein Lehrer.", "Guter Lehrer.", "Mathelehrer."],
+      "ar": ["معلمي.", "معلم جيد.", "معلم رياضيات."],
+      "fr": ["Mon professeur.", "Bon professeur.", "Professeur de maths."],
+      "it": ["Mio professore.", "Buon professore.", "Professore di matematica."],
+      "ru": ["Мой учитель.", "Хороший учитель.", "Учитель математики."],
+      "es": ["Mi profesor.", "Buen profesor.", "Profesor de matemáticas."],
+      "pl": ["Mój nauczyciel.", "Dobry nauczyciel.", "Nauczyciel matematyki."],
+      "fa": ["معلمم.", "معلم خوب.", "معلم ریاضی."]
+    }
+  },
+  {
+    "id": "universal_a1_358_fr",
+    "word": "étudiant",
+    "translations": {
+      "en": "student",
+      "de": "Student",
+      "ar": "طالب",
+      "fr": "étudiant",
+      "it": "studente",
+      "ru": "студент",
+      "es": "estudiante",
+      "pl": "student",
+      "fa": "دانشجو"
+    },
+    "examples": {
+      "en": ["I am a student.", "Good student.", "University student."],
+      "de": ["Ich bin Student.", "Guter Student.", "Universitätsstudent."],
+      "ar": ["أنا طالب.", "طالب جيد.", "طالب جامعي."],
+      "fr": ["Je suis étudiant.", "Bon étudiant.", "Étudiant universitaire."],
+      "it": ["Io sono studente.", "Buon studente.", "Studente universitario."],
+      "ru": ["Я студент.", "Хороший студент.", "Университетский студент."],
+      "es": ["Yo soy estudiante.", "Buen estudiante.", "Estudiante universitario."],
+      "pl": ["Ja jestem studentem.", "Dobry student.", "Student uniwersytecki."],
+      "fa": ["من دانشجو هستم.", "دانشجوی خوب.", "دانشجوی دانشگاه."]
+    }
+  },
+  {
+    "id": "universal_a1_359_fr",
+    "word": "voisin",
+    "translations": {
+      "en": "neighbor",
+      "de": "Nachbar",
+      "ar": "جار",
+      "fr": "voisin",
+      "it": "vicino",
+      "ru": "сосед",
+      "es": "vecino",
+      "pl": "sąsiad",
+      "fa": "همسایه"
+    },
+    "examples": {
+      "en": ["My neighbor.", "Nice neighbor.", "New neighbor."],
+      "de": ["Mein Nachbar.", "Netter Nachbar.", "Neuer Nachbar."],
+      "ar": ["جاري.", "جار لطيف.", "جار جديد."],
+      "fr": ["Mon voisin.", "Voisin gentil.", "Nouveau voisin."],
+      "it": ["Mio vicino.", "Vicino gentile.", "Nuovo vicino."],
+      "ru": ["Мой сосед.", "Милый сосед.", "Новый сосед."],
+      "es": ["Mi vecino.", "Vecino amable.", "Nuevo vecino."],
+      "pl": ["Mój sąsiad.", "Miły sąsiad.", "Nowy sąsiad."],
+      "fa": ["همسایه من.", "همسایه مهربان.", "همسایه جدید."]
+    }
+  },
+  {
+    "id": "universal_a1_360_fr",
+    "word": "travail",
+    "translations": {
+      "en": "work, job",
+      "de": "Arbeit",
+      "ar": "عمل، وظيفة",
+      "fr": "travail",
+      "it": "lavoro",
+      "ru": "работа",
+      "es": "trabajo",
+      "pl": "praca",
+      "fa": "کار، شغل"
+    },
+    "examples": {
+      "en": ["I go to work.", "Hard work.", "Good job."],
+      "de": ["Ich gehe zur Arbeit.", "Harte Arbeit.", "Gute Arbeit."],
+      "ar": ["أنا أذهب إلى العمل.", "عمل شاق.", "وظيفة جيدة."],
+      "fr": ["Je vais au travail.", "Travail dur.", "Bon travail."],
+      "it": ["Io vado al lavoro.", "Lavoro duro.", "Buon lavoro."],
+      "ru": ["Я иду на работу.", "Тяжелая работа.", "Хорошая работа."],
+      "es": ["Yo voy al trabajo.", "Trabajo duro.", "Buen trabajo."],
+      "pl": ["Ja idę do pracy.", "Ciężka praca.", "Dobra praca."],
+      "fa": ["من به سر کار می‌روم.", "کار سخت.", "کار خوب."]
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_321_fr",
+    "word": "rue",
+    "translations": {
+      "en": "street",
+      "de": "Straße",
+      "ar": "شارع",
+      "fr": "rue",
+      "it": "strada, via",
+      "ru": "улица",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "examples": {
+      "en": ["Main street.", "I live on this street.", "Quiet street."],
+      "de": ["Hauptstraße.", "Ich wohne in dieser Straße.", "Ruhige Straße."],
+      "ar": ["الشارع الرئيسي.", "أنا أسكن في هذا الشارع.", "شارع هادئ."],
+      "fr": ["Rue principale.", "J'habite dans cette rue.", "Rue calme."],
+      "it": ["Strada principale.", "Io abito in questa strada.", "Strada tranquilla."],
+      "ru": ["Главная улица.", "Я живу на этой улице.", "Тихая улица."],
+      "es": ["Calle principal.", "Yo vivo en esta calle.", "Calle tranquila."],
+      "pl": ["Główna ulica.", "Ja mieszkam na tej ulicy.", "Spokojna ulica."],
+      "fa": ["خیابان اصلی.", "من در این خیابان زندگی می‌کنم.", "خیابان آرام."]
+    }
+  },
+  {
+    "id": "universal_a1_322_fr",
+    "word": "avenue",
+    "translations": {
+      "en": "avenue",
+      "de": "Allee, Avenue",
+      "ar": "جادة",
+      "fr": "avenue",
+      "it": "viale",
+      "ru": "проспект",
+      "es": "avenida",
+      "pl": "aleja",
+      "fa": "خیابان بزرگ"
+    },
+    "examples": {
+      "en": ["Large avenue.", "Famous avenue.", "Beautiful avenue."],
+      "de": ["Große Allee.", "Berühmte Avenue.", "Schöne Allee."],
+      "ar": ["جادة كبيرة.", "جادة مشهورة.", "جادة جميلة."],
+      "fr": ["Grande avenue.", "Avenue célèbre.", "Belle avenue."],
+      "it": ["Viale grande.", "Viale famoso.", "Bel viale."],
+      "ru": ["Большой проспект.", "Известный проспект.", "Красивый проспект."],
+      "es": ["Avenida grande.", "Avenida famosa.", "Avenida bonita."],
+      "pl": ["Duża aleja.", "Słynna aleja.", "Piękna aleja."],
+      "fa": ["خیابان بزرگ.", "خیابان معروف.", "خیابان زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_323_fr",
+    "word": "place",
+    "translations": {
+      "en": "square, place",
+      "de": "Platz",
+      "ar": "ساحة، مكان",
+      "fr": "place",
+      "it": "piazza, posto",
+      "ru": "площадь, место",
+      "es": "plaza, lugar",
+      "pl": "plac, miejsce",
+      "fa": "میدان، جا"
+    },
+    "examples": {
+      "en": ["Town square.", "My place.", "Good place."],
+      "de": ["Stadtplatz.", "Mein Platz.", "Guter Platz."],
+      "ar": ["ساحة المدينة.", "مكاني.", "مكان جيد."],
+      "fr": ["Place de la ville.", "Ma place.", "Bonne place."],
+      "it": ["Piazza della città.", "Il mio posto.", "Buon posto."],
+      "ru": ["Городская площадь.", "Мое место.", "Хорошее место."],
+      "es": ["Plaza del pueblo.", "Mi lugar.", "Buen lugar."],
+      "pl": ["Plac miejski.", "Moje miejsce.", "Dobre miejsce."],
+      "fa": ["میدان شهر.", "جای من.", "جای خوب."]
+    }
+  },
+  {
+    "id": "universal_a1_324_fr",
+    "word": "parc",
+    "translations": {
+      "en": "park",
+      "de": "Park",
+      "ar": "حديقة عامة",
+      "fr": "parc",
+      "it": "parco",
+      "ru": "парк",
+      "es": "parque",
+      "pl": "park",
+      "fa": "پارک"
+    },
+    "examples": {
+      "en": ["Public park.", "I walk in the park.", "Beautiful park."],
+      "de": ["Öffentlicher Park.", "Ich gehe im Park spazieren.", "Schöner Park."],
+      "ar": ["حديقة عامة.", "أنا أمشي في الحديقة.", "حديقة جميلة."],
+      "fr": ["Parc public.", "Je me promène dans le parc.", "Beau parc."],
+      "it": ["Parco pubblico.", "Io cammino nel parco.", "Bel parco."],
+      "ru": ["Общественный парк.", "Я гуляю в парке.", "Красивый парк."],
+      "es": ["Parque público.", "Yo camino en el parque.", "Parque bonito."],
+      "pl": ["Park publiczny.", "Ja chodzę po parku.", "Piękny park."],
+      "fa": ["پارک عمومی.", "من در پارک قدم می‌زنم.", "پارک زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_325_fr",
+    "word": "gare",
+    "translations": {
+      "en": "train station",
+      "de": "Bahnhof",
+      "ar": "محطة قطار",
+      "fr": "gare",
+      "it": "stazione",
+      "ru": "вокзал",
+      "es": "estación de tren",
+      "pl": "dworzec kolejowy",
+      "fa": "ایستگاه قطار"
+    },
+    "examples": {
+      "en": ["I go to the station.", "Big station.", "Near the station."],
+      "de": ["Ich gehe zum Bahnhof.", "Großer Bahnhof.", "Nahe dem Bahnhof."],
+      "ar": ["أنا أذهب إلى المحطة.", "محطة كبيرة.", "بالقرب من المحطة."],
+      "fr": ["Je vais à la gare.", "Grande gare.", "Près de la gare."],
+      "it": ["Io vado alla stazione.", "Stazione grande.", "Vicino alla stazione."],
+      "ru": ["Я иду на вокзал.", "Большой вокзал.", "Рядом с вокзалом."],
+      "es": ["Yo voy a la estación.", "Estación grande.", "Cerca de la estación."],
+      "pl": ["Ja idę na dworzec.", "Duży dworzec.", "Blisko dworca."],
+      "fa": ["من به ایستگاه می‌روم.", "ایستگاه بزرگ.", "نزدیک ایستگاه."]
+    }
+  },
+  {
+    "id": "universal_a1_326_fr",
+    "word": "aéroport",
+    "translations": {
+      "en": "airport",
+      "de": "Flughafen",
+      "ar": "مطار",
+      "fr": "aéroport",
+      "it": "aeroporto",
+      "ru": "аэропорт",
+      "es": "aeropuerto",
+      "pl": "lotnisko",
+      "fa": "فرودگاه"
+    },
+    "examples": {
+      "en": ["I go to the airport.", "International airport.", "Big airport."],
+      "de": ["Ich gehe zum Flughafen.", "Internationaler Flughafen.", "Großer Flughafen."],
+      "ar": ["أنا أذهب إلى المطار.", "مطار دولي.", "مطار كبير."],
+      "fr": ["Je vais à l'aéroport.", "Aéroport international.", "Grand aéroport."],
+      "it": ["Io vado all'aeroporto.", "Aeroporto internazionale.", "Aeroporto grande."],
+      "ru": ["Я иду в аэропорт.", "Международный аэропорт.", "Большой аэропорт."],
+      "es": ["Yo voy al aeropuerto.", "Aeropuerto internacional.", "Aeropuerto grande."],
+      "pl": ["Ja idę na lotnisko.", "Lotnisko międzynarodowe.", "Duże lotnisko."],
+      "fa": ["من به فرودگاه می‌روم.", "فرودگاه بین‌المللی.", "فرودگاه بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_327_fr",
+    "word": "hôtel",
+    "translations": {
+      "en": "hotel",
+      "de": "Hotel",
+      "ar": "فندق",
+      "fr": "hôtel",
+      "it": "albergo, hotel",
+      "ru": "отель, гостиница",
+      "es": "hotel",
+      "pl": "hotel",
+      "fa": "هتل"
+    },
+    "examples": {
+      "en": ["I stay at a hotel.", "Luxury hotel.", "Small hotel."],
+      "de": ["Ich übernachte in einem Hotel.", "Luxushotel.", "Kleines Hotel."],
+      "ar": ["أنا أقيم في فندق.", "فندق فاخر.", "فندق صغير."],
+      "fr": ["Je reste à l'hôtel.", "Hôtel de luxe.", "Petit hôtel."],
+      "it": ["Io sto in hotel.", "Hotel di lusso.", "Piccolo hotel."],
+      "ru": ["Я останавливаюсь в отеле.", "Роскошный отель.", "Маленький отель."],
+      "es": ["Yo me quedo en un hotel.", "Hotel de lujo.", "Hotel pequeño."],
+      "pl": ["Ja mieszkam w hotelu.", "Luksusowy hotel.", "Mały hotel."],
+      "fa": ["من در هتل می‌مانم.", "هتل لوکس.", "هتل کوچک."]
+    }
+  },
+  {
+    "id": "universal_a1_328_fr",
+    "word": "musée",
+    "translations": {
+      "en": "museum",
+      "de": "Museum",
+      "ar": "متحف",
+      "fr": "musée",
+      "it": "museo",
+      "ru": "музей",
+      "es": "museo",
+      "pl": "muzeum",
+      "fa": "موزه"
+    },
+    "examples": {
+      "en": ["I visit the museum.", "Art museum.", "Famous museum."],
+      "de": ["Ich besuche das Museum.", "Kunstmuseum.", "Berühmtes Museum."],
+      "ar": ["أنا أزور المتحف.", "متحف فني.", "متحف مشهور."],
+      "fr": ["Je visite le musée.", "Musée d'art.", "Musée célèbre."],
+      "it": ["Io visito il museo.", "Museo d'arte.", "Museo famoso."],
+      "ru": ["Я посещаю музей.", "Художественный музей.", "Известный музей."],
+      "es": ["Yo visito el museo.", "Museo de arte.", "Museo famoso."],
+      "pl": ["Ja odwiedzam muzeum.", "Muzeum sztuki.", "Słynne muzeum."],
+      "fa": ["من از موزه بازدید می‌کنم.", "موزه هنر.", "موزه معروف."]
+    }
+  },
+  {
+    "id": "universal_a1_329_fr",
+    "word": "cinéma",
+    "translations": {
+      "en": "cinema, movie theater",
+      "de": "Kino",
+      "ar": "سينما",
+      "fr": "cinéma",
+      "it": "cinema",
+      "ru": "кинотеатр",
+      "es": "cine",
+      "pl": "kino",
+      "fa": "سینما"
+    },
+    "examples": {
+      "en": ["I go to the cinema.", "Watch at cinema.", "Near cinema."],
+      "de": ["Ich gehe ins Kino.", "Im Kino schauen.", "Nahe Kino."],
+      "ar": ["أنا أذهب إلى السينما.", "أشاهد في السينما.", "بالقرب من السينما."],
+      "fr": ["Je vais au cinéma.", "Regarder au cinéma.", "Près du cinéma."],
+      "it": ["Io vado al cinema.", "Guardare al cinema.", "Vicino al cinema."],
+      "ru": ["Я иду в кино.", "Смотреть в кино.", "Рядом с кинотеатром."],
+      "es": ["Yo voy al cine.", "Ver en el cine.", "Cerca del cine."],
+      "pl": ["Ja idę do kina.", "Oglądać w kinie.", "Blisko kina."],
+      "fa": ["من به سینما می‌روم.", "در سینما تماشا کردن.", "نزدیک سینما."]
+    }
+  },
+  {
+    "id": "universal_a1_330_fr",
+    "word": "théâtre",
+    "translations": {
+      "en": "theater",
+      "de": "Theater",
+      "ar": "مسرح",
+      "fr": "théâtre",
+      "it": "teatro",
+      "ru": "театр",
+      "es": "teatro",
+      "pl": "teatr",
+      "fa": "تئاتر"
+    },
+    "examples": {
+      "en": ["I go to the theater.", "Theater play.", "Famous theater."],
+      "de": ["Ich gehe ins Theater.", "Theaterstück.", "Berühmtes Theater."],
+      "ar": ["أنا أذهب إلى المسرح.", "مسرحية.", "مسرح مشهور."],
+      "fr": ["Je vais au théâtre.", "Pièce de théâtre.", "Théâtre célèbre."],
+      "it": ["Io vado a teatro.", "Opera teatrale.", "Teatro famoso."],
+      "ru": ["Я иду в театр.", "Театральная пьеса.", "Известный театр."],
+      "es": ["Yo voy al teatro.", "Obra de teatro.", "Teatro famoso."],
+      "pl": ["Ja idę do teatru.", "Sztuka teatralna.", "Słynny teatr."],
+      "fa": ["من به تئاتر می‌روم.", "نمایش تئاتر.", "تئاتر معروف."]
+    }
+  },
+  {
+    "id": "universal_a1_331_fr",
+    "word": "bibliothèque",
+    "translations": {
+      "en": "library",
+      "de": "Bibliothek",
+      "ar": "مكتبة",
+      "fr": "bibliothèque",
+      "it": "biblioteca",
+      "ru": "библиотека",
+      "es": "biblioteca",
+      "pl": "biblioteka",
+      "fa": "کتابخانه"
+    },
+    "examples": {
+      "en": ["I go to the library.", "Public library.", "Quiet library."],
+      "de": ["Ich gehe zur Bibliothek.", "Öffentliche Bibliothek.", "Ruhige Bibliothek."],
+      "ar": ["أنا أذهب إلى المكتبة.", "مكتبة عامة.", "مكتبة هادئة."],
+      "fr": ["Je vais à la bibliothèque.", "Bibliothèque publique.", "Bibliothèque calme."],
+      "it": ["Io vado in biblioteca.", "Biblioteca pubblica.", "Biblioteca tranquilla."],
+      "ru": ["Я иду в библиотеку.", "Публичная библиотека.", "Тихая библиотека."],
+      "es": ["Yo voy a la biblioteca.", "Biblioteca pública.", "Biblioteca tranquila."],
+      "pl": ["Ja idę do biblioteki.", "Biblioteka publiczna.", "Cicha biblioteka."],
+      "fa": ["من به کتابخانه می‌روم.", "کتابخانه عمومی.", "کتابخانه آرام."]
+    }
+  },
+  {
+    "id": "universal_a1_332_fr",
+    "word": "église",
+    "translations": {
+      "en": "church",
+      "de": "Kirche",
+      "ar": "كنيسة",
+      "fr": "église",
+      "it": "chiesa",
+      "ru": "церковь",
+      "es": "iglesia",
+      "pl": "kościół",
+      "fa": "کلیسا"
+    },
+    "examples": {
+      "en": ["Old church.", "I visit the church.", "Beautiful church."],
+      "de": ["Alte Kirche.", "Ich besuche die Kirche.", "Schöne Kirche."],
+      "ar": ["كنيسة قديمة.", "أنا أزور الكنيسة.", "كنيسة جميلة."],
+      "fr": ["Vieille église.", "Je visite l'église.", "Belle église."],
+      "it": ["Chiesa vecchia.", "Io visito la chiesa.", "Bella chiesa."],
+      "ru": ["Старая церковь.", "Я посещаю церковь.", "Красивая церковь."],
+      "es": ["Iglesia vieja.", "Yo visito la iglesia.", "Iglesia bonita."],
+      "pl": ["Stary kościół.", "Ja odwiedzam kościół.", "Piękny kościół."],
+      "fa": ["کلیسای قدیمی.", "من از کلیسا بازدید می‌کنم.", "کلیسای زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_333_fr",
+    "word": "pont",
+    "translations": {
+      "en": "bridge",
+      "de": "Brücke",
+      "ar": "جسر",
+      "fr": "pont",
+      "it": "ponte",
+      "ru": "мост",
+      "es": "puente",
+      "pl": "most",
+      "fa": "پل"
+    },
+    "examples": {
+      "en": ["Old bridge.", "I cross the bridge.", "Long bridge."],
+      "de": ["Alte Brücke.", "Ich überquere die Brücke.", "Lange Brücke."],
+      "ar": ["جسر قديم.", "أنا أعبر الجسر.", "جسر طويل."],
+      "fr": ["Vieux pont.", "Je traverse le pont.", "Long pont."],
+      "it": ["Ponte vecchio.", "Io attraverso il ponte.", "Ponte lungo."],
+      "ru": ["Старый мост.", "Я перехожу мост.", "Длинный мост."],
+      "es": ["Puente viejo.", "Yo cruzo el puente.", "Puente largo."],
+      "pl": ["Stary most.", "Ja przechodzę most.", "Długi most."],
+      "fa": ["پل قدیمی.", "من از پل رد می‌شوم.", "پل بلند."]
+    }
+  },
+  {
+    "id": "universal_a1_334_fr",
+    "word": "tour",
+    "translations": {
+      "en": "tower",
+      "de": "Turm",
+      "ar": "برج",
+      "fr": "tour",
+      "it": "torre",
+      "ru": "башня",
+      "es": "torre",
+      "pl": "wieża",
+      "fa": "برج"
+    },
+    "examples": {
+      "en": ["Eiffel Tower.", "High tower.", "Famous tower."],
+      "de": ["Eiffelturm.", "Hoher Turm.", "Berühmter Turm."],
+      "ar": ["برج إيفل.", "برج عالٍ.", "برج مشهور."],
+      "fr": ["Tour Eiffel.", "Haute tour.", "Tour célèbre."],
+      "it": ["Torre Eiffel.", "Torre alta.", "Torre famosa."],
+      "ru": ["Эйфелева башня.", "Высокая башня.", "Известная башня."],
+      "es": ["Torre Eiffel.", "Torre alta.", "Torre famosa."],
+      "pl": ["Wieża Eiffla.", "Wysoka wieża.", "Słynna wieża."],
+      "fa": ["برج ایفل.", "برج بلند.", "برج معروف."]
+    }
+  },
+  {
+    "id": "universal_a1_335_fr",
+    "word": "piscine",
+    "translations": {
+      "en": "swimming pool",
+      "de": "Schwimmbad",
+      "ar": "مسبح",
+      "fr": "piscine",
+      "it": "piscina",
+      "ru": "бассейн",
+      "es": "piscina",
+      "pl": "basen",
+      "fa": "استخر شنا"
+    },
+    "examples": {
+      "en": ["I swim in the pool.", "Public pool.", "Big pool."],
+      "de": ["Ich schwimme im Schwimmbad.", "Öffentliches Schwimmbad.", "Großes Schwimmbad."],
+      "ar": ["أنا أسبح في المسبح.", "مسبح عام.", "مسبح كبير."],
+      "fr": ["Je nage à la piscine.", "Piscine publique.", "Grande piscine."],
+      "it": ["Io nuoto in piscina.", "Piscina pubblica.", "Piscina grande."],
+      "ru": ["Я плаваю в бассейне.", "Общественный бассейн.", "Большой бассейн."],
+      "es": ["Yo nado en la piscina.", "Piscina pública.", "Piscina grande."],
+      "pl": ["Ja pływam na basenie.", "Basen publiczny.", "Duży basen."],
+      "fa": ["من در استخر شنا می‌کنم.", "استخر عمومی.", "استخر بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_336_fr",
+    "word": "stade",
+    "translations": {
+      "en": "stadium",
+      "de": "Stadion",
+      "ar": "ملعب",
+      "fr": "stade",
+      "it": "stadio",
+      "ru": "стадион",
+      "es": "estadio",
+      "pl": "stadion",
+      "fa": "استادیوم"
+    },
+    "examples": {
+      "en": ["Football stadium.", "I go to the stadium.", "Big stadium."],
+      "de": ["Fußballstadion.", "Ich gehe ins Stadion.", "Großes Stadion."],
+      "ar": ["ملعب كرة قدم.", "أنا أذهب إلى الملعب.", "ملعب كبير."],
+      "fr": ["Stade de football.", "Je vais au stade.", "Grand stade."],
+      "it": ["Stadio di calcio.", "Io vado allo stadio.", "Stadio grande."],
+      "ru": ["Футбольный стадион.", "Я иду на стадион.", "Большой стадион."],
+      "es": ["Estadio de fútbol.", "Yo voy al estadio.", "Estadio grande."],
+      "pl": ["Stadion piłkarski.", "Ja idę na stadion.", "Duży stadion."],
+      "fa": ["استادیوم فوتبال.", "من به استادیوم می‌روم.", "استادیوم بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_337_fr",
+    "word": "marché",
+    "translations": {
+      "en": "market",
+      "de": "Markt",
+      "ar": "سوق",
+      "fr": "marché",
+      "it": "mercato",
+      "ru": "рынок",
+      "es": "mercado",
+      "pl": "targ, rynek",
+      "fa": "بازار"
+    },
+    "examples": {
+      "en": ["I go to the market.", "Fresh market.", "Street market."],
+      "de": ["Ich gehe zum Markt.", "Frischer Markt.", "Straßenmarkt."],
+      "ar": ["أنا أذهب إلى السوق.", "سوق طازج.", "سوق الشارع."],
+      "fr": ["Je vais au marché.", "Marché frais.", "Marché de rue."],
+      "it": ["Io vado al mercato.", "Mercato fresco.", "Mercato di strada."],
+      "ru": ["Я иду на рынок.", "Свежий рынок.", "Уличный рынок."],
+      "es": ["Yo voy al mercado.", "Mercado fresco.", "Mercado callejero."],
+      "pl": ["Ja idę na targ.", "Świeży targ.", "Targ uliczny."],
+      "fa": ["من به بازار می‌روم.", "بازار تازه.", "بازار خیابانی."]
+    }
+  },
+  {
+    "id": "universal_a1_338_fr",
+    "word": "supermarché",
+    "translations": {
+      "en": "supermarket",
+      "de": "Supermarkt",
+      "ar": "سوبرماركت",
+      "fr": "supermarché",
+      "it": "supermercato",
+      "ru": "супермаркет",
+      "es": "supermercado",
+      "pl": "supermarket",
+      "fa": "سوپرمارکت"
+    },
+    "examples": {
+      "en": ["I shop at the supermarket.", "Big supermarket.", "Near supermarket."],
+      "de": ["Ich kaufe im Supermarkt ein.", "Großer Supermarkt.", "Nahe Supermarkt."],
+      "ar": ["أنا أتسوق في السوبرماركت.", "سوبرماركت كبير.", "بالقرب من السوبرماركت."],
+      "fr": ["Je fais les courses au supermarché.", "Grand supermarché.", "Près du supermarché."],
+      "it": ["Io faccio la spesa al supermercato.", "Supermercato grande.", "Vicino al supermercato."],
+      "ru": ["Я делаю покупки в супермаркете.", "Большой супермаркет.", "Рядом с супермаркетом."],
+      "es": ["Yo compro en el supermercado.", "Supermercado grande.", "Cerca del supermercado."],
+      "pl": ["Ja robię zakupy w supermarkecie.", "Duży supermarket.", "Blisko supermarketu."],
+      "fa": ["من در سوپرمارکت خرید می‌کنم.", "سوپرمارکت بزرگ.", "نزدیک سوپرمارکت."]
+    }
+  },
+  {
+    "id": "universal_a1_339_fr",
+    "word": "ville",
+    "translations": {
+      "en": "city, town",
+      "de": "Stadt",
+      "ar": "مدينة",
+      "fr": "ville",
+      "it": "città",
+      "ru": "город",
+      "es": "ciudad",
+      "pl": "miasto",
+      "fa": "شهر"
+    },
+    "examples": {
+      "en": ["Big city.", "I live in the city.", "Beautiful city."],
+      "de": ["Große Stadt.", "Ich wohne in der Stadt.", "Schöne Stadt."],
+      "ar": ["مدينة كبيرة.", "أنا أسكن في المدينة.", "مدينة جميلة."],
+      "fr": ["Grande ville.", "J'habite en ville.", "Belle ville."],
+      "it": ["Città grande.", "Io abito in città.", "Bella città."],
+      "ru": ["Большой город.", "Я живу в городе.", "Красивый город."],
+      "es": ["Ciudad grande.", "Yo vivo en la ciudad.", "Ciudad bonita."],
+      "pl": ["Duże miasto.", "Ja mieszkam w mieście.", "Piękne miasto."],
+      "fa": ["شهر بزرگ.", "من در شهر زندگی می‌کنم.", "شهر زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_340_fr",
+    "word": "pays",
+    "translations": {
+      "en": "country",
+      "de": "Land",
+      "ar": "بلد، دولة",
+      "fr": "pays",
+      "it": "paese",
+      "ru": "страна",
+      "es": "país",
+      "pl": "kraj",
+      "fa": "کشور"
+    },
+    "examples": {
+      "en": ["My country.", "Foreign country.", "Beautiful country."],
+      "de": ["Mein Land.", "Fremdes Land.", "Schönes Land."],
+      "ar": ["بلدي.", "بلد أجنبي.", "بلد جميل."],
+      "fr": ["Mon pays.", "Pays étranger.", "Beau pays."],
+      "it": ["Il mio paese.", "Paese straniero.", "Bel paese."],
+      "ru": ["Моя страна.", "Зарубежная страна.", "Красивая страна."],
+      "es": ["Mi país.", "País extranjero.", "País bonito."],
+      "pl": ["Mój kraj.", "Obcy kraj.", "Piękny kraj."],
+      "fa": ["کشور من.", "کشور خارجی.", "کشور زیبا."]
+    }
+  }
+]

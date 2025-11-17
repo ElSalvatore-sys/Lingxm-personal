@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_301_fr",
+    "word": "maison",
+    "translations": {
+      "en": "house, home",
+      "de": "Haus",
+      "ar": "منزل، بيت",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "examples": {
+      "en": ["My house is big.", "I go home.", "Beautiful house."],
+      "de": ["Mein Haus ist groß.", "Ich gehe nach Hause.", "Schönes Haus."],
+      "ar": ["منزلي كبير.", "أنا أذهب إلى المنزل.", "بيت جميل."],
+      "fr": ["Ma maison est grande.", "Je vais à la maison.", "Belle maison."],
+      "it": ["La mia casa è grande.", "Io vado a casa.", "Bella casa."],
+      "ru": ["Мой дом большой.", "Я иду домой.", "Красивый дом."],
+      "es": ["Mi casa es grande.", "Yo voy a casa.", "Casa bonita."],
+      "pl": ["Mój dom jest duży.", "Ja idę do domu.", "Piękny dom."],
+      "fa": ["خانه من بزرگ است.", "من به خانه می‌روم.", "خانه زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_302_fr",
+    "word": "appartement",
+    "translations": {
+      "en": "apartment",
+      "de": "Wohnung",
+      "ar": "شقة",
+      "fr": "appartement",
+      "it": "appartamento",
+      "ru": "квартира",
+      "es": "apartamento",
+      "pl": "mieszkanie",
+      "fa": "آپارتمان"
+    },
+    "examples": {
+      "en": ["Small apartment.", "I live in an apartment.", "Nice apartment."],
+      "de": ["Kleine Wohnung.", "Ich wohne in einer Wohnung.", "Schöne Wohnung."],
+      "ar": ["شقة صغيرة.", "أنا أسكن في شقة.", "شقة جميلة."],
+      "fr": ["Petit appartement.", "J'habite dans un appartement.", "Bel appartement."],
+      "it": ["Appartamento piccolo.", "Io abito in un appartamento.", "Bell'appartamento."],
+      "ru": ["Маленькая квартира.", "Я живу в квартире.", "Хорошая квартира."],
+      "es": ["Apartamento pequeño.", "Yo vivo en un apartamento.", "Bonito apartamento."],
+      "pl": ["Małe mieszkanie.", "Ja mieszkam w mieszkaniu.", "Ładne mieszkanie."],
+      "fa": ["آپارتمان کوچک.", "من در آپارتمان زندگی می‌کنم.", "آپارتمان قشنگ."]
+    }
+  },
+  {
+    "id": "universal_a1_303_fr",
+    "word": "chambre",
+    "translations": {
+      "en": "room, bedroom",
+      "de": "Zimmer, Schlafzimmer",
+      "ar": "غرفة، غرفة نوم",
+      "fr": "chambre",
+      "it": "camera, stanza",
+      "ru": "комната, спальня",
+      "es": "habitación, dormitorio",
+      "pl": "pokój, sypialnia",
+      "fa": "اتاق، اتاق خواب"
+    },
+    "examples": {
+      "en": ["My bedroom.", "Clean room.", "I sleep in my room."],
+      "de": ["Mein Schlafzimmer.", "Sauberes Zimmer.", "Ich schlafe in meinem Zimmer."],
+      "ar": ["غرفة نومي.", "غرفة نظيفة.", "أنا أنام في غرفتي."],
+      "fr": ["Ma chambre.", "Chambre propre.", "Je dors dans ma chambre."],
+      "it": ["La mia camera.", "Stanza pulita.", "Io dormo nella mia camera."],
+      "ru": ["Моя спальня.", "Чистая комната.", "Я сплю в своей комнате."],
+      "es": ["Mi habitación.", "Habitación limpia.", "Yo duermo en mi habitación."],
+      "pl": ["Moja sypialnia.", "Czysty pokój.", "Ja śpię w moim pokoju."],
+      "fa": ["اتاق خواب من.", "اتاق تمیز.", "من در اتاقم می‌خوابم."]
+    }
+  },
+  {
+    "id": "universal_a1_304_fr",
+    "word": "cuisine",
+    "translations": {
+      "en": "kitchen",
+      "de": "Küche",
+      "ar": "مطبخ",
+      "fr": "cuisine",
+      "it": "cucina",
+      "ru": "кухня",
+      "es": "cocina",
+      "pl": "kuchnia",
+      "fa": "آشپزخانه"
+    },
+    "examples": {
+      "en": ["Modern kitchen.", "I cook in the kitchen.", "Clean kitchen."],
+      "de": ["Moderne Küche.", "Ich koche in der Küche.", "Saubere Küche."],
+      "ar": ["مطبخ حديث.", "أنا أطبخ في المطبخ.", "مطبخ نظيف."],
+      "fr": ["Cuisine moderne.", "Je cuisine dans la cuisine.", "Cuisine propre."],
+      "it": ["Cucina moderna.", "Io cucino in cucina.", "Cucina pulita."],
+      "ru": ["Современная кухня.", "Я готовлю на кухне.", "Чистая кухня."],
+      "es": ["Cocina moderna.", "Yo cocino en la cocina.", "Cocina limpia."],
+      "pl": ["Nowoczesna kuchnia.", "Ja gotuję w kuchni.", "Czysta kuchnia."],
+      "fa": ["آشپزخانه مدرن.", "من در آشپزخانه پخت می‌کنم.", "آشپزخانه تمیز."]
+    }
+  },
+  {
+    "id": "universal_a1_305_fr",
+    "word": "salle de bain",
+    "translations": {
+      "en": "bathroom",
+      "de": "Badezimmer",
+      "ar": "حمام",
+      "fr": "salle de bain",
+      "it": "bagno",
+      "ru": "ванная комната",
+      "es": "cuarto de baño",
+      "pl": "łazienka",
+      "fa": "حمام"
+    },
+    "examples": {
+      "en": ["Small bathroom.", "I wash in the bathroom.", "Clean bathroom."],
+      "de": ["Kleines Badezimmer.", "Ich wasche mich im Badezimmer.", "Sauberes Badezimmer."],
+      "ar": ["حمام صغير.", "أنا أغتسل في الحمام.", "حمام نظيف."],
+      "fr": ["Petite salle de bain.", "Je me lave dans la salle de bain.", "Salle de bain propre."],
+      "it": ["Bagno piccolo.", "Io mi lavo in bagno.", "Bagno pulito."],
+      "ru": ["Маленькая ванная.", "Я моюсь в ванной.", "Чистая ванная."],
+      "es": ["Baño pequeño.", "Yo me lavo en el baño.", "Baño limpio."],
+      "pl": ["Mała łazienka.", "Ja się myję w łazience.", "Czysta łazienka."],
+      "fa": ["حمام کوچک.", "من در حمام می‌شویم.", "حمام تمیز."]
+    }
+  },
+  {
+    "id": "universal_a1_306_fr",
+    "word": "jardin",
+    "translations": {
+      "en": "garden",
+      "de": "Garten",
+      "ar": "حديقة",
+      "fr": "jardin",
+      "it": "giardino",
+      "ru": "сад",
+      "es": "jardín",
+      "pl": "ogród",
+      "fa": "باغ، باغچه"
+    },
+    "examples": {
+      "en": ["Beautiful garden.", "I work in the garden.", "Green garden."],
+      "de": ["Schöner Garten.", "Ich arbeite im Garten.", "Grüner Garten."],
+      "ar": ["حديقة جميلة.", "أنا أعمل في الحديقة.", "حديقة خضراء."],
+      "fr": ["Beau jardin.", "Je travaille au jardin.", "Jardin vert."],
+      "it": ["Bel giardino.", "Io lavoro in giardino.", "Giardino verde."],
+      "ru": ["Красивый сад.", "Я работаю в саду.", "Зеленый сад."],
+      "es": ["Jardín bonito.", "Yo trabajo en el jardín.", "Jardín verde."],
+      "pl": ["Piękny ogród.", "Ja pracuję w ogrodzie.", "Zielony ogród."],
+      "fa": ["باغ زیبا.", "من در باغ کار می‌کنم.", "باغ سبز."]
+    }
+  },
+  {
+    "id": "universal_a1_307_fr",
+    "word": "porte",
+    "translations": {
+      "en": "door",
+      "de": "Tür",
+      "ar": "باب",
+      "fr": "porte",
+      "it": "porta",
+      "ru": "дверь",
+      "es": "puerta",
+      "pl": "drzwi",
+      "fa": "در"
+    },
+    "examples": {
+      "en": ["Open the door.", "Close the door.", "Blue door."],
+      "de": ["Öffne die Tür.", "Schließ die Tür.", "Blaue Tür."],
+      "ar": ["افتح الباب.", "أغلق الباب.", "باب أزرق."],
+      "fr": ["Ouvre la porte.", "Ferme la porte.", "Porte bleue."],
+      "it": ["Apri la porta.", "Chiudi la porta.", "Porta blu."],
+      "ru": ["Открой дверь.", "Закрой дверь.", "Синяя дверь."],
+      "es": ["Abre la puerta.", "Cierra la puerta.", "Puerta azul."],
+      "pl": ["Otwórz drzwi.", "Zamknij drzwi.", "Niebieskie drzwi."],
+      "fa": ["در را باز کن.", "در را ببند.", "در آبی."]
+    }
+  },
+  {
+    "id": "universal_a1_308_fr",
+    "word": "fenêtre",
+    "translations": {
+      "en": "window",
+      "de": "Fenster",
+      "ar": "نافذة",
+      "fr": "fenêtre",
+      "it": "finestra",
+      "ru": "окно",
+      "es": "ventana",
+      "pl": "okno",
+      "fa": "پنجره"
+    },
+    "examples": {
+      "en": ["Open window.", "Close the window.", "Big window."],
+      "de": ["Offenes Fenster.", "Schließ das Fenster.", "Großes Fenster."],
+      "ar": ["نافذة مفتوحة.", "أغلق النافذة.", "نافذة كبيرة."],
+      "fr": ["Fenêtre ouverte.", "Ferme la fenêtre.", "Grande fenêtre."],
+      "it": ["Finestra aperta.", "Chiudi la finestra.", "Finestra grande."],
+      "ru": ["Открытое окно.", "Закрой окно.", "Большое окно."],
+      "es": ["Ventana abierta.", "Cierra la ventana.", "Ventana grande."],
+      "pl": ["Otwarte okno.", "Zamknij okno.", "Duże okno."],
+      "fa": ["پنجره باز.", "پنجره را ببند.", "پنجره بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_309_fr",
+    "word": "table",
+    "translations": {
+      "en": "table",
+      "de": "Tisch",
+      "ar": "طاولة، منضدة",
+      "fr": "table",
+      "it": "tavolo, tavola",
+      "ru": "стол",
+      "es": "mesa",
+      "pl": "stół",
+      "fa": "میز"
+    },
+    "examples": {
+      "en": ["Dining table.", "On the table.", "Round table."],
+      "de": ["Esstisch.", "Auf dem Tisch.", "Runder Tisch."],
+      "ar": ["طاولة طعام.", "على الطاولة.", "طاولة مستديرة."],
+      "fr": ["Table à manger.", "Sur la table.", "Table ronde."],
+      "it": ["Tavolo da pranzo.", "Sul tavolo.", "Tavolo rotondo."],
+      "ru": ["Обеденный стол.", "На столе.", "Круглый стол."],
+      "es": ["Mesa de comedor.", "En la mesa.", "Mesa redonda."],
+      "pl": ["Stół jadalny.", "Na stole.", "Okrągły stół."],
+      "fa": ["میز ناهارخوری.", "روی میز.", "میز گرد."]
+    }
+  },
+  {
+    "id": "universal_a1_310_fr",
+    "word": "chaise",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "стул",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "examples": {
+      "en": ["Comfortable chair.", "Sit on the chair.", "Four chairs."],
+      "de": ["Bequemer Stuhl.", "Sitz auf dem Stuhl.", "Vier Stühle."],
+      "ar": ["كرسي مريح.", "اجلس على الكرسي.", "أربعة كراسي."],
+      "fr": ["Chaise confortable.", "Assieds-toi sur la chaise.", "Quatre chaises."],
+      "it": ["Sedia comoda.", "Siediti sulla sedia.", "Quattro sedie."],
+      "ru": ["Удобный стул.", "Сядь на стул.", "Четыре стула."],
+      "es": ["Silla cómoda.", "Siéntate en la silla.", "Cuatro sillas."],
+      "pl": ["Wygodne krzesło.", "Usiądź na krześle.", "Cztery krzesła."],
+      "fa": ["صندلی راحت.", "روی صندلی بشین.", "چهار صندلی."]
+    }
+  },
+  {
+    "id": "universal_a1_311_fr",
+    "word": "lit",
+    "translations": {
+      "en": "bed",
+      "de": "Bett",
+      "ar": "سرير",
+      "fr": "lit",
+      "it": "letto",
+      "ru": "кровать",
+      "es": "cama",
+      "pl": "łóżko",
+      "fa": "تخت خواب"
+    },
+    "examples": {
+      "en": ["Comfortable bed.", "I sleep in bed.", "Big bed."],
+      "de": ["Bequemes Bett.", "Ich schlafe im Bett.", "Großes Bett."],
+      "ar": ["سرير مريح.", "أنا أنام في السرير.", "سرير كبير."],
+      "fr": ["Lit confortable.", "Je dors au lit.", "Grand lit."],
+      "it": ["Letto comodo.", "Io dormo nel letto.", "Letto grande."],
+      "ru": ["Удобная кровать.", "Я сплю в кровати.", "Большая кровать."],
+      "es": ["Cama cómoda.", "Yo duermo en la cama.", "Cama grande."],
+      "pl": ["Wygodne łóżko.", "Ja śpię w łóżku.", "Duże łóżko."],
+      "fa": ["تخت راحت.", "من در تخت می‌خوابم.", "تخت بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_312_fr",
+    "word": "école",
+    "translations": {
+      "en": "school",
+      "de": "Schule",
+      "ar": "مدرسة",
+      "fr": "école",
+      "it": "scuola",
+      "ru": "школа",
+      "es": "escuela",
+      "pl": "szkoła",
+      "fa": "مدرسه"
+    },
+    "examples": {
+      "en": ["I go to school.", "Primary school.", "Good school."],
+      "de": ["Ich gehe zur Schule.", "Grundschule.", "Gute Schule."],
+      "ar": ["أنا أذهب إلى المدرسة.", "مدرسة ابتدائية.", "مدرسة جيدة."],
+      "fr": ["Je vais à l'école.", "École primaire.", "Bonne école."],
+      "it": ["Io vado a scuola.", "Scuola elementare.", "Buona scuola."],
+      "ru": ["Я хожу в школу.", "Начальная школа.", "Хорошая школа."],
+      "es": ["Yo voy a la escuela.", "Escuela primaria.", "Buena escuela."],
+      "pl": ["Ja chodzę do szkoły.", "Szkoła podstawowa.", "Dobra szkoła."],
+      "fa": ["من به مدرسه می‌روم.", "مدرسه ابتدایی.", "مدرسه خوب."]
+    }
+  },
+  {
+    "id": "universal_a1_313_fr",
+    "word": "université",
+    "translations": {
+      "en": "university",
+      "de": "Universität",
+      "ar": "جامعة",
+      "fr": "université",
+      "it": "università",
+      "ru": "университет",
+      "es": "universidad",
+      "pl": "uniwersytet",
+      "fa": "دانشگاه"
+    },
+    "examples": {
+      "en": ["I study at university.", "Famous university.", "Big university."],
+      "de": ["Ich studiere an der Universität.", "Berühmte Universität.", "Große Universität."],
+      "ar": ["أنا أدرس في الجامعة.", "جامعة مشهورة.", "جامعة كبيرة."],
+      "fr": ["J'étudie à l'université.", "Université célèbre.", "Grande université."],
+      "it": ["Io studio all'università.", "Università famosa.", "Università grande."],
+      "ru": ["Я учусь в университете.", "Известный университет.", "Большой университет."],
+      "es": ["Yo estudio en la universidad.", "Universidad famosa.", "Universidad grande."],
+      "pl": ["Ja studiuję na uniwersytecie.", "Słynny uniwersytet.", "Duży uniwersytet."],
+      "fa": ["من در دانشگاه درس می‌خوانم.", "دانشگاه معروف.", "دانشگاه بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_314_fr",
+    "word": "bureau",
+    "translations": {
+      "en": "office, desk",
+      "de": "Büro, Schreibtisch",
+      "ar": "مكتب",
+      "fr": "bureau",
+      "it": "ufficio, scrivania",
+      "ru": "офис, письменный стол",
+      "es": "oficina, escritorio",
+      "pl": "biuro, biurko",
+      "fa": "دفتر، میز کار"
+    },
+    "examples": {
+      "en": ["I work at the office.", "My desk.", "Modern office."],
+      "de": ["Ich arbeite im Büro.", "Mein Schreibtisch.", "Modernes Büro."],
+      "ar": ["أنا أعمل في المكتب.", "مكتبي.", "مكتب حديث."],
+      "fr": ["Je travaille au bureau.", "Mon bureau.", "Bureau moderne."],
+      "it": ["Io lavoro in ufficio.", "La mia scrivania.", "Ufficio moderno."],
+      "ru": ["Я работаю в офисе.", "Мой стол.", "Современный офис."],
+      "es": ["Yo trabajo en la oficina.", "Mi escritorio.", "Oficina moderna."],
+      "pl": ["Ja pracuję w biurze.", "Moje biurko.", "Nowoczesne biuro."],
+      "fa": ["من در دفتر کار می‌کنم.", "میز من.", "دفتر مدرن."]
+    }
+  },
+  {
+    "id": "universal_a1_315_fr",
+    "word": "magasin",
+    "translations": {
+      "en": "store, shop",
+      "de": "Geschäft, Laden",
+      "ar": "متجر، محل",
+      "fr": "magasin",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "مغازه، فروشگاه"
+    },
+    "examples": {
+      "en": ["I go to the store.", "Clothing shop.", "Open store."],
+      "de": ["Ich gehe zum Geschäft.", "Kleidungsgeschäft.", "Offenes Geschäft."],
+      "ar": ["أنا أذهب إلى المتجر.", "متجر ملابس.", "متجر مفتوح."],
+      "fr": ["Je vais au magasin.", "Magasin de vêtements.", "Magasin ouvert."],
+      "it": ["Io vado al negozio.", "Negozio di abbigliamento.", "Negozio aperto."],
+      "ru": ["Я иду в магазин.", "Магазин одежды.", "Открытый магазин."],
+      "es": ["Yo voy a la tienda.", "Tienda de ropa.", "Tienda abierta."],
+      "pl": ["Ja idę do sklepu.", "Sklep odzieżowy.", "Otwarty sklep."],
+      "fa": ["من به مغازه می‌روم.", "مغازه لباس.", "مغازه باز."]
+    }
+  },
+  {
+    "id": "universal_a1_316_fr",
+    "word": "restaurant",
+    "translations": {
+      "en": "restaurant",
+      "de": "Restaurant",
+      "ar": "مطعم",
+      "fr": "restaurant",
+      "it": "ristorante",
+      "ru": "ресторан",
+      "es": "restaurante",
+      "pl": "restauracja",
+      "fa": "رستوران"
+    },
+    "examples": {
+      "en": ["I eat at the restaurant.", "French restaurant.", "Good restaurant."],
+      "de": ["Ich esse im Restaurant.", "Französisches Restaurant.", "Gutes Restaurant."],
+      "ar": ["أنا آكل في المطعم.", "مطعم فرنسي.", "مطعم جيد."],
+      "fr": ["Je mange au restaurant.", "Restaurant français.", "Bon restaurant."],
+      "it": ["Io mangio al ristorante.", "Ristorante francese.", "Buon ristorante."],
+      "ru": ["Я ем в ресторане.", "Французский ресторан.", "Хороший ресторан."],
+      "es": ["Yo como en el restaurante.", "Restaurante francés.", "Buen restaurante."],
+      "pl": ["Ja jem w restauracji.", "Francuska restauracja.", "Dobra restauracja."],
+      "fa": ["من در رستوران غذا می‌خورم.", "رستوران فرانسوی.", "رستوران خوب."]
+    }
+  },
+  {
+    "id": "universal_a1_317_fr",
+    "word": "café",
+    "translations": {
+      "en": "café, coffee shop",
+      "de": "Café",
+      "ar": "مقهى",
+      "fr": "café",
+      "it": "bar, caffè",
+      "ru": "кафе",
+      "es": "cafetería, café",
+      "pl": "kawiarnia",
+      "fa": "کافه"
+    },
+    "examples": {
+      "en": ["I go to the café.", "Small café.", "Nice café."],
+      "de": ["Ich gehe ins Café.", "Kleines Café.", "Schönes Café."],
+      "ar": ["أنا أذهب إلى المقهى.", "مقهى صغير.", "مقهى جميل."],
+      "fr": ["Je vais au café.", "Petit café.", "Joli café."],
+      "it": ["Io vado al bar.", "Piccolo bar.", "Bel bar."],
+      "ru": ["Я иду в кафе.", "Маленькое кафе.", "Хорошее кафе."],
+      "es": ["Yo voy al café.", "Café pequeño.", "Café bonito."],
+      "pl": ["Ja idę do kawiarni.", "Mała kawiarnia.", "Ładna kawiarnia."],
+      "fa": ["من به کافه می‌روم.", "کافه کوچک.", "کافه قشنگ."]
+    }
+  },
+  {
+    "id": "universal_a1_318_fr",
+    "word": "banque",
+    "translations": {
+      "en": "bank",
+      "de": "Bank",
+      "ar": "بنك، مصرف",
+      "fr": "banque",
+      "it": "banca",
+      "ru": "банк",
+      "es": "banco",
+      "pl": "bank",
+      "fa": "بانک"
+    },
+    "examples": {
+      "en": ["I go to the bank.", "Big bank.", "Open bank."],
+      "de": ["Ich gehe zur Bank.", "Große Bank.", "Offene Bank."],
+      "ar": ["أنا أذهب إلى البنك.", "بنك كبير.", "بنك مفتوح."],
+      "fr": ["Je vais à la banque.", "Grande banque.", "Banque ouverte."],
+      "it": ["Io vado in banca.", "Banca grande.", "Banca aperta."],
+      "ru": ["Я иду в банк.", "Большой банк.", "Открытый банк."],
+      "es": ["Yo voy al banco.", "Banco grande.", "Banco abierto."],
+      "pl": ["Ja idę do banku.", "Duży bank.", "Otwarty bank."],
+      "fa": ["من به بانک می‌روم.", "بانک بزرگ.", "بانک باز."]
+    }
+  },
+  {
+    "id": "universal_a1_319_fr",
+    "word": "pharmacie",
+    "translations": {
+      "en": "pharmacy",
+      "de": "Apotheke",
+      "ar": "صيدلية",
+      "fr": "pharmacie",
+      "it": "farmacia",
+      "ru": "аптека",
+      "es": "farmacia",
+      "pl": "apteka",
+      "fa": "داروخانه"
+    },
+    "examples": {
+      "en": ["I go to the pharmacy.", "Near pharmacy.", "Open pharmacy."],
+      "de": ["Ich gehe zur Apotheke.", "Nahe Apotheke.", "Offene Apotheke."],
+      "ar": ["أنا أذهب إلى الصيدلية.", "صيدلية قريبة.", "صيدلية مفتوحة."],
+      "fr": ["Je vais à la pharmacie.", "Pharmacie proche.", "Pharmacie ouverte."],
+      "it": ["Io vado in farmacia.", "Farmacia vicina.", "Farmacia aperta."],
+      "ru": ["Я иду в аптеку.", "Близкая аптека.", "Открытая аптека."],
+      "es": ["Yo voy a la farmacia.", "Farmacia cerca.", "Farmacia abierta."],
+      "pl": ["Ja idę do apteki.", "Bliska apteka.", "Otwarta apteka."],
+      "fa": ["من به داروخانه می‌روم.", "داروخانه نزدیک.", "داروخانه باز."]
+    }
+  },
+  {
+    "id": "universal_a1_320_fr",
+    "word": "poste",
+    "translations": {
+      "en": "post office",
+      "de": "Post",
+      "ar": "مكتب البريد",
+      "fr": "poste",
+      "it": "ufficio postale",
+      "ru": "почта",
+      "es": "correo",
+      "pl": "poczta",
+      "fa": "اداره پست"
+    },
+    "examples": {
+      "en": ["I go to the post office.", "Near post office.", "Open post office."],
+      "de": ["Ich gehe zur Post.", "Nahe Post.", "Offene Post."],
+      "ar": ["أنا أذهب إلى مكتب البريد.", "مكتب بريد قريب.", "مكتب بريد مفتوح."],
+      "fr": ["Je vais à la poste.", "Poste proche.", "Poste ouverte."],
+      "it": ["Io vado alla posta.", "Posta vicina.", "Posta aperta."],
+      "ru": ["Я иду на почту.", "Близкая почта.", "Открытая почта."],
+      "es": ["Yo voy al correo.", "Correo cerca.", "Correo abierto."],
+      "pl": ["Ja idę na pocztę.", "Bliska poczta.", "Otwarta poczta."],
+      "fa": ["من به پست می‌روم.", "پست نزدیک.", "پست باز."]
+    }
+  }
+]

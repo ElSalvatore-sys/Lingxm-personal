@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_161_fr",
+    "word": "tête",
+    "translations": {
+      "en": "head",
+      "de": "Kopf",
+      "ar": "رأس",
+      "fr": "tête",
+      "it": "testa",
+      "ru": "голова",
+      "es": "cabeza",
+      "pl": "głowa",
+      "fa": "سر"
+    },
+    "examples": {
+      "en": ["My head hurts.", "Big head.", "Turn your head."],
+      "de": ["Mein Kopf tut weh.", "Großer Kopf.", "Dreh deinen Kopf."],
+      "ar": ["رأسي يؤلمني.", "رأس كبير.", "أدر رأسك."],
+      "fr": ["J'ai mal à la tête.", "Grande tête.", "Tourne ta tête."],
+      "it": ["Mi fa male la testa.", "Testa grande.", "Gira la testa."],
+      "ru": ["У меня болит голова.", "Большая голова.", "Поверни голову."],
+      "es": ["Me duele la cabeza.", "Cabeza grande.", "Gira tu cabeza."],
+      "pl": ["Boli mnie głowa.", "Duża głowa.", "Obróć głowę."],
+      "fa": ["سرم درد می‌کند.", "سر بزرگ.", "سرت را بچرخان."]
+    }
+  },
+  {
+    "id": "universal_a1_162_fr",
+    "word": "œil",
+    "translations": {
+      "en": "eye",
+      "de": "Auge",
+      "ar": "عين",
+      "fr": "œil",
+      "it": "occhio",
+      "ru": "глаз",
+      "es": "ojo",
+      "pl": "oko",
+      "fa": "چشم"
+    },
+    "examples": {
+      "en": ["Blue eyes.", "My eye hurts.", "Close your eyes."],
+      "de": ["Blaue Augen.", "Mein Auge tut weh.", "Schließ deine Augen."],
+      "ar": ["عيون زرقاء.", "عيني تؤلمني.", "أغلق عينيك."],
+      "fr": ["Les yeux bleus.", "Mon œil me fait mal.", "Ferme les yeux."],
+      "it": ["Occhi blu.", "Mi fa male l'occhio.", "Chiudi gli occhi."],
+      "ru": ["Голубые глаза.", "У меня болит глаз.", "Закрой глаза."],
+      "es": ["Ojos azules.", "Me duele el ojo.", "Cierra los ojos."],
+      "pl": ["Niebieskie oczy.", "Boli mnie oko.", "Zamknij oczy."],
+      "fa": ["چشمان آبی.", "چشمم درد می‌کند.", "چشمانت را ببند."]
+    }
+  },
+  {
+    "id": "universal_a1_163_fr",
+    "word": "nez",
+    "translations": {
+      "en": "nose",
+      "de": "Nase",
+      "ar": "أنف",
+      "fr": "nez",
+      "it": "naso",
+      "ru": "нос",
+      "es": "nariz",
+      "pl": "nos",
+      "fa": "بینی"
+    },
+    "examples": {
+      "en": ["Big nose.", "My nose is red.", "Touch your nose."],
+      "de": ["Große Nase.", "Meine Nase ist rot.", "Berühr deine Nase."],
+      "ar": ["أنف كبير.", "أنفي أحمر.", "المس أنفك."],
+      "fr": ["Grand nez.", "Mon nez est rouge.", "Touche ton nez."],
+      "it": ["Naso grande.", "Il mio naso è rosso.", "Tocca il naso."],
+      "ru": ["Большой нос.", "Мой нос красный.", "Коснись носа."],
+      "es": ["Nariz grande.", "Mi nariz está roja.", "Toca tu nariz."],
+      "pl": ["Duży nos.", "Mój nos jest czerwony.", "Dotknij nosa."],
+      "fa": ["بینی بزرگ.", "بینی من قرمز است.", "بینی‌ات را لمس کن."]
+    }
+  },
+  {
+    "id": "universal_a1_164_fr",
+    "word": "bouche",
+    "translations": {
+      "en": "mouth",
+      "de": "Mund",
+      "ar": "فم",
+      "fr": "bouche",
+      "it": "bocca",
+      "ru": "рот",
+      "es": "boca",
+      "pl": "usta",
+      "fa": "دهان"
+    },
+    "examples": {
+      "en": ["Open your mouth.", "Big mouth.", "Close your mouth."],
+      "de": ["Öffne deinen Mund.", "Großer Mund.", "Schließ deinen Mund."],
+      "ar": ["افتح فمك.", "فم كبير.", "أغلق فمك."],
+      "fr": ["Ouvre ta bouche.", "Grande bouche.", "Ferme ta bouche."],
+      "it": ["Apri la bocca.", "Bocca grande.", "Chiudi la bocca."],
+      "ru": ["Открой рот.", "Большой рот.", "Закрой рот."],
+      "es": ["Abre tu boca.", "Boca grande.", "Cierra tu boca."],
+      "pl": ["Otwórz usta.", "Duże usta.", "Zamknij usta."],
+      "fa": ["دهانت را باز کن.", "دهان بزرگ.", "دهانت را ببند."]
+    }
+  },
+  {
+    "id": "universal_a1_165_fr",
+    "word": "oreille",
+    "translations": {
+      "en": "ear",
+      "de": "Ohr",
+      "ar": "أذن",
+      "fr": "oreille",
+      "it": "orecchio",
+      "ru": "ухо",
+      "es": "oreja, oído",
+      "pl": "ucho",
+      "fa": "گوش"
+    },
+    "examples": {
+      "en": ["My ear hurts.", "Big ears.", "I hear with my ears."],
+      "de": ["Mein Ohr tut weh.", "Große Ohren.", "Ich höre mit meinen Ohren."],
+      "ar": ["أذني تؤلمني.", "آذان كبيرة.", "أنا أسمع بأذني."],
+      "fr": ["Mon oreille me fait mal.", "Grandes oreilles.", "J'entends avec mes oreilles."],
+      "it": ["Mi fa male l'orecchio.", "Orecchie grandi.", "Io sento con le orecchie."],
+      "ru": ["У меня болит ухо.", "Большие уши.", "Я слышу ушами."],
+      "es": ["Me duele el oído.", "Orejas grandes.", "Yo oigo con mis oídos."],
+      "pl": ["Boli mnie ucho.", "Duże uszy.", "Słyszę uszami."],
+      "fa": ["گوشم درد می‌کند.", "گوش‌های بزرگ.", "من با گوش‌هایم می‌شنوم."]
+    }
+  },
+  {
+    "id": "universal_a1_166_fr",
+    "word": "main",
+    "translations": {
+      "en": "hand",
+      "de": "Hand",
+      "ar": "يد",
+      "fr": "main",
+      "it": "mano",
+      "ru": "рука (кисть)",
+      "es": "mano",
+      "pl": "ręka, dłoń",
+      "fa": "دست"
+    },
+    "examples": {
+      "en": ["Wash your hands.", "Left hand.", "Give me your hand."],
+      "de": ["Wasch deine Hände.", "Linke Hand.", "Gib mir deine Hand."],
+      "ar": ["اغسل يديك.", "اليد اليسرى.", "أعطني يدك."],
+      "fr": ["Lave tes mains.", "Main gauche.", "Donne-moi ta main."],
+      "it": ["Lavati le mani.", "Mano sinistra.", "Dammi la mano."],
+      "ru": ["Вымой руки.", "Левая рука.", "Дай мне руку."],
+      "es": ["Lava tus manos.", "Mano izquierda.", "Dame tu mano."],
+      "pl": ["Umyj ręce.", "Lewa ręka.", "Daj mi rękę."],
+      "fa": ["دست‌هایت را بشور.", "دست چپ.", "دستت را به من بده."]
+    }
+  },
+  {
+    "id": "universal_a1_167_fr",
+    "word": "pied",
+    "translations": {
+      "en": "foot",
+      "de": "Fuß",
+      "ar": "قدم",
+      "fr": "pied",
+      "it": "piede",
+      "ru": "ступня, нога",
+      "es": "pie",
+      "pl": "stopa",
+      "fa": "پا"
+    },
+    "examples": {
+      "en": ["My foot hurts.", "Big feet.", "Left foot."],
+      "de": ["Mein Fuß tut weh.", "Große Füße.", "Linker Fuß."],
+      "ar": ["قدمي تؤلمني.", "أقدام كبيرة.", "القدم اليسرى."],
+      "fr": ["Mon pied me fait mal.", "Grands pieds.", "Pied gauche."],
+      "it": ["Mi fa male il piede.", "Piedi grandi.", "Piede sinistro."],
+      "ru": ["У меня болит нога.", "Большие ноги.", "Левая нога."],
+      "es": ["Me duele el pie.", "Pies grandes.", "Pie izquierdo."],
+      "pl": ["Boli mnie stopa.", "Duże stopy.", "Lewa stopa."],
+      "fa": ["پایم درد می‌کند.", "پاهای بزرگ.", "پای چپ."]
+    }
+  },
+  {
+    "id": "universal_a1_168_fr",
+    "word": "jambe",
+    "translations": {
+      "en": "leg",
+      "de": "Bein",
+      "ar": "ساق، رجل",
+      "fr": "jambe",
+      "it": "gamba",
+      "ru": "нога",
+      "es": "pierna",
+      "pl": "noga",
+      "fa": "پا"
+    },
+    "examples": {
+      "en": ["Long legs.", "My leg hurts.", "Right leg."],
+      "de": ["Lange Beine.", "Mein Bein tut weh.", "Rechtes Bein."],
+      "ar": ["سيقان طويلة.", "ساقي تؤلمني.", "الساق اليمنى."],
+      "fr": ["Longues jambes.", "Ma jambe me fait mal.", "Jambe droite."],
+      "it": ["Gambe lunghe.", "Mi fa male la gamba.", "Gamba destra."],
+      "ru": ["Длинные ноги.", "У меня болит нога.", "Правая нога."],
+      "es": ["Piernas largas.", "Me duele la pierna.", "Pierna derecha."],
+      "pl": ["Długie nogi.", "Boli mnie noga.", "Prawa noga."],
+      "fa": ["پاهای بلند.", "پایم درد می‌کند.", "پای راست."]
+    }
+  },
+  {
+    "id": "universal_a1_169_fr",
+    "word": "bras",
+    "translations": {
+      "en": "arm",
+      "de": "Arm",
+      "ar": "ذراع",
+      "fr": "bras",
+      "it": "braccio",
+      "ru": "рука",
+      "es": "brazo",
+      "pl": "ramię",
+      "fa": "بازو"
+    },
+    "examples": {
+      "en": ["Strong arms.", "My arm hurts.", "Raise your arm."],
+      "de": ["Starke Arme.", "Mein Arm tut weh.", "Hebe deinen Arm."],
+      "ar": ["ذراعان قويتان.", "ذراعي تؤلمني.", "ارفع ذراعك."],
+      "fr": ["Des bras forts.", "Mon bras me fait mal.", "Lève ton bras."],
+      "it": ["Braccia forti.", "Mi fa male il braccio.", "Alza il braccio."],
+      "ru": ["Сильные руки.", "У меня болит рука.", "Подними руку."],
+      "es": ["Brazos fuertes.", "Me duele el brazo.", "Levanta tu brazo."],
+      "pl": ["Silne ramiona.", "Boli mnie ramię.", "Podnieś ramię."],
+      "fa": ["بازوهای قوی.", "بازویم درد می‌کند.", "بازویت را بلند کن."]
+    }
+  },
+  {
+    "id": "universal_a1_170_fr",
+    "word": "doigt",
+    "translations": {
+      "en": "finger",
+      "de": "Finger",
+      "ar": "إصبع",
+      "fr": "doigt",
+      "it": "dito",
+      "ru": "палец",
+      "es": "dedo",
+      "pl": "palec",
+      "fa": "انگشت"
+    },
+    "examples": {
+      "en": ["Five fingers.", "My finger hurts.", "Point your finger."],
+      "de": ["Fünf Finger.", "Mein Finger tut weh.", "Zeig mit dem Finger."],
+      "ar": ["خمسة أصابع.", "إصبعي يؤلمني.", "أشر بإصبعك."],
+      "fr": ["Cinq doigts.", "Mon doigt me fait mal.", "Pointe ton doigt."],
+      "it": ["Cinque dita.", "Mi fa male il dito.", "Punta il dito."],
+      "ru": ["Пять пальцев.", "У меня болит палец.", "Укажи пальцем."],
+      "es": ["Cinco dedos.", "Me duele el dedo.", "Apunta con el dedo."],
+      "pl": ["Pięć palców.", "Boli mnie palec.", "Wskaz palcem."],
+      "fa": ["پنج انگشت.", "انگشتم درد می‌کند.", "با انگشت اشاره کن."]
+    }
+  },
+  {
+    "id": "universal_a1_171_fr",
+    "word": "cheveux",
+    "translations": {
+      "en": "hair",
+      "de": "Haare",
+      "ar": "شعر",
+      "fr": "cheveux",
+      "it": "capelli",
+      "ru": "волосы",
+      "es": "cabello, pelo",
+      "pl": "włosy",
+      "fa": "مو"
+    },
+    "examples": {
+      "en": ["Long hair.", "Blond hair.", "Wash your hair."],
+      "de": ["Lange Haare.", "Blonde Haare.", "Wasch deine Haare."],
+      "ar": ["شعر طويل.", "شعر أشقر.", "اغسل شعرك."],
+      "fr": ["Cheveux longs.", "Cheveux blonds.", "Lave tes cheveux."],
+      "it": ["Capelli lunghi.", "Capelli biondi.", "Lavati i capelli."],
+      "ru": ["Длинные волосы.", "Светлые волосы.", "Вымой волосы."],
+      "es": ["Pelo largo.", "Cabello rubio.", "Lava tu pelo."],
+      "pl": ["Długie włosy.", "Blond włosy.", "Umyj włosy."],
+      "fa": ["موهای بلند.", "موهای بلوند.", "موهایت را بشور."]
+    }
+  },
+  {
+    "id": "universal_a1_172_fr",
+    "word": "corps",
+    "translations": {
+      "en": "body",
+      "de": "Körper",
+      "ar": "جسم",
+      "fr": "corps",
+      "it": "corpo",
+      "ru": "тело",
+      "es": "cuerpo",
+      "pl": "ciało",
+      "fa": "بدن"
+    },
+    "examples": {
+      "en": ["My whole body.", "Strong body.", "Body and mind."],
+      "de": ["Mein ganzer Körper.", "Starker Körper.", "Körper und Geist."],
+      "ar": ["جسمي كله.", "جسم قوي.", "الجسم والعقل."],
+      "fr": ["Tout mon corps.", "Corps fort.", "Le corps et l'esprit."],
+      "it": ["Tutto il mio corpo.", "Corpo forte.", "Corpo e mente."],
+      "ru": ["Все мое тело.", "Сильное тело.", "Тело и разум."],
+      "es": ["Todo mi cuerpo.", "Cuerpo fuerte.", "Cuerpo y mente."],
+      "pl": ["Całe moje ciało.", "Silne ciało.", "Ciało i umysł."],
+      "fa": ["تمام بدنم.", "بدن قوی.", "بدن و ذهن."]
+    }
+  },
+  {
+    "id": "universal_a1_173_fr",
+    "word": "cœur",
+    "translations": {
+      "en": "heart",
+      "de": "Herz",
+      "ar": "قلب",
+      "fr": "cœur",
+      "it": "cuore",
+      "ru": "сердце",
+      "es": "corazón",
+      "pl": "serce",
+      "fa": "قلب"
+    },
+    "examples": {
+      "en": ["My heart beats.", "Strong heart.", "I love with my heart."],
+      "de": ["Mein Herz schlägt.", "Starkes Herz.", "Ich liebe mit meinem Herzen."],
+      "ar": ["قلبي يدق.", "قلب قوي.", "أنا أحب بقلبي."],
+      "fr": ["Mon cœur bat.", "Cœur fort.", "J'aime avec mon cœur."],
+      "it": ["Il mio cuore batte.", "Cuore forte.", "Io amo con il cuore."],
+      "ru": ["Мое сердце бьется.", "Сильное сердце.", "Я люблю сердцем."],
+      "es": ["Mi corazón late.", "Corazón fuerte.", "Yo amo con mi corazón."],
+      "pl": ["Moje serce bije.", "Silne serce.", "Kocham sercem."],
+      "fa": ["قلبم می‌زند.", "قلب قوی.", "من با قلبم عشق می‌ورزم."]
+    }
+  },
+  {
+    "id": "universal_a1_174_fr",
+    "word": "ventre",
+    "translations": {
+      "en": "stomach, belly",
+      "de": "Bauch, Magen",
+      "ar": "بطن، معدة",
+      "fr": "ventre",
+      "it": "pancia, stomaco",
+      "ru": "живот, желудок",
+      "es": "vientre, estómago",
+      "pl": "brzuch, żołądek",
+      "fa": "شکم، معده"
+    },
+    "examples": {
+      "en": ["My stomach hurts.", "Full belly.", "Empty stomach."],
+      "de": ["Mein Bauch tut weh.", "Voller Bauch.", "Leerer Magen."],
+      "ar": ["بطني يؤلمني.", "بطن ممتلئ.", "معدة فارغة."],
+      "fr": ["J'ai mal au ventre.", "Ventre plein.", "Ventre vide."],
+      "it": ["Mi fa male la pancia.", "Pancia piena.", "Stomaco vuoto."],
+      "ru": ["У меня болит живот.", "Полный живот.", "Пустой желудок."],
+      "es": ["Me duele el estómago.", "Vientre lleno.", "Estómago vacío."],
+      "pl": ["Boli mnie brzuch.", "Pełny brzuch.", "Pusty żołądek."],
+      "fa": ["شکمم درد می‌کند.", "شکم پر.", "معده خالی."]
+    }
+  },
+  {
+    "id": "universal_a1_175_fr",
+    "word": "dos",
+    "translations": {
+      "en": "back",
+      "de": "Rücken",
+      "ar": "ظهر",
+      "fr": "dos",
+      "it": "schiena",
+      "ru": "спина",
+      "es": "espalda",
+      "pl": "plecy",
+      "fa": "پشت"
+    },
+    "examples": {
+      "en": ["My back hurts.", "Strong back.", "Turn your back."],
+      "de": ["Mein Rücken tut weh.", "Starker Rücken.", "Dreh deinen Rücken."],
+      "ar": ["ظهري يؤلمني.", "ظهر قوي.", "أدر ظهرك."],
+      "fr": ["J'ai mal au dos.", "Dos fort.", "Tourne ton dos."],
+      "it": ["Mi fa male la schiena.", "Schiena forte.", "Gira la schiena."],
+      "ru": ["У меня болит спина.", "Сильная спина.", "Повернись спиной."],
+      "es": ["Me duele la espalda.", "Espalda fuerte.", "Gira tu espalda."],
+      "pl": ["Bolą mnie plecy.", "Silne plecy.", "Odwróć się plecami."],
+      "fa": ["پشتم درد می‌کند.", "پشت قوی.", "پشتت را بچرخان."]
+    }
+  },
+  {
+    "id": "universal_a1_176_fr",
+    "word": "santé",
+    "translations": {
+      "en": "health",
+      "de": "Gesundheit",
+      "ar": "صحة",
+      "fr": "santé",
+      "it": "salute",
+      "ru": "здоровье",
+      "es": "salud",
+      "pl": "zdrowie",
+      "fa": "سلامتی"
+    },
+    "examples": {
+      "en": ["Good health.", "Your health is important.", "I am in good health."],
+      "de": ["Gute Gesundheit.", "Deine Gesundheit ist wichtig.", "Ich bin gesund."],
+      "ar": ["صحة جيدة.", "صحتك مهمة.", "أنا في صحة جيدة."],
+      "fr": ["Bonne santé.", "Ta santé est importante.", "Je suis en bonne santé."],
+      "it": ["Buona salute.", "La tua salute è importante.", "Io sono in buona salute."],
+      "ru": ["Хорошее здоровье.", "Твое здоровье важно.", "Я в хорошем здоровье."],
+      "es": ["Buena salud.", "Tu salud es importante.", "Estoy en buena salud."],
+      "pl": ["Dobre zdrowie.", "Twoje zdrowie jest ważne.", "Jestem w dobrym zdrowiu."],
+      "fa": ["سلامتی خوب.", "سلامتی تو مهم است.", "من در سلامتی خوبی هستم."]
+    }
+  },
+  {
+    "id": "universal_a1_177_fr",
+    "word": "malade",
+    "translations": {
+      "en": "sick, ill",
+      "de": "krank",
+      "ar": "مريض",
+      "fr": "malade",
+      "it": "malato",
+      "ru": "больной",
+      "es": "enfermo",
+      "pl": "chory",
+      "fa": "بیمار"
+    },
+    "examples": {
+      "en": ["I am sick.", "Sick child.", "He is very ill."],
+      "de": ["Ich bin krank.", "Krankes Kind.", "Er ist sehr krank."],
+      "ar": ["أنا مريض.", "طفل مريض.", "هو مريض جداً."],
+      "fr": ["Je suis malade.", "Enfant malade.", "Il est très malade."],
+      "it": ["Io sono malato.", "Bambino malato.", "Lui è molto malato."],
+      "ru": ["Я болен.", "Больной ребенок.", "Он очень болен."],
+      "es": ["Yo estoy enfermo.", "Niño enfermo.", "Él está muy enfermo."],
+      "pl": ["Jestem chory.", "Chore dziecko.", "On jest bardzo chory."],
+      "fa": ["من بیمار هستم.", "کودک بیمار.", "او خیلی بیمار است."]
+    }
+  },
+  {
+    "id": "universal_a1_178_fr",
+    "word": "médecin",
+    "translations": {
+      "en": "doctor",
+      "de": "Arzt",
+      "ar": "طبيب",
+      "fr": "médecin",
+      "it": "medico",
+      "ru": "врач",
+      "es": "médico",
+      "pl": "lekarz",
+      "fa": "دکتر، پزشک"
+    },
+    "examples": {
+      "en": ["I see the doctor.", "Good doctor.", "She is a doctor."],
+      "de": ["Ich sehe den Arzt.", "Guter Arzt.", "Sie ist Ärztin."],
+      "ar": ["أنا أرى الطبيب.", "طبيب جيد.", "هي طبيبة."],
+      "fr": ["Je vois le médecin.", "Bon médecin.", "Elle est médecin."],
+      "it": ["Io vedo il medico.", "Buon medico.", "Lei è medico."],
+      "ru": ["Я иду к врачу.", "Хороший врач.", "Она врач."],
+      "es": ["Yo veo al médico.", "Buen médico.", "Ella es médico."],
+      "pl": ["Idę do lekarza.", "Dobry lekarz.", "Ona jest lekarzem."],
+      "fa": ["من دکتر را می‌بینم.", "دکتر خوب.", "او دکتر است."]
+    }
+  },
+  {
+    "id": "universal_a1_179_fr",
+    "word": "hôpital",
+    "translations": {
+      "en": "hospital",
+      "de": "Krankenhaus",
+      "ar": "مستشفى",
+      "fr": "hôpital",
+      "it": "ospedale",
+      "ru": "больница",
+      "es": "hospital",
+      "pl": "szpital",
+      "fa": "بیمارستان"
+    },
+    "examples": {
+      "en": ["I go to the hospital.", "Big hospital.", "She works at a hospital."],
+      "de": ["Ich gehe ins Krankenhaus.", "Großes Krankenhaus.", "Sie arbeitet im Krankenhaus."],
+      "ar": ["أنا أذهب إلى المستشفى.", "مستشفى كبير.", "هي تعمل في مستشفى."],
+      "fr": ["Je vais à l'hôpital.", "Grand hôpital.", "Elle travaille à l'hôpital."],
+      "it": ["Io vado all'ospedale.", "Ospedale grande.", "Lei lavora in ospedale."],
+      "ru": ["Я иду в больницу.", "Большая больница.", "Она работает в больнице."],
+      "es": ["Yo voy al hospital.", "Hospital grande.", "Ella trabaja en el hospital."],
+      "pl": ["Idę do szpitala.", "Duży szpital.", "Ona pracuje w szpitalu."],
+      "fa": ["من به بیمارستان می‌روم.", "بیمارستان بزرگ.", "او در بیمارستان کار می‌کند."]
+    }
+  },
+  {
+    "id": "universal_a1_180_fr",
+    "word": "médicament",
+    "translations": {
+      "en": "medicine, medication",
+      "de": "Medikament",
+      "ar": "دواء",
+      "fr": "médicament",
+      "it": "medicina, medicinale",
+      "ru": "лекарство",
+      "es": "medicamento, medicina",
+      "pl": "lekarstwo",
+      "fa": "دارو"
+    },
+    "examples": {
+      "en": ["I take medicine.", "This medicine helps.", "Take your medication."],
+      "de": ["Ich nehme Medizin.", "Dieses Medikament hilft.", "Nimm deine Medizin."],
+      "ar": ["أنا آخذ الدواء.", "هذا الدواء يساعد.", "خذ دواءك."],
+      "fr": ["Je prends un médicament.", "Ce médicament aide.", "Prends ton médicament."],
+      "it": ["Io prendo medicina.", "Questa medicina aiuta.", "Prendi la medicina."],
+      "ru": ["Я принимаю лекарство.", "Это лекарство помогает.", "Прими лекарство."],
+      "es": ["Yo tomo medicina.", "Esta medicina ayuda.", "Toma tu medicamento."],
+      "pl": ["Biorę lekarstwo.", "To lekarstwo pomaga.", "Weź lekarstwo."],
+      "fa": ["من دارو می‌خورم.", "این دارو کمک می‌کند.", "داروت را بخور."]
+    }
+  }
+]

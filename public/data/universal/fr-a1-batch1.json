@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "universal_a1_001_fr",
+    "word": "je",
+    "translations": {
+      "en": "I",
+      "de": "ich",
+      "ar": "أنا",
+      "fr": "je",
+      "it": "io",
+      "ru": "я",
+      "es": "yo",
+      "pl": "ja",
+      "fa": "من"
+    },
+    "examples": {
+      "en": [
+        "I am here.",
+        "I have a book.",
+        "I like coffee."
+      ],
+      "de": [
+        "Ich bin hier.",
+        "Ich habe ein Buch.",
+        "Ich mag Kaffee."
+      ],
+      "ar": [
+        "أنا هنا.",
+        "لدي كتاب.",
+        "أحب القهوة."
+      ],
+      "fr": [
+        "Je suis ici.",
+        "J'ai un livre.",
+        "J'aime le café."
+      ],
+      "it": [
+        "Io sono qui.",
+        "Io ho un libro.",
+        "Mi piace il caffè."
+      ],
+      "ru": [
+        "Я здесь.",
+        "У меня есть книга.",
+        "Я люблю кофе."
+      ],
+      "es": [
+        "Yo estoy aquí.",
+        "Yo tengo un libro.",
+        "Me gusta el café."
+      ],
+      "pl": [
+        "Ja jestem tutaj.",
+        "Ja mam książkę.",
+        "Lubię kawę."
+      ],
+      "fa": [
+        "من اینجا هستم.",
+        "من یک کتاب دارم.",
+        "من قهوه دوست دارم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_002_fr",
+    "word": "tu",
+    "translations": {
+      "en": "you (singular informal)",
+      "de": "du",
+      "ar": "أنتَ / أنتِ",
+      "fr": "tu",
+      "it": "tu",
+      "ru": "ты",
+      "es": "tú",
+      "pl": "ty",
+      "fa": "تو"
+    },
+    "examples": {
+      "en": [
+        "You are my friend.",
+        "You have a car.",
+        "You speak French."
+      ],
+      "de": [
+        "Du bist mein Freund.",
+        "Du hast ein Auto.",
+        "Du sprichst Französisch."
+      ],
+      "ar": [
+        "أنت صديقي.",
+        "لديك سيارة.",
+        "أنت تتحدث الفرنسية."
+      ],
+      "fr": [
+        "Tu es mon ami.",
+        "Tu as une voiture.",
+        "Tu parles français."
+      ],
+      "it": [
+        "Tu sei il mio amico.",
+        "Tu hai una macchina.",
+        "Tu parli francese."
+      ],
+      "ru": [
+        "Ты мой друг.",
+        "У тебя есть машина.",
+        "Ты говоришь по-французски."
+      ],
+      "es": [
+        "Tú eres mi amigo.",
+        "Tú tienes un coche.",
+        "Tú hablas francés."
+      ],
+      "pl": [
+        "Ty jesteś moim przyjacielem.",
+        "Ty masz samochód.",
+        "Ty mówisz po francusku."
+      ],
+      "fa": [
+        "تو دوست من هستی.",
+        "تو یک ماشین داری.",
+        "تو فرانسوی صحبت می‌کنی."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_003_fr",
+    "word": "il",
+    "translations": {
+      "en": "he, it (masculine)",
+      "de": "er",
+      "ar": "هو",
+      "fr": "il",
+      "it": "lui, egli",
+      "ru": "он",
+      "es": "él",
+      "pl": "on",
+      "fa": "او (مذکر)"
+    },
+    "examples": {
+      "en": [
+        "He is my brother.",
+        "He works here.",
+        "He has a dog."
+      ],
+      "de": [
+        "Er ist mein Bruder.",
+        "Er arbeitet hier.",
+        "Er hat einen Hund."
+      ],
+      "ar": [
+        "هو أخي.",
+        "هو يعمل هنا.",
+        "لديه كلب."
+      ],
+      "fr": [
+        "Il est mon frère.",
+        "Il travaille ici.",
+        "Il a un chien."
+      ],
+      "it": [
+        "Lui è mio fratello.",
+        "Lui lavora qui.",
+        "Lui ha un cane."
+      ],
+      "ru": [
+        "Он мой брат.",
+        "Он работает здесь.",
+        "У него есть собака."
+      ],
+      "es": [
+        "Él es mi hermano.",
+        "Él trabaja aquí.",
+        "Él tiene un perro."
+      ],
+      "pl": [
+        "On jest moim bratem.",
+        "On pracuje tutaj.",
+        "On ma psa."
+      ],
+      "fa": [
+        "او برادر من است.",
+        "او اینجا کار می‌کند.",
+        "او یک سگ دارد."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_004_fr",
+    "word": "elle",
+    "translations": {
+      "en": "she, it (feminine)",
+      "de": "sie",
+      "ar": "هي",
+      "fr": "elle",
+      "it": "lei, ella",
+      "ru": "она",
+      "es": "ella",
+      "pl": "ona",
+      "fa": "او (مؤنث)"
+    },
+    "examples": {
+      "en": [
+        "She is my sister.",
+        "She lives in Paris.",
+        "She likes music."
+      ],
+      "de": [
+        "Sie ist meine Schwester.",
+        "Sie wohnt in Paris.",
+        "Sie mag Musik."
+      ],
+      "ar": [
+        "هي أختي.",
+        "هي تعيش في باريس.",
+        "هي تحب الموسيقى."
+      ],
+      "fr": [
+        "Elle est ma sœur.",
+        "Elle habite à Paris.",
+        "Elle aime la musique."
+      ],
+      "it": [
+        "Lei è mia sorella.",
+        "Lei vive a Parigi.",
+        "Lei ama la musica."
+      ],
+      "ru": [
+        "Она моя сестра.",
+        "Она живет в Париже.",
+        "Она любит музыку."
+      ],
+      "es": [
+        "Ella es mi hermana.",
+        "Ella vive en París.",
+        "Ella le gusta la música."
+      ],
+      "pl": [
+        "Ona jest moją siostrą.",
+        "Ona mieszka w Paryżu.",
+        "Ona lubi muzykę."
+      ],
+      "fa": [
+        "او خواهر من است.",
+        "او در پاریس زندگی می‌کند.",
+        "او موسیقی دوست دارد."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_005_fr",
+    "word": "nous",
+    "translations": {
+      "en": "we",
+      "de": "wir",
+      "ar": "نحن",
+      "fr": "nous",
+      "it": "noi",
+      "ru": "мы",
+      "es": "nosotros",
+      "pl": "my",
+      "fa": "ما"
+    },
+    "examples": {
+      "en": [
+        "We are students.",
+        "We have a house.",
+        "We go to school."
+      ],
+      "de": [
+        "Wir sind Studenten.",
+        "Wir haben ein Haus.",
+        "Wir gehen zur Schule."
+      ],
+      "ar": [
+        "نحن طلاب.",
+        "لدينا منزل.",
+        "نذهب إلى المدرسة."
+      ],
+      "fr": [
+        "Nous sommes étudiants.",
+        "Nous avons une maison.",
+        "Nous allons à l'école."
+      ],
+      "it": [
+        "Noi siamo studenti.",
+        "Noi abbiamo una casa.",
+        "Noi andiamo a scuola."
+      ],
+      "ru": [
+        "Мы студенты.",
+        "У нас есть дом.",
+        "Мы идем в школу."
+      ],
+      "es": [
+        "Nosotros somos estudiantes.",
+        "Nosotros tenemos una casa.",
+        "Nosotros vamos a la escuela."
+      ],
+      "pl": [
+        "My jesteśmy studentami.",
+        "My mamy dom.",
+        "My idziemy do szkoły."
+      ],
+      "fa": [
+        "ما دانشجو هستیم.",
+        "ما یک خانه داریم.",
+        "ما به مدرسه می‌رویم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_006_fr",
+    "word": "vous",
+    "translations": {
+      "en": "you (plural or formal)",
+      "de": "Sie, ihr",
+      "ar": "أنتم / أنتِ (رسمي)",
+      "fr": "vous",
+      "it": "voi, Lei",
+      "ru": "вы",
+      "es": "ustedes, usted",
+      "pl": "wy, Pan/Pani",
+      "fa": "شما"
+    },
+    "examples": {
+      "en": [
+        "You are welcome here.",
+        "You have time today.",
+        "You speak well."
+      ],
+      "de": [
+        "Sie sind hier willkommen.",
+        "Sie haben heute Zeit.",
+        "Sie sprechen gut."
+      ],
+      "ar": [
+        "أنتم مرحب بكم هنا.",
+        "لديكم وقت اليوم.",
+        "أنتم تتحدثون جيداً."
+      ],
+      "fr": [
+        "Vous êtes les bienvenus ici.",
+        "Vous avez du temps aujourd'hui.",
+        "Vous parlez bien."
+      ],
+      "it": [
+        "Voi siete i benvenuti qui.",
+        "Voi avete tempo oggi.",
+        "Voi parlate bene."
+      ],
+      "ru": [
+        "Вы здесь желанные гости.",
+        "У вас сегодня есть время.",
+        "Вы хорошо говорите."
+      ],
+      "es": [
+        "Ustedes son bienvenidos aquí.",
+        "Ustedes tienen tiempo hoy.",
+        "Ustedes hablan bien."
+      ],
+      "pl": [
+        "Wy jesteście tu mile widziani.",
+        "Wy macie czas dzisiaj.",
+        "Wy mówicie dobrze."
+      ],
+      "fa": [
+        "شما اینجا خوش آمدید.",
+        "شما امروز وقت دارید.",
+        "شما خوب صحبت می‌کنید."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_007_fr",
+    "word": "ils",
+    "translations": {
+      "en": "they (masculine or mixed)",
+      "de": "sie (Plural)",
+      "ar": "هم",
+      "fr": "ils",
+      "it": "loro (maschile)",
+      "ru": "они",
+      "es": "ellos",
+      "pl": "oni",
+      "fa": "آنها (مذکر)"
+    },
+    "examples": {
+      "en": [
+        "They are teachers.",
+        "They have children.",
+        "They work together."
+      ],
+      "de": [
+        "Sie sind Lehrer.",
+        "Sie haben Kinder.",
+        "Sie arbeiten zusammen."
+      ],
+      "ar": [
+        "هم معلمون.",
+        "لديهم أطفال.",
+        "هم يعملون معاً."
+      ],
+      "fr": [
+        "Ils sont professeurs.",
+        "Ils ont des enfants.",
+        "Ils travaillent ensemble."
+      ],
+      "it": [
+        "Loro sono insegnanti.",
+        "Loro hanno bambini.",
+        "Loro lavorano insieme."
+      ],
+      "ru": [
+        "Они учителя.",
+        "У них есть дети.",
+        "Они работают вместе."
+      ],
+      "es": [
+        "Ellos son profesores.",
+        "Ellos tienen hijos.",
+        "Ellos trabajan juntos."
+      ],
+      "pl": [
+        "Oni są nauczycielami.",
+        "Oni mają dzieci.",
+        "Oni pracują razem."
+      ],
+      "fa": [
+        "آنها معلم هستند.",
+        "آنها فرزند دارند.",
+        "آنها با هم کار می‌کنند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_008_fr",
+    "word": "elles",
+    "translations": {
+      "en": "they (feminine)",
+      "de": "sie (weiblich, Plural)",
+      "ar": "هنّ",
+      "fr": "elles",
+      "it": "loro (femminile)",
+      "ru": "они (женский род)",
+      "es": "ellas",
+      "pl": "one",
+      "fa": "آنها (مؤنث)"
+    },
+    "examples": {
+      "en": [
+        "They are nurses.",
+        "They have a meeting.",
+        "They study French."
+      ],
+      "de": [
+        "Sie sind Krankenschwestern.",
+        "Sie haben ein Treffen.",
+        "Sie lernen Französisch."
+      ],
+      "ar": [
+        "هنّ ممرضات.",
+        "لديهنّ اجتماع.",
+        "هنّ يدرسن الفرنسية."
+      ],
+      "fr": [
+        "Elles sont infirmières.",
+        "Elles ont une réunion.",
+        "Elles étudient le français."
+      ],
+      "it": [
+        "Loro sono infermiere.",
+        "Loro hanno una riunione.",
+        "Loro studiano francese."
+      ],
+      "ru": [
+        "Они медсестры.",
+        "У них встреча.",
+        "Они изучают французский."
+      ],
+      "es": [
+        "Ellas son enfermeras.",
+        "Ellas tienen una reunión.",
+        "Ellas estudian francés."
+      ],
+      "pl": [
+        "One są pielęgniarkami.",
+        "One mają spotkanie.",
+        "One uczą się francuskiego."
+      ],
+      "fa": [
+        "آنها پرستار هستند.",
+        "آنها یک جلسه دارند.",
+        "آنها فرانسوی می‌خوانند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_009_fr",
+    "word": "être",
+    "translations": {
+      "en": "to be",
+      "de": "sein",
+      "ar": "يكون",
+      "fr": "être",
+      "it": "essere",
+      "ru": "быть",
+      "es": "ser, estar",
+      "pl": "być",
+      "fa": "بودن"
+    },
+    "examples": {
+      "en": [
+        "I am happy.",
+        "You are intelligent.",
+        "She is a doctor."
+      ],
+      "de": [
+        "Ich bin glücklich.",
+        "Du bist intelligent.",
+        "Sie ist Ärztin."
+      ],
+      "ar": [
+        "أنا سعيد.",
+        "أنت ذكي.",
+        "هي طبيبة."
+      ],
+      "fr": [
+        "Je suis heureux.",
+        "Tu es intelligent.",
+        "Elle est médecin."
+      ],
+      "it": [
+        "Io sono felice.",
+        "Tu sei intelligente.",
+        "Lei è dottoressa."
+      ],
+      "ru": [
+        "Я счастлив.",
+        "Ты умный.",
+        "Она врач."
+      ],
+      "es": [
+        "Yo soy feliz.",
+        "Tú eres inteligente.",
+        "Ella es doctora."
+      ],
+      "pl": [
+        "Ja jestem szczęśliwy.",
+        "Ty jesteś inteligentny.",
+        "Ona jest lekarzem."
+      ],
+      "fa": [
+        "من خوشحالم.",
+        "تو باهوش هستی.",
+        "او دکتر است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_010_fr",
+    "word": "avoir",
+    "translations": {
+      "en": "to have",
+      "de": "haben",
+      "ar": "يملك",
+      "fr": "avoir",
+      "it": "avere",
+      "ru": "иметь",
+      "es": "tener",
+      "pl": "mieć",
+      "fa": "داشتن"
+    },
+    "examples": {
+      "en": [
+        "I have a cat.",
+        "You have a question.",
+        "We have time."
+      ],
+      "de": [
+        "Ich habe eine Katze.",
+        "Du hast eine Frage.",
+        "Wir haben Zeit."
+      ],
+      "ar": [
+        "لدي قطة.",
+        "لديك سؤال.",
+        "لدينا وقت."
+      ],
+      "fr": [
+        "J'ai un chat.",
+        "Tu as une question.",
+        "Nous avons le temps."
+      ],
+      "it": [
+        "Io ho un gatto.",
+        "Tu hai una domanda.",
+        "Noi abbiamo tempo."
+      ],
+      "ru": [
+        "У меня есть кошка.",
+        "У тебя есть вопрос.",
+        "У нас есть время."
+      ],
+      "es": [
+        "Yo tengo un gato.",
+        "Tú tienes una pregunta.",
+        "Nosotros tenemos tiempo."
+      ],
+      "pl": [
+        "Ja mam kota.",
+        "Ty masz pytanie.",
+        "My mamy czas."
+      ],
+      "fa": [
+        "من یک گربه دارم.",
+        "تو یک سؤال داری.",
+        "ما وقت داریم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_011_fr",
+    "word": "faire",
+    "translations": {
+      "en": "to do, to make",
+      "de": "machen, tun",
+      "ar": "يفعل، يصنع",
+      "fr": "faire",
+      "it": "fare",
+      "ru": "делать",
+      "es": "hacer",
+      "pl": "robić",
+      "fa": "انجام دادن، ساختن"
+    },
+    "examples": {
+      "en": [
+        "I do my homework.",
+        "You make dinner.",
+        "They do sports."
+      ],
+      "de": [
+        "Ich mache meine Hausaufgaben.",
+        "Du machst das Abendessen.",
+        "Sie machen Sport."
+      ],
+      "ar": [
+        "أنا أفعل واجبي.",
+        "أنت تصنع العشاء.",
+        "هم يمارسون الرياضة."
+      ],
+      "fr": [
+        "Je fais mes devoirs.",
+        "Tu fais le dîner.",
+        "Ils font du sport."
+      ],
+      "it": [
+        "Io faccio i compiti.",
+        "Tu fai la cena.",
+        "Loro fanno sport."
+      ],
+      "ru": [
+        "Я делаю домашнее задание.",
+        "Ты готовишь ужин.",
+        "Они занимаются спортом."
+      ],
+      "es": [
+        "Yo hago mi tarea.",
+        "Tú haces la cena.",
+        "Ellos hacen deporte."
+      ],
+      "pl": [
+        "Ja robię zadanie domowe.",
+        "Ty robisz kolację.",
+        "Oni uprawiają sport."
+      ],
+      "fa": [
+        "من تکالیفم را انجام می‌دهم.",
+        "تو شام درست می‌کنی.",
+        "آنها ورزش می‌کنند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_012_fr",
+    "word": "aller",
+    "translations": {
+      "en": "to go",
+      "de": "gehen",
+      "ar": "يذهب",
+      "fr": "aller",
+      "it": "andare",
+      "ru": "идти, ехать",
+      "es": "ir",
+      "pl": "iść, jechać",
+      "fa": "رفتن"
+    },
+    "examples": {
+      "en": [
+        "I go to the market.",
+        "You go home.",
+        "She goes to work."
+      ],
+      "de": [
+        "Ich gehe zum Markt.",
+        "Du gehst nach Hause.",
+        "Sie geht zur Arbeit."
+      ],
+      "ar": [
+        "أنا أذهب إلى السوق.",
+        "أنت تذهب إلى المنزل.",
+        "هي تذهب إلى العمل."
+      ],
+      "fr": [
+        "Je vais au marché.",
+        "Tu vas à la maison.",
+        "Elle va au travail."
+      ],
+      "it": [
+        "Io vado al mercato.",
+        "Tu vai a casa.",
+        "Lei va al lavoro."
+      ],
+      "ru": [
+        "Я иду на рынок.",
+        "Ты идешь домой.",
+        "Она идет на работу."
+      ],
+      "es": [
+        "Yo voy al mercado.",
+        "Tú vas a casa.",
+        "Ella va al trabajo."
+      ],
+      "pl": [
+        "Ja idę na targ.",
+        "Ty idziesz do domu.",
+        "Ona idzie do pracy."
+      ],
+      "fa": [
+        "من به بازار می‌روم.",
+        "تو به خانه می‌روی.",
+        "او به کار می‌رود."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_013_fr",
+    "word": "pouvoir",
+    "translations": {
+      "en": "to be able to, can",
+      "de": "können",
+      "ar": "يستطيع",
+      "fr": "pouvoir",
+      "it": "potere",
+      "ru": "мочь",
+      "es": "poder",
+      "pl": "móc",
+      "fa": "توانستن"
+    },
+    "examples": {
+      "en": [
+        "I can swim.",
+        "You can help me.",
+        "He can speak English."
+      ],
+      "de": [
+        "Ich kann schwimmen.",
+        "Du kannst mir helfen.",
+        "Er kann Englisch sprechen."
+      ],
+      "ar": [
+        "أنا أستطيع السباحة.",
+        "أنت تستطيع مساعدتي.",
+        "هو يستطيع التحدث بالإنجليزية."
+      ],
+      "fr": [
+        "Je peux nager.",
+        "Tu peux m'aider.",
+        "Il peut parler anglais."
+      ],
+      "it": [
+        "Io posso nuotare.",
+        "Tu puoi aiutarmi.",
+        "Lui può parlare inglese."
+      ],
+      "ru": [
+        "Я могу плавать.",
+        "Ты можешь мне помочь.",
+        "Он может говорить по-английски."
+      ],
+      "es": [
+        "Yo puedo nadar.",
+        "Tú puedes ayudarme.",
+        "Él puede hablar inglés."
+      ],
+      "pl": [
+        "Ja mogę pływać.",
+        "Ty możesz mi pomóc.",
+        "On może mówić po angielsku."
+      ],
+      "fa": [
+        "من می‌توانم شنا کنم.",
+        "تو می‌توانی به من کمک کنی.",
+        "او می‌تواند انگلیسی صحبت کند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_014_fr",
+    "word": "vouloir",
+    "translations": {
+      "en": "to want",
+      "de": "wollen, möchten",
+      "ar": "يريد",
+      "fr": "vouloir",
+      "it": "volere",
+      "ru": "хотеть",
+      "es": "querer",
+      "pl": "chcieć",
+      "fa": "خواستن"
+    },
+    "examples": {
+      "en": [
+        "I want water.",
+        "You want to learn.",
+        "We want pizza."
+      ],
+      "de": [
+        "Ich will Wasser.",
+        "Du willst lernen.",
+        "Wir wollen Pizza."
+      ],
+      "ar": [
+        "أنا أريد ماء.",
+        "أنت تريد أن تتعلم.",
+        "نحن نريد بيتزا."
+      ],
+      "fr": [
+        "Je veux de l'eau.",
+        "Tu veux apprendre.",
+        "Nous voulons une pizza."
+      ],
+      "it": [
+        "Io voglio acqua.",
+        "Tu vuoi imparare.",
+        "Noi vogliamo pizza."
+      ],
+      "ru": [
+        "Я хочу воду.",
+        "Ты хочешь учиться.",
+        "Мы хотим пиццу."
+      ],
+      "es": [
+        "Yo quiero agua.",
+        "Tú quieres aprender.",
+        "Nosotros queremos pizza."
+      ],
+      "pl": [
+        "Ja chcę wodę.",
+        "Ty chcesz się uczyć.",
+        "My chcemy pizzę."
+      ],
+      "fa": [
+        "من آب می‌خواهم.",
+        "تو می‌خواهی یاد بگیری.",
+        "ما پیتزا می‌خواهیم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_015_fr",
+    "word": "devoir",
+    "translations": {
+      "en": "to have to, must",
+      "de": "müssen, sollen",
+      "ar": "يجب",
+      "fr": "devoir",
+      "it": "dovere",
+      "ru": "должен",
+      "es": "deber",
+      "pl": "musieć",
+      "fa": "باید"
+    },
+    "examples": {
+      "en": [
+        "I must work.",
+        "You have to study.",
+        "He must leave."
+      ],
+      "de": [
+        "Ich muss arbeiten.",
+        "Du musst lernen.",
+        "Er muss gehen."
+      ],
+      "ar": [
+        "يجب أن أعمل.",
+        "يجب عليك الدراسة.",
+        "يجب عليه المغادرة."
+      ],
+      "fr": [
+        "Je dois travailler.",
+        "Tu dois étudier.",
+        "Il doit partir."
+      ],
+      "it": [
+        "Io devo lavorare.",
+        "Tu devi studiare.",
+        "Lui deve partire."
+      ],
+      "ru": [
+        "Я должен работать.",
+        "Ты должен учиться.",
+        "Он должен уйти."
+      ],
+      "es": [
+        "Yo debo trabajar.",
+        "Tú debes estudiar.",
+        "Él debe irse."
+      ],
+      "pl": [
+        "Ja muszę pracować.",
+        "Ty musisz się uczyć.",
+        "On musi wyjść."
+      ],
+      "fa": [
+        "من باید کار کنم.",
+        "تو باید درس بخوانی.",
+        "او باید برود."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_016_fr",
+    "word": "savoir",
+    "translations": {
+      "en": "to know (a fact)",
+      "de": "wissen",
+      "ar": "يعرف",
+      "fr": "savoir",
+      "it": "sapere",
+      "ru": "знать",
+      "es": "saber",
+      "pl": "wiedzieć",
+      "fa": "دانستن"
+    },
+    "examples": {
+      "en": [
+        "I know the answer.",
+        "You know how to cook.",
+        "She knows the truth."
+      ],
+      "de": [
+        "Ich weiß die Antwort.",
+        "Du weißt, wie man kocht.",
+        "Sie weiß die Wahrheit."
+      ],
+      "ar": [
+        "أنا أعرف الجواب.",
+        "أنت تعرف كيف تطبخ.",
+        "هي تعرف الحقيقة."
+      ],
+      "fr": [
+        "Je sais la réponse.",
+        "Tu sais cuisiner.",
+        "Elle sait la vérité."
+      ],
+      "it": [
+        "Io so la risposta.",
+        "Tu sai cucinare.",
+        "Lei sa la verità."
+      ],
+      "ru": [
+        "Я знаю ответ.",
+        "Ты знаешь, как готовить.",
+        "Она знает правду."
+      ],
+      "es": [
+        "Yo sé la respuesta.",
+        "Tú sabes cocinar.",
+        "Ella sabe la verdad."
+      ],
+      "pl": [
+        "Ja wiem odpowiedź.",
+        "Ty wiesz, jak gotować.",
+        "Ona wie prawdę."
+      ],
+      "fa": [
+        "من جواب را می‌دانم.",
+        "تو می‌دانی چطور آشپزی کنی.",
+        "او حقیقت را می‌داند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_017_fr",
+    "word": "voir",
+    "translations": {
+      "en": "to see",
+      "de": "sehen",
+      "ar": "يرى",
+      "fr": "voir",
+      "it": "vedere",
+      "ru": "видеть",
+      "es": "ver",
+      "pl": "widzieć",
+      "fa": "دیدن"
+    },
+    "examples": {
+      "en": [
+        "I see a bird.",
+        "You see the problem.",
+        "We see the sun."
+      ],
+      "de": [
+        "Ich sehe einen Vogel.",
+        "Du siehst das Problem.",
+        "Wir sehen die Sonne."
+      ],
+      "ar": [
+        "أنا أرى طائراً.",
+        "أنت ترى المشكلة.",
+        "نحن نرى الشمس."
+      ],
+      "fr": [
+        "Je vois un oiseau.",
+        "Tu vois le problème.",
+        "Nous voyons le soleil."
+      ],
+      "it": [
+        "Io vedo un uccello.",
+        "Tu vedi il problema.",
+        "Noi vediamo il sole."
+      ],
+      "ru": [
+        "Я вижу птицу.",
+        "Ты видишь проблему.",
+        "Мы видим солнце."
+      ],
+      "es": [
+        "Yo veo un pájaro.",
+        "Tú ves el problema.",
+        "Nosotros vemos el sol."
+      ],
+      "pl": [
+        "Ja widzę ptaka.",
+        "Ty widzisz problem.",
+        "My widzimy słońce."
+      ],
+      "fa": [
+        "من یک پرنده می‌بینم.",
+        "تو مشکل را می‌بینی.",
+        "ما خورشید را می‌بینیم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_018_fr",
+    "word": "prendre",
+    "translations": {
+      "en": "to take",
+      "de": "nehmen",
+      "ar": "يأخذ",
+      "fr": "prendre",
+      "it": "prendere",
+      "ru": "брать",
+      "es": "tomar",
+      "pl": "brać",
+      "fa": "گرفتن"
+    },
+    "examples": {
+      "en": [
+        "I take the bus.",
+        "You take a photo.",
+        "He takes medicine."
+      ],
+      "de": [
+        "Ich nehme den Bus.",
+        "Du machst ein Foto.",
+        "Er nimmt Medizin."
+      ],
+      "ar": [
+        "أنا آخذ الحافلة.",
+        "أنت تلتقط صورة.",
+        "هو يأخذ الدواء."
+      ],
+      "fr": [
+        "Je prends le bus.",
+        "Tu prends une photo.",
+        "Il prend un médicament."
+      ],
+      "it": [
+        "Io prendo l'autobus.",
+        "Tu prendi una foto.",
+        "Lui prende la medicina."
+      ],
+      "ru": [
+        "Я беру автобус.",
+        "Ты делаешь фото.",
+        "Он принимает лекарство."
+      ],
+      "es": [
+        "Yo tomo el autobús.",
+        "Tú tomas una foto.",
+        "Él toma medicina."
+      ],
+      "pl": [
+        "Ja biorę autobus.",
+        "Ty robisz zdjęcie.",
+        "On bierze lekarstwo."
+      ],
+      "fa": [
+        "من اتوبوس سوار می‌شوم.",
+        "تو عکس می‌گیری.",
+        "او دارو می‌خورد."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_019_fr",
+    "word": "venir",
+    "translations": {
+      "en": "to come",
+      "de": "kommen",
+      "ar": "يأتي",
+      "fr": "venir",
+      "it": "venire",
+      "ru": "приходить",
+      "es": "venir",
+      "pl": "przychodzić",
+      "fa": "آمدن"
+    },
+    "examples": {
+      "en": [
+        "I come from France.",
+        "You come with me.",
+        "They come tomorrow."
+      ],
+      "de": [
+        "Ich komme aus Frankreich.",
+        "Du kommst mit mir.",
+        "Sie kommen morgen."
+      ],
+      "ar": [
+        "أنا آتي من فرنسا.",
+        "أنت تأتي معي.",
+        "هم يأتون غداً."
+      ],
+      "fr": [
+        "Je viens de France.",
+        "Tu viens avec moi.",
+        "Ils viennent demain."
+      ],
+      "it": [
+        "Io vengo dalla Francia.",
+        "Tu vieni con me.",
+        "Loro vengono domani."
+      ],
+      "ru": [
+        "Я из Франции.",
+        "Ты идешь со мной.",
+        "Они придут завтра."
+      ],
+      "es": [
+        "Yo vengo de Francia.",
+        "Tú vienes conmigo.",
+        "Ellos vienen mañana."
+      ],
+      "pl": [
+        "Ja pochodzę z Francji.",
+        "Ty idziesz ze mną.",
+        "Oni przychodzą jutro."
+      ],
+      "fa": [
+        "من از فرانسه می‌آیم.",
+        "تو با من می‌آیی.",
+        "آنها فردا می‌آیند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_020_fr",
+    "word": "donner",
+    "translations": {
+      "en": "to give",
+      "de": "geben",
+      "ar": "يعطي",
+      "fr": "donner",
+      "it": "dare",
+      "ru": "давать",
+      "es": "dar",
+      "pl": "dawać",
+      "fa": "دادن"
+    },
+    "examples": {
+      "en": [
+        "I give you a gift.",
+        "You give me advice.",
+        "She gives flowers."
+      ],
+      "de": [
+        "Ich gebe dir ein Geschenk.",
+        "Du gibst mir einen Rat.",
+        "Sie gibt Blumen."
+      ],
+      "ar": [
+        "أنا أعطيك هدية.",
+        "أنت تعطيني نصيحة.",
+        "هي تعطي الزهور."
+      ],
+      "fr": [
+        "Je te donne un cadeau.",
+        "Tu me donnes un conseil.",
+        "Elle donne des fleurs."
+      ],
+      "it": [
+        "Io ti do un regalo.",
+        "Tu mi dai un consiglio.",
+        "Lei dà fiori."
+      ],
+      "ru": [
+        "Я даю тебе подарок.",
+        "Ты даешь мне совет.",
+        "Она дает цветы."
+      ],
+      "es": [
+        "Yo te doy un regalo.",
+        "Tú me das un consejo.",
+        "Ella da flores."
+      ],
+      "pl": [
+        "Ja daję ci prezent.",
+        "Ty dajesz mi radę.",
+        "Ona daje kwiaty."
+      ],
+      "fa": [
+        "من به تو یک هدیه می‌دهم.",
+        "تو به من نصیحت می‌کنی.",
+        "او گل می‌دهد."
+      ]
+    }
+  }
+]

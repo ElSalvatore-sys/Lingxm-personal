@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_281_fr",
+    "word": "nager",
+    "translations": {
+      "en": "to swim",
+      "de": "schwimmen",
+      "ar": "يسبح",
+      "fr": "nager",
+      "it": "nuotare",
+      "ru": "плавать",
+      "es": "nadar",
+      "pl": "pływać",
+      "fa": "شنا کردن"
+    },
+    "examples": {
+      "en": ["I swim well.", "We swim together.", "Do you swim?"],
+      "de": ["Ich schwimme gut.", "Wir schwimmen zusammen.", "Schwimmst du?"],
+      "ar": ["أنا أسبح جيداً.", "نحن نسبح معاً.", "هل تسبح؟"],
+      "fr": ["Je nage bien.", "Nous nageons ensemble.", "Nages-tu?"],
+      "it": ["Io nuoto bene.", "Noi nuotiamo insieme.", "Nuoti?"],
+      "ru": ["Я хорошо плаваю.", "Мы плаваем вместе.", "Ты плаваешь?"],
+      "es": ["Yo nado bien.", "Nosotros nadamos juntos.", "¿Nadas?"],
+      "pl": ["Ja dobrze pływam.", "My pływamy razem.", "Pływasz?"],
+      "fa": ["من خوب شنا می‌کنم.", "ما با هم شنا می‌کنیم.", "شنا می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_282_fr",
+    "word": "voyager",
+    "translations": {
+      "en": "to travel",
+      "de": "reisen",
+      "ar": "يسافر",
+      "fr": "voyager",
+      "it": "viaggiare",
+      "ru": "путешествовать",
+      "es": "viajar",
+      "pl": "podróżować",
+      "fa": "سفر کردن"
+    },
+    "examples": {
+      "en": ["I travel often.", "We travel together.", "Do you travel?"],
+      "de": ["Ich reise oft.", "Wir reisen zusammen.", "Reist du?"],
+      "ar": ["أنا أسافر كثيراً.", "نحن نسافر معاً.", "هل تسافر؟"],
+      "fr": ["Je voyage souvent.", "Nous voyageons ensemble.", "Voyages-tu?"],
+      "it": ["Io viaggio spesso.", "Noi viaggiamo insieme.", "Viaggi?"],
+      "ru": ["Я часто путешествую.", "Мы путешествуем вместе.", "Ты путешествуешь?"],
+      "es": ["Yo viajo a menudo.", "Nosotros viajamos juntos.", "¿Viajas?"],
+      "pl": ["Ja często podróżuję.", "My podróżujemy razem.", "Podróżujesz?"],
+      "fa": ["من اغلب سفر می‌کنم.", "ما با هم سفر می‌کنیم.", "سفر می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_283_fr",
+    "word": "visiter",
+    "translations": {
+      "en": "to visit",
+      "de": "besuchen, besichtigen",
+      "ar": "يزور",
+      "fr": "visiter",
+      "it": "visitare",
+      "ru": "посещать",
+      "es": "visitar",
+      "pl": "odwiedzać",
+      "fa": "بازدید کردن"
+    },
+    "examples": {
+      "en": ["I visit Paris.", "We visit friends.", "Do you visit?"],
+      "de": ["Ich besuche Paris.", "Wir besuchen Freunde.", "Besuchst du?"],
+      "ar": ["أنا أزور باريس.", "نحن نزور الأصدقاء.", "هل تزور؟"],
+      "fr": ["Je visite Paris.", "Nous visitons des amis.", "Visites-tu?"],
+      "it": ["Io visito Parigi.", "Noi visitiamo amici.", "Visiti?"],
+      "ru": ["Я посещаю Париж.", "Мы посещаем друзей.", "Ты посещаешь?"],
+      "es": ["Yo visito París.", "Nosotros visitamos amigos.", "¿Visitas?"],
+      "pl": ["Ja odwiedzam Paryż.", "My odwiedzamy przyjaciół.", "Odwiedzasz?"],
+      "fa": ["من از پاریس بازدید می‌کنم.", "ما از دوستان بازدید می‌کنیم.", "بازدید می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_284_fr",
+    "word": "inviter",
+    "translations": {
+      "en": "to invite",
+      "de": "einladen",
+      "ar": "يدعو",
+      "fr": "inviter",
+      "it": "invitare",
+      "ru": "приглашать",
+      "es": "invitar",
+      "pl": "zapraszać",
+      "fa": "دعوت کردن"
+    },
+    "examples": {
+      "en": ["I invite you.", "We invite friends.", "Do you invite?"],
+      "de": ["Ich lade dich ein.", "Wir laden Freunde ein.", "Lädst du ein?"],
+      "ar": ["أنا أدعوك.", "نحن ندعو الأصدقاء.", "هل تدعو؟"],
+      "fr": ["Je t'invite.", "Nous invitons des amis.", "Invites-tu?"],
+      "it": ["Io ti invito.", "Noi invitiamo amici.", "Inviti?"],
+      "ru": ["Я приглашаю тебя.", "Мы приглашаем друзей.", "Ты приглашаешь?"],
+      "es": ["Yo te invito.", "Nosotros invitamos amigos.", "¿Invitas?"],
+      "pl": ["Ja cię zapraszam.", "My zapraszamy przyjaciół.", "Zapraszasz?"],
+      "fa": ["من تو را دعوت می‌کنم.", "ما دوستان را دعوت می‌کنیم.", "دعوت می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_285_fr",
+    "word": "accepter",
+    "translations": {
+      "en": "to accept",
+      "de": "akzeptieren, annehmen",
+      "ar": "يقبل",
+      "fr": "accepter",
+      "it": "accettare",
+      "ru": "принимать",
+      "es": "aceptar",
+      "pl": "akceptować, przyjmować",
+      "fa": "قبول کردن، پذیرفتن"
+    },
+    "examples": {
+      "en": ["I accept it.", "We accept together.", "Do you accept?"],
+      "de": ["Ich akzeptiere es.", "Wir akzeptieren zusammen.", "Akzeptierst du?"],
+      "ar": ["أنا أقبله.", "نحن نقبل معاً.", "هل تقبل؟"],
+      "fr": ["J'accepte ça.", "Nous acceptons ensemble.", "Acceptes-tu?"],
+      "it": ["Io accetto questo.", "Noi accettiamo insieme.", "Accetti?"],
+      "ru": ["Я принимаю это.", "Мы принимаем вместе.", "Ты принимаешь?"],
+      "es": ["Yo acepto esto.", "Nosotros aceptamos juntos.", "¿Aceptas?"],
+      "pl": ["Ja to akceptuję.", "My akceptujemy razem.", "Akceptujesz?"],
+      "fa": ["من قبول می‌کنم.", "ما با هم می‌پذیریم.", "قبول می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_286_fr",
+    "word": "refuser",
+    "translations": {
+      "en": "to refuse",
+      "de": "ablehnen, verweigern",
+      "ar": "يرفض",
+      "fr": "refuser",
+      "it": "rifiutare",
+      "ru": "отказывать",
+      "es": "rechazar, negarse",
+      "pl": "odmawiać",
+      "fa": "رد کردن"
+    },
+    "examples": {
+      "en": ["I refuse it.", "We refuse together.", "Do you refuse?"],
+      "de": ["Ich lehne es ab.", "Wir lehnen zusammen ab.", "Lehnst du ab?"],
+      "ar": ["أنا أرفضه.", "نحن نرفض معاً.", "هل ترفض؟"],
+      "fr": ["Je le refuse.", "Nous refusons ensemble.", "Refuses-tu?"],
+      "it": ["Io lo rifiuto.", "Noi rifiutiamo insieme.", "Rifiuti?"],
+      "ru": ["Я отказываюсь.", "Мы отказываемся вместе.", "Ты отказываешься?"],
+      "es": ["Yo lo rechazo.", "Nosotros rechazamos juntos.", "¿Rechazas?"],
+      "pl": ["Ja odmawiam.", "My odmawiamy razem.", "Odmawiasz?"],
+      "fa": ["من رد می‌کنم.", "ما با هم رد می‌کنیم.", "رد می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_287_fr",
+    "word": "oublier",
+    "translations": {
+      "en": "to forget",
+      "de": "vergessen",
+      "ar": "ينسى",
+      "fr": "oublier",
+      "it": "dimenticare",
+      "ru": "забывать",
+      "es": "olvidar",
+      "pl": "zapominać",
+      "fa": "فراموش کردن"
+    },
+    "examples": {
+      "en": ["I forget sometimes.", "We forget together.", "Do you forget?"],
+      "de": ["Ich vergesse manchmal.", "Wir vergessen zusammen.", "Vergisst du?"],
+      "ar": ["أنا أنسى أحياناً.", "نحن ننسى معاً.", "هل تنسى؟"],
+      "fr": ["J'oublie parfois.", "Nous oublions ensemble.", "Oublies-tu?"],
+      "it": ["Io dimentico a volte.", "Noi dimentichiamo insieme.", "Dimentichi?"],
+      "ru": ["Я иногда забываю.", "Мы забываем вместе.", "Ты забываешь?"],
+      "es": ["Yo olvido a veces.", "Nosotros olvidamos juntos.", "¿Olvidas?"],
+      "pl": ["Ja czasami zapominam.", "My zapominamy razem.", "Zapominasz?"],
+      "fa": ["من گاهی فراموش می‌کنم.", "ما با هم فراموش می‌کنیم.", "فراموش می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_288_fr",
+    "word": "envoyer",
+    "translations": {
+      "en": "to send",
+      "de": "senden, schicken",
+      "ar": "يرسل",
+      "fr": "envoyer",
+      "it": "mandare, inviare",
+      "ru": "посылать, отправлять",
+      "es": "enviar, mandar",
+      "pl": "wysyłać",
+      "fa": "فرستادن"
+    },
+    "examples": {
+      "en": ["I send letters.", "We send emails.", "Do you send?"],
+      "de": ["Ich schicke Briefe.", "Wir senden E-Mails.", "Schickst du?"],
+      "ar": ["أنا أرسل الرسائل.", "نحن نرسل رسائل إلكترونية.", "هل ترسل؟"],
+      "fr": ["J'envoie des lettres.", "Nous envoyons des emails.", "Envoies-tu?"],
+      "it": ["Io mando lettere.", "Noi mandiamo email.", "Mandi?"],
+      "ru": ["Я посылаю письма.", "Мы отправляем электронные письма.", "Ты посылаешь?"],
+      "es": ["Yo envío cartas.", "Nosotros enviamos emails.", "¿Envías?"],
+      "pl": ["Ja wysyłam listy.", "My wysyłamy emaile.", "Wysyłasz?"],
+      "fa": ["من نامه می‌فرستم.", "ما ایمیل می‌فرستیم.", "می‌فرستی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_289_fr",
+    "word": "recevoir",
+    "translations": {
+      "en": "to receive",
+      "de": "empfangen, erhalten",
+      "ar": "يتلقى، يستقبل",
+      "fr": "recevoir",
+      "it": "ricevere",
+      "ru": "получать",
+      "es": "recibir",
+      "pl": "otrzymywać",
+      "fa": "دریافت کردن"
+    },
+    "examples": {
+      "en": ["I receive letters.", "We receive emails.", "Do you receive?"],
+      "de": ["Ich empfange Briefe.", "Wir erhalten E-Mails.", "Empfängst du?"],
+      "ar": ["أنا أتلقى الرسائل.", "نحن نتلقى رسائل إلكترونية.", "هل تتلقى؟"],
+      "fr": ["Je reçois des lettres.", "Nous recevons des emails.", "Reçois-tu?"],
+      "it": ["Io ricevo lettere.", "Noi riceviamo email.", "Ricevi?"],
+      "ru": ["Я получаю письма.", "Мы получаем электронные письма.", "Ты получаешь?"],
+      "es": ["Yo recibo cartas.", "Nosotros recibimos emails.", "¿Recibes?"],
+      "pl": ["Ja otrzymuję listy.", "My otrzymujemy emaile.", "Otrzymujesz?"],
+      "fa": ["من نامه دریافت می‌کنم.", "ما ایمیل دریافت می‌کنیم.", "دریافت می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_290_fr",
+    "word": "offrir",
+    "translations": {
+      "en": "to offer, to give (as a gift)",
+      "de": "anbieten, schenken",
+      "ar": "يعرض، يهدي",
+      "fr": "offrir",
+      "it": "offrire, regalare",
+      "ru": "предлагать, дарить",
+      "es": "ofrecer, regalar",
+      "pl": "oferować, dawać (prezent)",
+      "fa": "تقدیم کردن، هدیه دادن"
+    },
+    "examples": {
+      "en": ["I offer help.", "We give gifts.", "Do you offer?"],
+      "de": ["Ich biete Hilfe an.", "Wir schenken Geschenke.", "Bietest du an?"],
+      "ar": ["أنا أعرض المساعدة.", "نحن نهدي الهدايا.", "هل تعرض؟"],
+      "fr": ["J'offre de l'aide.", "Nous offrons des cadeaux.", "Offres-tu?"],
+      "it": ["Io offro aiuto.", "Noi regaliamo regali.", "Offri?"],
+      "ru": ["Я предлагаю помощь.", "Мы дарим подарки.", "Ты предлагаешь?"],
+      "es": ["Yo ofrezco ayuda.", "Nosotros regalamos regalos.", "¿Ofreces?"],
+      "pl": ["Ja oferuję pomoc.", "My dajemy prezenty.", "Oferujesz?"],
+      "fa": ["من کمک تقدیم می‌کنم.", "ما هدیه می‌دهیم.", "تقدیم می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_291_fr",
+    "word": "sentir",
+    "translations": {
+      "en": "to smell, to feel",
+      "de": "riechen, fühlen",
+      "ar": "يشم، يشعر",
+      "fr": "sentir",
+      "it": "sentire (odore), sentire",
+      "ru": "чувствовать запах, чувствовать",
+      "es": "oler, sentir",
+      "pl": "czuć (zapach), czuć",
+      "fa": "بوییدن، احساس کردن"
+    },
+    "examples": {
+      "en": ["I smell flowers.", "We feel happy.", "Do you smell it?"],
+      "de": ["Ich rieche Blumen.", "Wir fühlen uns glücklich.", "Riechst du es?"],
+      "ar": ["أنا أشم الزهور.", "نحن نشعر بالسعادة.", "هل تشمه؟"],
+      "fr": ["Je sens les fleurs.", "Nous nous sentons heureux.", "Sens-tu ça?"],
+      "it": ["Io sento i fiori.", "Noi ci sentiamo felici.", "Senti?"],
+      "ru": ["Я чувствую запах цветов.", "Мы чувствуем себя счастливыми.", "Ты чувствуешь это?"],
+      "es": ["Yo huelo las flores.", "Nosotros nos sentimos felices.", "¿Hueles?"],
+      "pl": ["Ja czuję kwiaty.", "My czujemy się szczęśliwi.", "Czujesz to?"],
+      "fa": ["من بوی گل‌ها را حس می‌کنم.", "ما خوشحال احساس می‌کنیم.", "بو می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_292_fr",
+    "word": "goûter",
+    "translations": {
+      "en": "to taste",
+      "de": "schmecken, probieren",
+      "ar": "يتذوق",
+      "fr": "goûter",
+      "it": "assaggiare",
+      "ru": "пробовать на вкус",
+      "es": "probar, saborear",
+      "pl": "smakować, kosztować",
+      "fa": "چشیدن"
+    },
+    "examples": {
+      "en": ["I taste it.", "We taste food.", "Do you taste?"],
+      "de": ["Ich probiere es.", "Wir probieren Essen.", "Probierst du?"],
+      "ar": ["أنا أتذوقه.", "نحن نتذوق الطعام.", "هل تتذوق؟"],
+      "fr": ["Je le goûte.", "Nous goûtons la nourriture.", "Goûtes-tu?"],
+      "it": ["Io lo assaggio.", "Noi assaggiamo il cibo.", "Assaggi?"],
+      "ru": ["Я пробую это.", "Мы пробуем еду.", "Ты пробуешь?"],
+      "es": ["Yo lo pruebo.", "Nosotros probamos comida.", "¿Pruebas?"],
+      "pl": ["Ja to smakuję.", "My smakujemy jedzenie.", "Smakujesz?"],
+      "fa": ["من می‌چشم.", "ما غذا می‌چشیم.", "می‌چشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_293_fr",
+    "word": "cuisiner",
+    "translations": {
+      "en": "to cook",
+      "de": "kochen",
+      "ar": "يطبخ",
+      "fr": "cuisiner",
+      "it": "cucinare",
+      "ru": "готовить (еду)",
+      "es": "cocinar",
+      "pl": "gotować",
+      "fa": "آشپزی کردن"
+    },
+    "examples": {
+      "en": ["I cook dinner.", "We cook together.", "Do you cook?"],
+      "de": ["Ich koche Abendessen.", "Wir kochen zusammen.", "Kochst du?"],
+      "ar": ["أنا أطبخ العشاء.", "نحن نطبخ معاً.", "هل تطبخ؟"],
+      "fr": ["Je cuisine le dîner.", "Nous cuisinons ensemble.", "Cuisines-tu?"],
+      "it": ["Io cucino cena.", "Noi cuciniamo insieme.", "Cucini?"],
+      "ru": ["Я готовлю ужин.", "Мы готовим вместе.", "Ты готовишь?"],
+      "es": ["Yo cocino cena.", "Nosotros cocinamos juntos.", "¿Cocinas?"],
+      "pl": ["Ja gotuję kolację.", "My gotujemy razem.", "Gotujesz?"],
+      "fa": ["من شام درست می‌کنم.", "ما با هم آشپزی می‌کنیم.", "آشپزی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_294_fr",
+    "word": "préparer",
+    "translations": {
+      "en": "to prepare",
+      "de": "vorbereiten, zubereiten",
+      "ar": "يحضر",
+      "fr": "préparer",
+      "it": "preparare",
+      "ru": "готовить, подготавливать",
+      "es": "preparar",
+      "pl": "przygotowywać",
+      "fa": "آماده کردن"
+    },
+    "examples": {
+      "en": ["I prepare food.", "We prepare together.", "Do you prepare?"],
+      "de": ["Ich bereite Essen vor.", "Wir bereiten zusammen vor.", "Bereitest du vor?"],
+      "ar": ["أنا أحضر الطعام.", "نحن نحضر معاً.", "هل تحضر؟"],
+      "fr": ["Je prépare à manger.", "Nous préparons ensemble.", "Prépares-tu?"],
+      "it": ["Io preparo cibo.", "Noi prepariamo insieme.", "Prepari?"],
+      "ru": ["Я готовлю еду.", "Мы готовим вместе.", "Ты готовишь?"],
+      "es": ["Yo preparo comida.", "Nosotros preparamos juntos.", "¿Preparas?"],
+      "pl": ["Ja przygotowuję jedzenie.", "My przygotowujemy razem.", "Przygotowujesz?"],
+      "fa": ["من غذا آماده می‌کنم.", "ما با هم آماده می‌کنیم.", "آماده می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_295_fr",
+    "word": "servir",
+    "translations": {
+      "en": "to serve",
+      "de": "servieren, dienen",
+      "ar": "يقدم، يخدم",
+      "fr": "servir",
+      "it": "servire",
+      "ru": "подавать, обслуживать",
+      "es": "servir",
+      "pl": "serwować, służyć",
+      "fa": "سرو کردن، خدمت کردن"
+    },
+    "examples": {
+      "en": ["I serve food.", "We serve guests.", "Do you serve?"],
+      "de": ["Ich serviere Essen.", "Wir bedienen Gäste.", "Servierst du?"],
+      "ar": ["أنا أقدم الطعام.", "نحن نخدم الضيوف.", "هل تقدم؟"],
+      "fr": ["Je sers à manger.", "Nous servons les invités.", "Sers-tu?"],
+      "it": ["Io servo cibo.", "Noi serviamo ospiti.", "Servi?"],
+      "ru": ["Я подаю еду.", "Мы обслуживаем гостей.", "Ты подаешь?"],
+      "es": ["Yo sirvo comida.", "Nosotros servimos invitados.", "¿Sirves?"],
+      "pl": ["Ja serwuję jedzenie.", "My serwujemy gości.", "Serwujesz?"],
+      "fa": ["من غذا سرو می‌کنم.", "ما به مهمان‌ها خدمت می‌کنیم.", "سرو می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_296_fr",
+    "word": "boire",
+    "translations": {
+      "en": "to drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "пить",
+      "es": "beber",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "examples": {
+      "en": ["I drink water.", "We drink together.", "Do you drink coffee?"],
+      "de": ["Ich trinke Wasser.", "Wir trinken zusammen.", "Trinkst du Kaffee?"],
+      "ar": ["أنا أشرب الماء.", "نحن نشرب معاً.", "هل تشرب القهوة؟"],
+      "fr": ["Je bois de l'eau.", "Nous buvons ensemble.", "Bois-tu du café?"],
+      "it": ["Io bevo acqua.", "Noi beviamo insieme.", "Bevi caffè?"],
+      "ru": ["Я пью воду.", "Мы пьем вместе.", "Ты пьешь кофе?"],
+      "es": ["Yo bebo agua.", "Nosotros bebemos juntos.", "¿Bebes café?"],
+      "pl": ["Ja piję wodę.", "My pijemy razem.", "Pijesz kawę?"],
+      "fa": ["من آب می‌نوشم.", "ما با هم می‌نوشیم.", "قهوه می‌نوشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_297_fr",
+    "word": "conduire",
+    "translations": {
+      "en": "to drive",
+      "de": "fahren",
+      "ar": "يقود",
+      "fr": "conduire",
+      "it": "guidare",
+      "ru": "водить (машину)",
+      "es": "conducir, manejar",
+      "pl": "prowadzić (samochód)",
+      "fa": "رانندگی کردن"
+    },
+    "examples": {
+      "en": ["I drive a car.", "We drive together.", "Do you drive?"],
+      "de": ["Ich fahre ein Auto.", "Wir fahren zusammen.", "Fährst du?"],
+      "ar": ["أنا أقود سيارة.", "نحن نقود معاً.", "هل تقود؟"],
+      "fr": ["Je conduis une voiture.", "Nous conduisons ensemble.", "Conduis-tu?"],
+      "it": ["Io guido una macchina.", "Noi guidiamo insieme.", "Guidi?"],
+      "ru": ["Я вожу машину.", "Мы водим вместе.", "Ты водишь?"],
+      "es": ["Yo conduzco un coche.", "Nosotros conducimos juntos.", "¿Conduces?"],
+      "pl": ["Ja prowadzę samochód.", "My prowadzimy razem.", "Prowadzisz?"],
+      "fa": ["من ماشین رانندگی می‌کنم.", "ما با هم رانندگی می‌کنیم.", "رانندگی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_298_fr",
+    "word": "construire",
+    "translations": {
+      "en": "to build",
+      "de": "bauen",
+      "ar": "يبني",
+      "fr": "construire",
+      "it": "costruire",
+      "ru": "строить",
+      "es": "construir",
+      "pl": "budować",
+      "fa": "ساختن"
+    },
+    "examples": {
+      "en": ["I build houses.", "We build together.", "Do you build?"],
+      "de": ["Ich baue Häuser.", "Wir bauen zusammen.", "Baust du?"],
+      "ar": ["أنا أبني منازل.", "نحن نبني معاً.", "هل تبني؟"],
+      "fr": ["Je construis des maisons.", "Nous construisons ensemble.", "Construis-tu?"],
+      "it": ["Io costruisco case.", "Noi costruiamo insieme.", "Costruisci?"],
+      "ru": ["Я строю дома.", "Мы строим вместе.", "Ты строишь?"],
+      "es": ["Yo construyo casas.", "Nosotros construimos juntos.", "¿Construyes?"],
+      "pl": ["Ja buduję domy.", "My budujemy razem.", "Budujesz?"],
+      "fa": ["من خانه می‌سازم.", "ما با هم می‌سازیم.", "می‌سازی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_299_fr",
+    "word": "dessiner",
+    "translations": {
+      "en": "to draw",
+      "de": "zeichnen",
+      "ar": "يرسم",
+      "fr": "dessiner",
+      "it": "disegnare",
+      "ru": "рисовать",
+      "es": "dibujar",
+      "pl": "rysować",
+      "fa": "نقاشی کردن"
+    },
+    "examples": {
+      "en": ["I draw pictures.", "We draw together.", "Do you draw?"],
+      "de": ["Ich zeichne Bilder.", "Wir zeichnen zusammen.", "Zeichnest du?"],
+      "ar": ["أنا أرسم صوراً.", "نحن نرسم معاً.", "هل ترسم؟"],
+      "fr": ["Je dessine des images.", "Nous dessinons ensemble.", "Dessines-tu?"],
+      "it": ["Io disegno immagini.", "Noi disegniamo insieme.", "Disegni?"],
+      "ru": ["Я рисую картинки.", "Мы рисуем вместе.", "Ты рисуешь?"],
+      "es": ["Yo dibujo imágenes.", "Nosotros dibujamos juntos.", "¿Dibujas?"],
+      "pl": ["Ja rysuję obrazy.", "My rysujemy razem.", "Rysujesz?"],
+      "fa": ["من نقاشی می‌کشم.", "ما با هم نقاشی می‌کنیم.", "نقاشی می‌کشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_300_fr",
+    "word": "peindre",
+    "translations": {
+      "en": "to paint",
+      "de": "malen, streichen",
+      "ar": "يرسم (بالألوان)، يدهن",
+      "fr": "peindre",
+      "it": "dipingere",
+      "ru": "рисовать красками, красить",
+      "es": "pintar",
+      "pl": "malować",
+      "fa": "نقاشی کردن، رنگ کردن"
+    },
+    "examples": {
+      "en": ["I paint pictures.", "We paint walls.", "Do you paint?"],
+      "de": ["Ich male Bilder.", "Wir streichen Wände.", "Malst du?"],
+      "ar": ["أنا أرسم لوحات.", "نحن ندهن الجدران.", "هل ترسم؟"],
+      "fr": ["Je peins des tableaux.", "Nous peignons les murs.", "Peins-tu?"],
+      "it": ["Io dipingo quadri.", "Noi dipingiamo muri.", "Dipingi?"],
+      "ru": ["Я рисую картины.", "Мы красим стены.", "Ты рисуешь?"],
+      "es": ["Yo pinto cuadros.", "Nosotros pintamos paredes.", "¿Pintas?"],
+      "pl": ["Ja maluję obrazy.", "My malujemy ściany.", "Malujesz?"],
+      "fa": ["من نقاشی می‌کشم.", "ما دیوارها را رنگ می‌کنیم.", "نقاشی می‌کشی؟"]
+    }
+  }
+]

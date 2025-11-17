@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_221_fr",
+    "word": "partir",
+    "translations": {
+      "en": "to leave, to go away",
+      "de": "weggehen, abfahren",
+      "ar": "يغادر، يرحل",
+      "fr": "partir",
+      "it": "partire, andare via",
+      "ru": "уходить, уезжать",
+      "es": "partir, irse",
+      "pl": "odchodzić, wyjeżdżać",
+      "fa": "رفتن، حرکت کردن"
+    },
+    "examples": {
+      "en": ["I leave now.", "We go away tomorrow.", "Do you leave early?"],
+      "de": ["Ich gehe jetzt.", "Wir fahren morgen ab.", "Gehst du früh?"],
+      "ar": ["أنا أغادر الآن.", "نحن نغادر غداً.", "هل تغادر مبكراً؟"],
+      "fr": ["Je pars maintenant.", "Nous partons demain.", "Pars-tu tôt?"],
+      "it": ["Io parto adesso.", "Noi partiamo domani.", "Parti presto?"],
+      "ru": ["Я ухожу сейчас.", "Мы уезжаем завтра.", "Ты уходишь рано?"],
+      "es": ["Yo me voy ahora.", "Nosotros partimos mañana.", "¿Te vas temprano?"],
+      "pl": ["Ja wychodzę teraz.", "My wyjeżdżamy jutro.", "Wychodzisz wcześnie?"],
+      "fa": ["من الان می‌روم.", "ما فردا حرکت می‌کنیم.", "زود می‌روی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_222_fr",
+    "word": "arriver",
+    "translations": {
+      "en": "to arrive, to come",
+      "de": "ankommen",
+      "ar": "يصل",
+      "fr": "arriver",
+      "it": "arrivare",
+      "ru": "приезжать, прибывать",
+      "es": "llegar",
+      "pl": "przybywać, przyjeżdżać",
+      "fa": "رسیدن"
+    },
+    "examples": {
+      "en": ["I arrive soon.", "We come at noon.", "Do you arrive late?"],
+      "de": ["Ich komme bald an.", "Wir kommen mittags an.", "Kommst du spät an?"],
+      "ar": ["أنا أصل قريباً.", "نحن نصل ظهراً.", "هل تصل متأخراً؟"],
+      "fr": ["J'arrive bientôt.", "Nous arrivons à midi.", "Arrives-tu tard?"],
+      "it": ["Io arrivo presto.", "Noi arriviamo a mezzogiorno.", "Arrivi tardi?"],
+      "ru": ["Я прибуду скоро.", "Мы приезжаем в полдень.", "Ты приезжаешь поздно?"],
+      "es": ["Yo llego pronto.", "Nosotros llegamos al mediodía.", "¿Llegas tarde?"],
+      "pl": ["Ja przyjadę wkrótce.", "My przyjeżdżamy w południe.", "Przyjeżdżasz późno?"],
+      "fa": ["من زود می‌رسم.", "ما ظهر می‌رسیم.", "دیر می‌رسی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_223_fr",
+    "word": "entrer",
+    "translations": {
+      "en": "to enter, to come in",
+      "de": "eintreten, hereinkommen",
+      "ar": "يدخل",
+      "fr": "entrer",
+      "it": "entrare",
+      "ru": "входить",
+      "es": "entrar",
+      "pl": "wchodzić",
+      "fa": "وارد شدن"
+    },
+    "examples": {
+      "en": ["I enter the room.", "We come in here.", "Do you enter first?"],
+      "de": ["Ich betrete den Raum.", "Wir kommen hier herein.", "Trittst du zuerst ein?"],
+      "ar": ["أنا أدخل الغرفة.", "نحن ندخل هنا.", "هل تدخل أولاً؟"],
+      "fr": ["J'entre dans la pièce.", "Nous entrons ici.", "Entres-tu en premier?"],
+      "it": ["Io entro nella stanza.", "Noi entriamo qui.", "Entri per primo?"],
+      "ru": ["Я вхожу в комнату.", "Мы входим сюда.", "Ты входишь первым?"],
+      "es": ["Yo entro en la habitación.", "Nosotros entramos aquí.", "¿Entras primero?"],
+      "pl": ["Ja wchodzę do pokoju.", "My wchodzimy tutaj.", "Wchodzisz pierwszy?"],
+      "fa": ["من وارد اتاق می‌شوم.", "ما اینجا وارد می‌شویم.", "اول وارد می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_224_fr",
+    "word": "sortir",
+    "translations": {
+      "en": "to go out, to exit",
+      "de": "hinausgehen, ausgehen",
+      "ar": "يخرج",
+      "fr": "sortir",
+      "it": "uscire",
+      "ru": "выходить",
+      "es": "salir",
+      "pl": "wychodzić",
+      "fa": "بیرون رفتن"
+    },
+    "examples": {
+      "en": ["I go out tonight.", "We exit here.", "Do you go out often?"],
+      "de": ["Ich gehe heute Abend aus.", "Wir gehen hier hinaus.", "Gehst du oft aus?"],
+      "ar": ["أنا أخرج الليلة.", "نحن نخرج من هنا.", "هل تخرج كثيراً؟"],
+      "fr": ["Je sors ce soir.", "Nous sortons ici.", "Sors-tu souvent?"],
+      "it": ["Io esco stasera.", "Noi usciamo qui.", "Esci spesso?"],
+      "ru": ["Я выхожу сегодня вечером.", "Мы выходим здесь.", "Ты часто выходишь?"],
+      "es": ["Yo salgo esta noche.", "Nosotros salimos aquí.", "¿Sales a menudo?"],
+      "pl": ["Ja wychodzę wieczorem.", "My wychodzimy tutaj.", "Wychodzisz często?"],
+      "fa": ["من امشب بیرون می‌روم.", "ما اینجا بیرون می‌رویم.", "اغلب بیرون می‌روی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_225_fr",
+    "word": "monter",
+    "translations": {
+      "en": "to go up, to climb",
+      "de": "hochgehen, steigen",
+      "ar": "يصعد",
+      "fr": "monter",
+      "it": "salire",
+      "ru": "подниматься",
+      "es": "subir",
+      "pl": "wchodzić, wspiąć się",
+      "fa": "بالا رفتن"
+    },
+    "examples": {
+      "en": ["I go upstairs.", "We climb stairs.", "Do you go up?"],
+      "de": ["Ich gehe nach oben.", "Wir steigen Treppen.", "Gehst du hoch?"],
+      "ar": ["أنا أصعد الأعلى.", "نحن نصعد الدرج.", "هل تصعد؟"],
+      "fr": ["Je monte en haut.", "Nous montons les escaliers.", "Montes-tu?"],
+      "it": ["Io salgo su.", "Noi saliamo le scale.", "Sali?"],
+      "ru": ["Я поднимаюсь наверх.", "Мы поднимаемся по лестнице.", "Ты поднимаешься?"],
+      "es": ["Yo subo arriba.", "Nosotros subimos escaleras.", "¿Subes?"],
+      "pl": ["Ja idę na górę.", "My wchodzimy po schodach.", "Wchodzisz?"],
+      "fa": ["من بالا می‌روم.", "ما از پله‌ها بالا می‌رویم.", "بالا می‌روی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_226_fr",
+    "word": "descendre",
+    "translations": {
+      "en": "to go down, to descend",
+      "de": "hinuntergehen, heruntersteigen",
+      "ar": "ينزل",
+      "fr": "descendre",
+      "it": "scendere",
+      "ru": "спускаться",
+      "es": "bajar, descender",
+      "pl": "schodzić",
+      "fa": "پایین رفتن"
+    },
+    "examples": {
+      "en": ["I go downstairs.", "We descend stairs.", "Do you go down?"],
+      "de": ["Ich gehe nach unten.", "Wir steigen Treppen hinunter.", "Gehst du runter?"],
+      "ar": ["أنا أنزل للأسفل.", "نحن ننزل الدرج.", "هل تنزل؟"],
+      "fr": ["Je descends en bas.", "Nous descendons les escaliers.", "Descends-tu?"],
+      "it": ["Io scendo giù.", "Noi scendiamo le scale.", "Scendi?"],
+      "ru": ["Я спускаюсь вниз.", "Мы спускаемся по лестнице.", "Ты спускаешься?"],
+      "es": ["Yo bajo abajo.", "Nosotros bajamos escaleras.", "¿Bajas?"],
+      "pl": ["Ja schodzę na dół.", "My schodzimy po schodach.", "Schodzisz?"],
+      "fa": ["من پایین می‌روم.", "ما از پله‌ها پایین می‌آییم.", "پایین می‌آیی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_227_fr",
+    "word": "attendre",
+    "translations": {
+      "en": "to wait",
+      "de": "warten",
+      "ar": "ينتظر",
+      "fr": "attendre",
+      "it": "aspettare",
+      "ru": "ждать",
+      "es": "esperar",
+      "pl": "czekać",
+      "fa": "منتظر ماندن"
+    },
+    "examples": {
+      "en": ["I wait here.", "We wait for you.", "Do you wait long?"],
+      "de": ["Ich warte hier.", "Wir warten auf dich.", "Wartest du lange?"],
+      "ar": ["أنا أنتظر هنا.", "نحن ننتظرك.", "هل تنتظر طويلاً؟"],
+      "fr": ["J'attends ici.", "Nous t'attendons.", "Attends-tu longtemps?"],
+      "it": ["Io aspetto qui.", "Noi ti aspettiamo.", "Aspetti a lungo?"],
+      "ru": ["Я жду здесь.", "Мы ждем тебя.", "Ты ждешь долго?"],
+      "es": ["Yo espero aquí.", "Nosotros te esperamos.", "¿Esperas mucho?"],
+      "pl": ["Ja czekam tutaj.", "My czekamy na ciebie.", "Czekasz długo?"],
+      "fa": ["من اینجا منتظرم.", "ما منتظر تو هستیم.", "زیاد منتظر می‌مانی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_228_fr",
+    "word": "chercher",
+    "translations": {
+      "en": "to look for, to search",
+      "de": "suchen",
+      "ar": "يبحث",
+      "fr": "chercher",
+      "it": "cercare",
+      "ru": "искать",
+      "es": "buscar",
+      "pl": "szukać",
+      "fa": "جستجو کردن"
+    },
+    "examples": {
+      "en": ["I look for my keys.", "We search together.", "Do you search here?"],
+      "de": ["Ich suche meine Schlüssel.", "Wir suchen zusammen.", "Suchst du hier?"],
+      "ar": ["أنا أبحث عن مفاتيحي.", "نحن نبحث معاً.", "هل تبحث هنا؟"],
+      "fr": ["Je cherche mes clés.", "Nous cherchons ensemble.", "Cherches-tu ici?"],
+      "it": ["Io cerco le mie chiavi.", "Noi cerchiamo insieme.", "Cerchi qui?"],
+      "ru": ["Я ищу ключи.", "Мы ищем вместе.", "Ты ищешь здесь?"],
+      "es": ["Yo busco mis llaves.", "Nosotros buscamos juntos.", "¿Buscas aquí?"],
+      "pl": ["Ja szukam kluczy.", "My szukamy razem.", "Szukasz tutaj?"],
+      "fa": ["من کلیدهایم را می‌گردم.", "ما با هم جستجو می‌کنیم.", "اینجا جستجو می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_229_fr",
+    "word": "trouver",
+    "translations": {
+      "en": "to find",
+      "de": "finden",
+      "ar": "يجد",
+      "fr": "trouver",
+      "it": "trovare",
+      "ru": "находить",
+      "es": "encontrar",
+      "pl": "znajdować",
+      "fa": "پیدا کردن"
+    },
+    "examples": {
+      "en": ["I find it.", "We find solutions.", "Do you find easily?"],
+      "de": ["Ich finde es.", "Wir finden Lösungen.", "Findest du leicht?"],
+      "ar": ["أنا أجده.", "نحن نجد الحلول.", "هل تجد بسهولة؟"],
+      "fr": ["Je le trouve.", "Nous trouvons des solutions.", "Trouves-tu facilement?"],
+      "it": ["Io lo trovo.", "Noi troviamo soluzioni.", "Trovi facilmente?"],
+      "ru": ["Я нахожу это.", "Мы находим решения.", "Ты находишь легко?"],
+      "es": ["Yo lo encuentro.", "Nosotros encontramos soluciones.", "¿Encuentras fácilmente?"],
+      "pl": ["Ja to znajduję.", "My znajdujemy rozwiązania.", "Znajdujesz łatwo?"],
+      "fa": ["من آن را پیدا می‌کنم.", "ما راه‌حل‌ها پیدا می‌کنیم.", "راحت پیدا می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_230_fr",
+    "word": "perdre",
+    "translations": {
+      "en": "to lose",
+      "de": "verlieren",
+      "ar": "يخسر، يفقد",
+      "fr": "perdre",
+      "it": "perdere",
+      "ru": "терять, проигрывать",
+      "es": "perder",
+      "pl": "tracić, przegrywać",
+      "fa": "گم کردن، باختن"
+    },
+    "examples": {
+      "en": ["I lose my keys.", "We lose the game.", "Do you lose often?"],
+      "de": ["Ich verliere meine Schlüssel.", "Wir verlieren das Spiel.", "Verlierst du oft?"],
+      "ar": ["أنا أفقد مفاتيحي.", "نحن نخسر اللعبة.", "هل تخسر كثيراً؟"],
+      "fr": ["Je perds mes clés.", "Nous perdons le jeu.", "Perds-tu souvent?"],
+      "it": ["Io perdo le mie chiavi.", "Noi perdiamo la partita.", "Perdi spesso?"],
+      "ru": ["Я теряю ключи.", "Мы проигрываем игру.", "Ты часто проигрываешь?"],
+      "es": ["Yo pierdo mis llaves.", "Nosotros perdemos el juego.", "¿Pierdes a menudo?"],
+      "pl": ["Ja tracę klucze.", "My przegrywamy grę.", "Tracisz często?"],
+      "fa": ["من کلیدهایم را گم می‌کنم.", "ما بازی را می‌بازیم.", "اغلب می‌بازی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_231_fr",
+    "word": "gagner",
+    "translations": {
+      "en": "to win, to earn",
+      "de": "gewinnen, verdienen",
+      "ar": "يفوز، يكسب",
+      "fr": "gagner",
+      "it": "vincere, guadagnare",
+      "ru": "выигрывать, зарабатывать",
+      "es": "ganar",
+      "pl": "wygrywać, zarabiać",
+      "fa": "برنده شدن، درآمد داشتن"
+    },
+    "examples": {
+      "en": ["I win the game.", "We earn money.", "Do you win often?"],
+      "de": ["Ich gewinne das Spiel.", "Wir verdienen Geld.", "Gewinnst du oft?"],
+      "ar": ["أنا أفوز باللعبة.", "نحن نكسب المال.", "هل تفوز كثيراً؟"],
+      "fr": ["Je gagne le jeu.", "Nous gagnons de l'argent.", "Gagnes-tu souvent?"],
+      "it": ["Io vinco la partita.", "Noi guadagniamo soldi.", "Vinci spesso?"],
+      "ru": ["Я выигрываю игру.", "Мы зарабатываем деньги.", "Ты часто выигрываешь?"],
+      "es": ["Yo gano el juego.", "Nosotros ganamos dinero.", "¿Ganas a menudo?"],
+      "pl": ["Ja wygrywam grę.", "My zarabiamy pieniądze.", "Wygrywasz często?"],
+      "fa": ["من بازی را می‌برم.", "ما پول درمی‌آوریم.", "اغلب می‌بری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_232_fr",
+    "word": "jouer",
+    "translations": {
+      "en": "to play",
+      "de": "spielen",
+      "ar": "يلعب",
+      "fr": "jouer",
+      "it": "giocare",
+      "ru": "играть",
+      "es": "jugar",
+      "pl": "grać, bawić się",
+      "fa": "بازی کردن"
+    },
+    "examples": {
+      "en": ["I play football.", "We play together.", "Do you play music?"],
+      "de": ["Ich spiele Fußball.", "Wir spielen zusammen.", "Spielst du Musik?"],
+      "ar": ["أنا ألعب كرة القدم.", "نحن نلعب معاً.", "هل تعزف الموسيقى؟"],
+      "fr": ["Je joue au football.", "Nous jouons ensemble.", "Joues-tu de la musique?"],
+      "it": ["Io gioco a calcio.", "Noi giochiamo insieme.", "Suoni musica?"],
+      "ru": ["Я играю в футбол.", "Мы играем вместе.", "Ты играешь музыку?"],
+      "es": ["Yo juego al fútbol.", "Nosotros jugamos juntos.", "¿Tocas música?"],
+      "pl": ["Ja gram w piłkę nożną.", "My gramy razem.", "Grasz muzykę?"],
+      "fa": ["من فوتبال بازی می‌کنم.", "ما با هم بازی می‌کنیم.", "موسیقی می‌نوازی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_233_fr",
+    "word": "acheter",
+    "translations": {
+      "en": "to buy",
+      "de": "kaufen",
+      "ar": "يشتري",
+      "fr": "acheter",
+      "it": "comprare",
+      "ru": "покупать",
+      "es": "comprar",
+      "pl": "kupować",
+      "fa": "خریدن"
+    },
+    "examples": {
+      "en": ["I buy bread.", "We buy clothes.", "Do you buy here?"],
+      "de": ["Ich kaufe Brot.", "Wir kaufen Kleidung.", "Kaufst du hier?"],
+      "ar": ["أنا أشتري الخبز.", "نحن نشتري الملابس.", "هل تشتري هنا؟"],
+      "fr": ["J'achète du pain.", "Nous achetons des vêtements.", "Achètes-tu ici?"],
+      "it": ["Io compro pane.", "Noi compriamo vestiti.", "Compri qui?"],
+      "ru": ["Я покупаю хлеб.", "Мы покупаем одежду.", "Ты покупаешь здесь?"],
+      "es": ["Yo compro pan.", "Nosotros compramos ropa.", "¿Compras aquí?"],
+      "pl": ["Ja kupuję chleb.", "My kupujemy ubrania.", "Kupujesz tutaj?"],
+      "fa": ["من نان می‌خرم.", "ما لباس می‌خریم.", "اینجا خرید می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_234_fr",
+    "word": "vendre",
+    "translations": {
+      "en": "to sell",
+      "de": "verkaufen",
+      "ar": "يبيع",
+      "fr": "vendre",
+      "it": "vendere",
+      "ru": "продавать",
+      "es": "vender",
+      "pl": "sprzedawać",
+      "fa": "فروختن"
+    },
+    "examples": {
+      "en": ["I sell cars.", "We sell here.", "Do you sell online?"],
+      "de": ["Ich verkaufe Autos.", "Wir verkaufen hier.", "Verkaufst du online?"],
+      "ar": ["أنا أبيع السيارات.", "نحن نبيع هنا.", "هل تبيع عبر الإنترنت؟"],
+      "fr": ["Je vends des voitures.", "Nous vendons ici.", "Vends-tu en ligne?"],
+      "it": ["Io vendo macchine.", "Noi vendiamo qui.", "Vendi online?"],
+      "ru": ["Я продаю машины.", "Мы продаем здесь.", "Ты продаешь онлайн?"],
+      "es": ["Yo vendo coches.", "Nosotros vendemos aquí.", "¿Vendes en línea?"],
+      "pl": ["Ja sprzedaję samochody.", "My sprzedajemy tutaj.", "Sprzedajesz online?"],
+      "fa": ["من ماشین می‌فروشم.", "ما اینجا می‌فروشیم.", "آنلاین می‌فروشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_235_fr",
+    "word": "payer",
+    "translations": {
+      "en": "to pay",
+      "de": "bezahlen",
+      "ar": "يدفع",
+      "fr": "payer",
+      "it": "pagare",
+      "ru": "платить",
+      "es": "pagar",
+      "pl": "płacić",
+      "fa": "پرداخت کردن"
+    },
+    "examples": {
+      "en": ["I pay cash.", "We pay here.", "Do you pay by card?"],
+      "de": ["Ich zahle bar.", "Wir zahlen hier.", "Zahlst du mit Karte?"],
+      "ar": ["أنا أدفع نقداً.", "نحن ندفع هنا.", "هل تدفع بالبطاقة؟"],
+      "fr": ["Je paie en liquide.", "Nous payons ici.", "Paies-tu par carte?"],
+      "it": ["Io pago in contanti.", "Noi paghiamo qui.", "Paghi con carta?"],
+      "ru": ["Я плачу наличными.", "Мы платим здесь.", "Ты платишь картой?"],
+      "es": ["Yo pago en efectivo.", "Nosotros pagamos aquí.", "¿Pagas con tarjeta?"],
+      "pl": ["Ja płacę gotówką.", "My płacimy tutaj.", "Płacisz kartą?"],
+      "fa": ["من نقدی پرداخت می‌کنم.", "ما اینجا پرداخت می‌کنیم.", "با کارت پرداخت می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_236_fr",
+    "word": "coûter",
+    "translations": {
+      "en": "to cost",
+      "de": "kosten",
+      "ar": "يكلّف",
+      "fr": "coûter",
+      "it": "costare",
+      "ru": "стоить",
+      "es": "costar",
+      "pl": "kosztować",
+      "fa": "قیمت داشتن"
+    },
+    "examples": {
+      "en": ["It costs ten euros.", "How much does it cost?", "This costs a lot."],
+      "de": ["Es kostet zehn Euro.", "Wie viel kostet es?", "Das kostet viel."],
+      "ar": ["يكلّف عشرة يورو.", "كم يكلّف؟", "هذا يكلّف كثيراً."],
+      "fr": ["Ça coûte dix euros.", "Combien ça coûte?", "Ça coûte cher."],
+      "it": ["Costa dieci euro.", "Quanto costa?", "Questo costa molto."],
+      "ru": ["Это стоит десять евро.", "Сколько это стоит?", "Это дорого стоит."],
+      "es": ["Cuesta diez euros.", "¿Cuánto cuesta?", "Esto cuesta mucho."],
+      "pl": ["To kosztuje dziesięć euro.", "Ile to kosztuje?", "To kosztuje dużo."],
+      "fa": ["ده یورو قیمت دارد.", "چقدر قیمت دارد؟", "این زیاد قیمت دارد."]
+    }
+  },
+  {
+    "id": "universal_a1_237_fr",
+    "word": "demander",
+    "translations": {
+      "en": "to ask",
+      "de": "fragen",
+      "ar": "يسأل",
+      "fr": "demander",
+      "it": "chiedere",
+      "ru": "спрашивать, просить",
+      "es": "preguntar, pedir",
+      "pl": "pytać, prosić",
+      "fa": "سؤال کردن، درخواست کردن"
+    },
+    "examples": {
+      "en": ["I ask questions.", "We ask for help.", "Do you ask?"],
+      "de": ["Ich stelle Fragen.", "Wir bitten um Hilfe.", "Fragst du?"],
+      "ar": ["أنا أسأل أسئلة.", "نحن نطلب المساعدة.", "هل تسأل؟"],
+      "fr": ["Je pose des questions.", "Nous demandons de l'aide.", "Demandes-tu?"],
+      "it": ["Io faccio domande.", "Noi chiediamo aiuto.", "Chiedi?"],
+      "ru": ["Я задаю вопросы.", "Мы просим помощь.", "Ты спрашиваешь?"],
+      "es": ["Yo hago preguntas.", "Nosotros pedimos ayuda.", "¿Preguntas?"],
+      "pl": ["Ja zadaję pytania.", "My prosimy o pomoc.", "Pytasz?"],
+      "fa": ["من سؤال می‌کنم.", "ما کمک می‌خواهیم.", "سؤال می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_238_fr",
+    "word": "répondre",
+    "translations": {
+      "en": "to answer, to reply",
+      "de": "antworten",
+      "ar": "يجيب",
+      "fr": "répondre",
+      "it": "rispondere",
+      "ru": "отвечать",
+      "es": "responder, contestar",
+      "pl": "odpowiadać",
+      "fa": "جواب دادن، پاسخ دادن"
+    },
+    "examples": {
+      "en": ["I answer questions.", "We reply quickly.", "Do you answer?"],
+      "de": ["Ich antworte auf Fragen.", "Wir antworten schnell.", "Antwortest du?"],
+      "ar": ["أنا أجيب على الأسئلة.", "نحن نجيب بسرعة.", "هل تجيب؟"],
+      "fr": ["Je réponds aux questions.", "Nous répondons vite.", "Réponds-tu?"],
+      "it": ["Io rispondo alle domande.", "Noi rispondiamo velocemente.", "Rispondi?"],
+      "ru": ["Я отвечаю на вопросы.", "Мы отвечаем быстро.", "Ты отвечаешь?"],
+      "es": ["Yo respondo preguntas.", "Nosotros respondemos rápido.", "¿Respondes?"],
+      "pl": ["Ja odpowiadam na pytania.", "My odpowiadamy szybko.", "Odpowiadasz?"],
+      "fa": ["من به سؤالات جواب می‌دهم.", "ما سریع پاسخ می‌دهیم.", "جواب می‌دهی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_239_fr",
+    "word": "aider",
+    "translations": {
+      "en": "to help",
+      "de": "helfen",
+      "ar": "يساعد",
+      "fr": "aider",
+      "it": "aiutare",
+      "ru": "помогать",
+      "es": "ayudar",
+      "pl": "pomagać",
+      "fa": "کمک کردن"
+    },
+    "examples": {
+      "en": ["I help you.", "We help each other.", "Do you help?"],
+      "de": ["Ich helfe dir.", "Wir helfen einander.", "Hilfst du?"],
+      "ar": ["أنا أساعدك.", "نحن نساعد بعضنا.", "هل تساعد؟"],
+      "fr": ["Je t'aide.", "Nous nous aidons.", "Aides-tu?"],
+      "it": ["Io ti aiuto.", "Noi ci aiutiamo.", "Aiuti?"],
+      "ru": ["Я помогаю тебе.", "Мы помогаем друг другу.", "Ты помогаешь?"],
+      "es": ["Yo te ayudo.", "Nosotros nos ayudamos.", "¿Ayudas?"],
+      "pl": ["Ja ci pomagam.", "My sobie pomagamy.", "Pomagasz?"],
+      "fa": ["من به تو کمک می‌کنم.", "ما به هم کمک می‌کنیم.", "کمک می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_240_fr",
+    "word": "montrer",
+    "translations": {
+      "en": "to show",
+      "de": "zeigen",
+      "ar": "يُظهر، يُري",
+      "fr": "montrer",
+      "it": "mostrare",
+      "ru": "показывать",
+      "es": "mostrar, enseñar",
+      "pl": "pokazywać",
+      "fa": "نشان دادن"
+    },
+    "examples": {
+      "en": ["I show you.", "We show photos.", "Do you show?"],
+      "de": ["Ich zeige dir.", "Wir zeigen Fotos.", "Zeigst du?"],
+      "ar": ["أنا أُريك.", "نحن نُظهر الصور.", "هل تُظهر؟"],
+      "fr": ["Je te montre.", "Nous montrons des photos.", "Montres-tu?"],
+      "it": ["Io ti mostro.", "Noi mostriamo foto.", "Mostri?"],
+      "ru": ["Я показываю тебе.", "Мы показываем фотографии.", "Ты показываешь?"],
+      "es": ["Yo te muestro.", "Nosotros mostramos fotos.", "¿Muestras?"],
+      "pl": ["Ja ci pokazuję.", "My pokazujemy zdjęcia.", "Pokazujesz?"],
+      "fa": ["من به تو نشان می‌دهم.", "ما عکس‌ها را نشان می‌دهیم.", "نشان می‌دهی؟"]
+    }
+  }
+]

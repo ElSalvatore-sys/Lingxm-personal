@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_401_fr",
+    "word": "intelligent",
+    "translations": {
+      "en": "intelligent",
+      "de": "intelligent",
+      "ar": "ذكي",
+      "fr": "intelligent",
+      "it": "intelligente",
+      "ru": "умный",
+      "es": "inteligente",
+      "pl": "inteligentny",
+      "fa": "باهوش"
+    },
+    "examples": {
+      "en": ["She is very intelligent.", "He is an intelligent student.", "They are intelligent people."],
+      "de": ["Sie ist sehr intelligent.", "Er ist ein intelligenter Schüler.", "Sie sind intelligente Leute."],
+      "ar": ["هي ذكية جداً.", "هو طالب ذكي.", "هم أشخاص أذكياء."],
+      "fr": ["Elle est très intelligente.", "Il est un étudiant intelligent.", "Ils sont des gens intelligents."],
+      "it": ["Lei è molto intelligente.", "Lui è uno studente intelligente.", "Sono persone intelligenti."],
+      "ru": ["Она очень умная.", "Он умный студент.", "Они умные люди."],
+      "es": ["Ella es muy inteligente.", "Él es un estudiante inteligente.", "Son personas inteligentes."],
+      "pl": ["Ona jest bardzo inteligentna.", "On jest inteligentnym studentem.", "Oni są inteligentnymi ludźmi."],
+      "fa": ["او خیلی باهوش است.", "او یک دانش‌آموز باهوش است.", "آنها افراد باهوشی هستند."]
+    }
+  },
+  {
+    "id": "universal_a1_402_fr",
+    "word": "gentil",
+    "translations": {
+      "en": "kind",
+      "de": "nett",
+      "ar": "لطيف",
+      "fr": "gentil",
+      "it": "gentile",
+      "ru": "добрый",
+      "es": "amable",
+      "pl": "miły",
+      "fa": "مهربان"
+    },
+    "examples": {
+      "en": ["He is very kind.", "She is a kind person.", "They are kind to me."],
+      "de": ["Er ist sehr nett.", "Sie ist eine nette Person.", "Sie sind nett zu mir."],
+      "ar": ["هو لطيف جداً.", "هي شخص لطيف.", "هم لطيفون معي."],
+      "fr": ["Il est très gentil.", "Elle est une personne gentille.", "Ils sont gentils avec moi."],
+      "it": ["Lui è molto gentile.", "Lei è una persona gentile.", "Sono gentili con me."],
+      "ru": ["Он очень добрый.", "Она добрый человек.", "Они добры ко мне."],
+      "es": ["Él es muy amable.", "Ella es una persona amable.", "Son amables conmigo."],
+      "pl": ["On jest bardzo miły.", "Ona jest miłą osobą.", "Są dla mnie mili."],
+      "fa": ["او خیلی مهربان است.", "او فرد مهربانی است.", "آنها با من مهربان هستند."]
+    }
+  },
+  {
+    "id": "universal_a1_403_fr",
+    "word": "méchant",
+    "translations": {
+      "en": "mean",
+      "de": "böse",
+      "ar": "شرير",
+      "fr": "méchant",
+      "it": "cattivo",
+      "ru": "злой",
+      "es": "malo",
+      "pl": "zły",
+      "fa": "بدجنس"
+    },
+    "examples": {
+      "en": ["He is not mean.", "The dog is not mean.", "Don't be mean!"],
+      "de": ["Er ist nicht böse.", "Der Hund ist nicht böse.", "Sei nicht böse!"],
+      "ar": ["هو ليس شريراً.", "الكلب ليس شريراً.", "لا تكن شريراً!"],
+      "fr": ["Il n'est pas méchant.", "Le chien n'est pas méchant.", "Ne sois pas méchant!"],
+      "it": ["Lui non è cattivo.", "Il cane non è cattivo.", "Non essere cattivo!"],
+      "ru": ["Он не злой.", "Собака не злая.", "Не будь злым!"],
+      "es": ["Él no es malo.", "El perro no es malo.", "¡No seas malo!"],
+      "pl": ["On nie jest zły.", "Pies nie jest zły.", "Nie bądź zły!"],
+      "fa": ["او بدجنس نیست.", "سگ بدجنس نیست.", "بدجنس نباش!"]
+    }
+  },
+  {
+    "id": "universal_a1_404_fr",
+    "word": "content",
+    "translations": {
+      "en": "happy",
+      "de": "froh",
+      "ar": "سعيد",
+      "fr": "content",
+      "it": "contento",
+      "ru": "довольный",
+      "es": "contento",
+      "pl": "zadowolony",
+      "fa": "خوشحال"
+    },
+    "examples": {
+      "en": ["I am happy today.", "She is happy with the gift.", "They are happy here."],
+      "de": ["Ich bin heute froh.", "Sie ist froh über das Geschenk.", "Sie sind hier froh."],
+      "ar": ["أنا سعيد اليوم.", "هي سعيدة بالهدية.", "هم سعداء هنا."],
+      "fr": ["Je suis content aujourd'hui.", "Elle est contente du cadeau.", "Ils sont contents ici."],
+      "it": ["Sono contento oggi.", "Lei è contenta del regalo.", "Sono contenti qui."],
+      "ru": ["Я доволен сегодня.", "Она довольна подарком.", "Они довольны здесь."],
+      "es": ["Estoy contento hoy.", "Ella está contenta con el regalo.", "Están contentos aquí."],
+      "pl": ["Jestem zadowolony dzisiaj.", "Ona jest zadowolona z prezentu.", "Są zadowoleni tutaj."],
+      "fa": ["امروز خوشحالم.", "او از هدیه خوشحال است.", "آنها اینجا خوشحال هستند."]
+    }
+  },
+  {
+    "id": "universal_a1_405_fr",
+    "word": "triste",
+    "translations": {
+      "en": "sad",
+      "de": "traurig",
+      "ar": "حزين",
+      "fr": "triste",
+      "it": "triste",
+      "ru": "грустный",
+      "es": "triste",
+      "pl": "smutny",
+      "fa": "غمگین"
+    },
+    "examples": {
+      "en": ["I am sad today.", "She looks sad.", "Why are you sad?"],
+      "de": ["Ich bin heute traurig.", "Sie sieht traurig aus.", "Warum bist du traurig?"],
+      "ar": ["أنا حزين اليوم.", "تبدو حزينة.", "لماذا أنت حزين؟"],
+      "fr": ["Je suis triste aujourd'hui.", "Elle a l'air triste.", "Pourquoi es-tu triste?"],
+      "it": ["Sono triste oggi.", "Lei sembra triste.", "Perché sei triste?"],
+      "ru": ["Я грустный сегодня.", "Она выглядит грустной.", "Почему ты грустный?"],
+      "es": ["Estoy triste hoy.", "Ella parece triste.", "¿Por qué estás triste?"],
+      "pl": ["Jestem smutny dzisiaj.", "Ona wygląda na smutną.", "Dlaczego jesteś smutny?"],
+      "fa": ["امروز غمگینم.", "او غمگین به نظر می‌رسد.", "چرا غمگینی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_406_fr",
+    "word": "fatigué",
+    "translations": {
+      "en": "tired",
+      "de": "müde",
+      "ar": "متعب",
+      "fr": "fatigué",
+      "it": "stanco",
+      "ru": "уставший",
+      "es": "cansado",
+      "pl": "zmęczony",
+      "fa": "خسته"
+    },
+    "examples": {
+      "en": ["I am very tired.", "He is tired today.", "Are you tired?"],
+      "de": ["Ich bin sehr müde.", "Er ist heute müde.", "Bist du müde?"],
+      "ar": ["أنا متعب جداً.", "هو متعب اليوم.", "هل أنت متعب؟"],
+      "fr": ["Je suis très fatigué.", "Il est fatigué aujourd'hui.", "Es-tu fatigué?"],
+      "it": ["Sono molto stanco.", "Lui è stanco oggi.", "Sei stanco?"],
+      "ru": ["Я очень уставший.", "Он уставший сегодня.", "Ты уставший?"],
+      "es": ["Estoy muy cansado.", "Él está cansado hoy.", "¿Estás cansado?"],
+      "pl": ["Jestem bardzo zmęczony.", "On jest zmęczony dzisiaj.", "Jesteś zmęczony?"],
+      "fa": ["خیلی خسته‌ام.", "او امروز خسته است.", "خسته هستی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_407_fr",
+    "word": "malade",
+    "translations": {
+      "en": "sick",
+      "de": "krank",
+      "ar": "مريض",
+      "fr": "malade",
+      "it": "malato",
+      "ru": "больной",
+      "es": "enfermo",
+      "pl": "chory",
+      "fa": "بیمار"
+    },
+    "examples": {
+      "en": ["I am sick today.", "She is sick in bed.", "He feels sick."],
+      "de": ["Ich bin heute krank.", "Sie ist krank im Bett.", "Er fühlt sich krank."],
+      "ar": ["أنا مريض اليوم.", "هي مريضة في السرير.", "يشعر بالمرض."],
+      "fr": ["Je suis malade aujourd'hui.", "Elle est malade au lit.", "Il se sent malade."],
+      "it": ["Sono malato oggi.", "Lei è malata a letto.", "Si sente malato."],
+      "ru": ["Я больной сегодня.", "Она больна в постели.", "Он чувствует себя больным."],
+      "es": ["Estoy enfermo hoy.", "Ella está enferma en la cama.", "Se siente enfermo."],
+      "pl": ["Jestem chory dzisiaj.", "Ona jest chora w łóżku.", "On czuje się chory."],
+      "fa": ["امروز بیمارم.", "او در رختخواب بیمار است.", "او احساس بیماری می‌کند."]
+    }
+  },
+  {
+    "id": "universal_a1_408_fr",
+    "word": "plein",
+    "translations": {
+      "en": "full",
+      "de": "voll",
+      "ar": "ممتلئ",
+      "fr": "plein",
+      "it": "pieno",
+      "ru": "полный",
+      "es": "lleno",
+      "pl": "pełny",
+      "fa": "پر"
+    },
+    "examples": {
+      "en": ["The glass is full.", "The room is full.", "I am full."],
+      "de": ["Das Glas ist voll.", "Das Zimmer ist voll.", "Ich bin satt."],
+      "ar": ["الكأس ممتلئ.", "الغرفة ممتلئة.", "أنا شبعان."],
+      "fr": ["Le verre est plein.", "La chambre est pleine.", "Je suis plein."],
+      "it": ["Il bicchiere è pieno.", "La stanza è piena.", "Sono pieno."],
+      "ru": ["Стакан полный.", "Комната полная.", "Я сытый."],
+      "es": ["El vaso está lleno.", "La habitación está llena.", "Estoy lleno."],
+      "pl": ["Szklanka jest pełna.", "Pokój jest pełny.", "Jestem pełny."],
+      "fa": ["لیوان پر است.", "اتاق پر است.", "سیرم."]
+    }
+  },
+  {
+    "id": "universal_a1_409_fr",
+    "word": "vide",
+    "translations": {
+      "en": "empty",
+      "de": "leer",
+      "ar": "فارغ",
+      "fr": "vide",
+      "it": "vuoto",
+      "ru": "пустой",
+      "es": "vacío",
+      "pl": "pusty",
+      "fa": "خالی"
+    },
+    "examples": {
+      "en": ["The room is empty.", "The box is empty.", "My cup is empty."],
+      "de": ["Das Zimmer ist leer.", "Die Schachtel ist leer.", "Meine Tasse ist leer."],
+      "ar": ["الغرفة فارغة.", "الصندوق فارغ.", "كوبي فارغ."],
+      "fr": ["La chambre est vide.", "La boîte est vide.", "Ma tasse est vide."],
+      "it": ["La stanza è vuota.", "La scatola è vuota.", "La mia tazza è vuota."],
+      "ru": ["Комната пустая.", "Коробка пустая.", "Моя чашка пустая."],
+      "es": ["La habitación está vacía.", "La caja está vacía.", "Mi taza está vacía."],
+      "pl": ["Pokój jest pusty.", "Pudełko jest puste.", "Moja filiżanka jest pusta."],
+      "fa": ["اتاق خالی است.", "جعبه خالی است.", "فنجان من خالی است."]
+    }
+  },
+  {
+    "id": "universal_a1_410_fr",
+    "word": "occupé",
+    "translations": {
+      "en": "busy",
+      "de": "beschäftigt",
+      "ar": "مشغول",
+      "fr": "occupé",
+      "it": "occupato",
+      "ru": "занятой",
+      "es": "ocupado",
+      "pl": "zajęty",
+      "fa": "مشغول"
+    },
+    "examples": {
+      "en": ["I am busy now.", "She is very busy.", "Are you busy?"],
+      "de": ["Ich bin jetzt beschäftigt.", "Sie ist sehr beschäftigt.", "Bist du beschäftigt?"],
+      "ar": ["أنا مشغول الآن.", "هي مشغولة جداً.", "هل أنت مشغول؟"],
+      "fr": ["Je suis occupé maintenant.", "Elle est très occupée.", "Es-tu occupé?"],
+      "it": ["Sono occupato ora.", "Lei è molto occupata.", "Sei occupato?"],
+      "ru": ["Я занят сейчас.", "Она очень занята.", "Ты занят?"],
+      "es": ["Estoy ocupado ahora.", "Ella está muy ocupada.", "¿Estás ocupado?"],
+      "pl": ["Jestem zajęty teraz.", "Ona jest bardzo zajęta.", "Jesteś zajęty?"],
+      "fa": ["الان مشغولم.", "او خیلی مشغول است.", "مشغولی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_411_fr",
+    "word": "libre",
+    "translations": {
+      "en": "free",
+      "de": "frei",
+      "ar": "حر",
+      "fr": "libre",
+      "it": "libero",
+      "ru": "свободный",
+      "es": "libre",
+      "pl": "wolny",
+      "fa": "آزاد"
+    },
+    "examples": {
+      "en": ["I am free today.", "The seat is free.", "Are you free tomorrow?"],
+      "de": ["Ich bin heute frei.", "Der Platz ist frei.", "Bist du morgen frei?"],
+      "ar": ["أنا حر اليوم.", "المقعد فارغ.", "هل أنت حر غداً؟"],
+      "fr": ["Je suis libre aujourd'hui.", "La place est libre.", "Es-tu libre demain?"],
+      "it": ["Sono libero oggi.", "Il posto è libero.", "Sei libero domani?"],
+      "ru": ["Я свободен сегодня.", "Место свободное.", "Ты свободен завтра?"],
+      "es": ["Estoy libre hoy.", "El asiento está libre.", "¿Estás libre mañana?"],
+      "pl": ["Jestem wolny dzisiaj.", "Miejsce jest wolne.", "Jesteś wolny jutro?"],
+      "fa": ["امروز آزادم.", "صندلی خالی است.", "فردا آزادی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_412_fr",
+    "word": "prêt",
+    "translations": {
+      "en": "ready",
+      "de": "bereit",
+      "ar": "جاهز",
+      "fr": "prêt",
+      "it": "pronto",
+      "ru": "готовый",
+      "es": "listo",
+      "pl": "gotowy",
+      "fa": "آماده"
+    },
+    "examples": {
+      "en": ["I am ready.", "The food is ready.", "Are you ready?"],
+      "de": ["Ich bin bereit.", "Das Essen ist fertig.", "Bist du bereit?"],
+      "ar": ["أنا جاهز.", "الطعام جاهز.", "هل أنت جاهز؟"],
+      "fr": ["Je suis prêt.", "La nourriture est prête.", "Es-tu prêt?"],
+      "it": ["Sono pronto.", "Il cibo è pronto.", "Sei pronto?"],
+      "ru": ["Я готов.", "Еда готова.", "Ты готов?"],
+      "es": ["Estoy listo.", "La comida está lista.", "¿Estás listo?"],
+      "pl": ["Jestem gotowy.", "Jedzenie jest gotowe.", "Jesteś gotowy?"],
+      "fa": ["آماده‌ام.", "غذا آماده است.", "آماده‌ای؟"]
+    }
+  },
+  {
+    "id": "universal_a1_413_fr",
+    "word": "sûr",
+    "translations": {
+      "en": "sure",
+      "de": "sicher",
+      "ar": "متأكد",
+      "fr": "sûr",
+      "it": "sicuro",
+      "ru": "уверенный",
+      "es": "seguro",
+      "pl": "pewny",
+      "fa": "مطمئن"
+    },
+    "examples": {
+      "en": ["I am sure.", "Are you sure?", "He is not sure."],
+      "de": ["Ich bin sicher.", "Bist du sicher?", "Er ist nicht sicher."],
+      "ar": ["أنا متأكد.", "هل أنت متأكد؟", "هو غير متأكد."],
+      "fr": ["Je suis sûr.", "Es-tu sûr?", "Il n'est pas sûr."],
+      "it": ["Sono sicuro.", "Sei sicuro?", "Lui non è sicuro."],
+      "ru": ["Я уверен.", "Ты уверен?", "Он не уверен."],
+      "es": ["Estoy seguro.", "¿Estás seguro?", "Él no está seguro."],
+      "pl": ["Jestem pewny.", "Jesteś pewny?", "On nie jest pewny."],
+      "fa": ["مطمئنم.", "مطمئنی؟", "او مطمئن نیست."]
+    }
+  },
+  {
+    "id": "universal_a1_414_fr",
+    "word": "important",
+    "translations": {
+      "en": "important",
+      "de": "wichtig",
+      "ar": "مهم",
+      "fr": "important",
+      "it": "importante",
+      "ru": "важный",
+      "es": "importante",
+      "pl": "ważny",
+      "fa": "مهم"
+    },
+    "examples": {
+      "en": ["This is important.", "It is very important.", "She is an important person."],
+      "de": ["Das ist wichtig.", "Es ist sehr wichtig.", "Sie ist eine wichtige Person."],
+      "ar": ["هذا مهم.", "إنه مهم جداً.", "هي شخص مهم."],
+      "fr": ["C'est important.", "C'est très important.", "Elle est une personne importante."],
+      "it": ["Questo è importante.", "È molto importante.", "Lei è una persona importante."],
+      "ru": ["Это важно.", "Это очень важно.", "Она важный человек."],
+      "es": ["Esto es importante.", "Es muy importante.", "Ella es una persona importante."],
+      "pl": ["To jest ważne.", "To jest bardzo ważne.", "Ona jest ważną osobą."],
+      "fa": ["این مهم است.", "خیلی مهم است.", "او فرد مهمی است."]
+    }
+  },
+  {
+    "id": "universal_a1_415_fr",
+    "word": "intéressant",
+    "translations": {
+      "en": "interesting",
+      "de": "interessant",
+      "ar": "مثير للاهتمام",
+      "fr": "intéressant",
+      "it": "interessante",
+      "ru": "интересный",
+      "es": "interesante",
+      "pl": "interesujący",
+      "fa": "جالب"
+    },
+    "examples": {
+      "en": ["The book is interesting.", "This is very interesting.", "She is an interesting person."],
+      "de": ["Das Buch ist interessant.", "Das ist sehr interessant.", "Sie ist eine interessante Person."],
+      "ar": ["الكتاب مثير للاهتمام.", "هذا مثير للاهتمام جداً.", "هي شخص مثير للاهتمام."],
+      "fr": ["Le livre est intéressant.", "C'est très intéressant.", "Elle est une personne intéressante."],
+      "it": ["Il libro è interessante.", "Questo è molto interessante.", "Lei è una persona interessante."],
+      "ru": ["Книга интересная.", "Это очень интересно.", "Она интересный человек."],
+      "es": ["El libro es interesante.", "Esto es muy interesante.", "Ella es una persona interesante."],
+      "pl": ["Książka jest interesująca.", "To jest bardzo interesujące.", "Ona jest interesującą osobą."],
+      "fa": ["کتاب جالب است.", "این خیلی جالب است.", "او فرد جالبی است."]
+    }
+  },
+  {
+    "id": "universal_a1_416_fr",
+    "word": "ennuyeux",
+    "translations": {
+      "en": "boring",
+      "de": "langweilig",
+      "ar": "ممل",
+      "fr": "ennuyeux",
+      "it": "noioso",
+      "ru": "скучный",
+      "es": "aburrido",
+      "pl": "nudny",
+      "fa": "کسل‌کننده"
+    },
+    "examples": {
+      "en": ["The film is boring.", "This book is boring.", "The class is boring."],
+      "de": ["Der Film ist langweilig.", "Dieses Buch ist langweilig.", "Der Unterricht ist langweilig."],
+      "ar": ["الفيلم ممل.", "هذا الكتاب ممل.", "الصف ممل."],
+      "fr": ["Le film est ennuyeux.", "Ce livre est ennuyeux.", "Le cours est ennuyeux."],
+      "it": ["Il film è noioso.", "Questo libro è noioso.", "La lezione è noiosa."],
+      "ru": ["Фильм скучный.", "Эта книга скучная.", "Урок скучный."],
+      "es": ["La película es aburrida.", "Este libro es aburrido.", "La clase es aburrida."],
+      "pl": ["Film jest nudny.", "Ta książka jest nudna.", "Lekcja jest nudna."],
+      "fa": ["فیلم کسل‌کننده است.", "این کتاب کسل‌کننده است.", "کلاس کسل‌کننده است."]
+    }
+  },
+  {
+    "id": "universal_a1_417_fr",
+    "word": "possible",
+    "translations": {
+      "en": "possible",
+      "de": "möglich",
+      "ar": "ممكن",
+      "fr": "possible",
+      "it": "possibile",
+      "ru": "возможный",
+      "es": "posible",
+      "pl": "możliwy",
+      "fa": "ممکن"
+    },
+    "examples": {
+      "en": ["It is possible.", "That is not possible.", "Is it possible?"],
+      "de": ["Es ist möglich.", "Das ist nicht möglich.", "Ist es möglich?"],
+      "ar": ["إنه ممكن.", "هذا غير ممكن.", "هل هو ممكن؟"],
+      "fr": ["C'est possible.", "Ce n'est pas possible.", "Est-ce possible?"],
+      "it": ["È possibile.", "Non è possibile.", "È possibile?"],
+      "ru": ["Это возможно.", "Это невозможно.", "Это возможно?"],
+      "es": ["Es posible.", "Eso no es posible.", "¿Es posible?"],
+      "pl": ["To jest możliwe.", "To nie jest możliwe.", "Czy to możliwe?"],
+      "fa": ["ممکن است.", "ممکن نیست.", "ممکن است؟"]
+    }
+  },
+  {
+    "id": "universal_a1_418_fr",
+    "word": "impossible",
+    "translations": {
+      "en": "impossible",
+      "de": "unmöglich",
+      "ar": "مستحيل",
+      "fr": "impossible",
+      "it": "impossibile",
+      "ru": "невозможный",
+      "es": "imposible",
+      "pl": "niemożliwy",
+      "fa": "غیرممکن"
+    },
+    "examples": {
+      "en": ["It is impossible.", "That is impossible!", "Nothing is impossible."],
+      "de": ["Es ist unmöglich.", "Das ist unmöglich!", "Nichts ist unmöglich."],
+      "ar": ["إنه مستحيل.", "هذا مستحيل!", "لا شيء مستحيل."],
+      "fr": ["C'est impossible.", "C'est impossible!", "Rien n'est impossible."],
+      "it": ["È impossibile.", "È impossibile!", "Niente è impossibile."],
+      "ru": ["Это невозможно.", "Это невозможно!", "Ничто не невозможно."],
+      "es": ["Es imposible.", "¡Eso es imposible!", "Nada es imposible."],
+      "pl": ["To jest niemożliwe.", "To niemożliwe!", "Nic nie jest niemożliwe."],
+      "fa": ["غیرممکن است.", "غیرممکن است!", "هیچ چیز غیرممکن نیست."]
+    }
+  },
+  {
+    "id": "universal_a1_419_fr",
+    "word": "correct",
+    "translations": {
+      "en": "correct",
+      "de": "richtig",
+      "ar": "صحيح",
+      "fr": "correct",
+      "it": "corretto",
+      "ru": "правильный",
+      "es": "correcto",
+      "pl": "poprawny",
+      "fa": "درست"
+    },
+    "examples": {
+      "en": ["Your answer is correct.", "That is correct.", "Is this correct?"],
+      "de": ["Deine Antwort ist richtig.", "Das ist richtig.", "Ist das richtig?"],
+      "ar": ["إجابتك صحيحة.", "هذا صحيح.", "هل هذا صحيح؟"],
+      "fr": ["Ta réponse est correcte.", "C'est correct.", "Est-ce correct?"],
+      "it": ["La tua risposta è corretta.", "È corretto.", "È corretto?"],
+      "ru": ["Твой ответ правильный.", "Это правильно.", "Это правильно?"],
+      "es": ["Tu respuesta es correcta.", "Eso es correcto.", "¿Es correcto?"],
+      "pl": ["Twoja odpowiedź jest poprawna.", "To jest poprawne.", "Czy to poprawne?"],
+      "fa": ["جواب تو درست است.", "درست است.", "درست است؟"]
+    }
+  },
+  {
+    "id": "universal_a1_420_fr",
+    "word": "faux",
+    "translations": {
+      "en": "wrong",
+      "de": "falsch",
+      "ar": "خاطئ",
+      "fr": "faux",
+      "it": "sbagliato",
+      "ru": "неправильный",
+      "es": "incorrecto",
+      "pl": "błędny",
+      "fa": "اشتباه"
+    },
+    "examples": {
+      "en": ["That is wrong.", "Your answer is wrong.", "This is the wrong way."],
+      "de": ["Das ist falsch.", "Deine Antwort ist falsch.", "Das ist der falsche Weg."],
+      "ar": ["هذا خاطئ.", "إجابتك خاطئة.", "هذا الطريق الخطأ."],
+      "fr": ["C'est faux.", "Ta réponse est fausse.", "C'est le mauvais chemin."],
+      "it": ["È sbagliato.", "La tua risposta è sbagliata.", "Questa è la strada sbagliata."],
+      "ru": ["Это неправильно.", "Твой ответ неправильный.", "Это неправильный путь."],
+      "es": ["Eso es incorrecto.", "Tu respuesta es incorrecta.", "Este es el camino incorrecto."],
+      "pl": ["To jest błędne.", "Twoja odpowiedź jest błędna.", "To jest błędna droga."],
+      "fa": ["اشتباه است.", "جواب تو اشتباه است.", "این راه اشتباه است."]
+    }
+  }
+]

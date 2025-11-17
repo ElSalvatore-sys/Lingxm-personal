@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_121_fr",
+    "word": "rouge",
+    "translations": {
+      "en": "red",
+      "de": "rot",
+      "ar": "أحمر",
+      "fr": "rouge",
+      "it": "rosso",
+      "ru": "красный",
+      "es": "rojo",
+      "pl": "czerwony",
+      "fa": "قرمز"
+    },
+    "examples": {
+      "en": ["The car is red.", "I like red.", "A red apple."],
+      "de": ["Das Auto ist rot.", "Ich mag Rot.", "Ein roter Apfel."],
+      "ar": ["السيارة حمراء.", "أحب اللون الأحمر.", "تفاحة حمراء."],
+      "fr": ["La voiture est rouge.", "J'aime le rouge.", "Une pomme rouge."],
+      "it": ["La macchina è rossa.", "Mi piace il rosso.", "Una mela rossa."],
+      "ru": ["Машина красная.", "Я люблю красный.", "Красное яблоко."],
+      "es": ["El coche es rojo.", "Me gusta el rojo.", "Una manzana roja."],
+      "pl": ["Samochód jest czerwony.", "Lubię czerwony.", "Czerwone jabłko."],
+      "fa": ["ماشین قرمز است.", "من قرمز را دوست دارم.", "یک سیب قرمز."]
+    }
+  },
+  {
+    "id": "universal_a1_122_fr",
+    "word": "bleu",
+    "translations": {
+      "en": "blue",
+      "de": "blau",
+      "ar": "أزرق",
+      "fr": "bleu",
+      "it": "blu",
+      "ru": "синий, голубой",
+      "es": "azul",
+      "pl": "niebieski",
+      "fa": "آبی"
+    },
+    "examples": {
+      "en": ["The sky is blue.", "Blue eyes.", "I have a blue shirt."],
+      "de": ["Der Himmel ist blau.", "Blaue Augen.", "Ich habe ein blaues Hemd."],
+      "ar": ["السماء زرقاء.", "عيون زرقاء.", "لدي قميص أزرق."],
+      "fr": ["Le ciel est bleu.", "Les yeux bleus.", "J'ai une chemise bleue."],
+      "it": ["Il cielo è blu.", "Occhi blu.", "Ho una camicia blu."],
+      "ru": ["Небо голубое.", "Голубые глаза.", "У меня синяя рубашка."],
+      "es": ["El cielo es azul.", "Ojos azules.", "Tengo una camisa azul."],
+      "pl": ["Niebo jest niebieskie.", "Niebieskie oczy.", "Mam niebieską koszulę."],
+      "fa": ["آسمان آبی است.", "چشمان آبی.", "من یک پیراهن آبی دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_123_fr",
+    "word": "vert",
+    "translations": {
+      "en": "green",
+      "de": "grün",
+      "ar": "أخضر",
+      "fr": "vert",
+      "it": "verde",
+      "ru": "зеленый",
+      "es": "verde",
+      "pl": "zielony",
+      "fa": "سبز"
+    },
+    "examples": {
+      "en": ["Green grass.", "I like green.", "A green tree."],
+      "de": ["Grünes Gras.", "Ich mag Grün.", "Ein grüner Baum."],
+      "ar": ["عشب أخضر.", "أحب اللون الأخضر.", "شجرة خضراء."],
+      "fr": ["L'herbe verte.", "J'aime le vert.", "Un arbre vert."],
+      "it": ["Erba verde.", "Mi piace il verde.", "Un albero verde."],
+      "ru": ["Зеленая трава.", "Я люблю зеленый.", "Зеленое дерево."],
+      "es": ["Hierba verde.", "Me gusta el verde.", "Un árbol verde."],
+      "pl": ["Zielona trawa.", "Lubię zielony.", "Zielone drzewo."],
+      "fa": ["چمن سبز.", "من سبز را دوست دارم.", "یک درخت سبز."]
+    }
+  },
+  {
+    "id": "universal_a1_124_fr",
+    "word": "jaune",
+    "translations": {
+      "en": "yellow",
+      "de": "gelb",
+      "ar": "أصفر",
+      "fr": "jaune",
+      "it": "giallo",
+      "ru": "желтый",
+      "es": "amarillo",
+      "pl": "żółty",
+      "fa": "زرد"
+    },
+    "examples": {
+      "en": ["Yellow sun.", "A yellow banana.", "Yellow flower."],
+      "de": ["Gelbe Sonne.", "Eine gelbe Banane.", "Gelbe Blume."],
+      "ar": ["شمس صفراء.", "موزة صفراء.", "زهرة صفراء."],
+      "fr": ["Le soleil jaune.", "Une banane jaune.", "Une fleur jaune."],
+      "it": ["Sole giallo.", "Una banana gialla.", "Fiore giallo."],
+      "ru": ["Желтое солнце.", "Желтый банан.", "Желтый цветок."],
+      "es": ["Sol amarillo.", "Un plátano amarillo.", "Flor amarilla."],
+      "pl": ["Żółte słońce.", "Żółty banan.", "Żółty kwiat."],
+      "fa": ["خورشید زرد.", "یک موز زرد.", "گل زرد."]
+    }
+  },
+  {
+    "id": "universal_a1_125_fr",
+    "word": "noir",
+    "translations": {
+      "en": "black",
+      "de": "schwarz",
+      "ar": "أسود",
+      "fr": "noir",
+      "it": "nero",
+      "ru": "черный",
+      "es": "negro",
+      "pl": "czarny",
+      "fa": "سیاه، مشکی"
+    },
+    "examples": {
+      "en": ["Black cat.", "Black coffee.", "I wear black."],
+      "de": ["Schwarze Katze.", "Schwarzer Kaffee.", "Ich trage Schwarz."],
+      "ar": ["قطة سوداء.", "قهوة سوداء.", "أرتدي الأسود."],
+      "fr": ["Un chat noir.", "Café noir.", "Je porte du noir."],
+      "it": ["Gatto nero.", "Caffè nero.", "Indosso nero."],
+      "ru": ["Черная кошка.", "Черный кофе.", "Я ношу черное."],
+      "es": ["Gato negro.", "Café negro.", "Visto de negro."],
+      "pl": ["Czarny kot.", "Czarna kawa.", "Noszę czarne."],
+      "fa": ["گربه سیاه.", "قهوه سیاه.", "من سیاه می‌پوشم."]
+    }
+  },
+  {
+    "id": "universal_a1_126_fr",
+    "word": "blanc",
+    "translations": {
+      "en": "white",
+      "de": "weiß",
+      "ar": "أبيض",
+      "fr": "blanc",
+      "it": "bianco",
+      "ru": "белый",
+      "es": "blanco",
+      "pl": "biały",
+      "fa": "سفید"
+    },
+    "examples": {
+      "en": ["White snow.", "White shirt.", "White house."],
+      "de": ["Weißer Schnee.", "Weißes Hemd.", "Weißes Haus."],
+      "ar": ["ثلج أبيض.", "قميص أبيض.", "بيت أبيض."],
+      "fr": ["La neige blanche.", "Une chemise blanche.", "Une maison blanche."],
+      "it": ["Neve bianca.", "Camicia bianca.", "Casa bianca."],
+      "ru": ["Белый снег.", "Белая рубашка.", "Белый дом."],
+      "es": ["Nieve blanca.", "Camisa blanca.", "Casa blanca."],
+      "pl": ["Biały śnieg.", "Biała koszula.", "Biały dom."],
+      "fa": ["برف سفید.", "پیراهن سفید.", "خانه سفید."]
+    }
+  },
+  {
+    "id": "universal_a1_127_fr",
+    "word": "orange",
+    "translations": {
+      "en": "orange",
+      "de": "orange",
+      "ar": "برتقالي",
+      "fr": "orange",
+      "it": "arancione",
+      "ru": "оранжевый",
+      "es": "naranja",
+      "pl": "pomarańczowy",
+      "fa": "نارنجی"
+    },
+    "examples": {
+      "en": ["Orange juice.", "An orange fruit.", "Orange color."],
+      "de": ["Orangensaft.", "Eine orange Frucht.", "Orange Farbe."],
+      "ar": ["عصير برتقال.", "فاكهة برتقالية.", "لون برتقالي."],
+      "fr": ["Du jus d'orange.", "Un fruit orange.", "Couleur orange."],
+      "it": ["Succo d'arancia.", "Un frutto arancione.", "Colore arancione."],
+      "ru": ["Апельсиновый сок.", "Оранжевый фрукт.", "Оранжевый цвет."],
+      "es": ["Jugo de naranja.", "Una fruta naranja.", "Color naranja."],
+      "pl": ["Sok pomarańczowy.", "Pomarańczowy owoc.", "Kolor pomarańczowy."],
+      "fa": ["آب پرتقال.", "میوه نارنجی.", "رنگ نارنجی."]
+    }
+  },
+  {
+    "id": "universal_a1_128_fr",
+    "word": "rose",
+    "translations": {
+      "en": "pink",
+      "de": "rosa",
+      "ar": "وردي",
+      "fr": "rose",
+      "it": "rosa",
+      "ru": "розовый",
+      "es": "rosa",
+      "pl": "różowy",
+      "fa": "صورتی"
+    },
+    "examples": {
+      "en": ["Pink flower.", "Pink dress.", "I like pink."],
+      "de": ["Rosa Blume.", "Rosa Kleid.", "Ich mag Rosa."],
+      "ar": ["زهرة وردية.", "فستان وردي.", "أحب اللون الوردي."],
+      "fr": ["Une fleur rose.", "Une robe rose.", "J'aime le rose."],
+      "it": ["Fiore rosa.", "Vestito rosa.", "Mi piace il rosa."],
+      "ru": ["Розовый цветок.", "Розовое платье.", "Я люблю розовый."],
+      "es": ["Flor rosa.", "Vestido rosa.", "Me gusta el rosa."],
+      "pl": ["Różowy kwiat.", "Różowa sukienka.", "Lubię różowy."],
+      "fa": ["گل صورتی.", "لباس صورتی.", "من صورتی را دوست دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_129_fr",
+    "word": "gris",
+    "translations": {
+      "en": "gray",
+      "de": "grau",
+      "ar": "رمادي",
+      "fr": "gris",
+      "it": "grigio",
+      "ru": "серый",
+      "es": "gris",
+      "pl": "szary",
+      "fa": "خاکستری"
+    },
+    "examples": {
+      "en": ["Gray sky.", "Gray cat.", "Gray clouds."],
+      "de": ["Grauer Himmel.", "Graue Katze.", "Graue Wolken."],
+      "ar": ["سماء رمادية.", "قطة رمادية.", "غيوم رمادية."],
+      "fr": ["Le ciel gris.", "Un chat gris.", "Des nuages gris."],
+      "it": ["Cielo grigio.", "Gatto grigio.", "Nuvole grigie."],
+      "ru": ["Серое небо.", "Серая кошка.", "Серые облака."],
+      "es": ["Cielo gris.", "Gato gris.", "Nubes grises."],
+      "pl": ["Szare niebo.", "Szary kot.", "Szare chmury."],
+      "fa": ["آسمان خاکستری.", "گربه خاکستری.", "ابرهای خاکستری."]
+    }
+  },
+  {
+    "id": "universal_a1_130_fr",
+    "word": "marron",
+    "translations": {
+      "en": "brown",
+      "de": "braun",
+      "ar": "بني",
+      "fr": "marron",
+      "it": "marrone",
+      "ru": "коричневый",
+      "es": "marrón",
+      "pl": "brązowy",
+      "fa": "قهوه‌ای"
+    },
+    "examples": {
+      "en": ["Brown shoes.", "Brown hair.", "Brown dog."],
+      "de": ["Braune Schuhe.", "Braune Haare.", "Brauner Hund."],
+      "ar": ["حذاء بني.", "شعر بني.", "كلب بني."],
+      "fr": ["Des chaussures marron.", "Les cheveux marron.", "Un chien marron."],
+      "it": ["Scarpe marroni.", "Capelli castani.", "Cane marrone."],
+      "ru": ["Коричневые туфли.", "Коричневые волосы.", "Коричневая собака."],
+      "es": ["Zapatos marrones.", "Pelo marrón.", "Perro marrón."],
+      "pl": ["Brązowe buty.", "Brązowe włosy.", "Brązowy pies."],
+      "fa": ["کفش قهوه‌ای.", "موهای قهوه‌ای.", "سگ قهوه‌ای."]
+    }
+  },
+  {
+    "id": "universal_a1_131_fr",
+    "word": "grand",
+    "translations": {
+      "en": "big, tall, large",
+      "de": "groß",
+      "ar": "كبير، طويل",
+      "fr": "grand",
+      "it": "grande, alto",
+      "ru": "большой, высокий",
+      "es": "grande, alto",
+      "pl": "duży, wysoki",
+      "fa": "بزرگ، قد بلند"
+    },
+    "examples": {
+      "en": ["A big house.", "He is tall.", "Large car."],
+      "de": ["Ein großes Haus.", "Er ist groß.", "Großes Auto."],
+      "ar": ["بيت كبير.", "هو طويل.", "سيارة كبيرة."],
+      "fr": ["Une grande maison.", "Il est grand.", "Une grande voiture."],
+      "it": ["Una casa grande.", "Lui è alto.", "Macchina grande."],
+      "ru": ["Большой дом.", "Он высокий.", "Большая машина."],
+      "es": ["Una casa grande.", "Él es alto.", "Coche grande."],
+      "pl": ["Duży dom.", "On jest wysoki.", "Duży samochód."],
+      "fa": ["خانه بزرگ.", "او قد بلند است.", "ماشین بزرگ."]
+    }
+  },
+  {
+    "id": "universal_a1_132_fr",
+    "word": "petit",
+    "translations": {
+      "en": "small, little, short",
+      "de": "klein",
+      "ar": "صغير، قصير",
+      "fr": "petit",
+      "it": "piccolo",
+      "ru": "маленький",
+      "es": "pequeño",
+      "pl": "mały",
+      "fa": "کوچک"
+    },
+    "examples": {
+      "en": ["A small cat.", "Little child.", "Short man."],
+      "de": ["Eine kleine Katze.", "Kleines Kind.", "Kleiner Mann."],
+      "ar": ["قطة صغيرة.", "طفل صغير.", "رجل قصير."],
+      "fr": ["Un petit chat.", "Un petit enfant.", "Un homme petit."],
+      "it": ["Un gatto piccolo.", "Bambino piccolo.", "Uomo basso."],
+      "ru": ["Маленькая кошка.", "Маленький ребенок.", "Низкий мужчина."],
+      "es": ["Un gato pequeño.", "Niño pequeño.", "Hombre bajo."],
+      "pl": ["Mały kot.", "Małe dziecko.", "Niski mężczyzna."],
+      "fa": ["گربه کوچک.", "کودک کوچک.", "مرد کوتاه قد."]
+    }
+  },
+  {
+    "id": "universal_a1_133_fr",
+    "word": "bon",
+    "translations": {
+      "en": "good",
+      "de": "gut",
+      "ar": "جيد",
+      "fr": "bon",
+      "it": "buono",
+      "ru": "хороший",
+      "es": "bueno",
+      "pl": "dobry",
+      "fa": "خوب"
+    },
+    "examples": {
+      "en": ["Good food.", "Good day.", "It is good."],
+      "de": ["Gutes Essen.", "Guter Tag.", "Es ist gut."],
+      "ar": ["طعام جيد.", "يوم جيد.", "إنه جيد."],
+      "fr": ["Bon repas.", "Bonne journée.", "C'est bon."],
+      "it": ["Cibo buono.", "Buona giornata.", "È buono."],
+      "ru": ["Хорошая еда.", "Хороший день.", "Это хорошо."],
+      "es": ["Buena comida.", "Buen día.", "Es bueno."],
+      "pl": ["Dobre jedzenie.", "Dobry dzień.", "To jest dobre."],
+      "fa": ["غذای خوب.", "روز خوب.", "خوب است."]
+    }
+  },
+  {
+    "id": "universal_a1_134_fr",
+    "word": "mauvais",
+    "translations": {
+      "en": "bad",
+      "de": "schlecht",
+      "ar": "سيئ",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "ru": "плохой",
+      "es": "malo",
+      "pl": "zły",
+      "fa": "بد"
+    },
+    "examples": {
+      "en": ["Bad weather.", "Bad day.", "It is bad."],
+      "de": ["Schlechtes Wetter.", "Schlechter Tag.", "Es ist schlecht."],
+      "ar": ["طقس سيئ.", "يوم سيئ.", "إنه سيئ."],
+      "fr": ["Mauvais temps.", "Mauvaise journée.", "C'est mauvais."],
+      "it": ["Brutto tempo.", "Brutta giornata.", "È cattivo."],
+      "ru": ["Плохая погода.", "Плохой день.", "Это плохо."],
+      "es": ["Mal tiempo.", "Mal día.", "Es malo."],
+      "pl": ["Zła pogoda.", "Zły dzień.", "To jest złe."],
+      "fa": ["هوای بد.", "روز بد.", "بد است."]
+    }
+  },
+  {
+    "id": "universal_a1_135_fr",
+    "word": "beau",
+    "translations": {
+      "en": "beautiful, handsome",
+      "de": "schön",
+      "ar": "جميل",
+      "fr": "beau",
+      "it": "bello",
+      "ru": "красивый",
+      "es": "hermoso, bello",
+      "pl": "piękny",
+      "fa": "زیبا، خوش‌قیافه"
+    },
+    "examples": {
+      "en": ["Beautiful day.", "Handsome man.", "Beautiful flowers."],
+      "de": ["Schöner Tag.", "Schöner Mann.", "Schöne Blumen."],
+      "ar": ["يوم جميل.", "رجل وسيم.", "زهور جميلة."],
+      "fr": ["Belle journée.", "Bel homme.", "Belles fleurs."],
+      "it": ["Bella giornata.", "Bell'uomo.", "Bei fiori."],
+      "ru": ["Прекрасный день.", "Красивый мужчина.", "Красивые цветы."],
+      "es": ["Hermoso día.", "Hombre guapo.", "Flores hermosas."],
+      "pl": ["Piękny dzień.", "Przystojny mężczyzna.", "Piękne kwiaty."],
+      "fa": ["روز زیبا.", "مرد خوش‌قیافه.", "گل‌های زیبا."]
+    }
+  },
+  {
+    "id": "universal_a1_136_fr",
+    "word": "joli",
+    "translations": {
+      "en": "pretty, nice",
+      "de": "hübsch",
+      "ar": "جميل، لطيف",
+      "fr": "joli",
+      "it": "carino, grazioso",
+      "ru": "симпатичный, милый",
+      "es": "bonito, lindo",
+      "pl": "ładny",
+      "fa": "قشنگ، زیبا"
+    },
+    "examples": {
+      "en": ["Pretty dress.", "Nice house.", "Pretty girl."],
+      "de": ["Hübsches Kleid.", "Schönes Haus.", "Hübsches Mädchen."],
+      "ar": ["فستان جميل.", "بيت لطيف.", "فتاة جميلة."],
+      "fr": ["Jolie robe.", "Jolie maison.", "Jolie fille."],
+      "it": ["Vestito carino.", "Casa carina.", "Ragazza carina."],
+      "ru": ["Красивое платье.", "Симпатичный дом.", "Симпатичная девушка."],
+      "es": ["Vestido bonito.", "Casa bonita.", "Chica bonita."],
+      "pl": ["Ładna sukienka.", "Ładny dom.", "Ładna dziewczyna."],
+      "fa": ["لباس قشنگ.", "خانه قشنگ.", "دختر قشنگ."]
+    }
+  },
+  {
+    "id": "universal_a1_137_fr",
+    "word": "nouveau",
+    "translations": {
+      "en": "new",
+      "de": "neu",
+      "ar": "جديد",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "ru": "новый",
+      "es": "nuevo",
+      "pl": "nowy",
+      "fa": "جدید، تازه"
+    },
+    "examples": {
+      "en": ["New car.", "New friend.", "New house."],
+      "de": ["Neues Auto.", "Neuer Freund.", "Neues Haus."],
+      "ar": ["سيارة جديدة.", "صديق جديد.", "بيت جديد."],
+      "fr": ["Nouvelle voiture.", "Nouvel ami.", "Nouvelle maison."],
+      "it": ["Macchina nuova.", "Nuovo amico.", "Casa nuova."],
+      "ru": ["Новая машина.", "Новый друг.", "Новый дом."],
+      "es": ["Coche nuevo.", "Nuevo amigo.", "Casa nueva."],
+      "pl": ["Nowy samochód.", "Nowy przyjaciel.", "Nowy dom."],
+      "fa": ["ماشین جدید.", "دوست جدید.", "خانه جدید."]
+    }
+  },
+  {
+    "id": "universal_a1_138_fr",
+    "word": "vieux",
+    "translations": {
+      "en": "old",
+      "de": "alt",
+      "ar": "قديم، عجوز",
+      "fr": "vieux",
+      "it": "vecchio",
+      "ru": "старый",
+      "es": "viejo",
+      "pl": "stary",
+      "fa": "قدیمی، پیر"
+    },
+    "examples": {
+      "en": ["Old man.", "Old house.", "Old book."],
+      "de": ["Alter Mann.", "Altes Haus.", "Altes Buch."],
+      "ar": ["رجل عجوز.", "بيت قديم.", "كتاب قديم."],
+      "fr": ["Vieil homme.", "Vieille maison.", "Vieux livre."],
+      "it": ["Uomo vecchio.", "Casa vecchia.", "Libro vecchio."],
+      "ru": ["Старый человек.", "Старый дом.", "Старая книга."],
+      "es": ["Hombre viejo.", "Casa vieja.", "Libro viejo."],
+      "pl": ["Stary mężczyzna.", "Stary dom.", "Stara książka."],
+      "fa": ["مرد پیر.", "خانه قدیمی.", "کتاب قدیمی."]
+    }
+  },
+  {
+    "id": "universal_a1_139_fr",
+    "word": "jeune",
+    "translations": {
+      "en": "young",
+      "de": "jung",
+      "ar": "شاب، صغير",
+      "fr": "jeune",
+      "it": "giovane",
+      "ru": "молодой",
+      "es": "joven",
+      "pl": "młody",
+      "fa": "جوان"
+    },
+    "examples": {
+      "en": ["Young woman.", "Young people.", "I am young."],
+      "de": ["Junge Frau.", "Junge Leute.", "Ich bin jung."],
+      "ar": ["امرأة شابة.", "الشباب.", "أنا شاب."],
+      "fr": ["Jeune femme.", "Les jeunes.", "Je suis jeune."],
+      "it": ["Donna giovane.", "Giovani.", "Io sono giovane."],
+      "ru": ["Молодая женщина.", "Молодые люди.", "Я молодой."],
+      "es": ["Mujer joven.", "Jóvenes.", "Yo soy joven."],
+      "pl": ["Młoda kobieta.", "Młodzi ludzie.", "Ja jestem młody."],
+      "fa": ["زن جوان.", "جوانان.", "من جوان هستم."]
+    }
+  },
+  {
+    "id": "universal_a1_140_fr",
+    "word": "heureux",
+    "translations": {
+      "en": "happy",
+      "de": "glücklich",
+      "ar": "سعيد",
+      "fr": "heureux",
+      "it": "felice",
+      "ru": "счастливый",
+      "es": "feliz",
+      "pl": "szczęśliwy",
+      "fa": "خوشحال"
+    },
+    "examples": {
+      "en": ["I am happy.", "Happy family.", "Happy day."],
+      "de": ["Ich bin glücklich.", "Glückliche Familie.", "Glücklicher Tag."],
+      "ar": ["أنا سعيد.", "عائلة سعيدة.", "يوم سعيد."],
+      "fr": ["Je suis heureux.", "Famille heureuse.", "Journée heureuse."],
+      "it": ["Io sono felice.", "Famiglia felice.", "Giorno felice."],
+      "ru": ["Я счастлив.", "Счастливая семья.", "Счастливый день."],
+      "es": ["Yo soy feliz.", "Familia feliz.", "Día feliz."],
+      "pl": ["Ja jestem szczęśliwy.", "Szczęśliwa rodzina.", "Szczęśliwy dzień."],
+      "fa": ["من خوشحالم.", "خانواده خوشحال.", "روز خوشحال."]
+    }
+  }
+]

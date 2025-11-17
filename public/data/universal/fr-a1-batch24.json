@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_461_fr",
+    "word": "peu",
+    "translations": {
+      "en": "little",
+      "de": "wenig",
+      "ar": "قليل",
+      "fr": "peu",
+      "it": "poco",
+      "ru": "мало",
+      "es": "poco",
+      "pl": "mało",
+      "fa": "کم"
+    },
+    "examples": {
+      "en": ["I have little time.", "A little water, please.", "Very little money."],
+      "de": ["Ich habe wenig Zeit.", "Ein wenig Wasser, bitte.", "Sehr wenig Geld."],
+      "ar": ["لدي وقت قليل.", "قليل من الماء، من فضلك.", "مال قليل جداً."],
+      "fr": ["J'ai peu de temps.", "Un peu d'eau, s'il vous plaît.", "Très peu d'argent."],
+      "it": ["Ho poco tempo.", "Un po' d'acqua, per favore.", "Pochissimi soldi."],
+      "ru": ["У меня мало времени.", "Немного воды, пожалуйста.", "Очень мало денег."],
+      "es": ["Tengo poco tiempo.", "Un poco de agua, por favor.", "Muy poco dinero."],
+      "pl": ["Mam mało czasu.", "Trochę wody, proszę.", "Bardzo mało pieniędzy."],
+      "fa": ["وقت کمی دارم.", "کمی آب، لطفاً.", "پول خیلی کم."]
+    }
+  },
+  {
+    "id": "universal_a1_462_fr",
+    "word": "tout",
+    "translations": {
+      "en": "all",
+      "de": "alles",
+      "ar": "كل",
+      "fr": "tout",
+      "it": "tutto",
+      "ru": "все",
+      "es": "todo",
+      "pl": "wszystko",
+      "fa": "همه"
+    },
+    "examples": {
+      "en": ["All the people.", "That's all.", "I eat everything."],
+      "de": ["Alle Leute.", "Das ist alles.", "Ich esse alles."],
+      "ar": ["كل الناس.", "هذا كل شيء.", "آكل كل شيء."],
+      "fr": ["Tous les gens.", "C'est tout.", "Je mange tout."],
+      "it": ["Tutte le persone.", "È tutto.", "Mangio tutto."],
+      "ru": ["Все люди.", "Это все.", "Я ем все."],
+      "es": ["Toda la gente.", "Eso es todo.", "Como todo."],
+      "pl": ["Wszyscy ludzie.", "To wszystko.", "Jem wszystko."],
+      "fa": ["همه مردم.", "همین است.", "همه چیز می‌خورم."]
+    }
+  },
+  {
+    "id": "universal_a1_463_fr",
+    "word": "autre",
+    "translations": {
+      "en": "other",
+      "de": "andere",
+      "ar": "آخر",
+      "fr": "autre",
+      "it": "altro",
+      "ru": "другой",
+      "es": "otro",
+      "pl": "inny",
+      "fa": "دیگر"
+    },
+    "examples": {
+      "en": ["The other day.", "Another coffee, please.", "I have another question."],
+      "de": ["Am anderen Tag.", "Noch einen Kaffee, bitte.", "Ich habe eine andere Frage."],
+      "ar": ["في يوم آخر.", "قهوة أخرى، من فضلك.", "لدي سؤال آخر."],
+      "fr": ["L'autre jour.", "Un autre café, s'il vous plaît.", "J'ai une autre question."],
+      "it": ["L'altro giorno.", "Un altro caffè, per favore.", "Ho un'altra domanda."],
+      "ru": ["На днях.", "Еще кофе, пожалуйста.", "У меня другой вопрос."],
+      "es": ["El otro día.", "Otro café, por favor.", "Tengo otra pregunta."],
+      "pl": ["Któregoś dnia.", "Jeszcze jedną kawę, proszę.", "Mam inne pytanie."],
+      "fa": ["روز دیگر.", "یک قهوه دیگر، لطفاً.", "سوال دیگری دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_464_fr",
+    "word": "même",
+    "translations": {
+      "en": "same",
+      "de": "gleich",
+      "ar": "نفس",
+      "fr": "même",
+      "it": "stesso",
+      "ru": "тот же",
+      "es": "mismo",
+      "pl": "ten sam",
+      "fa": "همان"
+    },
+    "examples": {
+      "en": ["The same thing.", "At the same time.", "It's the same."],
+      "de": ["Das Gleiche.", "Zur gleichen Zeit.", "Es ist dasselbe."],
+      "ar": ["نفس الشيء.", "في نفس الوقت.", "إنه نفسه."],
+      "fr": ["La même chose.", "En même temps.", "C'est pareil."],
+      "it": ["La stessa cosa.", "Allo stesso tempo.", "È lo stesso."],
+      "ru": ["То же самое.", "В то же время.", "Это то же самое."],
+      "es": ["La misma cosa.", "Al mismo tiempo.", "Es lo mismo."],
+      "pl": ["To samo.", "W tym samym czasie.", "To jest to samo."],
+      "fa": ["همان چیز.", "همزمان.", "همان است."]
+    }
+  },
+  {
+    "id": "universal_a1_465_fr",
+    "word": "chaque",
+    "translations": {
+      "en": "each",
+      "de": "jeder",
+      "ar": "كل",
+      "fr": "chaque",
+      "it": "ogni",
+      "ru": "каждый",
+      "es": "cada",
+      "pl": "każdy",
+      "fa": "هر"
+    },
+    "examples": {
+      "en": ["Each day.", "Each person.", "Each time."],
+      "de": ["Jeden Tag.", "Jede Person.", "Jedes Mal."],
+      "ar": ["كل يوم.", "كل شخص.", "كل مرة."],
+      "fr": ["Chaque jour.", "Chaque personne.", "Chaque fois."],
+      "it": ["Ogni giorno.", "Ogni persona.", "Ogni volta."],
+      "ru": ["Каждый день.", "Каждый человек.", "Каждый раз."],
+      "es": ["Cada día.", "Cada persona.", "Cada vez."],
+      "pl": ["Każdego dnia.", "Każda osoba.", "Każdym razem."],
+      "fa": ["هر روز.", "هر شخص.", "هر بار."]
+    }
+  },
+  {
+    "id": "universal_a1_466_fr",
+    "word": "plusieurs",
+    "translations": {
+      "en": "several",
+      "de": "mehrere",
+      "ar": "عدة",
+      "fr": "plusieurs",
+      "it": "parecchi",
+      "ru": "несколько",
+      "es": "varios",
+      "pl": "kilka",
+      "fa": "چندین"
+    },
+    "examples": {
+      "en": ["Several people.", "Several times.", "I have several books."],
+      "de": ["Mehrere Leute.", "Mehrere Male.", "Ich habe mehrere Bücher."],
+      "ar": ["عدة أشخاص.", "عدة مرات.", "لدي عدة كتب."],
+      "fr": ["Plusieurs personnes.", "Plusieurs fois.", "J'ai plusieurs livres."],
+      "it": ["Parecchie persone.", "Parecchie volte.", "Ho parecchi libri."],
+      "ru": ["Несколько человек.", "Несколько раз.", "У меня несколько книг."],
+      "es": ["Varias personas.", "Varias veces.", "Tengo varios libros."],
+      "pl": ["Kilka osób.", "Kilka razy.", "Mam kilka książek."],
+      "fa": ["چندین نفر.", "چندین بار.", "چندین کتاب دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_467_fr",
+    "word": "quelque",
+    "translations": {
+      "en": "some",
+      "de": "einige",
+      "ar": "بعض",
+      "fr": "quelque",
+      "it": "qualche",
+      "ru": "некоторый",
+      "es": "algún",
+      "pl": "jakiś",
+      "fa": "مقداری"
+    },
+    "examples": {
+      "en": ["Some people.", "Some time.", "I have some questions."],
+      "de": ["Einige Leute.", "Etwas Zeit.", "Ich habe einige Fragen."],
+      "ar": ["بعض الناس.", "بعض الوقت.", "لدي بعض الأسئلة."],
+      "fr": ["Quelques personnes.", "Quelque temps.", "J'ai quelques questions."],
+      "it": ["Alcune persone.", "Qualche tempo.", "Ho qualche domanda."],
+      "ru": ["Некоторые люди.", "Некоторое время.", "У меня несколько вопросов."],
+      "es": ["Algunas personas.", "Algo de tiempo.", "Tengo algunas preguntas."],
+      "pl": ["Niektórzy ludzie.", "Trochę czasu.", "Mam kilka pytań."],
+      "fa": ["بعضی از مردم.", "مدتی.", "چند سوال دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_468_fr",
+    "word": "aucun",
+    "translations": {
+      "en": "no",
+      "de": "kein",
+      "ar": "لا أحد",
+      "fr": "aucun",
+      "it": "nessuno",
+      "ru": "никакой",
+      "es": "ninguno",
+      "pl": "żaden",
+      "fa": "هیچ"
+    },
+    "examples": {
+      "en": ["No problem.", "I have no money.", "There is no time."],
+      "de": ["Kein Problem.", "Ich habe kein Geld.", "Es gibt keine Zeit."],
+      "ar": ["لا مشكلة.", "ليس لدي مال.", "لا يوجد وقت."],
+      "fr": ["Aucun problème.", "Je n'ai aucun argent.", "Il n'y a aucun temps."],
+      "it": ["Nessun problema.", "Non ho soldi.", "Non c'è tempo."],
+      "ru": ["Нет проблем.", "У меня нет денег.", "Нет времени."],
+      "es": ["Ningún problema.", "No tengo dinero.", "No hay tiempo."],
+      "pl": ["Żaden problem.", "Nie mam pieniędzy.", "Nie ma czasu."],
+      "fa": ["مشکلی نیست.", "پولی ندارم.", "وقتی نیست."]
+    }
+  },
+  {
+    "id": "universal_a1_469_fr",
+    "word": "un",
+    "translations": {
+      "en": "one",
+      "de": "eins",
+      "ar": "واحد",
+      "fr": "un",
+      "it": "uno",
+      "ru": "один",
+      "es": "uno",
+      "pl": "jeden",
+      "fa": "یک"
+    },
+    "examples": {
+      "en": ["One person.", "I have one book.", "Only one."],
+      "de": ["Eine Person.", "Ich habe ein Buch.", "Nur eins."],
+      "ar": ["شخص واحد.", "لدي كتاب واحد.", "واحد فقط."],
+      "fr": ["Une personne.", "J'ai un livre.", "Seulement un."],
+      "it": ["Una persona.", "Ho un libro.", "Solo uno."],
+      "ru": ["Один человек.", "У меня одна книга.", "Только один."],
+      "es": ["Una persona.", "Tengo un libro.", "Solo uno."],
+      "pl": ["Jedna osoba.", "Mam jedną książkę.", "Tylko jeden."],
+      "fa": ["یک نفر.", "یک کتاب دارم.", "فقط یکی."]
+    }
+  },
+  {
+    "id": "universal_a1_470_fr",
+    "word": "deux",
+    "translations": {
+      "en": "two",
+      "de": "zwei",
+      "ar": "اثنان",
+      "fr": "deux",
+      "it": "due",
+      "ru": "два",
+      "es": "dos",
+      "pl": "dwa",
+      "fa": "دو"
+    },
+    "examples": {
+      "en": ["Two people.", "I have two books.", "Only two."],
+      "de": ["Zwei Leute.", "Ich habe zwei Bücher.", "Nur zwei."],
+      "ar": ["شخصان.", "لدي كتابان.", "اثنان فقط."],
+      "fr": ["Deux personnes.", "J'ai deux livres.", "Seulement deux."],
+      "it": ["Due persone.", "Ho due libri.", "Solo due."],
+      "ru": ["Два человека.", "У меня две книги.", "Только два."],
+      "es": ["Dos personas.", "Tengo dos libros.", "Solo dos."],
+      "pl": ["Dwie osoby.", "Mam dwie książki.", "Tylko dwa."],
+      "fa": ["دو نفر.", "دو کتاب دارم.", "فقط دو تا."]
+    }
+  },
+  {
+    "id": "universal_a1_471_fr",
+    "word": "trois",
+    "translations": {
+      "en": "three",
+      "de": "drei",
+      "ar": "ثلاثة",
+      "fr": "trois",
+      "it": "tre",
+      "ru": "три",
+      "es": "tres",
+      "pl": "trzy",
+      "fa": "سه"
+    },
+    "examples": {
+      "en": ["Three people.", "I have three books.", "Only three."],
+      "de": ["Drei Leute.", "Ich habe drei Bücher.", "Nur drei."],
+      "ar": ["ثلاثة أشخاص.", "لدي ثلاثة كتب.", "ثلاثة فقط."],
+      "fr": ["Trois personnes.", "J'ai trois livres.", "Seulement trois."],
+      "it": ["Tre persone.", "Ho tre libri.", "Solo tre."],
+      "ru": ["Три человека.", "У меня три книги.", "Только три."],
+      "es": ["Tres personas.", "Tengo tres libros.", "Solo tres."],
+      "pl": ["Trzy osoby.", "Mam trzy książki.", "Tylko trzy."],
+      "fa": ["سه نفر.", "سه کتاب دارم.", "فقط سه تا."]
+    }
+  },
+  {
+    "id": "universal_a1_472_fr",
+    "word": "quatre",
+    "translations": {
+      "en": "four",
+      "de": "vier",
+      "ar": "أربعة",
+      "fr": "quatre",
+      "it": "quattro",
+      "ru": "четыре",
+      "es": "cuatro",
+      "pl": "cztery",
+      "fa": "چهار"
+    },
+    "examples": {
+      "en": ["Four people.", "I have four books.", "Only four."],
+      "de": ["Vier Leute.", "Ich habe vier Bücher.", "Nur vier."],
+      "ar": ["أربعة أشخاص.", "لدي أربعة كتب.", "أربعة فقط."],
+      "fr": ["Quatre personnes.", "J'ai quatre livres.", "Seulement quatre."],
+      "it": ["Quattro persone.", "Ho quattro libri.", "Solo quattro."],
+      "ru": ["Четыре человека.", "У меня четыре книги.", "Только четыре."],
+      "es": ["Cuatro personas.", "Tengo cuatro libros.", "Solo cuatro."],
+      "pl": ["Cztery osoby.", "Mam cztery książki.", "Tylko cztery."],
+      "fa": ["چهار نفر.", "چهار کتاب دارم.", "فقط چهار تا."]
+    }
+  },
+  {
+    "id": "universal_a1_473_fr",
+    "word": "cinq",
+    "translations": {
+      "en": "five",
+      "de": "fünf",
+      "ar": "خمسة",
+      "fr": "cinq",
+      "it": "cinque",
+      "ru": "пять",
+      "es": "cinco",
+      "pl": "pięć",
+      "fa": "پنج"
+    },
+    "examples": {
+      "en": ["Five people.", "I have five books.", "Only five."],
+      "de": ["Fünf Leute.", "Ich habe fünf Bücher.", "Nur fünf."],
+      "ar": ["خمسة أشخاص.", "لدي خمسة كتب.", "خمسة فقط."],
+      "fr": ["Cinq personnes.", "J'ai cinq livres.", "Seulement cinq."],
+      "it": ["Cinque persone.", "Ho cinque libri.", "Solo cinque."],
+      "ru": ["Пять человек.", "У меня пять книг.", "Только пять."],
+      "es": ["Cinco personas.", "Tengo cinco libros.", "Solo cinco."],
+      "pl": ["Pięć osób.", "Mam pięć książek.", "Tylko pięć."],
+      "fa": ["پنج نفر.", "پنج کتاب دارم.", "فقط پنج تا."]
+    }
+  },
+  {
+    "id": "universal_a1_474_fr",
+    "word": "six",
+    "translations": {
+      "en": "six",
+      "de": "sechs",
+      "ar": "ستة",
+      "fr": "six",
+      "it": "sei",
+      "ru": "шесть",
+      "es": "seis",
+      "pl": "sześć",
+      "fa": "شش"
+    },
+    "examples": {
+      "en": ["Six people.", "I have six books.", "Only six."],
+      "de": ["Sechs Leute.", "Ich habe sechs Bücher.", "Nur sechs."],
+      "ar": ["ستة أشخاص.", "لدي ستة كتب.", "ستة فقط."],
+      "fr": ["Six personnes.", "J'ai six livres.", "Seulement six."],
+      "it": ["Sei persone.", "Ho sei libri.", "Solo sei."],
+      "ru": ["Шесть человек.", "У меня шесть книг.", "Только шесть."],
+      "es": ["Seis personas.", "Tengo seis libros.", "Solo seis."],
+      "pl": ["Sześć osób.", "Mam sześć książek.", "Tylko sześć."],
+      "fa": ["شش نفر.", "شش کتاب دارم.", "فقط شش تا."]
+    }
+  },
+  {
+    "id": "universal_a1_475_fr",
+    "word": "sept",
+    "translations": {
+      "en": "seven",
+      "de": "sieben",
+      "ar": "سبعة",
+      "fr": "sept",
+      "it": "sette",
+      "ru": "семь",
+      "es": "siete",
+      "pl": "siedem",
+      "fa": "هفت"
+    },
+    "examples": {
+      "en": ["Seven people.", "I have seven books.", "Only seven."],
+      "de": ["Sieben Leute.", "Ich habe sieben Bücher.", "Nur sieben."],
+      "ar": ["سبعة أشخاص.", "لدي سبعة كتب.", "سبعة فقط."],
+      "fr": ["Sept personnes.", "J'ai sept livres.", "Seulement sept."],
+      "it": ["Sette persone.", "Ho sette libri.", "Solo sette."],
+      "ru": ["Семь человек.", "У меня семь книг.", "Только семь."],
+      "es": ["Siete personas.", "Tengo siete libros.", "Solo siete."],
+      "pl": ["Siedem osób.", "Mam siedem książek.", "Tylko siedem."],
+      "fa": ["هفت نفر.", "هفت کتاب دارم.", "فقط هفت تا."]
+    }
+  },
+  {
+    "id": "universal_a1_476_fr",
+    "word": "huit",
+    "translations": {
+      "en": "eight",
+      "de": "acht",
+      "ar": "ثمانية",
+      "fr": "huit",
+      "it": "otto",
+      "ru": "восемь",
+      "es": "ocho",
+      "pl": "osiem",
+      "fa": "هشت"
+    },
+    "examples": {
+      "en": ["Eight people.", "I have eight books.", "Only eight."],
+      "de": ["Acht Leute.", "Ich habe acht Bücher.", "Nur acht."],
+      "ar": ["ثمانية أشخاص.", "لدي ثمانية كتب.", "ثمانية فقط."],
+      "fr": ["Huit personnes.", "J'ai huit livres.", "Seulement huit."],
+      "it": ["Otto persone.", "Ho otto libri.", "Solo otto."],
+      "ru": ["Восемь человек.", "У меня восемь книг.", "Только восемь."],
+      "es": ["Ocho personas.", "Tengo ocho libros.", "Solo ocho."],
+      "pl": ["Osiem osób.", "Mam osiem książek.", "Tylko osiem."],
+      "fa": ["هشت نفر.", "هشت کتاب دارم.", "فقط هشت تا."]
+    }
+  },
+  {
+    "id": "universal_a1_477_fr",
+    "word": "neuf",
+    "translations": {
+      "en": "nine",
+      "de": "neun",
+      "ar": "تسعة",
+      "fr": "neuf",
+      "it": "nove",
+      "ru": "девять",
+      "es": "nueve",
+      "pl": "dziewięć",
+      "fa": "نه"
+    },
+    "examples": {
+      "en": ["Nine people.", "I have nine books.", "Only nine."],
+      "de": ["Neun Leute.", "Ich habe neun Bücher.", "Nur neun."],
+      "ar": ["تسعة أشخاص.", "لدي تسعة كتب.", "تسعة فقط."],
+      "fr": ["Neuf personnes.", "J'ai neuf livres.", "Seulement neuf."],
+      "it": ["Nove persone.", "Ho nove libri.", "Solo nove."],
+      "ru": ["Девять человек.", "У меня девять книг.", "Только девять."],
+      "es": ["Nueve personas.", "Tengo nueve libros.", "Solo nueve."],
+      "pl": ["Dziewięć osób.", "Mam dziewięć książek.", "Tylko dziewięć."],
+      "fa": ["نه نفر.", "نه کتاب دارم.", "فقط نه تا."]
+    }
+  },
+  {
+    "id": "universal_a1_478_fr",
+    "word": "dix",
+    "translations": {
+      "en": "ten",
+      "de": "zehn",
+      "ar": "عشرة",
+      "fr": "dix",
+      "it": "dieci",
+      "ru": "десять",
+      "es": "diez",
+      "pl": "dziesięć",
+      "fa": "ده"
+    },
+    "examples": {
+      "en": ["Ten people.", "I have ten books.", "Only ten."],
+      "de": ["Zehn Leute.", "Ich habe zehn Bücher.", "Nur zehn."],
+      "ar": ["عشرة أشخاص.", "لدي عشرة كتب.", "عشرة فقط."],
+      "fr": ["Dix personnes.", "J'ai dix livres.", "Seulement dix."],
+      "it": ["Dieci persone.", "Ho dieci libri.", "Solo dieci."],
+      "ru": ["Десять человек.", "У меня десять книг.", "Только десять."],
+      "es": ["Diez personas.", "Tengo diez libros.", "Solo diez."],
+      "pl": ["Dziesięć osób.", "Mam dziesięć książek.", "Tylko dziesięć."],
+      "fa": ["ده نفر.", "ده کتاب دارم.", "فقط ده تا."]
+    }
+  },
+  {
+    "id": "universal_a1_479_fr",
+    "word": "vingt",
+    "translations": {
+      "en": "twenty",
+      "de": "zwanzig",
+      "ar": "عشرون",
+      "fr": "vingt",
+      "it": "venti",
+      "ru": "двадцать",
+      "es": "veinte",
+      "pl": "dwadzieścia",
+      "fa": "بیست"
+    },
+    "examples": {
+      "en": ["Twenty people.", "I am twenty years old.", "Only twenty."],
+      "de": ["Zwanzig Leute.", "Ich bin zwanzig Jahre alt.", "Nur zwanzig."],
+      "ar": ["عشرون شخصاً.", "أنا عمري عشرون سنة.", "عشرون فقط."],
+      "fr": ["Vingt personnes.", "J'ai vingt ans.", "Seulement vingt."],
+      "it": ["Venti persone.", "Ho vent'anni.", "Solo venti."],
+      "ru": ["Двадцать человек.", "Мне двадцать лет.", "Только двадцать."],
+      "es": ["Veinte personas.", "Tengo veinte años.", "Solo veinte."],
+      "pl": ["Dwadzieścia osób.", "Mam dwadzieścia lat.", "Tylko dwadzieścia."],
+      "fa": ["بیست نفر.", "بیست ساله هستم.", "فقط بیست تا."]
+    }
+  },
+  {
+    "id": "universal_a1_480_fr",
+    "word": "cent",
+    "translations": {
+      "en": "hundred",
+      "de": "hundert",
+      "ar": "مائة",
+      "fr": "cent",
+      "it": "cento",
+      "ru": "сто",
+      "es": "cien",
+      "pl": "sto",
+      "fa": "صد"
+    },
+    "examples": {
+      "en": ["One hundred people.", "One hundred euros.", "About one hundred."],
+      "de": ["Einhundert Leute.", "Einhundert Euro.", "Etwa einhundert."],
+      "ar": ["مائة شخص.", "مائة يورو.", "حوالي مائة."],
+      "fr": ["Cent personnes.", "Cent euros.", "Environ cent."],
+      "it": ["Cento persone.", "Cento euro.", "Circa cento."],
+      "ru": ["Сто человек.", "Сто евро.", "Около ста."],
+      "es": ["Cien personas.", "Cien euros.", "Aproximadamente cien."],
+      "pl": ["Sto osób.", "Sto euro.", "Około stu."],
+      "fa": ["صد نفر.", "صد یورو.", "حدود صد تا."]
+    }
+  }
+]

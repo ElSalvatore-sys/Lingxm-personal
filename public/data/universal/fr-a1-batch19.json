@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_361_fr",
+    "word": "nom",
+    "translations": {
+      "en": "name",
+      "de": "Name",
+      "ar": "اسم",
+      "fr": "nom",
+      "it": "nome",
+      "ru": "имя",
+      "es": "nombre",
+      "pl": "imię, nazwisko",
+      "fa": "نام"
+    },
+    "examples": {
+      "en": ["My name is John.", "What's your name?", "Her name."],
+      "de": ["Mein Name ist John.", "Wie heißt du?", "Ihr Name."],
+      "ar": ["اسمي جون.", "ما اسمك؟", "اسمها."],
+      "fr": ["Je m'appelle Jean.", "Comment tu t'appelles?", "Son nom."],
+      "it": ["Mi chiamo Giovanni.", "Come ti chiami?", "Il suo nome."],
+      "ru": ["Меня зовут Джон.", "Как тебя зовут?", "Её имя."],
+      "es": ["Me llamo Juan.", "¿Cómo te llamas?", "Su nombre."],
+      "pl": ["Nazywam się Jan.", "Jak się nazywasz?", "Jej imię."],
+      "fa": ["نام من جان است.", "اسمت چیست؟", "نام او."]
+    }
+  },
+  {
+    "id": "universal_a1_362_fr",
+    "word": "âge",
+    "translations": {
+      "en": "age",
+      "de": "Alter",
+      "ar": "عمر",
+      "fr": "âge",
+      "it": "età",
+      "ru": "возраст",
+      "es": "edad",
+      "pl": "wiek",
+      "fa": "سن"
+    },
+    "examples": {
+      "en": ["What's your age?", "I'm 25 years old.", "His age."],
+      "de": ["Wie alt bist du?", "Ich bin 25 Jahre alt.", "Sein Alter."],
+      "ar": ["كم عمرك؟", "عمري 25 سنة.", "عمره."],
+      "fr": ["Quel âge as-tu?", "J'ai 25 ans.", "Son âge."],
+      "it": ["Quanti anni hai?", "Ho 25 anni.", "La sua età."],
+      "ru": ["Сколько тебе лет?", "Мне 25 лет.", "Его возраст."],
+      "es": ["¿Cuántos años tienes?", "Tengo 25 años.", "Su edad."],
+      "pl": ["Ile masz lat?", "Mam 25 lat.", "Jego wiek."],
+      "fa": ["چند ساله هستی؟", "من 25 ساله هستم.", "سن او."]
+    }
+  },
+  {
+    "id": "universal_a1_363_fr",
+    "word": "temps",
+    "translations": {
+      "en": "time, weather",
+      "de": "Zeit, Wetter",
+      "ar": "وقت، طقس",
+      "fr": "temps",
+      "it": "tempo",
+      "ru": "время, погода",
+      "es": "tiempo",
+      "pl": "czas, pogoda",
+      "fa": "زمان، هوا"
+    },
+    "examples": {
+      "en": ["What time is it?", "Good weather.", "Free time."],
+      "de": ["Wie spät ist es?", "Gutes Wetter.", "Freizeit."],
+      "ar": ["كم الساعة؟", "طقس جيد.", "وقت فراغ."],
+      "fr": ["Quelle heure est-il?", "Bon temps.", "Temps libre."],
+      "it": ["Che ore sono?", "Bel tempo.", "Tempo libero."],
+      "ru": ["Который час?", "Хорошая погода.", "Свободное время."],
+      "es": ["¿Qué hora es?", "Buen tiempo.", "Tiempo libre."],
+      "pl": ["Która godzina?", "Dobra pogoda.", "Wolny czas."],
+      "fa": ["ساعت چند است؟", "هوای خوب.", "وقت آزاد."]
+    }
+  },
+  {
+    "id": "universal_a1_364_fr",
+    "word": "argent",
+    "translations": {
+      "en": "money, silver",
+      "de": "Geld, Silber",
+      "ar": "مال، فضة",
+      "fr": "argent",
+      "it": "denaro, soldi",
+      "ru": "деньги, серебро",
+      "es": "dinero, plata",
+      "pl": "pieniądze, srebro",
+      "fa": "پول، نقره"
+    },
+    "examples": {
+      "en": ["I need money.", "Save money.", "Much money."],
+      "de": ["Ich brauche Geld.", "Geld sparen.", "Viel Geld."],
+      "ar": ["أنا أحتاج مالاً.", "توفير المال.", "مال كثير."],
+      "fr": ["J'ai besoin d'argent.", "Économiser de l'argent.", "Beaucoup d'argent."],
+      "it": ["Ho bisogno di soldi.", "Risparmiare soldi.", "Molti soldi."],
+      "ru": ["Мне нужны деньги.", "Экономить деньги.", "Много денег."],
+      "es": ["Necesito dinero.", "Ahorrar dinero.", "Mucho dinero."],
+      "pl": ["Potrzebuję pieniędzy.", "Oszczędzać pieniądze.", "Dużo pieniędzy."],
+      "fa": ["من به پول نیاز دارم.", "پول پس‌انداز کردن.", "پول زیاد."]
+    }
+  },
+  {
+    "id": "universal_a1_365_fr",
+    "word": "prix",
+    "translations": {
+      "en": "price",
+      "de": "Preis",
+      "ar": "سعر، ثمن",
+      "fr": "prix",
+      "it": "prezzo",
+      "ru": "цена",
+      "es": "precio",
+      "pl": "cena",
+      "fa": "قیمت"
+    },
+    "examples": {
+      "en": ["What's the price?", "Good price.", "High price."],
+      "de": ["Was ist der Preis?", "Guter Preis.", "Hoher Preis."],
+      "ar": ["ما هو السعر؟", "سعر جيد.", "سعر مرتفع."],
+      "fr": ["Quel est le prix?", "Bon prix.", "Prix élevé."],
+      "it": ["Qual è il prezzo?", "Buon prezzo.", "Prezzo alto."],
+      "ru": ["Какая цена?", "Хорошая цена.", "Высокая цена."],
+      "es": ["¿Cuál es el precio?", "Buen precio.", "Precio alto."],
+      "pl": ["Jaka jest cena?", "Dobra cena.", "Wysoka cena."],
+      "fa": ["قیمت چقدر است؟", "قیمت خوب.", "قیمت بالا."]
+    }
+  },
+  {
+    "id": "universal_a1_366_fr",
+    "word": "chose",
+    "translations": {
+      "en": "thing",
+      "de": "Ding, Sache",
+      "ar": "شيء",
+      "fr": "chose",
+      "it": "cosa",
+      "ru": "вещь",
+      "es": "cosa",
+      "pl": "rzecz",
+      "fa": "چیز"
+    },
+    "examples": {
+      "en": ["Many things.", "What thing?", "Small thing."],
+      "de": ["Viele Dinge.", "Welche Sache?", "Kleine Sache."],
+      "ar": ["أشياء كثيرة.", "أي شيء؟", "شيء صغير."],
+      "fr": ["Beaucoup de choses.", "Quelle chose?", "Petite chose."],
+      "it": ["Molte cose.", "Quale cosa?", "Cosa piccola."],
+      "ru": ["Много вещей.", "Какая вещь?", "Маленькая вещь."],
+      "es": ["Muchas cosas.", "¿Qué cosa?", "Cosa pequeña."],
+      "pl": ["Wiele rzeczy.", "Jaka rzecz?", "Mała rzecz."],
+      "fa": ["چیزهای زیاد.", "کدام چیز؟", "چیز کوچک."]
+    }
+  },
+  {
+    "id": "universal_a1_367_fr",
+    "word": "objet",
+    "translations": {
+      "en": "object",
+      "de": "Gegenstand, Objekt",
+      "ar": "شيء، جسم",
+      "fr": "objet",
+      "it": "oggetto",
+      "ru": "предмет, объект",
+      "es": "objeto",
+      "pl": "przedmiot, obiekt",
+      "fa": "شیء، جسم"
+    },
+    "examples": {
+      "en": ["Lost object.", "Small object.", "Find the object."],
+      "de": ["Verlorener Gegenstand.", "Kleiner Gegenstand.", "Finde den Gegenstand."],
+      "ar": ["شيء مفقود.", "شيء صغير.", "ابحث عن الشيء."],
+      "fr": ["Objet perdu.", "Petit objet.", "Trouve l'objet."],
+      "it": ["Oggetto perso.", "Oggetto piccolo.", "Trova l'oggetto."],
+      "ru": ["Потерянный предмет.", "Маленький предмет.", "Найди предмет."],
+      "es": ["Objeto perdido.", "Objeto pequeño.", "Encuentra el objeto."],
+      "pl": ["Zagubiony przedmiot.", "Mały przedmiot.", "Znajdź przedmiot."],
+      "fa": ["شیء گم شده.", "شیء کوچک.", "شیء را پیدا کن."]
+    }
+  },
+  {
+    "id": "universal_a1_368_fr",
+    "word": "voiture",
+    "translations": {
+      "en": "car",
+      "de": "Auto",
+      "ar": "سيارة",
+      "fr": "voiture",
+      "it": "macchina, auto",
+      "ru": "машина, автомобиль",
+      "es": "coche, carro",
+      "pl": "samochód",
+      "fa": "ماشین، اتومبیل"
+    },
+    "examples": {
+      "en": ["New car.", "I drive a car.", "Red car."],
+      "de": ["Neues Auto.", "Ich fahre ein Auto.", "Rotes Auto."],
+      "ar": ["سيارة جديدة.", "أنا أقود سيارة.", "سيارة حمراء."],
+      "fr": ["Nouvelle voiture.", "Je conduis une voiture.", "Voiture rouge."],
+      "it": ["Macchina nuova.", "Io guido una macchina.", "Macchina rossa."],
+      "ru": ["Новая машина.", "Я вожу машину.", "Красная машина."],
+      "es": ["Coche nuevo.", "Yo conduzco un coche.", "Coche rojo."],
+      "pl": ["Nowy samochód.", "Ja prowadzę samochód.", "Czerwony samochód."],
+      "fa": ["ماشین جدید.", "من ماشین رانندگی می‌کنم.", "ماشین قرمز."]
+    }
+  },
+  {
+    "id": "universal_a1_369_fr",
+    "word": "bus",
+    "translations": {
+      "en": "bus",
+      "de": "Bus",
+      "ar": "حافلة",
+      "fr": "bus",
+      "it": "autobus",
+      "ru": "автобус",
+      "es": "autobús",
+      "pl": "autobus",
+      "fa": "اتوبوس"
+    },
+    "examples": {
+      "en": ["I take the bus.", "City bus.", "Bus stop."],
+      "de": ["Ich nehme den Bus.", "Stadtbus.", "Bushaltestelle."],
+      "ar": ["أنا آخذ الحافلة.", "حافلة المدينة.", "محطة الحافلة."],
+      "fr": ["Je prends le bus.", "Bus de ville.", "Arrêt de bus."],
+      "it": ["Io prendo l'autobus.", "Autobus cittadino.", "Fermata del bus."],
+      "ru": ["Я езжу на автобусе.", "Городской автобус.", "Автобусная остановка."],
+      "es": ["Yo tomo el autobús.", "Autobús urbano.", "Parada de autobús."],
+      "pl": ["Ja biorę autobus.", "Autobus miejski.", "Przystanek autobusowy."],
+      "fa": ["من اتوبوس سوار می‌شوم.", "اتوبوس شهری.", "ایستگاه اتوبوس."]
+    }
+  },
+  {
+    "id": "universal_a1_370_fr",
+    "word": "train",
+    "translations": {
+      "en": "train",
+      "de": "Zug",
+      "ar": "قطار",
+      "fr": "train",
+      "it": "treno",
+      "ru": "поезд",
+      "es": "tren",
+      "pl": "pociąg",
+      "fa": "قطار"
+    },
+    "examples": {
+      "en": ["I take the train.", "Fast train.", "Train station."],
+      "de": ["Ich nehme den Zug.", "Schneller Zug.", "Bahnhof."],
+      "ar": ["أنا آخذ القطار.", "قطار سريع.", "محطة القطار."],
+      "fr": ["Je prends le train.", "Train rapide.", "Gare."],
+      "it": ["Io prendo il treno.", "Treno veloce.", "Stazione."],
+      "ru": ["Я езжу на поезде.", "Быстрый поезд.", "Вокзал."],
+      "es": ["Yo tomo el tren.", "Tren rápido.", "Estación de tren."],
+      "pl": ["Ja biorę pociąg.", "Szybki pociąg.", "Dworzec."],
+      "fa": ["من قطار سوار می‌شوم.", "قطار سریع.", "ایستگاه قطار."]
+    }
+  },
+  {
+    "id": "universal_a1_371_fr",
+    "word": "vélo",
+    "translations": {
+      "en": "bicycle, bike",
+      "de": "Fahrrad",
+      "ar": "دراجة",
+      "fr": "vélo",
+      "it": "bicicletta",
+      "ru": "велосипед",
+      "es": "bicicleta",
+      "pl": "rower",
+      "fa": "دوچرخه"
+    },
+    "examples": {
+      "en": ["I ride a bike.", "New bicycle.", "Red bike."],
+      "de": ["Ich fahre Fahrrad.", "Neues Fahrrad.", "Rotes Fahrrad."],
+      "ar": ["أنا أركب دراجة.", "دراجة جديدة.", "دراجة حمراء."],
+      "fr": ["Je fais du vélo.", "Nouveau vélo.", "Vélo rouge."],
+      "it": ["Io vado in bicicletta.", "Bicicletta nuova.", "Bici rossa."],
+      "ru": ["Я езжу на велосипеде.", "Новый велосипед.", "Красный велосипед."],
+      "es": ["Yo ando en bicicleta.", "Bicicleta nueva.", "Bici roja."],
+      "pl": ["Ja jeżdżę na rowerze.", "Nowy rower.", "Czerwony rower."],
+      "fa": ["من دوچرخه سواری می‌کنم.", "دوچرخه جدید.", "دوچرخه قرمز."]
+    }
+  },
+  {
+    "id": "universal_a1_372_fr",
+    "word": "avion",
+    "translations": {
+      "en": "airplane, plane",
+      "de": "Flugzeug",
+      "ar": "طائرة",
+      "fr": "avion",
+      "it": "aereo",
+      "ru": "самолет",
+      "es": "avión",
+      "pl": "samolot",
+      "fa": "هواپیما"
+    },
+    "examples": {
+      "en": ["I fly by plane.", "Big airplane.", "The plane lands."],
+      "de": ["Ich fliege mit dem Flugzeug.", "Großes Flugzeug.", "Das Flugzeug landet."],
+      "ar": ["أنا أسافر بالطائرة.", "طائرة كبيرة.", "الطائرة تهبط."],
+      "fr": ["Je voyage en avion.", "Grand avion.", "L'avion atterrit."],
+      "it": ["Io viaggio in aereo.", "Aereo grande.", "L'aereo atterra."],
+      "ru": ["Я лечу на самолете.", "Большой самолет.", "Самолет приземляется."],
+      "es": ["Yo viajo en avión.", "Avión grande.", "El avión aterriza."],
+      "pl": ["Ja lecę samolotem.", "Duży samolot.", "Samolot ląduje."],
+      "fa": ["من با هواپیما سفر می‌کنم.", "هواپیمای بزرگ.", "هواپیما فرود می‌آید."]
+    }
+  },
+  {
+    "id": "universal_a1_373_fr",
+    "word": "bateau",
+    "translations": {
+      "en": "boat, ship",
+      "de": "Boot, Schiff",
+      "ar": "قارب، سفينة",
+      "fr": "bateau",
+      "it": "barca, nave",
+      "ru": "лодка, корабль",
+      "es": "barco",
+      "pl": "łódź, statek",
+      "fa": "قایق، کشتی"
+    },
+    "examples": {
+      "en": ["I travel by boat.", "Small boat.", "The boat floats."],
+      "de": ["Ich reise mit dem Boot.", "Kleines Boot.", "Das Boot schwimmt."],
+      "ar": ["أنا أسافر بالقارب.", "قارب صغير.", "القارب يطفو."],
+      "fr": ["Je voyage en bateau.", "Petit bateau.", "Le bateau flotte."],
+      "it": ["Io viaggio in barca.", "Barca piccola.", "La barca galleggia."],
+      "ru": ["Я путешествую на лодке.", "Маленькая лодка.", "Лодка плывет."],
+      "es": ["Yo viajo en barco.", "Barco pequeño.", "El barco flota."],
+      "pl": ["Ja podróżuję łodzią.", "Mała łódź.", "Łódź pływa."],
+      "fa": ["من با قایق سفر می‌کنم.", "قایق کوچک.", "قایق شناور است."]
+    }
+  },
+  {
+    "id": "universal_a1_374_fr",
+    "word": "livre",
+    "translations": {
+      "en": "book",
+      "de": "Buch",
+      "ar": "كتاب",
+      "fr": "livre",
+      "it": "libro",
+      "ru": "книга",
+      "es": "libro",
+      "pl": "książka",
+      "fa": "کتاب"
+    },
+    "examples": {
+      "en": ["I read a book.", "Good book.", "New book."],
+      "de": ["Ich lese ein Buch.", "Gutes Buch.", "Neues Buch."],
+      "ar": ["أنا أقرأ كتاباً.", "كتاب جيد.", "كتاب جديد."],
+      "fr": ["Je lis un livre.", "Bon livre.", "Nouveau livre."],
+      "it": ["Io leggo un libro.", "Buon libro.", "Libro nuovo."],
+      "ru": ["Я читаю книгу.", "Хорошая книга.", "Новая книга."],
+      "es": ["Yo leo un libro.", "Buen libro.", "Libro nuevo."],
+      "pl": ["Ja czytam książkę.", "Dobra książka.", "Nowa książka."],
+      "fa": ["من کتاب می‌خوانم.", "کتاب خوب.", "کتاب جدید."]
+    }
+  },
+  {
+    "id": "universal_a1_375_fr",
+    "word": "stylo",
+    "translations": {
+      "en": "pen",
+      "de": "Stift, Kugelschreiber",
+      "ar": "قلم",
+      "fr": "stylo",
+      "it": "penna",
+      "ru": "ручка",
+      "es": "bolígrafo",
+      "pl": "długopis",
+      "fa": "خودکار"
+    },
+    "examples": {
+      "en": ["I write with a pen.", "Blue pen.", "My pen."],
+      "de": ["Ich schreibe mit einem Stift.", "Blauer Stift.", "Mein Stift."],
+      "ar": ["أنا أكتب بقلم.", "قلم أزرق.", "قلمي."],
+      "fr": ["J'écris avec un stylo.", "Stylo bleu.", "Mon stylo."],
+      "it": ["Io scrivo con una penna.", "Penna blu.", "La mia penna."],
+      "ru": ["Я пишу ручкой.", "Синяя ручка.", "Моя ручка."],
+      "es": ["Yo escribo con un bolígrafo.", "Bolígrafo azul.", "Mi bolígrafo."],
+      "pl": ["Ja piszę długopisem.", "Niebieski długopis.", "Mój długopis."],
+      "fa": ["من با خودکار می‌نویسم.", "خودکار آبی.", "خودکار من."]
+    }
+  },
+  {
+    "id": "universal_a1_376_fr",
+    "word": "crayon",
+    "translations": {
+      "en": "pencil",
+      "de": "Bleistift",
+      "ar": "قلم رصاص",
+      "fr": "crayon",
+      "it": "matita",
+      "ru": "карандаш",
+      "es": "lápiz",
+      "pl": "ołówek",
+      "fa": "مداد"
+    },
+    "examples": {
+      "en": ["I draw with a pencil.", "Sharp pencil.", "Yellow pencil."],
+      "de": ["Ich zeichne mit einem Bleistift.", "Spitzer Bleistift.", "Gelber Bleistift."],
+      "ar": ["أنا أرسم بقلم رصاص.", "قلم رصاص مبري.", "قلم رصاص أصفر."],
+      "fr": ["Je dessine avec un crayon.", "Crayon pointu.", "Crayon jaune."],
+      "it": ["Io disegno con una matita.", "Matita appuntita.", "Matita gialla."],
+      "ru": ["Я рисую карандашом.", "Острый карандаш.", "Желтый карандаш."],
+      "es": ["Yo dibujo con un lápiz.", "Lápiz afilado.", "Lápiz amarillo."],
+      "pl": ["Ja rysuję ołówkiem.", "Ostry ołówek.", "Żółty ołówek."],
+      "fa": ["من با مداد نقاشی می‌کشم.", "مداد تیز.", "مداد زرد."]
+    }
+  },
+  {
+    "id": "universal_a1_377_fr",
+    "word": "papier",
+    "translations": {
+      "en": "paper",
+      "de": "Papier",
+      "ar": "ورق",
+      "fr": "papier",
+      "it": "carta",
+      "ru": "бумага",
+      "es": "papel",
+      "pl": "papier",
+      "fa": "کاغذ"
+    },
+    "examples": {
+      "en": ["I write on paper.", "White paper.", "Sheet of paper."],
+      "de": ["Ich schreibe auf Papier.", "Weißes Papier.", "Blatt Papier."],
+      "ar": ["أنا أكتب على الورق.", "ورق أبيض.", "ورقة."],
+      "fr": ["J'écris sur du papier.", "Papier blanc.", "Feuille de papier."],
+      "it": ["Io scrivo su carta.", "Carta bianca.", "Foglio di carta."],
+      "ru": ["Я пишу на бумаге.", "Белая бумага.", "Лист бумаги."],
+      "es": ["Yo escribo en papel.", "Papel blanco.", "Hoja de papel."],
+      "pl": ["Ja piszę na papierze.", "Biały papier.", "Kartka papieru."],
+      "fa": ["من روی کاغذ می‌نویسم.", "کاغذ سفید.", "برگ کاغذ."]
+    }
+  },
+  {
+    "id": "universal_a1_378_fr",
+    "word": "téléphone",
+    "translations": {
+      "en": "telephone, phone",
+      "de": "Telefon",
+      "ar": "هاتف",
+      "fr": "téléphone",
+      "it": "telefono",
+      "ru": "телефон",
+      "es": "teléfono",
+      "pl": "telefon",
+      "fa": "تلفن"
+    },
+    "examples": {
+      "en": ["My phone.", "I call by phone.", "Mobile phone."],
+      "de": ["Mein Telefon.", "Ich rufe an.", "Mobiltelefon."],
+      "ar": ["هاتفي.", "أنا أتصل بالهاتف.", "هاتف محمول."],
+      "fr": ["Mon téléphone.", "J'appelle par téléphone.", "Téléphone portable."],
+      "it": ["Il mio telefono.", "Io chiamo per telefono.", "Telefono cellulare."],
+      "ru": ["Мой телефон.", "Я звоню по телефону.", "Мобильный телефон."],
+      "es": ["Mi teléfono.", "Yo llamo por teléfono.", "Teléfono móvil."],
+      "pl": ["Mój telefon.", "Ja dzwonię telefonem.", "Telefon komórkowy."],
+      "fa": ["تلفن من.", "من با تلفن زنگ می‌زنم.", "تلفن همراه."]
+    }
+  },
+  {
+    "id": "universal_a1_379_fr",
+    "word": "ordinateur",
+    "translations": {
+      "en": "computer",
+      "de": "Computer",
+      "ar": "حاسوب، كمبيوتر",
+      "fr": "ordinateur",
+      "it": "computer",
+      "ru": "компьютер",
+      "es": "computadora, ordenador",
+      "pl": "komputer",
+      "fa": "رایانه، کامپیوتر"
+    },
+    "examples": {
+      "en": ["I use a computer.", "New computer.", "My computer."],
+      "de": ["Ich benutze einen Computer.", "Neuer Computer.", "Mein Computer."],
+      "ar": ["أنا أستخدم حاسوباً.", "حاسوب جديد.", "حاسوبي."],
+      "fr": ["J'utilise un ordinateur.", "Nouvel ordinateur.", "Mon ordinateur."],
+      "it": ["Io uso un computer.", "Computer nuovo.", "Il mio computer."],
+      "ru": ["Я использую компьютер.", "Новый компьютер.", "Мой компьютер."],
+      "es": ["Yo uso una computadora.", "Computadora nueva.", "Mi computadora."],
+      "pl": ["Ja używam komputera.", "Nowy komputer.", "Mój komputer."],
+      "fa": ["من از کامپیوتر استفاده می‌کنم.", "کامپیوتر جدید.", "کامپیوتر من."]
+    }
+  },
+  {
+    "id": "universal_a1_380_fr",
+    "word": "télévision",
+    "translations": {
+      "en": "television, TV",
+      "de": "Fernseher",
+      "ar": "تلفاز، تلفزيون",
+      "fr": "télévision",
+      "it": "televisione",
+      "ru": "телевизор",
+      "es": "televisión",
+      "pl": "telewizja, telewizor",
+      "fa": "تلویزیون"
+    },
+    "examples": {
+      "en": ["I watch TV.", "Big television.", "Turn on the TV."],
+      "de": ["Ich schaue Fernsehen.", "Großer Fernseher.", "Schalte den Fernseher ein."],
+      "ar": ["أنا أشاهد التلفاز.", "تلفاز كبير.", "شغّل التلفاز."],
+      "fr": ["Je regarde la télé.", "Grande télévision.", "Allume la télé."],
+      "it": ["Io guardo la TV.", "Televisione grande.", "Accendi la TV."],
+      "ru": ["Я смотрю телевизор.", "Большой телевизор.", "Включи телевизор."],
+      "es": ["Yo veo la tele.", "Televisión grande.", "Enciende la tele."],
+      "pl": ["Ja oglądam telewizję.", "Duży telewizor.", "Włącz telewizor."],
+      "fa": ["من تلویزیون تماشا می‌کنم.", "تلویزیون بزرگ.", "تلویزیون را روشن کن."]
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_141_fr",
+    "word": "pain",
+    "translations": {
+      "en": "bread",
+      "de": "Brot",
+      "ar": "خبز",
+      "fr": "pain",
+      "it": "pane",
+      "ru": "хлеб",
+      "es": "pan",
+      "pl": "chleb",
+      "fa": "نان"
+    },
+    "examples": {
+      "en": ["I eat bread.", "Fresh bread.", "Bread and butter."],
+      "de": ["Ich esse Brot.", "Frisches Brot.", "Brot und Butter."],
+      "ar": ["أنا آكل الخبز.", "خبز طازج.", "خبز وزبدة."],
+      "fr": ["Je mange du pain.", "Du pain frais.", "Du pain et du beurre."],
+      "it": ["Io mangio pane.", "Pane fresco.", "Pane e burro."],
+      "ru": ["Я ем хлеб.", "Свежий хлеб.", "Хлеб с маслом."],
+      "es": ["Yo como pan.", "Pan fresco.", "Pan y mantequilla."],
+      "pl": ["Ja jem chleb.", "Świeży chleb.", "Chleb i masło."],
+      "fa": ["من نان می‌خورم.", "نان تازه.", "نان و کره."]
+    }
+  },
+  {
+    "id": "universal_a1_142_fr",
+    "word": "eau",
+    "translations": {
+      "en": "water",
+      "de": "Wasser",
+      "ar": "ماء",
+      "fr": "eau",
+      "it": "acqua",
+      "ru": "вода",
+      "es": "agua",
+      "pl": "woda",
+      "fa": "آب"
+    },
+    "examples": {
+      "en": ["I drink water.", "Cold water.", "Glass of water."],
+      "de": ["Ich trinke Wasser.", "Kaltes Wasser.", "Glas Wasser."],
+      "ar": ["أنا أشرب الماء.", "ماء بارد.", "كوب ماء."],
+      "fr": ["Je bois de l'eau.", "L'eau froide.", "Un verre d'eau."],
+      "it": ["Io bevo acqua.", "Acqua fredda.", "Bicchiere d'acqua."],
+      "ru": ["Я пью воду.", "Холодная вода.", "Стакан воды."],
+      "es": ["Yo bebo agua.", "Agua fría.", "Vaso de agua."],
+      "pl": ["Ja piję wodę.", "Zimna woda.", "Szklanka wody."],
+      "fa": ["من آب می‌نوشم.", "آب سرد.", "لیوان آب."]
+    }
+  },
+  {
+    "id": "universal_a1_143_fr",
+    "word": "lait",
+    "translations": {
+      "en": "milk",
+      "de": "Milch",
+      "ar": "حليب",
+      "fr": "lait",
+      "it": "latte",
+      "ru": "молоко",
+      "es": "leche",
+      "pl": "mleko",
+      "fa": "شیر"
+    },
+    "examples": {
+      "en": ["I drink milk.", "Fresh milk.", "Milk and coffee."],
+      "de": ["Ich trinke Milch.", "Frische Milch.", "Milch und Kaffee."],
+      "ar": ["أنا أشرب الحليب.", "حليب طازج.", "حليب وقهوة."],
+      "fr": ["Je bois du lait.", "Du lait frais.", "Du lait et du café."],
+      "it": ["Io bevo latte.", "Latte fresco.", "Latte e caffè."],
+      "ru": ["Я пью молоко.", "Свежее молоко.", "Молоко и кофе."],
+      "es": ["Yo bebo leche.", "Leche fresca.", "Leche y café."],
+      "pl": ["Ja piję mleko.", "Świeże mleko.", "Mleko i kawa."],
+      "fa": ["من شیر می‌نوشم.", "شیر تازه.", "شیر و قهوه."]
+    }
+  },
+  {
+    "id": "universal_a1_144_fr",
+    "word": "café",
+    "translations": {
+      "en": "coffee",
+      "de": "Kaffee",
+      "ar": "قهوة",
+      "fr": "café",
+      "it": "caffè",
+      "ru": "кофе",
+      "es": "café",
+      "pl": "kawa",
+      "fa": "قهوه"
+    },
+    "examples": {
+      "en": ["I drink coffee.", "Hot coffee.", "Coffee with milk."],
+      "de": ["Ich trinke Kaffee.", "Heißer Kaffee.", "Kaffee mit Milch."],
+      "ar": ["أنا أشرب القهوة.", "قهوة ساخنة.", "قهوة بالحليب."],
+      "fr": ["Je bois du café.", "Du café chaud.", "Un café au lait."],
+      "it": ["Io bevo caffè.", "Caffè caldo.", "Caffè con latte."],
+      "ru": ["Я пью кофе.", "Горячий кофе.", "Кофе с молоком."],
+      "es": ["Yo bebo café.", "Café caliente.", "Café con leche."],
+      "pl": ["Ja piję kawę.", "Gorąca kawa.", "Kawa z mlekiem."],
+      "fa": ["من قهوه می‌نوشم.", "قهوه داغ.", "قهوه با شیر."]
+    }
+  },
+  {
+    "id": "universal_a1_145_fr",
+    "word": "thé",
+    "translations": {
+      "en": "tea",
+      "de": "Tee",
+      "ar": "شاي",
+      "fr": "thé",
+      "it": "tè",
+      "ru": "чай",
+      "es": "té",
+      "pl": "herbata",
+      "fa": "چای"
+    },
+    "examples": {
+      "en": ["I drink tea.", "Green tea.", "Hot tea."],
+      "de": ["Ich trinke Tee.", "Grüner Tee.", "Heißer Tee."],
+      "ar": ["أنا أشرب الشاي.", "شاي أخضر.", "شاي ساخن."],
+      "fr": ["Je bois du thé.", "Du thé vert.", "Du thé chaud."],
+      "it": ["Io bevo tè.", "Tè verde.", "Tè caldo."],
+      "ru": ["Я пью чай.", "Зеленый чай.", "Горячий чай."],
+      "es": ["Yo bebo té.", "Té verde.", "Té caliente."],
+      "pl": ["Ja piję herbatę.", "Zielona herbata.", "Gorąca herbata."],
+      "fa": ["من چای می‌نوشم.", "چای سبز.", "چای داغ."]
+    }
+  },
+  {
+    "id": "universal_a1_146_fr",
+    "word": "fromage",
+    "translations": {
+      "en": "cheese",
+      "de": "Käse",
+      "ar": "جبن",
+      "fr": "fromage",
+      "it": "formaggio",
+      "ru": "сыр",
+      "es": "queso",
+      "pl": "ser",
+      "fa": "پنیر"
+    },
+    "examples": {
+      "en": ["I eat cheese.", "French cheese.", "Bread and cheese."],
+      "de": ["Ich esse Käse.", "Französischer Käse.", "Brot und Käse."],
+      "ar": ["أنا آكل الجبن.", "جبن فرنسي.", "خبز وجبن."],
+      "fr": ["Je mange du fromage.", "Du fromage français.", "Du pain et du fromage."],
+      "it": ["Io mangio formaggio.", "Formaggio francese.", "Pane e formaggio."],
+      "ru": ["Я ем сыр.", "Французский сыр.", "Хлеб и сыр."],
+      "es": ["Yo como queso.", "Queso francés.", "Pan y queso."],
+      "pl": ["Ja jem ser.", "Ser francuski.", "Chleb i ser."],
+      "fa": ["من پنیر می‌خورم.", "پنیر فرانسوی.", "نان و پنیر."]
+    }
+  },
+  {
+    "id": "universal_a1_147_fr",
+    "word": "viande",
+    "translations": {
+      "en": "meat",
+      "de": "Fleisch",
+      "ar": "لحم",
+      "fr": "viande",
+      "it": "carne",
+      "ru": "мясо",
+      "es": "carne",
+      "pl": "mięso",
+      "fa": "گوشت"
+    },
+    "examples": {
+      "en": ["I eat meat.", "Red meat.", "Meat and vegetables."],
+      "de": ["Ich esse Fleisch.", "Rotes Fleisch.", "Fleisch und Gemüse."],
+      "ar": ["أنا آكل اللحم.", "لحم أحمر.", "لحم وخضروات."],
+      "fr": ["Je mange de la viande.", "De la viande rouge.", "De la viande et des légumes."],
+      "it": ["Io mangio carne.", "Carne rossa.", "Carne e verdure."],
+      "ru": ["Я ем мясо.", "Красное мясо.", "Мясо и овощи."],
+      "es": ["Yo como carne.", "Carne roja.", "Carne y verduras."],
+      "pl": ["Ja jem mięso.", "Czerwone mięso.", "Mięso i warzywa."],
+      "fa": ["من گوشت می‌خورم.", "گوشت قرمز.", "گوشت و سبزیجات."]
+    }
+  },
+  {
+    "id": "universal_a1_148_fr",
+    "word": "poisson",
+    "translations": {
+      "en": "fish",
+      "de": "Fisch",
+      "ar": "سمك",
+      "fr": "poisson",
+      "it": "pesce",
+      "ru": "рыба",
+      "es": "pescado, pez",
+      "pl": "ryba",
+      "fa": "ماهی"
+    },
+    "examples": {
+      "en": ["I eat fish.", "Fresh fish.", "Fish and rice."],
+      "de": ["Ich esse Fisch.", "Frischer Fisch.", "Fisch und Reis."],
+      "ar": ["أنا آكل السمك.", "سمك طازج.", "سمك وأرز."],
+      "fr": ["Je mange du poisson.", "Du poisson frais.", "Du poisson et du riz."],
+      "it": ["Io mangio pesce.", "Pesce fresco.", "Pesce e riso."],
+      "ru": ["Я ем рыбу.", "Свежая рыба.", "Рыба и рис."],
+      "es": ["Yo como pescado.", "Pescado fresco.", "Pescado y arroz."],
+      "pl": ["Ja jem rybę.", "Świeża ryba.", "Ryba i ryż."],
+      "fa": ["من ماهی می‌خورم.", "ماهی تازه.", "ماهی و برنج."]
+    }
+  },
+  {
+    "id": "universal_a1_149_fr",
+    "word": "fruit",
+    "translations": {
+      "en": "fruit",
+      "de": "Obst, Frucht",
+      "ar": "فاكهة",
+      "fr": "fruit",
+      "it": "frutta",
+      "ru": "фрукт",
+      "es": "fruta",
+      "pl": "owoc",
+      "fa": "میوه"
+    },
+    "examples": {
+      "en": ["I eat fruit.", "Fresh fruit.", "Fruit is healthy."],
+      "de": ["Ich esse Obst.", "Frisches Obst.", "Obst ist gesund."],
+      "ar": ["أنا آكل الفاكهة.", "فاكهة طازجة.", "الفاكهة صحية."],
+      "fr": ["Je mange des fruits.", "Des fruits frais.", "Les fruits sont bons."],
+      "it": ["Io mangio frutta.", "Frutta fresca.", "La frutta fa bene."],
+      "ru": ["Я ем фрукты.", "Свежие фрукты.", "Фрукты полезны."],
+      "es": ["Yo como fruta.", "Fruta fresca.", "La fruta es sana."],
+      "pl": ["Ja jem owoce.", "Świeże owoce.", "Owoce są zdrowe."],
+      "fa": ["من میوه می‌خورم.", "میوه تازه.", "میوه سالم است."]
+    }
+  },
+  {
+    "id": "universal_a1_150_fr",
+    "word": "légume",
+    "translations": {
+      "en": "vegetable",
+      "de": "Gemüse",
+      "ar": "خضروات",
+      "fr": "légume",
+      "it": "verdura",
+      "ru": "овощ",
+      "es": "verdura, vegetal",
+      "pl": "warzywo",
+      "fa": "سبزیجات"
+    },
+    "examples": {
+      "en": ["I eat vegetables.", "Fresh vegetables.", "Vegetables are healthy."],
+      "de": ["Ich esse Gemüse.", "Frisches Gemüse.", "Gemüse ist gesund."],
+      "ar": ["أنا آكل الخضروات.", "خضروات طازجة.", "الخضروات صحية."],
+      "fr": ["Je mange des légumes.", "Des légumes frais.", "Les légumes sont bons."],
+      "it": ["Io mangio verdure.", "Verdure fresche.", "Le verdure fanno bene."],
+      "ru": ["Я ем овощи.", "Свежие овощи.", "Овощи полезны."],
+      "es": ["Yo como verduras.", "Verduras frescas.", "Las verduras son sanas."],
+      "pl": ["Ja jem warzywa.", "Świeże warzywa.", "Warzywa są zdrowe."],
+      "fa": ["من سبزیجات می‌خورم.", "سبزیجات تازه.", "سبزیجات سالم هستند."]
+    }
+  },
+  {
+    "id": "universal_a1_151_fr",
+    "word": "pomme",
+    "translations": {
+      "en": "apple",
+      "de": "Apfel",
+      "ar": "تفاحة",
+      "fr": "pomme",
+      "it": "mela",
+      "ru": "яблоко",
+      "es": "manzana",
+      "pl": "jabłko",
+      "fa": "سیب"
+    },
+    "examples": {
+      "en": ["I eat an apple.", "Red apple.", "Two apples."],
+      "de": ["Ich esse einen Apfel.", "Roter Apfel.", "Zwei Äpfel."],
+      "ar": ["أنا آكل تفاحة.", "تفاحة حمراء.", "تفاحتان."],
+      "fr": ["Je mange une pomme.", "Pomme rouge.", "Deux pommes."],
+      "it": ["Io mangio una mela.", "Mela rossa.", "Due mele."],
+      "ru": ["Я ем яблоко.", "Красное яблоко.", "Два яблока."],
+      "es": ["Yo como una manzana.", "Manzana roja.", "Dos manzanas."],
+      "pl": ["Ja jem jabłko.", "Czerwone jabłko.", "Dwa jabłka."],
+      "fa": ["من یک سیب می‌خورم.", "سیب قرمز.", "دو سیب."]
+    }
+  },
+  {
+    "id": "universal_a1_152_fr",
+    "word": "riz",
+    "translations": {
+      "en": "rice",
+      "de": "Reis",
+      "ar": "أرز",
+      "fr": "riz",
+      "it": "riso",
+      "ru": "рис",
+      "es": "arroz",
+      "pl": "ryż",
+      "fa": "برنج"
+    },
+    "examples": {
+      "en": ["I eat rice.", "White rice.", "Rice and chicken."],
+      "de": ["Ich esse Reis.", "Weißer Reis.", "Reis und Hähnchen."],
+      "ar": ["أنا آكل الأرز.", "أرز أبيض.", "أرز ودجاج."],
+      "fr": ["Je mange du riz.", "Du riz blanc.", "Du riz et du poulet."],
+      "it": ["Io mangio riso.", "Riso bianco.", "Riso e pollo."],
+      "ru": ["Я ем рис.", "Белый рис.", "Рис и курица."],
+      "es": ["Yo como arroz.", "Arroz blanco.", "Arroz y pollo."],
+      "pl": ["Ja jem ryż.", "Biały ryż.", "Ryż i kurczak."],
+      "fa": ["من برنج می‌خورم.", "برنج سفید.", "برنج و مرغ."]
+    }
+  },
+  {
+    "id": "universal_a1_153_fr",
+    "word": "œuf",
+    "translations": {
+      "en": "egg",
+      "de": "Ei",
+      "ar": "بيضة",
+      "fr": "œuf",
+      "it": "uovo",
+      "ru": "яйцо",
+      "es": "huevo",
+      "pl": "jajko",
+      "fa": "تخم‌مرغ"
+    },
+    "examples": {
+      "en": ["I eat eggs.", "Boiled egg.", "Two eggs."],
+      "de": ["Ich esse Eier.", "Gekochtes Ei.", "Zwei Eier."],
+      "ar": ["أنا آكل البيض.", "بيضة مسلوقة.", "بيضتان."],
+      "fr": ["Je mange des œufs.", "Un œuf dur.", "Deux œufs."],
+      "it": ["Io mangio uova.", "Uovo sodo.", "Due uova."],
+      "ru": ["Я ем яйца.", "Вареное яйцо.", "Два яйца."],
+      "es": ["Yo como huevos.", "Huevo hervido.", "Dos huevos."],
+      "pl": ["Ja jem jajka.", "Gotowane jajko.", "Dwa jajka."],
+      "fa": ["من تخم‌مرغ می‌خورم.", "تخم‌مرغ آب‌پز.", "دو تخم‌مرغ."]
+    }
+  },
+  {
+    "id": "universal_a1_154_fr",
+    "word": "salade",
+    "translations": {
+      "en": "salad",
+      "de": "Salat",
+      "ar": "سلطة",
+      "fr": "salade",
+      "it": "insalata",
+      "ru": "салат",
+      "es": "ensalada",
+      "pl": "sałatka",
+      "fa": "سالاد"
+    },
+    "examples": {
+      "en": ["I eat salad.", "Fresh salad.", "Green salad."],
+      "de": ["Ich esse Salat.", "Frischer Salat.", "Grüner Salat."],
+      "ar": ["أنا آكل السلطة.", "سلطة طازجة.", "سلطة خضراء."],
+      "fr": ["Je mange une salade.", "Une salade fraîche.", "Une salade verte."],
+      "it": ["Io mangio insalata.", "Insalata fresca.", "Insalata verde."],
+      "ru": ["Я ем салат.", "Свежий салат.", "Зеленый салат."],
+      "es": ["Yo como ensalada.", "Ensalada fresca.", "Ensalada verde."],
+      "pl": ["Ja jem sałatkę.", "Świeża sałatka.", "Zielona sałatka."],
+      "fa": ["من سالاد می‌خورم.", "سالاد تازه.", "سالاد سبز."]
+    }
+  },
+  {
+    "id": "universal_a1_155_fr",
+    "word": "soupe",
+    "translations": {
+      "en": "soup",
+      "de": "Suppe",
+      "ar": "شوربة، حساء",
+      "fr": "soupe",
+      "it": "zuppa",
+      "ru": "суп",
+      "es": "sopa",
+      "pl": "zupa",
+      "fa": "سوپ"
+    },
+    "examples": {
+      "en": ["I eat soup.", "Hot soup.", "Vegetable soup."],
+      "de": ["Ich esse Suppe.", "Heiße Suppe.", "Gemüsesuppe."],
+      "ar": ["أنا آكل الشوربة.", "شوربة ساخنة.", "شوربة خضروات."],
+      "fr": ["Je mange de la soupe.", "De la soupe chaude.", "Une soupe de légumes."],
+      "it": ["Io mangio zuppa.", "Zuppa calda.", "Zuppa di verdure."],
+      "ru": ["Я ем суп.", "Горячий суп.", "Овощной суп."],
+      "es": ["Yo como sopa.", "Sopa caliente.", "Sopa de verduras."],
+      "pl": ["Ja jem zupę.", "Gorąca zupa.", "Zupa warzywna."],
+      "fa": ["من سوپ می‌خورم.", "سوپ داغ.", "سوپ سبزیجات."]
+    }
+  },
+  {
+    "id": "universal_a1_156_fr",
+    "word": "sucre",
+    "translations": {
+      "en": "sugar",
+      "de": "Zucker",
+      "ar": "سكر",
+      "fr": "sucre",
+      "it": "zucchero",
+      "ru": "сахар",
+      "es": "azúcar",
+      "pl": "cukier",
+      "fa": "شکر"
+    },
+    "examples": {
+      "en": ["I want sugar.", "Two sugars.", "Sugar and tea."],
+      "de": ["Ich will Zucker.", "Zwei Zucker.", "Zucker und Tee."],
+      "ar": ["أنا أريد السكر.", "سكرين.", "سكر وشاي."],
+      "fr": ["Je veux du sucre.", "Deux sucres.", "Du sucre et du thé."],
+      "it": ["Io voglio zucchero.", "Due zuccheri.", "Zucchero e tè."],
+      "ru": ["Я хочу сахар.", "Два сахара.", "Сахар и чай."],
+      "es": ["Yo quiero azúcar.", "Dos azúcares.", "Azúcar y té."],
+      "pl": ["Ja chcę cukier.", "Dwa cukry.", "Cukier i herbata."],
+      "fa": ["من شکر می‌خواهم.", "دو شکر.", "شکر و چای."]
+    }
+  },
+  {
+    "id": "universal_a1_157_fr",
+    "word": "sel",
+    "translations": {
+      "en": "salt",
+      "de": "Salz",
+      "ar": "ملح",
+      "fr": "sel",
+      "it": "sale",
+      "ru": "соль",
+      "es": "sal",
+      "pl": "sól",
+      "fa": "نمک"
+    },
+    "examples": {
+      "en": ["I need salt.", "Pass the salt.", "Salt and pepper."],
+      "de": ["Ich brauche Salz.", "Reich das Salz.", "Salz und Pfeffer."],
+      "ar": ["أنا أحتاج الملح.", "مرر الملح.", "ملح وفلفل."],
+      "fr": ["J'ai besoin de sel.", "Passe le sel.", "Du sel et du poivre."],
+      "it": ["Ho bisogno di sale.", "Passa il sale.", "Sale e pepe."],
+      "ru": ["Мне нужна соль.", "Передай соль.", "Соль и перец."],
+      "es": ["Necesito sal.", "Pasa la sal.", "Sal y pimienta."],
+      "pl": ["Potrzebuję soli.", "Podaj sól.", "Sól i pieprz."],
+      "fa": ["من به نمک نیاز دارم.", "نمک را بده.", "نمک و فلفل."]
+    }
+  },
+  {
+    "id": "universal_a1_158_fr",
+    "word": "beurre",
+    "translations": {
+      "en": "butter",
+      "de": "Butter",
+      "ar": "زبدة",
+      "fr": "beurre",
+      "it": "burro",
+      "ru": "масло",
+      "es": "mantequilla",
+      "pl": "masło",
+      "fa": "کره"
+    },
+    "examples": {
+      "en": ["I want butter.", "Bread and butter.", "Fresh butter."],
+      "de": ["Ich will Butter.", "Brot und Butter.", "Frische Butter."],
+      "ar": ["أنا أريد الزبدة.", "خبز وزبدة.", "زبدة طازجة."],
+      "fr": ["Je veux du beurre.", "Du pain et du beurre.", "Du beurre frais."],
+      "it": ["Io voglio burro.", "Pane e burro.", "Burro fresco."],
+      "ru": ["Я хочу масло.", "Хлеб с маслом.", "Свежее масло."],
+      "es": ["Yo quiero mantequilla.", "Pan y mantequilla.", "Mantequilla fresca."],
+      "pl": ["Ja chcę masło.", "Chleb i masło.", "Świeże masło."],
+      "fa": ["من کره می‌خواهم.", "نان و کره.", "کره تازه."]
+    }
+  },
+  {
+    "id": "universal_a1_159_fr",
+    "word": "jus",
+    "translations": {
+      "en": "juice",
+      "de": "Saft",
+      "ar": "عصير",
+      "fr": "jus",
+      "it": "succo",
+      "ru": "сок",
+      "es": "jugo, zumo",
+      "pl": "sok",
+      "fa": "آب میوه"
+    },
+    "examples": {
+      "en": ["I drink juice.", "Orange juice.", "Fresh juice."],
+      "de": ["Ich trinke Saft.", "Orangensaft.", "Frischer Saft."],
+      "ar": ["أنا أشرب العصير.", "عصير برتقال.", "عصير طازج."],
+      "fr": ["Je bois du jus.", "Du jus d'orange.", "Du jus frais."],
+      "it": ["Io bevo succo.", "Succo d'arancia.", "Succo fresco."],
+      "ru": ["Я пью сок.", "Апельсиновый сок.", "Свежий сок."],
+      "es": ["Yo bebo jugo.", "Jugo de naranja.", "Jugo fresco."],
+      "pl": ["Ja piję sok.", "Sok pomarańczowy.", "Świeży sok."],
+      "fa": ["من آب میوه می‌نوشم.", "آب پرتقال.", "آب میوه تازه."]
+    }
+  },
+  {
+    "id": "universal_a1_160_fr",
+    "word": "gâteau",
+    "translations": {
+      "en": "cake",
+      "de": "Kuchen",
+      "ar": "كعكة",
+      "fr": "gâteau",
+      "it": "torta",
+      "ru": "торт, пирог",
+      "es": "pastel, tarta",
+      "pl": "ciasto",
+      "fa": "کیک"
+    },
+    "examples": {
+      "en": ["I eat cake.", "Birthday cake.", "Chocolate cake."],
+      "de": ["Ich esse Kuchen.", "Geburtstagskuchen.", "Schokoladenkuchen."],
+      "ar": ["أنا آكل الكعكة.", "كعكة عيد ميلاد.", "كعكة الشوكولاتة."],
+      "fr": ["Je mange du gâteau.", "Gâteau d'anniversaire.", "Gâteau au chocolat."],
+      "it": ["Io mangio torta.", "Torta di compleanno.", "Torta al cioccolato."],
+      "ru": ["Я ем торт.", "Праздничный торт.", "Шоколадный торт."],
+      "es": ["Yo como pastel.", "Pastel de cumpleaños.", "Pastel de chocolate."],
+      "pl": ["Ja jem ciasto.", "Tort urodzinowy.", "Ciasto czekoladowe."],
+      "fa": ["من کیک می‌خورم.", "کیک تولد.", "کیک شکلاتی."]
+    }
+  }
+]

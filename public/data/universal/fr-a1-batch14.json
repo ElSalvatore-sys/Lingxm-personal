@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_261_fr",
+    "word": "se lever",
+    "translations": {
+      "en": "to get up, to stand up",
+      "de": "aufstehen",
+      "ar": "يستيقظ، ينهض",
+      "fr": "se lever",
+      "it": "alzarsi",
+      "ru": "вставать, подниматься",
+      "es": "levantarse",
+      "pl": "wstawać",
+      "fa": "بلند شدن"
+    },
+    "examples": {
+      "en": ["I get up early.", "We stand up.", "Do you get up late?"],
+      "de": ["Ich stehe früh auf.", "Wir stehen auf.", "Stehst du spät auf?"],
+      "ar": ["أنا أستيقظ مبكراً.", "نحن ننهض.", "هل تستيقظ متأخراً؟"],
+      "fr": ["Je me lève tôt.", "Nous nous levons.", "Te lèves-tu tard?"],
+      "it": ["Io mi alzo presto.", "Noi ci alziamo.", "Ti alzi tardi?"],
+      "ru": ["Я встаю рано.", "Мы встаем.", "Ты встаешь поздно?"],
+      "es": ["Yo me levanto temprano.", "Nosotros nos levantamos.", "¿Te levantas tarde?"],
+      "pl": ["Ja wstaję wcześnie.", "My wstajemy.", "Wstajesz późno?"],
+      "fa": ["من زود بلند می‌شوم.", "ما بلند می‌شویم.", "دیر بلند می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_262_fr",
+    "word": "s'asseoir",
+    "translations": {
+      "en": "to sit down",
+      "de": "sich setzen",
+      "ar": "يجلس",
+      "fr": "s'asseoir",
+      "it": "sedersi",
+      "ru": "садиться",
+      "es": "sentarse",
+      "pl": "siadać",
+      "fa": "نشستن"
+    },
+    "examples": {
+      "en": ["I sit down here.", "We sit together.", "Do you sit?"],
+      "de": ["Ich setze mich hier.", "Wir setzen uns zusammen.", "Setzt du dich?"],
+      "ar": ["أنا أجلس هنا.", "نحن نجلس معاً.", "هل تجلس؟"],
+      "fr": ["Je m'assieds ici.", "Nous nous asseyons ensemble.", "T'assieds-tu?"],
+      "it": ["Io mi siedo qui.", "Noi ci sediamo insieme.", "Ti siedi?"],
+      "ru": ["Я сажусь здесь.", "Мы садимся вместе.", "Ты садишься?"],
+      "es": ["Yo me siento aquí.", "Nosotros nos sentamos juntos.", "¿Te sientas?"],
+      "pl": ["Ja siadam tutaj.", "My siadamy razem.", "Siadasz?"],
+      "fa": ["من اینجا می‌نشینم.", "ما با هم می‌نشینیم.", "می‌نشینی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_263_fr",
+    "word": "se coucher",
+    "translations": {
+      "en": "to go to bed, to lie down",
+      "de": "ins Bett gehen, sich hinlegen",
+      "ar": "يذهب للنوم، يستلقي",
+      "fr": "se coucher",
+      "it": "coricarsi, sdraiarsi",
+      "ru": "ложиться спать",
+      "es": "acostarse",
+      "pl": "kłaść się spać",
+      "fa": "دراز کشیدن، خوابیدن"
+    },
+    "examples": {
+      "en": ["I go to bed late.", "We lie down.", "Do you sleep early?"],
+      "de": ["Ich gehe spät ins Bett.", "Wir legen uns hin.", "Gehst du früh schlafen?"],
+      "ar": ["أنا أذهب للنوم متأخراً.", "نحن نستلقي.", "هل تنام مبكراً؟"],
+      "fr": ["Je me couche tard.", "Nous nous couchons.", "Te couches-tu tôt?"],
+      "it": ["Io vado a letto tardi.", "Noi ci corichiamo.", "Ti corichi presto?"],
+      "ru": ["Я ложусь спать поздно.", "Мы ложимся.", "Ты ложишься рано?"],
+      "es": ["Yo me acuesto tarde.", "Nosotros nos acostamos.", "¿Te acuestas temprano?"],
+      "pl": ["Ja kładę się spać późno.", "My kładziemy się.", "Kładziesz się wcześnie?"],
+      "fa": ["من دیر می‌خوابم.", "ما دراز می‌کشیم.", "زود می‌خوابی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_264_fr",
+    "word": "se réveiller",
+    "translations": {
+      "en": "to wake up",
+      "de": "aufwachen",
+      "ar": "يستيقظ",
+      "fr": "se réveiller",
+      "it": "svegliarsi",
+      "ru": "просыпаться",
+      "es": "despertarse",
+      "pl": "budzić się",
+      "fa": "بیدار شدن"
+    },
+    "examples": {
+      "en": ["I wake up early.", "We wake up together.", "Do you wake late?"],
+      "de": ["Ich wache früh auf.", "Wir wachen zusammen auf.", "Wachst du spät auf?"],
+      "ar": ["أنا أستيقظ مبكراً.", "نحن نستيقظ معاً.", "هل تستيقظ متأخراً؟"],
+      "fr": ["Je me réveille tôt.", "Nous nous réveillons ensemble.", "Te réveilles-tu tard?"],
+      "it": ["Io mi sveglio presto.", "Noi ci svegliamo insieme.", "Ti svegli tardi?"],
+      "ru": ["Я просыпаюсь рано.", "Мы просыпаемся вместе.", "Ты просыпаешься поздно?"],
+      "es": ["Yo me despierto temprano.", "Nosotros nos despertamos juntos.", "¿Te despiertas tarde?"],
+      "pl": ["Ja budzę się wcześnie.", "My budzimy się razem.", "Budzisz się późno?"],
+      "fa": ["من زود بیدار می‌شوم.", "ما با هم بیدار می‌شویم.", "دیر بیدار می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_265_fr",
+    "word": "se laver",
+    "translations": {
+      "en": "to wash oneself",
+      "de": "sich waschen",
+      "ar": "يغتسل",
+      "fr": "se laver",
+      "it": "lavarsi",
+      "ru": "мыться",
+      "es": "lavarse",
+      "pl": "myć się",
+      "fa": "شستن (خود)"
+    },
+    "examples": {
+      "en": ["I wash myself.", "We wash up.", "Do you wash?"],
+      "de": ["Ich wasche mich.", "Wir waschen uns.", "Wäschst du dich?"],
+      "ar": ["أنا أغتسل.", "نحن نغتسل.", "هل تغتسل؟"],
+      "fr": ["Je me lave.", "Nous nous lavons.", "Te laves-tu?"],
+      "it": ["Io mi lavo.", "Noi ci laviamo.", "Ti lavi?"],
+      "ru": ["Я моюсь.", "Мы моемся.", "Ты моешься?"],
+      "es": ["Yo me lavo.", "Nosotros nos lavamos.", "¿Te lavas?"],
+      "pl": ["Ja się myję.", "My się myjemy.", "Myjesz się?"],
+      "fa": ["من خودم را می‌شویم.", "ما خودمان را می‌شوییم.", "خودت را می‌شویی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_266_fr",
+    "word": "se préparer",
+    "translations": {
+      "en": "to get ready, to prepare",
+      "de": "sich vorbereiten",
+      "ar": "يستعد",
+      "fr": "se préparer",
+      "it": "prepararsi",
+      "ru": "готовиться",
+      "es": "prepararse",
+      "pl": "przygotowywać się",
+      "fa": "آماده شدن"
+    },
+    "examples": {
+      "en": ["I get ready.", "We prepare together.", "Do you prepare?"],
+      "de": ["Ich bereite mich vor.", "Wir bereiten uns vor.", "Bereitest du dich vor?"],
+      "ar": ["أنا أستعد.", "نحن نستعد معاً.", "هل تستعد؟"],
+      "fr": ["Je me prépare.", "Nous nous préparons.", "Te prépares-tu?"],
+      "it": ["Io mi preparo.", "Noi ci prepariamo.", "Ti prepari?"],
+      "ru": ["Я готовлюсь.", "Мы готовимся.", "Ты готовишься?"],
+      "es": ["Yo me preparo.", "Nosotros nos preparamos.", "¿Te preparas?"],
+      "pl": ["Ja się przygotowuję.", "My się przygotowujemy.", "Przygotowujesz się?"],
+      "fa": ["من آماده می‌شوم.", "ما آماده می‌شویم.", "آماده می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_267_fr",
+    "word": "s'habiller",
+    "translations": {
+      "en": "to get dressed",
+      "de": "sich anziehen",
+      "ar": "يرتدي الملابس",
+      "fr": "s'habiller",
+      "it": "vestirsi",
+      "ru": "одеваться",
+      "es": "vestirse",
+      "pl": "ubierać się",
+      "fa": "لباس پوشیدن"
+    },
+    "examples": {
+      "en": ["I get dressed.", "We dress quickly.", "Do you dress?"],
+      "de": ["Ich ziehe mich an.", "Wir ziehen uns schnell an.", "Ziehst du dich an?"],
+      "ar": ["أنا أرتدي الملابس.", "نحن نرتدي بسرعة.", "هل ترتدي؟"],
+      "fr": ["Je m'habille.", "Nous nous habillons vite.", "T'habilles-tu?"],
+      "it": ["Io mi vesto.", "Noi ci vestiamo velocemente.", "Ti vesti?"],
+      "ru": ["Я одеваюсь.", "Мы одеваемся быстро.", "Ты одеваешься?"],
+      "es": ["Yo me visto.", "Nosotros nos vestimos rápido.", "¿Te vistes?"],
+      "pl": ["Ja się ubieram.", "My ubieramy się szybko.", "Ubierasz się?"],
+      "fa": ["من لباس می‌پوشم.", "ما سریع لباس می‌پوشیم.", "لباس می‌پوشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_268_fr",
+    "word": "se sentir",
+    "translations": {
+      "en": "to feel",
+      "de": "sich fühlen",
+      "ar": "يشعر",
+      "fr": "se sentir",
+      "it": "sentirsi",
+      "ru": "чувствовать себя",
+      "es": "sentirse",
+      "pl": "czuć się",
+      "fa": "احساس کردن"
+    },
+    "examples": {
+      "en": ["I feel good.", "We feel happy.", "Do you feel well?"],
+      "de": ["Ich fühle mich gut.", "Wir fühlen uns glücklich.", "Fühlst du dich gut?"],
+      "ar": ["أنا أشعر بخير.", "نحن نشعر بالسعادة.", "هل تشعر بخير؟"],
+      "fr": ["Je me sens bien.", "Nous nous sentons heureux.", "Te sens-tu bien?"],
+      "it": ["Io mi sento bene.", "Noi ci sentiamo felici.", "Ti senti bene?"],
+      "ru": ["Я чувствую себя хорошо.", "Мы чувствуем себя счастливыми.", "Ты чувствуешь себя хорошо?"],
+      "es": ["Yo me siento bien.", "Nosotros nos sentimos felices.", "¿Te sientes bien?"],
+      "pl": ["Ja czuję się dobrze.", "My czujemy się szczęśliwi.", "Czujesz się dobrze?"],
+      "fa": ["من خوب احساس می‌کنم.", "ما خوشحال احساس می‌کنیم.", "خوب احساس می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_269_fr",
+    "word": "se souvenir",
+    "translations": {
+      "en": "to remember",
+      "de": "sich erinnern",
+      "ar": "يتذكر",
+      "fr": "se souvenir",
+      "it": "ricordarsi",
+      "ru": "помнить, вспоминать",
+      "es": "recordar, acordarse",
+      "pl": "pamiętać",
+      "fa": "یادآوری کردن، به یاد آوردن"
+    },
+    "examples": {
+      "en": ["I remember you.", "We remember well.", "Do you remember?"],
+      "de": ["Ich erinnere mich an dich.", "Wir erinnern uns gut.", "Erinnerst du dich?"],
+      "ar": ["أنا أتذكرك.", "نحن نتذكر جيداً.", "هل تتذكر؟"],
+      "fr": ["Je me souviens de toi.", "Nous nous souvenons bien.", "Te souviens-tu?"],
+      "it": ["Io mi ricordo di te.", "Noi ci ricordiamo bene.", "Ti ricordi?"],
+      "ru": ["Я помню тебя.", "Мы помним хорошо.", "Ты помнишь?"],
+      "es": ["Yo me acuerdo de ti.", "Nosotros nos acordamos bien.", "¿Te acuerdas?"],
+      "pl": ["Ja cię pamiętam.", "My pamiętamy dobrze.", "Pamiętasz?"],
+      "fa": ["من تو را به یاد دارم.", "ما خوب به یاد داریم.", "به یاد داری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_270_fr",
+    "word": "se reposer",
+    "translations": {
+      "en": "to rest",
+      "de": "sich ausruhen",
+      "ar": "يستريح",
+      "fr": "se reposer",
+      "it": "riposarsi",
+      "ru": "отдыхать",
+      "es": "descansar",
+      "pl": "odpoczywać",
+      "fa": "استراحت کردن"
+    },
+    "examples": {
+      "en": ["I rest now.", "We rest together.", "Do you rest enough?"],
+      "de": ["Ich ruhe mich jetzt aus.", "Wir ruhen uns aus.", "Ruhst du dich genug aus?"],
+      "ar": ["أنا أستريح الآن.", "نحن نستريح معاً.", "هل تستريح كفاية؟"],
+      "fr": ["Je me repose maintenant.", "Nous nous reposons.", "Te reposes-tu assez?"],
+      "it": ["Io mi riposo adesso.", "Noi ci riposiamo.", "Ti riposi abbastanza?"],
+      "ru": ["Я отдыхаю сейчас.", "Мы отдыхаем.", "Ты отдыхаешь достаточно?"],
+      "es": ["Yo descanso ahora.", "Nosotros descansamos.", "¿Descansas suficiente?"],
+      "pl": ["Ja odpoczywam teraz.", "My odpoczywamy.", "Odpoczywasz wystarczająco?"],
+      "fa": ["من الان استراحت می‌کنم.", "ما استراحت می‌کنیم.", "کافی استراحت می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_271_fr",
+    "word": "s'arrêter",
+    "translations": {
+      "en": "to stop",
+      "de": "anhalten, aufhören",
+      "ar": "يتوقف",
+      "fr": "s'arrêter",
+      "it": "fermarsi",
+      "ru": "останавливаться",
+      "es": "pararse, detenerse",
+      "pl": "zatrzymywać się",
+      "fa": "متوقف شدن"
+    },
+    "examples": {
+      "en": ["I stop here.", "We stop together.", "Do you stop?"],
+      "de": ["Ich halte hier an.", "Wir halten zusammen an.", "Hältst du an?"],
+      "ar": ["أنا أتوقف هنا.", "نحن نتوقف معاً.", "هل تتوقف؟"],
+      "fr": ["Je m'arrête ici.", "Nous nous arrêtons ensemble.", "T'arrêtes-tu?"],
+      "it": ["Io mi fermo qui.", "Noi ci fermiamo insieme.", "Ti fermi?"],
+      "ru": ["Я останавливаюсь здесь.", "Мы останавливаемся вместе.", "Ты останавливаешься?"],
+      "es": ["Yo me paro aquí.", "Nosotros nos paramos juntos.", "¿Te paras?"],
+      "pl": ["Ja się zatrzymuję tutaj.", "My się zatrzymujemy razem.", "Zatrzymujesz się?"],
+      "fa": ["من اینجا متوقف می‌شوم.", "ما با هم متوقف می‌شویم.", "متوقف می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_272_fr",
+    "word": "continuer",
+    "translations": {
+      "en": "to continue",
+      "de": "fortsetzen, weitermachen",
+      "ar": "يستمر",
+      "fr": "continuer",
+      "it": "continuare",
+      "ru": "продолжать",
+      "es": "continuar",
+      "pl": "kontynuować",
+      "fa": "ادامه دادن"
+    },
+    "examples": {
+      "en": ["I continue working.", "We continue together.", "Do you continue?"],
+      "de": ["Ich mache weiter.", "Wir machen zusammen weiter.", "Machst du weiter?"],
+      "ar": ["أنا أستمر بالعمل.", "نحن نستمر معاً.", "هل تستمر؟"],
+      "fr": ["Je continue à travailler.", "Nous continuons ensemble.", "Continues-tu?"],
+      "it": ["Io continuo a lavorare.", "Noi continuiamo insieme.", "Continui?"],
+      "ru": ["Я продолжаю работать.", "Мы продолжаем вместе.", "Ты продолжаешь?"],
+      "es": ["Yo continúo trabajando.", "Nosotros continuamos juntos.", "¿Continúas?"],
+      "pl": ["Ja kontynuuję pracę.", "My kontynuujemy razem.", "Kontynuujesz?"],
+      "fa": ["من به کار ادامه می‌دهم.", "ما با هم ادامه می‌دهیم.", "ادامه می‌دهی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_273_fr",
+    "word": "essayer",
+    "translations": {
+      "en": "to try",
+      "de": "versuchen, probieren",
+      "ar": "يحاول، يجرب",
+      "fr": "essayer",
+      "it": "provare",
+      "ru": "пытаться, пробовать",
+      "es": "intentar, probar",
+      "pl": "próbować",
+      "fa": "سعی کردن، امتحان کردن"
+    },
+    "examples": {
+      "en": ["I try again.", "We try together.", "Do you try?"],
+      "de": ["Ich versuche es nochmal.", "Wir versuchen zusammen.", "Versuchst du?"],
+      "ar": ["أنا أحاول مجدداً.", "نحن نحاول معاً.", "هل تحاول؟"],
+      "fr": ["J'essaie encore.", "Nous essayons ensemble.", "Essaies-tu?"],
+      "it": ["Io provo di nuovo.", "Noi proviamo insieme.", "Provi?"],
+      "ru": ["Я пытаюсь снова.", "Мы пытаемся вместе.", "Ты пытаешься?"],
+      "es": ["Yo intento de nuevo.", "Nosotros intentamos juntos.", "¿Intentas?"],
+      "pl": ["Ja próbuję znowu.", "My próbujemy razem.", "Próbujesz?"],
+      "fa": ["من دوباره سعی می‌کنم.", "ما با هم سعی می‌کنیم.", "سعی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_274_fr",
+    "word": "réussir",
+    "translations": {
+      "en": "to succeed",
+      "de": "gelingen, erfolgreich sein",
+      "ar": "ينجح",
+      "fr": "réussir",
+      "it": "riuscire",
+      "ru": "удаваться, преуспевать",
+      "es": "lograr, tener éxito",
+      "pl": "udawać się",
+      "fa": "موفق شدن"
+    },
+    "examples": {
+      "en": ["I succeed.", "We succeed together.", "Do you succeed?"],
+      "de": ["Es gelingt mir.", "Wir haben Erfolg zusammen.", "Gelingt es dir?"],
+      "ar": ["أنا أنجح.", "نحن ننجح معاً.", "هل تنجح؟"],
+      "fr": ["Je réussis.", "Nous réussissons ensemble.", "Réussis-tu?"],
+      "it": ["Io riesco.", "Noi riusciamo insieme.", "Riesci?"],
+      "ru": ["Мне удается.", "Нам удается вместе.", "Тебе удается?"],
+      "es": ["Yo logro.", "Nosotros logramos juntos.", "¿Logras?"],
+      "pl": ["Mi się udaje.", "Nam się udaje razem.", "Udaje ci się?"],
+      "fa": ["من موفق می‌شوم.", "ما با هم موفق می‌شویم.", "موفق می‌شوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_275_fr",
+    "word": "rire",
+    "translations": {
+      "en": "to laugh",
+      "de": "lachen",
+      "ar": "يضحك",
+      "fr": "rire",
+      "it": "ridere",
+      "ru": "смеяться",
+      "es": "reír",
+      "pl": "śmiać się",
+      "fa": "خندیدن"
+    },
+    "examples": {
+      "en": ["I laugh a lot.", "We laugh together.", "Do you laugh?"],
+      "de": ["Ich lache viel.", "Wir lachen zusammen.", "Lachst du?"],
+      "ar": ["أنا أضحك كثيراً.", "نحن نضحك معاً.", "هل تضحك؟"],
+      "fr": ["Je ris beaucoup.", "Nous rions ensemble.", "Ris-tu?"],
+      "it": ["Io rido molto.", "Noi ridiamo insieme.", "Ridi?"],
+      "ru": ["Я много смеюсь.", "Мы смеемся вместе.", "Ты смеешься?"],
+      "es": ["Yo río mucho.", "Nosotros reímos juntos.", "¿Ríes?"],
+      "pl": ["Ja się dużo śmieję.", "My się śmiejemy razem.", "Śmiejesz się?"],
+      "fa": ["من زیاد می‌خندم.", "ما با هم می‌خندیم.", "می‌خندی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_276_fr",
+    "word": "pleurer",
+    "translations": {
+      "en": "to cry",
+      "de": "weinen",
+      "ar": "يبكي",
+      "fr": "pleurer",
+      "it": "piangere",
+      "ru": "плакать",
+      "es": "llorar",
+      "pl": "płakać",
+      "fa": "گریه کردن"
+    },
+    "examples": {
+      "en": ["I cry sometimes.", "We cry together.", "Do you cry?"],
+      "de": ["Ich weine manchmal.", "Wir weinen zusammen.", "Weinst du?"],
+      "ar": ["أنا أبكي أحياناً.", "نحن نبكي معاً.", "هل تبكي؟"],
+      "fr": ["Je pleure parfois.", "Nous pleurons ensemble.", "Pleures-tu?"],
+      "it": ["Io piango a volte.", "Noi piangiamo insieme.", "Piangi?"],
+      "ru": ["Я иногда плачу.", "Мы плачем вместе.", "Ты плачешь?"],
+      "es": ["Yo lloro a veces.", "Nosotros lloramos juntos.", "¿Lloras?"],
+      "pl": ["Ja czasami płaczę.", "My płaczemy razem.", "Płaczesz?"],
+      "fa": ["من گاهی گریه می‌کنم.", "ما با هم گریه می‌کنیم.", "گریه می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_277_fr",
+    "word": "sourire",
+    "translations": {
+      "en": "to smile",
+      "de": "lächeln",
+      "ar": "يبتسم",
+      "fr": "sourire",
+      "it": "sorridere",
+      "ru": "улыбаться",
+      "es": "sonreír",
+      "pl": "uśmiechać się",
+      "fa": "لبخند زدن"
+    },
+    "examples": {
+      "en": ["I smile often.", "We smile together.", "Do you smile?"],
+      "de": ["Ich lächle oft.", "Wir lächeln zusammen.", "Lächelst du?"],
+      "ar": ["أنا أبتسم كثيراً.", "نحن نبتسم معاً.", "هل تبتسم؟"],
+      "fr": ["Je souris souvent.", "Nous sourions ensemble.", "Souris-tu?"],
+      "it": ["Io sorrido spesso.", "Noi sorridiamo insieme.", "Sorridi?"],
+      "ru": ["Я часто улыбаюсь.", "Мы улыбаемся вместе.", "Ты улыбаешься?"],
+      "es": ["Yo sonrío a menudo.", "Nosotros sonreímos juntos.", "¿Sonríes?"],
+      "pl": ["Ja się często uśmiecham.", "My się uśmiechamy razem.", "Uśmiechasz się?"],
+      "fa": ["من اغلب لبخند می‌زنم.", "ما با هم لبخند می‌زنیم.", "لبخند می‌زنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_278_fr",
+    "word": "regarder",
+    "translations": {
+      "en": "to look",
+      "de": "schauen, gucken",
+      "ar": "ينظر",
+      "fr": "regarder",
+      "it": "guardare",
+      "ru": "смотреть",
+      "es": "mirar",
+      "pl": "patrzeć",
+      "fa": "نگاه کردن"
+    },
+    "examples": {
+      "en": ["I look at you.", "We look together.", "Do you look?"],
+      "de": ["Ich schaue dich an.", "Wir schauen zusammen.", "Schaust du?"],
+      "ar": ["أنا أنظر إليك.", "نحن ننظر معاً.", "هل تنظر؟"],
+      "fr": ["Je te regarde.", "Nous regardons ensemble.", "Regardes-tu?"],
+      "it": ["Io ti guardo.", "Noi guardiamo insieme.", "Guardi?"],
+      "ru": ["Я смотрю на тебя.", "Мы смотрим вместе.", "Ты смотришь?"],
+      "es": ["Yo te miro.", "Nosotros miramos juntos.", "¿Miras?"],
+      "pl": ["Ja na ciebie patrzę.", "My patrzymy razem.", "Patrzysz?"],
+      "fa": ["من به تو نگاه می‌کنم.", "ما با هم نگاه می‌کنیم.", "نگاه می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_279_fr",
+    "word": "danser",
+    "translations": {
+      "en": "to dance",
+      "de": "tanzen",
+      "ar": "يرقص",
+      "fr": "danser",
+      "it": "ballare",
+      "ru": "танцевать",
+      "es": "bailar",
+      "pl": "tańczyć",
+      "fa": "رقصیدن"
+    },
+    "examples": {
+      "en": ["I dance well.", "We dance together.", "Do you dance?"],
+      "de": ["Ich tanze gut.", "Wir tanzen zusammen.", "Tanzt du?"],
+      "ar": ["أنا أرقص جيداً.", "نحن نرقص معاً.", "هل ترقص؟"],
+      "fr": ["Je danse bien.", "Nous dansons ensemble.", "Danses-tu?"],
+      "it": ["Io ballo bene.", "Noi balliamo insieme.", "Balli?"],
+      "ru": ["Я хорошо танцую.", "Мы танцуем вместе.", "Ты танцуешь?"],
+      "es": ["Yo bailo bien.", "Nosotros bailamos juntos.", "¿Bailas?"],
+      "pl": ["Ja dobrze tańczę.", "My tańczymy razem.", "Tańczysz?"],
+      "fa": ["من خوب می‌رقصم.", "ما با هم می‌رقصیم.", "می‌رقصی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_280_fr",
+    "word": "chanter",
+    "translations": {
+      "en": "to sing",
+      "de": "singen",
+      "ar": "يغني",
+      "fr": "chanter",
+      "it": "cantare",
+      "ru": "петь",
+      "es": "cantar",
+      "pl": "śpiewać",
+      "fa": "آواز خواندن"
+    },
+    "examples": {
+      "en": ["I sing well.", "We sing together.", "Do you sing?"],
+      "de": ["Ich singe gut.", "Wir singen zusammen.", "Singst du?"],
+      "ar": ["أنا أغني جيداً.", "نحن نغني معاً.", "هل تغني؟"],
+      "fr": ["Je chante bien.", "Nous chantons ensemble.", "Chantes-tu?"],
+      "it": ["Io canto bene.", "Noi cantiamo insieme.", "Canti?"],
+      "ru": ["Я хорошо пою.", "Мы поем вместе.", "Ты поешь?"],
+      "es": ["Yo canto bien.", "Nosotros cantamos juntos.", "¿Cantas?"],
+      "pl": ["Ja dobrze śpiewam.", "My śpiewamy razem.", "Śpiewasz?"],
+      "fa": ["من خوب آواز می‌خوانم.", "ما با هم آواز می‌خوانیم.", "آواز می‌خوانی؟"]
+    }
+  }
+]

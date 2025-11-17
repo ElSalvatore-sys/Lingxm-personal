@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_241_fr",
+    "word": "dire",
+    "translations": {
+      "en": "to say, to tell",
+      "de": "sagen",
+      "ar": "يقول",
+      "fr": "dire",
+      "it": "dire",
+      "ru": "говорить, сказать",
+      "es": "decir",
+      "pl": "mówić, powiedzieć",
+      "fa": "گفتن"
+    },
+    "examples": {
+      "en": ["I say yes.", "We tell stories.", "Do you say the truth?"],
+      "de": ["Ich sage ja.", "Wir erzählen Geschichten.", "Sagst du die Wahrheit?"],
+      "ar": ["أنا أقول نعم.", "نحن نقول القصص.", "هل تقول الحقيقة؟"],
+      "fr": ["Je dis oui.", "Nous disons des histoires.", "Dis-tu la vérité?"],
+      "it": ["Io dico sì.", "Noi raccontiamo storie.", "Dici la verità?"],
+      "ru": ["Я говорю да.", "Мы рассказываем истории.", "Ты говоришь правду?"],
+      "es": ["Yo digo sí.", "Nosotros contamos historias.", "¿Dices la verdad?"],
+      "pl": ["Ja mówię tak.", "My opowiadamy historie.", "Mówisz prawdę?"],
+      "fa": ["من بله می‌گویم.", "ما داستان می‌گوییم.", "حقیقت را می‌گویی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_242_fr",
+    "word": "penser",
+    "translations": {
+      "en": "to think",
+      "de": "denken",
+      "ar": "يفكر",
+      "fr": "penser",
+      "it": "pensare",
+      "ru": "думать",
+      "es": "pensar",
+      "pl": "myśleć",
+      "fa": "فکر کردن"
+    },
+    "examples": {
+      "en": ["I think so.", "We think together.", "Do you think?"],
+      "de": ["Ich denke ja.", "Wir denken zusammen.", "Denkst du?"],
+      "ar": ["أنا أعتقد ذلك.", "نحن نفكر معاً.", "هل تفكر؟"],
+      "fr": ["Je pense oui.", "Nous pensons ensemble.", "Penses-tu?"],
+      "it": ["Io penso di sì.", "Noi pensiamo insieme.", "Pensi?"],
+      "ru": ["Я думаю так.", "Мы думаем вместе.", "Ты думаешь?"],
+      "es": ["Yo pienso que sí.", "Nosotros pensamos juntos.", "¿Piensas?"],
+      "pl": ["Ja myślę tak.", "My myślimy razem.", "Myślisz?"],
+      "fa": ["من فکر می‌کنم آره.", "ما با هم فکر می‌کنیم.", "فکر می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_243_fr",
+    "word": "croire",
+    "translations": {
+      "en": "to believe",
+      "de": "glauben",
+      "ar": "يؤمن، يصدق",
+      "fr": "croire",
+      "it": "credere",
+      "ru": "верить",
+      "es": "creer",
+      "pl": "wierzyć",
+      "fa": "باور کردن"
+    },
+    "examples": {
+      "en": ["I believe you.", "We believe in you.", "Do you believe?"],
+      "de": ["Ich glaube dir.", "Wir glauben an dich.", "Glaubst du?"],
+      "ar": ["أنا أصدقك.", "نحن نؤمن بك.", "هل تؤمن؟"],
+      "fr": ["Je te crois.", "Nous croyons en toi.", "Crois-tu?"],
+      "it": ["Io ti credo.", "Noi crediamo in te.", "Credi?"],
+      "ru": ["Я верю тебе.", "Мы верим в тебя.", "Ты веришь?"],
+      "es": ["Yo te creo.", "Nosotros creemos en ti.", "¿Crees?"],
+      "pl": ["Ja ci wierzę.", "My wierzymy w ciebie.", "Wierzysz?"],
+      "fa": ["من به تو باور دارم.", "ما به تو ایمان داریم.", "باور داری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_244_fr",
+    "word": "aimer",
+    "translations": {
+      "en": "to like, to love",
+      "de": "mögen, lieben",
+      "ar": "يحب",
+      "fr": "aimer",
+      "it": "amare, piacere",
+      "ru": "любить, нравиться",
+      "es": "gustar, amar",
+      "pl": "lubić, kochać",
+      "fa": "دوست داشتن"
+    },
+    "examples": {
+      "en": ["I like coffee.", "We love France.", "Do you like it?"],
+      "de": ["Ich mag Kaffee.", "Wir lieben Frankreich.", "Magst du es?"],
+      "ar": ["أنا أحب القهوة.", "نحن نحب فرنسا.", "هل تحبه؟"],
+      "fr": ["J'aime le café.", "Nous aimons la France.", "Aimes-tu ça?"],
+      "it": ["Mi piace il caffè.", "Noi amiamo la Francia.", "Ti piace?"],
+      "ru": ["Я люблю кофе.", "Мы любим Францию.", "Тебе нравится?"],
+      "es": ["Me gusta el café.", "Nosotros amamos Francia.", "¿Te gusta?"],
+      "pl": ["Lubię kawę.", "My kochamy Francję.", "Lubisz to?"],
+      "fa": ["من قهوه دوست دارم.", "ما فرانسه را دوست داریم.", "دوست داری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_245_fr",
+    "word": "préférer",
+    "translations": {
+      "en": "to prefer",
+      "de": "bevorzugen, lieber mögen",
+      "ar": "يفضل",
+      "fr": "préférer",
+      "it": "preferire",
+      "ru": "предпочитать",
+      "es": "preferir",
+      "pl": "woleć",
+      "fa": "ترجیح دادن"
+    },
+    "examples": {
+      "en": ["I prefer tea.", "We prefer here.", "Do you prefer this?"],
+      "de": ["Ich bevorzuge Tee.", "Wir bevorzugen hier.", "Bevorzugst du das?"],
+      "ar": ["أنا أفضل الشاي.", "نحن نفضل هنا.", "هل تفضل هذا؟"],
+      "fr": ["Je préfère le thé.", "Nous préférons ici.", "Préfères-tu ça?"],
+      "it": ["Io preferisco tè.", "Noi preferiamo qui.", "Preferisci questo?"],
+      "ru": ["Я предпочитаю чай.", "Мы предпочитаем здесь.", "Ты предпочитаешь это?"],
+      "es": ["Yo prefiero té.", "Nosotros preferimos aquí.", "¿Prefieres esto?"],
+      "pl": ["Ja wolę herbatę.", "My wolimy tutaj.", "Wolisz to?"],
+      "fa": ["من چای را ترجیح می‌دهم.", "ما اینجا را ترجیح می‌دهیم.", "این را ترجیح می‌دهی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_246_fr",
+    "word": "connaître",
+    "translations": {
+      "en": "to know (a person/place)",
+      "de": "kennen",
+      "ar": "يعرف",
+      "fr": "connaître",
+      "it": "conoscere",
+      "ru": "знать (человека/место)",
+      "es": "conocer",
+      "pl": "znać",
+      "fa": "شناختن"
+    },
+    "examples": {
+      "en": ["I know Paris.", "We know him.", "Do you know her?"],
+      "de": ["Ich kenne Paris.", "Wir kennen ihn.", "Kennst du sie?"],
+      "ar": ["أنا أعرف باريس.", "نحن نعرفه.", "هل تعرفها؟"],
+      "fr": ["Je connais Paris.", "Nous le connaissons.", "Connais-tu?"],
+      "it": ["Io conosco Parigi.", "Noi lo conosciamo.", "Conosci lei?"],
+      "ru": ["Я знаю Париж.", "Мы знаем его.", "Ты знаешь её?"],
+      "es": ["Yo conozco París.", "Nosotros lo conocemos.", "¿Conoces a ella?"],
+      "pl": ["Ja znam Paryż.", "My go znamy.", "Znasz ją?"],
+      "fa": ["من پاریس را می‌شناسم.", "ما او را می‌شناسیم.", "او را می‌شناسی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_247_fr",
+    "word": "rencontrer",
+    "translations": {
+      "en": "to meet",
+      "de": "treffen, begegnen",
+      "ar": "يلتقي",
+      "fr": "rencontrer",
+      "it": "incontrare",
+      "ru": "встречать",
+      "es": "encontrar, conocer",
+      "pl": "spotykać",
+      "fa": "ملاقات کردن"
+    },
+    "examples": {
+      "en": ["I meet friends.", "We meet at noon.", "Do you meet often?"],
+      "de": ["Ich treffe Freunde.", "Wir treffen uns mittags.", "Triffst du oft?"],
+      "ar": ["أنا ألتقي بالأصدقاء.", "نحن نلتقي ظهراً.", "هل تلتقي كثيراً؟"],
+      "fr": ["Je rencontre des amis.", "Nous nous rencontrons à midi.", "Rencontres-tu souvent?"],
+      "it": ["Io incontro amici.", "Noi ci incontriamo a mezzogiorno.", "Incontri spesso?"],
+      "ru": ["Я встречаю друзей.", "Мы встречаемся в полдень.", "Ты встречаешься часто?"],
+      "es": ["Yo encuentro amigos.", "Nosotros nos encontramos al mediodía.", "¿Encuentras a menudo?"],
+      "pl": ["Ja spotykam przyjaciół.", "My spotykamy się w południe.", "Spotykasz często?"],
+      "fa": ["من با دوستان ملاقات می‌کنم.", "ما ظهر ملاقات می‌کنیم.", "اغلب ملاقات می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_248_fr",
+    "word": "appeler",
+    "translations": {
+      "en": "to call",
+      "de": "anrufen, nennen",
+      "ar": "يتصل، ينادي",
+      "fr": "appeler",
+      "it": "chiamare",
+      "ru": "звонить, называть",
+      "es": "llamar",
+      "pl": "dzwonić, nazywać",
+      "fa": "تماس گرفتن، صدا زدن"
+    },
+    "examples": {
+      "en": ["I call you.", "We call him.", "Do you call often?"],
+      "de": ["Ich rufe dich an.", "Wir rufen ihn an.", "Rufst du oft an?"],
+      "ar": ["أنا أتصل بك.", "نحن نتصل به.", "هل تتصل كثيراً؟"],
+      "fr": ["Je t'appelle.", "Nous l'appelons.", "Appelles-tu souvent?"],
+      "it": ["Io ti chiamo.", "Noi lo chiamiamo.", "Chiami spesso?"],
+      "ru": ["Я звоню тебе.", "Мы звоним ему.", "Ты часто звонишь?"],
+      "es": ["Yo te llamo.", "Nosotros lo llamamos.", "¿Llamas a menudo?"],
+      "pl": ["Ja dzwonię do ciebie.", "My dzwonimy do niego.", "Dzwonisz często?"],
+      "fa": ["من به تو زنگ می‌زنم.", "ما به او زنگ می‌زنیم.", "اغلب زنگ می‌زنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_249_fr",
+    "word": "vivre",
+    "translations": {
+      "en": "to live",
+      "de": "leben",
+      "ar": "يعيش",
+      "fr": "vivre",
+      "it": "vivere",
+      "ru": "жить",
+      "es": "vivir",
+      "pl": "żyć",
+      "fa": "زندگی کردن"
+    },
+    "examples": {
+      "en": ["I live in Paris.", "We live here.", "Do you live alone?"],
+      "de": ["Ich lebe in Paris.", "Wir leben hier.", "Lebst du allein?"],
+      "ar": ["أنا أعيش في باريس.", "نحن نعيش هنا.", "هل تعيش وحدك؟"],
+      "fr": ["Je vis à Paris.", "Nous vivons ici.", "Vis-tu seul?"],
+      "it": ["Io vivo a Parigi.", "Noi viviamo qui.", "Vivi da solo?"],
+      "ru": ["Я живу в Париже.", "Мы живем здесь.", "Ты живешь один?"],
+      "es": ["Yo vivo en París.", "Nosotros vivimos aquí.", "¿Vives solo?"],
+      "pl": ["Ja mieszkam w Paryżu.", "My mieszkamy tutaj.", "Mieszkasz sam?"],
+      "fa": ["من در پاریس زندگی می‌کنم.", "ما اینجا زندگی می‌کنیم.", "تنها زندگی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_250_fr",
+    "word": "habiter",
+    "translations": {
+      "en": "to live (in), to inhabit",
+      "de": "wohnen",
+      "ar": "يسكن",
+      "fr": "habiter",
+      "it": "abitare",
+      "ru": "жить, проживать",
+      "es": "habitar, vivir",
+      "pl": "mieszkać",
+      "fa": "ساکن بودن"
+    },
+    "examples": {
+      "en": ["I live here.", "We live in France.", "Where do you live?"],
+      "de": ["Ich wohne hier.", "Wir wohnen in Frankreich.", "Wo wohnst du?"],
+      "ar": ["أنا أسكن هنا.", "نحن نسكن في فرنسا.", "أين تسكن؟"],
+      "fr": ["J'habite ici.", "Nous habitons en France.", "Où habites-tu?"],
+      "it": ["Io abito qui.", "Noi abitiamo in Francia.", "Dove abiti?"],
+      "ru": ["Я живу здесь.", "Мы живем во Франции.", "Где ты живешь?"],
+      "es": ["Yo habito aquí.", "Nosotros habitamos en Francia.", "¿Dónde habitas?"],
+      "pl": ["Ja mieszkam tutaj.", "My mieszkamy we Francji.", "Gdzie mieszkasz?"],
+      "fa": ["من اینجا زندگی می‌کنم.", "ما در فرانسه زندگی می‌کنیم.", "کجا زندگی می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_251_fr",
+    "word": "travailler",
+    "translations": {
+      "en": "to work",
+      "de": "arbeiten",
+      "ar": "يعمل",
+      "fr": "travailler",
+      "it": "lavorare",
+      "ru": "работать",
+      "es": "trabajar",
+      "pl": "pracować",
+      "fa": "کار کردن"
+    },
+    "examples": {
+      "en": ["I work here.", "We work together.", "Do you work today?"],
+      "de": ["Ich arbeite hier.", "Wir arbeiten zusammen.", "Arbeitest du heute?"],
+      "ar": ["أنا أعمل هنا.", "نحن نعمل معاً.", "هل تعمل اليوم؟"],
+      "fr": ["Je travaille ici.", "Nous travaillons ensemble.", "Travailles-tu aujourd'hui?"],
+      "it": ["Io lavoro qui.", "Noi lavoriamo insieme.", "Lavori oggi?"],
+      "ru": ["Я работаю здесь.", "Мы работаем вместе.", "Ты работаешь сегодня?"],
+      "es": ["Yo trabajo aquí.", "Nosotros trabajamos juntos.", "¿Trabajas hoy?"],
+      "pl": ["Ja pracuję tutaj.", "My pracujemy razem.", "Pracujesz dzisiaj?"],
+      "fa": ["من اینجا کار می‌کنم.", "ما با هم کار می‌کنیم.", "امروز کار می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_252_fr",
+    "word": "utiliser",
+    "translations": {
+      "en": "to use",
+      "de": "benutzen, verwenden",
+      "ar": "يستخدم",
+      "fr": "utiliser",
+      "it": "usare, utilizzare",
+      "ru": "использовать",
+      "es": "usar, utilizar",
+      "pl": "używać",
+      "fa": "استفاده کردن"
+    },
+    "examples": {
+      "en": ["I use a phone.", "We use this.", "Do you use it?"],
+      "de": ["Ich benutze ein Telefon.", "Wir benutzen das.", "Benutzt du es?"],
+      "ar": ["أنا أستخدم الهاتف.", "نحن نستخدم هذا.", "هل تستخدمه؟"],
+      "fr": ["J'utilise un téléphone.", "Nous utilisons ça.", "Utilises-tu ça?"],
+      "it": ["Io uso un telefono.", "Noi usiamo questo.", "Usi questo?"],
+      "ru": ["Я использую телефон.", "Мы используем это.", "Ты используешь это?"],
+      "es": ["Yo uso un teléfono.", "Nosotros usamos esto.", "¿Usas esto?"],
+      "pl": ["Ja używam telefonu.", "My używamy tego.", "Używasz tego?"],
+      "fa": ["من از تلفن استفاده می‌کنم.", "ما از این استفاده می‌کنیم.", "استفاده می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_253_fr",
+    "word": "changer",
+    "translations": {
+      "en": "to change",
+      "de": "ändern, wechseln",
+      "ar": "يغير",
+      "fr": "changer",
+      "it": "cambiare",
+      "ru": "менять, изменять",
+      "es": "cambiar",
+      "pl": "zmieniać",
+      "fa": "تغییر دادن"
+    },
+    "examples": {
+      "en": ["I change clothes.", "We change plans.", "Do you change?"],
+      "de": ["Ich wechsle Kleidung.", "Wir ändern Pläne.", "Änderst du?"],
+      "ar": ["أنا أغير الملابس.", "نحن نغير الخطط.", "هل تغير؟"],
+      "fr": ["Je change de vêtements.", "Nous changeons de plans.", "Changes-tu?"],
+      "it": ["Io cambio vestiti.", "Noi cambiamo piani.", "Cambi?"],
+      "ru": ["Я меняю одежду.", "Мы меняем планы.", "Ты меняешь?"],
+      "es": ["Yo cambio de ropa.", "Nosotros cambiamos de planes.", "¿Cambias?"],
+      "pl": ["Ja zmieniam ubranie.", "My zmieniamy plany.", "Zmieniasz?"],
+      "fa": ["من لباس عوض می‌کنم.", "ما برنامه عوض می‌کنیم.", "عوض می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_254_fr",
+    "word": "laver",
+    "translations": {
+      "en": "to wash",
+      "de": "waschen",
+      "ar": "يغسل",
+      "fr": "laver",
+      "it": "lavare",
+      "ru": "мыть",
+      "es": "lavar",
+      "pl": "myć",
+      "fa": "شستن"
+    },
+    "examples": {
+      "en": ["I wash my hands.", "We wash dishes.", "Do you wash?"],
+      "de": ["Ich wasche meine Hände.", "Wir waschen Geschirr.", "Wäschst du?"],
+      "ar": ["أنا أغسل يدي.", "نحن نغسل الأطباق.", "هل تغسل؟"],
+      "fr": ["Je me lave les mains.", "Nous lavons la vaisselle.", "Laves-tu?"],
+      "it": ["Io mi lavo le mani.", "Noi laviamo i piatti.", "Lavi?"],
+      "ru": ["Я мою руки.", "Мы моем посуду.", "Ты моешь?"],
+      "es": ["Yo me lavo las manos.", "Nosotros lavamos platos.", "¿Lavas?"],
+      "pl": ["Ja myję ręce.", "My myjemy naczynia.", "Myjesz?"],
+      "fa": ["من دست‌هایم را می‌شویم.", "ما ظرف‌ها را می‌شوییم.", "می‌شویی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_255_fr",
+    "word": "nettoyer",
+    "translations": {
+      "en": "to clean",
+      "de": "putzen, reinigen",
+      "ar": "ينظف",
+      "fr": "nettoyer",
+      "it": "pulire",
+      "ru": "чистить, убирать",
+      "es": "limpiar",
+      "pl": "sprzątać, czyścić",
+      "fa": "تمیز کردن"
+    },
+    "examples": {
+      "en": ["I clean the room.", "We clean together.", "Do you clean?"],
+      "de": ["Ich putze das Zimmer.", "Wir putzen zusammen.", "Putzt du?"],
+      "ar": ["أنا أنظف الغرفة.", "نحن ننظف معاً.", "هل تنظف؟"],
+      "fr": ["Je nettoie la chambre.", "Nous nettoyons ensemble.", "Nettoies-tu?"],
+      "it": ["Io pulisco la stanza.", "Noi puliamo insieme.", "Pulisci?"],
+      "ru": ["Я убираю комнату.", "Мы убираем вместе.", "Ты убираешь?"],
+      "es": ["Yo limpio la habitación.", "Nosotros limpiamos juntos.", "¿Limpias?"],
+      "pl": ["Ja sprzątam pokój.", "My sprzątamy razem.", "Sprzątasz?"],
+      "fa": ["من اتاق را تمیز می‌کنم.", "ما با هم تمیز می‌کنیم.", "تمیز می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_256_fr",
+    "word": "porter",
+    "translations": {
+      "en": "to wear, to carry",
+      "de": "tragen",
+      "ar": "يحمل، يرتدي",
+      "fr": "porter",
+      "it": "portare, indossare",
+      "ru": "носить, нести",
+      "es": "llevar",
+      "pl": "nosić",
+      "fa": "پوشیدن، حمل کردن"
+    },
+    "examples": {
+      "en": ["I wear a hat.", "We carry bags.", "Do you wear glasses?"],
+      "de": ["Ich trage einen Hut.", "Wir tragen Taschen.", "Trägst du eine Brille?"],
+      "ar": ["أنا أرتدي قبعة.", "نحن نحمل الحقائب.", "هل ترتدي نظارات؟"],
+      "fr": ["Je porte un chapeau.", "Nous portons des sacs.", "Portes-tu des lunettes?"],
+      "it": ["Io porto un cappello.", "Noi portiamo borse.", "Porti occhiali?"],
+      "ru": ["Я ношу шляпу.", "Мы несем сумки.", "Ты носишь очки?"],
+      "es": ["Yo llevo un sombrero.", "Nosotros llevamos bolsas.", "¿Llevas gafas?"],
+      "pl": ["Ja noszę kapelusz.", "My nosimy torby.", "Nosisz okulary?"],
+      "fa": ["من کلاه می‌پوشم.", "ما کیف حمل می‌کنیم.", "عینک می‌زنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_257_fr",
+    "word": "mettre",
+    "translations": {
+      "en": "to put, to put on",
+      "de": "stellen, legen, anziehen",
+      "ar": "يضع",
+      "fr": "mettre",
+      "it": "mettere",
+      "ru": "класть, ставить, надевать",
+      "es": "poner",
+      "pl": "kłaść, wkładać",
+      "fa": "گذاشتن، پوشیدن"
+    },
+    "examples": {
+      "en": ["I put it here.", "We put on clothes.", "Do you put?"],
+      "de": ["Ich lege es hier.", "Wir ziehen Kleidung an.", "Legst du?"],
+      "ar": ["أنا أضعه هنا.", "نحن نرتدي الملابس.", "هل تضع؟"],
+      "fr": ["Je le mets ici.", "Nous mettons des vêtements.", "Mets-tu?"],
+      "it": ["Io lo metto qui.", "Noi mettiamo vestiti.", "Metti?"],
+      "ru": ["Я кладу это здесь.", "Мы надеваем одежду.", "Ты кладешь?"],
+      "es": ["Yo lo pongo aquí.", "Nosotros ponemos ropa.", "¿Pones?"],
+      "pl": ["Ja kładę to tutaj.", "My wkładamy ubrania.", "Kładziesz?"],
+      "fa": ["من اینجا می‌گذارم.", "ما لباس می‌پوشیم.", "می‌گذاری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_258_fr",
+    "word": "tenir",
+    "translations": {
+      "en": "to hold",
+      "de": "halten",
+      "ar": "يمسك",
+      "fr": "tenir",
+      "it": "tenere",
+      "ru": "держать",
+      "es": "tener, sostener",
+      "pl": "trzymać",
+      "fa": "نگه داشتن"
+    },
+    "examples": {
+      "en": ["I hold this.", "We hold hands.", "Do you hold?"],
+      "de": ["Ich halte das.", "Wir halten Hände.", "Hältst du?"],
+      "ar": ["أنا أمسك هذا.", "نحن نمسك الأيدي.", "هل تمسك؟"],
+      "fr": ["Je tiens ça.", "Nous tenons les mains.", "Tiens-tu?"],
+      "it": ["Io tengo questo.", "Noi teniamo le mani.", "Tieni?"],
+      "ru": ["Я держу это.", "Мы держимся за руки.", "Ты держишь?"],
+      "es": ["Yo sostengo esto.", "Nosotros sostenemos las manos.", "¿Sostienes?"],
+      "pl": ["Ja trzymam to.", "My trzymamy ręce.", "Trzymasz?"],
+      "fa": ["من این را نگه می‌دارم.", "ما دست‌ها را نگه می‌داریم.", "نگه می‌داری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_259_fr",
+    "word": "toucher",
+    "translations": {
+      "en": "to touch",
+      "de": "berühren",
+      "ar": "يلمس",
+      "fr": "toucher",
+      "it": "toccare",
+      "ru": "трогать, касаться",
+      "es": "tocar",
+      "pl": "dotykać",
+      "fa": "لمس کردن"
+    },
+    "examples": {
+      "en": ["I touch it.", "We touch gently.", "Do you touch?"],
+      "de": ["Ich berühre es.", "Wir berühren sanft.", "Berührst du?"],
+      "ar": ["أنا ألمسه.", "نحن نلمس بلطف.", "هل تلمس؟"],
+      "fr": ["Je le touche.", "Nous touchons doucement.", "Touches-tu?"],
+      "it": ["Io lo tocco.", "Noi tocchiamo delicatamente.", "Tocchi?"],
+      "ru": ["Я трогаю это.", "Мы трогаем осторожно.", "Ты трогаешь?"],
+      "es": ["Yo lo toco.", "Nosotros tocamos suavemente.", "¿Tocas?"],
+      "pl": ["Ja to dotykam.", "My dotykamy delikatnie.", "Dotykasz?"],
+      "fa": ["من آن را لمس می‌کنم.", "ما به آرامی لمس می‌کنیم.", "لمس می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_260_fr",
+    "word": "tomber",
+    "translations": {
+      "en": "to fall",
+      "de": "fallen",
+      "ar": "يسقط",
+      "fr": "tomber",
+      "it": "cadere",
+      "ru": "падать",
+      "es": "caer",
+      "pl": "upadać",
+      "fa": "افتادن"
+    },
+    "examples": {
+      "en": ["I fall down.", "We fall together.", "Do you fall often?"],
+      "de": ["Ich falle hin.", "Wir fallen zusammen.", "Fällst du oft?"],
+      "ar": ["أنا أسقط.", "نحن نسقط معاً.", "هل تسقط كثيراً؟"],
+      "fr": ["Je tombe.", "Nous tombons ensemble.", "Tombes-tu souvent?"],
+      "it": ["Io cado.", "Noi cadiamo insieme.", "Cadi spesso?"],
+      "ru": ["Я падаю.", "Мы падаем вместе.", "Ты часто падаешь?"],
+      "es": ["Yo caigo.", "Nosotros caemos juntos.", "¿Caes a menudo?"],
+      "pl": ["Ja upadam.", "My upadamy razem.", "Często upadasz?"],
+      "fa": ["من می‌افتم.", "ما با هم می‌افتیم.", "اغلب می‌افتی؟"]
+    }
+  }
+]

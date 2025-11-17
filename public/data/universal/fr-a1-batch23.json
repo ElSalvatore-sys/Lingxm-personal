@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_441_fr",
+    "word": "derrière",
+    "translations": {
+      "en": "behind",
+      "de": "hinter",
+      "ar": "خلف",
+      "fr": "derrière",
+      "it": "dietro",
+      "ru": "за",
+      "es": "detrás de",
+      "pl": "za",
+      "fa": "پشت"
+    },
+    "examples": {
+      "en": ["The cat is behind the door.", "Look behind you.", "He is behind me."],
+      "de": ["Die Katze ist hinter der Tür.", "Schau hinter dich.", "Er ist hinter mir."],
+      "ar": ["القطة خلف الباب.", "انظر خلفك.", "هو خلفي."],
+      "fr": ["Le chat est derrière la porte.", "Regarde derrière toi.", "Il est derrière moi."],
+      "it": ["Il gatto è dietro la porta.", "Guarda dietro di te.", "Lui è dietro di me."],
+      "ru": ["Кот за дверью.", "Посмотри за собой.", "Он позади меня."],
+      "es": ["El gato está detrás de la puerta.", "Mira detrás de ti.", "Él está detrás de mí."],
+      "pl": ["Kot jest za drzwiami.", "Spójrz za siebie.", "On jest za mną."],
+      "fa": ["گربه پشت در است.", "پشت سرت را نگاه کن.", "او پشت من است."]
+    }
+  },
+  {
+    "id": "universal_a1_442_fr",
+    "word": "entre",
+    "translations": {
+      "en": "between",
+      "de": "zwischen",
+      "ar": "بين",
+      "fr": "entre",
+      "it": "tra",
+      "ru": "между",
+      "es": "entre",
+      "pl": "między",
+      "fa": "بین"
+    },
+    "examples": {
+      "en": ["Between you and me.", "The park is between the school and the house.", "Choose between tea and coffee."],
+      "de": ["Zwischen dir und mir.", "Der Park ist zwischen der Schule und dem Haus.", "Wähle zwischen Tee und Kaffee."],
+      "ar": ["بيني وبينك.", "الحديقة بين المدرسة والمنزل.", "اختر بين الشاي والقهوة."],
+      "fr": ["Entre toi et moi.", "Le parc est entre l'école et la maison.", "Choisis entre le thé et le café."],
+      "it": ["Tra te e me.", "Il parco è tra la scuola e la casa.", "Scegli tra tè e caffè."],
+      "ru": ["Между тобой и мной.", "Парк между школой и домом.", "Выбери между чаем и кофе."],
+      "es": ["Entre tú y yo.", "El parque está entre la escuela y la casa.", "Elige entre té y café."],
+      "pl": ["Między tobą a mną.", "Park jest między szkołą a domem.", "Wybierz między herbatą a kawą."],
+      "fa": ["بین من و تو.", "پارک بین مدرسه و خانه است.", "بین چای و قهوه انتخاب کن."]
+    }
+  },
+  {
+    "id": "universal_a1_443_fr",
+    "word": "à côté de",
+    "translations": {
+      "en": "next to",
+      "de": "neben",
+      "ar": "بجانب",
+      "fr": "à côté de",
+      "it": "accanto a",
+      "ru": "рядом с",
+      "es": "al lado de",
+      "pl": "obok",
+      "fa": "کنار"
+    },
+    "examples": {
+      "en": ["I sit next to her.", "The bank is next to the post office.", "Come sit next to me."],
+      "de": ["Ich sitze neben ihr.", "Die Bank ist neben der Post.", "Komm, sitz neben mir."],
+      "ar": ["أجلس بجانبها.", "البنك بجانب مكتب البريد.", "تعال اجلس بجانبي."],
+      "fr": ["Je m'assieds à côté d'elle.", "La banque est à côté de la poste.", "Viens t'asseoir à côté de moi."],
+      "it": ["Mi siedo accanto a lei.", "La banca è accanto all'ufficio postale.", "Vieni a sederti accanto a me."],
+      "ru": ["Я сижу рядом с ней.", "Банк рядом с почтой.", "Иди сядь рядом со мной."],
+      "es": ["Me siento al lado de ella.", "El banco está al lado de la oficina de correos.", "Ven a sentarte a mi lado."],
+      "pl": ["Siedzę obok niej.", "Bank jest obok poczty.", "Chodź, usiądź obok mnie."],
+      "fa": ["کنارش می‌نشینم.", "بانک کنار اداره پست است.", "بیا کنارم بنشین."]
+    }
+  },
+  {
+    "id": "universal_a1_444_fr",
+    "word": "près de",
+    "translations": {
+      "en": "near",
+      "de": "nahe",
+      "ar": "قرب",
+      "fr": "près de",
+      "it": "vicino a",
+      "ru": "близко к",
+      "es": "cerca de",
+      "pl": "blisko",
+      "fa": "نزدیک"
+    },
+    "examples": {
+      "en": ["I live near the school.", "The park is near here.", "Come near me."],
+      "de": ["Ich wohne nahe der Schule.", "Der Park ist hier in der Nähe.", "Komm näher zu mir."],
+      "ar": ["أعيش قرب المدرسة.", "الحديقة قريبة من هنا.", "تعال قريباً مني."],
+      "fr": ["J'habite près de l'école.", "Le parc est près d'ici.", "Viens près de moi."],
+      "it": ["Abito vicino alla scuola.", "Il parco è vicino qui.", "Vieni vicino a me."],
+      "ru": ["Я живу близко к школе.", "Парк близко отсюда.", "Подойди ближе ко мне."],
+      "es": ["Vivo cerca de la escuela.", "El parque está cerca de aquí.", "Ven cerca de mí."],
+      "pl": ["Mieszkam blisko szkoły.", "Park jest blisko stąd.", "Podejdź bliżej mnie."],
+      "fa": ["نزدیک مدرسه زندگی می‌کنم.", "پارک نزدیک اینجاست.", "نزدیک من بیا."]
+    }
+  },
+  {
+    "id": "universal_a1_445_fr",
+    "word": "loin de",
+    "translations": {
+      "en": "far from",
+      "de": "weit von",
+      "ar": "بعيد عن",
+      "fr": "loin de",
+      "it": "lontano da",
+      "ru": "далеко от",
+      "es": "lejos de",
+      "pl": "daleko od",
+      "fa": "دور از"
+    },
+    "examples": {
+      "en": ["I live far from here.", "The station is far from the center.", "It's not far from the school."],
+      "de": ["Ich wohne weit von hier.", "Der Bahnhof ist weit vom Zentrum.", "Es ist nicht weit von der Schule."],
+      "ar": ["أعيش بعيداً عن هنا.", "المحطة بعيدة عن المركز.", "ليس بعيداً عن المدرسة."],
+      "fr": ["J'habite loin d'ici.", "La gare est loin du centre.", "Ce n'est pas loin de l'école."],
+      "it": ["Abito lontano da qui.", "La stazione è lontana dal centro.", "Non è lontano dalla scuola."],
+      "ru": ["Я живу далеко отсюда.", "Станция далеко от центра.", "Это недалеко от школы."],
+      "es": ["Vivo lejos de aquí.", "La estación está lejos del centro.", "No está lejos de la escuela."],
+      "pl": ["Mieszkam daleko stąd.", "Stacja jest daleko od centrum.", "To nie jest daleko od szkoły."],
+      "fa": ["دور از اینجا زندگی می‌کنم.", "ایستگاه دور از مرکز است.", "دور از مدرسه نیست."]
+    }
+  },
+  {
+    "id": "universal_a1_446_fr",
+    "word": "de",
+    "translations": {
+      "en": "of",
+      "de": "von",
+      "ar": "من",
+      "fr": "de",
+      "it": "di",
+      "ru": "из",
+      "es": "de",
+      "pl": "z",
+      "fa": "از"
+    },
+    "examples": {
+      "en": ["A cup of coffee.", "The door of the house.", "I come from Paris."],
+      "de": ["Eine Tasse Kaffee.", "Die Tür des Hauses.", "Ich komme aus Paris."],
+      "ar": ["فنجان من القهوة.", "باب المنزل.", "أنا من باريس."],
+      "fr": ["Une tasse de café.", "La porte de la maison.", "Je viens de Paris."],
+      "it": ["Una tazza di caffè.", "La porta della casa.", "Vengo da Parigi."],
+      "ru": ["Чашка кофе.", "Дверь дома.", "Я из Парижа."],
+      "es": ["Una taza de café.", "La puerta de la casa.", "Vengo de París."],
+      "pl": ["Filiżanka kawy.", "Drzwi domu.", "Pochodzę z Paryża."],
+      "fa": ["یک فنجان قهوه.", "در خانه.", "من از پاریس هستم."]
+    }
+  },
+  {
+    "id": "universal_a1_447_fr",
+    "word": "à",
+    "translations": {
+      "en": "to",
+      "de": "zu",
+      "ar": "إلى",
+      "fr": "à",
+      "it": "a",
+      "ru": "к",
+      "es": "a",
+      "pl": "do",
+      "fa": "به"
+    },
+    "examples": {
+      "en": ["I go to school.", "Give it to me.", "At home."],
+      "de": ["Ich gehe zur Schule.", "Gib es mir.", "Zu Hause."],
+      "ar": ["أذهب إلى المدرسة.", "أعطه لي.", "في المنزل."],
+      "fr": ["Je vais à l'école.", "Donne-le moi.", "À la maison."],
+      "it": ["Vado a scuola.", "Dammi.", "A casa."],
+      "ru": ["Я иду в школу.", "Дай мне.", "Дома."],
+      "es": ["Voy a la escuela.", "Dámelo.", "En casa."],
+      "pl": ["Idę do szkoły.", "Daj mi to.", "W domu."],
+      "fa": ["به مدرسه می‌روم.", "به من بده.", "در خانه."]
+    }
+  },
+  {
+    "id": "universal_a1_448_fr",
+    "word": "chez",
+    "translations": {
+      "en": "at (someone's place)",
+      "de": "bei",
+      "ar": "عند",
+      "fr": "chez",
+      "it": "da",
+      "ru": "у",
+      "es": "en casa de",
+      "pl": "u",
+      "fa": "نزد"
+    },
+    "examples": {
+      "en": ["I am at my friend's place.", "At home.", "Go to the doctor's."],
+      "de": ["Ich bin bei meinem Freund.", "Zu Hause.", "Geh zum Arzt."],
+      "ar": ["أنا عند صديقي.", "في المنزل.", "اذهب إلى الطبيب."],
+      "fr": ["Je suis chez mon ami.", "Chez moi.", "Va chez le médecin."],
+      "it": ["Sono da un mio amico.", "A casa mia.", "Vai dal dottore."],
+      "ru": ["Я у моего друга.", "Дома.", "Иди к врачу."],
+      "es": ["Estoy en casa de mi amigo.", "En mi casa.", "Ve al médico."],
+      "pl": ["Jestem u mojego przyjaciela.", "W domu.", "Idź do lekarza."],
+      "fa": ["نزد دوستم هستم.", "در خانه.", "نزد دکتر برو."]
+    }
+  },
+  {
+    "id": "universal_a1_449_fr",
+    "word": "bonjour",
+    "translations": {
+      "en": "hello",
+      "de": "hallo",
+      "ar": "مرحباً",
+      "fr": "bonjour",
+      "it": "ciao",
+      "ru": "привет",
+      "es": "hola",
+      "pl": "cześć",
+      "fa": "سلام"
+    },
+    "examples": {
+      "en": ["Hello! How are you?", "Hello, nice to meet you.", "Say hello to your mother."],
+      "de": ["Hallo! Wie geht es dir?", "Hallo, schön dich kennenzulernen.", "Grüß deine Mutter."],
+      "ar": ["مرحباً! كيف حالك؟", "مرحباً، سعيد بلقائك.", "سلم على والدتك."],
+      "fr": ["Bonjour! Comment vas-tu?", "Bonjour, enchanté.", "Dis bonjour à ta mère."],
+      "it": ["Ciao! Come stai?", "Ciao, piacere di conoscerti.", "Saluta tua madre."],
+      "ru": ["Привет! Как дела?", "Привет, приятно познакомиться.", "Передавай привет матери."],
+      "es": ["¡Hola! ¿Cómo estás?", "Hola, encantado de conocerte.", "Saluda a tu madre."],
+      "pl": ["Cześć! Jak się masz?", "Cześć, miło cię poznać.", "Pozdrów swoją matkę."],
+      "fa": ["سلام! چطوری؟", "سلام، خوشبختم.", "به مادرت سلام برسان."]
+    }
+  },
+  {
+    "id": "universal_a1_450_fr",
+    "word": "au revoir",
+    "translations": {
+      "en": "goodbye",
+      "de": "auf Wiedersehen",
+      "ar": "وداعاً",
+      "fr": "au revoir",
+      "it": "arrivederci",
+      "ru": "до свидания",
+      "es": "adiós",
+      "pl": "do widzenia",
+      "fa": "خداحافظ"
+    },
+    "examples": {
+      "en": ["Goodbye! See you tomorrow.", "Say goodbye.", "Goodbye, have a nice day."],
+      "de": ["Auf Wiedersehen! Bis morgen.", "Sag auf Wiedersehen.", "Auf Wiedersehen, schönen Tag noch."],
+      "ar": ["وداعاً! أراك غداً.", "قل وداعاً.", "وداعاً، يوم سعيد."],
+      "fr": ["Au revoir! À demain.", "Dis au revoir.", "Au revoir, bonne journée."],
+      "it": ["Arrivederci! A domani.", "Dì arrivederci.", "Arrivederci, buona giornata."],
+      "ru": ["До свидания! До завтра.", "Попрощайся.", "До свидания, хорошего дня."],
+      "es": ["¡Adiós! Hasta mañana.", "Di adiós.", "Adiós, que tengas un buen día."],
+      "pl": ["Do widzenia! Do jutra.", "Powiedz do widzenia.", "Do widzenia, miłego dnia."],
+      "fa": ["خداحافظ! فردا می‌بینمت.", "خداحافظی کن.", "خداحافظ، روز خوبی داشته باشی."]
+    }
+  },
+  {
+    "id": "universal_a1_451_fr",
+    "word": "merci",
+    "translations": {
+      "en": "thank you",
+      "de": "danke",
+      "ar": "شكراً",
+      "fr": "merci",
+      "it": "grazie",
+      "ru": "спасибо",
+      "es": "gracias",
+      "pl": "dziękuję",
+      "fa": "متشکرم"
+    },
+    "examples": {
+      "en": ["Thank you very much.", "Thank you for the gift.", "No, thank you."],
+      "de": ["Vielen Dank.", "Danke für das Geschenk.", "Nein, danke."],
+      "ar": ["شكراً جزيلاً.", "شكراً على الهدية.", "لا، شكراً."],
+      "fr": ["Merci beaucoup.", "Merci pour le cadeau.", "Non, merci."],
+      "it": ["Grazie mille.", "Grazie per il regalo.", "No, grazie."],
+      "ru": ["Большое спасибо.", "Спасибо за подарок.", "Нет, спасибо."],
+      "es": ["Muchas gracias.", "Gracias por el regalo.", "No, gracias."],
+      "pl": ["Bardzo dziękuję.", "Dziękuję za prezent.", "Nie, dziękuję."],
+      "fa": ["خیلی متشکرم.", "ممنون از هدیه.", "نه، متشکرم."]
+    }
+  },
+  {
+    "id": "universal_a1_452_fr",
+    "word": "s'il vous plaît",
+    "translations": {
+      "en": "please",
+      "de": "bitte",
+      "ar": "من فضلك",
+      "fr": "s'il vous plaît",
+      "it": "per favore",
+      "ru": "пожалуйста",
+      "es": "por favor",
+      "pl": "proszę",
+      "fa": "لطفاً"
+    },
+    "examples": {
+      "en": ["Coffee, please.", "Please sit down.", "Can you help me, please?"],
+      "de": ["Kaffee, bitte.", "Bitte setzen Sie sich.", "Kannst du mir bitte helfen?"],
+      "ar": ["قهوة، من فضلك.", "من فضلك اجلس.", "هل يمكنك مساعدتي، من فضلك؟"],
+      "fr": ["Café, s'il vous plaît.", "Asseyez-vous, s'il vous plaît.", "Peux-tu m'aider, s'il te plaît?"],
+      "it": ["Caffè, per favore.", "Si sieda, per favore.", "Puoi aiutarmi, per favore?"],
+      "ru": ["Кофе, пожалуйста.", "Пожалуйста, садитесь.", "Можешь мне помочь, пожалуйста?"],
+      "es": ["Café, por favor.", "Siéntese, por favor.", "¿Puedes ayudarme, por favor?"],
+      "pl": ["Kawa, proszę.", "Proszę usiąść.", "Czy możesz mi pomóc, proszę?"],
+      "fa": ["قهوه، لطفاً.", "لطفاً بنشینید.", "می‌توانی کمکم کنی، لطفاً؟"]
+    }
+  },
+  {
+    "id": "universal_a1_453_fr",
+    "word": "pardon",
+    "translations": {
+      "en": "excuse me",
+      "de": "entschuldigung",
+      "ar": "عفواً",
+      "fr": "pardon",
+      "it": "scusi",
+      "ru": "извините",
+      "es": "perdón",
+      "pl": "przepraszam",
+      "fa": "ببخشید"
+    },
+    "examples": {
+      "en": ["Excuse me, where is the station?", "I'm sorry.", "Pardon me."],
+      "de": ["Entschuldigung, wo ist der Bahnhof?", "Es tut mir leid.", "Verzeihung."],
+      "ar": ["عفواً، أين المحطة؟", "أنا آسف.", "اعذرني."],
+      "fr": ["Pardon, où est la gare?", "Je suis désolé.", "Pardonne-moi."],
+      "it": ["Scusi, dov'è la stazione?", "Mi dispiace.", "Mi scusi."],
+      "ru": ["Извините, где станция?", "Мне жаль.", "Прошу прощения."],
+      "es": ["Perdón, ¿dónde está la estación?", "Lo siento.", "Perdóname."],
+      "pl": ["Przepraszam, gdzie jest stacja?", "Przepraszam.", "Wybacz mi."],
+      "fa": ["ببخشید، ایستگاه کجاست؟", "متاسفم.", "ببخش."]
+    }
+  },
+  {
+    "id": "universal_a1_454_fr",
+    "word": "oui",
+    "translations": {
+      "en": "yes",
+      "de": "ja",
+      "ar": "نعم",
+      "fr": "oui",
+      "it": "sì",
+      "ru": "да",
+      "es": "sí",
+      "pl": "tak",
+      "fa": "بله"
+    },
+    "examples": {
+      "en": ["Yes, I understand.", "Yes, please.", "Yes, that's right."],
+      "de": ["Ja, ich verstehe.", "Ja, bitte.", "Ja, das stimmt."],
+      "ar": ["نعم، أفهم.", "نعم، من فضلك.", "نعم، هذا صحيح."],
+      "fr": ["Oui, je comprends.", "Oui, s'il vous plaît.", "Oui, c'est ça."],
+      "it": ["Sì, capisco.", "Sì, per favore.", "Sì, è giusto."],
+      "ru": ["Да, я понимаю.", "Да, пожалуйста.", "Да, правильно."],
+      "es": ["Sí, entiendo.", "Sí, por favor.", "Sí, es correcto."],
+      "pl": ["Tak, rozumiem.", "Tak, proszę.", "Tak, to prawda."],
+      "fa": ["بله، می‌فهمم.", "بله، لطفاً.", "بله، درسته."]
+    }
+  },
+  {
+    "id": "universal_a1_455_fr",
+    "word": "non",
+    "translations": {
+      "en": "no",
+      "de": "nein",
+      "ar": "لا",
+      "fr": "non",
+      "it": "no",
+      "ru": "нет",
+      "es": "no",
+      "pl": "nie",
+      "fa": "نه"
+    },
+    "examples": {
+      "en": ["No, I don't understand.", "No, thank you.", "No, that's wrong."],
+      "de": ["Nein, ich verstehe nicht.", "Nein, danke.", "Nein, das ist falsch."],
+      "ar": ["لا، لا أفهم.", "لا، شكراً.", "لا، هذا خطأ."],
+      "fr": ["Non, je ne comprends pas.", "Non, merci.", "Non, c'est faux."],
+      "it": ["No, non capisco.", "No, grazie.", "No, è sbagliato."],
+      "ru": ["Нет, я не понимаю.", "Нет, спасибо.", "Нет, это неправильно."],
+      "es": ["No, no entiendo.", "No, gracias.", "No, eso es incorrecto."],
+      "pl": ["Nie, nie rozumiem.", "Nie, dziękuję.", "Nie, to jest błędne."],
+      "fa": ["نه، نمی‌فهمم.", "نه، متشکرم.", "نه، اشتباهه."]
+    }
+  },
+  {
+    "id": "universal_a1_456_fr",
+    "word": "peut-être",
+    "translations": {
+      "en": "maybe",
+      "de": "vielleicht",
+      "ar": "ربما",
+      "fr": "peut-être",
+      "it": "forse",
+      "ru": "может быть",
+      "es": "quizás",
+      "pl": "może",
+      "fa": "شاید"
+    },
+    "examples": {
+      "en": ["Maybe tomorrow.", "Maybe yes, maybe no.", "Maybe I'll come."],
+      "de": ["Vielleicht morgen.", "Vielleicht ja, vielleicht nein.", "Vielleicht komme ich."],
+      "ar": ["ربما غداً.", "ربما نعم، ربما لا.", "ربما سآتي."],
+      "fr": ["Peut-être demain.", "Peut-être oui, peut-être non.", "Peut-être que je viendrai."],
+      "it": ["Forse domani.", "Forse sì, forse no.", "Forse verrò."],
+      "ru": ["Может быть, завтра.", "Может быть, да, может быть, нет.", "Может быть, я приду."],
+      "es": ["Quizás mañana.", "Quizás sí, quizás no.", "Quizás venga."],
+      "pl": ["Może jutro.", "Może tak, może nie.", "Może przyjdę."],
+      "fa": ["شاید فردا.", "شاید بله، شاید نه.", "شاید بیایم."]
+    }
+  },
+  {
+    "id": "universal_a1_457_fr",
+    "word": "très",
+    "translations": {
+      "en": "very",
+      "de": "sehr",
+      "ar": "جداً",
+      "fr": "très",
+      "it": "molto",
+      "ru": "очень",
+      "es": "muy",
+      "pl": "bardzo",
+      "fa": "خیلی"
+    },
+    "examples": {
+      "en": ["Very good.", "Very big.", "I am very happy."],
+      "de": ["Sehr gut.", "Sehr groß.", "Ich bin sehr glücklich."],
+      "ar": ["جيد جداً.", "كبير جداً.", "أنا سعيد جداً."],
+      "fr": ["Très bien.", "Très grand.", "Je suis très content."],
+      "it": ["Molto bene.", "Molto grande.", "Sono molto felice."],
+      "ru": ["Очень хорошо.", "Очень большой.", "Я очень счастлив."],
+      "es": ["Muy bien.", "Muy grande.", "Estoy muy feliz."],
+      "pl": ["Bardzo dobrze.", "Bardzo duży.", "Jestem bardzo szczęśliwy."],
+      "fa": ["خیلی خوب.", "خیلی بزرگ.", "خیلی خوشحالم."]
+    }
+  },
+  {
+    "id": "universal_a1_458_fr",
+    "word": "trop",
+    "translations": {
+      "en": "too much",
+      "de": "zu viel",
+      "ar": "كثير جداً",
+      "fr": "trop",
+      "it": "troppo",
+      "ru": "слишком",
+      "es": "demasiado",
+      "pl": "za dużo",
+      "fa": "خیلی زیاد"
+    },
+    "examples": {
+      "en": ["Too expensive.", "Too big.", "It's too much."],
+      "de": ["Zu teuer.", "Zu groß.", "Es ist zu viel."],
+      "ar": ["غالي جداً.", "كبير جداً.", "إنه كثير جداً."],
+      "fr": ["Trop cher.", "Trop grand.", "C'est trop."],
+      "it": ["Troppo caro.", "Troppo grande.", "È troppo."],
+      "ru": ["Слишком дорого.", "Слишком большой.", "Это слишком."],
+      "es": ["Demasiado caro.", "Demasiado grande.", "Es demasiado."],
+      "pl": ["Za drogie.", "Za duże.", "To za dużo."],
+      "fa": ["خیلی گران.", "خیلی بزرگ.", "خیلی زیاد است."]
+    }
+  },
+  {
+    "id": "universal_a1_459_fr",
+    "word": "assez",
+    "translations": {
+      "en": "enough",
+      "de": "genug",
+      "ar": "كافٍ",
+      "fr": "assez",
+      "it": "abbastanza",
+      "ru": "достаточно",
+      "es": "suficiente",
+      "pl": "dość",
+      "fa": "کافی"
+    },
+    "examples": {
+      "en": ["That's enough.", "Do I have enough money?", "It's big enough."],
+      "de": ["Das ist genug.", "Habe ich genug Geld?", "Es ist groß genug."],
+      "ar": ["هذا كافٍ.", "هل لدي مال كافٍ؟", "إنه كبير بما يكفي."],
+      "fr": ["C'est assez.", "Est-ce que j'ai assez d'argent?", "C'est assez grand."],
+      "it": ["Basta.", "Ho abbastanza soldi?", "È abbastanza grande."],
+      "ru": ["Этого достаточно.", "У меня достаточно денег?", "Это достаточно большое."],
+      "es": ["Es suficiente.", "¿Tengo suficiente dinero?", "Es suficientemente grande."],
+      "pl": ["To wystarczy.", "Czy mam dość pieniędzy?", "Jest dość duże."],
+      "fa": ["کافی است.", "پول کافی دارم؟", "به اندازه کافی بزرگ است."]
+    }
+  },
+  {
+    "id": "universal_a1_460_fr",
+    "word": "beaucoup",
+    "translations": {
+      "en": "a lot",
+      "de": "viel",
+      "ar": "كثير",
+      "fr": "beaucoup",
+      "it": "molto",
+      "ru": "много",
+      "es": "mucho",
+      "pl": "dużo",
+      "fa": "زیاد"
+    },
+    "examples": {
+      "en": ["I have a lot of work.", "Thank you very much.", "There are many people."],
+      "de": ["Ich habe viel Arbeit.", "Vielen Dank.", "Es gibt viele Leute."],
+      "ar": ["لدي الكثير من العمل.", "شكراً جزيلاً.", "هناك الكثير من الناس."],
+      "fr": ["J'ai beaucoup de travail.", "Merci beaucoup.", "Il y a beaucoup de gens."],
+      "it": ["Ho molto lavoro.", "Grazie mille.", "Ci sono molte persone."],
+      "ru": ["У меня много работы.", "Большое спасибо.", "Там много людей."],
+      "es": ["Tengo mucho trabajo.", "Muchas gracias.", "Hay mucha gente."],
+      "pl": ["Mam dużo pracy.", "Bardzo dziękuję.", "Jest dużo ludzi."],
+      "fa": ["کار زیادی دارم.", "خیلی متشکرم.", "آدم زیادی هست."]
+    }
+  }
+]

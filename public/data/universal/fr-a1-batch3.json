@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "universal_a1_041_fr",
+    "word": "chose",
+    "translations": {
+      "en": "thing",
+      "de": "Ding, Sache",
+      "ar": "شيء",
+      "fr": "chose",
+      "it": "cosa",
+      "ru": "вещь",
+      "es": "cosa",
+      "pl": "rzecz",
+      "fa": "چیز"
+    },
+    "examples": {
+      "en": [
+        "This is a good thing.",
+        "I have many things.",
+        "What is this thing?"
+      ],
+      "de": [
+        "Das ist eine gute Sache.",
+        "Ich habe viele Dinge.",
+        "Was ist das für ein Ding?"
+      ],
+      "ar": [
+        "هذا شيء جيد.",
+        "لدي أشياء كثيرة.",
+        "ما هذا الشيء؟"
+      ],
+      "fr": [
+        "C'est une bonne chose.",
+        "J'ai beaucoup de choses.",
+        "Qu'est-ce que c'est que cette chose?"
+      ],
+      "it": [
+        "Questa è una buona cosa.",
+        "Io ho molte cose.",
+        "Che cos'è questa cosa?"
+      ],
+      "ru": [
+        "Это хорошая вещь.",
+        "У меня много вещей.",
+        "Что это за вещь?"
+      ],
+      "es": [
+        "Esta es una buena cosa.",
+        "Yo tengo muchas cosas.",
+        "¿Qué es esta cosa?"
+      ],
+      "pl": [
+        "To jest dobra rzecz.",
+        "Ja mam wiele rzeczy.",
+        "Co to za rzecz?"
+      ],
+      "fa": [
+        "این چیز خوبی است.",
+        "من چیزهای زیادی دارم.",
+        "این چه چیزی است؟"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_042_fr",
+    "word": "homme",
+    "translations": {
+      "en": "man",
+      "de": "Mann",
+      "ar": "رجل",
+      "fr": "homme",
+      "it": "uomo",
+      "ru": "мужчина",
+      "es": "hombre",
+      "pl": "mężczyzna",
+      "fa": "مرد"
+    },
+    "examples": {
+      "en": [
+        "The man is tall.",
+        "This man works here.",
+        "I see a man."
+      ],
+      "de": [
+        "Der Mann ist groß.",
+        "Dieser Mann arbeitet hier.",
+        "Ich sehe einen Mann."
+      ],
+      "ar": [
+        "الرجل طويل.",
+        "هذا الرجل يعمل هنا.",
+        "أرى رجلاً."
+      ],
+      "fr": [
+        "L'homme est grand.",
+        "Cet homme travaille ici.",
+        "Je vois un homme."
+      ],
+      "it": [
+        "L'uomo è alto.",
+        "Quest'uomo lavora qui.",
+        "Io vedo un uomo."
+      ],
+      "ru": [
+        "Мужчина высокий.",
+        "Этот мужчина работает здесь.",
+        "Я вижу мужчину."
+      ],
+      "es": [
+        "El hombre es alto.",
+        "Este hombre trabaja aquí.",
+        "Yo veo un hombre."
+      ],
+      "pl": [
+        "Mężczyzna jest wysoki.",
+        "Ten mężczyzna pracuje tutaj.",
+        "Ja widzę mężczyznę."
+      ],
+      "fa": [
+        "این مرد قد بلند است.",
+        "این مرد اینجا کار می‌کند.",
+        "من یک مرد می‌بینم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_043_fr",
+    "word": "jour",
+    "translations": {
+      "en": "day",
+      "de": "Tag",
+      "ar": "يوم",
+      "fr": "jour",
+      "it": "giorno",
+      "ru": "день",
+      "es": "día",
+      "pl": "dzień",
+      "fa": "روز"
+    },
+    "examples": {
+      "en": [
+        "Today is a good day.",
+        "I work every day.",
+        "Have a nice day!"
+      ],
+      "de": [
+        "Heute ist ein guter Tag.",
+        "Ich arbeite jeden Tag.",
+        "Schönen Tag noch!"
+      ],
+      "ar": [
+        "اليوم يوم جيد.",
+        "أنا أعمل كل يوم.",
+        "يوم سعيد!"
+      ],
+      "fr": [
+        "Aujourd'hui est un bon jour.",
+        "Je travaille tous les jours.",
+        "Bonne journée!"
+      ],
+      "it": [
+        "Oggi è una buona giornata.",
+        "Io lavoro ogni giorno.",
+        "Buona giornata!"
+      ],
+      "ru": [
+        "Сегодня хороший день.",
+        "Я работаю каждый день.",
+        "Хорошего дня!"
+      ],
+      "es": [
+        "Hoy es un buen día.",
+        "Yo trabajo todos los días.",
+        "¡Buen día!"
+      ],
+      "pl": [
+        "Dzisiaj jest dobry dzień.",
+        "Ja pracuję codziennie.",
+        "Miłego dnia!"
+      ],
+      "fa": [
+        "امروز روز خوبی است.",
+        "من هر روز کار می‌کنم.",
+        "روز خوبی داشته باشید!"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_044_fr",
+    "word": "temps",
+    "translations": {
+      "en": "time, weather",
+      "de": "Zeit, Wetter",
+      "ar": "وقت، طقس",
+      "fr": "temps",
+      "it": "tempo",
+      "ru": "время, погода",
+      "es": "tiempo",
+      "pl": "czas, pogoda",
+      "fa": "زمان، هوا"
+    },
+    "examples": {
+      "en": [
+        "I have time.",
+        "The weather is nice.",
+        "What time is it?"
+      ],
+      "de": [
+        "Ich habe Zeit.",
+        "Das Wetter ist schön.",
+        "Wie spät ist es?"
+      ],
+      "ar": [
+        "لدي وقت.",
+        "الطقس جميل.",
+        "كم الساعة؟"
+      ],
+      "fr": [
+        "J'ai du temps.",
+        "Le temps est beau.",
+        "Quelle heure est-il?"
+      ],
+      "it": [
+        "Io ho tempo.",
+        "Il tempo è bello.",
+        "Che ore sono?"
+      ],
+      "ru": [
+        "У меня есть время.",
+        "Погода хорошая.",
+        "Который час?"
+      ],
+      "es": [
+        "Yo tengo tiempo.",
+        "El tiempo está bonito.",
+        "¿Qué hora es?"
+      ],
+      "pl": [
+        "Ja mam czas.",
+        "Pogoda jest ładna.",
+        "Która godzina?"
+      ],
+      "fa": [
+        "من وقت دارم.",
+        "هوا خوب است.",
+        "ساعت چند است؟"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_045_fr",
+    "word": "main",
+    "translations": {
+      "en": "hand",
+      "de": "Hand",
+      "ar": "يد",
+      "fr": "main",
+      "it": "mano",
+      "ru": "рука (кисть)",
+      "es": "mano",
+      "pl": "ręka (dłoń)",
+      "fa": "دست"
+    },
+    "examples": {
+      "en": [
+        "I wash my hands.",
+        "Give me your hand.",
+        "She raises her hand."
+      ],
+      "de": [
+        "Ich wasche meine Hände.",
+        "Gib mir deine Hand.",
+        "Sie hebt ihre Hand."
+      ],
+      "ar": [
+        "أنا أغسل يدي.",
+        "أعطني يدك.",
+        "هي ترفع يدها."
+      ],
+      "fr": [
+        "Je me lave les mains.",
+        "Donne-moi ta main.",
+        "Elle lève la main."
+      ],
+      "it": [
+        "Io mi lavo le mani.",
+        "Dammi la tua mano.",
+        "Lei alza la mano."
+      ],
+      "ru": [
+        "Я мою руки.",
+        "Дай мне руку.",
+        "Она поднимает руку."
+      ],
+      "es": [
+        "Yo me lavo las manos.",
+        "Dame tu mano.",
+        "Ella levanta la mano."
+      ],
+      "pl": [
+        "Ja myję ręce.",
+        "Daj mi rękę.",
+        "Ona podnosi rękę."
+      ],
+      "fa": [
+        "من دستانم را می‌شویم.",
+        "دستت را بده.",
+        "او دستش را بلند می‌کند."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_046_fr",
+    "word": "femme",
+    "translations": {
+      "en": "woman, wife",
+      "de": "Frau",
+      "ar": "امرأة، زوجة",
+      "fr": "femme",
+      "it": "donna, moglie",
+      "ru": "женщина, жена",
+      "es": "mujer, esposa",
+      "pl": "kobieta, żona",
+      "fa": "زن، همسر"
+    },
+    "examples": {
+      "en": [
+        "The woman is kind.",
+        "This is my wife.",
+        "I see a woman."
+      ],
+      "de": [
+        "Die Frau ist nett.",
+        "Das ist meine Frau.",
+        "Ich sehe eine Frau."
+      ],
+      "ar": [
+        "المرأة لطيفة.",
+        "هذه زوجتي.",
+        "أرى امرأة."
+      ],
+      "fr": [
+        "La femme est gentille.",
+        "C'est ma femme.",
+        "Je vois une femme."
+      ],
+      "it": [
+        "La donna è gentile.",
+        "Questa è mia moglie.",
+        "Io vedo una donna."
+      ],
+      "ru": [
+        "Женщина добрая.",
+        "Это моя жена.",
+        "Я вижу женщину."
+      ],
+      "es": [
+        "La mujer es amable.",
+        "Esta es mi esposa.",
+        "Yo veo una mujer."
+      ],
+      "pl": [
+        "Kobieta jest miła.",
+        "To moja żona.",
+        "Ja widzę kobietę."
+      ],
+      "fa": [
+        "زن مهربان است.",
+        "این همسر من است.",
+        "من یک زن می‌بینم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_047_fr",
+    "word": "enfant",
+    "translations": {
+      "en": "child",
+      "de": "Kind",
+      "ar": "طفل",
+      "fr": "enfant",
+      "it": "bambino",
+      "ru": "ребенок",
+      "es": "niño",
+      "pl": "dziecko",
+      "fa": "کودک"
+    },
+    "examples": {
+      "en": [
+        "The child is playing.",
+        "I have two children.",
+        "This child is happy."
+      ],
+      "de": [
+        "Das Kind spielt.",
+        "Ich habe zwei Kinder.",
+        "Dieses Kind ist glücklich."
+      ],
+      "ar": [
+        "الطفل يلعب.",
+        "لدي طفلان.",
+        "هذا الطفل سعيد."
+      ],
+      "fr": [
+        "L'enfant joue.",
+        "J'ai deux enfants.",
+        "Cet enfant est heureux."
+      ],
+      "it": [
+        "Il bambino gioca.",
+        "Io ho due bambini.",
+        "Questo bambino è felice."
+      ],
+      "ru": [
+        "Ребенок играет.",
+        "У меня двое детей.",
+        "Этот ребенок счастлив."
+      ],
+      "es": [
+        "El niño está jugando.",
+        "Yo tengo dos niños.",
+        "Este niño es feliz."
+      ],
+      "pl": [
+        "Dziecko się bawi.",
+        "Ja mam dwoje dzieci.",
+        "To dziecko jest szczęśliwe."
+      ],
+      "fa": [
+        "کودک بازی می‌کند.",
+        "من دو فرزند دارم.",
+        "این کودک خوشحال است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_048_fr",
+    "word": "vie",
+    "translations": {
+      "en": "life",
+      "de": "Leben",
+      "ar": "حياة",
+      "fr": "vie",
+      "it": "vita",
+      "ru": "жизнь",
+      "es": "vida",
+      "pl": "życie",
+      "fa": "زندگی"
+    },
+    "examples": {
+      "en": [
+        "Life is beautiful.",
+        "I love my life.",
+        "This is the good life."
+      ],
+      "de": [
+        "Das Leben ist schön.",
+        "Ich liebe mein Leben.",
+        "Das ist das gute Leben."
+      ],
+      "ar": [
+        "الحياة جميلة.",
+        "أنا أحب حياتي.",
+        "هذه هي الحياة الجيدة."
+      ],
+      "fr": [
+        "La vie est belle.",
+        "J'aime ma vie.",
+        "C'est la belle vie."
+      ],
+      "it": [
+        "La vita è bella.",
+        "Io amo la mia vita.",
+        "Questa è la bella vita."
+      ],
+      "ru": [
+        "Жизнь прекрасна.",
+        "Я люблю свою жизнь.",
+        "Это хорошая жизнь."
+      ],
+      "es": [
+        "La vida es hermosa.",
+        "Yo amo mi vida.",
+        "Esta es la buena vida."
+      ],
+      "pl": [
+        "Życie jest piękne.",
+        "Ja kocham moje życie.",
+        "To jest dobre życie."
+      ],
+      "fa": [
+        "زندگی زیباست.",
+        "من زندگی‌ام را دوست دارم.",
+        "این زندگی خوب است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_049_fr",
+    "word": "monsieur",
+    "translations": {
+      "en": "sir, mister, Mr.",
+      "de": "Herr",
+      "ar": "سيد",
+      "fr": "monsieur",
+      "it": "signore",
+      "ru": "господин",
+      "es": "señor",
+      "pl": "pan",
+      "fa": "آقا"
+    },
+    "examples": {
+      "en": [
+        "Good morning, sir.",
+        "Mr. Martin is here.",
+        "Excuse me, sir."
+      ],
+      "de": [
+        "Guten Morgen, Herr.",
+        "Herr Martin ist hier.",
+        "Entschuldigung, Herr."
+      ],
+      "ar": [
+        "صباح الخير يا سيدي.",
+        "السيد مارتن هنا.",
+        "عفواً يا سيدي."
+      ],
+      "fr": [
+        "Bonjour, monsieur.",
+        "Monsieur Martin est ici.",
+        "Excusez-moi, monsieur."
+      ],
+      "it": [
+        "Buongiorno, signore.",
+        "Il signor Martin è qui.",
+        "Scusi, signore."
+      ],
+      "ru": [
+        "Доброе утро, господин.",
+        "Господин Мартин здесь.",
+        "Извините, господин."
+      ],
+      "es": [
+        "Buenos días, señor.",
+        "El señor Martin está aquí.",
+        "Disculpe, señor."
+      ],
+      "pl": [
+        "Dzień dobry, panie.",
+        "Pan Martin jest tutaj.",
+        "Przepraszam, panie."
+      ],
+      "fa": [
+        "صبح بخیر، آقا.",
+        "آقای مارتین اینجاست.",
+        "ببخشید، آقا."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_050_fr",
+    "word": "ville",
+    "translations": {
+      "en": "city, town",
+      "de": "Stadt",
+      "ar": "مدينة",
+      "fr": "ville",
+      "it": "città",
+      "ru": "город",
+      "es": "ciudad",
+      "pl": "miasto",
+      "fa": "شهر"
+    },
+    "examples": {
+      "en": [
+        "Paris is a big city.",
+        "I live in this town.",
+        "The city is beautiful."
+      ],
+      "de": [
+        "Paris ist eine große Stadt.",
+        "Ich lebe in dieser Stadt.",
+        "Die Stadt ist schön."
+      ],
+      "ar": [
+        "باريس مدينة كبيرة.",
+        "أنا أعيش في هذه المدينة.",
+        "المدينة جميلة."
+      ],
+      "fr": [
+        "Paris est une grande ville.",
+        "J'habite dans cette ville.",
+        "La ville est belle."
+      ],
+      "it": [
+        "Parigi è una grande città.",
+        "Io vivo in questa città.",
+        "La città è bella."
+      ],
+      "ru": [
+        "Париж - большой город.",
+        "Я живу в этом городе.",
+        "Город красивый."
+      ],
+      "es": [
+        "París es una ciudad grande.",
+        "Yo vivo en esta ciudad.",
+        "La ciudad es bonita."
+      ],
+      "pl": [
+        "Paryż to duże miasto.",
+        "Ja mieszkam w tym mieście.",
+        "Miasto jest piękne."
+      ],
+      "fa": [
+        "پاریس شهر بزرگی است.",
+        "من در این شهر زندگی می‌کنم.",
+        "شهر زیباست."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_051_fr",
+    "word": "monde",
+    "translations": {
+      "en": "world, people",
+      "de": "Welt",
+      "ar": "عالم، ناس",
+      "fr": "monde",
+      "it": "mondo",
+      "ru": "мир, люди",
+      "es": "mundo",
+      "pl": "świat, ludzie",
+      "fa": "جهان، مردم"
+    },
+    "examples": {
+      "en": [
+        "The world is big.",
+        "Many people are here.",
+        "I travel the world."
+      ],
+      "de": [
+        "Die Welt ist groß.",
+        "Viele Leute sind hier.",
+        "Ich reise um die Welt."
+      ],
+      "ar": [
+        "العالم كبير.",
+        "الكثير من الناس هنا.",
+        "أنا أسافر حول العالم."
+      ],
+      "fr": [
+        "Le monde est grand.",
+        "Beaucoup de monde est ici.",
+        "Je voyage dans le monde."
+      ],
+      "it": [
+        "Il mondo è grande.",
+        "Molta gente è qui.",
+        "Io viaggio per il mondo."
+      ],
+      "ru": [
+        "Мир большой.",
+        "Здесь много людей.",
+        "Я путешествую по миру."
+      ],
+      "es": [
+        "El mundo es grande.",
+        "Mucha gente está aquí.",
+        "Yo viajo por el mundo."
+      ],
+      "pl": [
+        "Świat jest duży.",
+        "Wiele osób jest tutaj.",
+        "Ja podróżuję po świecie."
+      ],
+      "fa": [
+        "جهان بزرگ است.",
+        "مردم زیادی اینجا هستند.",
+        "من دنیا را سفر می‌کنم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_052_fr",
+    "word": "maison",
+    "translations": {
+      "en": "house, home",
+      "de": "Haus",
+      "ar": "منزل، بيت",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "examples": {
+      "en": [
+        "I am at home.",
+        "This is my house.",
+        "The house is big."
+      ],
+      "de": [
+        "Ich bin zu Hause.",
+        "Das ist mein Haus.",
+        "Das Haus ist groß."
+      ],
+      "ar": [
+        "أنا في المنزل.",
+        "هذا منزلي.",
+        "المنزل كبير."
+      ],
+      "fr": [
+        "Je suis à la maison.",
+        "C'est ma maison.",
+        "La maison est grande."
+      ],
+      "it": [
+        "Io sono a casa.",
+        "Questa è la mia casa.",
+        "La casa è grande."
+      ],
+      "ru": [
+        "Я дома.",
+        "Это мой дом.",
+        "Дом большой."
+      ],
+      "es": [
+        "Yo estoy en casa.",
+        "Esta es mi casa.",
+        "La casa es grande."
+      ],
+      "pl": [
+        "Ja jestem w domu.",
+        "To jest mój dom.",
+        "Dom jest duży."
+      ],
+      "fa": [
+        "من در خانه هستم.",
+        "این خانه من است.",
+        "خانه بزرگ است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_053_fr",
+    "word": "année",
+    "translations": {
+      "en": "year",
+      "de": "Jahr",
+      "ar": "سنة",
+      "fr": "année",
+      "it": "anno",
+      "ru": "год",
+      "es": "año",
+      "pl": "rok",
+      "fa": "سال"
+    },
+    "examples": {
+      "en": [
+        "This year is good.",
+        "I am 25 years old.",
+        "Happy New Year!"
+      ],
+      "de": [
+        "Dieses Jahr ist gut.",
+        "Ich bin 25 Jahre alt.",
+        "Frohes neues Jahr!"
+      ],
+      "ar": [
+        "هذه السنة جيدة.",
+        "أنا عمري 25 سنة.",
+        "سنة جديدة سعيدة!"
+      ],
+      "fr": [
+        "Cette année est bonne.",
+        "J'ai 25 ans.",
+        "Bonne année!"
+      ],
+      "it": [
+        "Quest'anno è buono.",
+        "Io ho 25 anni.",
+        "Buon anno!"
+      ],
+      "ru": [
+        "Этот год хороший.",
+        "Мне 25 лет.",
+        "С Новым годом!"
+      ],
+      "es": [
+        "Este año es bueno.",
+        "Yo tengo 25 años.",
+        "¡Feliz Año Nuevo!"
+      ],
+      "pl": [
+        "Ten rok jest dobry.",
+        "Ja mam 25 lat.",
+        "Szczęśliwego Nowego Roku!"
+      ],
+      "fa": [
+        "امسال خوب است.",
+        "من ۲۵ سال دارم.",
+        "سال نو مبارک!"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_054_fr",
+    "word": "pays",
+    "translations": {
+      "en": "country",
+      "de": "Land",
+      "ar": "بلد",
+      "fr": "pays",
+      "it": "paese",
+      "ru": "страна",
+      "es": "país",
+      "pl": "kraj",
+      "fa": "کشور"
+    },
+    "examples": {
+      "en": [
+        "France is a country.",
+        "I love my country.",
+        "Which country are you from?"
+      ],
+      "de": [
+        "Frankreich ist ein Land.",
+        "Ich liebe mein Land.",
+        "Aus welchem Land kommst du?"
+      ],
+      "ar": [
+        "فرنسا بلد.",
+        "أنا أحب بلدي.",
+        "من أي بلد أنت؟"
+      ],
+      "fr": [
+        "La France est un pays.",
+        "J'aime mon pays.",
+        "De quel pays viens-tu?"
+      ],
+      "it": [
+        "La Francia è un paese.",
+        "Io amo il mio paese.",
+        "Di quale paese sei?"
+      ],
+      "ru": [
+        "Франция - это страна.",
+        "Я люблю свою страну.",
+        "Из какой ты страны?"
+      ],
+      "es": [
+        "Francia es un país.",
+        "Yo amo mi país.",
+        "¿De qué país eres?"
+      ],
+      "pl": [
+        "Francja to kraj.",
+        "Ja kocham mój kraj.",
+        "Z jakiego jesteś kraju?"
+      ],
+      "fa": [
+        "فرانسه یک کشور است.",
+        "من کشورم را دوست دارم.",
+        "از کدام کشور هستی؟"
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_055_fr",
+    "word": "question",
+    "translations": {
+      "en": "question",
+      "de": "Frage",
+      "ar": "سؤال",
+      "fr": "question",
+      "it": "domanda",
+      "ru": "вопрос",
+      "es": "pregunta",
+      "pl": "pytanie",
+      "fa": "سؤال"
+    },
+    "examples": {
+      "en": [
+        "I have a question.",
+        "Answer the question.",
+        "That is a good question."
+      ],
+      "de": [
+        "Ich habe eine Frage.",
+        "Beantworte die Frage.",
+        "Das ist eine gute Frage."
+      ],
+      "ar": [
+        "لدي سؤال.",
+        "أجب عن السؤال.",
+        "هذا سؤال جيد."
+      ],
+      "fr": [
+        "J'ai une question.",
+        "Réponds à la question.",
+        "C'est une bonne question."
+      ],
+      "it": [
+        "Io ho una domanda.",
+        "Rispondi alla domanda.",
+        "Questa è una buona domanda."
+      ],
+      "ru": [
+        "У меня есть вопрос.",
+        "Ответь на вопрос.",
+        "Это хороший вопрос."
+      ],
+      "es": [
+        "Yo tengo una pregunta.",
+        "Responde la pregunta.",
+        "Esa es una buena pregunta."
+      ],
+      "pl": [
+        "Ja mam pytanie.",
+        "Odpowiedz na pytanie.",
+        "To dobre pytanie."
+      ],
+      "fa": [
+        "من یک سؤال دارم.",
+        "به سؤال جواب بده.",
+        "این سؤال خوبی است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_056_fr",
+    "word": "cas",
+    "translations": {
+      "en": "case",
+      "de": "Fall",
+      "ar": "حالة",
+      "fr": "cas",
+      "it": "caso",
+      "ru": "случай",
+      "es": "caso",
+      "pl": "przypadek",
+      "fa": "مورد، حالت"
+    },
+    "examples": {
+      "en": [
+        "In this case, yes.",
+        "This is a special case.",
+        "In any case, I agree."
+      ],
+      "de": [
+        "In diesem Fall, ja.",
+        "Das ist ein besonderer Fall.",
+        "Auf jeden Fall stimme ich zu."
+      ],
+      "ar": [
+        "في هذه الحالة، نعم.",
+        "هذه حالة خاصة.",
+        "على أي حال، أنا أوافق."
+      ],
+      "fr": [
+        "Dans ce cas, oui.",
+        "C'est un cas spécial.",
+        "En tout cas, je suis d'accord."
+      ],
+      "it": [
+        "In questo caso, sì.",
+        "Questo è un caso speciale.",
+        "In ogni caso, sono d'accordo."
+      ],
+      "ru": [
+        "В этом случае, да.",
+        "Это особый случай.",
+        "В любом случае, я согласен."
+      ],
+      "es": [
+        "En este caso, sí.",
+        "Este es un caso especial.",
+        "En cualquier caso, estoy de acuerdo."
+      ],
+      "pl": [
+        "W tym przypadku, tak.",
+        "To szczególny przypadek.",
+        "W każdym razie, zgadzam się."
+      ],
+      "fa": [
+        "در این مورد، بله.",
+        "این مورد خاصی است.",
+        "در هر صورت، موافقم."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_057_fr",
+    "word": "problème",
+    "translations": {
+      "en": "problem",
+      "de": "Problem",
+      "ar": "مشكلة",
+      "fr": "problème",
+      "it": "problema",
+      "ru": "проблема",
+      "es": "problema",
+      "pl": "problem",
+      "fa": "مشکل"
+    },
+    "examples": {
+      "en": [
+        "I have a problem.",
+        "No problem!",
+        "This is the problem."
+      ],
+      "de": [
+        "Ich habe ein Problem.",
+        "Kein Problem!",
+        "Das ist das Problem."
+      ],
+      "ar": [
+        "لدي مشكلة.",
+        "لا مشكلة!",
+        "هذه هي المشكلة."
+      ],
+      "fr": [
+        "J'ai un problème.",
+        "Pas de problème!",
+        "C'est le problème."
+      ],
+      "it": [
+        "Io ho un problema.",
+        "Nessun problema!",
+        "Questo è il problema."
+      ],
+      "ru": [
+        "У меня проблема.",
+        "Без проблем!",
+        "Это проблема."
+      ],
+      "es": [
+        "Yo tengo un problema.",
+        "¡No hay problema!",
+        "Este es el problema."
+      ],
+      "pl": [
+        "Ja mam problem.",
+        "Nie ma problemu!",
+        "To jest problem."
+      ],
+      "fa": [
+        "من مشکل دارم.",
+        "مشکلی نیست!",
+        "این مشکل است."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_058_fr",
+    "word": "côté",
+    "translations": {
+      "en": "side",
+      "de": "Seite",
+      "ar": "جانب",
+      "fr": "côté",
+      "it": "lato",
+      "ru": "сторона",
+      "es": "lado",
+      "pl": "strona, bok",
+      "fa": "طرف، کنار"
+    },
+    "examples": {
+      "en": [
+        "Come to my side.",
+        "On the other side.",
+        "The right side."
+      ],
+      "de": [
+        "Komm zu meiner Seite.",
+        "Auf der anderen Seite.",
+        "Die rechte Seite."
+      ],
+      "ar": [
+        "تعال إلى جانبي.",
+        "على الجانب الآخر.",
+        "الجانب الأيمن."
+      ],
+      "fr": [
+        "Viens de mon côté.",
+        "De l'autre côté.",
+        "Le côté droit."
+      ],
+      "it": [
+        "Vieni dal mio lato.",
+        "Dall'altro lato.",
+        "Il lato destro."
+      ],
+      "ru": [
+        "Иди на мою сторону.",
+        "С другой стороны.",
+        "Правая сторона."
+      ],
+      "es": [
+        "Ven a mi lado.",
+        "Al otro lado.",
+        "El lado derecho."
+      ],
+      "pl": [
+        "Przyjdź na moją stronę.",
+        "Po drugiej stronie.",
+        "Prawa strona."
+      ],
+      "fa": [
+        "به طرف من بیا.",
+        "از طرف دیگر.",
+        "طرف راست."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_059_fr",
+    "word": "part",
+    "translations": {
+      "en": "part, share",
+      "de": "Teil, Anteil",
+      "ar": "جزء، حصة",
+      "fr": "part",
+      "it": "parte",
+      "ru": "часть, доля",
+      "es": "parte",
+      "pl": "część, udział",
+      "fa": "بخش، سهم"
+    },
+    "examples": {
+      "en": [
+        "A big part of the cake.",
+        "I want my share.",
+        "The best part."
+      ],
+      "de": [
+        "Ein großer Teil des Kuchens.",
+        "Ich will meinen Anteil.",
+        "Der beste Teil."
+      ],
+      "ar": [
+        "جزء كبير من الكعكة.",
+        "أريد حصتي.",
+        "أفضل جزء."
+      ],
+      "fr": [
+        "Une grande part du gâteau.",
+        "Je veux ma part.",
+        "La meilleure part."
+      ],
+      "it": [
+        "Una grande parte della torta.",
+        "Io voglio la mia parte.",
+        "La parte migliore."
+      ],
+      "ru": [
+        "Большая часть торта.",
+        "Я хочу свою долю.",
+        "Лучшая часть."
+      ],
+      "es": [
+        "Una gran parte del pastel.",
+        "Yo quiero mi parte.",
+        "La mejor parte."
+      ],
+      "pl": [
+        "Duża część ciasta.",
+        "Ja chcę moją część.",
+        "Najlepsza część."
+      ],
+      "fa": [
+        "بخش بزرگی از کیک.",
+        "من سهمم را می‌خواهم.",
+        "بهترین بخش."
+      ]
+    }
+  },
+  {
+    "id": "universal_a1_060_fr",
+    "word": "heure",
+    "translations": {
+      "en": "hour, time",
+      "de": "Stunde, Uhrzeit",
+      "ar": "ساعة",
+      "fr": "heure",
+      "it": "ora",
+      "ru": "час",
+      "es": "hora",
+      "pl": "godzina",
+      "fa": "ساعت"
+    },
+    "examples": {
+      "en": [
+        "It is one hour.",
+        "What time is it?",
+        "I arrive at 3 o'clock."
+      ],
+      "de": [
+        "Es ist eine Stunde.",
+        "Wie spät ist es?",
+        "Ich komme um 3 Uhr an."
+      ],
+      "ar": [
+        "إنها ساعة واحدة.",
+        "كم الساعة؟",
+        "أصل في الساعة 3."
+      ],
+      "fr": [
+        "C'est une heure.",
+        "Quelle heure est-il?",
+        "J'arrive à 3 heures."
+      ],
+      "it": [
+        "È un'ora.",
+        "Che ore sono?",
+        "Io arrivo alle 3."
+      ],
+      "ru": [
+        "Это один час.",
+        "Который час?",
+        "Я приезжаю в 3 часа."
+      ],
+      "es": [
+        "Es una hora.",
+        "¿Qué hora es?",
+        "Yo llego a las 3."
+      ],
+      "pl": [
+        "To jest jedna godzina.",
+        "Która godzina?",
+        "Ja przyjadę o 3."
+      ],
+      "fa": [
+        "یک ساعت است.",
+        "ساعت چند است؟",
+        "من ساعت ۳ می‌رسم."
+      ]
+    }
+  }
+]

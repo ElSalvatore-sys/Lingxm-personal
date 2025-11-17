@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_201_fr",
+    "word": "manger",
+    "translations": {
+      "en": "to eat",
+      "de": "essen",
+      "ar": "يأكل",
+      "fr": "manger",
+      "it": "mangiare",
+      "ru": "есть, кушать",
+      "es": "comer",
+      "pl": "jeść",
+      "fa": "خوردن"
+    },
+    "examples": {
+      "en": ["I eat bread.", "We eat dinner.", "Do you eat meat?"],
+      "de": ["Ich esse Brot.", "Wir essen Abendessen.", "Isst du Fleisch?"],
+      "ar": ["أنا آكل الخبز.", "نحن نأكل العشاء.", "هل تأكل اللحم؟"],
+      "fr": ["Je mange du pain.", "Nous mangeons le dîner.", "Manges-tu de la viande?"],
+      "it": ["Io mangio pane.", "Noi mangiamo cena.", "Mangi carne?"],
+      "ru": ["Я ем хлеб.", "Мы едим ужин.", "Ты ешь мясо?"],
+      "es": ["Yo como pan.", "Nosotros comemos cena.", "¿Comes carne?"],
+      "pl": ["Ja jem chleb.", "My jemy kolację.", "Jesz mięso?"],
+      "fa": ["من نان می‌خورم.", "ما شام می‌خوریم.", "گوشت می‌خوری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_202_fr",
+    "word": "boire",
+    "translations": {
+      "en": "to drink",
+      "de": "trinken",
+      "ar": "يشرب",
+      "fr": "boire",
+      "it": "bere",
+      "ru": "пить",
+      "es": "beber",
+      "pl": "pić",
+      "fa": "نوشیدن"
+    },
+    "examples": {
+      "en": ["I drink water.", "We drink coffee.", "Do you drink tea?"],
+      "de": ["Ich trinke Wasser.", "Wir trinken Kaffee.", "Trinkst du Tee?"],
+      "ar": ["أنا أشرب الماء.", "نحن نشرب القهوة.", "هل تشرب الشاي؟"],
+      "fr": ["Je bois de l'eau.", "Nous buvons du café.", "Bois-tu du thé?"],
+      "it": ["Io bevo acqua.", "Noi beviamo caffè.", "Bevi tè?"],
+      "ru": ["Я пью воду.", "Мы пьем кофе.", "Ты пьешь чай?"],
+      "es": ["Yo bebo agua.", "Nosotros bebemos café.", "¿Bebes té?"],
+      "pl": ["Ja piję wodę.", "My pijemy kawę.", "Pijesz herbatę?"],
+      "fa": ["من آب می‌نوشم.", "ما قهوه می‌نوشیم.", "چای می‌نوشی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_203_fr",
+    "word": "dormir",
+    "translations": {
+      "en": "to sleep",
+      "de": "schlafen",
+      "ar": "ينام",
+      "fr": "dormir",
+      "it": "dormire",
+      "ru": "спать",
+      "es": "dormir",
+      "pl": "spać",
+      "fa": "خوابیدن"
+    },
+    "examples": {
+      "en": ["I sleep well.", "We sleep here.", "Do you sleep late?"],
+      "de": ["Ich schlafe gut.", "Wir schlafen hier.", "Schläfst du spät?"],
+      "ar": ["أنا أنام جيداً.", "نحن ننام هنا.", "هل تنام متأخراً؟"],
+      "fr": ["Je dors bien.", "Nous dormons ici.", "Dors-tu tard?"],
+      "it": ["Io dormo bene.", "Noi dormiamo qui.", "Dormi tardi?"],
+      "ru": ["Я сплю хорошо.", "Мы спим здесь.", "Ты спишь поздно?"],
+      "es": ["Yo duermo bien.", "Nosotros dormimos aquí.", "¿Duermes tarde?"],
+      "pl": ["Ja śpię dobrze.", "My śpimy tutaj.", "Śpisz późno?"],
+      "fa": ["من خوب می‌خوابم.", "ما اینجا می‌خوابیم.", "دیر می‌خوابی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_204_fr",
+    "word": "marcher",
+    "translations": {
+      "en": "to walk",
+      "de": "gehen, laufen",
+      "ar": "يمشي",
+      "fr": "marcher",
+      "it": "camminare",
+      "ru": "ходить, идти",
+      "es": "caminar, andar",
+      "pl": "chodzić, iść",
+      "fa": "راه رفتن"
+    },
+    "examples": {
+      "en": ["I walk to school.", "We walk together.", "Do you walk fast?"],
+      "de": ["Ich gehe zur Schule.", "Wir gehen zusammen.", "Gehst du schnell?"],
+      "ar": ["أنا أمشي إلى المدرسة.", "نحن نمشي معاً.", "هل تمشي بسرعة؟"],
+      "fr": ["Je marche à l'école.", "Nous marchons ensemble.", "Marches-tu vite?"],
+      "it": ["Io cammino a scuola.", "Noi camminiamo insieme.", "Cammini veloce?"],
+      "ru": ["Я хожу в школу.", "Мы идем вместе.", "Ты ходишь быстро?"],
+      "es": ["Yo camino a la escuela.", "Nosotros caminamos juntos.", "¿Caminas rápido?"],
+      "pl": ["Ja chodzę do szkoły.", "My chodzimy razem.", "Chodzisz szybko?"],
+      "fa": ["من به مدرسه راه می‌روم.", "ما با هم راه می‌رویم.", "سریع راه می‌روی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_205_fr",
+    "word": "courir",
+    "translations": {
+      "en": "to run",
+      "de": "laufen, rennen",
+      "ar": "يركض",
+      "fr": "courir",
+      "it": "correre",
+      "ru": "бегать, бежать",
+      "es": "correr",
+      "pl": "biegać, biec",
+      "fa": "دویدن"
+    },
+    "examples": {
+      "en": ["I run fast.", "We run together.", "Do you run daily?"],
+      "de": ["Ich laufe schnell.", "Wir laufen zusammen.", "Läufst du täglich?"],
+      "ar": ["أنا أركض بسرعة.", "نحن نركض معاً.", "هل تركض يومياً؟"],
+      "fr": ["Je cours vite.", "Nous courons ensemble.", "Cours-tu tous les jours?"],
+      "it": ["Io corro veloce.", "Noi corriamo insieme.", "Corri ogni giorno?"],
+      "ru": ["Я бегу быстро.", "Мы бежим вместе.", "Ты бегаешь каждый день?"],
+      "es": ["Yo corro rápido.", "Nosotros corremos juntos.", "¿Corres todos los días?"],
+      "pl": ["Ja biegnę szybko.", "My biegniemy razem.", "Biegasz codziennie?"],
+      "fa": ["من سریع می‌دوم.", "ما با هم می‌دویم.", "هر روز می‌دوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_206_fr",
+    "word": "lire",
+    "translations": {
+      "en": "to read",
+      "de": "lesen",
+      "ar": "يقرأ",
+      "fr": "lire",
+      "it": "leggere",
+      "ru": "читать",
+      "es": "leer",
+      "pl": "czytać",
+      "fa": "خواندن"
+    },
+    "examples": {
+      "en": ["I read books.", "We read newspapers.", "Do you read French?"],
+      "de": ["Ich lese Bücher.", "Wir lesen Zeitungen.", "Liest du Französisch?"],
+      "ar": ["أنا أقرأ الكتب.", "نحن نقرأ الصحف.", "هل تقرأ الفرنسية؟"],
+      "fr": ["Je lis des livres.", "Nous lisons des journaux.", "Lis-tu le français?"],
+      "it": ["Io leggo libri.", "Noi leggiamo giornali.", "Leggi francese?"],
+      "ru": ["Я читаю книги.", "Мы читаем газеты.", "Ты читаешь по-французски?"],
+      "es": ["Yo leo libros.", "Nosotros leemos periódicos.", "¿Lees francés?"],
+      "pl": ["Ja czytam książki.", "My czytamy gazety.", "Czytasz po francusku?"],
+      "fa": ["من کتاب می‌خوانم.", "ما روزنامه می‌خوانیم.", "فرانسوی می‌خوانی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_207_fr",
+    "word": "écrire",
+    "translations": {
+      "en": "to write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "писать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "examples": {
+      "en": ["I write letters.", "We write emails.", "Do you write well?"],
+      "de": ["Ich schreibe Briefe.", "Wir schreiben E-Mails.", "Schreibst du gut?"],
+      "ar": ["أنا أكتب الرسائل.", "نحن نكتب رسائل إلكترونية.", "هل تكتب جيداً؟"],
+      "fr": ["J'écris des lettres.", "Nous écrivons des emails.", "Écris-tu bien?"],
+      "it": ["Io scrivo lettere.", "Noi scriviamo email.", "Scrivi bene?"],
+      "ru": ["Я пишу письма.", "Мы пишем электронные письма.", "Ты хорошо пишешь?"],
+      "es": ["Yo escribo cartas.", "Nosotros escribimos emails.", "¿Escribes bien?"],
+      "pl": ["Ja piszę listy.", "My piszemy emaile.", "Piszesz dobrze?"],
+      "fa": ["من نامه می‌نویسم.", "ما ایمیل می‌نویسیم.", "خوب می‌نویسی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_208_fr",
+    "word": "parler",
+    "translations": {
+      "en": "to speak, to talk",
+      "de": "sprechen, reden",
+      "ar": "يتكلم، يتحدث",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить",
+      "es": "hablar",
+      "pl": "mówić",
+      "fa": "صحبت کردن، حرف زدن"
+    },
+    "examples": {
+      "en": ["I speak French.", "We talk together.", "Do you speak English?"],
+      "de": ["Ich spreche Französisch.", "Wir reden zusammen.", "Sprichst du Englisch?"],
+      "ar": ["أنا أتكلم الفرنسية.", "نحن نتحدث معاً.", "هل تتكلم الإنجليزية؟"],
+      "fr": ["Je parle français.", "Nous parlons ensemble.", "Parles-tu anglais?"],
+      "it": ["Io parlo francese.", "Noi parliamo insieme.", "Parli inglese?"],
+      "ru": ["Я говорю по-французски.", "Мы говорим вместе.", "Ты говоришь по-английски?"],
+      "es": ["Yo hablo francés.", "Nosotros hablamos juntos.", "¿Hablas inglés?"],
+      "pl": ["Ja mówię po francusku.", "My mówimy razem.", "Mówisz po angielsku?"],
+      "fa": ["من فرانسوی صحبت می‌کنم.", "ما با هم حرف می‌زنیم.", "انگلیسی صحبت می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_209_fr",
+    "word": "écouter",
+    "translations": {
+      "en": "to listen",
+      "de": "zuhören, hören",
+      "ar": "يستمع",
+      "fr": "écouter",
+      "it": "ascoltare",
+      "ru": "слушать",
+      "es": "escuchar",
+      "pl": "słuchać",
+      "fa": "گوش دادن"
+    },
+    "examples": {
+      "en": ["I listen to music.", "We listen carefully.", "Do you listen?"],
+      "de": ["Ich höre Musik.", "Wir hören aufmerksam zu.", "Hörst du zu?"],
+      "ar": ["أنا أستمع إلى الموسيقى.", "نحن نستمع بعناية.", "هل تستمع؟"],
+      "fr": ["J'écoute de la musique.", "Nous écoutons attentivement.", "Écoutes-tu?"],
+      "it": ["Io ascolto musica.", "Noi ascoltiamo attentamente.", "Ascolti?"],
+      "ru": ["Я слушаю музыку.", "Мы слушаем внимательно.", "Ты слушаешь?"],
+      "es": ["Yo escucho música.", "Nosotros escuchamos atentamente.", "¿Escuchas?"],
+      "pl": ["Ja słucham muzyki.", "My słuchamy uważnie.", "Słuchasz?"],
+      "fa": ["من موسیقی گوش می‌دهم.", "ما با دقت گوش می‌دهیم.", "گوش می‌دهی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_210_fr",
+    "word": "regarder",
+    "translations": {
+      "en": "to watch, to look at",
+      "de": "schauen, ansehen",
+      "ar": "ينظر، يشاهد",
+      "fr": "regarder",
+      "it": "guardare",
+      "ru": "смотреть",
+      "es": "mirar, ver",
+      "pl": "patrzeć, oglądać",
+      "fa": "نگاه کردن، تماشا کردن"
+    },
+    "examples": {
+      "en": ["I watch TV.", "We look at photos.", "Do you watch movies?"],
+      "de": ["Ich schaue Fernsehen.", "Wir schauen Fotos an.", "Schaust du Filme?"],
+      "ar": ["أنا أشاهد التلفزيون.", "نحن ننظر إلى الصور.", "هل تشاهد الأفلام؟"],
+      "fr": ["Je regarde la télé.", "Nous regardons des photos.", "Regardes-tu des films?"],
+      "it": ["Io guardo la TV.", "Noi guardiamo foto.", "Guardi film?"],
+      "ru": ["Я смотрю телевизор.", "Мы смотрим фотографии.", "Ты смотришь фильмы?"],
+      "es": ["Yo miro la tele.", "Nosotros miramos fotos.", "¿Miras películas?"],
+      "pl": ["Ja oglądam telewizję.", "My patrzymy na zdjęcia.", "Oglądasz filmy?"],
+      "fa": ["من تلویزیون تماشا می‌کنم.", "ما عکس‌ها را نگاه می‌کنیم.", "فیلم تماشا می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_211_fr",
+    "word": "entendre",
+    "translations": {
+      "en": "to hear",
+      "de": "hören",
+      "ar": "يسمع",
+      "fr": "entendre",
+      "it": "sentire, udire",
+      "ru": "слышать",
+      "es": "oír",
+      "pl": "słyszeć",
+      "fa": "شنیدن"
+    },
+    "examples": {
+      "en": ["I hear music.", "We hear voices.", "Do you hear me?"],
+      "de": ["Ich höre Musik.", "Wir hören Stimmen.", "Hörst du mich?"],
+      "ar": ["أنا أسمع الموسيقى.", "نحن نسمع أصواتاً.", "هل تسمعني؟"],
+      "fr": ["J'entends de la musique.", "Nous entendons des voix.", "M'entends-tu?"],
+      "it": ["Io sento musica.", "Noi sentiamo voci.", "Mi senti?"],
+      "ru": ["Я слышу музыку.", "Мы слышим голоса.", "Ты меня слышишь?"],
+      "es": ["Yo oigo música.", "Nosotros oímos voces.", "¿Me oyes?"],
+      "pl": ["Ja słyszę muzykę.", "My słyszymy głosy.", "Słyszysz mnie?"],
+      "fa": ["من موسیقی می‌شنوم.", "ما صداها می‌شنویم.", "مرا می‌شنوی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_212_fr",
+    "word": "comprendre",
+    "translations": {
+      "en": "to understand",
+      "de": "verstehen",
+      "ar": "يفهم",
+      "fr": "comprendre",
+      "it": "capire",
+      "ru": "понимать",
+      "es": "comprender, entender",
+      "pl": "rozumieć",
+      "fa": "فهمیدن"
+    },
+    "examples": {
+      "en": ["I understand French.", "We understand well.", "Do you understand?"],
+      "de": ["Ich verstehe Französisch.", "Wir verstehen gut.", "Verstehst du?"],
+      "ar": ["أنا أفهم الفرنسية.", "نحن نفهم جيداً.", "هل تفهم؟"],
+      "fr": ["Je comprends le français.", "Nous comprenons bien.", "Comprends-tu?"],
+      "it": ["Io capisco francese.", "Noi capiamo bene.", "Capisci?"],
+      "ru": ["Я понимаю французский.", "Мы хорошо понимаем.", "Ты понимаешь?"],
+      "es": ["Yo entiendo francés.", "Nosotros entendemos bien.", "¿Entiendes?"],
+      "pl": ["Ja rozumiem francuski.", "My rozumiemy dobrze.", "Rozumiesz?"],
+      "fa": ["من فرانسوی می‌فهمم.", "ما خوب می‌فهمیم.", "می‌فهمی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_213_fr",
+    "word": "apprendre",
+    "translations": {
+      "en": "to learn",
+      "de": "lernen",
+      "ar": "يتعلم",
+      "fr": "apprendre",
+      "it": "imparare",
+      "ru": "учить, изучать",
+      "es": "aprender",
+      "pl": "uczyć się",
+      "fa": "یاد گرفتن"
+    },
+    "examples": {
+      "en": ["I learn French.", "We learn together.", "Do you learn fast?"],
+      "de": ["Ich lerne Französisch.", "Wir lernen zusammen.", "Lernst du schnell?"],
+      "ar": ["أنا أتعلم الفرنسية.", "نحن نتعلم معاً.", "هل تتعلم بسرعة؟"],
+      "fr": ["J'apprends le français.", "Nous apprenons ensemble.", "Apprends-tu vite?"],
+      "it": ["Io imparo francese.", "Noi impariamo insieme.", "Impari veloce?"],
+      "ru": ["Я учу французский.", "Мы учим вместе.", "Ты учишь быстро?"],
+      "es": ["Yo aprendo francés.", "Nosotros aprendemos juntos.", "¿Aprendes rápido?"],
+      "pl": ["Ja uczę się francuskiego.", "My uczymy się razem.", "Uczysz się szybko?"],
+      "fa": ["من فرانسوی یاد می‌گیرم.", "ما با هم یاد می‌گیریم.", "سریع یاد می‌گیری؟"]
+    }
+  },
+  {
+    "id": "universal_a1_214_fr",
+    "word": "étudier",
+    "translations": {
+      "en": "to study",
+      "de": "studieren, lernen",
+      "ar": "يدرس",
+      "fr": "étudier",
+      "it": "studiare",
+      "ru": "учиться, изучать",
+      "es": "estudiar",
+      "pl": "studiować, uczyć się",
+      "fa": "درس خواندن، مطالعه کردن"
+    },
+    "examples": {
+      "en": ["I study math.", "We study together.", "Do you study daily?"],
+      "de": ["Ich lerne Mathe.", "Wir lernen zusammen.", "Lernst du täglich?"],
+      "ar": ["أنا أدرس الرياضيات.", "نحن ندرس معاً.", "هل تدرس يومياً؟"],
+      "fr": ["J'étudie les maths.", "Nous étudions ensemble.", "Étudies-tu tous les jours?"],
+      "it": ["Io studio matematica.", "Noi studiamo insieme.", "Studi ogni giorno?"],
+      "ru": ["Я изучаю математику.", "Мы учимся вместе.", "Ты учишься каждый день?"],
+      "es": ["Yo estudio matemáticas.", "Nosotros estudiamos juntos.", "¿Estudias todos los días?"],
+      "pl": ["Ja studiuję matematykę.", "My studiujemy razem.", "Studiujesz codziennie?"],
+      "fa": ["من ریاضی درس می‌خوانم.", "ما با هم درس می‌خوانیم.", "هر روز درس می‌خوانی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_215_fr",
+    "word": "enseigner",
+    "translations": {
+      "en": "to teach",
+      "de": "unterrichten, lehren",
+      "ar": "يعلّم، يدرّس",
+      "fr": "enseigner",
+      "it": "insegnare",
+      "ru": "учить, преподавать",
+      "es": "enseñar",
+      "pl": "uczyć, nauczać",
+      "fa": "آموزش دادن"
+    },
+    "examples": {
+      "en": ["I teach French.", "We teach children.", "Do you teach?"],
+      "de": ["Ich unterrichte Französisch.", "Wir unterrichten Kinder.", "Unterrichtest du?"],
+      "ar": ["أنا أعلّم الفرنسية.", "نحن نعلّم الأطفال.", "هل تعلّم؟"],
+      "fr": ["J'enseigne le français.", "Nous enseignons aux enfants.", "Enseignes-tu?"],
+      "it": ["Io insegno francese.", "Noi insegniamo ai bambini.", "Insegni?"],
+      "ru": ["Я преподаю французский.", "Мы учим детей.", "Ты учишь?"],
+      "es": ["Yo enseño francés.", "Nosotros enseñamos a niños.", "¿Enseñas?"],
+      "pl": ["Ja uczę francuskiego.", "My uczymy dzieci.", "Uczysz?"],
+      "fa": ["من فرانسوی آموزش می‌دهم.", "ما به بچه‌ها آموزش می‌دهیم.", "آموزش می‌دهی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_216_fr",
+    "word": "ouvrir",
+    "translations": {
+      "en": "to open",
+      "de": "öffnen",
+      "ar": "يفتح",
+      "fr": "ouvrir",
+      "it": "aprire",
+      "ru": "открывать",
+      "es": "abrir",
+      "pl": "otwierać",
+      "fa": "باز کردن"
+    },
+    "examples": {
+      "en": ["I open the door.", "We open windows.", "Do you open early?"],
+      "de": ["Ich öffne die Tür.", "Wir öffnen Fenster.", "Öffnest du früh?"],
+      "ar": ["أنا أفتح الباب.", "نحن نفتح النوافذ.", "هل تفتح مبكراً؟"],
+      "fr": ["J'ouvre la porte.", "Nous ouvrons les fenêtres.", "Ouvres-tu tôt?"],
+      "it": ["Io apro la porta.", "Noi apriamo finestre.", "Apri presto?"],
+      "ru": ["Я открываю дверь.", "Мы открываем окна.", "Ты открываешь рано?"],
+      "es": ["Yo abro la puerta.", "Nosotros abrimos ventanas.", "¿Abres temprano?"],
+      "pl": ["Ja otwieram drzwi.", "My otwieramy okna.", "Otwierasz wcześnie?"],
+      "fa": ["من در را باز می‌کنم.", "ما پنجره‌ها را باز می‌کنیم.", "زود باز می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_217_fr",
+    "word": "fermer",
+    "translations": {
+      "en": "to close",
+      "de": "schließen",
+      "ar": "يغلق",
+      "fr": "fermer",
+      "it": "chiudere",
+      "ru": "закрывать",
+      "es": "cerrar",
+      "pl": "zamykać",
+      "fa": "بستن"
+    },
+    "examples": {
+      "en": ["I close the door.", "We close windows.", "Do you close late?"],
+      "de": ["Ich schließe die Tür.", "Wir schließen Fenster.", "Schließt du spät?"],
+      "ar": ["أنا أغلق الباب.", "نحن نغلق النوافذ.", "هل تغلق متأخراً؟"],
+      "fr": ["Je ferme la porte.", "Nous fermons les fenêtres.", "Fermes-tu tard?"],
+      "it": ["Io chiudo la porta.", "Noi chiudiamo finestre.", "Chiudi tardi?"],
+      "ru": ["Я закрываю дверь.", "Мы закрываем окна.", "Ты закрываешь поздно?"],
+      "es": ["Yo cierro la puerta.", "Nosotros cerramos ventanas.", "¿Cierras tarde?"],
+      "pl": ["Ja zamykam drzwi.", "My zamykamy okna.", "Zamykasz późno?"],
+      "fa": ["من در را می‌بندم.", "ما پنجره‌ها را می‌بندیم.", "دیر می‌بندی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_218_fr",
+    "word": "commencer",
+    "translations": {
+      "en": "to start, to begin",
+      "de": "anfangen, beginnen",
+      "ar": "يبدأ",
+      "fr": "commencer",
+      "it": "cominciare, iniziare",
+      "ru": "начинать",
+      "es": "comenzar, empezar",
+      "pl": "zaczynać",
+      "fa": "شروع کردن"
+    },
+    "examples": {
+      "en": ["I start work.", "We begin class.", "Do you start early?"],
+      "de": ["Ich fange Arbeit an.", "Wir beginnen Unterricht.", "Fängst du früh an?"],
+      "ar": ["أنا أبدأ العمل.", "نحن نبدأ الحصة.", "هل تبدأ مبكراً؟"],
+      "fr": ["Je commence le travail.", "Nous commençons le cours.", "Commences-tu tôt?"],
+      "it": ["Io comincio il lavoro.", "Noi iniziamo lezione.", "Cominci presto?"],
+      "ru": ["Я начинаю работу.", "Мы начинаем урок.", "Ты начинаешь рано?"],
+      "es": ["Yo comienzo el trabajo.", "Nosotros comenzamos clase.", "¿Comienzas temprano?"],
+      "pl": ["Ja zaczynam pracę.", "My zaczynamy lekcję.", "Zaczynasz wcześnie?"],
+      "fa": ["من کار را شروع می‌کنم.", "ما کلاس را شروع می‌کنیم.", "زود شروع می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_219_fr",
+    "word": "finir",
+    "translations": {
+      "en": "to finish, to end",
+      "de": "beenden, fertig werden",
+      "ar": "ينهي",
+      "fr": "finir",
+      "it": "finire",
+      "ru": "заканчивать",
+      "es": "terminar, acabar",
+      "pl": "kończyć",
+      "fa": "تمام کردن"
+    },
+    "examples": {
+      "en": ["I finish work.", "We end class.", "Do you finish late?"],
+      "de": ["Ich beende Arbeit.", "Wir beenden Unterricht.", "Beendest du spät?"],
+      "ar": ["أنا أنهي العمل.", "نحن ننهي الحصة.", "هل تنهي متأخراً؟"],
+      "fr": ["Je finis le travail.", "Nous finissons le cours.", "Finis-tu tard?"],
+      "it": ["Io finisco il lavoro.", "Noi finiamo lezione.", "Finisci tardi?"],
+      "ru": ["Я заканчиваю работу.", "Мы заканчиваем урок.", "Ты заканчиваешь поздно?"],
+      "es": ["Yo termino el trabajo.", "Nosotros terminamos clase.", "¿Terminas tarde?"],
+      "pl": ["Ja kończę pracę.", "My kończymy lekcję.", "Kończysz późno?"],
+      "fa": ["من کار را تمام می‌کنم.", "ما کلاس را تمام می‌کنیم.", "دیر تمام می‌کنی؟"]
+    }
+  },
+  {
+    "id": "universal_a1_220_fr",
+    "word": "rester",
+    "translations": {
+      "en": "to stay, to remain",
+      "de": "bleiben",
+      "ar": "يبقى",
+      "fr": "rester",
+      "it": "restare, rimanere",
+      "ru": "оставаться",
+      "es": "quedarse, permanecer",
+      "pl": "zostawać, pozostawać",
+      "fa": "ماندن"
+    },
+    "examples": {
+      "en": ["I stay home.", "We remain here.", "Do you stay long?"],
+      "de": ["Ich bleibe zu Hause.", "Wir bleiben hier.", "Bleibst du lange?"],
+      "ar": ["أنا أبقى في المنزل.", "نحن نبقى هنا.", "هل تبقى طويلاً؟"],
+      "fr": ["Je reste à la maison.", "Nous restons ici.", "Restes-tu longtemps?"],
+      "it": ["Io resto a casa.", "Noi restiamo qui.", "Resti a lungo?"],
+      "ru": ["Я остаюсь дома.", "Мы остаемся здесь.", "Ты остаешься надолго?"],
+      "es": ["Yo me quedo en casa.", "Nosotros nos quedamos aquí.", "¿Te quedas mucho?"],
+      "pl": ["Ja zostaję w domu.", "My zostajemy tutaj.", "Zostajesz długo?"],
+      "fa": ["من خانه می‌مانم.", "ما اینجا می‌مانیم.", "زیاد می‌مانی؟"]
+    }
+  }
+]

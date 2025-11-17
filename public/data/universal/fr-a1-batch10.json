@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_181_fr",
+    "word": "matin",
+    "translations": {
+      "en": "morning",
+      "de": "Morgen",
+      "ar": "صباح",
+      "fr": "matin",
+      "it": "mattina",
+      "ru": "утро",
+      "es": "mañana",
+      "pl": "ranek",
+      "fa": "صبح"
+    },
+    "examples": {
+      "en": ["Good morning.", "Every morning.", "In the morning."],
+      "de": ["Guten Morgen.", "Jeden Morgen.", "Am Morgen."],
+      "ar": ["صباح الخير.", "كل صباح.", "في الصباح."],
+      "fr": ["Bonjour.", "Chaque matin.", "Le matin."],
+      "it": ["Buongiorno.", "Ogni mattina.", "Di mattina."],
+      "ru": ["Доброе утро.", "Каждое утро.", "Утром."],
+      "es": ["Buenos días.", "Cada mañana.", "Por la mañana."],
+      "pl": ["Dzień dobry.", "Każdego ranka.", "Rano."],
+      "fa": ["صبح بخیر.", "هر صبح.", "در صبح."]
+    }
+  },
+  {
+    "id": "universal_a1_182_fr",
+    "word": "soir",
+    "translations": {
+      "en": "evening",
+      "de": "Abend",
+      "ar": "مساء",
+      "fr": "soir",
+      "it": "sera",
+      "ru": "вечер",
+      "es": "tarde, noche",
+      "pl": "wieczór",
+      "fa": "عصر، شب"
+    },
+    "examples": {
+      "en": ["Good evening.", "Every evening.", "In the evening."],
+      "de": ["Guten Abend.", "Jeden Abend.", "Am Abend."],
+      "ar": ["مساء الخير.", "كل مساء.", "في المساء."],
+      "fr": ["Bonsoir.", "Chaque soir.", "Le soir."],
+      "it": ["Buonasera.", "Ogni sera.", "Di sera."],
+      "ru": ["Добрый вечер.", "Каждый вечер.", "Вечером."],
+      "es": ["Buenas tardes.", "Cada tarde.", "Por la tarde."],
+      "pl": ["Dobry wieczór.", "Każdego wieczoru.", "Wieczorem."],
+      "fa": ["عصر بخیر.", "هر عصر.", "در عصر."]
+    }
+  },
+  {
+    "id": "universal_a1_183_fr",
+    "word": "nuit",
+    "translations": {
+      "en": "night",
+      "de": "Nacht",
+      "ar": "ليل",
+      "fr": "nuit",
+      "it": "notte",
+      "ru": "ночь",
+      "es": "noche",
+      "pl": "noc",
+      "fa": "شب"
+    },
+    "examples": {
+      "en": ["Good night.", "Every night.", "At night."],
+      "de": ["Gute Nacht.", "Jede Nacht.", "In der Nacht."],
+      "ar": ["ليلة سعيدة.", "كل ليلة.", "في الليل."],
+      "fr": ["Bonne nuit.", "Chaque nuit.", "La nuit."],
+      "it": ["Buona notte.", "Ogni notte.", "Di notte."],
+      "ru": ["Спокойной ночи.", "Каждую ночь.", "Ночью."],
+      "es": ["Buenas noches.", "Cada noche.", "Por la noche."],
+      "pl": ["Dobranoc.", "Każdej nocy.", "W nocy."],
+      "fa": ["شب بخیر.", "هر شب.", "در شب."]
+    }
+  },
+  {
+    "id": "universal_a1_184_fr",
+    "word": "jour",
+    "translations": {
+      "en": "day",
+      "de": "Tag",
+      "ar": "يوم",
+      "fr": "jour",
+      "it": "giorno",
+      "ru": "день",
+      "es": "día",
+      "pl": "dzień",
+      "fa": "روز"
+    },
+    "examples": {
+      "en": ["Good day.", "Every day.", "One day."],
+      "de": ["Guten Tag.", "Jeden Tag.", "Ein Tag."],
+      "ar": ["يوم جيد.", "كل يوم.", "يوم واحد."],
+      "fr": ["Bonne journée.", "Chaque jour.", "Un jour."],
+      "it": ["Buona giornata.", "Ogni giorno.", "Un giorno."],
+      "ru": ["Хороший день.", "Каждый день.", "Один день."],
+      "es": ["Buen día.", "Cada día.", "Un día."],
+      "pl": ["Dobry dzień.", "Każdego dnia.", "Jeden dzień."],
+      "fa": ["روز بخیر.", "هر روز.", "یک روز."]
+    }
+  },
+  {
+    "id": "universal_a1_185_fr",
+    "word": "aujourd'hui",
+    "translations": {
+      "en": "today",
+      "de": "heute",
+      "ar": "اليوم",
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "ru": "сегодня",
+      "es": "hoy",
+      "pl": "dzisiaj",
+      "fa": "امروز"
+    },
+    "examples": {
+      "en": ["Today is Monday.", "I work today.", "See you today."],
+      "de": ["Heute ist Montag.", "Ich arbeite heute.", "Bis heute."],
+      "ar": ["اليوم الإثنين.", "أنا أعمل اليوم.", "أراك اليوم."],
+      "fr": ["Aujourd'hui c'est lundi.", "Je travaille aujourd'hui.", "À aujourd'hui."],
+      "it": ["Oggi è lunedì.", "Io lavoro oggi.", "Ci vediamo oggi."],
+      "ru": ["Сегодня понедельник.", "Я работаю сегодня.", "До встречи сегодня."],
+      "es": ["Hoy es lunes.", "Yo trabajo hoy.", "Nos vemos hoy."],
+      "pl": ["Dzisiaj jest poniedziałek.", "Pracuję dzisiaj.", "Do zobaczenia dzisiaj."],
+      "fa": ["امروز دوشنبه است.", "من امروز کار می‌کنم.", "امروز می‌بینمت."]
+    }
+  },
+  {
+    "id": "universal_a1_186_fr",
+    "word": "demain",
+    "translations": {
+      "en": "tomorrow",
+      "de": "morgen",
+      "ar": "غداً",
+      "fr": "demain",
+      "it": "domani",
+      "ru": "завтра",
+      "es": "mañana",
+      "pl": "jutro",
+      "fa": "فردا"
+    },
+    "examples": {
+      "en": ["Tomorrow is Tuesday.", "I work tomorrow.", "See you tomorrow."],
+      "de": ["Morgen ist Dienstag.", "Ich arbeite morgen.", "Bis morgen."],
+      "ar": ["غداً الثلاثاء.", "أنا أعمل غداً.", "أراك غداً."],
+      "fr": ["Demain c'est mardi.", "Je travaille demain.", "À demain."],
+      "it": ["Domani è martedì.", "Io lavoro domani.", "Ci vediamo domani."],
+      "ru": ["Завтра вторник.", "Я работаю завтра.", "До завтра."],
+      "es": ["Mañana es martes.", "Yo trabajo mañana.", "Hasta mañana."],
+      "pl": ["Jutro jest wtorek.", "Pracuję jutro.", "Do jutra."],
+      "fa": ["فردا سه‌شنبه است.", "من فردا کار می‌کنم.", "فردا می‌بینمت."]
+    }
+  },
+  {
+    "id": "universal_a1_187_fr",
+    "word": "hier",
+    "translations": {
+      "en": "yesterday",
+      "de": "gestern",
+      "ar": "أمس",
+      "fr": "hier",
+      "it": "ieri",
+      "ru": "вчера",
+      "es": "ayer",
+      "pl": "wczoraj",
+      "fa": "دیروز"
+    },
+    "examples": {
+      "en": ["Yesterday was Sunday.", "I worked yesterday.", "I saw you yesterday."],
+      "de": ["Gestern war Sonntag.", "Ich arbeitete gestern.", "Ich sah dich gestern."],
+      "ar": ["أمس كان الأحد.", "عملت أمس.", "رأيتك أمس."],
+      "fr": ["Hier c'était dimanche.", "J'ai travaillé hier.", "Je t'ai vu hier."],
+      "it": ["Ieri era domenica.", "Io ho lavorato ieri.", "Ti ho visto ieri."],
+      "ru": ["Вчера было воскресенье.", "Я работал вчера.", "Я видел тебя вчера."],
+      "es": ["Ayer fue domingo.", "Yo trabajé ayer.", "Te vi ayer."],
+      "pl": ["Wczoraj była niedziela.", "Pracowałem wczoraj.", "Widziałem cię wczoraj."],
+      "fa": ["دیروز یکشنبه بود.", "من دیروز کار کردم.", "دیروز تو را دیدم."]
+    }
+  },
+  {
+    "id": "universal_a1_188_fr",
+    "word": "semaine",
+    "translations": {
+      "en": "week",
+      "de": "Woche",
+      "ar": "أسبوع",
+      "fr": "semaine",
+      "it": "settimana",
+      "ru": "неделя",
+      "es": "semana",
+      "pl": "tydzień",
+      "fa": "هفته"
+    },
+    "examples": {
+      "en": ["This week.", "Every week.", "One week."],
+      "de": ["Diese Woche.", "Jede Woche.", "Eine Woche."],
+      "ar": ["هذا الأسبوع.", "كل أسبوع.", "أسبوع واحد."],
+      "fr": ["Cette semaine.", "Chaque semaine.", "Une semaine."],
+      "it": ["Questa settimana.", "Ogni settimana.", "Una settimana."],
+      "ru": ["На этой неделе.", "Каждую неделю.", "Одна неделя."],
+      "es": ["Esta semana.", "Cada semana.", "Una semana."],
+      "pl": ["W tym tygodniu.", "Każdego tygodnia.", "Jeden tydzień."],
+      "fa": ["این هفته.", "هر هفته.", "یک هفته."]
+    }
+  },
+  {
+    "id": "universal_a1_189_fr",
+    "word": "mois",
+    "translations": {
+      "en": "month",
+      "de": "Monat",
+      "ar": "شهر",
+      "fr": "mois",
+      "it": "mese",
+      "ru": "месяц",
+      "es": "mes",
+      "pl": "miesiąc",
+      "fa": "ماه"
+    },
+    "examples": {
+      "en": ["This month.", "Every month.", "One month."],
+      "de": ["Diesen Monat.", "Jeden Monat.", "Ein Monat."],
+      "ar": ["هذا الشهر.", "كل شهر.", "شهر واحد."],
+      "fr": ["Ce mois.", "Chaque mois.", "Un mois."],
+      "it": ["Questo mese.", "Ogni mese.", "Un mese."],
+      "ru": ["В этом месяце.", "Каждый месяц.", "Один месяц."],
+      "es": ["Este mes.", "Cada mes.", "Un mes."],
+      "pl": ["W tym miesiącu.", "Każdego miesiąca.", "Jeden miesiąc."],
+      "fa": ["این ماه.", "هر ماه.", "یک ماه."]
+    }
+  },
+  {
+    "id": "universal_a1_190_fr",
+    "word": "année",
+    "translations": {
+      "en": "year",
+      "de": "Jahr",
+      "ar": "سنة",
+      "fr": "année",
+      "it": "anno",
+      "ru": "год",
+      "es": "año",
+      "pl": "rok",
+      "fa": "سال"
+    },
+    "examples": {
+      "en": ["This year.", "Every year.", "One year."],
+      "de": ["Dieses Jahr.", "Jedes Jahr.", "Ein Jahr."],
+      "ar": ["هذه السنة.", "كل سنة.", "سنة واحدة."],
+      "fr": ["Cette année.", "Chaque année.", "Une année."],
+      "it": ["Quest'anno.", "Ogni anno.", "Un anno."],
+      "ru": ["В этом году.", "Каждый год.", "Один год."],
+      "es": ["Este año.", "Cada año.", "Un año."],
+      "pl": ["W tym roku.", "Każdego roku.", "Jeden rok."],
+      "fa": ["امسال.", "هر سال.", "یک سال."]
+    }
+  },
+  {
+    "id": "universal_a1_191_fr",
+    "word": "heure",
+    "translations": {
+      "en": "hour, time",
+      "de": "Stunde, Uhrzeit",
+      "ar": "ساعة، وقت",
+      "fr": "heure",
+      "it": "ora",
+      "ru": "час, время",
+      "es": "hora",
+      "pl": "godzina",
+      "fa": "ساعت"
+    },
+    "examples": {
+      "en": ["One hour.", "What time is it?", "Two hours."],
+      "de": ["Eine Stunde.", "Wie spät ist es?", "Zwei Stunden."],
+      "ar": ["ساعة واحدة.", "كم الساعة؟", "ساعتان."],
+      "fr": ["Une heure.", "Quelle heure est-il?", "Deux heures."],
+      "it": ["Un'ora.", "Che ore sono?", "Due ore."],
+      "ru": ["Один час.", "Который час?", "Два часа."],
+      "es": ["Una hora.", "¿Qué hora es?", "Dos horas."],
+      "pl": ["Jedna godzina.", "Która godzina?", "Dwie godziny."],
+      "fa": ["یک ساعت.", "ساعت چند است؟", "دو ساعت."]
+    }
+  },
+  {
+    "id": "universal_a1_192_fr",
+    "word": "minute",
+    "translations": {
+      "en": "minute",
+      "de": "Minute",
+      "ar": "دقيقة",
+      "fr": "minute",
+      "it": "minuto",
+      "ru": "минута",
+      "es": "minuto",
+      "pl": "minuta",
+      "fa": "دقیقه"
+    },
+    "examples": {
+      "en": ["One minute.", "Five minutes.", "Wait a minute."],
+      "de": ["Eine Minute.", "Fünf Minuten.", "Warte eine Minute."],
+      "ar": ["دقيقة واحدة.", "خمس دقائق.", "انتظر دقيقة."],
+      "fr": ["Une minute.", "Cinq minutes.", "Attends une minute."],
+      "it": ["Un minuto.", "Cinque minuti.", "Aspetta un minuto."],
+      "ru": ["Одна минута.", "Пять минут.", "Подожди минуту."],
+      "es": ["Un minuto.", "Cinco minutos.", "Espera un minuto."],
+      "pl": ["Jedna minuta.", "Pięć minut.", "Poczekaj minutę."],
+      "fa": ["یک دقیقه.", "پنج دقیقه.", "یک دقیقه صبر کن."]
+    }
+  },
+  {
+    "id": "universal_a1_193_fr",
+    "word": "moment",
+    "translations": {
+      "en": "moment",
+      "de": "Moment, Augenblick",
+      "ar": "لحظة",
+      "fr": "moment",
+      "it": "momento",
+      "ru": "момент",
+      "es": "momento",
+      "pl": "moment, chwila",
+      "fa": "لحظه"
+    },
+    "examples": {
+      "en": ["One moment please.", "At this moment.", "Important moment."],
+      "de": ["Einen Moment bitte.", "In diesem Moment.", "Wichtiger Moment."],
+      "ar": ["لحظة من فضلك.", "في هذه اللحظة.", "لحظة مهمة."],
+      "fr": ["Un moment s'il vous plaît.", "En ce moment.", "Moment important."],
+      "it": ["Un momento per favore.", "In questo momento.", "Momento importante."],
+      "ru": ["Минуточку, пожалуйста.", "В этот момент.", "Важный момент."],
+      "es": ["Un momento por favor.", "En este momento.", "Momento importante."],
+      "pl": ["Chwilę proszę.", "W tym momencie.", "Ważny moment."],
+      "fa": ["یک لحظه لطفاً.", "در این لحظه.", "لحظه مهم."]
+    }
+  },
+  {
+    "id": "universal_a1_194_fr",
+    "word": "maintenant",
+    "translations": {
+      "en": "now",
+      "de": "jetzt",
+      "ar": "الآن",
+      "fr": "maintenant",
+      "it": "adesso, ora",
+      "ru": "сейчас, теперь",
+      "es": "ahora",
+      "pl": "teraz",
+      "fa": "الان، اکنون"
+    },
+    "examples": {
+      "en": ["I work now.", "Do it now.", "Right now."],
+      "de": ["Ich arbeite jetzt.", "Mach es jetzt.", "Genau jetzt."],
+      "ar": ["أنا أعمل الآن.", "افعله الآن.", "الآن تماماً."],
+      "fr": ["Je travaille maintenant.", "Fais-le maintenant.", "Tout de suite."],
+      "it": ["Io lavoro adesso.", "Fallo adesso.", "Proprio adesso."],
+      "ru": ["Я работаю сейчас.", "Сделай это сейчас.", "Прямо сейчас."],
+      "es": ["Yo trabajo ahora.", "Hazlo ahora.", "Ahora mismo."],
+      "pl": ["Pracuję teraz.", "Zrób to teraz.", "Właśnie teraz."],
+      "fa": ["من الان کار می‌کنم.", "الان انجامش بده.", "همین الان."]
+    }
+  },
+  {
+    "id": "universal_a1_195_fr",
+    "word": "après",
+    "translations": {
+      "en": "after, afterwards",
+      "de": "nach, danach",
+      "ar": "بعد",
+      "fr": "après",
+      "it": "dopo",
+      "ru": "после, потом",
+      "es": "después",
+      "pl": "po, później",
+      "fa": "بعد"
+    },
+    "examples": {
+      "en": ["After school.", "After dinner.", "Come after."],
+      "de": ["Nach der Schule.", "Nach dem Abendessen.", "Komm danach."],
+      "ar": ["بعد المدرسة.", "بعد العشاء.", "تعال بعد ذلك."],
+      "fr": ["Après l'école.", "Après le dîner.", "Viens après."],
+      "it": ["Dopo la scuola.", "Dopo cena.", "Vieni dopo."],
+      "ru": ["После школы.", "После ужина.", "Приходи потом."],
+      "es": ["Después de la escuela.", "Después de la cena.", "Ven después."],
+      "pl": ["Po szkole.", "Po kolacji.", "Przyjdź później."],
+      "fa": ["بعد از مدرسه.", "بعد از شام.", "بعد بیا."]
+    }
+  },
+  {
+    "id": "universal_a1_196_fr",
+    "word": "avant",
+    "translations": {
+      "en": "before",
+      "de": "vor, bevor",
+      "ar": "قبل",
+      "fr": "avant",
+      "it": "prima",
+      "ru": "до, перед",
+      "es": "antes",
+      "pl": "przed",
+      "fa": "قبل، پیش"
+    },
+    "examples": {
+      "en": ["Before school.", "Before dinner.", "Come before."],
+      "de": ["Vor der Schule.", "Vor dem Abendessen.", "Komm vorher."],
+      "ar": ["قبل المدرسة.", "قبل العشاء.", "تعال قبل ذلك."],
+      "fr": ["Avant l'école.", "Avant le dîner.", "Viens avant."],
+      "it": ["Prima della scuola.", "Prima di cena.", "Vieni prima."],
+      "ru": ["Перед школой.", "Перед ужином.", "Приходи раньше."],
+      "es": ["Antes de la escuela.", "Antes de la cena.", "Ven antes."],
+      "pl": ["Przed szkołą.", "Przed kolacją.", "Przyjdź wcześniej."],
+      "fa": ["قبل از مدرسه.", "قبل از شام.", "قبل بیا."]
+    }
+  },
+  {
+    "id": "universal_a1_197_fr",
+    "word": "toujours",
+    "translations": {
+      "en": "always, still",
+      "de": "immer, noch",
+      "ar": "دائماً، لا يزال",
+      "fr": "toujours",
+      "it": "sempre, ancora",
+      "ru": "всегда, все еще",
+      "es": "siempre, todavía",
+      "pl": "zawsze, wciąż",
+      "fa": "همیشه، هنوز"
+    },
+    "examples": {
+      "en": ["I always work.", "Still here.", "Always happy."],
+      "de": ["Ich arbeite immer.", "Noch hier.", "Immer glücklich."],
+      "ar": ["أنا أعمل دائماً.", "لا يزال هنا.", "سعيد دائماً."],
+      "fr": ["Je travaille toujours.", "Toujours ici.", "Toujours heureux."],
+      "it": ["Io lavoro sempre.", "Ancora qui.", "Sempre felice."],
+      "ru": ["Я всегда работаю.", "Все еще здесь.", "Всегда счастлив."],
+      "es": ["Yo siempre trabajo.", "Todavía aquí.", "Siempre feliz."],
+      "pl": ["Zawsze pracuję.", "Wciąż tu.", "Zawsze szczęśliwy."],
+      "fa": ["من همیشه کار می‌کنم.", "هنوز اینجا.", "همیشه خوشحال."]
+    }
+  },
+  {
+    "id": "universal_a1_198_fr",
+    "word": "jamais",
+    "translations": {
+      "en": "never, ever",
+      "de": "nie, jemals",
+      "ar": "أبداً",
+      "fr": "jamais",
+      "it": "mai",
+      "ru": "никогда",
+      "es": "nunca, jamás",
+      "pl": "nigdy",
+      "fa": "هرگز"
+    },
+    "examples": {
+      "en": ["I never work.", "Never say never.", "Have you ever?"],
+      "de": ["Ich arbeite nie.", "Sag niemals nie.", "Hast du jemals?"],
+      "ar": ["أنا لا أعمل أبداً.", "لا تقل أبداً أبداً.", "هل سبق لك؟"],
+      "fr": ["Je ne travaille jamais.", "Ne dis jamais jamais.", "As-tu jamais?"],
+      "it": ["Io non lavoro mai.", "Mai dire mai.", "Hai mai?"],
+      "ru": ["Я никогда не работаю.", "Никогда не говори никогда.", "Ты когда-нибудь?"],
+      "es": ["Yo nunca trabajo.", "Nunca digas nunca.", "¿Alguna vez?"],
+      "pl": ["Nigdy nie pracuję.", "Nigdy nie mów nigdy.", "Czy kiedykolwiek?"],
+      "fa": ["من هرگز کار نمی‌کنم.", "هرگز نگو هرگز.", "تا به حال؟"]
+    }
+  },
+  {
+    "id": "universal_a1_199_fr",
+    "word": "souvent",
+    "translations": {
+      "en": "often",
+      "de": "oft",
+      "ar": "غالباً، كثيراً",
+      "fr": "souvent",
+      "it": "spesso",
+      "ru": "часто",
+      "es": "a menudo",
+      "pl": "często",
+      "fa": "اغلب، معمولاً"
+    },
+    "examples": {
+      "en": ["I often work.", "Very often.", "He comes often."],
+      "de": ["Ich arbeite oft.", "Sehr oft.", "Er kommt oft."],
+      "ar": ["أنا أعمل غالباً.", "كثيراً جداً.", "هو يأتي غالباً."],
+      "fr": ["Je travaille souvent.", "Très souvent.", "Il vient souvent."],
+      "it": ["Io lavoro spesso.", "Molto spesso.", "Lui viene spesso."],
+      "ru": ["Я часто работаю.", "Очень часто.", "Он часто приходит."],
+      "es": ["Yo trabajo a menudo.", "Muy a menudo.", "Él viene a menudo."],
+      "pl": ["Często pracuję.", "Bardzo często.", "On przychodzi często."],
+      "fa": ["من اغلب کار می‌کنم.", "خیلی اغلب.", "او اغلب می‌آید."]
+    }
+  },
+  {
+    "id": "universal_a1_200_fr",
+    "word": "parfois",
+    "translations": {
+      "en": "sometimes",
+      "de": "manchmal",
+      "ar": "أحياناً",
+      "fr": "parfois",
+      "it": "a volte",
+      "ru": "иногда",
+      "es": "a veces",
+      "pl": "czasami",
+      "fa": "گاهی اوقات"
+    },
+    "examples": {
+      "en": ["I sometimes work.", "Sometimes yes.", "Sometimes no."],
+      "de": ["Ich arbeite manchmal.", "Manchmal ja.", "Manchmal nein."],
+      "ar": ["أنا أعمل أحياناً.", "أحياناً نعم.", "أحياناً لا."],
+      "fr": ["Je travaille parfois.", "Parfois oui.", "Parfois non."],
+      "it": ["Io lavoro a volte.", "A volte sì.", "A volte no."],
+      "ru": ["Я иногда работаю.", "Иногда да.", "Иногда нет."],
+      "es": ["Yo trabajo a veces.", "A veces sí.", "A veces no."],
+      "pl": ["Czasami pracuję.", "Czasami tak.", "Czasami nie."],
+      "fa": ["من گاهی اوقات کار می‌کنم.", "گاهی اوقات بله.", "گاهی اوقات نه."]
+    }
+  }
+]

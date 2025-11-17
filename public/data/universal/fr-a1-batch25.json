@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a1_481_fr",
+    "word": "lundi",
+    "translations": {
+      "en": "Monday",
+      "de": "Montag",
+      "ar": "الاثنين",
+      "fr": "lundi",
+      "it": "lunedì",
+      "ru": "понедельник",
+      "es": "lunes",
+      "pl": "poniedziałek",
+      "fa": "دوشنبه"
+    },
+    "examples": {
+      "en": ["Today is Monday.", "See you Monday.", "I work on Monday."],
+      "de": ["Heute ist Montag.", "Bis Montag.", "Ich arbeite am Montag."],
+      "ar": ["اليوم الاثنين.", "أراك يوم الاثنين.", "أعمل يوم الاثنين."],
+      "fr": ["Aujourd'hui c'est lundi.", "À lundi.", "Je travaille lundi."],
+      "it": ["Oggi è lunedì.", "Ci vediamo lunedì.", "Lavoro lunedì."],
+      "ru": ["Сегодня понедельник.", "До понедельника.", "Я работаю в понедельник."],
+      "es": ["Hoy es lunes.", "Hasta el lunes.", "Trabajo el lunes."],
+      "pl": ["Dzisiaj jest poniedziałek.", "Do poniedziałku.", "Pracuję w poniedziałek."],
+      "fa": ["امروز دوشنبه است.", "دوشنبه می‌بینمت.", "دوشنبه کار می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a1_482_fr",
+    "word": "mardi",
+    "translations": {
+      "en": "Tuesday",
+      "de": "Dienstag",
+      "ar": "الثلاثاء",
+      "fr": "mardi",
+      "it": "martedì",
+      "ru": "вторник",
+      "es": "martes",
+      "pl": "wtorek",
+      "fa": "سه‌شنبه"
+    },
+    "examples": {
+      "en": ["Today is Tuesday.", "See you Tuesday.", "I have class on Tuesday."],
+      "de": ["Heute ist Dienstag.", "Bis Dienstag.", "Ich habe Dienstag Unterricht."],
+      "ar": ["اليوم الثلاثاء.", "أراك يوم الثلاثاء.", "لدي صف يوم الثلاثاء."],
+      "fr": ["Aujourd'hui c'est mardi.", "À mardi.", "J'ai cours mardi."],
+      "it": ["Oggi è martedì.", "Ci vediamo martedì.", "Ho lezione martedì."],
+      "ru": ["Сегодня вторник.", "До вторника.", "У меня урок во вторник."],
+      "es": ["Hoy es martes.", "Hasta el martes.", "Tengo clase el martes."],
+      "pl": ["Dzisiaj jest wtorek.", "Do wtorku.", "Mam zajęcia we wtorek."],
+      "fa": ["امروز سه‌شنبه است.", "سه‌شنبه می‌بینمت.", "سه‌شنبه کلاس دارم."]
+    }
+  },
+  {
+    "id": "universal_a1_483_fr",
+    "word": "mercredi",
+    "translations": {
+      "en": "Wednesday",
+      "de": "Mittwoch",
+      "ar": "الأربعاء",
+      "fr": "mercredi",
+      "it": "mercoledì",
+      "ru": "среда",
+      "es": "miércoles",
+      "pl": "środa",
+      "fa": "چهارشنبه"
+    },
+    "examples": {
+      "en": ["Today is Wednesday.", "See you Wednesday.", "I am free on Wednesday."],
+      "de": ["Heute ist Mittwoch.", "Bis Mittwoch.", "Ich habe Mittwoch frei."],
+      "ar": ["اليوم الأربعاء.", "أراك يوم الأربعاء.", "أنا حر يوم الأربعاء."],
+      "fr": ["Aujourd'hui c'est mercredi.", "À mercredi.", "Je suis libre mercredi."],
+      "it": ["Oggi è mercoledì.", "Ci vediamo mercoledì.", "Sono libero mercoledì."],
+      "ru": ["Сегодня среда.", "До среды.", "Я свободен в среду."],
+      "es": ["Hoy es miércoles.", "Hasta el miércoles.", "Estoy libre el miércoles."],
+      "pl": ["Dzisiaj jest środa.", "Do środy.", "Jestem wolny w środę."],
+      "fa": ["امروز چهارشنبه است.", "چهارشنبه می‌بینمت.", "چهارشنبه آزادم."]
+    }
+  },
+  {
+    "id": "universal_a1_484_fr",
+    "word": "jeudi",
+    "translations": {
+      "en": "Thursday",
+      "de": "Donnerstag",
+      "ar": "الخميس",
+      "fr": "jeudi",
+      "it": "giovedì",
+      "ru": "четверг",
+      "es": "jueves",
+      "pl": "czwartek",
+      "fa": "پنج‌شنبه"
+    },
+    "examples": {
+      "en": ["Today is Thursday.", "See you Thursday.", "The meeting is on Thursday."],
+      "de": ["Heute ist Donnerstag.", "Bis Donnerstag.", "Das Treffen ist am Donnerstag."],
+      "ar": ["اليوم الخميس.", "أراك يوم الخميس.", "الاجتماع يوم الخميس."],
+      "fr": ["Aujourd'hui c'est jeudi.", "À jeudi.", "La réunion est jeudi."],
+      "it": ["Oggi è giovedì.", "Ci vediamo giovedì.", "La riunione è giovedì."],
+      "ru": ["Сегодня четверг.", "До четверга.", "Встреча в четверг."],
+      "es": ["Hoy es jueves.", "Hasta el jueves.", "La reunión es el jueves."],
+      "pl": ["Dzisiaj jest czwartek.", "Do czwartku.", "Spotkanie jest w czwartek."],
+      "fa": ["امروز پنج‌شنبه است.", "پنج‌شنبه می‌بینمت.", "جلسه پنج‌شنبه است."]
+    }
+  },
+  {
+    "id": "universal_a1_485_fr",
+    "word": "vendredi",
+    "translations": {
+      "en": "Friday",
+      "de": "Freitag",
+      "ar": "الجمعة",
+      "fr": "vendredi",
+      "it": "venerdì",
+      "ru": "пятница",
+      "es": "viernes",
+      "pl": "piątek",
+      "fa": "جمعه"
+    },
+    "examples": {
+      "en": ["Today is Friday.", "See you Friday.", "Happy Friday!"],
+      "de": ["Heute ist Freitag.", "Bis Freitag.", "Schönen Freitag!"],
+      "ar": ["اليوم الجمعة.", "أراك يوم الجمعة.", "جمعة سعيدة!"],
+      "fr": ["Aujourd'hui c'est vendredi.", "À vendredi.", "Bon vendredi!"],
+      "it": ["Oggi è venerdì.", "Ci vediamo venerdì.", "Buon venerdì!"],
+      "ru": ["Сегодня пятница.", "До пятницы.", "Счастливой пятницы!"],
+      "es": ["Hoy es viernes.", "Hasta el viernes.", "¡Feliz viernes!"],
+      "pl": ["Dzisiaj jest piątek.", "Do piątku.", "Szczęśliwego piątku!"],
+      "fa": ["امروز جمعه است.", "جمعه می‌بینمت.", "جمعه مبارک!"]
+    }
+  },
+  {
+    "id": "universal_a1_486_fr",
+    "word": "samedi",
+    "translations": {
+      "en": "Saturday",
+      "de": "Samstag",
+      "ar": "السبت",
+      "fr": "samedi",
+      "it": "sabato",
+      "ru": "суббота",
+      "es": "sábado",
+      "pl": "sobota",
+      "fa": "شنبه"
+    },
+    "examples": {
+      "en": ["Today is Saturday.", "See you Saturday.", "I rest on Saturday."],
+      "de": ["Heute ist Samstag.", "Bis Samstag.", "Ich ruhe mich am Samstag aus."],
+      "ar": ["اليوم السبت.", "أراك يوم السبت.", "أستريح يوم السبت."],
+      "fr": ["Aujourd'hui c'est samedi.", "À samedi.", "Je me repose samedi."],
+      "it": ["Oggi è sabato.", "Ci vediamo sabato.", "Riposo sabato."],
+      "ru": ["Сегодня суббота.", "До субботы.", "Я отдыхаю в субботу."],
+      "es": ["Hoy es sábado.", "Hasta el sábado.", "Descanso el sábado."],
+      "pl": ["Dzisiaj jest sobota.", "Do soboty.", "Odpoczywam w sobotę."],
+      "fa": ["امروز شنبه است.", "شنبه می‌بینمت.", "شنبه استراحت می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a1_487_fr",
+    "word": "dimanche",
+    "translations": {
+      "en": "Sunday",
+      "de": "Sonntag",
+      "ar": "الأحد",
+      "fr": "dimanche",
+      "it": "domenica",
+      "ru": "воскресенье",
+      "es": "domingo",
+      "pl": "niedziela",
+      "fa": "یکشنبه"
+    },
+    "examples": {
+      "en": ["Today is Sunday.", "See you Sunday.", "I relax on Sunday."],
+      "de": ["Heute ist Sonntag.", "Bis Sonntag.", "Ich entspanne mich am Sonntag."],
+      "ar": ["اليوم الأحد.", "أراك يوم الأحد.", "أسترخي يوم الأحد."],
+      "fr": ["Aujourd'hui c'est dimanche.", "À dimanche.", "Je me détends dimanche."],
+      "it": ["Oggi è domenica.", "Ci vediamo domenica.", "Mi rilasso domenica."],
+      "ru": ["Сегодня воскресенье.", "До воскресенья.", "Я расслабляюсь в воскресенье."],
+      "es": ["Hoy es domingo.", "Hasta el domingo.", "Me relajo el domingo."],
+      "pl": ["Dzisiaj jest niedziela.", "Do niedzieli.", "Relaksuję się w niedzielę."],
+      "fa": ["امروز یکشنبه است.", "یکشنبه می‌بینمت.", "یکشنبه استراحت می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a1_488_fr",
+    "word": "soleil",
+    "translations": {
+      "en": "sun",
+      "de": "Sonne",
+      "ar": "شمس",
+      "fr": "soleil",
+      "it": "sole",
+      "ru": "солнце",
+      "es": "sol",
+      "pl": "słońce",
+      "fa": "خورشید"
+    },
+    "examples": {
+      "en": ["The sun is shining.", "I like the sun.", "The sun is hot."],
+      "de": ["Die Sonne scheint.", "Ich mag die Sonne.", "Die Sonne ist heiß."],
+      "ar": ["الشمس مشرقة.", "أحب الشمس.", "الشمس حارة."],
+      "fr": ["Le soleil brille.", "J'aime le soleil.", "Le soleil est chaud."],
+      "it": ["Il sole splende.", "Mi piace il sole.", "Il sole è caldo."],
+      "ru": ["Солнце светит.", "Я люблю солнце.", "Солнце горячее."],
+      "es": ["El sol brilla.", "Me gusta el sol.", "El sol está caliente."],
+      "pl": ["Słońce świeci.", "Lubię słońce.", "Słońce jest gorące."],
+      "fa": ["خورشید می‌درخشد.", "خورشید را دوست دارم.", "خورشید گرم است."]
+    }
+  },
+  {
+    "id": "universal_a1_489_fr",
+    "word": "pluie",
+    "translations": {
+      "en": "rain",
+      "de": "Regen",
+      "ar": "مطر",
+      "fr": "pluie",
+      "it": "pioggia",
+      "ru": "дождь",
+      "es": "lluvia",
+      "pl": "deszcz",
+      "fa": "باران"
+    },
+    "examples": {
+      "en": ["It's raining.", "I don't like rain.", "The rain is cold."],
+      "de": ["Es regnet.", "Ich mag keinen Regen.", "Der Regen ist kalt."],
+      "ar": ["إنها تمطر.", "لا أحب المطر.", "المطر بارد."],
+      "fr": ["Il pleut.", "Je n'aime pas la pluie.", "La pluie est froide."],
+      "it": ["Piove.", "Non mi piace la pioggia.", "La pioggia è fredda."],
+      "ru": ["Идет дождь.", "Я не люблю дождь.", "Дождь холодный."],
+      "es": ["Está lloviendo.", "No me gusta la lluvia.", "La lluvia está fría."],
+      "pl": ["Pada deszcz.", "Nie lubię deszczu.", "Deszcz jest zimny."],
+      "fa": ["باران می‌بارد.", "باران را دوست ندارم.", "باران سرد است."]
+    }
+  },
+  {
+    "id": "universal_a1_490_fr",
+    "word": "neige",
+    "translations": {
+      "en": "snow",
+      "de": "Schnee",
+      "ar": "ثلج",
+      "fr": "neige",
+      "it": "neve",
+      "ru": "снег",
+      "es": "nieve",
+      "pl": "śnieg",
+      "fa": "برف"
+    },
+    "examples": {
+      "en": ["It's snowing.", "I love snow.", "The snow is white."],
+      "de": ["Es schneit.", "Ich liebe Schnee.", "Der Schnee ist weiß."],
+      "ar": ["إنها تثلج.", "أحب الثلج.", "الثلج أبيض."],
+      "fr": ["Il neige.", "J'adore la neige.", "La neige est blanche."],
+      "it": ["Nevica.", "Amo la neve.", "La neve è bianca."],
+      "ru": ["Идет снег.", "Я люблю снег.", "Снег белый."],
+      "es": ["Está nevando.", "Me encanta la nieve.", "La nieve es blanca."],
+      "pl": ["Pada śnieg.", "Kocham śnieg.", "Śnieg jest biały."],
+      "fa": ["برف می‌بارد.", "برف را دوست دارم.", "برف سفید است."]
+    }
+  },
+  {
+    "id": "universal_a1_491_fr",
+    "word": "vent",
+    "translations": {
+      "en": "wind",
+      "de": "Wind",
+      "ar": "ريح",
+      "fr": "vent",
+      "it": "vento",
+      "ru": "ветер",
+      "es": "viento",
+      "pl": "wiatr",
+      "fa": "باد"
+    },
+    "examples": {
+      "en": ["The wind is strong.", "I feel the wind.", "There is no wind."],
+      "de": ["Der Wind ist stark.", "Ich spüre den Wind.", "Es gibt keinen Wind."],
+      "ar": ["الريح قوية.", "أشعر بالريح.", "لا يوجد ريح."],
+      "fr": ["Le vent est fort.", "Je sens le vent.", "Il n'y a pas de vent."],
+      "it": ["Il vento è forte.", "Sento il vento.", "Non c'è vento."],
+      "ru": ["Ветер сильный.", "Я чувствую ветер.", "Нет ветра."],
+      "es": ["El viento es fuerte.", "Siento el viento.", "No hay viento."],
+      "pl": ["Wiatr jest silny.", "Czuję wiatr.", "Nie ma wiatru."],
+      "fa": ["باد قوی است.", "باد را احساس می‌کنم.", "بادی نیست."]
+    }
+  },
+  {
+    "id": "universal_a1_492_fr",
+    "word": "nuage",
+    "translations": {
+      "en": "cloud",
+      "de": "Wolke",
+      "ar": "سحابة",
+      "fr": "nuage",
+      "it": "nuvola",
+      "ru": "облако",
+      "es": "nube",
+      "pl": "chmura",
+      "fa": "ابر"
+    },
+    "examples": {
+      "en": ["I see clouds.", "There are many clouds.", "The sky has clouds."],
+      "de": ["Ich sehe Wolken.", "Es gibt viele Wolken.", "Der Himmel hat Wolken."],
+      "ar": ["أرى سحباً.", "هناك سحب كثيرة.", "السماء فيها سحب."],
+      "fr": ["Je vois des nuages.", "Il y a beaucoup de nuages.", "Le ciel a des nuages."],
+      "it": ["Vedo nuvole.", "Ci sono molte nuvole.", "Il cielo ha nuvole."],
+      "ru": ["Я вижу облака.", "Много облаков.", "В небе облака."],
+      "es": ["Veo nubes.", "Hay muchas nubes.", "El cielo tiene nubes."],
+      "pl": ["Widzę chmury.", "Jest dużo chmur.", "Niebo ma chmury."],
+      "fa": ["ابرها را می‌بینم.", "ابرهای زیادی هست.", "آسمان ابر دارد."]
+    }
+  },
+  {
+    "id": "universal_a1_493_fr",
+    "word": "ciel",
+    "translations": {
+      "en": "sky",
+      "de": "Himmel",
+      "ar": "سماء",
+      "fr": "ciel",
+      "it": "cielo",
+      "ru": "небо",
+      "es": "cielo",
+      "pl": "niebo",
+      "fa": "آسمان"
+    },
+    "examples": {
+      "en": ["The sky is blue.", "I look at the sky.", "The sky is beautiful."],
+      "de": ["Der Himmel ist blau.", "Ich schaue zum Himmel.", "Der Himmel ist schön."],
+      "ar": ["السماء زرقاء.", "أنظر إلى السماء.", "السماء جميلة."],
+      "fr": ["Le ciel est bleu.", "Je regarde le ciel.", "Le ciel est beau."],
+      "it": ["Il cielo è blu.", "Guardo il cielo.", "Il cielo è bello."],
+      "ru": ["Небо голубое.", "Я смотрю на небо.", "Небо красивое."],
+      "es": ["El cielo es azul.", "Miro el cielo.", "El cielo es hermoso."],
+      "pl": ["Niebo jest niebieskie.", "Patrzę na niebo.", "Niebo jest piękne."],
+      "fa": ["آسمان آبی است.", "به آسمان نگاه می‌کنم.", "آسمان زیباست."]
+    }
+  },
+  {
+    "id": "universal_a1_494_fr",
+    "word": "mer",
+    "translations": {
+      "en": "sea",
+      "de": "Meer",
+      "ar": "بحر",
+      "fr": "mer",
+      "it": "mare",
+      "ru": "море",
+      "es": "mar",
+      "pl": "morze",
+      "fa": "دریا"
+    },
+    "examples": {
+      "en": ["I love the sea.", "The sea is blue.", "I swim in the sea."],
+      "de": ["Ich liebe das Meer.", "Das Meer ist blau.", "Ich schwimme im Meer."],
+      "ar": ["أحب البحر.", "البحر أزرق.", "أسبح في البحر."],
+      "fr": ["J'aime la mer.", "La mer est bleue.", "Je nage dans la mer."],
+      "it": ["Amo il mare.", "Il mare è blu.", "Nuoto nel mare."],
+      "ru": ["Я люблю море.", "Море голубое.", "Я плаваю в море."],
+      "es": ["Me encanta el mar.", "El mar es azul.", "Nado en el mar."],
+      "pl": ["Kocham morze.", "Morze jest niebieskie.", "Pływam w morzu."],
+      "fa": ["دریا را دوست دارم.", "دریا آبی است.", "در دریا شنا می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a1_495_fr",
+    "word": "montagne",
+    "translations": {
+      "en": "mountain",
+      "de": "Berg",
+      "ar": "جبل",
+      "fr": "montagne",
+      "it": "montagna",
+      "ru": "гора",
+      "es": "montaña",
+      "pl": "góra",
+      "fa": "کوه"
+    },
+    "examples": {
+      "en": ["I see a mountain.", "The mountain is high.", "I climb the mountain."],
+      "de": ["Ich sehe einen Berg.", "Der Berg ist hoch.", "Ich besteige den Berg."],
+      "ar": ["أرى جبلاً.", "الجبل مرتفع.", "أتسلق الجبل."],
+      "fr": ["Je vois une montagne.", "La montagne est haute.", "Je grimpe la montagne."],
+      "it": ["Vedo una montagna.", "La montagna è alta.", "Scalo la montagna."],
+      "ru": ["Я вижу гору.", "Гора высокая.", "Я поднимаюсь на гору."],
+      "es": ["Veo una montaña.", "La montaña es alta.", "Escalo la montaña."],
+      "pl": ["Widzę górę.", "Góra jest wysoka.", "Wspinam się na górę."],
+      "fa": ["کوهی می‌بینم.", "کوه بلند است.", "از کوه بالا می‌روم."]
+    }
+  },
+  {
+    "id": "universal_a1_496_fr",
+    "word": "arbre",
+    "translations": {
+      "en": "tree",
+      "de": "Baum",
+      "ar": "شجرة",
+      "fr": "arbre",
+      "it": "albero",
+      "ru": "дерево",
+      "es": "árbol",
+      "pl": "drzewo",
+      "fa": "درخت"
+    },
+    "examples": {
+      "en": ["I see a tree.", "The tree is big.", "Birds are in the tree."],
+      "de": ["Ich sehe einen Baum.", "Der Baum ist groß.", "Vögel sind im Baum."],
+      "ar": ["أرى شجرة.", "الشجرة كبيرة.", "الطيور في الشجرة."],
+      "fr": ["Je vois un arbre.", "L'arbre est grand.", "Les oiseaux sont dans l'arbre."],
+      "it": ["Vedo un albero.", "L'albero è grande.", "Gli uccelli sono nell'albero."],
+      "ru": ["Я вижу дерево.", "Дерево большое.", "Птицы на дереве."],
+      "es": ["Veo un árbol.", "El árbol es grande.", "Los pájaros están en el árbol."],
+      "pl": ["Widzę drzewo.", "Drzewo jest duże.", "Ptaki są na drzewie."],
+      "fa": ["درختی می‌بینم.", "درخت بزرگ است.", "پرندگان روی درخت هستند."]
+    }
+  },
+  {
+    "id": "universal_a1_497_fr",
+    "word": "fleur",
+    "translations": {
+      "en": "flower",
+      "de": "Blume",
+      "ar": "زهرة",
+      "fr": "fleur",
+      "it": "fiore",
+      "ru": "цветок",
+      "es": "flor",
+      "pl": "kwiat",
+      "fa": "گل"
+    },
+    "examples": {
+      "en": ["I see a flower.", "The flower is beautiful.", "I give flowers."],
+      "de": ["Ich sehe eine Blume.", "Die Blume ist schön.", "Ich gebe Blumen."],
+      "ar": ["أرى زهرة.", "الزهرة جميلة.", "أعطي زهوراً."],
+      "fr": ["Je vois une fleur.", "La fleur est belle.", "Je donne des fleurs."],
+      "it": ["Vedo un fiore.", "Il fiore è bello.", "Do dei fiori."],
+      "ru": ["Я вижу цветок.", "Цветок красивый.", "Я дарю цветы."],
+      "es": ["Veo una flor.", "La flor es hermosa.", "Doy flores."],
+      "pl": ["Widzę kwiat.", "Kwiat jest piękny.", "Daję kwiaty."],
+      "fa": ["گلی می‌بینم.", "گل زیباست.", "گل می‌دهم."]
+    }
+  },
+  {
+    "id": "universal_a1_498_fr",
+    "word": "animal",
+    "translations": {
+      "en": "animal",
+      "de": "Tier",
+      "ar": "حيوان",
+      "fr": "animal",
+      "it": "animale",
+      "ru": "животное",
+      "es": "animal",
+      "pl": "zwierzę",
+      "fa": "حیوان"
+    },
+    "examples": {
+      "en": ["I see an animal.", "I like animals.", "The animal is big."],
+      "de": ["Ich sehe ein Tier.", "Ich mag Tiere.", "Das Tier ist groß."],
+      "ar": ["أرى حيواناً.", "أحب الحيوانات.", "الحيوان كبير."],
+      "fr": ["Je vois un animal.", "J'aime les animaux.", "L'animal est grand."],
+      "it": ["Vedo un animale.", "Mi piacciono gli animali.", "L'animale è grande."],
+      "ru": ["Я вижу животное.", "Я люблю животных.", "Животное большое."],
+      "es": ["Veo un animal.", "Me gustan los animales.", "El animal es grande."],
+      "pl": ["Widzę zwierzę.", "Lubię zwierzęta.", "Zwierzę jest duże."],
+      "fa": ["حیوانی می‌بینم.", "حیوانات را دوست دارم.", "حیوان بزرگ است."]
+    }
+  },
+  {
+    "id": "universal_a1_499_fr",
+    "word": "chat",
+    "translations": {
+      "en": "cat",
+      "de": "Katze",
+      "ar": "قطة",
+      "fr": "chat",
+      "it": "gatto",
+      "ru": "кошка",
+      "es": "gato",
+      "pl": "kot",
+      "fa": "گربه"
+    },
+    "examples": {
+      "en": ["I have a cat.", "The cat is sleeping.", "My cat is black."],
+      "de": ["Ich habe eine Katze.", "Die Katze schläft.", "Meine Katze ist schwarz."],
+      "ar": ["لدي قطة.", "القطة نائمة.", "قطتي سوداء."],
+      "fr": ["J'ai un chat.", "Le chat dort.", "Mon chat est noir."],
+      "it": ["Ho un gatto.", "Il gatto dorme.", "Il mio gatto è nero."],
+      "ru": ["У меня есть кошка.", "Кошка спит.", "Моя кошка черная."],
+      "es": ["Tengo un gato.", "El gato duerme.", "Mi gato es negro."],
+      "pl": ["Mam kota.", "Kot śpi.", "Mój kot jest czarny."],
+      "fa": ["یک گربه دارم.", "گربه خوابیده است.", "گربه من سیاه است."]
+    }
+  },
+  {
+    "id": "universal_a1_500_fr",
+    "word": "chien",
+    "translations": {
+      "en": "dog",
+      "de": "Hund",
+      "ar": "كلب",
+      "fr": "chien",
+      "it": "cane",
+      "ru": "собака",
+      "es": "perro",
+      "pl": "pies",
+      "fa": "سگ"
+    },
+    "examples": {
+      "en": ["I have a dog.", "The dog is running.", "My dog is big."],
+      "de": ["Ich habe einen Hund.", "Der Hund rennt.", "Mein Hund ist groß."],
+      "ar": ["لدي كلب.", "الكلب يجري.", "كلبي كبير."],
+      "fr": ["J'ai un chien.", "Le chien court.", "Mon chien est grand."],
+      "it": ["Ho un cane.", "Il cane corre.", "Il mio cane è grande."],
+      "ru": ["У меня есть собака.", "Собака бежит.", "Моя собака большая."],
+      "es": ["Tengo un perro.", "El perro corre.", "Mi perro es grande."],
+      "pl": ["Mam psa.", "Pies biegnie.", "Mój pies jest duży."],
+      "fa": ["یک سگ دارم.", "سگ می‌دود.", "سگ من بزرگ است."]
+    }
+  }
+]
