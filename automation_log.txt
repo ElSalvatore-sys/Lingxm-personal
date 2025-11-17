@@ -1,0 +1,69 @@
+[2025-11-10 05:01:57] ============================================================
+[2025-11-10 05:01:57] TEST MODE: Running English batch 2 only
+[2025-11-10 05:01:57] ============================================================
+[2025-11-10 05:01:57] Checking out branch: generation/en-a1
+[2025-11-10 05:01:57] Processing English batch 2
+[2025-11-10 05:01:57] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/en_batch02.md
+[2025-11-10 05:01:57] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/en-a1-batch2.json
+[2025-11-10 05:01:57] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:10:18] Validation passed!
+[2025-11-10 05:10:18] Committing to git...
+[2025-11-10 05:10:18] Batch 2 complete!
+[2025-11-10 05:10:18] ============================================================
+[2025-11-10 05:10:18] TEST MODE SUCCESSFUL!
+[2025-11-10 05:10:18] ============================================================
+[2025-11-10 05:15:44] Loaded progress: 1 batches completed
+[2025-11-10 05:15:44] Checking out branch: generation/en-a1
+[2025-11-10 05:15:44] English batch 2 already completed, skipping
+[2025-11-10 05:15:44] Processing English batch 3
+[2025-11-10 05:15:44] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/en_batch03.md
+[2025-11-10 05:15:44] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/en-a1-batch3.json
+[2025-11-10 05:15:44] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:44] Loaded progress: 1 batches completed
+[2025-11-10 05:15:44] Checking out branch: generation/de-a1
+[2025-11-10 05:15:44] Processing German batch 2
+[2025-11-10 05:15:44] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/de_batch02.md
+[2025-11-10 05:15:44] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/de-a1-batch2.json
+[2025-11-10 05:15:44] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:45] Loaded progress: 1 batches completed
+[2025-11-10 05:15:45] Checking out branch: generation/es-a1
+[2025-11-10 05:15:45] Processing Spanish batch 2
+[2025-11-10 05:15:45] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/es_batch02.md
+[2025-11-10 05:15:45] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/es-a1-batch2.json
+[2025-11-10 05:15:45] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:45] Loaded progress: 1 batches completed
+[2025-11-10 05:15:45] Checking out branch: generation/ar-a1
+[2025-11-10 05:15:45] Processing Arabic batch 2
+[2025-11-10 05:15:45] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/ar_batch02.md
+[2025-11-10 05:15:45] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/ar-a1-batch2.json
+[2025-11-10 05:15:45] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:46] Loaded progress: 1 batches completed
+[2025-11-10 05:15:46] Checking out branch: generation/fr-a1
+[2025-11-10 05:15:46] Processing French batch 3
+[2025-11-10 05:15:46] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/fr_batch03.md
+[2025-11-10 05:15:46] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/fr-a1-batch3.json
+[2025-11-10 05:15:46] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:47] Loaded progress: 1 batches completed
+[2025-11-10 05:15:47] Checking out branch: generation/it-a1
+[2025-11-10 05:15:47] Processing Italian batch 2
+[2025-11-10 05:15:47] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/it_batch02.md
+[2025-11-10 05:15:47] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/it-a1-batch2.json
+[2025-11-10 05:15:47] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:47] Loaded progress: 1 batches completed
+[2025-11-10 05:15:47] Checking out branch: generation/ru-a1
+[2025-11-10 05:15:47] Processing Russian batch 2
+[2025-11-10 05:15:47] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/ru_batch02.md
+[2025-11-10 05:15:47] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/ru-a1-batch2.json
+[2025-11-10 05:15:47] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:47] Loaded progress: 1 batches completed
+[2025-11-10 05:15:47] Checking out branch: generation/pl-a1
+[2025-11-10 05:15:47] Processing Polish batch 2
+[2025-11-10 05:15:47] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/pl_batch02.md
+[2025-11-10 05:15:47] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/pl-a1-batch2.json
+[2025-11-10 05:15:47] MANUAL STEP: Copy prompt and paste into Claude Code
+[2025-11-10 05:15:48] Loaded progress: 1 batches completed
+[2025-11-10 05:15:48] Checking out branch: generation/fa-a1
+[2025-11-10 05:15:48] Processing Persian batch 2
+[2025-11-10 05:15:48] Prompt file: /Users/eldiaploo/Desktop/LingXM-Personal/prompts_batch2-25/fa_batch02.md
+[2025-11-10 05:15:48] Expected output: /Users/eldiaploo/Desktop/LingXM-Personal/public/data/universal/fa-a1-batch2.json
+[2025-11-10 05:15:48] MANUAL STEP: Copy prompt and paste into Claude Code

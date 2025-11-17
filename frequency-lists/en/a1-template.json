@@ -1,0 +1,92 @@
+{
+  "level": "A1",
+  "language": "en",
+  "total_words": 500,
+  "description": "Essential survival vocabulary for absolute beginners",
+  "categories": {
+    "grammar": {
+      "count": 60,
+      "subcategories": {
+        "pronouns": ["I", "you", "he", "she", "it", "we", "they"],
+        "possessive": ["my", "your", "his", "her", "its", "our", "their"],
+        "demonstrative": ["this", "that", "these", "those"],
+        "question_words": ["who", "what", "where", "when", "why", "how"],
+        "modals": ["can", "must", "want", "need"],
+        "articles": ["the", "a", "an"],
+        "prepositions": ["in", "on", "at", "to", "from", "with", "for", "of", "by", "about", "under", "over", "between", "through", "during"],
+        "conjunctions": ["and", "but", "or", "because"],
+        "adverbs": ["yes", "no", "not", "very", "here", "there", "now", "then", "always", "never", "sometimes"]
+      }
+    },
+    "core_verbs": {
+      "count": 80,
+      "subcategories": {
+        "state": ["be", "have", "exist"],
+        "action": ["do", "make", "go", "come", "take", "give", "get", "put"],
+        "communication": ["say", "tell", "speak", "talk", "ask", "answer"],
+        "perception": ["see", "look", "hear", "listen", "feel", "smell", "taste"],
+        "mental": ["know", "think", "understand", "remember", "forget", "learn"],
+        "emotion": ["like", "love", "hate", "want", "need", "prefer"],
+        "daily": ["eat", "drink", "sleep", "wake", "work", "play", "live", "stay"],
+        "motion": ["walk", "run", "sit", "stand", "open", "close", "start", "stop"],
+        "social": ["help", "meet", "call", "visit", "invite", "thank"],
+        "commerce": ["buy", "sell", "pay", "cost", "spend", "save"]
+      }
+    },
+    "numbers_and_time": {
+      "count": 60,
+      "subcategories": {
+        "numbers": ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "thirty", "forty", "fifty", "hundred"],
+        "ordinals": ["first", "second", "third", "last"],
+        "time_units": ["second", "minute", "hour", "day", "week", "month", "year", "century"],
+        "time_words": ["today", "tomorrow", "yesterday", "now", "later", "early", "late", "soon"],
+        "clock": ["morning", "afternoon", "evening", "night", "midnight", "noon"],
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "seasons": ["spring", "summer", "autumn", "winter"]
+      }
+    },
+    "people_and_relations": {
+      "count": 40,
+      "words": ["person", "people", "man", "woman", "boy", "girl", "child", "baby", "adult", "family", "parent", "mother", "father", "sister", "brother", "son", "daughter", "grandmother", "grandfather", "uncle", "aunt", "cousin", "friend", "neighbor", "Mr", "Mrs", "Miss", "husband", "wife", "married", "single"]
+    },
+    "body_and_health": {
+      "count": 30,
+      "words": ["body", "head", "face", "hair", "eye", "ear", "nose", "mouth", "tooth", "neck", "shoulder", "arm", "hand", "finger", "leg", "foot", "toe", "heart", "blood", "stomach", "back", "skin", "health", "healthy", "sick", "ill", "pain", "hurt", "tired"]
+    },
+    "food_and_drink": {
+      "count": 50,
+      "words": ["food", "meal", "breakfast", "lunch", "dinner", "snack", "meat", "fish", "chicken", "egg", "cheese", "bread", "rice", "pasta", "potato", "cereal", "milk", "butter", "yogurt", "cream", "fruit", "vegetable", "apple", "banana", "orange", "tomato", "carrot", "salad", "water", "juice", "coffee", "tea", "beer", "wine", "soda", "cook", "kitchen", "restaurant", "eat", "drink", "hungry", "thirsty", "delicious", "hot", "cold", "sweet", "sour", "salt", "sugar", "spice"]
+    },
+    "places": {
+      "count": 40,
+      "words": ["home", "house", "apartment", "room", "door", "window", "floor", "wall", "bedroom", "bathroom", "kitchen", "living room", "office", "city", "town", "street", "road", "building", "bridge", "park", "square", "shop", "store", "market", "bank", "post office", "hospital", "pharmacy", "station", "airport", "stop", "taxi", "bus", "train", "car", "bicycle", "place", "area", "center", "corner"]
+    },
+    "common_objects": {
+      "count": 50,
+      "words": ["phone", "computer", "internet", "email", "TV", "radio", "camera", "table", "chair", "bed", "sofa", "desk", "shelf", "bag", "key", "money", "wallet", "watch", "glasses", "clothes", "shirt", "pants", "dress", "shoes", "coat", "hat", "pen", "pencil", "paper", "book", "box", "bottle", "cup", "plate", "knife", "thing", "object", "item", "piece", "part", "material", "card", "ticket", "passport", "letter", "document"]
+    },
+    "colors": {
+      "count": 12,
+      "words": ["color", "white", "black", "red", "blue", "green", "yellow", "orange", "brown", "gray", "pink", "purple"]
+    },
+    "basic_adjectives": {
+      "count": 40,
+      "words": ["good", "bad", "big", "small", "large", "little", "long", "short", "tall", "high", "low", "wide", "narrow", "new", "old", "clean", "dirty", "easy", "difficult", "hard", "soft", "many", "much", "few", "some", "all", "every", "each", "other", "another", "open", "closed", "full", "empty", "free", "busy", "ready", "broken", "finished"]
+    },
+    "courtesies": {
+      "count": 8,
+      "words": ["hello", "goodbye", "please", "thank you", "sorry", "excuse me", "welcome", "congratulations"]
+    },
+    "countries_and_languages": {
+      "count": 20,
+      "words": ["country", "language", "English", "French", "German", "Spanish", "Italian", "Chinese", "Arabic", "Russian", "America", "Europe", "Asia", "Africa", "city", "capital", "foreign", "native", "international", "local"]
+    }
+  },
+  "source_priority": [
+    "CEFR_official",
+    "Swadesh_list",
+    "COCA_top_500",
+    "Kelly_Project"
+  ],
+  "notes": "This template defines the A1 level structure with 500 essential words organized by functional categories. Actual word selection should prioritize the highest frequency items from CEFR official lists and corpus data."
+}

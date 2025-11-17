@@ -1,0 +1,791 @@
+{
+  "files_found": [
+    "en",
+    "de",
+    "fr",
+    "pl",
+    "fa"
+  ],
+  "files_missing": [
+    "es",
+    "ar",
+    "it",
+    "ru"
+  ],
+  "validation_results": {
+    "en": {
+      "word_count": 20,
+      "expected_word_count": 20,
+      "word_count_correct": true,
+      "schema_issues": [],
+      "translation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "explanation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "example_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "sample_words": [
+        {
+          "word": "I",
+          "id": "universal_a1_001_en",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "you",
+          "id": "universal_a1_002_en",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "he",
+          "id": "universal_a1_003_en",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        }
+      ],
+      "field_analysis": {
+        "present_fields": [
+          "id",
+          "word",
+          "category",
+          "frequency_rank",
+          "level",
+          "translations",
+          "explanation",
+          "examples",
+          "conjugations",
+          "cefrLevel"
+        ],
+        "missing_fields": [],
+        "has_alternative_word_field": false,
+        "extra_fields": []
+      }
+    },
+    "de": {
+      "word_count": 20,
+      "expected_word_count": 20,
+      "word_count_correct": true,
+      "schema_issues": [],
+      "translation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "explanation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "example_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "sample_words": [
+        {
+          "word": "ich",
+          "id": "universal_a1_001_de",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "du",
+          "id": "universal_a1_002_de",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "er",
+          "id": "universal_a1_003_de",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        }
+      ],
+      "field_analysis": {
+        "present_fields": [
+          "id",
+          "word",
+          "category",
+          "frequency_rank",
+          "level",
+          "translations",
+          "explanation",
+          "examples",
+          "conjugations",
+          "cefrLevel"
+        ],
+        "missing_fields": [],
+        "has_alternative_word_field": false,
+        "extra_fields": []
+      }
+    },
+    "fr": {
+      "word_count": 50,
+      "expected_word_count": 50,
+      "word_count_correct": true,
+      "schema_issues": [
+        "Word 0: Missing 'id' field",
+        "Word 0: Missing 'category' field",
+        "Word 0: Missing 'frequency_rank' field",
+        "Word 0: Missing 'level' field",
+        "Word 1: Missing 'id' field",
+        "Word 1: Missing 'category' field",
+        "Word 1: Missing 'frequency_rank' field",
+        "Word 1: Missing 'level' field",
+        "Word 2: Missing 'id' field",
+        "Word 2: Missing 'category' field",
+        "Word 2: Missing 'frequency_rank' field",
+        "Word 2: Missing 'level' field",
+        "Word 3: Missing 'id' field",
+        "Word 3: Missing 'category' field",
+        "Word 3: Missing 'frequency_rank' field",
+        "Word 3: Missing 'level' field",
+        "Word 4: Missing 'id' field",
+        "Word 4: Missing 'category' field",
+        "Word 4: Missing 'frequency_rank' field",
+        "Word 4: Missing 'level' field",
+        "Word 5: Missing 'id' field",
+        "Word 5: Missing 'category' field",
+        "Word 5: Missing 'frequency_rank' field",
+        "Word 5: Missing 'level' field",
+        "Word 6: Missing 'id' field",
+        "Word 6: Missing 'category' field",
+        "Word 6: Missing 'frequency_rank' field",
+        "Word 6: Missing 'level' field",
+        "Word 7: Missing 'id' field",
+        "Word 7: Missing 'category' field",
+        "Word 7: Missing 'frequency_rank' field",
+        "Word 7: Missing 'level' field",
+        "Word 8: Missing 'id' field",
+        "Word 8: Missing 'category' field",
+        "Word 8: Missing 'frequency_rank' field",
+        "Word 8: Missing 'level' field",
+        "Word 9: Missing 'id' field",
+        "Word 9: Missing 'category' field",
+        "Word 9: Missing 'frequency_rank' field",
+        "Word 9: Missing 'level' field",
+        "Word 10: Missing 'id' field",
+        "Word 10: Missing 'category' field",
+        "Word 10: Missing 'frequency_rank' field",
+        "Word 10: Missing 'level' field",
+        "Word 11: Missing 'id' field",
+        "Word 11: Missing 'category' field",
+        "Word 11: Missing 'frequency_rank' field",
+        "Word 11: Missing 'level' field",
+        "Word 12: Missing 'id' field",
+        "Word 12: Missing 'category' field",
+        "Word 12: Missing 'frequency_rank' field",
+        "Word 12: Missing 'level' field",
+        "Word 13: Missing 'id' field",
+        "Word 13: Missing 'category' field",
+        "Word 13: Missing 'frequency_rank' field",
+        "Word 13: Missing 'level' field",
+        "Word 14: Missing 'id' field",
+        "Word 14: Missing 'category' field",
+        "Word 14: Missing 'frequency_rank' field",
+        "Word 14: Missing 'level' field",
+        "Word 15: Missing 'id' field",
+        "Word 15: Missing 'category' field",
+        "Word 15: Missing 'frequency_rank' field",
+        "Word 15: Missing 'level' field",
+        "Word 16: Missing 'id' field",
+        "Word 16: Missing 'category' field",
+        "Word 16: Missing 'frequency_rank' field",
+        "Word 16: Missing 'level' field",
+        "Word 17: Missing 'id' field",
+        "Word 17: Missing 'category' field",
+        "Word 17: Missing 'frequency_rank' field",
+        "Word 17: Missing 'level' field",
+        "Word 18: Missing 'id' field",
+        "Word 18: Missing 'category' field",
+        "Word 18: Missing 'frequency_rank' field",
+        "Word 18: Missing 'level' field",
+        "Word 19: Missing 'id' field",
+        "Word 19: Missing 'category' field",
+        "Word 19: Missing 'frequency_rank' field",
+        "Word 19: Missing 'level' field",
+        "Word 20: Missing 'id' field",
+        "Word 20: Missing 'category' field",
+        "Word 20: Missing 'frequency_rank' field",
+        "Word 20: Missing 'level' field",
+        "Word 20: Conjugations should be null",
+        "Word 21: Missing 'id' field",
+        "Word 21: Missing 'category' field",
+        "Word 21: Missing 'frequency_rank' field",
+        "Word 21: Missing 'level' field",
+        "Word 21: Conjugations should be null",
+        "Word 22: Missing 'id' field",
+        "Word 22: Missing 'category' field",
+        "Word 22: Missing 'frequency_rank' field",
+        "Word 22: Missing 'level' field",
+        "Word 22: Conjugations should be null",
+        "Word 23: Missing 'id' field",
+        "Word 23: Missing 'category' field",
+        "Word 23: Missing 'frequency_rank' field",
+        "Word 23: Missing 'level' field",
+        "Word 23: Conjugations should be null",
+        "Word 24: Missing 'id' field",
+        "Word 24: Missing 'category' field",
+        "Word 24: Missing 'frequency_rank' field",
+        "Word 24: Missing 'level' field",
+        "Word 24: Conjugations should be null",
+        "Word 25: Missing 'id' field",
+        "Word 25: Missing 'category' field",
+        "Word 25: Missing 'frequency_rank' field",
+        "Word 25: Missing 'level' field",
+        "Word 25: Conjugations should be null",
+        "Word 26: Missing 'id' field",
+        "Word 26: Missing 'category' field",
+        "Word 26: Missing 'frequency_rank' field",
+        "Word 26: Missing 'level' field",
+        "Word 26: Conjugations should be null",
+        "Word 27: Missing 'id' field",
+        "Word 27: Missing 'category' field",
+        "Word 27: Missing 'frequency_rank' field",
+        "Word 27: Missing 'level' field",
+        "Word 27: Conjugations should be null",
+        "Word 28: Missing 'id' field",
+        "Word 28: Missing 'category' field",
+        "Word 28: Missing 'frequency_rank' field",
+        "Word 28: Missing 'level' field",
+        "Word 28: Conjugations should be null",
+        "Word 29: Missing 'id' field",
+        "Word 29: Missing 'category' field",
+        "Word 29: Missing 'frequency_rank' field",
+        "Word 29: Missing 'level' field",
+        "Word 29: Conjugations should be null",
+        "Word 30: Missing 'id' field",
+        "Word 30: Missing 'category' field",
+        "Word 30: Missing 'frequency_rank' field",
+        "Word 30: Missing 'level' field",
+        "Word 30: Conjugations should be null",
+        "Word 31: Missing 'id' field",
+        "Word 31: Missing 'category' field",
+        "Word 31: Missing 'frequency_rank' field",
+        "Word 31: Missing 'level' field",
+        "Word 31: Conjugations should be null",
+        "Word 32: Missing 'id' field",
+        "Word 32: Missing 'category' field",
+        "Word 32: Missing 'frequency_rank' field",
+        "Word 32: Missing 'level' field",
+        "Word 32: Conjugations should be null",
+        "Word 33: Missing 'id' field",
+        "Word 33: Missing 'category' field",
+        "Word 33: Missing 'frequency_rank' field",
+        "Word 33: Missing 'level' field",
+        "Word 33: Conjugations should be null",
+        "Word 34: Missing 'id' field",
+        "Word 34: Missing 'category' field",
+        "Word 34: Missing 'frequency_rank' field",
+        "Word 34: Missing 'level' field",
+        "Word 34: Conjugations should be null",
+        "Word 35: Missing 'id' field",
+        "Word 35: Missing 'category' field",
+        "Word 35: Missing 'frequency_rank' field",
+        "Word 35: Missing 'level' field",
+        "Word 35: Conjugations should be null",
+        "Word 36: Missing 'id' field",
+        "Word 36: Missing 'category' field",
+        "Word 36: Missing 'frequency_rank' field",
+        "Word 36: Missing 'level' field",
+        "Word 36: Conjugations should be null",
+        "Word 37: Missing 'id' field",
+        "Word 37: Missing 'category' field",
+        "Word 37: Missing 'frequency_rank' field",
+        "Word 37: Missing 'level' field",
+        "Word 37: Conjugations should be null",
+        "Word 38: Missing 'id' field",
+        "Word 38: Missing 'category' field",
+        "Word 38: Missing 'frequency_rank' field",
+        "Word 38: Missing 'level' field",
+        "Word 38: Conjugations should be null",
+        "Word 39: Missing 'id' field",
+        "Word 39: Missing 'category' field",
+        "Word 39: Missing 'frequency_rank' field",
+        "Word 39: Missing 'level' field",
+        "Word 39: Conjugations should be null",
+        "Word 40: Missing 'id' field",
+        "Word 40: Missing 'category' field",
+        "Word 40: Missing 'frequency_rank' field",
+        "Word 40: Missing 'level' field",
+        "Word 41: Missing 'id' field",
+        "Word 41: Missing 'category' field",
+        "Word 41: Missing 'frequency_rank' field",
+        "Word 41: Missing 'level' field",
+        "Word 42: Missing 'id' field",
+        "Word 42: Missing 'category' field",
+        "Word 42: Missing 'frequency_rank' field",
+        "Word 42: Missing 'level' field",
+        "Word 43: Missing 'id' field",
+        "Word 43: Missing 'category' field",
+        "Word 43: Missing 'frequency_rank' field",
+        "Word 43: Missing 'level' field",
+        "Word 44: Missing 'id' field",
+        "Word 44: Missing 'category' field",
+        "Word 44: Missing 'frequency_rank' field",
+        "Word 44: Missing 'level' field",
+        "Word 45: Missing 'id' field",
+        "Word 45: Missing 'category' field",
+        "Word 45: Missing 'frequency_rank' field",
+        "Word 45: Missing 'level' field",
+        "Word 46: Missing 'id' field",
+        "Word 46: Missing 'category' field",
+        "Word 46: Missing 'frequency_rank' field",
+        "Word 46: Missing 'level' field",
+        "Word 47: Missing 'id' field",
+        "Word 47: Missing 'category' field",
+        "Word 47: Missing 'frequency_rank' field",
+        "Word 47: Missing 'level' field",
+        "Word 48: Missing 'id' field",
+        "Word 48: Missing 'category' field",
+        "Word 48: Missing 'frequency_rank' field",
+        "Word 48: Missing 'level' field",
+        "Word 49: Missing 'id' field",
+        "Word 49: Missing 'category' field",
+        "Word 49: Missing 'frequency_rank' field",
+        "Word 49: Missing 'level' field"
+      ],
+      "translation_coverage": {
+        "complete": 0,
+        "partial": 50,
+        "missing": 0
+      },
+      "explanation_coverage": {
+        "complete": 0,
+        "partial": 50,
+        "missing": 0
+      },
+      "example_coverage": {
+        "complete": 0,
+        "partial": 0,
+        "missing": 50
+      },
+      "sample_words": [
+        {
+          "word": "je",
+          "id": "MISSING",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 16
+        },
+        {
+          "word": "tu",
+          "id": "MISSING",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 16
+        },
+        {
+          "word": "il",
+          "id": "MISSING",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 16
+        }
+      ],
+      "field_analysis": {
+        "present_fields": [
+          "word_fr",
+          "translations",
+          "explanation",
+          "conjugations",
+          "examples",
+          "cefrLevel"
+        ],
+        "missing_fields": [
+          "id",
+          "word",
+          "category",
+          "frequency_rank",
+          "level"
+        ],
+        "has_alternative_word_field": true,
+        "extra_fields": []
+      }
+    },
+    "pl": {
+      "word_count": 20,
+      "expected_word_count": 20,
+      "word_count_correct": true,
+      "schema_issues": [],
+      "translation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "explanation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "example_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "sample_words": [
+        {
+          "word": "ja",
+          "id": "universal_a1_001_pl",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "ty",
+          "id": "universal_a1_002_pl",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "on",
+          "id": "universal_a1_003_pl",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        }
+      ],
+      "field_analysis": {
+        "present_fields": [
+          "id",
+          "word",
+          "category",
+          "frequency_rank",
+          "level",
+          "translations",
+          "explanation",
+          "examples",
+          "conjugations",
+          "cefrLevel"
+        ],
+        "missing_fields": [],
+        "has_alternative_word_field": false,
+        "extra_fields": []
+      }
+    },
+    "fa": {
+      "word_count": 20,
+      "expected_word_count": 20,
+      "word_count_correct": true,
+      "schema_issues": [],
+      "translation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "explanation_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "example_coverage": {
+        "complete": 20,
+        "partial": 0,
+        "missing": 0
+      },
+      "sample_words": [
+        {
+          "word": "من",
+          "id": "universal_a1_001_fa",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "تو",
+          "id": "universal_a1_002_fa",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        },
+        {
+          "word": "او",
+          "id": "universal_a1_003_fa",
+          "translations_count": 9,
+          "explanations_count": 9,
+          "examples_total": 27
+        }
+      ],
+      "field_analysis": {
+        "present_fields": [
+          "id",
+          "word",
+          "category",
+          "frequency_rank",
+          "level",
+          "translations",
+          "explanation",
+          "examples",
+          "conjugations",
+          "cefrLevel"
+        ],
+        "missing_fields": [],
+        "has_alternative_word_field": false,
+        "extra_fields": []
+      }
+    }
+  },
+  "cross_reference_check": {
+    "first_words": {
+      "en": {
+        "word": "I",
+        "translations": {
+          "en": "I",
+          "de": "ich",
+          "ar": "أنا",
+          "fr": "je",
+          "it": "io",
+          "ru": "я",
+          "es": "yo",
+          "pl": "ja",
+          "fa": "من"
+        }
+      },
+      "de": {
+        "word": "ich",
+        "translations": {
+          "en": "I",
+          "de": "ich",
+          "ar": "أنا",
+          "fr": "je",
+          "it": "io",
+          "ru": "я",
+          "es": "yo",
+          "pl": "ja",
+          "fa": "من"
+        }
+      },
+      "fr": {
+        "word": "je",
+        "translations": {
+          "ar": "أنا",
+          "de": "ich",
+          "en": "I",
+          "fa": "من",
+          "ru": "я",
+          "fr": "je",
+          "it": "io",
+          "es": "yo",
+          "pt": "eu"
+        }
+      },
+      "pl": {
+        "word": "ja",
+        "translations": {
+          "en": "I",
+          "de": "ich",
+          "ar": "أنا",
+          "fr": "je",
+          "it": "io",
+          "ru": "я",
+          "es": "yo",
+          "pl": "ja",
+          "fa": "من"
+        }
+      },
+      "fa": {
+        "word": "من",
+        "translations": {
+          "en": "I",
+          "de": "ich",
+          "ar": "أنا",
+          "fr": "je",
+          "it": "io",
+          "ru": "я",
+          "es": "yo",
+          "pl": "ja",
+          "fa": "من"
+        }
+      }
+    },
+    "consistency_checks": [
+      {
+        "source": "en",
+        "target": "en",
+        "expected": "I",
+        "actual": "I",
+        "matches": true
+      },
+      {
+        "source": "en",
+        "target": "de",
+        "expected": "ich",
+        "actual": "ich",
+        "matches": true
+      },
+      {
+        "source": "en",
+        "target": "fr",
+        "expected": "je",
+        "actual": "je",
+        "matches": true
+      },
+      {
+        "source": "en",
+        "target": "pl",
+        "expected": "ja",
+        "actual": "ja",
+        "matches": true
+      },
+      {
+        "source": "en",
+        "target": "fa",
+        "expected": "من",
+        "actual": "من",
+        "matches": true
+      },
+      {
+        "source": "de",
+        "target": "en",
+        "expected": "I",
+        "actual": "I",
+        "matches": true
+      },
+      {
+        "source": "de",
+        "target": "de",
+        "expected": "ich",
+        "actual": "ich",
+        "matches": true
+      },
+      {
+        "source": "de",
+        "target": "fr",
+        "expected": "je",
+        "actual": "je",
+        "matches": true
+      },
+      {
+        "source": "de",
+        "target": "pl",
+        "expected": "ja",
+        "actual": "ja",
+        "matches": true
+      },
+      {
+        "source": "de",
+        "target": "fa",
+        "expected": "من",
+        "actual": "من",
+        "matches": true
+      },
+      {
+        "source": "fr",
+        "target": "de",
+        "expected": "ich",
+        "actual": "ich",
+        "matches": true
+      },
+      {
+        "source": "fr",
+        "target": "en",
+        "expected": "I",
+        "actual": "I",
+        "matches": true
+      },
+      {
+        "source": "fr",
+        "target": "fa",
+        "expected": "من",
+        "actual": "من",
+        "matches": true
+      },
+      {
+        "source": "fr",
+        "target": "fr",
+        "expected": "je",
+        "actual": "je",
+        "matches": true
+      },
+      {
+        "source": "pl",
+        "target": "en",
+        "expected": "I",
+        "actual": "I",
+        "matches": true
+      },
+      {
+        "source": "pl",
+        "target": "de",
+        "expected": "ich",
+        "actual": "ich",
+        "matches": true
+      },
+      {
+        "source": "pl",
+        "target": "fr",
+        "expected": "je",
+        "actual": "je",
+        "matches": true
+      },
+      {
+        "source": "pl",
+        "target": "pl",
+        "expected": "ja",
+        "actual": "ja",
+        "matches": true
+      },
+      {
+        "source": "pl",
+        "target": "fa",
+        "expected": "من",
+        "actual": "من",
+        "matches": true
+      },
+      {
+        "source": "fa",
+        "target": "en",
+        "expected": "I",
+        "actual": "I",
+        "matches": true
+      },
+      {
+        "source": "fa",
+        "target": "de",
+        "expected": "ich",
+        "actual": "ich",
+        "matches": true
+      },
+      {
+        "source": "fa",
+        "target": "fr",
+        "expected": "je",
+        "actual": "je",
+        "matches": true
+      },
+      {
+        "source": "fa",
+        "target": "pl",
+        "expected": "ja",
+        "actual": "ja",
+        "matches": true
+      },
+      {
+        "source": "fa",
+        "target": "fa",
+        "expected": "من",
+        "actual": "من",
+        "matches": true
+      }
+    ]
+  },
+  "issues": [],
+  "quality_score": 77.12
+}

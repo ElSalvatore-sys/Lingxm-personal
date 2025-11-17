@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LingXM Database Schema Verification</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #fff;
+    }
+    h1 { color: #60a5fa; }
+    h2 { color: #34d399; margin-top: 30px; }
+    pre {
+      background: #2a2a2a;
+      padding: 15px;
+      border-radius: 8px;
+      overflow-x: auto;
+      border: 1px solid #444;
+    }
+    .success { color: #34d399; }
+    .error { color: #f87171; }
+    .warning { color: #fbbf24; }
+    button {
+      background: #3b82f6;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      margin: 10px 5px;
+    }
+    button:hover { background: #2563eb; }
+    #output { margin-top: 20px; }
+    .section {
+      background: #2a2a2a;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      border: 1px solid #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔍 LingXM Database Schema Verification</h1>
+
+  <div class="section">
+    <h2>Test Actions</h2>
+    <button onclick="testDatabaseSchema()">1. Verify Database Schema</button>
+    <button onclick="testMigration()">2. Test Migration</button>
+    <button onclick="testProfileManager()">3. Test Profile Manager</button>
+    <button onclick="clearDatabase()">⚠️ Clear Database</button>
+  </div>
+
+  <div id="output"></div>
+
+  <script type="module">
+    import { dbManager } from './src/utils/database.js';
+    import { profileManager } from './src/utils/profileManager.js';
+    import { migrationManager } from './src/utils/migration.js';
+    import { PROFILES } from './src/config.js';
+
+    let output = document.getElementById('output');
+
+    function log(message, type = 'info') {
+      const className = type === 'error' ? 'error' : type === 'success' ? 'success' : type === 'warning' ? 'warning' : '';
+      output.innerHTML += `<div class="${className}">${message}</div>`;
+      console.log(message);
+    }
+
+    function logSection(title) {
+      output.innerHTML += `<div class="section"><h2>${title}</h2><pre id="section-${Date.now()}"></pre></div>`;
+    }
+
+    function logJSON(data) {
+      const lastPre = output.querySelector('pre:last-of-type');
+      if (lastPre) {
+        lastPre.textContent = JSON.stringify(data, null, 2);
+      }
+    }
+
+    window.testDatabaseSchema = async function() {
+      output.innerHTML = '<h2>📋 Database Schema Verification</h2>';
+
+      try {
+        await dbManager.init();
+        log('✅ Database initialized', 'success');
+
+        // Check for new tables
+        const tables = dbManager.db.exec(`
+          SELECT name FROM sqlite_master WHERE type='table' ORDER BY name
+        `);
+
+        logSection('📊 Database Tables');
+        if (tables.length > 0) {
+          const tableNames = tables[0].values.map(row => row[0]);
+          logJSON(tableNames);
+
+          // Check if universal profile tables exist
+          const hasUserProfiles = tableNames.includes('user_profiles');
+          const hasProfileLanguages = tableNames.includes('profile_languages');
+          const hasProficiencyTests = tableNames.includes('proficiency_tests');
+
+          if (hasUserProfiles && hasProfileLanguages && hasProficiencyTests) {
+            log('✅ All universal profile tables exist!', 'success');
+          } else {
+            log('⚠️ Some tables missing:', 'warning');
+            log(`  - user_profiles: ${hasUserProfiles ? '✅' : '❌'}`, hasUserProfiles ? 'success' : 'error');
+            log(`  - profile_languages: ${hasProfileLanguages ? '✅' : '❌'}`, hasProfileLanguages ? 'success' : 'error');
+            log(`  - proficiency_tests: ${hasProficiencyTests ? '✅' : '❌'}`, hasProficiencyTests ? 'success' : 'error');
+          }
+        }
+
+        // Check table schemas
+        for (const table of ['user_profiles', 'profile_languages', 'proficiency_tests']) {
+          const schema = dbManager.db.exec(`PRAGMA table_info(${table})`);
+          if (schema.length > 0) {
+            logSection(`🗂️ Schema: ${table}`);
+            const columns = schema[0].values.map(row => ({
+              name: row[1],
+              type: row[2],
+              notNull: row[3] === 1,
+              defaultValue: row[4]
+            }));
+            logJSON(columns);
+          }
+        }
+
+      } catch (error) {
+        log(`❌ Error: ${error.message}`, 'error');
+        console.error(error);
+      }
+    };
+
+    window.testMigration = async function() {
+      output.innerHTML = '<h2>🔄 Migration Test</h2>';
+
+      try {
+        await dbManager.init();
+        await profileManager.init();
+
+        log('🔄 Running migration...', 'info');
+        const result = await migrationManager.autoMigrate();
+
+        logSection('📊 Migration Results');
+        logJSON(result);
+
+        if (result.success) {
+          log('✅ Migration completed successfully!', 'success');
+
+          // Check migrated profiles
+          const profiles = dbManager.db.exec('SELECT * FROM user_profiles');
+          if (profiles.length > 0) {
+            logSection(`👥 Migrated Profiles (${profiles[0].values.length})`);
+            const profileData = profiles[0].values.map(row => ({
+              id: row[0],
+              profile_key: row[1],
+              profile_type: row[2],
+              display_name: row[3],
+              avatar_emoji: row[4],
+              native_language: row[5]
+            }));
+            logJSON(profileData);
+          }
+
+          // Check profile languages
+          const languages = dbManager.db.exec('SELECT * FROM profile_languages');
+          if (languages.length > 0) {
+            logSection(`🌍 Learning Languages (${languages[0].values.length})`);
+            const langData = languages[0].values.map(row => ({
+              profile_id: row[1],
+              language_code: row[2],
+              language_name: row[3],
+              level_code: row[4],
+              specialty: row[5],
+              daily_words: row[6]
+            }));
+            logJSON(langData);
+          }
+        } else {
+          log('⚠️ Migration completed with issues', 'warning');
+        }
+
+        // Verify migration
+        log('🔍 Verifying migration...', 'info');
+        const verification = await migrationManager.verifyMigration();
+
+        logSection('✔️ Verification Results');
+        logJSON(verification);
+
+        if (verification.valid) {
+          log('✅ Migration verification passed!', 'success');
+        } else {
+          log('❌ Migration verification failed', 'error');
+        }
+
+      } catch (error) {
+        log(`❌ Error: ${error.message}`, 'error');
+        console.error(error);
+      }
+    };
+
+    window.testProfileManager = async function() {
+      output.innerHTML = '<h2>👤 Profile Manager Test</h2>';
+
+      try {
+        await dbManager.init();
+        await profileManager.init();
+
+        // Test getting all profiles
+        log('📋 Getting all profiles...', 'info');
+        const allProfiles = profileManager.getAllProfiles();
+
+        logSection(`👥 All Profiles (${allProfiles.length})`);
+        logJSON(allProfiles);
+
+        // Test getting specific profile
+        log('🔍 Testing profile retrieval...', 'info');
+        const vahikoProfile = profileManager.getProfile('vahiko');
+
+        if (vahikoProfile) {
+          logSection('👩‍💼 Vahiko Profile');
+          logJSON(vahikoProfile);
+          log('✅ Profile retrieval works!', 'success');
+        } else {
+          log('❌ Failed to retrieve profile', 'error');
+        }
+
+        // Test profile from config.js (classic fallback)
+        log('🔍 Testing classic profile fallback...', 'info');
+        const configProfiles = Object.keys(PROFILES);
+        log(`Found ${configProfiles.length} classic profiles in config.js`, 'info');
+
+        for (const key of configProfiles) {
+          const profile = profileManager.getProfile(key);
+          if (profile) {
+            log(`✅ ${key}: ${profile.display_name}`, 'success');
+          } else {
+            log(`❌ ${key}: Failed to load`, 'error');
+          }
+        }
+
+      } catch (error) {
+        log(`❌ Error: ${error.message}`, 'error');
+        console.error(error);
+      }
+    };
+
+    window.clearDatabase = async function() {
+      if (!confirm('⚠️ This will delete ALL database data. Are you sure?')) {
+        return;
+      }
+
+      output.innerHTML = '<h2>🗑️ Clearing Database</h2>';
+
+      try {
+        await dbManager.init();
+
+        // Clear all universal profile data
+        dbManager.db.run('DELETE FROM user_profiles');
+        dbManager.db.run('DELETE FROM profile_languages');
+        dbManager.db.run('DELETE FROM proficiency_tests');
+
+        await dbManager.saveToStorage();
+
+        // Clear migration flag
+        localStorage.removeItem('lingxm-migration-version');
+
+        log('✅ Database cleared', 'success');
+        log('ℹ️ Reload the page to re-run migration', 'info');
+
+      } catch (error) {
+        log(`❌ Error: ${error.message}`, 'error');
+        console.error(error);
+      }
+    };
+
+    // Auto-run schema test on load
+    window.addEventListener('DOMContentLoaded', () => {
+      setTimeout(() => {
+        log('🚀 Page loaded. Click buttons above to run tests.', 'info');
+      }, 100);
+    });
+  </script>
+</body>
+</html>
