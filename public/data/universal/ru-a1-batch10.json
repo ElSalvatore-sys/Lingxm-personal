@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "universal_a1_181_ru",
+    "word": "читать",
+    "category": "verbs",
+    "frequency_rank": 181,
+    "level": "a1",
+    "translations": {
+      "en": "to read",
+      "de": "lesen",
+      "ar": "يقرأ",
+      "fr": "lire",
+      "it": "leggere",
+      "ru": "глагол чтения",
+      "es": "leer",
+      "pl": "czytać",
+      "fa": "خواندن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of looking at and comprehending written text or symbols",
+      "de": "Verb für die Handlung geschriebenen Text oder Symbole anzusehen und zu verstehen",
+      "ar": "فعل يدل على عمل النظر إلى النص أو الرموز المكتوبة وفهمها",
+      "fr": "Verbe désignant action de regarder et comprendre texte ou symboles écrits",
+      "it": "Verbo che denota azione di guardare e comprendere testo o simboli scritti",
+      "ru": "Глагол, обозначающий действие по рассматриванию и пониманию письменного текста или символов",
+      "es": "Verbo que denota acción de mirar y comprender texto o símbolos escritos",
+      "pl": "Czasownik oznaczający czynność patrzenia i rozumienia pisanego tekstu lub symboli",
+      "fa": "فعلی که نشان‌دهنده عمل نگاه کردن و درک متن یا نمادهای نوشته شده است"
+    },
+    "examples": {
+      "en": [
+        "I can read this book",
+        "He wants to read",
+        "Do you read this letter?"
+      ],
+      "de": [
+        "Ich kann dieses Buch lesen",
+        "Er will lesen",
+        "Liest du diesen Brief?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أقرأ هذا الكتاب",
+        "هو يريد أن يقرأ",
+        "هل تقرأ هذه الرسالة؟"
+      ],
+      "fr": [
+        "Je peux lire ce livre",
+        "Il veut lire",
+        "Lis-tu cette lettre?"
+      ],
+      "it": [
+        "Io posso leggere questo libro",
+        "Lui vuole leggere",
+        "Leggi questa lettera?"
+      ],
+      "ru": [
+        "Я могу читать эту книгу",
+        "Он хочет читать",
+        "Ты читаешь это письмо?"
+      ],
+      "es": [
+        "Yo puedo leer este libro",
+        "Él quiere leer",
+        "¿Lees esta carta?"
+      ],
+      "pl": [
+        "Ja mogę czytać tę książkę",
+        "On chce czytać",
+        "Czy czytasz ten list?"
+      ],
+      "fa": [
+        "من می‌توانم این کتاب را بخوانم",
+        "او می‌خواهد بخواند",
+        "آیا این نامه را می‌خوانی؟"
+      ]
+    },
+    "conjugations": {
+      "present": {
+        "я": "читаю",
+        "ты": "читаешь",
+        "он/она": "читает",
+        "мы": "читаем",
+        "вы": "читаете",
+        "они": "читают"
+      },
+      "past": {
+        "он": "читал",
+        "она": "читала",
+        "оно": "читало",
+        "они": "читали"
+      },
+      "future": {
+        "я": "буду читать",
+        "ты": "будешь читать",
+        "он/она": "будет читать",
+        "мы": "будем читать",
+        "вы": "будете читать",
+        "они": "будут читать"
+      }
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_182_ru",
+    "word": "писать",
+    "category": "verbs",
+    "frequency_rank": 182,
+    "level": "a1",
+    "translations": {
+      "en": "to write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "глагол письма",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "explanation": {
+      "en": "Verb denoting the action of forming letters, words, or symbols on a surface with a pen or pencil",
+      "de": "Verb für die Handlung Buchstaben, Wörter oder Symbole auf einer Oberfläche mit einem Stift zu bilden",
+      "ar": "فعل يدل على عمل تشكيل الحروف أو الكلمات أو الرموز على سطح بقلم",
+      "fr": "Verbe désignant action de former lettres, mots ou symboles sur surface avec stylo ou crayon",
+      "it": "Verbo che denota azione di formare lettere, parole o simboli su superficie con penna o matita",
+      "ru": "Глагол, обозначающий действие по формированию букв, слов или символов на поверхности ручкой или карандашом",
+      "es": "Verbo que denota acción de formar letras, palabras o símbolos en superficie con pluma o lápiz",
+      "pl": "Czasownik oznaczający czynność tworzenia liter, słów lub symboli na powierzchni piórem lub ołówkiem",
+      "fa": "فعلی که نشان‌دهنده عمل شکل دادن حروف، کلمات یا نمادها روی سطح با قلم است"
+    },
+    "examples": {
+      "en": [
+        "I can write this letter",
+        "He wants to write",
+        "Do you write books?"
+      ],
+      "de": [
+        "Ich kann diesen Brief schreiben",
+        "Er will schreiben",
+        "Schreibst du Bücher?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أكتب هذه الرسالة",
+        "هو يريد أن يكتب",
+        "هل تكتب كتباً؟"
+      ],
+      "fr": [
+        "Je peux écrire cette lettre",
+        "Il veut écrire",
+        "Écris-tu des livres?"
+      ],
+      "it": [
+        "Io posso scrivere questa lettera",
+        "Lui vuole scrivere",
+        "Scrivi libri?"
+      ],
+      "ru": [
+        "Я могу писать это письмо",
+        "Он хочет писать",
+        "Ты пишешь книги?"
+      ],
+      "es": [
+        "Yo puedo escribir esta carta",
+        "Él quiere escribir",
+        "¿Escribes libros?"
+      ],
+      "pl": [
+        "Ja mogę napisać ten list",
+        "On chce pisać",
+        "Czy piszesz książki?"
+      ],
+      "fa": [
+        "من می‌توانم این نامه را بنویسم",
+        "او می‌خواهد بنویسد",
+        "آیا کتاب می‌نویسی؟"
+      ]
+    },
+    "conjugations": {
+      "present": {
+        "я": "пишу",
+        "ты": "пишешь",
+        "он/она": "пишет",
+        "мы": "пишем",
+        "вы": "пишете",
+        "они": "пишут"
+      },
+      "past": {
+        "он": "писал",
+        "она": "писала",
+        "оно": "писало",
+        "они": "писали"
+      },
+      "future": {
+        "я": "буду писать",
+        "ты": "будешь писать",
+        "он/она": "будет писать",
+        "мы": "будем писать",
+        "вы": "будете писать",
+        "они": "будут писать"
+      }
+    },
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_183_ru",
+    "word": "школа",
+    "category": "nouns",
+    "frequency_rank": 183,
+    "level": "a1",
+    "translations": {
+      "en": "school",
+      "de": "Schule",
+      "ar": "مدرسة",
+      "fr": "école",
+      "it": "scuola",
+      "ru": "существительное образовательного учреждения",
+      "es": "escuela",
+      "pl": "szkoła",
+      "fa": "مدرسه"
+    },
+    "explanation": {
+      "en": "Noun denoting an institution for educating children and young people",
+      "de": "Substantiv für eine Einrichtung zur Ausbildung von Kindern und jungen Menschen",
+      "ar": "اسم يدل على مؤسسة لتعليم الأطفال والشباب",
+      "fr": "Nom désignant institution pour éduquer enfants et jeunes gens",
+      "it": "Sostantivo che denota istituzione per educare bambini e giovani",
+      "ru": "Существительное, обозначающее учреждение для обучения детей и молодёжи",
+      "es": "Sustantivo que denota institución para educar niños y jóvenes",
+      "pl": "Rzeczownik oznaczający instytucję do kształcenia dzieci i młodzieży",
+      "fa": "اسمی که نشان‌دهنده موسسه برای آموزش کودکان و جوانان است"
+    },
+    "examples": {
+      "en": [
+        "I go to school",
+        "This is a good school",
+        "Where is your school?"
+      ],
+      "de": [
+        "Ich gehe zur Schule",
+        "Das ist eine gute Schule",
+        "Wo ist deine Schule?"
+      ],
+      "ar": [
+        "أنا أذهب إلى المدرسة",
+        "هذه مدرسة جيدة",
+        "أين مدرستك؟"
+      ],
+      "fr": [
+        "Je vais à l'école",
+        "C'est une bonne école",
+        "Où est ton école?"
+      ],
+      "it": [
+        "Io vado a scuola",
+        "Questa è una buona scuola",
+        "Dov'è la tua scuola?"
+      ],
+      "ru": [
+        "Я иду в школу",
+        "Это хорошая школа",
+        "Где твоя школа?"
+      ],
+      "es": [
+        "Yo voy a la escuela",
+        "Esta es una buena escuela",
+        "¿Dónde está tu escuela?"
+      ],
+      "pl": [
+        "Ja idę do szkoły",
+        "To jest dobra szkoła",
+        "Gdzie jest twoja szkoła?"
+      ],
+      "fa": [
+        "من به مدرسه می‌روم",
+        "این مدرسه خوبی است",
+        "مدرسه تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_184_ru",
+    "word": "учитель",
+    "category": "nouns",
+    "frequency_rank": 184,
+    "level": "a1",
+    "translations": {
+      "en": "teacher",
+      "de": "Lehrer",
+      "ar": "معلم، مدرس",
+      "fr": "professeur, enseignant",
+      "it": "insegnante, maestro",
+      "ru": "существительное обозначающее учителя",
+      "es": "profesor, maestro",
+      "pl": "nauczyciel",
+      "fa": "معلم"
+    },
+    "explanation": {
+      "en": "Noun denoting a person who teaches students in a school or educational institution",
+      "de": "Substantiv für eine Person die Schüler in einer Schule oder Bildungseinrichtung unterrichtet",
+      "ar": "اسم يدل على شخص يعلم الطلاب في مدرسة أو مؤسسة تعليمية",
+      "fr": "Nom désignant personne qui enseigne élèves dans école ou institution éducative",
+      "it": "Sostantivo che denota persona che insegna studenti in scuola o istituzione educativa",
+      "ru": "Существительное, обозначающее человека, который обучает учеников в школе или образовательном учреждении",
+      "es": "Sustantivo que denota persona que enseña estudiantes en escuela o institución educativa",
+      "pl": "Rzeczownik oznaczający osobę która uczy uczniów w szkole lub instytucji edukacyjnej",
+      "fa": "اسمی که نشان‌دهنده شخصی است که دانش‌آموزان را در مدرسه یا موسسه آموزشی درس می‌دهد"
+    },
+    "examples": {
+      "en": [
+        "My teacher is good",
+        "I can see the teacher",
+        "Where is your teacher?"
+      ],
+      "de": [
+        "Mein Lehrer ist gut",
+        "Ich kann den Lehrer sehen",
+        "Wo ist dein Lehrer?"
+      ],
+      "ar": [
+        "معلمي جيد",
+        "أنا أستطيع أن أرى المعلم",
+        "أين معلمك؟"
+      ],
+      "fr": [
+        "Mon professeur est bon",
+        "Je peux voir le professeur",
+        "Où est ton professeur?"
+      ],
+      "it": [
+        "Il mio insegnante è buono",
+        "Io posso vedere l'insegnante",
+        "Dov'è il tuo insegnante?"
+      ],
+      "ru": [
+        "Мой учитель хороший",
+        "Я могу видеть учителя",
+        "Где твой учитель?"
+      ],
+      "es": [
+        "Mi profesor es bueno",
+        "Yo puedo ver al profesor",
+        "¿Dónde está tu profesor?"
+      ],
+      "pl": [
+        "Mój nauczyciel jest dobry",
+        "Ja mogę zobaczyć nauczyciela",
+        "Gdzie jest twój nauczyciel?"
+      ],
+      "fa": [
+        "معلم من خوب است",
+        "من می‌توانم معلم را ببینم",
+        "معلم تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_185_ru",
+    "word": "ученик",
+    "category": "nouns",
+    "frequency_rank": 185,
+    "level": "a1",
+    "translations": {
+      "en": "student, pupil",
+      "de": "Schüler",
+      "ar": "تلميذ، طالب",
+      "fr": "élève, étudiant",
+      "it": "studente, allievo",
+      "ru": "существительное обозначающее ученика",
+      "es": "estudiante, alumno",
+      "pl": "uczeń",
+      "fa": "دانش‌آموز، شاگرد"
+    },
+    "explanation": {
+      "en": "Noun denoting a person who is learning at a school or from a teacher",
+      "de": "Substantiv für eine Person die in einer Schule oder bei einem Lehrer lernt",
+      "ar": "اسم يدل على شخص يتعلم في مدرسة أو من معلم",
+      "fr": "Nom désignant personne qui apprend dans école ou auprès d'un enseignant",
+      "it": "Sostantivo che denota persona che sta imparando in scuola o da un insegnante",
+      "ru": "Существительное, обозначающее человека, который учится в школе или у учителя",
+      "es": "Sustantivo que denota persona que está aprendiendo en escuela o de un profesor",
+      "pl": "Rzeczownik oznaczający osobę która uczy się w szkole lub od nauczyciela",
+      "fa": "اسمی که نشان‌دهنده شخصی است که در مدرسه یا از معلم درس می‌خواند"
+    },
+    "examples": {
+      "en": [
+        "I am a student",
+        "This student is good",
+        "Where is the pupil?"
+      ],
+      "de": [
+        "Ich bin ein Schüler",
+        "Dieser Schüler ist gut",
+        "Wo ist der Schüler?"
+      ],
+      "ar": [
+        "أنا تلميذ",
+        "هذا التلميذ جيد",
+        "أين الطالب؟"
+      ],
+      "fr": [
+        "Je suis un élève",
+        "Cet élève est bon",
+        "Où est l'élève?"
+      ],
+      "it": [
+        "Io sono uno studente",
+        "Questo studente è buono",
+        "Dov'è l'allievo?"
+      ],
+      "ru": [
+        "Я ученик",
+        "Этот ученик хороший",
+        "Где ученик?"
+      ],
+      "es": [
+        "Yo soy un estudiante",
+        "Este estudiante es bueno",
+        "¿Dónde está el alumno?"
+      ],
+      "pl": [
+        "Ja jestem uczniem",
+        "Ten uczeń jest dobry",
+        "Gdzie jest uczeń?"
+      ],
+      "fa": [
+        "من یک دانش‌آموز هستم",
+        "این دانش‌آموز خوب است",
+        "شاگرد کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_186_ru",
+    "word": "стол",
+    "category": "nouns",
+    "frequency_rank": 186,
+    "level": "a1",
+    "translations": {
+      "en": "table, desk",
+      "de": "Tisch",
+      "ar": "طاولة، مكتب",
+      "fr": "table, bureau",
+      "it": "tavolo, scrivania",
+      "ru": "существительное мебели",
+      "es": "mesa, escritorio",
+      "pl": "stół, biurko",
+      "fa": "میز"
+    },
+    "explanation": {
+      "en": "Noun denoting a piece of furniture with a flat top and legs, used for eating, working, or placing things",
+      "de": "Substantiv für ein Möbelstück mit flacher Platte und Beinen, zum Essen, Arbeiten oder Ablegen von Dingen",
+      "ar": "اسم يدل على قطعة أثاث ذات سطح مسطح وأرجل، تستخدم للأكل أو العمل أو وضع الأشياء",
+      "fr": "Nom désignant meuble avec surface plane et pieds, utilisé pour manger, travailler ou poser objets",
+      "it": "Sostantivo che denota mobile con piano piatto e gambe, usato per mangiare, lavorare o posare cose",
+      "ru": "Существительное, обозначающее предмет мебели с плоской поверхностью и ножками, используемый для еды, работы или размещения вещей",
+      "es": "Sustantivo que denota mueble con superficie plana y patas, usado para comer, trabajar o colocar cosas",
+      "pl": "Rzeczownik oznaczający mebel z płaską powierzchnią i nogami, używany do jedzenia, pracy lub kładzenia rzeczy",
+      "fa": "اسمی که نشان‌دهنده مبلمانی با سطح صاف و پایه‌ها، برای غذا خوردن، کار کردن یا قرار دادن چیزها است"
+    },
+    "examples": {
+      "en": [
+        "I can see the table",
+        "This is my desk",
+        "Where is your table?"
+      ],
+      "de": [
+        "Ich kann den Tisch sehen",
+        "Das ist mein Tisch",
+        "Wo ist dein Tisch?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أرى الطاولة",
+        "هذا مكتبي",
+        "أين طاولتك؟"
+      ],
+      "fr": [
+        "Je peux voir la table",
+        "C'est mon bureau",
+        "Où est ta table?"
+      ],
+      "it": [
+        "Io posso vedere il tavolo",
+        "Questa è la mia scrivania",
+        "Dov'è il tuo tavolo?"
+      ],
+      "ru": [
+        "Я могу видеть стол",
+        "Это мой стол",
+        "Где твой стол?"
+      ],
+      "es": [
+        "Yo puedo ver la mesa",
+        "Este es mi escritorio",
+        "¿Dónde está tu mesa?"
+      ],
+      "pl": [
+        "Ja mogę zobaczyć stół",
+        "To jest moje biurko",
+        "Gdzie jest twój stół?"
+      ],
+      "fa": [
+        "من می‌توانم میز را ببینم",
+        "این میز من است",
+        "میز تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_187_ru",
+    "word": "стул",
+    "category": "nouns",
+    "frequency_rank": 187,
+    "level": "a1",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "существительное мебели",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "explanation": {
+      "en": "Noun denoting a piece of furniture for one person to sit on, with a back and usually four legs",
+      "de": "Substantiv für ein Möbelstück für eine Person zum Sitzen, mit Rückenlehne und meist vier Beinen",
+      "ar": "اسم يدل على قطعة أثاث لشخص واحد للجلوس عليها، مع ظهر وعادة أربع أرجل",
+      "fr": "Nom désignant meuble pour une personne pour s'asseoir, avec dossier et généralement quatre pieds",
+      "it": "Sostantivo che denota mobile per una persona per sedersi, con schienale e solitamente quattro gambe",
+      "ru": "Существительное, обозначающее предмет мебели для сидения одного человека, со спинкой и обычно четырьмя ножками",
+      "es": "Sustantivo que denota mueble para una persona sentarse, con respaldo y usualmente cuatro patas",
+      "pl": "Rzeczownik oznaczający mebel dla jednej osoby do siedzenia, z oparciem i zazwyczaj czterema nogami",
+      "fa": "اسمی که نشان‌دهنده مبلمانی برای یک نفر برای نشستن، با پشتی و معمولاً چهار پایه است"
+    },
+    "examples": {
+      "en": [
+        "I can see the chair",
+        "This is a good chair",
+        "Where is your chair?"
+      ],
+      "de": [
+        "Ich kann den Stuhl sehen",
+        "Das ist ein guter Stuhl",
+        "Wo ist dein Stuhl?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أرى الكرسي",
+        "هذا كرسي جيد",
+        "أين كرسيك؟"
+      ],
+      "fr": [
+        "Je peux voir la chaise",
+        "C'est une bonne chaise",
+        "Où est ta chaise?"
+      ],
+      "it": [
+        "Io posso vedere la sedia",
+        "Questa è una buona sedia",
+        "Dov'è la tua sedia?"
+      ],
+      "ru": [
+        "Я могу видеть стул",
+        "Это хороший стул",
+        "Где твой стул?"
+      ],
+      "es": [
+        "Yo puedo ver la silla",
+        "Esta es una buena silla",
+        "¿Dónde está tu silla?"
+      ],
+      "pl": [
+        "Ja mogę zobaczyć krzesło",
+        "To jest dobre krzesło",
+        "Gdzie jest twoje krzesło?"
+      ],
+      "fa": [
+        "من می‌توانم صندلی را ببینم",
+        "این صندلی خوبی است",
+        "صندلی تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_188_ru",
+    "word": "окно",
+    "category": "nouns",
+    "frequency_rank": 188,
+    "level": "a1",
+    "translations": {
+      "en": "window",
+      "de": "Fenster",
+      "ar": "نافذة",
+      "fr": "fenêtre",
+      "it": "finestra",
+      "ru": "существительное части здания",
+      "es": "ventana",
+      "pl": "okno",
+      "fa": "پنجره"
+    },
+    "explanation": {
+      "en": "Noun denoting an opening in a wall with glass, allowing light and air to enter a building",
+      "de": "Substantiv für eine Öffnung in einer Wand mit Glas, die Licht und Luft in ein Gebäude lässt",
+      "ar": "اسم يدل على فتحة في جدار مع زجاج، تسمح للضوء والهواء بالدخول إلى مبنى",
+      "fr": "Nom désignant ouverture dans mur avec verre, permettant lumière et air d'entrer dans bâtiment",
+      "it": "Sostantivo che denota apertura in parete con vetro, permettendo luce e aria di entrare in edificio",
+      "ru": "Существительное, обозначающее отверстие в стене со стеклом, позволяющее свету и воздуху попадать в здание",
+      "es": "Sustantivo que denota abertura en pared con vidrio, permitiendo luz y aire entrar en edificio",
+      "pl": "Rzeczownik oznaczający otwór w ścianie ze szkłem, pozwalający światłu i powietrzu wejść do budynku",
+      "fa": "اسمی که نشان‌دهنده سوراخی در دیوار با شیشه، که اجازه می‌دهد نور و هوا وارد ساختمان شود"
+    },
+    "examples": {
+      "en": [
+        "I can see the window",
+        "This window is good",
+        "Where is your window?"
+      ],
+      "de": [
+        "Ich kann das Fenster sehen",
+        "Dieses Fenster ist gut",
+        "Wo ist dein Fenster?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أرى النافذة",
+        "هذه النافذة جيدة",
+        "أين نافذتك؟"
+      ],
+      "fr": [
+        "Je peux voir la fenêtre",
+        "Cette fenêtre est bonne",
+        "Où est ta fenêtre?"
+      ],
+      "it": [
+        "Io posso vedere la finestra",
+        "Questa finestra è buona",
+        "Dov'è la tua finestra?"
+      ],
+      "ru": [
+        "Я могу видеть окно",
+        "Это окно хорошее",
+        "Где твоё окно?"
+      ],
+      "es": [
+        "Yo puedo ver la ventana",
+        "Esta ventana es buena",
+        "¿Dónde está tu ventana?"
+      ],
+      "pl": [
+        "Ja mogę zobaczyć okno",
+        "To okno jest dobre",
+        "Gdzie jest twoje okno?"
+      ],
+      "fa": [
+        "من می‌توانم پنجره را ببینم",
+        "این پنجره خوب است",
+        "پنجره تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_189_ru",
+    "word": "дверь",
+    "category": "nouns",
+    "frequency_rank": 189,
+    "level": "a1",
+    "translations": {
+      "en": "door",
+      "de": "Tür",
+      "ar": "باب",
+      "fr": "porte",
+      "it": "porta",
+      "ru": "существительное части здания",
+      "es": "puerta",
+      "pl": "drzwi",
+      "fa": "در"
+    },
+    "explanation": {
+      "en": "Noun denoting a movable barrier used to open and close an entrance to a building or room",
+      "de": "Substantiv für eine bewegliche Barriere zum Öffnen und Schließen eines Eingangs zu einem Gebäude oder Raum",
+      "ar": "اسم يدل على حاجز متحرك يستخدم لفتح وإغلاق مدخل مبنى أو غرفة",
+      "fr": "Nom désignant barrière mobile utilisée pour ouvrir et fermer entrée d'un bâtiment ou pièce",
+      "it": "Sostantivo che denota barriera mobile usata per aprire e chiudere ingresso di edificio o stanza",
+      "ru": "Существительное, обозначающее подвижную преграду для открывания и закрывания входа в здание или комнату",
+      "es": "Sustantivo que denota barrera móvil usada para abrir y cerrar entrada de edificio o habitación",
+      "pl": "Rzeczownik oznaczający ruchomą barierę używaną do otwierania i zamykania wejścia do budynku lub pokoju",
+      "fa": "اسمی که نشان‌دهنده مانع متحرک استفاده شده برای باز و بسته کردن ورودی ساختمان یا اتاق است"
+    },
+    "examples": {
+      "en": [
+        "I can see the door",
+        "This door is good",
+        "Where is your door?"
+      ],
+      "de": [
+        "Ich kann die Tür sehen",
+        "Diese Tür ist gut",
+        "Wo ist deine Tür?"
+      ],
+      "ar": [
+        "أنا أستطيع أن أرى الباب",
+        "هذا الباب جيد",
+        "أين بابك؟"
+      ],
+      "fr": [
+        "Je peux voir la porte",
+        "Cette porte est bonne",
+        "Où est ta porte?"
+      ],
+      "it": [
+        "Io posso vedere la porta",
+        "Questa porta è buona",
+        "Dov'è la tua porta?"
+      ],
+      "ru": [
+        "Я могу видеть дверь",
+        "Эта дверь хорошая",
+        "Где твоя дверь?"
+      ],
+      "es": [
+        "Yo puedo ver la puerta",
+        "Esta puerta es buena",
+        "¿Dónde está tu puerta?"
+      ],
+      "pl": [
+        "Ja mogę zobaczyć drzwi",
+        "Te drzwi są dobre",
+        "Gdzie są twoje drzwi?"
+      ],
+      "fa": [
+        "من می‌توانم در را ببینم",
+        "این در خوب است",
+        "در تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_190_ru",
+    "word": "комната",
+    "category": "nouns",
+    "frequency_rank": 190,
+    "level": "a1",
+    "translations": {
+      "en": "room",
+      "de": "Zimmer, Raum",
+      "ar": "غرفة",
+      "fr": "chambre, pièce",
+      "it": "camera, stanza",
+      "ru": "существительное помещения",
+      "es": "habitación, cuarto",
+      "pl": "pokój",
+      "fa": "اتاق"
+    },
+    "explanation": {
+      "en": "Noun denoting a partitioned space within a building, enclosed by walls, floor, and ceiling",
+      "de": "Substantiv für einen abgeteilten Raum in einem Gebäude, umschlossen von Wänden, Boden und Decke",
+      "ar": "اسم يدل على مساحة مقسمة داخل مبنى، محاطة بجدران وأرضية وسقف",
+      "fr": "Nom désignant espace cloisonné dans bâtiment, entouré de murs, sol et plafond",
+      "it": "Sostantivo che denota spazio suddiviso in edificio, chiuso da pareti, pavimento e soffitto",
+      "ru": "Существительное, обозначающее разделённое пространство в здании, ограниченное стенами, полом и потолком",
+      "es": "Sustantivo que denota espacio dividido dentro de edificio, encerrado por paredes, piso y techo",
+      "pl": "Rzeczownik oznaczający wydzieloną przestrzeń w budynku, otoczoną ścianami, podłogą i sufitem",
+      "fa": "اسمی که نشان‌دهنده فضای تقسیم شده در ساختمان، احاطه شده با دیوارها، کف و سقف است"
+    },
+    "examples": {
+      "en": [
+        "I am in my room",
+        "This is a good room",
+        "Where is your room?"
+      ],
+      "de": [
+        "Ich bin in meinem Zimmer",
+        "Das ist ein gutes Zimmer",
+        "Wo ist dein Zimmer?"
+      ],
+      "ar": [
+        "أنا في غرفتي",
+        "هذه غرفة جيدة",
+        "أين غرفتك؟"
+      ],
+      "fr": [
+        "Je suis dans ma chambre",
+        "C'est une bonne pièce",
+        "Où est ta chambre?"
+      ],
+      "it": [
+        "Io sono nella mia camera",
+        "Questa è una buona stanza",
+        "Dov'è la tua camera?"
+      ],
+      "ru": [
+        "Я в моей комнате",
+        "Это хорошая комната",
+        "Где твоя комната?"
+      ],
+      "es": [
+        "Yo estoy en mi habitación",
+        "Esta es una buena habitación",
+        "¿Dónde está tu habitación?"
+      ],
+      "pl": [
+        "Ja jestem w moim pokoju",
+        "To jest dobry pokój",
+        "Gdzie jest twój pokój?"
+      ],
+      "fa": [
+        "من در اتاقم هستم",
+        "این اتاق خوبی است",
+        "اتاق تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_191_ru",
+    "word": "кухня",
+    "category": "nouns",
+    "frequency_rank": 191,
+    "level": "a1",
+    "translations": {
+      "en": "kitchen",
+      "de": "Küche",
+      "ar": "مطبخ",
+      "fr": "cuisine",
+      "it": "cucina",
+      "ru": "существительное помещения",
+      "es": "cocina",
+      "pl": "kuchnia",
+      "fa": "آشپزخانه"
+    },
+    "explanation": {
+      "en": "Noun denoting a room or area where food is prepared and cooked",
+      "de": "Substantiv für einen Raum oder Bereich wo Essen zubereitet und gekocht wird",
+      "ar": "اسم يدل على غرفة أو منطقة حيث يتم إعداد الطعام وطهيه",
+      "fr": "Nom désignant pièce ou zone où nourriture est préparée et cuisinée",
+      "it": "Sostantivo che denota stanza o area dove cibo è preparato e cucinato",
+      "ru": "Существительное, обозначающее комнату или зону, где готовится и варится еда",
+      "es": "Sustantivo que denota habitación o área donde comida es preparada y cocinada",
+      "pl": "Rzeczownik oznaczający pokój lub obszar gdzie jedzenie jest przygotowywane i gotowane",
+      "fa": "اسمی که نشان‌دهنده اتاق یا ناحیه‌ای که در آن غذا آماده و پخته می‌شود است"
+    },
+    "examples": {
+      "en": [
+        "I am in the kitchen",
+        "This is a good kitchen",
+        "Where is your kitchen?"
+      ],
+      "de": [
+        "Ich bin in der Küche",
+        "Das ist eine gute Küche",
+        "Wo ist deine Küche?"
+      ],
+      "ar": [
+        "أنا في المطبخ",
+        "هذا مطبخ جيد",
+        "أين مطبخك؟"
+      ],
+      "fr": [
+        "Je suis dans la cuisine",
+        "C'est une bonne cuisine",
+        "Où est ta cuisine?"
+      ],
+      "it": [
+        "Io sono in cucina",
+        "Questa è una buona cucina",
+        "Dov'è la tua cucina?"
+      ],
+      "ru": [
+        "Я на кухне",
+        "Это хорошая кухня",
+        "Где твоя кухня?"
+      ],
+      "es": [
+        "Yo estoy en la cocina",
+        "Esta es una buena cocina",
+        "¿Dónde está tu cocina?"
+      ],
+      "pl": [
+        "Ja jestem w kuchni",
+        "To jest dobra kuchnia",
+        "Gdzie jest twoja kuchnia?"
+      ],
+      "fa": [
+        "من در آشپزخانه هستم",
+        "این آشپزخانه خوبی است",
+        "آشپزخانه تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_192_ru",
+    "word": "ванная",
+    "category": "nouns",
+    "frequency_rank": 192,
+    "level": "a1",
+    "translations": {
+      "en": "bathroom",
+      "de": "Badezimmer",
+      "ar": "حمام",
+      "fr": "salle de bain",
+      "it": "bagno",
+      "ru": "существительное помещения",
+      "es": "baño",
+      "pl": "łazienka",
+      "fa": "حمام"
+    },
+    "explanation": {
+      "en": "Noun denoting a room containing a toilet and facilities for washing oneself",
+      "de": "Substantiv für einen Raum mit Toilette und Einrichtungen zum Waschen",
+      "ar": "اسم يدل على غرفة تحتوي على مرحاض ومرافق للغسيل",
+      "fr": "Nom désignant pièce contenant toilettes et installations pour se laver",
+      "it": "Sostantivo che denota stanza contenente toilette e strutture per lavarsi",
+      "ru": "Существительное, обозначающее комнату с туалетом и средствами для мытья",
+      "es": "Sustantivo que denota habitación que contiene inodoro e instalaciones para lavarse",
+      "pl": "Rzeczownik oznaczający pokój zawierający toaletę i urządzenia do mycia się",
+      "fa": "اسمی که نشان‌دهنده اتاقی شامل توالت و تسهیلات برای شستن است"
+    },
+    "examples": {
+      "en": [
+        "I am in the bathroom",
+        "This is a good bathroom",
+        "Where is your bathroom?"
+      ],
+      "de": [
+        "Ich bin im Badezimmer",
+        "Das ist ein gutes Badezimmer",
+        "Wo ist dein Badezimmer?"
+      ],
+      "ar": [
+        "أنا في الحمام",
+        "هذا حمام جيد",
+        "أين حمامك؟"
+      ],
+      "fr": [
+        "Je suis dans la salle de bain",
+        "C'est une bonne salle de bain",
+        "Où est ta salle de bain?"
+      ],
+      "it": [
+        "Io sono in bagno",
+        "Questo è un buon bagno",
+        "Dov'è il tuo bagno?"
+      ],
+      "ru": [
+        "Я в ванной",
+        "Это хорошая ванная",
+        "Где твоя ванная?"
+      ],
+      "es": [
+        "Yo estoy en el baño",
+        "Este es un buen baño",
+        "¿Dónde está tu baño?"
+      ],
+      "pl": [
+        "Ja jestem w łazience",
+        "To jest dobra łazienka",
+        "Gdzie jest twoja łazienka?"
+      ],
+      "fa": [
+        "من در حمام هستم",
+        "این حمام خوبی است",
+        "حمام تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_193_ru",
+    "word": "спальня",
+    "category": "nouns",
+    "frequency_rank": 193,
+    "level": "a1",
+    "translations": {
+      "en": "bedroom",
+      "de": "Schlafzimmer",
+      "ar": "غرفة نوم",
+      "fr": "chambre à coucher",
+      "it": "camera da letto",
+      "ru": "существительное помещения",
+      "es": "dormitorio, recámara",
+      "pl": "sypialnia",
+      "fa": "اتاق خواب"
+    },
+    "explanation": {
+      "en": "Noun denoting a room for sleeping in, typically containing a bed",
+      "de": "Substantiv für einen Raum zum Schlafen, typischerweise mit einem Bett",
+      "ar": "اسم يدل على غرفة للنوم، تحتوي عادة على سرير",
+      "fr": "Nom désignant pièce pour dormir, contenant typiquement un lit",
+      "it": "Sostantivo che denota stanza per dormire, tipicamente contenente un letto",
+      "ru": "Существительное, обозначающее комнату для сна, обычно содержащую кровать",
+      "es": "Sustantivo que denota habitación para dormir, típicamente conteniendo una cama",
+      "pl": "Rzeczownik oznaczający pokój do spania, zazwyczaj zawierający łóżko",
+      "fa": "اسمی که نشان‌دهنده اتاق برای خوابیدن، معمولاً شامل تخت است"
+    },
+    "examples": {
+      "en": [
+        "I am in my bedroom",
+        "This is a good bedroom",
+        "Where is your bedroom?"
+      ],
+      "de": [
+        "Ich bin in meinem Schlafzimmer",
+        "Das ist ein gutes Schlafzimmer",
+        "Wo ist dein Schlafzimmer?"
+      ],
+      "ar": [
+        "أنا في غرفة نومي",
+        "هذه غرفة نوم جيدة",
+        "أين غرفة نومك؟"
+      ],
+      "fr": [
+        "Je suis dans ma chambre à coucher",
+        "C'est une bonne chambre",
+        "Où est ta chambre à coucher?"
+      ],
+      "it": [
+        "Io sono nella mia camera da letto",
+        "Questa è una buona camera da letto",
+        "Dov'è la tua camera da letto?"
+      ],
+      "ru": [
+        "Я в моей спальне",
+        "Это хорошая спальня",
+        "Где твоя спальня?"
+      ],
+      "es": [
+        "Yo estoy en mi dormitorio",
+        "Este es un buen dormitorio",
+        "¿Dónde está tu dormitorio?"
+      ],
+      "pl": [
+        "Ja jestem w mojej sypialni",
+        "To jest dobra sypialnia",
+        "Gdzie jest twoja sypialnia?"
+      ],
+      "fa": [
+        "من در اتاق خوابم هستم",
+        "این اتاق خواب خوبی است",
+        "اتاق خواب تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_194_ru",
+    "word": "улица",
+    "category": "nouns",
+    "frequency_rank": 194,
+    "level": "a1",
+    "translations": {
+      "en": "street, road",
+      "de": "Straße",
+      "ar": "شارع، طريق",
+      "fr": "rue",
+      "it": "strada, via",
+      "ru": "существительное дороги",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "explanation": {
+      "en": "Noun denoting a public road in a city or town, typically with buildings on both sides",
+      "de": "Substantiv für eine öffentliche Straße in einer Stadt, typischerweise mit Gebäuden auf beiden Seiten",
+      "ar": "اسم يدل على طريق عام في مدينة، عادة مع مبانٍ على كلا الجانبين",
+      "fr": "Nom désignant voie publique dans ville, typiquement avec bâtiments des deux côtés",
+      "it": "Sostantivo che denota strada pubblica in città, tipicamente con edifici su entrambi i lati",
+      "ru": "Существительное, обозначающее общественную дорогу в городе, обычно со зданиями по обеим сторонам",
+      "es": "Sustantivo que denota vía pública en ciudad, típicamente con edificios en ambos lados",
+      "pl": "Rzeczownik oznaczający drogę publiczną w mieście, zazwyczaj z budynkami po obu stronach",
+      "fa": "اسمی که نشان‌دهنده جاده عمومی در شهر، معمولاً با ساختمان‌ها در دو طرف است"
+    },
+    "examples": {
+      "en": [
+        "I am on the street",
+        "This is a good street",
+        "Where is your street?"
+      ],
+      "de": [
+        "Ich bin auf der Straße",
+        "Das ist eine gute Straße",
+        "Wo ist deine Straße?"
+      ],
+      "ar": [
+        "أنا في الشارع",
+        "هذا شارع جيد",
+        "أين شارعك؟"
+      ],
+      "fr": [
+        "Je suis dans la rue",
+        "C'est une bonne rue",
+        "Où est ta rue?"
+      ],
+      "it": [
+        "Io sono per strada",
+        "Questa è una buona strada",
+        "Dov'è la tua strada?"
+      ],
+      "ru": [
+        "Я на улице",
+        "Это хорошая улица",
+        "Где твоя улица?"
+      ],
+      "es": [
+        "Yo estoy en la calle",
+        "Esta es una buena calle",
+        "¿Dónde está tu calle?"
+      ],
+      "pl": [
+        "Ja jestem na ulicy",
+        "To jest dobra ulica",
+        "Gdzie jest twoja ulica?"
+      ],
+      "fa": [
+        "من در خیابان هستم",
+        "این خیابان خوبی است",
+        "خیابان تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_195_ru",
+    "word": "магазин",
+    "category": "nouns",
+    "frequency_rank": 195,
+    "level": "a1",
+    "translations": {
+      "en": "shop, store",
+      "de": "Geschäft, Laden",
+      "ar": "متجر، محل",
+      "fr": "magasin, boutique",
+      "it": "negozio",
+      "ru": "существительное торгового заведения",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "مغازه، فروشگاه"
+    },
+    "explanation": {
+      "en": "Noun denoting a building or place where goods are sold to customers",
+      "de": "Substantiv für ein Gebäude oder Ort wo Waren an Kunden verkauft werden",
+      "ar": "اسم يدل على مبنى أو مكان حيث تباع البضائع للعملاء",
+      "fr": "Nom désignant bâtiment ou lieu où marchandises sont vendues aux clients",
+      "it": "Sostantivo che denota edificio o luogo dove merci sono vendute ai clienti",
+      "ru": "Существительное, обозначающее здание или место, где товары продаются покупателям",
+      "es": "Sustantivo que denota edificio o lugar donde mercancías son vendidas a clientes",
+      "pl": "Rzeczownik oznaczający budynek lub miejsce gdzie towary są sprzedawane klientom",
+      "fa": "اسمی که نشان‌دهنده ساختمان یا مکانی که در آن کالاها به مشتریان فروخته می‌شود است"
+    },
+    "examples": {
+      "en": [
+        "I go to the shop",
+        "This is a good store",
+        "Where is your shop?"
+      ],
+      "de": [
+        "Ich gehe zum Geschäft",
+        "Das ist ein gutes Geschäft",
+        "Wo ist dein Laden?"
+      ],
+      "ar": [
+        "أنا أذهب إلى المتجر",
+        "هذا متجر جيد",
+        "أين متجرك؟"
+      ],
+      "fr": [
+        "Je vais au magasin",
+        "C'est un bon magasin",
+        "Où est ton magasin?"
+      ],
+      "it": [
+        "Io vado al negozio",
+        "Questo è un buon negozio",
+        "Dov'è il tuo negozio?"
+      ],
+      "ru": [
+        "Я иду в магазин",
+        "Это хороший магазин",
+        "Где твой магазин?"
+      ],
+      "es": [
+        "Yo voy a la tienda",
+        "Esta es una buena tienda",
+        "¿Dónde está tu tienda?"
+      ],
+      "pl": [
+        "Ja idę do sklepu",
+        "To jest dobry sklep",
+        "Gdzie jest twój sklep?"
+      ],
+      "fa": [
+        "من به مغازه می‌روم",
+        "این مغازه خوبی است",
+        "مغازه تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_196_ru",
+    "word": "ресторан",
+    "category": "nouns",
+    "frequency_rank": 196,
+    "level": "a1",
+    "translations": {
+      "en": "restaurant",
+      "de": "Restaurant",
+      "ar": "مطعم",
+      "fr": "restaurant",
+      "it": "ristorante",
+      "ru": "существительное заведения питания",
+      "es": "restaurante",
+      "pl": "restauracja",
+      "fa": "رستوران"
+    },
+    "explanation": {
+      "en": "Noun denoting a place where people pay to sit and eat meals cooked and served on the premises",
+      "de": "Substantiv für einen Ort wo Menschen bezahlen um zu sitzen und Mahlzeiten zu essen die vor Ort gekocht und serviert werden",
+      "ar": "اسم يدل على مكان حيث يدفع الناس للجلوس وتناول وجبات مطبوخة ومقدمة في المكان",
+      "fr": "Nom désignant lieu où gens paient pour s'asseoir et manger repas cuisinés et servis sur place",
+      "it": "Sostantivo che denota luogo dove persone pagano per sedersi e mangiare pasti cucinati e serviti sul posto",
+      "ru": "Существительное, обозначающее место, где люди платят, чтобы сидеть и есть блюда, приготовленные и поданные на месте",
+      "es": "Sustantivo que denota lugar donde personas pagan para sentarse y comer comidas cocinadas y servidas en el local",
+      "pl": "Rzeczownik oznaczający miejsce gdzie ludzie płacą aby usiąść i jeść posiłki gotowane i podawane na miejscu",
+      "fa": "اسمی که نشان‌دهنده مکانی که در آن مردم پول می‌پردازند تا بنشینند و غذاهای پخته شده و سرو شده در محل را بخورند است"
+    },
+    "examples": {
+      "en": [
+        "I go to the restaurant",
+        "This is a good restaurant",
+        "Where is your restaurant?"
+      ],
+      "de": [
+        "Ich gehe zum Restaurant",
+        "Das ist ein gutes Restaurant",
+        "Wo ist dein Restaurant?"
+      ],
+      "ar": [
+        "أنا أذهب إلى المطعم",
+        "هذا مطعم جيد",
+        "أين مطعمك؟"
+      ],
+      "fr": [
+        "Je vais au restaurant",
+        "C'est un bon restaurant",
+        "Où est ton restaurant?"
+      ],
+      "it": [
+        "Io vado al ristorante",
+        "Questo è un buon ristorante",
+        "Dov'è il tuo ristorante?"
+      ],
+      "ru": [
+        "Я иду в ресторан",
+        "Это хороший ресторан",
+        "Где твой ресторан?"
+      ],
+      "es": [
+        "Yo voy al restaurante",
+        "Este es un buen restaurante",
+        "¿Dónde está tu restaurante?"
+      ],
+      "pl": [
+        "Ja idę do restauracji",
+        "To jest dobra restauracja",
+        "Gdzie jest twoja restauracja?"
+      ],
+      "fa": [
+        "من به رستوران می‌روم",
+        "این رستوران خوبی است",
+        "رستوران تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_197_ru",
+    "word": "кафе",
+    "category": "nouns",
+    "frequency_rank": 197,
+    "level": "a1",
+    "translations": {
+      "en": "cafe, coffee shop",
+      "de": "Café, Kaffeehaus",
+      "ar": "مقهى",
+      "fr": "café",
+      "it": "caffè",
+      "ru": "существительное заведения питания",
+      "es": "café, cafetería",
+      "pl": "kawiarnia",
+      "fa": "کافه، قهوه‌خانه"
+    },
+    "explanation": {
+      "en": "Noun denoting a small restaurant selling light meals, coffee, and other refreshments",
+      "de": "Substantiv für ein kleines Restaurant das leichte Mahlzeiten, Kaffee und andere Erfrischungen verkauft",
+      "ar": "اسم يدل على مطعم صغير يبيع وجبات خفيفة وقهوة ومشروبات أخرى",
+      "fr": "Nom désignant petit restaurant vendant repas légers, café et autres rafraîchissements",
+      "it": "Sostantivo che denota piccolo ristorante che vende pasti leggeri, caffè e altri rinfreschi",
+      "ru": "Существительное, обозначающее небольшой ресторан, продающий лёгкие блюда, кофе и другие напитки",
+      "es": "Sustantivo que denota pequeño restaurante que vende comidas ligeras, café y otros refrescos",
+      "pl": "Rzeczownik oznaczający małą restaurację sprzedającą lekkie posiłki, kawę i inne napoje",
+      "fa": "اسمی که نشان‌دهنده رستوران کوچک فروشنده غذاهای سبک، قهوه و نوشیدنی‌های دیگر است"
+    },
+    "examples": {
+      "en": [
+        "I go to the cafe",
+        "This is a good cafe",
+        "Where is your coffee shop?"
+      ],
+      "de": [
+        "Ich gehe zum Café",
+        "Das ist ein gutes Café",
+        "Wo ist dein Kaffeehaus?"
+      ],
+      "ar": [
+        "أنا أذهب إلى المقهى",
+        "هذا مقهى جيد",
+        "أين مقهاك؟"
+      ],
+      "fr": [
+        "Je vais au café",
+        "C'est un bon café",
+        "Où est ton café?"
+      ],
+      "it": [
+        "Io vado al caffè",
+        "Questo è un buon caffè",
+        "Dov'è il tuo caffè?"
+      ],
+      "ru": [
+        "Я иду в кафе",
+        "Это хорошее кафе",
+        "Где твоё кафе?"
+      ],
+      "es": [
+        "Yo voy al café",
+        "Este es un buen café",
+        "¿Dónde está tu cafetería?"
+      ],
+      "pl": [
+        "Ja idę do kawiarni",
+        "To jest dobra kawiarnia",
+        "Gdzie jest twoja kawiarnia?"
+      ],
+      "fa": [
+        "من به کافه می‌روم",
+        "این کافه خوبی است",
+        "کافه تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_198_ru",
+    "word": "парк",
+    "category": "nouns",
+    "frequency_rank": 198,
+    "level": "a1",
+    "translations": {
+      "en": "park",
+      "de": "Park",
+      "ar": "حديقة، منتزه",
+      "fr": "parc",
+      "it": "parco",
+      "ru": "существительное зоны отдыха",
+      "es": "parque",
+      "pl": "park",
+      "fa": "پارک"
+    },
+    "explanation": {
+      "en": "Noun denoting a large public area of land with grass and trees for recreation",
+      "de": "Substantiv für eine große öffentliche Landfläche mit Gras und Bäumen zur Erholung",
+      "ar": "اسم يدل على منطقة عامة كبيرة من الأرض مع عشب وأشجار للترفيه",
+      "fr": "Nom désignant grande zone publique de terre avec herbe et arbres pour récréation",
+      "it": "Sostantivo che denota grande area pubblica di terra con erba e alberi per ricreazione",
+      "ru": "Существительное, обозначающее большую общественную территорию с травой и деревьями для отдыха",
+      "es": "Sustantivo que denota gran área pública de tierra con césped y árboles para recreación",
+      "pl": "Rzeczownik oznaczający duży publiczny obszar ziemi z trawą i drzewami do rekreacji",
+      "fa": "اسمی که نشان‌دهنده منطقه عمومی بزرگ زمین با چمن و درختان برای تفریح است"
+    },
+    "examples": {
+      "en": [
+        "I go to the park",
+        "This is a good park",
+        "Where is your park?"
+      ],
+      "de": [
+        "Ich gehe zum Park",
+        "Das ist ein guter Park",
+        "Wo ist dein Park?"
+      ],
+      "ar": [
+        "أنا أذهب إلى الحديقة",
+        "هذا منتزه جيد",
+        "أين حديقتك؟"
+      ],
+      "fr": [
+        "Je vais au parc",
+        "C'est un bon parc",
+        "Où est ton parc?"
+      ],
+      "it": [
+        "Io vado al parco",
+        "Questo è un buon parco",
+        "Dov'è il tuo parco?"
+      ],
+      "ru": [
+        "Я иду в парк",
+        "Это хороший парк",
+        "Где твой парк?"
+      ],
+      "es": [
+        "Yo voy al parque",
+        "Este es un buen parque",
+        "¿Dónde está tu parque?"
+      ],
+      "pl": [
+        "Ja idę do parku",
+        "To jest dobry park",
+        "Gdzie jest twój park?"
+      ],
+      "fa": [
+        "من به پارک می‌روم",
+        "این پارک خوبی است",
+        "پارک تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_199_ru",
+    "word": "площадь",
+    "category": "nouns",
+    "frequency_rank": 199,
+    "level": "a1",
+    "translations": {
+      "en": "square, plaza",
+      "de": "Platz",
+      "ar": "ساحة، ميدان",
+      "fr": "place",
+      "it": "piazza",
+      "ru": "существительное городского пространства",
+      "es": "plaza",
+      "pl": "plac",
+      "fa": "میدان"
+    },
+    "explanation": {
+      "en": "Noun denoting an open public area in a city or town, often surrounded by buildings",
+      "de": "Substantiv für einen offenen öffentlichen Bereich in einer Stadt, oft umgeben von Gebäuden",
+      "ar": "اسم يدل على منطقة عامة مفتوحة في مدينة، غالباً محاطة بمبانٍ",
+      "fr": "Nom désignant zone publique ouverte dans ville, souvent entourée de bâtiments",
+      "it": "Sostantivo che denota area pubblica aperta in città, spesso circondata da edifici",
+      "ru": "Существительное, обозначающее открытое общественное пространство в городе, часто окружённое зданиями",
+      "es": "Sustantivo que denota área pública abierta en ciudad, a menudo rodeada de edificios",
+      "pl": "Rzeczownik oznaczający otwarty obszar publiczny w mieście, często otoczony budynkami",
+      "fa": "اسمی که نشان‌دهنده منطقه عمومی باز در شهر، اغلب احاطه شده با ساختمان‌ها است"
+    },
+    "examples": {
+      "en": [
+        "I am at the square",
+        "This is a good plaza",
+        "Where is your square?"
+      ],
+      "de": [
+        "Ich bin auf dem Platz",
+        "Das ist ein guter Platz",
+        "Wo ist dein Platz?"
+      ],
+      "ar": [
+        "أنا في الساحة",
+        "هذا ميدان جيد",
+        "أين ساحتك؟"
+      ],
+      "fr": [
+        "Je suis sur la place",
+        "C'est une bonne place",
+        "Où est ta place?"
+      ],
+      "it": [
+        "Io sono in piazza",
+        "Questa è una buona piazza",
+        "Dov'è la tua piazza?"
+      ],
+      "ru": [
+        "Я на площади",
+        "Это хорошая площадь",
+        "Где твоя площадь?"
+      ],
+      "es": [
+        "Yo estoy en la plaza",
+        "Esta es una buena plaza",
+        "¿Dónde está tu plaza?"
+      ],
+      "pl": [
+        "Ja jestem na placu",
+        "To jest dobry plac",
+        "Gdzie jest twój plac?"
+      ],
+      "fa": [
+        "من در میدان هستم",
+        "این میدان خوبی است",
+        "میدان تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_200_ru",
+    "word": "театр",
+    "category": "nouns",
+    "frequency_rank": 200,
+    "level": "a1",
+    "translations": {
+      "en": "theater, theatre",
+      "de": "Theater",
+      "ar": "مسرح",
+      "fr": "théâtre",
+      "it": "teatro",
+      "ru": "существительное культурного заведения",
+      "es": "teatro",
+      "pl": "teatr",
+      "fa": "تئاتر"
+    },
+    "explanation": {
+      "en": "Noun denoting a building or venue where plays and performances are presented to an audience",
+      "de": "Substantiv für ein Gebäude oder Veranstaltungsort wo Theaterstücke und Aufführungen einem Publikum präsentiert werden",
+      "ar": "اسم يدل على مبنى أو مكان حيث تقدم المسرحيات والعروض للجمهور",
+      "fr": "Nom désignant bâtiment ou lieu où pièces et spectacles sont présentés à un public",
+      "it": "Sostantivo che denota edificio o luogo dove opere e spettacoli sono presentati a un pubblico",
+      "ru": "Существительное, обозначающее здание или место, где пьесы и представления показываются публике",
+      "es": "Sustantivo que denota edificio o lugar donde obras y actuaciones son presentadas a una audiencia",
+      "pl": "Rzeczownik oznaczający budynek lub miejsce gdzie sztuki i przedstawienia są prezentowane publiczności",
+      "fa": "اسمی که نشان‌دهنده ساختمان یا مکانی که در آن نمایش‌ها و اجراها به تماشاگران ارائه می‌شود است"
+    },
+    "examples": {
+      "en": [
+        "I go to the theater",
+        "This is a good theater",
+        "Where is your theater?"
+      ],
+      "de": [
+        "Ich gehe zum Theater",
+        "Das ist ein gutes Theater",
+        "Wo ist dein Theater?"
+      ],
+      "ar": [
+        "أنا أذهب إلى المسرح",
+        "هذا مسرح جيد",
+        "أين مسرحك؟"
+      ],
+      "fr": [
+        "Je vais au théâtre",
+        "C'est un bon théâtre",
+        "Où est ton théâtre?"
+      ],
+      "it": [
+        "Io vado a teatro",
+        "Questo è un buon teatro",
+        "Dov'è il tuo teatro?"
+      ],
+      "ru": [
+        "Я иду в театр",
+        "Это хороший театр",
+        "Где твой театр?"
+      ],
+      "es": [
+        "Yo voy al teatro",
+        "Este es un buen teatro",
+        "¿Dónde está tu teatro?"
+      ],
+      "pl": [
+        "Ja idę do teatru",
+        "To jest dobry teatr",
+        "Gdzie jest twój teatr?"
+      ],
+      "fa": [
+        "من به تئاتر می‌روم",
+        "این تئاتر خوبی است",
+        "تئاتر تو کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  }
+]
