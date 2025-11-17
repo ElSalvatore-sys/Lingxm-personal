@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_341_es",
+    "word": "calle",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "street",
+      "de": "Straße",
+      "ar": "شارع",
+      "fr": "rue",
+      "it": "strada, via",
+      "ru": "улица",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "explanations": {
+      "en": "Noun referring to a public road in a city or town",
+      "de": "Substantiv, das eine öffentliche Straße in einer Stadt bezeichnet",
+      "ar": "اسم يشير إلى طريق عام في مدينة أو بلدة",
+      "fr": "Nom désignant une voie publique dans une ville",
+      "it": "Nome che si riferisce a una via pubblica in una città",
+      "ru": "Существительное, обозначающее общественную дорогу в городе",
+      "es": "Sustantivo que se refiere a una vía pública en una ciudad o pueblo",
+      "pl": "Rzeczownik odnoszący się do drogi publicznej w mieście",
+      "fa": "اسمی که به جاده عمومی در شهر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I live on street", "This street is busy", "What street is this?"],
+      "de": ["Ich wohne in Straße", "Diese Straße ist belebt", "Was für Straße ist?"],
+      "ar": ["أسكن في شارع", "هذا الشارع مزدحم", "ما هذا الشارع؟"],
+      "fr": ["J'habite dans la rue", "Cette rue est animée", "Quelle rue est-ce?"],
+      "it": ["Vivo in questa strada", "Questa strada è affollata", "Che strada è questa?"],
+      "ru": ["Я живу на улице", "Эта улица оживленная", "Какая это улица?"],
+      "es": ["Vivo en esta calle", "Esta calle está concurrida", "¿Qué calle es esta?"],
+      "pl": ["Mieszkam na ulicy", "Ta ulica jest ruchliwa", "Co to za ulica?"],
+      "fa": ["در این خیابان زندگی می‌کنم", "این خیابان شلوغ است", "این کدام خیابان است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_342_es",
+    "word": "plaza",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "square, plaza",
+      "de": "Platz",
+      "ar": "ساحة",
+      "fr": "place",
+      "it": "piazza",
+      "ru": "площадь",
+      "es": "plaza",
+      "pl": "plac",
+      "fa": "میدان"
+    },
+    "explanations": {
+      "en": "Noun referring to an open public area in a city",
+      "de": "Substantiv, das einen offenen öffentlichen Bereich in einer Stadt bezeichnet",
+      "ar": "اسم يشير إلى منطقة عامة مفتوحة في مدينة",
+      "fr": "Nom désignant un espace public ouvert dans une ville",
+      "it": "Nome che si riferisce a un'area pubblica aperta in una città",
+      "ru": "Существительное, обозначающее открытую общественную территорию в городе",
+      "es": "Sustantivo que se refiere a un área pública abierta en una ciudad",
+      "pl": "Rzeczownik odnoszący się do otwartego obszaru publicznego w mieście",
+      "fa": "اسمی که به فضای عمومی باز در شهر اشاره دارد"
+    },
+    "examples": {
+      "en": ["Meet me at square", "The plaza is beautiful", "I walk in plaza"],
+      "de": ["Triff mich am Platz", "Der Platz ist schön", "Ich gehe auf Platz"],
+      "ar": ["قابلني في الساحة", "الساحة جميلة", "أمشي في الساحة"],
+      "fr": ["Retrouve-moi sur la place", "La place est belle", "Je marche sur place"],
+      "it": ["Incontrami in piazza", "La piazza è bella", "Cammino in piazza"],
+      "ru": ["Встреть меня на площади", "Площадь красивая", "Я гуляю на площади"],
+      "es": ["Nos vemos en plaza", "La plaza es hermosa", "Camino por la plaza"],
+      "pl": ["Spotkaj mnie na placu", "Plac jest piękny", "Chodzę po placu"],
+      "fa": ["در میدان ملاقات کن", "میدان زیباست", "در میدان قدم می‌زنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_343_es",
+    "word": "parque",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "park",
+      "de": "Park",
+      "ar": "حديقة عامة",
+      "fr": "parc",
+      "it": "parco",
+      "ru": "парк",
+      "es": "parque",
+      "pl": "park",
+      "fa": "پارک"
+    },
+    "explanations": {
+      "en": "Noun referring to a public area with trees and grass for recreation",
+      "de": "Substantiv, das einen öffentlichen Bereich mit Bäumen und Gras zur Erholung bezeichnet",
+      "ar": "اسم يشير إلى منطقة عامة بها أشجار وعشب للترفيه",
+      "fr": "Nom désignant un espace public avec des arbres et de l'herbe pour les loisirs",
+      "it": "Nome che si riferisce a un'area pubblica con alberi e erba per lo svago",
+      "ru": "Существительное, обозначающее общественную территорию с деревьями и травой для отдыха",
+      "es": "Sustantivo que se refiere a un área pública con árboles y césped para recreación",
+      "pl": "Rzeczownik odnoszący się do obszaru publicznego z drzewami i trawą do rekreacji",
+      "fa": "اسمی که به فضای عمومی با درخت و چمن برای تفریح اشاره دارد"
+    },
+    "examples": {
+      "en": ["I walk in park", "The park is green", "Children play at park"],
+      "de": ["Ich gehe im Park", "Der Park ist grün", "Kinder spielen im Park"],
+      "ar": ["أمشي في الحديقة", "الحديقة خضراء", "الأطفال يلعبون في الحديقة"],
+      "fr": ["Je marche au parc", "Le parc est vert", "Les enfants jouent au parc"],
+      "it": ["Cammino nel parco", "Il parco è verde", "I bambini giocano al parco"],
+      "ru": ["Я гуляю в парке", "Парк зеленый", "Дети играют в парке"],
+      "es": ["Camino en el parque", "El parque es verde", "Los niños juegan aquí"],
+      "pl": ["Chodzę w parku", "Park jest zielony", "Dzieci bawią się w parku"],
+      "fa": ["در پارک قدم می‌زنم", "پارک سبز است", "بچه‌ها در پارک بازی می‌کنند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_344_es",
+    "word": "museo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "museum",
+      "de": "Museum",
+      "ar": "متحف",
+      "fr": "musée",
+      "it": "museo",
+      "ru": "музей",
+      "es": "museo",
+      "pl": "muzeum",
+      "fa": "موزه"
+    },
+    "explanations": {
+      "en": "Noun referring to a building displaying historical or artistic objects",
+      "de": "Substantiv, das ein Gebäude bezeichnet, das historische oder künstlerische Objekte ausstellt",
+      "ar": "اسم يشير إلى مبنى يعرض أشياء تاريخية أو فنية",
+      "fr": "Nom désignant un bâtiment exposant des objets historiques ou artistiques",
+      "it": "Nome che si riferisce a un edificio che espone oggetti storici o artistici",
+      "ru": "Существительное, обозначающее здание, выставляющее исторические или художественные объекты",
+      "es": "Sustantivo que se refiere a un edificio que exhibe objetos históricos o artísticos",
+      "pl": "Rzeczownik odnoszący się do budynku wystawiającego obiekty historyczne lub artystyczne",
+      "fa": "اسمی که به ساختمانی که اشیاء تاریخی یا هنری نمایش می‌دهد اشاره دارد"
+    },
+    "examples": {
+      "en": ["I visit the museum", "This museum is interesting", "Where is art museum?"],
+      "de": ["Ich besuche das Museum", "Dieses Museum ist interessant", "Wo ist Kunstmuseum?"],
+      "ar": ["أزور المتحف", "هذا المتحف مثير", "أين المتحف الفني؟"],
+      "fr": ["Je visite le musée", "Ce musée est intéressant", "Où est le musée?"],
+      "it": ["Visito il museo", "Questo museo è interessante", "Dov'è il museo d'arte?"],
+      "ru": ["Я посещаю музей", "Этот музей интересный", "Где музей искусств?"],
+      "es": ["Visito el museo", "Este museo es interesante", "¿Dónde está el museo?"],
+      "pl": ["Odwiedzam muzeum", "To muzeum jest ciekawe", "Gdzie jest muzeum sztuki?"],
+      "fa": ["از موزه دیدن می‌کنم", "این موزه جالب است", "موزه هنر کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_345_es",
+    "word": "teatro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "theater, theatre",
+      "de": "Theater",
+      "ar": "مسرح",
+      "fr": "théâtre",
+      "it": "teatro",
+      "ru": "театр",
+      "es": "teatro",
+      "pl": "teatr",
+      "fa": "تئاتر"
+    },
+    "explanations": {
+      "en": "Noun referring to a building where plays and performances are shown",
+      "de": "Substantiv, das ein Gebäude bezeichnet, in dem Theaterstücke und Aufführungen gezeigt werden",
+      "ar": "اسم يشير إلى مبنى يتم فيه عرض المسرحيات والعروض",
+      "fr": "Nom désignant un bâtiment où sont présentées des pièces et des spectacles",
+      "it": "Nome che si riferisce a un edificio dove si rappresentano opere e spettacoli",
+      "ru": "Существительное, обозначающее здание, где показывают пьесы и представления",
+      "es": "Sustantivo que se refiere a un edificio donde se presentan obras y espectáculos",
+      "pl": "Rzeczownik odnoszący się do budynku, gdzie wystawiane są sztuki i przedstawienia",
+      "fa": "اسمی که به ساختمانی که نمایش‌ها در آن اجرا می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to theater", "The theater is full", "I like live theater"],
+      "de": ["Ich gehe ins Theater", "Das Theater ist voll", "Ich mag Live-Theater"],
+      "ar": ["أذهب إلى المسرح", "المسرح ممتلئ", "أحب المسرح الحي"],
+      "fr": ["Je vais au théâtre", "Le théâtre est plein", "J'aime le théâtre vivant"],
+      "it": ["Vado a teatro", "Il teatro è pieno", "Mi piace teatro dal vivo"],
+      "ru": ["Я иду в театр", "Театр полон", "Я люблю живой театр"],
+      "es": ["Voy al teatro", "El teatro está lleno", "Me gusta el teatro"],
+      "pl": ["Idę do teatru", "Teatr jest pełny", "Lubię teatr na żywo"],
+      "fa": ["به تئاتر می‌روم", "تئاتر پر است", "تئاتر زنده دوست دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_346_es",
+    "word": "cine",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cinema, movie theater",
+      "de": "Kino",
+      "ar": "سينما",
+      "fr": "cinéma",
+      "it": "cinema",
+      "ru": "кинотеатр",
+      "es": "cine",
+      "pl": "kino",
+      "fa": "سینما"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where movies are shown",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Filme gezeigt werden",
+      "ar": "اسم يشير إلى مكان يتم فيه عرض الأفلام",
+      "fr": "Nom désignant un lieu où les films sont projetés",
+      "it": "Nome che si riferisce a un luogo dove vengono proiettati film",
+      "ru": "Существительное, обозначающее место, где показывают фильмы",
+      "es": "Sustantivo que se refiere a un lugar donde se proyectan películas",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie wyświetlane są filmy",
+      "fa": "اسمی که به مکانی که فیلم‌ها نمایش داده می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to cinema", "The movie is good", "Cinema is near here"],
+      "de": ["Ich gehe ins Kino", "Der Film ist gut", "Kino ist hier nah"],
+      "ar": ["أذهب إلى السينما", "الفيلم جيد", "السينما قريبة من هنا"],
+      "fr": ["Je vais au cinéma", "Le film est bon", "Le cinéma est proche"],
+      "it": ["Vado al cinema", "Il film è buono", "Il cinema è vicino"],
+      "ru": ["Я иду в кино", "Фильм хороший", "Кинотеатр рядом"],
+      "es": ["Voy al cine", "La película es buena", "El cine está cerca"],
+      "pl": ["Idę do kina", "Film jest dobry", "Kino jest blisko"],
+      "fa": ["به سینما می‌روم", "فیلم خوب است", "سینما نزدیک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_347_es",
+    "word": "iglesia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "church",
+      "de": "Kirche",
+      "ar": "كنيسة",
+      "fr": "église",
+      "it": "chiesa",
+      "ru": "церковь",
+      "es": "iglesia",
+      "pl": "kościół",
+      "fa": "کلیسا"
+    },
+    "explanations": {
+      "en": "Noun referring to a Christian place of worship",
+      "de": "Substantiv, das einen christlichen Ort der Anbetung bezeichnet",
+      "ar": "اسم يشير إلى مكان عبادة مسيحي",
+      "fr": "Nom désignant un lieu de culte chrétien",
+      "it": "Nome che si riferisce a un luogo di culto cristiano",
+      "ru": "Существительное, обозначающее христианское место поклонения",
+      "es": "Sustantivo que se refiere a un lugar de culto cristiano",
+      "pl": "Rzeczownik odnoszący się do chrześcijańskiego miejsca kultu",
+      "fa": "اسمی که به محل عبادت مسیحیان اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to church", "The church is old", "This church is beautiful"],
+      "de": ["Ich gehe zur Kirche", "Die Kirche ist alt", "Diese Kirche ist schön"],
+      "ar": ["أذهب إلى الكنيسة", "الكنيسة قديمة", "هذه الكنيسة جميلة"],
+      "fr": ["Je vais à l'église", "L'église est ancienne", "Cette église est belle"],
+      "it": ["Vado in chiesa", "La chiesa è antica", "Questa chiesa è bella"],
+      "ru": ["Я иду в церковь", "Церковь старая", "Эта церковь красивая"],
+      "es": ["Voy a la iglesia", "La iglesia es antigua", "Esta iglesia es hermosa"],
+      "pl": ["Idę do kościoła", "Kościół jest stary", "Ten kościół jest piękny"],
+      "fa": ["به کلیسا می‌روم", "کلیسا قدیمی است", "این کلیسا زیباست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_348_es",
+    "word": "escuela",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "school",
+      "de": "Schule",
+      "ar": "مدرسة",
+      "fr": "école",
+      "it": "scuola",
+      "ru": "школа",
+      "es": "escuela",
+      "pl": "szkoła",
+      "fa": "مدرسه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where children learn",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Kinder lernen",
+      "ar": "اسم يشير إلى مكان يتعلم فيه الأطفال",
+      "fr": "Nom désignant un lieu où les enfants apprennent",
+      "it": "Nome che si riferisce a un luogo dove i bambini imparano",
+      "ru": "Существительное, обозначающее место, где дети учатся",
+      "es": "Sustantivo que se refiere a un lugar donde los niños aprenden",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie dzieci się uczą",
+      "fa": "اسمی که به مکانی که بچه‌ها در آن یاد می‌گیرند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to school", "My school is big", "Children study at school"],
+      "de": ["Ich gehe zur Schule", "Meine Schule ist groß", "Kinder lernen in Schule"],
+      "ar": ["أذهب إلى المدرسة", "مدرستي كبيرة", "الأطفال يدرسون في المدرسة"],
+      "fr": ["Je vais à l'école", "Mon école est grande", "Les enfants étudient à l'école"],
+      "it": ["Vado a scuola", "La mia scuola è grande", "I bambini studiano a scuola"],
+      "ru": ["Я иду в школу", "Моя школа большая", "Дети учатся в школе"],
+      "es": ["Voy a la escuela", "Mi escuela es grande", "Los niños estudian aquí"],
+      "pl": ["Idę do szkoły", "Moja szkoła jest duża", "Dzieci uczą się w szkole"],
+      "fa": ["به مدرسه می‌روم", "مدرسه من بزرگ است", "بچه‌ها در مدرسه درس می‌خوانند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_349_es",
+    "word": "universidad",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "university",
+      "de": "Universität",
+      "ar": "جامعة",
+      "fr": "université",
+      "it": "università",
+      "ru": "университет",
+      "es": "universidad",
+      "pl": "uniwersytet",
+      "fa": "دانشگاه"
+    },
+    "explanations": {
+      "en": "Noun referring to an institution of higher education",
+      "de": "Substantiv, das eine Einrichtung der höheren Bildung bezeichnet",
+      "ar": "اسم يشير إلى مؤسسة للتعليم العالي",
+      "fr": "Nom désignant une institution d'enseignement supérieur",
+      "it": "Nome che si riferisce a un'istituzione di istruzione superiore",
+      "ru": "Существительное, обозначающее учреждение высшего образования",
+      "es": "Sustantivo que se refiere a una institución de educación superior",
+      "pl": "Rzeczownik odnoszący się do instytucji szkolnictwa wyższego",
+      "fa": "اسمی که به موسسه آموزش عالی اشاره دارد"
+    },
+    "examples": {
+      "en": ["I study at university", "This university is famous", "I want to university"],
+      "de": ["Ich studiere an Universität", "Diese Universität ist berühmt", "Ich will zur Universität"],
+      "ar": ["أدرس في الجامعة", "هذه الجامعة مشهورة", "أريد الذهاب للجامعة"],
+      "fr": ["J'étudie à l'université", "Cette université est célèbre", "Je veux aller université"],
+      "it": ["Studio all'università", "Questa università è famosa", "Voglio andare all'università"],
+      "ru": ["Я учусь в университете", "Этот университет знаменит", "Я хочу в университет"],
+      "es": ["Estudio en la universidad", "Esta universidad es famosa", "Quiero ir a universidad"],
+      "pl": ["Studiuję na uniwersytecie", "Ten uniwersytet jest sławny", "Chcę na uniwersytet"],
+      "fa": ["در دانشگاه درس می‌خوانم", "این دانشگاه معروف است", "می‌خواهم به دانشگاه بروم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_350_es",
+    "word": "biblioteca",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "library",
+      "de": "Bibliothek",
+      "ar": "مكتبة",
+      "fr": "bibliothèque",
+      "it": "biblioteca",
+      "ru": "библиотека",
+      "es": "biblioteca",
+      "pl": "biblioteka",
+      "fa": "کتابخانه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place containing books for reading or borrowing",
+      "de": "Substantiv, das einen Ort bezeichnet, der Bücher zum Lesen oder Ausleihen enthält",
+      "ar": "اسم يشير إلى مكان يحتوي على كتب للقراءة أو الاستعارة",
+      "fr": "Nom désignant un lieu contenant des livres à lire ou emprunter",
+      "it": "Nome che si riferisce a un luogo contenente libri da leggere o prendere in prestito",
+      "ru": "Существительное, обозначающее место с книгами для чтения или заимствования",
+      "es": "Sustantivo que se refiere a un lugar que contiene libros para leer o prestar",
+      "pl": "Rzeczownik odnoszący się do miejsca zawierającego książki do czytania lub wypożyczania",
+      "fa": "اسمی که به مکانی که کتاب برای خواندن یا قرض گرفتن دارد اشاره دارد"
+    },
+    "examples": {
+      "en": ["I study at library", "The library is quiet", "I borrow books here"],
+      "de": ["Ich lerne in Bibliothek", "Die Bibliothek ist ruhig", "Ich leihe Bücher hier"],
+      "ar": ["أدرس في المكتبة", "المكتبة هادئة", "أستعير كتباً هنا"],
+      "fr": ["J'étudie à la bibliothèque", "La bibliothèque est calme", "J'emprunte livres ici"],
+      "it": ["Studio in biblioteca", "La biblioteca è tranquilla", "Prendo libri in prestito"],
+      "ru": ["Я учусь в библиотеке", "Библиотека тихая", "Я беру книги здесь"],
+      "es": ["Estudio en la biblioteca", "La biblioteca está tranquila", "Tomo libros prestados aquí"],
+      "pl": ["Uczę się w bibliotece", "Biblioteka jest cicha", "Wypożyczam książki tutaj"],
+      "fa": ["در کتابخانه درس می‌خوانم", "کتابخانه آرام است", "اینجا کتاب قرض می‌گیرم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_351_es",
+    "word": "mercado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "market",
+      "de": "Markt",
+      "ar": "سوق",
+      "fr": "marché",
+      "it": "mercato",
+      "ru": "рынок",
+      "es": "mercado",
+      "pl": "targ, rynek",
+      "fa": "بازار"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where goods are bought and sold",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Waren gekauft und verkauft werden",
+      "ar": "اسم يشير إلى مكان يتم فيه شراء وبيع البضائع",
+      "fr": "Nom désignant un lieu où les marchandises sont achetées et vendues",
+      "it": "Nome che si riferisce a un luogo dove si comprano e vendono merci",
+      "ru": "Существительное, обозначающее место, где покупают и продают товары",
+      "es": "Sustantivo que se refiere a un lugar donde se compran y venden productos",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie kupuje się i sprzedaje towary",
+      "fa": "اسمی که به مکانی که کالاها خرید و فروش می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I buy at market", "The market is open", "Fresh food at market"],
+      "de": ["Ich kaufe auf Markt", "Der Markt ist offen", "Frisches Essen auf Markt"],
+      "ar": ["أشتري في السوق", "السوق مفتوح", "طعام طازج في السوق"],
+      "fr": ["J'achète au marché", "Le marché est ouvert", "Nourriture fraîche au marché"],
+      "it": ["Compro al mercato", "Il mercato è aperto", "Cibo fresco al mercato"],
+      "ru": ["Я покупаю на рынке", "Рынок открыт", "Свежая еда на рынке"],
+      "es": ["Compro en el mercado", "El mercado está abierto", "Comida fresca en mercado"],
+      "pl": ["Kupuję na targu", "Targ jest otwarty", "Świeże jedzenie na targu"],
+      "fa": ["در بازار می‌خرم", "بازار باز است", "غذای تازه در بازار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_352_es",
+    "word": "centro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "center, downtown",
+      "de": "Zentrum, Innenstadt",
+      "ar": "مركز، وسط المدينة",
+      "fr": "centre, centre-ville",
+      "it": "centro",
+      "ru": "центр",
+      "es": "centro",
+      "pl": "centrum",
+      "fa": "مرکز"
+    },
+    "explanations": {
+      "en": "Noun referring to the middle or main part of a city",
+      "de": "Substantiv, das die Mitte oder den Hauptteil einer Stadt bezeichnet",
+      "ar": "اسم يشير إلى الوسط أو الجزء الرئيسي من المدينة",
+      "fr": "Nom désignant le milieu ou la partie principale d'une ville",
+      "it": "Nome che si riferisce al centro o alla parte principale di una città",
+      "ru": "Существительное, обозначающее середину или главную часть города",
+      "es": "Sustantivo que se refiere al medio o parte principal de una ciudad",
+      "pl": "Rzeczownik odnoszący się do środka lub głównej części miasta",
+      "fa": "اسمی که به وسط یا بخش اصلی شهر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I live in center", "The center is busy", "I go to downtown"],
+      "de": ["Ich wohne im Zentrum", "Das Zentrum ist belebt", "Ich gehe ins Zentrum"],
+      "ar": ["أسكن في المركز", "المركز مزدحم", "أذهب إلى وسط المدينة"],
+      "fr": ["J'habite au centre", "Le centre est animé", "Je vais au centre-ville"],
+      "it": ["Vivo in centro", "Il centro è affollato", "Vado in centro"],
+      "ru": ["Я живу в центре", "Центр оживленный", "Я еду в центр"],
+      "es": ["Vivo en el centro", "El centro está concurrido", "Voy al centro"],
+      "pl": ["Mieszkam w centrum", "Centrum jest ruchliwe", "Jadę do centrum"],
+      "fa": ["در مرکز زندگی می‌کنم", "مرکز شلوغ است", "به مرکز می‌روم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_353_es",
+    "word": "norte",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "north",
+      "de": "Norden",
+      "ar": "شمال",
+      "fr": "nord",
+      "it": "nord",
+      "ru": "север",
+      "es": "norte",
+      "pl": "północ",
+      "fa": "شمال"
+    },
+    "explanations": {
+      "en": "Noun referring to the direction toward the top of a map",
+      "de": "Substantiv, das die Richtung nach oben auf einer Karte bezeichnet",
+      "ar": "اسم يشير إلى الاتجاه نحو أعلى الخريطة",
+      "fr": "Nom désignant la direction vers le haut d'une carte",
+      "it": "Nome che si riferisce alla direzione verso l'alto di una mappa",
+      "ru": "Существительное, обозначающее направление к верху карты",
+      "es": "Sustantivo que se refiere a la dirección hacia arriba del mapa",
+      "pl": "Rzeczownik odnoszący się do kierunku w górę mapy",
+      "fa": "اسمی که به جهت بالای نقشه اشاره دارد"
+    },
+    "examples": {
+      "en": ["Go to the north", "North is cold", "I live in north"],
+      "de": ["Geh nach Norden", "Norden ist kalt", "Ich wohne im Norden"],
+      "ar": ["اذهب إلى الشمال", "الشمال بارد", "أسكن في الشمال"],
+      "fr": ["Va vers le nord", "Le nord est froid", "J'habite au nord"],
+      "it": ["Vai a nord", "Il nord è freddo", "Vivo al nord"],
+      "ru": ["Иди на север", "Север холодный", "Я живу на севере"],
+      "es": ["Ve hacia el norte", "El norte es frío", "Vivo en el norte"],
+      "pl": ["Idź na północ", "Północ jest zimna", "Mieszkam na północy"],
+      "fa": ["به شمال برو", "شمال سرد است", "در شمال زندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_354_es",
+    "word": "sur",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "south",
+      "de": "Süden",
+      "ar": "جنوب",
+      "fr": "sud",
+      "it": "sud",
+      "ru": "юг",
+      "es": "sur",
+      "pl": "południe",
+      "fa": "جنوب"
+    },
+    "explanations": {
+      "en": "Noun referring to the direction toward the bottom of a map",
+      "de": "Substantiv, das die Richtung nach unten auf einer Karte bezeichnet",
+      "ar": "اسم يشير إلى الاتجاه نحو أسفل الخريطة",
+      "fr": "Nom désignant la direction vers le bas d'une carte",
+      "it": "Nome che si riferisce alla direzione verso il basso di una mappa",
+      "ru": "Существительное, обозначающее направление к низу карты",
+      "es": "Sustantivo que se refiere a la dirección hacia abajo del mapa",
+      "pl": "Rzeczownik odnoszący się do kierunku w dół mapy",
+      "fa": "اسمی که به جهت پایین نقشه اشاره دارد"
+    },
+    "examples": {
+      "en": ["Go to the south", "South is warm", "I live in south"],
+      "de": ["Geh nach Süden", "Süden ist warm", "Ich wohne im Süden"],
+      "ar": ["اذهب إلى الجنوب", "الجنوب دافئ", "أسكن في الجنوب"],
+      "fr": ["Va vers le sud", "Le sud est chaud", "J'habite au sud"],
+      "it": ["Vai a sud", "Il sud è caldo", "Vivo al sud"],
+      "ru": ["Иди на юг", "Юг теплый", "Я живу на юге"],
+      "es": ["Ve hacia el sur", "El sur es cálido", "Vivo en el sur"],
+      "pl": ["Idź na południe", "Południe jest ciepłe", "Mieszkam na południu"],
+      "fa": ["به جنوب برو", "جنوب گرم است", "در جنوب زندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_355_es",
+    "word": "este",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "east",
+      "de": "Osten",
+      "ar": "شرق",
+      "fr": "est",
+      "it": "est",
+      "ru": "восток",
+      "es": "este",
+      "pl": "wschód",
+      "fa": "شرق"
+    },
+    "explanations": {
+      "en": "Noun referring to the direction where the sun rises",
+      "de": "Substantiv, das die Richtung bezeichnet, in der die Sonne aufgeht",
+      "ar": "اسم يشير إلى الاتجاه الذي تشرق منه الشمس",
+      "fr": "Nom désignant la direction où le soleil se lève",
+      "it": "Nome che si riferisce alla direzione dove sorge il sole",
+      "ru": "Существительное, обозначающее направление, где восходит солнце",
+      "es": "Sustantivo que se refiere a la dirección donde sale el sol",
+      "pl": "Rzeczownik odnoszący się do kierunku, gdzie wschodzi słońce",
+      "fa": "اسمی که به جهتی که خورشید طلوع می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["Go to the east", "East is beautiful", "I travel to east"],
+      "de": ["Geh nach Osten", "Osten ist schön", "Ich reise nach Osten"],
+      "ar": ["اذهب إلى الشرق", "الشرق جميل", "أسافر إلى الشرق"],
+      "fr": ["Va vers l'est", "L'est est beau", "Je voyage vers l'est"],
+      "it": ["Vai a est", "L'est è bello", "Viaggio verso est"],
+      "ru": ["Иди на восток", "Восток красивый", "Я путешествую на восток"],
+      "es": ["Ve hacia el este", "El este es hermoso", "Viajo al este"],
+      "pl": ["Idź na wschód", "Wschód jest piękny", "Podróżuję na wschód"],
+      "fa": ["به شرق برو", "شرق زیباست", "به شرق سفر می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_356_es",
+    "word": "oeste",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "west",
+      "de": "Westen",
+      "ar": "غرب",
+      "fr": "ouest",
+      "it": "ovest",
+      "ru": "запад",
+      "es": "oeste",
+      "pl": "zachód",
+      "fa": "غرب"
+    },
+    "explanations": {
+      "en": "Noun referring to the direction where the sun sets",
+      "de": "Substantiv, das die Richtung bezeichnet, in der die Sonne untergeht",
+      "ar": "اسم يشير إلى الاتجاه الذي تغرب فيه الشمس",
+      "fr": "Nom désignant la direction où le soleil se couche",
+      "it": "Nome che si riferisce alla direzione dove tramonta il sole",
+      "ru": "Существительное, обозначающее направление, где заходит солнце",
+      "es": "Sustantivo que se refiere a la dirección donde se pone el sol",
+      "pl": "Rzeczownik odnoszący się do kierunku, gdzie zachodzi słońce",
+      "fa": "اسمی که به جهتی که خورشید غروب می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["Go to the west", "West is far", "I live in west"],
+      "de": ["Geh nach Westen", "Westen ist weit", "Ich wohne im Westen"],
+      "ar": ["اذهب إلى الغرب", "الغرب بعيد", "أسكن في الغرب"],
+      "fr": ["Va vers l'ouest", "L'ouest est loin", "J'habite à l'ouest"],
+      "it": ["Vai a ovest", "L'ovest è lontano", "Vivo a ovest"],
+      "ru": ["Иди на запад", "Запад далеко", "Я живу на западе"],
+      "es": ["Ve hacia el oeste", "El oeste está lejos", "Vivo en el oeste"],
+      "pl": ["Idź na zachód", "Zachód jest daleko", "Mieszkam na zachodzie"],
+      "fa": ["به غرب برو", "غرب دور است", "در غرب زندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_357_es",
+    "word": "izquierda",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "left",
+      "de": "links",
+      "ar": "يسار",
+      "fr": "gauche",
+      "it": "sinistra",
+      "ru": "левый, налево",
+      "es": "izquierda",
+      "pl": "lewo",
+      "fa": "چپ"
+    },
+    "explanations": {
+      "en": "Noun or adjective referring to the left side or direction",
+      "de": "Substantiv oder Adjektiv, das die linke Seite oder Richtung bezeichnet",
+      "ar": "اسم أو صفة تشير إلى الجانب الأيسر أو الاتجاه",
+      "fr": "Nom ou adjectif désignant le côté ou la direction gauche",
+      "it": "Nome o aggettivo che si riferisce al lato o direzione sinistra",
+      "ru": "Существительное или прилагательное, обозначающее левую сторону или направление",
+      "es": "Sustantivo o adjetivo que se refiere al lado o dirección izquierda",
+      "pl": "Rzeczownik lub przymiotnik odnoszący się do lewej strony lub kierunku",
+      "fa": "اسم یا صفتی که به سمت یا جهت چپ اشاره دارد"
+    },
+    "examples": {
+      "en": ["Turn to the left", "My left hand", "Go to left side"],
+      "de": ["Biege nach links ab", "Meine linke Hand", "Geh zur linken Seite"],
+      "ar": ["انعطف إلى اليسار", "يدي اليسرى", "اذهب إلى الجانب الأيسر"],
+      "fr": ["Tourne à gauche", "Ma main gauche", "Va du côté gauche"],
+      "it": ["Gira a sinistra", "La mia mano sinistra", "Vai al lato sinistro"],
+      "ru": ["Поверни налево", "Моя левая рука", "Иди на левую сторону"],
+      "es": ["Gira a la izquierda", "Mi mano izquierda", "Ve al lado izquierdo"],
+      "pl": ["Skręć w lewo", "Moja lewa ręka", "Idź na lewą stronę"],
+      "fa": ["به چپ بپیچ", "دست چپ من", "به سمت چپ برو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_358_es",
+    "word": "derecha",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "right",
+      "de": "rechts",
+      "ar": "يمين",
+      "fr": "droite",
+      "it": "destra",
+      "ru": "правый, направо",
+      "es": "derecha",
+      "pl": "prawo",
+      "fa": "راست"
+    },
+    "explanations": {
+      "en": "Noun or adjective referring to the right side or direction",
+      "de": "Substantiv oder Adjektiv, das die rechte Seite oder Richtung bezeichnet",
+      "ar": "اسم أو صفة تشير إلى الجانب الأيمن أو الاتجاه",
+      "fr": "Nom ou adjectif désignant le côté ou la direction droite",
+      "it": "Nome o aggettivo che si riferisce al lato o direzione destra",
+      "ru": "Существительное или прилагательное, обозначающее правую сторону или направление",
+      "es": "Sustantivo o adjetivo que se refiere al lado o dirección derecha",
+      "pl": "Rzeczownik lub przymiotnik odnoszący się do prawej strony lub kierunku",
+      "fa": "اسم یا صفتی که به سمت یا جهت راست اشاره دارد"
+    },
+    "examples": {
+      "en": ["Turn to the right", "My right hand", "Go to right side"],
+      "de": ["Biege nach rechts ab", "Meine rechte Hand", "Geh zur rechten Seite"],
+      "ar": ["انعطف إلى اليمين", "يدي اليمنى", "اذهب إلى الجانب الأيمن"],
+      "fr": ["Tourne à droite", "Ma main droite", "Va du côté droit"],
+      "it": ["Gira a destra", "La mia mano destra", "Vai al lato destro"],
+      "ru": ["Поверни направо", "Моя правая рука", "Иди на правую сторону"],
+      "es": ["Gira a la derecha", "Mi mano derecha", "Ve al lado derecho"],
+      "pl": ["Skręć w prawo", "Moja prawa ręka", "Idź na prawą stronę"],
+      "fa": ["به راست بپیچ", "دست راست من", "به سمت راست برو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_359_es",
+    "word": "recto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "straight, straight ahead",
+      "de": "geradeaus",
+      "ar": "مستقيم، للأمام",
+      "fr": "tout droit",
+      "it": "dritto",
+      "ru": "прямо",
+      "es": "recto",
+      "pl": "prosto",
+      "fa": "مستقیم"
+    },
+    "explanations": {
+      "en": "Adjective or adverb indicating movement in a direct line",
+      "de": "Adjektiv oder Adverb, das Bewegung in einer direkten Linie anzeigt",
+      "ar": "صفة أو ظرف يشير إلى الحركة في خط مستقيم",
+      "fr": "Adjectif ou adverbe indiquant un mouvement en ligne directe",
+      "it": "Aggettivo o avverbio che indica movimento in linea diretta",
+      "ru": "Прилагательное или наречие, указывающее движение по прямой линии",
+      "es": "Adjetivo o adverbio que indica movimiento en línea directa",
+      "pl": "Przymiotnik lub przysłówek wskazujący ruch w linii prostej",
+      "fa": "صفت یا قید که حرکت در خط مستقیم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Go straight ahead", "Continue straight forward", "Walk straight line"],
+      "de": ["Geh geradeaus", "Geh weiter geradeaus", "Geh geradeaus"],
+      "ar": ["اذهب مستقيماً", "استمر للأمام", "امش في خط مستقيم"],
+      "fr": ["Va tout droit", "Continue tout droit", "Marche en ligne droite"],
+      "it": ["Vai dritto", "Continua dritto", "Cammina in linea retta"],
+      "ru": ["Иди прямо", "Продолжай прямо", "Иди по прямой"],
+      "es": ["Sigue todo recto", "Continúa recto", "Camina en línea recta"],
+      "pl": ["Idź prosto", "Kontynuuj prosto", "Idź w linii prostej"],
+      "fa": ["مستقیم برو", "مستقیم ادامه بده", "در خط مستقیم راه برو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_360_es",
+    "word": "vuelta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "turn, return",
+      "de": "Drehung, Rückkehr",
+      "ar": "دورة، عودة",
+      "fr": "tour, retour",
+      "it": "giro, ritorno",
+      "ru": "поворот, возвращение",
+      "es": "vuelta",
+      "pl": "obrót, powrót",
+      "fa": "چرخش، بازگشت"
+    },
+    "explanations": {
+      "en": "Noun referring to a turn or rotation, also means return",
+      "de": "Substantiv, das eine Wendung oder Drehung bezeichnet, bedeutet auch Rückkehr",
+      "ar": "اسم يشير إلى دورة أو دوران، ويعني أيضاً العودة",
+      "fr": "Nom désignant un tour ou une rotation, signifie aussi retour",
+      "it": "Nome che si riferisce a un giro o rotazione, significa anche ritorno",
+      "ru": "Существительное, обозначающее поворот или вращение, также означает возвращение",
+      "es": "Sustantivo que se refiere a un giro o rotación, también significa regreso",
+      "pl": "Rzeczownik odnoszący się do obrotu lub rotacji, oznacza też powrót",
+      "fa": "اسمی که به چرخش اشاره دارد، همچنین به معنی بازگشت است"
+    },
+    "examples": {
+      "en": ["Take the turn here", "I give it back", "The return is tomorrow"],
+      "de": ["Nimm die Kurve hier", "Ich gebe zurück", "Die Rückkehr ist morgen"],
+      "ar": ["خذ الدورة هنا", "أعيدها", "العودة غداً"],
+      "fr": ["Prends le tour ici", "Je rends", "Le retour est demain"],
+      "it": ["Fai il giro qui", "Lo restituisco", "Il ritorno è domani"],
+      "ru": ["Поверни здесь", "Я верну", "Возвращение завтра"],
+      "es": ["Da la vuelta aquí", "Lo devuelvo", "La vuelta es mañana"],
+      "pl": ["Skręć tutaj", "Oddaję to", "Powrót jest jutro"],
+      "fa": ["اینجا بپیچ", "پس می‌دهم", "بازگشت فردا است"]
+    },
+    "conjugations": null
+  }
+]

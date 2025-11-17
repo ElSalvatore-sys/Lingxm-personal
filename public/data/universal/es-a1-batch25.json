@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_481_es",
+    "word": "salud",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "health",
+      "de": "Gesundheit",
+      "ar": "صحة",
+      "fr": "santé",
+      "it": "salute",
+      "ru": "здоровье",
+      "es": "salud",
+      "pl": "zdrowie",
+      "fa": "سلامتی"
+    },
+    "explanations": {
+      "en": "The state of being free from illness or injury",
+      "de": "Der Zustand, frei von Krankheit oder Verletzung zu sein",
+      "ar": "حالة الخلو من المرض أو الإصابة",
+      "fr": "L'état d'être libre de maladie ou de blessure",
+      "it": "Lo stato di essere libero da malattia o infortunio",
+      "ru": "Состояние отсутствия болезни или травмы",
+      "es": "El estado de estar libre de enfermedad o lesión",
+      "pl": "Stan wolności od choroby lub urazu",
+      "fa": "حالت عاری بودن از بیماری یا آسیب"
+    },
+    "examples": {
+      "en": ["Good health", "Health care", "Mental health"],
+      "de": ["Gute Gesundheit", "Gesundheitsversorgung", "Mentale Gesundheit"],
+      "ar": ["صحة جيدة", "الرعاية الصحية", "الصحة النفسية"],
+      "fr": ["Bonne santé", "Soins de santé", "Santé mentale"],
+      "it": ["Buona salute", "Assistenza sanitaria", "Salute mentale"],
+      "ru": ["Хорошее здоровье", "Здравоохранение", "Психическое здоровье"],
+      "es": ["Buena salud", "Cuidado de la salud", "Salud mental"],
+      "pl": ["Dobre zdrowie", "Opieka zdrowotna", "Zdrowie psychiczne"],
+      "fa": ["سلامتی خوب", "مراقبت سلامت", "سلامت روان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_482_es",
+    "word": "medicina",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "medicine",
+      "de": "Medizin",
+      "ar": "دواء",
+      "fr": "médicament",
+      "it": "medicina",
+      "ru": "медицина",
+      "es": "medicina",
+      "pl": "medycyna",
+      "fa": "دارو"
+    },
+    "explanations": {
+      "en": "A substance used to treat illness or injury, or the science of treating disease",
+      "de": "Eine Substanz zur Behandlung von Krankheit oder Verletzung, oder die Wissenschaft der Krankheitsbehandlung",
+      "ar": "مادة تستخدم لعلاج المرض أو الإصابة، أو علم علاج الأمراض",
+      "fr": "Une substance utilisée pour traiter la maladie ou la blessure, ou la science du traitement des maladies",
+      "it": "Una sostanza usata per trattare malattia o infortunio, o la scienza del trattamento delle malattie",
+      "ru": "Вещество, используемое для лечения болезни или травмы, или наука о лечении заболеваний",
+      "es": "Una sustancia usada para tratar enfermedad o lesión, o la ciencia de tratar enfermedades",
+      "pl": "Substancja używana do leczenia choroby lub urazu, lub nauka o leczeniu chorób",
+      "fa": "ماده‌ای که برای درمان بیماری یا آسیب استفاده می‌شود، یا علم درمان بیماری"
+    },
+    "examples": {
+      "en": ["Take medicine", "Modern medicine", "Natural medicine"],
+      "de": ["Medizin nehmen", "Moderne Medizin", "Naturmedizin"],
+      "ar": ["تناول الدواء", "الطب الحديث", "الطب الطبيعي"],
+      "fr": ["Prendre un médicament", "Médecine moderne", "Médecine naturelle"],
+      "it": ["Prendere medicina", "Medicina moderna", "Medicina naturale"],
+      "ru": ["Принимать лекарство", "Современная медицина", "Натуральная медицина"],
+      "es": ["Tomar medicina", "Medicina moderna", "Medicina natural"],
+      "pl": ["Brać lekarstwo", "Medycyna nowoczesna", "Medycyna naturalna"],
+      "fa": ["دارو مصرف کردن", "پزشکی مدرن", "طب سنتی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_483_es",
+    "word": "dolor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "pain, ache",
+      "de": "Schmerz",
+      "ar": "ألم",
+      "fr": "douleur",
+      "it": "dolore",
+      "ru": "боль",
+      "es": "dolor",
+      "pl": "ból",
+      "fa": "درد"
+    },
+    "explanations": {
+      "en": "Physical suffering or discomfort caused by illness or injury",
+      "de": "Körperliches Leiden oder Unbehagen durch Krankheit oder Verletzung",
+      "ar": "المعاناة الجسدية أو الانزعاج الناجم عن المرض أو الإصابة",
+      "fr": "Souffrance physique ou inconfort causé par la maladie ou la blessure",
+      "it": "Sofferenza fisica o disagio causato da malattia o infortunio",
+      "ru": "Физическое страдание или дискомфорт, вызванные болезнью или травмой",
+      "es": "Sufrimiento físico o malestar causado por enfermedad o lesión",
+      "pl": "Cierpienie fizyczne lub dyskomfort spowodowany chorobą lub urazem",
+      "fa": "رنج یا ناراحتی جسمی ناشی از بیماری یا آسیب"
+    },
+    "examples": {
+      "en": ["Feel pain", "Back pain", "No pain"],
+      "de": ["Schmerz fühlen", "Rückenschmerzen", "Keine Schmerzen"],
+      "ar": ["الشعور بالألم", "ألم الظهر", "لا ألم"],
+      "fr": ["Ressentir la douleur", "Mal de dos", "Pas de douleur"],
+      "it": ["Sentire dolore", "Mal di schiena", "Nessun dolore"],
+      "ru": ["Чувствовать боль", "Боль в спине", "Без боли"],
+      "es": ["Sentir dolor", "Dolor de espalda", "Sin dolor"],
+      "pl": ["Odczuwać ból", "Ból pleców", "Bez bólu"],
+      "fa": ["احساس درد", "کمردرد", "بدون درد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_484_es",
+    "word": "enfermedad",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "illness, disease",
+      "de": "Krankheit",
+      "ar": "مرض",
+      "fr": "maladie",
+      "it": "malattia",
+      "ru": "болезнь",
+      "es": "enfermedad",
+      "pl": "choroba",
+      "fa": "بیماری"
+    },
+    "explanations": {
+      "en": "A disorder of structure or function in a human, animal, or plant",
+      "de": "Eine Störung der Struktur oder Funktion bei einem Menschen, Tier oder einer Pflanze",
+      "ar": "اضطراب في البنية أو الوظيفة لدى الإنسان أو الحيوان أو النبات",
+      "fr": "Un trouble de structure ou de fonction chez un humain, un animal ou une plante",
+      "it": "Un disturbo di struttura o funzione in un umano, animale o pianta",
+      "ru": "Нарушение структуры или функции у человека, животного или растения",
+      "es": "Un trastorno de estructura o función en un humano, animal o planta",
+      "pl": "Zaburzenie struktury lub funkcji u człowieka, zwierzęcia lub rośliny",
+      "fa": "اختلالی در ساختار یا عملکرد در انسان، حیوان یا گیاه"
+    },
+    "examples": {
+      "en": ["Serious illness", "Infectious disease", "Prevent disease"],
+      "de": ["Schwere Krankheit", "Infektionskrankheit", "Krankheit verhindern"],
+      "ar": ["مرض خطير", "مرض معدي", "منع المرض"],
+      "fr": ["Maladie grave", "Maladie infectieuse", "Prévenir la maladie"],
+      "it": ["Malattia grave", "Malattia infettiva", "Prevenire la malattia"],
+      "ru": ["Серьезная болезнь", "Инфекционное заболевание", "Предотвратить болезнь"],
+      "es": ["Enfermedad grave", "Enfermedad infecciosa", "Prevenir enfermedad"],
+      "pl": ["Poważna choroba", "Choroba zakaźna", "Zapobiegać chorobie"],
+      "fa": ["بیماری جدی", "بیماری عفونی", "پیشگیری از بیماری"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_485_es",
+    "word": "doctora",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "female doctor",
+      "de": "Ärztin",
+      "ar": "طبيبة",
+      "fr": "femme médecin",
+      "it": "dottoressa",
+      "ru": "женщина-врач",
+      "es": "doctora",
+      "pl": "lekarka",
+      "fa": "پزشک زن"
+    },
+    "explanations": {
+      "en": "A female person who is qualified to treat people who are ill",
+      "de": "Eine weibliche Person, die qualifiziert ist, kranke Menschen zu behandeln",
+      "ar": "شخص أنثى مؤهلة لعلاج الأشخاص المرضى",
+      "fr": "Une personne de sexe féminin qualifiée pour soigner les personnes malades",
+      "it": "Una persona di sesso femminile qualificata per curare le persone malate",
+      "ru": "Женщина, квалифицированная для лечения больных людей",
+      "es": "Una persona de sexo femenino calificada para tratar a personas enfermas",
+      "pl": "Kobieta wykwalifikowana do leczenia chorych",
+      "fa": "فرد زنی که صلاحیت درمان افراد بیمار را دارد"
+    },
+    "examples": {
+      "en": ["See the doctor", "Female doctor", "My doctor"],
+      "de": ["Ärztin sehen", "Weibliche Ärztin", "Meine Ärztin"],
+      "ar": ["زيارة الطبيبة", "طبيبة أنثى", "طبيبتي"],
+      "fr": ["Voir la doctoresse", "Femme médecin", "Ma doctoresse"],
+      "it": ["Vedere la dottoressa", "Dottoressa donna", "La mia dottoressa"],
+      "ru": ["Посетить врача", "Женщина-врач", "Мой врач"],
+      "es": ["Ver a la doctora", "Doctora mujer", "Mi doctora"],
+      "pl": ["Zobaczyć lekarkę", "Lekarka kobieta", "Moja lekarka"],
+      "fa": ["پزشک را دیدن", "پزشک زن", "پزشک من"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_486_es",
+    "word": "médica",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "female physician",
+      "de": "Medizinerin",
+      "ar": "طبيبة",
+      "fr": "médecin femme",
+      "it": "medico donna",
+      "ru": "врач-женщина",
+      "es": "médica",
+      "pl": "lekarka",
+      "fa": "پزشک زن"
+    },
+    "explanations": {
+      "en": "A female medical professional trained to treat illness and injury",
+      "de": "Eine weibliche medizinische Fachkraft, ausgebildet zur Behandlung von Krankheit und Verletzung",
+      "ar": "محترفة طبية أنثى مدربة لعلاج المرض والإصابة",
+      "fr": "Une professionnelle médicale formée pour traiter la maladie et la blessure",
+      "it": "Una professionista medica addestrata a trattare malattia e infortunio",
+      "ru": "Женщина-медицинский специалист, обученная лечению болезней и травм",
+      "es": "Una profesional médica capacitada para tratar enfermedad y lesión",
+      "pl": "Kobieta będąca specjalistką medyczną wyszkoloną do leczenia choroby i urazu",
+      "fa": "یک متخصص پزشکی زن که برای درمان بیماری و آسیب آموزش دیده است"
+    },
+    "examples": {
+      "en": ["Skilled physician", "Medical doctor", "Consult physician"],
+      "de": ["Erfahrene Ärztin", "Medizinische Ärztin", "Ärztin konsultieren"],
+      "ar": ["طبيبة ماهرة", "طبيبة طبية", "استشارة طبيبة"],
+      "fr": ["Médecin qualifiée", "Médecin médical", "Consulter un médecin"],
+      "it": ["Medico esperto", "Medico medico", "Consultare medico"],
+      "ru": ["Квалифицированный врач", "Медицинский врач", "Проконсультироваться с врачом"],
+      "es": ["Médica capacitada", "Médica clínica", "Consultar médica"],
+      "pl": ["Wykwalifikowana lekarka", "Lekarka medyczna", "Skonsultować z lekarką"],
+      "fa": ["پزشک ماهر", "پزشک پزشکی", "با پزشک مشورت کردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_487_es",
+    "word": "cita",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "appointment, date",
+      "de": "Termin, Verabredung",
+      "ar": "موعد",
+      "fr": "rendez-vous",
+      "it": "appuntamento",
+      "ru": "назначение, встреча",
+      "es": "cita",
+      "pl": "spotkanie, wizyta",
+      "fa": "قرار ملاقات"
+    },
+    "explanations": {
+      "en": "An arrangement to meet someone at a particular time and place",
+      "de": "Eine Vereinbarung, jemanden zu einer bestimmten Zeit und an einem bestimmten Ort zu treffen",
+      "ar": "ترتيب لمقابلة شخص ما في وقت ومكان معينين",
+      "fr": "Un arrangement pour rencontrer quelqu'un à un moment et un lieu particuliers",
+      "it": "Un accordo per incontrare qualcuno in un momento e luogo particolari",
+      "ru": "Договоренность о встрече с кем-то в определенное время и месте",
+      "es": "Un arreglo para encontrarse con alguien en un momento y lugar particulares",
+      "pl": "Umówienie się na spotkanie z kimś w określonym czasie i miejscu",
+      "fa": "ترتیبی برای ملاقات با کسی در زمان و مکان خاص"
+    },
+    "examples": {
+      "en": ["Doctor's appointment", "Make appointment", "Cancel appointment"],
+      "de": ["Arzttermin", "Termin vereinbaren", "Termin absagen"],
+      "ar": ["موعد الطبيب", "حجز موعد", "إلغاء موعد"],
+      "fr": ["Rendez-vous médical", "Prendre rendez-vous", "Annuler rendez-vous"],
+      "it": ["Appuntamento medico", "Fissare appuntamento", "Cancellare appuntamento"],
+      "ru": ["Визит к врачу", "Записаться", "Отменить запись"],
+      "es": ["Cita médica", "Hacer cita", "Cancelar cita"],
+      "pl": ["Wizyta u lekarza", "Umówić wizytę", "Odwołać wizytę"],
+      "fa": ["قرار پزشکی", "قرار ملاقات گذاشتن", "لغو قرار ملاقات"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_488_es",
+    "word": "urgencia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "emergency, urgency",
+      "de": "Notfall, Dringlichkeit",
+      "ar": "طوارئ، إلحاح",
+      "fr": "urgence",
+      "it": "emergenza, urgenza",
+      "ru": "срочность, экстренный случай",
+      "es": "urgencia",
+      "pl": "nagły wypadek, pilność",
+      "fa": "فوریت، اورژانس"
+    },
+    "explanations": {
+      "en": "A serious situation requiring immediate action, or the quality of being urgent",
+      "de": "Eine ernste Situation, die sofortiges Handeln erfordert, oder die Eigenschaft dringend zu sein",
+      "ar": "موقف خطير يتطلب إجراءً فورياً، أو صفة كونه عاجلاً",
+      "fr": "Une situation grave nécessitant une action immédiate, ou la qualité d'être urgent",
+      "it": "Una situazione grave che richiede azione immediata, o la qualità di essere urgente",
+      "ru": "Серьезная ситуация, требующая немедленных действий, или качество срочности",
+      "es": "Una situación seria que requiere acción inmediata, o la cualidad de ser urgente",
+      "pl": "Poważna sytuacja wymagająca natychmiastowego działania, lub jakość bycia pilnym",
+      "fa": "وضعیت جدی که نیاز به اقدام فوری دارد، یا کیفیت فوری بودن"
+    },
+    "examples": {
+      "en": ["Medical emergency", "Emergency room", "Urgent matter"],
+      "de": ["Medizinischer Notfall", "Notaufnahme", "Dringende Angelegenheit"],
+      "ar": ["حالة طوارئ طبية", "غرفة الطوارئ", "أمر عاجل"],
+      "fr": ["Urgence médicale", "Salle d'urgence", "Affaire urgente"],
+      "it": ["Emergenza medica", "Pronto soccorso", "Questione urgente"],
+      "ru": ["Медицинская экстренная ситуация", "Приемный покой", "Срочное дело"],
+      "es": ["Urgencia médica", "Sala de urgencias", "Asunto urgente"],
+      "pl": ["Nagły wypadek medyczny", "Izba przyjęć", "Pilna sprawa"],
+      "fa": ["فوریت پزشکی", "اتاق اورژانس", "موضوع فوری"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_489_es",
+    "word": "receta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "prescription, recipe",
+      "de": "Rezept",
+      "ar": "وصفة طبية",
+      "fr": "ordonnance, recette",
+      "it": "ricetta",
+      "ru": "рецепт",
+      "es": "receta",
+      "pl": "recepta",
+      "fa": "نسخه پزشکی"
+    },
+    "explanations": {
+      "en": "A written instruction from a doctor for medicine, or instructions for cooking",
+      "de": "Eine schriftliche Anweisung eines Arztes für Medizin, oder Anweisungen zum Kochen",
+      "ar": "تعليمات مكتوبة من الطبيب للدواء، أو تعليمات للطبخ",
+      "fr": "Une instruction écrite d'un médecin pour un médicament, ou instructions pour cuisiner",
+      "it": "Un'istruzione scritta da un medico per una medicina, o istruzioni per cucinare",
+      "ru": "Письменная инструкция от врача для лекарства, или инструкции по приготовлению пищи",
+      "es": "Una instrucción escrita de un médico para medicina, o instrucciones para cocinar",
+      "pl": "Pisemna instrukcja od lekarza na lekarstwo, lub instrukcje do gotowania",
+      "fa": "دستور نوشته شده از پزشک برای دارو، یا دستورالعمل آشپزی"
+    },
+    "examples": {
+      "en": ["Medical prescription", "Cooking recipe", "Write prescription"],
+      "de": ["Medizinisches Rezept", "Kochrezept", "Rezept schreiben"],
+      "ar": ["وصفة طبية", "وصفة طبخ", "كتابة وصفة"],
+      "fr": ["Ordonnance médicale", "Recette de cuisine", "Écrire ordonnance"],
+      "it": ["Ricetta medica", "Ricetta di cucina", "Scrivere ricetta"],
+      "ru": ["Медицинский рецепт", "Кулинарный рецепт", "Написать рецепт"],
+      "es": ["Receta médica", "Receta de cocina", "Escribir receta"],
+      "pl": ["Recepta lekarska", "Przepis kulinarny", "Napisać receptę"],
+      "fa": ["نسخه پزشکی", "دستور پخت", "نوشتن نسخه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_490_es",
+    "word": "pastilla",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "pill, tablet",
+      "de": "Tablette, Pille",
+      "ar": "حبة دواء",
+      "fr": "pilule, comprimé",
+      "it": "pillola, compressa",
+      "ru": "таблетка, пилюля",
+      "es": "pastilla",
+      "pl": "pigułka, tabletka",
+      "fa": "قرص"
+    },
+    "explanations": {
+      "en": "A small piece of medicine to be swallowed whole",
+      "de": "Ein kleines Stück Medizin, das ganz geschluckt werden soll",
+      "ar": "قطعة صغيرة من الدواء يتم ابتلاعها كاملة",
+      "fr": "Un petit morceau de médicament à avaler entier",
+      "it": "Un piccolo pezzo di medicina da ingoiare intero",
+      "ru": "Маленький кусочек лекарства, который нужно проглотить целиком",
+      "es": "Un pequeño trozo de medicina para ser tragado entero",
+      "pl": "Mały kawałek lekarstwa do przełknięcia w całości",
+      "fa": "قطعه کوچکی از دارو که باید به صورت کامل بلعیده شود"
+    },
+    "examples": {
+      "en": ["Take pill", "Swallow tablet", "Pain pill"],
+      "de": ["Tablette nehmen", "Tablette schlucken", "Schmerztablette"],
+      "ar": ["تناول الحبة", "ابتلع القرص", "حبة الألم"],
+      "fr": ["Prendre pilule", "Avaler comprimé", "Pilule contre la douleur"],
+      "it": ["Prendere pillola", "Ingoiare compressa", "Pillola per il dolore"],
+      "ru": ["Принять таблетку", "Проглотить таблетку", "Таблетка от боли"],
+      "es": ["Tomar pastilla", "Tragar pastilla", "Pastilla para el dolor"],
+      "pl": ["Zażyć pigułkę", "Połknąć tabletkę", "Pigułka przeciwbólowa"],
+      "fa": ["قرص مصرف کردن", "قرص را قورت دادن", "قرص مسکن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_491_es",
+    "word": "síntoma",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "symptom",
+      "de": "Symptom",
+      "ar": "عرض",
+      "fr": "symptôme",
+      "it": "sintomo",
+      "ru": "симптом",
+      "es": "síntoma",
+      "pl": "objaw",
+      "fa": "علامت"
+    },
+    "explanations": {
+      "en": "A physical or mental sign indicating the existence of a disease or condition",
+      "de": "Ein körperliches oder geistiges Zeichen, das auf die Existenz einer Krankheit oder eines Zustands hinweist",
+      "ar": "علامة جسدية أو عقلية تشير إلى وجود مرض أو حالة",
+      "fr": "Un signe physique ou mental indiquant l'existence d'une maladie ou d'une condition",
+      "it": "Un segno fisico o mentale che indica l'esistenza di una malattia o condizione",
+      "ru": "Физический или психический признак, указывающий на существование болезни или состояния",
+      "es": "Un signo físico o mental que indica la existencia de una enfermedad o condición",
+      "pl": "Fizyczny lub psychiczny znak wskazujący na istnienie choroby lub stanu",
+      "fa": "نشانه جسمی یا روانی که نشان‌دهنده وجود بیماری یا شرایطی است"
+    },
+    "examples": {
+      "en": ["Disease symptoms", "Show symptoms", "Common symptom"],
+      "de": ["Krankheitssymptome", "Symptome zeigen", "Häufiges Symptom"],
+      "ar": ["أعراض المرض", "إظهار الأعراض", "عرض شائع"],
+      "fr": ["Symptômes de maladie", "Montrer symptômes", "Symptôme courant"],
+      "it": ["Sintomi di malattia", "Mostrare sintomi", "Sintomo comune"],
+      "ru": ["Симптомы болезни", "Показывать симптомы", "Общий симптом"],
+      "es": ["Síntomas de enfermedad", "Mostrar síntomas", "Síntoma común"],
+      "pl": ["Objawy choroby", "Pokazywać objawy", "Typowy objaw"],
+      "fa": ["علائم بیماری", "نشان دادن علائم", "علامت رایج"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_492_es",
+    "word": "fiebre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fever",
+      "de": "Fieber",
+      "ar": "حمى",
+      "fr": "fièvre",
+      "it": "febbre",
+      "ru": "лихорадка",
+      "es": "fiebre",
+      "pl": "gorączka",
+      "fa": "تب"
+    },
+    "explanations": {
+      "en": "An abnormally high body temperature, usually caused by illness",
+      "de": "Eine ungewöhnlich hohe Körpertemperatur, normalerweise durch Krankheit verursacht",
+      "ar": "درجة حرارة الجسم عالية بشكل غير طبيعي، عادة بسبب المرض",
+      "fr": "Une température corporelle anormalement élevée, généralement causée par la maladie",
+      "it": "Una temperatura corporea anormalmente alta, solitamente causata da malattia",
+      "ru": "Аномально высокая температура тела, обычно вызванная болезнью",
+      "es": "Una temperatura corporal anormalmente alta, usualmente causada por enfermedad",
+      "pl": "Nienormalnie wysoka temperatura ciała, zwykle spowodowana chorobą",
+      "fa": "دمای بدن غیرعادی بالا که معمولاً ناشی از بیماری است"
+    },
+    "examples": {
+      "en": ["High fever", "Have fever", "Reduce fever"],
+      "de": ["Hohes Fieber", "Fieber haben", "Fieber senken"],
+      "ar": ["حمى عالية", "لديه حمى", "خفض الحمى"],
+      "fr": ["Forte fièvre", "Avoir de la fièvre", "Réduire la fièvre"],
+      "it": ["Febbre alta", "Avere febbre", "Ridurre la febbre"],
+      "ru": ["Высокая температура", "Иметь лихорадку", "Снизить температуру"],
+      "es": ["Fiebre alta", "Tener fiebre", "Reducir la fiebre"],
+      "pl": ["Wysoka gorączka", "Mieć gorączkę", "Obniżyć gorączkę"],
+      "fa": ["تب بالا", "تب داشتن", "کاهش تب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_493_es",
+    "word": "tos",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cough",
+      "de": "Husten",
+      "ar": "سعال",
+      "fr": "toux",
+      "it": "tosse",
+      "ru": "кашель",
+      "es": "tos",
+      "pl": "kaszel",
+      "fa": "سرفه"
+    },
+    "explanations": {
+      "en": "A sudden expulsion of air from the lungs through the throat",
+      "de": "Eine plötzliche Ausstoßung von Luft aus den Lungen durch den Hals",
+      "ar": "طرد مفاجئ للهواء من الرئتين عبر الحلق",
+      "fr": "Une expulsion soudaine d'air des poumons à travers la gorge",
+      "it": "Un'espulsione improvvisa di aria dai polmoni attraverso la gola",
+      "ru": "Внезапное выталкивание воздуха из легких через горло",
+      "es": "Una expulsión repentina de aire de los pulmones a través de la garganta",
+      "pl": "Nagłe wydalenie powietrza z płuc przez gardło",
+      "fa": "خروج ناگهانی هوا از ریه‌ها از طریق گلو"
+    },
+    "examples": {
+      "en": ["Bad cough", "Cough syrup", "Stop coughing"],
+      "de": ["Schlimmer Husten", "Hustensaft", "Aufhören zu husten"],
+      "ar": ["سعال سيئ", "شراب السعال", "توقف عن السعال"],
+      "fr": ["Mauvaise toux", "Sirop contre la toux", "Arrêter de tousser"],
+      "it": ["Brutta tosse", "Sciroppo per la tosse", "Smettere di tossire"],
+      "ru": ["Сильный кашель", "Сироп от кашля", "Перестать кашлять"],
+      "es": ["Tos fuerte", "Jarabe para la tos", "Dejar de toser"],
+      "pl": ["Zły kaszel", "Syrop na kaszel", "Przestać kaszleć"],
+      "fa": ["سرفه بد", "شربت سرفه", "سرفه را متوقف کردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_494_es",
+    "word": "gripe",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "flu, influenza",
+      "de": "Grippe",
+      "ar": "إنفلونزا",
+      "fr": "grippe",
+      "it": "influenza",
+      "ru": "грипп",
+      "es": "gripe",
+      "pl": "grypa",
+      "fa": "آنفولانزا"
+    },
+    "explanations": {
+      "en": "A contagious viral infection causing fever, body aches, and fatigue",
+      "de": "Eine ansteckende Virusinfektion, die Fieber, Körperschmerzen und Müdigkeit verursacht",
+      "ar": "عدوى فيروسية معدية تسبب الحمى وآلام الجسم والتعب",
+      "fr": "Une infection virale contagieuse provoquant de la fièvre, des douleurs corporelles et de la fatigue",
+      "it": "Un'infezione virale contagiosa che causa febbre, dolori corporei e stanchezza",
+      "ru": "Заразная вирусная инфекция, вызывающая лихорадку, боли в теле и усталость",
+      "es": "Una infección viral contagiosa que causa fiebre, dolores corporales y fatiga",
+      "pl": "Zaraźliwa infekcja wirusowa powodująca gorączkę, bóle ciała i zmęczenie",
+      "fa": "عفونت ویروسی واگیردار که باعث تب، دردهای بدنی و خستگی می‌شود"
+    },
+    "examples": {
+      "en": ["Have flu", "Flu season", "Flu vaccine"],
+      "de": ["Grippe haben", "Grippesaison", "Grippeimpfung"],
+      "ar": ["لديه إنفلونزا", "موسم الإنفلونزا", "لقاح الإنفلونزا"],
+      "fr": ["Avoir la grippe", "Saison de la grippe", "Vaccin contre la grippe"],
+      "it": ["Avere l'influenza", "Stagione influenzale", "Vaccino antinfluenzale"],
+      "ru": ["Болеть гриппом", "Сезон гриппа", "Вакцина от гриппа"],
+      "es": ["Tener gripe", "Temporada de gripe", "Vacuna contra la gripe"],
+      "pl": ["Mieć grypę", "Sezon grypowy", "Szczepionka przeciw grypie"],
+      "fa": ["آنفولانزا داشتن", "فصل آنفولانزا", "واکسن آنفولانزا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_495_es",
+    "word": "resfriado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cold, common cold",
+      "de": "Erkältung",
+      "ar": "نزلة برد",
+      "fr": "rhume",
+      "it": "raffreddore",
+      "ru": "простуда",
+      "es": "resfriado",
+      "pl": "przeziębienie",
+      "fa": "سرماخوردگی"
+    },
+    "explanations": {
+      "en": "A mild viral infection of the nose and throat with symptoms like sneezing and coughing",
+      "de": "Eine leichte Virusinfektion von Nase und Rachen mit Symptomen wie Niesen und Husten",
+      "ar": "عدوى فيروسية خفيفة في الأنف والحلق مع أعراض مثل العطس والسعال",
+      "fr": "Une infection virale légère du nez et de la gorge avec des symptômes comme l'éternuement et la toux",
+      "it": "Un'infezione virale lieve del naso e della gola con sintomi come starnuti e tosse",
+      "ru": "Легкая вирусная инфекция носа и горла с симптомами, такими как чихание и кашель",
+      "es": "Una infección viral leve de la nariz y garganta con síntomas como estornudos y tos",
+      "pl": "Łagodna infekcja wirusowa nosa i gardła z objawami takimi jak kichanie i kaszel",
+      "fa": "عفونت ویروسی خفیف بینی و گلو با علائمی مانند عطسه و سرفه"
+    },
+    "examples": {
+      "en": ["Catch cold", "Common cold", "Cold symptoms"],
+      "de": ["Erkältung bekommen", "Gewöhnliche Erkältung", "Erkältungssymptome"],
+      "ar": ["الإصابة بالبرد", "نزلة برد شائعة", "أعراض البرد"],
+      "fr": ["Attraper un rhume", "Rhume commun", "Symptômes du rhume"],
+      "it": ["Prendere un raffreddore", "Raffreddore comune", "Sintomi del raffreddore"],
+      "ru": ["Простудиться", "Обычная простуда", "Симптомы простуды"],
+      "es": ["Coger resfriado", "Resfriado común", "Síntomas del resfriado"],
+      "pl": ["Przeziębić się", "Zwykłe przeziębienie", "Objawy przeziębienia"],
+      "fa": ["سرما خوردن", "سرماخوردگی معمولی", "علائم سرماخوردگی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_496_es",
+    "word": "alergia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "allergy",
+      "de": "Allergie",
+      "ar": "حساسية",
+      "fr": "allergie",
+      "it": "allergia",
+      "ru": "аллергия",
+      "es": "alergia",
+      "pl": "alergia",
+      "fa": "آلرژی"
+    },
+    "explanations": {
+      "en": "A negative reaction of the body's immune system to certain substances",
+      "de": "Eine negative Reaktion des körpereigenen Immunsystems auf bestimmte Substanzen",
+      "ar": "رد فعل سلبي لجهاز المناعة في الجسم تجاه مواد معينة",
+      "fr": "Une réaction négative du système immunitaire du corps à certaines substances",
+      "it": "Una reazione negativa del sistema immunitario del corpo a certe sostanze",
+      "ru": "Негативная реакция иммунной системы организма на определенные вещества",
+      "es": "Una reacción negativa del sistema inmunológico del cuerpo a ciertas sustancias",
+      "pl": "Negatywna reakcja układu odpornościowego organizmu na pewne substancje",
+      "fa": "واکنش منفی سیستم ایمنی بدن به مواد خاص"
+    },
+    "examples": {
+      "en": ["Food allergy", "Have allergy", "Allergy symptoms"],
+      "de": ["Nahrungsmittelallergie", "Allergie haben", "Allergiesymptome"],
+      "ar": ["حساسية الطعام", "لديه حساسية", "أعراض الحساسية"],
+      "fr": ["Allergie alimentaire", "Avoir une allergie", "Symptômes d'allergie"],
+      "it": ["Allergia alimentare", "Avere allergia", "Sintomi di allergia"],
+      "ru": ["Пищевая аллергия", "Иметь аллергию", "Симптомы аллергии"],
+      "es": ["Alergia alimentaria", "Tener alergia", "Síntomas de alergia"],
+      "pl": ["Alergia pokarmowa", "Mieć alergię", "Objawy alergii"],
+      "fa": ["آلرژی غذایی", "آلرژی داشتن", "علائم آلرژی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_497_es",
+    "word": "cuidado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "care, caution",
+      "de": "Pflege, Vorsicht",
+      "ar": "رعاية، حذر",
+      "fr": "soin, attention",
+      "it": "cura, attenzione",
+      "ru": "уход, осторожность",
+      "es": "cuidado",
+      "pl": "opieka, ostrożność",
+      "fa": "مراقبت، احتیاط"
+    },
+    "explanations": {
+      "en": "The provision of attention and protection, or being careful to avoid danger",
+      "de": "Die Bereitstellung von Aufmerksamkeit und Schutz, oder vorsichtig sein, um Gefahr zu vermeiden",
+      "ar": "توفير الاهتمام والحماية، أو الحذر لتجنب الخطر",
+      "fr": "La fourniture d'attention et de protection, ou être prudent pour éviter le danger",
+      "it": "La fornitura di attenzione e protezione, o essere attenti per evitare il pericolo",
+      "ru": "Предоставление внимания и защиты, или осторожность, чтобы избежать опасности",
+      "es": "La provisión de atención y protección, o tener cuidado para evitar el peligro",
+      "pl": "Zapewnienie uwagi i ochrony, lub ostrożność, aby uniknąć niebezpieczeństwa",
+      "fa": "ارائه توجه و حفاظت، یا مراقب بودن برای جلوگیری از خطر"
+    },
+    "examples": {
+      "en": ["Take care", "Be careful", "Health care"],
+      "de": ["Sich kümmern", "Vorsichtig sein", "Gesundheitspflege"],
+      "ar": ["اعتني", "كن حذراً", "الرعاية الصحية"],
+      "fr": ["Prendre soin", "Être prudent", "Soins de santé"],
+      "it": ["Prendersi cura", "Stare attenti", "Assistenza sanitaria"],
+      "ru": ["Заботиться", "Быть осторожным", "Здравоохранение"],
+      "es": ["Cuidar", "Tener cuidado", "Cuidado de la salud"],
+      "pl": ["Dbać", "Być ostrożnym", "Opieka zdrowotna"],
+      "fa": ["مراقبت کردن", "مراقب بودن", "مراقبت سلامت"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_498_es",
+    "word": "ayuda",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "help, aid",
+      "de": "Hilfe",
+      "ar": "مساعدة",
+      "fr": "aide",
+      "it": "aiuto",
+      "ru": "помощь",
+      "es": "ayuda",
+      "pl": "pomoc",
+      "fa": "کمک"
+    },
+    "explanations": {
+      "en": "The action of helping someone or something that helps",
+      "de": "Die Handlung, jemandem zu helfen, oder etwas, das hilft",
+      "ar": "فعل مساعدة شخص ما أو شيء يساعد",
+      "fr": "L'action d'aider quelqu'un ou quelque chose qui aide",
+      "it": "L'azione di aiutare qualcuno o qualcosa che aiuta",
+      "ru": "Действие помощи кому-то или что-то, что помогает",
+      "es": "La acción de ayudar a alguien o algo que ayuda",
+      "pl": "Czynność pomagania komuś lub coś, co pomaga",
+      "fa": "عمل کمک کردن به کسی یا چیزی که کمک می‌کند"
+    },
+    "examples": {
+      "en": ["Need help", "Ask for help", "First aid"],
+      "de": ["Hilfe brauchen", "Um Hilfe bitten", "Erste Hilfe"],
+      "ar": ["يحتاج إلى مساعدة", "اطلب المساعدة", "الإسعافات الأولية"],
+      "fr": ["Besoin d'aide", "Demander de l'aide", "Premiers secours"],
+      "it": ["Bisogno di aiuto", "Chiedere aiuto", "Pronto soccorso"],
+      "ru": ["Нужна помощь", "Попросить о помощи", "Первая помощь"],
+      "es": ["Necesitar ayuda", "Pedir ayuda", "Primeros auxilios"],
+      "pl": ["Potrzebować pomocy", "Poprosić o pomoc", "Pierwsza pomoc"],
+      "fa": ["نیاز به کمک", "کمک خواستن", "کمک‌های اولیه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_499_es",
+    "word": "emergencia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "emergency",
+      "de": "Notfall",
+      "ar": "طوارئ",
+      "fr": "urgence",
+      "it": "emergenza",
+      "ru": "чрезвычайная ситуация",
+      "es": "emergencia",
+      "pl": "nagły wypadek",
+      "fa": "اورژانس"
+    },
+    "explanations": {
+      "en": "A serious, unexpected situation requiring immediate action",
+      "de": "Eine ernste, unerwartete Situation, die sofortiges Handeln erfordert",
+      "ar": "موقف خطير وغير متوقع يتطلب إجراءً فورياً",
+      "fr": "Une situation grave et inattendue nécessitant une action immédiate",
+      "it": "Una situazione seria e inaspettata che richiede azione immediata",
+      "ru": "Серьезная, неожиданная ситуация, требующая немедленных действий",
+      "es": "Una situación seria e inesperada que requiere acción inmediata",
+      "pl": "Poważna, nieoczekiwana sytuacja wymagająca natychmiastowego działania",
+      "fa": "وضعیت جدی و غیرمنتظره که نیاز به اقدام فوری دارد"
+    },
+    "examples": {
+      "en": ["Emergency exit", "Call emergency", "Emergency services"],
+      "de": ["Notausgang", "Notfall rufen", "Notdienste"],
+      "ar": ["مخرج طوارئ", "اتصال طوارئ", "خدمات الطوارئ"],
+      "fr": ["Sortie de secours", "Appeler l'urgence", "Services d'urgence"],
+      "it": ["Uscita di emergenza", "Chiamare emergenza", "Servizi di emergenza"],
+      "ru": ["Аварийный выход", "Вызвать скорую", "Экстренные службы"],
+      "es": ["Salida de emergencia", "Llamar emergencia", "Servicios de emergencia"],
+      "pl": ["Wyjście awaryjne", "Zadzwonić po pogotowie", "Służby ratunkowe"],
+      "fa": ["خروج اضطراری", "اورژانس را صدا زدن", "خدمات اورژانسی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_500_es",
+    "word": "importante",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "important",
+      "de": "wichtig",
+      "ar": "مهم",
+      "fr": "important",
+      "it": "importante",
+      "ru": "важный",
+      "es": "importante",
+      "pl": "ważny",
+      "fa": "مهم"
+    },
+    "explanations": {
+      "en": "Having great significance, value, or consequence",
+      "de": "Von großer Bedeutung, Wert oder Konsequenz",
+      "ar": "ذو أهمية أو قيمة أو عواقب كبيرة",
+      "fr": "Ayant une grande signification, valeur ou conséquence",
+      "it": "Avendo grande significato, valore o conseguenza",
+      "ru": "Имеющий большое значение, ценность или последствие",
+      "es": "Que tiene gran significado, valor o consecuencia",
+      "pl": "Mający wielkie znaczenie, wartość lub konsekwencje",
+      "fa": "دارای اهمیت، ارزش یا عاقبت زیاد"
+    },
+    "examples": {
+      "en": ["Very important", "Important matter", "Most important"],
+      "de": ["Sehr wichtig", "Wichtige Angelegenheit", "Am wichtigsten"],
+      "ar": ["مهم جداً", "أمر مهم", "الأكثر أهمية"],
+      "fr": ["Très important", "Affaire importante", "Le plus important"],
+      "it": ["Molto importante", "Questione importante", "Più importante"],
+      "ru": ["Очень важно", "Важное дело", "Самый важный"],
+      "es": ["Muy importante", "Asunto importante", "Más importante"],
+      "pl": ["Bardzo ważny", "Ważna sprawa", "Najważniejszy"],
+      "fa": ["خیلی مهم", "موضوع مهم", "مهم‌ترین"]
+    },
+    "conjugations": null
+  }
+]

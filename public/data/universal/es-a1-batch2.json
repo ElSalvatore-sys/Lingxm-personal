@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_021_es",
+    "word": "haber",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to have (auxiliary)",
+      "de": "haben (Hilfsverb)",
+      "ar": "فعل مساعد للملكية",
+      "fr": "avoir (auxiliaire)",
+      "it": "avere (ausiliare)",
+      "ru": "иметь (вспомогательный)",
+      "es": "haber",
+      "pl": "mieć (pomocniczy)",
+      "fa": "داشتن (کمکی)"
+    },
+    "explanations": {
+      "en": "Auxiliary verb used to form compound tenses and express existence",
+      "de": "Hilfsverb zur Bildung zusammengesetzter Zeiten und zum Ausdruck von Existenz",
+      "ar": "فعل مساعد يستخدم لتكوين الأزمنة المركبة والتعبير عن الوجود",
+      "fr": "Verbe auxiliaire utilisé pour former les temps composés et exprimer l'existence",
+      "it": "Verbo ausiliare usato per formare tempi composti ed esprimere esistenza",
+      "ru": "Вспомогательный глагол для образования сложных времён и выражения существования",
+      "es": "Verbo auxiliar usado para formar tiempos compuestos y expresar existencia",
+      "pl": "Czasownik pomocniczy używany do tworzenia czasów złożonych i wyrażania istnienia",
+      "fa": "فعل کمکی برای ساخت زمان‌های مرکب و بیان وجود"
+    },
+    "examples": {
+      "en": ["There is", "I have done", "There are"],
+      "de": ["Es gibt", "Ich habe gemacht", "Es gibt viele"],
+      "ar": ["هناك", "لقد فعلت", "هناك"],
+      "fr": ["Il y a", "J'ai fait", "Il y a beaucoup"],
+      "it": ["C'è", "Ho fatto", "Ci sono"],
+      "ru": ["Есть", "Я сделал", "Есть много"],
+      "es": ["Hay", "Yo he hecho", "Hay"],
+      "pl": ["Jest", "Zrobiłem", "Jest wiele"],
+      "fa": ["هست", "من کرده‌ام", "هستند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_022_es",
+    "word": "encontrar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to find",
+      "de": "finden",
+      "ar": "يجد",
+      "fr": "trouver",
+      "it": "trovare",
+      "ru": "находить",
+      "es": "encontrar",
+      "pl": "znajdować",
+      "fa": "یافتن"
+    },
+    "explanations": {
+      "en": "Verb expressing discovery or location of something",
+      "de": "Verb für Entdeckung oder Auffinden von etwas",
+      "ar": "فعل يعبر عن اكتشاف أو تحديد موقع شيء ما",
+      "fr": "Verbe exprimant la découverte ou la localisation de quelque chose",
+      "it": "Verbo che esprime scoperta o localizzazione di qualcosa",
+      "ru": "Глагол, выражающий обнаружение или местонахождение чего-либо",
+      "es": "Verbo que expresa descubrimiento o ubicación de algo",
+      "pl": "Czasownik wyrażający odkrycie lub lokalizację czegoś",
+      "fa": "فعلی که کشف یا مکان یابی چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I find", "You find", "He finds"],
+      "de": ["Ich finde", "Du findest", "Er findet"],
+      "ar": ["أنا أجد", "أنت تجد", "هو يجد"],
+      "fr": ["Je trouve", "Tu trouves", "Il trouve"],
+      "it": ["Io trovo", "Tu trovi", "Lui trova"],
+      "ru": ["Я нахожу", "Ты находишь", "Он находит"],
+      "es": ["Yo encuentro", "Tú encuentras", "Él encuentra"],
+      "pl": ["Ja znajduję", "Ty znajdujesz", "On znajduje"],
+      "fa": ["من می‌یابم", "تو می‌یابی", "او می‌یابد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_023_es",
+    "word": "seguir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to follow, to continue",
+      "de": "folgen, fortsetzen",
+      "ar": "يتبع، يستمر",
+      "fr": "suivre, continuer",
+      "it": "seguire, continuare",
+      "ru": "следовать, продолжать",
+      "es": "seguir",
+      "pl": "podążać, kontynuować",
+      "fa": "دنبال کردن، ادامه دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing continuation or following",
+      "de": "Verb für Fortsetzung oder Nachfolgen",
+      "ar": "فعل يعبر عن الاستمرار أو المتابعة",
+      "fr": "Verbe exprimant la continuation ou le suivi",
+      "it": "Verbo che esprime continuazione o seguire",
+      "ru": "Глагол, выражающий продолжение или следование",
+      "es": "Verbo que expresa continuación o seguimiento",
+      "pl": "Czasownik wyrażający kontynuację lub podążanie",
+      "fa": "فعلی که ادامه یا دنبال کردن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I follow", "You continue", "We follow"],
+      "de": ["Ich folge", "Du folgst weiter", "Wir folgen"],
+      "ar": ["أنا أتبع", "أنت تستمر", "نحن نتبع"],
+      "fr": ["Je suis", "Tu continues", "Nous suivons"],
+      "it": ["Io seguo", "Tu continui", "Noi seguiamo"],
+      "ru": ["Я следую", "Ты продолжаешь", "Мы следуем"],
+      "es": ["Yo sigo", "Tú sigues", "Nosotros seguimos"],
+      "pl": ["Ja podążam", "Ty kontynuujesz", "My podążamy"],
+      "fa": ["من دنبال می‌کنم", "تو ادامه می‌دهی", "ما دنبال می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_024_es",
+    "word": "parecer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to seem, to appear",
+      "de": "scheinen, erscheinen",
+      "ar": "يبدو",
+      "fr": "sembler, paraître",
+      "it": "sembrare, apparire",
+      "ru": "казаться, выглядеть",
+      "es": "parecer",
+      "pl": "wydawać się",
+      "fa": "به نظر رسیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing appearance or seeming",
+      "de": "Verb für Erscheinung oder Anschein",
+      "ar": "فعل يعبر عن الظهور أو البدو",
+      "fr": "Verbe exprimant l'apparence ou le semblant",
+      "it": "Verbo che esprime apparenza o sembrare",
+      "ru": "Глагол, выражающий внешний вид или кажимость",
+      "es": "Verbo que expresa apariencia o parecer",
+      "pl": "Czasownik wyrażający pozór lub wydawanie się",
+      "fa": "فعلی که ظاهر یا به نظر رسیدن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["It seems", "You seem", "He appears"],
+      "de": ["Es scheint", "Du scheinst", "Er erscheint"],
+      "ar": ["يبدو", "أنت تبدو", "هو يبدو"],
+      "fr": ["Il semble", "Tu sembles", "Il paraît"],
+      "it": ["Sembra", "Tu sembri", "Lui appare"],
+      "ru": ["Кажется", "Ты кажешься", "Он выглядит"],
+      "es": ["Parece", "Tú pareces", "Él parece"],
+      "pl": ["Wydaje się", "Ty wydajesz się", "On wydaje się"],
+      "fa": ["به نظر می‌رسد", "تو به نظر می‌رسی", "او به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_025_es",
+    "word": "quedar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to stay, to remain",
+      "de": "bleiben, verbleiben",
+      "ar": "يبقى",
+      "fr": "rester, demeurer",
+      "it": "rimanere, restare",
+      "ru": "оставаться",
+      "es": "quedar",
+      "pl": "zostać, pozostać",
+      "fa": "ماندن"
+    },
+    "explanations": {
+      "en": "Verb expressing remaining or staying in a place or state",
+      "de": "Verb für Verbleiben oder Bleiben an einem Ort oder in einem Zustand",
+      "ar": "فعل يعبر عن البقاء في مكان أو حالة",
+      "fr": "Verbe exprimant le fait de rester dans un lieu ou un état",
+      "it": "Verbo che esprime rimanere o restare in un luogo o stato",
+      "ru": "Глагол, выражающий пребывание в месте или состоянии",
+      "es": "Verbo que expresa permanecer o quedarse en un lugar o estado",
+      "pl": "Czasownik wyrażający pozostawanie w miejscu lub stanie",
+      "fa": "فعلی که ماندن در مکان یا حالتی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I stay", "You remain", "It stays"],
+      "de": ["Ich bleibe", "Du bleibst", "Es bleibt"],
+      "ar": ["أنا أبقى", "أنت تبقى", "يبقى"],
+      "fr": ["Je reste", "Tu restes", "Ça reste"],
+      "it": ["Io resto", "Tu resti", "Resta"],
+      "ru": ["Я остаюсь", "Ты остаёшься", "Остаётся"],
+      "es": ["Yo quedo", "Tú quedas", "Queda"],
+      "pl": ["Ja zostaję", "Ty zostajesz", "Zostaje"],
+      "fa": ["من می‌مانم", "تو می‌مانی", "می‌ماند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_026_es",
+    "word": "creer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to believe, to think",
+      "de": "glauben, denken",
+      "ar": "يعتقد، يظن",
+      "fr": "croire, penser",
+      "it": "credere, pensare",
+      "ru": "верить, думать",
+      "es": "creer",
+      "pl": "wierzyć, myśleć",
+      "fa": "باور کردن، فکر کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing belief or opinion",
+      "de": "Verb für Glaube oder Meinung",
+      "ar": "فعل يعبر عن الاعتقاد أو الرأي",
+      "fr": "Verbe exprimant la croyance ou l'opinion",
+      "it": "Verbo che esprime credenza o opinione",
+      "ru": "Глагол, выражающий веру или мнение",
+      "es": "Verbo que expresa creencia u opinión",
+      "pl": "Czasownik wyrażający przekonanie lub opinię",
+      "fa": "فعلی که باور یا نظر را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I believe", "You think", "She believes"],
+      "de": ["Ich glaube", "Du denkst", "Sie glaubt"],
+      "ar": ["أنا أعتقد", "أنت تظن", "هي تعتقد"],
+      "fr": ["Je crois", "Tu penses", "Elle croit"],
+      "it": ["Io credo", "Tu pensi", "Lei crede"],
+      "ru": ["Я верю", "Ты думаешь", "Она верит"],
+      "es": ["Yo creo", "Tú crees", "Ella cree"],
+      "pl": ["Ja wierzę", "Ty myślisz", "Ona wierzy"],
+      "fa": ["من باور دارم", "تو فکر می‌کنی", "او باور دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_027_es",
+    "word": "hablar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to speak, to talk",
+      "de": "sprechen, reden",
+      "ar": "يتكلم، يتحدث",
+      "fr": "parler",
+      "it": "parlare",
+      "ru": "говорить, разговаривать",
+      "es": "hablar",
+      "pl": "mówić, rozmawiać",
+      "fa": "صحبت کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing verbal communication or speech",
+      "de": "Verb für verbale Kommunikation oder Sprechen",
+      "ar": "فعل يعبر عن التواصل اللفظي أو الكلام",
+      "fr": "Verbe exprimant la communication verbale ou la parole",
+      "it": "Verbo che esprime comunicazione verbale o discorso",
+      "ru": "Глагол, выражающий вербальную коммуникацию или речь",
+      "es": "Verbo que expresa comunicación verbal o habla",
+      "pl": "Czasownik wyrażający komunikację werbalną lub mowę",
+      "fa": "فعلی که ارتباط کلامی یا سخن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I speak", "You talk", "We speak"],
+      "de": ["Ich spreche", "Du redest", "Wir sprechen"],
+      "ar": ["أنا أتكلم", "أنت تتحدث", "نحن نتكلم"],
+      "fr": ["Je parle", "Tu parles", "Nous parlons"],
+      "it": ["Io parlo", "Tu parli", "Noi parliamo"],
+      "ru": ["Я говорю", "Ты разговариваешь", "Мы говорим"],
+      "es": ["Yo hablo", "Tú hablas", "Nosotros hablamos"],
+      "pl": ["Ja mówię", "Ty mówisz", "My mówimy"],
+      "fa": ["من صحبت می‌کنم", "تو صحبت می‌کنی", "ما صحبت می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_028_es",
+    "word": "llevar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to carry, to take",
+      "de": "tragen, bringen",
+      "ar": "يحمل، يأخذ",
+      "fr": "porter, emporter",
+      "it": "portare",
+      "ru": "нести, брать",
+      "es": "llevar",
+      "pl": "nieść, zabierać",
+      "fa": "بردن، حمل کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing carrying or taking something",
+      "de": "Verb für Tragen oder Mitnehmen von etwas",
+      "ar": "فعل يعبر عن حمل أو أخذ شيء ما",
+      "fr": "Verbe exprimant le fait de porter ou d'emporter quelque chose",
+      "it": "Verbo che esprime portare o prendere qualcosa",
+      "ru": "Глагол, выражающий несение или взятие чего-либо",
+      "es": "Verbo que expresa llevar o tomar algo",
+      "pl": "Czasownik wyrażający niesienie lub zabieranie czegoś",
+      "fa": "فعلی که بردن یا گرفتن چیزی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I carry", "You take", "He carries"],
+      "de": ["Ich trage", "Du nimmst", "Er trägt"],
+      "ar": ["أنا أحمل", "أنت تأخذ", "هو يحمل"],
+      "fr": ["Je porte", "Tu emportes", "Il porte"],
+      "it": ["Io porto", "Tu porti", "Lui porta"],
+      "ru": ["Я несу", "Ты берёшь", "Он несёт"],
+      "es": ["Yo llevo", "Tú llevas", "Él lleva"],
+      "pl": ["Ja niosę", "Ty zabierasz", "On niesie"],
+      "fa": ["من می‌برم", "تو می‌بری", "او می‌برد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_029_es",
+    "word": "dejar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to leave, to let",
+      "de": "lassen, verlassen",
+      "ar": "يترك، يسمح",
+      "fr": "laisser, permettre",
+      "it": "lasciare, permettere",
+      "ru": "оставлять, позволять",
+      "es": "dejar",
+      "pl": "zostawiać, pozwalać",
+      "fa": "ترک کردن، اجازه دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing leaving something or allowing",
+      "de": "Verb für Verlassen von etwas oder Erlauben",
+      "ar": "فعل يعبر عن ترك شيء ما أو السماح",
+      "fr": "Verbe exprimant le fait de laisser quelque chose ou de permettre",
+      "it": "Verbo che esprime lasciare qualcosa o permettere",
+      "ru": "Глагол, выражающий оставление чего-либо или разрешение",
+      "es": "Verbo que expresa dejar algo o permitir",
+      "pl": "Czasownik wyrażający zostawianie czegoś lub pozwalanie",
+      "fa": "فعلی که ترک کردن چیزی یا اجازه دادن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I leave", "You let", "She leaves"],
+      "de": ["Ich lasse", "Du lässt", "Sie lässt"],
+      "ar": ["أنا أترك", "أنت تسمح", "هي تترك"],
+      "fr": ["Je laisse", "Tu laisses", "Elle laisse"],
+      "it": ["Io lascio", "Tu lasci", "Lei lascia"],
+      "ru": ["Я оставляю", "Ты позволяешь", "Она оставляет"],
+      "es": ["Yo dejo", "Tú dejas", "Ella deja"],
+      "pl": ["Ja zostawiam", "Ty pozwalasz", "Ona zostawia"],
+      "fa": ["من می‌گذارم", "تو اجازه می‌دهی", "او می‌گذارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_030_es",
+    "word": "sentir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to feel, to be sorry",
+      "de": "fühlen, bedauern",
+      "ar": "يشعر، يأسف",
+      "fr": "sentir, regretter",
+      "it": "sentire, dispiacere",
+      "ru": "чувствовать, сожалеть",
+      "es": "sentir",
+      "pl": "czuć, żałować",
+      "fa": "احساس کردن، متأسف بودن"
+    },
+    "explanations": {
+      "en": "Verb expressing feelings or emotions",
+      "de": "Verb für Gefühle oder Emotionen",
+      "ar": "فعل يعبر عن المشاعر أو العواطف",
+      "fr": "Verbe exprimant les sentiments ou les émotions",
+      "it": "Verbo che esprime sentimenti o emozioni",
+      "ru": "Глагол, выражающий чувства или эмоции",
+      "es": "Verbo que expresa sentimientos o emociones",
+      "pl": "Czasownik wyrażający uczucia lub emocje",
+      "fa": "فعلی که احساسات یا عواطف را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I feel", "You feel sorry", "He feels"],
+      "de": ["Ich fühle", "Du bedauerst", "Er fühlt"],
+      "ar": ["أنا أشعر", "أنت تأسف", "هو يشعر"],
+      "fr": ["Je sens", "Tu regrettes", "Il sent"],
+      "it": ["Io sento", "Tu ti dispiace", "Lui sente"],
+      "ru": ["Я чувствую", "Ты сожалеешь", "Он чувствует"],
+      "es": ["Yo siento", "Tú sientes", "Él siente"],
+      "pl": ["Ja czuję", "Ty żałujesz", "On czuje"],
+      "fa": ["من احساس می‌کنم", "تو متأسفی", "او احساس می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_031_es",
+    "word": "trabajar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to work",
+      "de": "arbeiten",
+      "ar": "يعمل",
+      "fr": "travailler",
+      "it": "lavorare",
+      "ru": "работать",
+      "es": "trabajar",
+      "pl": "pracować",
+      "fa": "کار کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing employment or effort",
+      "de": "Verb für Beschäftigung oder Anstrengung",
+      "ar": "فعل يعبر عن العمل أو الجهد",
+      "fr": "Verbe exprimant l'emploi ou l'effort",
+      "it": "Verbo che esprime lavoro o sforzo",
+      "ru": "Глагол, выражающий работу или усилие",
+      "es": "Verbo que expresa empleo o esfuerzo",
+      "pl": "Czasownik wyrażający zatrudnienie lub wysiłek",
+      "fa": "فعلی که کار یا تلاش را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I work", "You work", "We work"],
+      "de": ["Ich arbeite", "Du arbeitest", "Wir arbeiten"],
+      "ar": ["أنا أعمل", "أنت تعمل", "نحن نعمل"],
+      "fr": ["Je travaille", "Tu travailles", "Nous travaillons"],
+      "it": ["Io lavoro", "Tu lavori", "Noi lavoriamo"],
+      "ru": ["Я работаю", "Ты работаешь", "Мы работаем"],
+      "es": ["Yo trabajo", "Tú trabajas", "Nosotros trabajamos"],
+      "pl": ["Ja pracuję", "Ty pracujesz", "My pracujemy"],
+      "fa": ["من کار می‌کنم", "تو کار می‌کنی", "ما کار می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_032_es",
+    "word": "llamar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to call, to name",
+      "de": "rufen, nennen",
+      "ar": "ينادي، يسمي",
+      "fr": "appeler",
+      "it": "chiamare",
+      "ru": "звать, называть",
+      "es": "llamar",
+      "pl": "wołać, nazywać",
+      "fa": "صدا زدن، نامیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing calling someone or naming",
+      "de": "Verb für Rufen von jemandem oder Benennen",
+      "ar": "فعل يعبر عن مناداة شخص ما أو التسمية",
+      "fr": "Verbe exprimant le fait d'appeler quelqu'un ou de nommer",
+      "it": "Verbo che esprime chiamare qualcuno o nominare",
+      "ru": "Глагол, выражающий зов кого-либо или называние",
+      "es": "Verbo que expresa llamar a alguien o nombrar",
+      "pl": "Czasownik wyrażający wołanie kogoś lub nazywanie",
+      "fa": "فعلی که صدا زدن کسی یا نام‌گذاری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I call", "You call", "He calls"],
+      "de": ["Ich rufe", "Du rufst", "Er ruft"],
+      "ar": ["أنا أنادي", "أنت تنادي", "هو ينادي"],
+      "fr": ["J'appelle", "Tu appelles", "Il appelle"],
+      "it": ["Io chiamo", "Tu chiami", "Lui chiama"],
+      "ru": ["Я зову", "Ты зовёшь", "Он зовёт"],
+      "es": ["Yo llamo", "Tú llamas", "Él llama"],
+      "pl": ["Ja wołam", "Ty wołasz", "On woła"],
+      "fa": ["من صدا می‌زنم", "تو صدا می‌زنی", "او صدا می‌زند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_033_es",
+    "word": "venir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to come",
+      "de": "kommen",
+      "ar": "يأتي",
+      "fr": "venir",
+      "it": "venire",
+      "ru": "приходить",
+      "es": "venir",
+      "pl": "przychodzić",
+      "fa": "آمدن"
+    },
+    "explanations": {
+      "en": "Verb expressing movement toward the speaker",
+      "de": "Verb für Bewegung zum Sprecher hin",
+      "ar": "فعل يعبر عن الحركة نحو المتكلم",
+      "fr": "Verbe exprimant le mouvement vers le locuteur",
+      "it": "Verbo che esprime movimento verso il parlante",
+      "ru": "Глагол, выражающий движение к говорящему",
+      "es": "Verbo que expresa movimiento hacia el hablante",
+      "pl": "Czasownik wyrażający ruch w stronę mówiącego",
+      "fa": "فعلی که حرکت به سمت گوینده را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I come", "You come", "She comes"],
+      "de": ["Ich komme", "Du kommst", "Sie kommt"],
+      "ar": ["أنا آتي", "أنت تأتي", "هي تأتي"],
+      "fr": ["Je viens", "Tu viens", "Elle vient"],
+      "it": ["Io vengo", "Tu vieni", "Lei viene"],
+      "ru": ["Я прихожу", "Ты приходишь", "Она приходит"],
+      "es": ["Yo vengo", "Tú vienes", "Ella viene"],
+      "pl": ["Ja przychodzę", "Ty przychodzisz", "Ona przychodzi"],
+      "fa": ["من می‌آیم", "تو می‌آیی", "او می‌آید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_034_es",
+    "word": "pensar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to think",
+      "de": "denken",
+      "ar": "يفكر",
+      "fr": "penser",
+      "it": "pensare",
+      "ru": "думать",
+      "es": "pensar",
+      "pl": "myśleć",
+      "fa": "فکر کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing mental activity or thought",
+      "de": "Verb für geistige Aktivität oder Gedanken",
+      "ar": "فعل يعبر عن النشاط العقلي أو التفكير",
+      "fr": "Verbe exprimant l'activité mentale ou la pensée",
+      "it": "Verbo che esprime attività mentale o pensiero",
+      "ru": "Глагол, выражающий умственную деятельность или мысль",
+      "es": "Verbo que expresa actividad mental o pensamiento",
+      "pl": "Czasownik wyrażający aktywność umysłową lub myśl",
+      "fa": "فعلی که فعالیت ذهنی یا فکر را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I think", "You think", "We think"],
+      "de": ["Ich denke", "Du denkst", "Wir denken"],
+      "ar": ["أنا أفكر", "أنت تفكر", "نحن نفكر"],
+      "fr": ["Je pense", "Tu penses", "Nous pensons"],
+      "it": ["Io penso", "Tu pensi", "Noi pensiamo"],
+      "ru": ["Я думаю", "Ты думаешь", "Мы думаем"],
+      "es": ["Yo pienso", "Tú piensas", "Nosotros pensamos"],
+      "pl": ["Ja myślę", "Ty myślisz", "My myślimy"],
+      "fa": ["من فکر می‌کنم", "تو فکر می‌کنی", "ما فکر می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_035_es",
+    "word": "salir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to leave, to go out",
+      "de": "verlassen, ausgehen",
+      "ar": "يخرج، يغادر",
+      "fr": "sortir, partir",
+      "it": "uscire, partire",
+      "ru": "выходить, уходить",
+      "es": "salir",
+      "pl": "wychodzić, wyjeżdżać",
+      "fa": "بیرون رفتن، خارج شدن"
+    },
+    "explanations": {
+      "en": "Verb expressing departure or going out",
+      "de": "Verb für Abreise oder Ausgehen",
+      "ar": "فعل يعبر عن المغادرة أو الخروج",
+      "fr": "Verbe exprimant le départ ou la sortie",
+      "it": "Verbo che esprime partenza o uscita",
+      "ru": "Глагол, выражающий отбытие или выход",
+      "es": "Verbo que expresa salida o irse",
+      "pl": "Czasownik wyrażający wyjście lub wyjazd",
+      "fa": "فعلی که خروج یا بیرون رفتن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I leave", "You go out", "He leaves"],
+      "de": ["Ich gehe", "Du gehst aus", "Er geht"],
+      "ar": ["أنا أخرج", "أنت تخرج", "هو يخرج"],
+      "fr": ["Je sors", "Tu sors", "Il sort"],
+      "it": ["Io esco", "Tu esci", "Lui esce"],
+      "ru": ["Я выхожу", "Ты выходишь", "Он выходит"],
+      "es": ["Yo salgo", "Tú sales", "Él sale"],
+      "pl": ["Ja wychodzę", "Ty wychodzisz", "On wychodzi"],
+      "fa": ["من بیرون می‌روم", "تو بیرون می‌روی", "او بیرون می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_036_es",
+    "word": "volver",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to return, to come back",
+      "de": "zurückkehren, zurückkommen",
+      "ar": "يعود، يرجع",
+      "fr": "revenir, retourner",
+      "it": "tornare, ritornare",
+      "ru": "возвращаться",
+      "es": "volver",
+      "pl": "wracać, powracać",
+      "fa": "برگشتن، بازگشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing return or coming back",
+      "de": "Verb für Rückkehr oder Zurückkommen",
+      "ar": "فعل يعبر عن العودة أو الرجوع",
+      "fr": "Verbe exprimant le retour ou le fait de revenir",
+      "it": "Verbo che esprime ritorno o tornare",
+      "ru": "Глагол, выражающий возвращение",
+      "es": "Verbo que expresa regreso o volver",
+      "pl": "Czasownik wyrażający powrót lub wracanie",
+      "fa": "فعلی که بازگشت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I return", "You come back", "We return"],
+      "de": ["Ich kehre zurück", "Du kommst zurück", "Wir kehren zurück"],
+      "ar": ["أنا أعود", "أنت ترجع", "نحن نعود"],
+      "fr": ["Je reviens", "Tu reviens", "Nous revenons"],
+      "it": ["Io torno", "Tu torni", "Noi torniamo"],
+      "ru": ["Я возвращаюсь", "Ты возвращаешься", "Мы возвращаемся"],
+      "es": ["Yo vuelvo", "Tú vuelves", "Nosotros volvemos"],
+      "pl": ["Ja wracam", "Ty wracasz", "My wracamy"],
+      "fa": ["من برمی‌گردم", "تو برمی‌گردی", "ما برمی‌گردیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_037_es",
+    "word": "tomar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to take, to drink",
+      "de": "nehmen, trinken",
+      "ar": "يأخذ، يشرب",
+      "fr": "prendre, boire",
+      "it": "prendere, bere",
+      "ru": "брать, пить",
+      "es": "tomar",
+      "pl": "brać, pić",
+      "fa": "گرفتن، نوشیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing taking or drinking",
+      "de": "Verb für Nehmen oder Trinken",
+      "ar": "فعل يعبر عن الأخذ أو الشرب",
+      "fr": "Verbe exprimant le fait de prendre ou de boire",
+      "it": "Verbo che esprime prendere o bere",
+      "ru": "Глагол, выражающий взятие или питьё",
+      "es": "Verbo que expresa tomar o beber",
+      "pl": "Czasownik wyrażający branie lub picie",
+      "fa": "فعلی که گرفتن یا نوشیدن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I take", "You drink", "She takes"],
+      "de": ["Ich nehme", "Du trinkst", "Sie nimmt"],
+      "ar": ["أنا آخذ", "أنت تشرب", "هي تأخذ"],
+      "fr": ["Je prends", "Tu bois", "Elle prend"],
+      "it": ["Io prendo", "Tu bevi", "Lei prende"],
+      "ru": ["Я беру", "Ты пьёшь", "Она берёт"],
+      "es": ["Yo tomo", "Tú tomas", "Ella toma"],
+      "pl": ["Ja biorę", "Ty pijesz", "Ona bierze"],
+      "fa": ["من می‌گیرم", "تو می‌نوشی", "او می‌گیرد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_038_es",
+    "word": "conocer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to know (people/places)",
+      "de": "kennen",
+      "ar": "يعرف (أشخاص/أماكن)",
+      "fr": "connaître",
+      "it": "conoscere",
+      "ru": "знать (людей/места)",
+      "es": "conocer",
+      "pl": "znać (ludzi/miejsca)",
+      "fa": "شناختن (افراد/مکان‌ها)"
+    },
+    "explanations": {
+      "en": "Verb expressing familiarity with people or places",
+      "de": "Verb für Bekanntschaft mit Personen oder Orten",
+      "ar": "فعل يعبر عن المعرفة بالأشخاص أو الأماكن",
+      "fr": "Verbe exprimant la familiarité avec des personnes ou des lieux",
+      "it": "Verbo che esprime familiarità con persone o luoghi",
+      "ru": "Глагол, выражающий знакомство с людьми или местами",
+      "es": "Verbo que expresa familiaridad con personas o lugares",
+      "pl": "Czasownik wyrażający znajomość osób lub miejsc",
+      "fa": "فعلی که آشنایی با افراد یا مکان‌ها را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I know him", "You know Madrid", "We know"],
+      "de": ["Ich kenne ihn", "Du kennst Madrid", "Wir kennen"],
+      "ar": ["أنا أعرفه", "أنت تعرف مدريد", "نحن نعرف"],
+      "fr": ["Je le connais", "Tu connais Madrid", "Nous connaissons"],
+      "it": ["Io lo conosco", "Tu conosci Madrid", "Noi conosciamo"],
+      "ru": ["Я знаю его", "Ты знаешь Мадрид", "Мы знаем"],
+      "es": ["Yo conozco", "Tú conoces", "Nosotros conocemos"],
+      "pl": ["Ja znam go", "Ty znasz Madryt", "My znamy"],
+      "fa": ["من او را می‌شناسم", "تو مادرید را می‌شناسی", "ما می‌شناسیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_039_es",
+    "word": "vivir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to live",
+      "de": "leben, wohnen",
+      "ar": "يعيش",
+      "fr": "vivre, habiter",
+      "it": "vivere, abitare",
+      "ru": "жить",
+      "es": "vivir",
+      "pl": "żyć, mieszkać",
+      "fa": "زندگی کردن"
+    },
+    "explanations": {
+      "en": "Verb expressing living or residing",
+      "de": "Verb für Leben oder Wohnen",
+      "ar": "فعل يعبر عن العيش أو الإقامة",
+      "fr": "Verbe exprimant le fait de vivre ou d'habiter",
+      "it": "Verbo che esprime vivere o abitare",
+      "ru": "Глагол, выражающий жизнь или проживание",
+      "es": "Verbo que expresa vivir o residir",
+      "pl": "Czasownik wyrażający życie lub mieszkanie",
+      "fa": "فعلی که زندگی یا اقامت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I live", "You live", "We live"],
+      "de": ["Ich lebe", "Du lebst", "Wir leben"],
+      "ar": ["أنا أعيش", "أنت تعيش", "نحن نعيش"],
+      "fr": ["Je vis", "Tu vis", "Nous vivons"],
+      "it": ["Io vivo", "Tu vivi", "Noi viviamo"],
+      "ru": ["Я живу", "Ты живёшь", "Мы живём"],
+      "es": ["Yo vivo", "Tú vives", "Nosotros vivimos"],
+      "pl": ["Ja żyję", "Ty żyjesz", "My żyjemy"],
+      "fa": ["من زندگی می‌کنم", "تو زندگی می‌کنی", "ما زندگی می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_040_es",
+    "word": "escribir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to write",
+      "de": "schreiben",
+      "ar": "يكتب",
+      "fr": "écrire",
+      "it": "scrivere",
+      "ru": "писать",
+      "es": "escribir",
+      "pl": "pisać",
+      "fa": "نوشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing written communication",
+      "de": "Verb für schriftliche Kommunikation",
+      "ar": "فعل يعبر عن التواصل الكتابي",
+      "fr": "Verbe exprimant la communication écrite",
+      "it": "Verbo che esprime comunicazione scritta",
+      "ru": "Глагол, выражающий письменную коммуникацию",
+      "es": "Verbo que expresa comunicación escrita",
+      "pl": "Czasownik wyrażający komunikację pisemną",
+      "fa": "فعلی که ارتباط کتبی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I write", "You write", "He writes"],
+      "de": ["Ich schreibe", "Du schreibst", "Er schreibt"],
+      "ar": ["أنا أكتب", "أنت تكتب", "هو يكتب"],
+      "fr": ["J'écris", "Tu écris", "Il écrit"],
+      "it": ["Io scrivo", "Tu scrivi", "Lui scrive"],
+      "ru": ["Я пишу", "Ты пишешь", "Он пишет"],
+      "es": ["Yo escribo", "Tú escribes", "Él escribe"],
+      "pl": ["Ja piszę", "Ty piszesz", "On pisze"],
+      "fa": ["من می‌نویسم", "تو می‌نویسی", "او می‌نویسد"]
+    },
+    "conjugations": null
+  }
+]

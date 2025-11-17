@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_061_es",
+    "word": "nombre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "name",
+      "de": "Name",
+      "ar": "اسم",
+      "fr": "nom",
+      "it": "nome",
+      "ru": "имя",
+      "es": "nombre",
+      "pl": "imię, nazwa",
+      "fa": "نام"
+    },
+    "explanations": {
+      "en": "Word by which someone or something is known",
+      "de": "Wort, mit dem jemand oder etwas bekannt ist",
+      "ar": "الكلمة التي يُعرف بها شخص أو شيء",
+      "fr": "Mot par lequel quelqu'un ou quelque chose est connu",
+      "it": "Parola con cui qualcuno o qualcosa è conosciuto",
+      "ru": "Слово, которым известен кто-то или что-то",
+      "es": "Palabra por la cual alguien o algo es conocido",
+      "pl": "Słowo, którym ktoś lub coś jest znane",
+      "fa": "کلمه‌ای که کسی یا چیزی با آن شناخته می‌شود"
+    },
+    "examples": {
+      "en": ["My name is Ana", "What's your name", "A beautiful name"],
+      "de": ["Mein Name ist Ana", "Wie heißt du", "Ein schöner Name"],
+      "ar": ["اسمي آنا", "ما اسمك", "اسم جميل"],
+      "fr": ["Je m'appelle Ana", "Comment tu t'appelles", "Un beau nom"],
+      "it": ["Mi chiamo Ana", "Come ti chiami", "Un bel nome"],
+      "ru": ["Меня зовут Ана", "Как тебя зовут", "Красивое имя"],
+      "es": ["Mi nombre es Ana", "Cómo te llamas", "Un nombre bonito"],
+      "pl": ["Nazywam się Ana", "Jak się nazywasz", "Ładne imię"],
+      "fa": ["اسم من آنا است", "اسم تو چیه", "اسم قشنگی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_062_es",
+    "word": "mes",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "month",
+      "de": "Monat",
+      "ar": "شهر",
+      "fr": "mois",
+      "it": "mese",
+      "ru": "месяц",
+      "es": "mes",
+      "pl": "miesiąc",
+      "fa": "ماه"
+    },
+    "explanations": {
+      "en": "One of the twelve divisions of the year",
+      "de": "Eine der zwölf Einteilungen des Jahres",
+      "ar": "واحد من الأقسام الاثني عشر للسنة",
+      "fr": "Une des douze divisions de l'année",
+      "it": "Una delle dodici divisioni dell'anno",
+      "ru": "Одно из двенадцати делений года",
+      "es": "Una de las doce divisiones del año",
+      "pl": "Jeden z dwunastu podziałów roku",
+      "fa": "یکی از دوازده بخش سال"
+    },
+    "examples": {
+      "en": ["This month is June", "Next month I travel", "Last month was cold"],
+      "de": ["Dieser Monat ist Juni", "Nächsten Monat reise ich", "Letzter Monat war kalt"],
+      "ar": ["هذا الشهر يونيو", "الشهر القادم أسافر", "الشهر الماضي كان باردا"],
+      "fr": ["Ce mois est juin", "Le mois prochain je voyage", "Le mois dernier était froid"],
+      "it": ["Questo mese è giugno", "Il mese prossimo viaggio", "Il mese scorso era freddo"],
+      "ru": ["Этот месяц июнь", "В следующем месяце я путешествую", "Прошлый месяц был холодным"],
+      "es": ["Este mes es junio", "El próximo mes viajo", "El mes pasado fue frío"],
+      "pl": ["Ten miesiąc to czerwiec", "W przyszłym miesiącu podróżuję", "Poprzedni miesiąc był zimny"],
+      "fa": ["این ماه ژوئن است", "ماه آینده سفر می‌کنم", "ماه گذشته سرد بود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_063_es",
+    "word": "hora",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hour, time",
+      "de": "Stunde, Uhrzeit",
+      "ar": "ساعة",
+      "fr": "heure",
+      "it": "ora",
+      "ru": "час",
+      "es": "hora",
+      "pl": "godzina",
+      "fa": "ساعت"
+    },
+    "explanations": {
+      "en": "Period of sixty minutes or point in time",
+      "de": "Zeitraum von sechzig Minuten oder Zeitpunkt",
+      "ar": "فترة ستين دقيقة أو نقطة زمنية",
+      "fr": "Période de soixante minutes ou moment dans le temps",
+      "it": "Periodo di sessanta minuti o punto nel tempo",
+      "ru": "Период шестидесяти минут или момент времени",
+      "es": "Período de sesenta minutos o punto en el tiempo",
+      "pl": "Okres sześćdziesięciu minut lub punkt w czasie",
+      "fa": "دوره شصت دقیقه‌ای یا نقطه‌ای در زمان"
+    },
+    "examples": {
+      "en": ["What time is it", "One hour later", "At what time"],
+      "de": ["Wie spät ist es", "Eine Stunde später", "Um wie viel Uhr"],
+      "ar": ["كم الساعة", "بعد ساعة واحدة", "في أي ساعة"],
+      "fr": ["Quelle heure est-il", "Une heure plus tard", "À quelle heure"],
+      "it": ["Che ore sono", "Un'ora dopo", "A che ora"],
+      "ru": ["Который час", "Через час", "В котором часу"],
+      "es": ["Qué hora es", "Una hora después", "A qué hora"],
+      "pl": ["Która godzina", "Godzinę później", "O której godzinie"],
+      "fa": ["ساعت چنده", "یک ساعت بعد", "چه ساعتی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_064_es",
+    "word": "pregunta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "question",
+      "de": "Frage",
+      "ar": "سؤال",
+      "fr": "question",
+      "it": "domanda",
+      "ru": "вопрос",
+      "es": "pregunta",
+      "pl": "pytanie",
+      "fa": "سؤال، پرسش"
+    },
+    "explanations": {
+      "en": "Sentence requesting information",
+      "de": "Satz, der Informationen anfordert",
+      "ar": "جملة تطلب معلومات",
+      "fr": "Phrase demandant des informations",
+      "it": "Frase che richiede informazioni",
+      "ru": "Предложение, запрашивающее информацию",
+      "es": "Oración que solicita información",
+      "pl": "Zdanie żądające informacji",
+      "fa": "جمله‌ای که اطلاعات درخواست می‌کند"
+    },
+    "examples": {
+      "en": ["I have a question", "Good question", "Answer my question please"],
+      "de": ["Ich habe eine Frage", "Gute Frage", "Beantworte meine Frage bitte"],
+      "ar": ["لدي سؤال", "سؤال جيد", "أجب عن سؤالي من فضلك"],
+      "fr": ["J'ai une question", "Bonne question", "Réponds à ma question s'il te plaît"],
+      "it": ["Ho una domanda", "Buona domanda", "Rispondi alla mia domanda per favore"],
+      "ru": ["У меня вопрос", "Хороший вопрос", "Ответь на мой вопрос пожалуйста"],
+      "es": ["Tengo una pregunta", "Buena pregunta", "Responde mi pregunta por favor"],
+      "pl": ["Mam pytanie", "Dobre pytanie", "Odpowiedz na moje pytanie proszę"],
+      "fa": ["من یک سؤال دارم", "سؤال خوبی", "لطفاً به سؤالم پاسخ بده"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_065_es",
+    "word": "cabeza",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "head",
+      "de": "Kopf",
+      "ar": "رأس",
+      "fr": "tête",
+      "it": "testa",
+      "ru": "голова",
+      "es": "cabeza",
+      "pl": "głowa",
+      "fa": "سر"
+    },
+    "explanations": {
+      "en": "Upper part of the body containing the brain",
+      "de": "Oberer Teil des Körpers, der das Gehirn enthält",
+      "ar": "الجزء العلوي من الجسم يحتوي على الدماغ",
+      "fr": "Partie supérieure du corps contenant le cerveau",
+      "it": "Parte superiore del corpo contenente il cervello",
+      "ru": "Верхняя часть тела, содержащая мозг",
+      "es": "Parte superior del cuerpo que contiene el cerebro",
+      "pl": "Górna część ciała zawierająca mózg",
+      "fa": "قسمت بالایی بدن که مغز را دارد"
+    },
+    "examples": {
+      "en": ["My head hurts", "Shake your head", "Turn your head"],
+      "de": ["Mein Kopf tut weh", "Schüttle deinen Kopf", "Dreh deinen Kopf"],
+      "ar": ["رأسي يؤلمني", "هز رأسك", "أدر رأسك"],
+      "fr": ["Ma tête fait mal", "Secoue ta tête", "Tourne ta tête"],
+      "it": ["Mi fa male la testa", "Scuoti la testa", "Gira la testa"],
+      "ru": ["У меня болит голова", "Покачай головой", "Поверни голову"],
+      "es": ["Me duele la cabeza", "Mueve tu cabeza", "Gira tu cabeza"],
+      "pl": ["Boli mnie głowa", "Potrząśnij głową", "Obróć głowę"],
+      "fa": ["سرم درد می‌کند", "سرت را تکان بده", "سرت را بچرخان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_066_es",
+    "word": "cuerpo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "body",
+      "de": "Körper",
+      "ar": "جسم",
+      "fr": "corps",
+      "it": "corpo",
+      "ru": "тело",
+      "es": "cuerpo",
+      "pl": "ciało",
+      "fa": "بدن"
+    },
+    "explanations": {
+      "en": "Physical structure of a person or animal",
+      "de": "Physische Struktur einer Person oder eines Tieres",
+      "ar": "البنية الجسدية لشخص أو حيوان",
+      "fr": "Structure physique d'une personne ou d'un animal",
+      "it": "Struttura fisica di una persona o animale",
+      "ru": "Физическая структура человека или животного",
+      "es": "Estructura física de una persona o animal",
+      "pl": "Fizyczna struktura osoby lub zwierzęcia",
+      "fa": "ساختار فیزیکی یک فرد یا حیوان"
+    },
+    "examples": {
+      "en": ["My body is strong", "Take care of your body", "The human body"],
+      "de": ["Mein Körper ist stark", "Pass auf deinen Körper auf", "Der menschliche Körper"],
+      "ar": ["جسمي قوي", "اعتني بجسمك", "الجسم البشري"],
+      "fr": ["Mon corps est fort", "Prends soin de ton corps", "Le corps humain"],
+      "it": ["Il mio corpo è forte", "Abbi cura del tuo corpo", "Il corpo umano"],
+      "ru": ["Моё тело сильное", "Заботься о своём теле", "Человеческое тело"],
+      "es": ["Mi cuerpo es fuerte", "Cuida tu cuerpo", "El cuerpo humano"],
+      "pl": ["Moje ciało jest silne", "Dbaj o swoje ciało", "Ludzkie ciało"],
+      "fa": ["بدن من قوی است", "مراقب بدنت باش", "بدن انسان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_067_es",
+    "word": "ojo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "eye",
+      "de": "Auge",
+      "ar": "عين",
+      "fr": "œil",
+      "it": "occhio",
+      "ru": "глаз",
+      "es": "ojo",
+      "pl": "oko",
+      "fa": "چشم"
+    },
+    "explanations": {
+      "en": "Organ of sight",
+      "de": "Organ des Sehens",
+      "ar": "عضو البصر",
+      "fr": "Organe de la vue",
+      "it": "Organo della vista",
+      "ru": "Орган зрения",
+      "es": "Órgano de la vista",
+      "pl": "Narząd wzroku",
+      "fa": "اندام بینایی"
+    },
+    "examples": {
+      "en": ["Blue eyes", "Close your eyes", "Open your eyes"],
+      "de": ["Blaue Augen", "Schließe deine Augen", "Öffne deine Augen"],
+      "ar": ["عيون زرقاء", "أغلق عينيك", "افتح عينيك"],
+      "fr": ["Yeux bleus", "Ferme tes yeux", "Ouvre tes yeux"],
+      "it": ["Occhi azzurri", "Chiudi gli occhi", "Apri gli occhi"],
+      "ru": ["Голубые глаза", "Закрой глаза", "Открой глаза"],
+      "es": ["Ojos azules", "Cierra tus ojos", "Abre tus ojos"],
+      "pl": ["Niebieskie oczy", "Zamknij oczy", "Otwórz oczy"],
+      "fa": ["چشمان آبی", "چشمانت را ببند", "چشمانت را باز کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_068_es",
+    "word": "familia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "family",
+      "de": "Familie",
+      "ar": "عائلة",
+      "fr": "famille",
+      "it": "famiglia",
+      "ru": "семья",
+      "es": "familia",
+      "pl": "rodzina",
+      "fa": "خانواده"
+    },
+    "explanations": {
+      "en": "Group of people related by blood or marriage",
+      "de": "Gruppe von Menschen, die durch Blut oder Ehe verbunden sind",
+      "ar": "مجموعة من الناس مرتبطون بالدم أو الزواج",
+      "fr": "Groupe de personnes liées par le sang ou le mariage",
+      "it": "Gruppo di persone legate da sangue o matrimonio",
+      "ru": "Группа людей, связанных кровью или браком",
+      "es": "Grupo de personas relacionadas por sangre o matrimonio",
+      "pl": "Grupa osób powiązanych krwią lub małżeństwem",
+      "fa": "گروهی از افراد مرتبط به خون یا ازدواج"
+    },
+    "examples": {
+      "en": ["My family is big", "I love my family", "A happy family"],
+      "de": ["Meine Familie ist groß", "Ich liebe meine Familie", "Eine glückliche Familie"],
+      "ar": ["عائلتي كبيرة", "أحب عائلتي", "عائلة سعيدة"],
+      "fr": ["Ma famille est grande", "J'aime ma famille", "Une famille heureuse"],
+      "it": ["La mia famiglia è grande", "Amo la mia famiglia", "Una famiglia felice"],
+      "ru": ["Моя семья большая", "Я люблю свою семью", "Счастливая семья"],
+      "es": ["Mi familia es grande", "Amo a mi familia", "Una familia feliz"],
+      "pl": ["Moja rodzina jest duża", "Kocham moją rodzinę", "Szczęśliwa rodzina"],
+      "fa": ["خانواده من بزرگ است", "من خانواده‌ام را دوست دارم", "یک خانواده خوشحال"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_069_es",
+    "word": "amigo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "friend",
+      "de": "Freund",
+      "ar": "صديق",
+      "fr": "ami",
+      "it": "amico",
+      "ru": "друг",
+      "es": "amigo",
+      "pl": "przyjaciel",
+      "fa": "دوست"
+    },
+    "explanations": {
+      "en": "Person with whom one has a bond of mutual affection",
+      "de": "Person, mit der man eine Bindung gegenseitiger Zuneigung hat",
+      "ar": "شخص له رابطة من المودة المتبادلة",
+      "fr": "Personne avec qui on a un lien d'affection mutuelle",
+      "it": "Persona con cui si ha un legame di affetto reciproco",
+      "ru": "Человек, с которым есть связь взаимной привязанности",
+      "es": "Persona con quien se tiene un vínculo de afecto mutuo",
+      "pl": "Osoba, z którą ma się więź wzajemnej sympatii",
+      "fa": "فردی که با او رابطه محبت متقابل دارد"
+    },
+    "examples": {
+      "en": ["My best friend", "He is my friend", "Good friends always help"],
+      "de": ["Mein bester Freund", "Er ist mein Freund", "Gute Freunde helfen immer"],
+      "ar": ["صديقي المفضل", "هو صديقي", "الأصدقاء الجيدون يساعدون دائما"],
+      "fr": ["Mon meilleur ami", "Il est mon ami", "Les bons amis aident toujours"],
+      "it": ["Il mio migliore amico", "Lui è mio amico", "I buoni amici aiutano sempre"],
+      "ru": ["Мой лучший друг", "Он мой друг", "Хорошие друзья всегда помогают"],
+      "es": ["Mi mejor amigo", "Él es mi amigo", "Los buenos amigos siempre ayudan"],
+      "pl": ["Mój najlepszy przyjaciel", "On jest moim przyjacielem", "Dobrzy przyjaciele zawsze pomagają"],
+      "fa": ["بهترین دوستم", "او دوست من است", "دوستان خوب همیشه کمک می‌کنند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_070_es",
+    "word": "padre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "father",
+      "de": "Vater",
+      "ar": "أب",
+      "fr": "père",
+      "it": "padre",
+      "ru": "отец",
+      "es": "padre",
+      "pl": "ojciec",
+      "fa": "پدر"
+    },
+    "explanations": {
+      "en": "Male parent",
+      "de": "Männlicher Elternteil",
+      "ar": "الوالد الذكر",
+      "fr": "Parent masculin",
+      "it": "Genitore maschio",
+      "ru": "Мужской родитель",
+      "es": "Progenitor masculino",
+      "pl": "Rodzic płci męskiej",
+      "fa": "والد مذکر"
+    },
+    "examples": {
+      "en": ["My father works", "He is a father", "Father and son"],
+      "de": ["Mein Vater arbeitet", "Er ist Vater", "Vater und Sohn"],
+      "ar": ["أبي يعمل", "هو أب", "الأب والابن"],
+      "fr": ["Mon père travaille", "Il est père", "Père et fils"],
+      "it": ["Mio padre lavora", "Lui è padre", "Padre e figlio"],
+      "ru": ["Мой отец работает", "Он отец", "Отец и сын"],
+      "es": ["Mi padre trabaja", "Él es padre", "Padre e hijo"],
+      "pl": ["Mój ojciec pracuje", "On jest ojcem", "Ojciec i syn"],
+      "fa": ["پدرم کار می‌کند", "او پدر است", "پدر و پسر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_071_es",
+    "word": "madre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "mother",
+      "de": "Mutter",
+      "ar": "أم",
+      "fr": "mère",
+      "it": "madre",
+      "ru": "мать",
+      "es": "madre",
+      "pl": "matka",
+      "fa": "مادر"
+    },
+    "explanations": {
+      "en": "Female parent",
+      "de": "Weiblicher Elternteil",
+      "ar": "الوالدة الأنثى",
+      "fr": "Parent féminin",
+      "it": "Genitore femmina",
+      "ru": "Женский родитель",
+      "es": "Progenitora femenina",
+      "pl": "Rodzic płci żeńskiej",
+      "fa": "والد مؤنث"
+    },
+    "examples": {
+      "en": ["My mother cooks", "She is a mother", "Mother and daughter"],
+      "de": ["Meine Mutter kocht", "Sie ist Mutter", "Mutter und Tochter"],
+      "ar": ["أمي تطبخ", "هي أم", "الأم والابنة"],
+      "fr": ["Ma mère cuisine", "Elle est mère", "Mère et fille"],
+      "it": ["Mia madre cucina", "Lei è madre", "Madre e figlia"],
+      "ru": ["Моя мать готовит", "Она мать", "Мать и дочь"],
+      "es": ["Mi madre cocina", "Ella es madre", "Madre e hija"],
+      "pl": ["Moja matka gotuje", "Ona jest matką", "Matka i córka"],
+      "fa": ["مادرم آشپزی می‌کند", "او مادر است", "مادر و دختر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_072_es",
+    "word": "hijo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "son, child",
+      "de": "Sohn, Kind",
+      "ar": "ابن، ولد",
+      "fr": "fils, enfant",
+      "it": "figlio",
+      "ru": "сын, ребёнок",
+      "es": "hijo",
+      "pl": "syn, dziecko",
+      "fa": "پسر، فرزند"
+    },
+    "explanations": {
+      "en": "Male child in relation to parents",
+      "de": "Männliches Kind in Bezug auf Eltern",
+      "ar": "الطفل الذكر بالنسبة للوالدين",
+      "fr": "Enfant masculin par rapport aux parents",
+      "it": "Figlio maschio in relazione ai genitori",
+      "ru": "Ребёнок мужского пола по отношению к родителям",
+      "es": "Hijo varón en relación con los padres",
+      "pl": "Dziecko płci męskiej w stosunku do rodziców",
+      "fa": "فرزند مذکر در رابطه با والدین"
+    },
+    "examples": {
+      "en": ["My son studies", "He is my son", "Two sons"],
+      "de": ["Mein Sohn studiert", "Er ist mein Sohn", "Zwei Söhne"],
+      "ar": ["ابني يدرس", "هو ابني", "ولدان"],
+      "fr": ["Mon fils étudie", "Il est mon fils", "Deux fils"],
+      "it": ["Mio figlio studia", "Lui è mio figlio", "Due figli"],
+      "ru": ["Мой сын учится", "Он мой сын", "Два сына"],
+      "es": ["Mi hijo estudia", "Él es mi hijo", "Dos hijos"],
+      "pl": ["Mój syn się uczy", "On jest moim synem", "Dwóch synów"],
+      "fa": ["پسرم درس می‌خواند", "او پسر من است", "دو پسر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_073_es",
+    "word": "hermano",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "brother",
+      "de": "Bruder",
+      "ar": "أخ",
+      "fr": "frère",
+      "it": "fratello",
+      "ru": "брат",
+      "es": "hermano",
+      "pl": "brat",
+      "fa": "برادر"
+    },
+    "explanations": {
+      "en": "Male sibling",
+      "de": "Männliches Geschwister",
+      "ar": "الأخ الذكر",
+      "fr": "Frère",
+      "it": "Fratello maschio",
+      "ru": "Брат",
+      "es": "Hermano varón",
+      "pl": "Brat",
+      "fa": "برادر"
+    },
+    "examples": {
+      "en": ["My older brother", "He is my brother", "Two brothers play"],
+      "de": ["Mein älterer Bruder", "Er ist mein Bruder", "Zwei Brüder spielen"],
+      "ar": ["أخي الأكبر", "هو أخي", "أخوان يلعبان"],
+      "fr": ["Mon frère aîné", "Il est mon frère", "Deux frères jouent"],
+      "it": ["Mio fratello maggiore", "Lui è mio fratello", "Due fratelli giocano"],
+      "ru": ["Мой старший брат", "Он мой брат", "Два брата играют"],
+      "es": ["Mi hermano mayor", "Él es mi hermano", "Dos hermanos juegan"],
+      "pl": ["Mój starszy brat", "On jest moim bratem", "Dwóch braci się bawi"],
+      "fa": ["برادر بزرگترم", "او برادر من است", "دو برادر بازی می‌کنند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_074_es",
+    "word": "persona",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "person",
+      "de": "Person",
+      "ar": "شخص",
+      "fr": "personne",
+      "it": "persona",
+      "ru": "человек",
+      "es": "persona",
+      "pl": "osoba",
+      "fa": "شخص، فرد"
+    },
+    "explanations": {
+      "en": "Individual human being",
+      "de": "Einzelnes menschliches Wesen",
+      "ar": "إنسان فردي",
+      "fr": "Être humain individuel",
+      "it": "Essere umano individuale",
+      "ru": "Отдельный человек",
+      "es": "Ser humano individual",
+      "pl": "Indywidualna istota ludzka",
+      "fa": "انسان فردی"
+    },
+    "examples": {
+      "en": ["A nice person", "Every person is different", "One person only"],
+      "de": ["Eine nette Person", "Jede Person ist anders", "Nur eine Person"],
+      "ar": ["شخص لطيف", "كل شخص مختلف", "شخص واحد فقط"],
+      "fr": ["Une personne gentille", "Chaque personne est différente", "Une seule personne"],
+      "it": ["Una persona gentile", "Ogni persona è diversa", "Solo una persona"],
+      "ru": ["Хороший человек", "Каждый человек разный", "Только один человек"],
+      "es": ["Una persona amable", "Cada persona es diferente", "Solo una persona"],
+      "pl": ["Miła osoba", "Każda osoba jest inna", "Tylko jedna osoba"],
+      "fa": ["یک شخص خوب", "هر فرد متفاوت است", "فقط یک نفر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_075_es",
+    "word": "gente",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "people",
+      "de": "Leute, Menschen",
+      "ar": "ناس",
+      "fr": "gens",
+      "it": "gente",
+      "ru": "люди",
+      "es": "gente",
+      "pl": "ludzie",
+      "fa": "مردم"
+    },
+    "explanations": {
+      "en": "Human beings in general or considered collectively",
+      "de": "Menschen im Allgemeinen oder kollektiv betrachtet",
+      "ar": "البشر بشكل عام أو بصورة جماعية",
+      "fr": "Êtres humains en général ou considérés collectivement",
+      "it": "Esseri umani in generale o considerati collettivamente",
+      "ru": "Люди в общем или рассматриваемые коллективно",
+      "es": "Seres humanos en general o considerados colectivamente",
+      "pl": "Ludzie ogólnie lub rozważani zbiorowo",
+      "fa": "انسان‌ها به طور کلی یا به صورت جمعی"
+    },
+    "examples": {
+      "en": ["Many people here", "Good people", "The people are happy"],
+      "de": ["Viele Leute hier", "Gute Menschen", "Die Leute sind glücklich"],
+      "ar": ["ناس كثيرون هنا", "ناس طيبون", "الناس سعداء"],
+      "fr": ["Beaucoup de gens ici", "Des gens bien", "Les gens sont heureux"],
+      "it": ["Molta gente qui", "Brava gente", "La gente è felice"],
+      "ru": ["Много людей здесь", "Хорошие люди", "Люди счастливы"],
+      "es": ["Mucha gente aquí", "Buena gente", "La gente está feliz"],
+      "pl": ["Dużo ludzi tutaj", "Dobrzy ludzie", "Ludzie są szczęśliwi"],
+      "fa": ["مردم زیادی اینجا", "مردم خوب", "مردم خوشحال هستند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_076_es",
+    "word": "ciudad",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "city",
+      "de": "Stadt",
+      "ar": "مدينة",
+      "fr": "ville",
+      "it": "città",
+      "ru": "город",
+      "es": "ciudad",
+      "pl": "miasto",
+      "fa": "شهر"
+    },
+    "explanations": {
+      "en": "Large town with many people and buildings",
+      "de": "Große Stadt mit vielen Menschen und Gebäuden",
+      "ar": "بلدة كبيرة بها الكثير من الناس والمباني",
+      "fr": "Grande ville avec beaucoup de gens et de bâtiments",
+      "it": "Grande città con molte persone ed edifici",
+      "ru": "Большой город с большим количеством людей и зданий",
+      "es": "Ciudad grande con muchas personas y edificios",
+      "pl": "Duże miasto z wieloma ludźmi i budynkami",
+      "fa": "شهر بزرگ با مردم و ساختمان‌های زیاد"
+    },
+    "examples": {
+      "en": ["A big city", "I live in the city", "The city is beautiful"],
+      "de": ["Eine große Stadt", "Ich lebe in der Stadt", "Die Stadt ist schön"],
+      "ar": ["مدينة كبيرة", "أعيش في المدينة", "المدينة جميلة"],
+      "fr": ["Une grande ville", "J'habite en ville", "La ville est belle"],
+      "it": ["Una grande città", "Vivo in città", "La città è bella"],
+      "ru": ["Большой город", "Я живу в городе", "Город красивый"],
+      "es": ["Una ciudad grande", "Vivo en la ciudad", "La ciudad es hermosa"],
+      "pl": ["Duże miasto", "Mieszkam w mieście", "Miasto jest piękne"],
+      "fa": ["یک شهر بزرگ", "من در شهر زندگی می‌کنم", "شهر زیباست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_077_es",
+    "word": "calle",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "street",
+      "de": "Straße",
+      "ar": "شارع",
+      "fr": "rue",
+      "it": "strada",
+      "ru": "улица",
+      "es": "calle",
+      "pl": "ulica",
+      "fa": "خیابان"
+    },
+    "explanations": {
+      "en": "Public road in a city or town",
+      "de": "Öffentliche Straße in einer Stadt",
+      "ar": "طريق عام في مدينة أو بلدة",
+      "fr": "Route publique dans une ville",
+      "it": "Strada pubblica in una città",
+      "ru": "Общественная дорога в городе",
+      "es": "Vía pública en una ciudad o pueblo",
+      "pl": "Droga publiczna w mieście",
+      "fa": "جاده عمومی در یک شهر"
+    },
+    "examples": {
+      "en": ["Main street", "Walk down the street", "This street is long"],
+      "de": ["Hauptstraße", "Geh die Straße entlang", "Diese Straße ist lang"],
+      "ar": ["الشارع الرئيسي", "امش في الشارع", "هذا الشارع طويل"],
+      "fr": ["Rue principale", "Marche dans la rue", "Cette rue est longue"],
+      "it": ["Strada principale", "Cammina per la strada", "Questa strada è lunga"],
+      "ru": ["Главная улица", "Иди по улице", "Эта улица длинная"],
+      "es": ["Calle principal", "Camina por la calle", "Esta calle es larga"],
+      "pl": ["Główna ulica", "Idź ulicą", "Ta ulica jest długa"],
+      "fa": ["خیابان اصلی", "در خیابان راه برو", "این خیابان طولانی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_078_es",
+    "word": "puerta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "door",
+      "de": "Tür",
+      "ar": "باب",
+      "fr": "porte",
+      "it": "porta",
+      "ru": "дверь",
+      "es": "puerta",
+      "pl": "drzwi",
+      "fa": "در"
+    },
+    "explanations": {
+      "en": "Movable barrier for entering or leaving a building or room",
+      "de": "Bewegliche Barriere zum Betreten oder Verlassen eines Gebäudes oder Raums",
+      "ar": "حاجز متحرك للدخول أو الخروج من مبنى أو غرفة",
+      "fr": "Barrière mobile pour entrer ou sortir d'un bâtiment ou d'une pièce",
+      "it": "Barriera mobile per entrare o uscire da un edificio o stanza",
+      "ru": "Подвижный барьер для входа или выхода из здания или комнаты",
+      "es": "Barrera móvil para entrar o salir de un edificio o habitación",
+      "pl": "Ruchoma bariera do wchodzenia lub wychodzenia z budynku lub pomieszczenia",
+      "fa": "مانع متحرک برای ورود یا خروج از ساختمان یا اتاق"
+    },
+    "examples": {
+      "en": ["Open the door", "Close the door", "Knock on the door"],
+      "de": ["Öffne die Tür", "Schließe die Tür", "Klopf an die Tür"],
+      "ar": ["افتح الباب", "أغلق الباب", "اطرق الباب"],
+      "fr": ["Ouvre la porte", "Ferme la porte", "Frappe à la porte"],
+      "it": ["Apri la porta", "Chiudi la porta", "Bussa alla porta"],
+      "ru": ["Открой дверь", "Закрой дверь", "Постучи в дверь"],
+      "es": ["Abre la puerta", "Cierra la puerta", "Toca la puerta"],
+      "pl": ["Otwórz drzwi", "Zamknij drzwi", "Zapukaj do drzwi"],
+      "fa": ["در را باز کن", "در را ببند", "در بزن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_079_es",
+    "word": "ventana",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "window",
+      "de": "Fenster",
+      "ar": "نافذة",
+      "fr": "fenêtre",
+      "it": "finestra",
+      "ru": "окно",
+      "es": "ventana",
+      "pl": "okno",
+      "fa": "پنجره"
+    },
+    "explanations": {
+      "en": "Opening in a wall with glass to let in light",
+      "de": "Öffnung in einer Wand mit Glas, um Licht hereinzulassen",
+      "ar": "فتحة في الجدار بها زجاج للسماح بدخول الضوء",
+      "fr": "Ouverture dans un mur avec du verre pour laisser entrer la lumière",
+      "it": "Apertura in un muro con vetro per far entrare la luce",
+      "ru": "Отверстие в стене со стеклом для пропускания света",
+      "es": "Abertura en una pared con vidrio para dejar entrar luz",
+      "pl": "Otwór w ścianie ze szkłem wpuszczający światło",
+      "fa": "دریچه در دیوار با شیشه برای ورود نور"
+    },
+    "examples": {
+      "en": ["Open the window", "Look through the window", "A big window"],
+      "de": ["Öffne das Fenster", "Schau durch das Fenster", "Ein großes Fenster"],
+      "ar": ["افتح النافذة", "انظر من النافذة", "نافذة كبيرة"],
+      "fr": ["Ouvre la fenêtre", "Regarde par la fenêtre", "Une grande fenêtre"],
+      "it": ["Apri la finestra", "Guarda dalla finestra", "Una grande finestra"],
+      "ru": ["Открой окно", "Посмотри в окно", "Большое окно"],
+      "es": ["Abre la ventana", "Mira por la ventana", "Una ventana grande"],
+      "pl": ["Otwórz okno", "Patrz przez okno", "Duże okno"],
+      "fa": ["پنجره را باز کن", "از پنجره نگاه کن", "یک پنجره بزرگ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_080_es",
+    "word": "coche",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "car",
+      "de": "Auto",
+      "ar": "سيارة",
+      "fr": "voiture",
+      "it": "macchina, auto",
+      "ru": "машина",
+      "es": "coche",
+      "pl": "samochód",
+      "fa": "ماشین، اتومبیل"
+    },
+    "explanations": {
+      "en": "Motor vehicle for transportation",
+      "de": "Motorfahrzeug für den Transport",
+      "ar": "مركبة ذات محرك للنقل",
+      "fr": "Véhicule à moteur pour le transport",
+      "it": "Veicolo a motore per il trasporto",
+      "ru": "Автомобиль для транспортировки",
+      "es": "Vehículo motorizado para transporte",
+      "pl": "Pojazd silnikowy do transportu",
+      "fa": "وسیله نقلیه موتوری برای حمل و نقل"
+    },
+    "examples": {
+      "en": ["My car is red", "I drive a car", "A new car"],
+      "de": ["Mein Auto ist rot", "Ich fahre Auto", "Ein neues Auto"],
+      "ar": ["سيارتي حمراء", "أقود سيارة", "سيارة جديدة"],
+      "fr": ["Ma voiture est rouge", "Je conduis une voiture", "Une nouvelle voiture"],
+      "it": ["La mia macchina è rossa", "Guido una macchina", "Una macchina nuova"],
+      "ru": ["Моя машина красная", "Я вожу машину", "Новая машина"],
+      "es": ["Mi coche es rojo", "Conduzco un coche", "Un coche nuevo"],
+      "pl": ["Mój samochód jest czerwony", "Prowadzę samochód", "Nowy samochód"],
+      "fa": ["ماشین من قرمز است", "من ماشین می‌رانم", "یک ماشین جدید"]
+    },
+    "conjugations": null
+  }
+]

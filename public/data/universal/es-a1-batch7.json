@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_121_es",
+    "word": "hoy",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "today",
+      "de": "heute",
+      "ar": "اليوم",
+      "fr": "aujourd'hui",
+      "it": "oggi",
+      "ru": "сегодня",
+      "es": "hoy",
+      "pl": "dzisiaj",
+      "fa": "امروز"
+    },
+    "explanations": {
+      "en": "Adverb referring to the current day",
+      "de": "Adverb, das sich auf den aktuellen Tag bezieht",
+      "ar": "ظرف يشير إلى اليوم الحالي",
+      "fr": "Adverbe se référant au jour actuel",
+      "it": "Avverbio che si riferisce al giorno corrente",
+      "ru": "Наречие, обозначающее текущий день",
+      "es": "Adverbio que se refiere al día actual",
+      "pl": "Przysłówek odnoszący się do bieżącego dnia",
+      "fa": "قید که به روز جاری اشاره دارد"
+    },
+    "examples": {
+      "en": ["Today is Monday", "What do you do today", "I work today"],
+      "de": ["Heute ist Montag", "Was machst du heute", "Ich arbeite heute"],
+      "ar": ["اليوم هو الاثنين", "ماذا تفعل اليوم", "أنا أعمل اليوم"],
+      "fr": ["Aujourd'hui c'est lundi", "Que fais-tu aujourd'hui", "Je travaille aujourd'hui"],
+      "it": ["Oggi è lunedì", "Cosa fai oggi", "Io lavoro oggi"],
+      "ru": ["Сегодня понедельник", "Что ты делаешь сегодня", "Я работаю сегодня"],
+      "es": ["Hoy es lunes", "Qué haces hoy", "Yo trabajo hoy"],
+      "pl": ["Dzisiaj jest poniedziałek", "Co robisz dzisiaj", "Pracuję dzisiaj"],
+      "fa": ["امروز دوشنبه است", "امروز چه کار می‌کنی", "من امروز کار می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_122_es",
+    "word": "ayer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "yesterday",
+      "de": "gestern",
+      "ar": "أمس",
+      "fr": "hier",
+      "it": "ieri",
+      "ru": "вчера",
+      "es": "ayer",
+      "pl": "wczoraj",
+      "fa": "دیروز"
+    },
+    "explanations": {
+      "en": "Adverb referring to the day before today",
+      "de": "Adverb, das sich auf den Tag vor heute bezieht",
+      "ar": "ظرف يشير إلى اليوم السابق لليوم الحالي",
+      "fr": "Adverbe se référant au jour avant aujourd'hui",
+      "it": "Avverbio che si riferisce al giorno prima di oggi",
+      "ru": "Наречие, обозначающее день перед сегодняшним",
+      "es": "Adverbio que se refiere al día anterior a hoy",
+      "pl": "Przysłówek odnoszący się do dnia przed dzisiejszym",
+      "fa": "قید که به روز قبل از امروز اشاره دارد"
+    },
+    "examples": {
+      "en": ["Yesterday was Sunday", "I saw him yesterday", "We ate yesterday"],
+      "de": ["Gestern war Sonntag", "Ich sah ihn gestern", "Wir aßen gestern"],
+      "ar": ["أمس كان الأحد", "رأيته أمس", "أكلنا أمس"],
+      "fr": ["Hier c'était dimanche", "Je l'ai vu hier", "Nous avons mangé hier"],
+      "it": ["Ieri era domenica", "L'ho visto ieri", "Abbiamo mangiato ieri"],
+      "ru": ["Вчера было воскресенье", "Я видел его вчера", "Мы ели вчера"],
+      "es": ["Ayer fue domingo", "Lo vi ayer", "Comimos ayer"],
+      "pl": ["Wczoraj była niedziela", "Widziałem go wczoraj", "Jedliśmy wczoraj"],
+      "fa": ["دیروز یکشنبه بود", "من او را دیروز دیدم", "ما دیروز خوردیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_123_es",
+    "word": "mañana",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tomorrow",
+      "de": "morgen",
+      "ar": "غدا",
+      "fr": "demain",
+      "it": "domani",
+      "ru": "завтра",
+      "es": "mañana",
+      "pl": "jutro",
+      "fa": "فردا"
+    },
+    "explanations": {
+      "en": "Adverb referring to the day after today",
+      "de": "Adverb, das sich auf den Tag nach heute bezieht",
+      "ar": "ظرف يشير إلى اليوم التالي لليوم الحالي",
+      "fr": "Adverbe se référant au jour après aujourd'hui",
+      "it": "Avverbio che si riferisce al giorno dopo oggi",
+      "ru": "Наречие, обозначающее день после сегодняшнего",
+      "es": "Adverbio que se refiere al día siguiente a hoy",
+      "pl": "Przysłówek odnoszący się do dnia po dzisiejszym",
+      "fa": "قید که به روز بعد از امروز اشاره دارد"
+    },
+    "examples": {
+      "en": ["Tomorrow is Tuesday", "I will go tomorrow", "See you tomorrow"],
+      "de": ["Morgen ist Dienstag", "Ich gehe morgen", "Bis morgen"],
+      "ar": ["غدا هو الثلاثاء", "سأذهب غدا", "أراك غدا"],
+      "fr": ["Demain c'est mardi", "J'irai demain", "À demain"],
+      "it": ["Domani è martedì", "Andrò domani", "A domani"],
+      "ru": ["Завтра вторник", "Я пойду завтра", "До завтра"],
+      "es": ["Mañana es martes", "Voy mañana", "Hasta mañana"],
+      "pl": ["Jutro jest wtorek", "Pójdę jutro", "Do jutra"],
+      "fa": ["فردا سه‌شنبه است", "من فردا می‌روم", "فردا می‌بینمت"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_124_es",
+    "word": "siempre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "always",
+      "de": "immer",
+      "ar": "دائما",
+      "fr": "toujours",
+      "it": "sempre",
+      "ru": "всегда",
+      "es": "siempre",
+      "pl": "zawsze",
+      "fa": "همیشه"
+    },
+    "explanations": {
+      "en": "Adverb indicating frequency at all times",
+      "de": "Adverb, das Häufigkeit zu allen Zeiten anzeigt",
+      "ar": "ظرف يشير إلى التكرار في جميع الأوقات",
+      "fr": "Adverbe indiquant la fréquence en tout temps",
+      "it": "Avverbio che indica frequenza in ogni momento",
+      "ru": "Наречие, указывающее на частоту в любое время",
+      "es": "Adverbio que indica frecuencia en todo momento",
+      "pl": "Przysłówek wskazujący częstotliwość przez cały czas",
+      "fa": "قید که فراوانی در همه اوقات را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I always study", "He always smiles", "We always eat"],
+      "de": ["Ich lerne immer", "Er lächelt immer", "Wir essen immer"],
+      "ar": ["أنا أدرس دائما", "هو يبتسم دائما", "نحن نأكل دائما"],
+      "fr": ["J'étudie toujours", "Il sourit toujours", "Nous mangeons toujours"],
+      "it": ["Studio sempre", "Lui sorride sempre", "Mangiamo sempre"],
+      "ru": ["Я всегда учусь", "Он всегда улыбается", "Мы всегда едим"],
+      "es": ["Yo siempre estudio", "Él siempre sonríe", "Siempre comemos"],
+      "pl": ["Zawsze się uczę", "On zawsze się uśmiecha", "Zawsze jemy"],
+      "fa": ["من همیشه درس می‌خوانم", "او همیشه لبخند می‌زند", "ما همیشه می‌خوریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_125_es",
+    "word": "nunca",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "never",
+      "de": "nie, niemals",
+      "ar": "أبدا",
+      "fr": "jamais",
+      "it": "mai",
+      "ru": "никогда",
+      "es": "nunca",
+      "pl": "nigdy",
+      "fa": "هرگز"
+    },
+    "explanations": {
+      "en": "Adverb indicating frequency at no time",
+      "de": "Adverb, das Häufigkeit zu keiner Zeit anzeigt",
+      "ar": "ظرف يشير إلى عدم التكرار في أي وقت",
+      "fr": "Adverbe indiquant la fréquence en aucun temps",
+      "it": "Avverbio che indica frequenza in nessun momento",
+      "ru": "Наречие, указывающее на отсутствие действия",
+      "es": "Adverbio que indica frecuencia en ningún momento",
+      "pl": "Przysłówek wskazujący brak częstotliwości",
+      "fa": "قید که نبود فراوانی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I never lie", "She never comes", "We never fight"],
+      "de": ["Ich lüge nie", "Sie kommt nie", "Wir streiten nie"],
+      "ar": ["أنا لا أكذب أبدا", "هي لا تأتي أبدا", "نحن لا نتشاجر أبدا"],
+      "fr": ["Je ne mens jamais", "Elle ne vient jamais", "Nous ne nous battons jamais"],
+      "it": ["Non mento mai", "Lei non viene mai", "Non litighiamo mai"],
+      "ru": ["Я никогда не вру", "Она никогда не приходит", "Мы никогда не ссоримся"],
+      "es": ["Yo nunca miento", "Ella nunca viene", "Nunca peleamos"],
+      "pl": ["Nigdy nie kłamię", "Ona nigdy nie przychodzi", "Nigdy się nie kłócimy"],
+      "fa": ["من هرگز دروغ نمی‌گویم", "او هرگز نمی‌آید", "ما هرگز دعوا نمی‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_126_es",
+    "word": "mucho",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "much, a lot",
+      "de": "viel",
+      "ar": "كثير",
+      "fr": "beaucoup",
+      "it": "molto",
+      "ru": "много",
+      "es": "mucho",
+      "pl": "dużo",
+      "fa": "زیاد"
+    },
+    "explanations": {
+      "en": "Adverb or adjective indicating large quantity",
+      "de": "Adverb oder Adjektiv für große Menge",
+      "ar": "ظرف أو صفة تشير إلى كمية كبيرة",
+      "fr": "Adverbe ou adjectif indiquant une grande quantité",
+      "it": "Avverbio o aggettivo che indica grande quantità",
+      "ru": "Наречие или прилагательное, указывающее на большое количество",
+      "es": "Adverbio o adjetivo que indica gran cantidad",
+      "pl": "Przysłówek lub przymiotnik wskazujący dużą ilość",
+      "fa": "قید یا صفت که مقدار زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I eat a lot", "Much water", "Very much work"],
+      "de": ["Ich esse viel", "Viel Wasser", "Sehr viel Arbeit"],
+      "ar": ["أنا آكل كثيرا", "ماء كثير", "عمل كثير جدا"],
+      "fr": ["Je mange beaucoup", "Beaucoup d'eau", "Beaucoup de travail"],
+      "it": ["Mangio molto", "Molta acqua", "Molto lavoro"],
+      "ru": ["Я ем много", "Много воды", "Очень много работы"],
+      "es": ["Yo como mucho", "Mucha agua", "Mucho trabajo"],
+      "pl": ["Jem dużo", "Dużo wody", "Dużo pracy"],
+      "fa": ["من زیاد می‌خورم", "آب زیاد", "کار زیاد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_127_es",
+    "word": "poco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "little, few",
+      "de": "wenig",
+      "ar": "قليل",
+      "fr": "peu",
+      "it": "poco",
+      "ru": "мало",
+      "es": "poco",
+      "pl": "mało",
+      "fa": "کم"
+    },
+    "explanations": {
+      "en": "Adverb or adjective indicating small quantity",
+      "de": "Adverb oder Adjektiv für kleine Menge",
+      "ar": "ظرف أو صفة تشير إلى كمية صغيرة",
+      "fr": "Adverbe ou adjectif indiquant une petite quantité",
+      "it": "Avverbio o aggettivo che indica piccola quantità",
+      "ru": "Наречие или прилагательное, указывающее на малое количество",
+      "es": "Adverbio o adjetivo que indica poca cantidad",
+      "pl": "Przysłówek lub przymiotnik wskazujący małą ilość",
+      "fa": "قید یا صفت که مقدار کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I eat little", "Few people", "Little time"],
+      "de": ["Ich esse wenig", "Wenige Leute", "Wenig Zeit"],
+      "ar": ["أنا آكل قليلا", "قليل من الناس", "وقت قليل"],
+      "fr": ["Je mange peu", "Peu de gens", "Peu de temps"],
+      "it": ["Mangio poco", "Poche persone", "Poco tempo"],
+      "ru": ["Я ем мало", "Мало людей", "Мало времени"],
+      "es": ["Yo como poco", "Poca gente", "Poco tiempo"],
+      "pl": ["Jem mało", "Mało ludzi", "Mało czasu"],
+      "fa": ["من کم می‌خورم", "مردم کم", "زمان کم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_128_es",
+    "word": "todo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "all, everything",
+      "de": "alles, ganz",
+      "ar": "كل، جميع",
+      "fr": "tout",
+      "it": "tutto",
+      "ru": "всё, весь",
+      "es": "todo",
+      "pl": "wszystko, cały",
+      "fa": "همه"
+    },
+    "explanations": {
+      "en": "Pronoun or adjective indicating entirety or completeness",
+      "de": "Pronomen oder Adjektiv für Gesamtheit oder Vollständigkeit",
+      "ar": "ضمير أو صفة تشير إلى الكلية أو الاكتمال",
+      "fr": "Pronom ou adjectif indiquant l'entièreté ou la complétude",
+      "it": "Pronome o aggettivo che indica interezza o completezza",
+      "ru": "Местоимение или прилагательное, указывающее на полноту",
+      "es": "Pronombre o adjetivo que indica totalidad o completitud",
+      "pl": "Zaimek lub przymiotnik wskazujący całość lub kompletność",
+      "fa": "ضمیر یا صفت که کلیت را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I eat everything", "All the day", "All people"],
+      "de": ["Ich esse alles", "Den ganzen Tag", "Alle Menschen"],
+      "ar": ["أنا آكل كل شيء", "طوال اليوم", "كل الناس"],
+      "fr": ["Je mange tout", "Toute la journée", "Tous les gens"],
+      "it": ["Mangio tutto", "Tutto il giorno", "Tutte le persone"],
+      "ru": ["Я ем всё", "Весь день", "Все люди"],
+      "es": ["Yo como todo", "Todo el día", "Toda la gente"],
+      "pl": ["Jem wszystko", "Cały dzień", "Wszyscy ludzie"],
+      "fa": ["من همه چیز می‌خورم", "تمام روز", "همه مردم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_129_es",
+    "word": "nada",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nothing",
+      "de": "nichts",
+      "ar": "لا شيء",
+      "fr": "rien",
+      "it": "niente",
+      "ru": "ничего",
+      "es": "nada",
+      "pl": "nic",
+      "fa": "هیچ چیز"
+    },
+    "explanations": {
+      "en": "Pronoun indicating absence of anything",
+      "de": "Pronomen für Abwesenheit von etwas",
+      "ar": "ضمير يشير إلى عدم وجود أي شيء",
+      "fr": "Pronom indiquant l'absence de quoi que ce soit",
+      "it": "Pronome che indica assenza di qualsiasi cosa",
+      "ru": "Местоимение, указывающее на отсутствие чего-либо",
+      "es": "Pronombre que indica ausencia de algo",
+      "pl": "Zaimek wskazujący brak czegokolwiek",
+      "fa": "ضمیر که نبود هر چیزی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I have nothing", "Nothing happens", "I want nothing"],
+      "de": ["Ich habe nichts", "Nichts passiert", "Ich will nichts"],
+      "ar": ["ليس لدي شيء", "لا شيء يحدث", "لا أريد شيئا"],
+      "fr": ["Je n'ai rien", "Rien ne se passe", "Je ne veux rien"],
+      "it": ["Non ho niente", "Non succede niente", "Non voglio niente"],
+      "ru": ["У меня ничего нет", "Ничего не происходит", "Я ничего не хочу"],
+      "es": ["No tengo nada", "No pasa nada", "No quiero nada"],
+      "pl": ["Nie mam nic", "Nic się nie dzieje", "Nie chcę nic"],
+      "fa": ["من هیچ چیز ندارم", "هیچ اتفاقی نمی‌افتد", "من هیچ چیز نمی‌خواهم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_130_es",
+    "word": "algo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "something",
+      "de": "etwas",
+      "ar": "شيء ما",
+      "fr": "quelque chose",
+      "it": "qualcosa",
+      "ru": "что-то",
+      "es": "algo",
+      "pl": "coś",
+      "fa": "چیزی"
+    },
+    "explanations": {
+      "en": "Pronoun indicating an indefinite thing",
+      "de": "Pronomen für eine unbestimmte Sache",
+      "ar": "ضمير يشير إلى شيء غير محدد",
+      "fr": "Pronom indiquant une chose indéfinie",
+      "it": "Pronome che indica una cosa indefinita",
+      "ru": "Местоимение, указывающее на неопределённую вещь",
+      "es": "Pronombre que indica una cosa indefinida",
+      "pl": "Zaimek wskazujący nieokreśloną rzecz",
+      "fa": "ضمیر که چیز نامشخصی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I want something", "Something is wrong", "I need something"],
+      "de": ["Ich will etwas", "Etwas ist falsch", "Ich brauche etwas"],
+      "ar": ["أريد شيئا ما", "هناك شيء خطأ", "أحتاج شيئا ما"],
+      "fr": ["Je veux quelque chose", "Quelque chose ne va pas", "J'ai besoin de quelque chose"],
+      "it": ["Voglio qualcosa", "Qualcosa non va", "Ho bisogno di qualcosa"],
+      "ru": ["Я хочу что-то", "Что-то не так", "Мне нужно что-то"],
+      "es": ["Quiero algo", "Algo está mal", "Necesito algo"],
+      "pl": ["Chcę coś", "Coś jest nie tak", "Potrzebuję czegoś"],
+      "fa": ["من چیزی می‌خواهم", "چیزی اشتباه است", "من به چیزی نیاز دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_131_es",
+    "word": "alguien",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "someone, somebody",
+      "de": "jemand",
+      "ar": "شخص ما",
+      "fr": "quelqu'un",
+      "it": "qualcuno",
+      "ru": "кто-то",
+      "es": "alguien",
+      "pl": "ktoś",
+      "fa": "کسی"
+    },
+    "explanations": {
+      "en": "Pronoun indicating an indefinite person",
+      "de": "Pronomen für eine unbestimmte Person",
+      "ar": "ضمير يشير إلى شخص غير محدد",
+      "fr": "Pronom indiquant une personne indéfinie",
+      "it": "Pronome che indica una persona indefinita",
+      "ru": "Местоимение, указывающее на неопределённого человека",
+      "es": "Pronombre que indica una persona indefinida",
+      "pl": "Zaimek wskazujący nieokreśloną osobę",
+      "fa": "ضمیر که شخص نامشخصی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Someone is here", "I need someone", "Someone called you"],
+      "de": ["Jemand ist hier", "Ich brauche jemanden", "Jemand hat dich angerufen"],
+      "ar": ["شخص ما هنا", "أحتاج شخصا ما", "شخص ما اتصل بك"],
+      "fr": ["Quelqu'un est ici", "J'ai besoin de quelqu'un", "Quelqu'un t'a appelé"],
+      "it": ["Qualcuno è qui", "Ho bisogno di qualcuno", "Qualcuno ti ha chiamato"],
+      "ru": ["Кто-то здесь", "Мне нужен кто-то", "Кто-то звонил тебе"],
+      "es": ["Alguien está aquí", "Necesito a alguien", "Alguien te llamó"],
+      "pl": ["Ktoś tu jest", "Potrzebuję kogoś", "Ktoś do ciebie dzwonił"],
+      "fa": ["کسی اینجاست", "من به کسی نیاز دارم", "کسی به تو زنگ زد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_132_es",
+    "word": "nadie",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nobody, no one",
+      "de": "niemand",
+      "ar": "لا أحد",
+      "fr": "personne",
+      "it": "nessuno",
+      "ru": "никто",
+      "es": "nadie",
+      "pl": "nikt",
+      "fa": "هیچ کس"
+    },
+    "explanations": {
+      "en": "Pronoun indicating absence of any person",
+      "de": "Pronomen für Abwesenheit einer Person",
+      "ar": "ضمير يشير إلى عدم وجود أي شخص",
+      "fr": "Pronom indiquant l'absence de toute personne",
+      "it": "Pronome che indica assenza di qualsiasi persona",
+      "ru": "Местоимение, указывающее на отсутствие какого-либо человека",
+      "es": "Pronombre que indica ausencia de cualquier persona",
+      "pl": "Zaimek wskazujący brak jakiejkolwiek osoby",
+      "fa": "ضمیر که نبود هر شخصی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Nobody is here", "I see nobody", "Nobody knows"],
+      "de": ["Niemand ist hier", "Ich sehe niemanden", "Niemand weiß"],
+      "ar": ["لا أحد هنا", "لا أرى أحدا", "لا أحد يعرف"],
+      "fr": ["Personne n'est ici", "Je ne vois personne", "Personne ne sait"],
+      "it": ["Nessuno è qui", "Non vedo nessuno", "Nessuno sa"],
+      "ru": ["Никого нет здесь", "Я никого не вижу", "Никто не знает"],
+      "es": ["Nadie está aquí", "No veo a nadie", "Nadie sabe"],
+      "pl": ["Nikogo tu nie ma", "Nikogo nie widzę", "Nikt nie wie"],
+      "fa": ["هیچ کس اینجا نیست", "من هیچ کس نمی‌بینم", "هیچ کس نمی‌داند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_133_es",
+    "word": "más",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "more",
+      "de": "mehr",
+      "ar": "أكثر",
+      "fr": "plus",
+      "it": "più",
+      "ru": "больше",
+      "es": "más",
+      "pl": "więcej",
+      "fa": "بیشتر"
+    },
+    "explanations": {
+      "en": "Adverb indicating greater quantity or degree",
+      "de": "Adverb für größere Menge oder Grad",
+      "ar": "ظرف يشير إلى كمية أو درجة أكبر",
+      "fr": "Adverbe indiquant une plus grande quantité ou degré",
+      "it": "Avverbio che indica maggiore quantità o grado",
+      "ru": "Наречие, указывающее на большее количество или степень",
+      "es": "Adverbio que indica mayor cantidad o grado",
+      "pl": "Przysłówek wskazujący większą ilość lub stopień",
+      "fa": "قید که مقدار یا درجه بیشتر را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I want more", "More water please", "I need more"],
+      "de": ["Ich will mehr", "Mehr Wasser bitte", "Ich brauche mehr"],
+      "ar": ["أريد المزيد", "المزيد من الماء من فضلك", "أحتاج المزيد"],
+      "fr": ["Je veux plus", "Plus d'eau s'il vous plaît", "J'ai besoin de plus"],
+      "it": ["Voglio di più", "Più acqua per favore", "Ho bisogno di più"],
+      "ru": ["Я хочу больше", "Больше воды пожалуйста", "Мне нужно больше"],
+      "es": ["Quiero más", "Más agua por favor", "Necesito más"],
+      "pl": ["Chcę więcej", "Więcej wody proszę", "Potrzebuję więcej"],
+      "fa": ["من بیشتر می‌خواهم", "لطفا آب بیشتر", "من بیشتر نیاز دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_134_es",
+    "word": "menos",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "less, fewer",
+      "de": "weniger",
+      "ar": "أقل",
+      "fr": "moins",
+      "it": "meno",
+      "ru": "меньше",
+      "es": "menos",
+      "pl": "mniej",
+      "fa": "کمتر"
+    },
+    "explanations": {
+      "en": "Adverb indicating smaller quantity or degree",
+      "de": "Adverb für kleinere Menge oder Grad",
+      "ar": "ظرف يشير إلى كمية أو درجة أقل",
+      "fr": "Adverbe indiquant une plus petite quantité ou degré",
+      "it": "Avverbio che indica minore quantità o grado",
+      "ru": "Наречие, указывающее на меньшее количество или степень",
+      "es": "Adverbio que indica menor cantidad o grado",
+      "pl": "Przysłówek wskazujący mniejszą ilość lub stopień",
+      "fa": "قید که مقدار یا درجه کمتر را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I want less", "Less noise please", "Eat less"],
+      "de": ["Ich will weniger", "Weniger Lärm bitte", "Iss weniger"],
+      "ar": ["أريد أقل", "ضوضاء أقل من فضلك", "كل أقل"],
+      "fr": ["Je veux moins", "Moins de bruit s'il vous plaît", "Mange moins"],
+      "it": ["Voglio di meno", "Meno rumore per favore", "Mangia meno"],
+      "ru": ["Я хочу меньше", "Меньше шума пожалуйста", "Ешь меньше"],
+      "es": ["Quiero menos", "Menos ruido por favor", "Come menos"],
+      "pl": ["Chcę mniej", "Mniej hałasu proszę", "Jedz mniej"],
+      "fa": ["من کمتر می‌خواهم", "لطفا سر و صدا کمتر", "کمتر بخور"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_135_es",
+    "word": "muy",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "very",
+      "de": "sehr",
+      "ar": "جدا",
+      "fr": "très",
+      "it": "molto",
+      "ru": "очень",
+      "es": "muy",
+      "pl": "bardzo",
+      "fa": "خیلی"
+    },
+    "explanations": {
+      "en": "Adverb intensifying adjectives or adverbs",
+      "de": "Adverb zur Verstärkung von Adjektiven oder Adverbien",
+      "ar": "ظرف يكثف الصفات أو الظروف",
+      "fr": "Adverbe intensifiant les adjectifs ou adverbes",
+      "it": "Avverbio che intensifica aggettivi o avverbi",
+      "ru": "Наречие, усиливающее прилагательные или наречия",
+      "es": "Adverbio que intensifica adjetivos o adverbios",
+      "pl": "Przysłówek intensyfikujący przymiotniki lub przysłówki",
+      "fa": "قیدی که صفات یا قیود را تشدید می‌کند"
+    },
+    "examples": {
+      "en": ["Very good", "Very fast", "Very beautiful"],
+      "de": ["Sehr gut", "Sehr schnell", "Sehr schön"],
+      "ar": ["جيد جدا", "سريع جدا", "جميل جدا"],
+      "fr": ["Très bon", "Très rapide", "Très beau"],
+      "it": ["Molto buono", "Molto veloce", "Molto bello"],
+      "ru": ["Очень хорошо", "Очень быстро", "Очень красиво"],
+      "es": ["Muy bueno", "Muy rápido", "Muy bonito"],
+      "pl": ["Bardzo dobry", "Bardzo szybko", "Bardzo piękny"],
+      "fa": ["خیلی خوب", "خیلی سریع", "خیلی زیبا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_136_es",
+    "word": "bien",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "well, good",
+      "de": "gut, wohl",
+      "ar": "جيد، حسنا",
+      "fr": "bien",
+      "it": "bene",
+      "ru": "хорошо",
+      "es": "bien",
+      "pl": "dobrze",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "Adverb indicating satisfactory manner or state",
+      "de": "Adverb für zufriedenstellende Art oder Zustand",
+      "ar": "ظرف يشير إلى طريقة أو حالة مرضية",
+      "fr": "Adverbe indiquant une manière ou un état satisfaisant",
+      "it": "Avverbio che indica maniera o stato soddisfacente",
+      "ru": "Наречие, указывающее на удовлетворительное состояние",
+      "es": "Adverbio que indica manera o estado satisfactorio",
+      "pl": "Przysłówek wskazujący zadowalający sposób lub stan",
+      "fa": "قید که حالت یا روش رضایت‌بخش را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I am well", "He speaks well", "Very well"],
+      "de": ["Mir geht es gut", "Er spricht gut", "Sehr gut"],
+      "ar": ["أنا بخير", "هو يتحدث بشكل جيد", "جيد جدا"],
+      "fr": ["Je vais bien", "Il parle bien", "Très bien"],
+      "it": ["Sto bene", "Lui parla bene", "Molto bene"],
+      "ru": ["Я хорошо", "Он говорит хорошо", "Очень хорошо"],
+      "es": ["Estoy bien", "Él habla bien", "Muy bien"],
+      "pl": ["Mam się dobrze", "On mówi dobrze", "Bardzo dobrze"],
+      "fa": ["من خوبم", "او خوب صحبت می‌کند", "خیلی خوب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_137_es",
+    "word": "mal",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bad, badly",
+      "de": "schlecht",
+      "ar": "سيء، بشكل سيء",
+      "fr": "mal",
+      "it": "male",
+      "ru": "плохо",
+      "es": "mal",
+      "pl": "źle",
+      "fa": "بد"
+    },
+    "explanations": {
+      "en": "Adverb indicating unsatisfactory manner or state",
+      "de": "Adverb für unbefriedigende Art oder Zustand",
+      "ar": "ظرف يشير إلى طريقة أو حالة غير مرضية",
+      "fr": "Adverbe indiquant une manière ou un état insatisfaisant",
+      "it": "Avverbio che indica maniera o stato insoddisfacente",
+      "ru": "Наречие, указывающее на неудовлетворительное состояние",
+      "es": "Adverbio que indica manera o estado insatisfactorio",
+      "pl": "Przysłówek wskazujący niezadowalający sposób lub stan",
+      "fa": "قید که حالت یا روش نامطلوب را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I feel bad", "He sings badly", "Very bad"],
+      "de": ["Mir geht es schlecht", "Er singt schlecht", "Sehr schlecht"],
+      "ar": ["أشعر بالسوء", "هو يغني بشكل سيء", "سيء جدا"],
+      "fr": ["Je me sens mal", "Il chante mal", "Très mal"],
+      "it": ["Mi sento male", "Lui canta male", "Molto male"],
+      "ru": ["Я плохо себя чувствую", "Он поёт плохо", "Очень плохо"],
+      "es": ["Me siento mal", "Él canta mal", "Muy mal"],
+      "pl": ["Czuję się źle", "On śpiewa źle", "Bardzo źle"],
+      "fa": ["من احساس بدی دارم", "او بد می‌خواند", "خیلی بد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_138_es",
+    "word": "mejor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "better",
+      "de": "besser",
+      "ar": "أفضل",
+      "fr": "meilleur, mieux",
+      "it": "meglio",
+      "ru": "лучше",
+      "es": "mejor",
+      "pl": "lepszy, lepiej",
+      "fa": "بهتر"
+    },
+    "explanations": {
+      "en": "Comparative adjective or adverb indicating superior quality",
+      "de": "Komparativ-Adjektiv oder Adverb für höhere Qualität",
+      "ar": "صفة أو ظرف مقارنة تشير إلى جودة أفضل",
+      "fr": "Adjectif ou adverbe comparatif indiquant une qualité supérieure",
+      "it": "Aggettivo o avverbio comparativo che indica qualità superiore",
+      "ru": "Сравнительная степень, указывающая на лучшее качество",
+      "es": "Adjetivo o adverbio comparativo que indica calidad superior",
+      "pl": "Przymiotnik lub przysłówek porównawczy wskazujący lepszą jakość",
+      "fa": "صفت یا قید تفضیلی که کیفیت بهتر را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["This is better", "I feel better", "Better food"],
+      "de": ["Das ist besser", "Ich fühle mich besser", "Besseres Essen"],
+      "ar": ["هذا أفضل", "أشعر بتحسن", "طعام أفضل"],
+      "fr": ["C'est meilleur", "Je me sens mieux", "Meilleure nourriture"],
+      "it": ["Questo è meglio", "Mi sento meglio", "Cibo migliore"],
+      "ru": ["Это лучше", "Я чувствую себя лучше", "Лучшая еда"],
+      "es": ["Esto es mejor", "Me siento mejor", "Mejor comida"],
+      "pl": ["To jest lepsze", "Czuję się lepiej", "Lepsze jedzenie"],
+      "fa": ["این بهتر است", "من احساس بهتری دارم", "غذای بهتر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_139_es",
+    "word": "peor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "worse",
+      "de": "schlechter, schlimmer",
+      "ar": "أسوأ",
+      "fr": "pire",
+      "it": "peggio",
+      "ru": "хуже",
+      "es": "peor",
+      "pl": "gorszy, gorzej",
+      "fa": "بدتر"
+    },
+    "explanations": {
+      "en": "Comparative adjective or adverb indicating inferior quality",
+      "de": "Komparativ-Adjektiv oder Adverb für niedrigere Qualität",
+      "ar": "صفة أو ظرف مقارنة تشير إلى جودة أدنى",
+      "fr": "Adjectif ou adverbe comparatif indiquant une qualité inférieure",
+      "it": "Aggettivo o avverbio comparativo che indica qualità inferiore",
+      "ru": "Сравнительная степень, указывающая на худшее качество",
+      "es": "Adjetivo o adverbio comparativo que indica calidad inferior",
+      "pl": "Przymiotnik lub przysłówek porównawczy wskazujący gorszą jakość",
+      "fa": "صفت یا قید تفضیلی که کیفیت بدتر را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["This is worse", "I feel worse", "Worse day"],
+      "de": ["Das ist schlechter", "Ich fühle mich schlechter", "Schlechterer Tag"],
+      "ar": ["هذا أسوأ", "أشعر بسوء أكثر", "يوم أسوأ"],
+      "fr": ["C'est pire", "Je me sens pire", "Pire journée"],
+      "it": ["Questo è peggio", "Mi sento peggio", "Giorno peggiore"],
+      "ru": ["Это хуже", "Я чувствую себя хуже", "Худший день"],
+      "es": ["Esto es peor", "Me siento peor", "Peor día"],
+      "pl": ["To jest gorsze", "Czuję się gorzej", "Gorszy dzień"],
+      "fa": ["این بدتر است", "من احساس بدتری دارم", "روز بدتر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_140_es",
+    "word": "grande",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "big, large, great",
+      "de": "groß",
+      "ar": "كبير",
+      "fr": "grand",
+      "it": "grande",
+      "ru": "большой",
+      "es": "grande",
+      "pl": "duży, wielki",
+      "fa": "بزرگ"
+    },
+    "explanations": {
+      "en": "Adjective indicating large size or importance",
+      "de": "Adjektiv für große Größe oder Wichtigkeit",
+      "ar": "صفة تشير إلى حجم كبير أو أهمية",
+      "fr": "Adjectif indiquant une grande taille ou importance",
+      "it": "Aggettivo che indica grande dimensione o importanza",
+      "ru": "Прилагательное, указывающее на большой размер или важность",
+      "es": "Adjetivo que indica gran tamaño o importancia",
+      "pl": "Przymiotnik wskazujący duży rozmiar lub znaczenie",
+      "fa": "صفت که اندازه یا اهمیت بزرگ را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Big house", "Large city", "Great idea"],
+      "de": ["Großes Haus", "Große Stadt", "Großartige Idee"],
+      "ar": ["بيت كبير", "مدينة كبيرة", "فكرة رائعة"],
+      "fr": ["Grande maison", "Grande ville", "Grande idée"],
+      "it": ["Casa grande", "Città grande", "Grande idea"],
+      "ru": ["Большой дом", "Большой город", "Отличная идея"],
+      "es": ["Casa grande", "Ciudad grande", "Gran idea"],
+      "pl": ["Duży dom", "Duże miasto", "Świetny pomysł"],
+      "fa": ["خانه بزرگ", "شهر بزرگ", "ایده عالی"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_081_es",
+    "word": "trabajo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "work, job",
+      "de": "Arbeit",
+      "ar": "عمل، وظيفة",
+      "fr": "travail",
+      "it": "lavoro",
+      "ru": "работа",
+      "es": "trabajo",
+      "pl": "praca",
+      "fa": "کار، شغل"
+    },
+    "explanations": {
+      "en": "Activity involving effort or employment",
+      "de": "Tätigkeit, die Anstrengung oder Beschäftigung umfasst",
+      "ar": "نشاط يتضمن جهدًا أو توظيفًا",
+      "fr": "Activité impliquant un effort ou un emploi",
+      "it": "Attività che richiede sforzo o impiego",
+      "ru": "Деятельность, включающая усилия или занятость",
+      "es": "Actividad que implica esfuerzo o empleo",
+      "pl": "Działalność wymagająca wysiłku lub zatrudnienie",
+      "fa": "فعالیتی که شامل تلاش یا اشتغال است"
+    },
+    "examples": {
+      "en": ["I have work today", "Good job", "At work now"],
+      "de": ["Ich habe heute Arbeit", "Gute Arbeit", "Jetzt bei der Arbeit"],
+      "ar": ["لدي عمل اليوم", "عمل جيد", "في العمل الآن"],
+      "fr": ["J'ai du travail aujourd'hui", "Bon travail", "Au travail maintenant"],
+      "it": ["Ho lavoro oggi", "Buon lavoro", "Al lavoro ora"],
+      "ru": ["У меня работа сегодня", "Хорошая работа", "Сейчас на работе"],
+      "es": ["Tengo trabajo hoy", "Buen trabajo", "En el trabajo ahora"],
+      "pl": ["Mam pracę dzisiaj", "Dobra robota", "W pracy teraz"],
+      "fa": ["امروز کار دارم", "کار خوب", "الان سر کار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_082_es",
+    "word": "dinero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "money",
+      "de": "Geld",
+      "ar": "مال، نقود",
+      "fr": "argent",
+      "it": "denaro, soldi",
+      "ru": "деньги",
+      "es": "dinero",
+      "pl": "pieniądze",
+      "fa": "پول"
+    },
+    "explanations": {
+      "en": "Currency used for buying and selling",
+      "de": "Währung zum Kaufen und Verkaufen",
+      "ar": "العملة المستخدمة للشراء والبيع",
+      "fr": "Monnaie utilisée pour acheter et vendre",
+      "it": "Valuta usata per comprare e vendere",
+      "ru": "Валюта, используемая для покупки и продажи",
+      "es": "Moneda utilizada para comprar y vender",
+      "pl": "Waluta używana do kupowania i sprzedawania",
+      "fa": "پولی که برای خرید و فروش استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["I need money", "How much money", "I have no money"],
+      "de": ["Ich brauche Geld", "Wie viel Geld", "Ich habe kein Geld"],
+      "ar": ["أحتاج المال", "كم من المال", "ليس لدي مال"],
+      "fr": ["J'ai besoin d'argent", "Combien d'argent", "Je n'ai pas d'argent"],
+      "it": ["Ho bisogno di soldi", "Quanti soldi", "Non ho soldi"],
+      "ru": ["Мне нужны деньги", "Сколько денег", "У меня нет денег"],
+      "es": ["Necesito dinero", "Cuánto dinero", "No tengo dinero"],
+      "pl": ["Potrzebuję pieniędzy", "Ile pieniędzy", "Nie mam pieniędzy"],
+      "fa": ["من به پول نیاز دارم", "چقدر پول", "من پول ندارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_083_es",
+    "word": "libro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "book",
+      "de": "Buch",
+      "ar": "كتاب",
+      "fr": "livre",
+      "it": "libro",
+      "ru": "книга",
+      "es": "libro",
+      "pl": "książka",
+      "fa": "کتاب"
+    },
+    "explanations": {
+      "en": "Written work with pages bound together",
+      "de": "Geschriebenes Werk mit gebundenen Seiten",
+      "ar": "عمل مكتوب بصفحات مجلدة معًا",
+      "fr": "Ouvrage écrit avec des pages reliées ensemble",
+      "it": "Opera scritta con pagine rilegate insieme",
+      "ru": "Письменное произведение со связанными страницами",
+      "es": "Obra escrita con páginas unidas",
+      "pl": "Dzieło pisane ze złączonymi stronami",
+      "fa": "اثر نوشته شده با صفحات بسته شده"
+    },
+    "examples": {
+      "en": ["I read a book", "This book is good", "Buy a new book"],
+      "de": ["Ich lese ein Buch", "Dieses Buch ist gut", "Kauf ein neues Buch"],
+      "ar": ["أقرأ كتابا", "هذا الكتاب جيد", "اشتر كتابا جديدا"],
+      "fr": ["Je lis un livre", "Ce livre est bon", "Achète un nouveau livre"],
+      "it": ["Leggo un libro", "Questo libro è buono", "Compra un libro nuovo"],
+      "ru": ["Я читаю книгу", "Эта книга хорошая", "Купи новую книгу"],
+      "es": ["Leo un libro", "Este libro es bueno", "Compra un libro nuevo"],
+      "pl": ["Czytam książkę", "Ta książka jest dobra", "Kup nową książkę"],
+      "fa": ["من کتاب می‌خوانم", "این کتاب خوب است", "یک کتاب جدید بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_084_es",
+    "word": "escuela",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "school",
+      "de": "Schule",
+      "ar": "مدرسة",
+      "fr": "école",
+      "it": "scuola",
+      "ru": "школа",
+      "es": "escuela",
+      "pl": "szkoła",
+      "fa": "مدرسه"
+    },
+    "explanations": {
+      "en": "Institution for educating children",
+      "de": "Institution zur Ausbildung von Kindern",
+      "ar": "مؤسسة لتعليم الأطفال",
+      "fr": "Institution pour éduquer les enfants",
+      "it": "Istituzione per educare i bambini",
+      "ru": "Учреждение для обучения детей",
+      "es": "Institución para educar niños",
+      "pl": "Instytucja edukująca dzieci",
+      "fa": "مؤسسه برای آموزش کودکان"
+    },
+    "examples": {
+      "en": ["I go to school", "The school is big", "At school today"],
+      "de": ["Ich gehe zur Schule", "Die Schule ist groß", "Heute in der Schule"],
+      "ar": ["أذهب إلى المدرسة", "المدرسة كبيرة", "في المدرسة اليوم"],
+      "fr": ["Je vais à l'école", "L'école est grande", "À l'école aujourd'hui"],
+      "it": ["Vado a scuola", "La scuola è grande", "A scuola oggi"],
+      "ru": ["Я иду в школу", "Школа большая", "В школе сегодня"],
+      "es": ["Voy a la escuela", "La escuela es grande", "En la escuela hoy"],
+      "pl": ["Idę do szkoły", "Szkoła jest duża", "W szkole dzisiaj"],
+      "fa": ["من به مدرسه می‌روم", "مدرسه بزرگ است", "امروز در مدرسه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_085_es",
+    "word": "clase",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "class, lesson",
+      "de": "Klasse, Unterricht",
+      "ar": "صف، درس",
+      "fr": "cours, classe",
+      "it": "classe, lezione",
+      "ru": "класс, урок",
+      "es": "clase",
+      "pl": "klasa, lekcja",
+      "fa": "کلاس، درس"
+    },
+    "explanations": {
+      "en": "Group of students learning together",
+      "de": "Gruppe von Schülern, die zusammen lernen",
+      "ar": "مجموعة من الطلاب يتعلمون معًا",
+      "fr": "Groupe d'étudiants apprenant ensemble",
+      "it": "Gruppo di studenti che imparano insieme",
+      "ru": "Группа учеников, обучающихся вместе",
+      "es": "Grupo de estudiantes aprendiendo juntos",
+      "pl": "Grupa uczniów uczących się razem",
+      "fa": "گروهی از دانش‌آموزان که با هم یاد می‌گیرند"
+    },
+    "examples": {
+      "en": ["My class is big", "In class now", "Spanish class today"],
+      "de": ["Meine Klasse ist groß", "Jetzt im Unterricht", "Heute Spanischunterricht"],
+      "ar": ["صفي كبير", "في الصف الآن", "درس الإسبانية اليوم"],
+      "fr": ["Ma classe est grande", "En cours maintenant", "Cours d'espagnol aujourd'hui"],
+      "it": ["La mia classe è grande", "In classe ora", "Lezione di spagnolo oggi"],
+      "ru": ["Мой класс большой", "Сейчас на уроке", "Урок испанского сегодня"],
+      "es": ["Mi clase es grande", "En clase ahora", "Clase de español hoy"],
+      "pl": ["Moja klasa jest duża", "Na lekcji teraz", "Lekcja hiszpańskiego dzisiaj"],
+      "fa": ["کلاس من بزرگ است", "الان در کلاس", "امروز کلاس اسپانیایی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_086_es",
+    "word": "profesor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "teacher, professor",
+      "de": "Lehrer, Professor",
+      "ar": "أستاذ، معلم",
+      "fr": "professeur",
+      "it": "professore, insegnante",
+      "ru": "учитель, профессор",
+      "es": "profesor",
+      "pl": "nauczyciel, profesor",
+      "fa": "معلم، استاد"
+    },
+    "explanations": {
+      "en": "Person who teaches students",
+      "de": "Person, die Schüler unterrichtet",
+      "ar": "شخص يعلم الطلاب",
+      "fr": "Personne qui enseigne aux étudiants",
+      "it": "Persona che insegna agli studenti",
+      "ru": "Человек, который учит студентов",
+      "es": "Persona que enseña a estudiantes",
+      "pl": "Osoba, która uczy studentów",
+      "fa": "فردی که به دانش‌آموزان درس می‌دهد"
+    },
+    "examples": {
+      "en": ["My teacher is good", "The professor explains well", "Ask the teacher"],
+      "de": ["Mein Lehrer ist gut", "Der Professor erklärt gut", "Frag den Lehrer"],
+      "ar": ["معلمي جيد", "الأستاذ يشرح جيدا", "اسأل المعلم"],
+      "fr": ["Mon professeur est bon", "Le professeur explique bien", "Demande au professeur"],
+      "it": ["Il mio insegnante è bravo", "Il professore spiega bene", "Chiedi all'insegnante"],
+      "ru": ["Мой учитель хороший", "Профессор объясняет хорошо", "Спроси учителя"],
+      "es": ["Mi profesor es bueno", "El profesor explica bien", "Pregunta al profesor"],
+      "pl": ["Mój nauczyciel jest dobry", "Profesor dobrze wyjaśnia", "Zapytaj nauczyciela"],
+      "fa": ["معلم من خوب است", "استاد خوب توضیح می‌دهد", "از معلم بپرس"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_087_es",
+    "word": "alumno",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "student, pupil",
+      "de": "Schüler, Student",
+      "ar": "تلميذ، طالب",
+      "fr": "élève, étudiant",
+      "it": "alunno, studente",
+      "ru": "ученик, студент",
+      "es": "alumno",
+      "pl": "uczeń, student",
+      "fa": "دانش‌آموز، دانشجو"
+    },
+    "explanations": {
+      "en": "Person who studies at a school",
+      "de": "Person, die an einer Schule lernt",
+      "ar": "شخص يدرس في مدرسة",
+      "fr": "Personne qui étudie dans une école",
+      "it": "Persona che studia in una scuola",
+      "ru": "Человек, который учится в школе",
+      "es": "Persona que estudia en una escuela",
+      "pl": "Osoba, która uczy się w szkole",
+      "fa": "فردی که در مدرسه تحصیل می‌کند"
+    },
+    "examples": {
+      "en": ["I am a student", "Good student", "The student studies hard"],
+      "de": ["Ich bin Student", "Guter Schüler", "Der Schüler lernt fleißig"],
+      "ar": ["أنا طالب", "طالب جيد", "الطالب يدرس بجد"],
+      "fr": ["Je suis étudiant", "Bon élève", "L'élève étudie dur"],
+      "it": ["Sono uno studente", "Buon alunno", "Lo studente studia duramente"],
+      "ru": ["Я студент", "Хороший ученик", "Ученик усердно учится"],
+      "es": ["Soy alumno", "Buen alumno", "El alumno estudia mucho"],
+      "pl": ["Jestem uczniem", "Dobry uczeń", "Uczeń pilnie się uczy"],
+      "fa": ["من دانش‌آموز هستم", "دانش‌آموز خوب", "دانش‌آموز سخت درس می‌خواند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_088_es",
+    "word": "mesa",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "table",
+      "de": "Tisch",
+      "ar": "طاولة",
+      "fr": "table",
+      "it": "tavolo",
+      "ru": "стол",
+      "es": "mesa",
+      "pl": "stół",
+      "fa": "میز"
+    },
+    "explanations": {
+      "en": "Furniture with flat surface for eating or working",
+      "de": "Möbel mit flacher Oberfläche zum Essen oder Arbeiten",
+      "ar": "أثاث بسطح مستوٍ للأكل أو العمل",
+      "fr": "Meuble avec surface plate pour manger ou travailler",
+      "it": "Mobile con superficie piatta per mangiare o lavorare",
+      "ru": "Мебель с плоской поверхностью для еды или работы",
+      "es": "Mueble con superficie plana para comer o trabajar",
+      "pl": "Mebel z płaską powierzchnią do jedzenia lub pracy",
+      "fa": "مبل با سطح مسطح برای غذا خوردن یا کار"
+    },
+    "examples": {
+      "en": ["On the table", "Sit at the table", "A big table"],
+      "de": ["Auf dem Tisch", "Setz dich an den Tisch", "Ein großer Tisch"],
+      "ar": ["على الطاولة", "اجلس على الطاولة", "طاولة كبيرة"],
+      "fr": ["Sur la table", "Assieds-toi à table", "Une grande table"],
+      "it": ["Sul tavolo", "Siediti al tavolo", "Un grande tavolo"],
+      "ru": ["На столе", "Сядь за стол", "Большой стол"],
+      "es": ["En la mesa", "Siéntate en la mesa", "Una mesa grande"],
+      "pl": ["Na stole", "Usiądź przy stole", "Duży stół"],
+      "fa": ["روی میز", "پشت میز بنشین", "یک میز بزرگ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_089_es",
+    "word": "silla",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "chair",
+      "de": "Stuhl",
+      "ar": "كرسي",
+      "fr": "chaise",
+      "it": "sedia",
+      "ru": "стул",
+      "es": "silla",
+      "pl": "krzesło",
+      "fa": "صندلی"
+    },
+    "explanations": {
+      "en": "Furniture for one person to sit on",
+      "de": "Möbel zum Sitzen für eine Person",
+      "ar": "أثاث لشخص واحد للجلوس عليه",
+      "fr": "Meuble pour qu'une personne s'assoie",
+      "it": "Mobile per far sedere una persona",
+      "ru": "Мебель для сидения одного человека",
+      "es": "Mueble para que una persona se siente",
+      "pl": "Mebel do siedzenia dla jednej osoby",
+      "fa": "مبل برای نشستن یک نفر"
+    },
+    "examples": {
+      "en": ["Sit on the chair", "A comfortable chair", "Four chairs"],
+      "de": ["Setz dich auf den Stuhl", "Ein bequemer Stuhl", "Vier Stühle"],
+      "ar": ["اجلس على الكرسي", "كرسي مريح", "أربعة كراسي"],
+      "fr": ["Assieds-toi sur la chaise", "Une chaise confortable", "Quatre chaises"],
+      "it": ["Siediti sulla sedia", "Una sedia comoda", "Quattro sedie"],
+      "ru": ["Сядь на стул", "Удобный стул", "Четыре стула"],
+      "es": ["Siéntate en la silla", "Una silla cómoda", "Cuatro sillas"],
+      "pl": ["Usiądź na krześle", "Wygodne krzesło", "Cztery krzesła"],
+      "fa": ["روی صندلی بنشین", "یک صندلی راحت", "چهار صندلی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_090_es",
+    "word": "cama",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bed",
+      "de": "Bett",
+      "ar": "سرير",
+      "fr": "lit",
+      "it": "letto",
+      "ru": "кровать",
+      "es": "cama",
+      "pl": "łóżko",
+      "fa": "تخت خواب"
+    },
+    "explanations": {
+      "en": "Furniture for sleeping on",
+      "de": "Möbel zum Schlafen",
+      "ar": "أثاث للنوم عليه",
+      "fr": "Meuble pour dormir",
+      "it": "Mobile per dormire",
+      "ru": "Мебель для сна",
+      "es": "Mueble para dormir",
+      "pl": "Mebel do spania",
+      "fa": "مبل برای خوابیدن"
+    },
+    "examples": {
+      "en": ["Go to bed", "My bed is soft", "Make the bed"],
+      "de": ["Geh ins Bett", "Mein Bett ist weich", "Mach das Bett"],
+      "ar": ["اذهب إلى السرير", "سريري ناعم", "رتب السرير"],
+      "fr": ["Va au lit", "Mon lit est doux", "Fais le lit"],
+      "it": ["Vai a letto", "Il mio letto è morbido", "Rifai il letto"],
+      "ru": ["Иди спать", "Моя кровать мягкая", "Застели кровать"],
+      "es": ["Ve a la cama", "Mi cama es suave", "Haz la cama"],
+      "pl": ["Idź do łóżka", "Moje łóżko jest miękkie", "Pościel łóżko"],
+      "fa": ["به تخت برو", "تخت من نرم است", "تخت را مرتب کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_091_es",
+    "word": "comida",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "food, meal",
+      "de": "Essen, Mahlzeit",
+      "ar": "طعام، وجبة",
+      "fr": "nourriture, repas",
+      "it": "cibo, pasto",
+      "ru": "еда, пища",
+      "es": "comida",
+      "pl": "jedzenie, posiłek",
+      "fa": "غذا، وعده غذایی"
+    },
+    "explanations": {
+      "en": "Substances eaten to provide nutrition",
+      "de": "Substanzen, die gegessen werden, um Nahrung zu liefern",
+      "ar": "مواد تؤكل لتوفير التغذية",
+      "fr": "Substances mangées pour fournir la nutrition",
+      "it": "Sostanze mangiate per fornire nutrimento",
+      "ru": "Вещества, употребляемые для питания",
+      "es": "Sustancias consumidas para proporcionar nutrición",
+      "pl": "Substancje jadane w celu dostarczenia pożywienia",
+      "fa": "موادی که برای تغذیه خورده می‌شوند"
+    },
+    "examples": {
+      "en": ["Good food", "Prepare the meal", "I like this food"],
+      "de": ["Gutes Essen", "Bereite das Essen vor", "Ich mag dieses Essen"],
+      "ar": ["طعام جيد", "حضر الوجبة", "أحب هذا الطعام"],
+      "fr": ["Bonne nourriture", "Prépare le repas", "J'aime cette nourriture"],
+      "it": ["Buon cibo", "Prepara il pasto", "Mi piace questo cibo"],
+      "ru": ["Хорошая еда", "Приготовь еду", "Мне нравится эта еда"],
+      "es": ["Buena comida", "Prepara la comida", "Me gusta esta comida"],
+      "pl": ["Dobre jedzenie", "Przygotuj posiłek", "Lubię to jedzenie"],
+      "fa": ["غذای خوب", "غذا را آماده کن", "من این غذا را دوست دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_092_es",
+    "word": "pan",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bread",
+      "de": "Brot",
+      "ar": "خبز",
+      "fr": "pain",
+      "it": "pane",
+      "ru": "хлеб",
+      "es": "pan",
+      "pl": "chleb",
+      "fa": "نان"
+    },
+    "explanations": {
+      "en": "Basic food made from flour and water",
+      "de": "Grundnahrungsmittel aus Mehl und Wasser",
+      "ar": "غذاء أساسي مصنوع من الدقيق والماء",
+      "fr": "Aliment de base fait de farine et d'eau",
+      "it": "Cibo base fatto di farina e acqua",
+      "ru": "Основной продукт из муки и воды",
+      "es": "Alimento básico hecho de harina y agua",
+      "pl": "Podstawowe jedzenie zrobione z mąki i wody",
+      "fa": "غذای اساسی از آرد و آب"
+    },
+    "examples": {
+      "en": ["Fresh bread", "I eat bread", "Bread with butter"],
+      "de": ["Frisches Brot", "Ich esse Brot", "Brot mit Butter"],
+      "ar": ["خبز طازج", "آكل الخبز", "خبز مع الزبدة"],
+      "fr": ["Pain frais", "Je mange du pain", "Pain avec beurre"],
+      "it": ["Pane fresco", "Mangio pane", "Pane con burro"],
+      "ru": ["Свежий хлеб", "Я ем хлеб", "Хлеб с маслом"],
+      "es": ["Pan fresco", "Como pan", "Pan con mantequilla"],
+      "pl": ["Świeży chleb", "Jem chleb", "Chleb z masłem"],
+      "fa": ["نان تازه", "من نان می‌خورم", "نان با کره"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_093_es",
+    "word": "leche",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "milk",
+      "de": "Milch",
+      "ar": "حليب",
+      "fr": "lait",
+      "it": "latte",
+      "ru": "молоко",
+      "es": "leche",
+      "pl": "mleko",
+      "fa": "شیر"
+    },
+    "explanations": {
+      "en": "White liquid produced by mammals",
+      "de": "Weiße Flüssigkeit, die von Säugetieren produziert wird",
+      "ar": "سائل أبيض تنتجه الثدييات",
+      "fr": "Liquide blanc produit par les mammifères",
+      "it": "Liquido bianco prodotto dai mammiferi",
+      "ru": "Белая жидкость, производимая млекопитающими",
+      "es": "Líquido blanco producido por mamíferos",
+      "pl": "Biały płyn produkowany przez ssaki",
+      "fa": "مایع سفید تولید شده توسط پستانداران"
+    },
+    "examples": {
+      "en": ["I drink milk", "Cold milk", "A glass of milk"],
+      "de": ["Ich trinke Milch", "Kalte Milch", "Ein Glas Milch"],
+      "ar": ["أشرب الحليب", "حليب بارد", "كوب من الحليب"],
+      "fr": ["Je bois du lait", "Lait froid", "Un verre de lait"],
+      "it": ["Bevo latte", "Latte freddo", "Un bicchiere di latte"],
+      "ru": ["Я пью молоко", "Холодное молоко", "Стакан молока"],
+      "es": ["Bebo leche", "Leche fría", "Un vaso de leche"],
+      "pl": ["Piję mleko", "Zimne mleko", "Szklanka mleka"],
+      "fa": ["من شیر می‌نوشم", "شیر سرد", "یک لیوان شیر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_094_es",
+    "word": "café",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "coffee",
+      "de": "Kaffee",
+      "ar": "قهوة",
+      "fr": "café",
+      "it": "caffè",
+      "ru": "кофе",
+      "es": "café",
+      "pl": "kawa",
+      "fa": "قهوه"
+    },
+    "explanations": {
+      "en": "Hot drink made from roasted beans",
+      "de": "Heißes Getränk aus gerösteten Bohnen",
+      "ar": "مشروب ساخن مصنوع من حبوب محمصة",
+      "fr": "Boisson chaude faite de grains torréfiés",
+      "it": "Bevanda calda fatta da chicchi tostati",
+      "ru": "Горячий напиток из жареных зёрен",
+      "es": "Bebida caliente hecha de granos tostados",
+      "pl": "Gorący napój z palonych ziaren",
+      "fa": "نوشیدنی داغ از دانه‌های برشته شده"
+    },
+    "examples": {
+      "en": ["I drink coffee", "Black coffee", "Morning coffee"],
+      "de": ["Ich trinke Kaffee", "Schwarzer Kaffee", "Morgenkaffee"],
+      "ar": ["أشرب القهوة", "قهوة سوداء", "قهوة الصباح"],
+      "fr": ["Je bois du café", "Café noir", "Café du matin"],
+      "it": ["Bevo caffè", "Caffè nero", "Caffè del mattino"],
+      "ru": ["Я пью кофе", "Чёрный кофе", "Утренний кофе"],
+      "es": ["Bebo café", "Café negro", "Café de la mañana"],
+      "pl": ["Piję kawę", "Czarna kawa", "Poranna kawa"],
+      "fa": ["من قهوه می‌نوشم", "قهوه سیاه", "قهوه صبح"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_095_es",
+    "word": "té",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tea",
+      "de": "Tee",
+      "ar": "شاي",
+      "fr": "thé",
+      "it": "tè",
+      "ru": "чай",
+      "es": "té",
+      "pl": "herbata",
+      "fa": "چای"
+    },
+    "explanations": {
+      "en": "Hot drink made from dried leaves",
+      "de": "Heißes Getränk aus getrockneten Blättern",
+      "ar": "مشروب ساخن مصنوع من أوراق مجففة",
+      "fr": "Boisson chaude faite de feuilles séchées",
+      "it": "Bevanda calda fatta da foglie secche",
+      "ru": "Горячий напиток из сушёных листьев",
+      "es": "Bebida caliente hecha de hojas secas",
+      "pl": "Gorący napój z suszonych liści",
+      "fa": "نوشیدنی داغ از برگ‌های خشک"
+    },
+    "examples": {
+      "en": ["Green tea", "I drink tea", "A cup of tea"],
+      "de": ["Grüner Tee", "Ich trinke Tee", "Eine Tasse Tee"],
+      "ar": ["شاي أخضر", "أشرب الشاي", "كوب من الشاي"],
+      "fr": ["Thé vert", "Je bois du thé", "Une tasse de thé"],
+      "it": ["Tè verde", "Bevo tè", "Una tazza di tè"],
+      "ru": ["Зелёный чай", "Я пью чай", "Чашка чая"],
+      "es": ["Té verde", "Bebo té", "Una taza de té"],
+      "pl": ["Zielona herbata", "Piję herbatę", "Filiżanka herbaty"],
+      "fa": ["چای سبز", "من چای می‌نوشم", "یک فنجان چای"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_096_es",
+    "word": "vino",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "wine",
+      "de": "Wein",
+      "ar": "نبيذ",
+      "fr": "vin",
+      "it": "vino",
+      "ru": "вино",
+      "es": "vino",
+      "pl": "wino",
+      "fa": "شراب"
+    },
+    "explanations": {
+      "en": "Alcoholic drink made from grapes",
+      "de": "Alkoholisches Getränk aus Trauben",
+      "ar": "مشروب كحولي مصنوع من العنب",
+      "fr": "Boisson alcoolisée faite de raisins",
+      "it": "Bevanda alcolica fatta da uva",
+      "ru": "Алкогольный напиток из винограда",
+      "es": "Bebida alcohólica hecha de uvas",
+      "pl": "Napój alkoholowy z winogron",
+      "fa": "نوشیدنی الکلی از انگور"
+    },
+    "examples": {
+      "en": ["Red wine", "I like wine", "A glass of wine"],
+      "de": ["Rotwein", "Ich mag Wein", "Ein Glas Wein"],
+      "ar": ["نبيذ أحمر", "أحب النبيذ", "كأس من النبيذ"],
+      "fr": ["Vin rouge", "J'aime le vin", "Un verre de vin"],
+      "it": ["Vino rosso", "Mi piace il vino", "Un bicchiere di vino"],
+      "ru": ["Красное вино", "Мне нравится вино", "Бокал вина"],
+      "es": ["Vino tinto", "Me gusta el vino", "Una copa de vino"],
+      "pl": ["Czerwone wino", "Lubię wino", "Kieliszek wina"],
+      "fa": ["شراب قرمز", "من شراب دوست دارم", "یک لیوان شراب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_097_es",
+    "word": "cerveza",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "beer",
+      "de": "Bier",
+      "ar": "بيرة",
+      "fr": "bière",
+      "it": "birra",
+      "ru": "пиво",
+      "es": "cerveza",
+      "pl": "piwo",
+      "fa": "آبجو"
+    },
+    "explanations": {
+      "en": "Alcoholic drink made from grain",
+      "de": "Alkoholisches Getränk aus Getreide",
+      "ar": "مشروب كحولي مصنوع من الحبوب",
+      "fr": "Boisson alcoolisée faite de céréales",
+      "it": "Bevanda alcolica fatta da cereali",
+      "ru": "Алкогольный напиток из зерна",
+      "es": "Bebida alcohólica hecha de grano",
+      "pl": "Napój alkoholowy z ziarna",
+      "fa": "نوشیدنی الکلی از غلات"
+    },
+    "examples": {
+      "en": ["Cold beer", "I drink beer", "Two beers please"],
+      "de": ["Kaltes Bier", "Ich trinke Bier", "Zwei Bier bitte"],
+      "ar": ["بيرة باردة", "أشرب البيرة", "بيرتان من فضلك"],
+      "fr": ["Bière froide", "Je bois de la bière", "Deux bières s'il vous plaît"],
+      "it": ["Birra fredda", "Bevo birra", "Due birre per favore"],
+      "ru": ["Холодное пиво", "Я пью пиво", "Два пива пожалуйста"],
+      "es": ["Cerveza fría", "Bebo cerveza", "Dos cervezas por favor"],
+      "pl": ["Zimne piwo", "Piję piwo", "Dwa piwa proszę"],
+      "fa": ["آبجوی سرد", "من آبجو می‌نوشم", "لطفاً دو آبجو"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_098_es",
+    "word": "fruta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fruit",
+      "de": "Obst, Frucht",
+      "ar": "فاكهة",
+      "fr": "fruit",
+      "it": "frutta",
+      "ru": "фрукт",
+      "es": "fruta",
+      "pl": "owoc",
+      "fa": "میوه"
+    },
+    "explanations": {
+      "en": "Sweet edible product of a plant",
+      "de": "Süßes essbares Produkt einer Pflanze",
+      "ar": "منتج نباتي صالح للأكل وحلو المذاق",
+      "fr": "Produit comestible sucré d'une plante",
+      "it": "Prodotto dolce commestibile di una pianta",
+      "ru": "Сладкий съедобный продукт растения",
+      "es": "Producto dulce comestible de una planta",
+      "pl": "Słodki jadalny produkt rośliny",
+      "fa": "محصول شیرین خوراکی یک گیاه"
+    },
+    "examples": {
+      "en": ["Fresh fruit", "I eat fruit", "Buy some fruit"],
+      "de": ["Frisches Obst", "Ich esse Obst", "Kauf etwas Obst"],
+      "ar": ["فاكهة طازجة", "آكل الفاكهة", "اشتر بعض الفاكهة"],
+      "fr": ["Fruit frais", "Je mange des fruits", "Achète des fruits"],
+      "it": ["Frutta fresca", "Mangio frutta", "Compra della frutta"],
+      "ru": ["Свежие фрукты", "Я ем фрукты", "Купи фруктов"],
+      "es": ["Fruta fresca", "Como fruta", "Compra fruta"],
+      "pl": ["Świeże owoce", "Jem owoce", "Kup trochę owoców"],
+      "fa": ["میوه تازه", "من میوه می‌خورم", "کمی میوه بخر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_099_es",
+    "word": "verdura",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "vegetable",
+      "de": "Gemüse",
+      "ar": "خضروات",
+      "fr": "légume",
+      "it": "verdura",
+      "ru": "овощ",
+      "es": "verdura",
+      "pl": "warzywo",
+      "fa": "سبزیجات"
+    },
+    "explanations": {
+      "en": "Plant or part of plant used as food",
+      "de": "Pflanze oder Pflanzenteil, der als Nahrung verwendet wird",
+      "ar": "نبات أو جزء من نبات يستخدم كغذاء",
+      "fr": "Plante ou partie de plante utilisée comme nourriture",
+      "it": "Pianta o parte di pianta usata come cibo",
+      "ru": "Растение или часть растения, используемая в пищу",
+      "es": "Planta o parte de planta usada como alimento",
+      "pl": "Roślina lub część rośliny używana jako jedzenie",
+      "fa": "گیاه یا قسمتی از گیاه که به عنوان غذا استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["Fresh vegetables", "Eat vegetables", "Green vegetables"],
+      "de": ["Frisches Gemüse", "Iss Gemüse", "Grünes Gemüse"],
+      "ar": ["خضروات طازجة", "كل الخضروات", "خضروات خضراء"],
+      "fr": ["Légumes frais", "Mange des légumes", "Légumes verts"],
+      "it": ["Verdure fresche", "Mangia verdure", "Verdure verdi"],
+      "ru": ["Свежие овощи", "Ешь овощи", "Зелёные овощи"],
+      "es": ["Verduras frescas", "Come verduras", "Verduras verdes"],
+      "pl": ["Świeże warzywa", "Jedz warzywa", "Zielone warzywa"],
+      "fa": ["سبزیجات تازه", "سبزیجات بخور", "سبزیجات سبز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_100_es",
+    "word": "carne",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "meat",
+      "de": "Fleisch",
+      "ar": "لحم",
+      "fr": "viande",
+      "it": "carne",
+      "ru": "мясо",
+      "es": "carne",
+      "pl": "mięso",
+      "fa": "گوشت"
+    },
+    "explanations": {
+      "en": "Flesh of animals used as food",
+      "de": "Fleisch von Tieren, das als Nahrung verwendet wird",
+      "ar": "لحم الحيوانات المستخدم كغذاء",
+      "fr": "Chair d'animaux utilisée comme nourriture",
+      "it": "Carne di animali usata come cibo",
+      "ru": "Плоть животных, используемая в пищу",
+      "es": "Carne de animales usada como alimento",
+      "pl": "Mięso zwierząt używane jako jedzenie",
+      "fa": "گوشت حیوانات که به عنوان غذا استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["I eat meat", "Red meat", "Fresh meat"],
+      "de": ["Ich esse Fleisch", "Rotes Fleisch", "Frisches Fleisch"],
+      "ar": ["آكل اللحم", "لحم أحمر", "لحم طازج"],
+      "fr": ["Je mange de la viande", "Viande rouge", "Viande fraîche"],
+      "it": ["Mangio carne", "Carne rossa", "Carne fresca"],
+      "ru": ["Я ем мясо", "Красное мясо", "Свежее мясо"],
+      "es": ["Como carne", "Carne roja", "Carne fresca"],
+      "pl": ["Jem mięso", "Czerwone mięso", "Świeże mięso"],
+      "fa": ["من گوشت می‌خورم", "گوشت قرمز", "گوشت تازه"]
+    },
+    "conjugations": null
+  }
+]

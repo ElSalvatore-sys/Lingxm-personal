@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_041_es",
+    "word": "año",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "year",
+      "de": "Jahr",
+      "ar": "سنة",
+      "fr": "an, année",
+      "it": "anno",
+      "ru": "год",
+      "es": "año",
+      "pl": "rok",
+      "fa": "سال"
+    },
+    "explanations": {
+      "en": "Period of twelve months or 365 days",
+      "de": "Zeitraum von zwölf Monaten oder 365 Tagen",
+      "ar": "فترة اثني عشر شهرًا أو 365 يومًا",
+      "fr": "Période de douze mois ou 365 jours",
+      "it": "Periodo di dodici mesi o 365 giorni",
+      "ru": "Период из двенадцати месяцев или 365 дней",
+      "es": "Período de doce meses o 365 días",
+      "pl": "Okres dwunastu miesięcy lub 365 dni",
+      "fa": "دوره دوازده ماهه یا 365 روز"
+    },
+    "examples": {
+      "en": ["This year is good", "Next year I travel", "Happy new year"],
+      "de": ["Dieses Jahr ist gut", "Nächstes Jahr reise ich", "Frohes neues Jahr"],
+      "ar": ["هذه السنة جيدة", "العام القادم أسافر", "سنة جديدة سعيدة"],
+      "fr": ["Cette année est bonne", "L'année prochaine je voyage", "Bonne année"],
+      "it": ["Quest'anno è buono", "L'anno prossimo viaggio", "Buon anno nuovo"],
+      "ru": ["Этот год хороший", "В следующем году я путешествую", "С новым годом"],
+      "es": ["Este año es bueno", "El próximo año viajo", "Feliz año nuevo"],
+      "pl": ["Ten rok jest dobry", "W przyszłym roku podróżuję", "Szczęśliwego nowego roku"],
+      "fa": ["امسال خوب است", "سال آینده سفر می‌کنم", "سال نو مبارک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_042_es",
+    "word": "vez",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "time, occasion",
+      "de": "Mal, Zeit",
+      "ar": "مرة",
+      "fr": "fois",
+      "it": "volta",
+      "ru": "раз",
+      "es": "vez",
+      "pl": "raz",
+      "fa": "بار، دفعه"
+    },
+    "explanations": {
+      "en": "Occasion or instance when something happens",
+      "de": "Gelegenheit oder Zeitpunkt, wenn etwas geschieht",
+      "ar": "مناسبة أو حالة عندما يحدث شيء",
+      "fr": "Occasion ou instance quand quelque chose arrive",
+      "it": "Occasione o istanza quando qualcosa accade",
+      "ru": "Случай или момент, когда что-то происходит",
+      "es": "Ocasión o instancia cuando algo sucede",
+      "pl": "Okazja lub moment, gdy coś się dzieje",
+      "fa": "موقعیت یا زمانی که چیزی اتفاق می‌افتد"
+    },
+    "examples": {
+      "en": ["One time only", "This time is different", "Next time we go"],
+      "de": ["Nur einmal", "Dieses Mal ist anders", "Nächstes Mal gehen wir"],
+      "ar": ["مرة واحدة فقط", "هذه المرة مختلفة", "المرة القادمة نذهب"],
+      "fr": ["Une seule fois", "Cette fois est différente", "La prochaine fois on va"],
+      "it": ["Solo una volta", "Questa volta è diversa", "La prossima volta andiamo"],
+      "ru": ["Только один раз", "Этот раз другой", "В следующий раз мы идём"],
+      "es": ["Una sola vez", "Esta vez es diferente", "La próxima vez vamos"],
+      "pl": ["Tylko raz", "Tym razem jest inaczej", "Następnym razem idziemy"],
+      "fa": ["فقط یک بار", "این بار متفاوت است", "دفعه بعد می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_043_es",
+    "word": "día",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "day",
+      "de": "Tag",
+      "ar": "يوم",
+      "fr": "jour",
+      "it": "giorno",
+      "ru": "день",
+      "es": "día",
+      "pl": "dzień",
+      "fa": "روز"
+    },
+    "explanations": {
+      "en": "Period of 24 hours",
+      "de": "Zeitraum von 24 Stunden",
+      "ar": "فترة 24 ساعة",
+      "fr": "Période de 24 heures",
+      "it": "Periodo di 24 ore",
+      "ru": "Период 24 часа",
+      "es": "Período de 24 horas",
+      "pl": "Okres 24 godzin",
+      "fa": "دوره 24 ساعته"
+    },
+    "examples": {
+      "en": ["Good day", "Every day I study", "What day is today"],
+      "de": ["Guten Tag", "Jeden Tag lerne ich", "Welcher Tag ist heute"],
+      "ar": ["يوم جيد", "كل يوم أدرس", "أي يوم اليوم"],
+      "fr": ["Bonne journée", "Chaque jour j'étudie", "Quel jour sommes-nous"],
+      "it": ["Buon giorno", "Ogni giorno studio", "Che giorno è oggi"],
+      "ru": ["Добрый день", "Каждый день я учусь", "Какой сегодня день"],
+      "es": ["Buen día", "Cada día estudio", "Qué día es hoy"],
+      "pl": ["Dzień dobry", "Codziennie się uczę", "Jaki dziś dzień"],
+      "fa": ["روز بخیر", "هر روز مطالعه می‌کنم", "امروز چه روزی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_044_es",
+    "word": "parte",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "part, portion",
+      "de": "Teil",
+      "ar": "جزء",
+      "fr": "partie",
+      "it": "parte",
+      "ru": "часть",
+      "es": "parte",
+      "pl": "część",
+      "fa": "بخش، قسمت"
+    },
+    "explanations": {
+      "en": "Section or portion of a whole",
+      "de": "Abschnitt oder Teil eines Ganzen",
+      "ar": "قسم أو جزء من الكل",
+      "fr": "Section ou portion d'un tout",
+      "it": "Sezione o porzione di un intero",
+      "ru": "Раздел или часть целого",
+      "es": "Sección o porción de un todo",
+      "pl": "Sekcja lub część całości",
+      "fa": "بخش یا قسمتی از کل"
+    },
+    "examples": {
+      "en": ["This is my part", "The best part is here", "A small part only"],
+      "de": ["Das ist mein Teil", "Der beste Teil ist hier", "Nur ein kleiner Teil"],
+      "ar": ["هذا جزئي", "الجزء الأفضل هنا", "جزء صغير فقط"],
+      "fr": ["C'est ma partie", "La meilleure partie est ici", "Seulement une petite partie"],
+      "it": ["Questa è la mia parte", "La parte migliore è qui", "Solo una piccola parte"],
+      "ru": ["Это моя часть", "Лучшая часть здесь", "Только маленькая часть"],
+      "es": ["Esta es mi parte", "La mejor parte está aquí", "Solo una parte pequeña"],
+      "pl": ["To jest moja część", "Najlepsza część jest tutaj", "Tylko mała część"],
+      "fa": ["این بخش من است", "بهترین بخش اینجاست", "فقط بخش کوچکی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_045_es",
+    "word": "caso",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "case, situation",
+      "de": "Fall, Situation",
+      "ar": "حالة",
+      "fr": "cas",
+      "it": "caso",
+      "ru": "случай",
+      "es": "caso",
+      "pl": "przypadek",
+      "fa": "مورد، حالت"
+    },
+    "explanations": {
+      "en": "Specific situation or instance",
+      "de": "Spezifische Situation oder Fall",
+      "ar": "موقف أو حالة معينة",
+      "fr": "Situation ou instance spécifique",
+      "it": "Situazione o istanza specifica",
+      "ru": "Конкретная ситуация или случай",
+      "es": "Situación o instancia específica",
+      "pl": "Konkretna sytuacja lub przypadek",
+      "fa": "موقعیت یا مورد خاص"
+    },
+    "examples": {
+      "en": ["In this case yes", "A special case", "In any case I go"],
+      "de": ["In diesem Fall ja", "Ein spezieller Fall", "Auf jeden Fall gehe ich"],
+      "ar": ["في هذه الحالة نعم", "حالة خاصة", "على أي حال أذهب"],
+      "fr": ["Dans ce cas oui", "Un cas spécial", "En tout cas je vais"],
+      "it": ["In questo caso sì", "Un caso speciale", "In ogni caso vado"],
+      "ru": ["В этом случае да", "Особый случай", "В любом случае я иду"],
+      "es": ["En este caso sí", "Un caso especial", "En cualquier caso voy"],
+      "pl": ["W tym przypadku tak", "Specjalny przypadek", "W każdym razie idę"],
+      "fa": ["در این مورد بله", "یک مورد ویژه", "در هر صورت می‌روم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_046_es",
+    "word": "mano",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hand",
+      "de": "Hand",
+      "ar": "يد",
+      "fr": "main",
+      "it": "mano",
+      "ru": "рука",
+      "es": "mano",
+      "pl": "ręka",
+      "fa": "دست"
+    },
+    "explanations": {
+      "en": "Part of the body at the end of the arm",
+      "de": "Körperteil am Ende des Arms",
+      "ar": "جزء من الجسم في نهاية الذراع",
+      "fr": "Partie du corps au bout du bras",
+      "it": "Parte del corpo alla fine del braccio",
+      "ru": "Часть тела на конце руки",
+      "es": "Parte del cuerpo al final del brazo",
+      "pl": "Część ciała na końcu ramienia",
+      "fa": "قسمتی از بدن در انتهای بازو"
+    },
+    "examples": {
+      "en": ["My right hand", "Wash your hands", "Give me your hand"],
+      "de": ["Meine rechte Hand", "Wasch deine Hände", "Gib mir deine Hand"],
+      "ar": ["يدي اليمنى", "اغسل يديك", "أعطني يدك"],
+      "fr": ["Ma main droite", "Lave tes mains", "Donne-moi ta main"],
+      "it": ["La mia mano destra", "Lavati le mani", "Dammi la tua mano"],
+      "ru": ["Моя правая рука", "Мой руки", "Дай мне руку"],
+      "es": ["Mi mano derecha", "Lava tus manos", "Dame tu mano"],
+      "pl": ["Moja prawa ręka", "Umyj ręce", "Daj mi rękę"],
+      "fa": ["دست راست من", "دست‌هایت را بشور", "دستت را بده"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_047_es",
+    "word": "mundo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "world",
+      "de": "Welt",
+      "ar": "عالم",
+      "fr": "monde",
+      "it": "mondo",
+      "ru": "мир",
+      "es": "mundo",
+      "pl": "świat",
+      "fa": "جهان، دنیا"
+    },
+    "explanations": {
+      "en": "The earth and all people and places on it",
+      "de": "Die Erde und alle Menschen und Orte darauf",
+      "ar": "الأرض وكل الناس والأماكن عليها",
+      "fr": "La terre et tous les gens et lieux dessus",
+      "it": "La terra e tutte le persone e i luoghi su di essa",
+      "ru": "Земля и все люди и места на ней",
+      "es": "La tierra y todas las personas y lugares en ella",
+      "pl": "Ziemia i wszyscy ludzie oraz miejsca na niej",
+      "fa": "زمین و تمام مردم و مکان‌های روی آن"
+    },
+    "examples": {
+      "en": ["The whole world travels", "Around the world", "Welcome to my world"],
+      "de": ["Die ganze Welt reist", "Um die Welt", "Willkommen in meiner Welt"],
+      "ar": ["العالم كله يسافر", "حول العالم", "مرحبا بك في عالمي"],
+      "fr": ["Le monde entier voyage", "Autour du monde", "Bienvenue dans mon monde"],
+      "it": ["Tutto il mondo viaggia", "Intorno al mondo", "Benvenuto nel mio mondo"],
+      "ru": ["Весь мир путешествует", "Вокруг света", "Добро пожаловать в мой мир"],
+      "es": ["Todo el mundo viaja", "Alrededor del mundo", "Bienvenido a mi mundo"],
+      "pl": ["Cały świat podróżuje", "Dookoła świata", "Witaj w moim świecie"],
+      "fa": ["تمام جهان سفر می‌کند", "دور دنیا", "به دنیای من خوش آمدید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_048_es",
+    "word": "vida",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "life",
+      "de": "Leben",
+      "ar": "حياة",
+      "fr": "vie",
+      "it": "vita",
+      "ru": "жизнь",
+      "es": "vida",
+      "pl": "życie",
+      "fa": "زندگی"
+    },
+    "explanations": {
+      "en": "The existence of a living being",
+      "de": "Die Existenz eines Lebewesens",
+      "ar": "وجود كائن حي",
+      "fr": "L'existence d'un être vivant",
+      "it": "L'esistenza di un essere vivente",
+      "ru": "Существование живого существа",
+      "es": "La existencia de un ser vivo",
+      "pl": "Istnienie żywej istoty",
+      "fa": "وجود یک موجود زنده"
+    },
+    "examples": {
+      "en": ["My life is good", "Life is beautiful", "This is my life"],
+      "de": ["Mein Leben ist gut", "Das Leben ist schön", "Das ist mein Leben"],
+      "ar": ["حياتي جيدة", "الحياة جميلة", "هذه حياتي"],
+      "fr": ["Ma vie est bonne", "La vie est belle", "C'est ma vie"],
+      "it": ["La mia vita è buona", "La vita è bella", "Questa è la mia vita"],
+      "ru": ["Моя жизнь хороша", "Жизнь прекрасна", "Это моя жизнь"],
+      "es": ["Mi vida es buena", "La vida es bella", "Esta es mi vida"],
+      "pl": ["Moje życie jest dobre", "Życie jest piękne", "To jest moje życie"],
+      "fa": ["زندگی من خوب است", "زندگی زیباست", "این زندگی من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_049_es",
+    "word": "tiempo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "time, weather",
+      "de": "Zeit, Wetter",
+      "ar": "وقت، طقس",
+      "fr": "temps",
+      "it": "tempo",
+      "ru": "время, погода",
+      "es": "tiempo",
+      "pl": "czas, pogoda",
+      "fa": "زمان، آب و هوا"
+    },
+    "explanations": {
+      "en": "Duration or atmospheric conditions",
+      "de": "Dauer oder atmosphärische Bedingungen",
+      "ar": "المدة أو الظروف الجوية",
+      "fr": "Durée ou conditions atmosphériques",
+      "it": "Durata o condizioni atmosferiche",
+      "ru": "Продолжительность или погодные условия",
+      "es": "Duración o condiciones atmosféricas",
+      "pl": "Czas trwania lub warunki atmosferyczne",
+      "fa": "مدت زمان یا شرایط جوی"
+    },
+    "examples": {
+      "en": ["I have time", "The weather is nice", "What time is it"],
+      "de": ["Ich habe Zeit", "Das Wetter ist schön", "Wie spät ist es"],
+      "ar": ["لدي وقت", "الطقس جميل", "كم الساعة"],
+      "fr": ["J'ai du temps", "Le temps est beau", "Quelle heure est-il"],
+      "it": ["Ho tempo", "Il tempo è bello", "Che ore sono"],
+      "ru": ["У меня есть время", "Погода хорошая", "Который час"],
+      "es": ["Tengo tiempo", "El tiempo es bueno", "Qué hora es"],
+      "pl": ["Mam czas", "Pogoda jest ładna", "Która godzina"],
+      "fa": ["من وقت دارم", "هوا خوب است", "ساعت چنده"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_050_es",
+    "word": "casa",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "house, home",
+      "de": "Haus, Zuhause",
+      "ar": "منزل، بيت",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "explanations": {
+      "en": "Building where people live",
+      "de": "Gebäude, in dem Menschen leben",
+      "ar": "مبنى يعيش فيه الناس",
+      "fr": "Bâtiment où les gens vivent",
+      "it": "Edificio dove le persone vivono",
+      "ru": "Здание, где живут люди",
+      "es": "Edificio donde viven las personas",
+      "pl": "Budynek, w którym ludzie mieszkają",
+      "fa": "ساختمانی که مردم در آن زندگی می‌کنند"
+    },
+    "examples": {
+      "en": ["My house is big", "I go home", "Welcome to my house"],
+      "de": ["Mein Haus ist groß", "Ich gehe nach Hause", "Willkommen in meinem Haus"],
+      "ar": ["منزلي كبير", "أذهب إلى المنزل", "مرحبا في منزلي"],
+      "fr": ["Ma maison est grande", "Je rentre à la maison", "Bienvenue chez moi"],
+      "it": ["La mia casa è grande", "Vado a casa", "Benvenuto a casa mia"],
+      "ru": ["Мой дом большой", "Я иду домой", "Добро пожаловать в мой дом"],
+      "es": ["Mi casa es grande", "Voy a casa", "Bienvenido a mi casa"],
+      "pl": ["Mój dom jest duży", "Idę do domu", "Witaj w moim domu"],
+      "fa": ["خانه من بزرگ است", "به خانه می‌روم", "به خانه من خوش آمدید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_051_es",
+    "word": "cosa",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "thing",
+      "de": "Ding, Sache",
+      "ar": "شيء",
+      "fr": "chose",
+      "it": "cosa",
+      "ru": "вещь",
+      "es": "cosa",
+      "pl": "rzecz",
+      "fa": "چیز"
+    },
+    "explanations": {
+      "en": "An object or matter not specifically named",
+      "de": "Ein Objekt oder eine Angelegenheit, die nicht spezifisch benannt wird",
+      "ar": "شيء أو أمر غير محدد بالاسم",
+      "fr": "Un objet ou une matière non spécifiquement nommé",
+      "it": "Un oggetto o materia non specificamente nominata",
+      "ru": "Объект или вещь, не конкретно названная",
+      "es": "Un objeto o materia no específicamente nombrada",
+      "pl": "Obiekt lub sprawa niespecyficznie nazwana",
+      "fa": "شیء یا موضوعی که نام خاصی ندارد"
+    },
+    "examples": {
+      "en": ["A good thing", "What is this thing", "Many things to do"],
+      "de": ["Eine gute Sache", "Was ist das Ding", "Viele Dinge zu tun"],
+      "ar": ["شيء جيد", "ما هذا الشيء", "أشياء كثيرة للقيام بها"],
+      "fr": ["Une bonne chose", "Qu'est-ce que c'est", "Beaucoup de choses à faire"],
+      "it": ["Una cosa buona", "Cos'è questa cosa", "Molte cose da fare"],
+      "ru": ["Хорошая вещь", "Что это такое", "Много вещей делать"],
+      "es": ["Una cosa buena", "Qué es esta cosa", "Muchas cosas que hacer"],
+      "pl": ["Dobra rzecz", "Co to za rzecz", "Wiele rzeczy do zrobienia"],
+      "fa": ["چیز خوبی", "این چیست", "چیزهای زیادی برای انجام"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_052_es",
+    "word": "hombre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "man",
+      "de": "Mann",
+      "ar": "رجل",
+      "fr": "homme",
+      "it": "uomo",
+      "ru": "мужчина",
+      "es": "hombre",
+      "pl": "mężczyzna",
+      "fa": "مرد"
+    },
+    "explanations": {
+      "en": "Adult male human being",
+      "de": "Erwachsenes männliches menschliches Wesen",
+      "ar": "إنسان ذكر بالغ",
+      "fr": "Être humain mâle adulte",
+      "it": "Essere umano maschio adulto",
+      "ru": "Взрослый человек мужского пола",
+      "es": "Ser humano masculino adulto",
+      "pl": "Dorosły człowiek płci męskiej",
+      "fa": "انسان بالغ مذکر"
+    },
+    "examples": {
+      "en": ["That man is tall", "A good man", "The man works here"],
+      "de": ["Dieser Mann ist groß", "Ein guter Mann", "Der Mann arbeitet hier"],
+      "ar": ["ذلك الرجل طويل", "رجل جيد", "الرجل يعمل هنا"],
+      "fr": ["Cet homme est grand", "Un bon homme", "L'homme travaille ici"],
+      "it": ["Quell'uomo è alto", "Un uomo buono", "L'uomo lavora qui"],
+      "ru": ["Тот мужчина высокий", "Хороший человек", "Мужчина работает здесь"],
+      "es": ["Ese hombre es alto", "Un buen hombre", "El hombre trabaja aquí"],
+      "pl": ["Ten mężczyzna jest wysoki", "Dobry człowiek", "Mężczyzna pracuje tutaj"],
+      "fa": ["آن مرد قد بلند است", "مرد خوبی", "مرد اینجا کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_053_es",
+    "word": "mujer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "woman",
+      "de": "Frau",
+      "ar": "امرأة",
+      "fr": "femme",
+      "it": "donna",
+      "ru": "женщина",
+      "es": "mujer",
+      "pl": "kobieta",
+      "fa": "زن"
+    },
+    "explanations": {
+      "en": "Adult female human being",
+      "de": "Erwachsenes weibliches menschliches Wesen",
+      "ar": "إنسان أنثى بالغ",
+      "fr": "Être humain femelle adulte",
+      "it": "Essere umano femmina adulto",
+      "ru": "Взрослый человек женского пола",
+      "es": "Ser humano femenino adulto",
+      "pl": "Dorosły człowiek płci żeńskiej",
+      "fa": "انسان بالغ مؤنث"
+    },
+    "examples": {
+      "en": ["That woman is nice", "A young woman", "The woman sings well"],
+      "de": ["Diese Frau ist nett", "Eine junge Frau", "Die Frau singt gut"],
+      "ar": ["تلك المرأة لطيفة", "امرأة شابة", "المرأة تغني جيدا"],
+      "fr": ["Cette femme est gentille", "Une jeune femme", "La femme chante bien"],
+      "it": ["Quella donna è gentile", "Una giovane donna", "La donna canta bene"],
+      "ru": ["Та женщина милая", "Молодая женщина", "Женщина хорошо поёт"],
+      "es": ["Esa mujer es amable", "Una mujer joven", "La mujer canta bien"],
+      "pl": ["Ta kobieta jest miła", "Młoda kobieta", "Kobieta dobrze śpiewa"],
+      "fa": ["آن زن مهربان است", "یک زن جوان", "زن خوب می‌خواند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_054_es",
+    "word": "niño",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "boy, child",
+      "de": "Junge, Kind",
+      "ar": "ولد، طفل",
+      "fr": "garçon, enfant",
+      "it": "bambino",
+      "ru": "мальчик, ребёнок",
+      "es": "niño",
+      "pl": "chłopiec, dziecko",
+      "fa": "پسر، کودک"
+    },
+    "explanations": {
+      "en": "Young male person or child",
+      "de": "Junge männliche Person oder Kind",
+      "ar": "شخص ذكر صغير أو طفل",
+      "fr": "Jeune personne masculine ou enfant",
+      "it": "Giovane persona maschio o bambino",
+      "ru": "Молодой человек мужского пола или ребёнок",
+      "es": "Persona masculina joven o niño",
+      "pl": "Młoda osoba płci męskiej lub dziecko",
+      "fa": "فرد جوان مذکر یا کودک"
+    },
+    "examples": {
+      "en": ["The boy plays", "A small child", "The child is happy"],
+      "de": ["Der Junge spielt", "Ein kleines Kind", "Das Kind ist glücklich"],
+      "ar": ["الولد يلعب", "طفل صغير", "الطفل سعيد"],
+      "fr": ["Le garçon joue", "Un petit enfant", "L'enfant est heureux"],
+      "it": ["Il bambino gioca", "Un bambino piccolo", "Il bambino è felice"],
+      "ru": ["Мальчик играет", "Маленький ребёнок", "Ребёнок счастлив"],
+      "es": ["El niño juega", "Un niño pequeño", "El niño está feliz"],
+      "pl": ["Chłopiec się bawi", "Małe dziecko", "Dziecko jest szczęśliwe"],
+      "fa": ["پسر بازی می‌کند", "یک کودک کوچک", "کودک خوشحال است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_055_es",
+    "word": "país",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "country",
+      "de": "Land",
+      "ar": "بلد",
+      "fr": "pays",
+      "it": "paese",
+      "ru": "страна",
+      "es": "país",
+      "pl": "kraj",
+      "fa": "کشور"
+    },
+    "explanations": {
+      "en": "Nation or territory with its own government",
+      "de": "Nation oder Gebiet mit eigener Regierung",
+      "ar": "أمة أو إقليم له حكومته الخاصة",
+      "fr": "Nation ou territoire avec son propre gouvernement",
+      "it": "Nazione o territorio con proprio governo",
+      "ru": "Нация или территория с собственным правительством",
+      "es": "Nación o territorio con su propio gobierno",
+      "pl": "Naród lub terytorium z własnym rządem",
+      "fa": "ملت یا سرزمینی با حکومت خاص خود"
+    },
+    "examples": {
+      "en": ["My country is beautiful", "This country is big", "Which country are you from"],
+      "de": ["Mein Land ist schön", "Dieses Land ist groß", "Aus welchem Land kommst du"],
+      "ar": ["بلدي جميل", "هذا البلد كبير", "من أي بلد أنت"],
+      "fr": ["Mon pays est beau", "Ce pays est grand", "De quel pays es-tu"],
+      "it": ["Il mio paese è bello", "Questo paese è grande", "Di che paese sei"],
+      "ru": ["Моя страна красивая", "Эта страна большая", "Из какой ты страны"],
+      "es": ["Mi país es hermoso", "Este país es grande", "De qué país eres"],
+      "pl": ["Mój kraj jest piękny", "Ten kraj jest duży", "Z jakiego jesteś kraju"],
+      "fa": ["کشور من زیباست", "این کشور بزرگ است", "از کدام کشور هستی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_056_es",
+    "word": "problema",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "problem",
+      "de": "Problem",
+      "ar": "مشكلة",
+      "fr": "problème",
+      "it": "problema",
+      "ru": "проблема",
+      "es": "problema",
+      "pl": "problem",
+      "fa": "مشکل، مسئله"
+    },
+    "explanations": {
+      "en": "Difficulty or matter needing attention",
+      "de": "Schwierigkeit oder Angelegenheit, die Aufmerksamkeit erfordert",
+      "ar": "صعوبة أو أمر يحتاج إلى اهتمام",
+      "fr": "Difficulté ou affaire nécessitant attention",
+      "it": "Difficoltà o questione che necessita attenzione",
+      "ru": "Трудность или вопрос, требующий внимания",
+      "es": "Dificultad o asunto que necesita atención",
+      "pl": "Trudność lub sprawa wymagająca uwagi",
+      "fa": "مشکل یا موضوعی که نیاز به توجه دارد"
+    },
+    "examples": {
+      "en": ["I have a problem", "No problem", "This is a big problem"],
+      "de": ["Ich habe ein Problem", "Kein Problem", "Das ist ein großes Problem"],
+      "ar": ["لدي مشكلة", "لا مشكلة", "هذه مشكلة كبيرة"],
+      "fr": ["J'ai un problème", "Pas de problème", "C'est un gros problème"],
+      "it": ["Ho un problema", "Nessun problema", "Questo è un grande problema"],
+      "ru": ["У меня проблема", "Нет проблем", "Это большая проблема"],
+      "es": ["Tengo un problema", "No hay problema", "Este es un gran problema"],
+      "pl": ["Mam problem", "Nie ma problemu", "To jest duży problem"],
+      "fa": ["من مشکلی دارم", "مشکلی نیست", "این یک مشکل بزرگ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_057_es",
+    "word": "lugar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "place, location",
+      "de": "Ort, Platz",
+      "ar": "مكان",
+      "fr": "lieu, endroit",
+      "it": "luogo, posto",
+      "ru": "место",
+      "es": "lugar",
+      "pl": "miejsce",
+      "fa": "مکان، جا"
+    },
+    "explanations": {
+      "en": "Particular position or area",
+      "de": "Bestimmte Position oder Bereich",
+      "ar": "موقع أو منطقة معينة",
+      "fr": "Position ou zone particulière",
+      "it": "Posizione o area particolare",
+      "ru": "Определённое положение или область",
+      "es": "Posición o área particular",
+      "pl": "Konkretna pozycja lub obszar",
+      "fa": "موقعیت یا منطقه خاص"
+    },
+    "examples": {
+      "en": ["A nice place", "This place is beautiful", "What place is this"],
+      "de": ["Ein schöner Ort", "Dieser Ort ist schön", "Was ist das für ein Ort"],
+      "ar": ["مكان جميل", "هذا المكان جميل", "ما هذا المكان"],
+      "fr": ["Un bel endroit", "Cet endroit est beau", "Quel est cet endroit"],
+      "it": ["Un bel posto", "Questo posto è bello", "Che posto è questo"],
+      "ru": ["Хорошее место", "Это место красивое", "Что это за место"],
+      "es": ["Un lugar bonito", "Este lugar es hermoso", "Qué lugar es este"],
+      "pl": ["Ładne miejsce", "To miejsce jest piękne", "Co to za miejsce"],
+      "fa": ["مکان قشنگی", "این مکان زیباست", "این کجاست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_058_es",
+    "word": "momento",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "moment",
+      "de": "Moment, Augenblick",
+      "ar": "لحظة",
+      "fr": "moment",
+      "it": "momento",
+      "ru": "момент",
+      "es": "momento",
+      "pl": "moment, chwila",
+      "fa": "لحظه"
+    },
+    "explanations": {
+      "en": "Brief period of time",
+      "de": "Kurzer Zeitraum",
+      "ar": "فترة قصيرة من الزمن",
+      "fr": "Brève période de temps",
+      "it": "Breve periodo di tempo",
+      "ru": "Короткий период времени",
+      "es": "Breve período de tiempo",
+      "pl": "Krótki okres czasu",
+      "fa": "دوره کوتاهی از زمان"
+    },
+    "examples": {
+      "en": ["Just a moment please", "This moment is special", "Wait one moment"],
+      "de": ["Nur einen Moment bitte", "Dieser Moment ist besonders", "Warte einen Moment"],
+      "ar": ["لحظة من فضلك", "هذه اللحظة مميزة", "انتظر لحظة"],
+      "fr": ["Un moment s'il vous plaît", "Ce moment est spécial", "Attends un moment"],
+      "it": ["Solo un momento per favore", "Questo momento è speciale", "Aspetta un momento"],
+      "ru": ["Минутку пожалуйста", "Этот момент особенный", "Подожди момент"],
+      "es": ["Solo un momento por favor", "Este momento es especial", "Espera un momento"],
+      "pl": ["Tylko moment proszę", "Ten moment jest wyjątkowy", "Poczekaj chwilę"],
+      "fa": ["لطفاً یک لحظه", "این لحظه ویژه است", "یک لحظه صبر کن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_059_es",
+    "word": "forma",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "form, shape, way",
+      "de": "Form, Art",
+      "ar": "شكل، طريقة",
+      "fr": "forme, manière",
+      "it": "forma, modo",
+      "ru": "форма, способ",
+      "es": "forma",
+      "pl": "forma, sposób",
+      "fa": "شکل، روش"
+    },
+    "explanations": {
+      "en": "Shape or manner of doing something",
+      "de": "Form oder Art, etwas zu tun",
+      "ar": "شكل أو طريقة القيام بشيء",
+      "fr": "Forme ou manière de faire quelque chose",
+      "it": "Forma o modo di fare qualcosa",
+      "ru": "Форма или способ делания чего-либо",
+      "es": "Forma o manera de hacer algo",
+      "pl": "Kształt lub sposób robienia czegoś",
+      "fa": "شکل یا روش انجام چیزی"
+    },
+    "examples": {
+      "en": ["In this way", "A circular form", "What is the best way"],
+      "de": ["Auf diese Weise", "Eine kreisförmige Form", "Was ist der beste Weg"],
+      "ar": ["بهذه الطريقة", "شكل دائري", "ما هي أفضل طريقة"],
+      "fr": ["De cette manière", "Une forme circulaire", "Quelle est la meilleure façon"],
+      "it": ["In questo modo", "Una forma circolare", "Qual è il modo migliore"],
+      "ru": ["Таким образом", "Круглая форма", "Каков лучший способ"],
+      "es": ["De esta forma", "Una forma circular", "Cuál es la mejor forma"],
+      "pl": ["W ten sposób", "Okrągły kształt", "Jaki jest najlepszy sposób"],
+      "fa": ["به این روش", "یک شکل دایره‌ای", "بهترین روش چیست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_060_es",
+    "word": "agua",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "water",
+      "de": "Wasser",
+      "ar": "ماء",
+      "fr": "eau",
+      "it": "acqua",
+      "ru": "вода",
+      "es": "agua",
+      "pl": "woda",
+      "fa": "آب"
+    },
+    "explanations": {
+      "en": "Clear liquid essential for life",
+      "de": "Klare Flüssigkeit, die lebensnotwendig ist",
+      "ar": "سائل صافٍ ضروري للحياة",
+      "fr": "Liquide clair essentiel pour la vie",
+      "it": "Liquido chiaro essenziale per la vita",
+      "ru": "Прозрачная жидкость, необходимая для жизни",
+      "es": "Líquido claro esencial para la vida",
+      "pl": "Przezroczysty płyn niezbędny do życia",
+      "fa": "مایع شفاف ضروری برای زندگی"
+    },
+    "examples": {
+      "en": ["I drink water", "Cold water please", "The water is clean"],
+      "de": ["Ich trinke Wasser", "Kaltes Wasser bitte", "Das Wasser ist sauber"],
+      "ar": ["أشرب الماء", "ماء بارد من فضلك", "الماء نظيف"],
+      "fr": ["Je bois de l'eau", "De l'eau froide s'il vous plaît", "L'eau est propre"],
+      "it": ["Bevo acqua", "Acqua fredda per favore", "L'acqua è pulita"],
+      "ru": ["Я пью воду", "Холодную воду пожалуйста", "Вода чистая"],
+      "es": ["Bebo agua", "Agua fría por favor", "El agua está limpia"],
+      "pl": ["Piję wodę", "Zimną wodę proszę", "Woda jest czysta"],
+      "fa": ["آب می‌نوشم", "لطفاً آب سرد", "آب تمیز است"]
+    },
+    "conjugations": null
+  }
+]

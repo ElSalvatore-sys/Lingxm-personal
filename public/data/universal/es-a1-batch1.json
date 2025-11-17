@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_001_es",
+    "word": "yo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "I",
+      "de": "ich",
+      "ar": "أنا",
+      "fr": "je",
+      "it": "io",
+      "ru": "я",
+      "es": "yo",
+      "pl": "ja",
+      "fa": "من"
+    },
+    "explanations": {
+      "en": "First person singular pronoun used to refer to oneself",
+      "de": "Personalpronomen der ersten Person Singular",
+      "ar": "ضمير المتكلم المفرد للإشارة إلى النفس",
+      "fr": "Pronom personnel de la première personne du singulier",
+      "it": "Pronome personale di prima persona singolare",
+      "ru": "Местоимение первого лица единственного числа",
+      "es": "Pronombre personal de primera persona singular",
+      "pl": "Zaimek osobowy pierwszej osoby liczby pojedynczej",
+      "fa": "ضمیر شخصی اول شخص مفرد"
+    },
+    "examples": {
+      "en": ["I am", "I go", "I have"],
+      "de": ["Ich bin", "Ich gehe", "Ich habe"],
+      "ar": ["أنا", "أنا أذهب", "أنا لدي"],
+      "fr": ["Je suis", "Je vais", "J'ai"],
+      "it": ["Io sono", "Io vado", "Io ho"],
+      "ru": ["Я есть", "Я иду", "У меня есть"],
+      "es": ["Yo soy", "Yo voy", "Yo tengo"],
+      "pl": ["Ja jestem", "Ja idę", "Ja mam"],
+      "fa": ["من هستم", "من می‌روم", "من دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_002_es",
+    "word": "tú",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "you (singular, informal)",
+      "de": "du",
+      "ar": "أنتَ / أنتِ",
+      "fr": "tu",
+      "it": "tu",
+      "ru": "ты",
+      "es": "tú",
+      "pl": "ty",
+      "fa": "تو"
+    },
+    "explanations": {
+      "en": "Second person singular informal pronoun used to address one person",
+      "de": "Personalpronomen der zweiten Person Singular informell",
+      "ar": "ضمير المخاطب المفرد غير الرسمي",
+      "fr": "Pronom personnel de la deuxième personne du singulier informel",
+      "it": "Pronome personale di seconda persona singolare informale",
+      "ru": "Местоимение второго лица единственного числа неформальное",
+      "es": "Pronombre personal de segunda persona singular informal",
+      "pl": "Zaimek osobowy drugiej osoby liczby pojedynczej",
+      "fa": "ضمیر شخصی دوم شخص مفرد غیررسمی"
+    },
+    "examples": {
+      "en": ["You are", "You go", "You have"],
+      "de": ["Du bist", "Du gehst", "Du hast"],
+      "ar": ["أنت", "أنت تذهب", "أنت لديك"],
+      "fr": ["Tu es", "Tu vas", "Tu as"],
+      "it": ["Tu sei", "Tu vai", "Tu hai"],
+      "ru": ["Ты есть", "Ты идёшь", "У тебя есть"],
+      "es": ["Tú eres", "Tú vas", "Tú tienes"],
+      "pl": ["Ty jesteś", "Ty idziesz", "Ty masz"],
+      "fa": ["تو هستی", "تو می‌روی", "تو داری"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_003_es",
+    "word": "él",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "he",
+      "de": "er",
+      "ar": "هو",
+      "fr": "il",
+      "it": "lui",
+      "ru": "он",
+      "es": "él",
+      "pl": "on",
+      "fa": "او (مرد)"
+    },
+    "explanations": {
+      "en": "Third person singular masculine pronoun",
+      "de": "Personalpronomen der dritten Person Singular maskulin",
+      "ar": "ضمير الغائب المفرد المذكر",
+      "fr": "Pronom personnel de la troisième personne du singulier masculin",
+      "it": "Pronome personale di terza persona singolare maschile",
+      "ru": "Местоимение третьего лица единственного числа мужского рода",
+      "es": "Pronombre personal de tercera persona singular masculino",
+      "pl": "Zaimek osobowy trzeciej osoby liczby pojedynczej rodzaju męskiego",
+      "fa": "ضمیر شخصی سوم شخص مفرد مذکر"
+    },
+    "examples": {
+      "en": ["He is", "He goes", "He has"],
+      "de": ["Er ist", "Er geht", "Er hat"],
+      "ar": ["هو", "هو يذهب", "هو لديه"],
+      "fr": ["Il est", "Il va", "Il a"],
+      "it": ["Lui è", "Lui va", "Lui ha"],
+      "ru": ["Он есть", "Он идёт", "У него есть"],
+      "es": ["Él es", "Él va", "Él tiene"],
+      "pl": ["On jest", "On idzie", "On ma"],
+      "fa": ["او هست", "او می‌رود", "او دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_004_es",
+    "word": "ella",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "she",
+      "de": "sie",
+      "ar": "هي",
+      "fr": "elle",
+      "it": "lei",
+      "ru": "она",
+      "es": "ella",
+      "pl": "ona",
+      "fa": "او (زن)"
+    },
+    "explanations": {
+      "en": "Third person singular feminine pronoun",
+      "de": "Personalpronomen der dritten Person Singular feminin",
+      "ar": "ضمير الغائب المفرد المؤنث",
+      "fr": "Pronom personnel de la troisième personne du singulier féminin",
+      "it": "Pronome personale di terza persona singolare femminile",
+      "ru": "Местоимение третьего лица единственного числа женского рода",
+      "es": "Pronombre personal de tercera persona singular femenino",
+      "pl": "Zaimek osobowy trzeciej osoby liczby pojedynczej rodzaju żeńskiego",
+      "fa": "ضمیر شخصی سوم شخص مفرد مؤنث"
+    },
+    "examples": {
+      "en": ["She is", "She goes", "She has"],
+      "de": ["Sie ist", "Sie geht", "Sie hat"],
+      "ar": ["هي", "هي تذهب", "هي لديها"],
+      "fr": ["Elle est", "Elle va", "Elle a"],
+      "it": ["Lei è", "Lei va", "Lei ha"],
+      "ru": ["Она есть", "Она идёт", "У неё есть"],
+      "es": ["Ella es", "Ella va", "Ella tiene"],
+      "pl": ["Ona jest", "Ona idzie", "Ona ma"],
+      "fa": ["او هست", "او می‌رود", "او دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_005_es",
+    "word": "nosotros",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "we",
+      "de": "wir",
+      "ar": "نحن",
+      "fr": "nous",
+      "it": "noi",
+      "ru": "мы",
+      "es": "nosotros",
+      "pl": "my",
+      "fa": "ما"
+    },
+    "explanations": {
+      "en": "First person plural pronoun",
+      "de": "Personalpronomen der ersten Person Plural",
+      "ar": "ضمير المتكلم الجمع",
+      "fr": "Pronom personnel de la première personne du pluriel",
+      "it": "Pronome personale di prima persona plurale",
+      "ru": "Местоимение первого лица множественного числа",
+      "es": "Pronombre personal de primera persona plural",
+      "pl": "Zaimek osobowy pierwszej osoby liczby mnogiej",
+      "fa": "ضمیر شخصی اول شخص جمع"
+    },
+    "examples": {
+      "en": ["We are", "We go", "We have"],
+      "de": ["Wir sind", "Wir gehen", "Wir haben"],
+      "ar": ["نحن", "نحن نذهب", "نحن لدينا"],
+      "fr": ["Nous sommes", "Nous allons", "Nous avons"],
+      "it": ["Noi siamo", "Noi andiamo", "Noi abbiamo"],
+      "ru": ["Мы есть", "Мы идём", "У нас есть"],
+      "es": ["Nosotros somos", "Nosotros vamos", "Nosotros tenemos"],
+      "pl": ["My jesteśmy", "My idziemy", "My mamy"],
+      "fa": ["ما هستیم", "ما می‌رویم", "ما داریم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_006_es",
+    "word": "ser",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to be (permanent)",
+      "de": "sein (dauerhaft)",
+      "ar": "يكون (دائم)",
+      "fr": "être (permanent)",
+      "it": "essere (permanente)",
+      "ru": "быть (постоянно)",
+      "es": "ser",
+      "pl": "być (stały)",
+      "fa": "بودن (دائمی)"
+    },
+    "explanations": {
+      "en": "Main verb expressing permanent state, identity, or essence",
+      "de": "Hauptverb für dauerhafte Zustände, Identität oder Wesen",
+      "ar": "فعل أساسي يعبر عن حالة دائمة أو هوية",
+      "fr": "Verbe principal exprimant un état permanent, identité ou essence",
+      "it": "Verbo principale che esprime stato permanente, identità o essenza",
+      "ru": "Главный глагол, выражающий постоянное состояние, идентичность или сущность",
+      "es": "Verbo principal que expresa estado permanente, identidad o esencia",
+      "pl": "Czasownik główny wyrażający stały stan, tożsamość lub istotę",
+      "fa": "فعل اصلی که حالت دائمی، هویت یا ماهیت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I am", "You are", "He is"],
+      "de": ["Ich bin", "Du bist", "Er ist"],
+      "ar": ["أنا", "أنت", "هو"],
+      "fr": ["Je suis", "Tu es", "Il est"],
+      "it": ["Io sono", "Tu sei", "Lui è"],
+      "ru": ["Я есть", "Ты есть", "Он есть"],
+      "es": ["Yo soy", "Tú eres", "Él es"],
+      "pl": ["Ja jestem", "Ty jesteś", "On jest"],
+      "fa": ["من هستم", "تو هستی", "او هست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_007_es",
+    "word": "estar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to be (temporary/location)",
+      "de": "sein (vorübergehend/Ort)",
+      "ar": "يكون (مؤقت/موقع)",
+      "fr": "être (temporaire/lieu)",
+      "it": "essere (temporaneo/luogo)",
+      "ru": "быть (временно/место)",
+      "es": "estar",
+      "pl": "być (tymczasowy/miejsce)",
+      "fa": "بودن (موقت/مکان)"
+    },
+    "explanations": {
+      "en": "Verb expressing temporary state, location, or condition",
+      "de": "Verb für vorübergehende Zustände, Orte oder Bedingungen",
+      "ar": "فعل يعبر عن حالة مؤقتة أو موقع أو حالة",
+      "fr": "Verbe exprimant un état temporaire, un lieu ou une condition",
+      "it": "Verbo che esprime stato temporaneo, luogo o condizione",
+      "ru": "Глагол, выражающий временное состояние, местоположение или условие",
+      "es": "Verbo que expresa estado temporal, ubicación o condición",
+      "pl": "Czasownik wyrażający stan tymczasowy, miejsce lub warunek",
+      "fa": "فعلی که حالت موقت، مکان یا شرایط را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I am here", "You are well", "She is happy"],
+      "de": ["Ich bin hier", "Du bist gut", "Sie ist glücklich"],
+      "ar": ["أنا هنا", "أنت بخير", "هي سعيدة"],
+      "fr": ["Je suis ici", "Tu vas bien", "Elle est heureuse"],
+      "it": ["Io sono qui", "Tu stai bene", "Lei è felice"],
+      "ru": ["Я здесь", "Ты хорошо", "Она счастлива"],
+      "es": ["Yo estoy", "Tú estás", "Ella está"],
+      "pl": ["Ja jestem tutaj", "Ty jesteś dobrze", "Ona jest szczęśliwa"],
+      "fa": ["من اینجا هستم", "تو خوب هستی", "او خوشحال است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_008_es",
+    "word": "tener",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to have",
+      "de": "haben",
+      "ar": "يملك",
+      "fr": "avoir",
+      "it": "avere",
+      "ru": "иметь",
+      "es": "tener",
+      "pl": "mieć",
+      "fa": "داشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing possession or ownership",
+      "de": "Verb für Besitz oder Eigentum",
+      "ar": "فعل يعبر عن الملكية أو الحيازة",
+      "fr": "Verbe exprimant la possession ou la propriété",
+      "it": "Verbo che esprime possesso o proprietà",
+      "ru": "Глагол, выражающий владение или собственность",
+      "es": "Verbo que expresa posesión o propiedad",
+      "pl": "Czasownik wyrażający posiadanie lub własność",
+      "fa": "فعلی که مالکیت یا دارایی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have", "You have", "He has"],
+      "de": ["Ich habe", "Du hast", "Er hat"],
+      "ar": ["أنا لدي", "أنت لديك", "هو لديه"],
+      "fr": ["J'ai", "Tu as", "Il a"],
+      "it": ["Io ho", "Tu hai", "Lui ha"],
+      "ru": ["У меня есть", "У тебя есть", "У него есть"],
+      "es": ["Yo tengo", "Tú tienes", "Él tiene"],
+      "pl": ["Ja mam", "Ty masz", "On ma"],
+      "fa": ["من دارم", "تو داری", "او دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_009_es",
+    "word": "hacer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to do, to make",
+      "de": "machen, tun",
+      "ar": "يفعل، يصنع",
+      "fr": "faire",
+      "it": "fare",
+      "ru": "делать",
+      "es": "hacer",
+      "pl": "robić",
+      "fa": "انجام دادن، ساختن"
+    },
+    "explanations": {
+      "en": "Verb expressing action or creation",
+      "de": "Verb für Handlung oder Schöpfung",
+      "ar": "فعل يعبر عن إجراء أو إنشاء",
+      "fr": "Verbe exprimant une action ou une création",
+      "it": "Verbo che esprime azione o creazione",
+      "ru": "Глагол, выражающий действие или создание",
+      "es": "Verbo que expresa acción o creación",
+      "pl": "Czasownik wyrażający działanie lub tworzenie",
+      "fa": "فعلی که عمل یا خلق را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I do", "You make", "He does"],
+      "de": ["Ich mache", "Du machst", "Er macht"],
+      "ar": ["أنا أفعل", "أنت تصنع", "هو يفعل"],
+      "fr": ["Je fais", "Tu fais", "Il fait"],
+      "it": ["Io faccio", "Tu fai", "Lui fa"],
+      "ru": ["Я делаю", "Ты делаешь", "Он делает"],
+      "es": ["Yo hago", "Tú haces", "Él hace"],
+      "pl": ["Ja robię", "Ty robisz", "On robi"],
+      "fa": ["من می‌کنم", "تو می‌کنی", "او می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_010_es",
+    "word": "ir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to go",
+      "de": "gehen",
+      "ar": "يذهب",
+      "fr": "aller",
+      "it": "andare",
+      "ru": "идти",
+      "es": "ir",
+      "pl": "iść",
+      "fa": "رفتن"
+    },
+    "explanations": {
+      "en": "Verb expressing movement from one place to another",
+      "de": "Verb für Bewegung von einem Ort zum anderen",
+      "ar": "فعل يعبر عن الانتقال من مكان إلى آخر",
+      "fr": "Verbe exprimant le mouvement d'un endroit à un autre",
+      "it": "Verbo che esprime movimento da un luogo a un altro",
+      "ru": "Глагол, выражающий движение из одного места в другое",
+      "es": "Verbo que expresa movimiento de un lugar a otro",
+      "pl": "Czasownik wyrażający ruch z jednego miejsca do drugiego",
+      "fa": "فعلی که حرکت از یک مکان به مکان دیگر را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I go", "You go", "We go"],
+      "de": ["Ich gehe", "Du gehst", "Wir gehen"],
+      "ar": ["أنا أذهب", "أنت تذهب", "نحن نذهب"],
+      "fr": ["Je vais", "Tu vas", "Nous allons"],
+      "it": ["Io vado", "Tu vai", "Noi andiamo"],
+      "ru": ["Я иду", "Ты идёшь", "Мы идём"],
+      "es": ["Yo voy", "Tú vas", "Nosotros vamos"],
+      "pl": ["Ja idę", "Ty idziesz", "My idziemy"],
+      "fa": ["من می‌روم", "تو می‌روی", "ما می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_011_es",
+    "word": "poder",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to be able to, can",
+      "de": "können",
+      "ar": "يستطيع",
+      "fr": "pouvoir",
+      "it": "potere",
+      "ru": "мочь",
+      "es": "poder",
+      "pl": "móc",
+      "fa": "توانستن"
+    },
+    "explanations": {
+      "en": "Modal verb expressing ability or possibility",
+      "de": "Modalverb für Fähigkeit oder Möglichkeit",
+      "ar": "فعل مساعد يعبر عن القدرة أو الإمكانية",
+      "fr": "Verbe modal exprimant la capacité ou la possibilité",
+      "it": "Verbo modale che esprime capacità o possibilità",
+      "ru": "Модальный глагол, выражающий способность или возможность",
+      "es": "Verbo modal que expresa habilidad o posibilidad",
+      "pl": "Czasownik modalny wyrażający zdolność lub możliwość",
+      "fa": "فعل کمکی که توانایی یا امکان را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I can", "You can", "He can"],
+      "de": ["Ich kann", "Du kannst", "Er kann"],
+      "ar": ["أنا أستطيع", "أنت تستطيع", "هو يستطيع"],
+      "fr": ["Je peux", "Tu peux", "Il peut"],
+      "it": ["Io posso", "Tu puoi", "Lui può"],
+      "ru": ["Я могу", "Ты можешь", "Он может"],
+      "es": ["Yo puedo", "Tú puedes", "Él puede"],
+      "pl": ["Ja mogę", "Ty możesz", "On może"],
+      "fa": ["من می‌توانم", "تو می‌توانی", "او می‌تواند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_012_es",
+    "word": "decir",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to say, to tell",
+      "de": "sagen",
+      "ar": "يقول",
+      "fr": "dire",
+      "it": "dire",
+      "ru": "говорить, сказать",
+      "es": "decir",
+      "pl": "mówić, powiedzieć",
+      "fa": "گفتن"
+    },
+    "explanations": {
+      "en": "Verb expressing verbal communication",
+      "de": "Verb für verbale Kommunikation",
+      "ar": "فعل يعبر عن التواصل اللفظي",
+      "fr": "Verbe exprimant la communication verbale",
+      "it": "Verbo che esprime comunicazione verbale",
+      "ru": "Глагол, выражающий вербальную коммуникацию",
+      "es": "Verbo que expresa comunicación verbal",
+      "pl": "Czasownik wyrażający komunikację werbalną",
+      "fa": "فعلی که ارتباط کلامی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I say", "You say", "He says"],
+      "de": ["Ich sage", "Du sagst", "Er sagt"],
+      "ar": ["أنا أقول", "أنت تقول", "هو يقول"],
+      "fr": ["Je dis", "Tu dis", "Il dit"],
+      "it": ["Io dico", "Tu dici", "Lui dice"],
+      "ru": ["Я говорю", "Ты говоришь", "Он говорит"],
+      "es": ["Yo digo", "Tú dices", "Él dice"],
+      "pl": ["Ja mówię", "Ty mówisz", "On mówi"],
+      "fa": ["من می‌گویم", "تو می‌گویی", "او می‌گوید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_013_es",
+    "word": "dar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to give",
+      "de": "geben",
+      "ar": "يعطي",
+      "fr": "donner",
+      "it": "dare",
+      "ru": "давать",
+      "es": "dar",
+      "pl": "dawać",
+      "fa": "دادن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of giving or providing",
+      "de": "Verb für die Handlung des Gebens oder Bereitstellens",
+      "ar": "فعل يعبر عن فعل العطاء أو التقديم",
+      "fr": "Verbe exprimant l'action de donner ou de fournir",
+      "it": "Verbo che esprime l'azione di dare o fornire",
+      "ru": "Глагол, выражающий действие давания или предоставления",
+      "es": "Verbo que expresa la acción de dar o proporcionar",
+      "pl": "Czasownik wyrażający czynność dawania lub dostarczania",
+      "fa": "فعلی که عمل دادن یا ارائه را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I give", "You give", "She gives"],
+      "de": ["Ich gebe", "Du gibst", "Sie gibt"],
+      "ar": ["أنا أعطي", "أنت تعطي", "هي تعطي"],
+      "fr": ["Je donne", "Tu donnes", "Elle donne"],
+      "it": ["Io do", "Tu dai", "Lei dà"],
+      "ru": ["Я даю", "Ты даёшь", "Она даёт"],
+      "es": ["Yo doy", "Tú das", "Ella da"],
+      "pl": ["Ja daję", "Ty dajesz", "Ona daje"],
+      "fa": ["من می‌دهم", "تو می‌دهی", "او می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_014_es",
+    "word": "ver",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to see",
+      "de": "sehen",
+      "ar": "يرى",
+      "fr": "voir",
+      "it": "vedere",
+      "ru": "видеть",
+      "es": "ver",
+      "pl": "widzieć",
+      "fa": "دیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing visual perception",
+      "de": "Verb für visuelle Wahrnehmung",
+      "ar": "فعل يعبر عن الإدراك البصري",
+      "fr": "Verbe exprimant la perception visuelle",
+      "it": "Verbo che esprime percezione visiva",
+      "ru": "Глагол, выражающий зрительное восприятие",
+      "es": "Verbo que expresa percepción visual",
+      "pl": "Czasownik wyrażający percepcję wzrokową",
+      "fa": "فعلی که ادراک بصری را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I see", "You see", "We see"],
+      "de": ["Ich sehe", "Du siehst", "Wir sehen"],
+      "ar": ["أنا أرى", "أنت ترى", "نحن نرى"],
+      "fr": ["Je vois", "Tu vois", "Nous voyons"],
+      "it": ["Io vedo", "Tu vedi", "Noi vediamo"],
+      "ru": ["Я вижу", "Ты видишь", "Мы видим"],
+      "es": ["Yo veo", "Tú ves", "Nosotros vemos"],
+      "pl": ["Ja widzę", "Ty widzisz", "My widzimy"],
+      "fa": ["من می‌بینم", "تو می‌بینی", "ما می‌بینیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_015_es",
+    "word": "saber",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to know (facts)",
+      "de": "wissen",
+      "ar": "يعرف (حقائق)",
+      "fr": "savoir",
+      "it": "sapere",
+      "ru": "знать (факты)",
+      "es": "saber",
+      "pl": "wiedzieć",
+      "fa": "دانستن (حقایق)"
+    },
+    "explanations": {
+      "en": "Verb expressing knowledge of facts or information",
+      "de": "Verb für Kenntnis von Fakten oder Informationen",
+      "ar": "فعل يعبر عن معرفة الحقائق أو المعلومات",
+      "fr": "Verbe exprimant la connaissance de faits ou d'informations",
+      "it": "Verbo che esprime conoscenza di fatti o informazioni",
+      "ru": "Глагол, выражающий знание фактов или информации",
+      "es": "Verbo que expresa conocimiento de hechos o información",
+      "pl": "Czasownik wyrażający wiedzę o faktach lub informacjach",
+      "fa": "فعلی که دانش از حقایق یا اطلاعات را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I know", "You know", "He knows"],
+      "de": ["Ich weiß", "Du weißt", "Er weiß"],
+      "ar": ["أنا أعرف", "أنت تعرف", "هو يعرف"],
+      "fr": ["Je sais", "Tu sais", "Il sait"],
+      "it": ["Io so", "Tu sai", "Lui sa"],
+      "ru": ["Я знаю", "Ты знаешь", "Он знает"],
+      "es": ["Yo sé", "Tú sabes", "Él sabe"],
+      "pl": ["Ja wiem", "Ty wiesz", "On wie"],
+      "fa": ["من می‌دانم", "تو می‌دانی", "او می‌داند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_016_es",
+    "word": "querer",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to want, to love",
+      "de": "wollen, lieben",
+      "ar": "يريد، يحب",
+      "fr": "vouloir, aimer",
+      "it": "volere, amare",
+      "ru": "хотеть, любить",
+      "es": "querer",
+      "pl": "chcieć, kochać",
+      "fa": "خواستن، دوست داشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing desire or affection",
+      "de": "Verb für Wunsch oder Zuneigung",
+      "ar": "فعل يعبر عن الرغبة أو المودة",
+      "fr": "Verbe exprimant le désir ou l'affection",
+      "it": "Verbo che esprime desiderio o affetto",
+      "ru": "Глагол, выражающий желание или привязанность",
+      "es": "Verbo que expresa deseo o afecto",
+      "pl": "Czasownik wyrażający pragnienie lub uczucie",
+      "fa": "فعلی که خواسته یا محبت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I want", "You want", "She wants"],
+      "de": ["Ich will", "Du willst", "Sie will"],
+      "ar": ["أنا أريد", "أنت تريد", "هي تريد"],
+      "fr": ["Je veux", "Tu veux", "Elle veut"],
+      "it": ["Io voglio", "Tu vuoi", "Lei vuole"],
+      "ru": ["Я хочу", "Ты хочешь", "Она хочет"],
+      "es": ["Yo quiero", "Tú quieres", "Ella quiere"],
+      "pl": ["Ja chcę", "Ty chcesz", "Ona chce"],
+      "fa": ["من می‌خواهم", "تو می‌خواهی", "او می‌خواهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_017_es",
+    "word": "llegar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to arrive",
+      "de": "ankommen",
+      "ar": "يصل",
+      "fr": "arriver",
+      "it": "arrivare",
+      "ru": "прибывать",
+      "es": "llegar",
+      "pl": "przybywać",
+      "fa": "رسیدن"
+    },
+    "explanations": {
+      "en": "Verb expressing arrival at a destination",
+      "de": "Verb für Ankunft an einem Ziel",
+      "ar": "فعل يعبر عن الوصول إلى وجهة",
+      "fr": "Verbe exprimant l'arrivée à une destination",
+      "it": "Verbo che esprime arrivo a una destinazione",
+      "ru": "Глагол, выражающий прибытие в пункт назначения",
+      "es": "Verbo que expresa llegada a un destino",
+      "pl": "Czasownik wyrażający przybycie do miejsca docelowego",
+      "fa": "فعلی که رسیدن به مقصد را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I arrive", "You arrive", "We arrive"],
+      "de": ["Ich komme an", "Du kommst an", "Wir kommen an"],
+      "ar": ["أنا أصل", "أنت تصل", "نحن نصل"],
+      "fr": ["J'arrive", "Tu arrives", "Nous arrivons"],
+      "it": ["Io arrivo", "Tu arrivi", "Noi arriviamo"],
+      "ru": ["Я прибываю", "Ты прибываешь", "Мы прибываем"],
+      "es": ["Yo llego", "Tú llegas", "Nosotros llegamos"],
+      "pl": ["Ja przybywam", "Ty przybywasz", "My przybywamy"],
+      "fa": ["من می‌رسم", "تو می‌رسی", "ما می‌رسیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_018_es",
+    "word": "pasar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to pass, to happen",
+      "de": "passieren, geschehen",
+      "ar": "يمر، يحدث",
+      "fr": "passer, arriver",
+      "it": "passare, accadere",
+      "ru": "проходить, происходить",
+      "es": "pasar",
+      "pl": "mijać, dziać się",
+      "fa": "گذشتن، اتفاق افتادن"
+    },
+    "explanations": {
+      "en": "Verb expressing passage or occurrence",
+      "de": "Verb für Durchgang oder Ereignis",
+      "ar": "فعل يعبر عن المرور أو الحدوث",
+      "fr": "Verbe exprimant le passage ou l'occurrence",
+      "it": "Verbo che esprime passaggio o occorrenza",
+      "ru": "Глагол, выражающий прохождение или происшествие",
+      "es": "Verbo que expresa paso u ocurrencia",
+      "pl": "Czasownik wyrażający przejście lub zdarzenie",
+      "fa": "فعلی که عبور یا رخداد را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I pass", "You pass", "It happens"],
+      "de": ["Ich gehe vorbei", "Du gehst vorbei", "Es passiert"],
+      "ar": ["أنا أمر", "أنت تمر", "يحدث"],
+      "fr": ["Je passe", "Tu passes", "Ça arrive"],
+      "it": ["Io passo", "Tu passi", "Accade"],
+      "ru": ["Я прохожу", "Ты проходишь", "Это происходит"],
+      "es": ["Yo paso", "Tú pasas", "Pasa"],
+      "pl": ["Ja mijam", "Ty mijasz", "Dzieje się"],
+      "fa": ["من می‌گذرم", "تو می‌گذری", "اتفاق می‌افتد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_019_es",
+    "word": "deber",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "must, should",
+      "de": "müssen, sollen",
+      "ar": "يجب",
+      "fr": "devoir",
+      "it": "dovere",
+      "ru": "должен",
+      "es": "deber",
+      "pl": "musieć, powinien",
+      "fa": "باید"
+    },
+    "explanations": {
+      "en": "Modal verb expressing obligation or necessity",
+      "de": "Modalverb für Verpflichtung oder Notwendigkeit",
+      "ar": "فعل مساعد يعبر عن الالتزام أو الضرورة",
+      "fr": "Verbe modal exprimant l'obligation ou la nécessité",
+      "it": "Verbo modale che esprime obbligo o necessità",
+      "ru": "Модальный глагол, выражающий обязательство или необходимость",
+      "es": "Verbo modal que expresa obligación o necesidad",
+      "pl": "Czasownik modalny wyrażający obowiązek lub konieczność",
+      "fa": "فعل کمکی که تعهد یا ضرورت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I must", "You should", "He must"],
+      "de": ["Ich muss", "Du sollst", "Er muss"],
+      "ar": ["أنا يجب", "أنت يجب", "هو يجب"],
+      "fr": ["Je dois", "Tu dois", "Il doit"],
+      "it": ["Io devo", "Tu devi", "Lui deve"],
+      "ru": ["Я должен", "Ты должен", "Он должен"],
+      "es": ["Yo debo", "Tú debes", "Él debe"],
+      "pl": ["Ja muszę", "Ty musisz", "On musi"],
+      "fa": ["من باید", "تو باید", "او باید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_020_es",
+    "word": "poner",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "to put, to place",
+      "de": "setzen, stellen, legen",
+      "ar": "يضع",
+      "fr": "mettre, poser",
+      "it": "mettere, porre",
+      "ru": "класть, ставить",
+      "es": "poner",
+      "pl": "kłaść, stawiać",
+      "fa": "گذاشتن"
+    },
+    "explanations": {
+      "en": "Verb expressing the action of placing something somewhere",
+      "de": "Verb für die Handlung, etwas irgendwo zu platzieren",
+      "ar": "فعل يعبر عن فعل وضع شيء ما في مكان ما",
+      "fr": "Verbe exprimant l'action de placer quelque chose quelque part",
+      "it": "Verbo che esprime l'azione di mettere qualcosa da qualche parte",
+      "ru": "Глагол, выражающий действие размещения чего-либо где-либо",
+      "es": "Verbo que expresa la acción de colocar algo en algún lugar",
+      "pl": "Czasownik wyrażający czynność umieszczania czegoś gdzieś",
+      "fa": "فعلی که عمل قرار دادن چیزی در جایی را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I put", "You place", "She puts"],
+      "de": ["Ich stelle", "Du stellst", "Sie stellt"],
+      "ar": ["أنا أضع", "أنت تضع", "هي تضع"],
+      "fr": ["Je mets", "Tu mets", "Elle met"],
+      "it": ["Io metto", "Tu metti", "Lei mette"],
+      "ru": ["Я кладу", "Ты кладёшь", "Она кладёт"],
+      "es": ["Yo pongo", "Tú pones", "Ella pone"],
+      "pl": ["Ja kładę", "Ty kładziesz", "Ona kładzie"],
+      "fa": ["من می‌گذارم", "تو می‌گذاری", "او می‌گذارد"]
+    },
+    "conjugations": null
+  }
+]

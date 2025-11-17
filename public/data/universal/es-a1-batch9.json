@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_161_es",
+    "word": "blanco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "white",
+      "de": "weiß",
+      "ar": "أبيض",
+      "fr": "blanc",
+      "it": "bianco",
+      "ru": "белый",
+      "es": "blanco",
+      "pl": "biały",
+      "fa": "سفید"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color white",
+      "de": "Adjektiv für die Farbe Weiß",
+      "ar": "صفة تشير إلى اللون الأبيض",
+      "fr": "Adjectif indiquant la couleur blanche",
+      "it": "Aggettivo che indica il colore bianco",
+      "ru": "Прилагательное, обозначающее белый цвет",
+      "es": "Adjetivo que indica el color blanco",
+      "pl": "Przymiotnik wskazujący kolor biały",
+      "fa": "صفت که رنگ سفید را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["White house", "White paper", "White snow"],
+      "de": ["Weißes Haus", "Weißes Papier", "Weißer Schnee"],
+      "ar": ["بيت أبيض", "ورق أبيض", "ثلج أبيض"],
+      "fr": ["Maison blanche", "Papier blanc", "Neige blanche"],
+      "it": ["Casa bianca", "Carta bianca", "Neve bianca"],
+      "ru": ["Белый дом", "Белая бумага", "Белый снег"],
+      "es": ["Casa blanca", "Papel blanco", "Nieve blanca"],
+      "pl": ["Biały dom", "Biały papier", "Biały śnieg"],
+      "fa": ["خانه سفید", "کاغذ سفید", "برف سفید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_162_es",
+    "word": "negro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "black",
+      "de": "schwarz",
+      "ar": "أسود",
+      "fr": "noir",
+      "it": "nero",
+      "ru": "черный",
+      "es": "negro",
+      "pl": "czarny",
+      "fa": "سیاه"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color black",
+      "de": "Adjektiv für die Farbe Schwarz",
+      "ar": "صفة تشير إلى اللون الأسود",
+      "fr": "Adjectif indiquant la couleur noire",
+      "it": "Aggettivo che indica il colore nero",
+      "ru": "Прилагательное, обозначающее черный цвет",
+      "es": "Adjetivo que indica el color negro",
+      "pl": "Przymiotnik wskazujący kolor czarny",
+      "fa": "صفت که رنگ سیاه را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Black car", "Black cat", "Black coffee"],
+      "de": ["Schwarzes Auto", "Schwarze Katze", "Schwarzer Kaffee"],
+      "ar": ["سيارة سوداء", "قطة سوداء", "قهوة سوداء"],
+      "fr": ["Voiture noire", "Chat noir", "Café noir"],
+      "it": ["Macchina nera", "Gatto nero", "Caffè nero"],
+      "ru": ["Черная машина", "Черная кошка", "Черный кофе"],
+      "es": ["Coche negro", "Gato negro", "Café negro"],
+      "pl": ["Czarny samochód", "Czarny kot", "Czarna kawa"],
+      "fa": ["ماشین سیاه", "گربه سیاه", "قهوه سیاه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_163_es",
+    "word": "rojo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "red",
+      "de": "rot",
+      "ar": "أحمر",
+      "fr": "rouge",
+      "it": "rosso",
+      "ru": "красный",
+      "es": "rojo",
+      "pl": "czerwony",
+      "fa": "قرمز"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color red",
+      "de": "Adjektiv für die Farbe Rot",
+      "ar": "صفة تشير إلى اللون الأحمر",
+      "fr": "Adjectif indiquant la couleur rouge",
+      "it": "Aggettivo che indica il colore rosso",
+      "ru": "Прилагательное, обозначающее красный цвет",
+      "es": "Adjetivo que indica el color rojo",
+      "pl": "Przymiotnik wskazujący kolor czerwony",
+      "fa": "صفت که رنگ قرمز را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Red car", "Red apple", "Red rose"],
+      "de": ["Rotes Auto", "Roter Apfel", "Rote Rose"],
+      "ar": ["سيارة حمراء", "تفاحة حمراء", "وردة حمراء"],
+      "fr": ["Voiture rouge", "Pomme rouge", "Rose rouge"],
+      "it": ["Macchina rossa", "Mela rossa", "Rosa rossa"],
+      "ru": ["Красная машина", "Красное яблоко", "Красная роза"],
+      "es": ["Coche rojo", "Manzana roja", "Rosa roja"],
+      "pl": ["Czerwony samochód", "Czerwone jabłko", "Czerwona róża"],
+      "fa": ["ماشین قرمز", "سیب قرمز", "گل سرخ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_164_es",
+    "word": "azul",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "blue",
+      "de": "blau",
+      "ar": "أزرق",
+      "fr": "bleu",
+      "it": "blu",
+      "ru": "синий",
+      "es": "azul",
+      "pl": "niebieski",
+      "fa": "آبی"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color blue",
+      "de": "Adjektiv für die Farbe Blau",
+      "ar": "صفة تشير إلى اللون الأزرق",
+      "fr": "Adjectif indiquant la couleur bleue",
+      "it": "Aggettivo che indica il colore blu",
+      "ru": "Прилагательное, обозначающее синий цвет",
+      "es": "Adjetivo que indica el color azul",
+      "pl": "Przymiotnik wskazujący kolor niebieski",
+      "fa": "صفت که رنگ آبی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Blue sky", "Blue eyes", "Blue car"],
+      "de": ["Blauer Himmel", "Blaue Augen", "Blaues Auto"],
+      "ar": ["سماء زرقاء", "عيون زرقاء", "سيارة زرقاء"],
+      "fr": ["Ciel bleu", "Yeux bleus", "Voiture bleue"],
+      "it": ["Cielo blu", "Occhi blu", "Macchina blu"],
+      "ru": ["Синее небо", "Голубые глаза", "Синяя машина"],
+      "es": ["Cielo azul", "Ojos azules", "Coche azul"],
+      "pl": ["Niebieskie niebo", "Niebieskie oczy", "Niebieski samochód"],
+      "fa": ["آسمان آبی", "چشمان آبی", "ماشین آبی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_165_es",
+    "word": "verde",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "green",
+      "de": "grün",
+      "ar": "أخضر",
+      "fr": "vert",
+      "it": "verde",
+      "ru": "зеленый",
+      "es": "verde",
+      "pl": "zielony",
+      "fa": "سبز"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color green",
+      "de": "Adjektiv für die Farbe Grün",
+      "ar": "صفة تشير إلى اللون الأخضر",
+      "fr": "Adjectif indiquant la couleur verte",
+      "it": "Aggettivo che indica il colore verde",
+      "ru": "Прилагательное, обозначающее зеленый цвет",
+      "es": "Adjetivo que indica el color verde",
+      "pl": "Przymiotnik wskazujący kolor zielony",
+      "fa": "صفت که رنگ سبز را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Green tree", "Green grass", "Green light"],
+      "de": ["Grüner Baum", "Grünes Gras", "Grünes Licht"],
+      "ar": ["شجرة خضراء", "عشب أخضر", "ضوء أخضر"],
+      "fr": ["Arbre vert", "Herbe verte", "Feu vert"],
+      "it": ["Albero verde", "Erba verde", "Luce verde"],
+      "ru": ["Зеленое дерево", "Зеленая трава", "Зеленый свет"],
+      "es": ["Árbol verde", "Hierba verde", "Luz verde"],
+      "pl": ["Zielone drzewo", "Zielona trawa", "Zielone światło"],
+      "fa": ["درخت سبز", "چمن سبز", "چراغ سبز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_166_es",
+    "word": "amarillo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "yellow",
+      "de": "gelb",
+      "ar": "أصفر",
+      "fr": "jaune",
+      "it": "giallo",
+      "ru": "желтый",
+      "es": "amarillo",
+      "pl": "żółty",
+      "fa": "زرد"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color yellow",
+      "de": "Adjektiv für die Farbe Gelb",
+      "ar": "صفة تشير إلى اللون الأصفر",
+      "fr": "Adjectif indiquant la couleur jaune",
+      "it": "Aggettivo che indica il colore giallo",
+      "ru": "Прилагательное, обозначающее желтый цвет",
+      "es": "Adjetivo que indica el color amarillo",
+      "pl": "Przymiotnik wskazujący kolor żółty",
+      "fa": "صفت که رنگ زرد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Yellow sun", "Yellow banana", "Yellow flower"],
+      "de": ["Gelbe Sonne", "Gelbe Banane", "Gelbe Blume"],
+      "ar": ["شمس صفراء", "موزة صفراء", "زهرة صفراء"],
+      "fr": ["Soleil jaune", "Banane jaune", "Fleur jaune"],
+      "it": ["Sole giallo", "Banana gialla", "Fiore giallo"],
+      "ru": ["Желтое солнце", "Желтый банан", "Желтый цветок"],
+      "es": ["Sol amarillo", "Plátano amarillo", "Flor amarilla"],
+      "pl": ["Żółte słońce", "Żółty banan", "Żółty kwiat"],
+      "fa": ["خورشید زرد", "موز زرد", "گل زرد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_167_es",
+    "word": "naranja",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "orange",
+      "de": "orange",
+      "ar": "برتقالي",
+      "fr": "orange",
+      "it": "arancione",
+      "ru": "оранжевый",
+      "es": "naranja",
+      "pl": "pomarańczowy",
+      "fa": "نارنجی"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color orange",
+      "de": "Adjektiv für die Farbe Orange",
+      "ar": "صفة تشير إلى اللون البرتقالي",
+      "fr": "Adjectif indiquant la couleur orange",
+      "it": "Aggettivo che indica il colore arancione",
+      "ru": "Прилагательное, обозначающее оранжевый цвет",
+      "es": "Adjetivo que indica el color naranja",
+      "pl": "Przymiotnik wskazujący kolor pomarańczowy",
+      "fa": "صفت که رنگ نارنجی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Orange fruit", "Orange shirt", "Orange sunset"],
+      "de": ["Orange Frucht", "Oranges Hemd", "Oranger Sonnenuntergang"],
+      "ar": ["فاكهة برتقالية", "قميص برتقالي", "غروب برتقالي"],
+      "fr": ["Fruit orange", "Chemise orange", "Coucher de soleil orange"],
+      "it": ["Frutto arancione", "Camicia arancione", "Tramonto arancione"],
+      "ru": ["Оранжевый фрукт", "Оранжевая рубашка", "Оранжевый закат"],
+      "es": ["Fruta naranja", "Camisa naranja", "Puesta naranja"],
+      "pl": ["Pomarańczowy owoc", "Pomarańczowa koszula", "Pomarańczowy zachód słońca"],
+      "fa": ["میوه نارنجی", "پیراهن نارنجی", "غروب نارنجی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_168_es",
+    "word": "rosa",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "pink",
+      "de": "rosa",
+      "ar": "وردي",
+      "fr": "rose",
+      "it": "rosa",
+      "ru": "розовый",
+      "es": "rosa",
+      "pl": "różowy",
+      "fa": "صورتی"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color pink",
+      "de": "Adjektiv für die Farbe Rosa",
+      "ar": "صفة تشير إلى اللون الوردي",
+      "fr": "Adjectif indiquant la couleur rose",
+      "it": "Aggettivo che indica il colore rosa",
+      "ru": "Прилагательное, обозначающее розовый цвет",
+      "es": "Adjetivo que indica el color rosa",
+      "pl": "Przymiotnik wskazujący kolor różowy",
+      "fa": "صفت که رنگ صورتی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Pink dress", "Pink flower", "Pink sky"],
+      "de": ["Rosa Kleid", "Rosa Blume", "Rosa Himmel"],
+      "ar": ["فستان وردي", "زهرة وردية", "سماء وردية"],
+      "fr": ["Robe rose", "Fleur rose", "Ciel rose"],
+      "it": ["Vestito rosa", "Fiore rosa", "Cielo rosa"],
+      "ru": ["Розовое платье", "Розовый цветок", "Розовое небо"],
+      "es": ["Vestido rosa", "Flor rosa", "Cielo rosa"],
+      "pl": ["Różowa sukienka", "Różowy kwiat", "Różowe niebo"],
+      "fa": ["لباس صورتی", "گل صورتی", "آسمان صورتی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_169_es",
+    "word": "gris",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "gray",
+      "de": "grau",
+      "ar": "رمادي",
+      "fr": "gris",
+      "it": "grigio",
+      "ru": "серый",
+      "es": "gris",
+      "pl": "szary",
+      "fa": "خاکستری"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color gray",
+      "de": "Adjektiv für die Farbe Grau",
+      "ar": "صفة تشير إلى اللون الرمادي",
+      "fr": "Adjectif indiquant la couleur grise",
+      "it": "Aggettivo che indica il colore grigio",
+      "ru": "Прилагательное, обозначающее серый цвет",
+      "es": "Adjetivo que indica el color gris",
+      "pl": "Przymiotnik wskazujący kolor szary",
+      "fa": "صفت که رنگ خاکستری را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Gray cloud", "Gray cat", "Gray hair"],
+      "de": ["Graue Wolke", "Graue Katze", "Graue Haare"],
+      "ar": ["سحابة رمادية", "قطة رمادية", "شعر رمادي"],
+      "fr": ["Nuage gris", "Chat gris", "Cheveux gris"],
+      "it": ["Nuvola grigia", "Gatto grigio", "Capelli grigi"],
+      "ru": ["Серое облако", "Серая кошка", "Серые волосы"],
+      "es": ["Nube gris", "Gato gris", "Pelo gris"],
+      "pl": ["Szara chmura", "Szary kot", "Siwe włosy"],
+      "fa": ["ابر خاکستری", "گربه خاکستری", "موی خاکستری"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_170_es",
+    "word": "marrón",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "brown",
+      "de": "braun",
+      "ar": "بني",
+      "fr": "marron",
+      "it": "marrone",
+      "ru": "коричневый",
+      "es": "marrón",
+      "pl": "brązowy",
+      "fa": "قهوه‌ای"
+    },
+    "explanations": {
+      "en": "Adjective indicating the color brown",
+      "de": "Adjektiv für die Farbe Braun",
+      "ar": "صفة تشير إلى اللون البني",
+      "fr": "Adjectif indiquant la couleur marron",
+      "it": "Aggettivo che indica il colore marrone",
+      "ru": "Прилагательное, обозначающее коричневый цвет",
+      "es": "Adjetivo que indica el color marrón",
+      "pl": "Przymiotnik wskazujący kolor brązowy",
+      "fa": "صفت که رنگ قهوه‌ای را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Brown dog", "Brown shoes", "Brown eyes"],
+      "de": ["Brauner Hund", "Braune Schuhe", "Braune Augen"],
+      "ar": ["كلب بني", "أحذية بنية", "عيون بنية"],
+      "fr": ["Chien marron", "Chaussures marron", "Yeux marron"],
+      "it": ["Cane marrone", "Scarpe marroni", "Occhi marroni"],
+      "ru": ["Коричневая собака", "Коричневые туфли", "Карие глаза"],
+      "es": ["Perro marrón", "Zapatos marrones", "Ojos marrones"],
+      "pl": ["Brązowy pies", "Brązowe buty", "Brązowe oczy"],
+      "fa": ["سگ قهوه‌ای", "کفش قهوه‌ای", "چشمان قهوه‌ای"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_171_es",
+    "word": "uno",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "one",
+      "de": "eins",
+      "ar": "واحد",
+      "fr": "un",
+      "it": "uno",
+      "ru": "один",
+      "es": "uno",
+      "pl": "jeden",
+      "fa": "یک"
+    },
+    "explanations": {
+      "en": "Number indicating single unit or first position",
+      "de": "Zahl für eine einzelne Einheit oder erste Position",
+      "ar": "عدد يشير إلى وحدة واحدة أو الموضع الأول",
+      "fr": "Nombre indiquant une seule unité ou première position",
+      "it": "Numero che indica singola unità o prima posizione",
+      "ru": "Число, обозначающее единицу или первую позицию",
+      "es": "Número que indica una unidad o primera posición",
+      "pl": "Liczba wskazująca pojedynczą jednostkę lub pierwszą pozycję",
+      "fa": "عددی که یک واحد یا موقعیت اول را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["One person", "I have one", "Number one"],
+      "de": ["Eine Person", "Ich habe eins", "Nummer eins"],
+      "ar": ["شخص واحد", "لدي واحد", "رقم واحد"],
+      "fr": ["Une personne", "J'ai un", "Numéro un"],
+      "it": ["Una persona", "Ne ho uno", "Numero uno"],
+      "ru": ["Один человек", "У меня один", "Номер один"],
+      "es": ["Una persona", "Tengo uno", "Número uno"],
+      "pl": ["Jedna osoba", "Mam jeden", "Numer jeden"],
+      "fa": ["یک نفر", "من یکی دارم", "شماره یک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_172_es",
+    "word": "dos",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "two",
+      "de": "zwei",
+      "ar": "اثنان",
+      "fr": "deux",
+      "it": "due",
+      "ru": "два",
+      "es": "dos",
+      "pl": "dwa",
+      "fa": "دو"
+    },
+    "explanations": {
+      "en": "Number indicating two units or second position",
+      "de": "Zahl für zwei Einheiten oder zweite Position",
+      "ar": "عدد يشير إلى وحدتين أو الموضع الثاني",
+      "fr": "Nombre indiquant deux unités ou deuxième position",
+      "it": "Numero che indica due unità o seconda posizione",
+      "ru": "Число, обозначающее две единицы или вторую позицию",
+      "es": "Número que indica dos unidades o segunda posición",
+      "pl": "Liczba wskazująca dwie jednostki lub drugą pozycję",
+      "fa": "عددی که دو واحد یا موقعیت دوم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Two people", "I have two", "Two books"],
+      "de": ["Zwei Personen", "Ich habe zwei", "Zwei Bücher"],
+      "ar": ["شخصان", "لدي اثنان", "كتابان"],
+      "fr": ["Deux personnes", "J'ai deux", "Deux livres"],
+      "it": ["Due persone", "Ne ho due", "Due libri"],
+      "ru": ["Два человека", "У меня два", "Две книги"],
+      "es": ["Dos personas", "Tengo dos", "Dos libros"],
+      "pl": ["Dwie osoby", "Mam dwa", "Dwie książki"],
+      "fa": ["دو نفر", "من دو تا دارم", "دو کتاب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_173_es",
+    "word": "tres",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "three",
+      "de": "drei",
+      "ar": "ثلاثة",
+      "fr": "trois",
+      "it": "tre",
+      "ru": "три",
+      "es": "tres",
+      "pl": "trzy",
+      "fa": "سه"
+    },
+    "explanations": {
+      "en": "Number indicating three units",
+      "de": "Zahl für drei Einheiten",
+      "ar": "عدد يشير إلى ثلاث وحدات",
+      "fr": "Nombre indiquant trois unités",
+      "it": "Numero che indica tre unità",
+      "ru": "Число, обозначающее три единицы",
+      "es": "Número que indica tres unidades",
+      "pl": "Liczba wskazująca trzy jednostki",
+      "fa": "عددی که سه واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Three people", "I have three", "Three days"],
+      "de": ["Drei Personen", "Ich habe drei", "Drei Tage"],
+      "ar": ["ثلاثة أشخاص", "لدي ثلاثة", "ثلاثة أيام"],
+      "fr": ["Trois personnes", "J'ai trois", "Trois jours"],
+      "it": ["Tre persone", "Ne ho tre", "Tre giorni"],
+      "ru": ["Три человека", "У меня три", "Три дня"],
+      "es": ["Tres personas", "Tengo tres", "Tres días"],
+      "pl": ["Trzy osoby", "Mam trzy", "Trzy dni"],
+      "fa": ["سه نفر", "من سه تا دارم", "سه روز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_174_es",
+    "word": "cuatro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "four",
+      "de": "vier",
+      "ar": "أربعة",
+      "fr": "quatre",
+      "it": "quattro",
+      "ru": "четыре",
+      "es": "cuatro",
+      "pl": "cztery",
+      "fa": "چهار"
+    },
+    "explanations": {
+      "en": "Number indicating four units",
+      "de": "Zahl für vier Einheiten",
+      "ar": "عدد يشير إلى أربع وحدات",
+      "fr": "Nombre indiquant quatre unités",
+      "it": "Numero che indica quattro unità",
+      "ru": "Число, обозначающее четыре единицы",
+      "es": "Número que indica cuatro unidades",
+      "pl": "Liczba wskazująca cztery jednostki",
+      "fa": "عددی که چهار واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Four people", "I have four", "Four hours"],
+      "de": ["Vier Personen", "Ich habe vier", "Vier Stunden"],
+      "ar": ["أربعة أشخاص", "لدي أربعة", "أربع ساعات"],
+      "fr": ["Quatre personnes", "J'ai quatre", "Quatre heures"],
+      "it": ["Quattro persone", "Ne ho quattro", "Quattro ore"],
+      "ru": ["Четыре человека", "У меня четыре", "Четыре часа"],
+      "es": ["Cuatro personas", "Tengo cuatro", "Cuatro horas"],
+      "pl": ["Cztery osoby", "Mam cztery", "Cztery godziny"],
+      "fa": ["چهار نفر", "من چهار تا دارم", "چهار ساعت"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_175_es",
+    "word": "cinco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "five",
+      "de": "fünf",
+      "ar": "خمسة",
+      "fr": "cinq",
+      "it": "cinque",
+      "ru": "пять",
+      "es": "cinco",
+      "pl": "pięć",
+      "fa": "پنج"
+    },
+    "explanations": {
+      "en": "Number indicating five units",
+      "de": "Zahl für fünf Einheiten",
+      "ar": "عدد يشير إلى خمس وحدات",
+      "fr": "Nombre indiquant cinq unités",
+      "it": "Numero che indica cinque unità",
+      "ru": "Число, обозначающее пять единиц",
+      "es": "Número que indica cinco unidades",
+      "pl": "Liczba wskazująca pięć jednostek",
+      "fa": "عددی که پنج واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Five people", "I have five", "Five minutes"],
+      "de": ["Fünf Personen", "Ich habe fünf", "Fünf Minuten"],
+      "ar": ["خمسة أشخاص", "لدي خمسة", "خمس دقائق"],
+      "fr": ["Cinq personnes", "J'ai cinq", "Cinq minutes"],
+      "it": ["Cinque persone", "Ne ho cinque", "Cinque minuti"],
+      "ru": ["Пять человек", "У меня пять", "Пять минут"],
+      "es": ["Cinco personas", "Tengo cinco", "Cinco minutos"],
+      "pl": ["Pięć osób", "Mam pięć", "Pięć minut"],
+      "fa": ["پنج نفر", "من پنج تا دارم", "پنج دقیقه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_176_es",
+    "word": "seis",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "six",
+      "de": "sechs",
+      "ar": "ستة",
+      "fr": "six",
+      "it": "sei",
+      "ru": "шесть",
+      "es": "seis",
+      "pl": "sześć",
+      "fa": "شش"
+    },
+    "explanations": {
+      "en": "Number indicating six units",
+      "de": "Zahl für sechs Einheiten",
+      "ar": "عدد يشير إلى ست وحدات",
+      "fr": "Nombre indiquant six unités",
+      "it": "Numero che indica sei unità",
+      "ru": "Число, обозначающее шесть единиц",
+      "es": "Número que indica seis unidades",
+      "pl": "Liczba wskazująca sześć jednostek",
+      "fa": "عددی که شش واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Six people", "I have six", "Six months"],
+      "de": ["Sechs Personen", "Ich habe sechs", "Sechs Monate"],
+      "ar": ["ستة أشخاص", "لدي ستة", "ستة أشهر"],
+      "fr": ["Six personnes", "J'ai six", "Six mois"],
+      "it": ["Sei persone", "Ne ho sei", "Sei mesi"],
+      "ru": ["Шесть человек", "У меня шесть", "Шесть месяцев"],
+      "es": ["Seis personas", "Tengo seis", "Seis meses"],
+      "pl": ["Sześć osób", "Mam sześć", "Sześć miesięcy"],
+      "fa": ["شش نفر", "من شش تا دارم", "شش ماه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_177_es",
+    "word": "siete",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "seven",
+      "de": "sieben",
+      "ar": "سبعة",
+      "fr": "sept",
+      "it": "sette",
+      "ru": "семь",
+      "es": "siete",
+      "pl": "siedem",
+      "fa": "هفت"
+    },
+    "explanations": {
+      "en": "Number indicating seven units",
+      "de": "Zahl für sieben Einheiten",
+      "ar": "عدد يشير إلى سبع وحدات",
+      "fr": "Nombre indiquant sept unités",
+      "it": "Numero che indica sette unità",
+      "ru": "Число, обозначающее семь единиц",
+      "es": "Número que indica siete unidades",
+      "pl": "Liczba wskazująca siedem jednostek",
+      "fa": "عددی که هفت واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Seven people", "I have seven", "Seven days"],
+      "de": ["Sieben Personen", "Ich habe sieben", "Sieben Tage"],
+      "ar": ["سبعة أشخاص", "لدي سبعة", "سبعة أيام"],
+      "fr": ["Sept personnes", "J'ai sept", "Sept jours"],
+      "it": ["Sette persone", "Ne ho sette", "Sette giorni"],
+      "ru": ["Семь человек", "У меня семь", "Семь дней"],
+      "es": ["Siete personas", "Tengo siete", "Siete días"],
+      "pl": ["Siedem osób", "Mam siedem", "Siedem dni"],
+      "fa": ["هفت نفر", "من هفت تا دارم", "هفت روز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_178_es",
+    "word": "ocho",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "eight",
+      "de": "acht",
+      "ar": "ثمانية",
+      "fr": "huit",
+      "it": "otto",
+      "ru": "восемь",
+      "es": "ocho",
+      "pl": "osiem",
+      "fa": "هشت"
+    },
+    "explanations": {
+      "en": "Number indicating eight units",
+      "de": "Zahl für acht Einheiten",
+      "ar": "عدد يشير إلى ثماني وحدات",
+      "fr": "Nombre indiquant huit unités",
+      "it": "Numero che indica otto unità",
+      "ru": "Число, обозначающее восемь единиц",
+      "es": "Número que indica ocho unidades",
+      "pl": "Liczba wskazująca osiem jednostek",
+      "fa": "عددی که هشت واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Eight people", "I have eight", "Eight hours"],
+      "de": ["Acht Personen", "Ich habe acht", "Acht Stunden"],
+      "ar": ["ثمانية أشخاص", "لدي ثمانية", "ثماني ساعات"],
+      "fr": ["Huit personnes", "J'ai huit", "Huit heures"],
+      "it": ["Otto persone", "Ne ho otto", "Otto ore"],
+      "ru": ["Восемь человек", "У меня восемь", "Восемь часов"],
+      "es": ["Ocho personas", "Tengo ocho", "Ocho horas"],
+      "pl": ["Osiem osób", "Mam osiem", "Osiem godzin"],
+      "fa": ["هشت نفر", "من هشت تا دارم", "هشت ساعت"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_179_es",
+    "word": "nueve",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nine",
+      "de": "neun",
+      "ar": "تسعة",
+      "fr": "neuf",
+      "it": "nove",
+      "ru": "девять",
+      "es": "nueve",
+      "pl": "dziewięć",
+      "fa": "نه"
+    },
+    "explanations": {
+      "en": "Number indicating nine units",
+      "de": "Zahl für neun Einheiten",
+      "ar": "عدد يشير إلى تسع وحدات",
+      "fr": "Nombre indiquant neuf unités",
+      "it": "Numero che indica nove unità",
+      "ru": "Число, обозначающее девять единиц",
+      "es": "Número que indica nueve unidades",
+      "pl": "Liczba wskazująca dziewięć jednostek",
+      "fa": "عددی که نه واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Nine people", "I have nine", "Nine months"],
+      "de": ["Neun Personen", "Ich habe neun", "Neun Monate"],
+      "ar": ["تسعة أشخاص", "لدي تسعة", "تسعة أشهر"],
+      "fr": ["Neuf personnes", "J'ai neuf", "Neuf mois"],
+      "it": ["Nove persone", "Ne ho nove", "Nove mesi"],
+      "ru": ["Девять человек", "У меня девять", "Девять месяцев"],
+      "es": ["Nueve personas", "Tengo nueve", "Nueve meses"],
+      "pl": ["Dziewięć osób", "Mam dziewięć", "Dziewięć miesięcy"],
+      "fa": ["نه نفر", "من نه تا دارم", "نه ماه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_180_es",
+    "word": "diez",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "ten",
+      "de": "zehn",
+      "ar": "عشرة",
+      "fr": "dix",
+      "it": "dieci",
+      "ru": "десять",
+      "es": "diez",
+      "pl": "dziesięć",
+      "fa": "ده"
+    },
+    "explanations": {
+      "en": "Number indicating ten units",
+      "de": "Zahl für zehn Einheiten",
+      "ar": "عدد يشير إلى عشر وحدات",
+      "fr": "Nombre indiquant dix unités",
+      "it": "Numero che indica dieci unità",
+      "ru": "Число, обозначающее десять единиц",
+      "es": "Número que indica diez unidades",
+      "pl": "Liczba wskazująca dziesięć jednostek",
+      "fa": "عددی که ده واحد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Ten people", "I have ten", "Ten years"],
+      "de": ["Zehn Personen", "Ich habe zehn", "Zehn Jahre"],
+      "ar": ["عشرة أشخاص", "لدي عشرة", "عشر سنوات"],
+      "fr": ["Dix personnes", "J'ai dix", "Dix ans"],
+      "it": ["Dieci persone", "Ne ho dieci", "Dieci anni"],
+      "ru": ["Десять человек", "У меня десять", "Десять лет"],
+      "es": ["Diez personas", "Tengo diez", "Diez años"],
+      "pl": ["Dziesięć osób", "Mam dziesięć", "Dziesięć lat"],
+      "fa": ["ده نفر", "من ده تا دارم", "ده سال"]
+    },
+    "conjugations": null
+  }
+]

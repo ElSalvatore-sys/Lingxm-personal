@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_441_es",
+    "word": "médico",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "doctor",
+      "de": "Arzt",
+      "ar": "طبيب",
+      "fr": "médecin",
+      "it": "medico",
+      "ru": "врач",
+      "es": "médico",
+      "pl": "lekarz",
+      "fa": "پزشک"
+    },
+    "explanations": {
+      "en": "A person who is qualified to treat people who are ill",
+      "de": "Eine Person, die qualifiziert ist, kranke Menschen zu behandeln",
+      "ar": "شخص مؤهل لعلاج الأشخاص المرضى",
+      "fr": "Une personne qualifiée pour soigner les personnes malades",
+      "it": "Una persona qualificata per curare le persone malate",
+      "ru": "Человек, квалифицированный для лечения больных людей",
+      "es": "Una persona calificada para tratar a personas enfermas",
+      "pl": "Osoba wykwalifikowana do leczenia chorych",
+      "fa": "فردی که صلاحیت درمان افراد بیمار را دارد"
+    },
+    "examples": {
+      "en": ["Go to doctor", "Family doctor", "Doctor's appointment"],
+      "de": ["Zum Arzt gehen", "Hausarzt", "Arzttermin"],
+      "ar": ["اذهب إلى الطبيب", "طبيب العائلة", "موعد الطبيب"],
+      "fr": ["Aller chez le médecin", "Médecin de famille", "Rendez-vous médical"],
+      "it": ["Andare dal medico", "Medico di famiglia", "Appuntamento medico"],
+      "ru": ["Идти к врачу", "Семейный врач", "Визит к врачу"],
+      "es": ["Ir al médico", "Médico de familia", "Cita médica"],
+      "pl": ["Iść do lekarza", "Lekarz rodzinny", "Wizyta u lekarza"],
+      "fa": ["به پزشک رفتن", "پزشک خانواده", "قرار ملاقات پزشک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_442_es",
+    "word": "enfermero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nurse",
+      "de": "Krankenpfleger",
+      "ar": "ممرض",
+      "fr": "infirmier",
+      "it": "infermiere",
+      "ru": "медсестра",
+      "es": "enfermero",
+      "pl": "pielęgniarz",
+      "fa": "پرستار"
+    },
+    "explanations": {
+      "en": "A person trained to care for sick or injured people",
+      "de": "Eine Person, die ausgebildet ist, um kranke oder verletzte Menschen zu pflegen",
+      "ar": "شخص مدرب لرعاية الأشخاص المرضى أو المصابين",
+      "fr": "Une personne formée pour soigner les personnes malades ou blessées",
+      "it": "Una persona addestrata a prendersi cura di persone malate o ferite",
+      "ru": "Человек, обученный уходу за больными или травмированными людьми",
+      "es": "Una persona capacitada para cuidar a personas enfermas o heridas",
+      "pl": "Osoba wyszkolona do opieki nad chorymi lub rannymi",
+      "fa": "فردی که برای مراقبت از افراد بیمار یا مجروح آموزش دیده است"
+    },
+    "examples": {
+      "en": ["Hospital nurse", "The nurse helps", "Nurse's station"],
+      "de": ["Krankenhausschwester", "Die Schwester hilft", "Pflegestation"],
+      "ar": ["ممرض المستشفى", "الممرض يساعد", "محطة التمريض"],
+      "fr": ["Infirmier d'hôpital", "L'infirmier aide", "Poste infirmier"],
+      "it": ["Infermiere ospedaliero", "L'infermiere aiuta", "Stazione infermieristica"],
+      "ru": ["Больничная медсестра", "Медсестра помогает", "Сестринский пост"],
+      "es": ["Enfermero del hospital", "El enfermero ayuda", "Estación de enfermería"],
+      "pl": ["Pielęgniarz szpitalny", "Pielęgniarz pomaga", "Dyżurka pielęgniarek"],
+      "fa": ["پرستار بیمارستان", "پرستار کمک می‌کند", "ایستگاه پرستاری"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_443_es",
+    "word": "profesor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "teacher, professor",
+      "de": "Lehrer, Professor",
+      "ar": "معلم، أستاذ",
+      "fr": "professeur",
+      "it": "professore",
+      "ru": "учитель, профессор",
+      "es": "profesor",
+      "pl": "nauczyciel, profesor",
+      "fa": "معلم، استاد"
+    },
+    "explanations": {
+      "en": "A person who teaches, especially in a school or university",
+      "de": "Eine Person, die unterrichtet, besonders in einer Schule oder Universität",
+      "ar": "شخص يعلم، خاصة في مدرسة أو جامعة",
+      "fr": "Une personne qui enseigne, surtout dans une école ou université",
+      "it": "Una persona che insegna, specialmente in una scuola o università",
+      "ru": "Человек, который преподает, особенно в школе или университете",
+      "es": "Una persona que enseña, especialmente en una escuela o universidad",
+      "pl": "Osoba, która uczy, szczególnie w szkole lub uniwersytecie",
+      "fa": "فردی که تدریس می‌کند، به ویژه در مدرسه یا دانشگاه"
+    },
+    "examples": {
+      "en": ["Math teacher", "My professor", "Good teacher"],
+      "de": ["Mathelehrer", "Mein Professor", "Guter Lehrer"],
+      "ar": ["معلم رياضيات", "أستاذي", "معلم جيد"],
+      "fr": ["Professeur de maths", "Mon professeur", "Bon professeur"],
+      "it": ["Professore di matematica", "Il mio professore", "Buon insegnante"],
+      "ru": ["Учитель математики", "Мой профессор", "Хороший учитель"],
+      "es": ["Profesor de matemáticas", "Mi profesor", "Buen profesor"],
+      "pl": ["Nauczyciel matematyki", "Mój profesor", "Dobry nauczyciel"],
+      "fa": ["معلم ریاضی", "استاد من", "معلم خوب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_444_es",
+    "word": "estudiante",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "student",
+      "de": "Student",
+      "ar": "طالب",
+      "fr": "étudiant",
+      "it": "studente",
+      "ru": "студент",
+      "es": "estudiante",
+      "pl": "student",
+      "fa": "دانشجو"
+    },
+    "explanations": {
+      "en": "A person who is studying at a school or university",
+      "de": "Eine Person, die an einer Schule oder Universität studiert",
+      "ar": "شخص يدرس في مدرسة أو جامعة",
+      "fr": "Une personne qui étudie dans une école ou université",
+      "it": "Una persona che studia in una scuola o università",
+      "ru": "Человек, который учится в школе или университете",
+      "es": "Una persona que estudia en una escuela o universidad",
+      "pl": "Osoba, która uczy się w szkole lub na uniwersytecie",
+      "fa": "فردی که در مدرسه یا دانشگاه تحصیل می‌کند"
+    },
+    "examples": {
+      "en": ["University student", "Good student", "Students learn"],
+      "de": ["Universitätsstudent", "Guter Student", "Studenten lernen"],
+      "ar": ["طالب جامعي", "طالب جيد", "الطلاب يتعلمون"],
+      "fr": ["Étudiant universitaire", "Bon étudiant", "Les étudiants apprennent"],
+      "it": ["Studente universitario", "Buono studente", "Gli studenti imparano"],
+      "ru": ["Студент университета", "Хороший студент", "Студенты учатся"],
+      "es": ["Estudiante universitario", "Buen estudiante", "Los estudiantes aprenden"],
+      "pl": ["Student uniwersytecki", "Dobry student", "Studenci uczą się"],
+      "fa": ["دانشجوی دانشگاه", "دانشجوی خوب", "دانشجویان یاد می‌گیرند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_445_es",
+    "word": "ingeniero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "engineer",
+      "de": "Ingenieur",
+      "ar": "مهندس",
+      "fr": "ingénieur",
+      "it": "ingegnere",
+      "ru": "инженер",
+      "es": "ingeniero",
+      "pl": "inżynier",
+      "fa": "مهندس"
+    },
+    "explanations": {
+      "en": "A person who designs, builds, or maintains engines, machines, or structures",
+      "de": "Eine Person, die Motoren, Maschinen oder Strukturen entwirft, baut oder wartet",
+      "ar": "شخص يصمم أو يبني أو يصون المحركات أو الآلات أو الهياكل",
+      "fr": "Une personne qui conçoit, construit ou entretient des moteurs, machines ou structures",
+      "it": "Una persona che progetta, costruisce o mantiene motori, macchine o strutture",
+      "ru": "Человек, который проектирует, строит или обслуживает двигатели, машины или сооружения",
+      "es": "Una persona que diseña, construye o mantiene motores, máquinas o estructuras",
+      "pl": "Osoba, która projektuje, buduje lub konserwuje silniki, maszyny lub konstrukcje",
+      "fa": "فردی که موتورها، ماشین‌ها یا سازه‌ها را طراحی، ساخت یا نگهداری می‌کند"
+    },
+    "examples": {
+      "en": ["Civil engineer", "Software engineer", "Engineer works"],
+      "de": ["Bauingenieur", "Softwareingenieur", "Ingenieur arbeitet"],
+      "ar": ["مهندس مدني", "مهندس برمجيات", "المهندس يعمل"],
+      "fr": ["Ingénieur civil", "Ingénieur logiciel", "L'ingénieur travaille"],
+      "it": ["Ingegnere civile", "Ingegnere informatico", "L'ingegnere lavora"],
+      "ru": ["Инженер-строитель", "Инженер-программист", "Инженер работает"],
+      "es": ["Ingeniero civil", "Ingeniero de software", "El ingeniero trabaja"],
+      "pl": ["Inżynier budownictwa", "Inżynier oprogramowania", "Inżynier pracuje"],
+      "fa": ["مهندس عمران", "مهندس نرم‌افزار", "مهندس کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_446_es",
+    "word": "abogado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "lawyer",
+      "de": "Anwalt",
+      "ar": "محامي",
+      "fr": "avocat",
+      "it": "avvocato",
+      "ru": "адвокат",
+      "es": "abogado",
+      "pl": "prawnik",
+      "fa": "وکیل"
+    },
+    "explanations": {
+      "en": "A person who practices or studies law and represents clients in legal matters",
+      "de": "Eine Person, die Recht praktiziert oder studiert und Klienten in rechtlichen Angelegenheiten vertritt",
+      "ar": "شخص يمارس أو يدرس القانون ويمثل العملاء في المسائل القانونية",
+      "fr": "Une personne qui pratique ou étudie le droit et représente des clients dans des affaires juridiques",
+      "it": "Una persona che pratica o studia legge e rappresenta clienti in questioni legali",
+      "ru": "Человек, который практикует или изучает право и представляет клиентов в юридических вопросах",
+      "es": "Una persona que practica o estudia derecho y representa a clientes en asuntos legales",
+      "pl": "Osoba, która praktykuje lub studiuje prawo i reprezentuje klientów w sprawach prawnych",
+      "fa": "فردی که حقوق را تمرین یا مطالعه می‌کند و مشتریان را در مسائل حقوقی نمایندگی می‌کند"
+    },
+    "examples": {
+      "en": ["Hire lawyer", "Good lawyer", "Lawyer's office"],
+      "de": ["Anwalt einstellen", "Guter Anwalt", "Anwaltskanzlei"],
+      "ar": ["توظيف محامي", "محامي جيد", "مكتب المحامي"],
+      "fr": ["Engager un avocat", "Bon avocat", "Cabinet d'avocat"],
+      "it": ["Assumere avvocato", "Buon avvocato", "Studio legale"],
+      "ru": ["Нанять адвоката", "Хороший адвокат", "Офис адвоката"],
+      "es": ["Contratar abogado", "Buen abogado", "Oficina del abogado"],
+      "pl": ["Zatrudnić prawnika", "Dobry prawnik", "Kancelaria prawna"],
+      "fa": ["استخدام وکیل", "وکیل خوب", "دفتر وکیل"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_447_es",
+    "word": "camarero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "waiter",
+      "de": "Kellner",
+      "ar": "نادل",
+      "fr": "serveur",
+      "it": "cameriere",
+      "ru": "официант",
+      "es": "camarero",
+      "pl": "kelner",
+      "fa": "پیشخدمت"
+    },
+    "explanations": {
+      "en": "A person who serves food and drinks in a restaurant or café",
+      "de": "Eine Person, die Essen und Getränke in einem Restaurant oder Café serviert",
+      "ar": "شخص يقدم الطعام والمشروبات في مطعم أو مقهى",
+      "fr": "Une personne qui sert de la nourriture et des boissons dans un restaurant ou café",
+      "it": "Una persona che serve cibo e bevande in un ristorante o caffè",
+      "ru": "Человек, который подает еду и напитки в ресторане или кафе",
+      "es": "Una persona que sirve comida y bebidas en un restaurante o cafetería",
+      "pl": "Osoba, która serwuje jedzenie i napoje w restauracji lub kawiarni",
+      "fa": "فردی که غذا و نوشیدنی در رستوران یا کافه سرو می‌کند"
+    },
+    "examples": {
+      "en": ["Call the waiter", "Friendly waiter", "Waiter brings menu"],
+      "de": ["Kellner rufen", "Freundlicher Kellner", "Kellner bringt Speisekarte"],
+      "ar": ["اتصل بالنادل", "نادل ودود", "النادل يحضر القائمة"],
+      "fr": ["Appeler le serveur", "Serveur sympathique", "Le serveur apporte le menu"],
+      "it": ["Chiamare il cameriere", "Cameriere cordiale", "Il cameriere porta il menu"],
+      "ru": ["Позвать официанта", "Дружелюбный официант", "Официант приносит меню"],
+      "es": ["Llamar al camarero", "Camarero amable", "El camarero trae el menú"],
+      "pl": ["Zawołać kelnera", "Przyjazny kelner", "Kelner przynosi menu"],
+      "fa": ["پیشخدمت را صدا زدن", "پیشخدمت دوستانه", "پیشخدمت منو می‌آورد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_448_es",
+    "word": "cocinero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cook, chef",
+      "de": "Koch",
+      "ar": "طباخ، طاه",
+      "fr": "cuisinier, chef",
+      "it": "cuoco, chef",
+      "ru": "повар, шеф-повар",
+      "es": "cocinero",
+      "pl": "kucharz",
+      "fa": "آشپز، سرآشپز"
+    },
+    "explanations": {
+      "en": "A person who prepares and cooks food professionally",
+      "de": "Eine Person, die professionell Essen zubereitet und kocht",
+      "ar": "شخص يحضر ويطبخ الطعام بشكل احترافي",
+      "fr": "Une personne qui prépare et cuisine de la nourriture professionnellement",
+      "it": "Una persona che prepara e cucina cibo professionalmente",
+      "ru": "Человек, который профессионально готовит и варит еду",
+      "es": "Una persona que prepara y cocina alimentos profesionalmente",
+      "pl": "Osoba, która profesjonalnie przygotowuje i gotuje jedzenie",
+      "fa": "فردی که به صورت حرفه‌ای غذا تهیه و می‌پزد"
+    },
+    "examples": {
+      "en": ["Restaurant chef", "Good cook", "Chef prepares"],
+      "de": ["Restaurantkoch", "Guter Koch", "Koch bereitet zu"],
+      "ar": ["طاه المطعم", "طباخ جيد", "الطاه يحضر"],
+      "fr": ["Chef de restaurant", "Bon cuisinier", "Le chef prépare"],
+      "it": ["Chef di ristorante", "Buon cuoco", "Lo chef prepara"],
+      "ru": ["Ресторанный шеф", "Хороший повар", "Повар готовит"],
+      "es": ["Chef de restaurante", "Buen cocinero", "El cocinero prepara"],
+      "pl": ["Szef kuchni restauracji", "Dobry kucharz", "Kucharz przygotowuje"],
+      "fa": ["سرآشپز رستوران", "آشپز خوب", "آشپز آماده می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_449_es",
+    "word": "vendedor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "seller, salesperson",
+      "de": "Verkäufer",
+      "ar": "بائع",
+      "fr": "vendeur",
+      "it": "venditore",
+      "ru": "продавец",
+      "es": "vendedor",
+      "pl": "sprzedawca",
+      "fa": "فروشنده"
+    },
+    "explanations": {
+      "en": "A person who sells goods or services",
+      "de": "Eine Person, die Waren oder Dienstleistungen verkauft",
+      "ar": "شخص يبيع السلع أو الخدمات",
+      "fr": "Une personne qui vend des biens ou services",
+      "it": "Una persona che vende beni o servizi",
+      "ru": "Человек, который продает товары или услуги",
+      "es": "Una persona que vende bienes o servicios",
+      "pl": "Osoba, która sprzedaje towary lub usługi",
+      "fa": "فردی که کالا یا خدمات می‌فروشد"
+    },
+    "examples": {
+      "en": ["Shop seller", "Good salesperson", "Seller helps"],
+      "de": ["Ladenverkäufer", "Guter Verkäufer", "Verkäufer hilft"],
+      "ar": ["بائع المتجر", "بائع جيد", "البائع يساعد"],
+      "fr": ["Vendeur de magasin", "Bon vendeur", "Le vendeur aide"],
+      "it": ["Venditore di negozio", "Buon venditore", "Il venditore aiuta"],
+      "ru": ["Продавец магазина", "Хороший продавец", "Продавец помогает"],
+      "es": ["Vendedor de tienda", "Buen vendedor", "El vendedor ayuda"],
+      "pl": ["Sprzedawca sklepowy", "Dobry sprzedawca", "Sprzedawca pomaga"],
+      "fa": ["فروشنده فروشگاه", "فروشنده خوب", "فروشنده کمک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_450_es",
+    "word": "policía",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "police officer",
+      "de": "Polizist",
+      "ar": "شرطي",
+      "fr": "policier",
+      "it": "poliziotto",
+      "ru": "полицейский",
+      "es": "policía",
+      "pl": "policjant",
+      "fa": "پلیس"
+    },
+    "explanations": {
+      "en": "A member of the police force who maintains law and order",
+      "de": "Ein Mitglied der Polizei, das Recht und Ordnung aufrechterhält",
+      "ar": "عضو في قوة الشرطة يحافظ على القانون والنظام",
+      "fr": "Un membre de la police qui maintient la loi et l'ordre",
+      "it": "Un membro della polizia che mantiene la legge e l'ordine",
+      "ru": "Член полиции, который поддерживает закон и порядок",
+      "es": "Un miembro de la fuerza policial que mantiene la ley y el orden",
+      "pl": "Członek policji, który utrzymuje prawo i porządek",
+      "fa": "عضو نیروی پلیس که قانون و نظم را حفظ می‌کند"
+    },
+    "examples": {
+      "en": ["Call the police", "Police officer", "Police helps"],
+      "de": ["Polizei rufen", "Polizeibeamter", "Polizei hilft"],
+      "ar": ["اتصل بالشرطة", "ضابط شرطة", "الشرطة تساعد"],
+      "fr": ["Appeler la police", "Officier de police", "La police aide"],
+      "it": ["Chiamare la polizia", "Agente di polizia", "La polizia aiuta"],
+      "ru": ["Вызвать полицию", "Офицер полиции", "Полиция помогает"],
+      "es": ["Llamar a la policía", "Oficial de policía", "La policía ayuda"],
+      "pl": ["Zadzwonić na policję", "Policjant", "Policja pomaga"],
+      "fa": ["پلیس را صدا زدن", "افسر پلیس", "پلیس کمک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_451_es",
+    "word": "bombero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "firefighter",
+      "de": "Feuerwehrmann",
+      "ar": "رجل إطفاء",
+      "fr": "pompier",
+      "it": "pompiere",
+      "ru": "пожарный",
+      "es": "bombero",
+      "pl": "strażak",
+      "fa": "آتش‌نشان"
+    },
+    "explanations": {
+      "en": "A person whose job is to put out fires and rescue people",
+      "de": "Eine Person, deren Aufgabe es ist, Feuer zu löschen und Menschen zu retten",
+      "ar": "شخص وظيفته إطفاء الحرائق وإنقاذ الناس",
+      "fr": "Une personne dont le travail est d'éteindre les feux et de sauver les gens",
+      "it": "Una persona il cui lavoro è spegnere incendi e salvare persone",
+      "ru": "Человек, чья работа - тушить пожары и спасать людей",
+      "es": "Una persona cuyo trabajo es apagar incendios y rescatar personas",
+      "pl": "Osoba, której zadaniem jest gaszenie pożarów i ratowanie ludzi",
+      "fa": "فردی که شغلش خاموش کردن آتش و نجات مردم است"
+    },
+    "examples": {
+      "en": ["Call firefighters", "Brave firefighter", "Firefighter saves"],
+      "de": ["Feuerwehr rufen", "Mutiger Feuerwehrmann", "Feuerwehrmann rettet"],
+      "ar": ["اتصل برجال الإطفاء", "رجل إطفاء شجاع", "رجل الإطفاء ينقذ"],
+      "fr": ["Appeler les pompiers", "Pompier courageux", "Le pompier sauve"],
+      "it": ["Chiamare i pompieri", "Pompiere coraggioso", "Il pompiere salva"],
+      "ru": ["Вызвать пожарных", "Смелый пожарный", "Пожарный спасает"],
+      "es": ["Llamar a los bomberos", "Bombero valiente", "El bombero salva"],
+      "pl": ["Wezwać strażaków", "Odważny strażak", "Strażak ratuje"],
+      "fa": ["آتش‌نشان را صدا زدن", "آتش‌نشان شجاع", "آتش‌نشان نجات می‌دهد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_452_es",
+    "word": "cartero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "mail carrier, postman",
+      "de": "Briefträger",
+      "ar": "ساعي البريد",
+      "fr": "facteur",
+      "it": "postino",
+      "ru": "почтальон",
+      "es": "cartero",
+      "pl": "listonosz",
+      "fa": "پستچی"
+    },
+    "explanations": {
+      "en": "A person who delivers mail and packages to homes and businesses",
+      "de": "Eine Person, die Post und Pakete an Häuser und Geschäfte liefert",
+      "ar": "شخص يوصل البريد والطرود إلى المنازل والشركات",
+      "fr": "Une personne qui livre le courrier et les colis aux maisons et entreprises",
+      "it": "Una persona che consegna posta e pacchi a case e aziende",
+      "ru": "Человек, который доставляет почту и посылки в дома и офисы",
+      "es": "Una persona que entrega correo y paquetes a casas y negocios",
+      "pl": "Osoba, która dostarcza pocztę i paczki do domów i firm",
+      "fa": "فردی که نامه و بسته را به خانه‌ها و مشاغل تحویل می‌دهد"
+    },
+    "examples": {
+      "en": ["Postman delivers", "Wait for mailman", "Letter from postman"],
+      "de": ["Briefträger liefert", "Auf Postboten warten", "Brief vom Briefträger"],
+      "ar": ["ساعي البريد يوصل", "انتظر ساعي البريد", "رسالة من ساعي البريد"],
+      "fr": ["Le facteur livre", "Attendre le facteur", "Lettre du facteur"],
+      "it": ["Il postino consegna", "Aspettare il postino", "Lettera dal postino"],
+      "ru": ["Почтальон доставляет", "Ждать почтальона", "Письмо от почтальона"],
+      "es": ["El cartero entrega", "Esperar al cartero", "Carta del cartero"],
+      "pl": ["Listonosz dostarcza", "Czekać na listonosza", "List od listonosza"],
+      "fa": ["پستچی تحویل می‌دهد", "منتظر پستچی", "نامه از پستچی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_453_es",
+    "word": "taxista",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "taxi driver",
+      "de": "Taxifahrer",
+      "ar": "سائق تاكسي",
+      "fr": "chauffeur de taxi",
+      "it": "tassista",
+      "ru": "таксист",
+      "es": "taxista",
+      "pl": "taksówkarz",
+      "fa": "راننده تاکسی"
+    },
+    "explanations": {
+      "en": "A person who drives a taxi for passengers",
+      "de": "Eine Person, die ein Taxi für Passagiere fährt",
+      "ar": "شخص يقود سيارة أجرة للركاب",
+      "fr": "Une personne qui conduit un taxi pour les passagers",
+      "it": "Una persona che guida un taxi per i passeggeri",
+      "ru": "Человек, который водит такси для пассажиров",
+      "es": "Una persona que conduce un taxi para pasajeros",
+      "pl": "Osoba, która prowadzi taksówkę dla pasażerów",
+      "fa": "فردی که تاکسی را برای مسافران می‌راند"
+    },
+    "examples": {
+      "en": ["Taxi driver", "Call a taxi", "Friendly taxi driver"],
+      "de": ["Taxifahrer", "Ein Taxi rufen", "Freundlicher Taxifahrer"],
+      "ar": ["سائق تاكسي", "اتصل بسيارة أجرة", "سائق تاكسي ودود"],
+      "fr": ["Chauffeur de taxi", "Appeler un taxi", "Chauffeur de taxi sympathique"],
+      "it": ["Tassista", "Chiamare un taxi", "Tassista cordiale"],
+      "ru": ["Таксист", "Вызвать такси", "Дружелюбный таксист"],
+      "es": ["Taxista", "Llamar un taxi", "Taxista amable"],
+      "pl": ["Taksówkarz", "Zadzwonić po taksówkę", "Przyjazny taksówkarz"],
+      "fa": ["راننده تاکسی", "تاکسی صدا زدن", "راننده تاکسی دوستانه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_454_es",
+    "word": "conductor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "driver",
+      "de": "Fahrer",
+      "ar": "سائق",
+      "fr": "conducteur",
+      "it": "conducente",
+      "ru": "водитель",
+      "es": "conductor",
+      "pl": "kierowca",
+      "fa": "راننده"
+    },
+    "explanations": {
+      "en": "A person who operates a vehicle",
+      "de": "Eine Person, die ein Fahrzeug bedient",
+      "ar": "شخص يقود مركبة",
+      "fr": "Une personne qui conduit un véhicule",
+      "it": "Una persona che guida un veicolo",
+      "ru": "Человек, который управляет транспортным средством",
+      "es": "Una persona que opera un vehículo",
+      "pl": "Osoba, która prowadzi pojazd",
+      "fa": "فردی که وسیله نقلیه را اداره می‌کند"
+    },
+    "examples": {
+      "en": ["Bus driver", "Good driver", "Careful driver"],
+      "de": ["Busfahrer", "Guter Fahrer", "Vorsichtiger Fahrer"],
+      "ar": ["سائق حافلة", "سائق جيد", "سائق حذر"],
+      "fr": ["Chauffeur de bus", "Bon conducteur", "Conducteur prudent"],
+      "it": ["Autista di autobus", "Buon conducente", "Conducente attento"],
+      "ru": ["Водитель автобуса", "Хороший водитель", "Осторожный водитель"],
+      "es": ["Conductor de autobús", "Buen conductor", "Conductor cuidadoso"],
+      "pl": ["Kierowca autobusu", "Dobry kierowca", "Ostrożny kierowca"],
+      "fa": ["راننده اتوبوس", "راننده خوب", "راننده محتاط"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_455_es",
+    "word": "piloto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "pilot",
+      "de": "Pilot",
+      "ar": "طيار",
+      "fr": "pilote",
+      "it": "pilota",
+      "ru": "пилот",
+      "es": "piloto",
+      "pl": "pilot",
+      "fa": "خلبان"
+    },
+    "explanations": {
+      "en": "A person who operates the controls of an aircraft",
+      "de": "Eine Person, die die Steuerung eines Flugzeugs bedient",
+      "ar": "شخص يقود الطائرة",
+      "fr": "Une personne qui pilote un avion",
+      "it": "Una persona che pilota un aereo",
+      "ru": "Человек, который управляет самолетом",
+      "es": "Una persona que opera los controles de una aeronave",
+      "pl": "Osoba, która pilotuje samolot",
+      "fa": "فردی که کنترل‌های هواپیما را اداره می‌کند"
+    },
+    "examples": {
+      "en": ["Airline pilot", "Experienced pilot", "Pilot flies"],
+      "de": ["Flugzeugpilot", "Erfahrener Pilot", "Pilot fliegt"],
+      "ar": ["طيار خطوط جوية", "طيار متمرس", "الطيار يطير"],
+      "fr": ["Pilote de ligne", "Pilote expérimenté", "Le pilote vole"],
+      "it": ["Pilota di linea", "Pilota esperto", "Il pilota vola"],
+      "ru": ["Пилот авиакомпании", "Опытный пилот", "Пилот летит"],
+      "es": ["Piloto de aerolínea", "Piloto experimentado", "El piloto vuela"],
+      "pl": ["Pilot linii lotniczej", "Doświadczony pilot", "Pilot leci"],
+      "fa": ["خلبان خطوط هوایی", "خلبان با تجربه", "خلبان پرواز می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_456_es",
+    "word": "secretario",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "secretary",
+      "de": "Sekretär",
+      "ar": "سكرتير",
+      "fr": "secrétaire",
+      "it": "segretario",
+      "ru": "секретарь",
+      "es": "secretario",
+      "pl": "sekretarz",
+      "fa": "منشی"
+    },
+    "explanations": {
+      "en": "A person employed to handle correspondence and administrative tasks",
+      "de": "Eine Person, die angestellt ist, um Korrespondenz und administrative Aufgaben zu erledigen",
+      "ar": "شخص موظف للتعامل مع المراسلات والمهام الإدارية",
+      "fr": "Une personne employée pour gérer la correspondance et les tâches administratives",
+      "it": "Una persona impiegata per gestire corrispondenza e compiti amministrativi",
+      "ru": "Человек, нанятый для обработки корреспонденции и административных задач",
+      "es": "Una persona empleada para manejar correspondencia y tareas administrativas",
+      "pl": "Osoba zatrudniona do obsługi korespondencji i zadań administracyjnych",
+      "fa": "فردی که برای انجام مکاتبات و وظایف اداری استخدام شده است"
+    },
+    "examples": {
+      "en": ["Office secretary", "Personal secretary", "Secretary helps"],
+      "de": ["Bürosekretär", "Persönlicher Sekretär", "Sekretär hilft"],
+      "ar": ["سكرتير المكتب", "سكرتير شخصي", "السكرتير يساعد"],
+      "fr": ["Secrétaire de bureau", "Secrétaire personnel", "Le secrétaire aide"],
+      "it": ["Segretario d'ufficio", "Segretario personale", "Il segretario aiuta"],
+      "ru": ["Офисный секретарь", "Личный секретарь", "Секретарь помогает"],
+      "es": ["Secretario de oficina", "Secretario personal", "El secretario ayuda"],
+      "pl": ["Sekretarz biurowy", "Sekretarz osobisty", "Sekretarz pomaga"],
+      "fa": ["منشی دفتر", "منشی شخصی", "منشی کمک می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_457_es",
+    "word": "recepcionista",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "receptionist",
+      "de": "Empfangsmitarbeiter",
+      "ar": "موظف استقبال",
+      "fr": "réceptionniste",
+      "it": "receptionist",
+      "ru": "администратор",
+      "es": "recepcionista",
+      "pl": "recepcjonista",
+      "fa": "پذیرش"
+    },
+    "explanations": {
+      "en": "A person who greets and deals with visitors at an office or hotel",
+      "de": "Eine Person, die Besucher in einem Büro oder Hotel begrüßt und betreut",
+      "ar": "شخص يرحب بالزوار ويتعامل معهم في مكتب أو فندق",
+      "fr": "Une personne qui accueille et s'occupe des visiteurs dans un bureau ou hôtel",
+      "it": "Una persona che accoglie e si occupa dei visitatori in un ufficio o hotel",
+      "ru": "Человек, который встречает и обслуживает посетителей в офисе или отеле",
+      "es": "Una persona que recibe y atiende a visitantes en una oficina u hotel",
+      "pl": "Osoba, która wita i obsługuje gości w biurze lub hotelu",
+      "fa": "فردی که بازدیدکنندگان را در دفتر یا هتل استقبال و رسیدگی می‌کند"
+    },
+    "examples": {
+      "en": ["Hotel receptionist", "Front desk", "Receptionist welcomes"],
+      "de": ["Hotelrezeptionist", "Empfang", "Rezeptionist begrüßt"],
+      "ar": ["موظف استقبال الفندق", "مكتب الاستقبال", "موظف الاستقبال يرحب"],
+      "fr": ["Réceptionniste d'hôtel", "Réception", "Le réceptionniste accueille"],
+      "it": ["Receptionist dell'hotel", "Reception", "Il receptionist accoglie"],
+      "ru": ["Администратор отеля", "Стойка регистрации", "Администратор встречает"],
+      "es": ["Recepcionista de hotel", "Recepción", "El recepcionista da la bienvenida"],
+      "pl": ["Recepcjonista hotelowy", "Recepcja", "Recepcjonista wita"],
+      "fa": ["پذیرش هتل", "میز پذیرش", "پذیرش استقبال می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_458_es",
+    "word": "empleado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "employee",
+      "de": "Angestellter",
+      "ar": "موظف",
+      "fr": "employé",
+      "it": "impiegato",
+      "ru": "сотрудник",
+      "es": "empleado",
+      "pl": "pracownik",
+      "fa": "کارمند"
+    },
+    "explanations": {
+      "en": "A person employed for wages or salary by a company or organization",
+      "de": "Eine Person, die von einem Unternehmen oder einer Organisation gegen Lohn oder Gehalt beschäftigt wird",
+      "ar": "شخص موظف مقابل أجر أو راتب من قبل شركة أو منظمة",
+      "fr": "Une personne employée contre salaire par une entreprise ou organisation",
+      "it": "Una persona impiegata per salario da un'azienda o organizzazione",
+      "ru": "Человек, нанятый за зарплату компанией или организацией",
+      "es": "Una persona empleada por salario por una empresa u organización",
+      "pl": "Osoba zatrudniona za wynagrodzenie przez firmę lub organizację",
+      "fa": "فردی که توسط شرکت یا سازمان با دستمزد یا حقوق استخدام شده است"
+    },
+    "examples": {
+      "en": ["Company employee", "New employee", "Employee works"],
+      "de": ["Firmenangestellter", "Neuer Mitarbeiter", "Mitarbeiter arbeitet"],
+      "ar": ["موظف شركة", "موظف جديد", "الموظف يعمل"],
+      "fr": ["Employé d'entreprise", "Nouvel employé", "L'employé travaille"],
+      "it": ["Impiegato aziendale", "Nuovo impiegato", "L'impiegato lavora"],
+      "ru": ["Сотрудник компании", "Новый сотрудник", "Сотрудник работает"],
+      "es": ["Empleado de empresa", "Nuevo empleado", "El empleado trabaja"],
+      "pl": ["Pracownik firmy", "Nowy pracownik", "Pracownik pracuje"],
+      "fa": ["کارمند شرکت", "کارمند جدید", "کارمند کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_459_es",
+    "word": "jefe",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "boss, chief",
+      "de": "Chef, Boss",
+      "ar": "رئيس، مدير",
+      "fr": "chef, patron",
+      "it": "capo",
+      "ru": "начальник, босс",
+      "es": "jefe",
+      "pl": "szef",
+      "fa": "رئیس"
+    },
+    "explanations": {
+      "en": "A person who is in charge of employees or an organization",
+      "de": "Eine Person, die für Mitarbeiter oder eine Organisation verantwortlich ist",
+      "ar": "شخص مسؤول عن الموظفين أو منظمة",
+      "fr": "Une personne qui est responsable des employés ou d'une organisation",
+      "it": "Una persona che è responsabile dei dipendenti o di un'organizzazione",
+      "ru": "Человек, который отвечает за сотрудников или организацию",
+      "es": "Una persona que está a cargo de empleados o una organización",
+      "pl": "Osoba odpowiedzialna za pracowników lub organizację",
+      "fa": "فردی که مسئول کارکنان یا سازمان است"
+    },
+    "examples": {
+      "en": ["My boss", "Department chief", "Boss decides"],
+      "de": ["Mein Chef", "Abteilungsleiter", "Chef entscheidet"],
+      "ar": ["مديري", "رئيس القسم", "الرئيس يقرر"],
+      "fr": ["Mon patron", "Chef de département", "Le patron décide"],
+      "it": ["Il mio capo", "Capo dipartimento", "Il capo decide"],
+      "ru": ["Мой начальник", "Начальник отдела", "Начальник решает"],
+      "es": ["Mi jefe", "Jefe de departamento", "El jefe decide"],
+      "pl": ["Mój szef", "Szef działu", "Szef decyduje"],
+      "fa": ["رئیس من", "رئیس بخش", "رئیس تصمیم می‌گیرد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_460_es",
+    "word": "compañero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "colleague, partner",
+      "de": "Kollege, Partner",
+      "ar": "زميل، شريك",
+      "fr": "collègue, partenaire",
+      "it": "collega, compagno",
+      "ru": "коллега, партнер",
+      "es": "compañero",
+      "pl": "kolega, partner",
+      "fa": "همکار، شریک"
+    },
+    "explanations": {
+      "en": "A person who works with you or accompanies you",
+      "de": "Eine Person, die mit Ihnen arbeitet oder Sie begleitet",
+      "ar": "شخص يعمل معك أو يرافقك",
+      "fr": "Une personne qui travaille avec vous ou vous accompagne",
+      "it": "Una persona che lavora con te o ti accompagna",
+      "ru": "Человек, который работает с вами или сопровождает вас",
+      "es": "Una persona que trabaja contigo o te acompaña",
+      "pl": "Osoba, która z tobą pracuje lub towarzyszy",
+      "fa": "فردی که با شما کار می‌کند یا همراه شماست"
+    },
+    "examples": {
+      "en": ["Work colleague", "Good partner", "Classmate helps"],
+      "de": ["Arbeitskollege", "Guter Partner", "Klassenkamerad hilft"],
+      "ar": ["زميل عمل", "شريك جيد", "زميل الصف يساعد"],
+      "fr": ["Collègue de travail", "Bon partenaire", "Camarade de classe aide"],
+      "it": ["Collega di lavoro", "Buon compagno", "Compagno di classe aiuta"],
+      "ru": ["Коллега по работе", "Хороший партнер", "Одноклассник помогает"],
+      "es": ["Compañero de trabajo", "Buen compañero", "Compañero de clase ayuda"],
+      "pl": ["Kolega z pracy", "Dobry partner", "Kolega z klasy pomaga"],
+      "fa": ["همکار کار", "شریک خوب", "همکلاسی کمک می‌کند"]
+    },
+    "conjugations": null
+  }
+]

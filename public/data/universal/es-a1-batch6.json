@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_101_es",
+    "word": "pescado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fish (food)",
+      "de": "Fisch",
+      "ar": "سمك",
+      "fr": "poisson",
+      "it": "pesce",
+      "ru": "рыба",
+      "es": "pescado",
+      "pl": "ryba",
+      "fa": "ماهی"
+    },
+    "explanations": {
+      "en": "Fish as food",
+      "de": "Fisch als Nahrung",
+      "ar": "السمك كطعام",
+      "fr": "Poisson comme nourriture",
+      "it": "Pesce come cibo",
+      "ru": "Рыба как еда",
+      "es": "Pez como alimento",
+      "pl": "Ryba jako jedzenie",
+      "fa": "ماهی به عنوان غذا"
+    },
+    "examples": {
+      "en": ["I eat fish", "Fresh fish", "Grilled fish"],
+      "de": ["Ich esse Fisch", "Frischer Fisch", "Gegrillter Fisch"],
+      "ar": ["آكل السمك", "سمك طازج", "سمك مشوي"],
+      "fr": ["Je mange du poisson", "Poisson frais", "Poisson grillé"],
+      "it": ["Mangio pesce", "Pesce fresco", "Pesce alla griglia"],
+      "ru": ["Я ем рыбу", "Свежая рыба", "Жареная рыба"],
+      "es": ["Como pescado", "Pescado fresco", "Pescado a la plancha"],
+      "pl": ["Jem rybę", "Świeża ryba", "Grillowana ryba"],
+      "fa": ["من ماهی می‌خورم", "ماهی تازه", "ماهی کبابی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_102_es",
+    "word": "pollo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "chicken",
+      "de": "Huhn, Hähnchen",
+      "ar": "دجاج",
+      "fr": "poulet",
+      "it": "pollo",
+      "ru": "курица",
+      "es": "pollo",
+      "pl": "kurczak",
+      "fa": "مرغ"
+    },
+    "explanations": {
+      "en": "Domestic bird or its meat",
+      "de": "Haustier oder dessen Fleisch",
+      "ar": "طائر منزلي أو لحمه",
+      "fr": "Oiseau domestique ou sa viande",
+      "it": "Uccello domestico o la sua carne",
+      "ru": "Домашняя птица или её мясо",
+      "es": "Ave doméstica o su carne",
+      "pl": "Ptak domowy lub jego mięso",
+      "fa": "پرنده خانگی یا گوشت آن"
+    },
+    "examples": {
+      "en": ["Roasted chicken", "I like chicken", "Chicken breast"],
+      "de": ["Gebratenes Huhn", "Ich mag Hähnchen", "Hähnchenbrust"],
+      "ar": ["دجاج مشوي", "أحب الدجاج", "صدر دجاج"],
+      "fr": ["Poulet rôti", "J'aime le poulet", "Poitrine de poulet"],
+      "it": ["Pollo arrosto", "Mi piace il pollo", "Petto di pollo"],
+      "ru": ["Жареная курица", "Мне нравится курица", "Куриная грудка"],
+      "es": ["Pollo asado", "Me gusta el pollo", "Pechuga de pollo"],
+      "pl": ["Pieczony kurczak", "Lubię kurczaka", "Pierś z kurczaka"],
+      "fa": ["مرغ بریان", "من مرغ دوست دارم", "سینه مرغ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_103_es",
+    "word": "arroz",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "rice",
+      "de": "Reis",
+      "ar": "أرز",
+      "fr": "riz",
+      "it": "riso",
+      "ru": "рис",
+      "es": "arroz",
+      "pl": "ryż",
+      "fa": "برنج"
+    },
+    "examples": {
+      "en": ["White rice", "I cook rice", "Rice with chicken"],
+      "de": ["Weißer Reis", "Ich koche Reis", "Reis mit Huhn"],
+      "ar": ["أرز أبيض", "أطبخ الأرز", "أرز مع دجاج"],
+      "fr": ["Riz blanc", "Je cuisine du riz", "Riz avec poulet"],
+      "it": ["Riso bianco", "Cucino riso", "Riso con pollo"],
+      "ru": ["Белый рис", "Я готовлю рис", "Рис с курицей"],
+      "es": ["Arroz blanco", "Cocino arroz", "Arroz con pollo"],
+      "pl": ["Biały ryż", "Gotuję ryż", "Ryż z kurczakiem"],
+      "fa": ["برنج سفید", "من برنج می‌پزم", "برنج با مرغ"]
+    },
+    "explanations": {
+      "en": "Grain used as staple food",
+      "de": "Getreide als Grundnahrungsmittel",
+      "ar": "حبوب تستخدم كغذاء أساسي",
+      "fr": "Céréale utilisée comme aliment de base",
+      "it": "Cereale usato come alimento base",
+      "ru": "Зерно, используемое как основная пища",
+      "es": "Grano usado como alimento básico",
+      "pl": "Ziarno używane jako podstawowe jedzenie",
+      "fa": "غله استفاده شده به عنوان غذای اصلی"
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_104_es",
+    "word": "azúcar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sugar",
+      "de": "Zucker",
+      "ar": "سكر",
+      "fr": "sucre",
+      "it": "zucchero",
+      "ru": "сахар",
+      "es": "azúcar",
+      "pl": "cukier",
+      "fa": "شکر"
+    },
+    "explanations": {
+      "en": "Sweet substance used in food and drinks",
+      "de": "Süße Substanz für Speisen und Getränke",
+      "ar": "مادة حلوة تستخدم في الطعام والشراب",
+      "fr": "Substance sucrée utilisée dans les aliments et boissons",
+      "it": "Sostanza dolce usata in cibi e bevande",
+      "ru": "Сладкое вещество для еды и напитков",
+      "es": "Sustancia dulce usada en comida y bebidas",
+      "pl": "Słodka substancja używana w jedzeniu i napojach",
+      "fa": "ماده شیرین در غذا و نوشیدنی"
+    },
+    "examples": {
+      "en": ["Add sugar", "Too much sugar", "Without sugar"],
+      "de": ["Füg Zucker hinzu", "Zu viel Zucker", "Ohne Zucker"],
+      "ar": ["أضف السكر", "سكر كثير جدا", "بدون سكر"],
+      "fr": ["Ajoute du sucre", "Trop de sucre", "Sans sucre"],
+      "it": ["Aggiungi zucchero", "Troppo zucchero", "Senza zucchero"],
+      "ru": ["Добавь сахар", "Слишком много сахара", "Без сахара"],
+      "es": ["Añade azúcar", "Demasiada azúcar", "Sin azúcar"],
+      "pl": ["Dodaj cukier", "Za dużo cukru", "Bez cukru"],
+      "fa": ["شکر اضافه کن", "شکر زیاد", "بدون شکر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_105_es",
+    "word": "sal",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "salt",
+      "de": "Salz",
+      "ar": "ملح",
+      "fr": "sel",
+      "it": "sale",
+      "ru": "соль",
+      "es": "sal",
+      "pl": "sól",
+      "fa": "نمک"
+    },
+    "explanations": {
+      "en": "Mineral substance used for seasoning",
+      "de": "Mineralstoff zum Würzen",
+      "ar": "مادة معدنية تستخدم للتوابل",
+      "fr": "Substance minérale utilisée pour assaisonner",
+      "it": "Sostanza minerale usata per condire",
+      "ru": "Минеральное вещество для приправы",
+      "es": "Sustancia mineral usada para sazonar",
+      "pl": "Substancja mineralna do przyprawiania",
+      "fa": "ماده معدنی برای چاشنی"
+    },
+    "examples": {
+      "en": ["Pass the salt", "Too much salt", "Salt and pepper"],
+      "de": ["Gib das Salz", "Zu viel Salz", "Salz und Pfeffer"],
+      "ar": ["مرر الملح", "ملح كثير جدا", "ملح وفلفل"],
+      "fr": ["Passe le sel", "Trop de sel", "Sel et poivre"],
+      "it": ["Passa il sale", "Troppo sale", "Sale e pepe"],
+      "ru": ["Передай соль", "Слишком много соли", "Соль и перец"],
+      "es": ["Pasa la sal", "Demasiada sal", "Sal y pimienta"],
+      "pl": ["Podaj sól", "Za dużo soli", "Sól i pieprz"],
+      "fa": ["نمک را بده", "نمک زیاد", "نمک و فلفل"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_106_es",
+    "word": "agua",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "water",
+      "de": "Wasser",
+      "ar": "ماء",
+      "fr": "eau",
+      "it": "acqua",
+      "ru": "вода",
+      "es": "agua",
+      "pl": "woda",
+      "fa": "آب"
+    },
+    "explanations": {
+      "en": "Clear liquid essential for life",
+      "de": "Klare Flüssigkeit, die lebensnotwendig ist",
+      "ar": "سائل صافٍ ضروري للحياة",
+      "fr": "Liquide clair essentiel pour la vie",
+      "it": "Liquido chiaro essenziale per la vita",
+      "ru": "Прозрачная жидкость, необходимая для жизни",
+      "es": "Líquido claro esencial para la vida",
+      "pl": "Przezroczysty płyn niezbędny do życia",
+      "fa": "مایع شفاف ضروری برای زندگی"
+    },
+    "examples": {
+      "en": ["Drink water", "Fresh water", "A bottle of water"],
+      "de": ["Trink Wasser", "Frisches Wasser", "Eine Flasche Wasser"],
+      "ar": ["اشرب الماء", "ماء عذب", "زجاجة من الماء"],
+      "fr": ["Bois de l'eau", "Eau fraîche", "Une bouteille d'eau"],
+      "it": ["Bevi acqua", "Acqua fresca", "Una bottiglia d'acqua"],
+      "ru": ["Пей воду", "Свежая вода", "Бутылка воды"],
+      "es": ["Bebe agua", "Agua fresca", "Una botella de agua"],
+      "pl": ["Pij wodę", "Świeża woda", "Butelka wody"],
+      "fa": ["آب بنوش", "آب تازه", "یک بطری آب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_107_es",
+    "word": "zumo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "juice",
+      "de": "Saft",
+      "ar": "عصير",
+      "fr": "jus",
+      "it": "succo",
+      "ru": "сок",
+      "es": "zumo",
+      "pl": "sok",
+      "fa": "آب میوه"
+    },
+    "explanations": {
+      "en": "Liquid from fruits or vegetables",
+      "de": "Flüssigkeit aus Früchten oder Gemüse",
+      "ar": "سائل من الفواكه أو الخضروات",
+      "fr": "Liquide de fruits ou légumes",
+      "it": "Liquido da frutta o verdure",
+      "ru": "Жидкость из фруктов или овощей",
+      "es": "Líquido de frutas o verduras",
+      "pl": "Płyn z owoców lub warzyw",
+      "fa": "مایع از میوه یا سبزیجات"
+    },
+    "examples": {
+      "en": ["Orange juice", "Fresh juice", "I drink juice"],
+      "de": ["Orangensaft", "Frischer Saft", "Ich trinke Saft"],
+      "ar": ["عصير برتقال", "عصير طازج", "أشرب العصير"],
+      "fr": ["Jus d'orange", "Jus frais", "Je bois du jus"],
+      "it": ["Succo d'arancia", "Succo fresco", "Bevo succo"],
+      "ru": ["Апельсиновый сок", "Свежий сок", "Я пью сок"],
+      "es": ["Zumo de naranja", "Zumo fresco", "Bebo zumo"],
+      "pl": ["Sok pomarańczowy", "Świeży sok", "Piję sok"],
+      "fa": ["آب پرتقال", "آب میوه تازه", "من آب میوه می‌نوشم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_108_es",
+    "word": "desayuno",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "breakfast",
+      "de": "Frühstück",
+      "ar": "فطور",
+      "fr": "petit déjeuner",
+      "it": "colazione",
+      "ru": "завтрак",
+      "es": "desayuno",
+      "pl": "śniadanie",
+      "fa": "صبحانه"
+    },
+    "explanations": {
+      "en": "First meal of the day",
+      "de": "Erste Mahlzeit des Tages",
+      "ar": "الوجبة الأولى في اليوم",
+      "fr": "Premier repas de la journée",
+      "it": "Primo pasto della giornata",
+      "ru": "Первый приём пищи дня",
+      "es": "Primera comida del día",
+      "pl": "Pierwszy posiłek dnia",
+      "fa": "اولین وعده غذایی روز"
+    },
+    "examples": {
+      "en": ["I eat breakfast", "Good breakfast", "After breakfast"],
+      "de": ["Ich frühstücke", "Gutes Frühstück", "Nach dem Frühstück"],
+      "ar": ["أتناول الفطور", "فطور جيد", "بعد الفطور"],
+      "fr": ["Je prends le petit déjeuner", "Bon petit déjeuner", "Après le petit déjeuner"],
+      "it": ["Faccio colazione", "Buona colazione", "Dopo la colazione"],
+      "ru": ["Я завтракаю", "Хороший завтрак", "После завтрака"],
+      "es": ["Desayuno", "Buen desayuno", "Después del desayuno"],
+      "pl": ["Jem śniadanie", "Dobre śniadanie", "Po śniadaniu"],
+      "fa": ["من صبحانه می‌خورم", "صبحانه خوب", "بعد از صبحانه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_109_es",
+    "word": "comida",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "lunch, meal, food",
+      "de": "Mittagessen, Mahlzeit",
+      "ar": "غداء، وجبة",
+      "fr": "déjeuner, repas",
+      "it": "pranzo, pasto",
+      "ru": "обед, еда",
+      "es": "comida",
+      "pl": "obiad, posiłek",
+      "fa": "ناهار، غذا"
+    },
+    "explanations": {
+      "en": "Midday meal or food in general",
+      "de": "Mittagsmahlzeit oder Essen im Allgemeinen",
+      "ar": "وجبة منتصف النهار أو الطعام بشكل عام",
+      "fr": "Repas de midi ou nourriture en général",
+      "it": "Pasto di mezzogiorno o cibo in generale",
+      "ru": "Обеденный приём пищи или еда вообще",
+      "es": "Comida del mediodía o alimento en general",
+      "pl": "Posiłek w południe lub jedzenie ogólnie",
+      "fa": "وعده نیمروز یا غذا به طور کلی"
+    },
+    "examples": {
+      "en": ["Lunch time", "I prepare lunch", "After lunch"],
+      "de": ["Mittagszeit", "Ich bereite Mittagessen vor", "Nach dem Mittagessen"],
+      "ar": ["وقت الغداء", "أحضر الغداء", "بعد الغداء"],
+      "fr": ["Heure du déjeuner", "Je prépare le déjeuner", "Après le déjeuner"],
+      "it": ["Ora di pranzo", "Preparo il pranzo", "Dopo pranzo"],
+      "ru": ["Время обеда", "Я готовлю обед", "После обеда"],
+      "es": ["Hora de comer", "Preparo la comida", "Después de comer"],
+      "pl": ["Pora obiadu", "Przygotowuję obiad", "Po obiedzie"],
+      "fa": ["وقت ناهار", "من ناهار آماده می‌کنم", "بعد از ناهار"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_110_es",
+    "word": "cena",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "dinner, supper",
+      "de": "Abendessen",
+      "ar": "عشاء",
+      "fr": "dîner",
+      "it": "cena",
+      "ru": "ужин",
+      "es": "cena",
+      "pl": "kolacja",
+      "fa": "شام"
+    },
+    "explanations": {
+      "en": "Evening meal",
+      "de": "Abendmahlzeit",
+      "ar": "وجبة المساء",
+      "fr": "Repas du soir",
+      "it": "Pasto serale",
+      "ru": "Вечерний приём пищи",
+      "es": "Comida de la noche",
+      "pl": "Posiłek wieczorny",
+      "fa": "وعده عصرانه"
+    },
+    "examples": {
+      "en": ["I cook dinner", "After dinner", "What's for dinner"],
+      "de": ["Ich koche Abendessen", "Nach dem Abendessen", "Was gibt's zum Abendessen"],
+      "ar": ["أطبخ العشاء", "بعد العشاء", "ما هو العشاء"],
+      "fr": ["Je prépare le dîner", "Après le dîner", "Qu'y a-t-il pour dîner"],
+      "it": ["Cucino la cena", "Dopo cena", "Cosa c'è per cena"],
+      "ru": ["Я готовлю ужин", "После ужина", "Что на ужин"],
+      "es": ["Cocino la cena", "Después de la cena", "Qué hay de cena"],
+      "pl": ["Gotuję kolację", "Po kolacji", "Co na kolację"],
+      "fa": ["من شام می‌پزم", "بعد از شام", "شام چیه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_111_es",
+    "word": "mañana",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "morning, tomorrow",
+      "de": "Morgen",
+      "ar": "صباح، غدا",
+      "fr": "matin, demain",
+      "it": "mattina, domani",
+      "ru": "утро, завтра",
+      "es": "mañana",
+      "pl": "rano, jutro",
+      "fa": "صبح، فردا"
+    },
+    "explanations": {
+      "en": "Early part of day or next day",
+      "de": "Früher Teil des Tages oder nächster Tag",
+      "ar": "الجزء المبكر من اليوم أو اليوم التالي",
+      "fr": "Partie matinale du jour ou jour suivant",
+      "it": "Prima parte del giorno o giorno successivo",
+      "ru": "Ранняя часть дня или следующий день",
+      "es": "Parte temprana del día o día siguiente",
+      "pl": "Wczesna część dnia lub następny dzień",
+      "fa": "قسمت اولیه روز یا روز بعد"
+    },
+    "examples": {
+      "en": ["Good morning", "Tomorrow I go", "In the morning"],
+      "de": ["Guten Morgen", "Morgen gehe ich", "Am Morgen"],
+      "ar": ["صباح الخير", "غدا أذهب", "في الصباح"],
+      "fr": ["Bonjour", "Demain je vais", "Le matin"],
+      "it": ["Buongiorno", "Domani vado", "Di mattina"],
+      "ru": ["Доброе утро", "Завтра я иду", "Утром"],
+      "es": ["Buenos días", "Mañana voy", "Por la mañana"],
+      "pl": ["Dzień dobry", "Jutro idę", "Rano"],
+      "fa": ["صبح بخیر", "فردا می‌روم", "صبح"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_112_es",
+    "word": "tarde",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "afternoon, late",
+      "de": "Nachmittag, spät",
+      "ar": "بعد الظهر، متأخر",
+      "fr": "après-midi, tard",
+      "it": "pomeriggio, tardi",
+      "ru": "день, поздно",
+      "es": "tarde",
+      "pl": "popołudnie, późno",
+      "fa": "بعدازظهر، دیر"
+    },
+    "explanations": {
+      "en": "Period after noon or not on time",
+      "de": "Zeitraum nach Mittag oder nicht pünktlich",
+      "ar": "الفترة بعد الظهر أو غير في الوقت المحدد",
+      "fr": "Période après midi ou pas à l'heure",
+      "it": "Periodo dopo mezzogiorno o non in orario",
+      "ru": "Период после полудня или не вовремя",
+      "es": "Período después del mediodía o no a tiempo",
+      "pl": "Okres po południu lub nie na czas",
+      "fa": "دوره بعد از ظهر یا نه به موقع"
+    },
+    "examples": {
+      "en": ["Good afternoon", "I'm late", "This afternoon"],
+      "de": ["Guten Tag", "Ich bin spät", "Heute Nachmittag"],
+      "ar": ["مساء الخير", "أنا متأخر", "بعد ظهر اليوم"],
+      "fr": ["Bon après-midi", "Je suis en retard", "Cet après-midi"],
+      "it": ["Buon pomeriggio", "Sono in ritardo", "Oggi pomeriggio"],
+      "ru": ["Добрый день", "Я опаздываю", "Сегодня днём"],
+      "es": ["Buenas tardes", "Llego tarde", "Esta tarde"],
+      "pl": ["Dzień dobry", "Spóźniam się", "Dziś popołudniu"],
+      "fa": ["بعدازظهر بخیر", "من دیر کردم", "امروز بعدازظهر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_113_es",
+    "word": "noche",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "night, evening",
+      "de": "Nacht, Abend",
+      "ar": "ليل، مساء",
+      "fr": "nuit, soir",
+      "it": "notte, sera",
+      "ru": "ночь, вечер",
+      "es": "noche",
+      "pl": "noc, wieczór",
+      "fa": "شب"
+    },
+    "explanations": {
+      "en": "Period of darkness between sunset and sunrise",
+      "de": "Zeitraum der Dunkelheit zwischen Sonnenuntergang und Sonnenaufgang",
+      "ar": "فترة الظلام بين الغروب والشروق",
+      "fr": "Période d'obscurité entre le coucher et le lever du soleil",
+      "it": "Periodo di buio tra tramonto e alba",
+      "ru": "Период темноты между закатом и восходом",
+      "es": "Período de oscuridad entre el atardecer y el amanecer",
+      "pl": "Okres ciemności między zachodem a wschodem słońca",
+      "fa": "دوره تاریکی بین غروب و طلوع"
+    },
+    "examples": {
+      "en": ["Good night", "At night", "Tonight"],
+      "de": ["Gute Nacht", "Nachts", "Heute Abend"],
+      "ar": ["تصبح على خير", "في الليل", "الليلة"],
+      "fr": ["Bonne nuit", "La nuit", "Ce soir"],
+      "it": ["Buona notte", "Di notte", "Stasera"],
+      "ru": ["Спокойной ночи", "Ночью", "Сегодня вечером"],
+      "es": ["Buenas noches", "Por la noche", "Esta noche"],
+      "pl": ["Dobranoc", "W nocy", "Dziś wieczorem"],
+      "fa": ["شب بخیر", "شب‌ها", "امشب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_114_es",
+    "word": "semana",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "week",
+      "de": "Woche",
+      "ar": "أسبوع",
+      "fr": "semaine",
+      "it": "settimana",
+      "ru": "неделя",
+      "es": "semana",
+      "pl": "tydzień",
+      "fa": "هفته"
+    },
+    "explanations": {
+      "en": "Period of seven days",
+      "de": "Zeitraum von sieben Tagen",
+      "ar": "فترة سبعة أيام",
+      "fr": "Période de sept jours",
+      "it": "Periodo di sette giorni",
+      "ru": "Период из семи дней",
+      "es": "Período de siete días",
+      "pl": "Okres siedmiu dni",
+      "fa": "دوره هفت روزه"
+    },
+    "examples": {
+      "en": ["This week", "Next week", "Every week"],
+      "de": ["Diese Woche", "Nächste Woche", "Jede Woche"],
+      "ar": ["هذا الأسبوع", "الأسبوع القادم", "كل أسبوع"],
+      "fr": ["Cette semaine", "La semaine prochaine", "Chaque semaine"],
+      "it": ["Questa settimana", "La prossima settimana", "Ogni settimana"],
+      "ru": ["На этой неделе", "На следующей неделе", "Каждую неделю"],
+      "es": ["Esta semana", "La próxima semana", "Cada semana"],
+      "pl": ["W tym tygodniu", "W przyszłym tygodniu", "Co tydzień"],
+      "fa": ["این هفته", "هفته آینده", "هر هفته"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_115_es",
+    "word": "fin",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "end",
+      "de": "Ende",
+      "ar": "نهاية",
+      "fr": "fin",
+      "it": "fine",
+      "ru": "конец",
+      "es": "fin",
+      "pl": "koniec",
+      "fa": "پایان"
+    },
+    "explanations": {
+      "en": "Final part or conclusion",
+      "de": "Schlussteil oder Abschluss",
+      "ar": "الجزء الأخير أو الاستنتاج",
+      "fr": "Partie finale ou conclusion",
+      "it": "Parte finale o conclusione",
+      "ru": "Конечная часть или заключение",
+      "es": "Parte final o conclusión",
+      "pl": "Końcowa część lub zakończenie",
+      "fa": "بخش نهایی یا نتیجه"
+    },
+    "examples": {
+      "en": ["The end", "Weekend", "At the end"],
+      "de": ["Das Ende", "Wochenende", "Am Ende"],
+      "ar": ["النهاية", "نهاية الأسبوع", "في النهاية"],
+      "fr": ["La fin", "Fin de semaine", "À la fin"],
+      "it": ["La fine", "Fine settimana", "Alla fine"],
+      "ru": ["Конец", "Выходные", "В конце"],
+      "es": ["El fin", "Fin de semana", "Al final"],
+      "pl": ["Koniec", "Weekend", "Na końcu"],
+      "fa": ["پایان", "آخر هفته", "در پایان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_116_es",
+    "word": "principio",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "beginning, principle",
+      "de": "Anfang, Prinzip",
+      "ar": "بداية، مبدأ",
+      "fr": "début, principe",
+      "it": "inizio, principio",
+      "ru": "начало, принцип",
+      "es": "principio",
+      "pl": "początek, zasada",
+      "fa": "آغاز، اصل"
+    },
+    "explanations": {
+      "en": "Starting point or fundamental truth",
+      "de": "Ausgangspunkt oder grundlegende Wahrheit",
+      "ar": "نقطة البداية أو الحقيقة الأساسية",
+      "fr": "Point de départ ou vérité fondamentale",
+      "it": "Punto di partenza o verità fondamentale",
+      "ru": "Начальная точка или фундаментальная истина",
+      "es": "Punto de partida o verdad fundamental",
+      "pl": "Punkt wyjścia lub fundamentalna prawda",
+      "fa": "نقطه شروع یا حقیقت بنیادی"
+    },
+    "examples": {
+      "en": ["At the beginning", "Good principle", "From the start"],
+      "de": ["Am Anfang", "Gutes Prinzip", "Von Anfang an"],
+      "ar": ["في البداية", "مبدأ جيد", "من البداية"],
+      "fr": ["Au début", "Bon principe", "Dès le départ"],
+      "it": ["All'inizio", "Buon principio", "Dall'inizio"],
+      "ru": ["В начале", "Хороший принцип", "С начала"],
+      "es": ["Al principio", "Buen principio", "Desde el inicio"],
+      "pl": ["Na początku", "Dobra zasada", "Od początku"],
+      "fa": ["در آغاز", "اصل خوب", "از شروع"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_117_es",
+    "word": "final",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "final, end",
+      "de": "Ende, Finale",
+      "ar": "نهائي، نهاية",
+      "fr": "final, fin",
+      "it": "finale",
+      "ru": "конец, финал",
+      "es": "final",
+      "pl": "finał, koniec",
+      "fa": "نهایی، پایان"
+    },
+    "explanations": {
+      "en": "Last part or concluding",
+      "de": "Letzter Teil oder abschließend",
+      "ar": "الجزء الأخير أو الختامي",
+      "fr": "Dernière partie ou conclusif",
+      "it": "Ultima parte o conclusivo",
+      "ru": "Последняя часть или заключительный",
+      "es": "Última parte o concluyente",
+      "pl": "Ostatnia część lub końcowy",
+      "fa": "بخش آخر یا نتیجه‌گیری"
+    },
+    "examples": {
+      "en": ["The final", "At the end", "Final result"],
+      "de": ["Das Finale", "Am Ende", "Endergebnis"],
+      "ar": ["النهائي", "في النهاية", "النتيجة النهائية"],
+      "fr": ["La finale", "À la fin", "Résultat final"],
+      "it": ["La finale", "Alla fine", "Risultato finale"],
+      "ru": ["Финал", "В конце", "Конечный результат"],
+      "es": ["La final", "Al final", "Resultado final"],
+      "pl": ["Finał", "Na końcu", "Ostateczny wynik"],
+      "fa": ["فینال", "در پایان", "نتیجه نهایی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_118_es",
+    "word": "antes",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "before",
+      "de": "vor, vorher",
+      "ar": "قبل",
+      "fr": "avant",
+      "it": "prima",
+      "ru": "до, раньше",
+      "es": "antes",
+      "pl": "przed, wcześniej",
+      "fa": "قبل، پیش"
+    },
+    "explanations": {
+      "en": "At an earlier time",
+      "de": "Zu einer früheren Zeit",
+      "ar": "في وقت سابق",
+      "fr": "À un moment antérieur",
+      "it": "In un tempo precedente",
+      "ru": "В более раннее время",
+      "es": "En un tiempo anterior",
+      "pl": "We wcześniejszym czasie",
+      "fa": "در زمان قبلی"
+    },
+    "examples": {
+      "en": ["Before now", "Two days before", "Before eating"],
+      "de": ["Vor jetzt", "Zwei Tage vorher", "Vor dem Essen"],
+      "ar": ["قبل الآن", "قبل يومين", "قبل الأكل"],
+      "fr": ["Avant maintenant", "Deux jours avant", "Avant de manger"],
+      "it": ["Prima di ora", "Due giorni prima", "Prima di mangiare"],
+      "ru": ["До сих пор", "Два дня назад", "Перед едой"],
+      "es": ["Antes de ahora", "Dos días antes", "Antes de comer"],
+      "pl": ["Przed teraz", "Dwa dni wcześniej", "Przed jedzeniem"],
+      "fa": ["قبل از حالا", "دو روز قبل", "قبل از خوردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_119_es",
+    "word": "después",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "after, later",
+      "de": "nach, später",
+      "ar": "بعد",
+      "fr": "après",
+      "it": "dopo",
+      "ru": "после, позже",
+      "es": "después",
+      "pl": "po, później",
+      "fa": "بعد، بعداً"
+    },
+    "explanations": {
+      "en": "At a later time",
+      "de": "Zu einer späteren Zeit",
+      "ar": "في وقت لاحق",
+      "fr": "À un moment postérieur",
+      "it": "In un tempo successivo",
+      "ru": "В более позднее время",
+      "es": "En un tiempo posterior",
+      "pl": "W późniejszym czasie",
+      "fa": "در زمان بعدی"
+    },
+    "examples": {
+      "en": ["After this", "See you later", "After eating"],
+      "de": ["Danach", "Bis später", "Nach dem Essen"],
+      "ar": ["بعد هذا", "أراك لاحقا", "بعد الأكل"],
+      "fr": ["Après cela", "À plus tard", "Après manger"],
+      "it": ["Dopo questo", "A dopo", "Dopo mangiato"],
+      "ru": ["После этого", "До скорого", "После еды"],
+      "es": ["Después de esto", "Hasta luego", "Después de comer"],
+      "pl": ["Po tym", "Do zobaczenia później", "Po jedzeniu"],
+      "fa": ["بعد از این", "بعداً می‌بینمت", "بعد از خوردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_120_es",
+    "word": "ahora",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "now",
+      "de": "jetzt",
+      "ar": "الآن",
+      "fr": "maintenant",
+      "it": "ora, adesso",
+      "ru": "сейчас",
+      "es": "ahora",
+      "pl": "teraz",
+      "fa": "حالا، اکنون"
+    },
+    "explanations": {
+      "en": "At the present time",
+      "de": "Zur gegenwärtigen Zeit",
+      "ar": "في الوقت الحاضر",
+      "fr": "Au moment présent",
+      "it": "Al momento presente",
+      "ru": "В настоящее время",
+      "es": "En el tiempo presente",
+      "pl": "W obecnym czasie",
+      "fa": "در زمان حال"
+    },
+    "examples": {
+      "en": ["Right now", "I go now", "Now is good"],
+      "de": ["Gerade jetzt", "Ich gehe jetzt", "Jetzt ist gut"],
+      "ar": ["الآن تماما", "أذهب الآن", "الآن جيد"],
+      "fr": ["Maintenant", "Je vais maintenant", "Maintenant c'est bien"],
+      "it": ["Proprio ora", "Vado ora", "Ora va bene"],
+      "ru": ["Прямо сейчас", "Я иду сейчас", "Сейчас хорошо"],
+      "es": ["Ahora mismo", "Voy ahora", "Ahora está bien"],
+      "pl": ["Właśnie teraz", "Idę teraz", "Teraz jest dobrze"],
+      "fa": ["همین حالا", "من الان می‌روم", "حالا خوب است"]
+    },
+    "conjugations": null
+  }
+]

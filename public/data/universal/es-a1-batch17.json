@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_321_es",
+    "word": "casa",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "house, home",
+      "de": "Haus, Zuhause",
+      "ar": "منزل، بيت",
+      "fr": "maison",
+      "it": "casa",
+      "ru": "дом",
+      "es": "casa",
+      "pl": "dom",
+      "fa": "خانه"
+    },
+    "explanations": {
+      "en": "Noun referring to a building where people live",
+      "de": "Substantiv, das ein Gebäude bezeichnet, in dem Menschen wohnen",
+      "ar": "اسم يشير إلى مبنى يعيش فيه الناس",
+      "fr": "Nom désignant un bâtiment où vivent les gens",
+      "it": "Nome che si riferisce a un edificio dove vivono le persone",
+      "ru": "Существительное, обозначающее здание, где живут люди",
+      "es": "Sustantivo que se refiere a un edificio donde viven las personas",
+      "pl": "Rzeczownik odnoszący się do budynku, w którym mieszkają ludzie",
+      "fa": "اسمی که به ساختمانی که مردم در آن زندگی می‌کنند اشاره دارد"
+    },
+    "examples": {
+      "en": ["My house is big", "I am at home", "This is my house"],
+      "de": ["Mein Haus ist groß", "Ich bin zu Hause", "Das ist mein Haus"],
+      "ar": ["منزلي كبير", "أنا في المنزل", "هذا منزلي"],
+      "fr": ["Ma maison est grande", "Je suis à la maison", "C'est ma maison"],
+      "it": ["La mia casa è grande", "Sono a casa", "Questa è la mia casa"],
+      "ru": ["Мой дом большой", "Я дома", "Это мой дом"],
+      "es": ["Mi casa es grande", "Estoy en casa", "Esta es mi casa"],
+      "pl": ["Mój dom jest duży", "Jestem w domu", "To jest mój dom"],
+      "fa": ["خانه من بزرگ است", "در خانه هستم", "این خانه من است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_322_es",
+    "word": "piso",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "apartment, floor",
+      "de": "Wohnung, Stockwerk",
+      "ar": "شقة، طابق",
+      "fr": "appartement, étage",
+      "it": "appartamento, piano",
+      "ru": "квартира, этаж",
+      "es": "piso",
+      "pl": "mieszkanie, piętro",
+      "fa": "آپارتمان، طبقه"
+    },
+    "explanations": {
+      "en": "Noun referring to an apartment or floor level in a building",
+      "de": "Substantiv, das eine Wohnung oder Stockwerk in einem Gebäude bezeichnet",
+      "ar": "اسم يشير إلى شقة أو مستوى طابق في مبنى",
+      "fr": "Nom désignant un appartement ou un niveau d'étage dans un bâtiment",
+      "it": "Nome che si riferisce a un appartamento o livello di piano in un edificio",
+      "ru": "Существительное, обозначающее квартиру или уровень этажа в здании",
+      "es": "Sustantivo que se refiere a un apartamento o nivel de piso en un edificio",
+      "pl": "Rzeczownik odnoszący się do mieszkania lub poziomu piętra w budynku",
+      "fa": "اسمی که به آپارتمان یا سطح طبقه در ساختمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["I live in apartment", "Third floor please", "My apartment is small"],
+      "de": ["Ich wohne in Wohnung", "Dritter Stock bitte", "Meine Wohnung ist klein"],
+      "ar": ["أسكن في شقة", "الطابق الثالث من فضلك", "شقتي صغيرة"],
+      "fr": ["J'habite en appartement", "Troisième étage s'il vous plaît", "Mon appartement est petit"],
+      "it": ["Vivo in appartamento", "Terzo piano per favore", "Il mio appartamento è piccolo"],
+      "ru": ["Я живу в квартире", "Третий этаж пожалуйста", "Моя квартира маленькая"],
+      "es": ["Vivo en un piso", "Tercer piso por favor", "Mi piso es pequeño"],
+      "pl": ["Mieszkam w mieszkaniu", "Trzecie piętro proszę", "Moje mieszkanie jest małe"],
+      "fa": ["در آپارتمان زندگی می‌کنم", "طبقه سوم لطفا", "آپارتمان من کوچک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_323_es",
+    "word": "habitación",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "room, bedroom",
+      "de": "Zimmer, Schlafzimmer",
+      "ar": "غرفة",
+      "fr": "chambre",
+      "it": "camera, stanza",
+      "ru": "комната, спальня",
+      "es": "habitación",
+      "pl": "pokój, sypialnia",
+      "fa": "اتاق"
+    },
+    "explanations": {
+      "en": "Noun referring to a room in a house or building",
+      "de": "Substantiv, das ein Zimmer in einem Haus oder Gebäude bezeichnet",
+      "ar": "اسم يشير إلى غرفة في منزل أو مبنى",
+      "fr": "Nom désignant une pièce dans une maison ou un bâtiment",
+      "it": "Nome che si riferisce a una stanza in una casa o edificio",
+      "ru": "Существительное, обозначающее комнату в доме или здании",
+      "es": "Sustantivo que se refiere a un cuarto en una casa o edificio",
+      "pl": "Rzeczownik odnoszący się do pokoju w domu lub budynku",
+      "fa": "اسمی که به اتاق در خانه یا ساختمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["My room is clean", "I need a room", "This room is nice"],
+      "de": ["Mein Zimmer ist sauber", "Ich brauche ein Zimmer", "Dieses Zimmer ist schön"],
+      "ar": ["غرفتي نظيفة", "أحتاج إلى غرفة", "هذه الغرفة جميلة"],
+      "fr": ["Ma chambre est propre", "J'ai besoin d'une chambre", "Cette chambre est jolie"],
+      "it": ["La mia camera è pulita", "Ho bisogno di camera", "Questa stanza è bella"],
+      "ru": ["Моя комната чистая", "Мне нужна комната", "Эта комната хорошая"],
+      "es": ["Mi habitación está limpia", "Necesito una habitación", "Esta habitación es bonita"],
+      "pl": ["Mój pokój jest czysty", "Potrzebuję pokoju", "Ten pokój jest ładny"],
+      "fa": ["اتاق من تمیز است", "به اتاق نیاز دارم", "این اتاق قشنگ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_324_es",
+    "word": "cocina",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "kitchen",
+      "de": "Küche",
+      "ar": "مطبخ",
+      "fr": "cuisine",
+      "it": "cucina",
+      "ru": "кухня",
+      "es": "cocina",
+      "pl": "kuchnia",
+      "fa": "آشپزخانه"
+    },
+    "explanations": {
+      "en": "Noun referring to the room where food is prepared",
+      "de": "Substantiv, das den Raum bezeichnet, in dem Essen zubereitet wird",
+      "ar": "اسم يشير إلى الغرفة التي يتم فيها إعداد الطعام",
+      "fr": "Nom désignant la pièce où la nourriture est préparée",
+      "it": "Nome che si riferisce alla stanza dove si prepara il cibo",
+      "ru": "Существительное, обозначающее комнату, где готовится еда",
+      "es": "Sustantivo que se refiere al cuarto donde se prepara la comida",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia, w którym przygotowuje się jedzenie",
+      "fa": "اسمی که به اتاقی که غذا در آن آماده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["I cook in kitchen", "The kitchen is clean", "Where is the kitchen?"],
+      "de": ["Ich koche in Küche", "Die Küche ist sauber", "Wo ist die Küche?"],
+      "ar": ["أطبخ في المطبخ", "المطبخ نظيف", "أين المطبخ؟"],
+      "fr": ["Je cuisine dans cuisine", "La cuisine est propre", "Où est la cuisine?"],
+      "it": ["Cucino in cucina", "La cucina è pulita", "Dov'è la cucina?"],
+      "ru": ["Я готовлю на кухне", "Кухня чистая", "Где кухня?"],
+      "es": ["Cocino en la cocina", "La cocina está limpia", "¿Dónde está la cocina?"],
+      "pl": ["Gotuję w kuchni", "Kuchnia jest czysta", "Gdzie jest kuchnia?"],
+      "fa": ["در آشپزخانه آشپزی می‌کنم", "آشپزخانه تمیز است", "آشپزخانه کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_325_es",
+    "word": "baño",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bathroom",
+      "de": "Badezimmer, Bad",
+      "ar": "حمام",
+      "fr": "salle de bain",
+      "it": "bagno",
+      "ru": "ванная комната",
+      "es": "baño",
+      "pl": "łazienka",
+      "fa": "حمام"
+    },
+    "explanations": {
+      "en": "Noun referring to the room with toilet and washing facilities",
+      "de": "Substantiv, das den Raum mit Toilette und Waschgelegenheiten bezeichnet",
+      "ar": "اسم يشير إلى الغرفة التي تحتوي على المرحاض ومرافق الغسيل",
+      "fr": "Nom désignant la pièce avec toilettes et installations de lavage",
+      "it": "Nome che si riferisce alla stanza con toilette e servizi igienici",
+      "ru": "Существительное, обозначающее комнату с туалетом и умывальником",
+      "es": "Sustantivo que se refiere al cuarto con inodoro e instalaciones de aseo",
+      "pl": "Rzeczownik odnoszący się do pomieszczenia z toaletą i umywalką",
+      "fa": "اسمی که به اتاق با توالت و امکانات شستشو اشاره دارد"
+    },
+    "examples": {
+      "en": ["Where is the bathroom?", "I need the bathroom", "The bathroom is clean"],
+      "de": ["Wo ist das Badezimmer?", "Ich brauche das Badezimmer", "Das Badezimmer ist sauber"],
+      "ar": ["أين الحمام؟", "أحتاج إلى الحمام", "الحمام نظيف"],
+      "fr": ["Où est la salle de bain?", "J'ai besoin des toilettes", "La salle de bain est propre"],
+      "it": ["Dov'è il bagno?", "Ho bisogno del bagno", "Il bagno è pulito"],
+      "ru": ["Где ванная комната?", "Мне нужна ванная", "Ванная чистая"],
+      "es": ["¿Dónde está el baño?", "Necesito el baño", "El baño está limpio"],
+      "pl": ["Gdzie jest łazienka?", "Potrzebuję łazienki", "Łazienka jest czysta"],
+      "fa": ["حمام کجاست؟", "به حمام نیاز دارم", "حمام تمیز است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_326_es",
+    "word": "salón",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "living room",
+      "de": "Wohnzimmer",
+      "ar": "صالة",
+      "fr": "salon",
+      "it": "salotto, soggiorno",
+      "ru": "гостиная",
+      "es": "salón",
+      "pl": "salon",
+      "fa": "اتاق نشیمن"
+    },
+    "explanations": {
+      "en": "Noun referring to the main room for relaxing and entertaining",
+      "de": "Substantiv, das den Hauptraum zum Entspannen und Unterhalten bezeichnet",
+      "ar": "اسم يشير إلى الغرفة الرئيسية للاسترخاء والترفيه",
+      "fr": "Nom désignant la pièce principale pour se détendre et recevoir",
+      "it": "Nome che si riferisce alla stanza principale per rilassarsi e intrattenere",
+      "ru": "Существительное, обозначающее главную комнату для отдыха и развлечений",
+      "es": "Sustantivo que se refiere al cuarto principal para relajarse y recibir visitas",
+      "pl": "Rzeczownik odnoszący się do głównego pokoju do relaksu i przyjmowania gości",
+      "fa": "اسمی که به اتاق اصلی برای استراحت و سرگرمی اشاره دارد"
+    },
+    "examples": {
+      "en": ["We watch TV here", "The living room is big", "Come to the salon"],
+      "de": ["Wir sehen hier fern", "Das Wohnzimmer ist groß", "Komm ins Wohnzimmer"],
+      "ar": ["نشاهد التلفاز هنا", "الصالة كبيرة", "تعال إلى الصالة"],
+      "fr": ["Nous regardons la télé ici", "Le salon est grand", "Viens au salon"],
+      "it": ["Guardiamo la TV qui", "Il salotto è grande", "Vieni in salotto"],
+      "ru": ["Мы смотрим телевизор здесь", "Гостиная большая", "Иди в гостиную"],
+      "es": ["Vemos la tele aquí", "El salón es grande", "Ven al salón"],
+      "pl": ["Oglądamy telewizję tutaj", "Salon jest duży", "Chodź do salonu"],
+      "fa": ["اینجا تلویزیون می‌بینیم", "اتاق نشیمن بزرگ است", "به اتاق نشیمن بیا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_327_es",
+    "word": "jardín",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "garden",
+      "de": "Garten",
+      "ar": "حديقة",
+      "fr": "jardin",
+      "it": "giardino",
+      "ru": "сад",
+      "es": "jardín",
+      "pl": "ogród",
+      "fa": "باغ"
+    },
+    "explanations": {
+      "en": "Noun referring to an outdoor area with plants and flowers",
+      "de": "Substantiv, das einen Außenbereich mit Pflanzen und Blumen bezeichnet",
+      "ar": "اسم يشير إلى منطقة خارجية بها نباتات وزهور",
+      "fr": "Nom désignant un espace extérieur avec des plantes et des fleurs",
+      "it": "Nome che si riferisce a un'area esterna con piante e fiori",
+      "ru": "Существительное, обозначающее открытую территорию с растениями и цветами",
+      "es": "Sustantivo que se refiere a un área exterior con plantas y flores",
+      "pl": "Rzeczownik odnoszący się do obszaru zewnętrznego z roślinami i kwiatami",
+      "fa": "اسمی که به فضای بیرونی با گیاهان و گل‌ها اشاره دارد"
+    },
+    "examples": {
+      "en": ["My garden is beautiful", "I work in garden", "The garden has flowers"],
+      "de": ["Mein Garten ist schön", "Ich arbeite im Garten", "Der Garten hat Blumen"],
+      "ar": ["حديقتي جميلة", "أعمل في الحديقة", "الحديقة بها زهور"],
+      "fr": ["Mon jardin est beau", "Je travaille au jardin", "Le jardin a des fleurs"],
+      "it": ["Il mio giardino è bello", "Lavoro in giardino", "Il giardino ha fiori"],
+      "ru": ["Мой сад красивый", "Я работаю в саду", "В саду есть цветы"],
+      "es": ["Mi jardín es hermoso", "Trabajo en el jardín", "El jardín tiene flores"],
+      "pl": ["Mój ogród jest piękny", "Pracuję w ogrodzie", "Ogród ma kwiaty"],
+      "fa": ["باغ من زیباست", "در باغ کار می‌کنم", "باغ گل دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_328_es",
+    "word": "edificio",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "building",
+      "de": "Gebäude",
+      "ar": "مبنى",
+      "fr": "bâtiment, édifice",
+      "it": "edificio",
+      "ru": "здание",
+      "es": "edificio",
+      "pl": "budynek",
+      "fa": "ساختمان"
+    },
+    "explanations": {
+      "en": "Noun referring to a constructed structure with walls and roof",
+      "de": "Substantiv, das eine konstruierte Struktur mit Wänden und Dach bezeichnet",
+      "ar": "اسم يشير إلى هيكل مشيد بجدران وسقف",
+      "fr": "Nom désignant une structure construite avec des murs et un toit",
+      "it": "Nome che si riferisce a una struttura costruita con pareti e tetto",
+      "ru": "Существительное, обозначающее построенное сооружение со стенами и крышей",
+      "es": "Sustantivo que se refiere a una estructura construida con paredes y techo",
+      "pl": "Rzeczownik odnoszący się do skonstruowanej struktury ze ścianami i dachem",
+      "fa": "اسمی که به سازه‌ای ساخته شده با دیوار و سقف اشاره دارد"
+    },
+    "examples": {
+      "en": ["That building is tall", "I live in building", "This is old building"],
+      "de": ["Das Gebäude ist hoch", "Ich wohne im Gebäude", "Das ist altes Gebäude"],
+      "ar": ["ذلك المبنى طويل", "أسكن في مبنى", "هذا مبنى قديم"],
+      "fr": ["Ce bâtiment est grand", "J'habite dans un bâtiment", "C'est un vieux bâtiment"],
+      "it": ["Quell'edificio è alto", "Vivo in edificio", "Questo è edificio vecchio"],
+      "ru": ["То здание высокое", "Я живу в здании", "Это старое здание"],
+      "es": ["Ese edificio es alto", "Vivo en el edificio", "Este es edificio viejo"],
+      "pl": ["Ten budynek jest wysoki", "Mieszkam w budynku", "To jest stary budynek"],
+      "fa": ["آن ساختمان بلند است", "در ساختمان زندگی می‌کنم", "این ساختمان قدیمی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_329_es",
+    "word": "tienda",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "shop, store",
+      "de": "Geschäft, Laden",
+      "ar": "متجر",
+      "fr": "magasin, boutique",
+      "it": "negozio",
+      "ru": "магазин",
+      "es": "tienda",
+      "pl": "sklep",
+      "fa": "فروشگاه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where goods are sold",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Waren verkauft werden",
+      "ar": "اسم يشير إلى مكان يتم فيه بيع البضائع",
+      "fr": "Nom désignant un lieu où des marchandises sont vendues",
+      "it": "Nome che si riferisce a un luogo dove si vendono merci",
+      "ru": "Существительное, обозначающее место, где продаются товары",
+      "es": "Sustantivo que se refiere a un lugar donde se venden productos",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie sprzedaje się towary",
+      "fa": "اسمی که به مکانی که کالاها در آن فروخته می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to shop", "The store is open", "This shop is good"],
+      "de": ["Ich gehe ins Geschäft", "Der Laden ist offen", "Dieser Laden ist gut"],
+      "ar": ["أذهب إلى المتجر", "المتجر مفتوح", "هذا المتجر جيد"],
+      "fr": ["Je vais au magasin", "Le magasin est ouvert", "Cette boutique est bien"],
+      "it": ["Vado al negozio", "Il negozio è aperto", "Questo negozio è buono"],
+      "ru": ["Я иду в магазин", "Магазин открыт", "Этот магазин хороший"],
+      "es": ["Voy a la tienda", "La tienda está abierta", "Esta tienda es buena"],
+      "pl": ["Idę do sklepu", "Sklep jest otwarty", "Ten sklep jest dobry"],
+      "fa": ["به فروشگاه می‌روم", "فروشگاه باز است", "این فروشگاه خوب است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_330_es",
+    "word": "supermercado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "supermarket",
+      "de": "Supermarkt",
+      "ar": "سوبرماركت",
+      "fr": "supermarché",
+      "it": "supermercato",
+      "ru": "супермаркет",
+      "es": "supermercado",
+      "pl": "supermarket",
+      "fa": "سوپرمارکت"
+    },
+    "explanations": {
+      "en": "Noun referring to a large store selling food and household items",
+      "de": "Substantiv, das ein großes Geschäft bezeichnet, das Lebensmittel und Haushaltswaren verkauft",
+      "ar": "اسم يشير إلى متجر كبير يبيع الطعام والسلع المنزلية",
+      "fr": "Nom désignant un grand magasin vendant de la nourriture et des articles ménagers",
+      "it": "Nome che si riferisce a un grande negozio che vende cibo e articoli per la casa",
+      "ru": "Существительное, обозначающее большой магазин, продающий продукты и товары для дома",
+      "es": "Sustantivo que se refiere a una tienda grande que vende comida y artículos del hogar",
+      "pl": "Rzeczownik odnoszący się do dużego sklepu sprzedającego żywność i artykuły gospodarstwa domowego",
+      "fa": "اسمی که به فروشگاه بزرگی که مواد غذایی و اقلام خانگی می‌فروشد اشاره دارد"
+    },
+    "examples": {
+      "en": ["I buy food here", "The supermarket is big", "We go to supermarket"],
+      "de": ["Ich kaufe hier Essen", "Der Supermarkt ist groß", "Wir gehen zum Supermarkt"],
+      "ar": ["أشتري الطعام هنا", "السوبرماركت كبير", "نذهب إلى السوبرماركت"],
+      "fr": ["J'achète à manger ici", "Le supermarché est grand", "On va au supermarché"],
+      "it": ["Compro cibo qui", "Il supermercato è grande", "Andiamo al supermercato"],
+      "ru": ["Я покупаю еду здесь", "Супермаркет большой", "Мы идём в супермаркет"],
+      "es": ["Compro comida aquí", "El supermercado es grande", "Vamos al supermercado"],
+      "pl": ["Kupuję jedzenie tutaj", "Supermarket jest duży", "Idziemy do supermarketu"],
+      "fa": ["اینجا غذا می‌خرم", "سوپرمارکت بزرگ است", "به سوپرمارکت می‌رویم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_331_es",
+    "word": "restaurante",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "restaurant",
+      "de": "Restaurant",
+      "ar": "مطعم",
+      "fr": "restaurant",
+      "it": "ristorante",
+      "ru": "ресторан",
+      "es": "restaurante",
+      "pl": "restauracja",
+      "fa": "رستوران"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where prepared meals are served",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem zubereitete Mahlzeiten serviert werden",
+      "ar": "اسم يشير إلى مكان يتم فيه تقديم الوجبات المعدة",
+      "fr": "Nom désignant un lieu où des repas préparés sont servis",
+      "it": "Nome che si riferisce a un luogo dove vengono serviti pasti preparati",
+      "ru": "Существительное, обозначающее место, где подаются приготовленные блюда",
+      "es": "Sustantivo que se refiere a un lugar donde se sirven comidas preparadas",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie serwowane są przygotowane posiłki",
+      "fa": "اسمی که به مکانی که غذاهای آماده سرو می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["We eat at restaurant", "This restaurant is good", "I like Italian restaurant"],
+      "de": ["Wir essen im Restaurant", "Dieses Restaurant ist gut", "Ich mag italienisches Restaurant"],
+      "ar": ["نأكل في المطعم", "هذا المطعم جيد", "أحب المطعم الإيطالي"],
+      "fr": ["Nous mangeons au restaurant", "Ce restaurant est bon", "J'aime le restaurant italien"],
+      "it": ["Mangiamo al ristorante", "Questo ristorante è buono", "Mi piace ristorante italiano"],
+      "ru": ["Мы едим в ресторане", "Этот ресторан хороший", "Я люблю итальянский ресторан"],
+      "es": ["Comemos en el restaurante", "Este restaurante es bueno", "Me gusta restaurante italiano"],
+      "pl": ["Jemy w restauracji", "Ta restauracja jest dobra", "Lubię włoską restaurację"],
+      "fa": ["در رستوران غذا می‌خوریم", "این رستوران خوب است", "رستوران ایتالیایی دوست دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_332_es",
+    "word": "bar",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bar",
+      "de": "Bar, Kneipe",
+      "ar": "بار",
+      "fr": "bar",
+      "it": "bar",
+      "ru": "бар",
+      "es": "bar",
+      "pl": "bar",
+      "fa": "بار"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where drinks are served",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Getränke serviert werden",
+      "ar": "اسم يشير إلى مكان يتم فيه تقديم المشروبات",
+      "fr": "Nom désignant un lieu où des boissons sont servies",
+      "it": "Nome che si riferisce a un luogo dove vengono servite bevande",
+      "ru": "Существительное, обозначающее место, где подаются напитки",
+      "es": "Sustantivo que se refiere a un lugar donde se sirven bebidas",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie serwowane są napoje",
+      "fa": "اسمی که به مکانی که نوشیدنی‌ها سرو می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["We go to bar", "The bar is open", "I meet friends here"],
+      "de": ["Wir gehen zur Bar", "Die Bar ist offen", "Ich treffe Freunde hier"],
+      "ar": ["نذهب إلى البار", "البار مفتوح", "ألتقي بالأصدقاء هنا"],
+      "fr": ["Nous allons au bar", "Le bar est ouvert", "Je rencontre amis ici"],
+      "it": ["Andiamo al bar", "Il bar è aperto", "Incontro amici qui"],
+      "ru": ["Мы идём в бар", "Бар открыт", "Я встречаю друзей здесь"],
+      "es": ["Vamos al bar", "El bar está abierto", "Veo amigos aquí"],
+      "pl": ["Idziemy do baru", "Bar jest otwarty", "Spotykam przyjaciół tutaj"],
+      "fa": ["به بار می‌رویم", "بار باز است", "اینجا دوستان را می‌بینم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_333_es",
+    "word": "café",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "café, coffee shop",
+      "de": "Café, Kaffeehaus",
+      "ar": "مقهى",
+      "fr": "café",
+      "it": "caffè, bar",
+      "ru": "кафе",
+      "es": "café",
+      "pl": "kawiarnia",
+      "fa": "کافه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place serving coffee and light meals",
+      "de": "Substantiv, das einen Ort bezeichnet, der Kaffee und leichte Mahlzeiten serviert",
+      "ar": "اسم يشير إلى مكان يقدم القهوة والوجبات الخفيفة",
+      "fr": "Nom désignant un lieu servant du café et des repas légers",
+      "it": "Nome che si riferisce a un luogo che serve caffè e pasti leggeri",
+      "ru": "Существительное, обозначающее место, где подают кофе и легкую еду",
+      "es": "Sustantivo que se refiere a un lugar que sirve café y comidas ligeras",
+      "pl": "Rzeczownik odnoszący się do miejsca serwującego kawę i lekkie posiłki",
+      "fa": "اسمی که به مکانی که قهوه و غذاهای سبک سرو می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I like this café", "We meet at café", "The café is cozy"],
+      "de": ["Ich mag dieses Café", "Wir treffen uns im Café", "Das Café ist gemütlich"],
+      "ar": ["أحب هذا المقهى", "نلتقي في المقهى", "المقهى مريح"],
+      "fr": ["J'aime ce café", "On se retrouve au café", "Le café est confortable"],
+      "it": ["Mi piace questo caffè", "Ci incontriamo al bar", "Il caffè è accogliente"],
+      "ru": ["Мне нравится это кафе", "Мы встречаемся в кафе", "Кафе уютное"],
+      "es": ["Me gusta este café", "Nos vemos en café", "El café es acogedor"],
+      "pl": ["Lubię tę kawiarnię", "Spotykamy się w kawiarni", "Kawiarnia jest przytulna"],
+      "fa": ["این کافه را دوست دارم", "در کافه می‌بینیمش", "کافه دنج است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_334_es",
+    "word": "hotel",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hotel",
+      "de": "Hotel",
+      "ar": "فندق",
+      "fr": "hôtel",
+      "it": "hotel, albergo",
+      "ru": "отель, гостиница",
+      "es": "hotel",
+      "pl": "hotel",
+      "fa": "هتل"
+    },
+    "explanations": {
+      "en": "Noun referring to a place providing accommodation for travelers",
+      "de": "Substantiv, das einen Ort bezeichnet, der Unterkünfte für Reisende bietet",
+      "ar": "اسم يشير إلى مكان يوفر الإقامة للمسافرين",
+      "fr": "Nom désignant un lieu offrant l'hébergement aux voyageurs",
+      "it": "Nome che si riferisce a un luogo che fornisce alloggio ai viaggiatori",
+      "ru": "Существительное, обозначающее место, предоставляющее жилье для путешественников",
+      "es": "Sustantivo que se refiere a un lugar que proporciona alojamiento para viajeros",
+      "pl": "Rzeczownik odnoszący się do miejsca zapewniającego zakwaterowanie dla podróżnych",
+      "fa": "اسمی که به مکانی که اقامت برای مسافران فراهم می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I stay at hotel", "This hotel is nice", "Where is the hotel?"],
+      "de": ["Ich bleibe im Hotel", "Dieses Hotel ist schön", "Wo ist das Hotel?"],
+      "ar": ["أقيم في فندق", "هذا الفندق جميل", "أين الفندق؟"],
+      "fr": ["Je reste à l'hôtel", "Cet hôtel est agréable", "Où est l'hôtel?"],
+      "it": ["Sto in hotel", "Questo hotel è bello", "Dov'è l'hotel?"],
+      "ru": ["Я останавливаюсь в отеле", "Этот отель хороший", "Где отель?"],
+      "es": ["Me quedo en hotel", "Este hotel es bonito", "¿Dónde está el hotel?"],
+      "pl": ["Zatrzymuję się w hotelu", "Ten hotel jest ładny", "Gdzie jest hotel?"],
+      "fa": ["در هتل می‌مانم", "این هتل قشنگ است", "هتل کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_335_es",
+    "word": "hospital",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hospital",
+      "de": "Krankenhaus",
+      "ar": "مستشفى",
+      "fr": "hôpital",
+      "it": "ospedale",
+      "ru": "больница",
+      "es": "hospital",
+      "pl": "szpital",
+      "fa": "بیمارستان"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where sick people receive medical care",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem kranke Menschen medizinische Versorgung erhalten",
+      "ar": "اسم يشير إلى مكان يتلقى فيه المرضى الرعاية الطبية",
+      "fr": "Nom désignant un lieu où les malades reçoivent des soins médicaux",
+      "it": "Nome che si riferisce a un luogo dove le persone malate ricevono cure mediche",
+      "ru": "Существительное, обозначающее место, где больные люди получают медицинскую помощь",
+      "es": "Sustantivo que se refiere a un lugar donde las personas enfermas reciben atención médica",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie chorzy ludzie otrzymują opiekę medyczną",
+      "fa": "اسمی که به مکانی که افراد بیمار مراقبت پزشکی دریافت می‌کنند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to hospital", "She works at hospital", "The hospital is big"],
+      "de": ["Ich gehe ins Krankenhaus", "Sie arbeitet im Krankenhaus", "Das Krankenhaus ist groß"],
+      "ar": ["أذهب إلى المستشفى", "تعمل في المستشفى", "المستشفى كبير"],
+      "fr": ["Je vais à l'hôpital", "Elle travaille à l'hôpital", "L'hôpital est grand"],
+      "it": ["Vado all'ospedale", "Lei lavora in ospedale", "L'ospedale è grande"],
+      "ru": ["Я иду в больницу", "Она работает в больнице", "Больница большая"],
+      "es": ["Voy al hospital", "Ella trabaja en hospital", "El hospital es grande"],
+      "pl": ["Idę do szpitala", "Ona pracuje w szpitalu", "Szpital jest duży"],
+      "fa": ["به بیمارستان می‌روم", "او در بیمارستان کار می‌کند", "بیمارستان بزرگ است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_336_es",
+    "word": "farmacia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "pharmacy, drugstore",
+      "de": "Apotheke",
+      "ar": "صيدلية",
+      "fr": "pharmacie",
+      "it": "farmacia",
+      "ru": "аптека",
+      "es": "farmacia",
+      "pl": "apteka",
+      "fa": "داروخانه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where medicines are sold",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Medikamente verkauft werden",
+      "ar": "اسم يشير إلى مكان يتم فيه بيع الأدوية",
+      "fr": "Nom désignant un lieu où les médicaments sont vendus",
+      "it": "Nome che si riferisce a un luogo dove si vendono medicinali",
+      "ru": "Существительное, обозначающее место, где продаются лекарства",
+      "es": "Sustantivo que se refiere a un lugar donde se venden medicinas",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie sprzedawane są leki",
+      "fa": "اسمی که به مکانی که داروها فروخته می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I need the pharmacy", "Where is nearest pharmacy?", "The pharmacy is open"],
+      "de": ["Ich brauche die Apotheke", "Wo ist nächste Apotheke?", "Die Apotheke ist offen"],
+      "ar": ["أحتاج إلى الصيدلية", "أين أقرب صيدلية؟", "الصيدلية مفتوحة"],
+      "fr": ["J'ai besoin de pharmacie", "Où est pharmacie proche?", "La pharmacie est ouverte"],
+      "it": ["Ho bisogno della farmacia", "Dov'è la farmacia vicina?", "La farmacia è aperta"],
+      "ru": ["Мне нужна аптека", "Где ближайшая аптека?", "Аптека открыта"],
+      "es": ["Necesito la farmacia", "¿Dónde está farmacia cercana?", "La farmacia está abierta"],
+      "pl": ["Potrzebuję apteki", "Gdzie jest najbliższa apteka?", "Apteka jest otwarta"],
+      "fa": ["به داروخانه نیاز دارم", "نزدیکترین داروخانه کجاست؟", "داروخانه باز است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_337_es",
+    "word": "banco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bank",
+      "de": "Bank",
+      "ar": "بنك",
+      "fr": "banque",
+      "it": "banca",
+      "ru": "банк",
+      "es": "banco",
+      "pl": "bank",
+      "fa": "بانک"
+    },
+    "explanations": {
+      "en": "Noun referring to a financial institution handling money",
+      "de": "Substantiv, das ein Finanzinstitut bezeichnet, das Geld verwaltet",
+      "ar": "اسم يشير إلى مؤسسة مالية تتعامل بالمال",
+      "fr": "Nom désignant une institution financière qui gère l'argent",
+      "it": "Nome che si riferisce a un'istituzione finanziaria che gestisce denaro",
+      "ru": "Существительное, обозначающее финансовое учреждение, управляющее деньгами",
+      "es": "Sustantivo que se refiere a una institución financiera que maneja dinero",
+      "pl": "Rzeczownik odnoszący się do instytucji finansowej obsługującej pieniądze",
+      "fa": "اسمی که به موسسه مالی که پول را مدیریت می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to bank", "The bank is closed", "I need money now"],
+      "de": ["Ich gehe zur Bank", "Die Bank ist geschlossen", "Ich brauche jetzt Geld"],
+      "ar": ["أذهب إلى البنك", "البنك مغلق", "أحتاج إلى مال الآن"],
+      "fr": ["Je vais à banque", "La banque est fermée", "J'ai besoin d'argent maintenant"],
+      "it": ["Vado in banca", "La banca è chiusa", "Ho bisogno di soldi"],
+      "ru": ["Я иду в банк", "Банк закрыт", "Мне нужны деньги сейчас"],
+      "es": ["Voy al banco", "El banco está cerrado", "Necesito dinero ahora"],
+      "pl": ["Idę do banku", "Bank jest zamknięty", "Potrzebuję pieniędzy teraz"],
+      "fa": ["به بانک می‌روم", "بانک بسته است", "الان به پول نیاز دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_338_es",
+    "word": "oficina",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "office",
+      "de": "Büro",
+      "ar": "مكتب",
+      "fr": "bureau",
+      "it": "ufficio",
+      "ru": "офис",
+      "es": "oficina",
+      "pl": "biuro",
+      "fa": "دفتر"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where professional work is done",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem berufliche Arbeit verrichtet wird",
+      "ar": "اسم يشير إلى مكان يتم فيه العمل المهني",
+      "fr": "Nom désignant un lieu où le travail professionnel est effectué",
+      "it": "Nome che si riferisce a un luogo dove viene svolto lavoro professionale",
+      "ru": "Существительное, обозначающее место, где выполняется профессиональная работа",
+      "es": "Sustantivo que se refiere a un lugar donde se realiza trabajo profesional",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie wykonywana jest praca zawodowa",
+      "fa": "اسمی که به مکانی که کار حرفه‌ای در آن انجام می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["I work at office", "The office is open", "My office is small"],
+      "de": ["Ich arbeite im Büro", "Das Büro ist offen", "Mein Büro ist klein"],
+      "ar": ["أعمل في المكتب", "المكتب مفتوح", "مكتبي صغير"],
+      "fr": ["Je travaille au bureau", "Le bureau est ouvert", "Mon bureau est petit"],
+      "it": ["Lavoro in ufficio", "L'ufficio è aperto", "Il mio ufficio è piccolo"],
+      "ru": ["Я работаю в офисе", "Офис открыт", "Мой офис маленький"],
+      "es": ["Trabajo en la oficina", "La oficina está abierta", "Mi oficina es pequeña"],
+      "pl": ["Pracuję w biurze", "Biuro jest otwarte", "Moje biuro jest małe"],
+      "fa": ["در دفتر کار می‌کنم", "دفتر باز است", "دفتر من کوچک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_339_es",
+    "word": "aeropuerto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "airport",
+      "de": "Flughafen",
+      "ar": "مطار",
+      "fr": "aéroport",
+      "it": "aeroporto",
+      "ru": "аэропорт",
+      "es": "aeropuerto",
+      "pl": "lotnisko",
+      "fa": "فرودگاه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where planes take off and land",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Flugzeuge starten und landen",
+      "ar": "اسم يشير إلى مكان تقلع وتهبط فيه الطائرات",
+      "fr": "Nom désignant un lieu où les avions décollent et atterrissent",
+      "it": "Nome che si riferisce a un luogo dove gli aerei decollano e atterrano",
+      "ru": "Существительное, обозначающее место, где самолеты взлетают и приземляются",
+      "es": "Sustantivo que se refiere a un lugar donde los aviones despegan y aterrizan",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie samoloty startują i lądują",
+      "fa": "اسمی که به مکانی که هواپیماها از آن پرواز و فرود می‌آیند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I go to airport", "The airport is big", "Where is the airport?"],
+      "de": ["Ich gehe zum Flughafen", "Der Flughafen ist groß", "Wo ist der Flughafen?"],
+      "ar": ["أذهب إلى المطار", "المطار كبير", "أين المطار؟"],
+      "fr": ["Je vais à l'aéroport", "L'aéroport est grand", "Où est l'aéroport?"],
+      "it": ["Vado all'aeroporto", "L'aeroporto è grande", "Dov'è l'aeroporto?"],
+      "ru": ["Я еду в аэропорт", "Аэропорт большой", "Где аэропорт?"],
+      "es": ["Voy al aeropuerto", "El aeropuerto es grande", "¿Dónde está el aeropuerto?"],
+      "pl": ["Jadę na lotnisko", "Lotnisko jest duże", "Gdzie jest lotnisko?"],
+      "fa": ["به فرودگاه می‌روم", "فرودگاه بزرگ است", "فرودگاه کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_340_es",
+    "word": "estación",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "station",
+      "de": "Bahnhof, Station",
+      "ar": "محطة",
+      "fr": "gare, station",
+      "it": "stazione",
+      "ru": "станция, вокзал",
+      "es": "estación",
+      "pl": "stacja, dworzec",
+      "fa": "ایستگاه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where trains or buses stop",
+      "de": "Substantiv, das einen Ort bezeichnet, an dem Züge oder Busse halten",
+      "ar": "اسم يشير إلى مكان تتوقف فيه القطارات أو الحافلات",
+      "fr": "Nom désignant un lieu où les trains ou les bus s'arrêtent",
+      "it": "Nome che si riferisce a un luogo dove si fermano treni o autobus",
+      "ru": "Существительное, обозначающее место, где останавливаются поезда или автобусы",
+      "es": "Sustantivo que se refiere a un lugar donde paran trenes o autobuses",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie zatrzymują się pociągi lub autobusy",
+      "fa": "اسمی که به مکانی که قطارها یا اتوبوس‌ها توقف می‌کنند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I wait at station", "The station is near", "Where is train station?"],
+      "de": ["Ich warte am Bahnhof", "Der Bahnhof ist nah", "Wo ist der Bahnhof?"],
+      "ar": ["أنتظر في المحطة", "المحطة قريبة", "أين محطة القطار؟"],
+      "fr": ["J'attends à la gare", "La gare est proche", "Où est la gare?"],
+      "it": ["Aspetto alla stazione", "La stazione è vicina", "Dov'è la stazione?"],
+      "ru": ["Я жду на станции", "Станция близко", "Где вокзал?"],
+      "es": ["Espero en la estación", "La estación está cerca", "¿Dónde está la estación?"],
+      "pl": ["Czekam na stacji", "Stacja jest blisko", "Gdzie jest stacja?"],
+      "fa": ["در ایستگاه منتظرم", "ایستگاه نزدیک است", "ایستگاه قطار کجاست؟"]
+    },
+    "conjugations": null
+  }
+]

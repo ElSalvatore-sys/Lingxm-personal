@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_361_es",
+    "word": "coche",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "car",
+      "de": "Auto",
+      "ar": "سيارة",
+      "fr": "voiture",
+      "it": "macchina, auto",
+      "ru": "машина",
+      "es": "coche",
+      "pl": "samochód",
+      "fa": "ماشین"
+    },
+    "explanations": {
+      "en": "Noun referring to a motor vehicle for road transportation",
+      "de": "Substantiv für ein Kraftfahrzeug zum Straßentransport",
+      "ar": "اسم يشير إلى مركبة آلية للنقل البري",
+      "fr": "Nom désignant un véhicule motorisé pour le transport routier",
+      "it": "Nome che si riferisce a un veicolo a motore per il trasporto stradale",
+      "ru": "Существительное, обозначающее моторное транспортное средство для дорожной перевозки",
+      "es": "Sustantivo que se refiere a un vehículo motorizado para transporte por carretera",
+      "pl": "Rzeczownik odnoszący się do pojazdu mechanicznego do transportu drogowego",
+      "fa": "اسمی که به وسیله نقلیه موتوری برای حمل و نقل جاده‌ای اشاره دارد"
+    },
+    "examples": {
+      "en": ["I have a car", "My car is red", "I drive the car"],
+      "de": ["Ich habe ein Auto", "Mein Auto ist rot", "Ich fahre das Auto"],
+      "ar": ["لدي سيارة", "سيارتي حمراء", "أقود السيارة"],
+      "fr": ["J'ai une voiture", "Ma voiture est rouge", "Je conduis la voiture"],
+      "it": ["Ho una macchina", "La mia macchina è rossa", "Guido la macchina"],
+      "ru": ["У меня есть машина", "Моя машина красная", "Я веду машину"],
+      "es": ["Tengo un coche", "Mi coche es rojo", "Conduzco el coche"],
+      "pl": ["Mam samochód", "Mój samochód jest czerwony", "Prowadzę samochód"],
+      "fa": ["ماشین دارم", "ماشین من قرمز است", "ماشین را رانندگی می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_362_es",
+    "word": "autobús",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bus",
+      "de": "Bus",
+      "ar": "حافلة",
+      "fr": "bus, autobus",
+      "it": "autobus",
+      "ru": "автобус",
+      "es": "autobús",
+      "pl": "autobus",
+      "fa": "اتوبوس"
+    },
+    "explanations": {
+      "en": "Noun referring to a large motor vehicle for public transport",
+      "de": "Substantiv für ein großes Kraftfahrzeug für öffentlichen Transport",
+      "ar": "اسم يشير إلى مركبة كبيرة للنقل العام",
+      "fr": "Nom désignant un grand véhicule motorisé pour le transport public",
+      "it": "Nome che si riferisce a un grande veicolo a motore per il trasporto pubblico",
+      "ru": "Существительное, обозначающее большое транспортное средство для общественного транспорта",
+      "es": "Sustantivo que se refiere a un vehículo grande para transporte público",
+      "pl": "Rzeczownik odnoszący się do dużego pojazdu mechanicznego do transportu publicznego",
+      "fa": "اسمی که به وسیله نقلیه بزرگ برای حمل و نقل عمومی اشاره دارد"
+    },
+    "examples": {
+      "en": ["I take the bus", "The bus is coming", "I wait for bus"],
+      "de": ["Ich nehme den Bus", "Der Bus kommt", "Ich warte auf Bus"],
+      "ar": ["آخذ الحافلة", "الحافلة قادمة", "أنتظر الحافلة"],
+      "fr": ["Je prends le bus", "Le bus arrive", "J'attends le bus"],
+      "it": ["Prendo l'autobus", "L'autobus sta arrivando", "Aspetto l'autobus"],
+      "ru": ["Я еду на автобусе", "Автобус идёт", "Я жду автобус"],
+      "es": ["Tomo el autobús", "El autobús viene", "Espero el autobús"],
+      "pl": ["Jadę autobusem", "Autobus przyjeżdża", "Czekam na autobus"],
+      "fa": ["با اتوبوس می‌روم", "اتوبوس می‌آید", "منتظر اتوبوس هستم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_363_es",
+    "word": "tren",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "train",
+      "de": "Zug",
+      "ar": "قطار",
+      "fr": "train",
+      "it": "treno",
+      "ru": "поезд",
+      "es": "tren",
+      "pl": "pociąg",
+      "fa": "قطار"
+    },
+    "explanations": {
+      "en": "Noun referring to a railway vehicle for passengers or cargo",
+      "de": "Substantiv für ein Schienenfahrzeug für Passagiere oder Fracht",
+      "ar": "اسم يشير إلى مركبة سككية للركاب أو البضائع",
+      "fr": "Nom désignant un véhicule ferroviaire pour passagers ou marchandises",
+      "it": "Nome che si riferisce a un veicolo ferroviario per passeggeri o merci",
+      "ru": "Существительное, обозначающее железнодорожное транспортное средство для пассажиров или грузов",
+      "es": "Sustantivo que se refiere a un vehículo ferroviario para pasajeros o carga",
+      "pl": "Rzeczownik odnoszący się do pojazdu kolejowego dla pasażerów lub ładunku",
+      "fa": "اسمی که به وسیله نقلیه ریلی برای مسافر یا بار اشاره دارد"
+    },
+    "examples": {
+      "en": ["I take the train", "The train is fast", "I travel by train"],
+      "de": ["Ich nehme den Zug", "Der Zug ist schnell", "Ich reise mit Zug"],
+      "ar": ["آخذ القطار", "القطار سريع", "أسافر بالقطار"],
+      "fr": ["Je prends le train", "Le train est rapide", "Je voyage en train"],
+      "it": ["Prendo il treno", "Il treno è veloce", "Viaggio in treno"],
+      "ru": ["Я еду на поезде", "Поезд быстрый", "Я путешествую поездом"],
+      "es": ["Tomo el tren", "El tren es rápido", "Viajo en tren"],
+      "pl": ["Jadę pociągiem", "Pociąg jest szybki", "Podróżuję pociągiem"],
+      "fa": ["با قطار می‌روم", "قطار سریع است", "با قطار سفر می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_364_es",
+    "word": "avión",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "airplane, plane",
+      "de": "Flugzeug",
+      "ar": "طائرة",
+      "fr": "avion",
+      "it": "aereo",
+      "ru": "самолёт",
+      "es": "avión",
+      "pl": "samolot",
+      "fa": "هواپیما"
+    },
+    "examples": {
+      "en": ["I fly by plane", "The plane is big", "I take the airplane"],
+      "de": ["Ich fliege mit Flugzeug", "Das Flugzeug ist groß", "Ich nehme das Flugzeug"],
+      "ar": ["أطير بالطائرة", "الطائرة كبيرة", "آخذ الطائرة"],
+      "fr": ["Je vole en avion", "L'avion est grand", "Je prends l'avion"],
+      "it": ["Volo in aereo", "L'aereo è grande", "Prendo l'aereo"],
+      "ru": ["Я лечу на самолёте", "Самолёт большой", "Я беру самолёт"],
+      "es": ["Vuelo en avión", "El avión es grande", "Tomo el avión"],
+      "pl": ["Lecę samolotem", "Samolot jest duży", "Biorę samolot"],
+      "fa": ["با هواپیما پرواز می‌کنم", "هواپیما بزرگ است", "با هواپیما می‌روم"]
+    },
+    "explanations": {
+      "en": "Noun referring to a powered aircraft for air travel",
+      "de": "Substantiv für ein motorisiertes Luftfahrzeug für Flugreisen",
+      "ar": "اسم يشير إلى طائرة مزودة بمحرك للسفر الجوي",
+      "fr": "Nom désignant un aéronef motorisé pour le voyage aérien",
+      "it": "Nome che si riferisce a un velivolo a motore per viaggi aerei",
+      "ru": "Существительное, обозначающее моторное воздушное судно для авиаперевозок",
+      "es": "Sustantivo que se refiere a una aeronave motorizada para viajes aéreos",
+      "pl": "Rzeczownik odnoszący się do napędzanego statku powietrznego do podróży lotniczych",
+      "fa": "اسمی که به هواپیمای موتوری برای سفر هوایی اشاره دارد"
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_365_es",
+    "word": "barco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "boat, ship",
+      "de": "Schiff, Boot",
+      "ar": "قارب، سفينة",
+      "fr": "bateau, navire",
+      "it": "barca, nave",
+      "ru": "лодка, корабль",
+      "es": "barco",
+      "pl": "łódź, statek",
+      "fa": "قایق، کشتی"
+    },
+    "explanations": {
+      "en": "Noun referring to a watercraft for water travel",
+      "de": "Substantiv für ein Wasserfahrzeug für Wasserreisen",
+      "ar": "اسم يشير إلى مركبة مائية للسفر المائي",
+      "fr": "Nom désignant un véhicule nautique pour le voyage sur l'eau",
+      "it": "Nome che si riferisce a un'imbarcazione per viaggi sull'acqua",
+      "ru": "Существительное, обозначающее водное транспортное средство для водных путешествий",
+      "es": "Sustantivo que se refiere a una embarcación para viajes por agua",
+      "pl": "Rzeczownik odnoszący się do jednostki pływającej do podróży wodnych",
+      "fa": "اسمی که به کشتی برای سفر در آب اشاره دارد"
+    },
+    "examples": {
+      "en": ["I take the boat", "The ship is big", "I travel by boat"],
+      "de": ["Ich nehme das Schiff", "Das Schiff ist groß", "Ich reise mit Schiff"],
+      "ar": ["آخذ القارب", "السفينة كبيرة", "أسافر بالقارب"],
+      "fr": ["Je prends le bateau", "Le navire est grand", "Je voyage en bateau"],
+      "it": ["Prendo la barca", "La nave è grande", "Viaggio in barca"],
+      "ru": ["Я еду на лодке", "Корабль большой", "Я путешествую на лодке"],
+      "es": ["Tomo el barco", "El barco es grande", "Viajo en barco"],
+      "pl": ["Biorę łódź", "Statek jest duży", "Podróżuję łodzią"],
+      "fa": ["با قایق می‌روم", "کشتی بزرگ است", "با قایق سفر می‌کنم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_366_es",
+    "word": "bicicleta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bicycle, bike",
+      "de": "Fahrrad",
+      "ar": "دراجة",
+      "fr": "vélo, bicyclette",
+      "it": "bicicletta",
+      "ru": "велосипед",
+      "es": "bicicleta",
+      "pl": "rower",
+      "fa": "دوچرخه"
+    },
+    "explanations": {
+      "en": "Noun referring to a two-wheeled pedal-powered vehicle",
+      "de": "Substantiv für ein zweirädriges pedalbetriebenes Fahrzeug",
+      "ar": "اسم يشير إلى مركبة ذات عجلتين تعمل بالدواسات",
+      "fr": "Nom désignant un véhicule à deux roues à pédales",
+      "it": "Nome che si riferisce a un veicolo a due ruote a pedali",
+      "ru": "Существительное, обозначающее двухколёсное транспортное средство с педалями",
+      "es": "Sustantivo que se refiere a un vehículo de dos ruedas impulsado por pedales",
+      "pl": "Rzeczownik odnoszący się do dwukołowego pojazdu napędzanego pedałami",
+      "fa": "اسمی که به وسیله نقلیه دو چرخ با پدال اشاره دارد"
+    },
+    "examples": {
+      "en": ["I ride my bike", "My bicycle is new", "I go by bicycle"],
+      "de": ["Ich fahre Fahrrad", "Mein Fahrrad ist neu", "Ich fahre mit Fahrrad"],
+      "ar": ["أركب دراجتي", "دراجتي جديدة", "أذهب بالدراجة"],
+      "fr": ["Je fais du vélo", "Mon vélo est neuf", "Je vais à vélo"],
+      "it": ["Vado in bicicletta", "La mia bicicletta è nuova", "Vado in bici"],
+      "ru": ["Я езжу на велосипеде", "Мой велосипед новый", "Я еду на велосипеде"],
+      "es": ["Monto en bicicleta", "Mi bicicleta es nueva", "Voy en bicicleta"],
+      "pl": ["Jadę na rowerze", "Mój rower jest nowy", "Jadę rowerem"],
+      "fa": ["دوچرخه سواری می‌کنم", "دوچرخه من جدید است", "با دوچرخه می‌روم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_367_es",
+    "word": "metro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "subway, metro",
+      "de": "U-Bahn, Metro",
+      "ar": "مترو",
+      "fr": "métro",
+      "it": "metropolitana, metro",
+      "ru": "метро",
+      "es": "metro",
+      "pl": "metro",
+      "fa": "مترو"
+    },
+    "explanations": {
+      "en": "Noun referring to an underground railway system",
+      "de": "Substantiv für ein unterirdisches Bahnsystem",
+      "ar": "اسم يشير إلى نظام سكك حديد تحت الأرض",
+      "fr": "Nom désignant un système ferroviaire souterrain",
+      "it": "Nome che si riferisce a un sistema ferroviario sotterraneo",
+      "ru": "Существительное, обозначающее подземную железнодорожную систему",
+      "es": "Sustantivo que se refiere a un sistema ferroviario subterráneo",
+      "pl": "Rzeczownik odnoszący się do podziemnego systemu kolejowego",
+      "fa": "اسمی که به سیستم ریلی زیرزمینی اشاره دارد"
+    },
+    "examples": {
+      "en": ["I take the subway", "The metro is fast", "I go by metro"],
+      "de": ["Ich nehme die U-Bahn", "Die Metro ist schnell", "Ich fahre mit Metro"],
+      "ar": ["آخذ المترو", "المترو سريع", "أذهب بالمترو"],
+      "fr": ["Je prends le métro", "Le métro est rapide", "Je vais en métro"],
+      "it": ["Prendo la metro", "La metro è veloce", "Vado in metro"],
+      "ru": ["Я еду на метро", "Метро быстрое", "Я еду метро"],
+      "es": ["Tomo el metro", "El metro es rápido", "Voy en metro"],
+      "pl": ["Jadę metrem", "Metro jest szybkie", "Jadę metrem"],
+      "fa": ["با مترو می‌روم", "مترو سریع است", "با مترو می‌روم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_368_es",
+    "word": "taxi",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "taxi, cab",
+      "de": "Taxi",
+      "ar": "تاكسي",
+      "fr": "taxi",
+      "it": "taxi",
+      "ru": "такси",
+      "es": "taxi",
+      "pl": "taksówka",
+      "fa": "تاکسی"
+    },
+    "explanations": {
+      "en": "Noun referring to a hired car for transportation",
+      "de": "Substantiv für ein gemietetes Auto für Transport",
+      "ar": "اسم يشير إلى سيارة مستأجرة للنقل",
+      "fr": "Nom désignant une voiture louée pour le transport",
+      "it": "Nome che si riferisce a un'auto a noleggio per il trasporto",
+      "ru": "Существительное, обозначающее арендованный автомобиль для перевозки",
+      "es": "Sustantivo que se refiere a un automóvil de alquiler para transporte",
+      "pl": "Rzeczownik odnoszący się do wynajętego samochodu do transportu",
+      "fa": "اسمی که به خودروی اجاره‌ای برای حمل و نقل اشاره دارد"
+    },
+    "examples": {
+      "en": ["I call a taxi", "The taxi is here", "I take a cab"],
+      "de": ["Ich rufe ein Taxi", "Das Taxi ist hier", "Ich nehme ein Taxi"],
+      "ar": ["أستدعي تاكسي", "التاكسي هنا", "آخذ تاكسي"],
+      "fr": ["J'appelle un taxi", "Le taxi est ici", "Je prends un taxi"],
+      "it": ["Chiamo un taxi", "Il taxi è qui", "Prendo un taxi"],
+      "ru": ["Я вызываю такси", "Такси здесь", "Я беру такси"],
+      "es": ["Llamo un taxi", "El taxi está aquí", "Tomo un taxi"],
+      "pl": ["Wołam taksówkę", "Taksówka jest tutaj", "Biorę taksówkę"],
+      "fa": ["تاکسی می‌گیرم", "تاکسی اینجاست", "با تاکسی می‌روم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_369_es",
+    "word": "parada",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "stop, bus stop",
+      "de": "Haltestelle",
+      "ar": "محطة، موقف",
+      "fr": "arrêt",
+      "it": "fermata",
+      "ru": "остановка",
+      "es": "parada",
+      "pl": "przystanek",
+      "fa": "ایستگاه"
+    },
+    "explanations": {
+      "en": "Noun referring to a place where vehicles stop to pick up passengers",
+      "de": "Substantiv für einen Ort, an dem Fahrzeuge halten, um Passagiere aufzunehmen",
+      "ar": "اسم يشير إلى مكان تتوقف فيه المركبات لاستقبال الركاب",
+      "fr": "Nom désignant un lieu où les véhicules s'arrêtent pour prendre des passagers",
+      "it": "Nome che si riferisce a un luogo dove i veicoli si fermano per prendere passeggeri",
+      "ru": "Существительное, обозначающее место, где транспорт останавливается для посадки пассажиров",
+      "es": "Sustantivo que se refiere a un lugar donde los vehículos se detienen para recoger pasajeros",
+      "pl": "Rzeczownik odnoszący się do miejsca, gdzie pojazdy zatrzymują się, aby zabrać pasażerów",
+      "fa": "اسمی که به مکانی که وسایل نقلیه برای سوار کردن مسافران توقف می‌کنند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I wait at stop", "The bus stop here", "Where is the stop?"],
+      "de": ["Ich warte an Haltestelle", "Der Bus hält hier", "Wo ist die Haltestelle?"],
+      "ar": ["أنتظر في الموقف", "الحافلة تتوقف هنا", "أين المحطة؟"],
+      "fr": ["J'attends à l'arrêt", "Le bus s'arrête ici", "Où est l'arrêt?"],
+      "it": ["Aspetto alla fermata", "L'autobus ferma qui", "Dov'è la fermata?"],
+      "ru": ["Я жду на остановке", "Автобус останавливается здесь", "Где остановка?"],
+      "es": ["Espero en la parada", "El autobús para aquí", "¿Dónde está la parada?"],
+      "pl": ["Czekam na przystanku", "Autobus zatrzymuje się tutaj", "Gdzie jest przystanek?"],
+      "fa": ["در ایستگاه منتظرم", "اتوبوس اینجا می‌ایستد", "ایستگاه کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_370_es",
+    "word": "billete",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "ticket",
+      "de": "Fahrkarte, Ticket",
+      "ar": "تذكرة",
+      "fr": "billet, ticket",
+      "it": "biglietto",
+      "ru": "билет",
+      "es": "billete",
+      "pl": "bilet",
+      "fa": "بلیط"
+    },
+    "explanations": {
+      "en": "Noun referring to a document allowing travel or entry",
+      "de": "Substantiv für ein Dokument, das Reisen oder Eintritt ermöglicht",
+      "ar": "اسم يشير إلى وثيقة تسمح بالسفر أو الدخول",
+      "fr": "Nom désignant un document permettant le voyage ou l'entrée",
+      "it": "Nome che si riferisce a un documento che permette il viaggio o l'ingresso",
+      "ru": "Существительное, обозначающее документ, разрешающий поездку или вход",
+      "es": "Sustantivo que se refiere a un documento que permite el viaje o la entrada",
+      "pl": "Rzeczownik odnoszący się do dokumentu umożliwiającego podróż lub wejście",
+      "fa": "اسمی که به سندی که سفر یا ورود را مجاز می‌کند اشاره دارد"
+    },
+    "examples": {
+      "en": ["I buy a ticket", "My ticket is here", "I need the ticket"],
+      "de": ["Ich kaufe eine Fahrkarte", "Meine Fahrkarte ist hier", "Ich brauche die Fahrkarte"],
+      "ar": ["أشتري تذكرة", "تذكرتي هنا", "أحتاج إلى التذكرة"],
+      "fr": ["J'achète un billet", "Mon billet est ici", "J'ai besoin du billet"],
+      "it": ["Compro un biglietto", "Il mio biglietto è qui", "Ho bisogno del biglietto"],
+      "ru": ["Я покупаю билет", "Мой билет здесь", "Мне нужен билет"],
+      "es": ["Compro un billete", "Mi billete está aquí", "Necesito el billete"],
+      "pl": ["Kupuję bilet", "Mój bilet jest tutaj", "Potrzebuję biletu"],
+      "fa": ["بلیط می‌خرم", "بلیط من اینجاست", "به بلیط نیاز دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_371_es",
+    "word": "viaje",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "trip, journey",
+      "de": "Reise",
+      "ar": "رحلة",
+      "fr": "voyage",
+      "it": "viaggio",
+      "ru": "путешествие, поездка",
+      "es": "viaje",
+      "pl": "podróż",
+      "fa": "سفر"
+    },
+    "explanations": {
+      "en": "Noun referring to an act of traveling from one place to another",
+      "de": "Substantiv für den Akt des Reisens von einem Ort zum anderen",
+      "ar": "اسم يشير إلى عمل السفر من مكان إلى آخر",
+      "fr": "Nom désignant l'acte de voyager d'un endroit à un autre",
+      "it": "Nome che si riferisce all'atto di viaggiare da un luogo a un altro",
+      "ru": "Существительное, обозначающее акт путешествия из одного места в другое",
+      "es": "Sustantivo que se refiere al acto de viajar de un lugar a otro",
+      "pl": "Rzeczownik odnoszący się do aktu podróżowania z jednego miejsca do drugiego",
+      "fa": "اسمی که به عمل سفر کردن از یک مکان به مکان دیگر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I love to travel", "My trip is nice", "Good journey to you"],
+      "de": ["Ich liebe es zu reisen", "Meine Reise ist schön", "Gute Reise"],
+      "ar": ["أحب السفر", "رحلتي جميلة", "رحلة سعيدة لك"],
+      "fr": ["J'adore voyager", "Mon voyage est agréable", "Bon voyage"],
+      "it": ["Amo viaggiare", "Il mio viaggio è bello", "Buon viaggio"],
+      "ru": ["Я люблю путешествовать", "Моя поездка приятная", "Счастливого пути"],
+      "es": ["Me encanta viajar", "Mi viaje es bonito", "Buen viaje"],
+      "pl": ["Uwielbiam podróżować", "Moja podróż jest miła", "Szczęśliwej podróży"],
+      "fa": ["دوست دارم سفر کنم", "سفرم خوب است", "سفر خوبی داشته باشی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_372_es",
+    "word": "maleta",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "suitcase, luggage",
+      "de": "Koffer",
+      "ar": "حقيبة سفر",
+      "fr": "valise",
+      "it": "valigia",
+      "ru": "чемодан",
+      "es": "maleta",
+      "pl": "walizka",
+      "fa": "چمدان"
+    },
+    "explanations": {
+      "en": "Noun referring to a case for carrying clothes when traveling",
+      "de": "Substantiv für einen Koffer zum Tragen von Kleidung auf Reisen",
+      "ar": "اسم يشير إلى حقيبة لحمل الملابس عند السفر",
+      "fr": "Nom désignant une valise pour transporter des vêtements en voyage",
+      "it": "Nome che si riferisce a una valigia per trasportare vestiti durante il viaggio",
+      "ru": "Существительное, обозначающее чемодан для перевозки одежды во время путешествия",
+      "es": "Sustantivo que se refiere a una maleta para llevar ropa al viajar",
+      "pl": "Rzeczownik odnoszący się do walizki do noszenia ubrań podczas podróży",
+      "fa": "اسمی که به چمدان برای حمل لباس هنگام سفر اشاره دارد"
+    },
+    "examples": {
+      "en": ["I pack my suitcase", "My luggage is heavy", "Where is my suitcase?"],
+      "de": ["Ich packe meinen Koffer", "Mein Gepäck ist schwer", "Wo ist mein Koffer?"],
+      "ar": ["أحزم حقيبتي", "أمتعتي ثقيلة", "أين حقيبتي؟"],
+      "fr": ["Je fais ma valise", "Mes bagages sont lourds", "Où est ma valise?"],
+      "it": ["Faccio la valigia", "Il mio bagaglio è pesante", "Dov'è la mia valigia?"],
+      "ru": ["Я пакую чемодан", "Мой багаж тяжёлый", "Где мой чемодан?"],
+      "es": ["Hago mi maleta", "Mi equipaje es pesado", "¿Dónde está mi maleta?"],
+      "pl": ["Pakuję walizkę", "Mój bagaż jest ciężki", "Gdzie jest moja walizka?"],
+      "fa": ["چمدانم را جمع می‌کنم", "چمدانم سنگین است", "چمدانم کجاست؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_373_es",
+    "word": "sol",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sun",
+      "de": "Sonne",
+      "ar": "شمس",
+      "fr": "soleil",
+      "it": "sole",
+      "ru": "солнце",
+      "es": "sol",
+      "pl": "słońce",
+      "fa": "خورشید"
+    },
+    "explanations": {
+      "en": "Noun referring to the star that provides light and heat to Earth",
+      "de": "Substantiv für den Stern, der der Erde Licht und Wärme gibt",
+      "ar": "اسم يشير إلى النجم الذي يوفر الضوء والحرارة للأرض",
+      "fr": "Nom désignant l'étoile qui fournit lumière et chaleur à la Terre",
+      "it": "Nome che si riferisce alla stella che fornisce luce e calore alla Terra",
+      "ru": "Существительное, обозначающее звезду, которая дает Земле свет и тепло",
+      "es": "Sustantivo que se refiere a la estrella que proporciona luz y calor a la Tierra",
+      "pl": "Rzeczownik odnoszący się do gwiazdy, która dostarcza światło i ciepło Ziemi",
+      "fa": "اسمی که به ستاره‌ای که نور و گرما به زمین می‌دهد اشاره دارد"
+    },
+    "examples": {
+      "en": ["The sun is bright", "I see the sun", "The sun rises early"],
+      "de": ["Die Sonne ist hell", "Ich sehe die Sonne", "Die Sonne geht früh auf"],
+      "ar": ["الشمس ساطعة", "أرى الشمس", "الشمس تشرق مبكراً"],
+      "fr": ["Le soleil est brillant", "Je vois le soleil", "Le soleil se lève tôt"],
+      "it": ["Il sole è luminoso", "Vedo il sole", "Il sole sorge presto"],
+      "ru": ["Солнце яркое", "Я вижу солнце", "Солнце встаёт рано"],
+      "es": ["El sol es brillante", "Veo el sol", "El sol sale temprano"],
+      "pl": ["Słońce jest jasne", "Widzę słońce", "Słońce wschodzi wcześnie"],
+      "fa": ["خورشید درخشان است", "خورشید را می‌بینم", "خورشید زود طلوع می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_374_es",
+    "word": "luna",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "moon",
+      "de": "Mond",
+      "ar": "قمر",
+      "fr": "lune",
+      "it": "luna",
+      "ru": "луна",
+      "es": "luna",
+      "pl": "księżyc",
+      "fa": "ماه"
+    },
+    "explanations": {
+      "en": "Noun referring to Earth's natural satellite visible at night",
+      "de": "Substantiv für den natürlichen Satelliten der Erde, der nachts sichtbar ist",
+      "ar": "اسم يشير إلى القمر الصناعي الطبيعي للأرض المرئي ليلاً",
+      "fr": "Nom désignant le satellite naturel de la Terre visible la nuit",
+      "it": "Nome che si riferisce al satellite naturale della Terra visibile di notte",
+      "ru": "Существительное, обозначающее естественный спутник Земли, видимый ночью",
+      "es": "Sustantivo que se refiere al satélite natural de la Tierra visible de noche",
+      "pl": "Rzeczownik odnoszący się do naturalnego satelity Ziemi widocznego w nocy",
+      "fa": "اسمی که به ماهواره طبیعی زمین که شب دیده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["The moon is full", "I see the moon", "The moon shines tonight"],
+      "de": ["Der Mond ist voll", "Ich sehe den Mond", "Der Mond scheint heute"],
+      "ar": ["القمر مكتمل", "أرى القمر", "القمر يضيء الليلة"],
+      "fr": ["La lune est pleine", "Je vois la lune", "La lune brille ce soir"],
+      "it": ["La luna è piena", "Vedo la luna", "La luna brilla stasera"],
+      "ru": ["Луна полная", "Я вижу луну", "Луна светит сегодня"],
+      "es": ["La luna está llena", "Veo la luna", "La luna brilla hoy"],
+      "pl": ["Księżyc jest pełny", "Widzę księżyc", "Księżyc świeci dziś"],
+      "fa": ["ماه کامل است", "ماه را می‌بینم", "امشب ماه می‌درخشد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_375_es",
+    "word": "estrella",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "star",
+      "de": "Stern",
+      "ar": "نجمة",
+      "fr": "étoile",
+      "it": "stella",
+      "ru": "звезда",
+      "es": "estrella",
+      "pl": "gwiazda",
+      "fa": "ستاره"
+    },
+    "explanations": {
+      "en": "Noun referring to a luminous celestial body visible in the night sky",
+      "de": "Substantiv für einen leuchtenden Himmelskörper, der am Nachthimmel sichtbar ist",
+      "ar": "اسم يشير إلى جسم سماوي مضيء مرئي في سماء الليل",
+      "fr": "Nom désignant un corps céleste lumineux visible dans le ciel nocturne",
+      "it": "Nome che si riferisce a un corpo celeste luminoso visibile nel cielo notturno",
+      "ru": "Существительное, обозначающее светящееся небесное тело, видимое в ночном небе",
+      "es": "Sustantivo que se refiere a un cuerpo celeste luminoso visible en el cielo nocturno",
+      "pl": "Rzeczownik odnoszący się do świecącego ciała niebieskiego widocznego na nocnym niebie",
+      "fa": "اسمی که به جسم آسمانی درخشان که در آسمان شب دیده می‌شود اشاره دارد"
+    },
+    "examples": {
+      "en": ["I see the stars", "The stars are bright", "A star shines tonight"],
+      "de": ["Ich sehe die Sterne", "Die Sterne sind hell", "Ein Stern leuchtet heute"],
+      "ar": ["أرى النجوم", "النجوم ساطعة", "نجمة تضيء الليلة"],
+      "fr": ["Je vois les étoiles", "Les étoiles sont brillantes", "Une étoile brille ce soir"],
+      "it": ["Vedo le stelle", "Le stelle sono luminose", "Una stella brilla stasera"],
+      "ru": ["Я вижу звёзды", "Звёзды яркие", "Звезда светит сегодня"],
+      "es": ["Veo las estrellas", "Las estrellas son brillantes", "Una estrella brilla hoy"],
+      "pl": ["Widzę gwiazdy", "Gwiazdy są jasne", "Gwiazda świeci dziś"],
+      "fa": ["ستاره‌ها را می‌بینم", "ستاره‌ها درخشان هستند", "امشب ستاره می‌درخشد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_376_es",
+    "word": "cielo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sky, heaven",
+      "de": "Himmel",
+      "ar": "سماء",
+      "fr": "ciel",
+      "it": "cielo",
+      "ru": "небо",
+      "es": "cielo",
+      "pl": "niebo",
+      "fa": "آسمان"
+    },
+    "explanations": {
+      "en": "Noun referring to the space above Earth where clouds and celestial bodies appear",
+      "de": "Substantiv für den Raum über der Erde, wo Wolken und Himmelskörper erscheinen",
+      "ar": "اسم يشير إلى الفضاء فوق الأرض حيث تظهر الغيوم والأجرام السماوية",
+      "fr": "Nom désignant l'espace au-dessus de la Terre où apparaissent nuages et corps célestes",
+      "it": "Nome che si riferisce allo spazio sopra la Terra dove appaiono nuvole e corpi celesti",
+      "ru": "Существительное, обозначающее пространство над Землёй, где появляются облака и небесные тела",
+      "es": "Sustantivo que se refiere al espacio sobre la Tierra donde aparecen nubes y cuerpos celestes",
+      "pl": "Rzeczownik odnoszący się do przestrzeni nad Ziemią, gdzie pojawiają się chmury i ciała niebieskie",
+      "fa": "اسمی که به فضای بالای زمین که ابرها و اجرام آسمانی در آن ظاهر می‌شوند اشاره دارد"
+    },
+    "examples": {
+      "en": ["The sky is blue", "I look at sky", "The sky is clear"],
+      "de": ["Der Himmel ist blau", "Ich schaue zum Himmel", "Der Himmel ist klar"],
+      "ar": ["السماء زرقاء", "أنظر إلى السماء", "السماء صافية"],
+      "fr": ["Le ciel est bleu", "Je regarde le ciel", "Le ciel est dégagé"],
+      "it": ["Il cielo è blu", "Guardo il cielo", "Il cielo è sereno"],
+      "ru": ["Небо голубое", "Я смотрю на небо", "Небо ясное"],
+      "es": ["El cielo es azul", "Miro al cielo", "El cielo está despejado"],
+      "pl": ["Niebo jest niebieskie", "Patrzę na niebo", "Niebo jest czyste"],
+      "fa": ["آسمان آبی است", "به آسمان نگاه می‌کنم", "آسمان صاف است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_377_es",
+    "word": "nube",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cloud",
+      "de": "Wolke",
+      "ar": "غيمة، سحابة",
+      "fr": "nuage",
+      "it": "nuvola",
+      "ru": "облако",
+      "es": "nube",
+      "pl": "chmura",
+      "fa": "ابر"
+    },
+    "explanations": {
+      "en": "Noun referring to a visible mass of water droplets in the sky",
+      "de": "Substantiv für eine sichtbare Masse von Wassertropfen am Himmel",
+      "ar": "اسم يشير إلى كتلة مرئية من قطرات الماء في السماء",
+      "fr": "Nom désignant une masse visible de gouttelettes d'eau dans le ciel",
+      "it": "Nome che si riferisce a una massa visibile di goccioline d'acqua nel cielo",
+      "ru": "Существительное, обозначающее видимую массу водяных капель в небе",
+      "es": "Sustantivo que se refiere a una masa visible de gotas de agua en el cielo",
+      "pl": "Rzeczownik odnoszący się do widocznej masy kropelek wody na niebie",
+      "fa": "اسمی که به توده قابل مشاهده از قطرات آب در آسمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["I see white clouds", "The clouds are gray", "There are many clouds"],
+      "de": ["Ich sehe weiße Wolken", "Die Wolken sind grau", "Es gibt viele Wolken"],
+      "ar": ["أرى غيوماً بيضاء", "الغيوم رمادية", "هناك غيوم كثيرة"],
+      "fr": ["Je vois des nuages blancs", "Les nuages sont gris", "Il y a beaucoup nuages"],
+      "it": ["Vedo nuvole bianche", "Le nuvole sono grigie", "Ci sono molte nuvole"],
+      "ru": ["Я вижу белые облака", "Облака серые", "Много облаков"],
+      "es": ["Veo nubes blancas", "Las nubes son grises", "Hay muchas nubes"],
+      "pl": ["Widzę białe chmury", "Chmury są szare", "Jest wiele chmur"],
+      "fa": ["ابرهای سفید می‌بینم", "ابرها خاکستری هستند", "ابرهای زیادی هست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_378_es",
+    "word": "lluvia",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "rain",
+      "de": "Regen",
+      "ar": "مطر",
+      "fr": "pluie",
+      "it": "pioggia",
+      "ru": "дождь",
+      "es": "lluvia",
+      "pl": "deszcz",
+      "fa": "باران"
+    },
+    "explanations": {
+      "en": "Noun referring to water falling from clouds in drops",
+      "de": "Substantiv für Wasser, das in Tropfen aus Wolken fällt",
+      "ar": "اسم يشير إلى الماء الذي يسقط من الغيوم على شكل قطرات",
+      "fr": "Nom désignant l'eau tombant des nuages en gouttes",
+      "it": "Nome che si riferisce all'acqua che cade dalle nuvole in gocce",
+      "ru": "Существительное, обозначающее воду, падающую из облаков каплями",
+      "es": "Sustantivo que se refiere al agua que cae de las nubes en gotas",
+      "pl": "Rzeczownik odnoszący się do wody spadającej z chmur w kroplach",
+      "fa": "اسمی که به آبی که از ابرها به صورت قطره می‌ریزد اشاره دارد"
+    },
+    "examples": {
+      "en": ["I like the rain", "The rain is heavy", "It rains a lot"],
+      "de": ["Ich mag den Regen", "Der Regen ist stark", "Es regnet viel"],
+      "ar": ["أحب المطر", "المطر غزير", "تمطر كثيراً"],
+      "fr": ["J'aime la pluie", "La pluie est forte", "Il pleut beaucoup"],
+      "it": ["Mi piace la pioggia", "La pioggia è forte", "Piove molto"],
+      "ru": ["Мне нравится дождь", "Дождь сильный", "Дождь идёт много"],
+      "es": ["Me gusta la lluvia", "La lluvia es fuerte", "Llueve mucho"],
+      "pl": ["Lubię deszcz", "Deszcz jest silny", "Pada dużo"],
+      "fa": ["باران را دوست دارم", "باران شدید است", "زیاد باران می‌بارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_379_es",
+    "word": "nieve",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "snow",
+      "de": "Schnee",
+      "ar": "ثلج",
+      "fr": "neige",
+      "it": "neve",
+      "ru": "снег",
+      "es": "nieve",
+      "pl": "śnieg",
+      "fa": "برف"
+    },
+    "explanations": {
+      "en": "Noun referring to frozen water falling as white flakes",
+      "de": "Substantiv für gefrorenes Wasser, das als weiße Flocken fällt",
+      "ar": "اسم يشير إلى الماء المتجمد الذي يسقط على شكل رقاقات بيضاء",
+      "fr": "Nom désignant l'eau gelée tombant en flocons blancs",
+      "it": "Nome che si riferisce all'acqua congelata che cade come fiocchi bianchi",
+      "ru": "Существительное, обозначающее замороженную воду, падающую белыми хлопьями",
+      "es": "Sustantivo que se refiere al agua congelada que cae como copos blancos",
+      "pl": "Rzeczownik odnoszący się do zamrożonej wody spadającej jako białe płatki",
+      "fa": "اسمی که به آب یخ زده که به صورت دانه‌های سفید می‌بارد اشاره دارد"
+    },
+    "examples": {
+      "en": ["I love the snow", "The snow is white", "It snows in winter"],
+      "de": ["Ich liebe den Schnee", "Der Schnee ist weiß", "Es schneit im Winter"],
+      "ar": ["أحب الثلج", "الثلج أبيض", "تثلج في الشتاء"],
+      "fr": ["J'adore la neige", "La neige est blanche", "Il neige en hiver"],
+      "it": ["Amo la neve", "La neve è bianca", "Nevica in inverno"],
+      "ru": ["Я люблю снег", "Снег белый", "Зимой идёт снег"],
+      "es": ["Me encanta la nieve", "La nieve es blanca", "Nieva en invierno"],
+      "pl": ["Uwielbiam śnieg", "Śnieg jest biały", "Pada śnieg zimą"],
+      "fa": ["برف را دوست دارم", "برف سفید است", "زمستان برف می‌بارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_380_es",
+    "word": "viento",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "wind",
+      "de": "Wind",
+      "ar": "ريح",
+      "fr": "vent",
+      "it": "vento",
+      "ru": "ветер",
+      "es": "viento",
+      "pl": "wiatr",
+      "fa": "باد"
+    },
+    "explanations": {
+      "en": "Noun referring to moving air, especially a natural current",
+      "de": "Substantiv für bewegte Luft, insbesondere eine natürliche Strömung",
+      "ar": "اسم يشير إلى الهواء المتحرك، وخاصة التيار الطبيعي",
+      "fr": "Nom désignant l'air en mouvement, en particulier un courant naturel",
+      "it": "Nome che si riferisce all'aria in movimento, specialmente una corrente naturale",
+      "ru": "Существительное, обозначающее движущийся воздух, особенно естественный поток",
+      "es": "Sustantivo que se refiere al aire en movimiento, especialmente una corriente natural",
+      "pl": "Rzeczownik odnoszący się do poruszającego się powietrza, szczególnie naturalnego prądu",
+      "fa": "اسمی که به هوای در حال حرکت، به خصوص جریان طبیعی اشاره دارد"
+    },
+    "examples": {
+      "en": ["The wind is strong", "I feel the wind", "Wind blows hard today"],
+      "de": ["Der Wind ist stark", "Ich spüre den Wind", "Wind weht heute stark"],
+      "ar": ["الريح قوية", "أشعر بالريح", "الريح تهب بقوة اليوم"],
+      "fr": ["Le vent est fort", "Je sens le vent", "Le vent souffle fort aujourd'hui"],
+      "it": ["Il vento è forte", "Sento il vento", "Il vento soffia forte oggi"],
+      "ru": ["Ветер сильный", "Я чувствую ветер", "Сегодня дует сильный ветер"],
+      "es": ["El viento es fuerte", "Siento el viento", "El viento sopla fuerte"],
+      "pl": ["Wiatr jest silny", "Czuję wiatr", "Wiatr wieje mocno dziś"],
+      "fa": ["باد قوی است", "باد را احساس می‌کنم", "امروز باد شدید می‌وزد"]
+    },
+    "conjugations": null
+  }
+]

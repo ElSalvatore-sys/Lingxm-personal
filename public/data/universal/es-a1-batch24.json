@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_461_es",
+    "word": "cabeza",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "head",
+      "de": "Kopf",
+      "ar": "رأس",
+      "fr": "tête",
+      "it": "testa",
+      "ru": "голова",
+      "es": "cabeza",
+      "pl": "głowa",
+      "fa": "سر"
+    },
+    "explanations": {
+      "en": "The upper part of the body that contains the brain, eyes, ears, nose, and mouth",
+      "de": "Der obere Teil des Körpers, der Gehirn, Augen, Ohren, Nase und Mund enthält",
+      "ar": "الجزء العلوي من الجسم الذي يحتوي على الدماغ والعينين والأذنين والأنف والفم",
+      "fr": "La partie supérieure du corps qui contient le cerveau, les yeux, les oreilles, le nez et la bouche",
+      "it": "La parte superiore del corpo che contiene il cervello, gli occhi, le orecchie, il naso e la bocca",
+      "ru": "Верхняя часть тела, содержащая мозг, глаза, уши, нос и рот",
+      "es": "La parte superior del cuerpo que contiene el cerebro, ojos, oídos, nariz y boca",
+      "pl": "Górna część ciała zawierająca mózg, oczy, uszy, nos i usta",
+      "fa": "بخش بالایی بدن که حاوی مغز، چشم‌ها، گوش‌ها، بینی و دهان است"
+    },
+    "examples": {
+      "en": ["My head", "Head hurts", "Shake head"],
+      "de": ["Mein Kopf", "Kopf tut weh", "Kopf schütteln"],
+      "ar": ["رأسي", "رأس يؤلم", "هز الرأس"],
+      "fr": ["Ma tête", "Tête fait mal", "Secouer la tête"],
+      "it": ["La mia testa", "Testa fa male", "Scuotere la testa"],
+      "ru": ["Моя голова", "Голова болит", "Качать головой"],
+      "es": ["Mi cabeza", "Cabeza duele", "Mover la cabeza"],
+      "pl": ["Moja głowa", "Głowa boli", "Potrząsnąć głową"],
+      "fa": ["سر من", "سر درد می‌کند", "سر تکان دادن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_462_es",
+    "word": "cara",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "face",
+      "de": "Gesicht",
+      "ar": "وجه",
+      "fr": "visage",
+      "it": "viso",
+      "ru": "лицо",
+      "es": "cara",
+      "pl": "twarz",
+      "fa": "صورت"
+    },
+    "explanations": {
+      "en": "The front part of the head from the forehead to the chin",
+      "de": "Der vordere Teil des Kopfes von der Stirn bis zum Kinn",
+      "ar": "الجزء الأمامي من الرأس من الجبهة إلى الذقن",
+      "fr": "La partie avant de la tête du front au menton",
+      "it": "La parte anteriore della testa dalla fronte al mento",
+      "ru": "Передняя часть головы от лба до подбородка",
+      "es": "La parte frontal de la cabeza desde la frente hasta la barbilla",
+      "pl": "Przednia część głowy od czoła do brody",
+      "fa": "بخش جلویی سر از پیشانی تا چانه"
+    },
+    "examples": {
+      "en": ["Beautiful face", "Wash face", "Happy face"],
+      "de": ["Schönes Gesicht", "Gesicht waschen", "Glückliches Gesicht"],
+      "ar": ["وجه جميل", "غسل الوجه", "وجه سعيد"],
+      "fr": ["Beau visage", "Laver le visage", "Visage heureux"],
+      "it": ["Bel viso", "Lavare il viso", "Viso felice"],
+      "ru": ["Красивое лицо", "Умыть лицо", "Счастливое лицо"],
+      "es": ["Cara bonita", "Lavar la cara", "Cara feliz"],
+      "pl": ["Piękna twarz", "Umyć twarz", "Szczęśliwa twarz"],
+      "fa": ["صورت زیبا", "شستن صورت", "صورت خوشحال"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_463_es",
+    "word": "ojo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "eye",
+      "de": "Auge",
+      "ar": "عين",
+      "fr": "œil",
+      "it": "occhio",
+      "ru": "глаз",
+      "es": "ojo",
+      "pl": "oko",
+      "fa": "چشم"
+    },
+    "explanations": {
+      "en": "The organ of sight, one of a pair located in the face",
+      "de": "Das Sehorgan, eines von einem Paar im Gesicht",
+      "ar": "عضو البصر، واحد من زوج يقع في الوجه",
+      "fr": "L'organe de la vue, l'un d'une paire située sur le visage",
+      "it": "L'organo della vista, uno di una coppia situata nel viso",
+      "ru": "Орган зрения, один из пары, расположенных на лице",
+      "es": "El órgano de la vista, uno de un par ubicado en la cara",
+      "pl": "Narząd wzroku, jedno z pary umieszczonej na twarzy",
+      "fa": "عضو بینایی، یکی از جفت موجود در صورت"
+    },
+    "examples": {
+      "en": ["Blue eyes", "Close eyes", "Eye color"],
+      "de": ["Blaue Augen", "Augen schließen", "Augenfarbe"],
+      "ar": ["عيون زرقاء", "أغلق العيون", "لون العين"],
+      "fr": ["Yeux bleus", "Fermer les yeux", "Couleur des yeux"],
+      "it": ["Occhi blu", "Chiudere gli occhi", "Colore degli occhi"],
+      "ru": ["Голубые глаза", "Закрыть глаза", "Цвет глаз"],
+      "es": ["Ojos azules", "Cerrar los ojos", "Color de ojos"],
+      "pl": ["Niebieskie oczy", "Zamknąć oczy", "Kolor oczu"],
+      "fa": ["چشم‌های آبی", "چشم‌ها را بستن", "رنگ چشم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_464_es",
+    "word": "oreja",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "ear",
+      "de": "Ohr",
+      "ar": "أذن",
+      "fr": "oreille",
+      "it": "orecchio",
+      "ru": "ухо",
+      "es": "oreja",
+      "pl": "ucho",
+      "fa": "گوش"
+    },
+    "explanations": {
+      "en": "The organ of hearing, one of a pair on the sides of the head",
+      "de": "Das Hörorgan, eines von einem Paar an den Seiten des Kopfes",
+      "ar": "عضو السمع، واحد من زوج على جانبي الرأس",
+      "fr": "L'organe de l'ouïe, l'un d'une paire sur les côtés de la tête",
+      "it": "L'organo dell'udito, uno di una coppia sui lati della testa",
+      "ru": "Орган слуха, один из пары по бокам головы",
+      "es": "El órgano de la audición, uno de un par a los lados de la cabeza",
+      "pl": "Narząd słuchu, jedno z pary po bokach głowy",
+      "fa": "عضو شنوایی، یکی از جفت در طرفین سر"
+    },
+    "examples": {
+      "en": ["Big ears", "Listen with ears", "Ear hurts"],
+      "de": ["Große Ohren", "Mit Ohren hören", "Ohr tut weh"],
+      "ar": ["أذنان كبيرتان", "استمع بالأذنين", "الأذن تؤلم"],
+      "fr": ["Grandes oreilles", "Écouter avec les oreilles", "Oreille fait mal"],
+      "it": ["Orecchie grandi", "Ascoltare con le orecchie", "Orecchio fa male"],
+      "ru": ["Большие уши", "Слушать ушами", "Ухо болит"],
+      "es": ["Orejas grandes", "Escuchar con los oídos", "Oreja duele"],
+      "pl": ["Duże uszy", "Słuchać uszami", "Ucho boli"],
+      "fa": ["گوش‌های بزرگ", "با گوش‌ها گوش دادن", "گوش درد می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_465_es",
+    "word": "nariz",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nose",
+      "de": "Nase",
+      "ar": "أنف",
+      "fr": "nez",
+      "it": "naso",
+      "ru": "нос",
+      "es": "nariz",
+      "pl": "nos",
+      "fa": "بینی"
+    },
+    "explanations": {
+      "en": "The organ of smell, located above the mouth in the center of the face",
+      "de": "Das Geruchsorgan, über dem Mund in der Mitte des Gesichts gelegen",
+      "ar": "عضو الشم، يقع فوق الفم في وسط الوجه",
+      "fr": "L'organe de l'odorat, situé au-dessus de la bouche au centre du visage",
+      "it": "L'organo dell'olfatto, situato sopra la bocca al centro del viso",
+      "ru": "Орган обоняния, расположенный над ртом в центре лица",
+      "es": "El órgano del olfato, ubicado sobre la boca en el centro de la cara",
+      "pl": "Narząd węchu, umieszczony nad ustami w centrum twarzy",
+      "fa": "عضو بویایی، در بالای دهان در مرکز صورت قرار دارد"
+    },
+    "examples": {
+      "en": ["Small nose", "Blow nose", "Smell with nose"],
+      "de": ["Kleine Nase", "Nase putzen", "Mit Nase riechen"],
+      "ar": ["أنف صغير", "امسح الأنف", "شم بالأنف"],
+      "fr": ["Petit nez", "Se moucher", "Sentir avec le nez"],
+      "it": ["Naso piccolo", "Soffiarsi il naso", "Odorare col naso"],
+      "ru": ["Маленький нос", "Высморкаться", "Нюхать носом"],
+      "es": ["Nariz pequeña", "Sonarse la nariz", "Oler con la nariz"],
+      "pl": ["Mały nos", "Wydmuchać nos", "Wąchać nosem"],
+      "fa": ["بینی کوچک", "دمیدن بینی", "با بینی بو کردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_466_es",
+    "word": "boca",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "mouth",
+      "de": "Mund",
+      "ar": "فم",
+      "fr": "bouche",
+      "it": "bocca",
+      "ru": "рот",
+      "es": "boca",
+      "pl": "usta",
+      "fa": "دهان"
+    },
+    "explanations": {
+      "en": "The opening in the face used for eating, speaking, and breathing",
+      "de": "Die Öffnung im Gesicht zum Essen, Sprechen und Atmen",
+      "ar": "الفتحة في الوجه المستخدمة للأكل والتحدث والتنفس",
+      "fr": "L'ouverture du visage utilisée pour manger, parler et respirer",
+      "it": "L'apertura nel viso usata per mangiare, parlare e respirare",
+      "ru": "Отверстие в лице, используемое для еды, речи и дыхания",
+      "es": "La abertura en la cara usada para comer, hablar y respirar",
+      "pl": "Otwór w twarzy używany do jedzenia, mówienia i oddychania",
+      "fa": "سوراخی در صورت که برای خوردن، صحبت کردن و تنفس استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["Open mouth", "Close mouth", "Big mouth"],
+      "de": ["Mund öffnen", "Mund schließen", "Großer Mund"],
+      "ar": ["افتح الفم", "أغلق الفم", "فم كبير"],
+      "fr": ["Ouvrir la bouche", "Fermer la bouche", "Grande bouche"],
+      "it": ["Aprire la bocca", "Chiudere la bocca", "Bocca grande"],
+      "ru": ["Открыть рот", "Закрыть рот", "Большой рот"],
+      "es": ["Abrir la boca", "Cerrar la boca", "Boca grande"],
+      "pl": ["Otworzyć usta", "Zamknąć usta", "Duże usta"],
+      "fa": ["دهان را باز کردن", "دهان را بستن", "دهان بزرگ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_467_es",
+    "word": "diente",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tooth",
+      "de": "Zahn",
+      "ar": "سن",
+      "fr": "dent",
+      "it": "dente",
+      "ru": "зуб",
+      "es": "diente",
+      "pl": "ząb",
+      "fa": "دندان"
+    },
+    "explanations": {
+      "en": "One of the hard white structures in the mouth used for biting and chewing",
+      "de": "Eine der harten weißen Strukturen im Mund zum Beißen und Kauen",
+      "ar": "واحد من البنى البيضاء الصلبة في الفم المستخدمة للعض والمضغ",
+      "fr": "Une des structures blanches dures dans la bouche utilisées pour mordre et mâcher",
+      "it": "Una delle strutture bianche dure nella bocca usate per mordere e masticare",
+      "ru": "Одна из твердых белых структур во рту, используемых для кусания и жевания",
+      "es": "Una de las estructuras blancas duras en la boca usadas para morder y masticar",
+      "pl": "Jedna z twardych białych struktur w ustach używanych do gryzienia i żucia",
+      "fa": "یکی از ساختارهای سفید سخت در دهان که برای گاز گرفتن و جویدن استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["White teeth", "Brush teeth", "Tooth hurts"],
+      "de": ["Weiße Zähne", "Zähne putzen", "Zahn tut weh"],
+      "ar": ["أسنان بيضاء", "نظف الأسنان", "السن يؤلم"],
+      "fr": ["Dents blanches", "Se brosser les dents", "Dent fait mal"],
+      "it": ["Denti bianchi", "Lavarsi i denti", "Dente fa male"],
+      "ru": ["Белые зубы", "Чистить зубы", "Зуб болит"],
+      "es": ["Dientes blancos", "Cepillar los dientes", "Diente duele"],
+      "pl": ["Białe zęby", "Myć zęby", "Ząb boli"],
+      "fa": ["دندان‌های سفید", "مسواک زدن", "دندان درد می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_468_es",
+    "word": "lengua",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tongue",
+      "de": "Zunge",
+      "ar": "لسان",
+      "fr": "langue",
+      "it": "lingua",
+      "ru": "язык",
+      "es": "lengua",
+      "pl": "język",
+      "fa": "زبان"
+    },
+    "explanations": {
+      "en": "The muscular organ in the mouth used for tasting, eating, and speaking",
+      "de": "Das muskulöse Organ im Mund zum Schmecken, Essen und Sprechen",
+      "ar": "العضو العضلي في الفم المستخدم للتذوق والأكل والتحدث",
+      "fr": "L'organe musculaire dans la bouche utilisé pour goûter, manger et parler",
+      "it": "L'organo muscolare nella bocca usato per gustare, mangiare e parlare",
+      "ru": "Мышечный орган во рту, используемый для вкуса, еды и речи",
+      "es": "El órgano muscular en la boca usado para saborear, comer y hablar",
+      "pl": "Mięśniowy narząd w ustach używany do smakowania, jedzenia i mówienia",
+      "fa": "عضو عضلانی در دهان که برای چشیدن، خوردن و صحبت کردن استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["Stick out tongue", "Taste with tongue", "Red tongue"],
+      "de": ["Zunge rausstrecken", "Mit Zunge schmecken", "Rote Zunge"],
+      "ar": ["أخرج اللسان", "تذوق باللسان", "لسان أحمر"],
+      "fr": ["Tirer la langue", "Goûter avec la langue", "Langue rouge"],
+      "it": ["Tirare fuori la lingua", "Gustare con la lingua", "Lingua rossa"],
+      "ru": ["Высунуть язык", "Попробовать языком", "Красный язык"],
+      "es": ["Sacar la lengua", "Saborear con la lengua", "Lengua roja"],
+      "pl": ["Wystawić język", "Smakować językiem", "Czerwony język"],
+      "fa": ["زبان را بیرون آوردن", "با زبان چشیدن", "زبان قرمز"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_469_es",
+    "word": "cuello",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "neck",
+      "de": "Hals",
+      "ar": "رقبة",
+      "fr": "cou",
+      "it": "collo",
+      "ru": "шея",
+      "es": "cuello",
+      "pl": "szyja",
+      "fa": "گردن"
+    },
+    "explanations": {
+      "en": "The part of the body connecting the head to the shoulders",
+      "de": "Der Teil des Körpers, der den Kopf mit den Schultern verbindet",
+      "ar": "الجزء من الجسم الذي يربط الرأس بالكتفين",
+      "fr": "La partie du corps reliant la tête aux épaules",
+      "it": "La parte del corpo che collega la testa alle spalle",
+      "ru": "Часть тела, соединяющая голову с плечами",
+      "es": "La parte del cuerpo que conecta la cabeza con los hombros",
+      "pl": "Część ciała łącząca głowę z ramionami",
+      "fa": "بخشی از بدن که سر را به شانه‌ها متصل می‌کند"
+    },
+    "examples": {
+      "en": ["Long neck", "Neck hurts", "Turn neck"],
+      "de": ["Langer Hals", "Hals tut weh", "Hals drehen"],
+      "ar": ["رقبة طويلة", "رقبة تؤلم", "أدر الرقبة"],
+      "fr": ["Long cou", "Cou fait mal", "Tourner le cou"],
+      "it": ["Collo lungo", "Collo fa male", "Girare il collo"],
+      "ru": ["Длинная шея", "Шея болит", "Повернуть шею"],
+      "es": ["Cuello largo", "Cuello duele", "Girar el cuello"],
+      "pl": ["Długa szyja", "Szyja boli", "Obrócić szyję"],
+      "fa": ["گردن بلند", "گردن درد می‌کند", "گردن را چرخاندن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_470_es",
+    "word": "hombro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "shoulder",
+      "de": "Schulter",
+      "ar": "كتف",
+      "fr": "épaule",
+      "it": "spalla",
+      "ru": "плечо",
+      "es": "hombro",
+      "pl": "ramię",
+      "fa": "شانه"
+    },
+    "explanations": {
+      "en": "The joint where the arm connects to the body",
+      "de": "Das Gelenk, wo der Arm mit dem Körper verbunden ist",
+      "ar": "المفصل حيث يتصل الذراع بالجسم",
+      "fr": "L'articulation où le bras se connecte au corps",
+      "it": "L'articolazione dove il braccio si collega al corpo",
+      "ru": "Сустав, где рука соединяется с телом",
+      "es": "La articulación donde el brazo se conecta al cuerpo",
+      "pl": "Staw, w którym ramię łączy się z ciałem",
+      "fa": "مفصلی که در آن بازو به بدن متصل می‌شود"
+    },
+    "examples": {
+      "en": ["Broad shoulders", "Shoulder pain", "Shrug shoulders"],
+      "de": ["Breite Schultern", "Schulterschmerzen", "Schultern zucken"],
+      "ar": ["أكتاف عريضة", "ألم الكتف", "هز الكتفين"],
+      "fr": ["Épaules larges", "Douleur à l'épaule", "Hausser les épaules"],
+      "it": ["Spalle larghe", "Dolore alla spalla", "Alzare le spalle"],
+      "ru": ["Широкие плечи", "Боль в плече", "Пожать плечами"],
+      "es": ["Hombros anchos", "Dolor de hombro", "Encogerse de hombros"],
+      "pl": ["Szerokie ramiona", "Ból ramienia", "Wzruszyć ramionami"],
+      "fa": ["شانه‌های پهن", "درد شانه", "شانه بالا انداختن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_471_es",
+    "word": "brazo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "arm",
+      "de": "Arm",
+      "ar": "ذراع",
+      "fr": "bras",
+      "it": "braccio",
+      "ru": "рука (от плеча)",
+      "es": "brazo",
+      "pl": "ramię",
+      "fa": "بازو"
+    },
+    "explanations": {
+      "en": "The upper limb of the body from the shoulder to the hand",
+      "de": "Das obere Glied des Körpers von der Schulter bis zur Hand",
+      "ar": "الطرف العلوي من الجسم من الكتف إلى اليد",
+      "fr": "Le membre supérieur du corps de l'épaule à la main",
+      "it": "L'arto superiore del corpo dalla spalla alla mano",
+      "ru": "Верхняя конечность тела от плеча до руки",
+      "es": "El miembro superior del cuerpo desde el hombro hasta la mano",
+      "pl": "Kończyna górna ciała od ramienia do dłoni",
+      "fa": "اندام فوقانی بدن از شانه تا دست"
+    },
+    "examples": {
+      "en": ["Strong arms", "Raise arm", "Left arm"],
+      "de": ["Starke Arme", "Arm heben", "Linker Arm"],
+      "ar": ["ذراعان قويان", "ارفع الذراع", "الذراع الأيسر"],
+      "fr": ["Bras forts", "Lever le bras", "Bras gauche"],
+      "it": ["Braccia forti", "Alzare il braccio", "Braccio sinistro"],
+      "ru": ["Сильные руки", "Поднять руку", "Левая рука"],
+      "es": ["Brazos fuertes", "Levantar el brazo", "Brazo izquierdo"],
+      "pl": ["Silne ramiona", "Podnieść ramię", "Lewe ramię"],
+      "fa": ["بازوهای قوی", "بازو را بلند کردن", "بازوی چپ"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_472_es",
+    "word": "mano",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hand",
+      "de": "Hand",
+      "ar": "يد",
+      "fr": "main",
+      "it": "mano",
+      "ru": "рука (кисть)",
+      "es": "mano",
+      "pl": "dłoń",
+      "fa": "دست"
+    },
+    "explanations": {
+      "en": "The end part of the arm with five fingers used for grasping",
+      "de": "Der Endteil des Arms mit fünf Fingern zum Greifen",
+      "ar": "الجزء النهائي من الذراع بخمسة أصابع تستخدم للإمساك",
+      "fr": "La partie terminale du bras avec cinq doigts utilisée pour saisir",
+      "it": "La parte finale del braccio con cinque dita usata per afferrare",
+      "ru": "Конечная часть руки с пятью пальцами, используемая для захвата",
+      "es": "La parte final del brazo con cinco dedos usada para agarrar",
+      "pl": "Końcowa część ramienia z pięcioma palcami używana do chwytania",
+      "fa": "بخش انتهایی بازو با پنج انگشت که برای گرفتن استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["Wash hands", "Right hand", "Hold hands"],
+      "de": ["Hände waschen", "Rechte Hand", "Hände halten"],
+      "ar": ["اغسل اليدين", "اليد اليمنى", "امسك الأيدي"],
+      "fr": ["Se laver les mains", "Main droite", "Se tenir la main"],
+      "it": ["Lavare le mani", "Mano destra", "Tenersi per mano"],
+      "ru": ["Мыть руки", "Правая рука", "Держаться за руки"],
+      "es": ["Lavar las manos", "Mano derecha", "Tomar las manos"],
+      "pl": ["Myć ręce", "Prawa ręka", "Trzymać się za ręce"],
+      "fa": ["دست‌ها را شستن", "دست راست", "دست در دست گرفتن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_473_es",
+    "word": "dedo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "finger, toe",
+      "de": "Finger, Zehe",
+      "ar": "إصبع",
+      "fr": "doigt, orteil",
+      "it": "dito",
+      "ru": "палец",
+      "es": "dedo",
+      "pl": "palec",
+      "fa": "انگشت"
+    },
+    "explanations": {
+      "en": "One of the five digits on a hand or foot",
+      "de": "Eine der fünf Ziffern an einer Hand oder einem Fuß",
+      "ar": "واحد من الأرقام الخمسة على اليد أو القدم",
+      "fr": "L'un des cinq doigts d'une main ou d'un pied",
+      "it": "Una delle cinque dita di una mano o piede",
+      "ru": "Один из пяти пальцев на руке или ноге",
+      "es": "Uno de los cinco dígitos en una mano o pie",
+      "pl": "Jeden z pięciu palców na dłoni lub stopie",
+      "fa": "یکی از پنج انگشت در دست یا پا"
+    },
+    "examples": {
+      "en": ["Five fingers", "Point finger", "Big toe"],
+      "de": ["Fünf Finger", "Finger zeigen", "Große Zehe"],
+      "ar": ["خمسة أصابع", "أشر بالإصبع", "إصبع القدم الكبير"],
+      "fr": ["Cinq doigts", "Pointer du doigt", "Gros orteil"],
+      "it": ["Cinque dita", "Indicare col dito", "Alluce"],
+      "ru": ["Пять пальцев", "Указать пальцем", "Большой палец ноги"],
+      "es": ["Cinco dedos", "Señalar con el dedo", "Dedo gordo"],
+      "pl": ["Pięć palców", "Wskazać palcem", "Duży palec u nogi"],
+      "fa": ["پنج انگشت", "با انگشت اشاره کردن", "انگشت شست پا"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_474_es",
+    "word": "pierna",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "leg",
+      "de": "Bein",
+      "ar": "ساق",
+      "fr": "jambe",
+      "it": "gamba",
+      "ru": "нога",
+      "es": "pierna",
+      "pl": "noga",
+      "fa": "پا"
+    },
+    "explanations": {
+      "en": "The lower limb of the body from the hip to the foot",
+      "de": "Das untere Glied des Körpers von der Hüfte bis zum Fuß",
+      "ar": "الطرف السفلي من الجسم من الورك إلى القدم",
+      "fr": "Le membre inférieur du corps de la hanche au pied",
+      "it": "L'arto inferiore del corpo dall'anca al piede",
+      "ru": "Нижняя конечность тела от бедра до стопы",
+      "es": "El miembro inferior del cuerpo desde la cadera hasta el pie",
+      "pl": "Kończyna dolna ciała od biodra do stopy",
+      "fa": "اندام تحتانی بدن از لگن تا پا"
+    },
+    "examples": {
+      "en": ["Long legs", "Cross legs", "Leg hurts"],
+      "de": ["Lange Beine", "Beine kreuzen", "Bein tut weh"],
+      "ar": ["ساقان طويلتان", "اعبر الساقين", "الساق تؤلم"],
+      "fr": ["Longues jambes", "Croiser les jambes", "Jambe fait mal"],
+      "it": ["Gambe lunghe", "Incrociare le gambe", "Gamba fa male"],
+      "ru": ["Длинные ноги", "Скрестить ноги", "Нога болит"],
+      "es": ["Piernas largas", "Cruzar las piernas", "Pierna duele"],
+      "pl": ["Długie nogi", "Skrzyżować nogi", "Noga boli"],
+      "fa": ["پاهای بلند", "پاها را روی هم گذاشتن", "پا درد می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_475_es",
+    "word": "pie",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "foot",
+      "de": "Fuß",
+      "ar": "قدم",
+      "fr": "pied",
+      "it": "piede",
+      "ru": "стопа",
+      "es": "pie",
+      "pl": "stopa",
+      "fa": "پا (کف پا)"
+    },
+    "explanations": {
+      "en": "The lower extremity of the leg below the ankle used for standing and walking",
+      "de": "Das untere Ende des Beins unterhalb des Knöchels zum Stehen und Gehen",
+      "ar": "الطرف السفلي من الساق تحت الكاحل يستخدم للوقوف والمشي",
+      "fr": "L'extrémité inférieure de la jambe sous la cheville utilisée pour se tenir debout et marcher",
+      "it": "L'estremità inferiore della gamba sotto la caviglia usata per stare in piedi e camminare",
+      "ru": "Нижняя конечность ноги ниже лодыжки, используемая для стояния и ходьбы",
+      "es": "La extremidad inferior de la pierna debajo del tobillo usada para estar de pie y caminar",
+      "pl": "Dolna końcówka nogi poniżej kostki używana do stania i chodzenia",
+      "fa": "انتهای پایین پا زیر مچ پا که برای ایستادن و راه رفتن استفاده می‌شود"
+    },
+    "examples": {
+      "en": ["Big feet", "Bare feet", "Foot hurts"],
+      "de": ["Große Füße", "Nackte Füße", "Fuß tut weh"],
+      "ar": ["قدمان كبيرتان", "قدمان حافيتان", "القدم تؤلم"],
+      "fr": ["Grands pieds", "Pieds nus", "Pied fait mal"],
+      "it": ["Piedi grandi", "Piedi nudi", "Piede fa male"],
+      "ru": ["Большие ноги", "Босые ноги", "Стопа болит"],
+      "es": ["Pies grandes", "Pies descalzos", "Pie duele"],
+      "pl": ["Duże stopy", "Bose stopy", "Stopa boli"],
+      "fa": ["پاهای بزرگ", "پاهای برهنه", "پا درد می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_476_es",
+    "word": "espalda",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "back",
+      "de": "Rücken",
+      "ar": "ظهر",
+      "fr": "dos",
+      "it": "schiena",
+      "ru": "спина",
+      "es": "espalda",
+      "pl": "plecy",
+      "fa": "پشت"
+    },
+    "explanations": {
+      "en": "The rear surface of the body from the neck to the pelvis",
+      "de": "Die hintere Oberfläche des Körpers vom Nacken bis zum Becken",
+      "ar": "السطح الخلفي من الجسم من الرقبة إلى الحوض",
+      "fr": "La surface arrière du corps du cou au bassin",
+      "it": "La superficie posteriore del corpo dal collo al bacino",
+      "ru": "Задняя поверхность тела от шеи до таза",
+      "es": "La superficie trasera del cuerpo desde el cuello hasta la pelvis",
+      "pl": "Tylna powierzchnia ciała od szyi do miednicy",
+      "fa": "سطح عقبی بدن از گردن تا لگن"
+    },
+    "examples": {
+      "en": ["Strong back", "Back hurts", "Turn back"],
+      "de": ["Starker Rücken", "Rücken tut weh", "Rücken drehen"],
+      "ar": ["ظهر قوي", "الظهر يؤلم", "أدر الظهر"],
+      "fr": ["Dos fort", "Dos fait mal", "Tourner le dos"],
+      "it": ["Schiena forte", "Schiena fa male", "Girare la schiena"],
+      "ru": ["Сильная спина", "Спина болит", "Повернуться спиной"],
+      "es": ["Espalda fuerte", "Espalda duele", "Dar la espalda"],
+      "pl": ["Silne plecy", "Plecy bolą", "Odwrócić się plecami"],
+      "fa": ["پشت قوی", "پشت درد می‌کند", "پشت کردن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_477_es",
+    "word": "pecho",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "chest, breast",
+      "de": "Brust",
+      "ar": "صدر",
+      "fr": "poitrine",
+      "it": "petto",
+      "ru": "грудь",
+      "es": "pecho",
+      "pl": "klatka piersiowa",
+      "fa": "سینه"
+    },
+    "explanations": {
+      "en": "The front part of the body between the neck and the abdomen",
+      "de": "Der vordere Teil des Körpers zwischen Hals und Bauch",
+      "ar": "الجزء الأمامي من الجسم بين الرقبة والبطن",
+      "fr": "La partie avant du corps entre le cou et l'abdomen",
+      "it": "La parte anteriore del corpo tra il collo e l'addome",
+      "ru": "Передняя часть тела между шеей и животом",
+      "es": "La parte frontal del cuerpo entre el cuello y el abdomen",
+      "pl": "Przednia część ciała między szyją a brzuchem",
+      "fa": "بخش جلویی بدن بین گردن و شکم"
+    },
+    "examples": {
+      "en": ["Broad chest", "Chest pain", "Beat chest"],
+      "de": ["Breite Brust", "Brustschmerzen", "Brust schlagen"],
+      "ar": ["صدر عريض", "ألم الصدر", "اضرب الصدر"],
+      "fr": ["Large poitrine", "Douleur thoracique", "Battre la poitrine"],
+      "it": ["Petto largo", "Dolore al petto", "Battere il petto"],
+      "ru": ["Широкая грудь", "Боль в груди", "Бить в грудь"],
+      "es": ["Pecho ancho", "Dolor de pecho", "Golpear el pecho"],
+      "pl": ["Szeroka klatka", "Ból w klatce", "Bić w pierś"],
+      "fa": ["سینه پهن", "درد قفسه سینه", "به سینه زدن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_478_es",
+    "word": "corazón",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "heart",
+      "de": "Herz",
+      "ar": "قلب",
+      "fr": "cœur",
+      "it": "cuore",
+      "ru": "сердце",
+      "es": "corazón",
+      "pl": "serce",
+      "fa": "قلب"
+    },
+    "explanations": {
+      "en": "The organ that pumps blood through the body",
+      "de": "Das Organ, das Blut durch den Körper pumpt",
+      "ar": "العضو الذي يضخ الدم عبر الجسم",
+      "fr": "L'organe qui pompe le sang dans le corps",
+      "it": "L'organo che pompa il sangue attraverso il corpo",
+      "ru": "Орган, который перекачивает кровь по телу",
+      "es": "El órgano que bombea sangre a través del cuerpo",
+      "pl": "Narząd, który pompuje krew przez ciało",
+      "fa": "عضوی که خون را در بدن پمپاژ می‌کند"
+    },
+    "examples": {
+      "en": ["Strong heart", "Heart beats", "Heart health"],
+      "de": ["Starkes Herz", "Herz schlägt", "Herzgesundheit"],
+      "ar": ["قلب قوي", "القلب ينبض", "صحة القلب"],
+      "fr": ["Cœur fort", "Le cœur bat", "Santé cardiaque"],
+      "it": ["Cuore forte", "Il cuore batte", "Salute del cuore"],
+      "ru": ["Сильное сердце", "Сердце бьется", "Здоровье сердца"],
+      "es": ["Corazón fuerte", "El corazón late", "Salud del corazón"],
+      "pl": ["Silne serce", "Serce bije", "Zdrowie serca"],
+      "fa": ["قلب قوی", "قلب می‌زند", "سلامت قلب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_479_es",
+    "word": "estómago",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "stomach",
+      "de": "Magen",
+      "ar": "معدة",
+      "fr": "estomac",
+      "it": "stomaco",
+      "ru": "желудок",
+      "es": "estómago",
+      "pl": "żołądek",
+      "fa": "معده"
+    },
+    "explanations": {
+      "en": "The organ where food is digested",
+      "de": "Das Organ, in dem Nahrung verdaut wird",
+      "ar": "العضو الذي يتم فيه هضم الطعام",
+      "fr": "L'organe où la nourriture est digérée",
+      "it": "L'organo dove il cibo viene digerito",
+      "ru": "Орган, где переваривается пища",
+      "es": "El órgano donde se digiere la comida",
+      "pl": "Narząd, w którym pokarm jest trawiony",
+      "fa": "عضوی که در آن غذا هضم می‌شود"
+    },
+    "examples": {
+      "en": ["Stomach ache", "Full stomach", "Empty stomach"],
+      "de": ["Magenschmerzen", "Voller Magen", "Leerer Magen"],
+      "ar": ["ألم المعدة", "معدة ممتلئة", "معدة فارغة"],
+      "fr": ["Mal d'estomac", "Estomac plein", "Estomac vide"],
+      "it": ["Mal di stomaco", "Stomaco pieno", "Stomaco vuoto"],
+      "ru": ["Боль в желудке", "Полный желудок", "Пустой желудок"],
+      "es": ["Dolor de estómago", "Estómago lleno", "Estómago vacío"],
+      "pl": ["Ból żołądka", "Pełny żołądek", "Pusty żołądek"],
+      "fa": ["درد معده", "معده پر", "معده خالی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_480_es",
+    "word": "sangre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "blood",
+      "de": "Blut",
+      "ar": "دم",
+      "fr": "sang",
+      "it": "sangue",
+      "ru": "кровь",
+      "es": "sangre",
+      "pl": "krew",
+      "fa": "خون"
+    },
+    "explanations": {
+      "en": "The red liquid that circulates in the body",
+      "de": "Die rote Flüssigkeit, die im Körper zirkuliert",
+      "ar": "السائل الأحمر الذي يدور في الجسم",
+      "fr": "Le liquide rouge qui circule dans le corps",
+      "it": "Il liquido rosso che circola nel corpo",
+      "ru": "Красная жидкость, циркулирующая в теле",
+      "es": "El líquido rojo que circula en el cuerpo",
+      "pl": "Czerwony płyn, który krąży w ciele",
+      "fa": "مایع قرمزی که در بدن گردش می‌کند"
+    },
+    "examples": {
+      "en": ["Red blood", "Blood test", "Donate blood"],
+      "de": ["Rotes Blut", "Bluttest", "Blut spenden"],
+      "ar": ["دم أحمر", "فحص الدم", "تبرع بالدم"],
+      "fr": ["Sang rouge", "Test sanguin", "Donner du sang"],
+      "it": ["Sangue rosso", "Esame del sangue", "Donare sangue"],
+      "ru": ["Красная кровь", "Анализ крови", "Сдать кровь"],
+      "es": ["Sangre roja", "Análisis de sangre", "Donar sangre"],
+      "pl": ["Czerwona krew", "Test krwi", "Oddać krew"],
+      "fa": ["خون قرمز", "آزمایش خون", "اهدای خون"]
+    },
+    "conjugations": null
+  }
+]

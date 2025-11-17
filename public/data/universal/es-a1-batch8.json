@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_141_es",
+    "word": "pequeño",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "small, little",
+      "de": "klein",
+      "ar": "صغير",
+      "fr": "petit",
+      "it": "piccolo",
+      "ru": "маленький",
+      "es": "pequeño",
+      "pl": "mały",
+      "fa": "کوچک"
+    },
+    "explanations": {
+      "en": "Adjective indicating small size",
+      "de": "Adjektiv für kleine Größe",
+      "ar": "صفة تشير إلى حجم صغير",
+      "fr": "Adjectif indiquant une petite taille",
+      "it": "Aggettivo che indica piccola dimensione",
+      "ru": "Прилагательное, указывающее на маленький размер",
+      "es": "Adjetivo que indica tamaño pequeño",
+      "pl": "Przymiotnik wskazujący mały rozmiar",
+      "fa": "صفت که اندازه کوچک را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Small house", "Little dog", "Small car"],
+      "de": ["Kleines Haus", "Kleiner Hund", "Kleines Auto"],
+      "ar": ["بيت صغير", "كلب صغير", "سيارة صغيرة"],
+      "fr": ["Petite maison", "Petit chien", "Petite voiture"],
+      "it": ["Casa piccola", "Cane piccolo", "Macchina piccola"],
+      "ru": ["Маленький дом", "Маленькая собака", "Маленькая машина"],
+      "es": ["Casa pequeña", "Perro pequeño", "Coche pequeño"],
+      "pl": ["Mały dom", "Mały pies", "Mały samochód"],
+      "fa": ["خانه کوچک", "سگ کوچک", "ماشین کوچک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_142_es",
+    "word": "bueno",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "good",
+      "de": "gut",
+      "ar": "جيد",
+      "fr": "bon",
+      "it": "buono",
+      "ru": "хороший",
+      "es": "bueno",
+      "pl": "dobry",
+      "fa": "خوب"
+    },
+    "explanations": {
+      "en": "Adjective indicating positive quality or character",
+      "de": "Adjektiv für positive Qualität oder Charakter",
+      "ar": "صفة تشير إلى جودة أو صفة إيجابية",
+      "fr": "Adjectif indiquant une qualité ou caractère positif",
+      "it": "Aggettivo che indica qualità o carattere positivo",
+      "ru": "Прилагательное, указывающее на положительное качество",
+      "es": "Adjetivo que indica calidad o carácter positivo",
+      "pl": "Przymiotnik wskazujący pozytywną jakość lub charakter",
+      "fa": "صفت که کیفیت یا ویژگی مثبت را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Good person", "Good food", "Good day"],
+      "de": ["Gute Person", "Gutes Essen", "Guter Tag"],
+      "ar": ["شخص جيد", "طعام جيد", "يوم جيد"],
+      "fr": ["Bonne personne", "Bonne nourriture", "Bonne journée"],
+      "it": ["Persona buona", "Cibo buono", "Buona giornata"],
+      "ru": ["Хороший человек", "Хорошая еда", "Хороший день"],
+      "es": ["Persona buena", "Comida buena", "Buen día"],
+      "pl": ["Dobra osoba", "Dobre jedzenie", "Dobry dzień"],
+      "fa": ["آدم خوب", "غذای خوب", "روز خوب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_143_es",
+    "word": "malo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bad",
+      "de": "schlecht",
+      "ar": "سيء",
+      "fr": "mauvais",
+      "it": "cattivo",
+      "ru": "плохой",
+      "es": "malo",
+      "pl": "zły",
+      "fa": "بد"
+    },
+    "explanations": {
+      "en": "Adjective indicating negative quality or character",
+      "de": "Adjektiv für negative Qualität oder Charakter",
+      "ar": "صفة تشير إلى جودة أو صفة سلبية",
+      "fr": "Adjectif indiquant une qualité ou caractère négatif",
+      "it": "Aggettivo che indica qualità o carattere negativo",
+      "ru": "Прилагательное, указывающее на отрицательное качество",
+      "es": "Adjetivo que indica calidad o carácter negativo",
+      "pl": "Przymiotnik wskazujący negatywną jakość lub charakter",
+      "fa": "صفت که کیفیت یا ویژگی منفی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Bad person", "Bad weather", "Bad news"],
+      "de": ["Schlechte Person", "Schlechtes Wetter", "Schlechte Nachricht"],
+      "ar": ["شخص سيء", "طقس سيء", "أخبار سيئة"],
+      "fr": ["Mauvaise personne", "Mauvais temps", "Mauvaise nouvelle"],
+      "it": ["Persona cattiva", "Brutto tempo", "Brutta notizia"],
+      "ru": ["Плохой человек", "Плохая погода", "Плохие новости"],
+      "es": ["Persona mala", "Mal tiempo", "Mala noticia"],
+      "pl": ["Zła osoba", "Zła pogoda", "Zła wiadomość"],
+      "fa": ["آدم بد", "هوای بد", "خبر بد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_144_es",
+    "word": "nuevo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "new",
+      "de": "neu",
+      "ar": "جديد",
+      "fr": "nouveau",
+      "it": "nuovo",
+      "ru": "новый",
+      "es": "nuevo",
+      "pl": "nowy",
+      "fa": "جدید"
+    },
+    "explanations": {
+      "en": "Adjective indicating recent creation or acquisition",
+      "de": "Adjektiv für kürzliche Schöpfung oder Anschaffung",
+      "ar": "صفة تشير إلى إنشاء أو اقتناء حديث",
+      "fr": "Adjectif indiquant une création ou acquisition récente",
+      "it": "Aggettivo che indica creazione o acquisizione recente",
+      "ru": "Прилагательное, указывающее на недавнее создание или приобретение",
+      "es": "Adjetivo que indica creación o adquisición reciente",
+      "pl": "Przymiotnik wskazujący niedawne stworzenie lub nabycie",
+      "fa": "صفت که ایجاد یا کسب اخیر را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["New car", "New house", "New friend"],
+      "de": ["Neues Auto", "Neues Haus", "Neuer Freund"],
+      "ar": ["سيارة جديدة", "بيت جديد", "صديق جديد"],
+      "fr": ["Nouvelle voiture", "Nouvelle maison", "Nouvel ami"],
+      "it": ["Macchina nuova", "Casa nuova", "Nuovo amico"],
+      "ru": ["Новая машина", "Новый дом", "Новый друг"],
+      "es": ["Coche nuevo", "Casa nueva", "Amigo nuevo"],
+      "pl": ["Nowy samochód", "Nowy dom", "Nowy przyjaciel"],
+      "fa": ["ماشین جدید", "خانه جدید", "دوست جدید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_145_es",
+    "word": "viejo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "old",
+      "de": "alt",
+      "ar": "قديم",
+      "fr": "vieux",
+      "it": "vecchio",
+      "ru": "старый",
+      "es": "viejo",
+      "pl": "stary",
+      "fa": "قدیمی"
+    },
+    "explanations": {
+      "en": "Adjective indicating advanced age or long existence",
+      "de": "Adjektiv für fortgeschrittenes Alter oder lange Existenz",
+      "ar": "صفة تشير إلى سن متقدم أو وجود طويل",
+      "fr": "Adjectif indiquant un âge avancé ou longue existence",
+      "it": "Aggettivo che indica età avanzata o lunga esistenza",
+      "ru": "Прилагательное, указывающее на преклонный возраст или долгое существование",
+      "es": "Adjetivo que indica edad avanzada o larga existencia",
+      "pl": "Przymiotnik wskazujący zaawansowany wiek lub długą egzystencję",
+      "fa": "صفت که سن بالا یا وجود طولانی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Old car", "Old house", "Old man"],
+      "de": ["Altes Auto", "Altes Haus", "Alter Mann"],
+      "ar": ["سيارة قديمة", "بيت قديم", "رجل عجوز"],
+      "fr": ["Vieille voiture", "Vieille maison", "Vieil homme"],
+      "it": ["Macchina vecchia", "Casa vecchia", "Uomo vecchio"],
+      "ru": ["Старая машина", "Старый дом", "Старый человек"],
+      "es": ["Coche viejo", "Casa vieja", "Hombre viejo"],
+      "pl": ["Stary samochód", "Stary dom", "Stary człowiek"],
+      "fa": ["ماشین قدیمی", "خانه قدیمی", "مرد پیر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_146_es",
+    "word": "joven",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "young",
+      "de": "jung",
+      "ar": "شاب",
+      "fr": "jeune",
+      "it": "giovane",
+      "ru": "молодой",
+      "es": "joven",
+      "pl": "młody",
+      "fa": "جوان"
+    },
+    "explanations": {
+      "en": "Adjective indicating early stage of life or existence",
+      "de": "Adjektiv für frühe Lebensphase oder Existenz",
+      "ar": "صفة تشير إلى مرحلة مبكرة من الحياة أو الوجود",
+      "fr": "Adjectif indiquant un stade précoce de la vie ou existence",
+      "it": "Aggettivo che indica fase iniziale della vita o esistenza",
+      "ru": "Прилагательное, указывающее на раннюю стадию жизни",
+      "es": "Adjetivo que indica etapa temprana de la vida o existencia",
+      "pl": "Przymiotnik wskazujący wczesny etap życia lub istnienia",
+      "fa": "صفت که مرحله اولیه زندگی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Young person", "Young girl", "Young man"],
+      "de": ["Junge Person", "Junges Mädchen", "Junger Mann"],
+      "ar": ["شخص شاب", "فتاة شابة", "شاب"],
+      "fr": ["Jeune personne", "Jeune fille", "Jeune homme"],
+      "it": ["Persona giovane", "Ragazza giovane", "Giovane uomo"],
+      "ru": ["Молодой человек", "Молодая девушка", "Молодой мужчина"],
+      "es": ["Persona joven", "Chica joven", "Hombre joven"],
+      "pl": ["Młoda osoba", "Młoda dziewczyna", "Młody mężczyzna"],
+      "fa": ["آدم جوان", "دختر جوان", "مرد جوان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_147_es",
+    "word": "alto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tall, high",
+      "de": "groß, hoch",
+      "ar": "طويل، عالي",
+      "fr": "grand, haut",
+      "it": "alto",
+      "ru": "высокий",
+      "es": "alto",
+      "pl": "wysoki",
+      "fa": "بلند"
+    },
+    "explanations": {
+      "en": "Adjective indicating great height or elevation",
+      "de": "Adjektiv für große Höhe oder Erhebung",
+      "ar": "صفة تشير إلى ارتفاع أو علو كبير",
+      "fr": "Adjectif indiquant une grande hauteur ou élévation",
+      "it": "Aggettivo che indica grande altezza o elevazione",
+      "ru": "Прилагательное, указывающее на большую высоту",
+      "es": "Adjetivo que indica gran altura o elevación",
+      "pl": "Przymiotnik wskazujący dużą wysokość lub wzniesienie",
+      "fa": "صفت که ارتفاع یا بلندی زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Tall man", "High mountain", "Tall building"],
+      "de": ["Großer Mann", "Hoher Berg", "Hohes Gebäude"],
+      "ar": ["رجل طويل", "جبل عالي", "مبنى عالي"],
+      "fr": ["Homme grand", "Haute montagne", "Grand bâtiment"],
+      "it": ["Uomo alto", "Montagna alta", "Edificio alto"],
+      "ru": ["Высокий человек", "Высокая гора", "Высокое здание"],
+      "es": ["Hombre alto", "Montaña alta", "Edificio alto"],
+      "pl": ["Wysoki mężczyzna", "Wysoka góra", "Wysoki budynek"],
+      "fa": ["مرد بلند", "کوه بلند", "ساختمان بلند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_148_es",
+    "word": "bajo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "short, low",
+      "de": "kurz, niedrig",
+      "ar": "قصير، منخفض",
+      "fr": "court, bas",
+      "it": "basso",
+      "ru": "низкий",
+      "es": "bajo",
+      "pl": "niski",
+      "fa": "کوتاه"
+    },
+    "explanations": {
+      "en": "Adjective indicating small height or elevation",
+      "de": "Adjektiv für geringe Höhe oder Erhebung",
+      "ar": "صفة تشير إلى ارتفاع أو علو صغير",
+      "fr": "Adjectif indiquant une petite hauteur ou élévation",
+      "it": "Aggettivo che indica piccola altezza o elevazione",
+      "ru": "Прилагательное, указывающее на малую высоту",
+      "es": "Adjetivo que indica poca altura o elevación",
+      "pl": "Przymiotnik wskazujący małą wysokość lub wzniesienie",
+      "fa": "صفت که ارتفاع یا بلندی کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Short man", "Low table", "Low price"],
+      "de": ["Kleiner Mann", "Niedriger Tisch", "Niedriger Preis"],
+      "ar": ["رجل قصير", "طاولة منخفضة", "سعر منخفض"],
+      "fr": ["Homme court", "Table basse", "Prix bas"],
+      "it": ["Uomo basso", "Tavolo basso", "Prezzo basso"],
+      "ru": ["Низкий человек", "Низкий стол", "Низкая цена"],
+      "es": ["Hombre bajo", "Mesa baja", "Precio bajo"],
+      "pl": ["Niski mężczyzna", "Niski stół", "Niska cena"],
+      "fa": ["مرد کوتاه", "میز کوتاه", "قیمت کم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_149_es",
+    "word": "largo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "long",
+      "de": "lang",
+      "ar": "طويل",
+      "fr": "long",
+      "it": "lungo",
+      "ru": "длинный",
+      "es": "largo",
+      "pl": "długi",
+      "fa": "بلند"
+    },
+    "explanations": {
+      "en": "Adjective indicating great length or duration",
+      "de": "Adjektiv für große Länge oder Dauer",
+      "ar": "صفة تشير إلى طول أو مدة كبيرة",
+      "fr": "Adjectif indiquant une grande longueur ou durée",
+      "it": "Aggettivo che indica grande lunghezza o durata",
+      "ru": "Прилагательное, указывающее на большую длину или продолжительность",
+      "es": "Adjetivo que indica gran longitud o duración",
+      "pl": "Przymiotnik wskazujący dużą długość lub czas trwania",
+      "fa": "صفت که طول یا مدت زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Long road", "Long hair", "Long day"],
+      "de": ["Lange Straße", "Lange Haare", "Langer Tag"],
+      "ar": ["طريق طويل", "شعر طويل", "يوم طويل"],
+      "fr": ["Longue route", "Cheveux longs", "Longue journée"],
+      "it": ["Strada lunga", "Capelli lunghi", "Giornata lunga"],
+      "ru": ["Длинная дорога", "Длинные волосы", "Длинный день"],
+      "es": ["Camino largo", "Pelo largo", "Día largo"],
+      "pl": ["Długa droga", "Długie włosy", "Długi dzień"],
+      "fa": ["جاده بلند", "موی بلند", "روز طولانی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_150_es",
+    "word": "corto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "short",
+      "de": "kurz",
+      "ar": "قصير",
+      "fr": "court",
+      "it": "corto",
+      "ru": "короткий",
+      "es": "corto",
+      "pl": "krótki",
+      "fa": "کوتاه"
+    },
+    "explanations": {
+      "en": "Adjective indicating small length or duration",
+      "de": "Adjektiv für kleine Länge oder Dauer",
+      "ar": "صفة تشير إلى طول أو مدة صغيرة",
+      "fr": "Adjectif indiquant une petite longueur ou durée",
+      "it": "Aggettivo che indica piccola lunghezza o durata",
+      "ru": "Прилагательное, указывающее на малую длину или продолжительность",
+      "es": "Adjetivo que indica poca longitud o duración",
+      "pl": "Przymiotnik wskazujący małą długość lub czas trwania",
+      "fa": "صفت که طول یا مدت کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Short road", "Short hair", "Short time"],
+      "de": ["Kurze Straße", "Kurze Haare", "Kurze Zeit"],
+      "ar": ["طريق قصير", "شعر قصير", "وقت قصير"],
+      "fr": ["Route courte", "Cheveux courts", "Courte période"],
+      "it": ["Strada corta", "Capelli corti", "Tempo corto"],
+      "ru": ["Короткая дорога", "Короткие волосы", "Короткое время"],
+      "es": ["Camino corto", "Pelo corto", "Tiempo corto"],
+      "pl": ["Krótka droga", "Krótkie włosy", "Krótki czas"],
+      "fa": ["جاده کوتاه", "موی کوتاه", "زمان کوتاه"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_151_es",
+    "word": "ancho",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "wide",
+      "de": "breit",
+      "ar": "عريض",
+      "fr": "large",
+      "it": "largo",
+      "ru": "широкий",
+      "es": "ancho",
+      "pl": "szeroki",
+      "fa": "پهن"
+    },
+    "explanations": {
+      "en": "Adjective indicating great width or breadth",
+      "de": "Adjektiv für große Breite",
+      "ar": "صفة تشير إلى عرض كبير",
+      "fr": "Adjectif indiquant une grande largeur",
+      "it": "Aggettivo che indica grande larghezza",
+      "ru": "Прилагательное, указывающее на большую ширину",
+      "es": "Adjetivo que indica gran anchura",
+      "pl": "Przymiotnik wskazujący dużą szerokość",
+      "fa": "صفت که پهنای زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Wide street", "Wide door", "Wide river"],
+      "de": ["Breite Straße", "Breite Tür", "Breiter Fluss"],
+      "ar": ["شارع عريض", "باب عريض", "نهر عريض"],
+      "fr": ["Rue large", "Porte large", "Rivière large"],
+      "it": ["Strada larga", "Porta larga", "Fiume largo"],
+      "ru": ["Широкая улица", "Широкая дверь", "Широкая река"],
+      "es": ["Calle ancha", "Puerta ancha", "Río ancho"],
+      "pl": ["Szeroka ulica", "Szerokie drzwi", "Szeroka rzeka"],
+      "fa": ["خیابان پهن", "در پهن", "رودخانه پهن"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_152_es",
+    "word": "estrecho",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "narrow",
+      "de": "eng, schmal",
+      "ar": "ضيق",
+      "fr": "étroit",
+      "it": "stretto",
+      "ru": "узкий",
+      "es": "estrecho",
+      "pl": "wąski",
+      "fa": "باریک"
+    },
+    "explanations": {
+      "en": "Adjective indicating small width or breadth",
+      "de": "Adjektiv für kleine Breite",
+      "ar": "صفة تشير إلى عرض صغير",
+      "fr": "Adjectif indiquant une petite largeur",
+      "it": "Aggettivo che indica piccola larghezza",
+      "ru": "Прилагательное, указывающее на малую ширину",
+      "es": "Adjetivo que indica poca anchura",
+      "pl": "Przymiotnik wskazujący małą szerokość",
+      "fa": "صفت که پهنای کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Narrow street", "Narrow door", "Narrow bridge"],
+      "de": ["Enge Straße", "Enge Tür", "Schmale Brücke"],
+      "ar": ["شارع ضيق", "باب ضيق", "جسر ضيق"],
+      "fr": ["Rue étroite", "Porte étroite", "Pont étroit"],
+      "it": ["Strada stretta", "Porta stretta", "Ponte stretto"],
+      "ru": ["Узкая улица", "Узкая дверь", "Узкий мост"],
+      "es": ["Calle estrecha", "Puerta estrecha", "Puente estrecho"],
+      "pl": ["Wąska ulica", "Wąskie drzwi", "Wąski most"],
+      "fa": ["خیابان باریک", "در باریک", "پل باریک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_153_es",
+    "word": "gordo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fat, thick",
+      "de": "dick, fett",
+      "ar": "سمين",
+      "fr": "gros",
+      "it": "grasso",
+      "ru": "толстый",
+      "es": "gordo",
+      "pl": "gruby",
+      "fa": "چاق"
+    },
+    "explanations": {
+      "en": "Adjective indicating large body size or thickness",
+      "de": "Adjektiv für große Körpergröße oder Dicke",
+      "ar": "صفة تشير إلى حجم جسم كبير أو سماكة",
+      "fr": "Adjectif indiquant une grande taille corporelle ou épaisseur",
+      "it": "Aggettivo che indica grande dimensione corporea o spessore",
+      "ru": "Прилагательное, указывающее на большой размер тела или толщину",
+      "es": "Adjetivo que indica gran tamaño corporal o grosor",
+      "pl": "Przymiotnik wskazujący duży rozmiar ciała lub grubość",
+      "fa": "صفت که اندازه بدن یا ضخامت زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Fat cat", "Thick book", "Fat person"],
+      "de": ["Dicke Katze", "Dickes Buch", "Dicke Person"],
+      "ar": ["قطة سمينة", "كتاب سميك", "شخص سمين"],
+      "fr": ["Gros chat", "Gros livre", "Personne grosse"],
+      "it": ["Gatto grasso", "Libro grosso", "Persona grassa"],
+      "ru": ["Толстая кошка", "Толстая книга", "Толстый человек"],
+      "es": ["Gato gordo", "Libro gordo", "Persona gorda"],
+      "pl": ["Gruby kot", "Gruba książka", "Gruba osoba"],
+      "fa": ["گربه چاق", "کتاب ضخیم", "آدم چاق"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_154_es",
+    "word": "delgado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "thin, slim",
+      "de": "dünn, schlank",
+      "ar": "نحيف",
+      "fr": "mince",
+      "it": "magro",
+      "ru": "тонкий, худой",
+      "es": "delgado",
+      "pl": "chudy",
+      "fa": "لاغر"
+    },
+    "explanations": {
+      "en": "Adjective indicating small body size or thinness",
+      "de": "Adjektiv für kleine Körpergröße oder Dünnheit",
+      "ar": "صفة تشير إلى حجم جسم صغير أو نحافة",
+      "fr": "Adjectif indiquant une petite taille corporelle ou minceur",
+      "it": "Aggettivo che indica piccola dimensione corporea o magrezza",
+      "ru": "Прилагательное, указывающее на малый размер тела или худобу",
+      "es": "Adjetivo que indica pequeño tamaño corporal o delgadez",
+      "pl": "Przymiotnik wskazujący mały rozmiar ciała lub chudość",
+      "fa": "صفت که اندازه بدن یا لاغری کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Thin person", "Slim woman", "Thin line"],
+      "de": ["Dünne Person", "Schlanke Frau", "Dünne Linie"],
+      "ar": ["شخص نحيف", "امرأة رشيقة", "خط رفيع"],
+      "fr": ["Personne mince", "Femme mince", "Ligne mince"],
+      "it": ["Persona magra", "Donna magra", "Linea sottile"],
+      "ru": ["Худой человек", "Стройная женщина", "Тонкая линия"],
+      "es": ["Persona delgada", "Mujer delgada", "Línea delgada"],
+      "pl": ["Chuda osoba", "Szczupła kobieta", "Cienka linia"],
+      "fa": ["آدم لاغر", "زن لاغر", "خط نازک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_155_es",
+    "word": "fuerte",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "strong",
+      "de": "stark",
+      "ar": "قوي",
+      "fr": "fort",
+      "it": "forte",
+      "ru": "сильный",
+      "es": "fuerte",
+      "pl": "silny",
+      "fa": "قوی"
+    },
+    "explanations": {
+      "en": "Adjective indicating great physical or mental power",
+      "de": "Adjektiv für große körperliche oder geistige Kraft",
+      "ar": "صفة تشير إلى قوة جسدية أو عقلية كبيرة",
+      "fr": "Adjectif indiquant une grande force physique ou mentale",
+      "it": "Aggettivo che indica grande forza fisica o mentale",
+      "ru": "Прилагательное, указывающее на большую физическую или умственную силу",
+      "es": "Adjetivo que indica gran fuerza física o mental",
+      "pl": "Przymiotnik wskazujący dużą siłę fizyczną lub psychiczną",
+      "fa": "صفت که قدرت فیزیکی یا ذهنی زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Strong man", "Strong coffee", "Strong wind"],
+      "de": ["Starker Mann", "Starker Kaffee", "Starker Wind"],
+      "ar": ["رجل قوي", "قهوة قوية", "ريح قوية"],
+      "fr": ["Homme fort", "Café fort", "Vent fort"],
+      "it": ["Uomo forte", "Caffè forte", "Vento forte"],
+      "ru": ["Сильный человек", "Крепкий кофе", "Сильный ветер"],
+      "es": ["Hombre fuerte", "Café fuerte", "Viento fuerte"],
+      "pl": ["Silny mężczyzna", "Mocna kawa", "Silny wiatr"],
+      "fa": ["مرد قوی", "قهوه قوی", "باد قوی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_156_es",
+    "word": "débil",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "weak",
+      "de": "schwach",
+      "ar": "ضعيف",
+      "fr": "faible",
+      "it": "debole",
+      "ru": "слабый",
+      "es": "débil",
+      "pl": "słaby",
+      "fa": "ضعیف"
+    },
+    "explanations": {
+      "en": "Adjective indicating little physical or mental power",
+      "de": "Adjektiv für geringe körperliche oder geistige Kraft",
+      "ar": "صفة تشير إلى قوة جسدية أو عقلية ضعيفة",
+      "fr": "Adjectif indiquant peu de force physique ou mentale",
+      "it": "Aggettivo che indica poca forza fisica o mentale",
+      "ru": "Прилагательное, указывающее на малую физическую или умственную силу",
+      "es": "Adjetivo que indica poca fuerza física o mental",
+      "pl": "Przymiotnik wskazujący małą siłę fizyczną lub psychiczną",
+      "fa": "صفت که قدرت فیزیکی یا ذهنی کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Weak person", "Weak signal", "Weak tea"],
+      "de": ["Schwache Person", "Schwaches Signal", "Schwacher Tee"],
+      "ar": ["شخص ضعيف", "إشارة ضعيفة", "شاي ضعيف"],
+      "fr": ["Personne faible", "Signal faible", "Thé faible"],
+      "it": ["Persona debole", "Segnale debole", "Tè debole"],
+      "ru": ["Слабый человек", "Слабый сигнал", "Слабый чай"],
+      "es": ["Persona débil", "Señal débil", "Té débil"],
+      "pl": ["Słaba osoba", "Słaby sygnał", "Słaba herbata"],
+      "fa": ["آدم ضعیف", "سیگنال ضعیف", "چای ضعیف"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_157_es",
+    "word": "rápido",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fast, quick",
+      "de": "schnell",
+      "ar": "سريع",
+      "fr": "rapide",
+      "it": "veloce",
+      "ru": "быстрый",
+      "es": "rápido",
+      "pl": "szybki",
+      "fa": "سریع"
+    },
+    "explanations": {
+      "en": "Adjective indicating high speed or quickness",
+      "de": "Adjektiv für hohe Geschwindigkeit oder Schnelligkeit",
+      "ar": "صفة تشير إلى سرعة عالية",
+      "fr": "Adjectif indiquant une grande vitesse ou rapidité",
+      "it": "Aggettivo che indica alta velocità o rapidità",
+      "ru": "Прилагательное, указывающее на высокую скорость",
+      "es": "Adjetivo que indica alta velocidad o rapidez",
+      "pl": "Przymiotnik wskazujący dużą prędkość lub szybkość",
+      "fa": "صفت که سرعت یا تندی زیاد را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Fast car", "Quick response", "Fast train"],
+      "de": ["Schnelles Auto", "Schnelle Antwort", "Schneller Zug"],
+      "ar": ["سيارة سريعة", "استجابة سريعة", "قطار سريع"],
+      "fr": ["Voiture rapide", "Réponse rapide", "Train rapide"],
+      "it": ["Macchina veloce", "Risposta rapida", "Treno veloce"],
+      "ru": ["Быстрая машина", "Быстрый ответ", "Быстрый поезд"],
+      "es": ["Coche rápido", "Respuesta rápida", "Tren rápido"],
+      "pl": ["Szybki samochód", "Szybka odpowiedź", "Szybki pociąg"],
+      "fa": ["ماشین سریع", "پاسخ سریع", "قطار سریع"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_158_es",
+    "word": "lento",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "slow",
+      "de": "langsam",
+      "ar": "بطيء",
+      "fr": "lent",
+      "it": "lento",
+      "ru": "медленный",
+      "es": "lento",
+      "pl": "wolny",
+      "fa": "کند"
+    },
+    "explanations": {
+      "en": "Adjective indicating low speed or slowness",
+      "de": "Adjektiv für geringe Geschwindigkeit oder Langsamkeit",
+      "ar": "صفة تشير إلى سرعة منخفضة أو بطء",
+      "fr": "Adjectif indiquant une faible vitesse ou lenteur",
+      "it": "Aggettivo che indica bassa velocità o lentezza",
+      "ru": "Прилагательное, указывающее на низкую скорость",
+      "es": "Adjetivo que indica baja velocidad o lentitud",
+      "pl": "Przymiotnik wskazujący małą prędkość lub powolność",
+      "fa": "صفت که سرعت یا کندی کم را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Slow car", "Slow walk", "Slow train"],
+      "de": ["Langsames Auto", "Langsamer Spaziergang", "Langsamer Zug"],
+      "ar": ["سيارة بطيئة", "مشي بطيء", "قطار بطيء"],
+      "fr": ["Voiture lente", "Marche lente", "Train lent"],
+      "it": ["Macchina lenta", "Camminata lenta", "Treno lento"],
+      "ru": ["Медленная машина", "Медленная прогулка", "Медленный поезд"],
+      "es": ["Coche lento", "Caminar lento", "Tren lento"],
+      "pl": ["Wolny samochód", "Wolny spacer", "Wolny pociąg"],
+      "fa": ["ماشین کند", "راه رفتن کند", "قطار کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_159_es",
+    "word": "caliente",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hot",
+      "de": "heiß",
+      "ar": "ساخن",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "горячий",
+      "es": "caliente",
+      "pl": "gorący",
+      "fa": "گرم"
+    },
+    "explanations": {
+      "en": "Adjective indicating high temperature",
+      "de": "Adjektiv für hohe Temperatur",
+      "ar": "صفة تشير إلى درجة حرارة عالية",
+      "fr": "Adjectif indiquant une température élevée",
+      "it": "Aggettivo che indica temperatura elevata",
+      "ru": "Прилагательное, указывающее на высокую температуру",
+      "es": "Adjetivo que indica temperatura alta",
+      "pl": "Przymiotnik wskazujący wysoką temperaturę",
+      "fa": "صفت که دمای بالا را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Hot water", "Hot coffee", "Hot day"],
+      "de": ["Heißes Wasser", "Heißer Kaffee", "Heißer Tag"],
+      "ar": ["ماء ساخن", "قهوة ساخنة", "يوم حار"],
+      "fr": ["Eau chaude", "Café chaud", "Journée chaude"],
+      "it": ["Acqua calda", "Caffè caldo", "Giornata calda"],
+      "ru": ["Горячая вода", "Горячий кофе", "Жаркий день"],
+      "es": ["Agua caliente", "Café caliente", "Día caliente"],
+      "pl": ["Gorąca woda", "Gorąca kawa", "Gorący dzień"],
+      "fa": ["آب گرم", "قهوه گرم", "روز گرم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_160_es",
+    "word": "frío",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cold",
+      "de": "kalt",
+      "ar": "بارد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холодный",
+      "es": "frío",
+      "pl": "zimny",
+      "fa": "سرد"
+    },
+    "explanations": {
+      "en": "Adjective indicating low temperature",
+      "de": "Adjektiv für niedrige Temperatur",
+      "ar": "صفة تشير إلى درجة حرارة منخفضة",
+      "fr": "Adjectif indiquant une température basse",
+      "it": "Aggettivo che indica temperatura bassa",
+      "ru": "Прилагательное, указывающее на низкую температуру",
+      "es": "Adjetivo que indica temperatura baja",
+      "pl": "Przymiotnik wskazujący niską temperaturę",
+      "fa": "صفت که دمای پایین را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Cold water", "Cold day", "Cold ice cream"],
+      "de": ["Kaltes Wasser", "Kalter Tag", "Kaltes Eis"],
+      "ar": ["ماء بارد", "يوم بارد", "مثلجات باردة"],
+      "fr": ["Eau froide", "Journée froide", "Glace froide"],
+      "it": ["Acqua fredda", "Giornata fredda", "Gelato freddo"],
+      "ru": ["Холодная вода", "Холодный день", "Холодное мороженое"],
+      "es": ["Agua fría", "Día frío", "Helado frío"],
+      "pl": ["Zimna woda", "Zimny dzień", "Zimne lody"],
+      "fa": ["آب سرد", "روز سرد", "بستنی سرد"]
+    },
+    "conjugations": null
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_221_es",
+    "word": "sí",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "yes",
+      "de": "ja",
+      "ar": "نعم",
+      "fr": "oui",
+      "it": "sì",
+      "ru": "да",
+      "es": "sí",
+      "pl": "tak",
+      "fa": "بله"
+    },
+    "explanations": {
+      "en": "Adverb expressing affirmation or agreement",
+      "de": "Adverb für Bejahung oder Zustimmung",
+      "ar": "ظرف يعبر عن التأكيد أو الموافقة",
+      "fr": "Adverbe exprimant l'affirmation ou l'accord",
+      "it": "Avverbio che esprime affermazione o accordo",
+      "ru": "Наречие, выражающее подтверждение или согласие",
+      "es": "Adverbio que expresa afirmación o acuerdo",
+      "pl": "Przysłówek wyrażający potwierdzenie lub zgodę",
+      "fa": "قید که تأیید یا توافق را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["Yes I do", "Yes please", "Yes it is"],
+      "de": ["Ja ich tue", "Ja bitte", "Ja ist es"],
+      "ar": ["نعم أفعل", "نعم من فضلك", "نعم إنه كذلك"],
+      "fr": ["Oui je fais", "Oui s'il vous plaît", "Oui c'est"],
+      "it": ["Sì lo faccio", "Sì per favore", "Sì lo è"],
+      "ru": ["Да я делаю", "Да пожалуйста", "Да это так"],
+      "es": ["Sí lo hago", "Sí por favor", "Sí lo es"],
+      "pl": ["Tak robię", "Tak proszę", "Tak jest"],
+      "fa": ["بله من این کار را می‌کنم", "بله لطفا", "بله همین است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_222_es",
+    "word": "no",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "no, not",
+      "de": "nein, nicht",
+      "ar": "لا",
+      "fr": "non, ne...pas",
+      "it": "no, non",
+      "ru": "нет, не",
+      "es": "no",
+      "pl": "nie",
+      "fa": "نه"
+    },
+    "explanations": {
+      "en": "Adverb expressing negation or denial",
+      "de": "Adverb für Verneinung oder Ablehnung",
+      "ar": "ظرف يعبر عن النفي أو الإنكار",
+      "fr": "Adverbe exprimant la négation ou le refus",
+      "it": "Avverbio che esprime negazione o rifiuto",
+      "ru": "Наречие, выражающее отрицание или отказ",
+      "es": "Adverbio que expresa negación o rechazo",
+      "pl": "Przysłówek wyrażający negację lub odmowę",
+      "fa": "قید که نفی یا رد را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["No I don't", "No thanks", "No it isn't"],
+      "de": ["Nein ich tue nicht", "Nein danke", "Nein ist es nicht"],
+      "ar": ["لا لا أفعل", "لا شكرا", "لا ليس كذلك"],
+      "fr": ["Non je ne fais pas", "Non merci", "Non ce n'est pas"],
+      "it": ["No non lo faccio", "No grazie", "No non lo è"],
+      "ru": ["Нет я не делаю", "Нет спасибо", "Нет это не так"],
+      "es": ["No lo hago", "No gracias", "No lo es"],
+      "pl": ["Nie nie robię", "Nie dziękuję", "Nie nie jest"],
+      "fa": ["نه من این کار را نمی‌کنم", "نه متشکرم", "نه نیست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_223_es",
+    "word": "también",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "also, too",
+      "de": "auch",
+      "ar": "أيضا",
+      "fr": "aussi",
+      "it": "anche",
+      "ru": "также, тоже",
+      "es": "también",
+      "pl": "też, również",
+      "fa": "همچنین"
+    },
+    "explanations": {
+      "en": "Adverb indicating inclusion or addition",
+      "de": "Adverb für Einschluss oder Hinzufügung",
+      "ar": "ظرف يشير إلى الشمول أو الإضافة",
+      "fr": "Adverbe indiquant l'inclusion ou l'addition",
+      "it": "Avverbio che indica inclusione o aggiunta",
+      "ru": "Наречие, указывающее на включение или добавление",
+      "es": "Adverbio que indica inclusión o adición",
+      "pl": "Przysłówek wskazujący włączenie lub dodanie",
+      "fa": "قید که شمول یا افزودن را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I also go", "Me too", "Also good"],
+      "de": ["Ich gehe auch", "Ich auch", "Auch gut"],
+      "ar": ["أنا أذهب أيضا", "أنا أيضا", "جيد أيضا"],
+      "fr": ["Je vais aussi", "Moi aussi", "Aussi bon"],
+      "it": ["Anche io vado", "Anche io", "Anche buono"],
+      "ru": ["Я тоже иду", "Я тоже", "Тоже хорошо"],
+      "es": ["Yo también voy", "Yo también", "También bueno"],
+      "pl": ["Ja też idę", "Ja też", "Też dobre"],
+      "fa": ["من هم می‌روم", "من هم", "خوب هم هست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_224_es",
+    "word": "tampoco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "neither, not either",
+      "de": "auch nicht",
+      "ar": "أيضا لا",
+      "fr": "non plus",
+      "it": "nemmeno, neanche",
+      "ru": "тоже нет",
+      "es": "tampoco",
+      "pl": "też nie",
+      "fa": "همچنین نه"
+    },
+    "explanations": {
+      "en": "Adverb indicating negative inclusion",
+      "de": "Adverb für negative Einschluss",
+      "ar": "ظرف يشير إلى الشمول السلبي",
+      "fr": "Adverbe indiquant l'inclusion négative",
+      "it": "Avverbio che indica inclusione negativa",
+      "ru": "Наречие, указывающее на отрицательное включение",
+      "es": "Adverbio que indica inclusión negativa",
+      "pl": "Przysłówek wskazujący negatywne włączenie",
+      "fa": "قید که شمول منفی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["I don't either", "Me neither", "Not good either"],
+      "de": ["Ich auch nicht", "Ich auch nicht", "Auch nicht gut"],
+      "ar": ["أنا لا أيضا", "أنا أيضا لا", "ليس جيدا أيضا"],
+      "fr": ["Moi non plus", "Moi non plus", "Pas bon non plus"],
+      "it": ["Nemmeno io", "Neanche io", "Nemmeno buono"],
+      "ru": ["Я тоже нет", "Я тоже", "Тоже не хорошо"],
+      "es": ["Yo tampoco", "Yo tampoco", "Tampoco bueno"],
+      "pl": ["Ja też nie", "Ja też nie", "Też nie dobre"],
+      "fa": ["من هم نه", "من هم", "خوب هم نیست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_225_es",
+    "word": "pero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "but",
+      "de": "aber",
+      "ar": "لكن",
+      "fr": "mais",
+      "it": "ma, però",
+      "ru": "но",
+      "es": "pero",
+      "pl": "ale",
+      "fa": "اما"
+    },
+    "explanations": {
+      "en": "Conjunction expressing contrast or exception",
+      "de": "Konjunktion für Kontrast oder Ausnahme",
+      "ar": "أداة ربط تعبر عن التباين أو الاستثناء",
+      "fr": "Conjonction exprimant le contraste ou l'exception",
+      "it": "Congiunzione che esprime contrasto o eccezione",
+      "ru": "Союз, выражающий контраст или исключение",
+      "es": "Conjunción que expresa contraste o excepción",
+      "pl": "Spójnik wyrażający kontrast lub wyjątek",
+      "fa": "حرف ربط که تضاد یا استثنا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["Good but expensive", "I want but can't", "Nice but small"],
+      "de": ["Gut aber teuer", "Ich will aber kann nicht", "Schön aber klein"],
+      "ar": ["جيد لكن غالي", "أريد لكن لا أستطيع", "لطيف لكن صغير"],
+      "fr": ["Bon mais cher", "Je veux mais ne peux pas", "Joli mais petit"],
+      "it": ["Buono ma caro", "Voglio ma non posso", "Carino ma piccolo"],
+      "ru": ["Хорошо но дорого", "Хочу но не могу", "Красиво но маленькое"],
+      "es": ["Bueno pero caro", "Quiero pero no puedo", "Bonito pero pequeño"],
+      "pl": ["Dobre ale drogie", "Chcę ale nie mogę", "Ładne ale małe"],
+      "fa": ["خوب اما گران", "می‌خواهم اما نمی‌توانم", "قشنگ اما کوچک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_226_es",
+    "word": "porque",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "because",
+      "de": "weil",
+      "ar": "لأن",
+      "fr": "parce que",
+      "it": "perché",
+      "ru": "потому что",
+      "es": "porque",
+      "pl": "ponieważ",
+      "fa": "چون"
+    },
+    "explanations": {
+      "en": "Conjunction expressing reason or cause",
+      "de": "Konjunktion für Grund oder Ursache",
+      "ar": "أداة ربط تعبر عن السبب أو العلة",
+      "fr": "Conjonction exprimant la raison ou la cause",
+      "it": "Congiunzione che esprime ragione o causa",
+      "ru": "Союз, выражающий причину или основание",
+      "es": "Conjunción que expresa razón o causa",
+      "pl": "Spójnik wyrażający przyczynę lub powód",
+      "fa": "حرف ربط که دلیل یا علت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["Because I want", "Because it's good", "Because you said"],
+      "de": ["Weil ich will", "Weil es gut ist", "Weil du sagtest"],
+      "ar": ["لأنني أريد", "لأنه جيد", "لأنك قلت"],
+      "fr": ["Parce que je veux", "Parce que c'est bon", "Parce que tu as dit"],
+      "it": ["Perché voglio", "Perché è buono", "Perché hai detto"],
+      "ru": ["Потому что хочу", "Потому что это хорошо", "Потому что ты сказал"],
+      "es": ["Porque quiero", "Porque es bueno", "Porque dijiste"],
+      "pl": ["Ponieważ chcę", "Ponieważ jest dobre", "Ponieważ powiedziałeś"],
+      "fa": ["چون می‌خواهم", "چون خوب است", "چون گفتی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_227_es",
+    "word": "cuando",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "when",
+      "de": "wann, wenn",
+      "ar": "عندما، متى",
+      "fr": "quand",
+      "it": "quando",
+      "ru": "когда",
+      "es": "cuando",
+      "pl": "kiedy",
+      "fa": "وقتی"
+    },
+    "explanations": {
+      "en": "Conjunction or adverb indicating time",
+      "de": "Konjunktion oder Adverb für Zeit",
+      "ar": "أداة ربط أو ظرف يشير إلى الوقت",
+      "fr": "Conjonction ou adverbe indiquant le temps",
+      "it": "Congiunzione o avverbio che indica tempo",
+      "ru": "Союз или наречие, указывающее на время",
+      "es": "Conjunción o adverbio que indica tiempo",
+      "pl": "Spójnik lub przysłówek wskazujący czas",
+      "fa": "حرف ربط یا قید که زمان را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["When I go", "When is it", "When you want"],
+      "de": ["Wenn ich gehe", "Wann ist es", "Wenn du willst"],
+      "ar": ["عندما أذهب", "متى هو", "عندما تريد"],
+      "fr": ["Quand je vais", "Quand c'est", "Quand tu veux"],
+      "it": ["Quando vado", "Quando è", "Quando vuoi"],
+      "ru": ["Когда я иду", "Когда это", "Когда ты хочешь"],
+      "es": ["Cuando voy", "Cuándo es", "Cuando quieres"],
+      "pl": ["Kiedy idę", "Kiedy to jest", "Kiedy chcesz"],
+      "fa": ["وقتی می‌روم", "کی است", "وقتی می‌خواهی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_228_es",
+    "word": "donde",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "where",
+      "de": "wo",
+      "ar": "أين",
+      "fr": "où",
+      "it": "dove",
+      "ru": "где",
+      "es": "donde",
+      "pl": "gdzie",
+      "fa": "کجا"
+    },
+    "explanations": {
+      "en": "Adverb or conjunction indicating place",
+      "de": "Adverb oder Konjunktion für Ort",
+      "ar": "ظرف أو أداة ربط تشير إلى المكان",
+      "fr": "Adverbe ou conjonction indiquant le lieu",
+      "it": "Avverbio o congiunzione che indica luogo",
+      "ru": "Наречие или союз, указывающий на место",
+      "es": "Adverbio o conjunción que indica lugar",
+      "pl": "Przysłówek lub spójnik wskazujący miejsce",
+      "fa": "قید یا حرف ربط که مکان را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Where I live", "Where is it", "Where you go"],
+      "de": ["Wo ich wohne", "Wo ist es", "Wo du gehst"],
+      "ar": ["أين أعيش", "أين هو", "أين تذهب"],
+      "fr": ["Où j'habite", "Où c'est", "Où tu vas"],
+      "it": ["Dove vivo", "Dov'è", "Dove vai"],
+      "ru": ["Где я живу", "Где это", "Куда ты идешь"],
+      "es": ["Donde vivo", "Dónde está", "Donde vas"],
+      "pl": ["Gdzie mieszkam", "Gdzie to jest", "Gdzie idziesz"],
+      "fa": ["کجا زندگی می‌کنم", "کجاست", "کجا می‌روی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_229_es",
+    "word": "como",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "as, like, how",
+      "de": "wie",
+      "ar": "كيف، مثل",
+      "fr": "comme, comment",
+      "it": "come",
+      "ru": "как",
+      "es": "como",
+      "pl": "jak",
+      "fa": "مثل، چگونه"
+    },
+    "explanations": {
+      "en": "Adverb or conjunction indicating manner or comparison",
+      "de": "Adverb oder Konjunktion für Art oder Vergleich",
+      "ar": "ظرف أو أداة ربط تشير إلى الطريقة أو المقارنة",
+      "fr": "Adverbe ou conjonction indiquant la manière ou la comparaison",
+      "it": "Avverbio o congiunzione che indica maniera o paragone",
+      "ru": "Наречие или союз, указывающий на способ или сравнение",
+      "es": "Adverbio o conjunción que indica manera o comparación",
+      "pl": "Przysłówek lub spójnik wskazujący sposób lub porównanie",
+      "fa": "قید یا حرف ربط که روش یا مقایسه را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["How I do", "Like you", "As I said"],
+      "de": ["Wie ich mache", "Wie du", "Wie ich sagte"],
+      "ar": ["كيف أفعل", "مثلك", "كما قلت"],
+      "fr": ["Comment je fais", "Comme toi", "Comme j'ai dit"],
+      "it": ["Come faccio", "Come te", "Come ho detto"],
+      "ru": ["Как я делаю", "Как ты", "Как я сказал"],
+      "es": ["Como lo hago", "Como tú", "Como dije"],
+      "pl": ["Jak robię", "Jak ty", "Jak powiedziałem"],
+      "fa": ["چگونه انجام می‌دهم", "مثل تو", "چنانچه گفتم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_230_es",
+    "word": "qué",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "what",
+      "de": "was",
+      "ar": "ماذا",
+      "fr": "quoi, que",
+      "it": "che, cosa",
+      "ru": "что",
+      "es": "qué",
+      "pl": "co",
+      "fa": "چه"
+    },
+    "explanations": {
+      "en": "Interrogative pronoun asking about things or actions",
+      "de": "Fragepronomen für Dinge oder Handlungen",
+      "ar": "ضمير استفهام يسأل عن الأشياء أو الأفعال",
+      "fr": "Pronom interrogatif demandant sur les choses ou actions",
+      "it": "Pronome interrogativo che chiede su cose o azioni",
+      "ru": "Вопросительное местоимение, спрашивающее о вещах или действиях",
+      "es": "Pronombre interrogativo que pregunta sobre cosas o acciones",
+      "pl": "Zaimek pytający o rzeczy lub działania",
+      "fa": "ضمیر پرسشی که درباره چیزها یا اعمال می‌پرسد"
+    },
+    "examples": {
+      "en": ["What is this", "What do you want", "What time"],
+      "de": ["Was ist das", "Was willst du", "Welche Zeit"],
+      "ar": ["ما هذا", "ماذا تريد", "أي وقت"],
+      "fr": ["Qu'est-ce que c'est", "Que veux-tu", "Quelle heure"],
+      "it": ["Che cos'è", "Cosa vuoi", "Che ora"],
+      "ru": ["Что это", "Что ты хочешь", "Какое время"],
+      "es": ["Qué es esto", "Qué quieres", "Qué hora"],
+      "pl": ["Co to jest", "Co chcesz", "Która godzina"],
+      "fa": ["این چیست", "چه می‌خواهی", "چه ساعتی"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_231_es",
+    "word": "quién",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "who",
+      "de": "wer",
+      "ar": "من",
+      "fr": "qui",
+      "it": "chi",
+      "ru": "кто",
+      "es": "quién",
+      "pl": "kto",
+      "fa": "چه کسی"
+    },
+    "explanations": {
+      "en": "Interrogative pronoun asking about people",
+      "de": "Fragepronomen für Personen",
+      "ar": "ضمير استفهام يسأل عن الأشخاص",
+      "fr": "Pronom interrogatif demandant sur les personnes",
+      "it": "Pronome interrogativo che chiede su persone",
+      "ru": "Вопросительное местоимение, спрашивающее о людях",
+      "es": "Pronombre interrogativo que pregunta sobre personas",
+      "pl": "Zaimek pytający o osoby",
+      "fa": "ضمیر پرسشی که درباره افراد می‌پرسد"
+    },
+    "examples": {
+      "en": ["Who is this", "Who are you", "Who comes"],
+      "de": ["Wer ist das", "Wer bist du", "Wer kommt"],
+      "ar": ["من هذا", "من أنت", "من يأتي"],
+      "fr": ["Qui est-ce", "Qui es-tu", "Qui vient"],
+      "it": ["Chi è", "Chi sei", "Chi viene"],
+      "ru": ["Кто это", "Кто ты", "Кто приходит"],
+      "es": ["Quién es este", "Quién eres", "Quién viene"],
+      "pl": ["Kto to jest", "Kim jesteś", "Kto przychodzi"],
+      "fa": ["این چه کسی است", "تو کی هستی", "چه کسی می‌آید"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_232_es",
+    "word": "cuál",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "which, what",
+      "de": "welche, welcher",
+      "ar": "أي",
+      "fr": "quel, lequel",
+      "it": "quale",
+      "ru": "который, какой",
+      "es": "cuál",
+      "pl": "który",
+      "fa": "کدام"
+    },
+    "explanations": {
+      "en": "Interrogative pronoun asking for selection or identification",
+      "de": "Fragepronomen für Auswahl oder Identifikation",
+      "ar": "ضمير استفهام يسأل عن الاختيار أو التحديد",
+      "fr": "Pronom interrogatif demandant la sélection ou l'identification",
+      "it": "Pronome interrogativo che chiede selezione o identificazione",
+      "ru": "Вопросительное местоимение, спрашивающее о выборе или определении",
+      "es": "Pronombre interrogativo que pregunta por selección o identificación",
+      "pl": "Zaimek pytający o wybór lub identyfikację",
+      "fa": "ضمیر پرسشی که درباره انتخاب یا شناسایی می‌پرسد"
+    },
+    "examples": {
+      "en": ["Which one", "What is name", "Which car"],
+      "de": ["Welches", "Was ist Name", "Welches Auto"],
+      "ar": ["أي واحد", "ما الاسم", "أي سيارة"],
+      "fr": ["Lequel", "Quel est le nom", "Quelle voiture"],
+      "it": ["Quale", "Qual è il nome", "Quale macchina"],
+      "ru": ["Который", "Какое имя", "Какая машина"],
+      "es": ["Cuál", "Cuál es el nombre", "Cuál coche"],
+      "pl": ["Który", "Jakie jest imię", "Który samochód"],
+      "fa": ["کدام", "اسم چیست", "کدام ماشین"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_233_es",
+    "word": "cuánto",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "how much, how many",
+      "de": "wie viel, wie viele",
+      "ar": "كم",
+      "fr": "combien",
+      "it": "quanto",
+      "ru": "сколько",
+      "es": "cuánto",
+      "pl": "ile",
+      "fa": "چقدر"
+    },
+    "explanations": {
+      "en": "Interrogative adjective or pronoun asking about quantity",
+      "de": "Frageadjektiv oder Pronomen für Menge",
+      "ar": "صفة أو ضمير استفهام يسأل عن الكمية",
+      "fr": "Adjectif ou pronom interrogatif demandant la quantité",
+      "it": "Aggettivo o pronome interrogativo che chiede quantità",
+      "ru": "Вопросительное прилагательное или местоимение, спрашивающее о количестве",
+      "es": "Adjetivo o pronombre interrogativo que pregunta por cantidad",
+      "pl": "Przymiotnik lub zaimek pytający o ilość",
+      "fa": "صفت یا ضمیر پرسشی که درباره مقدار می‌پرسد"
+    },
+    "examples": {
+      "en": ["How much money", "How many people", "How much costs"],
+      "de": ["Wie viel Geld", "Wie viele Leute", "Wie viel kostet"],
+      "ar": ["كم من المال", "كم شخص", "كم يكلف"],
+      "fr": ["Combien d'argent", "Combien de gens", "Combien coûte"],
+      "it": ["Quanto denaro", "Quante persone", "Quanto costa"],
+      "ru": ["Сколько денег", "Сколько людей", "Сколько стоит"],
+      "es": ["Cuánto dinero", "Cuánta gente", "Cuánto cuesta"],
+      "pl": ["Ile pieniędzy", "Ile ludzi", "Ile kosztuje"],
+      "fa": ["چقدر پول", "چند نفر", "چقدر هزینه دارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_234_es",
+    "word": "cuándo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "when",
+      "de": "wann",
+      "ar": "متى",
+      "fr": "quand",
+      "it": "quando",
+      "ru": "когда",
+      "es": "cuándo",
+      "pl": "kiedy",
+      "fa": "کی"
+    },
+    "explanations": {
+      "en": "Interrogative adverb asking about time",
+      "de": "Frageadverb für Zeit",
+      "ar": "ظرف استفهام يسأل عن الوقت",
+      "fr": "Adverbe interrogatif demandant le temps",
+      "it": "Avverbio interrogativo che chiede tempo",
+      "ru": "Вопросительное наречие, спрашивающее о времени",
+      "es": "Adverbio interrogativo que pregunta por tiempo",
+      "pl": "Przysłówek pytający o czas",
+      "fa": "قید پرسشی که درباره زمان می‌پرسد"
+    },
+    "examples": {
+      "en": ["When is it", "When do you come", "When starts"],
+      "de": ["Wann ist es", "Wann kommst du", "Wann beginnt"],
+      "ar": ["متى هو", "متى تأتي", "متى يبدأ"],
+      "fr": ["Quand c'est", "Quand tu viens", "Quand commence"],
+      "it": ["Quando è", "Quando vieni", "Quando inizia"],
+      "ru": ["Когда это", "Когда ты приходишь", "Когда начинается"],
+      "es": ["Cuándo es", "Cuándo vienes", "Cuándo empieza"],
+      "pl": ["Kiedy to jest", "Kiedy przychodzisz", "Kiedy zaczyna"],
+      "fa": ["کی است", "کی می‌آیی", "کی شروع می‌شود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_235_es",
+    "word": "dónde",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "where",
+      "de": "wo",
+      "ar": "أين",
+      "fr": "où",
+      "it": "dove",
+      "ru": "где",
+      "es": "dónde",
+      "pl": "gdzie",
+      "fa": "کجا"
+    },
+    "explanations": {
+      "en": "Interrogative adverb asking about place",
+      "de": "Frageadverb für Ort",
+      "ar": "ظرف استفهام يسأل عن المكان",
+      "fr": "Adverbe interrogatif demandant le lieu",
+      "it": "Avverbio interrogativo che chiede luogo",
+      "ru": "Вопросительное наречие, спрашивающее о месте",
+      "es": "Adverbio interrogativo que pregunta por lugar",
+      "pl": "Przysłówek pytający o miejsce",
+      "fa": "قید پرسشی که درباره مکان می‌پرسد"
+    },
+    "examples": {
+      "en": ["Where is it", "Where do you live", "Where goes"],
+      "de": ["Wo ist es", "Wo wohnst du", "Wo geht"],
+      "ar": ["أين هو", "أين تعيش", "أين يذهب"],
+      "fr": ["Où c'est", "Où habites-tu", "Où va"],
+      "it": ["Dov'è", "Dove abiti", "Dove va"],
+      "ru": ["Где это", "Где ты живешь", "Куда идет"],
+      "es": ["Dónde está", "Dónde vives", "Dónde va"],
+      "pl": ["Gdzie to jest", "Gdzie mieszkasz", "Gdzie idzie"],
+      "fa": ["کجاست", "کجا زندگی می‌کنی", "کجا می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_236_es",
+    "word": "cómo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "how",
+      "de": "wie",
+      "ar": "كيف",
+      "fr": "comment",
+      "it": "come",
+      "ru": "как",
+      "es": "cómo",
+      "pl": "jak",
+      "fa": "چگونه"
+    },
+    "explanations": {
+      "en": "Interrogative adverb asking about manner or method",
+      "de": "Frageadverb für Art oder Methode",
+      "ar": "ظرف استفهام يسأل عن الطريقة أو الأسلوب",
+      "fr": "Adverbe interrogatif demandant la manière ou la méthode",
+      "it": "Avverbio interrogativo che chiede maniera o metodo",
+      "ru": "Вопросительное наречие, спрашивающее о способе или методе",
+      "es": "Adverbio interrogativo que pregunta por manera o método",
+      "pl": "Przysłówek pytający o sposób lub metodę",
+      "fa": "قید پرسشی که درباره روش یا شیوه می‌پرسد"
+    },
+    "examples": {
+      "en": ["How are you", "How do you do", "How works"],
+      "de": ["Wie geht es dir", "Wie machst du", "Wie funktioniert"],
+      "ar": ["كيف حالك", "كيف تفعل", "كيف يعمل"],
+      "fr": ["Comment vas-tu", "Comment fais-tu", "Comment fonctionne"],
+      "it": ["Come stai", "Come fai", "Come funziona"],
+      "ru": ["Как дела", "Как ты делаешь", "Как работает"],
+      "es": ["Cómo estás", "Cómo lo haces", "Cómo funciona"],
+      "pl": ["Jak się masz", "Jak robisz", "Jak działa"],
+      "fa": ["چطوری هستی", "چگونه انجام می‌دهی", "چگونه کار می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_237_es",
+    "word": "por qué",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "why",
+      "de": "warum",
+      "ar": "لماذا",
+      "fr": "pourquoi",
+      "it": "perché",
+      "ru": "почему",
+      "es": "por qué",
+      "pl": "dlaczego",
+      "fa": "چرا"
+    },
+    "explanations": {
+      "en": "Interrogative expression asking about reason or cause",
+      "de": "Frageausdruck für Grund oder Ursache",
+      "ar": "تعبير استفهام يسأل عن السبب أو العلة",
+      "fr": "Expression interrogative demandant la raison ou la cause",
+      "it": "Espressione interrogativa che chiede ragione o causa",
+      "ru": "Вопросительное выражение, спрашивающее о причине или основании",
+      "es": "Expresión interrogativa que pregunta por razón o causa",
+      "pl": "Wyrażenie pytające o przyczynę lub powód",
+      "fa": "عبارت پرسشی که درباره دلیل یا علت می‌پرسد"
+    },
+    "examples": {
+      "en": ["Why do you go", "Why not", "Why is this"],
+      "de": ["Warum gehst du", "Warum nicht", "Warum ist das"],
+      "ar": ["لماذا تذهب", "لماذا لا", "لماذا هذا"],
+      "fr": ["Pourquoi vas-tu", "Pourquoi pas", "Pourquoi c'est"],
+      "it": ["Perché vai", "Perché no", "Perché è questo"],
+      "ru": ["Почему ты идешь", "Почему нет", "Почему это"],
+      "es": ["Por qué vas", "Por qué no", "Por qué es esto"],
+      "pl": ["Dlaczego idziesz", "Dlaczego nie", "Dlaczego to jest"],
+      "fa": ["چرا می‌روی", "چرا نه", "چرا این است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_238_es",
+    "word": "otro",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "other, another",
+      "de": "andere",
+      "ar": "آخر",
+      "fr": "autre",
+      "it": "altro",
+      "ru": "другой",
+      "es": "otro",
+      "pl": "inny",
+      "fa": "دیگر"
+    },
+    "explanations": {
+      "en": "Adjective or pronoun indicating difference or additional item",
+      "de": "Adjektiv oder Pronomen für Unterschied oder zusätzliches Element",
+      "ar": "صفة أو ضمير يشير إلى الاختلاف أو عنصر إضافي",
+      "fr": "Adjectif ou pronom indiquant la différence ou élément supplémentaire",
+      "it": "Aggettivo o pronome che indica differenza o elemento aggiuntivo",
+      "ru": "Прилагательное или местоимение, указывающее на различие или дополнительный элемент",
+      "es": "Adjetivo o pronombre que indica diferencia o elemento adicional",
+      "pl": "Przymiotnik lub zaimek wskazujący różnicę lub dodatkowy element",
+      "fa": "صفت یا ضمیر که تفاوت یا عنصر اضافی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Other person", "Another day", "Other book"],
+      "de": ["Andere Person", "Anderer Tag", "Anderes Buch"],
+      "ar": ["شخص آخر", "يوم آخر", "كتاب آخر"],
+      "fr": ["Autre personne", "Autre jour", "Autre livre"],
+      "it": ["Altra persona", "Altro giorno", "Altro libro"],
+      "ru": ["Другой человек", "Другой день", "Другая книга"],
+      "es": ["Otra persona", "Otro día", "Otro libro"],
+      "pl": ["Inna osoba", "Inny dzień", "Inna książka"],
+      "fa": ["آدم دیگر", "روز دیگر", "کتاب دیگر"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_239_es",
+    "word": "mismo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "same",
+      "de": "gleiche, selbe",
+      "ar": "نفس",
+      "fr": "même",
+      "it": "stesso",
+      "ru": "тот же, одинаковый",
+      "es": "mismo",
+      "pl": "ten sam",
+      "fa": "همان"
+    },
+    "explanations": {
+      "en": "Adjective indicating identity or equality",
+      "de": "Adjektiv für Identität oder Gleichheit",
+      "ar": "صفة تشير إلى الهوية أو المساواة",
+      "fr": "Adjectif indiquant l'identité ou l'égalité",
+      "it": "Aggettivo che indica identità o uguaglianza",
+      "ru": "Прилагательное, указывающее на тождество или равенство",
+      "es": "Adjetivo que indica identidad o igualdad",
+      "pl": "Przymiotnik wskazujący tożsamość lub równość",
+      "fa": "صفت که هویت یا برابری را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Same person", "Same day", "Same book"],
+      "de": ["Gleiche Person", "Gleicher Tag", "Gleiches Buch"],
+      "ar": ["نفس الشخص", "نفس اليوم", "نفس الكتاب"],
+      "fr": ["Même personne", "Même jour", "Même livre"],
+      "it": ["Stessa persona", "Stesso giorno", "Stesso libro"],
+      "ru": ["Тот же человек", "Тот же день", "Та же книга"],
+      "es": ["Misma persona", "Mismo día", "Mismo libro"],
+      "pl": ["Ta sama osoba", "Ten sam dzień", "Ta sama książka"],
+      "fa": ["همان آدم", "همان روز", "همان کتاب"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_240_es",
+    "word": "cada",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "each, every",
+      "de": "jede, jeder",
+      "ar": "كل",
+      "fr": "chaque",
+      "it": "ogni",
+      "ru": "каждый",
+      "es": "cada",
+      "pl": "każdy",
+      "fa": "هر"
+    },
+    "explanations": {
+      "en": "Adjective indicating distribution or frequency",
+      "de": "Adjektiv für Verteilung oder Häufigkeit",
+      "ar": "صفة تشير إلى التوزيع أو التكرار",
+      "fr": "Adjectif indiquant la distribution ou la fréquence",
+      "it": "Aggettivo che indica distribuzione o frequenza",
+      "ru": "Прилагательное, указывающее на распределение или частоту",
+      "es": "Adjetivo que indica distribución o frecuencia",
+      "pl": "Przymiotnik wskazujący dystrybucję lub częstotliwość",
+      "fa": "صفت که توزیع یا فراوانی را نشان می‌دهد"
+    },
+    "examples": {
+      "en": ["Each person", "Every day", "Each time"],
+      "de": ["Jede Person", "Jeden Tag", "Jedes Mal"],
+      "ar": ["كل شخص", "كل يوم", "كل مرة"],
+      "fr": ["Chaque personne", "Chaque jour", "Chaque fois"],
+      "it": ["Ogni persona", "Ogni giorno", "Ogni volta"],
+      "ru": ["Каждый человек", "Каждый день", "Каждый раз"],
+      "es": ["Cada persona", "Cada día", "Cada vez"],
+      "pl": ["Każda osoba", "Każdego dnia", "Każdym razem"],
+      "fa": ["هر نفر", "هر روز", "هر بار"]
+    },
+    "conjugations": null
+  }
+]

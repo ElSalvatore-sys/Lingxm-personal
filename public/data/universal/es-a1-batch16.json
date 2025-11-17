@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_301_es",
+    "word": "feliz",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "happy",
+      "de": "glücklich",
+      "ar": "سعيد",
+      "fr": "heureux",
+      "it": "felice",
+      "ru": "счастливый",
+      "es": "feliz",
+      "pl": "szczęśliwy",
+      "fa": "خوشحال"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of joy and contentment",
+      "de": "Adjektiv, das einen Zustand der Freude und Zufriedenheit beschreibt",
+      "ar": "صفة تصف حالة من الفرح والرضا",
+      "fr": "Adjectif décrivant un état de joie et de contentement",
+      "it": "Aggettivo che descrive uno stato di gioia e contentezza",
+      "ru": "Прилагательное, описывающее состояние радости и удовлетворенности",
+      "es": "Adjetivo que describe un estado de alegría y satisfacción",
+      "pl": "Przymiotnik opisujący stan radości i zadowolenia",
+      "fa": "صفتی که حالت شادی و رضایت را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am happy today", "She is very happy", "Happy birthday to you"],
+      "de": ["Ich bin heute glücklich", "Sie ist sehr glücklich", "Alles Gute zum Geburtstag"],
+      "ar": ["أنا سعيد اليوم", "هي سعيدة جداً", "عيد ميلاد سعيد"],
+      "fr": ["Je suis heureux aujourd'hui", "Elle est très heureuse", "Joyeux anniversaire"],
+      "it": ["Sono felice oggi", "Lei è molto felice", "Buon compleanno"],
+      "ru": ["Я счастлив сегодня", "Она очень счастлива", "С днём рождения"],
+      "es": ["Estoy feliz hoy", "Ella está muy feliz", "Feliz cumpleaños"],
+      "pl": ["Jestem szczęśliwy dziś", "Ona jest bardzo szczęśliwa", "Wszystkiego najlepszego"],
+      "fa": ["امروز خوشحالم", "او خیلی خوشحال است", "تولدت مبارک"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_302_es",
+    "word": "triste",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sad",
+      "de": "traurig",
+      "ar": "حزين",
+      "fr": "triste",
+      "it": "triste",
+      "ru": "грустный",
+      "es": "triste",
+      "pl": "smutny",
+      "fa": "غمگین"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of sadness or unhappiness",
+      "de": "Adjektiv, das einen Zustand der Traurigkeit oder Unglücklichkeit beschreibt",
+      "ar": "صفة تصف حالة من الحزن أو التعاسة",
+      "fr": "Adjectif décrivant un état de tristesse ou de malheur",
+      "it": "Aggettivo che descrive uno stato di tristezza o infelicità",
+      "ru": "Прилагательное, описывающее состояние печали или несчастья",
+      "es": "Adjetivo que describe un estado de tristeza o infelicidad",
+      "pl": "Przymiotnik opisujący stan smutku lub nieszczęścia",
+      "fa": "صفتی که حالت غم یا ناراحتی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am sad today", "He looks very sad", "Why are you sad?"],
+      "de": ["Ich bin heute traurig", "Er sieht sehr traurig aus", "Warum bist du traurig?"],
+      "ar": ["أنا حزين اليوم", "يبدو حزيناً جداً", "لماذا أنت حزين؟"],
+      "fr": ["Je suis triste aujourd'hui", "Il a l'air très triste", "Pourquoi es-tu triste?"],
+      "it": ["Sono triste oggi", "Sembra molto triste", "Perché sei triste?"],
+      "ru": ["Я грустный сегодня", "Он выглядит очень грустным", "Почему ты грустный?"],
+      "es": ["Estoy triste hoy", "Él parece muy triste", "¿Por qué estás triste?"],
+      "pl": ["Jestem smutny dziś", "On wygląda bardzo smutno", "Dlaczego jesteś smutny?"],
+      "fa": ["امروز غمگینم", "او خیلی غمگین به نظر می‌رسد", "چرا غمگینی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_303_es",
+    "word": "contento",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "content, pleased",
+      "de": "zufrieden",
+      "ar": "راضٍ",
+      "fr": "content",
+      "it": "contento",
+      "ru": "довольный",
+      "es": "contento",
+      "pl": "zadowolony",
+      "fa": "راضی"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of satisfaction or contentment",
+      "de": "Adjektiv, das einen Zustand der Zufriedenheit beschreibt",
+      "ar": "صفة تصف حالة من الرضا والقناعة",
+      "fr": "Adjectif décrivant un état de satisfaction ou de contentement",
+      "it": "Aggettivo che descrive uno stato di soddisfazione o contentezza",
+      "ru": "Прилагательное, описывающее состояние удовлетворенности",
+      "es": "Adjetivo que describe un estado de satisfacción o alegría",
+      "pl": "Przymiotnik opisujący stan zadowolenia",
+      "fa": "صفتی که حالت رضایت را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am content here", "She is very pleased", "He seems content now"],
+      "de": ["Ich bin hier zufrieden", "Sie ist sehr zufrieden", "Er scheint jetzt zufrieden"],
+      "ar": ["أنا راضٍ هنا", "هي راضية جداً", "يبدو راضياً الآن"],
+      "fr": ["Je suis content ici", "Elle est très contente", "Il semble content maintenant"],
+      "it": ["Sono contento qui", "Lei è molto contenta", "Sembra contento ora"],
+      "ru": ["Я доволен здесь", "Она очень довольна", "Он кажется довольным сейчас"],
+      "es": ["Estoy contento aquí", "Ella está muy contenta", "Él parece contento ahora"],
+      "pl": ["Jestem zadowolony tutaj", "Ona jest bardzo zadowolona", "Wydaje się zadowolony teraz"],
+      "fa": ["اینجا راضی هستم", "او خیلی راضی است", "الان راضی به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_304_es",
+    "word": "enfadado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "angry, mad",
+      "de": "wütend, böse",
+      "ar": "غاضب",
+      "fr": "fâché, en colère",
+      "it": "arrabbiato",
+      "ru": "злой, сердитый",
+      "es": "enfadado",
+      "pl": "zły, rozgniewany",
+      "fa": "عصبانی"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of anger or irritation",
+      "de": "Adjektiv, das einen Zustand der Wut oder Verärgerung beschreibt",
+      "ar": "صفة تصف حالة من الغضب أو الانزعاج",
+      "fr": "Adjectif décrivant un état de colère ou d'irritation",
+      "it": "Aggettivo che descrive uno stato di rabbia o irritazione",
+      "ru": "Прилагательное, описывающее состояние гнева или раздражения",
+      "es": "Adjetivo que describe un estado de enojo o irritación",
+      "pl": "Przymiotnik opisujący stan złości lub irytacji",
+      "fa": "صفتی که حالت عصبانیت یا آزردگی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["He is very angry", "Why are you mad?", "She seems angry today"],
+      "de": ["Er ist sehr wütend", "Warum bist du böse?", "Sie scheint heute wütend"],
+      "ar": ["هو غاضب جداً", "لماذا أنت غاضب؟", "تبدو غاضبة اليوم"],
+      "fr": ["Il est très fâché", "Pourquoi es-tu en colère?", "Elle semble fâchée aujourd'hui"],
+      "it": ["È molto arrabbiato", "Perché sei arrabbiato?", "Sembra arrabbiata oggi"],
+      "ru": ["Он очень злой", "Почему ты злой?", "Она кажется злой сегодня"],
+      "es": ["Él está muy enfadado", "¿Por qué estás enfadado?", "Ella parece enfadada hoy"],
+      "pl": ["On jest bardzo zły", "Dlaczego jesteś zły?", "Wygląda na złą dziś"],
+      "fa": ["او خیلی عصبانی است", "چرا عصبانی هستی؟", "امروز عصبانی به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_305_es",
+    "word": "cansado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "tired",
+      "de": "müde",
+      "ar": "متعب",
+      "fr": "fatigué",
+      "it": "stanco",
+      "ru": "уставший",
+      "es": "cansado",
+      "pl": "zmęczony",
+      "fa": "خسته"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of physical or mental fatigue",
+      "de": "Adjektiv, das einen Zustand körperlicher oder geistiger Müdigkeit beschreibt",
+      "ar": "صفة تصف حالة من التعب الجسدي أو العقلي",
+      "fr": "Adjectif décrivant un état de fatigue physique ou mentale",
+      "it": "Aggettivo che descrive uno stato di stanchezza fisica o mentale",
+      "ru": "Прилагательное, описывающее состояние физической или умственной усталости",
+      "es": "Adjetivo que describe un estado de fatiga física o mental",
+      "pl": "Przymiotnik opisujący stan zmęczenia fizycznego lub psychicznego",
+      "fa": "صفتی که حالت خستگی جسمی یا ذهنی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am very tired", "She looks tired today", "Are you tired?"],
+      "de": ["Ich bin sehr müde", "Sie sieht heute müde aus", "Bist du müde?"],
+      "ar": ["أنا متعب جداً", "تبدو متعبة اليوم", "هل أنت متعب؟"],
+      "fr": ["Je suis très fatigué", "Elle a l'air fatiguée aujourd'hui", "Es-tu fatigué?"],
+      "it": ["Sono molto stanco", "Sembra stanca oggi", "Sei stanco?"],
+      "ru": ["Я очень устал", "Она выглядит уставшей сегодня", "Ты устал?"],
+      "es": ["Estoy muy cansado", "Ella parece cansada hoy", "¿Estás cansado?"],
+      "pl": ["Jestem bardzo zmęczony", "Wygląda na zmęczoną dziś", "Jesteś zmęczony?"],
+      "fa": ["خیلی خسته‌ام", "امروز خسته به نظر می‌رسد", "خسته هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_306_es",
+    "word": "aburrido",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "bored, boring",
+      "de": "gelangweilt, langweilig",
+      "ar": "ملل، ممل",
+      "fr": "ennuyé, ennuyeux",
+      "it": "annoiato, noioso",
+      "ru": "скучающий, скучный",
+      "es": "aburrido",
+      "pl": "znudzony, nudny",
+      "fa": "خسته‌کننده، حوصله‌سر رفته"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of boredom or something boring",
+      "de": "Adjektiv, das einen Zustand der Langeweile oder etwas Langweiliges beschreibt",
+      "ar": "صفة تصف حالة من الملل أو شيء ممل",
+      "fr": "Adjectif décrivant un état d'ennui ou quelque chose d'ennuyeux",
+      "it": "Aggettivo che descrive uno stato di noia o qualcosa di noioso",
+      "ru": "Прилагательное, описывающее состояние скуки или что-то скучное",
+      "es": "Adjetivo que describe un estado de aburrimiento o algo aburrido",
+      "pl": "Przymiotnik opisujący stan nudy lub coś nudnego",
+      "fa": "صفتی که حالت کسالت یا چیزی خسته‌کننده را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am bored here", "This movie is boring", "He looks bored"],
+      "de": ["Ich bin hier gelangweilt", "Dieser Film ist langweilig", "Er sieht gelangweilt aus"],
+      "ar": ["أنا أشعر بالملل هنا", "هذا الفيلم ممل", "يبدو مللاً"],
+      "fr": ["Je m'ennuie ici", "Ce film est ennuyeux", "Il a l'air ennuyé"],
+      "it": ["Mi annoio qui", "Questo film è noioso", "Sembra annoiato"],
+      "ru": ["Мне скучно здесь", "Этот фильм скучный", "Он выглядит скучающим"],
+      "es": ["Estoy aburrido aquí", "Esta película es aburrida", "Él parece aburrido"],
+      "pl": ["Nudzę się tutaj", "Ten film jest nudny", "Wygląda na znudzonego"],
+      "fa": ["اینجا حوصله‌ام سر رفته", "این فیلم خسته‌کننده است", "حوصله‌اش سر رفته به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_307_es",
+    "word": "interesado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "interested",
+      "de": "interessiert",
+      "ar": "مهتم",
+      "fr": "intéressé",
+      "it": "interessato",
+      "ru": "заинтересованный",
+      "es": "interesado",
+      "pl": "zainteresowany",
+      "fa": "علاقه‌مند"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of interest or curiosity in something",
+      "de": "Adjektiv, das einen Zustand des Interesses oder der Neugier auf etwas beschreibt",
+      "ar": "صفة تصف حالة من الاهتمام أو الفضول تجاه شيء",
+      "fr": "Adjectif décrivant un état d'intérêt ou de curiosité pour quelque chose",
+      "it": "Aggettivo che descrive uno stato di interesse o curiosità per qualcosa",
+      "ru": "Прилагательное, описывающее состояние заинтересованности или любопытства к чему-либо",
+      "es": "Adjetivo que describe un estado de interés o curiosidad por algo",
+      "pl": "Przymiotnik opisujący stan zainteresowania lub ciekawości czymś",
+      "fa": "صفتی که حالت علاقه یا کنجکاوی به چیزی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am interested in music", "She seems very interested", "Are you interested?"],
+      "de": ["Ich interessiere mich für Musik", "Sie scheint sehr interessiert", "Bist du interessiert?"],
+      "ar": ["أنا مهتم بالموسيقى", "تبدو مهتمة جداً", "هل أنت مهتم؟"],
+      "fr": ["Je suis intéressé par la musique", "Elle semble très intéressée", "Es-tu intéressé?"],
+      "it": ["Sono interessato alla musica", "Sembra molto interessata", "Sei interessato?"],
+      "ru": ["Я заинтересован в музыке", "Она кажется очень заинтересованной", "Ты заинтересован?"],
+      "es": ["Estoy interesado en música", "Ella parece muy interesada", "¿Estás interesado?"],
+      "pl": ["Jestem zainteresowany muzyką", "Wygląda na bardzo zainteresowaną", "Jesteś zainteresowany?"],
+      "fa": ["به موسیقی علاقه‌مندم", "خیلی علاقه‌مند به نظر می‌رسد", "علاقه‌مندی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_308_es",
+    "word": "preocupado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "worried, concerned",
+      "de": "besorgt",
+      "ar": "قلق",
+      "fr": "inquiet, préoccupé",
+      "it": "preoccupato",
+      "ru": "обеспокоенный",
+      "es": "preocupado",
+      "pl": "zaniepokojony",
+      "fa": "نگران"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of worry or concern",
+      "de": "Adjektiv, das einen Zustand der Sorge oder Besorgnis beschreibt",
+      "ar": "صفة تصف حالة من القلق أو الاهتمام",
+      "fr": "Adjectif décrivant un état d'inquiétude ou de préoccupation",
+      "it": "Aggettivo che descrive uno stato di preoccupazione",
+      "ru": "Прилагательное, описывающее состояние беспокойства или озабоченности",
+      "es": "Adjetivo que describe un estado de preocupación o inquietud",
+      "pl": "Przymiotnik opisujący stan zmartwienia lub niepokoju",
+      "fa": "صفتی که حالت نگرانی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am worried today", "She looks very concerned", "Why are you worried?"],
+      "de": ["Ich bin heute besorgt", "Sie sieht sehr besorgt aus", "Warum bist du besorgt?"],
+      "ar": ["أنا قلق اليوم", "تبدو قلقة جداً", "لماذا أنت قلق؟"],
+      "fr": ["Je suis inquiet aujourd'hui", "Elle a l'air très inquiète", "Pourquoi es-tu inquiet?"],
+      "it": ["Sono preoccupato oggi", "Sembra molto preoccupata", "Perché sei preoccupato?"],
+      "ru": ["Я обеспокоен сегодня", "Она выглядит очень обеспокоенной", "Почему ты обеспокоен?"],
+      "es": ["Estoy preocupado hoy", "Ella parece muy preocupada", "¿Por qué estás preocupado?"],
+      "pl": ["Jestem zaniepokojony dziś", "Wygląda na bardzo zaniepokojona", "Dlaczego jesteś zaniepokojony?"],
+      "fa": ["امروز نگرانم", "خیلی نگران به نظر می‌رسد", "چرا نگرانی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_309_es",
+    "word": "nervioso",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "nervous",
+      "de": "nervös",
+      "ar": "متوتر",
+      "fr": "nerveux",
+      "it": "nervoso",
+      "ru": "нервный",
+      "es": "nervioso",
+      "pl": "zdenerwowany",
+      "fa": "عصبی"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of nervousness or anxiety",
+      "de": "Adjektiv, das einen Zustand der Nervosität oder Angst beschreibt",
+      "ar": "صفة تصف حالة من التوتر أو القلق",
+      "fr": "Adjectif décrivant un état de nervosité ou d'anxiété",
+      "it": "Aggettivo che descrive uno stato di nervosismo o ansia",
+      "ru": "Прилагательное, описывающее состояние нервозности или тревоги",
+      "es": "Adjetivo que describe un estado de nerviosismo o ansiedad",
+      "pl": "Przymiotnik opisujący stan zdenerwowania lub niepokoju",
+      "fa": "صفتی که حالت عصبی یا اضطراب را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I feel nervous today", "He seems very nervous", "Are you nervous?"],
+      "de": ["Ich fühle mich heute nervös", "Er scheint sehr nervös", "Bist du nervös?"],
+      "ar": ["أشعر بالتوتر اليوم", "يبدو متوتراً جداً", "هل أنت متوتر؟"],
+      "fr": ["Je me sens nerveux aujourd'hui", "Il semble très nerveux", "Es-tu nerveux?"],
+      "it": ["Mi sento nervoso oggi", "Sembra molto nervoso", "Sei nervoso?"],
+      "ru": ["Я чувствую себя нервным сегодня", "Он кажется очень нервным", "Ты нервный?"],
+      "es": ["Me siento nervioso hoy", "Él parece muy nervioso", "¿Estás nervioso?"],
+      "pl": ["Czuję się zdenerwowany dziś", "Wydaje się bardzo zdenerwowany", "Jesteś zdenerwowany?"],
+      "fa": ["امروز عصبی هستم", "خیلی عصبی به نظر می‌رسد", "عصبی هستی؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_310_es",
+    "word": "tranquilo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "calm, quiet",
+      "de": "ruhig, gelassen",
+      "ar": "هادئ",
+      "fr": "calme, tranquille",
+      "it": "tranquillo, calmo",
+      "ru": "спокойный",
+      "es": "tranquilo",
+      "pl": "spokojny",
+      "fa": "آرام"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of calmness and peace",
+      "de": "Adjektiv, das einen Zustand der Ruhe und des Friedens beschreibt",
+      "ar": "صفة تصف حالة من الهدوء والسلام",
+      "fr": "Adjectif décrivant un état de calme et de paix",
+      "it": "Aggettivo che descrive uno stato di calma e pace",
+      "ru": "Прилагательное, описывающее состояние спокойствия и умиротворения",
+      "es": "Adjetivo que describe un estado de calma y paz",
+      "pl": "Przymiotnik opisujący stan spokoju i pokoju",
+      "fa": "صفتی که حالت آرامش و صلح را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am calm now", "This place is quiet", "He seems very calm"],
+      "de": ["Ich bin jetzt ruhig", "Dieser Ort ist ruhig", "Er scheint sehr ruhig"],
+      "ar": ["أنا هادئ الآن", "هذا المكان هادئ", "يبدو هادئاً جداً"],
+      "fr": ["Je suis calme maintenant", "Cet endroit est tranquille", "Il semble très calme"],
+      "it": ["Sono tranquillo ora", "Questo posto è tranquillo", "Sembra molto tranquillo"],
+      "ru": ["Я спокоен сейчас", "Это место тихое", "Он кажется очень спокойным"],
+      "es": ["Estoy tranquilo ahora", "Este lugar es tranquilo", "Él parece muy tranquilo"],
+      "pl": ["Jestem spokojny teraz", "To miejsce jest spokojne", "Wydaje się bardzo spokojny"],
+      "fa": ["الان آرامم", "این مکان آرام است", "خیلی آرام به نظر می‌رسد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_311_es",
+    "word": "enfermo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sick, ill",
+      "de": "krank",
+      "ar": "مريض",
+      "fr": "malade",
+      "it": "malato",
+      "ru": "больной",
+      "es": "enfermo",
+      "pl": "chory",
+      "fa": "بیمار"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of illness or poor health",
+      "de": "Adjektiv, das einen Zustand der Krankheit oder schlechten Gesundheit beschreibt",
+      "ar": "صفة تصف حالة من المرض أو الصحة السيئة",
+      "fr": "Adjectif décrivant un état de maladie ou de mauvaise santé",
+      "it": "Aggettivo che descrive uno stato di malattia o cattiva salute",
+      "ru": "Прилагательное, описывающее состояние болезни или плохого здоровья",
+      "es": "Adjetivo que describe un estado de enfermedad o mala salud",
+      "pl": "Przymiotnik opisujący stan choroby lub złego zdrowia",
+      "fa": "صفتی که حالت بیماری یا سلامتی ضعیف را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am sick today", "She is very ill", "He feels sick"],
+      "de": ["Ich bin heute krank", "Sie ist sehr krank", "Er fühlt sich krank"],
+      "ar": ["أنا مريض اليوم", "هي مريضة جداً", "يشعر بالمرض"],
+      "fr": ["Je suis malade aujourd'hui", "Elle est très malade", "Il se sent malade"],
+      "it": ["Sono malato oggi", "Lei è molto malata", "Si sente malato"],
+      "ru": ["Я болен сегодня", "Она очень больна", "Он чувствует себя больным"],
+      "es": ["Estoy enfermo hoy", "Ella está muy enferma", "Él se siente enfermo"],
+      "pl": ["Jestem chory dziś", "Ona jest bardzo chora", "Czuje się chory"],
+      "fa": ["امروز بیمارم", "او خیلی بیمار است", "احساس بیماری می‌کند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_312_es",
+    "word": "sano",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "healthy",
+      "de": "gesund",
+      "ar": "صحي",
+      "fr": "sain, en bonne santé",
+      "it": "sano",
+      "ru": "здоровый",
+      "es": "sano",
+      "pl": "zdrowy",
+      "fa": "سالم"
+    },
+    "explanations": {
+      "en": "Adjective describing a state of good health or wellness",
+      "de": "Adjektiv, das einen Zustand guter Gesundheit oder Wohlbefinden beschreibt",
+      "ar": "صفة تصف حالة من الصحة الجيدة أو العافية",
+      "fr": "Adjectif décrivant un état de bonne santé ou de bien-être",
+      "it": "Aggettivo che descrive uno stato di buona salute o benessere",
+      "ru": "Прилагательное, описывающее состояние хорошего здоровья или благополучия",
+      "es": "Adjetivo que describe un estado de buena salud o bienestar",
+      "pl": "Przymiotnik opisujący stan dobrego zdrowia lub samopoczucia",
+      "fa": "صفتی که حالت سلامت خوب یا تندرستی را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["I am healthy now", "She is very healthy", "This food is healthy"],
+      "de": ["Ich bin jetzt gesund", "Sie ist sehr gesund", "Dieses Essen ist gesund"],
+      "ar": ["أنا صحي الآن", "هي صحية جداً", "هذا الطعام صحي"],
+      "fr": ["Je suis en bonne santé maintenant", "Elle est très saine", "Cette nourriture est saine"],
+      "it": ["Sono sano ora", "Lei è molto sana", "Questo cibo è sano"],
+      "ru": ["Я здоров сейчас", "Она очень здорова", "Эта еда здоровая"],
+      "es": ["Estoy sano ahora", "Ella está muy sana", "Esta comida es sana"],
+      "pl": ["Jestem zdrowy teraz", "Ona jest bardzo zdrowa", "To jedzenie jest zdrowe"],
+      "fa": ["الان سالمم", "او خیلی سالم است", "این غذا سالم است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_313_es",
+    "word": "hambre",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hunger",
+      "de": "Hunger",
+      "ar": "جوع",
+      "fr": "faim",
+      "it": "fame",
+      "ru": "голод",
+      "es": "hambre",
+      "pl": "głód",
+      "fa": "گرسنگی"
+    },
+    "explanations": {
+      "en": "Noun expressing the feeling of needing food",
+      "de": "Substantiv, das das Gefühl beschreibt, Nahrung zu brauchen",
+      "ar": "اسم يعبر عن الشعور بالحاجة إلى الطعام",
+      "fr": "Nom exprimant le sentiment d'avoir besoin de nourriture",
+      "it": "Nome che esprime la sensazione di aver bisogno di cibo",
+      "ru": "Существительное, выражающее чувство потребности в еде",
+      "es": "Sustantivo que expresa la sensación de necesitar comida",
+      "pl": "Rzeczownik wyrażający uczucie potrzeby jedzenia",
+      "fa": "اسمی که احساس نیاز به غذا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have hunger", "She feels great hunger", "Hunger is a problem"],
+      "de": ["Ich habe Hunger", "Sie hat großen Hunger", "Hunger ist ein Problem"],
+      "ar": ["لدي جوع", "تشعر بجوع شديد", "الجوع مشكلة"],
+      "fr": ["J'ai faim", "Elle a très faim", "La faim est un problème"],
+      "it": ["Ho fame", "Lei ha molta fame", "La fame è un problema"],
+      "ru": ["Я голоден", "Она очень голодна", "Голод это проблема"],
+      "es": ["Tengo hambre", "Ella tiene mucha hambre", "El hambre es problema"],
+      "pl": ["Mam głód", "Ona ma wielki głód", "Głód jest problemem"],
+      "fa": ["گرسنه‌ام", "او خیلی گرسنه است", "گرسنگی مشکل است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_314_es",
+    "word": "sed",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "thirst",
+      "de": "Durst",
+      "ar": "عطش",
+      "fr": "soif",
+      "it": "sete",
+      "ru": "жажда",
+      "es": "sed",
+      "pl": "pragnienie",
+      "fa": "تشنگی"
+    },
+    "explanations": {
+      "en": "Noun expressing the feeling of needing to drink",
+      "de": "Substantiv, das das Gefühl beschreibt, trinken zu müssen",
+      "ar": "اسم يعبر عن الشعور بالحاجة إلى الشرب",
+      "fr": "Nom exprimant le sentiment d'avoir besoin de boire",
+      "it": "Nome che esprime la sensazione di aver bisogno di bere",
+      "ru": "Существительное, выражающее чувство потребности в питье",
+      "es": "Sustantivo que expresa la sensación de necesitar beber",
+      "pl": "Rzeczownik wyrażający uczucie potrzeby picia",
+      "fa": "اسمی که احساس نیاز به نوشیدن را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have thirst", "She feels great thirst", "Thirst is uncomfortable"],
+      "de": ["Ich habe Durst", "Sie hat großen Durst", "Durst ist unangenehm"],
+      "ar": ["لدي عطش", "تشعر بعطش شديد", "العطش مزعج"],
+      "fr": ["J'ai soif", "Elle a très soif", "La soif est inconfortable"],
+      "it": ["Ho sete", "Lei ha molta sete", "La sete è scomoda"],
+      "ru": ["Я испытываю жажду", "Она очень хочет пить", "Жажда неприятна"],
+      "es": ["Tengo sed", "Ella tiene mucha sed", "La sed es incómoda"],
+      "pl": ["Mam pragnienie", "Ona ma wielkie pragnienie", "Pragnienie jest niewygodne"],
+      "fa": ["تشنه‌ام", "او خیلی تشنه است", "تشنگی ناراحت‌کننده است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_315_es",
+    "word": "sueño",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "sleep, sleepiness, dream",
+      "de": "Schlaf, Schläfrigkeit, Traum",
+      "ar": "نوم، نعاس، حلم",
+      "fr": "sommeil, somnolence, rêve",
+      "it": "sonno, sonnolenza, sogno",
+      "ru": "сон, сонливость",
+      "es": "sueño",
+      "pl": "sen, senność",
+      "fa": "خواب، خواب‌آلودگی"
+    },
+    "explanations": {
+      "en": "Noun expressing sleepiness or the need to sleep, also means dream",
+      "de": "Substantiv, das Schläfrigkeit oder das Bedürfnis zu schlafen ausdrückt, bedeutet auch Traum",
+      "ar": "اسم يعبر عن النعاس أو الحاجة إلى النوم، ويعني أيضاً الحلم",
+      "fr": "Nom exprimant la somnolence ou le besoin de dormir, signifie aussi rêve",
+      "it": "Nome che esprime sonnolenza o bisogno di dormire, significa anche sogno",
+      "ru": "Существительное, выражающее сонливость или потребность спать, также означает сон",
+      "es": "Sustantivo que expresa somnolencia o necesidad de dormir, también significa sueño",
+      "pl": "Rzeczownik wyrażający senność lub potrzebę snu, oznacza też sen",
+      "fa": "اسمی که خواب‌آلودگی یا نیاز به خواب را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have sleep", "She feels sleepy", "I had a dream"],
+      "de": ["Ich bin müde", "Sie ist schläfrig", "Ich hatte einen Traum"],
+      "ar": ["لدي نعاس", "تشعر بالنعاس", "كان لدي حلم"],
+      "fr": ["J'ai sommeil", "Elle a sommeil", "J'ai fait un rêve"],
+      "it": ["Ho sonno", "Lei ha sonno", "Ho fatto un sogno"],
+      "ru": ["Я хочу спать", "Она хочет спать", "Мне приснился сон"],
+      "es": ["Tengo sueño", "Ella tiene sueño", "Tuve un sueño"],
+      "pl": ["Chce mi się spać", "Ona jest senna", "Miałem sen"],
+      "fa": ["خوابم می‌آید", "او خواب‌آلوده است", "خواب دیدم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_316_es",
+    "word": "frío",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cold (noun/adj)",
+      "de": "Kälte, kalt",
+      "ar": "برد، بارد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холод, холодный",
+      "es": "frío",
+      "pl": "zimno, zimny",
+      "fa": "سرما، سرد"
+    },
+    "explanations": {
+      "en": "Noun expressing the sensation of cold or low temperature",
+      "de": "Substantiv, das das Gefühl von Kälte oder niedriger Temperatur ausdrückt",
+      "ar": "اسم يعبر عن الإحساس بالبرودة أو درجة حرارة منخفضة",
+      "fr": "Nom exprimant la sensation de froid ou de basse température",
+      "it": "Nome che esprime la sensazione di freddo o bassa temperatura",
+      "ru": "Существительное, выражающее ощущение холода или низкой температуры",
+      "es": "Sustantivo que expresa la sensación de frío o temperatura baja",
+      "pl": "Rzeczownik wyrażający uczucie zimna lub niskiej temperatury",
+      "fa": "اسمی که احساس سرما یا دمای پایین را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I feel cold", "The cold is intense", "It is cold today"],
+      "de": ["Mir ist kalt", "Die Kälte ist intensiv", "Es ist kalt heute"],
+      "ar": ["أشعر بالبرد", "البرد شديد", "الجو بارد اليوم"],
+      "fr": ["J'ai froid", "Le froid est intense", "Il fait froid aujourd'hui"],
+      "it": ["Ho freddo", "Il freddo è intenso", "Fa freddo oggi"],
+      "ru": ["Мне холодно", "Холод сильный", "Сегодня холодно"],
+      "es": ["Tengo frío", "El frío es intenso", "Hace frío hoy"],
+      "pl": ["Jest mi zimno", "Zimno jest intensywne", "Jest zimno dziś"],
+      "fa": ["سردم است", "سرما شدید است", "امروز سرد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_317_es",
+    "word": "calor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "heat, warmth",
+      "de": "Hitze, Wärme",
+      "ar": "حرارة، دفء",
+      "fr": "chaleur",
+      "it": "caldo, calore",
+      "ru": "жара, тепло",
+      "es": "calor",
+      "pl": "ciepło, gorąco",
+      "fa": "گرما"
+    },
+    "explanations": {
+      "en": "Noun expressing the sensation of heat or high temperature",
+      "de": "Substantiv, das das Gefühl von Hitze oder hoher Temperatur ausdrückt",
+      "ar": "اسم يعبر عن الإحساس بالحرارة أو درجة حرارة عالية",
+      "fr": "Nom exprimant la sensation de chaleur ou de haute température",
+      "it": "Nome che esprime la sensazione di caldo o alta temperatura",
+      "ru": "Существительное, выражающее ощущение жары или высокой температуры",
+      "es": "Sustantivo que expresa la sensación de calor o temperatura alta",
+      "pl": "Rzeczownik wyrażający uczucie ciepła lub wysokiej temperatury",
+      "fa": "اسمی که احساس گرما یا دمای بالا را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I feel hot", "The heat is intense", "It is hot today"],
+      "de": ["Mir ist heiß", "Die Hitze ist intensiv", "Es ist heiß heute"],
+      "ar": ["أشعر بالحر", "الحرارة شديدة", "الجو حار اليوم"],
+      "fr": ["J'ai chaud", "La chaleur est intense", "Il fait chaud aujourd'hui"],
+      "it": ["Ho caldo", "Il caldo è intenso", "Fa caldo oggi"],
+      "ru": ["Мне жарко", "Жара сильная", "Сегодня жарко"],
+      "es": ["Tengo calor", "El calor es intenso", "Hace calor hoy"],
+      "pl": ["Jest mi gorąco", "Gorąco jest intensywne", "Jest gorąco dziś"],
+      "fa": ["گرمم است", "گرما شدید است", "امروز گرم است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_318_es",
+    "word": "miedo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "fear",
+      "de": "Angst",
+      "ar": "خوف",
+      "fr": "peur",
+      "it": "paura",
+      "ru": "страх",
+      "es": "miedo",
+      "pl": "strach",
+      "fa": "ترس"
+    },
+    "explanations": {
+      "en": "Noun expressing the feeling of being afraid or frightened",
+      "de": "Substantiv, das das Gefühl beschreibt, Angst zu haben oder erschrocken zu sein",
+      "ar": "اسم يعبر عن الشعور بالخوف أو الفزع",
+      "fr": "Nom exprimant le sentiment d'avoir peur ou d'être effrayé",
+      "it": "Nome che esprime la sensazione di avere paura o essere spaventato",
+      "ru": "Существительное, выражающее чувство страха или испуга",
+      "es": "Sustantivo que expresa el sentimiento de tener miedo o estar asustado",
+      "pl": "Rzeczownik wyrażający uczucie strachu lub bycia przestraszonym",
+      "fa": "اسمی که احساس ترس یا وحشت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["I have fear", "She feels great fear", "Fear is natural"],
+      "de": ["Ich habe Angst", "Sie hat große Angst", "Angst ist natürlich"],
+      "ar": ["لدي خوف", "تشعر بخوف كبير", "الخوف طبيعي"],
+      "fr": ["J'ai peur", "Elle a très peur", "La peur est naturelle"],
+      "it": ["Ho paura", "Lei ha molta paura", "La paura è naturale"],
+      "ru": ["Я боюсь", "Она очень боится", "Страх естественен"],
+      "es": ["Tengo miedo", "Ella tiene mucho miedo", "El miedo es natural"],
+      "pl": ["Mam strach", "Ona ma wielki strach", "Strach jest naturalny"],
+      "fa": ["ترسیده‌ام", "او خیلی ترسیده است", "ترس طبیعی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_319_es",
+    "word": "amor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "love",
+      "de": "Liebe",
+      "ar": "حب",
+      "fr": "amour",
+      "it": "amore",
+      "ru": "любовь",
+      "es": "amor",
+      "pl": "miłość",
+      "fa": "عشق"
+    },
+    "explanations": {
+      "en": "Noun expressing the feeling of deep affection and care",
+      "de": "Substantiv, das das Gefühl tiefer Zuneigung und Fürsorge ausdrückt",
+      "ar": "اسم يعبر عن الشعور بالعاطفة العميقة والاهتمام",
+      "fr": "Nom exprimant le sentiment d'affection profonde et de soin",
+      "it": "Nome che esprime il sentimento di affetto profondo e cura",
+      "ru": "Существительное, выражающее чувство глубокой привязанности и заботы",
+      "es": "Sustantivo que expresa el sentimiento de afecto profundo y cuidado",
+      "pl": "Rzeczownik wyrażający uczucie głębokiej miłości i troski",
+      "fa": "اسمی که احساس محبت عمیق و مراقبت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["Love is important", "I feel love", "Love is beautiful"],
+      "de": ["Liebe ist wichtig", "Ich fühle Liebe", "Liebe ist schön"],
+      "ar": ["الحب مهم", "أشعر بالحب", "الحب جميل"],
+      "fr": ["L'amour est important", "Je ressens l'amour", "L'amour est beau"],
+      "it": ["L'amore è importante", "Sento amore", "L'amore è bello"],
+      "ru": ["Любовь важна", "Я чувствую любовь", "Любовь прекрасна"],
+      "es": ["El amor es importante", "Siento amor", "El amor es hermoso"],
+      "pl": ["Miłość jest ważna", "Czuję miłość", "Miłość jest piękna"],
+      "fa": ["عشق مهم است", "احساس عشق می‌کنم", "عشق زیباست"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_320_es",
+    "word": "odio",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hate, hatred",
+      "de": "Hass",
+      "ar": "كراهية",
+      "fr": "haine",
+      "it": "odio",
+      "ru": "ненависть",
+      "es": "odio",
+      "pl": "nienawiść",
+      "fa": "نفرت"
+    },
+    "explanations": {
+      "en": "Noun expressing the feeling of intense dislike or hatred",
+      "de": "Substantiv, das das Gefühl intensiver Abneigung oder Hass ausdrückt",
+      "ar": "اسم يعبر عن الشعور بالكراهية الشديدة",
+      "fr": "Nom exprimant le sentiment d'antipathie intense ou de haine",
+      "it": "Nome che esprime il sentimento di forte antipatia o odio",
+      "ru": "Существительное, выражающее чувство сильной неприязни или ненависти",
+      "es": "Sustantivo que expresa el sentimiento de disgusto intenso u odio",
+      "pl": "Rzeczownik wyrażający uczucie intensywnej niechęci lub nienawiści",
+      "fa": "اسمی که احساس انزجار شدید یا نفرت را بیان می‌کند"
+    },
+    "examples": {
+      "en": ["Hate is negative", "I feel hate", "Hate is destructive"],
+      "de": ["Hass ist negativ", "Ich fühle Hass", "Hass ist destruktiv"],
+      "ar": ["الكراهية سلبية", "أشعر بالكراهية", "الكراهية مدمرة"],
+      "fr": ["La haine est négative", "Je ressens la haine", "La haine est destructrice"],
+      "it": ["L'odio è negativo", "Sento odio", "L'odio è distruttivo"],
+      "ru": ["Ненависть негативна", "Я чувствую ненависть", "Ненависть разрушительна"],
+      "es": ["El odio es negativo", "Siento odio", "El odio es destructivo"],
+      "pl": ["Nienawiść jest negatywna", "Czuję nienawiść", "Nienawiść jest destrukcyjna"],
+      "fa": ["نفرت منفی است", "احساس نفرت می‌کنم", "نفرت ویرانگر است"]
+    },
+    "conjugations": null
+  }
+]

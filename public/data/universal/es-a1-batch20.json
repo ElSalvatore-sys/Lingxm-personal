@@ -1,0 +1,802 @@
+[
+  {
+    "id": "universal_a1_381_es",
+    "word": "tiempo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "weather, time",
+      "de": "Wetter, Zeit",
+      "ar": "طقس، وقت",
+      "fr": "temps (météo), temps",
+      "it": "tempo (meteorologico)",
+      "ru": "погода, время",
+      "es": "tiempo",
+      "pl": "pogoda, czas",
+      "fa": "آب و هوا، زمان"
+    },
+    "explanations": {
+      "en": "Noun referring to atmospheric conditions or duration",
+      "de": "Substantiv für atmosphärische Bedingungen oder Dauer",
+      "ar": "اسم يشير إلى الظروف الجوية أو المدة",
+      "fr": "Nom désignant les conditions atmosphériques ou la durée",
+      "it": "Nome che si riferisce alle condizioni atmosferiche o durata",
+      "ru": "Существительное, обозначающее атмосферные условия или продолжительность",
+      "es": "Sustantivo que se refiere a las condiciones atmosféricas o duración",
+      "pl": "Rzeczownik odnoszący się do warunków atmosferycznych lub czasu trwania",
+      "fa": "اسمی که به شرایط جوی یا مدت زمان اشاره دارد"
+    },
+    "examples": {
+      "en": ["The weather is nice", "I need more time", "What's the weather today?"],
+      "de": ["Das Wetter ist schön", "Ich brauche mehr Zeit", "Wie ist Wetter heute?"],
+      "ar": ["الطقس جميل", "أحتاج إلى مزيد من الوقت", "كيف الطقس اليوم؟"],
+      "fr": ["Le temps est beau", "J'ai besoin de temps", "Quel temps fait-il?"],
+      "it": ["Il tempo è bello", "Ho bisogno di tempo", "Che tempo fa oggi?"],
+      "ru": ["Погода хорошая", "Мне нужно больше времени", "Какая погода сегодня?"],
+      "es": ["El tiempo es bueno", "Necesito más tiempo", "¿Qué tiempo hace hoy?"],
+      "pl": ["Pogoda jest ładna", "Potrzebuję więcej czasu", "Jaka jest pogoda?"],
+      "fa": ["هوا خوب است", "به زمان بیشتر نیاز دارم", "امروز هوا چطور است؟"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_382_es",
+    "word": "clima",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "climate",
+      "de": "Klima",
+      "ar": "مناخ",
+      "fr": "climat",
+      "it": "clima",
+      "ru": "климат",
+      "es": "clima",
+      "pl": "klimat",
+      "fa": "آب و هوا"
+    },
+    "explanations": {
+      "en": "Noun referring to the typical weather patterns of a region",
+      "de": "Substantiv für die typischen Wettermuster einer Region",
+      "ar": "اسم يشير إلى أنماط الطقس النموذجية لمنطقة",
+      "fr": "Nom désignant les conditions météorologiques typiques d'une région",
+      "it": "Nome che si riferisce ai modelli meteorologici tipici di una regione",
+      "ru": "Существительное, обозначающее типичные погодные условия региона",
+      "es": "Sustantivo que se refiere a los patrones climáticos típicos de una región",
+      "pl": "Rzeczownik odnoszący się do typowych wzorców pogodowych regionu",
+      "fa": "اسمی که به الگوهای معمول آب و هوای یک منطقه اشاره دارد"
+    },
+    "examples": {
+      "en": ["The climate is warm", "I like this climate", "Climate change is real"],
+      "de": ["Das Klima ist warm", "Ich mag dieses Klima", "Klimawandel ist real"],
+      "ar": ["المناخ دافئ", "أحب هذا المناخ", "تغير المناخ حقيقي"],
+      "fr": ["Le climat est chaud", "J'aime ce climat", "Le changement climatique est réel"],
+      "it": ["Il clima è caldo", "Mi piace questo clima", "Il cambiamento climatico è reale"],
+      "ru": ["Климат тёплый", "Мне нравится этот климат", "Изменение климата реально"],
+      "es": ["El clima es cálido", "Me gusta este clima", "El cambio climático es real"],
+      "pl": ["Klimat jest ciepły", "Lubię ten klimat", "Zmiana klimatu jest prawdziwa"],
+      "fa": ["آب و هوا گرم است", "این آب و هوا را دوست دارم", "تغییر اقلیم واقعی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_383_es",
+    "word": "temperatura",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "temperature",
+      "de": "Temperatur",
+      "ar": "درجة حرارة",
+      "fr": "température",
+      "it": "temperatura",
+      "ru": "температура",
+      "es": "temperatura",
+      "pl": "temperatura",
+      "fa": "دما"
+    },
+    "explanations": {
+      "en": "Noun referring to the degree of heat or cold",
+      "de": "Substantiv für den Grad der Hitze oder Kälte",
+      "ar": "اسم يشير إلى درجة الحرارة أو البرودة",
+      "fr": "Nom désignant le degré de chaleur ou de froid",
+      "it": "Nome che si riferisce al grado di calore o freddo",
+      "ru": "Существительное, обозначающее степень жары или холода",
+      "es": "Sustantivo que se refiere al grado de calor o frío",
+      "pl": "Rzeczownik odnoszący się do stopnia ciepła lub zimna",
+      "fa": "اسمی که به درجه گرما یا سرما اشاره دارد"
+    },
+    "examples": {
+      "en": ["The temperature is high", "Check the temperature", "Temperature rises in summer"],
+      "de": ["Die Temperatur ist hoch", "Prüf die Temperatur", "Temperatur steigt im Sommer"],
+      "ar": ["درجة الحرارة مرتفعة", "تحقق من درجة الحرارة", "ترتفع الحرارة في الصيف"],
+      "fr": ["La température est élevée", "Vérifie la température", "Température monte en été"],
+      "it": ["La temperatura è alta", "Controlla la temperatura", "Temperatura sale in estate"],
+      "ru": ["Температура высокая", "Проверь температуру", "Температура растёт летом"],
+      "es": ["La temperatura es alta", "Mira la temperatura", "La temperatura sube verano"],
+      "pl": ["Temperatura jest wysoka", "Sprawdź temperaturę", "Temperatura rośnie latem"],
+      "fa": ["دما بالاست", "دما را بررسی کن", "دما تابستان بالا می‌رود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_384_es",
+    "word": "grado",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "degree",
+      "de": "Grad",
+      "ar": "درجة",
+      "fr": "degré",
+      "it": "grado",
+      "ru": "градус",
+      "es": "grado",
+      "pl": "stopień",
+      "fa": "درجه"
+    },
+    "explanations": {
+      "en": "Noun referring to a unit of measurement for temperature or angles",
+      "de": "Substantiv für eine Maßeinheit für Temperatur oder Winkel",
+      "ar": "اسم يشير إلى وحدة قياس لدرجة الحرارة أو الزوايا",
+      "fr": "Nom désignant une unité de mesure pour la température ou les angles",
+      "it": "Nome che si riferisce a un'unità di misura per temperatura o angoli",
+      "ru": "Существительное, обозначающее единицу измерения температуры или углов",
+      "es": "Sustantivo que se refiere a una unidad de medida para temperatura o ángulos",
+      "pl": "Rzeczownik odnoszący się do jednostki miary temperatury lub kątów",
+      "fa": "اسمی که به واحد اندازه‌گیری دما یا زاویه اشاره دارد"
+    },
+    "examples": {
+      "en": ["It's thirty degrees", "The angle is ninety degrees", "Temperature is high degree"],
+      "de": ["Es sind dreißig Grad", "Der Winkel ist neunzig Grad", "Temperatur ist hoher Grad"],
+      "ar": ["ثلاثون درجة", "الزاوية تسعون درجة", "الحرارة درجة عالية"],
+      "fr": ["Il fait trente degrés", "L'angle est quatre-vingt-dix degrés", "Température est haut degré"],
+      "it": ["Fa trenta gradi", "L'angolo è novanta gradi", "Temperatura è grado alto"],
+      "ru": ["Тридцать градусов", "Угол девяносто градусов", "Температура высокая"],
+      "es": ["Hace treinta grados", "El ángulo es noventa grados", "Temperatura es grado alto"],
+      "pl": ["Jest trzydzieści stopni", "Kąt to dziewięćdziesiąt stopni", "Temperatura jest wysoka"],
+      "fa": ["سی درجه است", "زاویه نود درجه است", "دما درجه بالایی است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_385_es",
+    "word": "caliente",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "hot (adj)",
+      "de": "heiß",
+      "ar": "ساخن",
+      "fr": "chaud",
+      "it": "caldo",
+      "ru": "горячий",
+      "es": "caliente",
+      "pl": "gorący",
+      "fa": "داغ"
+    },
+    "explanations": {
+      "en": "Adjective describing high temperature",
+      "de": "Adjektiv, das hohe Temperatur beschreibt",
+      "ar": "صفة تصف درجة حرارة عالية",
+      "fr": "Adjectif décrivant une température élevée",
+      "it": "Aggettivo che descrive temperatura alta",
+      "ru": "Прилагательное, описывающее высокую температуру",
+      "es": "Adjetivo que describe temperatura alta",
+      "pl": "Przymiotnik opisujący wysoką temperaturę",
+      "fa": "صفتی که دمای بالا را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The water is hot", "This coffee is hot", "The day is hot"],
+      "de": ["Das Wasser ist heiß", "Dieser Kaffee ist heiß", "Der Tag ist heiß"],
+      "ar": ["الماء ساخن", "هذه القهوة ساخنة", "اليوم حار"],
+      "fr": ["L'eau est chaude", "Ce café est chaud", "La journée est chaude"],
+      "it": ["L'acqua è calda", "Questo caffè è caldo", "Il giorno è caldo"],
+      "ru": ["Вода горячая", "Этот кофе горячий", "День жаркий"],
+      "es": ["El agua está caliente", "Este café está caliente", "El día está caliente"],
+      "pl": ["Woda jest gorąca", "Ta kawa jest gorąca", "Dzień jest gorący"],
+      "fa": ["آب داغ است", "این قهوه داغ است", "روز گرم است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_386_es",
+    "word": "frío",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cold (adj)",
+      "de": "kalt",
+      "ar": "بارد",
+      "fr": "froid",
+      "it": "freddo",
+      "ru": "холодный",
+      "es": "frío",
+      "pl": "zimny",
+      "fa": "سرد"
+    },
+    "explanations": {
+      "en": "Adjective describing low temperature",
+      "de": "Adjektiv, das niedrige Temperatur beschreibt",
+      "ar": "صفة تصف درجة حرارة منخفضة",
+      "fr": "Adjectif décrivant une basse température",
+      "it": "Aggettivo che descrive temperatura bassa",
+      "ru": "Прилагательное, описывающее низкую температуру",
+      "es": "Adjetivo que describe temperatura baja",
+      "pl": "Przymiotnik opisujący niską temperaturę",
+      "fa": "صفتی که دمای پایین را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The water is cold", "This ice is cold", "The night is cold"],
+      "de": ["Das Wasser ist kalt", "Dieses Eis ist kalt", "Die Nacht ist kalt"],
+      "ar": ["الماء بارد", "هذا الثلج بارد", "الليل بارد"],
+      "fr": ["L'eau est froide", "Cette glace est froide", "La nuit est froide"],
+      "it": ["L'acqua è fredda", "Questo ghiaccio è freddo", "La notte è fredda"],
+      "ru": ["Вода холодная", "Этот лёд холодный", "Ночь холодная"],
+      "es": ["El agua está fría", "Este hielo está frío", "La noche está fría"],
+      "pl": ["Woda jest zimna", "Ten lód jest zimny", "Noc jest zimna"],
+      "fa": ["آب سرد است", "این یخ سرد است", "شب سرد است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_387_es",
+    "word": "calor",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "heat (noun)",
+      "de": "Hitze",
+      "ar": "حرارة",
+      "fr": "chaleur",
+      "it": "calore",
+      "ru": "жара",
+      "es": "calor",
+      "pl": "gorąco",
+      "fa": "گرما"
+    },
+    "explanations": {
+      "en": "Noun referring to high temperature or warmth",
+      "de": "Substantiv für hohe Temperatur oder Wärme",
+      "ar": "اسم يشير إلى درجة حرارة عالية أو دفء",
+      "fr": "Nom désignant une température élevée ou chaleur",
+      "it": "Nome che si riferisce a temperatura alta o calore",
+      "ru": "Существительное, обозначающее высокую температуру или тепло",
+      "es": "Sustantivo que se refiere a temperatura alta o calor",
+      "pl": "Rzeczownik odnoszący się do wysokiej temperatury lub ciepła",
+      "fa": "اسمی که به دمای بالا یا گرما اشاره دارد"
+    },
+    "examples": {
+      "en": ["I feel the heat", "The heat is intense", "Heat of the summer"],
+      "de": ["Ich spüre die Hitze", "Die Hitze ist intensiv", "Hitze des Sommers"],
+      "ar": ["أشعر بالحرارة", "الحرارة شديدة", "حرارة الصيف"],
+      "fr": ["Je sens la chaleur", "La chaleur est intense", "Chaleur de l'été"],
+      "it": ["Sento il calore", "Il calore è intenso", "Calore dell'estate"],
+      "ru": ["Я чувствую жару", "Жара сильная", "Жара лета"],
+      "es": ["Siento el calor", "El calor es intenso", "Calor del verano"],
+      "pl": ["Czuję gorąco", "Gorąco jest intensywne", "Gorąco lata"],
+      "fa": ["گرما را احساس می‌کنم", "گرما شدید است", "گرمای تابستان"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_388_es",
+    "word": "fresco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "cool, fresh",
+      "de": "frisch, kühl",
+      "ar": "منعش، طازج",
+      "fr": "frais",
+      "it": "fresco",
+      "ru": "свежий, прохладный",
+      "es": "fresco",
+      "pl": "świeży, chłodny",
+      "fa": "خنک، تازه"
+    },
+    "explanations": {
+      "en": "Adjective describing moderate coolness or freshness",
+      "de": "Adjektiv, das mäßige Kühle oder Frische beschreibt",
+      "ar": "صفة تصف البرودة المعتدلة أو النضارة",
+      "fr": "Adjectif décrivant une fraîcheur modérée",
+      "it": "Aggettivo che descrive freschezza o fresco moderato",
+      "ru": "Прилагательное, описывающее умеренную прохладу или свежесть",
+      "es": "Adjetivo que describe frescura o frío moderado",
+      "pl": "Przymiotnik opisujący umiarkowane chłodno lub świeżość",
+      "fa": "صفتی که خنکی یا تازگی متوسط را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The air is fresh", "I like cool weather", "This fruit is fresh"],
+      "de": ["Die Luft ist frisch", "Ich mag kühles Wetter", "Diese Frucht ist frisch"],
+      "ar": ["الهواء منعش", "أحب الطقس البارد", "هذه الفاكهة طازجة"],
+      "fr": ["L'air est frais", "J'aime temps frais", "Ce fruit est frais"],
+      "it": ["L'aria è fresca", "Mi piace tempo fresco", "Questa frutta è fresca"],
+      "ru": ["Воздух свежий", "Мне нравится прохладная погода", "Этот фрукт свежий"],
+      "es": ["El aire está fresco", "Me gusta tiempo fresco", "Esta fruta está fresca"],
+      "pl": ["Powietrze jest świeże", "Lubię chłodną pogodę", "Ten owoc jest świeży"],
+      "fa": ["هوا خنک است", "هوای خنک را دوست دارم", "این میوه تازه است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_389_es",
+    "word": "seco",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "dry",
+      "de": "trocken",
+      "ar": "جاف",
+      "fr": "sec",
+      "it": "secco",
+      "ru": "сухой",
+      "es": "seco",
+      "pl": "suchy",
+      "fa": "خشک"
+    },
+    "explanations": {
+      "en": "Adjective describing lack of moisture or water",
+      "de": "Adjektiv, das Mangel an Feuchtigkeit oder Wasser beschreibt",
+      "ar": "صفة تصف نقص الرطوبة أو الماء",
+      "fr": "Adjectif décrivant un manque d'humidité ou d'eau",
+      "it": "Aggettivo che descrive mancanza di umidità o acqua",
+      "ru": "Прилагательное, описывающее отсутствие влаги или воды",
+      "es": "Adjetivo que describe falta de humedad o agua",
+      "pl": "Przymiotnik opisujący brak wilgoci lub wody",
+      "fa": "صفتی که فقدان رطوبت یا آب را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The air is dry", "My skin is dry", "The desert is dry"],
+      "de": ["Die Luft ist trocken", "Meine Haut ist trocken", "Die Wüste ist trocken"],
+      "ar": ["الهواء جاف", "جلدي جاف", "الصحراء جافة"],
+      "fr": ["L'air est sec", "Ma peau est sèche", "Le désert est sec"],
+      "it": ["L'aria è secca", "La mia pelle è secca", "Il deserto è secco"],
+      "ru": ["Воздух сухой", "Моя кожа сухая", "Пустыня сухая"],
+      "es": ["El aire está seco", "Mi piel está seca", "El desierto es seco"],
+      "pl": ["Powietrze jest suche", "Moja skóra jest sucha", "Pustynia jest sucha"],
+      "fa": ["هوا خشک است", "پوست من خشک است", "صحرا خشک است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_390_es",
+    "word": "húmedo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "humid, damp",
+      "de": "feucht",
+      "ar": "رطب",
+      "fr": "humide",
+      "it": "umido",
+      "ru": "влажный",
+      "es": "húmedo",
+      "pl": "wilgotny",
+      "fa": "مرطوب"
+    },
+    "explanations": {
+      "en": "Adjective describing presence of moisture in the air",
+      "de": "Adjektiv, das Vorhandensein von Feuchtigkeit in der Luft beschreibt",
+      "ar": "صفة تصف وجود الرطوبة في الهواء",
+      "fr": "Adjectif décrivant la présence d'humidité dans l'air",
+      "it": "Aggettivo che descrive presenza di umidità nell'aria",
+      "ru": "Прилагательное, описывающее наличие влаги в воздухе",
+      "es": "Adjetivo que describe presencia de humedad en el aire",
+      "pl": "Przymiotnik opisujący obecność wilgoci w powietrzu",
+      "fa": "صفتی که وجود رطوبت در هوا را توصیف می‌کند"
+    },
+    "examples": {
+      "en": ["The air is humid", "The cloth is damp", "Humid weather today"],
+      "de": ["Die Luft ist feucht", "Das Tuch ist feucht", "Feuchtes Wetter heute"],
+      "ar": ["الهواء رطب", "القماش رطب", "طقس رطب اليوم"],
+      "fr": ["L'air est humide", "Le tissu est humide", "Temps humide aujourd'hui"],
+      "it": ["L'aria è umida", "Il tessuto è umido", "Tempo umido oggi"],
+      "ru": ["Воздух влажный", "Ткань влажная", "Влажная погода сегодня"],
+      "es": ["El aire está húmedo", "La tela está húmeda", "Tiempo húmedo hoy"],
+      "pl": ["Powietrze jest wilgotne", "Tkanina jest wilgotna", "Wilgotna pogoda dziś"],
+      "fa": ["هوا مرطوب است", "پارچه مرطوب است", "امروز هوا مرطوب است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_391_es",
+    "word": "primavera",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "spring",
+      "de": "Frühling",
+      "ar": "ربيع",
+      "fr": "printemps",
+      "it": "primavera",
+      "ru": "весна",
+      "es": "primavera",
+      "pl": "wiosna",
+      "fa": "بهار"
+    },
+    "explanations": {
+      "en": "Noun referring to the season between winter and summer",
+      "de": "Substantiv für die Jahreszeit zwischen Winter und Sommer",
+      "ar": "اسم يشير إلى الموسم بين الشتاء والصيف",
+      "fr": "Nom désignant la saison entre l'hiver et l'été",
+      "it": "Nome che si riferisce alla stagione tra inverno ed estate",
+      "ru": "Существительное, обозначающее сезон между зимой и летом",
+      "es": "Sustantivo que se refiere a la estación entre invierno y verano",
+      "pl": "Rzeczownik odnoszący się do pory roku między zimą a latem",
+      "fa": "اسمی که به فصل بین زمستان و تابستان اشاره دارد"
+    },
+    "examples": {
+      "en": ["I love spring", "Spring is beautiful", "Flowers bloom in spring"],
+      "de": ["Ich liebe Frühling", "Frühling ist schön", "Blumen blühen im Frühling"],
+      "ar": ["أحب الربيع", "الربيع جميل", "الزهور تتفتح في الربيع"],
+      "fr": ["J'aime le printemps", "Le printemps est beau", "Fleurs fleurissent au printemps"],
+      "it": ["Amo la primavera", "La primavera è bella", "Fiori sbocciano in primavera"],
+      "ru": ["Я люблю весну", "Весна красивая", "Цветы цветут весной"],
+      "es": ["Me encanta la primavera", "La primavera es hermosa", "Las flores florecen primavera"],
+      "pl": ["Uwielbiam wiosnę", "Wiosna jest piękna", "Kwiaty kwitną na wiosnę"],
+      "fa": ["بهار را دوست دارم", "بهار زیباست", "گل‌ها در بهار می‌شکفند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_392_es",
+    "word": "verano",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "summer",
+      "de": "Sommer",
+      "ar": "صيف",
+      "fr": "été",
+      "it": "estate",
+      "ru": "лето",
+      "es": "verano",
+      "pl": "lato",
+      "fa": "تابستان"
+    },
+    "explanations": {
+      "en": "Noun referring to the warmest season of the year",
+      "de": "Substantiv für die wärmste Jahreszeit des Jahres",
+      "ar": "اسم يشير إلى أدفأ موسم في السنة",
+      "fr": "Nom désignant la saison la plus chaude de l'année",
+      "it": "Nome che si riferisce alla stagione più calda dell'anno",
+      "ru": "Существительное, обозначающее самый тёплый сезон года",
+      "es": "Sustantivo que se refiere a la estación más cálida del año",
+      "pl": "Rzeczownik odnoszący się do najcieplejszej pory roku",
+      "fa": "اسمی که به گرم‌ترین فصل سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["I love summer", "Summer is hot", "We travel in summer"],
+      "de": ["Ich liebe Sommer", "Sommer ist heiß", "Wir reisen im Sommer"],
+      "ar": ["أحب الصيف", "الصيف حار", "نسافر في الصيف"],
+      "fr": ["J'adore l'été", "L'été est chaud", "Nous voyageons en été"],
+      "it": ["Amo l'estate", "L'estate è calda", "Viaggiamo in estate"],
+      "ru": ["Я люблю лето", "Лето жаркое", "Мы путешествуем летом"],
+      "es": ["Me encanta el verano", "El verano es caluroso", "Viajamos en verano"],
+      "pl": ["Uwielbiam lato", "Lato jest gorące", "Podróżujemy latem"],
+      "fa": ["تابستان را دوست دارم", "تابستان گرم است", "تابستان سفر می‌کنیم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_393_es",
+    "word": "otoño",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "autumn, fall",
+      "de": "Herbst",
+      "ar": "خريف",
+      "fr": "automne",
+      "it": "autunno",
+      "ru": "осень",
+      "es": "otoño",
+      "pl": "jesień",
+      "fa": "پاییز"
+    },
+    "explanations": {
+      "en": "Noun referring to the season between summer and winter",
+      "de": "Substantiv für die Jahreszeit zwischen Sommer und Winter",
+      "ar": "اسم يشير إلى الموسم بين الصيف والشتاء",
+      "fr": "Nom désignant la saison entre l'été et l'hiver",
+      "it": "Nome che si riferisce alla stagione tra estate e inverno",
+      "ru": "Существительное, обозначающее сезон между летом и зимой",
+      "es": "Sustantivo que se refiere a la estación entre verano e invierno",
+      "pl": "Rzeczownik odnoszący się do pory roku między latem a zimą",
+      "fa": "اسمی که به فصل بین تابستان و زمستان اشاره دارد"
+    },
+    "examples": {
+      "en": ["I like autumn", "Autumn is colorful", "Leaves fall in autumn"],
+      "de": ["Ich mag Herbst", "Herbst ist bunt", "Blätter fallen im Herbst"],
+      "ar": ["أحب الخريف", "الخريف ملون", "الأوراق تسقط في الخريف"],
+      "fr": ["J'aime l'automne", "L'automne est coloré", "Feuilles tombent en automne"],
+      "it": ["Mi piace l'autunno", "L'autunno è colorato", "Foglie cadono in autunno"],
+      "ru": ["Мне нравится осень", "Осень красочная", "Листья падают осенью"],
+      "es": ["Me gusta el otoño", "El otoño es colorido", "Las hojas caen otoño"],
+      "pl": ["Lubię jesień", "Jesień jest kolorowa", "Liście spadają jesienią"],
+      "fa": ["پاییز را دوست دارم", "پاییز رنگارنگ است", "برگ‌ها در پاییز می‌افتند"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_394_es",
+    "word": "invierno",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "winter",
+      "de": "Winter",
+      "ar": "شتاء",
+      "fr": "hiver",
+      "it": "inverno",
+      "ru": "зима",
+      "es": "invierno",
+      "pl": "zima",
+      "fa": "زمستان"
+    },
+    "explanations": {
+      "en": "Noun referring to the coldest season of the year",
+      "de": "Substantiv für die kälteste Jahreszeit des Jahres",
+      "ar": "اسم يشير إلى أبرد موسم في السنة",
+      "fr": "Nom désignant la saison la plus froide de l'année",
+      "it": "Nome che si riferisce alla stagione più fredda dell'anno",
+      "ru": "Существительное, обозначающее самый холодный сезон года",
+      "es": "Sustantivo que se refiere a la estación más fría del año",
+      "pl": "Rzeczownik odnoszący się do najzimniejszej pory roku",
+      "fa": "اسمی که به سردترین فصل سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["I like winter", "Winter is cold", "It snows in winter"],
+      "de": ["Ich mag Winter", "Winter ist kalt", "Es schneit im Winter"],
+      "ar": ["أحب الشتاء", "الشتاء بارد", "تثلج في الشتاء"],
+      "fr": ["J'aime l'hiver", "L'hiver est froid", "Il neige en hiver"],
+      "it": ["Mi piace l'inverno", "L'inverno è freddo", "Nevica in inverno"],
+      "ru": ["Мне нравится зима", "Зима холодная", "Зимой идёт снег"],
+      "es": ["Me gusta el invierno", "El invierno es frío", "Nieva en invierno"],
+      "pl": ["Lubię zimę", "Zima jest zimna", "Pada śnieg zimą"],
+      "fa": ["زمستان را دوست دارم", "زمستان سرد است", "زمستان برف می‌بارد"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_395_es",
+    "word": "mes",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "month",
+      "de": "Monat",
+      "ar": "شهر",
+      "fr": "mois",
+      "it": "mese",
+      "ru": "месяц",
+      "es": "mes",
+      "pl": "miesiąc",
+      "fa": "ماه"
+    },
+    "explanations": {
+      "en": "Noun referring to a period of approximately thirty days",
+      "de": "Substantiv für einen Zeitraum von ungefähr dreißig Tagen",
+      "ar": "اسم يشير إلى فترة تقارب ثلاثين يوماً",
+      "fr": "Nom désignant une période d'environ trente jours",
+      "it": "Nome che si riferisce a un periodo di circa trenta giorni",
+      "ru": "Существительное, обозначающее период примерно тридцать дней",
+      "es": "Sustantivo que se refiere a un período de aproximadamente treinta días",
+      "pl": "Rzeczownik odnoszący się do okresu około trzydziestu dni",
+      "fa": "اسمی که به دوره‌ای حدود سی روز اشاره دارد"
+    },
+    "examples": {
+      "en": ["I wait one month", "This month is May", "Next month is June"],
+      "de": ["Ich warte einen Monat", "Dieser Monat ist Mai", "Nächster Monat ist Juni"],
+      "ar": ["أنتظر شهراً واحداً", "هذا الشهر هو مايو", "الشهر القادم هو يونيو"],
+      "fr": ["J'attends un mois", "Ce mois est mai", "Le mois prochain est juin"],
+      "it": ["Aspetto un mese", "Questo mese è maggio", "Il mese prossimo è giugno"],
+      "ru": ["Я жду месяц", "Этот месяц май", "Следующий месяц июнь"],
+      "es": ["Espero un mes", "Este mes es mayo", "El mes próximo es junio"],
+      "pl": ["Czekam miesiąc", "Ten miesiąc to maj", "Następny miesiąc to czerwiec"],
+      "fa": ["یک ماه منتظرم", "این ماه می است", "ماه بعد ژوئن است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_396_es",
+    "word": "enero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "January",
+      "de": "Januar",
+      "ar": "يناير",
+      "fr": "janvier",
+      "it": "gennaio",
+      "ru": "январь",
+      "es": "enero",
+      "pl": "styczeń",
+      "fa": "ژانویه"
+    },
+    "explanations": {
+      "en": "Noun referring to the first month of the year",
+      "de": "Substantiv für den ersten Monat des Jahres",
+      "ar": "اسم يشير إلى الشهر الأول من السنة",
+      "fr": "Nom désignant le premier mois de l'année",
+      "it": "Nome che si riferisce al primo mese dell'anno",
+      "ru": "Существительное, обозначающее первый месяц года",
+      "es": "Sustantivo que se refiere al primer mes del año",
+      "pl": "Rzeczownik odnoszący się do pierwszego miesiąca roku",
+      "fa": "اسمی که به اولین ماه سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["January is cold", "I was born January", "New year starts January"],
+      "de": ["Januar ist kalt", "Ich bin im Januar geboren", "Neues Jahr beginnt Januar"],
+      "ar": ["يناير بارد", "ولدت في يناير", "السنة الجديدة تبدأ يناير"],
+      "fr": ["Janvier est froid", "Je suis né en janvier", "Nouvelle année commence janvier"],
+      "it": ["Gennaio è freddo", "Sono nato a gennaio", "L'anno nuovo inizia gennaio"],
+      "ru": ["Январь холодный", "Я родился в январе", "Новый год начинается январь"],
+      "es": ["Enero es frío", "Nací en enero", "Año nuevo empieza enero"],
+      "pl": ["Styczeń jest zimny", "Urodziłem się w styczniu", "Nowy rok zaczyna styczeń"],
+      "fa": ["ژانویه سرد است", "در ژانویه متولد شدم", "سال نو از ژانویه شروع می‌شود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_397_es",
+    "word": "febrero",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "February",
+      "de": "Februar",
+      "ar": "فبراير",
+      "fr": "février",
+      "it": "febbraio",
+      "ru": "февраль",
+      "es": "febrero",
+      "pl": "luty",
+      "fa": "فوریه"
+    },
+    "explanations": {
+      "en": "Noun referring to the second month of the year",
+      "de": "Substantiv für den zweiten Monat des Jahres",
+      "ar": "اسم يشير إلى الشهر الثاني من السنة",
+      "fr": "Nom désignant le deuxième mois de l'année",
+      "it": "Nome che si riferisce al secondo mese dell'anno",
+      "ru": "Существительное, обозначающее второй месяц года",
+      "es": "Sustantivo que se refiere al segundo mes del año",
+      "pl": "Rzeczownik odnoszący się do drugiego miesiąca roku",
+      "fa": "اسمی که به دومین ماه سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["February is short", "I visit in February", "Valentine's Day is February"],
+      "de": ["Februar ist kurz", "Ich besuche im Februar", "Valentinstag ist im Februar"],
+      "ar": ["فبراير قصير", "أزور في فبراير", "عيد الحب في فبراير"],
+      "fr": ["Février est court", "Je visite en février", "Saint-Valentin est en février"],
+      "it": ["Febbraio è corto", "Visito a febbraio", "San Valentino è febbraio"],
+      "ru": ["Февраль короткий", "Я приезжаю в феврале", "День святого Валентина февраль"],
+      "es": ["Febrero es corto", "Visito en febrero", "San Valentín es febrero"],
+      "pl": ["Luty jest krótki", "Odwiedzam w lutym", "Walentynki są w lutym"],
+      "fa": ["فوریه کوتاه است", "در فوریه دیدار می‌کنم", "ولنتاین در فوریه است"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_398_es",
+    "word": "marzo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "March",
+      "de": "März",
+      "ar": "مارس",
+      "fr": "mars",
+      "it": "marzo",
+      "ru": "март",
+      "es": "marzo",
+      "pl": "marzec",
+      "fa": "مارس"
+    },
+    "explanations": {
+      "en": "Noun referring to the third month of the year",
+      "de": "Substantiv für den dritten Monat des Jahres",
+      "ar": "اسم يشير إلى الشهر الثالث من السنة",
+      "fr": "Nom désignant le troisième mois de l'année",
+      "it": "Nome che si riferisce al terzo mese dell'anno",
+      "ru": "Существительное, обозначающее третий месяц года",
+      "es": "Sustantivo que se refiere al tercer mes del año",
+      "pl": "Rzeczownik odnoszący się do trzeciego miesiąca roku",
+      "fa": "اسمی که به سومین ماه سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["March is spring", "I travel in March", "Spring starts in March"],
+      "de": ["März ist Frühling", "Ich reise im März", "Frühling beginnt im März"],
+      "ar": ["مارس هو الربيع", "أسافر في مارس", "الربيع يبدأ في مارس"],
+      "fr": ["Mars est printemps", "Je voyage en mars", "Le printemps commence mars"],
+      "it": ["Marzo è primavera", "Viaggio a marzo", "Primavera inizia a marzo"],
+      "ru": ["Март это весна", "Я путешествую в марте", "Весна начинается в марте"],
+      "es": ["Marzo es primavera", "Viajo en marzo", "La primavera empieza marzo"],
+      "pl": ["Marzec to wiosna", "Podróżuję w marcu", "Wiosna zaczyna w marcu"],
+      "fa": ["مارس بهار است", "در مارس سفر می‌کنم", "بهار در مارس شروع می‌شود"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_399_es",
+    "word": "abril",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "April",
+      "de": "April",
+      "ar": "أبريل",
+      "fr": "avril",
+      "it": "aprile",
+      "ru": "апрель",
+      "es": "abril",
+      "pl": "kwiecień",
+      "fa": "آوریل"
+    },
+    "explanations": {
+      "en": "Noun referring to the fourth month of the year",
+      "de": "Substantiv für den vierten Monat des Jahres",
+      "ar": "اسم يشير إلى الشهر الرابع من السنة",
+      "fr": "Nom désignant le quatrième mois de l'année",
+      "it": "Nome che si riferisce al quarto mese dell'anno",
+      "ru": "Существительное, обозначающее четвёртый месяц года",
+      "es": "Sustantivo que se refiere al cuarto mes del año",
+      "pl": "Rzeczownik odnoszący się do czwartego miesiąca roku",
+      "fa": "اسمی که به چهارمین ماه سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["April is nice", "Rain comes in April", "I like April weather"],
+      "de": ["April ist schön", "Regen kommt im April", "Ich mag April Wetter"],
+      "ar": ["أبريل جميل", "المطر يأتي في أبريل", "أحب طقس أبريل"],
+      "fr": ["Avril est agréable", "La pluie vient avril", "J'aime le temps avril"],
+      "it": ["Aprile è bello", "Pioggia viene ad aprile", "Mi piace tempo aprile"],
+      "ru": ["Апрель хороший", "Дождь приходит в апреле", "Мне нравится погода апрель"],
+      "es": ["Abril es agradable", "Lluvia viene en abril", "Me gusta tiempo abril"],
+      "pl": ["Kwiecień jest miły", "Deszcz przychodzi w kwietniu", "Lubię pogodę kwietniową"],
+      "fa": ["آوریل خوب است", "باران در آوریل می‌آید", "هوای آوریل را دوست دارم"]
+    },
+    "conjugations": null
+  },
+  {
+    "id": "universal_a1_400_es",
+    "word": "mayo",
+    "level": "a1",
+    "cefrLevel": "A1",
+    "translations": {
+      "en": "May",
+      "de": "Mai",
+      "ar": "مايو",
+      "fr": "mai",
+      "it": "maggio",
+      "ru": "май",
+      "es": "mayo",
+      "pl": "maj",
+      "fa": "می"
+    },
+    "explanations": {
+      "en": "Noun referring to the fifth month of the year",
+      "de": "Substantiv für den fünften Monat des Jahres",
+      "ar": "اسم يشير إلى الشهر الخامس من السنة",
+      "fr": "Nom désignant le cinquième mois de l'année",
+      "it": "Nome che si riferisce al quinto mese dell'anno",
+      "ru": "Существительное, обозначающее пятый месяц года",
+      "es": "Sustantivo que se refiere al quinto mes del año",
+      "pl": "Rzeczownik odnoszący się do piątego miesiąca roku",
+      "fa": "اسمی که به پنجمین ماه سال اشاره دارد"
+    },
+    "examples": {
+      "en": ["May is beautiful", "Flowers bloom in May", "I love May weather"],
+      "de": ["Mai ist schön", "Blumen blühen im Mai", "Ich liebe Mai Wetter"],
+      "ar": ["مايو جميل", "الزهور تتفتح في مايو", "أحب طقس مايو"],
+      "fr": ["Mai est beau", "Fleurs fleurissent en mai", "J'adore le temps mai"],
+      "it": ["Maggio è bello", "Fiori sbocciano a maggio", "Amo il tempo maggio"],
+      "ru": ["Май красивый", "Цветы цветут в мае", "Я люблю погоду май"],
+      "es": ["Mayo es hermoso", "Las flores florecen mayo", "Me encanta tiempo mayo"],
+      "pl": ["Maj jest piękny", "Kwiaty kwitną w maju", "Uwielbiam pogodę majową"],
+      "fa": ["می زیباست", "گل‌ها در می می‌شکفند", "هوای می را دوست دارم"]
+    },
+    "conjugations": null
+  }
+]
