@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "universal_a1_021_ru",
+    "word": "тот",
+    "category": "pronouns",
+    "frequency_rank": 21,
+    "level": "a1",
+    "translations": {
+      "en": "that (distant)",
+      "de": "jener, der",
+      "ar": "ذلك",
+      "fr": "celui-là, ce",
+      "it": "quello",
+      "ru": "указательное местоимение дальнего объекта",
+      "es": "ese, aquel",
+      "pl": "tamten",
+      "fa": "آن (دور)"
+    },
+    "explanation": {
+      "en": "Demonstrative pronoun referring to something or someone farther away or mentioned earlier",
+      "de": "Demonstrativpronomen für etwas oder jemanden weiter entfernt oder früher erwähnt",
+      "ar": "ضمير إشارة للإشارة إلى شيء أو شخص أبعد أو مذكور سابقاً",
+      "fr": "Pronom démonstratif se référant à quelque chose ou quelqu'un plus éloigné ou mentionné plus tôt",
+      "it": "Pronome dimostrativo che si riferisce a qualcosa o qualcuno più lontano o menzionato prima",
+      "ru": "Указательное местоимение для обозначения более отдалённого или упомянутого ранее объекта",
+      "es": "Pronombre demostrativo que se refiere a algo o alguien más lejano o mencionado antes",
+      "pl": "Zaimek wskazujący odnoszący się do czegoś lub kogoś dalej lub wspomnianego wcześniej",
+      "fa": "ضمیر اشاره برای چیزی یا کسی دورتر یا ذکر شده قبلی"
+    },
+    "examples": {
+      "en": [
+        "That is not this",
+        "I see that",
+        "He is with that"
+      ],
+      "de": [
+        "Das ist nicht dies",
+        "Ich sehe jenes",
+        "Er ist mit jenem"
+      ],
+      "ar": [
+        "ذلك ليس هذا",
+        "أنا أرى ذلك",
+        "هو مع ذلك"
+      ],
+      "fr": [
+        "Cela n'est pas ceci",
+        "Je vois cela",
+        "Il est avec cela"
+      ],
+      "it": [
+        "Quello non è questo",
+        "Io vedo quello",
+        "Lui è con quello"
+      ],
+      "ru": [
+        "То не это",
+        "Я вижу то",
+        "Он с тем"
+      ],
+      "es": [
+        "Eso no es esto",
+        "Yo veo eso",
+        "Él está con eso"
+      ],
+      "pl": [
+        "Tamto nie jest tym",
+        "Ja widzę tamto",
+        "On jest z tamtym"
+      ],
+      "fa": [
+        "آن این نیست",
+        "من آن را می‌بینم",
+        "او با آن است"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_022_ru",
+    "word": "кто",
+    "category": "interrogatives",
+    "frequency_rank": 22,
+    "level": "a1",
+    "translations": {
+      "en": "who",
+      "de": "wer",
+      "ar": "من",
+      "fr": "qui",
+      "it": "chi",
+      "ru": "вопросительное местоимение о лице",
+      "es": "quién",
+      "pl": "kto",
+      "fa": "چه کسی، کی"
+    },
+    "explanation": {
+      "en": "Interrogative pronoun used to ask about a person's identity",
+      "de": "Interrogativpronomen zum Fragen nach der Identität einer Person",
+      "ar": "ضمير استفهام يستخدم للسؤال عن هوية الشخص",
+      "fr": "Pronom interrogatif utilisé pour demander l'identité d'une personne",
+      "it": "Pronome interrogativo usato per chiedere l'identità di una persona",
+      "ru": "Вопросительное местоимение для выяснения личности человека",
+      "es": "Pronombre interrogativo usado para preguntar sobre la identidad de una persona",
+      "pl": "Zaimek pytający używany do pytania o tożsamość osoby",
+      "fa": "ضمیر پرسشی برای پرسیدن درباره هویت فرد"
+    },
+    "examples": {
+      "en": [
+        "Who is this?",
+        "Who are you?",
+        "Who is with you?"
+      ],
+      "de": [
+        "Wer ist das?",
+        "Wer bist du?",
+        "Wer ist mit dir?"
+      ],
+      "ar": [
+        "من هذا؟",
+        "من أنت؟",
+        "من معك؟"
+      ],
+      "fr": [
+        "Qui est-ce?",
+        "Qui es-tu?",
+        "Qui est avec toi?"
+      ],
+      "it": [
+        "Chi è questo?",
+        "Chi sei?",
+        "Chi è con te?"
+      ],
+      "ru": [
+        "Кто это?",
+        "Кто ты?",
+        "Кто с тобой?"
+      ],
+      "es": [
+        "¿Quién es esto?",
+        "¿Quién eres?",
+        "¿Quién está contigo?"
+      ],
+      "pl": [
+        "Kto to jest?",
+        "Kto jesteś?",
+        "Kto jest z tobą?"
+      ],
+      "fa": [
+        "این کیست؟",
+        "تو کی هستی؟",
+        "چه کسی با تو است؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_023_ru",
+    "word": "где",
+    "category": "interrogatives",
+    "frequency_rank": 23,
+    "level": "a1",
+    "translations": {
+      "en": "where",
+      "de": "wo",
+      "ar": "أين",
+      "fr": "où",
+      "it": "dove",
+      "ru": "вопросительное наречие места",
+      "es": "dónde",
+      "pl": "gdzie",
+      "fa": "کجا"
+    },
+    "explanation": {
+      "en": "Interrogative adverb used to ask about location or place",
+      "de": "Interrogativadverb zum Fragen nach Ort oder Stelle",
+      "ar": "ظرف استفهام يستخدم للسؤال عن الموقع أو المكان",
+      "fr": "Adverbe interrogatif utilisé pour demander l'emplacement ou le lieu",
+      "it": "Avverbio interrogativo usato per chiedere la posizione o il luogo",
+      "ru": "Вопросительное наречие для выяснения местоположения или места",
+      "es": "Adverbio interrogativo usado para preguntar sobre ubicación o lugar",
+      "pl": "Przysłówek pytający używany do pytania o lokalizację lub miejsce",
+      "fa": "قید پرسشی برای پرسیدن درباره مکان یا موقعیت"
+    },
+    "examples": {
+      "en": [
+        "Where are you?",
+        "Where is this?",
+        "Where is he?"
+      ],
+      "de": [
+        "Wo bist du?",
+        "Wo ist das?",
+        "Wo ist er?"
+      ],
+      "ar": [
+        "أين أنت؟",
+        "أين هذا؟",
+        "أين هو؟"
+      ],
+      "fr": [
+        "Où es-tu?",
+        "Où est ceci?",
+        "Où est-il?"
+      ],
+      "it": [
+        "Dove sei?",
+        "Dove è questo?",
+        "Dove è lui?"
+      ],
+      "ru": [
+        "Где ты?",
+        "Где это?",
+        "Где он?"
+      ],
+      "es": [
+        "¿Dónde estás?",
+        "¿Dónde está esto?",
+        "¿Dónde está él?"
+      ],
+      "pl": [
+        "Gdzie jesteś?",
+        "Gdzie to jest?",
+        "Gdzie on jest?"
+      ],
+      "fa": [
+        "کجا هستی؟",
+        "این کجاست؟",
+        "او کجاست؟"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_024_ru",
+    "word": "когда",
+    "category": "interrogatives",
+    "frequency_rank": 24,
+    "level": "a1",
+    "translations": {
+      "en": "when",
+      "de": "wann, wenn",
+      "ar": "متى، عندما",
+      "fr": "quand",
+      "it": "quando",
+      "ru": "вопросительное наречие времени",
+      "es": "cuándo",
+      "pl": "kiedy",
+      "fa": "کی، وقتی"
+    },
+    "explanation": {
+      "en": "Interrogative and relative adverb used to ask about or indicate time",
+      "de": "Interrogativ- und Relativadverb zum Fragen oder Angeben der Zeit",
+      "ar": "ظرف استفهام وموصول يستخدم للسؤال عن الوقت أو الإشارة إليه",
+      "fr": "Adverbe interrogatif et relatif pour demander ou indiquer le temps",
+      "it": "Avverbio interrogativo e relativo per chiedere o indicare il tempo",
+      "ru": "Вопросительное и относительное наречие для выяснения или указания времени",
+      "es": "Adverbio interrogativo y relativo para preguntar o indicar tiempo",
+      "pl": "Przysłówek pytający i względny do pytania lub wskazania czasu",
+      "fa": "قید پرسشی و موصولی برای پرسیدن یا نشان دادن زمان"
+    },
+    "examples": {
+      "en": [
+        "When are you here?",
+        "When is this?",
+        "I see when you go"
+      ],
+      "de": [
+        "Wann bist du hier?",
+        "Wann ist das?",
+        "Ich sehe wann du gehst"
+      ],
+      "ar": [
+        "متى أنت هنا؟",
+        "متى هذا؟",
+        "أنا أرى متى تذهب"
+      ],
+      "fr": [
+        "Quand es-tu ici?",
+        "Quand est ceci?",
+        "Je vois quand tu vas"
+      ],
+      "it": [
+        "Quando sei qui?",
+        "Quando è questo?",
+        "Io vedo quando vai"
+      ],
+      "ru": [
+        "Когда ты здесь?",
+        "Когда это?",
+        "Я вижу когда ты идёшь"
+      ],
+      "es": [
+        "¿Cuándo estás aquí?",
+        "¿Cuándo es esto?",
+        "Yo veo cuándo vas"
+      ],
+      "pl": [
+        "Kiedy jesteś tutaj?",
+        "Kiedy to jest?",
+        "Ja widzę kiedy idziesz"
+      ],
+      "fa": [
+        "کی اینجا هستی؟",
+        "این کی است؟",
+        "من می‌بینم کی می‌روی"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_025_ru",
+    "word": "один",
+    "category": "numbers",
+    "frequency_rank": 25,
+    "level": "a1",
+    "translations": {
+      "en": "one, alone",
+      "de": "eins, ein, allein",
+      "ar": "واحد، وحيد",
+      "fr": "un, seul",
+      "it": "uno, solo",
+      "ru": "числительное один и местоимение",
+      "es": "uno, solo",
+      "pl": "jeden, sam",
+      "fa": "یک، تنها"
+    },
+    "explanation": {
+      "en": "The number one or pronoun meaning alone or single",
+      "de": "Die Zahl eins oder Pronomen mit der Bedeutung allein oder einzeln",
+      "ar": "الرقم واحد أو ضمير بمعنى وحيد أو منفرد",
+      "fr": "Le nombre un ou pronom signifiant seul ou unique",
+      "it": "Il numero uno o pronome che significa solo o singolo",
+      "ru": "Числительное один или местоимение со значением одинокий или единственный",
+      "es": "El número uno o pronombre que significa solo o único",
+      "pl": "Liczba jeden lub zaimek oznaczający sam lub pojedynczy",
+      "fa": "عدد یک یا ضمیر به معنی تنها یا مفرد"
+    },
+    "examples": {
+      "en": [
+        "I am one",
+        "This is one",
+        "He is not one"
+      ],
+      "de": [
+        "Ich bin eins",
+        "Das ist eins",
+        "Er ist nicht eins"
+      ],
+      "ar": [
+        "أنا واحد",
+        "هذا واحد",
+        "هو ليس واحداً"
+      ],
+      "fr": [
+        "Je suis un",
+        "C'est un",
+        "Il n'est pas un"
+      ],
+      "it": [
+        "Io sono uno",
+        "Questo è uno",
+        "Lui non è uno"
+      ],
+      "ru": [
+        "Я один",
+        "Это один",
+        "Он не один"
+      ],
+      "es": [
+        "Yo soy uno",
+        "Esto es uno",
+        "Él no es uno"
+      ],
+      "pl": [
+        "Ja jestem jeden",
+        "To jest jeden",
+        "On nie jest jeden"
+      ],
+      "fa": [
+        "من یک هستم",
+        "این یک است",
+        "او یک نیست"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_026_ru",
+    "word": "все",
+    "category": "pronouns",
+    "frequency_rank": 26,
+    "level": "a1",
+    "translations": {
+      "en": "all, everything, everyone",
+      "de": "alle, alles",
+      "ar": "كل، الجميع",
+      "fr": "tous, tout",
+      "it": "tutti, tutto",
+      "ru": "местоимение совокупности",
+      "es": "todos, todo",
+      "pl": "wszyscy, wszystko",
+      "fa": "همه، همه چیز"
+    },
+    "explanation": {
+      "en": "Pronoun indicating the totality of people or things",
+      "de": "Pronomen für die Gesamtheit von Personen oder Dingen",
+      "ar": "ضمير يشير إلى مجموع الأشخاص أو الأشياء",
+      "fr": "Pronom indiquant la totalité des personnes ou des choses",
+      "it": "Pronome che indica la totalità delle persone o delle cose",
+      "ru": "Местоимение, обозначающее совокупность людей или предметов",
+      "es": "Pronombre que indica la totalidad de personas o cosas",
+      "pl": "Zaimek wskazujący całość osób lub rzeczy",
+      "fa": "ضمیر نشان‌دهنده کل افراد یا چیزها"
+    },
+    "examples": {
+      "en": [
+        "We are all here",
+        "I see all",
+        "All are with us"
+      ],
+      "de": [
+        "Wir sind alle hier",
+        "Ich sehe alles",
+        "Alle sind mit uns"
+      ],
+      "ar": [
+        "نحن كلنا هنا",
+        "أنا أرى الكل",
+        "الجميع معنا"
+      ],
+      "fr": [
+        "Nous sommes tous ici",
+        "Je vois tout",
+        "Tous sont avec nous"
+      ],
+      "it": [
+        "Noi siamo tutti qui",
+        "Io vedo tutto",
+        "Tutti sono con noi"
+      ],
+      "ru": [
+        "Мы все здесь",
+        "Я вижу всё",
+        "Все с нами"
+      ],
+      "es": [
+        "Nosotros estamos todos aquí",
+        "Yo veo todo",
+        "Todos están con nosotros"
+      ],
+      "pl": [
+        "My wszyscy jesteśmy tutaj",
+        "Ja widzę wszystko",
+        "Wszyscy są z nami"
+      ],
+      "fa": [
+        "ما همه اینجا هستیم",
+        "من همه چیز را می‌بینم",
+        "همه با ما هستند"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_027_ru",
+    "word": "так",
+    "category": "adverbs",
+    "frequency_rank": 27,
+    "level": "a1",
+    "translations": {
+      "en": "so, thus, like that",
+      "de": "so",
+      "ar": "هكذا، كذلك",
+      "fr": "ainsi, comme ça",
+      "it": "così",
+      "ru": "наречие образа действия",
+      "es": "así",
+      "pl": "tak",
+      "fa": "اینطور، این‌گونه"
+    },
+    "explanation": {
+      "en": "Adverb indicating manner or degree, or confirming something",
+      "de": "Adverb zur Angabe von Art und Weise oder Grad oder zur Bestätigung",
+      "ar": "ظرف يشير إلى الطريقة أو الدرجة أو يؤكد شيئاً",
+      "fr": "Adverbe indiquant la manière ou le degré, ou confirmant quelque chose",
+      "it": "Avverbio che indica modo o grado, o conferma qualcosa",
+      "ru": "Наречие, указывающее на способ или степень действия или подтверждение",
+      "es": "Adverbio que indica manera o grado, o confirma algo",
+      "pl": "Przysłówek wskazujący sposób lub stopień, lub potwierdzający coś",
+      "fa": "قید نشان‌دهنده نحوه یا درجه، یا تأیید چیزی"
+    },
+    "examples": {
+      "en": [
+        "I am so",
+        "This is so",
+        "We do it so"
+      ],
+      "de": [
+        "Ich bin so",
+        "Das ist so",
+        "Wir machen es so"
+      ],
+      "ar": [
+        "أنا هكذا",
+        "هذا هكذا",
+        "نحن نفعل هكذا"
+      ],
+      "fr": [
+        "Je suis ainsi",
+        "C'est ainsi",
+        "Nous faisons ainsi"
+      ],
+      "it": [
+        "Io sono così",
+        "Questo è così",
+        "Noi facciamo così"
+      ],
+      "ru": [
+        "Я так",
+        "Это так",
+        "Мы так делаем"
+      ],
+      "es": [
+        "Yo soy así",
+        "Esto es así",
+        "Nosotros hacemos así"
+      ],
+      "pl": [
+        "Ja jestem tak",
+        "To jest tak",
+        "My robimy tak"
+      ],
+      "fa": [
+        "من اینطور هستم",
+        "این اینطور است",
+        "ما اینطور می‌کنیم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_028_ru",
+    "word": "но",
+    "category": "conjunctions",
+    "frequency_rank": 28,
+    "level": "a1",
+    "translations": {
+      "en": "but, however",
+      "de": "aber, jedoch",
+      "ar": "لكن، ولكن",
+      "fr": "mais",
+      "it": "ma, però",
+      "ru": "противительный союз",
+      "es": "pero",
+      "pl": "ale, lecz",
+      "fa": "اما، ولی"
+    },
+    "explanation": {
+      "en": "Adversative conjunction used to introduce a contrast or exception",
+      "de": "Adversative Konjunktion zur Einführung eines Kontrasts oder einer Ausnahme",
+      "ar": "حرف عطف استدراكي لتقديم تباين أو استثناء",
+      "fr": "Conjonction adversative pour introduire un contraste ou une exception",
+      "it": "Congiunzione avversativa per introdurre un contrasto o un'eccezione",
+      "ru": "Противительный союз для введения контраста или исключения",
+      "es": "Conjunción adversativa para introducir un contraste o excepción",
+      "pl": "Spójnik przeciwstawny wprowadzający kontrast lub wyjątek",
+      "fa": "حرف ربط استدراکی برای معرفی تضاد یا استثنا"
+    },
+    "examples": {
+      "en": [
+        "I am here but you are not",
+        "This is so but that is not",
+        "He sees but she does not"
+      ],
+      "de": [
+        "Ich bin hier aber du nicht",
+        "Das ist so aber jenes nicht",
+        "Er sieht aber sie nicht"
+      ],
+      "ar": [
+        "أنا هنا لكن أنت لست",
+        "هذا كذلك لكن ذلك ليس",
+        "هو يرى لكن هي لا"
+      ],
+      "fr": [
+        "Je suis ici mais tu n'es pas",
+        "C'est ainsi mais cela n'est pas",
+        "Il voit mais elle ne voit pas"
+      ],
+      "it": [
+        "Io sono qui ma tu non sei",
+        "Questo è così ma quello non è",
+        "Lui vede ma lei non vede"
+      ],
+      "ru": [
+        "Я здесь но ты нет",
+        "Это так но то не так",
+        "Он видит но она нет"
+      ],
+      "es": [
+        "Yo estoy aquí pero tú no",
+        "Esto es así pero eso no",
+        "Él ve pero ella no"
+      ],
+      "pl": [
+        "Ja jestem tutaj ale ty nie",
+        "To jest tak ale tamto nie",
+        "On widzi ale ona nie"
+      ],
+      "fa": [
+        "من اینجا هستم اما تو نیستی",
+        "این اینطور است اما آن نیست",
+        "او می‌بیند اما او نمی‌بیند"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_029_ru",
+    "word": "или",
+    "category": "conjunctions",
+    "frequency_rank": 29,
+    "level": "a1",
+    "translations": {
+      "en": "or",
+      "de": "oder",
+      "ar": "أو",
+      "fr": "ou",
+      "it": "o, oppure",
+      "ru": "разделительный союз",
+      "es": "o",
+      "pl": "lub, albo",
+      "fa": "یا"
+    },
+    "explanation": {
+      "en": "Disjunctive conjunction used to present alternatives or choices",
+      "de": "Disjunktive Konjunktion zur Darstellung von Alternativen oder Wahlmöglichkeiten",
+      "ar": "حرف عطف فصلي لتقديم البدائل أو الخيارات",
+      "fr": "Conjonction disjonctive pour présenter des alternatives ou des choix",
+      "it": "Congiunzione disgiuntiva per presentare alternative o scelte",
+      "ru": "Разделительный союз для представления альтернатив или выбора",
+      "es": "Conjunción disyuntiva para presentar alternativas o opciones",
+      "pl": "Spójnik rozłączny przedstawiający alternatywy lub wybory",
+      "fa": "حرف ربط انفصالی برای ارائه گزینه‌ها یا انتخاب‌ها"
+    },
+    "examples": {
+      "en": [
+        "You or I",
+        "This or that",
+        "He is here or there"
+      ],
+      "de": [
+        "Du oder ich",
+        "Dies oder jenes",
+        "Er ist hier oder da"
+      ],
+      "ar": [
+        "أنت أو أنا",
+        "هذا أو ذلك",
+        "هو هنا أو هناك"
+      ],
+      "fr": [
+        "Toi ou moi",
+        "Ceci ou cela",
+        "Il est ici ou là"
+      ],
+      "it": [
+        "Tu o io",
+        "Questo o quello",
+        "Lui è qui o là"
+      ],
+      "ru": [
+        "Ты или я",
+        "Это или то",
+        "Он здесь или там"
+      ],
+      "es": [
+        "Tú o yo",
+        "Esto o eso",
+        "Él está aquí o allá"
+      ],
+      "pl": [
+        "Ty lub ja",
+        "To lub tamto",
+        "On jest tutaj lub tam"
+      ],
+      "fa": [
+        "تو یا من",
+        "این یا آن",
+        "او اینجا یا آنجاست"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_030_ru",
+    "word": "из",
+    "category": "prepositions",
+    "frequency_rank": 30,
+    "level": "a1",
+    "translations": {
+      "en": "from, out of",
+      "de": "aus, von",
+      "ar": "من",
+      "fr": "de, hors de",
+      "it": "da, fuori di",
+      "ru": "предлог исходной точки",
+      "es": "de, desde",
+      "pl": "z",
+      "fa": "از"
+    },
+    "explanation": {
+      "en": "Preposition indicating origin, source, or movement out of something",
+      "de": "Präposition für Herkunft, Quelle oder Bewegung aus etwas heraus",
+      "ar": "حرف جر يشير إلى الأصل أو المصدر أو الحركة من شيء",
+      "fr": "Préposition indiquant l'origine, la source ou le mouvement hors de quelque chose",
+      "it": "Preposizione che indica origine, fonte o movimento fuori da qualcosa",
+      "ru": "Предлог, указывающий на происхождение, источник или движение из чего-либо",
+      "es": "Preposición que indica origen, fuente o movimiento fuera de algo",
+      "pl": "Przyimek wskazujący pochodzenie, źródło lub ruch z czegoś",
+      "fa": "حرف اضافه نشان‌دهنده منشأ، منبع یا حرکت از چیزی"
+    },
+    "examples": {
+      "en": [
+        "I am from here",
+        "This is from that",
+        "He goes out from there"
+      ],
+      "de": [
+        "Ich bin von hier",
+        "Das ist von jenem",
+        "Er geht von da"
+      ],
+      "ar": [
+        "أنا من هنا",
+        "هذا من ذلك",
+        "هو يخرج من هناك"
+      ],
+      "fr": [
+        "Je suis d'ici",
+        "Ceci est de cela",
+        "Il sort de là"
+      ],
+      "it": [
+        "Io sono da qui",
+        "Questo è da quello",
+        "Lui esce da là"
+      ],
+      "ru": [
+        "Я из здесь",
+        "Это из того",
+        "Он идёт из там"
+      ],
+      "es": [
+        "Yo soy de aquí",
+        "Esto es de eso",
+        "Él sale de allá"
+      ],
+      "pl": [
+        "Ja jestem stąd",
+        "To jest z tamtego",
+        "On wychodzi stamtąd"
+      ],
+      "fa": [
+        "من از اینجا هستم",
+        "این از آن است",
+        "او از آنجا می‌رود"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_031_ru",
+    "word": "о",
+    "category": "prepositions",
+    "frequency_rank": 31,
+    "level": "a1",
+    "translations": {
+      "en": "about, concerning",
+      "de": "über, von",
+      "ar": "عن، حول",
+      "fr": "de, au sujet de",
+      "it": "di, riguardo a",
+      "ru": "предлог тематики",
+      "es": "sobre, acerca de",
+      "pl": "o",
+      "fa": "درباره، راجع به"
+    },
+    "explanation": {
+      "en": "Preposition indicating the topic or subject of discussion",
+      "de": "Präposition für das Thema oder den Gegenstand der Diskussion",
+      "ar": "حرف جر يشير إلى موضوع أو محور النقاش",
+      "fr": "Préposition indiquant le sujet ou le thème de discussion",
+      "it": "Preposizione che indica l'argomento o il soggetto di discussione",
+      "ru": "Предлог, указывающий на тему или предмет обсуждения",
+      "es": "Preposición que indica el tema o asunto de discusión",
+      "pl": "Przyimek wskazujący temat lub przedmiot dyskusji",
+      "fa": "حرف اضافه نشان‌دهنده موضوع یا محور بحث"
+    },
+    "examples": {
+      "en": [
+        "I talk about this",
+        "We see about that",
+        "This is about you"
+      ],
+      "de": [
+        "Ich rede über dies",
+        "Wir sehen über jenes",
+        "Das ist über dich"
+      ],
+      "ar": [
+        "أنا أتحدث عن هذا",
+        "نحن نرى عن ذلك",
+        "هذا عنك"
+      ],
+      "fr": [
+        "Je parle de ceci",
+        "Nous voyons de cela",
+        "C'est de toi"
+      ],
+      "it": [
+        "Io parlo di questo",
+        "Noi vediamo di quello",
+        "Questo è di te"
+      ],
+      "ru": [
+        "Я говорю о этом",
+        "Мы видим о том",
+        "Это о тебе"
+      ],
+      "es": [
+        "Yo hablo sobre esto",
+        "Nosotros vemos sobre eso",
+        "Esto es sobre ti"
+      ],
+      "pl": [
+        "Ja mówię o tym",
+        "My widzimy o tamtym",
+        "To jest o tobie"
+      ],
+      "fa": [
+        "من درباره این صحبت می‌کنم",
+        "ما درباره آن می‌بینیم",
+        "این درباره تو است"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_032_ru",
+    "word": "по",
+    "category": "prepositions",
+    "frequency_rank": 32,
+    "level": "a1",
+    "translations": {
+      "en": "along, by, according to",
+      "de": "entlang, nach",
+      "ar": "على طول، حسب",
+      "fr": "le long de, selon",
+      "it": "lungo, secondo",
+      "ru": "предлог направления и способа",
+      "es": "por, según",
+      "pl": "po, według",
+      "fa": "در امتداد، طبق"
+    },
+    "explanation": {
+      "en": "Preposition indicating movement along something or accordance with something",
+      "de": "Präposition für Bewegung entlang etwas oder Übereinstimmung mit etwas",
+      "ar": "حرف جر يشير إلى الحركة على طول شيء أو التوافق مع شيء",
+      "fr": "Préposition indiquant mouvement le long de quelque chose ou conformité avec quelque chose",
+      "it": "Preposizione che indica movimento lungo qualcosa o conformità con qualcosa",
+      "ru": "Предлог, указывающий на движение вдоль чего-либо или соответствие чему-либо",
+      "es": "Preposición que indica movimiento a lo largo de algo o conformidad con algo",
+      "pl": "Przyimek wskazujący ruch wzdłuż czegoś lub zgodność z czymś",
+      "fa": "حرف اضافه نشان‌دهنده حرکت در امتداد چیزی یا مطابقت با چیزی"
+    },
+    "examples": {
+      "en": [
+        "I go along this",
+        "We are by that",
+        "This is according to you"
+      ],
+      "de": [
+        "Ich gehe entlang diesem",
+        "Wir sind nach jenem",
+        "Das ist nach dir"
+      ],
+      "ar": [
+        "أنا أذهب على طول هذا",
+        "نحن حسب ذلك",
+        "هذا حسبك"
+      ],
+      "fr": [
+        "Je vais le long de ceci",
+        "Nous sommes selon cela",
+        "C'est selon toi"
+      ],
+      "it": [
+        "Io vado lungo questo",
+        "Noi siamo secondo quello",
+        "Questo è secondo te"
+      ],
+      "ru": [
+        "Я иду по этому",
+        "Мы по тому",
+        "Это по тебе"
+      ],
+      "es": [
+        "Yo voy por esto",
+        "Nosotros somos según eso",
+        "Esto es según tú"
+      ],
+      "pl": [
+        "Ja idę po tym",
+        "My jesteśmy według tamtego",
+        "To jest według ciebie"
+      ],
+      "fa": [
+        "من در امتداد این می‌روم",
+        "ما طبق آن هستیم",
+        "این طبق تو است"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_033_ru",
+    "word": "за",
+    "category": "prepositions",
+    "frequency_rank": 33,
+    "level": "a1",
+    "translations": {
+      "en": "behind, for, beyond",
+      "de": "hinter, für",
+      "ar": "خلف، من أجل",
+      "fr": "derrière, pour",
+      "it": "dietro, per",
+      "ru": "предлог места и цели",
+      "es": "detrás, por",
+      "pl": "za",
+      "fa": "پشت، برای"
+    },
+    "explanation": {
+      "en": "Preposition indicating position behind something or purpose",
+      "de": "Präposition für Position hinter etwas oder Zweck",
+      "ar": "حرف جر يشير إلى الموقع خلف شيء أو الغرض",
+      "fr": "Préposition indiquant position derrière quelque chose ou but",
+      "it": "Preposizione che indica posizione dietro qualcosa o scopo",
+      "ru": "Предлог, указывающий на положение позади чего-либо или цель",
+      "es": "Preposición que indica posición detrás de algo o propósito",
+      "pl": "Przyimek wskazujący pozycję za czymś lub cel",
+      "fa": "حرف اضافه نشان‌دهنده موقعیت پشت چیزی یا هدف"
+    },
+    "examples": {
+      "en": [
+        "I am behind this",
+        "This is for you",
+        "We go for that"
+      ],
+      "de": [
+        "Ich bin hinter diesem",
+        "Das ist für dich",
+        "Wir gehen für jenes"
+      ],
+      "ar": [
+        "أنا خلف هذا",
+        "هذا من أجلك",
+        "نحن نذهب من أجل ذلك"
+      ],
+      "fr": [
+        "Je suis derrière ceci",
+        "C'est pour toi",
+        "Nous allons pour cela"
+      ],
+      "it": [
+        "Io sono dietro questo",
+        "Questo è per te",
+        "Noi andiamo per quello"
+      ],
+      "ru": [
+        "Я за этим",
+        "Это за тебя",
+        "Мы идём за то"
+      ],
+      "es": [
+        "Yo estoy detrás de esto",
+        "Esto es para ti",
+        "Nosotros vamos por eso"
+      ],
+      "pl": [
+        "Ja jestem za tym",
+        "To jest dla ciebie",
+        "My idziemy za tamto"
+      ],
+      "fa": [
+        "من پشت این هستم",
+        "این برای تو است",
+        "ما برای آن می‌رویم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_034_ru",
+    "word": "от",
+    "category": "prepositions",
+    "frequency_rank": 34,
+    "level": "a1",
+    "translations": {
+      "en": "from, away from",
+      "de": "von",
+      "ar": "من",
+      "fr": "de",
+      "it": "da",
+      "ru": "предлог отделения и источника",
+      "es": "de, desde",
+      "pl": "od",
+      "fa": "از"
+    },
+    "explanation": {
+      "en": "Preposition indicating separation or origin from a source",
+      "de": "Präposition für Trennung oder Herkunft von einer Quelle",
+      "ar": "حرف جر يشير إلى الانفصال أو الأصل من مصدر",
+      "fr": "Préposition indiquant séparation ou origine d'une source",
+      "it": "Preposizione che indica separazione o origine da una fonte",
+      "ru": "Предлог, указывающий на отделение или происхождение от источника",
+      "es": "Preposición que indica separación u origen de una fuente",
+      "pl": "Przyimek wskazujący oddzielenie lub pochodzenie ze źródła",
+      "fa": "حرف اضافه نشان‌دهنده جدایی یا منشأ از منبع"
+    },
+    "examples": {
+      "en": [
+        "I am from you",
+        "This is from that",
+        "He goes away from here"
+      ],
+      "de": [
+        "Ich bin von dir",
+        "Das ist von jenem",
+        "Er geht weg von hier"
+      ],
+      "ar": [
+        "أنا منك",
+        "هذا من ذلك",
+        "هو يذهب من هنا"
+      ],
+      "fr": [
+        "Je suis de toi",
+        "Ceci est de cela",
+        "Il part d'ici"
+      ],
+      "it": [
+        "Io sono da te",
+        "Questo è da quello",
+        "Lui va via da qui"
+      ],
+      "ru": [
+        "Я от тебя",
+        "Это от того",
+        "Он идёт от здесь"
+      ],
+      "es": [
+        "Yo soy de ti",
+        "Esto es de eso",
+        "Él se va de aquí"
+      ],
+      "pl": [
+        "Ja jestem od ciebie",
+        "To jest od tamtego",
+        "On idzie od tutaj"
+      ],
+      "fa": [
+        "من از تو هستم",
+        "این از آن است",
+        "او از اینجا می‌رود"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_035_ru",
+    "word": "до",
+    "category": "prepositions",
+    "frequency_rank": 35,
+    "level": "a1",
+    "translations": {
+      "en": "until, before, to",
+      "de": "bis, vor",
+      "ar": "حتى، قبل",
+      "fr": "jusqu'à, avant",
+      "it": "fino a, prima",
+      "ru": "предлог предела",
+      "es": "hasta, antes de",
+      "pl": "do",
+      "fa": "تا، قبل از"
+    },
+    "explanation": {
+      "en": "Preposition indicating a limit in time or space",
+      "de": "Präposition für eine zeitliche oder räumliche Grenze",
+      "ar": "حرف جر يشير إلى حد في الزمان أو المكان",
+      "fr": "Préposition indiquant une limite dans le temps ou l'espace",
+      "it": "Preposizione che indica un limite nel tempo o nello spazio",
+      "ru": "Предлог, указывающий на предел во времени или пространстве",
+      "es": "Preposición que indica un límite en tiempo o espacio",
+      "pl": "Przyimek wskazujący granicę w czasie lub przestrzeni",
+      "fa": "حرف اضافه نشان‌دهنده حد در زمان یا مکان"
+    },
+    "examples": {
+      "en": [
+        "I am here until now",
+        "We go to that",
+        "This is before you"
+      ],
+      "de": [
+        "Ich bin hier bis jetzt",
+        "Wir gehen bis zu jenem",
+        "Das ist vor dir"
+      ],
+      "ar": [
+        "أنا هنا حتى الآن",
+        "نحن نذهب إلى ذلك",
+        "هذا قبلك"
+      ],
+      "fr": [
+        "Je suis ici jusqu'à maintenant",
+        "Nous allons jusqu'à cela",
+        "Ceci est avant toi"
+      ],
+      "it": [
+        "Io sono qui fino ad ora",
+        "Noi andiamo fino a quello",
+        "Questo è prima di te"
+      ],
+      "ru": [
+        "Я здесь до сейчас",
+        "Мы идём до того",
+        "Это до тебя"
+      ],
+      "es": [
+        "Yo estoy aquí hasta ahora",
+        "Nosotros vamos hasta eso",
+        "Esto es antes de ti"
+      ],
+      "pl": [
+        "Ja jestem tutaj do teraz",
+        "My idziemy do tamtego",
+        "To jest przed tobą"
+      ],
+      "fa": [
+        "من اینجا تا حالا هستم",
+        "ما تا آن می‌رویم",
+        "این قبل از تو است"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_036_ru",
+    "word": "здесь",
+    "category": "adverbs",
+    "frequency_rank": 36,
+    "level": "a1",
+    "translations": {
+      "en": "here",
+      "de": "hier",
+      "ar": "هنا",
+      "fr": "ici",
+      "it": "qui",
+      "ru": "наречие места близости",
+      "es": "aquí",
+      "pl": "tutaj",
+      "fa": "اینجا"
+    },
+    "explanation": {
+      "en": "Adverb indicating a location close to the speaker",
+      "de": "Adverb für einen Ort in der Nähe des Sprechers",
+      "ar": "ظرف مكان يشير إلى موقع قريب من المتحدث",
+      "fr": "Adverbe indiquant un lieu proche du locuteur",
+      "it": "Avverbio che indica un luogo vicino al parlante",
+      "ru": "Наречие места, указывающее на расположение близко к говорящему",
+      "es": "Adverbio que indica una ubicación cercana al hablante",
+      "pl": "Przysłówek wskazujący lokalizację blisko mówiącego",
+      "fa": "قید مکان نشان‌دهنده موقعیتی نزدیک به گوینده"
+    },
+    "examples": {
+      "en": [
+        "I am here",
+        "We are here",
+        "This is here"
+      ],
+      "de": [
+        "Ich bin hier",
+        "Wir sind hier",
+        "Das ist hier"
+      ],
+      "ar": [
+        "أنا هنا",
+        "نحن هنا",
+        "هذا هنا"
+      ],
+      "fr": [
+        "Je suis ici",
+        "Nous sommes ici",
+        "C'est ici"
+      ],
+      "it": [
+        "Io sono qui",
+        "Noi siamo qui",
+        "Questo è qui"
+      ],
+      "ru": [
+        "Я здесь",
+        "Мы здесь",
+        "Это здесь"
+      ],
+      "es": [
+        "Yo estoy aquí",
+        "Nosotros estamos aquí",
+        "Esto está aquí"
+      ],
+      "pl": [
+        "Ja jestem tutaj",
+        "My jesteśmy tutaj",
+        "To jest tutaj"
+      ],
+      "fa": [
+        "من اینجا هستم",
+        "ما اینجا هستیم",
+        "این اینجاست"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_037_ru",
+    "word": "там",
+    "category": "adverbs",
+    "frequency_rank": 37,
+    "level": "a1",
+    "translations": {
+      "en": "there",
+      "de": "dort, da",
+      "ar": "هناك",
+      "fr": "là, là-bas",
+      "it": "lì, là",
+      "ru": "наречие места отдалённости",
+      "es": "allí, ahí",
+      "pl": "tam",
+      "fa": "آنجا"
+    },
+    "explanation": {
+      "en": "Adverb indicating a location away from the speaker",
+      "de": "Adverb für einen Ort entfernt vom Sprecher",
+      "ar": "ظرف مكان يشير إلى موقع بعيد عن المتحدث",
+      "fr": "Adverbe indiquant un lieu éloigné du locuteur",
+      "it": "Avverbio che indica un luogo lontano dal parlante",
+      "ru": "Наречие места, указывающее на расположение вдали от говорящего",
+      "es": "Adverbio que indica una ubicación alejada del hablante",
+      "pl": "Przysłówek wskazujący lokalizację z dala od mówiącego",
+      "fa": "قید مکان نشان‌دهنده موقعیتی دور از گوینده"
+    },
+    "examples": {
+      "en": [
+        "He is there",
+        "They are there",
+        "That is there"
+      ],
+      "de": [
+        "Er ist dort",
+        "Sie sind dort",
+        "Das ist dort"
+      ],
+      "ar": [
+        "هو هناك",
+        "هم هناك",
+        "ذلك هناك"
+      ],
+      "fr": [
+        "Il est là-bas",
+        "Ils sont là-bas",
+        "Cela est là-bas"
+      ],
+      "it": [
+        "Lui è lì",
+        "Loro sono lì",
+        "Quello è lì"
+      ],
+      "ru": [
+        "Он там",
+        "Они там",
+        "То там"
+      ],
+      "es": [
+        "Él está allí",
+        "Ellos están allí",
+        "Eso está allí"
+      ],
+      "pl": [
+        "On jest tam",
+        "Oni są tam",
+        "Tamto jest tam"
+      ],
+      "fa": [
+        "او آنجاست",
+        "آنها آنجا هستند",
+        "آن آنجاست"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_038_ru",
+    "word": "теперь",
+    "category": "adverbs",
+    "frequency_rank": 38,
+    "level": "a1",
+    "translations": {
+      "en": "now, at present",
+      "de": "jetzt, nun",
+      "ar": "الآن، حالياً",
+      "fr": "maintenant, à présent",
+      "it": "ora, adesso",
+      "ru": "наречие времени настоящего момента",
+      "es": "ahora",
+      "pl": "teraz",
+      "fa": "حالا، اکنون"
+    },
+    "explanation": {
+      "en": "Adverb indicating the current time or present moment",
+      "de": "Adverb für die aktuelle Zeit oder den gegenwärtigen Moment",
+      "ar": "ظرف زمان يشير إلى الوقت الحالي أو اللحظة الحاضرة",
+      "fr": "Adverbe indiquant le temps actuel ou le moment présent",
+      "it": "Avverbio che indica il tempo attuale o il momento presente",
+      "ru": "Наречие времени, указывающее на текущее время или настоящий момент",
+      "es": "Adverbio que indica el tiempo actual o momento presente",
+      "pl": "Przysłówek wskazujący obecny czas lub moment",
+      "fa": "قید زمان نشان‌دهنده زمان کنونی یا لحظه حال"
+    },
+    "examples": {
+      "en": [
+        "I am here now",
+        "We see this now",
+        "This is so now"
+      ],
+      "de": [
+        "Ich bin jetzt hier",
+        "Wir sehen das jetzt",
+        "Das ist jetzt so"
+      ],
+      "ar": [
+        "أنا هنا الآن",
+        "نحن نرى هذا الآن",
+        "هذا كذلك الآن"
+      ],
+      "fr": [
+        "Je suis ici maintenant",
+        "Nous voyons ceci maintenant",
+        "C'est ainsi maintenant"
+      ],
+      "it": [
+        "Io sono qui ora",
+        "Noi vediamo questo ora",
+        "Questo è così ora"
+      ],
+      "ru": [
+        "Я здесь теперь",
+        "Мы видим это теперь",
+        "Это так теперь"
+      ],
+      "es": [
+        "Yo estoy aquí ahora",
+        "Nosotros vemos esto ahora",
+        "Esto es así ahora"
+      ],
+      "pl": [
+        "Ja jestem tutaj teraz",
+        "My widzimy to teraz",
+        "To jest tak teraz"
+      ],
+      "fa": [
+        "من حالا اینجا هستم",
+        "ما این را حالا می‌بینیم",
+        "این حالا اینطور است"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_039_ru",
+    "word": "может",
+    "category": "verbs",
+    "frequency_rank": 39,
+    "level": "a1",
+    "translations": {
+      "en": "can, may (3rd person)",
+      "de": "kann (er/sie/es)",
+      "ar": "يستطيع، يمكن",
+      "fr": "peut (il/elle)",
+      "it": "può (lui/lei)",
+      "ru": "глагол возможности третье лицо",
+      "es": "puede (él/ella)",
+      "pl": "może (on/ona)",
+      "fa": "می‌تواند (او)"
+    },
+    "explanation": {
+      "en": "Third-person singular form of the verb expressing ability or possibility",
+      "de": "Dritte Person Singular des Verbs für Fähigkeit oder Möglichkeit",
+      "ar": "صيغة الشخص الثالث المفرد للفعل الذي يعبر عن القدرة أو الإمكانية",
+      "fr": "Forme de troisième personne singulier du verbe exprimant capacité ou possibilité",
+      "it": "Forma di terza persona singolare del verbo che esprime capacità o possibilità",
+      "ru": "Форма третьего лица единственного числа глагола, выражающего способность или возможность",
+      "es": "Forma de tercera persona singular del verbo que expresa capacidad o posibilidad",
+      "pl": "Forma trzeciej osoby liczby pojedynczej czasownika wyrażającego zdolność lub możliwość",
+      "fa": "صیغه سوم شخص مفرد فعل بیان‌کننده توانایی یا امکان"
+    },
+    "examples": {
+      "en": [
+        "He can be here",
+        "She may see this",
+        "It can be so"
+      ],
+      "de": [
+        "Er kann hier sein",
+        "Sie kann das sehen",
+        "Es kann so sein"
+      ],
+      "ar": [
+        "هو يمكن أن يكون هنا",
+        "هي يمكن أن ترى هذا",
+        "يمكن أن يكون كذلك"
+      ],
+      "fr": [
+        "Il peut être ici",
+        "Elle peut voir ceci",
+        "Ça peut être ainsi"
+      ],
+      "it": [
+        "Lui può essere qui",
+        "Lei può vedere questo",
+        "Può essere così"
+      ],
+      "ru": [
+        "Он может быть здесь",
+        "Она может видеть это",
+        "Это может быть так"
+      ],
+      "es": [
+        "Él puede estar aquí",
+        "Ella puede ver esto",
+        "Puede ser así"
+      ],
+      "pl": [
+        "On może być tutaj",
+        "Ona może widzieć to",
+        "To może być tak"
+      ],
+      "fa": [
+        "او می‌تواند اینجا باشد",
+        "او می‌تواند این را ببیند",
+        "می‌تواند اینطور باشد"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "universal_a1_040_ru",
+    "word": "мочь",
+    "category": "verbs",
+    "frequency_rank": 40,
+    "level": "a1",
+    "translations": {
+      "en": "can, to be able to",
+      "de": "können",
+      "ar": "يستطيع، أن يكون قادراً",
+      "fr": "pouvoir",
+      "it": "potere",
+      "ru": "глагол возможности и способности",
+      "es": "poder",
+      "pl": "móc",
+      "fa": "توانستن"
+    },
+    "explanation": {
+      "en": "Modal verb expressing ability, possibility, or permission to do something",
+      "de": "Modalverb für Fähigkeit, Möglichkeit oder Erlaubnis etwas zu tun",
+      "ar": "فعل معين يعبر عن القدرة أو الإمكانية أو الإذن للقيام بشيء",
+      "fr": "Verbe modal exprimant capacité, possibilité ou permission de faire quelque chose",
+      "it": "Verbo modale che esprime capacità, possibilità o permesso di fare qualcosa",
+      "ru": "Модальный глагол, выражающий способность, возможность или разрешение что-либо делать",
+      "es": "Verbo modal que expresa capacidad, posibilidad o permiso para hacer algo",
+      "pl": "Czasownik modalny wyrażający zdolność, możliwość lub pozwolenie na zrobienie czegoś",
+      "fa": "فعل وجهی بیان‌کننده توانایی، امکان یا اجازه انجام کاری"
+    },
+    "examples": {
+      "en": [
+        "I can be here",
+        "You can see this",
+        "We can do so"
+      ],
+      "de": [
+        "Ich kann hier sein",
+        "Du kannst das sehen",
+        "Wir können so machen"
+      ],
+      "ar": [
+        "أنا أستطيع أن أكون هنا",
+        "أنت تستطيع أن ترى هذا",
+        "نحن نستطيع أن نفعل كذلك"
+      ],
+      "fr": [
+        "Je peux être ici",
+        "Tu peux voir ceci",
+        "Nous pouvons faire ainsi"
+      ],
+      "it": [
+        "Io posso essere qui",
+        "Tu puoi vedere questo",
+        "Noi possiamo fare così"
+      ],
+      "ru": [
+        "Я могу быть здесь",
+        "Ты можешь видеть это",
+        "Мы можем делать так"
+      ],
+      "es": [
+        "Yo puedo estar aquí",
+        "Tú puedes ver esto",
+        "Nosotros podemos hacer así"
+      ],
+      "pl": [
+        "Ja mogę być tutaj",
+        "Ty możesz widzieć to",
+        "My możemy robić tak"
+      ],
+      "fa": [
+        "من می‌توانم اینجا باشم",
+        "تو می‌توانی این را ببینی",
+        "ما می‌توانیم اینطور بکنیم"
+      ]
+    },
+    "conjugations": null,
+    "cefrLevel": "A1"
+  }
+]
