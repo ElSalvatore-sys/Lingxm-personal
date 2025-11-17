@@ -147,6 +147,20 @@ body {
 
   /* Legacy transitions (maintain backward compatibility) */
   --transition-base: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* ============================================
+     iOS SAFE AREA INSETS
+     Handles iPhone notches, dynamic island, and home indicator
+     ============================================ */
+  --safe-area-top: env(safe-area-inset-top, 0px);
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-area-left: env(safe-area-inset-left, 0px);
+  --safe-area-right: env(safe-area-inset-right, 0px);
+
+  /* Combined spacing helpers for common use cases */
+  --safe-header-padding: calc(1rem + var(--safe-area-top));
+  --safe-footer-padding: calc(1rem + var(--safe-area-bottom));
+  --safe-horizontal-padding: max(1rem, var(--safe-area-left), var(--safe-area-right));
 }
 
 /* ============================================

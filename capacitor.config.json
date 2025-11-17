@@ -4,7 +4,28 @@
   "webDir": "dist",
   "bundledWebRuntime": false,
   "ios": {
-    "contentInset": "always"
+    "contentInset": "always",
+    "backgroundColor": "#0f172a",
+    "preferredContentMode": "mobile",
+    "limitsNavigationsToAppBoundDomains": false,
+    "allowsLinkPreview": true,
+    "scrollEnabled": true,
+    "handleApplicationNotifications": false
+  },
+  "plugins": {
+    "Haptics": {
+      "enableHaptics": true
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0f172a",
+      "overlaysWebView": false
+    },
+    "Keyboard": {
+      "resize": "native",
+      "style": "DARK",
+      "resizeOnFullScreen": true
+    }
   },
   "server": {
     "androidScheme": "https",

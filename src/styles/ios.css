@@ -1,0 +1,559 @@
+/**
+ * iOS-Specific Styles for Native Experience
+ * Optimizations for iPhone devices including safe areas, haptics, and native patterns
+ */
+
+/* ============================================
+   SAFE AREA APPLICATION
+   ============================================ */
+
+/* Apply safe areas to app header */
+.app-header,
+.header {
+  padding-top: var(--safe-header-padding);
+  padding-left: var(--safe-horizontal-padding);
+  padding-right: var(--safe-horizontal-padding);
+}
+
+/* Apply safe areas to bottom navigation and actions */
+.language-switcher,
+.sentence-actions,
+.ios-tab-bar {
+  padding-bottom: var(--safe-footer-padding);
+  padding-left: var(--safe-horizontal-padding);
+  padding-right: var(--safe-horizontal-padding);
+}
+
+/* Ensure modals respect safe areas */
+.settings-modal,
+.achievements-modal,
+.pin-modal,
+.analytics-modal {
+  padding-top: var(--safe-area-top);
+  padding-bottom: var(--safe-area-bottom);
+}
+
+/* Profile selection safe areas */
+.profile-scroll-wrapper {
+  padding-top: var(--safe-area-top);
+  padding-bottom: var(--safe-area-bottom);
+  padding-left: var(--safe-area-left);
+  padding-right: var(--safe-area-right);
+}
+
+/* ============================================
+   iOS PERFORMANCE OPTIMIZATIONS
+   ============================================ */
+
+/* Smooth scrolling for all scrollable containers */
+* {
+  -webkit-overflow-scrolling: touch;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* iOS font rendering optimization */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Prevent text size adjustment on orientation change */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* Hardware acceleration for smooth animations */
+.word-card,
+.home-card,
+.profile-card,
+.tab-item,
+.btn-primary,
+.setting-item {
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Optimize scrolling performance */
+.word-card,
+.progress-dashboard,
+.sentence-practice-container,
+.profile-scroll-wrapper {
+  -webkit-overflow-scrolling: touch;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+}
+
+/* ============================================
+   iOS TAB BAR (Bottom Navigation)
+   ============================================ */
+
+.ios-tab-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 0.5px solid rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 0;
+  padding-bottom: calc(0.5rem + var(--safe-area-bottom));
+  z-index: 1000;
+  height: calc(60px + var(--safe-area-bottom));
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Dark theme tab bar */
+[data-theme="dark"] .ios-tab-bar {
+  background: rgba(15, 23, 42, 0.85);
+  border-top: 0.5px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.tab-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  border: none;
+  background: none;
+  color: #8e8e93;
+  cursor: pointer;
+  padding: 0.5rem;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  min-height: 44px; /* iOS minimum tap target */
+}
+
+.tab-item:active {
+  transform: scale(0.95);
+  opacity: 0.7;
+}
+
+.tab-item.active {
+  color: var(--color-primary, #7c3aed);
+}
+
+[data-theme="dark"] .tab-item {
+  color: #8e8e93;
+}
+
+[data-theme="dark"] .tab-item.active {
+  color: var(--color-primary, #7c3aed);
+}
+
+.tab-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tab-item.active .tab-icon {
+  transform: scale(1.1);
+}
+
+.tab-label {
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1;
+}
+
+/* Tab bar indicator */
+.tab-item::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: 50%;
+  transform: translateX(-50%) scaleX(0);
+  width: 40px;
+  height: 3px;
+  background: var(--color-primary, #7c3aed);
+  border-radius: 0 0 3px 3px;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tab-item.active::before {
+  transform: translateX(-50%) scaleX(1);
+}
+
+/* Adjust main content to account for tab bar */
+.screen.has-tab-bar {
+  padding-bottom: calc(60px + var(--safe-area-bottom));
+}
+
+/* ============================================
+   iOS HAPTIC FEEDBACK VISUAL STATES
+   ============================================ */
+
+/* Add visual feedback that complements haptics */
+.haptic-light {
+  transition: opacity 0.1s ease;
+}
+
+.haptic-light:active {
+  opacity: 0.7;
+}
+
+.haptic-medium {
+  transition: transform 0.1s ease, opacity 0.1s ease;
+}
+
+.haptic-medium:active {
+  transform: scale(0.97);
+  opacity: 0.8;
+}
+
+.haptic-heavy {
+  transition: transform 0.15s ease;
+}
+
+.haptic-heavy:active {
+  transform: scale(0.95);
+}
+
+/* Success state with haptic */
+.haptic-success {
+  animation: successPulse 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes successPulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+/* Error state with haptic */
+.haptic-error {
+  animation: errorShake 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes errorShake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-10px);
+  }
+  75% {
+    transform: translateX(10px);
+  }
+}
+
+/* ============================================
+   iOS SWIPE GESTURE STYLES
+   ============================================ */
+
+/* Visual feedback for swipe gestures */
+.swipe-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.swipe-indicator {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.swipe-indicator.left {
+  left: 2rem;
+}
+
+.swipe-indicator.right {
+  right: 2rem;
+}
+
+.swipe-container.swiping-left .swipe-indicator.left,
+.swipe-container.swiping-right .swipe-indicator.right {
+  opacity: 0.5;
+}
+
+/* Prevent iOS Safari's swipe-back gesture interference */
+.word-card,
+.home-card,
+.sentence-card {
+  touch-action: pan-y pinch-zoom;
+}
+
+/* ============================================
+   iOS PULL-TO-REFRESH STYLES
+   ============================================ */
+
+.pull-to-refresh {
+  position: relative;
+}
+
+.pull-to-refresh-indicator {
+  position: absolute;
+  top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  opacity: 0;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pull-to-refresh.pulling .pull-to-refresh-indicator {
+  opacity: 1;
+  top: 20px;
+}
+
+.pull-to-refresh-spinner {
+  width: 30px;
+  height: 30px;
+  border: 3px solid var(--color-primary);
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.pull-to-refresh.refreshing .pull-to-refresh-spinner {
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.pull-to-refresh-text {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* ============================================
+   iOS NATIVE UI PATTERNS
+   ============================================ */
+
+/* iOS-style buttons */
+.btn-ios-primary {
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  min-height: 44px; /* iOS minimum tap target */
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-ios-primary:active {
+  transform: scale(0.97);
+  opacity: 0.8;
+}
+
+.btn-ios-secondary {
+  background: rgba(120, 120, 128, 0.16);
+  color: var(--color-primary);
+  border: none;
+  border-radius: 10px;
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  min-height: 44px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-ios-secondary:active {
+  transform: scale(0.97);
+  opacity: 0.7;
+}
+
+/* iOS-style cards with backdrop blur */
+.ios-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 12px;
+  border: 0.5px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .ios-card {
+  background: rgba(30, 41, 59, 0.7);
+  border: 0.5px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* iOS-style list separators */
+.ios-list-separator {
+  height: 0.5px;
+  background: rgba(60, 60, 67, 0.29);
+  margin-left: 1rem;
+}
+
+[data-theme="dark"] .ios-list-separator {
+  background: rgba(84, 84, 88, 0.65);
+}
+
+/* iOS-style toggle switches (enhance existing) */
+.toggle-switch {
+  transform: scale(0.9);
+}
+
+/* ============================================
+   iOS STATUS BAR SPACER
+   ============================================ */
+
+/* Add spacer for status bar on screens without headers */
+.ios-status-bar-spacer {
+  height: var(--safe-area-top);
+  background: var(--bg-primary);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* ============================================
+   iOS LANDSCAPE OPTIMIZATIONS
+   ============================================ */
+
+@media (orientation: landscape) and (max-height: 500px) {
+  /* Reduce padding in landscape on small devices */
+  .app-header,
+  .header {
+    padding-top: calc(0.5rem + var(--safe-area-top));
+    padding-bottom: 0.5rem;
+  }
+
+  /* Make tab bar more compact in landscape */
+  .ios-tab-bar {
+    height: calc(50px + var(--safe-area-bottom));
+    padding: 0.25rem 0;
+    padding-bottom: calc(0.25rem + var(--safe-area-bottom));
+  }
+
+  .tab-icon {
+    font-size: 1.25rem;
+  }
+
+  .tab-label {
+    font-size: 0.5rem;
+  }
+
+  /* Adjust word card padding */
+  .word-card {
+    padding: var(--space-4);
+  }
+}
+
+/* ============================================
+   DEVICE-SPECIFIC OPTIMIZATIONS
+   ============================================ */
+
+/* iPhone SE and smaller devices */
+@media (max-width: 375px) {
+  .tab-label {
+    font-size: 0.55rem;
+  }
+
+  .tab-icon {
+    font-size: 1.35rem;
+  }
+}
+
+/* iPhone Pro Max and larger devices */
+@media (min-width: 428px) {
+  .ios-tab-bar {
+    padding: 0.625rem 0;
+    padding-bottom: calc(0.625rem + var(--safe-area-bottom));
+  }
+}
+
+/* ============================================
+   NOTCH AND DYNAMIC ISLAND AWARENESS
+   ============================================ */
+
+/* For devices with notch/dynamic island */
+@supports (padding-top: env(safe-area-inset-top)) {
+  .fullscreen-modal {
+    padding-top: var(--safe-area-top);
+  }
+
+  .sticky-header {
+    top: var(--safe-area-top);
+  }
+}
+
+/* Ensure critical content is not obscured by notch */
+.critical-content {
+  margin-top: var(--safe-area-top);
+  margin-bottom: var(--safe-area-bottom);
+  margin-left: var(--safe-area-left);
+  margin-right: var(--safe-area-right);
+}
+
+/* ============================================
+   iOS ACCESSIBILITY ENHANCEMENTS
+   ============================================ */
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Ensure minimum tap targets for accessibility */
+button,
+a,
+.clickable {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .ios-tab-bar {
+    border-top: 1px solid currentColor;
+  }
+
+  .tab-item {
+    font-weight: 600;
+  }
+}
+
+/* ============================================
+   PREVENT ZOOM ON INPUT FOCUS (iOS)
+   ============================================ */
+
+/* This is handled in meta viewport tag but as backup */
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+  font-size: 16px; /* Prevents iOS zoom on focus */
+}
