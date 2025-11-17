@@ -1,0 +1,522 @@
+[
+  {
+    "id": "universal_a2_761_fr",
+    "word": "heureux",
+    "translations": {
+      "en": "happy",
+      "de": "glücklich",
+      "ar": "سعيد",
+      "fr": "heureux",
+      "it": "felice",
+      "ru": "счастливый",
+      "es": "feliz",
+      "pl": "szczęśliwy",
+      "fa": "خوشحال"
+    },
+    "examples": {
+      "en": ["I am very happy today.", "She looks happy with her gift.", "Are you happy here?"],
+      "de": ["Ich bin heute sehr glücklich.", "Sie sieht glücklich aus mit ihrem Geschenk.", "Bist du hier glücklich?"],
+      "ar": ["أنا سعيد جداً اليوم.", "تبدو سعيدة بهديتها.", "هل أنت سعيد هنا؟"],
+      "fr": ["Je suis très heureux aujourd'hui.", "Elle a l'air heureuse avec son cadeau.", "Tu es heureux ici?"],
+      "it": ["Io sono molto felice oggi.", "Lei sembra felice con il suo regalo.", "Sei felice qui?"],
+      "ru": ["Я очень счастлив сегодня.", "Она выглядит счастливой со своим подарком.", "Ты счастлив здесь?"],
+      "es": ["Yo estoy muy feliz hoy.", "Ella se ve feliz con su regalo.", "¿Estás feliz aquí?"],
+      "pl": ["Ja jestem bardzo szczęśliwy dzisiaj.", "Ona wygląda na szczęśliwą z prezentem.", "Czy jesteś tu szczęśliwy?"],
+      "fa": ["من امروز خیلی خوشحالم.", "او با کادوش خوشحال به نظر می‌رسه.", "تو اینجا خوشحالی؟"]
+    }
+  },
+  {
+    "id": "universal_a2_762_fr",
+    "word": "triste",
+    "translations": {
+      "en": "sad",
+      "de": "traurig",
+      "ar": "حزين",
+      "fr": "triste",
+      "it": "triste",
+      "ru": "грустный",
+      "es": "triste",
+      "pl": "smutny",
+      "fa": "غمگین"
+    },
+    "examples": {
+      "en": ["Why are you sad?", "I feel sad when it rains.", "She was sad yesterday."],
+      "de": ["Warum bist du traurig?", "Ich fühle mich traurig, wenn es regnet.", "Sie war gestern traurig."],
+      "ar": ["لماذا أنت حزين؟", "أشعر بالحزن عندما تمطر.", "كانت حزينة أمس."],
+      "fr": ["Pourquoi es-tu triste?", "Je me sens triste quand il pleut.", "Elle était triste hier."],
+      "it": ["Perché sei triste?", "Mi sento triste quando piove.", "Lei era triste ieri."],
+      "ru": ["Почему ты грустный?", "Я чувствую грусть, когда идет дождь.", "Она была грустной вчера."],
+      "es": ["¿Por qué estás triste?", "Me siento triste cuando llueve.", "Ella estaba triste ayer."],
+      "pl": ["Dlaczego jesteś smutny?", "Czuję smutek, gdy pada deszcz.", "Ona była smutna wczoraj."],
+      "fa": ["چرا غمگینی؟", "وقتی باران می‌باره غمگین می‌شم.", "او دیروز غمگین بود."]
+    }
+  },
+  {
+    "id": "universal_a2_763_fr",
+    "word": "colère",
+    "translations": {
+      "en": "anger, angry",
+      "de": "Wut, wütend",
+      "ar": "غضب",
+      "fr": "colère",
+      "it": "rabbia",
+      "ru": "гнев, злой",
+      "es": "enojo, enfado",
+      "pl": "złość",
+      "fa": "عصبانیت"
+    },
+    "examples": {
+      "en": ["He is angry with me.", "Don't show your anger!", "I feel anger sometimes."],
+      "de": ["Er ist wütend auf mich.", "Zeig deine Wut nicht!", "Ich fühle manchmal Wut."],
+      "ar": ["هو غاضب مني.", "لا تظهر غضبك!", "أشعر بالغضب أحياناً."],
+      "fr": ["Il est en colère contre moi.", "Ne montre pas ta colère!", "Je ressens de la colère parfois."],
+      "it": ["Lui è arrabbiato con me.", "Non mostrare la tua rabbia!", "Sento rabbia a volte."],
+      "ru": ["Он зол на меня.", "Не показывай свой гнев!", "Я иногда чувствую злость."],
+      "es": ["Él está enfadado conmigo.", "¡No muestres tu enojo!", "Siento enfado a veces."],
+      "pl": ["On jest na mnie zły.", "Nie pokazuj swojej złości!", "Czasem czuję złość."],
+      "fa": ["او از من عصبانیه.", "عصبانیتت رو نشون نده!", "من گاهی عصبانی می‌شم."]
+    }
+  },
+  {
+    "id": "universal_a2_764_fr",
+    "word": "effrayé",
+    "translations": {
+      "en": "scared, frightened",
+      "de": "ängstlich, erschrocken",
+      "ar": "خائف، مرعوب",
+      "fr": "effrayé",
+      "it": "spaventato",
+      "ru": "испуганный",
+      "es": "asustado",
+      "pl": "przestraszony",
+      "fa": "ترسیده"
+    },
+    "examples": {
+      "en": ["I am scared of dogs.", "Don't be frightened!", "She was scared last night."],
+      "de": ["Ich habe Angst vor Hunden.", "Hab keine Angst!", "Sie hatte letzte Nacht Angst."],
+      "ar": ["أنا خائف من الكلاب.", "لا تخف!", "كانت خائفة الليلة الماضية."],
+      "fr": ["J'ai peur des chiens.", "N'aie pas peur!", "Elle avait peur hier soir."],
+      "it": ["Io ho paura dei cani.", "Non avere paura!", "Lei aveva paura ieri sera."],
+      "ru": ["Я боюсь собак.", "Не бойся!", "Она боялась вчера вечером."],
+      "es": ["Yo tengo miedo de los perros.", "¡No tengas miedo!", "Ella tenía miedo anoche."],
+      "pl": ["Ja boję się psów.", "Nie bój się!", "Ona bała się wczoraj wieczorem."],
+      "fa": ["من از سگ‌ها می‌ترسم.", "نترس!", "او دیشب ترسیده بود."]
+    }
+  },
+  {
+    "id": "universal_a2_765_fr",
+    "word": "excité",
+    "translations": {
+      "en": "excited",
+      "de": "aufgeregt",
+      "ar": "متحمس",
+      "fr": "excité",
+      "it": "eccitato",
+      "ru": "взволнованный",
+      "es": "emocionado",
+      "pl": "podekscytowany",
+      "fa": "هیجان‌زده"
+    },
+    "examples": {
+      "en": ["I am excited about the party!", "The children are very excited.", "She feels excited today."],
+      "de": ["Ich bin aufgeregt wegen der Party!", "Die Kinder sind sehr aufgeregt.", "Sie fühlt sich heute aufgeregt."],
+      "ar": ["أنا متحمس للحفلة!", "الأطفال متحمسون جداً.", "هي تشعر بالحماس اليوم."],
+      "fr": ["Je suis excité pour la fête!", "Les enfants sont très excités.", "Elle se sent excitée aujourd'hui."],
+      "it": ["Io sono eccitato per la festa!", "I bambini sono molto eccitati.", "Lei si sente eccitata oggi."],
+      "ru": ["Я взволнован насчет вечеринки!", "Дети очень взволнованы.", "Она чувствует волнение сегодня."],
+      "es": ["¡Yo estoy emocionado por la fiesta!", "Los niños están muy emocionados.", "Ella se siente emocionada hoy."],
+      "pl": ["Ja jestem podekscytowany imprezą!", "Dzieci są bardzo podekscytowane.", "Ona czuje się podekscytowana dzisiaj."],
+      "fa": ["من برای مهمونی هیجان‌زده‌ام!", "بچه‌ها خیلی هیجان‌زده‌ان.", "او امروز هیجان‌زده است."]
+    }
+  },
+  {
+    "id": "universal_a2_766_fr",
+    "word": "inquiet",
+    "translations": {
+      "en": "worried, anxious",
+      "de": "besorgt",
+      "ar": "قلق",
+      "fr": "inquiet",
+      "it": "preoccupato",
+      "ru": "обеспокоенный",
+      "es": "preocupado",
+      "pl": "zmartwiony",
+      "fa": "نگران"
+    },
+    "examples": {
+      "en": ["I am worried about the test.", "She looks worried today.", "Don't be anxious!"],
+      "de": ["Ich bin besorgt wegen des Tests.", "Sie sieht heute besorgt aus.", "Sei nicht ängstlich!"],
+      "ar": ["أنا قلق بشأن الاختبار.", "تبدو قلقة اليوم.", "لا تقلق!"],
+      "fr": ["Je suis inquiet pour l'examen.", "Elle a l'air inquiète aujourd'hui.", "Ne sois pas inquiet!"],
+      "it": ["Io sono preoccupato per il test.", "Lei sembra preoccupata oggi.", "Non essere ansioso!"],
+      "ru": ["Я беспокоюсь о тесте.", "Она выглядит обеспокоенной сегодня.", "Не волнуйся!"],
+      "es": ["Yo estoy preocupado por el examen.", "Ella se ve preocupada hoy.", "¡No te preocupes!"],
+      "pl": ["Ja jestem zmartwiony testem.", "Ona wygląda na zmartwioną dzisiaj.", "Nie martw się!"],
+      "fa": ["من نگران امتحانم.", "او امروز نگران به نظر می‌رسه.", "نگران نباش!"]
+    }
+  },
+  {
+    "id": "universal_a2_767_fr",
+    "word": "fatigué",
+    "translations": {
+      "en": "tired",
+      "de": "müde",
+      "ar": "متعب",
+      "fr": "fatigué",
+      "it": "stanco",
+      "ru": "уставший",
+      "es": "cansado",
+      "pl": "zmęczony",
+      "fa": "خسته"
+    },
+    "examples": {
+      "en": ["I am very tired today.", "He feels tired after work.", "Are you tired?"],
+      "de": ["Ich bin heute sehr müde.", "Er fühlt sich nach der Arbeit müde.", "Bist du müde?"],
+      "ar": ["أنا متعب جداً اليوم.", "يشعر بالتعب بعد العمل.", "هل أنت متعب؟"],
+      "fr": ["Je suis très fatigué aujourd'hui.", "Il se sent fatigué après le travail.", "Tu es fatigué?"],
+      "it": ["Io sono molto stanco oggi.", "Lui si sente stanco dopo il lavoro.", "Sei stanco?"],
+      "ru": ["Я очень устал сегодня.", "Он чувствует усталость после работы.", "Ты устал?"],
+      "es": ["Yo estoy muy cansado hoy.", "Él se siente cansado después del trabajo.", "¿Estás cansado?"],
+      "pl": ["Ja jestem bardzo zmęczony dzisiaj.", "On czuje się zmęczony po pracy.", "Czy jesteś zmęczony?"],
+      "fa": ["من امروز خیلی خسته‌ام.", "او بعد از کار خسته است.", "تو خسته‌ای؟"]
+    }
+  },
+  {
+    "id": "universal_a2_768_fr",
+    "word": "ennuyé",
+    "translations": {
+      "en": "bored, annoyed",
+      "de": "gelangweilt",
+      "ar": "ضجر، منزعج",
+      "fr": "ennuyé",
+      "it": "annoiato",
+      "ru": "скучающий, раздраженный",
+      "es": "aburrido",
+      "pl": "znudzony",
+      "fa": "خسته، حوصله‌سر رفته"
+    },
+    "examples": {
+      "en": ["I am bored at home.", "He looks very bored.", "Are you bored with this?"],
+      "de": ["Ich bin zu Hause gelangweilt.", "Er sieht sehr gelangweilt aus.", "Bist du damit gelangweilt?"],
+      "ar": ["أنا ضجر في المنزل.", "يبدو ضجراً جداً.", "هل أنت ضجر من هذا؟"],
+      "fr": ["Je m'ennuie à la maison.", "Il a l'air très ennuyé.", "Tu t'ennuies avec ça?"],
+      "it": ["Io mi annoio a casa.", "Lui sembra molto annoiato.", "Sei annoiato con questo?"],
+      "ru": ["Мне скучно дома.", "Он выглядит очень скучающим.", "Тебе скучно с этим?"],
+      "es": ["Yo estoy aburrido en casa.", "Él se ve muy aburrido.", "¿Estás aburrido con esto?"],
+      "pl": ["Ja nudzę się w domu.", "On wygląda bardzo znudzony.", "Czy jesteś znudzony tym?"],
+      "fa": ["من تو خونه حوصله‌م سر رفته.", "او خیلی خسته به نظر می‌رسه.", "از این حوصله‌ت سر رفته؟"]
+    }
+  },
+  {
+    "id": "universal_a2_769_fr",
+    "word": "intéressé",
+    "translations": {
+      "en": "interested",
+      "de": "interessiert",
+      "ar": "مهتم",
+      "fr": "intéressé",
+      "it": "interessato",
+      "ru": "заинтересованный",
+      "es": "interesado",
+      "pl": "zainteresowany",
+      "fa": "علاقه‌مند"
+    },
+    "examples": {
+      "en": ["I am interested in music.", "She seems interested in this book.", "Are you interested?"],
+      "de": ["Ich interessiere mich für Musik.", "Sie scheint an diesem Buch interessiert.", "Bist du interessiert?"],
+      "ar": ["أنا مهتم بالموسيقى.", "تبدو مهتمة بهذا الكتاب.", "هل أنت مهتم؟"],
+      "fr": ["Je suis intéressé par la musique.", "Elle semble intéressée par ce livre.", "Tu es intéressé?"],
+      "it": ["Io sono interessato alla musica.", "Lei sembra interessata a questo libro.", "Sei interessato?"],
+      "ru": ["Меня интересует музыка.", "Она кажется заинтересованной в этой книге.", "Ты заинтересован?"],
+      "es": ["Yo estoy interesado en la música.", "Ella parece interesada en este libro.", "¿Estás interesado?"],
+      "pl": ["Ja jestem zainteresowany muzyką.", "Ona wydaje się zainteresowana tą książką.", "Czy jesteś zainteresowany?"],
+      "fa": ["من به موسیقی علاقه‌مندم.", "او به این کتاب علاقه‌مند به نظر می‌رسه.", "علاقه‌مندی؟"]
+    }
+  },
+  {
+    "id": "universal_a2_770_fr",
+    "word": "surpris",
+    "translations": {
+      "en": "surprised",
+      "de": "überrascht",
+      "ar": "مندهش",
+      "fr": "surpris",
+      "it": "sorpreso",
+      "ru": "удивленный",
+      "es": "sorprendido",
+      "pl": "zaskoczony",
+      "fa": "شگفت‌زده"
+    },
+    "examples": {
+      "en": ["I am surprised by the news!", "She looked surprised yesterday.", "Are you surprised?"],
+      "de": ["Ich bin überrascht von den Nachrichten!", "Sie sah gestern überrascht aus.", "Bist du überrascht?"],
+      "ar": ["أنا مندهش من الأخبار!", "بدت مندهشة أمس.", "هل أنت مندهش؟"],
+      "fr": ["Je suis surpris par les nouvelles!", "Elle avait l'air surprise hier.", "Tu es surpris?"],
+      "it": ["Io sono sorpreso dalle notizie!", "Lei sembrava sorpresa ieri.", "Sei sorpreso?"],
+      "ru": ["Я удивлен новостями!", "Она выглядела удивленной вчера.", "Ты удивлен?"],
+      "es": ["¡Yo estoy sorprendido por las noticias!", "Ella se veía sorprendida ayer.", "¿Estás sorprendido?"],
+      "pl": ["Ja jestem zaskoczony wiadomościami!", "Ona wyglądała na zaskoczoną wczoraj.", "Czy jesteś zaskoczony?"],
+      "fa": ["من از این خبر شگفت‌زده‌ام!", "او دیروز شگفت‌زده به نظر می‌رسید.", "تو شگفت‌زده‌ای؟"]
+    }
+  },
+  {
+    "id": "universal_a2_771_fr",
+    "word": "sourire",
+    "translations": {
+      "en": "smile, to smile",
+      "de": "Lächeln, lächeln",
+      "ar": "ابتسامة، يبتسم",
+      "fr": "sourire",
+      "it": "sorriso, sorridere",
+      "ru": "улыбка, улыбаться",
+      "es": "sonrisa, sonreír",
+      "pl": "uśmiech, uśmiechać się",
+      "fa": "لبخند، لبخند زدن"
+    },
+    "examples": {
+      "en": ["Please smile for the photo!", "She has a beautiful smile.", "I smile when I'm happy."],
+      "de": ["Bitte lächle für das Foto!", "Sie hat ein schönes Lächeln.", "Ich lächle, wenn ich glücklich bin."],
+      "ar": ["من فضلك ابتسم للصورة!", "لديها ابتسامة جميلة.", "أبتسم عندما أكون سعيداً."],
+      "fr": ["Souris pour la photo, s'il te plaît!", "Elle a un beau sourire.", "Je souris quand je suis heureux."],
+      "it": ["Per favore sorridi per la foto!", "Lei ha un bel sorriso.", "Io sorrido quando sono felice."],
+      "ru": ["Улыбнись для фото, пожалуйста!", "У нее красивая улыбка.", "Я улыбаюсь, когда счастлив."],
+      "es": ["¡Por favor sonríe para la foto!", "Ella tiene una sonrisa hermosa.", "Yo sonrío cuando estoy feliz."],
+      "pl": ["Proszę uśmiechnij się do zdjęcia!", "Ona ma piękny uśmiech.", "Ja się uśmiecham, gdy jestem szczęśliwy."],
+      "fa": ["لطفاً برای عکس لبخند بزن!", "او لبخند قشنگی داره.", "من وقتی خوشحالم لبخند می‌زنم."]
+    }
+  },
+  {
+    "id": "universal_a2_772_fr",
+    "word": "rire",
+    "translations": {
+      "en": "laugh, to laugh",
+      "de": "Lachen, lachen",
+      "ar": "ضحك، يضحك",
+      "fr": "rire",
+      "it": "ridere",
+      "ru": "смех, смеяться",
+      "es": "risa, reír",
+      "pl": "śmiech, śmiać się",
+      "fa": "خنده، خندیدن"
+    },
+    "examples": {
+      "en": ["I love to laugh with friends.", "The joke made me laugh.", "She laughs a lot."],
+      "de": ["Ich lache gerne mit Freunden.", "Der Witz brachte mich zum Lachen.", "Sie lacht viel."],
+      "ar": ["أحب أن أضحك مع الأصدقاء.", "جعلتني النكتة أضحك.", "هي تضحك كثيراً."],
+      "fr": ["J'aime rire avec mes amis.", "La blague m'a fait rire.", "Elle rit beaucoup."],
+      "it": ["Io amo ridere con gli amici.", "La barzelletta mi ha fatto ridere.", "Lei ride molto."],
+      "ru": ["Я люблю смеяться с друзьями.", "Шутка меня рассмешила.", "Она много смеется."],
+      "es": ["Yo amo reír con amigos.", "El chiste me hizo reír.", "Ella ríe mucho."],
+      "pl": ["Ja uwielbiam śmiać się z przyjaciółmi.", "Żart mnie rozśmieszył.", "Ona dużo się śmieje."],
+      "fa": ["من عاشق خندیدن با دوستام هستم.", "اون جوک منو خندوند.", "او زیاد می‌خنده."]
+    }
+  },
+  {
+    "id": "universal_a2_773_fr",
+    "word": "pleurer",
+    "translations": {
+      "en": "to cry",
+      "de": "weinen",
+      "ar": "يبكي",
+      "fr": "pleurer",
+      "it": "piangere",
+      "ru": "плакать",
+      "es": "llorar",
+      "pl": "płakać",
+      "fa": "گریه کردن"
+    },
+    "examples": {
+      "en": ["Don't cry, please!", "The baby cries a lot.", "I cry when I'm sad."],
+      "de": ["Bitte weine nicht!", "Das Baby weint viel.", "Ich weine, wenn ich traurig bin."],
+      "ar": ["من فضلك لا تبكِ!", "الطفل يبكي كثيراً.", "أبكي عندما أكون حزيناً."],
+      "fr": ["Ne pleure pas, s'il te plaît!", "Le bébé pleure beaucoup.", "Je pleure quand je suis triste."],
+      "it": ["Non piangere, per favore!", "Il bambino piange molto.", "Io piango quando sono triste."],
+      "ru": ["Не плачь, пожалуйста!", "Ребенок много плачет.", "Я плачу, когда грустно."],
+      "es": ["¡No llores, por favor!", "El bebé llora mucho.", "Yo lloro cuando estoy triste."],
+      "pl": ["Proszę nie płacz!", "Dziecko dużo płacze.", "Ja płaczę, gdy jestem smutny."],
+      "fa": ["گریه نکن، لطفاً!", "نوزاد زیاد گریه می‌کنه.", "من وقتی غمگینم گریه می‌کنم."]
+    }
+  },
+  {
+    "id": "universal_a2_774_fr",
+    "word": "sentir",
+    "translations": {
+      "en": "to feel, to smell",
+      "de": "fühlen, riechen",
+      "ar": "يشعر، يشم",
+      "fr": "sentir",
+      "it": "sentire, sentire odore",
+      "ru": "чувствовать, нюхать",
+      "es": "sentir, oler",
+      "pl": "czuć, wąchać",
+      "fa": "احساس کردن، بو کردن"
+    },
+    "examples": {
+      "en": ["I feel happy today.", "Can you smell the flowers?", "This food smells good."],
+      "de": ["Ich fühle mich heute glücklich.", "Kannst du die Blumen riechen?", "Dieses Essen riecht gut."],
+      "ar": ["أشعر بالسعادة اليوم.", "هل تشم رائحة الزهور؟", "هذا الطعام رائحته جيدة."],
+      "fr": ["Je me sens heureux aujourd'hui.", "Tu sens les fleurs?", "Cette nourriture sent bon."],
+      "it": ["Io mi sento felice oggi.", "Puoi sentire i fiori?", "Questo cibo profuma bene."],
+      "ru": ["Я чувствую себя счастливым сегодня.", "Ты чувствуешь запах цветов?", "Эта еда хорошо пахнет."],
+      "es": ["Yo me siento feliz hoy.", "¿Puedes oler las flores?", "Esta comida huele bien."],
+      "pl": ["Ja czuję się szczęśliwy dzisiaj.", "Czy możesz poczuć kwiaty?", "To jedzenie pachnie dobrze."],
+      "fa": ["من امروز خوشحالم.", "می‌تونی بوی گل‌ها رو بکشی؟", "این غذا بوی خوبی می‌ده."]
+    }
+  },
+  {
+    "id": "universal_a2_775_fr",
+    "word": "émotion",
+    "translations": {
+      "en": "emotion",
+      "de": "Emotion, Gefühl",
+      "ar": "عاطفة",
+      "fr": "émotion",
+      "it": "emozione",
+      "ru": "эмоция",
+      "es": "emoción",
+      "pl": "emocja",
+      "fa": "احساس، هیجان"
+    },
+    "examples": {
+      "en": ["Love is a strong emotion.", "I have many emotions today.", "Show your emotions!"],
+      "de": ["Liebe ist eine starke Emotion.", "Ich habe heute viele Emotionen.", "Zeig deine Emotionen!"],
+      "ar": ["الحب عاطفة قوية.", "لدي عواطف كثيرة اليوم.", "أظهر عواطفك!"],
+      "fr": ["L'amour est une émotion forte.", "J'ai beaucoup d'émotions aujourd'hui.", "Montre tes émotions!"],
+      "it": ["L'amore è un'emozione forte.", "Io ho molte emozioni oggi.", "Mostra le tue emozioni!"],
+      "ru": ["Любовь - сильная эмоция.", "У меня много эмоций сегодня.", "Покажи свои эмоции!"],
+      "es": ["El amor es una emoción fuerte.", "Yo tengo muchas emociones hoy.", "¡Muestra tus emociones!"],
+      "pl": ["Miłość to silna emocja.", "Ja mam wiele emocji dzisiaj.", "Pokaż swoje emocje!"],
+      "fa": ["عشق یک احساس قوی است.", "من امروز احساسات زیادی دارم.", "احساساتت رو نشون بده!"]
+    }
+  },
+  {
+    "id": "universal_a2_776_fr",
+    "word": "humeur",
+    "translations": {
+      "en": "mood",
+      "de": "Stimmung, Laune",
+      "ar": "مزاج",
+      "fr": "humeur",
+      "it": "umore",
+      "ru": "настроение",
+      "es": "humor, estado de ánimo",
+      "pl": "nastrój",
+      "fa": "خلق و خو، حال"
+    },
+    "examples": {
+      "en": ["I am in a good mood today.", "Her mood changes quickly.", "What's your mood?"],
+      "de": ["Ich bin heute gut gelaunt.", "Ihre Stimmung ändert sich schnell.", "Wie ist deine Laune?"],
+      "ar": ["أنا في مزاج جيد اليوم.", "مزاجها يتغير بسرعة.", "ما مزاجك؟"],
+      "fr": ["Je suis de bonne humeur aujourd'hui.", "Son humeur change vite.", "Quelle est ton humeur?"],
+      "it": ["Io sono di buon umore oggi.", "Il suo umore cambia velocemente.", "Qual è il tuo umore?"],
+      "ru": ["У меня хорошее настроение сегодня.", "Ее настроение быстро меняется.", "Какое у тебя настроение?"],
+      "es": ["Yo estoy de buen humor hoy.", "Su humor cambia rápidamente.", "¿Cuál es tu humor?"],
+      "pl": ["Ja jestem w dobrym nastroju dzisiaj.", "Jej nastrój zmienia się szybko.", "Jaki jest twój nastrój?"],
+      "fa": ["من امروز حالم خوبه.", "حال و هوای او زود عوض می‌شه.", "حالت چطوره؟"]
+    }
+  },
+  {
+    "id": "universal_a2_777_fr",
+    "word": "mieux",
+    "translations": {
+      "en": "better",
+      "de": "besser",
+      "ar": "أفضل، أحسن",
+      "fr": "mieux",
+      "it": "meglio",
+      "ru": "лучше",
+      "es": "mejor",
+      "pl": "lepiej",
+      "fa": "بهتر"
+    },
+    "examples": {
+      "en": ["I feel better today.", "This is better than that.", "You can do it better!"],
+      "de": ["Ich fühle mich heute besser.", "Das ist besser als das.", "Du kannst es besser machen!"],
+      "ar": ["أشعر بتحسن اليوم.", "هذا أفضل من ذاك.", "يمكنك أن تفعلها أفضل!"],
+      "fr": ["Je me sens mieux aujourd'hui.", "C'est mieux que ça.", "Tu peux faire mieux!"],
+      "it": ["Io mi sento meglio oggi.", "Questo è meglio di quello.", "Puoi farlo meglio!"],
+      "ru": ["Я чувствую себя лучше сегодня.", "Это лучше, чем то.", "Ты можешь сделать лучше!"],
+      "es": ["Yo me siento mejor hoy.", "Esto es mejor que eso.", "¡Puedes hacerlo mejor!"],
+      "pl": ["Ja czuję się lepiej dzisiaj.", "To jest lepsze niż tamto.", "Możesz zrobić to lepiej!"],
+      "fa": ["من امروز حالم بهتره.", "این از اون بهتره.", "تو می‌تونی بهتر انجامش بدی!"]
+    }
+  },
+  {
+    "id": "universal_a2_778_fr",
+    "word": "pire",
+    "translations": {
+      "en": "worse",
+      "de": "schlechter, schlimmer",
+      "ar": "أسوأ",
+      "fr": "pire",
+      "it": "peggio",
+      "ru": "хуже",
+      "es": "peor",
+      "pl": "gorzej",
+      "fa": "بدتر"
+    },
+    "examples": {
+      "en": ["I feel worse today.", "This is worse than before.", "The weather is getting worse."],
+      "de": ["Ich fühle mich heute schlechter.", "Das ist schlimmer als vorher.", "Das Wetter wird schlimmer."],
+      "ar": ["أشعر بأنني أسوأ اليوم.", "هذا أسوأ من قبل.", "الطقس يزداد سوءاً."],
+      "fr": ["Je me sens pire aujourd'hui.", "C'est pire qu'avant.", "Le temps devient pire."],
+      "it": ["Io mi sento peggio oggi.", "Questo è peggio di prima.", "Il tempo sta peggiorando."],
+      "ru": ["Я чувствую себя хуже сегодня.", "Это хуже, чем раньше.", "Погода становится хуже."],
+      "es": ["Yo me siento peor hoy.", "Esto es peor que antes.", "El tiempo está empeorando."],
+      "pl": ["Ja czuję się gorzej dzisiaj.", "To jest gorsze niż wcześniej.", "Pogoda się pogarsza."],
+      "fa": ["من امروز حالم بدتره.", "این از قبل بدتره.", "هوا داره بدتر می‌شه."]
+    }
+  },
+  {
+    "id": "universal_a2_779_fr",
+    "word": "meilleur",
+    "translations": {
+      "en": "best, better",
+      "de": "bester, besser",
+      "ar": "الأفضل، أفضل",
+      "fr": "meilleur",
+      "it": "migliore",
+      "ru": "лучший",
+      "es": "mejor",
+      "pl": "najlepszy, lepszy",
+      "fa": "بهترین"
+    },
+    "examples": {
+      "en": ["This is the best one!", "He is my best friend.", "You are a better student."],
+      "de": ["Das ist der beste!", "Er ist mein bester Freund.", "Du bist ein besserer Student."],
+      "ar": ["هذا هو الأفضل!", "هو أفضل صديق لي.", "أنت طالب أفضل."],
+      "fr": ["C'est le meilleur!", "Il est mon meilleur ami.", "Tu es un meilleur étudiant."],
+      "it": ["Questo è il migliore!", "Lui è il mio migliore amico.", "Tu sei uno studente migliore."],
+      "ru": ["Это лучший!", "Он мой лучший друг.", "Ты лучший студент."],
+      "es": ["¡Este es el mejor!", "Él es mi mejor amigo.", "Tú eres un mejor estudiante."],
+      "pl": ["To jest najlepszy!", "On jest moim najlepszym przyjacielem.", "Ty jesteś lepszym studentem."],
+      "fa": ["این بهترینه!", "او بهترین دوستمه.", "تو دانش‌آموز بهتری هستی."]
+    }
+  },
+  {
+    "id": "universal_a2_780_fr",
+    "word": "mal",
+    "translations": {
+      "en": "bad, badly, pain",
+      "de": "schlecht, Schmerz",
+      "ar": "سيء، بشكل سيء، ألم",
+      "fr": "mal",
+      "it": "male",
+      "ru": "плохо, боль",
+      "es": "mal, dolor",
+      "pl": "źle, ból",
+      "fa": "بد، درد"
+    },
+    "examples": {
+      "en": ["I feel bad today.", "My head hurts.", "That is very bad!"],
+      "de": ["Ich fühle mich heute schlecht.", "Mein Kopf tut weh.", "Das ist sehr schlecht!"],
+      "ar": ["أشعر بالسوء اليوم.", "رأسي يؤلمني.", "ذلك سيء جداً!"],
+      "fr": ["Je me sens mal aujourd'hui.", "J'ai mal à la tête.", "C'est très mal!"],
+      "it": ["Io mi sento male oggi.", "Mi fa male la testa.", "Quello è molto male!"],
+      "ru": ["Мне плохо сегодня.", "У меня болит голова.", "Это очень плохо!"],
+      "es": ["Yo me siento mal hoy.", "Me duele la cabeza.", "¡Eso es muy mal!"],
+      "pl": ["Ja czuję się źle dzisiaj.", "Boli mnie głowa.", "To jest bardzo źle!"],
+      "fa": ["من امروز حالم بده.", "سرم درد می‌کنه.", "این خیلی بده!"]
+    }
+  }
+]

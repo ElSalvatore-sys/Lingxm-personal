@@ -1,0 +1,524 @@
+[
+  {
+    "id": "universal_a2_641_fr",
+    "word": "vêtements",
+    "translations": {
+      "en": "clothes",
+      "de": "Kleidung",
+      "ar": "ملابس",
+      "fr": "vêtements",
+      "it": "vestiti",
+      "ru": "одежда",
+      "es": "ropa",
+      "pl": "ubrania",
+      "fa": "لباس"
+    },
+    "examples": {
+      "en": ["I buy new clothes today.", "My clothes are very clean.", "These clothes are too expensive."],
+      "de": ["Ich kaufe heute neue Kleidung.", "Meine Kleidung ist sehr sauber.", "Diese Kleidung ist zu teuer."],
+      "ar": ["أشتري ملابس جديدة اليوم.", "ملابسي نظيفة جداً.", "هذه الملابس غالية جداً."],
+      "fr": ["J'achète de nouveaux vêtements aujourd'hui.", "Mes vêtements sont très propres.", "Ces vêtements sont trop chers."],
+      "it": ["Io compro vestiti nuovi oggi.", "I miei vestiti sono molto puliti.", "Questi vestiti sono troppo costosi."],
+      "ru": ["Я покупаю новую одежду сегодня.", "Моя одежда очень чистая.", "Эта одежда слишком дорогая."],
+      "es": ["Yo compro ropa nueva hoy.", "Mi ropa está muy limpia.", "Esta ropa es demasiado cara."],
+      "pl": ["Ja kupuję nowe ubrania dzisiaj.", "Moje ubrania są bardzo czyste.", "Te ubrania są za drogie."],
+      "fa": ["من امروز لباس جدید می‌خرم.", "لباسام خیلی تمیزه.", "این لباس‌ها خیلی گرونن."]
+    }
+  },
+  {
+    "id": "universal_a2_642_fr",
+    "word": "porter",
+    "translations": {
+      "en": "to wear",
+      "de": "tragen",
+      "ar": "يرتدي",
+      "fr": "porter",
+      "it": "indossare",
+      "ru": "носить",
+      "es": "llevar, usar",
+      "pl": "nosić",
+      "fa": "پوشیدن"
+    },
+    "examples": {
+      "en": ["I wear a dress today.", "She wears glasses every day.", "What do you wear to work?"],
+      "de": ["Ich trage heute ein Kleid.", "Sie trägt jeden Tag eine Brille.", "Was trägst du zur Arbeit?"],
+      "ar": ["أرتدي فستاناً اليوم.", "هي ترتدي نظارات كل يوم.", "ماذا ترتدي للعمل؟"],
+      "fr": ["Je porte une robe aujourd'hui.", "Elle porte des lunettes tous les jours.", "Qu'est-ce que tu portes au travail?"],
+      "it": ["Io indosso un vestito oggi.", "Lei indossa occhiali ogni giorno.", "Cosa indossi per lavorare?"],
+      "ru": ["Я ношу платье сегодня.", "Она носит очки каждый день.", "Что ты носишь на работу?"],
+      "es": ["Yo llevo un vestido hoy.", "Ella usa gafas cada día.", "¿Qué usas para el trabajo?"],
+      "pl": ["Ja noszę sukienkę dzisiaj.", "Ona nosi okulary codziennie.", "Co nosisz do pracy?"],
+      "fa": ["من امروز لباس می‌پوشم.", "او هر روز عینک می‌زنه.", "برای کار چی می‌پوشی؟"]
+    }
+  },
+  {
+    "id": "universal_a2_643_fr",
+    "word": "chemise",
+    "translations": {
+      "en": "shirt",
+      "de": "Hemd",
+      "ar": "قميص",
+      "fr": "chemise",
+      "it": "camicia",
+      "ru": "рубашка",
+      "es": "camisa",
+      "pl": "koszula",
+      "fa": "پیراهن"
+    },
+    "examples": {
+      "en": ["I wear a white shirt.", "This shirt is too small.", "I need a new shirt."],
+      "de": ["Ich trage ein weißes Hemd.", "Dieses Hemd ist zu klein.", "Ich brauche ein neues Hemd."],
+      "ar": ["أرتدي قميصاً أبيض.", "هذا القميص صغير جداً.", "أحتاج إلى قميص جديد."],
+      "fr": ["Je porte une chemise blanche.", "Cette chemise est trop petite.", "J'ai besoin d'une nouvelle chemise."],
+      "it": ["Io indosso una camicia bianca.", "Questa camicia è troppo piccola.", "Ho bisogno di una camicia nuova."],
+      "ru": ["Я ношу белую рубашку.", "Эта рубашка слишком маленькая.", "Мне нужна новая рубашка."],
+      "es": ["Yo llevo una camisa blanca.", "Esta camisa es demasiado pequeña.", "Yo necesito una camisa nueva."],
+      "pl": ["Ja noszę białą koszulę.", "Ta koszula jest za mała.", "Ja potrzebuję nowej koszuli."],
+      "fa": ["من یه پیراهن سفید می‌پوشم.", "این پیراهن خیلی کوچیکه.", "من به یه پیراهن جدید نیاز دارم."]
+    }
+  },
+  {
+    "id": "universal_a2_644_fr",
+    "word": "pantalon",
+    "translations": {
+      "en": "pants, trousers",
+      "de": "Hose",
+      "ar": "بنطلون",
+      "fr": "pantalon",
+      "it": "pantaloni",
+      "ru": "брюки",
+      "es": "pantalón",
+      "pl": "spodnie",
+      "fa": "شلوار"
+    },
+    "examples": {
+      "en": ["I wear black pants today.", "These pants are very comfortable.", "My pants are too long."],
+      "de": ["Ich trage heute eine schwarze Hose.", "Diese Hose ist sehr bequem.", "Meine Hose ist zu lang."],
+      "ar": ["أرتدي بنطلوناً أسود اليوم.", "هذا البنطلون مريح جداً.", "بنطلوني طويل جداً."],
+      "fr": ["Je porte un pantalon noir aujourd'hui.", "Ce pantalon est très confortable.", "Mon pantalon est trop long."],
+      "it": ["Io indosso pantaloni neri oggi.", "Questi pantaloni sono molto comodi.", "I miei pantaloni sono troppo lunghi."],
+      "ru": ["Я ношу черные брюки сегодня.", "Эти брюки очень удобные.", "Мои брюки слишком длинные."],
+      "es": ["Yo llevo un pantalón negro hoy.", "Este pantalón es muy cómodo.", "Mi pantalón es demasiado largo."],
+      "pl": ["Ja noszę czarne spodnie dzisiaj.", "Te spodnie są bardzo wygodne.", "Moje spodnie są za długie."],
+      "fa": ["من امروز شلوار مشکی پوشیدم.", "این شلوار خیلی راحته.", "شلوارم خیلی بلنده."]
+    }
+  },
+  {
+    "id": "universal_a2_645_fr",
+    "word": "robe",
+    "translations": {
+      "en": "dress",
+      "de": "Kleid",
+      "ar": "فستان",
+      "fr": "robe",
+      "it": "vestito",
+      "ru": "платье",
+      "es": "vestido",
+      "pl": "sukienka",
+      "fa": "لباس، پیراهن"
+    },
+    "examples": {
+      "en": ["I wear a beautiful dress.", "This dress is perfect for tonight.", "She buys a new dress."],
+      "de": ["Ich trage ein schönes Kleid.", "Dieses Kleid ist perfekt für heute Abend.", "Sie kauft ein neues Kleid."],
+      "ar": ["أرتدي فستاناً جميلاً.", "هذا الفستان مثالي لهذه الليلة.", "هي تشتري فستاناً جديداً."],
+      "fr": ["Je porte une belle robe.", "Cette robe est parfaite pour ce soir.", "Elle achète une nouvelle robe."],
+      "it": ["Io indosso un bel vestito.", "Questo vestito è perfetto per stasera.", "Lei compra un vestito nuovo."],
+      "ru": ["Я ношу красивое платье.", "Это платье идеально для сегодняшнего вечера.", "Она покупает новое платье."],
+      "es": ["Yo llevo un vestido hermoso.", "Este vestido es perfecto para esta noche.", "Ella compra un vestido nuevo."],
+      "pl": ["Ja noszę piękną sukienkę.", "Ta sukienka jest idealna na dziś wieczór.", "Ona kupuje nową sukienkę."],
+      "fa": ["من یه لباس قشنگ پوشیدم.", "این لباس برای امشب عالیه.", "او یه لباس جدید می‌خره."]
+    }
+  },
+  {
+    "id": "universal_a2_646_fr",
+    "word": "jupe",
+    "translations": {
+      "en": "skirt",
+      "de": "Rock",
+      "ar": "تنورة",
+      "fr": "jupe",
+      "it": "gonna",
+      "ru": "юбка",
+      "es": "falda",
+      "pl": "spódnica",
+      "fa": "دامن"
+    },
+    "examples": {
+      "en": ["I wear a long skirt.", "This skirt is very pretty.", "She has many skirts."],
+      "de": ["Ich trage einen langen Rock.", "Dieser Rock ist sehr hübsch.", "Sie hat viele Röcke."],
+      "ar": ["أرتدي تنورة طويلة.", "هذه التنورة جميلة جداً.", "لديها تنورات كثيرة."],
+      "fr": ["Je porte une jupe longue.", "Cette jupe est très jolie.", "Elle a beaucoup de jupes."],
+      "it": ["Io indosso una gonna lunga.", "Questa gonna è molto carina.", "Lei ha molte gonne."],
+      "ru": ["Я ношу длинную юбку.", "Эта юбка очень красивая.", "У нее много юбок."],
+      "es": ["Yo llevo una falda larga.", "Esta falda es muy bonita.", "Ella tiene muchas faldas."],
+      "pl": ["Ja noszę długą spódnicę.", "Ta spódnica jest bardzo ładna.", "Ona ma wiele spódnic."],
+      "fa": ["من یه دامن بلند پوشیدم.", "این دامن خیلی قشنگه.", "او دامن‌های زیادی داره."]
+    }
+  },
+  {
+    "id": "universal_a2_647_fr",
+    "word": "chaussures",
+    "translations": {
+      "en": "shoes",
+      "de": "Schuhe",
+      "ar": "أحذية",
+      "fr": "chaussures",
+      "it": "scarpe",
+      "ru": "обувь",
+      "es": "zapatos",
+      "pl": "buty",
+      "fa": "کفش"
+    },
+    "examples": {
+      "en": ["I need new shoes.", "These shoes are comfortable.", "My shoes are dirty."],
+      "de": ["Ich brauche neue Schuhe.", "Diese Schuhe sind bequem.", "Meine Schuhe sind schmutzig."],
+      "ar": ["أحتاج إلى أحذية جديدة.", "هذه الأحذية مريحة.", "أحذيتي متسخة."],
+      "fr": ["J'ai besoin de nouvelles chaussures.", "Ces chaussures sont confortables.", "Mes chaussures sont sales."],
+      "it": ["Ho bisogno di scarpe nuove.", "Queste scarpe sono comode.", "Le mie scarpe sono sporche."],
+      "ru": ["Мне нужна новая обувь.", "Эта обувь удобная.", "Моя обувь грязная."],
+      "es": ["Yo necesito zapatos nuevos.", "Estos zapatos son cómodos.", "Mis zapatos están sucios."],
+      "pl": ["Ja potrzebuję nowych butów.", "Te buty są wygodne.", "Moje buty są brudne."],
+      "fa": ["من به کفش جدید نیاز دارم.", "این کفش‌ها راحتن.", "کفشام کثیفه."]
+    }
+  },
+  {
+    "id": "universal_a2_648_fr",
+    "word": "chaussettes",
+    "translations": {
+      "en": "socks",
+      "de": "Socken",
+      "ar": "جوارب",
+      "fr": "chaussettes",
+      "it": "calzini",
+      "ru": "носки",
+      "es": "calcetines",
+      "pl": "skarpetki",
+      "fa": "جوراب"
+    },
+    "examples": {
+      "en": ["I wear white socks.", "These socks are warm.", "I need to buy socks."],
+      "de": ["Ich trage weiße Socken.", "Diese Socken sind warm.", "Ich muss Socken kaufen."],
+      "ar": ["أرتدي جوارب بيضاء.", "هذه الجوارب دافئة.", "أحتاج لشراء جوارب."],
+      "fr": ["Je porte des chaussettes blanches.", "Ces chaussettes sont chaudes.", "Je dois acheter des chaussettes."],
+      "it": ["Io indosso calzini bianchi.", "Questi calzini sono caldi.", "Devo comprare calzini."],
+      "ru": ["Я ношу белые носки.", "Эти носки теплые.", "Мне нужно купить носки."],
+      "es": ["Yo llevo calcetines blancos.", "Estos calcetines son cálidos.", "Necesito comprar calcetines."],
+      "pl": ["Ja noszę białe skarpetki.", "Te skarpetki są ciepłe.", "Muszę kupić skarpetki."],
+      "fa": ["من جوراب سفید پوشیدم.", "این جوراب‌ها گرمن.", "من باید جوراب بخرم."]
+    }
+  },
+  {
+    "id": "universal_a2_649_fr",
+    "word": "manteau",
+    "translations": {
+      "en": "coat",
+      "de": "Mantel",
+      "ar": "معطف",
+      "fr": "manteau",
+      "it": "cappotto",
+      "ru": "пальто",
+      "es": "abrigo",
+      "pl": "płaszcz",
+      "fa": "پالتو"
+    },
+    "examples": {
+      "en": ["I wear a warm coat.", "This coat is too heavy.", "I need a winter coat."],
+      "de": ["Ich trage einen warmen Mantel.", "Dieser Mantel ist zu schwer.", "Ich brauche einen Wintermantel."],
+      "ar": ["أرتدي معطفاً دافئاً.", "هذا المعطف ثقيل جداً.", "أحتاج إلى معطف شتوي."],
+      "fr": ["Je porte un manteau chaud.", "Ce manteau est trop lourd.", "J'ai besoin d'un manteau d'hiver."],
+      "it": ["Io indosso un cappotto caldo.", "Questo cappotto è troppo pesante.", "Ho bisogno di un cappotto invernale."],
+      "ru": ["Я ношу теплое пальто.", "Это пальто слишком тяжелое.", "Мне нужно зимнее пальто."],
+      "es": ["Yo llevo un abrigo cálido.", "Este abrigo es demasiado pesado.", "Necesito un abrigo de invierno."],
+      "pl": ["Ja noszę ciepły płaszcz.", "Ten płaszcz jest za ciężki.", "Potrzebuję zimowego płaszcza."],
+      "fa": ["من یه پالتوی گرم پوشیدم.", "این پالتو خیلی سنگینه.", "من به یه پالتوی زمستونی نیاز دارم."]
+    }
+  },
+  {
+    "id": "universal_a2_650_fr",
+    "word": "veste",
+    "translations": {
+      "en": "jacket",
+      "de": "Jacke",
+      "ar": "سترة",
+      "fr": "veste",
+      "it": "giacca",
+      "ru": "куртка",
+      "es": "chaqueta",
+      "pl": "kurtka",
+      "fa": "کت، ژاکت"
+    },
+    "examples": {
+      "en": ["I wear a jacket today.", "This jacket is very nice.", "Your jacket is beautiful!"],
+      "de": ["Ich trage heute eine Jacke.", "Diese Jacke ist sehr schön.", "Deine Jacke ist wunderschön!"],
+      "ar": ["أرتدي سترة اليوم.", "هذه السترة جميلة جداً.", "سترتك جميلة!"],
+      "fr": ["Je porte une veste aujourd'hui.", "Cette veste est très belle.", "Ta veste est magnifique!"],
+      "it": ["Io indosso una giacca oggi.", "Questa giacca è molto bella.", "La tua giacca è bellissima!"],
+      "ru": ["Я ношу куртку сегодня.", "Эта куртка очень красивая.", "Твоя куртка прекрасна!"],
+      "es": ["Yo llevo una chaqueta hoy.", "Esta chaqueta es muy bonita.", "¡Tu chaqueta es hermosa!"],
+      "pl": ["Ja noszę kurtkę dzisiaj.", "Ta kurtka jest bardzo ładna.", "Twoja kurtka jest piękna!"],
+      "fa": ["من امروز ژاکت پوشیدم.", "این کت خیلی قشنگه.", "کتت خیلی قشنگه!"]
+    }
+  },
+  {
+    "id": "universal_a2_651_fr",
+    "word": "chapeau",
+    "translations": {
+      "en": "hat",
+      "de": "Hut",
+      "ar": "قبعة",
+      "fr": "chapeau",
+      "it": "cappello",
+      "ru": "шляпа",
+      "es": "sombrero",
+      "pl": "kapelusz",
+      "fa": "کلاه"
+    },
+    "examples": {
+      "en": ["I wear a hat in summer.", "This hat is too big.", "I like your hat!"],
+      "de": ["Ich trage im Sommer einen Hut.", "Dieser Hut ist zu groß.", "Ich mag deinen Hut!"],
+      "ar": ["أرتدي قبعة في الصيف.", "هذه القبعة كبيرة جداً.", "أحب قبعتك!"],
+      "fr": ["Je porte un chapeau en été.", "Ce chapeau est trop grand.", "J'aime ton chapeau!"],
+      "it": ["Io indosso un cappello in estate.", "Questo cappello è troppo grande.", "Mi piace il tuo cappello!"],
+      "ru": ["Я ношу шляпу летом.", "Эта шляпа слишком большая.", "Мне нравится твоя шляпа!"],
+      "es": ["Yo llevo un sombrero en verano.", "Este sombrero es demasiado grande.", "¡Me gusta tu sombrero!"],
+      "pl": ["Ja noszę kapelusz latem.", "Ten kapelusz jest za duży.", "Lubię twój kapelusz!"],
+      "fa": ["من تابستون کلاه می‌ذارم.", "این کلاه خیلی بزرگه.", "کلاهت رو دوست دارم!"]
+    }
+  },
+  {
+    "id": "universal_a2_652_fr",
+    "word": "gants",
+    "translations": {
+      "en": "gloves",
+      "de": "Handschuhe",
+      "ar": "قفازات",
+      "fr": "gants",
+      "it": "guanti",
+      "ru": "перчатки",
+      "es": "guantes",
+      "pl": "rękawiczki",
+      "fa": "دستکش"
+    },
+    "examples": {
+      "en": ["I wear gloves in winter.", "These gloves are warm.", "I lost my gloves."],
+      "de": ["Ich trage im Winter Handschuhe.", "Diese Handschuhe sind warm.", "Ich habe meine Handschuhe verloren."],
+      "ar": ["أرتدي قفازات في الشتاء.", "هذه القفازات دافئة.", "فقدت قفازاتي."],
+      "fr": ["Je porte des gants en hiver.", "Ces gants sont chauds.", "J'ai perdu mes gants."],
+      "it": ["Io indosso guanti in inverno.", "Questi guanti sono caldi.", "Ho perso i miei guanti."],
+      "ru": ["Я ношу перчатки зимой.", "Эти перчатки теплые.", "Я потерял свои перчатки."],
+      "es": ["Yo llevo guantes en invierno.", "Estos guantes son cálidos.", "Perdí mis guantes."],
+      "pl": ["Ja noszę rękawiczki zimą.", "Te rękawiczki są ciepłe.", "Zgubiłem rękawiczki."],
+      "fa": ["من زمستون دستکش می‌پوشم.", "این دستکش‌ها گرمن.", "من دستکشم رو گم کردم."]
+    }
+  },
+  {
+    "id": "universal_a2_653_fr",
+    "word": "poche",
+    "translations": {
+      "en": "pocket",
+      "de": "Tasche",
+      "ar": "جيب",
+      "fr": "poche",
+      "it": "tasca",
+      "ru": "карман",
+      "es": "bolsillo",
+      "pl": "kieszeń",
+      "fa": "جیب"
+    },
+    "examples": {
+      "en": ["I put money in my pocket.", "This jacket has big pockets.", "My pocket is empty."],
+      "de": ["Ich stecke Geld in meine Tasche.", "Diese Jacke hat große Taschen.", "Meine Tasche ist leer."],
+      "ar": ["أضع المال في جيبي.", "هذه السترة لديها جيوب كبيرة.", "جيبي فارغ."],
+      "fr": ["Je mets de l'argent dans ma poche.", "Cette veste a de grandes poches.", "Ma poche est vide."],
+      "it": ["Io metto soldi in tasca.", "Questa giacca ha tasche grandi.", "La mia tasca è vuota."],
+      "ru": ["Я кладу деньги в карман.", "У этой куртки большие карманы.", "Мой карман пустой."],
+      "es": ["Yo pongo dinero en mi bolsillo.", "Esta chaqueta tiene bolsillos grandes.", "Mi bolsillo está vacío."],
+      "pl": ["Ja wkładam pieniądze do kieszeni.", "Ta kurtka ma duże kieszenie.", "Moja kieszeń jest pusta."],
+      "fa": ["من پول رو تو جیبم می‌ذارم.", "این کت جیب‌های بزرگی داره.", "جیبم خالیه."]
+    }
+  },
+  {
+    "id": "universal_a2_654_fr",
+    "word": "bouton",
+    "translations": {
+      "en": "button",
+      "de": "Knopf",
+      "ar": "زر",
+      "fr": "bouton",
+      "it": "bottone",
+      "ru": "пуговица",
+      "es": "botón",
+      "pl": "guzik",
+      "fa": "دکمه"
+    },
+    "examples": {
+      "en": ["I need to sew this button.", "This shirt has five buttons.", "The button is broken."],
+      "de": ["Ich muss diesen Knopf annähen.", "Dieses Hemd hat fünf Knöpfe.", "Der Knopf ist kaputt."],
+      "ar": ["أحتاج لخياطة هذا الزر.", "هذا القميص به خمسة أزرار.", "الزر مكسور."],
+      "fr": ["Je dois coudre ce bouton.", "Cette chemise a cinq boutons.", "Le bouton est cassé."],
+      "it": ["Devo cucire questo bottone.", "Questa camicia ha cinque bottoni.", "Il bottone è rotto."],
+      "ru": ["Мне нужно пришить эту пуговицу.", "На этой рубашке пять пуговиц.", "Пуговица сломана."],
+      "es": ["Necesito coser este botón.", "Esta camisa tiene cinco botones.", "El botón está roto."],
+      "pl": ["Muszę przyszyć ten guzik.", "Ta koszula ma pięć guzików.", "Guzik jest zepsuty."],
+      "fa": ["من باید این دکمه رو بدوزم.", "این پیراهن پنج تا دکمه داره.", "دکمه شکسته."]
+    }
+  },
+  {
+    "id": "universal_a2_655_fr",
+    "word": "couleur",
+    "translations": {
+      "en": "color",
+      "de": "Farbe",
+      "ar": "لون",
+      "fr": "couleur",
+      "it": "colore",
+      "ru": "цвет",
+      "es": "color",
+      "pl": "kolor",
+      "fa": "رنگ"
+    },
+    "examples": {
+      "en": ["What color do you like?", "I love bright colors.", "This color is beautiful!"],
+      "de": ["Welche Farbe magst du?", "Ich liebe helle Farben.", "Diese Farbe ist wunderschön!"],
+      "ar": ["ما اللون الذي تحبه؟", "أحب الألوان الزاهية.", "هذا اللون جميل!"],
+      "fr": ["Quelle couleur aimes-tu?", "J'aime les couleurs vives.", "Cette couleur est magnifique!"],
+      "it": ["Quale colore ti piace?", "Io amo i colori vivaci.", "Questo colore è bellissimo!"],
+      "ru": ["Какой цвет тебе нравится?", "Я люблю яркие цвета.", "Этот цвет прекрасный!"],
+      "es": ["¿Qué color te gusta?", "Yo amo los colores brillantes.", "¡Este color es hermoso!"],
+      "pl": ["Jaki kolor lubisz?", "Ja kocham jasne kolory.", "Ten kolor jest piękny!"],
+      "fa": ["کدوم رنگ رو دوست داری؟", "من عاشق رنگ‌های روشنم.", "این رنگ خیلی قشنگه!"]
+    }
+  },
+  {
+    "id": "universal_a2_656_fr",
+    "word": "rouge",
+    "translations": {
+      "en": "red",
+      "de": "rot",
+      "ar": "أحمر",
+      "fr": "rouge",
+      "it": "rosso",
+      "ru": "красный",
+      "es": "rojo",
+      "pl": "czerwony",
+      "fa": "قرمز"
+    },
+    "examples": {
+      "en": ["I wear a red dress.", "The apple is red.", "Red is my favorite color."],
+      "de": ["Ich trage ein rotes Kleid.", "Der Apfel ist rot.", "Rot ist meine Lieblingsfarbe."],
+      "ar": ["أرتدي فستاناً أحمر.", "التفاحة حمراء.", "الأحمر هو لوني المفضل."],
+      "fr": ["Je porte une robe rouge.", "La pomme est rouge.", "Le rouge est ma couleur préférée."],
+      "it": ["Io indosso un vestito rosso.", "La mela è rossa.", "Il rosso è il mio colore preferito."],
+      "ru": ["Я ношу красное платье.", "Яблоко красное.", "Красный - мой любимый цвет."],
+      "es": ["Yo llevo un vestido rojo.", "La manzana es roja.", "El rojo es mi color favorito."],
+      "pl": ["Ja noszę czerwoną sukienkę.", "Jabłko jest czerwone.", "Czerwony jest moim ulubionym kolorem."],
+      "fa": ["من یه لباس قرمز پوشیدم.", "سیب قرمزه.", "قرمز رنگ مورد علاقه منه."]
+    }
+  },
+  {
+    "id": "universal_a2_657_fr",
+    "word": "bleu",
+    "translations": {
+      "en": "blue",
+      "de": "blau",
+      "ar": "أزرق",
+      "fr": "bleu",
+      "it": "blu",
+      "ru": "синий",
+      "es": "azul",
+      "pl": "niebieski",
+      "fa": "آبی"
+    },
+    "examples": {
+      "en": ["The sky is blue.", "I wear blue jeans.", "Blue is a beautiful color."],
+      "de": ["Der Himmel ist blau.", "Ich trage blaue Jeans.", "Blau ist eine schöne Farbe."],
+      "ar": ["السماء زرقاء.", "أرتدي جينز أزرق.", "الأزرق لون جميل."],
+      "fr": ["Le ciel est bleu.", "Je porte un jean bleu.", "Le bleu est une belle couleur."],
+      "it": ["Il cielo è blu.", "Io indosso jeans blu.", "Il blu è un bel colore."],
+      "ru": ["Небо синее.", "Я ношу синие джинсы.", "Синий - красивый цвет."],
+      "es": ["El cielo es azul.", "Yo llevo jeans azules.", "El azul es un color hermoso."],
+      "pl": ["Niebo jest niebieskie.", "Ja noszę niebieskie dżinsy.", "Niebieski jest pięknym kolorem."],
+      "fa": ["آسمون آبیه.", "من شلوار جین آبی پوشیدم.", "آبی یه رنگ قشنگیه."]
+    }
+  },
+  {
+    "id": "universal_a2_658_fr",
+    "word": "vert",
+    "translations": {
+      "en": "green",
+      "de": "grün",
+      "ar": "أخضر",
+      "fr": "vert",
+      "it": "verde",
+      "ru": "зеленый",
+      "es": "verde",
+      "pl": "zielony",
+      "fa": "سبز"
+    },
+    "examples": {
+      "en": ["The grass is green.", "I like green vegetables.", "Green is a fresh color."],
+      "de": ["Das Gras ist grün.", "Ich mag grünes Gemüse.", "Grün ist eine frische Farbe."],
+      "ar": ["العشب أخضر.", "أحب الخضروات الخضراء.", "الأخضر لون منعش."],
+      "fr": ["L'herbe est verte.", "J'aime les légumes verts.", "Le vert est une couleur fraîche."],
+      "it": ["L'erba è verde.", "Mi piacciono le verdure verdi.", "Il verde è un colore fresco."],
+      "ru": ["Трава зеленая.", "Я люблю зеленые овощи.", "Зеленый - свежий цвет."],
+      "es": ["La hierba es verde.", "Me gustan las verduras verdes.", "El verde es un color fresco."],
+      "pl": ["Trawa jest zielona.", "Ja lubię zielone warzywa.", "Zielony jest świeżym kolorem."],
+      "fa": ["چمن سبزه.", "من سبزیجات سبز رو دوست دارم.", "سبز یه رنگ تازه‌ست."]
+    }
+  },
+  {
+    "id": "universal_a2_659_fr",
+    "word": "jaune",
+    "translations": {
+      "en": "yellow",
+      "de": "gelb",
+      "ar": "أصفر",
+      "fr": "jaune",
+      "it": "giallo",
+      "ru": "желтый",
+      "es": "amarillo",
+      "pl": "żółty",
+      "fa": "زرد"
+    },
+    "examples": {
+      "en": ["The sun is yellow.", "I wear a yellow shirt.", "Yellow is a bright color."],
+      "de": ["Die Sonne ist gelb.", "Ich trage ein gelbes Hemd.", "Gelb ist eine helle Farbe."],
+      "ar": ["الشمس صفراء.", "أرتدي قميصاً أصفر.", "الأصفر لون ساطع."],
+      "fr": ["Le soleil est jaune.", "Je porte une chemise jaune.", "Le jaune est une couleur vive."],
+      "it": ["Il sole è giallo.", "Io indosso una camicia gialla.", "Il giallo è un colore brillante."],
+      "ru": ["Солнце желтое.", "Я ношу желтую рубашку.", "Желтый - яркий цвет."],
+      "es": ["El sol es amarillo.", "Yo llevo una camisa amarilla.", "El amarillo es un color brillante."],
+      "pl": ["Słońce jest żółte.", "Ja noszę żółtą koszulę.", "Żółty jest jasnym kolorem."],
+      "fa": ["خورشید زرده.", "من یه پیراهن زرد پوشیدم.", "زرد یه رنگ روشنه."]
+    }
+  },
+  {
+    "id": "universal_a2_660_fr",
+    "word": "noir",
+    "translations": {
+      "en": "black",
+      "de": "schwarz",
+      "ar": "أسود",
+      "fr": "noir",
+      "it": "nero",
+      "ru": "черный",
+      "es": "negro",
+      "pl": "czarny",
+      "fa": "سیاه"
+    },
+    "examples": {
+      "en": ["I wear black shoes.", "The night is black.", "Black is a classic color."],
+      "de": ["Ich trage schwarze Schuhe.", "Die Nacht ist schwarz.", "Schwarz ist eine klassische Farbe."],
+      "ar": ["أرتدي أحذية سوداء.", "الليل أسود.", "الأسود لون كلاسيكي."],
+      "fr": ["Je porte des chaussures noires.", "La nuit est noire.", "Le noir est une couleur classique."],
+      "it": ["Io indosso scarpe nere.", "La notte è nera.", "Il nero è un colore classico."],
+      "ru": ["Я ношу черные туфли.", "Ночь черная.", "Черный - классический цвет."],
+      "es": ["Yo llevo zapatos negros.", "La noche es negra.", "El negro es un color clásico."],
+      "pl": ["Ja noszę czarne buty.", "Noc jest czarna.", "Czarny jest klasy
+
+cznym kolorem."],
+      "fa": ["من کفش مشکی پوشیدم.", "شب سیاهه.", "مشکی یه رنگ کلاسیکه."]
+    }
+  }
+]
